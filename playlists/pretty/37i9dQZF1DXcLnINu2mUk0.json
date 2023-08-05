@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Slow J.",
-  "num_followers": 36497,
+  "num_followers": 36543,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWMzMzRmOGMxYzRmOTc4NjIzYTA1ODhhODRlYTdjNGRhNjFmYzEz",
+  "snapshot_id": "MCw1OWY2NDZmODQ0M2Y4OTI2MjY3OWQxNjMxOTM1OGU2Y2IxZTdlNzRh",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -571,22 +571,26 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Essa Saia",
-        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/5d7DGxDhoMuCwSuLpremAd"
       },
       "artists": [
         {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
         },
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
         }
       ],
-      "duration_ms": 209069,
-      "name": "Essa Saia",
-      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
+      "duration_ms": 194295,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/2WhXmta31SYoJm7xMCmMWN"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -623,26 +627,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Sola",
-        "url": "https://open.spotify.com/album/5d7DGxDhoMuCwSuLpremAd"
+        "name": "Essa Saia",
+        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
       },
       "artists": [
         {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
         },
         {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Soge Culebra",
-          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 194295,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/2WhXmta31SYoJm7xMCmMWN"
+      "duration_ms": 209069,
+      "name": "Essa Saia",
+      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Fica Pra Depois",
-        "url": "https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog"
-      },
-      "artists": [
-        {
-          "name": "Yang",
-          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Fica Pra Depois",
-      "url": "https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/3CU34m1I3EBP0Tq7lOIlTH"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 152470,
       "name": "Linda",
       "url": "https://open.spotify.com/track/6efl1kQkelA67zwWlFINd0"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Fica Pra Depois",
+        "url": "https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog"
+      },
+      "artists": [
+        {
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Fica Pra Depois",
+      "url": "https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "N\u00e3o Me Leves a Mal",
-        "url": "https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP"
-      },
-      "artists": [
-        {
-          "name": "Yang",
-          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
-        }
-      ],
-      "duration_ms": 240763,
-      "name": "N\u00e3o Me Leves a Mal",
-      "url": "https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Low Battery",
         "url": "https://open.spotify.com/album/7MAZwo9FGDXWR98xQk8hov"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 228000,
       "name": "Fazer-te sonhar",
       "url": "https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "N\u00e3o Me Leves a Mal",
+        "url": "https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP"
+      },
+      "artists": [
+        {
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+        }
+      ],
+      "duration_ms": 240763,
+      "name": "N\u00e3o Me Leves a Mal",
+      "url": "https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG"
     },
     {
       "added_at": "2023-08-03 23:00:00",

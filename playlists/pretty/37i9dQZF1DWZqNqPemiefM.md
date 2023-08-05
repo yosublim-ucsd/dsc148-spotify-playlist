@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,672 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,759 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 32 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 |
 | 33 | [Last Days](https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7) | [Yasushi Yoshida](https://open.spotify.com/artist/2u5s5wxfNszaIZwWknh3eB) | [Heavenly Me Last Days](https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm) | 9:59 |
 | 34 | [Love is a personal thing](https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:13 |
-| 35 | [Monotony](https://open.spotify.com/track/09V60XC2fnZQ69LY6saLt1) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 8:22 |
-| 36 | [Images Of Broken Light](https://open.spotify.com/track/3VGOjz1kIkGcGohvArNO2u) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Saunter](https://open.spotify.com/album/7ynXCf2JnfnpyQe6QGeEn2) | 8:29 |
+| 35 | [Images Of Broken Light](https://open.spotify.com/track/3VGOjz1kIkGcGohvArNO2u) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Saunter](https://open.spotify.com/album/7ynXCf2JnfnpyQe6QGeEn2) | 8:29 |
+| 36 | [Monotony](https://open.spotify.com/track/09V60XC2fnZQ69LY6saLt1) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 8:22 |
 | 37 | [Blink](https://open.spotify.com/track/7d26IhLPUlL4oncFgsms22) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 4:42 |
 | 38 | [Light Dance](https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [How My Heart Sings](https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg) | 4:49 |
 | 39 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 49 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 |
 | 50 | [Stratum](https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [FRKWYS Vol\. 15: serenitatem](https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP) | 7:11 |
 
-Snapshot ID: `MCxlMDQ1Y2NkMTY3ZGVhMDVmNzM3YTk0MzY4YWJlZmEzNWU3OTUzMzNj`
+Snapshot ID: `MCwxMjhmYzJhYWNhMTVhMThiZTZiMDFjYWU2NjI0ZGVlMGNmZjI0ZjI1`

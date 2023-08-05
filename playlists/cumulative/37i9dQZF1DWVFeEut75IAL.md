@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-111 songs - 6 hr 52 min
+112 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [3 Pieces in Old Style: No\. 1\. Aria](https://open.spotify.com/track/2cnCYr5QgPJG0OJqYY4DGF) | [Krzysztof Penderecki](https://open.spotify.com/artist/0qEO82Hj3SvjoNyEfKpRku), [Warsaw Philharmonic Chamber Orchestra](https://open.spotify.com/artist/3HoZrSziC8MiELPaOJNDqh), [Antoni Wit](https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh) | [Penderecki: Sinfoniettas \- Oboe Capriccio](https://open.spotify.com/album/5vxlxBQQkkzP0Voa3gFFOu) | 2:13 | 2022-01-25 |  |
 | [3 Spirituals for Orchestra: No\. 2\. Kum Bab Yah](https://open.spotify.com/track/6y1FgcqMY76hCk9qLxUuy4) | [Adolphus Hailstork](https://open.spotify.com/artist/3z8CWLkgblFxhhDrPMfAZC), [Virginia Symphony Orchestra](https://open.spotify.com/artist/0KITXSblhUOftKpIno4cL9), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK) | [Hailstork: Orchestral Music](https://open.spotify.com/album/0aTrZGatAonxNcilMeXZ59) | 2:50 | 2021-11-15 |  |
 | [3 Visions: No\. 2, Summerland](https://open.spotify.com/track/1XJMRdFSgkrmw2cXLJOD0b) | [William Grant Still](https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA), [Bruce Levingston](https://open.spotify.com/artist/7wJT2nMGzUmQQLSIHbDaXU) | [Citizen](https://open.spotify.com/album/6CynnUMIeho0HuHG8EFDKE) | 4:53 | 2021-11-15 |  |
+| [4 Lieder, Op\. 27, TrV 170: No\. 4, Morgen! \(Arr\. Reger\)](https://open.spotify.com/track/1YHB1xwXPgCkuGjQ0prNdb) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Angela Hewitt](https://open.spotify.com/artist/3KtQFp8FUbQMx3bLNKCw3R) | [Love Songs \- Piano Transcriptions Without Words](https://open.spotify.com/album/16zfntcR7VAJWn9Ovooo1w) | 3:52 | 2023-08-04 |  |
 | [4 Sketches, Op\. 15: No\. 3\. Dreaming \(arr\. for cello and piano\)](https://open.spotify.com/track/3QI3LjBqsB4tuaDgR2jOyU) | [Amy Beach](https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB), [Ambache Chamber Ensemble](https://open.spotify.com/artist/115sIYHpYEni4d76B5n0hJ) | [Beach: Violin Sonata in A Minor / String Quartet, Op\. 89 / Pastorale for Woodwind Quintet / Dreaming](https://open.spotify.com/album/3zztj6MelhRZ65KGyw7Aiz) | 6:15 | 2022-01-26 | 2022-08-02 |
 | [6 Encores for Piano \(1965\): No\. 3, Wasserklavier](https://open.spotify.com/track/0RnF44RV45by9HTtZuttgl) | [Luciano Berio](https://open.spotify.com/artist/5M1ZBrPeHjV8y3qFKnq7hO), [Marino Formenti](https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB) | [Liszt Inspections](https://open.spotify.com/album/0HOOCAPfWkh6e24UQLkok5) | 2:19 | 2022-11-18 |  |
 | [6 Encores for Piano: No\. 3, Wasserklavier](https://open.spotify.com/track/07tKTXpTwZhseOKcmzCv6D) | [Marino Formenti](https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB) | [LISZT INSPECTIONS](https://open.spotify.com/album/26tmVV1dFkaftPXyMrRABC) | 2:19 | 2022-07-22 | 2023-01-04 |

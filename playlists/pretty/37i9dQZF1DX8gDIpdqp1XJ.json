@@ -1,13 +1,29 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 881970,
+  "num_followers": 881995,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWI2ODg4MjdhYzU2ZDQ3NWZjMjI0NWMzMzFkZTY3ZWVmMmIwMmJj",
+  "snapshot_id": "MCxhNmRhYWQ3ZWZlZmFiYjE5ODk0ZjY5YTVlY2RjMWVmZGYyYTkwZjdm",
   "tracks": [
+    {
+      "added_at": "2023-08-04 08:13:00",
+      "album": {
+        "name": "The Tall Grass",
+        "url": "https://open.spotify.com/album/0o3ArcqSCSZNaiqtGdY4II"
+      },
+      "artists": [
+        {
+          "name": "Hooveriii",
+          "url": "https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7"
+        }
+      ],
+      "duration_ms": 188642,
+      "name": "The Tall Grass",
+      "url": "https://open.spotify.com/track/7FEyrgusWFHTNtg4tLTvtb"
+    },
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/2SsuEPUj0bM64zQkJTkiwY"
     },
     {
+      "added_at": "2023-08-04 08:13:00",
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/5jtOLGuMV0eYTHJptwgI1D"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 268659,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/6rjxyDTlJCGqo1XQ6vrq5R"
+    },
+    {
       "added_at": "2023-07-13 18:11:20",
       "album": {
         "name": "Wagging Tongue (Remixes)",
@@ -91,6 +123,30 @@
       "duration_ms": 136697,
       "name": "The Great American Picnic",
       "url": "https://open.spotify.com/track/48AgoVXugpMSwRm9eAiKEj"
+    },
+    {
+      "added_at": "2023-08-04 08:13:00",
+      "album": {
+        "name": "Guessing While It Goes Around",
+        "url": "https://open.spotify.com/album/7jqA39Gz2vCY2KSFj26nJt"
+      },
+      "artists": [
+        {
+          "name": "Dream Sitch",
+          "url": "https://open.spotify.com/artist/3AZpyYJGXnWdPPwrGniSdF"
+        },
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        },
+        {
+          "name": "Floating Action",
+          "url": "https://open.spotify.com/artist/01Ru0hfWYNVxQHtFkvYY7r"
+        }
+      ],
+      "duration_ms": 165388,
+      "name": "Guessing While It Goes Around",
+      "url": "https://open.spotify.com/track/5IY9ZUB04G80DMD5SJEXvK"
     },
     {
       "added_at": "2023-06-30 07:33:00",
@@ -155,6 +211,22 @@
       "duration_ms": 152251,
       "name": "Jump in the Fire",
       "url": "https://open.spotify.com/track/4Usf6Bt5q6yZt0co9tPt0n"
+    },
+    {
+      "added_at": "2023-08-04 08:13:00",
+      "album": {
+        "name": "Since August",
+        "url": "https://open.spotify.com/album/4VQYpmg1K5PHZvKnsRGRN9"
+      },
+      "artists": [
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        }
+      ],
+      "duration_ms": 175190,
+      "name": "Since August",
+      "url": "https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y"
     },
     {
       "added_at": "2023-06-30 07:33:00",
@@ -1603,78 +1675,6 @@
       "duration_ms": 170991,
       "name": "2 Steppin'",
       "url": "https://open.spotify.com/track/4cbV9dRnFNNsfc5B6RAbLX"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Prefecture",
-        "url": "https://open.spotify.com/album/61TiECWYYs43V3B1oVRU69"
-      },
-      "artists": [
-        {
-          "name": "The Bright Light Social Hour",
-          "url": "https://open.spotify.com/artist/7oIZ8VPQ688hUQ3dQ4y6rD"
-        }
-      ],
-      "duration_ms": 329000,
-      "name": "Prefecture",
-      "url": "https://open.spotify.com/track/2mgaWlD0SH2B87EMftqqEL"
-    },
-    {
-      "added_at": "2023-03-06 15:29:49",
-      "album": {
-        "name": "Technicolor Love (feat. redveil)",
-        "url": "https://open.spotify.com/album/4HTdrR3aylcEuJQlyuH6Pn"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        },
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        }
-      ],
-      "duration_ms": 194029,
-      "name": "Technicolor Love (feat. redveil)",
-      "url": "https://open.spotify.com/track/4qzulXfoTGX3FBqsW4AzRF"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/4tgaAuPBaVEPbUStoUNFSd"
-      },
-      "artists": [
-        {
-          "name": "Future Utopia",
-          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
-        },
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/1ZvUKEzJM4s4LyPhj70oaP"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "No Ties",
-        "url": "https://open.spotify.com/album/6kRjmdctxNWgLm0x5Sj7Xw"
-      },
-      "artists": [
-        {
-          "name": "Swimm",
-          "url": "https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX"
-        }
-      ],
-      "duration_ms": 217483,
-      "name": "No Ties",
-      "url": "https://open.spotify.com/track/0a15Ha6ZMnjSiw15ySklwZ"
     }
   ],
   "unique_name": "Modern Psychedelia",

@@ -2,7 +2,7 @@
 
 ### [Malayalam Indie](https://open.spotify.com/playlist/37i9dQZF1DX1UloYFdbD8M)
 
-> Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sithara Krishnakumar
+> Super Cool Indie Tracks from Gods Own Country<br/>Cover: Job Kurian
 
 101 songs - 7 hr 6 min
 

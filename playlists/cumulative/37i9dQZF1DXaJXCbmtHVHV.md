@@ -4,7 +4,7 @@
 
 > Top country hits you know and love! Cover: Jordan Davis
 
-245 songs - 13 hr 14 min
+246 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Looking for You](https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Looking for You + All Dogs Go to Heaven](https://open.spotify.com/album/1Z9asNGoCrbamQYIoR9Q6j) | 2:59 | 2023-02-03 |  |
 | [Love Is Real](https://open.spotify.com/track/73gI9hHi8wKYyNvoHFmH9C) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [The Country And The Coast Side A](https://open.spotify.com/album/1ElweYFwJ8U3meh38gMa8R) | 2:42 | 2021-12-28 | 2022-01-04 |
 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 | 2022-05-03 | 2022-10-02 |
+| [Love You a Little Bit](https://open.spotify.com/track/0isqpzdmr2hsKb50uBSCdo) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/5bWiVnH44bQQ4zeN0ozz5W) | 3:30 | 2023-08-04 |  |
 | [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 | 2023-05-12 |  |
 | [Made](https://open.spotify.com/track/4G644pINN0ZYIxyqeyuT4b) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Made](https://open.spotify.com/album/4h4ZmlKntuJzWox0Ci3Q0i) | 3:15 | 2022-07-15 | 2022-08-13 |
 | [Make It Past Georgia](https://open.spotify.com/track/2jt5TmTYrmdr46cGHrcFjq) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Make It Past Georgia](https://open.spotify.com/album/7z68pYfdYT9aRs15woSgh1) | 3:21 | 2022-07-15 | 2022-07-29 |
@@ -215,7 +216,7 @@
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 | 2021-12-28 | 2022-07-29 |
 | [Thought You Should Know](https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Thought You Should Know](https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i) | 3:35 | 2022-11-25 |  |
 | [To Be Loved By You](https://open.spotify.com/track/5Ykc3Wr4L4wef5QDdaaxM7) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [To Be Loved By You](https://open.spotify.com/album/6Vtd35xUUyiFApy5kFdqVu) | 3:18 | 2021-12-28 | 2023-01-06 |
-| [Trouble With A Heartbreak](https://open.spotify.com/track/3HO30hRbkOLU6ZWERayfQO) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 3:16 | 2022-07-22 |  |
+| [Trouble With A Heartbreak](https://open.spotify.com/track/3HO30hRbkOLU6ZWERayfQO) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 3:16 | 2022-07-22 | 2023-08-05 |
 | [Trouble With A Heartbreak](https://open.spotify.com/track/4lSNyiHil3tuiwtvEpN1qq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Trouble With A Heartbreak](https://open.spotify.com/album/3hs2Iakgld3yGrrcJSpg28) | 3:16 | 2022-01-24 | 2022-07-29 |
 | [Truth About You](https://open.spotify.com/track/4Qum1kECNQrpREev5fvAQ4) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Truth About You](https://open.spotify.com/album/3XoK5Dz1cSeeRi5bbO2Gbt) | 3:23 | 2022-02-21 | 2023-06-11 |
 | [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 | 2023-01-06 | 2023-02-11 |

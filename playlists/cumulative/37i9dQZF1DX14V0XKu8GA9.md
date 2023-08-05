@@ -4,7 +4,7 @@
 
 > The wave of Latinos in Hip\-Hop from the U.S.
 
-297 songs - 14 hr 6 min
+298 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [Luxury](https://open.spotify.com/track/0FnhQbH04B0ggo5wDLrI3f) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Luxury](https://open.spotify.com/album/2VSnuN5CTwP363r7yf7aOh) | 3:45 | 2022-01-10 | 2022-03-16 |
 | [Mama Slide](https://open.spotify.com/track/7IKykKPdhGtFpyO8YI14Ka) | [3res](https://open.spotify.com/artist/34PcmRe3AF0bKQk2SHFkjw) | [Mama Slide](https://open.spotify.com/album/5jIhuDFM76a2vxMsFyBWig) | 3:29 | 2022-01-10 | 2022-02-26 |
 | [Mama Tried \(feat\. Stalker Loco & Lil Traieso\)](https://open.spotify.com/track/3orEJ1s4SVseJeF0QvtgME) | [Lil Grifo](https://open.spotify.com/artist/6RRNtl4tqMCz2vXm33vdIk), [Stalker Loco](https://open.spotify.com/artist/05vy1h2VRDdELI3LiUES1G), [Lil Traieso](https://open.spotify.com/artist/0X6nd8GCWluXAFwoPPqjmq) | [Mama Tried \(feat\. Stalker Loco & Lil Traieso\)](https://open.spotify.com/album/3Sa29iHHfd8sCf1kSNPkWE) | 4:48 | 2022-01-10 | 2022-07-07 |
-| [Mane](https://open.spotify.com/track/6rYIwEwzrWiI1C2COpCzcI) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE), [OMB Bloodbath](https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3) | [Mane](https://open.spotify.com/album/1h6SyoolhqDulQnaKuWGQI) | 4:02 | 2023-07-28 |  |
+| [Mane](https://open.spotify.com/track/39RnyIYjaiXUOVz2WLkHMc) | [Daylow Dev](https://open.spotify.com/artist/6zlqA18xsUxPkfKqiO9nt5), [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE), [OMB Bloodbath](https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3) | [Mane](https://open.spotify.com/album/4ryE9bZrJ9dgZBba0v8zJg) | 4:02 | 2023-07-28 |  |
+| [Mane](https://open.spotify.com/track/6rYIwEwzrWiI1C2COpCzcI) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE), [OMB Bloodbath](https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3) | [Mane](https://open.spotify.com/album/1h6SyoolhqDulQnaKuWGQI) | 4:02 | 2023-07-28 | 2023-08-05 |
 | [Millions](https://open.spotify.com/track/01TeqS09tyiJpwnvBzBzX2) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Millions](https://open.spotify.com/album/6cBp4U7HfSCtDNsI6pKYEL) | 2:28 | 2022-09-11 | 2023-01-28 |
 | [Minding My Business](https://open.spotify.com/track/7d8G85NDTSNaAtIlYJxsbv) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co) | [4\-Pack Fridays, Vol\. 3](https://open.spotify.com/album/0USm0ZdHwNFnTbEvNwRfmH) | 2:42 | 2022-01-10 | 2022-09-12 |
 | [MISAWA \)](https://open.spotify.com/track/6tsdStu2dRwRTVIurMi3Nr) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL) | [MISAWA \)](https://open.spotify.com/album/6bbs4aTcWo5P5a4jvbAQZT) | 3:51 | 2023-03-10 |  |

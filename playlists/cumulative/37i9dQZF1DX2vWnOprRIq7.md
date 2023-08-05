@@ -2,14 +2,15 @@
 
 ### [NEÓN](https://open.spotify.com/playlist/37i9dQZF1DX2vWnOprRIq7)
 
-> El lado fluorescente del indie latino featuring Rubio.
+> El lado fluorescente del indie latino featuring La Femme D'Argent.
 
-163 songs - 9 hr 48 min
+165 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 | 2023-04-07 |  |
 | [@CLOSEFRIENDS](https://open.spotify.com/track/6Fx5kFcfK0ttt4RlN8dJUU) | [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH), [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [CASI ANGELES <3](https://open.spotify.com/album/3vi4ZvttJXaVu4wZVwr3Qd) | 3:45 | 2023-04-21 |  |
+| [A Veces No Da](https://open.spotify.com/track/4oSj4VDcYCjt74sswuw7Ou) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [A Veces No Da](https://open.spotify.com/album/6pWQ8icbcWlDOSmrPA6XC5) | 3:14 | 2023-08-04 |  |
 | [Aburrido ;\(](https://open.spotify.com/track/4pJ4Ts3yrQypjpMx6xxNEB) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo), [Michelle Anzo](https://open.spotify.com/artist/7fF7CiFel3ggkgm1tDIgvb) | [Aburrido](https://open.spotify.com/album/6JhBiY6sjJ60AcY9sapS5B) | 2:58 | 2023-03-17 |  |
 | [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 | 2023-05-05 |  |
 | [ACAPULCO GOLD](https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH) | [ACAPULCO GOLD](https://open.spotify.com/album/6uNd8ONIK8m3CBHlOcSv7x) | 2:58 | 2023-03-17 | 2023-05-20 |
@@ -105,10 +106,11 @@
 | [MKM R<3MIX: Diego Tuñon \- Remix](https://open.spotify.com/track/48c7CFxW1GtA1OA5ybFgDc) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht), [Tuta Torres](https://open.spotify.com/artist/11nDvnfr08aAoSybUjhtZG), [Diego Tuñon](https://open.spotify.com/artist/2rICJWPmeSbx2iqiQH5e6o) | [MKM R<3MIX: Diego Tuñon \(Remix\)](https://open.spotify.com/album/1wcSYByfdjdLzbUuSmNvEJ) | 4:19 | 2023-05-12 |  |
 | [Modernos](https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [Modernos](https://open.spotify.com/album/3fWV46dBC3QBaVNa241fO0) | 4:13 | 2023-05-26 |  |
 | [Moto](https://open.spotify.com/track/1AeMG2TNofR1A8xoJ7Nl5O) | [Las Preguntas](https://open.spotify.com/artist/7sFSNryNgWCJTI1Vao95LP), [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Estrellas, Piernas y Serpientes](https://open.spotify.com/album/4ji5kipvo6MkhrjVAdboZl) | 3:27 | 2023-07-07 |  |
+| [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 | 2023-08-04 |  |
 | [My Way](https://open.spotify.com/track/3UayvXfu3vC36Kzea4uxhT) | [Vera Nois](https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG) | [Musicaland](https://open.spotify.com/album/4qD8Iomhwn77qqlhpXlBwD) | 3:35 | 2023-03-17 | 2023-04-22 |
 | [MÍO](https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [MÍO](https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP) | 3:37 | 2023-03-17 |  |
 | [Nadie+](https://open.spotify.com/track/4Hc0J63unKggiHSpP47tXw) | [Alfonsina](https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k), [R.L.G](https://open.spotify.com/artist/5To36hmLSdEjhfoakePQra) | [Nadie+](https://open.spotify.com/album/5bpk7x7dhCGetRY2onJA1X) | 2:22 | 2023-04-07 |  |
-| [Nana para Mamá](https://open.spotify.com/track/3cDmq6mlgFWbRybIE3WiSi) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Sin Prisa No Quiero Morir](https://open.spotify.com/album/7D8yX9HULFDEVTxG4GPM01) | 5:33 | 2023-03-17 |  |
+| [Nana para Mamá](https://open.spotify.com/track/3cDmq6mlgFWbRybIE3WiSi) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Sin Prisa No Quiero Morir](https://open.spotify.com/album/7D8yX9HULFDEVTxG4GPM01) | 5:33 | 2023-03-17 | 2023-08-05 |
 | [New Age](https://open.spotify.com/track/1xjZUL0oSuUlRSpcoMYNU1) | [Electrochongo](https://open.spotify.com/artist/0ASM7GbGMFULTR94GOUXfM), [Divina Encarnacion](https://open.spotify.com/artist/1ACEllXdXoaFfZQ5QfVoqQ) | [New Age](https://open.spotify.com/album/6MznziDW8N5JMxV9DTerlS) | 3:09 | 2023-03-17 | 2023-04-22 |
 | [Nina](https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:36 | 2023-03-17 |  |
 | [NO TE KIERO OLVIDAR](https://open.spotify.com/track/5TN61Kn0bOxKKVYOGH5BuX) | [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ) | [Solitario](https://open.spotify.com/album/1tassNYSKM3abtcpONTpMq) | 3:28 | 2023-03-17 |  |
@@ -134,7 +136,7 @@
 | [Qué piensas hacer sin mi amor?](https://open.spotify.com/track/7DmiI9NJnb00JVMMpMkz52) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Qué piensas hacer sin mi amor?](https://open.spotify.com/album/34szsLNF2Nr5i9E2j9v40h) | 4:08 | 2023-03-17 |  |
 | [Random No](https://open.spotify.com/track/37ldNgdC4zuG8Ibd5y00rA) | [Tani](https://open.spotify.com/artist/2L37ilKeNfoAADHEwH2Gf0) | [Random No](https://open.spotify.com/album/320ZKz7o0fTv8uMyBaIs7k) | 3:25 | 2023-03-17 | 2023-06-03 |
 | [Recuerdo Infinito](https://open.spotify.com/track/79a6afRQ6sanoByoTyonnj) | [Christian Jean](https://open.spotify.com/artist/2Fmp7ynBi1C038SEpA4EOL) | [Recuerdo Infinito](https://open.spotify.com/album/2GZVbuaafLfHwTPalStIfP) | 4:53 | 2023-03-17 | 2023-07-08 |
-| [San Menace](https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX) | [Pao Pestana](https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53) | [San Menace](https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW) | 3:13 | 2023-04-14 |  |
+| [San Menace](https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX) | [Pao Pestana](https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53) | [San Menace](https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW) | 3:13 | 2023-04-14 | 2023-08-05 |
 | [Saturno](https://open.spotify.com/track/62AxB4BpSqAhbBEdcBOrpD) | [Charlie](https://open.spotify.com/artist/2l9jciSGE6MJ4Ez7Tc9ryr) | [Cráneo](https://open.spotify.com/album/0LduVR7QbZX5tsuZ6aEg4c) | 3:20 | 2023-04-21 | 2023-07-22 |
 | [Secreto a Voces](https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c) | [Juan Baro](https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI), [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Secreto a Voces](https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7) | 3:51 | 2023-05-12 |  |
 | [Sed](https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:26 | 2023-03-17 |  |

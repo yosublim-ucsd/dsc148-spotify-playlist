@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,053 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,124 likes - 106 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,5 +93,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 83 | [Oh Yeah](https://open.spotify.com/track/44IX8SM0fEWApOGlhUGAFc) | [Yello](https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi) | [Essential](https://open.spotify.com/album/2X923YDUN9MTWJ1vS4atnB) | 3:06 |
 | 84 | [Run Wild](https://open.spotify.com/track/5cOG0SW6hwUYfenLpMMy5J) | [REIMS](https://open.spotify.com/artist/3sbhS05fQerlXJSubVoIbX) | [Riot](https://open.spotify.com/album/1DJdcGOOjXzXmHIuKYJ3qz) | 3:10 |
 | 85 | [I Take What I Want](https://open.spotify.com/track/2Q3hZl6kpZDvoMMsAfHnKd) | [Unions](https://open.spotify.com/artist/7MwboFnNvHagUzots37Pbm) | [I Take What I Want](https://open.spotify.com/album/53NZ67lMM531VrhPCx0roC) | 3:58 |
+| 86 | [Kissing Strangers](https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Kissing Strangers](https://open.spotify.com/album/7FkWQV6ym8OMXBebTRI30R) | 3:22 |
+| 87 | [Waterfall](https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi) | 3:52 |
+| 88 | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu) | 3:34 |
+| 89 | [All the Way Over](https://open.spotify.com/track/0AGAaQYL0QtGqQCEvHnqZx) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [All The Way Over](https://open.spotify.com/album/4zzRDfFoxSdriNk7cBAE20) | 3:08 |
+| 90 | [Changing](https://open.spotify.com/track/1LrYRj1iFsm9QJ72YqPTLY) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Life \(Deluxe\)](https://open.spotify.com/album/44OSVbfmYeai7d1Euvqwpx) | 3:25 |
+| 91 | [One Way or Another](https://open.spotify.com/track/1UqPSXP83svSI8WOVc3M1l) | [Angelique Calvillo](https://open.spotify.com/artist/5RPYAoC8ZtP8dm2ePU2w2u) | [One Way or Another](https://open.spotify.com/album/2W7JbnSV3pRaMUwcDzVBjp) | 3:34 |
+| 92 | [Welcome To The War](https://open.spotify.com/track/796kVXVlfWwMyleQEAul6g) | [7kingZ](https://open.spotify.com/artist/2lYNHrkuZrcJVgagIlyaTA) | [REIGN](https://open.spotify.com/album/6hPCPq0eRRmeUYAJrCxdwv) | 2:59 |
+| 93 | [Into the Fire \- Epic Remix](https://open.spotify.com/track/4tnAdb6j4VmofALhNg3pAF) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB), [Lloren](https://open.spotify.com/artist/6BXnCNvWCmFRvlMazWAomB) | [Into the Void](https://open.spotify.com/album/7wmldruCmKUo47qqIzw6oO) | 3:11 |
+| 94 | [I Get to Love You](https://open.spotify.com/track/3CV4lFELdziNM1OnHU8nwz) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [I Get to Love You](https://open.spotify.com/album/1HsdgBRnsxFPpt3HjknZEP) | 3:59 |
+| 95 | [Reasons to Leave](https://open.spotify.com/track/0dhMGnSEi6yQOvsMylbHt8) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Reasons to Leave](https://open.spotify.com/album/59Lx5ksL9Ve77Ped7a43Ob) | 2:45 |
+| 96 | [Coffee Cake](https://open.spotify.com/track/31XxRxQ4g4mVkHoJwhCJ5z) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:06 |
+| 97 | [Ready Set Go](https://open.spotify.com/track/50VwpSCb2Y0xGETCKIn6bp) | [Danger Twins](https://open.spotify.com/artist/1YuielWiKfNC5Mh2GizHSO) | [This Is New](https://open.spotify.com/album/6mKRLZ5KiEOklwdmj14vUc) | 2:08 |
+| 98 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 |
+| 99 | [Mad World](https://open.spotify.com/track/3U9wo9NiVTNsZ8S72fClcN) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Mad World](https://open.spotify.com/album/6zKC2L2FSp5a47ld7xFeRm) | 4:15 |
+| 100 | [Skin on Skin](https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e) | 3:03 |
+| 101 | [Good](https://open.spotify.com/track/7sRdxkgNb3m3Ciai38ANmd) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1) | [How To Talk To Strangers](https://open.spotify.com/album/2OQRvCNt3r4fO1MSBNbPQW) | 2:49 |
+| 102 | [Clothes Off \(feat\. Mila Falls\)](https://open.spotify.com/track/5VLaiT9N1OBmf2xt0Nkfwa) | [Alex Ross](https://open.spotify.com/artist/5pK858DFAWCmE2tM4jZxYC), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Clothes Off \(feat\. Mila Falls\)](https://open.spotify.com/album/5ZvLMCyNgYYP53VCmE5GHy) | 2:47 |
+| 103 | [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 |
+| 104 | [Tattoos](https://open.spotify.com/track/4JbUI6AoGibHGsHN77aSws) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Tattoos](https://open.spotify.com/album/1KFTkdRgqz47SR6F9B1UwJ) | 2:53 |
+| 105 | [Make Up Your Mind](https://open.spotify.com/track/4NqhfRxoukTiA0jDQunGLf) | [Midnight Village](https://open.spotify.com/artist/4KyftSDuIf2Y4HuvxqztUb) | [Make Up Your Mind](https://open.spotify.com/album/23uo9icx2jPNdhyLOAaTP4) | 4:20 |
+| 106 | [Mad](https://open.spotify.com/track/7IUtD2X4mt2PMotBFM6uoL) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [AFFIRMATIONS](https://open.spotify.com/album/6qrsaSHCzscquJnDmEhs3m) | 2:44 |
 
-Snapshot ID: `MCwzZDk0M2RiNjk2ZDhjN2QyZWY0ZTljMzQxMGUyNzE5MTVkYWUzZTJj`
+Snapshot ID: `MCw4ZDE0Y2Q3ZWIwNzhhOTQzZWFiMWU1ZGUyMWI0YzNhMDgxYWVkYmJj`

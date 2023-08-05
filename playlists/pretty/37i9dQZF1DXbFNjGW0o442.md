@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Barbi Recanati
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,220 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,230 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 56 | [Lobo](https://open.spotify.com/track/6EPUMzPlw1YN4kAS70ZGG3) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Misterio Relampago](https://open.spotify.com/album/0UROaOt7Si4YueNp1gVnDg) | 3:28 |
 | 57 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 |
 | 58 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 |
-| 59 | [No Te Perdono](https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [No Te Perdono](https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0) | 3:23 |
-| 60 | [Feliz en Mi Soledad](https://open.spotify.com/track/0z2HgqzzE3E14yAnnJ8rnx) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Raices de Pasión](https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5) | 2:07 |
+| 59 | [Feliz en Mi Soledad](https://open.spotify.com/track/0z2HgqzzE3E14yAnnJ8rnx) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Raices de Pasión](https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5) | 2:07 |
+| 60 | [No Te Perdono](https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [No Te Perdono](https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0) | 3:23 |
 | 61 | [En Toneles](https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 4:06 |
 | 62 | [Postales Blancas](https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Tigre Ulli](https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU) | 2:07 |
 | 63 | [Somos 2](https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Somos 2](https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p) | 2:32 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 88 | [Unfuckable](https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:52 |
 | 89 | [Flores Sobre las Piedras](https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ) | [Carla Rivarola](https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK) | [Flores Sobre las Piedras](https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n) | 5:02 |
 | 90 | [Esquizofrenia](https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Esquizofrenia](https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD) | 3:08 |
-| 91 | [Morirían](https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Hora de No Ver](https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR) | 3:11 |
-| 92 | [Todo Se Está Cayendo](https://open.spotify.com/track/2on6Uws8Ku8izt4Kb1PYG8) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Todo Se Está Cayendo](https://open.spotify.com/album/1B60TuVtUl7PPsrWbuOAn6) | 4:15 |
+| 91 | [Todo Se Está Cayendo](https://open.spotify.com/track/2on6Uws8Ku8izt4Kb1PYG8) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Todo Se Está Cayendo](https://open.spotify.com/album/1B60TuVtUl7PPsrWbuOAn6) | 4:15 |
+| 92 | [Morirían](https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Hora de No Ver](https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR) | 3:11 |
 | 93 | [Suave](https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Suave](https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ) | 3:23 |
 | 94 | [Atasco](https://open.spotify.com/track/7hIpozpqki8Lnpu2WwsQ86) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Atasco](https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr) | 3:46 |
-| 95 | [Éxodo Mental](https://open.spotify.com/track/0kjtwZybKdX5uXK1qCHojD) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Éxodo Mental](https://open.spotify.com/album/3m9ywZHKa2Zj2uldZ4s3CO) | 3:16 |
-| 96 | [Mujer Contra Mujer](https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk) | [Sandra Y Celeste](https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H) | [Mujer Contra Mujer](https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX) | 3:49 |
+| 95 | [Mujer Contra Mujer](https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk) | [Sandra Y Celeste](https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H) | [Mujer Contra Mujer](https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX) | 3:49 |
+| 96 | [Éxodo Mental](https://open.spotify.com/track/0kjtwZybKdX5uXK1qCHojD) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Éxodo Mental](https://open.spotify.com/album/3m9ywZHKa2Zj2uldZ4s3CO) | 3:16 |
 | 97 | [Cuando el sol está así](https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Cuando el sol está así](https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8) | 3:50 |
 | 98 | [Volar despierto](https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9) | [Denise Romano](https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx) | [Volar despierto](https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR) | 4:06 |
 | 99 | [Somos](https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr) | [Las Fokin Biches](https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa) | [Somos](https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik) | 3:00 |
 | 100 | [La Luz](https://open.spotify.com/track/6htVnNXldV7pX7hiyAdXwr) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Rompe Paga](https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB) | 2:35 |
 
-Snapshot ID: `MCxmMDlkZmE0ZTRhOGNiODIyYThiODZlZmEwZjY0Nzk1YmI1MDZjNTUy`
+Snapshot ID: `MCwyZjk1ZGQwYjEyZDVkZGM4YzkwNGU2ZDI5OWFjZmE1Mzk4ZmUxNWM0`

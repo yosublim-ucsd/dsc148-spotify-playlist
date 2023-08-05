@@ -1,12 +1,12 @@
 {
   "description": "Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.",
-  "num_followers": 422451,
+  "num_followers": 422476,
   "original_name": "Rainy Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTRmZTNjZWQwOTRkZmJhMjUyNDY2ZjlmMzg5ZWMwMjYwNTc4NjE1",
+  "snapshot_id": "MCxlZGZmZGIwM2YxNWI0NmNmYjI0NmUwNThhMzAxZTQ5NWE2NTQ3ODg0",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
-        "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
-      },
-      "artists": [
-        {
-          "name": "Lera Lynn",
-          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
-      "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Foreign Hands",
         "url": "https://open.spotify.com/album/6oTCa6W5yA3Cpc1O9koVe3"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 258651,
       "name": "Foreign Hands",
       "url": "https://open.spotify.com/track/0XKWjAqbWePqtCwFM2P46P"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
+        "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
+      },
+      "artists": [
+        {
+          "name": "Lera Lynn",
+          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
+      "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
     },
     {
       "added_at": "2023-06-09 04:00:00",

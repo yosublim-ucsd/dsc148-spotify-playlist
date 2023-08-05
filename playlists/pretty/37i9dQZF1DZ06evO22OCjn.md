@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,784 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,987 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 42 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 |
 | 43 | [Tomorrow](https://open.spotify.com/track/2eG4u4LHx1LpNjokkvsNmn) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Gamble](https://open.spotify.com/album/2qhCjeSlCUR3EeSceXNWbo) | 3:22 |
 | 44 | [Bank On It](https://open.spotify.com/track/5jqh2kAjz4GxjOS3HHSz17) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 4:36 |
-| 45 | [Sekkle Down \(feat\. J Hus\)](https://open.spotify.com/track/1ffHMFXSsQ2E9he6SL3uLT) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:08 |
-| 46 | [Afrikan Star](https://open.spotify.com/track/1bd9EG9MpRYYR6cmbkMRhF) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Afrikan Sauce](https://open.spotify.com/album/6kn9tgw5ktETOGSdwEJI9F) | 3:14 |
+| 45 | [Afrikan Star](https://open.spotify.com/track/1bd9EG9MpRYYR6cmbkMRhF) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Afrikan Sauce](https://open.spotify.com/album/6kn9tgw5ktETOGSdwEJI9F) | 3:14 |
+| 46 | [Sekkle Down \(feat\. J Hus\)](https://open.spotify.com/track/1ffHMFXSsQ2E9he6SL3uLT) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:08 |
 | 47 | [Soke](https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [On A Spaceship](https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev) | 3:38 |
 | 48 | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/track/163l4xzEe3JAfPbv0kYNQo) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/album/0QOalrk1Kbdbt6p38FgBdA) | 2:48 |
 | 49 | [Enjoy Yourself \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/6QzkbRRLWTEcFE0NyOX1Dt) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:17 |
 | 50 | [Rotate](https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rotate](https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX) | 3:21 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDAxNDUwZGM0NzE5N2E0NTczNjc0MDI0OGQ5MTRmYmYxMA==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDA2Zjk5OWIwN2M0ZmM4MjIzYWY1ZDdmNzVmYTg5NmJmNQ==`

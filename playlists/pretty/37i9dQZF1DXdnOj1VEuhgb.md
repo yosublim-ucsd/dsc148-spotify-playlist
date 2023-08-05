@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Ati242
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,270,219 likes - 49 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,270,839 likes - 49 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 48 | [GELMEZSEN GELME](https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:33 |
 | 49 | [Kalbin bana kaldı](https://open.spotify.com/track/55Tf67DiltMLjOY6A25s3J) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Kalbin bana kaldı](https://open.spotify.com/album/16Zm67RcCCbtUDd1RrD8qW) | 2:24 |
 
-Snapshot ID: `MCxmNGE2ZDFlZTMwNDc5MDc2MjNjYzBmYmY1ODMyZTliNWE2NTNmMDcz`
+Snapshot ID: `MCxmNTgzMDBlYjlhYjQyZmE1ZDVhNGFjMTBiMTZkZDEyNTcyZjg1MjNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > Soothing, soft piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,590 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,636 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 17 | [Infinity](https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Sonic Apothecary](https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb) | 7:28 |
 | 18 | [Nightfall](https://open.spotify.com/track/3hy3BLtI2pYAGZOjNvg8Hy) | [Michael Lavigne](https://open.spotify.com/artist/1WzXXEpMoYGcwJbHPCUeXH) | [Nightfall](https://open.spotify.com/album/5z98Le17wsSnniPu0n3a0P) | 2:22 |
 | 19 | [Reflections](https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Reflections](https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX) | 1:50 |
-| 20 | [Chichiro](https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Chichiro](https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx) | 1:49 |
-| 21 | [The New Life](https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The New Life](https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb) | 2:18 |
+| 20 | [The New Life](https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The New Life](https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb) | 2:18 |
+| 21 | [Chichiro](https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Chichiro](https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx) | 1:49 |
 | 22 | [Starry Sky](https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Starry Sky](https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe) | 2:20 |
 | 23 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 |
 | 24 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 |
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 45 | [Nocturnes op.4](https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.4](https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT) | 2:51 |
 | 46 | [Daybreak](https://open.spotify.com/track/6Xq1rE2hfjSMSK5mTpfzb6) | [Elias Braun](https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8), [Arash Sanee](https://open.spotify.com/artist/5e1mVc0tKg6XL7bSHRdBSa) | [Daybreak](https://open.spotify.com/album/79Dz2veZjjtnOFMNOHMKFl) | 1:42 |
 | 47 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 5:13 |
-| 48 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 |
-| 49 | [campfire](https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [campfire](https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9) | 3:06 |
+| 48 | [campfire](https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [campfire](https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9) | 3:06 |
+| 49 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 |
 | 50 | [Beneath the Crystal Veil](https://open.spotify.com/track/6BCLePB0VnQFPJzywUI5NA) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Beneath the Crystal Veil](https://open.spotify.com/album/5I8aud98hM9NxJbHTAp3yB) | 2:33 |
-| 51 | [Embrace Me](https://open.spotify.com/track/4XcCAB5G21D6BZzobQBZMw) | [Carin Florie](https://open.spotify.com/artist/3C44BudashQHdoz23fsob9) | [Embrace Me](https://open.spotify.com/album/4YXJXGBIA9TZpMBPgoewGt) | 2:36 |
-| 52 | [Okra](https://open.spotify.com/track/1so7IJIPEpxEFefMYGa0ia) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Okra](https://open.spotify.com/album/0AccCIBENIOeBoUfMioz12) | 3:13 |
+| 51 | [Okra](https://open.spotify.com/track/1so7IJIPEpxEFefMYGa0ia) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Okra](https://open.spotify.com/album/0AccCIBENIOeBoUfMioz12) | 3:13 |
+| 52 | [Embrace Me](https://open.spotify.com/track/4XcCAB5G21D6BZzobQBZMw) | [Carin Florie](https://open.spotify.com/artist/3C44BudashQHdoz23fsob9) | [Embrace Me](https://open.spotify.com/album/4YXJXGBIA9TZpMBPgoewGt) | 2:36 |
 | 53 | [Clement](https://open.spotify.com/track/7eItBb98RqIZQ8QZPS6GcM) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Clement](https://open.spotify.com/album/7w0J5NX4rFSoNXCPAIns2A) | 2:27 |
 | 54 | [Embers](https://open.spotify.com/track/6RjTKFwiZfTrkBJXmCiNym) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Embers](https://open.spotify.com/album/7qrMjy81QY0mY6lj6jGcbn) | 2:37 |
 | 55 | [Tristes](https://open.spotify.com/track/3mhJ85EkR5J6pf7F4lP4DU) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Veluwe Suite](https://open.spotify.com/album/6tI8scAMHf4Gicv6LWliBB) | 2:44 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 64 | [poetry in touch](https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8) | 2:10 |
 | 65 | [Numéro 1](https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 1](https://open.spotify.com/album/2FD6tNq2lHhx57hK0q1X35) | 2:34 |
 | 66 | [Breathe](https://open.spotify.com/track/40DJUBObiPR4yQGuMUqZNQ) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Breathe](https://open.spotify.com/album/19b9C2sQ0WGntW7vFAGrwO) | 2:32 |
-| 67 | [night walk](https://open.spotify.com/track/1oq5u7bxL6yVbHH47HL8L9) | [Vontmer](https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI) | [night walk](https://open.spotify.com/album/1WqmYrix98Qy3k6N4IWbDK) | 3:14 |
-| 68 | [Song For Katie](https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Song For Katie](https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ) | 2:26 |
+| 67 | [Song For Katie](https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Song For Katie](https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ) | 2:26 |
+| 68 | [night walk](https://open.spotify.com/track/1oq5u7bxL6yVbHH47HL8L9) | [Vontmer](https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI) | [night walk](https://open.spotify.com/album/1WqmYrix98Qy3k6N4IWbDK) | 3:14 |
 | 69 | [Mirror](https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Mirror](https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU) | 3:00 |
 | 70 | [Bells](https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Bells](https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB) | 3:21 |
 | 71 | [Sleepwalk](https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Sleepwalk](https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron) | 3:54 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 76 | [Sway](https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sway](https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo) | 2:21 |
 | 77 | [how we sleep](https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP) | 3:02 |
 | 78 | [Anona](https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [The Lost](https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT) | 3:27 |
-| 79 | [Leaves and Light](https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [The Window](https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu) | 2:20 |
-| 80 | [I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations \(on 11 pianos\)](https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO) | 4:33 |
+| 79 | [I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations \(on 11 pianos\)](https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO) | 4:33 |
+| 80 | [Leaves and Light](https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [The Window](https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu) | 2:20 |
 
-Snapshot ID: `MCxkM2UwZWI4NDFmN2Q5ZGYzODlhNDY3MjYyNjFlOGE2Y2I0YTNiMDM4`
+Snapshot ID: `MCw2MDk4NThmZjQyZWNiNzEyMDYzYzk1MWU2OGEwZmY1OTVkM2QyODVk`

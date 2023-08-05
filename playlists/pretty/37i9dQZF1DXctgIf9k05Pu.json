@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 237603,
+  "num_followers": 237684,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjFhY2IxNTM4MjE3YmYyODkzYzlhMjIwZGM0YzVlNzcyY2IxNWQy",
+  "snapshot_id": "MCw1NDc5NzEzZGVmNTM1ZmQ5OGQwNDMxODkyMDNjZDg5NGNiZDFhNmVj",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Buena Vista",
+        "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 99996,
+      "name": "Sakura Trees",
+      "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Buena Vista",
-        "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 99996,
-      "name": "Sakura Trees",
-      "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "How Are You",
         "url": "https://open.spotify.com/album/5CzE7H2HSJCRNj4qNHIoly"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 127137,
       "name": "Cut My Hair",
       "url": "https://open.spotify.com/track/3DYZKxjG8SZrWpVcoUilqQ"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "lovesick",
-        "url": "https://open.spotify.com/album/6m0DGPzcCmuFwuqguhcAVg"
-      },
-      "artists": [
-        {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "lovesick",
-      "url": "https://open.spotify.com/track/1aPsdtJUgzeryfKppuYFGA"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -579,22 +563,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Gravity Falls",
-        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
-      },
-      "artists": [
-        {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Gravity Falls",
-      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "unexpected",
         "url": "https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ"
       },
@@ -611,18 +579,18 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
+        "name": "Gravity Falls",
+        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
       },
       "artists": [
         {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
         }
       ],
-      "duration_ms": 180601,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk"
+      "duration_ms": 114000,
+      "name": "Gravity Falls",
+      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -639,6 +607,22 @@
       "duration_ms": 91504,
       "name": "Monday Loop",
       "url": "https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 180601,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -871,6 +855,22 @@
       "duration_ms": 158435,
       "name": "Aesthetic",
       "url": "https://open.spotify.com/track/5nQfC1vjISMUlstveJG7Ge"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Aesthetic Girl",
+        "url": "https://open.spotify.com/album/3QgMgH7PvDaVyRCwjrSJOX"
+      },
+      "artists": [
+        {
+          "name": "Yusei",
+          "url": "https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv"
+        }
+      ],
+      "duration_ms": 258144,
+      "name": "Aesthetic Girl",
+      "url": "https://open.spotify.com/track/0bCgcTDkZ1RhguEeuUhZ9k"
     }
   ],
   "unique_name": "Aesthetic Lofi",

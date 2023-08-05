@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,132 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 44 | [Granper Sorti Diego](https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv) | [Bigg Frankii](https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya) | [ZENFAN LAKAZ TOL](https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR) | 5:01 |
 | 45 | [To Kontan Koze](https://open.spotify.com/track/1kJAI7Qd3v25lsfHWr5Lxr) | [Zotsa](https://open.spotify.com/artist/0vkxsGGUsyNJBxLQcavGr8) | [Revival](https://open.spotify.com/album/0BUWn7vu3qy8aaq3pyhqpd) | 3:33 |
 | 46 | [Janvier](https://open.spotify.com/track/7ghFwRDUHXJjYHS9dr0zJ2) | [Andy Janvier](https://open.spotify.com/artist/2BKTbLVNXHa47v0BjuQZvS) | [Coulèr Mélanzé](https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB) | 4:06 |
-| 47 | [Anita\-Papa / Creole\-Barè](https://open.spotify.com/track/5j5DHnAYh4qN7r7wkocP7a) | [Denis Azor](https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf) | [Music from Mauritius](https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3) | 6:10 |
-| 48 | [SA FAM LA](https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6) | [Demaiko](https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD) | [SA FAM LA](https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb) | 3:35 |
+| 47 | [SA FAM LA](https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6) | [Demaiko](https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD) | [SA FAM LA](https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb) | 3:35 |
+| 48 | [Anita\-Papa / Creole\-Barè](https://open.spotify.com/track/5j5DHnAYh4qN7r7wkocP7a) | [Denis Azor](https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf) | [Music from Mauritius](https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3) | 6:10 |
 | 49 | [Touletemp \(feat\. Sista Queen\)](https://open.spotify.com/track/1fx4MLYw7whk15f4dvhqpX) | [Jah Mike](https://open.spotify.com/artist/5feVIF1cBHjeTWCFFVivoH), [Sista Queen](https://open.spotify.com/artist/7cI26ISQuWm0h8rlYL1so8) | [Enn lot kouler](https://open.spotify.com/album/3j1W3VSJEYDOJIK4V8RQok) | 3:57 |
 | 50 | [Pop Soul Sega](https://open.spotify.com/track/7CTdKdYu5sGpzmKBl2Ixdj) | [Ti L'Afrique](https://open.spotify.com/artist/7psU4qxB98jFalXz3seXsX) | [Moris Zekler: Fuzz & Soul Sega from 70's Mauritius](https://open.spotify.com/album/5jSShrhgr5xkYNsXJMxOx9) | 4:12 |
 
-Snapshot ID: `MCw2MzFiZDY1Nzc1OTIyZWQ4ODlmMDE4ZDhjYTkyNzQ1ZmEwNmY4MmFl`
+Snapshot ID: `MCwzZTEzNzg3NzNmNGRmNWRkMWVjNWFiMmU5MGVhZjgyYThhNGEyOTc0`

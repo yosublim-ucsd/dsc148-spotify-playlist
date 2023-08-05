@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "My Remedy",
+        "url": "https://open.spotify.com/album/22sRGaHEabLIFZkcPHu3r0"
+      },
+      "artists": [
+        {
+          "name": "Missy Armstrong",
+          "url": "https://open.spotify.com/artist/6ysW5iTGPo3hoq29T2BjJs"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138946,
+      "name": "Creeping Round My Cabin",
+      "url": "https://open.spotify.com/track/4aKozQLYvFFBQ4PfaBxacs"
+    },
+    {
+      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -986,6 +1004,28 @@
       "duration_ms": 131248,
       "name": "Night Singing",
       "url": "https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9"
+    },
+    {
+      "album": {
+        "name": "Nothing to Lose",
+        "url": "https://open.spotify.com/album/23PBI8ewt7XwbFK59azoiC"
+      },
+      "artists": [
+        {
+          "name": "Olivia Jo",
+          "url": "https://open.spotify.com/artist/7EtlrfGDlCMzJNKHCYUepA"
+        },
+        {
+          "name": "Lou Reid",
+          "url": "https://open.spotify.com/artist/6pLbG63bQVlbOyZGb8ldd6"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218644,
+      "name": "Nothing to Lose",
+      "url": "https://open.spotify.com/track/3rX3s25gWhcG47YOWJsDhe"
     },
     {
       "album": {

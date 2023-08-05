@@ -1,12 +1,12 @@
 {
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from Travis Scott, Ice Spice, Lil Uzi Vert, Nasty C, Dave, J Hus and more",
-  "num_followers": 74316,
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from Doja Cat, Travis Scott, Ice Spice, Lil Uzi Vert, Nasty C, Dave, J Hus and more",
+  "num_followers": 74570,
   "original_name": "JumpOff",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDYxNDczYThhY2EwODVhNTE2NzJjYjAwNzBjNzdmZTk3NzE1ZmRk",
+  "snapshot_id": "MCxmMWU4ZjZiMzYzN2U4MDVhZTRkZTZlMmE3MGU1MGRiNDBlMzc1NTc3",
   "tracks": [
     {
       "added_at": "2023-07-28 05:54:23",
@@ -31,18 +31,34 @@
     {
       "added_at": "2023-07-28 05:54:23",
       "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 126857,
-      "name": "Deli",
-      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2023-08-04 06:13:37",
+      "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
       "added_at": "2023-07-28 05:54:23",
@@ -63,18 +79,18 @@
     {
       "added_at": "2023-07-28 05:54:23",
       "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+      "duration_ms": 126857,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
     },
     {
       "added_at": "2023-07-28 05:54:23",
@@ -169,20 +185,24 @@
       "url": "https://open.spotify.com/track/2sOj9vyd6yiss9W1IK6chU"
     },
     {
-      "added_at": "2023-07-28 05:54:23",
+      "added_at": "2023-08-04 06:13:37",
       "album": {
-        "name": "Crazy Crazy",
-        "url": "https://open.spotify.com/album/5xcyDur11wVKjYcyEBYWx9"
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 152368,
-      "name": "Crazy Crazy",
-      "url": "https://open.spotify.com/track/65AOgeFv8iH4G4UT5xlqgZ"
+      "duration_ms": 185333,
+      "name": "Oh U Went (feat. Drake)",
+      "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
     },
     {
       "added_at": "2023-07-28 05:54:23",
@@ -203,6 +223,22 @@
       "duration_ms": 252069,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
+    },
+    {
+      "added_at": "2023-07-28 05:54:23",
+      "album": {
+        "name": "Crazy Crazy",
+        "url": "https://open.spotify.com/album/5xcyDur11wVKjYcyEBYWx9"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 152368,
+      "name": "Crazy Crazy",
+      "url": "https://open.spotify.com/track/65AOgeFv8iH4G4UT5xlqgZ"
     },
     {
       "added_at": "2023-07-28 05:54:23",
@@ -247,6 +283,22 @@
     {
       "added_at": "2023-07-28 05:54:23",
       "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "PUFFIN ON ZOOTIEZ",
+      "url": "https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi"
+    },
+    {
+      "added_at": "2023-07-28 05:54:23",
+      "album": {
         "name": "Beautiful And Brutal Yard",
         "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
       },
@@ -263,6 +315,22 @@
       "duration_ms": 203000,
       "name": "Cream (feat. CB)",
       "url": "https://open.spotify.com/track/7viEq8U0GgZf3v5m4BON3c"
+    },
+    {
+      "added_at": "2023-07-28 05:54:23",
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "NEW MAGIC WAND",
+      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
     },
     {
       "added_at": "2023-07-28 05:54:23",
@@ -287,54 +355,22 @@
     {
       "added_at": "2023-07-28 05:54:23",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+        "name": "SlimeBall 2",
+        "url": "https://open.spotify.com/album/6PRXKEq952eaaJWMUGNx5t"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "PUFFIN ON ZOOTIEZ",
-      "url": "https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi"
-    },
-    {
-      "added_at": "2023-07-28 05:54:23",
-      "album": {
-        "name": "IGOR",
-        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "NEW MAGIC WAND",
-      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
-    },
-    {
-      "added_at": "2023-07-28 05:54:23",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
         },
         {
           "name": "21 Savage",
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 239359,
-      "name": "Rich Flex",
-      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+      "duration_ms": 227175,
+      "name": "EA (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s"
     },
     {
       "added_at": "2023-07-28 05:54:23",
@@ -359,26 +395,6 @@
       "duration_ms": 165066,
       "name": "Bubbly (with Drake & Travis Scott)",
       "url": "https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui"
-    },
-    {
-      "added_at": "2023-07-28 05:54:23",
-      "album": {
-        "name": "SlimeBall 2",
-        "url": "https://open.spotify.com/album/6PRXKEq952eaaJWMUGNx5t"
-      },
-      "artists": [
-        {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 227175,
-      "name": "EA (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s"
     },
     {
       "added_at": "2023-07-28 05:54:23",
@@ -415,6 +431,22 @@
     {
       "added_at": "2023-07-28 05:54:23",
       "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 113292,
+      "name": "They Don't Love It",
+      "url": "https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe"
+    },
+    {
+      "added_at": "2023-07-28 05:54:23",
+      "album": {
         "name": "Toxic Trait",
         "url": "https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S"
       },
@@ -435,6 +467,26 @@
     {
       "added_at": "2023-07-28 05:54:23",
       "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+    },
+    {
+      "added_at": "2023-07-28 05:54:23",
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/6MKGuZlTv1ECBhjJ5AvrFl"
       },
@@ -447,22 +499,6 @@
       "duration_ms": 160519,
       "name": "Healing",
       "url": "https://open.spotify.com/track/1l40rYTK1jU4OMpSK6BwD0"
-    },
-    {
-      "added_at": "2023-07-28 05:54:23",
-      "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 113292,
-      "name": "They Don't Love It",
-      "url": "https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe"
     },
     {
       "added_at": "2023-07-28 05:54:23",
@@ -855,22 +891,6 @@
     {
       "added_at": "2023-07-28 05:54:23",
       "album": {
-        "name": "Red Ruby Da Sleeze",
-        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 214445,
-      "name": "Red Ruby Da Sleeze",
-      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
-    },
-    {
-      "added_at": "2023-07-28 05:54:23",
-      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -947,30 +967,6 @@
       "duration_ms": 163139,
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
-    },
-    {
-      "added_at": "2023-07-28 05:54:23",
-      "album": {
-        "name": "FAST X (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        }
-      ],
-      "duration_ms": 167812,
-      "name": "Spinnin' (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/4Kgy1BDA6IM9ahZNrYbCZq"
     }
   ],
   "unique_name": "JumpOff",

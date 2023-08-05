@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/officialcoodieandchike/">Coodie & Chike</a>
 
-56 songs - 4 hr 17 min
+57 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Make Yours a Happy Home](https://open.spotify.com/track/2T3i0zEma9oEZMENvnc1vG) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Claudine \(Original Soundtrack\)](https://open.spotify.com/album/3X3OfEnE7AN9qN5XMvNTzV) | 4:33 | 2022-10-01 |  |
 | [Mary Jane](https://open.spotify.com/track/0Rqcf7GwEOIFg5VFMNIzHF) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [The Untouchable](https://open.spotify.com/album/0yEbGVnKvWj4B85rzExJmF) | 4:41 | 2022-10-01 |  |
 | [My Life](https://open.spotify.com/track/6SewmCOPNkvNo4OLsW8yhc) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life \(Deluxe / Commentary Edition\)](https://open.spotify.com/album/7tonSDqVXTichuMnlS8TbO) | 4:17 | 2022-10-01 |  |
-| [Nakamarra \(feat\. Q\-Tip\)](https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ) | 4:35 | 2022-10-01 |  |
+| [Nakamarra](https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo) | 4:35 | 2022-10-01 |  |
+| [Nakamarra \(feat\. Q\-Tip\)](https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ) | 4:35 | 2022-10-01 | 2023-08-05 |
 | [Never Let Me Down](https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [J\. Ivy](https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 5:24 | 2022-10-01 |  |
 | [No One in the World \(New Orleans Bounce\)](https://open.spotify.com/track/3nVH3JISreuuJqVF10qKa5) | [DJ Aktright](https://open.spotify.com/artist/7DjBdzcugkf6XrW7G3dyhB) | [New Orleans Bounce Essentials, Vol\. 1](https://open.spotify.com/album/1ErFP5RZYuAr6OcwyYPmqn) | 3:23 | 2022-10-01 |  |
 | [No Room in the Limo](https://open.spotify.com/track/4WbK3e9uLSFXuZSUzzsDMn) | [Project Mayhem](https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl) | [Middle America](https://open.spotify.com/album/2OtKj14wexL3GezWDdbro6) | 3:50 | 2022-10-01 | 2022-10-30 |

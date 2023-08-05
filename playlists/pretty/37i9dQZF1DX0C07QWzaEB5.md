@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,824 likes - 122 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,830 likes - 122 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 73 | [City girl](https://open.spotify.com/track/2kRm4IYFPvg5knhriMdTEJ) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [Homemade Love Story \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6gLrXf0gEMIKqHRk7xEht1) | 3:27 |
 | 74 | [We're Cool \(with PARKMOONCHI UNIVERSE\)](https://open.spotify.com/track/0lgJiwoJ4G7WsqbGjHaK99) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [PARKMOONCHI UNIVERSE](https://open.spotify.com/artist/4MifTc2uigW2QDJODF2Erk) | [We're Cool \(with PARKMOONCHI UNIVERSE\)](https://open.spotify.com/album/6DPxcUrUw0YZ2o25nJ47D7) | 3:53 |
 | 75 | [Initial S](https://open.spotify.com/track/7I8y3zAkJxmQEQTU4YR8pl) | [Sori](https://open.spotify.com/artist/27L28cNkMJsYKs8Xyuhmd9) | [Initial S](https://open.spotify.com/album/0Vi25uxqxAx3Uif4yCFd8l) | 3:03 |
-| 76 | [soyongdol\-i \(Feat\. JINBO the SuperFreak\)](https://open.spotify.com/track/0RqRGO6LJXN7Xlf7CBKNRE) | [Kriz](https://open.spotify.com/artist/0gRsw676mIkWWAT1zdAHXb), [JINBO](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [soyongdol\-i](https://open.spotify.com/album/7DIVGBK6VoL0Dex6Y8jP7s) | 3:08 |
+| 76 | [soyongdol\-i \(Feat\. JINBO the SuperFreak\)](https://open.spotify.com/track/0RqRGO6LJXN7Xlf7CBKNRE) | [Kriz](https://open.spotify.com/artist/0gRsw676mIkWWAT1zdAHXb), [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [soyongdol\-i](https://open.spotify.com/album/7DIVGBK6VoL0Dex6Y8jP7s) | 3:08 |
 | 77 | [SUMMER LOVE…](https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [SUMMER LOVE…](https://open.spotify.com/album/08PiCTIK798erEd7joIO7d) | 4:10 |
 | 78 | [오늘 조금 취해서 그래](https://open.spotify.com/track/1pU5SijPp89lNrZHJL0166) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [오늘 조금 취해서 그래](https://open.spotify.com/album/6QpIl0FPITcpoJTn5HP4vD) | 2:45 |
 | 79 | [BLIND FOR LOVE \- Nu Disco Mix](https://open.spotify.com/track/6swEE23x1DdAufXul8fI7M) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:50 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 121 | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Wonwoo](https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f) | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc) | 4:13 |
 | 122 | [On & On](https://open.spotify.com/track/4gphGdxKYkg5keaBePEet7) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Club 33](https://open.spotify.com/album/2GgEeiYUeDvspIUSdi8fdu) | 3:00 |
 
-Snapshot ID: `MCxkOWUzMzZiZjExMmU2MmQ2MTE5NmY2ZDZhNDhhYmIxYzQyODQyNjcz`
+Snapshot ID: `MCw5ODk0MGYwMmNjYTAyNWEyN2Q4OWI4MzI2YjBjMDZhOTZkZjQ3ODU3`

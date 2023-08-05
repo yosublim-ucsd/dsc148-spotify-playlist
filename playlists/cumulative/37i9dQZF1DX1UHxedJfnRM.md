@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Tito Nieves, Gilberto Santa Rosa
 
-136 songs - 10 hr 6 min
+137 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Fuera](https://open.spotify.com/track/34QE9OSoB5EMflRXe6n0uo) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Empezando Otra Vez](https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK) | 5:05 | 2022-05-27 | 2022-11-11 |
 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 | 2022-05-13 |  |
 | [Hablame de Ti](https://open.spotify.com/track/7eCE1RHUfuYQUJEBAoIGK7) | [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [Hablame de Ti](https://open.spotify.com/album/1gOzjKHK9YBiKQWz87rxhB) | 4:30 | 2022-05-13 |  |
-| [Hasta Mañana](https://open.spotify.com/track/0E7la0I7QrV6RKtBaCQqvg) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU), [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Hasta Mañana](https://open.spotify.com/album/28IZL9yZMubsra0WDYmL3o) | 3:52 | 2023-02-17 |  |
+| [Hasta Mañana](https://open.spotify.com/track/0E7la0I7QrV6RKtBaCQqvg) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU), [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Hasta Mañana](https://open.spotify.com/album/28IZL9yZMubsra0WDYmL3o) | 3:52 | 2023-02-17 | 2023-08-05 |
 | [Hawái](https://open.spotify.com/track/7FNyz9hceyslUreGckbfJ0) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg) | [Hawái](https://open.spotify.com/album/01r8qOZXLE3myoaNxBpXA8) | 4:09 | 2022-05-13 |  |
 | [Hey Mor / Feliz Cumpleaños / Normal](https://open.spotify.com/track/5eTUJJLZanOVNcaQp9uMy1) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Hey Mor / Feliz Cumpleaños / Normal](https://open.spotify.com/album/16F7daU2uFtURzYdQh0j6h) | 4:48 | 2023-01-13 |  |
 | [Homenaje a Selena](https://open.spotify.com/track/2DVlE8GYES8tJaETtKOAaw) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E), [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR), [Panamericana Music](https://open.spotify.com/artist/5k5ooueWxxmAMBRhb1sJLc), [CALIOPE](https://open.spotify.com/artist/6WmoeHXq2ON9pCFbrvUP2k), [Brunella](https://open.spotify.com/artist/4x9iDqP59xKtLhj5UgFR8U) | [Homenaje a Selena](https://open.spotify.com/album/4bY2UikF58FUZ5BHe6NqLX) | 6:15 | 2022-05-13 |  |
@@ -97,6 +97,7 @@
 | [Nunca Es Suficiente](https://open.spotify.com/track/0KFJIvtAx5VfrHPcIDV5as) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Nunca Es Suficiente](https://open.spotify.com/album/6pYclaUw0Iy0vjwYPiW5Eu) | 4:32 | 2022-07-15 | 2022-09-21 |
 | [Nunca Es Suficiente](https://open.spotify.com/track/5bNZVcZIPFX9eyeCzsjEUz) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Nunca Es Suficiente](https://open.spotify.com/album/22qXCxQhiH4Cg0TAqHYbOt) | 4:32 | 2022-05-13 | 2022-10-08 |
 | [Olvídala](https://open.spotify.com/track/48XV7umdTgcGuPunNInlJP) | [Segovia Orquesta](https://open.spotify.com/artist/7kodlRIIrEWzdsn5384gM3), [Charlie Cardona](https://open.spotify.com/artist/7s6h7WYi8AfhxI2Dt1WQyM) | [Olvídala](https://open.spotify.com/album/07n2I8AeMOlZhbmte1IusA) | 4:29 | 2022-05-13 |  |
+| [Otra Como Tu](https://open.spotify.com/track/3yTn1nVCVIUM0dIbb4TuOR) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU), [Norlam la Melodia](https://open.spotify.com/artist/6a2oi57pF0ujx7wJNpUfuk) | [Otra Como Tu](https://open.spotify.com/album/7AYlRhSi6jSX0Y0plRh5GM) | 4:01 | 2023-08-04 |  |
 | [Pa' Enamorarte](https://open.spotify.com/track/2W0xrI3o6CdAXjBSAftgBA) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX), [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2) | [Pa' Enamorarte](https://open.spotify.com/album/30lOGegK4wLQpeS8Zslcbl) | 4:04 | 2022-05-13 | 2022-08-13 |
 | [Pa'lla Voy](https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh) | 4:06 | 2022-05-13 |  |
 | [Parecen Viernes](https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [OPUS](https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh) | 4:28 | 2022-05-13 |  |

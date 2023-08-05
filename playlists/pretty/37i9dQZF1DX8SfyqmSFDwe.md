@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,954,292 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,955,009 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 | 41 | [Ay Vamos](https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia B Sides](https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp) | 3:46 |
 | 42 | [Sexo, Sudor y Calor](https://open.spotify.com/track/4eDjNcAyIuJFhQ31Fvvoc1) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [Timeless](https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU) | 4:10 |
 | 43 | [Down](https://open.spotify.com/track/0t0WIrjRcvgBAwLlby2gsZ) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:45 |
-| 44 | [DUELE EL CORAZON \(feat\. Wisin\)](https://open.spotify.com/track/6YZdkObH88npeKrrkb8Ggf) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [DUELE EL CORAZON \(feat\. Wisin\)](https://open.spotify.com/album/5Ouuxga807CPAs81lSloBJ) | 3:19 |
+| 44 | [La Botella](https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb) | [Mach & Daddy](https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8) | [Desde Abajo](https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R) | 2:57 |
 | 45 | [Rakata](https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 2:52 |
-| 46 | [La Botella](https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb) | [Mach & Daddy](https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8) | [Desde Abajo](https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R) | 2:57 |
+| 46 | [DUELE EL CORAZON \(feat\. Wisin\)](https://open.spotify.com/track/6YZdkObH88npeKrrkb8Ggf) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [DUELE EL CORAZON \(feat\. Wisin\)](https://open.spotify.com/album/5Ouuxga807CPAs81lSloBJ) | 3:19 |
 | 47 | [Chillax \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Visionary](https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX) | 3:17 |
 | 48 | [Quizas \- Remix](https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [Marioso](https://open.spotify.com/artist/3vK6vMiSDE0xwZXm1Z2bRz) | [Los Vaqueros Wild Wild Mixes](https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu) | 4:00 |
 | 49 | [El Amante](https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 | 99 | [Aventura](https://open.spotify.com/track/3iRMZq3iIaIBW5bH4VgWtM) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 2:50 |
 | 100 | [Carita Bonita](https://open.spotify.com/track/3yuMVIBCFl6s1PDuSN3pi4) | [Erre XI](https://open.spotify.com/artist/3mqvfyOtukTRmUkZHuP1ed), [PeeWee](https://open.spotify.com/artist/34w2CxXOMbQeaIkoKDiJhp) | [Luny Tunes Presents ERRE XI](https://open.spotify.com/album/0PKXKZ0k8BPkxT4nOVFESl) | 4:14 |
 
-Snapshot ID: `MCxhMTM4MTZkYzBiMjhjZDM1ZWZiOGQ1MjIwMzAwNWQ2MzBjNjczMDEx`
+Snapshot ID: `MCxmNDhjYTFjMzE3ZjllNGZkYWNmYWI3ODViZTI2NzI3NWY4NmM1ZTA3`

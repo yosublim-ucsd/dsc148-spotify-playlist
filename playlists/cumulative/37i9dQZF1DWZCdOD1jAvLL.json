@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Ride the bassline. Cover: Nostalgix",
+  "description": "Ride the bassline. Cover: Walker & Royce, Glass Petals & Elohim",
   "name": "Bangers",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 206390,
       "name": "A Mere Blip In Your Timeline",
       "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
@@ -2962,6 +2962,32 @@
       "duration_ms": 222426,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk"
+    },
+    {
+      "album": {
+        "name": "Energy (feat. Techno Tupac)",
+        "url": "https://open.spotify.com/album/782lLArC8cRM2vl9MbVGci"
+      },
+      "artists": [
+        {
+          "name": "Smalltown DJs",
+          "url": "https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f"
+        },
+        {
+          "name": "Joanna Magik",
+          "url": "https://open.spotify.com/artist/29NQLXRVfQnoCPkYqs0Zoh"
+        },
+        {
+          "name": "Techno Tupac",
+          "url": "https://open.spotify.com/artist/3X84CtZn7kefjfUMlxU2vx"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242138,
+      "name": "Energy (feat. Techno Tupac)",
+      "url": "https://open.spotify.com/track/68C5lDtvEtOz5bfBfZsTEq"
     },
     {
       "album": {
@@ -8714,7 +8740,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 188033,
       "name": "SCREAM",
       "url": "https://open.spotify.com/track/6yjytQ1pqXVN4aDnDYicQG"
@@ -9446,6 +9472,32 @@
       "duration_ms": 182880,
       "name": "Stimulate",
       "url": "https://open.spotify.com/track/6GKyjW8BA1BUMX1BwUyabt"
+    },
+    {
+      "album": {
+        "name": "Stop Time",
+        "url": "https://open.spotify.com/album/2R0m33i4wSKTVCJAysYNT4"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193075,
+      "name": "Stop Time",
+      "url": "https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ"
     },
     {
       "album": {

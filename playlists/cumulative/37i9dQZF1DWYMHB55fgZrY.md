@@ -2,9 +2,9 @@
 
 ### [Iconos del Rock Mexicano](https://open.spotify.com/playlist/37i9dQZF1DWYMHB55fgZrY)
 
-> Los próceres de la historia del rock nacional\. Enjambre en portada.
+> Los próceres de la historia del rock nacional\. Moderatto en portada.
 
-223 songs - 14 hr 32 min
+226 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Brillas](https://open.spotify.com/track/6VuUMo1TusnqBxLTnr3hOI) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R) | 3:46 | 2022-01-28 | 2022-07-29 |
 | [Cada Vez Que Me Voy](https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [D.D\. Y Ponle Play](https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW) | 2:54 | 2022-01-28 |  |
 | [Camila](https://open.spotify.com/track/5vz03N0LL3TcQZPUs32CDf) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Recupera tus Clásicos \- Fobia](https://open.spotify.com/album/39wqLGypRpdofU9MEM9bl1) | 3:51 | 2022-01-28 | 2022-07-18 |
-| [Camila](https://open.spotify.com/track/7kdpwk3Y1LbE592bwtpgwj) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Mundo Feliz](https://open.spotify.com/album/0K1gJZEM3OPo9hnxUDZBW6) | 3:51 | 2022-01-28 |  |
+| [Camila](https://open.spotify.com/track/7kdpwk3Y1LbE592bwtpgwj) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Mundo Feliz](https://open.spotify.com/album/0K1gJZEM3OPo9hnxUDZBW6) | 3:51 | 2022-01-28 | 2023-08-05 |
 | [Caminar Sola](https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Caminar Sola](https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2) | 3:18 | 2022-06-30 | 2022-12-08 |
 | [Cara de Pizza](https://open.spotify.com/track/0fi9me5TJ12ZibhcY9dxiU) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [Rock En Español \- Lo Mejor De Cuca](https://open.spotify.com/album/08zGkegYfFHnM4trm489QN) | 3:35 | 2022-01-28 | 2022-07-07 |
 | [Carretera](https://open.spotify.com/track/4pKR2c4mbEhez3prGd8pJ3) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [En Esta Ciudad](https://open.spotify.com/album/4zFowI60PGLkWQ9VGNAQnk) | 3:27 | 2022-01-28 | 2022-05-11 |
@@ -140,17 +140,20 @@
 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 | 2022-01-28 |  |
 | [Metro balderas \- En vivo](https://open.spotify.com/track/7fJuuFCaUb6rSeZ2G1fIHr) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [En vivo y a todo calor \(En el Hollywood Palladium\)](https://open.spotify.com/album/30XSCjeJiHkWqEUrWvx6o3) | 5:21 | 2022-01-28 | 2022-06-05 |
 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 | 2022-01-28 |  |
+| [Mil Demonios](https://open.spotify.com/track/2LSa3F2AZldoF2jSCxG5re) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg) | [Queremos Rock](https://open.spotify.com/album/2795kGAwtxyI3kQ7pTkRUW) | 4:19 | 2023-08-04 |  |
 | [Monitor](https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:57 | 2022-01-28 |  |
 | [Morenaza](https://open.spotify.com/track/67Ud0OGoHmTE0MI6I3qc3W) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Lo Esencial](https://open.spotify.com/album/4e6XPAGyDrj7XolZsPMlhh) | 5:05 | 2022-01-28 | 2022-07-29 |
 | [Morenaza](https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Maldita Vecindad y los Hijos del Quinto Patio](https://open.spotify.com/album/1JfXrzzdymYGCrSXfKcAyE) | 5:05 | 2022-01-28 |  |
 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 | 2022-01-28 |  |
+| [Márchate Ya](https://open.spotify.com/track/7ins9i0AmrpLJokUznjO4v) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg) | [Moderatto Greatest Hits](https://open.spotify.com/album/4NJ7JAQ407WlP1J5YFbblc) | 3:59 | 2023-08-04 |  |
 | [Mátenme Porque Me Muero](https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:33 | 2022-01-28 |  |
+| [Nada En Común](https://open.spotify.com/track/1BgaP7zt3JAg4tJkV7T9ky) | [Coda](https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy) | [Nada En Común](https://open.spotify.com/album/2DwhPQke9yGGOhp0oeqEZ6) | 4:17 | 2023-08-04 |  |
 | [Nalguita](https://open.spotify.com/track/3vEkB7InOc5P7Vs3CNkCB2) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Tasty + B Sides](https://open.spotify.com/album/5IO0ppb7WMdyanUnnBCR0M) | 4:14 | 2022-01-28 |  |
 | [Nasty Sex](https://open.spotify.com/track/1XoFXjGDhvFrIy6xT7WlcR) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Viva El Rock Latino 2015](https://open.spotify.com/album/32T2hxjfQJfO41Vp2sG4rb) | 5:22 | 2022-01-28 | 2022-11-14 |
 | [No Dejes Que...](https://open.spotify.com/track/1W4eq1XFSjt2LHngDUNr7s) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Rock Latino](https://open.spotify.com/album/4dD4C9MoS87UAk3LYGLXGK) | 4:39 | 2022-01-28 | 2022-07-29 |
 | [No Es Que No Te Quiera](https://open.spotify.com/track/6akss3xIbiQipDjD0i8oYk) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/0TifYmTx6B0YqFrCIOyyFc) | 3:48 | 2022-01-28 | 2022-07-29 |
 | [No Es Que No Te Quiera](https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 3:48 | 2022-01-28 |  |
-| [No Huyas De Mi](https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Rock en Español 80's & 90's](https://open.spotify.com/album/4DkxlFoBgGH9EPp1bG6MKh) | 3:47 | 2022-01-28 |  |
+| [No Huyas De Mi](https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Rock en Español 80's & 90's](https://open.spotify.com/album/4DkxlFoBgGH9EPp1bG6MKh) | 3:47 | 2022-01-28 | 2023-08-05 |
 | [No Huyas De Mi](https://open.spotify.com/track/5rhmMoyVbdnFaDlWsB2Qtx) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Rolotas Veraniegas Vol\. 4](https://open.spotify.com/album/7JVUm417zIn3oECxjBQQYf) | 3:47 | 2022-01-28 | 2022-08-22 |
 | [No Huyas de Mi \(Roto el Corazón\)](https://open.spotify.com/track/1NRU3h0LirQ079gXxndVOI) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [No Huyas de Mi](https://open.spotify.com/album/5L7cSDI7XtcS4CK3mzLA1x) | 3:52 | 2022-01-28 | 2022-07-29 |
 | [No Se Puede Ceder](https://open.spotify.com/track/3AOrsiFsbNuu8Lh43GF1Um) | [Guillotina](https://open.spotify.com/artist/0B8O7AzuDbSQKZCfAWkNn7) | [Guillotina](https://open.spotify.com/album/4Cx1y0dopmbJ4vJWQ09UYD) | 5:36 | 2023-01-28 | 2023-02-14 |
@@ -179,7 +182,7 @@
 | [Polvo Cósmico](https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC) | [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N) | [Polvo Cósmico](https://open.spotify.com/album/4cpzYWDTQ1kLjSnDnD1qrY) | 4:01 | 2022-04-04 | 2022-06-25 |
 | [Puro Rock](https://open.spotify.com/track/1viKnYpeeUOi3vz1AAPCCM) | [Resorte](https://open.spotify.com/artist/29AMdFTZ4Ahs3fFXIq8Dic) | [X L \(Extra Large\)](https://open.spotify.com/album/6KaPfPHHkOWaDpk3BhesjB) | 3:50 | 2022-01-28 | 2022-05-20 |
 | [Que Fue Lo Que Paso?](https://open.spotify.com/track/6ukNaJ5Keb9pbeQU32RQKB) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA) | [Picas O Platicas](https://open.spotify.com/album/39FFO8eAxNpI4Da3YJBWW4) | 3:24 | 2022-01-28 | 2022-07-16 |
-| [Que Grosero](https://open.spotify.com/track/5bNA2LQPTzZoye58HtZjsp) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Ultrasonicas](https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7) | 2:58 | 2022-01-28 |  |
+| [Que Grosero](https://open.spotify.com/track/5bNA2LQPTzZoye58HtZjsp) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Ultrasonicas](https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7) | 2:58 | 2022-01-28 | 2023-08-05 |
 | [Que No](https://open.spotify.com/track/10atyYpAMMlqPHVDt6yER8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Jei Beibi](https://open.spotify.com/album/74eEfGjMICkDu7u8faPlc5) | 5:25 | 2022-01-28 | 2022-07-29 |
 | [Quiéreme Mucho](https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 3:38 | 2022-01-28 |  |
 | [Reptilectric](https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Reptilectric](https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668) | 3:52 | 2022-01-28 |  |

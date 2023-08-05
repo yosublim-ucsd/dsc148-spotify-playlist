@@ -4,7 +4,7 @@
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-239 songs - 14 hr 29 min
+240 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 | 2023-07-14 |  |
 | [Cheatback](https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:45 | 2023-03-31 | 2023-05-20 |
 | [Chocolate Covered Strawberries](https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Chocolate Covered Strawberries](https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb) | 4:10 | 2022-06-10 |  |
-| [chuu](https://open.spotify.com/track/6KBafFD2vzzXjMLSBISNNw) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [chuu](https://open.spotify.com/album/2DiDH1MgKKSS6NhEPLrVuU) | 4:13 | 2022-02-25 |  |
+| [chuu](https://open.spotify.com/track/6KBafFD2vzzXjMLSBISNNw) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [chuu](https://open.spotify.com/album/2DiDH1MgKKSS6NhEPLrVuU) | 4:13 | 2022-02-25 | 2023-08-05 |
 | [City Girl](https://open.spotify.com/track/7HaAuZBOJTp0bpZPnccBUm) | [Ari PenSmith](https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP), [Jonah Christian](https://open.spotify.com/artist/6pDfhbJGBQJ22SvibycTYb) | [City Girl](https://open.spotify.com/album/6Yb2iAl9GFYc0QjurOGgsn) | 2:39 | 2022-02-25 |  |
 | [Closer](https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7) | [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq) | [Even Closer](https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw) | 3:49 | 2022-02-25 | 2022-08-06 |
 | [Come For Me \(Unlocked\) \(feat\. Khalid & Lucky Daye\)](https://open.spotify.com/track/0GDTDoQIJPk8zKBK4r1pzK) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:29 | 2022-02-25 | 2022-03-26 |
@@ -92,6 +92,7 @@
 | [GOAT](https://open.spotify.com/track/1MVpa4w2TsjgUoJxMRAP0Z) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [PHO EP](https://open.spotify.com/album/1x6E0JYj6wKFHfZQFQCpnU) | 2:27 | 2022-02-25 |  |
 | [GODDESS REIGN](https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [GODDESS REIGN](https://open.spotify.com/album/1zvfaFBgRmCP3zSeegmAg1) | 3:29 | 2022-08-26 |  |
 | [Good Days](https://open.spotify.com/track/4PMqSO5qyjpvzhlLI5GnID) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:38 | 2022-12-12 | 2023-03-18 |
+| [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 | 2023-08-04 |  |
 | [Good Morning Gorgeous](https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc) | 2:54 | 2022-02-25 | 2022-05-28 |
 | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg) | 2:54 | 2022-03-25 |  |
 | [Guess](https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:13 | 2022-03-11 | 2022-06-25 |

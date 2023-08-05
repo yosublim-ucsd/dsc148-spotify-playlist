@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-526 songs - 1 day 10 hr 5 min
+527 songs - 1 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [L.S.F.](https://open.spotify.com/track/0w21XZhGlmIexgtDpmtnzT) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian/Empire](https://open.spotify.com/album/4RVNd8UwGiAqzfPjbgv0O3) | 3:16 | 2022-01-05 | 2022-07-29 |
 | [L.S.F.](https://open.spotify.com/track/1t8TCORVxdItzE3zy1X0tv) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:17 | 2022-01-05 |  |
 | [Ladies And Gentlemen](https://open.spotify.com/track/48ncRBVLgiu8MY7O70VVw5) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Blood Stained Love Story](https://open.spotify.com/album/1JA2ZEDY4s6N08dbLCrbAz) | 3:37 | 2022-01-05 |  |
+| [Lasso](https://open.spotify.com/track/29ceu4GvNpnHSfLeBL4O7W) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 2:47 | 2023-01-18 |  |
 | [Lasso](https://open.spotify.com/track/5bYQM8TrQ6ur1SuEieE3pK) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW) | 2:47 | 2022-01-05 | 2022-07-29 |
 | [Last Stand](https://open.spotify.com/track/27TPpj59ml6N7las1h696d) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Adelitas Way](https://open.spotify.com/album/5P5ckQNn8AibK7TVTVrUoC) | 3:44 | 2022-01-05 | 2022-05-25 |
 | [Leave Out All The Rest](https://open.spotify.com/track/3ecYYZb4dDh1NIJryitOY2) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Leave out All the Rest](https://open.spotify.com/album/7vOJXMIXouPRCSXDGb988G) | 3:19 | 2022-01-05 | 2022-05-25 |
@@ -329,7 +330,7 @@
 | [Oh My God](https://open.spotify.com/track/24KqWcpyrY1COcRPYt2ef5) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw) | 3:34 | 2022-01-05 | 2022-07-29 |
 | [Ohio Is For Lovers](https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:04 | 2022-01-05 |  |
 | [Ohio Is for Lovers](https://open.spotify.com/track/6QfnvcOKsdN4Q6exUWVuzn) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black and White \- Re\-Issue](https://open.spotify.com/album/1FPDKmotHS1ESWAgjUEqh2) | 4:04 | 2022-01-05 | 2022-05-25 |
-| [Old Yellow Bricks](https://open.spotify.com/track/3BcQFPRZuuUClWStz29WjN) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 3:07 | 2022-01-05 |  |
+| [Old Yellow Bricks](https://open.spotify.com/track/3BcQFPRZuuUClWStz29WjN) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 3:07 | 2022-01-05 | 2023-08-05 |
 | [Old Yellow Bricks](https://open.spotify.com/track/5KGbRvZyVyKP2AEJMHErB4) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 3:13 | 2022-01-05 | 2022-07-29 |
 | [On Call](https://open.spotify.com/track/28POcTYQKfkjz6qTIvtjG1) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Because Of The Times](https://open.spotify.com/album/5CiZOqd3iF6p2PsqBjljat) | 3:21 | 2022-01-05 | 2023-04-21 |
 | [Only](https://open.spotify.com/track/72X2RPQiMoOjQrdI2B9Olu) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth \(Bonus Tracks\)](https://open.spotify.com/album/1PuCoaLQNyCeaLBgGtNyW3) | 4:23 | 2022-01-05 | 2022-07-29 |

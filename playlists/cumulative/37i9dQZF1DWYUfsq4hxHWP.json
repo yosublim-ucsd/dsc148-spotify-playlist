@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "All to Yourself",
+        "url": "https://open.spotify.com/album/47KkcsloezADjw8jRxqV8O"
+      },
+      "artists": [
+        {
+          "name": "Raquel Cole",
+          "url": "https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177085,
+      "name": "All to Yourself",
+      "url": "https://open.spotify.com/track/1qHzMKegbX2x2mi9n7mhP1"
+    },
+    {
+      "album": {
         "name": "Almost Missed You",
         "url": "https://open.spotify.com/album/6TH000cqtpdbUkSSigIICK"
       },
@@ -4586,6 +4604,24 @@
       "duration_ms": 213551,
       "name": "Buy You That Drink",
       "url": "https://open.spotify.com/track/1CvLsSWRwkcTfuFwHb4OpF"
+    },
+    {
+      "album": {
+        "name": "Buzz On",
+        "url": "https://open.spotify.com/album/37smK2nMpzyFMwVXiBUPeL"
+      },
+      "artists": [
+        {
+          "name": "Dipper",
+          "url": "https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167866,
+      "name": "Buzz On",
+      "url": "https://open.spotify.com/track/12BjtYIOi2cxhbfupVzx57"
     },
     {
       "album": {
@@ -28268,6 +28304,24 @@
       "duration_ms": 197093,
       "name": "TWO BROKE HEARTS",
       "url": "https://open.spotify.com/track/1cr011JYf3xTu3rYRUK6io"
+    },
+    {
+      "album": {
+        "name": "Two Lane",
+        "url": "https://open.spotify.com/album/7ogOLiAC1Hu9swWbR8ZANU"
+      },
+      "artists": [
+        {
+          "name": "Mitch Zorn",
+          "url": "https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155150,
+      "name": "Two Lane",
+      "url": "https://open.spotify.com/track/6XuJRTQZUhBEukHCf3Ymds"
     },
     {
       "album": {

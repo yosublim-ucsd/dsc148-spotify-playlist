@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "The Dock of the Bay (Mono)",
+        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163755,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
+    },
+    {
+      "album": {
         "name": "Dear Evan Hansen (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0yURloAyqmXCjQ1rmX0ltA"
       },
@@ -20,6 +38,24 @@
       "duration_ms": 242412,
       "name": "A Little Closer (FINNEAS Version) - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/3tcquFqOHmSIDmhW4rH2Pn"
+    },
+    {
+      "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
     },
     {
       "album": {
@@ -297,6 +333,28 @@
     },
     {
       "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209831,
+      "name": "Best Part (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+    },
+    {
+      "album": {
         "name": "Best Part of Me (feat. YEBBA)",
         "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
       },
@@ -445,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200733,
+      "name": "Budapest",
+      "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
+    },
+    {
+      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/1VOogKF0JFYVcfDPcxoESS"
       },
@@ -568,6 +644,24 @@
       "duration_ms": 173195,
       "name": "Cold",
       "url": "https://open.spotify.com/track/5rdhDMfiwWNnrEQpjUVpDu"
+    },
+    {
+      "album": {
+        "name": "Cold Little Heart (Radio Edit)",
+        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210299,
+      "name": "Cold Little Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
     },
     {
       "album": {
@@ -853,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+    },
+    {
+      "album": {
         "name": "Dreams (Piano Version)",
         "url": "https://open.spotify.com/album/1oBjEkE3FjyD74adBZsUTI"
       },
@@ -940,7 +1052,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 231053,
       "name": "El lugar correcto",
       "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
@@ -1157,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296800,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+    },
+    {
+      "album": {
         "name": "chapter of me",
         "url": "https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol"
       },
@@ -1172,6 +1302,24 @@
       "duration_ms": 211266,
       "name": "feel it now (alive)",
       "url": "https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD"
+    },
+    {
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152317,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
     },
     {
       "album": {
@@ -1204,7 +1352,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
@@ -1431,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198453,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
+    },
+    {
+      "album": {
         "name": "It Was a Home",
         "url": "https://open.spotify.com/album/03ik0WUdejkxQy4Jc4iexg"
       },
@@ -1460,7 +1626,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 205462,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE"
@@ -1706,7 +1872,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 209621,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB"
@@ -1970,7 +2136,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 176423,
       "name": "I've Loved You For So Long",
       "url": "https://open.spotify.com/track/0j1AlYnUBAiYOuVBDwCT20"
@@ -2270,7 +2436,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 246320,
       "name": "Incredible",
       "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
@@ -2534,7 +2700,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 157523,
       "name": "Lonely City",
       "url": "https://open.spotify.com/track/4q3biaQQoADspV16lbsfPH"
@@ -2788,6 +2954,24 @@
       "duration_ms": 244563,
       "name": "Margo's Song",
       "url": "https://open.spotify.com/track/6RbLGnAapl5Wfz42i4K4X7"
+    },
+    {
+      "album": {
+        "name": "Division",
+        "url": "https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147133,
+      "name": "Medallion",
+      "url": "https://open.spotify.com/track/46Y9vXsmtnYZdEwny4o1Dd"
     },
     {
       "album": {
@@ -3211,6 +3395,24 @@
     },
     {
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184516,
+      "name": "Pink + White",
+      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+      "album": {
         "name": "Purple Haze",
         "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
       },
@@ -3262,6 +3464,24 @@
       "duration_ms": 209893,
       "name": "Put Me Back Together",
       "url": "https://open.spotify.com/track/6LpxEWeuvaMrrsGgX5CSQv"
+    },
+    {
+      "album": {
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215360,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "album": {
@@ -3348,7 +3568,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 214293,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
@@ -3460,7 +3680,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 223078,
       "name": "Send My Love (To Your New Lover)",
       "url": "https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9"
@@ -3623,6 +3843,24 @@
     },
     {
       "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
+      "album": {
         "name": "So Good (Stripped)",
         "url": "https://open.spotify.com/album/1THYS7xuqQeUFgZcKoapie"
       },
@@ -3710,7 +3948,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 200667,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/2g5HVcE4OCp9SZybPEWzny"
@@ -3879,6 +4117,24 @@
     },
     {
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200626,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
+    },
+    {
+      "album": {
         "name": "supercuts",
         "url": "https://open.spotify.com/album/2F1xmiVxAOHMIPOWcK97gg"
       },
@@ -3926,7 +4182,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 188496,
       "name": "Sweet Nothing",
       "url": "https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb"
@@ -3944,7 +4200,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 241693,
       "name": "Take Me to Church",
       "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
@@ -4020,7 +4276,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 258812,
       "name": "Thank God I Do",
       "url": "https://open.spotify.com/track/4gK7xnjIonY6mGJWiWcJT8"
@@ -4186,6 +4442,24 @@
       "duration_ms": 206333,
       "name": "The Sapling",
       "url": "https://open.spotify.com/track/5LZcOXDFbkSWrhqrfVSXdz"
+    },
+    {
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "album": {
@@ -4472,7 +4746,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 192813,
       "name": "To Live a Life",
       "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"
@@ -4512,7 +4786,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 148973,
       "name": "Tower of Babel",
       "url": "https://open.spotify.com/track/2s70AL69BjHU7y9aABGDUL"
@@ -4595,6 +4869,28 @@
     },
     {
       "album": {
+        "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
+        "url": "https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90110,
+      "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
+      "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"
+    },
+    {
+      "album": {
         "name": "We're Not Friends",
         "url": "https://open.spotify.com/album/0XVRzpspqPNTvUomEniLRl"
       },
@@ -4671,6 +4967,24 @@
     },
     {
       "album": {
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335310,
+      "name": "When I'm in Your Arms",
+      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
+    },
+    {
+      "album": {
         "name": "Fifteen",
         "url": "https://open.spotify.com/album/119HRNCY7xfA3R218gtspV"
       },
@@ -4682,7 +4996,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 222704,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa"
@@ -4874,7 +5188,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 168086,
       "name": "You Look Like You Can't Swim",
       "url": "https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r"

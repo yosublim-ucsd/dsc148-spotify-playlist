@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-659 songs - 1 day 3 hr 44 min
+660 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Dream II](https://open.spotify.com/track/2YZDndIQOgoB2HaYIIF5no) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Dream](https://open.spotify.com/album/5XLOW58DygV2CWsoXvMzOk) | 2:31 | 2023-02-27 |  |
 | [Dream in Eb](https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Dreams](https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t) | 2:25 | 2022-05-27 | 2022-09-24 |
 | [Dreaming Of You](https://open.spotify.com/track/64OSHlDi8TeihNzUMvc2Kv) | [Halbert Stone](https://open.spotify.com/artist/2iLk7f4nMNmLZytDO6vaYc) | [Dreaming Of You](https://open.spotify.com/album/4bYgaFEFfbcm0HjREyj7wY) | 2:53 | 2022-05-27 | 2023-02-23 |
+| [Dreamscape](https://open.spotify.com/track/2NBflxsb2XJnTEBrFXy5XF) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Dreamscape](https://open.spotify.com/album/6NATzdC2BiLCImkdKA16jM) | 2:26 | 2023-08-01 |  |
 | [Drifting Sand](https://open.spotify.com/track/2ElVZ4JztgEiG6vfb0ZdB2) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Drifting Sand](https://open.spotify.com/album/1HAAeEBz6Y80NLYiroxewn) | 2:20 | 2022-05-27 | 2023-02-13 |
 | [Driftwood](https://open.spotify.com/track/5z58G03wjA3kj4S57GyYOm) | [San Fiore](https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm) | [Driftwood](https://open.spotify.com/album/0aQQWZsYV33bEK5z3vhJvC) | 2:58 | 2023-03-20 | 2023-07-25 |
 | [Drops](https://open.spotify.com/track/6tAVuHk9SgULudReDLhcgj) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Stories](https://open.spotify.com/album/10i8H3JBp0J5sRVaONz6qe) | 2:36 | 2022-05-27 | 2022-09-24 |
@@ -655,7 +656,7 @@
 | [Who I Was](https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me) | [Blissful Radiance](https://open.spotify.com/artist/7hrJrU2yFtaDBuXpKa5CcH) | [Who I Was](https://open.spotify.com/album/7DkxS1r9fYg01oz4kMngbo) | 2:05 | 2022-05-27 |  |
 | [Wide Skies](https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA) | [Liona Sand](https://open.spotify.com/artist/1p6pGVY7ZTHr9Lv9DCXQiE) | [Wide Skies](https://open.spotify.com/album/5flaLlq8sLt6VdnPCr5Ast) | 3:22 | 2022-05-27 |  |
 | [Windschatten](https://open.spotify.com/track/2emuUPpnoo2sgpbBfbmkyt) | [Heike Blau](https://open.spotify.com/artist/3dcO6J0QtVq4xwePBwkq3W) | [Windschatten](https://open.spotify.com/album/2gzltlb70rOTWRrj38ROWn) | 2:18 | 2022-05-27 |  |
-| [Winter Blossoms](https://open.spotify.com/track/6q6Isz6kUluHROS0mb9T8P) | [Billy Lipnick](https://open.spotify.com/artist/0JTFRJYspkuP9Pwhbc2b0w) | [Winter Blossoms](https://open.spotify.com/album/1KpNlDkB2vzxGHVVYTB5CU) | 3:00 | 2022-05-27 |  |
+| [Winter Blossoms](https://open.spotify.com/track/6q6Isz6kUluHROS0mb9T8P) | [Billy Lipnick](https://open.spotify.com/artist/0JTFRJYspkuP9Pwhbc2b0w) | [Winter Blossoms](https://open.spotify.com/album/1KpNlDkB2vzxGHVVYTB5CU) | 3:00 | 2022-05-27 | 2023-08-05 |
 | [Winter im Herzen](https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr) | [Sander Berisha](https://open.spotify.com/artist/3ZaOGDVy8OEsLOgdtI0Aay) | [Winter im Herzen](https://open.spotify.com/album/02dj7DzGAXlqxpxm3tIBQx) | 2:56 | 2022-05-27 |  |
 | [Winter Warmth](https://open.spotify.com/track/7i7EzSHTyUnZiSuwkVjnYR) | [Zecil Malka](https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp) | [Winter Warmth](https://open.spotify.com/album/5YfDgNzucWkIgaceuAAAmf) | 2:02 | 2023-02-06 |  |
 | [With Ease](https://open.spotify.com/track/66nC6l1EsEIqarOvSwmotT) | [Loumi Des Moines](https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G) | [With Ease](https://open.spotify.com/album/1LCrc34gyc6h3YdC7e7D5c) | 2:39 | 2023-04-18 |  |

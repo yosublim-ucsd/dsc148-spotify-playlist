@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,629 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,680 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 36 | [I Used to Be Your Sweet Mama](https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 3](https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY) | 2:48 |
 | 37 | [I'm a Mighty Tight Woman](https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9) | [Sippie Wallace](https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR) | [First Time I Met the Blues \(When the Sun Goes Down series\)](https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL) | 2:50 |
 | 38 | [B.D\. Woman's Blues](https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Shave 'Em Dry: The Best Of Lucille Bogan](https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw) | 2:57 |
-| 39 | [Keep A Song In Your Soul](https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Crazy Blues: The Best Of Mamie Smith](https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s) | 2:48 |
-| 40 | [Bad Spell Blues](https://open.spotify.com/track/0GzE9pIJApHUOohOTGplUW) | [Ottilie Patterson](https://open.spotify.com/artist/4915Sr7uNqzsnJqOLKOnrC), [Chris Barber's Jazz Band](https://open.spotify.com/artist/48CW1rjPSOgZbMsV4LpqoP) | [Blues Book and Beyond](https://open.spotify.com/album/7s8fUmFH40RAHThrPdx57E) | 4:00 |
+| 39 | [Bad Spell Blues](https://open.spotify.com/track/0GzE9pIJApHUOohOTGplUW) | [Ottilie Patterson](https://open.spotify.com/artist/4915Sr7uNqzsnJqOLKOnrC), [Chris Barber's Jazz Band](https://open.spotify.com/artist/48CW1rjPSOgZbMsV4LpqoP) | [Blues Book and Beyond](https://open.spotify.com/album/7s8fUmFH40RAHThrPdx57E) | 4:00 |
+| 40 | [Keep A Song In Your Soul](https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Crazy Blues: The Best Of Mamie Smith](https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s) | 2:48 |
 | 41 | [Billie's Blues \- Take 1](https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Essential Billie Holiday](https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x) | 2:37 |
 | 42 | [Jelly Roll Blues](https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Sweet Emma Barrett And Her New Orleans Music](https://open.spotify.com/album/3ePmdU3EBhhiID5RI6ZlUg) | 3:40 |
 | 43 | [Tease Your Man](https://open.spotify.com/track/06hFEQu1PismBzyS3gg11U) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [What It Takes: The Chess Years \(Expanded Edition\)](https://open.spotify.com/album/5cqkfEOV7du3ynBO7EENMp) | 4:20 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 53 | [Stack O'Lee Blues](https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:55 |
 | 54 | [Trouble in Mind](https://open.spotify.com/track/6qURWmWdKXkoGGvEl2iiEi) | [Julia Lee](https://open.spotify.com/artist/12YnPfu3zqQ9uOalclG0bK) | [Tonight's the Night](https://open.spotify.com/album/29MBxwwCj9k7jt6Z6mUTnv) | 2:55 |
 | 55 | [I'm Getting 'Long Alright](https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P) | [Big Maybelle](https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0) | [The Complete Okeh Sessions 1952\-1955](https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ) | 3:34 |
-| 56 | [Boogie'n My Woogie](https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl) | [Gladys Bentley](https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:35 |
-| 57 | [Every Night \(a.k.a\. Baby Baby Every Night\)](https://open.spotify.com/track/1IGDi02X5YvVMuY9NSynH5) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:22 |
+| 56 | [Every Night \(a.k.a\. Baby Baby Every Night\)](https://open.spotify.com/track/1IGDi02X5YvVMuY9NSynH5) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:22 |
+| 57 | [Boogie'n My Woogie](https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl) | [Gladys Bentley](https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:35 |
 | 58 | [Rock Me \- Remastered](https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp) | 2:36 |
 | 59 | [Don't Worry 'Bout Strangers](https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Sings..\. Me And The Blues](https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u) | 3:00 |
 | 60 | [Honey Dripper Blues](https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1) | [Hattie North & Roosevelt Sykes](https://open.spotify.com/artist/7sD5sKsFCqEVKUIluXkIpx) | [Those Dirty Blues, Vol\. 2](https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 74 | [Dirty Moaner Blues](https://open.spotify.com/track/35BLeCm8rHg2Z0g7xrTcDP) | [Fannie May Goosby](https://open.spotify.com/artist/4jFXUMT7f5Wgv0RyTiQs2n), [Peter Harris](https://open.spotify.com/artist/23VN21wIWQLjWFCRwQyUVz) | [Grievous Blues](https://open.spotify.com/album/3NEoLNpzJ1PXhjCGOop7ly) | 2:43 |
 | 75 | [A Jealous Woman Like Me](https://open.spotify.com/track/4OYyArfBsu30D1L1wDDj3z) | [Sippie Wallace](https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR) | [Presenting Sippie Wallace](https://open.spotify.com/album/3leclnVX5Yk1Rj9cvI1HYR) | 3:17 |
 
-Snapshot ID: `MCwzMzQ2NWYxYzg4ZTI1NGY5YTJlMzFhNDQ2YjE1YjY3YWZiMDkxMDRh`
+Snapshot ID: `MCw3ZGNiMjRkN2MzMzFmNjhhMDMwYjNiMDc1OGJlNzk3ZjA1ZmY3MWQ5`

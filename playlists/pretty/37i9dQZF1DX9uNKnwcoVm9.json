@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 235723,
+  "num_followers": 235862,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTdiYmQ4YTU5MzI5NmJmODFiOGIwODEwNWNkNTg2YTQ4NTM5M2Fk",
+  "snapshot_id": "MCwwYzJiYmQxMDU3NjAwZGM2MDY2ZWU2MjIwNzI3OGIzNTQ0OWRhOWY5",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -671,8 +671,8 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR"
+        "name": "Vivo Para Cristo",
+        "url": "https://open.spotify.com/album/1qgCskTkH93V8WYbltMZMn"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
         }
       ],
-      "duration_ms": 136960,
-      "name": "Jehov\u00e1 Es Mi Guerrero/Le Llaman (Reprise)",
-      "url": "https://open.spotify.com/track/5IsqUSeMnxmoEdX9Ooot0r"
+      "duration_ms": 527133,
+      "name": "El Borde De Su Manto",
+      "url": "https://open.spotify.com/track/6tYqerwTycPh7ooEszkobq"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -775,8 +775,8 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Vivo Para Cristo",
-        "url": "https://open.spotify.com/album/1qgCskTkH93V8WYbltMZMn"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR"
       },
       "artists": [
         {
@@ -784,25 +784,9 @@
           "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
         }
       ],
-      "duration_ms": 527133,
-      "name": "El Borde De Su Manto",
-      "url": "https://open.spotify.com/track/6tYqerwTycPh7ooEszkobq"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Algo Grande Viene",
-        "url": "https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX"
-      },
-      "artists": [
-        {
-          "name": "Jose Luis Reyes",
-          "url": "https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "Tan Solo Cree",
-      "url": "https://open.spotify.com/track/52UBY1QBlCTRAyWa6GO0mZ"
+      "duration_ms": 136960,
+      "name": "Jehov\u00e1 Es Mi Guerrero/Le Llaman (Reprise)",
+      "url": "https://open.spotify.com/track/5IsqUSeMnxmoEdX9Ooot0r"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -819,6 +803,22 @@
       "duration_ms": 196866,
       "name": "Mi Historia De Amor",
       "url": "https://open.spotify.com/track/4Io9nq91YUZNcCeQ0zDcID"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Algo Grande Viene",
+        "url": "https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Reyes",
+          "url": "https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "Tan Solo Cree",
+      "url": "https://open.spotify.com/track/52UBY1QBlCTRAyWa6GO0mZ"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "En Las Alas Del Amor",
-        "url": "https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI"
+        "name": "Al Que Vive",
+        "url": "https://open.spotify.com/album/0EnsJ3Ctbamkhj0rOVtAhQ"
       },
       "artists": [
         {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+          "name": "Gadiel Espinoza",
+          "url": "https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6"
         }
       ],
-      "duration_ms": 260295,
-      "name": "El No Pereci\u00f3",
-      "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
+      "duration_ms": 266538,
+      "name": "Te Vi Llegar",
+      "url": "https://open.spotify.com/track/5axhzyUPdFRhf2xBL00Ira"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Al Que Vive",
-        "url": "https://open.spotify.com/album/0EnsJ3Ctbamkhj0rOVtAhQ"
+        "name": "En Las Alas Del Amor",
+        "url": "https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI"
       },
       "artists": [
         {
-          "name": "Gadiel Espinoza",
-          "url": "https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6"
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
         }
       ],
-      "duration_ms": 266538,
-      "name": "Te Vi Llegar",
-      "url": "https://open.spotify.com/track/5axhzyUPdFRhf2xBL00Ira"
+      "duration_ms": 260295,
+      "name": "El No Pereci\u00f3",
+      "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Al Que Vive",
+        "url": "https://open.spotify.com/album/0EnsJ3Ctbamkhj0rOVtAhQ"
+      },
+      "artists": [
+        {
+          "name": "Gadiel Espinoza",
+          "url": "https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6"
+        }
+      ],
+      "duration_ms": 252765,
+      "name": "Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/4gxJmwQeeG1RSJm1AtLlAS"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Me Has Hecho Libre",
         "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
       },
@@ -1187,6 +1203,22 @@
       "duration_ms": 295444,
       "name": "Roca eterna",
       "url": "https://open.spotify.com/track/6XQmgFgA5ERwrgbmb7iUx3"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Dios Lo Har\u00e1 Otra Vez",
+        "url": "https://open.spotify.com/album/1qu2wAOiIGzTCcS5Dad9jI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Mixter",
+          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
+        }
+      ],
+      "duration_ms": 270001,
+      "name": "Por el Sue\u00f1o De Dios",
+      "url": "https://open.spotify.com/track/1hKVju5eLUkPkYFVYh7hkR"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1211,38 +1243,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Dios Lo Har\u00e1 Otra Vez",
-        "url": "https://open.spotify.com/album/1qu2wAOiIGzTCcS5Dad9jI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Mixter",
-          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
-        }
-      ],
-      "duration_ms": 270001,
-      "name": "Por el Sue\u00f1o De Dios",
-      "url": "https://open.spotify.com/track/1hKVju5eLUkPkYFVYh7hkR"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Me Visti\u00f3 De Promesas",
-        "url": "https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp"
-      },
-      "artists": [
-        {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
-        }
-      ],
-      "duration_ms": 259094,
-      "name": "\u00bfDe Qui\u00e9n Temer\u00e9? (Dios De Ej\u00e9rcitos)",
-      "url": "https://open.spotify.com/track/60J9n7mYcPsunOxSJGjSqW"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Ancla",
         "url": "https://open.spotify.com/album/5quXdbYBxYKxcYjz2QLWSM"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Al Que Vive",
-        "url": "https://open.spotify.com/album/0EnsJ3Ctbamkhj0rOVtAhQ"
-      },
-      "artists": [
-        {
-          "name": "Gadiel Espinoza",
-          "url": "https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6"
-        }
-      ],
-      "duration_ms": 252765,
-      "name": "Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/4gxJmwQeeG1RSJm1AtLlAS"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Cosas Poderosas",
         "url": "https://open.spotify.com/album/1TZZhO7YWjOX1WyoGD6gEQ"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 305972,
       "name": "Eres Fiel",
       "url": "https://open.spotify.com/track/2b7YBLRv13r2iS31yXBz7a"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Me Visti\u00f3 De Promesas",
+        "url": "https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "duration_ms": 259094,
+      "name": "\u00bfDe Qui\u00e9n Temer\u00e9? (Dios De Ej\u00e9rcitos)",
+      "url": "https://open.spotify.com/track/60J9n7mYcPsunOxSJGjSqW"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Me Visti\u00f3 De Promesas",
-        "url": "https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp"
+        "name": "Lo Mejor De Gadiel Espinoza",
+        "url": "https://open.spotify.com/album/05sRL9QUM72ugGewZ1aF5k"
       },
       "artists": [
         {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+          "name": "Gadiel Espinoza",
+          "url": "https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6"
         }
       ],
-      "duration_ms": 288266,
-      "name": "Creemos",
-      "url": "https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU"
+      "duration_ms": 287493,
+      "name": "El Deseado",
+      "url": "https://open.spotify.com/track/44OMyCQXFDR9xUap4KjQrx"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Lo Mejor De Gadiel Espinoza",
-        "url": "https://open.spotify.com/album/05sRL9QUM72ugGewZ1aF5k"
-      },
-      "artists": [
-        {
-          "name": "Gadiel Espinoza",
-          "url": "https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6"
-        }
-      ],
-      "duration_ms": 287493,
-      "name": "El Deseado",
-      "url": "https://open.spotify.com/track/44OMyCQXFDR9xUap4KjQrx"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Eres Mi Pasi\u00f3n",
         "url": "https://open.spotify.com/album/0xPzP6ceN9y2CwTWlljy8F"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 300460,
       "name": "El es mi amigo fiel",
       "url": "https://open.spotify.com/track/1kGHibUdAJTVn0X3RpdC8E"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Me Visti\u00f3 De Promesas",
+        "url": "https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "duration_ms": 288266,
+      "name": "Creemos",
+      "url": "https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU"
     },
     {
       "added_at": "2020-11-24 13:23:38",

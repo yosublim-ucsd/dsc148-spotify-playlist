@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 256178,
+  "num_followers": 256226,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzczZDIzMDIxYzc2MzlhMGRiZDQzM2QyMmJlZjAwMTlmMmQ1YjQz",
+  "snapshot_id": "MCwyNjg0ZTFhNDNhOTkzZGJiZWIzMjgzYjdlNjY0ZGY3OGY0MzQ1OThi",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -895,6 +895,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Wave001",
+        "url": "https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Home (feat. LEES)",
         "url": "https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 198776,
       "name": "Home (feat. LEES)",
       "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Wave001",
-        "url": "https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE"
     },
     {
       "added_at": "2018-12-11 21:12:31",

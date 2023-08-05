@@ -1,13 +1,33 @@
 {
-  "description": "The best of today's funk. Cover: Cory Wong",
-  "num_followers": 306698,
+  "description": "The best of today's funk. Cover: Jafunk",
+  "num_followers": 306818,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmE5MmJjYTg4YjViYmY4NjExZDJmNDRmMDI0YjllYTZiOTI0OTE5",
+  "snapshot_id": "MCxmYjU3NzJiMzdiMWZlODUwMzAzODk1MjJmMTQ4NThjMjY2ZjBmNGI1",
   "tracks": [
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/3fJnk9OEpO346UKBj1dvyu"
+      },
+      "artists": [
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Triple H Horns",
+          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
+        }
+      ],
+      "duration_ms": 197098,
+      "name": "Nightlife",
+      "url": "https://open.spotify.com/track/2HhwgxfCPDqxmpzKB0FlTL"
+    },
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
@@ -27,30 +47,6 @@
       "duration_ms": 139636,
       "name": "Higher (Escalators)",
       "url": "https://open.spotify.com/track/3oUiNUmZ5ONKmITWEpcT4h"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Sweet Escape (feat. \u3072\u304b\u308a) [Jafunk Remix]",
-        "url": "https://open.spotify.com/album/48YB5mSWFYupUc0NbKkKie"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
-        }
-      ],
-      "duration_ms": 217625,
-      "name": "Sweet Escape feat. \u3072\u304b\u308a - Jafunk Remix",
-      "url": "https://open.spotify.com/track/0rnE60QykoMiOgtmN0OxlN"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -119,6 +115,30 @@
       "duration_ms": 186034,
       "name": "U R Freak - Jafunk Remix",
       "url": "https://open.spotify.com/track/2acq8EiIi5PH3ukPiYIdDB"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Sweet Escape (feat. \u3072\u304b\u308a) [Jafunk Remix]",
+        "url": "https://open.spotify.com/album/48YB5mSWFYupUc0NbKkKie"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 217625,
+      "name": "Sweet Escape feat. \u3072\u304b\u308a - Jafunk Remix",
+      "url": "https://open.spotify.com/track/0rnE60QykoMiOgtmN0OxlN"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1655,26 +1675,6 @@
       "duration_ms": 183000,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/6LSfGl4kMdGlrN96EHxAgG"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Fool For You",
-        "url": "https://open.spotify.com/album/6rc9d2SLCNCHqAsmqyfYq4"
-      },
-      "artists": [
-        {
-          "name": "Apollo Theo",
-          "url": "https://open.spotify.com/artist/4gdIEqgsdPdiAyNyArsLRz"
-        },
-        {
-          "name": "Jaz Lund",
-          "url": "https://open.spotify.com/artist/76wFPyb3pS7rjiDOJOeS7P"
-        }
-      ],
-      "duration_ms": 132209,
-      "name": "Fool For You",
-      "url": "https://open.spotify.com/track/3quWT2PJG1tbS1Q7T5yLKK"
     },
     {
       "added_at": "2022-03-28 14:51:39",

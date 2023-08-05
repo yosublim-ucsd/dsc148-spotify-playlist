@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  Bob Marley, Skip Marley and Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,463 likes - 96 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,585 likes - 96 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 23 | [Sittin' On Top Of The World \(feat\. 21 Savage\)](https://open.spotify.com/track/6RN73O4iZHd9JQ4JHuul95) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Sittin' On Top Of The World \(feat\. 21 Savage\)](https://open.spotify.com/album/7h29hmZt35DSt9r3fVrTjF) | 3:08 |
 | 24 | [imagine](https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:46 |
 | 25 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 |
-| 26 | [Them Belly Full \(But We Hungry\) \(Feat\. Rema and Skip Marley\)](https://open.spotify.com/track/7fbQLuKMYfGpqK9f0OuQjg) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Them Belly Full \(But We Hungry\) \(Feat\. Rema & Skip Marley\)](https://open.spotify.com/album/4PrIjUOhymWHG83mEzDj1R) | 3:10 |
+| 26 | [Them Belly Full \(But We Hungry\)](https://open.spotify.com/track/73YF1vuiOiJ1h7RR9QJfns) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Africa Unite](https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY) | 3:10 |
 | 27 | [Bomzão](https://open.spotify.com/track/5cTt87f8djnVPH4mLo2L9G) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 3:09 |
 | 28 | [Game Over](https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Game Over](https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88) | 2:22 |
 | 29 | [Please Don't Go](https://open.spotify.com/track/5gBfzyPlfJCOq7uUF9IOA0) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Cheekychizzy](https://open.spotify.com/artist/5z6nZumE4lrnP3Nqcqdhz1) | [Please Don't Go](https://open.spotify.com/album/5v7R0bfnMmiFhqkGFGpIFm) | 2:28 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 95 | [No love](https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:22 |
 | 96 | [Finesse \- feat\. French Montana](https://open.spotify.com/track/1K1nl1dGNDX5LuLcDbT9ED) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Finesse \(feat\. French Montana\)](https://open.spotify.com/album/39ali1KqU7VkiJW2pAXv3b) | 2:06 |
 
-Snapshot ID: `MCwxMGM1MjUwN2FkYmMyYTg1NmYyYTFjNzZjNTc3NjkzN2U2NDUzN2M2`
+Snapshot ID: `MCw2OGE5NWYzM2Y3MzQwNzJlMWExZDY5Y2ZkNmZjZGExNmQ0OTgxN2Vm`

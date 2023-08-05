@@ -2,7 +2,7 @@
 
 ### [Some Kinda Way](https://open.spotify.com/playlist/37i9dQZF1DWW78Y3ocEppf)
 
-> Let the songs speak\. Cover: Fridayy
+> Let the songs speak\. Cover: Dee Gatti
 
 537 songs - 1 day 4 hr 15 min
 
@@ -77,7 +77,7 @@
 | [Call](https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Call](https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa) | 2:56 | 2022-08-05 | 2023-03-18 |
 | [Can We Be Friends?](https://open.spotify.com/track/0dQ5ByUHcI2ngYfUhCqNLP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Can We Be Friends?](https://open.spotify.com/album/5HqBHeAw3CNbWqu4U3aw6o) | 2:56 | 2021-12-15 | 2022-07-28 |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2022-05-27 | 2022-08-06 |
-| [Care](https://open.spotify.com/track/6tv0ml6tExtwYWCiJfhvmN) | [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb) | [Care](https://open.spotify.com/album/5je4RRaGpRma4N5fK9xhpY) | 1:48 | 2023-03-31 |  |
+| [Care](https://open.spotify.com/track/6tv0ml6tExtwYWCiJfhvmN) | [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb) | [Care](https://open.spotify.com/album/5je4RRaGpRma4N5fK9xhpY) | 1:48 | 2023-03-31 | 2023-08-05 |
 | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge) | 3:12 | 2023-02-10 | 2023-07-22 |
 | [Cartier](https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection Too](https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b) | 3:16 | 2022-07-01 | 2022-08-06 |
 | [cascade road](https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [it's not you, it's me](https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j) | 2:00 | 2023-06-16 |  |
@@ -284,7 +284,7 @@
 | [Lie Like That](https://open.spotify.com/track/6NaMQFeEI19WkQET5hZE0y) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [Lie Like That](https://open.spotify.com/album/5hNZHSZQx91zgMtxYnVp7N) | 2:47 | 2023-02-10 | 2023-03-26 |
 | [Lie to Me](https://open.spotify.com/track/7uO1XDd18BoIWNWd873Qn7) | [Michael from the East](https://open.spotify.com/artist/55nF1IVzx7JDsELhSQiPu4) | [Lie to Me](https://open.spotify.com/album/0D5aDxNLuP56No2g6kZ0yf) | 3:28 | 2021-12-15 | 2022-03-13 |
 | [Lie To Me](https://open.spotify.com/track/4tGGaI4N2KDjmAwXxF1e7P) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Lie To Me](https://open.spotify.com/album/2rJoBiht61YjK4VZVe98kH) | 3:12 | 2021-12-15 | 2022-07-27 |
-| [Life](https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Life](https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi) | 2:55 | 2023-03-10 | 2023-06-03 |
+| [Life](https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Life](https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi) | 2:55 | 2023-03-10 |  |
 | [Like That](https://open.spotify.com/track/2oY4986DElU6NrFdEes54i) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Like That](https://open.spotify.com/album/4D4OYfinl4k37Cht3VHanZ) | 2:19 | 2021-12-15 | 2022-06-25 |
 | [little story](https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [little story](https://open.spotify.com/album/38vZ3y2bFWOfq3VywVdKam) | 3:18 | 2022-02-25 | 2022-07-29 |
 | [LMK](https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:33 | 2023-06-16 |  |
@@ -305,7 +305,7 @@
 | [Maddest Hoes](https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Maddest Hoes](https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU) | 2:34 | 2023-05-05 |  |
 | [Make Me \- Remix](https://open.spotify.com/track/0K6ffjkgxKnkLlWV1XLLzP) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Make Me \(Remix\)](https://open.spotify.com/album/5mtHKQCQXayMQo3XzmsPaG) | 3:41 | 2022-02-18 | 2022-07-22 |
 | [Make Me Stay](https://open.spotify.com/track/3REQkt60mafExNVnJehMdL) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 2:52 | 2022-10-28 |  |
-| [Man on Fire](https://open.spotify.com/track/51lVe8EdMDeH81kkoqlhD5) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Man on Fire](https://open.spotify.com/album/14f7KXWYCNHaOMVOdrMRAp) | 2:24 | 2023-06-16 |  |
+| [Man on Fire](https://open.spotify.com/track/51lVe8EdMDeH81kkoqlhD5) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Man on Fire](https://open.spotify.com/album/14f7KXWYCNHaOMVOdrMRAp) | 2:24 | 2023-06-16 | 2023-08-05 |
 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2022-03-25 | 2022-09-24 |
 | [MIA](https://open.spotify.com/track/5KXkEQx57UUspGxofsA8be) | [Abby Jasmine](https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf) | [I Hate You 2](https://open.spotify.com/album/1QqVbA9TLKTdsVcFn44NGa) | 2:40 | 2021-12-15 | 2022-07-28 |
 | [Mind Gone Mia](https://open.spotify.com/track/1izznWxkCLHrNxXfFFrY3d) | [Notsyd](https://open.spotify.com/artist/1fdV5Xo9WYWD5H6CjE1bCH) | [Mind Gone Mia](https://open.spotify.com/album/3fpnZ3l5Asasp8anlsHSt4) | 3:02 | 2022-04-04 | 2022-06-11 |
@@ -506,7 +506,7 @@
 | [VICES](https://open.spotify.com/track/6XtaPHxQvhFn9p24f2tvRZ) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO](https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp) | 3:03 | 2022-07-15 | 2023-03-18 |
 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 | 2022-09-09 | 2023-04-09 |
 | [WASTE TIME](https://open.spotify.com/track/0pAV6EBJ5nBKbGfi3QpPtB) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:20 | 2022-07-15 | 2022-10-08 |
-| [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 | 2022-09-30 | 2022-10-28 |
+| [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 | 2022-09-30 |  |
 | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 | 2021-12-15 | 2022-08-06 |
 | [Watch It Grow \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/3rNreFbHZADxGFssb4Ohm1) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Long Story Short](https://open.spotify.com/album/7iiMaAnJoNNMFx79tcqyn2) | 2:46 | 2023-03-24 | 2023-05-25 |
 | [Waterfalls](https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Love Scars II](https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs) | 2:41 | 2023-04-14 |  |

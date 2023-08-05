@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 
 > This is Heroes Del Silencio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,654 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,772 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 | 32 | [Los placeres de la pobreza \- 2012 Remastered Version](https://open.spotify.com/track/0f8Hi2EhqSWkabarO3pMTP) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu del Vino\-20th Anniversary Edition](https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa) | 5:00 |
 | 33 | [La espuma de Venus](https://open.spotify.com/track/2lZ0yhSadIy79IP5EDjMe2) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 6:16 |
 | 34 | [Flor de loto](https://open.spotify.com/track/7A0ssOm7kMkPlLPHWpaPUQ) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [The Platinum Collection](https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3) | 6:19 |
-| 35 | [El cuadro](https://open.spotify.com/track/4NqE2hU5HW6tTkYGd4qpgu) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Rarezas](https://open.spotify.com/album/40IpNBUT1eth8c6UTOrBxh) | 2:39 |
+| 35 | [...16](https://open.spotify.com/track/3iWYIYKVgcG7sfGqXwy1ZH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 3:53 |
 | 36 | [Sangre hirviendo \- 2012 Remastered Version](https://open.spotify.com/track/0Y01aV2CFzCawjqFIArGmB) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu del Vino\-20th Anniversary Edition](https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa) | 5:18 |
-| 37 | [...16](https://open.spotify.com/track/3iWYIYKVgcG7sfGqXwy1ZH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 3:53 |
+| 37 | [El cuadro](https://open.spotify.com/track/4NqE2hU5HW6tTkYGd4qpgu) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Rarezas](https://open.spotify.com/album/40IpNBUT1eth8c6UTOrBxh) | 2:39 |
 | 38 | [Nuestros nombres](https://open.spotify.com/track/3SXQxt1VDRzcftYXbodXlf) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [The Platinum Collection](https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3) | 5:57 |
 | 39 | [El cuadro II](https://open.spotify.com/track/3NpOxII1eBUhQ12y8MA8UJ) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 4:06 |
 | 40 | [El camino del exceso \- 2012 Remastered Version](https://open.spotify.com/track/3RazmaCGFiOkLQJW1uOjyU) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu del Vino\-20th Anniversary Edition](https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa) | 5:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 | 49 | [Medicina húmeda](https://open.spotify.com/track/6MnOGlJkoOKRrkVnzw2dcE) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Rarezas](https://open.spotify.com/album/40IpNBUT1eth8c6UTOrBxh) | 3:01 |
 | 50 | [La lluvia gris](https://open.spotify.com/track/3LWr1doKSH2hSfnE9kMX6U) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 4:22 |
 
-Snapshot ID: `MjgxODQ1MTMsMDAwMDAwMDBlY2FjOTY5YzZjNzY3MGZiMmNjOTExZjVmYTFjMjA5Mg==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDA4YjNiMmJhMzcyYmJkN2UwMmMwOWVkN2RmZjQzNjMxMg==`

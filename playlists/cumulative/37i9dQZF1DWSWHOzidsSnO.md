@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! En portada Diana Burco.
 
-224 songs - 12 hr 32 min
+225 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,13 +52,14 @@
 | [Carmen de Bolívar](https://open.spotify.com/track/08KKrMkUXIXa5dvdyab0y1) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Carmen de Bolívar](https://open.spotify.com/album/4mVSPmzmxgaraYSR4LTXfd) | 3:25 | 2022-01-05 | 2022-01-29 |
 | [Cha Cha Cha](https://open.spotify.com/track/02r4y9kqU8GQYX2kg32n6W) | [Anna Carina](https://open.spotify.com/artist/7moMwCf6s2SVquYO0rrlR8) | [Cha Cha Cha](https://open.spotify.com/album/6FhtQQydH3Y6SNb1X6UgFn) | 2:43 | 2023-01-04 |  |
 | [Cherokee](https://open.spotify.com/track/3TTdOAcCkDVru1F7QBK5xX) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cherokee](https://open.spotify.com/album/1AEQlsM7i3sn1evI9WKEJh) | 4:07 | 2023-06-30 |  |
-| [Cobarde](https://open.spotify.com/track/1TCKFV4RdnrifdkLlkZrgi) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i) | [Río Abajo](https://open.spotify.com/album/4VhTCEsjEYiXcI84mSERsJ) | 3:09 | 2023-08-02 |  |
+| [Cobarde](https://open.spotify.com/track/1TCKFV4RdnrifdkLlkZrgi) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i) | [Río Abajo](https://open.spotify.com/album/4VhTCEsjEYiXcI84mSERsJ) | 3:09 | 2023-08-02 | 2023-08-05 |
 | [Cobarde](https://open.spotify.com/track/3w0IdrfXrlmvESogOesvOf) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Cobarde \(feat\. Sergio George\)](https://open.spotify.com/album/5mfrI3ImlLIbkiMaMGM4Uo) | 3:12 | 2023-01-04 |  |
 | [Como de Costumbre](https://open.spotify.com/track/19xJX1qX6cxJtFvrhT57nX) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [Temporal](https://open.spotify.com/album/783Y6IMcxDPLDkFVKSXSXi) | 3:23 | 2023-01-04 |  |
 | [Corazón Cruzado](https://open.spotify.com/track/0n4bTZeW7B9wAqcr5EffZe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Corazón Cruzado](https://open.spotify.com/album/2YYfpE23VaR71QdKbJZUid) | 2:33 | 2022-11-02 |  |
 | [Corazón Ruidoso](https://open.spotify.com/track/2tfzdblmcuXHAcEAEeYD9d) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Corazón Ruidoso](https://open.spotify.com/album/21M2BIe7zTSPUVYbTSrvtS) | 3:17 | 2022-03-04 | 2023-03-04 |
 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 | 2023-08-02 |  |
 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 | 2022-01-05 |  |
+| [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 | 2023-08-04 |  |
 | [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 | 2023-01-04 |  |
 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 | 2022-01-05 | 2022-03-05 |
 | [Cómplices](https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cómplices](https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE) | 3:39 | 2023-05-03 | 2023-07-01 |

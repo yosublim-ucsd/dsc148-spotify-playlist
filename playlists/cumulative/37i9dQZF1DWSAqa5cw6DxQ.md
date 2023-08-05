@@ -4,13 +4,14 @@
 
 > Clear your mind with soothing new age guitar.
 
-151 songs - 7 hr 30 min
+152 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Place For The Mind](https://open.spotify.com/track/1zYZjM45aADOpadCoj82GA) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [A Place For The Mind](https://open.spotify.com/album/7AEyA7APGPAfMC75lHLPwB) | 2:53 | 2022-02-28 |  |
 | [Adrift in Time](https://open.spotify.com/track/41GSq7PxoKXyXNsYNRDSkT) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Something Beautiful](https://open.spotify.com/album/1hom2yJ8gLUvbvSoIWEL1S) | 2:54 | 2022-02-28 |  |
 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 | 2022-02-28 |  |
+| [Aimless](https://open.spotify.com/track/2hIiiNrMvZYbHXT3odD0dP) | [Elevated Ground](https://open.spotify.com/artist/1RzaYiehVD1lcOsYtuY1NV) | [Aimless](https://open.spotify.com/album/3KZfTCIFaPMTIpowpV03vn) | 2:27 | 2023-08-04 |  |
 | [Albizia](https://open.spotify.com/track/0d8caG6gxZ9u0TF6XUcz2v) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Fais de beaux rêves](https://open.spotify.com/album/4LWaeYj3BEJqSOcJ5Blnxo) | 2:22 | 2022-10-21 |  |
 | [Aleph](https://open.spotify.com/track/4YxflJfXcejk4dMsCCjVQ5) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Aleph](https://open.spotify.com/album/3RVeSq0URHjXScaMXDCMJn) | 3:02 | 2022-02-28 |  |
 | [Alignements](https://open.spotify.com/track/33tTpKz41ECTjEJmhzb3zp) | [Samuel Banks](https://open.spotify.com/artist/0YRPAc7JhsviXAElmgcRzU) | [Alignements](https://open.spotify.com/album/7LwE51sYyVwk45hWcIJz5k) | 3:03 | 2023-04-28 |  |
@@ -77,7 +78,7 @@
 | [Kulning](https://open.spotify.com/track/66hBtNKN7ofJ4tWy0kSqQ3) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Kulning](https://open.spotify.com/album/0FQQzyWWFlrWYil8EyTTQw) | 1:50 | 2022-02-28 | 2022-11-23 |
 | [Lake Como](https://open.spotify.com/track/4WstvhelZEHggLOZ4SyOqm) | [Savino Fiorelli](https://open.spotify.com/artist/3UhmIVKpLg4zkoyOTuduU4) | [Lake Como](https://open.spotify.com/album/5oSXlTvivXtQfW0YypVrRi) | 3:03 | 2022-09-30 |  |
 | [Ledande Ljus](https://open.spotify.com/track/2wiHBKhOZicIlyBWYgdyEn) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [Ledande ljus](https://open.spotify.com/album/0eMvV2wJBjoimDJqe49HpD) | 2:48 | 2023-06-16 |  |
-| [Ledande Ljus \(Nature\)](https://open.spotify.com/track/1s1cl2adF275sqQnVD7Par) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [Ledande ljus](https://open.spotify.com/album/0eMvV2wJBjoimDJqe49HpD) | 2:48 | 2023-06-16 |  |
+| [Ledande Ljus \(Nature\)](https://open.spotify.com/track/1s1cl2adF275sqQnVD7Par) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [Ledande ljus](https://open.spotify.com/album/0eMvV2wJBjoimDJqe49HpD) | 2:48 | 2023-06-16 | 2023-08-05 |
 | [Light Within](https://open.spotify.com/track/7rNnrVwbsVBp9ft4i35ARA) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Light Within](https://open.spotify.com/album/4KynjAVJdNcPdu4ZgBzPad) | 2:33 | 2023-01-09 |  |
 | [Lost in the Clouds](https://open.spotify.com/track/199TOFLcLwoW2knx6OTC0l) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Lost in the Clouds](https://open.spotify.com/album/3mhywEiUU6EzcWUdLHB45y) | 3:24 | 2022-02-28 |  |
 | [Luci Scure](https://open.spotify.com/track/1En4zVe0RnD9VxyCdDzwim) | [Armand DeLuca](https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu) | [Luci Scure](https://open.spotify.com/album/6OIQ9uhkkY8QYKbQqrDvUN) | 2:57 | 2022-02-28 |  |

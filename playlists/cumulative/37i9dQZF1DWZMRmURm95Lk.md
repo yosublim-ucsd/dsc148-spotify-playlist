@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Johnny Marsiglia in cover.
 
-293 songs - 17 hr 23 min
+294 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Daimon](https://open.spotify.com/track/64XdgtHEsUoYNqg0ZHyGcb) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Daimon](https://open.spotify.com/album/4GvLhJ5Am3n68AamyaDabP) | 4:06 | 2022-06-23 | 2022-12-06 |
 | [Dalla A Alla Zeta](https://open.spotify.com/track/3Aq2V5lm5dV9z8qwiXByRb) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Turbe Giovanili](https://open.spotify.com/album/7tM5mMXoAWguRCF2tIxnPQ) | 2:47 | 2022-05-12 | 2022-07-29 |
 | [Damn albarn](https://open.spotify.com/track/0zfiMr2NKxBwuRvsknagFu) | [Aleaka](https://open.spotify.com/artist/63sB40l1dT9CV5vXu1E7q1), [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS) | [The almighty birds](https://open.spotify.com/album/79aApijDu3waJhvArpfpR2) | 1:36 | 2022-09-01 | 2022-09-22 |
-| [Deep Underground](https://open.spotify.com/track/0m8s5SJxrCPSujGlGXrclY) | [Sanobusiness](https://open.spotify.com/artist/1oIZY1W4o82NguDHCLC7tC) | [Crossover](https://open.spotify.com/album/2BuLy5HtsEA1QewGs2k9tO) | 1:42 | 2023-08-03 |  |
+| [Deep underground](https://open.spotify.com/track/1renJzRq0HsiltnRCU9wBU) | [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX), [Dj Zeta](https://open.spotify.com/artist/0igQlEtSvEt9px4qy91gSU), [Cricca Dei Balordi](https://open.spotify.com/artist/1ccbDcBQFcS8EtELLqdw4V) | [Sano Business Street Collection, Vol\. 1](https://open.spotify.com/album/4t1n1G2LCCk1AngY8a0cOg) | 1:41 | 2023-08-03 |  |
+| [Deep Underground](https://open.spotify.com/track/0m8s5SJxrCPSujGlGXrclY) | [Sanobusiness](https://open.spotify.com/artist/1oIZY1W4o82NguDHCLC7tC) | [Crossover](https://open.spotify.com/album/2BuLy5HtsEA1QewGs2k9tO) | 1:42 | 2023-08-03 | 2023-08-05 |
 | [Delle Volte](https://open.spotify.com/track/56lf3YqtKy262x9fUQXAmD) | [OneMic](https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25) | [Promo EP](https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n) | 6:08 | 2022-06-16 | 2022-07-29 |
 | [Desideri \(feat\. Ghemon & Frank Siciliano\)](https://open.spotify.com/track/6irVg96EubTPvkRTYasLbA) | [Deda](https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa), [Frank Siciliano](https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3) | [House Party](https://open.spotify.com/album/2b3i8KAQ8vb3BAdNf9oFfy) | 3:36 | 2022-11-08 | 2023-01-13 |
 | [Diario di bordo, Pt\. IV \(BOG \- MXP\)](https://open.spotify.com/track/6BQB4aW5YEu4zrqKgtuQbT) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [Sina Tekle](https://open.spotify.com/artist/5VmuzT089SXxDm3tC45rZn) | [Nicolás \- MXP \(Deluxe Edition\)](https://open.spotify.com/album/3QCzjnrGRZu8qiZMAMUK9r) | 2:41 | 2022-09-22 | 2022-11-25 |

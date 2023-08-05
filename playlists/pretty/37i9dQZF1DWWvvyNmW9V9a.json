@@ -1,12 +1,12 @@
 {
   "description": "hi Barbie! happy August!\ud83e\uddc2\ud83d\udca8",
-  "num_followers": 2081856,
+  "num_followers": 2084628,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2UzNjQxNTcxZjFlMDJkZjVhZTFjNTIyYzc0MDI2YWY2NzBjYmI2",
+  "snapshot_id": "MCw5OWVmNTlmOTE2OGM0ZDZiZDAwMDlhZTZjYzUxZTgzZjkyNDBjNDVm",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -129,20 +129,96 @@
       "url": "https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+        "name": "Mr Right (with Meghan Trainor)",
+        "url": "https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 167035,
+      "name": "Mr Right (with Meghan Trainor)",
+      "url": "https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp"
+    },
+    {
+      "added_at": "2023-08-04 16:16:19",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 173303,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA"
+    },
+    {
+      "added_at": "2023-08-04 05:00:07",
+      "album": {
+        "name": "Delicate (Seeb Remix)",
+        "url": "https://open.spotify.com/album/7gU675c7KZ54MzEcL1O3px"
       },
       "artists": [
         {
           "name": "Taylor Swift",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
         }
       ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+      "duration_ms": 173265,
+      "name": "Delicate - Seeb Remix",
+      "url": "https://open.spotify.com/track/2Sy2oGjP5RYB4cLVoDU0Gz"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -171,18 +247,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Love Like This",
-        "url": "https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7"
+        "name": "I\u2019m Just Ken (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5"
       },
       "artists": [
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
         }
       ],
-      "duration_ms": 173303,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA"
+      "duration_ms": 222633,
+      "name": "I\u2019m Just Ken (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T"
     },
     {
       "added_at": "2023-07-28 03:59:38",
@@ -221,24 +297,72 @@
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-26 14:17:17",
       "album": {
-        "name": "Believe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
+      "duration_ms": 219742,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. Demi Lovato)",
+        "url": "https://open.spotify.com/album/2VVf6P029Bw2sRXV721xui"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. Demi Lovato)",
+      "url": "https://open.spotify.com/track/5zYrD1r49ex3WJk6iVIhfw"
     },
     {
       "added_at": "2023-07-07 04:01:06",
@@ -273,36 +397,20 @@
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     },
     {
-      "added_at": "2023-07-26 14:17:17",
+      "added_at": "2023-08-04 04:58:50",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 219742,
-      "name": "Shameless",
-      "url": "https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "I\u2019m Just Ken (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5"
-      },
-      "artists": [
-        {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        }
-      ],
-      "duration_ms": 222633,
-      "name": "I\u2019m Just Ken (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T"
+      "duration_ms": 208906,
+      "name": "seven",
+      "url": "https://open.spotify.com/track/6KJqZcs9XDgVck7Lg9QOTC"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -387,6 +495,22 @@
       "duration_ms": 161712,
       "name": "I'm Not Crazy",
       "url": "https://open.spotify.com/track/3fiMmMyvoBGjfU9BWkTNWM"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "TGIF",
+        "url": "https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -577,6 +701,22 @@
       "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK"
     },
     {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Casual Kisser",
+        "url": "https://open.spotify.com/album/2gzL4mfz5BiHfsUvZdyI79"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "Casual Kisser",
+      "url": "https://open.spotify.com/track/6vS9XivvbeoxUMUywhHSuc"
+    },
+    {
       "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Mirror",
@@ -639,6 +779,22 @@
       "duration_ms": 147880,
       "name": "Cool With You",
       "url": "https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/4PMdq7Q7xOFrY424ZelZEb"
     },
     {
       "added_at": "2023-07-24 18:35:06",
@@ -763,6 +919,22 @@
       "duration_ms": 353253,
       "name": "Enchanted (Taylor's Version)",
       "url": "https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Why Can\u2019t I Have Two? (2468) / DILF",
+        "url": "https://open.spotify.com/album/5R06NvE2q2iQm8akxCC3F5"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "duration_ms": 139476,
+      "name": "DILF",
+      "url": "https://open.spotify.com/track/2Q8Ky0A9wVrjIiQIcUfYz4"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1013,22 +1185,6 @@
       "url": "https://open.spotify.com/track/7dGXSUVah5IfIeymPFZ5vM"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Made In The A.M. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 200533,
-      "name": "What a Feeling",
-      "url": "https://open.spotify.com/track/0iSWAT0EL8TwmzcgBjKMh6"
-    },
-    {
       "added_at": "2023-07-28 03:59:38",
       "album": {
         "name": "First Band On The Moon (Remastered)",
@@ -1091,22 +1247,6 @@
       "duration_ms": 187723,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/4PMdq7Q7xOFrY424ZelZEb"
     },
     {
       "added_at": "2023-06-03 13:40:07",
@@ -1189,22 +1329,6 @@
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Never Ending Song",
-        "url": "https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 155202,
-      "name": "Never Ending Song",
-      "url": "https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "Good Times Go",
@@ -1239,30 +1363,6 @@
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
-    },
-    {
-      "added_at": "2023-06-02 20:49:53",
-      "album": {
-        "name": "Popular (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
-      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1469,22 +1569,6 @@
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "emails i can't send",
@@ -1499,22 +1583,6 @@
       "duration_ms": 163648,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1555,22 +1623,6 @@
       "duration_ms": 239888,
       "name": "Escapism. - Sped Up",
       "url": "https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz"
-    },
-    {
-      "added_at": "2023-03-16 04:48:14",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
     },
     {
       "added_at": "2023-02-03 05:00:00",

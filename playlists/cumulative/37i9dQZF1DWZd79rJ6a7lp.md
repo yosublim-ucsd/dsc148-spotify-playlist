@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-807 songs - 1 day 16 hr 41 min
+808 songs - 1 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,6 +682,7 @@
 | [Stillness](https://open.spotify.com/track/6cn3ydXeMViI9FKbvU5yC6) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Stillness](https://open.spotify.com/album/1tFhGEgEpA4bkmdYp2zYQ3) | 2:30 | 2020-12-04 | 2021-10-23 |
 | [Stimmung](https://open.spotify.com/track/6mmma8gbZNJcTkG40Nr2vx) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Stimmung](https://open.spotify.com/album/03M9YKu5qpJzxxPKx076fA) | 2:18 | 2021-05-04 | 2021-10-30 |
 | [Stories](https://open.spotify.com/track/0ETgVH10Y5yiljMWO5kNtV) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Stories](https://open.spotify.com/album/6rxRh7wYIckgED89wMQwE5) | 2:52 | 2021-09-03 | 2023-06-10 |
+| [Straight Ahead](https://open.spotify.com/track/15SPWU4M4H0yhK5Nto68Kb) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Frictionless](https://open.spotify.com/album/0MUMMXAt41woVXxQ5BssVh) | 2:56 | 2023-08-04 |  |
 | [Stream Of Somnolence](https://open.spotify.com/track/2J3PRFCSCcuyHY4Dfi4hbh) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Stream Of Somnolence](https://open.spotify.com/album/1WyX4lP1K5UAGEerqUchTZ) | 3:05 | 2022-03-15 | 2023-03-10 |
 | [Stuck In A Dream](https://open.spotify.com/track/26S0ebDSZX2BBmDXQhpsrq) | [Joyce Dulaney](https://open.spotify.com/artist/5fdxuo0vbjD6xK1zty3Kvi) | [Stuck In A Dream](https://open.spotify.com/album/1aUbffKm9QcEYO7ZTOplKQ) | 2:48 | 2020-10-20\* | 2021-03-14 |
 | [Sueno](https://open.spotify.com/track/6ZUPb0L9JcZM1e7c1nGCIx) | [Roland Mercier](https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa) | [Sueno](https://open.spotify.com/album/6y6lWnmpKOMXvYJgNcXKvs) | 2:43 | 2021-01-21 | 2021-10-23 |

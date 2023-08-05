@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-217 songs - 11 hr 29 min
+219 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Another Routine Day Breaks](https://open.spotify.com/track/3zgpJfyPtpX38aZUnu4peT) | [Brokeback](https://open.spotify.com/artist/2iQyHU4IeFpP9lU6OTtfKE) | [Field Recordings from the Cook County Water Table](https://open.spotify.com/album/32zOl1bVoUW35RlXQ9sGu1) | 5:00 | 2022-03-30 |  |
 | [Anthem for No State, Pt\. I](https://open.spotify.com/track/16CsL4rZzbx3MttvLucFs8) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/2eOMttZbB9lBc9LLMj56xj) | 3:05 | 2022-03-30 | 2022-07-29 |
 | [Anthem for No State, Pt\. I](https://open.spotify.com/track/5EXm1kIT9hxrGdCwdJKpDr) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 3:05 | 2022-07-15 | 2023-07-22 |
+| [Aquarious](https://open.spotify.com/track/6g7keElPVodgBUw450CRWO) | [FoaM](https://open.spotify.com/artist/1XEXjIZsZ178A5msOFALpu) | [Aquarious](https://open.spotify.com/album/1Hw4krAnuUAfTWWNI4tnDW) | 1:44 | 2023-08-04 |  |
 | [Asparagus](https://open.spotify.com/track/4f6TUxoYmaY3zKvZZg7QOd) | [Chris Wood](https://open.spotify.com/artist/4BPvG2S70zaX8zwlHlooqZ) | [Handmade Life](https://open.spotify.com/album/7kRT0cIG57gQnrSgHxCHhY) | 3:49 | 2022-03-30 | 2022-11-18 |
 | [At The Meadows](https://open.spotify.com/track/3lNjQSSfa7SFJkLZWiAsaL) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [At The Meadows](https://open.spotify.com/album/4rcgEBuwQNrXOEdIE67RBf) | 2:25 | 2022-05-25 |  |
 | [Ataraxis](https://open.spotify.com/track/2m33pIkWBFub681XX7uU2C) | [The Lauras](https://open.spotify.com/artist/74peGW942Kitctt6pBEeUg) | [Ataraxis](https://open.spotify.com/album/3hMe7PdgB6dGx5J7HEJWvb) | 2:05 | 2023-02-03 |  |
@@ -97,6 +98,7 @@
 | [koime](https://open.spotify.com/track/2yJ8wsGlt6CGMH05mPecu9) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Syukujitu](https://open.spotify.com/album/0UrFBt7UW7R9J7CG2L481e) | 3:02 | 2023-03-23 |  |
 | [Les Paul Sanitarium](https://open.spotify.com/track/3HZOYhBlwuAVKO9wxT66B1) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXI](https://open.spotify.com/album/2mIu9oDUCuMCdowK2ocHYt) | 1:57 | 2022-03-30 |  |
 | [lessly](https://open.spotify.com/track/2U62UKX9kl7lHsLn5ANsZp) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [Neighborly Nod](https://open.spotify.com/album/1C7RHVtYees2YEL00XSsbs) | 2:23 | 2023-03-31 |  |
+| [Life Balance](https://open.spotify.com/track/5Fy3qUli32XAqwvMibwibE) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Start Somewhere](https://open.spotify.com/album/45Qh4kJ9fSnjo6awLgYew8) | 3:20 | 2023-08-04 |  |
 | [line up](https://open.spotify.com/track/4RQFT3aZPjhuafwXNUnL6x) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [line up](https://open.spotify.com/album/1FzTPoHFZ0QDthxwSHCBgl) | 2:25 | 2022-03-30 |  |
 | [lips list](https://open.spotify.com/track/632FOOc5n5wRJbBvqWliwT) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [lips list](https://open.spotify.com/album/3O4rUMESlirkPiWXU26MFO) | 3:12 | 2022-03-30 |  |
 | [Loosen Up](https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h) | [Cake House](https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB) | [Loosen Up](https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo) | 2:27 | 2022-03-30 |  |

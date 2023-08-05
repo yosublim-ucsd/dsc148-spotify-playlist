@@ -4117,6 +4117,24 @@
     },
     {
       "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172892,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
+    },
+    {
+      "album": {
         "name": "Marshmallow",
         "url": "https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx"
       },

@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 192000,
       "name": "Act Bad",
       "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 177733,
       "name": "Baby (feat. Ashanti)",
       "url": "https://open.spotify.com/track/4wHkV6OpCanrNg2PRNhWjM"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 175112,
       "name": "BIRTHDAY",
       "url": "https://open.spotify.com/track/1upSmzMw8d6DfAYkgXSCQ5"
@@ -2169,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "Confirmation",
+        "url": "https://open.spotify.com/album/5U4deWruWEu8HcWXc1E7eY"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Confirmation",
+      "url": "https://open.spotify.com/track/2Sym6hOXUGlWUSR43cJkj3"
+    },
+    {
+      "album": {
         "name": "Confujawn (feat. Nija)",
         "url": "https://open.spotify.com/album/1ruWQM9ZBDvP9RFwfV6DHA"
       },
@@ -2568,7 +2586,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 274137,
       "name": "DELRESTO (ECHOES) (feat. Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
@@ -3541,6 +3559,28 @@
     },
     {
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "album": {
         "name": "Feel Good (feat. Lil Tjay)",
         "url": "https://open.spotify.com/album/6dbeacXCPoTEfTqfVQ9IvX"
       },
@@ -4000,7 +4040,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 137263,
       "name": "Fruit Loop",
       "url": "https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim"
@@ -5373,6 +5413,24 @@
     },
     {
       "album": {
+        "name": "It's Getting Hot",
+        "url": "https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134424,
+      "name": "It's Getting Hot",
+      "url": "https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz"
+    },
+    {
+      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
       },
@@ -5475,6 +5533,32 @@
     },
     {
       "album": {
+        "name": "Lonestar Luchador",
+        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "DRODi",
+          "url": "https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Johnny Dang (with Paul Wall & DRODi)",
+      "url": "https://open.spotify.com/track/6XEt23sq6sRgER8sSZbCR5"
+    },
+    {
+      "album": {
         "name": "Jupiter & Mars",
         "url": "https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU"
       },
@@ -5530,7 +5614,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 185220,
       "name": "K-POP",
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
@@ -6490,6 +6574,24 @@
       "duration_ms": 135253,
       "name": "Make My Day (with David Guetta)",
       "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
+    },
+    {
+      "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172892,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
     },
     {
       "album": {
@@ -7857,6 +7959,24 @@
     },
     {
       "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "album": {
         "name": "5LBS OF PRESSURE",
         "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
       },
@@ -8128,7 +8248,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 217954,
       "name": "Peso a Peso",
       "url": "https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh"
@@ -8534,7 +8654,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 160821,
       "name": "Privileged Rappers",
       "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
@@ -9713,6 +9833,24 @@
     },
     {
       "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/5ebkIuetHLio3kC1E9CxmU"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149565,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/00rMGQGXFeY2VQTrg7SWde"
+    },
+    {
+      "album": {
         "name": "Crazy Girls",
         "url": "https://open.spotify.com/album/4v2qjXfnaXaqzjeAgG2ArU"
       },
@@ -10338,6 +10476,24 @@
       "duration_ms": 144344,
       "name": "Stressed (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
+    },
+    {
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/5ebkIuetHLio3kC1E9CxmU"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148115,
+      "name": "Strike (Holster)",
+      "url": "https://open.spotify.com/track/6ZL4X5uh8VAiXFXLtedTVI"
     },
     {
       "album": {

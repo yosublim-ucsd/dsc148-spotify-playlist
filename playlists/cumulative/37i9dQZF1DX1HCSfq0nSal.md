@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Saiko
 
-410 songs - 22 hr 47 min
+412 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Corazón Roto \- Remix](https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto \(Remix\)](https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF) | 4:35 | 2023-04-17 |  |
 | [Cosa Guapa](https://open.spotify.com/track/5o9NxjgOMpdGDYswuNv7yu) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 4:15 | 2022-01-07 | 2022-04-14 |
 | [Cosas Locas 2.0](https://open.spotify.com/track/0R4ZQFb0RmTAiQY22SbnSM) | [Danny Romero](https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ) | [Cosas Locas 2.0](https://open.spotify.com/album/5PMH8pV4lGzvyEY3PWcTVz) | 4:52 | 2023-03-28 | 2023-06-30 |
+| [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 | 2023-08-04 |  |
 | [Cuerpecito](https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Cuerpecito](https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad) | 3:15 | 2023-03-31 | 2023-06-08 |
 | [CXO \(A Quién No Le Gusta\)](https://open.spotify.com/track/5Oticg4aAjACVhbzqe6KDY) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [CXO \(A Quién No Le Gusta\)](https://open.spotify.com/album/77istRQF1XwnI20tjlcwYu) | 3:56 | 2022-09-05 | 2022-09-20 |
 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2022-08-08 | 2022-10-18 |
@@ -287,6 +288,7 @@
 | [PERO TÚ](https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:03 | 2023-02-24 | 2023-04-11 |
 | [Perreito Under](https://open.spotify.com/track/6l0pG6obvyfFGeSUI3aS5y) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Perreito Under](https://open.spotify.com/album/5x6HNSub3IXwgDrvv1ond5) | 3:06 | 2022-04-08 | 2022-04-22 |
 | [Perreándote](https://open.spotify.com/track/4cDQww3uOWSzIsFuomZbi0) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v) | [Perreándote](https://open.spotify.com/album/4e5N2epYMuOoWDu11UrkwV) | 3:26 | 2023-02-28 | 2023-04-11 |
+| [Piedritas En Los Dientes](https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Piedritas En Los Dientes](https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A) | 2:36 | 2023-08-04 |  |
 | [Piel de Cordero](https://open.spotify.com/track/04d4GpLedinwpfctvgOIhY) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [Piel de Cordero](https://open.spotify.com/album/5VIiMnuhe882wXxhOdXGdf) | 3:33 | 2022-07-26 | 2022-11-15 |
 | [Piel de Cordero](https://open.spotify.com/track/43Tf6aMFSw2vP7IHBWsA1R) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [Piel de Cordero](https://open.spotify.com/album/4m55xXBvpVcsO3CHXAJItH) | 3:33 | 2022-02-10 | 2022-07-29 |
 | [Piensan](https://open.spotify.com/track/1A9PKAFEHMWgXNLpgf7k4J) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 2:53 | 2023-02-14 |  |

@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-496 songs - 1 day 9 hr 49 min
+497 songs - 1 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [LOMP](https://open.spotify.com/track/5Au7IBDfjqXhhrFSu6AkOU) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd), [Chima](https://open.spotify.com/artist/4i1UhzFZ5BK4tDuShC4Uwk) | [LOMP](https://open.spotify.com/album/45xLAc2wSAb10MYg3S3hOL) | 4:20 | 2023-03-07 | 2023-03-25 |
 | [Lonely Bones](https://open.spotify.com/track/5HFzAeZkaTDBhlaqwcRmeL) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Hot Mess](https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO) | 3:04 | 2022-10-20 | 2023-01-06 |
 | [Lonely Love Song](https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Lonely Love Song](https://open.spotify.com/album/133u1HCKHE50wMw0PrcKFg) | 2:37 | 2023-03-09 | 2023-04-22 |
-| [Looking in the Same Direction](https://open.spotify.com/track/57qvXY4KW4rambl2zbKRPk) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Looking in the Same Direction](https://open.spotify.com/album/58YNDEVDlJwLBnZCUCy1Mv) | 4:04 | 2023-08-03 |  |
+| [Looking in the Same Direction](https://open.spotify.com/track/3223tV7OEezdOyG2CxXKzi) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Looking in the Same Direction](https://open.spotify.com/album/0dnnSN7ZOeMC3O3UutSPHU) | 4:04 | 2023-08-03 |  |
+| [Looking in the Same Direction](https://open.spotify.com/track/57qvXY4KW4rambl2zbKRPk) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Looking in the Same Direction](https://open.spotify.com/album/58YNDEVDlJwLBnZCUCy1Mv) | 4:04 | 2023-08-03 | 2023-08-05 |
 | [Lost at Sea](https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ) | 3:07 | 2023-06-01 |  |
 | [Love On The Run](https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 7:03 | 2022-10-20 | 2023-02-08 |
 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 | 2023-02-28 | 2023-07-05 |

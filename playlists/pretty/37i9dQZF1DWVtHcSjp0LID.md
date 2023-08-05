@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,716 likes - 50 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,764 likes - 50 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 33 | [Arterial](https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [Arterial](https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH) | 4:14 |
 | 34 | [Neverland \- Aparde Remix](https://open.spotify.com/track/6Z5NPPpYnWRxGHQyWz2bPx) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Stars Wrapped In Skin EP](https://open.spotify.com/album/493mL9Bv6rYSOjTj8CLFJr) | 6:27 |
 | 35 | [Knowing We'll Be Here](https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Drone Logic](https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92) | 5:42 |
-| 36 | [The Year After](https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [The Year After](https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M) | 7:08 |
-| 37 | [Bluebird](https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Kopernikus EP](https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8) | 7:20 |
+| 36 | [Bluebird](https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Kopernikus EP](https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8) | 7:20 |
+| 37 | [The Year After](https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [The Year After](https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M) | 7:08 |
 | 38 | [Nektar Leftie MIX \- Erdbeerschnitzel Remix](https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Lisa Toh](https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO), [Erdbeerschnitzel](https://open.spotify.com/artist/36VqKnfwNzccEtS4eiFkMx) | [Moon II Remixes Pt\. II](https://open.spotify.com/album/7xlT3P0bDwaphbAUhIYYpD) | 4:37 |
 | 39 | [Between Dreams and Reality \- Niko Schwind Remix](https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2), [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM) | [Between Dreams and Reality EP](https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4) | 8:48 |
 | 40 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 49 | [Forests](https://open.spotify.com/track/0ftXz1tRf3qdZ1T7Ffo29u) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Beaches](https://open.spotify.com/album/4dMstCvm1yGTowsiiKE3ec) | 6:59 |
 | 50 | [3010](https://open.spotify.com/track/4VM51LB2UMAitSSunxVrnV) | [Cinnamon Chasers](https://open.spotify.com/artist/3q7uty73JMtjzCSJdGQD7B) | [Doorways](https://open.spotify.com/album/77BphdStN47PTh2OOBwXaE) | 3:48 |
 
-Snapshot ID: `MCw3MDViODBiYTMxMzQzZWQ0NGYzMDkwZmFkNjU3MDBjZDI5ZDBkZWMw`
+Snapshot ID: `MCwzNGMxNGE5OWQ0MjAyMGFlMmI0Y2U2YjZkZmJhYjMwNDlhZTZkOGQ5`

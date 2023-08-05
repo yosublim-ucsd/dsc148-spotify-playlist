@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Frank Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,973 likes - 106 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,989 likes - 106 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 105 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 |
 | 106 | [Tonto](https://open.spotify.com/track/33wYgNxWB4MXTiv6L36SoO) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP) | [Country Pop Latino](https://open.spotify.com/album/2UXkZRTHGwRSVKSwbdtwqm) | 3:00 |
 
-Snapshot ID: `MCw5NDY0MDkxNjY0NGVkZTI1N2IxNzgzNWUyNTYwYTBhZjY4MjZhZTEw`
+Snapshot ID: `MCxhYWU3YjBlMGE3ZGQwODEyZTQ2ODQ4MjQ3YTc4ODM5OTk5ZjJiNmI2`

@@ -1,12 +1,12 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 217630,
+  "num_followers": 217840,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTgyYjA3MTg1NzA2NmY5ZmFhMDBlYmRiNzUyZTJkYTE4NTQzYTli",
+  "snapshot_id": "MCw2Y2E2NTQ5NzdlZDE1NjcyNGE5ZmVjZDFjYWFiNGI4ZDY5ZGY1MjJi",
   "tracks": [
     {
       "added_at": "2022-04-19 07:27:57",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
+        "name": "First Invasion",
+        "url": "https://open.spotify.com/album/2owdMeDAA6ahK6OE7xSKD8"
+      },
+      "artists": [
+        {
+          "name": "INFINITE",
+          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Come Back Again",
+      "url": "https://open.spotify.com/track/5m6yaiNQ3VxeVmITSTBGvQ"
+    },
+    {
+      "added_at": "2022-04-19 07:27:57",
+      "album": {
         "name": "BLAQ Style",
         "url": "https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 207255,
       "name": "POISON",
       "url": "https://open.spotify.com/track/2r5xY48FMJ35oD3lKXl9eB"
-    },
-    {
-      "added_at": "2022-04-19 07:27:57",
-      "album": {
-        "name": "First Invasion",
-        "url": "https://open.spotify.com/album/2owdMeDAA6ahK6OE7xSKD8"
-      },
-      "artists": [
-        {
-          "name": "INFINITE",
-          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Come Back Again",
-      "url": "https://open.spotify.com/track/5m6yaiNQ3VxeVmITSTBGvQ"
     },
     {
       "added_at": "2022-04-19 07:27:57",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "Y",
-        "url": "https://open.spotify.com/album/4fajjTR9Fr9mLYV54l6Wh5"
+        "name": "With L.O.V.E Brown Eyed Girls",
+        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
       },
       "artists": [
         {
-          "name": "MBLAQ",
-          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 208523,
-      "name": "Y",
-      "url": "https://open.spotify.com/track/3xVGwwax3gAPAkJewnB2eZ"
+      "duration_ms": 217626,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
     }
   ],
   "unique_name": "Millennium K-Pop",

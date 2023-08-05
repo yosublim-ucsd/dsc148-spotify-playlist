@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,244 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,255 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 25 | [Nada](https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 3:58 |
 | 26 | [Mujer niña y amiga](https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7) | [Alicia Vignola](https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A) | [Azsulado](https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM) | 3:16 |
 | 27 | [Pipistrela](https://open.spotify.com/track/6MZlsIdezdAiBwrZrxweNd) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP), [Francisco Canaro Y Su Orquesta Tipica](https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 1:53 |
-| 28 | [Milonga Sentimental](https://open.spotify.com/track/1uJeHbIPeOKGfEEJujJkP7) | [Mercedes Simone](https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W) | [Presentando a Mercedes Simone](https://open.spotify.com/album/6HNgJ8dZflujytFtS4TUm3) | 2:38 |
-| 29 | [Baldosa Floja](https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Canta](https://open.spotify.com/album/6PDbU5wE5nZCAkXVIuvVm8) | 2:10 |
+| 28 | [Baldosa Floja](https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Canta](https://open.spotify.com/album/6PDbU5wE5nZCAkXVIuvVm8) | 2:10 |
+| 29 | [Milonga Sentimental](https://open.spotify.com/track/1uJeHbIPeOKGfEEJujJkP7) | [Mercedes Simone](https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W) | [Presentando a Mercedes Simone](https://open.spotify.com/album/6HNgJ8dZflujytFtS4TUm3) | 2:38 |
 | 30 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 |
 | 31 | [Morocha Triste](https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428) | [Dolores Solá](https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV) | [Salto Mortal \(Canta a Gardel, Corsini y Magaldi\)](https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb) | 2:12 |
 | 32 | [Confidencias](https://open.spotify.com/track/53573za1S0cPRlR9TudWro) | [Mirta Uguet](https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O) | [Un sueño de barrio](https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz) | 3:28 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 54 | [O Mundo](https://open.spotify.com/track/5PcNboFYzIcbgOjNhSzMgX) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Tiempo Mariposa](https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P) | 4:09 |
 | 55 | [Nunca Tuvo Novio](https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu) | [Rita Cortese](https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3) | [El Amor Ese Loco Berretin](https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj) | 3:38 |
 
-Snapshot ID: `MCw5NWE4ZDYyNzNlNjA2OTUzZDkwY2MyMzZlNjFjYmEyYzQ2YmU2YTg5`
+Snapshot ID: `MCwwOTBlMjlkMDAxY2QwYWNhNmZjOGM3ZTM5NWY3MzFjYTc5YWQyYWQ2`

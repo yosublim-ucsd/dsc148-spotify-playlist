@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: BIA
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Doja Cat
 
-375 songs - 16 hr 59 min
+377 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Ass Kickin'](https://open.spotify.com/track/5hq7feH89FieadyB13oo5p) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Ass Kickin'](https://open.spotify.com/album/7xDQYORtibCfUwIFLwtCJh) | 1:57 | 2023-05-12 | 2023-05-27 |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-16 |  |
 | [Aye Yai Yai \(with Yung Bleu\)](https://open.spotify.com/track/2QODQZUTSvhdAdXvQO418e) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:03 | 2022-04-08 | 2022-06-04 |
-| [B.T.W](https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [B.T.W](https://open.spotify.com/album/663RYnWALwCApODIwyqG1d) | 2:04 | 2023-07-07 |  |
+| [B.T.W](https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [B.T.W](https://open.spotify.com/album/663RYnWALwCApODIwyqG1d) | 2:04 | 2023-07-07 | 2023-08-05 |
 | [BABA](https://open.spotify.com/track/2qHdVNExsj55FceFa5S2H9) | [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx) | [BABA](https://open.spotify.com/album/0ul94TyUxPe3jpBcZ1VUkS) | 3:12 | 2022-07-15 | 2022-10-22 |
 | [Baby Boo \(with Saweetie\)](https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Baby Boo](https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4) | 2:32 | 2022-06-10 | 2022-10-01 |
 | [Back 2 the Streets](https://open.spotify.com/track/3Z9aukqdW2HuzFF1x9lKUm) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Back 2 the Streets](https://open.spotify.com/album/6pxGbRgcLTydadzpqcXBLg) | 2:40 | 2023-02-03 | 2023-03-11 |
@@ -201,6 +201,7 @@
 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 | 2023-04-14 |  |
 | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/track/5Q6pQ8G99rjTeCgHTMev7X) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/album/6QcDsGaAocffXZY828eh8q) | 2:46 | 2022-01-21 | 2022-02-26 |
 | [Lick Or Sum](https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR) | 2:21 | 2023-05-26 |  |
+| [Lick The Cat](https://open.spotify.com/track/2KXNASNJIOz6VPKMzD44oM) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [RESILIENCE](https://open.spotify.com/album/6oq03SmM5eN38iNZOFpjmx) | 2:40 | 2023-08-04 |  |
 | [Like A Thug \(feat\. Lil Durk\)](https://open.spotify.com/track/363CJiT1VE431JUGLdJEEc) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:52 | 2022-03-25 | 2022-04-16 |
 | [Like Dat](https://open.spotify.com/track/0Jpy3D9eHScoriQ8VJaJN8) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Like Dat](https://open.spotify.com/album/3vUjwG73H1QBNs3W3HuyNn) | 2:45 | 2023-06-09 |  |
 | [Like That](https://open.spotify.com/track/4sRA220I8uSmsF0rffzGU8) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Like That](https://open.spotify.com/album/23kypbkgaHakfqAyvWZw0o) | 2:28 | 2022-02-18 | 2022-03-05 |
@@ -254,6 +255,7 @@
 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 | 2023-06-23 |  |
 | [Outside \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5zbxkF1osnZlRAknPax4D9) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Outside](https://open.spotify.com/album/0qWG2omWgkNk3bgF7CqgEA) | 3:16 | 2022-09-16 | 2022-11-12 |
 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 | 2022-04-08 | 2022-06-11 |
+| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-04 |  |
 | [Party](https://open.spotify.com/track/5jVz1uIesoS2K5nSLguj2s) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Party](https://open.spotify.com/album/52SDAY1Ky5h9gKOlxPYKiO) | 3:53 | 2021-11-12 | 2022-02-05 |
 | [PBC](https://open.spotify.com/track/4DDiIZDlRldzWuCp47TIhU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [PBC](https://open.spotify.com/album/06IJHrNnxOYwvOjT3RBl0i) | 2:34 | 2022-02-25 | 2022-06-18 |
 | [Pedi](https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Pedi](https://open.spotify.com/album/0sy5zTEXULEyswNOxnAoLU) | 2:05 | 2021-10-29 | 2022-03-12 |
@@ -358,7 +360,7 @@
 | [Turn It Up](https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Turn It Up](https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE) | 2:02 | 2023-04-28 | 2023-05-27 |
 | [TWINNEM](https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [TWINNEM](https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr) | 1:57 | 2021-09-24 | 2022-02-19 |
 | [Unh Unh](https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:49 | 2022-11-11 | 2022-12-17 |
-| [Universal Swamp Anthem](https://open.spotify.com/track/3vEzKZChwKqtMtnw0akleb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Universal Swamp Anthem](https://open.spotify.com/album/4JHY4CcJw6HAzndCzZMaL1) | 2:31 | 2023-07-28 |  |
+| [Universal Swamp Anthem](https://open.spotify.com/track/3vEzKZChwKqtMtnw0akleb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Universal Swamp Anthem](https://open.spotify.com/album/4JHY4CcJw6HAzndCzZMaL1) | 2:31 | 2023-07-28 | 2023-08-05 |
 | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7) | 3:38 | 2022-02-11 | 2022-06-11 |
 | [Used \(feat\. Don Toliver\)](https://open.spotify.com/track/1TweDM3JC49LNeelLVg3yX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:26 | 2022-12-09 | 2022-12-24 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-05-06 | 2022-12-03 |

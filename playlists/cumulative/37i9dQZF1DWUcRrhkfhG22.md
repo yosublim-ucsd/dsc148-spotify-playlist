@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-95 songs - 7 hr 10 min
+96 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Contagious](https://open.spotify.com/track/2TsASKFLtMb6M1D8W42pS3) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Contagious](https://open.spotify.com/album/4fbDHh7p8PDxoPMjlesQsA) | 3:53 | 2020-09-18 | 2023-04-21 |
 | [Contagious](https://open.spotify.com/track/5X4PAws5oW5K22G6Ic17AV) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Panorama: Form](https://open.spotify.com/album/5JHsZYG9ai1cW6YEZ0Rh2v) | 3:53 | 2020-09-18 |  |
 | [Crazy](https://open.spotify.com/track/0kUxknsCizotSJvigXGz78) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream](https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS) | 5:18 | 2020-10-30 |  |
+| [Customized](https://open.spotify.com/track/1GlAErHGsY4EVlmx9v12Iq) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP) | [Customized](https://open.spotify.com/album/6cTbL1vRVLNLF4RoNxr4rA) | 3:17 | 2023-08-04 |  |
 | [Daft Funk \(feat\. Mr\. Talkbox\)](https://open.spotify.com/track/0tgGNtJNQfD6I6F1DuqEoc) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Nathan East](https://open.spotify.com/album/0YvZVmKkFKuyYSPzMTLTwj) | 4:47 | 2020-09-18 |  |
 | [Dance And Get Your Funky On](https://open.spotify.com/track/7d5cRPlf0aAHgQvu9mOxbk) | [Woddyfunk](https://open.spotify.com/artist/4TfsQDVMAkODsfTys9hOUT) | [What's My Name?](https://open.spotify.com/album/4tkibNa3vdgTgE1Z0KXU8T) | 4:29 | 2020-09-18 |  |
 | [Dance The Night Away](https://open.spotify.com/track/5YxD0O5KR5MTrTnwujFziJ) | [Diamond Lounge](https://open.spotify.com/artist/3GoqvGUih77Q03m7CkusNb), [People Of The Parallel](https://open.spotify.com/artist/1xl5tmlVgmpLe6NOL1IjQm) | [Dance The Night Away](https://open.spotify.com/album/7HovFkCzy5Z9Hi1o9KWNcx) | 3:14 | 2021-01-08 |  |

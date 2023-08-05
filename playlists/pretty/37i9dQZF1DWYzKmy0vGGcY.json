@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James.",
-  "num_followers": 258028,
+  "num_followers": 258253,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTI1MjRmODQxYjJmODI1MWUxYmUxNTVjZmM0MjA4ZjViMTAwYjcw",
+  "snapshot_id": "MCxiMDBjNDE5ZDg5MWIyNzE3ODc5NjMxY2UyOGU5MmJhMjIzMDMzOGNm",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "I'll Never Fall in Love Again",
-        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "I'll Never Fall in Love Again",
-      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Wichita Lineman (Remastered)",
         "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 186200,
       "name": "Wichita Lineman - Remastered 2001",
       "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "I'll Never Fall in Love Again",
+        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "I'll Never Fall in Love Again",
+      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Stay Awhile / I Only Want To Be With You",
-        "url": "https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "Wishin' And Hopin'",
-      "url": "https://open.spotify.com/track/1UBcwKIAUHo7BYAvae6yeA"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Ooo Baby Baby: The Anthlogy",
         "url": "https://open.spotify.com/album/7iNG3yfard0TYDWKTFC6qr"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 191000,
       "name": "You've Really Got A Hold On Me",
       "url": "https://open.spotify.com/track/1vG906bxMqUVufJoLSF4rV"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Stay Awhile / I Only Want To Be With You",
+        "url": "https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Wishin' And Hopin'",
+      "url": "https://open.spotify.com/track/1UBcwKIAUHo7BYAvae6yeA"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Anyone Who Had a Heart",
-        "url": "https://open.spotify.com/album/6wdZ2YwGsOGmhlrmlglpsc"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 184226,
-      "name": "Anyone Who Had a Heart",
-      "url": "https://open.spotify.com/track/2BQZvZsA9SRafvWEBSQnri"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Gary Puckett & The Union Gap Featuring \"Young Girl\"",
         "url": "https://open.spotify.com/album/3Q83WkHiw4oRcmjuRbHJ8M"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 252146,
       "name": "Honey (I Miss You)",
       "url": "https://open.spotify.com/track/7eErg4xYy85zjy10xsZop6"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Anyone Who Had a Heart",
+        "url": "https://open.spotify.com/album/6wdZ2YwGsOGmhlrmlglpsc"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 184226,
+      "name": "Anyone Who Had a Heart",
+      "url": "https://open.spotify.com/track/2BQZvZsA9SRafvWEBSQnri"
     },
     {
       "added_at": "2022-05-30 13:00:37",

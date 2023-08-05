@@ -4,7 +4,7 @@
 
 > Yeek & Paris Texas make anti pop.
 
-1,455 songs - 2 day 22 hr 8 min
+1,459 songs - 2 day 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -892,6 +892,7 @@
 | [Note To Self \(feat\. Empress Of\) \- Rostam Remix](https://open.spotify.com/track/0bUmFZbZV0vvQppA6nphj4) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Note To Self \(feat\. Empress Of\) \[Rostam Remix\]](https://open.spotify.com/album/2zdW6Dm8aIdj14q4qVICkv) | 2:53 | 2021-07-04 | 2021-10-13 |
 | [Nothing Good](https://open.spotify.com/track/0AOgY0pLb1m57uB74YPAGt) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm) | [Nothing Good](https://open.spotify.com/album/3sfwcZLjmpkMOcNN7A6omn) | 3:42 | 2021-05-08 | 2021-10-13 |
 | [Notice Me](https://open.spotify.com/track/1FU2aAHgjqgsw4gY4BkbXS) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Notice Me](https://open.spotify.com/album/4LYOhB4O7qq3mtPYKPG38S) | 2:35 | 2020-10-23 | 2021-10-16 |
+| [Now I Know You](https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 3:32 | 2023-08-04 |  |
 | [numb \(feat\. Zaia\)](https://open.spotify.com/track/1aCs9bZSqPPPt3ePoG8zq1) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [numb \(feat\. Zaia\)](https://open.spotify.com/album/3dOiOJ1arcYWjt9bqt5u01) | 2:18 | 2021-04-24 | 2021-10-16 |
 | [NW3](https://open.spotify.com/track/06mXSNndoxDKhzwFqt1GP6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [NW3](https://open.spotify.com/album/16Z9PQxHXHZA2naPJsjbff) | 3:53 | 2022-01-28 | 2022-03-01 |
 | [NW3](https://open.spotify.com/track/3NSBOLzrxMri9OEyxYeWov) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Nobody's Home](https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ) | 3:53 | 2022-02-28 | 2022-04-10 |
@@ -925,6 +926,7 @@
 | [OTT](https://open.spotify.com/track/6g33zvMOjqKjbVLQ6bKdSA) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [OTT](https://open.spotify.com/album/2Nc2elxVPXWGzv0kgzXFhI) | 2:40 | 2020-10-13\* | 2020-11-03 |
 | [Out In The Dark](https://open.spotify.com/track/63P3VH4uevmDanujcd1bNx) | [NEL](https://open.spotify.com/artist/37Lfj8dsuyCiHcXj9SyVy9) | [Out In The Dark](https://open.spotify.com/album/0L9lpp86TJig7352Xx55iH) | 3:07 | 2022-02-04 | 2022-03-01 |
 | [Out My Head](https://open.spotify.com/track/4vPoabHSXopY6RzY9atmUe) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Out My Head](https://open.spotify.com/album/1O7sWuEyCsa9UtlXJwXDTP) | 2:17 | 2020-11-03 | 2021-05-15 |
+| [Out There](https://open.spotify.com/track/106uRhMksIxm1FmlP6rcnP) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Soft Landing](https://open.spotify.com/album/6JafE12iZoyCQQkSN8muem) | 4:22 | 2023-08-04 |  |
 | [Outta My Mind](https://open.spotify.com/track/20Xj7F8TKGEmDbAsbVGmav) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Outta My Mind](https://open.spotify.com/album/0zFmBki2eFR3QZEgqKZHdd) | 2:45 | 2023-06-20 |  |
 | [OVER EVERYTHING](https://open.spotify.com/track/3lOVMfy4wexOrOKEXW2mhV) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [OVER EVERYTHING](https://open.spotify.com/album/50jAXDzoQmhAKojgDXY8fM) | 3:11 | 2022-03-18 | 2022-04-10 |
 | [Overflow](https://open.spotify.com/track/74r1DelsIM4EFBH4Ts0DlJ) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Overflow](https://open.spotify.com/album/7AgRvwdxUPCIYW9hL41IB1) | 2:58 | 2022-04-29 | 2022-06-11 |
@@ -1177,6 +1179,7 @@
 | [spotlight](https://open.spotify.com/track/6tq52AOqtrdflzU4SA4SHc) | [mioskii](https://open.spotify.com/artist/5ATiuD7BObN5uz3nIeepr4) | [spotlight](https://open.spotify.com/album/3fYonFGxkLex2Y1Aif6YLP) | 2:58 | 2022-10-04 | 2022-10-27 |
 | [spy?](https://open.spotify.com/track/0QsZ3W21xNvnUnUMbiAY4z) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:33 | 2021-06-11 | 2021-08-04 |
 | [Ssx](https://open.spotify.com/track/1eCImHqurFCsE6du2nF6jh) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Vol\. 1](https://open.spotify.com/album/5HanfTZtL71gW1KGgg1HMA) | 3:36 | 2022-05-09 | 2022-08-06 |
+| [Star.Punk.Soul](https://open.spotify.com/track/6uvVzYbnKA1RqKb39P0itn) | [ULTRAGABE](https://open.spotify.com/artist/3dcwD0Bff5efjDnIqZr9aY) | [Star.Punk.Soul](https://open.spotify.com/album/2HeUiZk9PLHtbc82FaOgYJ) | 3:11 | 2023-08-04 |  |
 | [Starface\*](https://open.spotify.com/track/4MiX7u7J52zRIvyaqDVsmJ) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Starface\*](https://open.spotify.com/album/3DrMygq5GYmIo7jiTbpbdQ) | 2:56 | 2020-10-13\* | 2021-02-27 |
 | [Stargazer \(with EARTHGANG\)](https://open.spotify.com/track/1OqNc6vf9GVDthPB22LT70) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Stargazer \(with EARTHGANG\)](https://open.spotify.com/album/1HXoaBTG0InJhJdWfiissz) | 3:00 | 2021-04-16 | 2021-10-14 |
 | [Stella](https://open.spotify.com/track/5AwKaWsMnYfszAr271bdq9) | [Badgirl$](https://open.spotify.com/artist/1tVVNIotf3Fc4iylC56Wae) | [Stella](https://open.spotify.com/album/3H9pQvprsnLrKZLt94pnqJ) | 2:27 | 2020-10-13\* | 2020-11-03 |
@@ -1190,6 +1193,7 @@
 | [Strange Love \- Single Edit](https://open.spotify.com/track/0dgehlr08kKoyl2nG7Dhv4) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Strange Love \- Single Edit](https://open.spotify.com/album/2GU9e1FHv9tJan1R3TXxTZ) | 3:01 | 2021-06-05 | 2021-10-16 |
 | [Stressed](https://open.spotify.com/track/6hvs3DIe8eG6IdhehKz31I) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Stressed](https://open.spotify.com/album/6ZxGRxOayLqvUjhQycTW5R) | 1:37 | 2021-02-27 | 2021-10-16 |
 | [Strong Friend](https://open.spotify.com/track/0WfexgMatnnNCgY066RP8D) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Strong Friend](https://open.spotify.com/album/79Ve2cioB1U0aFYcqXueVj) | 2:51 | 2020-10-13\* | 2020-11-03 |
+| [stuck.](https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [stuck.](https://open.spotify.com/album/7dBT7hYdoqjKmge72tftyR) | 2:14 | 2023-08-04 |  |
 | [Student Loans](https://open.spotify.com/track/6C4Kqx1EFnM9h07SJxM26j) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Student Loans](https://open.spotify.com/album/0HNjXrcUUv8Plgr7MaSv0D) | 2:04 | 2020-10-13\* | 2021-02-27 |
 | [Stunnin'](https://open.spotify.com/track/2LUdpPCiiza6UQugipjMeS) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Harm Franklin](https://open.spotify.com/artist/44rJuOJLavqhY6qGgpQW4U) | [Stunnin'](https://open.spotify.com/album/3UelVbXKapujAhLoeJ3bri) | 2:24 | 2020-10-13\* | 2021-02-13 |
 | [sub 32](https://open.spotify.com/track/5bJyWVbQjvHlA4eptnaHeT) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [sub 32](https://open.spotify.com/album/1ayf7TVmz3NSRUD1q36mMJ) | 1:48 | 2023-06-23 |  |

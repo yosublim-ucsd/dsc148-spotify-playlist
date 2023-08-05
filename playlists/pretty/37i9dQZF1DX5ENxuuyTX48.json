@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Ramengvrl, Cinta Laura Kiehl",
-  "num_followers": 13208,
+  "num_followers": 13569,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGUwNDVjNzdiNDg0OTM1ZmU4Y2M0OWM3Y2I3NDVkZmE1MDg5OWIx",
+  "snapshot_id": "MCxjZGU0MmE1OWU5N2YwZGZmYTQyMDUzMjc0NDRhZTVjNTIyMzhhZWZh",
   "tracks": [
     {
       "added_at": "2023-08-03 17:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-03 17:00:00",
       "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6"
-      },
-      "artists": [
-        {
-          "name": "Rafi Sudirman",
-          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
-        }
-      ],
-      "duration_ms": 283311,
-      "name": "That Somebody",
-      "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
-    },
-    {
-      "added_at": "2023-08-03 17:00:00",
-      "album": {
         "name": "Langit Yang Sama",
         "url": "https://open.spotify.com/album/6K1IgEqIElbpdvorDrwEkZ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 245454,
       "name": "Langit Yang Sama",
       "url": "https://open.spotify.com/track/2CJvBRL5ZevYir3mbFdcm6"
+    },
+    {
+      "added_at": "2023-08-03 17:00:00",
+      "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6"
+      },
+      "artists": [
+        {
+          "name": "Rafi Sudirman",
+          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
+        }
+      ],
+      "duration_ms": 283311,
+      "name": "That Somebody",
+      "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
     },
     {
       "added_at": "2023-08-03 17:00:00",
@@ -759,22 +759,6 @@
       "duration_ms": 299210,
       "name": "Ekspektasi",
       "url": "https://open.spotify.com/track/5DEur1IK5rtQx90C0DcHpz"
-    },
-    {
-      "added_at": "2023-08-03 17:00:00",
-      "album": {
-        "name": "Live to Love",
-        "url": "https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 248471,
-      "name": "Untukmu Aku Bertahan",
-      "url": "https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD"
     },
     {
       "added_at": "2023-08-03 17:00:00",
@@ -811,6 +795,22 @@
       "duration_ms": 231700,
       "name": "Aku Memilihmu",
       "url": "https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4"
+    },
+    {
+      "added_at": "2023-08-03 17:00:00",
+      "album": {
+        "name": "Live to Love",
+        "url": "https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 248471,
+      "name": "Untukmu Aku Bertahan",
+      "url": "https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD"
     },
     {
       "added_at": "2023-08-03 17:00:00",

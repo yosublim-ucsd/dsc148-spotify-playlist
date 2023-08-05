@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。8月2日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,803 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,856 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
 | 50 | [みんな空の下](https://open.spotify.com/track/5jc5WQlrri3B5MkLByPsuv) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [みんな空の下](https://open.spotify.com/album/3kiwCBJrjDX9LUi9jlfayK) | 4:56 |
 
-Snapshot ID: `MCw4ZjJmNTM2OTU5ZDZhNWE4ZDk4ODQ4NGZhYTA5MTA0ZDk1ODEyMDkx`
+Snapshot ID: `MCxhOWM4Yzc3Y2I3MDExMWQyMzhjZDk2YTRjNWY1ZGJkMDBjZDkyMDUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 名誉伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,635 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,644 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [\#ideallife](https://open.spotify.com/track/6oUgota3MhIUe4ymxSl3B1) | [sugarami](https://open.spotify.com/artist/76O8sDyQjdKdgKcUtwjtPR) | [\#ideallife](https://open.spotify.com/album/5GEUkNHoPdRgQMVgZhI9eA) | 2:31 |
 | 80 | [yoru](https://open.spotify.com/track/2WeKnXuEF5TWJqsMJSimLG) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [yoru](https://open.spotify.com/album/78VeUYC6QBWZ9AR59PDWx4) | 4:05 |
 
-Snapshot ID: `MCwxYmI5NmE1NDE3NzllYmQ0MjZhMDY1NDc4YjEwNTAyMmI1Zjc4MDRh`
+Snapshot ID: `MCwxYTM1YzhlMWRhYjgyMzNlNjc0ZDlhYmQ5M2MxNDZmZDc1ZTlkZDJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain]
 
 > 80s workout jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,501 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,595 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain]
 | 14 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
 | 15 | [Youth Gone Wild](https://open.spotify.com/track/1jF5Id0OPFU1Mae8BEUF5u) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 3:18 |
 | 16 | [Renegade](https://open.spotify.com/track/1FOUJzuApMpMM1wiuy3qfl) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Gold](https://open.spotify.com/album/2SIFXSFOHJgqC6q3whbSZU) | 4:13 |
-| 17 | [Don't Stop Runnin'](https://open.spotify.com/track/6ZZ2ddUz2ZuQpkFeJm3FlK) | [Y&T](https://open.spotify.com/artist/49Cw140t9jupn4S3udehoP) | [In Rock We Trust](https://open.spotify.com/album/6hHdV5X9hTkpsny9xaDD1p) | 4:21 |
+| 17 | [Don't Stop Runnin'](https://open.spotify.com/track/6ZZ2ddUz2ZuQpkFeJm3FlK) | [Y&T](https://open.spotify.com/artist/49Cw140t9jupn4S3udehoP) | [In Rock We Trust \(Expanded Edition\)](https://open.spotify.com/album/6hHdV5X9hTkpsny9xaDD1p) | 4:21 |
 | 18 | [Hit Me With Your Best Shot](https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Crimes Of Passion](https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ) | 2:51 |
 | 19 | [Turn Me Loose](https://open.spotify.com/track/2Z81PDDYNMTxZKiU2XIuFx) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Loverboy](https://open.spotify.com/album/3dDzAVWr5gjvJIOTEuS309) | 5:37 |
 | 20 | [Round and Round](https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Out of the Cellar](https://open.spotify.com/album/6P3Fqm7z9wr5GeatpVZ5ut) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain]
 | 49 | [Heatseeker](https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Blow Up Your Video](https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI) | 3:50 |
 | 50 | [No Shelter](https://open.spotify.com/track/04rLT4KBoCtGpJSTp1sPjR) | [Broken Edge](https://open.spotify.com/artist/51w118T3tZyeQwAye9iHrq) | [The Karate Kid: The Original Motion Picture Soundtrack](https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH) | 3:58 |
 
-Snapshot ID: `MCxhOGY2NDZlZTUxYjIwOTQxOWI4MThlOWU5ZjhmM2RjMjgzYTIzZDA5`
+Snapshot ID: `MCwyY2RiNjkwMWE5NTY3NzIyZmQwNDkyODZkODE4MjUyZDc3ZTJlM2Y4`

@@ -1,12 +1,12 @@
 {
   "description": "Adi\u00f3s Pop con \u00d1, hola Pop del Top. Lo mejor y lo \u00faltimo del pop. Foto: \u00c1lvaro de Luna",
-  "num_followers": 987572,
+  "num_followers": 987734,
   "original_name": "Pop del Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmVhYmY0ZTRjYzdmZGIxNTRhNjcxYjA3ZmVmNWZlYTRiMzFhNWVh",
+  "snapshot_id": "MCwxM2E4MjE0M2ZiYzA5ZjI5OWI3ZTZkMDkzYmU5NDkyMDJkZDRkMzEy",
   "tracks": [
     {
       "added_at": "2023-08-01 09:27:38",
@@ -499,46 +499,6 @@
     {
       "added_at": "2023-08-01 09:27:38",
       "album": {
-        "name": "D\u00e9jalo En Visto",
-        "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 189918,
-      "name": "D\u00e9jalo En Visto",
-      "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
-    },
-    {
-      "added_at": "2023-08-01 09:27:38",
-      "album": {
-        "name": "tqum",
-        "url": "https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 149589,
-      "name": "tqum",
-      "url": "https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr"
-    },
-    {
-      "added_at": "2023-08-01 09:27:38",
-      "album": {
         "name": "EL RELOJ (con Maluma)",
         "url": "https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR"
       },
@@ -559,6 +519,26 @@
     {
       "added_at": "2023-08-01 09:27:38",
       "album": {
+        "name": "D\u00e9jalo En Visto",
+        "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 189918,
+      "name": "D\u00e9jalo En Visto",
+      "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
+    },
+    {
+      "added_at": "2023-08-01 09:27:38",
+      "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 160893,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
+    },
+    {
+      "added_at": "2023-08-01 09:27:38",
+      "album": {
+        "name": "tqum",
+        "url": "https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 149589,
+      "name": "tqum",
+      "url": "https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr"
     },
     {
       "added_at": "2023-08-01 09:27:38",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2023-08-01 09:27:38",
       "album": {
+        "name": "Ping Pong",
+        "url": "https://open.spotify.com/album/78O50pRKdsnXqYBZaAdN15"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "Ping Pong",
+      "url": "https://open.spotify.com/track/1iNJJ72vb58cVLX5Wkbpwv"
+    },
+    {
+      "added_at": "2023-08-01 09:27:38",
+      "album": {
         "name": "Beber x Beber",
         "url": "https://open.spotify.com/album/3gpvzrGqLxk788DWga2Mhi"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 176587,
       "name": "Semanas",
       "url": "https://open.spotify.com/track/0ICi6PF2OFhz0NZ9POMNj8"
-    },
-    {
-      "added_at": "2023-08-01 09:27:38",
-      "album": {
-        "name": "Ping Pong",
-        "url": "https://open.spotify.com/album/78O50pRKdsnXqYBZaAdN15"
-      },
-      "artists": [
-        {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        },
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "Ping Pong",
-      "url": "https://open.spotify.com/track/1iNJJ72vb58cVLX5Wkbpwv"
     },
     {
       "added_at": "2023-08-01 09:27:38",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2023-08-01 09:27:38",
       "album": {
+        "name": "CRIMINAL",
+        "url": "https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        }
+      ],
+      "duration_ms": 180525,
+      "name": "CRIMINAL",
+      "url": "https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR"
+    },
+    {
+      "added_at": "2023-08-01 09:27:38",
+      "album": {
         "name": "El Olor De Tu Pelo",
         "url": "https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1"
       },
@@ -1271,6 +1291,22 @@
       "duration_ms": 163448,
       "name": "El Olor De Tu Pelo",
       "url": "https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK"
+    },
+    {
+      "added_at": "2023-08-01 09:27:38",
+      "album": {
+        "name": "Como Ayer",
+        "url": "https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 157293,
+      "name": "Como Ayer",
+      "url": "https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY"
     },
     {
       "added_at": "2023-08-01 09:27:38",
@@ -1291,26 +1327,6 @@
       "duration_ms": 185790,
       "name": "Himno (para los que est\u00e1n jodidos)",
       "url": "https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl"
-    },
-    {
-      "added_at": "2023-08-01 09:27:38",
-      "album": {
-        "name": "CRIMINAL",
-        "url": "https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Fred De Palma",
-          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
-        }
-      ],
-      "duration_ms": 180525,
-      "name": "CRIMINAL",
-      "url": "https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR"
     },
     {
       "added_at": "2023-08-01 09:27:38",
@@ -1355,18 +1371,34 @@
     {
       "added_at": "2023-08-01 09:27:38",
       "album": {
-        "name": "Como Ayer",
-        "url": "https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe"
+        "name": "Me Sabe a Sal",
+        "url": "https://open.spotify.com/album/4vdFPV2L2c8yUm9HSiwjeQ"
       },
       "artists": [
         {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
         }
       ],
-      "duration_ms": 157293,
-      "name": "Como Ayer",
-      "url": "https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY"
+      "duration_ms": 152275,
+      "name": "Me Sabe a Sal",
+      "url": "https://open.spotify.com/track/5mYnrPNSzBZUpLtiaLbJ7s"
+    },
+    {
+      "added_at": "2023-08-01 09:27:38",
+      "album": {
+        "name": "COSTA RICA",
+        "url": "https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 175748,
+      "name": "DOS PRIMAVERAS",
+      "url": "https://open.spotify.com/track/4OpzznhpDY6UfXbapDEAJF"
     },
     {
       "added_at": "2023-08-01 09:27:38",
@@ -1391,22 +1423,6 @@
     {
       "added_at": "2023-08-01 09:27:38",
       "album": {
-        "name": "COSTA RICA",
-        "url": "https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 175748,
-      "name": "DOS PRIMAVERAS",
-      "url": "https://open.spotify.com/track/4OpzznhpDY6UfXbapDEAJF"
-    },
-    {
-      "added_at": "2023-08-01 09:27:38",
-      "album": {
         "name": "En el mismo bar",
         "url": "https://open.spotify.com/album/5mK99XckqcPxkOJDt25MPF"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 162500,
       "name": "En el mismo bar",
       "url": "https://open.spotify.com/track/06LzzgytKKWpG9T7fRRyR9"
-    },
-    {
-      "added_at": "2023-08-01 09:27:38",
-      "album": {
-        "name": "Me Sabe a Sal",
-        "url": "https://open.spotify.com/album/4vdFPV2L2c8yUm9HSiwjeQ"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 152275,
-      "name": "Me Sabe a Sal",
-      "url": "https://open.spotify.com/track/5mYnrPNSzBZUpLtiaLbJ7s"
     },
     {
       "added_at": "2023-08-01 09:27:38",

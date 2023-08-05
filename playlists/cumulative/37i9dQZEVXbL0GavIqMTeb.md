@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-688 songs - 1 day 15 hr 8 min
+689 songs - 1 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,7 +641,8 @@
 | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80) | 2:42 | 2023-04-12 |  |
 | [Un Ratito](https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 | 2022-05-07 | 2022-09-16 |
 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 | 2022-05-07 | 2022-06-18 |
-| [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-18 |  |
+| [un x100to](https://open.spotify.com/track/4QctbZRsuWYPT0pbKg7u75) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 3:14 | 2023-08-04 |  |
+| [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-18 | 2023-08-05 |
 | [Una Cerveza](https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 4:00 | 2021-09-20 | 2023-01-04 |
 | [Una en un Millón](https://open.spotify.com/track/3jYFhbevv3MUctaEUF68Vf) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Una en un Millón](https://open.spotify.com/album/297lExWtMv5C7vAlQhJcuC) | 2:35 | 2023-05-20 |  |
 | [Una Locura](https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:50 | 2021-03-27\* | 2021-07-04 |
@@ -665,7 +666,7 @@
 | [Viviendo El Proceso <3](https://open.spotify.com/track/6P3e7ieiYq8ZITkkmW2Uim) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Viviendo El Proceso <3](https://open.spotify.com/album/3nsV4MTWKfJOiVfjZvnsMi) | 2:01 | 2023-04-08 | 2023-07-18 |
 | [Volando \- Remix](https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Volando \(Remix\)](https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX) | 4:33 | 2021-07-10 | 2022-03-27 |
 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 | 2021-08-05 | 2022-04-17 |
-| [VÁMONOS PA LA EUROPA](https://open.spotify.com/track/2VfBDjJ0tZ9XUi24aQibTM) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [VÁMONOS PA LA EUROPA](https://open.spotify.com/album/1wI6Z4ek2MVDY3bKDtuXwe) | 3:12 | 2023-07-22 |  |
+| [VÁMONOS PA LA EUROPA](https://open.spotify.com/track/2VfBDjJ0tZ9XUi24aQibTM) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [VÁMONOS PA LA EUROPA](https://open.spotify.com/album/1wI6Z4ek2MVDY3bKDtuXwe) | 3:12 | 2023-07-22 |  |
 | [WACHA](https://open.spotify.com/track/5RmSunLqeDqNWww8LWhAiK) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [WACHA](https://open.spotify.com/album/6DHfMP3XhSQYlxs5a9l7s4) | 3:26 | 2021-04-06 | 2021-04-24 |
 | [Waka Waka](https://open.spotify.com/track/0PKHOIZYG7tszv17tgIZlZ) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Waka Waka](https://open.spotify.com/album/2RhraG6BolsoZb7bw8WuK8) | 3:00 | 2022-02-05 | 2022-03-21 |
 | [WANDA](https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:40 | 2023-02-11 | 2023-04-26 |

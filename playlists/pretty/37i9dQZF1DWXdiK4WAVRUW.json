@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating the 5th anniversary of Dan + Shay's self-titled record on 2010s Country! ",
-  "num_followers": 509420,
+  "num_followers": 509690,
   "original_name": "2010s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmU2YjBhNjMwNzA4Y2FiYjNmZjA2ODU3ZDE1NjJlYTZmYzhiNzcw",
+  "snapshot_id": "MCw3MTJhNTAxMTVkZDA4YjliYjA0MDRkNWI3MzY0ZmJkY2RlODk2N2Q4",
   "tracks": [
     {
       "added_at": "2023-06-22 19:30:10",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "Life Changes",
-        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc"
-    },
-    {
-      "added_at": "2023-06-22 19:30:10",
-      "album": {
         "name": "Hard 2 Love",
         "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 224293,
       "name": "Hard To Love",
       "url": "https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH"
+    },
+    {
+      "added_at": "2023-06-22 19:30:10",
+      "album": {
+        "name": "Life Changes",
+        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "Happy Endings",
-        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "Hotel Key",
-      "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
-    },
-    {
-      "added_at": "2023-06-22 19:30:10",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 213826,
       "name": "Somethin' 'Bout A Truck",
       "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
+    },
+    {
+      "added_at": "2023-06-22 19:30:10",
+      "album": {
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "Hotel Key",
+      "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "It Goes Like This",
-        "url": "https://open.spotify.com/album/2ZHYOFW5giX6a4n5eqTnUB"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 225066,
-      "name": "Make Me Wanna",
-      "url": "https://open.spotify.com/track/69DR48pXzSabFUfQfDDJDb"
-    },
-    {
-      "added_at": "2023-06-22 19:30:10",
-      "album": {
         "name": "Cole Swindell",
         "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 196746,
       "name": "Chillin' It",
       "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
+    },
+    {
+      "added_at": "2023-06-22 19:30:10",
+      "album": {
+        "name": "It Goes Like This",
+        "url": "https://open.spotify.com/album/2ZHYOFW5giX6a4n5eqTnUB"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 225066,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/69DR48pXzSabFUfQfDDJDb"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
+        "name": "Hunter Hayes (Encore)",
+        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+    },
+    {
+      "added_at": "2023-06-22 19:30:10",
+      "album": {
         "name": "Based on a True Story... (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "Hunter Hayes (Encore)",
-        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
+        "name": "The Band Perry",
+        "url": "https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu"
       },
       "artists": [
         {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+          "name": "The Band Perry",
+          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
         }
       ],
-      "duration_ms": 228840,
-      "name": "Wanted",
-      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+      "duration_ms": 222773,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -1459,24 +1475,8 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "The Band Perry",
-        "url": "https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu"
-      },
-      "artists": [
-        {
-          "name": "The Band Perry",
-          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
-        }
-      ],
-      "duration_ms": 222773,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX"
-    },
-    {
-      "added_at": "2023-06-22 19:30:10",
-      "album": {
-        "name": "My Kinda Party",
-        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
+        "name": "Old Boots, New Dirt",
+        "url": "https://open.spotify.com/album/5p3nTBqh8WCoQfRDAaVp68"
       },
       "artists": [
         {
@@ -1484,9 +1484,9 @@
           "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 284960,
-      "name": "My Kinda Party",
-      "url": "https://open.spotify.com/track/215FCyLSBcXeX0NASXEjyn"
+      "duration_ms": 219160,
+      "name": "Burnin' It Down",
+      "url": "https://open.spotify.com/track/5HJqpDspKDKwQpLjvkcIsD"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "How Country Feels",
-        "url": "https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        }
-      ],
-      "duration_ms": 193773,
-      "name": "Runnin' Outta Moonlight",
-      "url": "https://open.spotify.com/track/6enPOmd3vSFpI4jjms8kXN"
-    },
-    {
-      "added_at": "2023-06-22 19:30:10",
-      "album": {
         "name": "Meat and Candy",
         "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
       },
@@ -1611,8 +1595,24 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "Old Boots, New Dirt",
-        "url": "https://open.spotify.com/album/5p3nTBqh8WCoQfRDAaVp68"
+        "name": "How Country Feels",
+        "url": "https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        }
+      ],
+      "duration_ms": 193773,
+      "name": "Runnin' Outta Moonlight",
+      "url": "https://open.spotify.com/track/6enPOmd3vSFpI4jjms8kXN"
+    },
+    {
+      "added_at": "2023-06-22 19:30:10",
+      "album": {
+        "name": "My Kinda Party",
+        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
       },
       "artists": [
         {
@@ -1620,9 +1620,9 @@
           "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 219160,
-      "name": "Burnin' It Down",
-      "url": "https://open.spotify.com/track/5HJqpDspKDKwQpLjvkcIsD"
+      "duration_ms": 284960,
+      "name": "My Kinda Party",
+      "url": "https://open.spotify.com/track/215FCyLSBcXeX0NASXEjyn"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
-    },
-    {
-      "added_at": "2023-06-22 19:30:10",
-      "album": {
         "name": "The Man I Want To Be",
         "url": "https://open.spotify.com/album/6Aormv05kybauFdXCzUEcH"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 212133,
       "name": "Gettin' You Home",
       "url": "https://open.spotify.com/track/28Sc21lrWcZD9Ov4rRkPJq"
+    },
+    {
+      "added_at": "2023-06-22 19:30:10",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "I'm Comin' Over",
-        "url": "https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0"
-      },
-      "artists": [
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "I'm Comin' Over",
-      "url": "https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV"
-    },
-    {
-      "added_at": "2023-06-22 19:30:10",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 212066,
       "name": "Blue Tacoma",
       "url": "https://open.spotify.com/track/5PBx0zFfehUMyv5H4YXVAU"
+    },
+    {
+      "added_at": "2023-06-22 19:30:10",
+      "album": {
+        "name": "I'm Comin' Over",
+        "url": "https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "I'm Comin' Over",
+      "url": "https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "It Goes Like This",
-        "url": "https://open.spotify.com/album/2ZHYOFW5giX6a4n5eqTnUB"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 186080,
-      "name": "It Goes Like This",
-      "url": "https://open.spotify.com/track/6GsAD8PgHxmEuIPTG8GP3M"
-    },
-    {
-      "added_at": "2023-06-22 19:30:10",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 216960,
       "name": "Yours",
       "url": "https://open.spotify.com/track/3I4WFddKpe2PGZWFh7f10J"
+    },
+    {
+      "added_at": "2023-06-22 19:30:10",
+      "album": {
+        "name": "It Goes Like This",
+        "url": "https://open.spotify.com/album/2ZHYOFW5giX6a4n5eqTnUB"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 186080,
+      "name": "It Goes Like This",
+      "url": "https://open.spotify.com/track/6GsAD8PgHxmEuIPTG8GP3M"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "Summer Forever",
-        "url": "https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Don't It",
-      "url": "https://open.spotify.com/track/4iLPK8QnOvqm0Azbsk2GDn"
-    },
-    {
-      "added_at": "2023-06-22 19:30:10",
-      "album": {
         "name": "747",
         "url": "https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 198266,
       "name": "Bartender",
       "url": "https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe"
+    },
+    {
+      "added_at": "2023-06-22 19:30:10",
+      "album": {
+        "name": "Summer Forever",
+        "url": "https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Don't It",
+      "url": "https://open.spotify.com/track/4iLPK8QnOvqm0Azbsk2GDn"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -2327,50 +2327,18 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "Clancy's Tavern",
-        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
+        "name": "Things That We Drink To",
+        "url": "https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
         }
       ],
-      "duration_ms": 193133,
-      "name": "Made in America",
-      "url": "https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C"
-    },
-    {
-      "added_at": "2023-06-22 19:30:10",
-      "album": {
-        "name": "We Are Tonight",
-        "url": "https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "We Are Tonight",
-      "url": "https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG"
-    },
-    {
-      "added_at": "2023-06-22 19:30:10",
-      "album": {
-        "name": "Days of Gold",
-        "url": "https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Beachin'",
-      "url": "https://open.spotify.com/track/5dNGORzxFb5z3v7vSAFkTU"
+      "duration_ms": 213183,
+      "name": "Kiss Somebody",
+      "url": "https://open.spotify.com/track/4f3fb3alVLFc8Ga4ncpg7x"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -2391,18 +2359,50 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "Things That We Drink To",
-        "url": "https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc"
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw"
       },
       "artists": [
         {
-          "name": "Morgan Evans",
-          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
         }
       ],
-      "duration_ms": 213183,
-      "name": "Kiss Somebody",
-      "url": "https://open.spotify.com/track/4f3fb3alVLFc8Ga4ncpg7x"
+      "duration_ms": 173960,
+      "name": "Drunk on Your Love",
+      "url": "https://open.spotify.com/track/1jNNHFZmRGXZFHlil5uhei"
+    },
+    {
+      "added_at": "2023-06-22 19:30:10",
+      "album": {
+        "name": "We Are Tonight",
+        "url": "https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "We Are Tonight",
+      "url": "https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG"
+    },
+    {
+      "added_at": "2023-06-22 19:30:10",
+      "album": {
+        "name": "Clancy's Tavern",
+        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "Made in America",
+      "url": "https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -2423,18 +2423,34 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw"
+        "name": "Days of Gold",
+        "url": "https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
         }
       ],
-      "duration_ms": 173960,
-      "name": "Drunk on Your Love",
-      "url": "https://open.spotify.com/track/1jNNHFZmRGXZFHlil5uhei"
+      "duration_ms": 191040,
+      "name": "Beachin'",
+      "url": "https://open.spotify.com/track/5dNGORzxFb5z3v7vSAFkTU"
+    },
+    {
+      "added_at": "2023-06-22 19:30:10",
+      "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "This Is It",
+      "url": "https://open.spotify.com/track/74CEfiZthUGX5yUNNUM4bj"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -2455,22 +2471,6 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "Get Closer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 273586,
-      "name": "Long Hot Summer",
-      "url": "https://open.spotify.com/track/3PY88239tYBnAv5LQoU2oY"
-    },
-    {
-      "added_at": "2023-06-22 19:30:10",
-      "album": {
         "name": "Experiment Extended",
         "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
       },
@@ -2487,18 +2487,34 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "Seasons Change",
-        "url": "https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj"
+        "name": "Get Closer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk"
       },
       "artists": [
         {
-          "name": "Scotty McCreery",
-          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 230973,
-      "name": "This Is It",
-      "url": "https://open.spotify.com/track/74CEfiZthUGX5yUNNUM4bj"
+      "duration_ms": 273586,
+      "name": "Long Hot Summer",
+      "url": "https://open.spotify.com/track/3PY88239tYBnAv5LQoU2oY"
+    },
+    {
+      "added_at": "2023-06-22 19:30:10",
+      "album": {
+        "name": "Bring You Back",
+        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "Beat of the Music",
+      "url": "https://open.spotify.com/track/3un2KQUaQ2brEpd8dK93wI"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -2531,22 +2547,6 @@
       "duration_ms": 196440,
       "name": "Catch",
       "url": "https://open.spotify.com/track/53cGGBxGPaRjP0HVUESyW5"
-    },
-    {
-      "added_at": "2023-06-22 19:30:10",
-      "album": {
-        "name": "Bring You Back",
-        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "Beat of the Music",
-      "url": "https://open.spotify.com/track/3un2KQUaQ2brEpd8dK93wI"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -2635,26 +2635,6 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "Ripcord",
-        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "The Fighter",
-      "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
-    },
-    {
-      "added_at": "2023-06-22 19:30:10",
-      "album": {
         "name": "Caught Up In The Country",
         "url": "https://open.spotify.com/album/0SeZnTLIuPbHvuuNTJDHLh"
       },
@@ -2671,6 +2651,26 @@
       "duration_ms": 160991,
       "name": "Caught Up In The Country",
       "url": "https://open.spotify.com/track/2BgunkkepMPFpArQj1Dx5s"
+    },
+    {
+      "added_at": "2023-06-22 19:30:10",
+      "album": {
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "The Fighter",
+      "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -2903,22 +2903,6 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "Barefoot Blue Jean Night",
-        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 209586,
-      "name": "Anywhere With You",
-      "url": "https://open.spotify.com/track/2yWtLaPCOUDyi7f1lOXCn5"
-    },
-    {
-      "added_at": "2023-06-22 19:30:10",
-      "album": {
         "name": "Bronco",
         "url": "https://open.spotify.com/album/40hl9x5G7YelVvXQGroLa2"
       },
@@ -2931,6 +2915,22 @@
       "duration_ms": 203053,
       "name": "Love You Like That",
       "url": "https://open.spotify.com/track/2QVzUws1l5mzZ4v46tGHrC"
+    },
+    {
+      "added_at": "2023-06-22 19:30:10",
+      "album": {
+        "name": "Barefoot Blue Jean Night",
+        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 209586,
+      "name": "Anywhere With You",
+      "url": "https://open.spotify.com/track/2yWtLaPCOUDyi7f1lOXCn5"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -3175,18 +3175,18 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "Brett Eldredge",
-        "url": "https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo"
+        "name": "Ignite the Night (Party Edition)",
+        "url": "https://open.spotify.com/album/5lkRYpePZze7eng9Spx1Gq"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
         }
       ],
-      "duration_ms": 208720,
-      "name": "The Long Way",
-      "url": "https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG"
+      "duration_ms": 214949,
+      "name": "Gonna Wanna Tonight",
+      "url": "https://open.spotify.com/track/1HE3TzRFmNQ7QQLoEMl0R2"
     },
     {
       "added_at": "2023-06-22 19:30:10",
@@ -3207,18 +3207,18 @@
     {
       "added_at": "2023-06-22 19:30:10",
       "album": {
-        "name": "Ignite the Night (Party Edition)",
-        "url": "https://open.spotify.com/album/5lkRYpePZze7eng9Spx1Gq"
+        "name": "Brett Eldredge",
+        "url": "https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo"
       },
       "artists": [
         {
-          "name": "Chase Rice",
-          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
         }
       ],
-      "duration_ms": 214949,
-      "name": "Gonna Wanna Tonight",
-      "url": "https://open.spotify.com/track/1HE3TzRFmNQ7QQLoEMl0R2"
+      "duration_ms": 208720,
+      "name": "The Long Way",
+      "url": "https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG"
     },
     {
       "added_at": "2023-06-22 19:30:10",

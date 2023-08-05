@@ -501,6 +501,28 @@
     },
     {
       "album": {
+        "name": "Climax",
+        "url": "https://open.spotify.com/album/2C7rex6fcBtRICYrdOKxEz"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        },
+        {
+          "name": "Rap Bang Club",
+          "url": "https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148825,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/44rBnwPtuBSZTKUhjChFvI"
+    },
+    {
+      "album": {
         "name": "Como Si Nada",
         "url": "https://open.spotify.com/album/3gaqW9uYFzUf8Ah2tggT5K"
       },
@@ -635,6 +657,28 @@
     },
     {
       "album": {
+        "name": "Cumbiecitas Elegantes",
+        "url": "https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq"
+      },
+      "artists": [
+        {
+          "name": "Diana Burco",
+          "url": "https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167629,
+      "name": "Cumbiecitas Elegantes",
+      "url": "https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq"
+    },
+    {
+      "album": {
         "name": "C\u00f3mplices",
         "url": "https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE"
       },
@@ -664,7 +708,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 200598,
       "name": "Dame Un Break",
       "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
@@ -2264,7 +2308,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 180534,
       "name": "Tampoco Poco",
       "url": "https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47"

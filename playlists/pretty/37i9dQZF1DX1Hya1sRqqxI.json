@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 294125,
+  "num_followers": 294734,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzE1ZDU5NGY2YjlmZTJkZWU2NzRjNTUwY2Q3M2VjN2U0ZjcwN2Qy",
+  "snapshot_id": "MCxkYjk4NWU3OTY3ZmJhZTg3MDUyM2UzNTljYjhkM2ZiMzc4NGQ2MDk4",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1649,6 +1649,22 @@
       "url": "https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 375400,
+      "name": "He's the Greatest Dancer - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "4 Hits: Eruption",
@@ -1695,22 +1711,6 @@
       "duration_ms": 193253,
       "name": "Rock 'n' Roll (Part 2)",
       "url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "He's the Greatest Dancer - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1873,6 +1873,22 @@
       "url": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ"
     },
     {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Back Stabbers",
+      "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
+    },
+    {
       "added_at": "2022-08-11 07:51:07",
       "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
@@ -1891,22 +1907,6 @@
       "duration_ms": 179573,
       "name": "We Go Together - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/5CyZPkmTBmq61SunRDysna"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 186093,
-      "name": "Back Stabbers",
-      "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2057,22 +2057,6 @@
       "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "Sing a Song",
-      "url": "https://open.spotify.com/track/5W5FVsgGCe3T9nIMkiXqNo"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "If You Knew Suzi\u2026 (2017 Remaster)",
@@ -2087,6 +2071,22 @@
       "duration_ms": 232994,
       "name": "If You Can't Give Me Love - 2017 Remaster",
       "url": "https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "Sing a Song",
+      "url": "https://open.spotify.com/track/5W5FVsgGCe3T9nIMkiXqNo"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2169,22 +2169,6 @@
       "url": "https://open.spotify.com/track/5rc28C9Ym7zIAypx3QGcnv"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "AWB",
-        "url": "https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6"
-      },
-      "artists": [
-        {
-          "name": "Average White Band",
-          "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
-        }
-      ],
-      "duration_ms": 239908,
-      "name": "Pick Up the Pieces",
-      "url": "https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "It Only Takes a Minute: A Lifetime with Tavares",
@@ -2199,6 +2183,22 @@
       "duration_ms": 389760,
       "name": "Heaven Must Be Missing An Angel - Pt. 1",
       "url": "https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "AWB",
+        "url": "https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6"
+      },
+      "artists": [
+        {
+          "name": "Average White Band",
+          "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
+        }
+      ],
+      "duration_ms": 239908,
+      "name": "Pick Up the Pieces",
+      "url": "https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9"
     },
     {
       "added_at": "2021-09-08 13:31:49",

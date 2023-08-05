@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 339324,
+  "num_followers": 339480,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2ZmODNmOTdhMTQ5M2QxNTkxODJiZTQzZWUwYzc1MDFhMjc1OWE1",
+  "snapshot_id": "MCwzNDY3NzBjNmMzZGFkNjhiN2U5OTUyZTM1MmUyYTZhYmU1NTJkYWRk",
   "tracks": [
     {
       "added_at": "2023-07-14 10:25:34",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-07-14 10:25:34",
       "album": {
-        "name": "Lease On Life",
-        "url": "https://open.spotify.com/album/3ciVcxQykTNkAznZzpDOJK"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 168162,
-      "name": "Lease On Life",
-      "url": "https://open.spotify.com/track/4ufkuONjQMNR2fyXu1bO9w"
-    },
-    {
-      "added_at": "2023-07-14 10:25:34",
-      "album": {
         "name": "Good Times Go",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 177371,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi"
+    },
+    {
+      "added_at": "2023-07-14 10:25:34",
+      "album": {
+        "name": "Lease On Life",
+        "url": "https://open.spotify.com/album/3ciVcxQykTNkAznZzpDOJK"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 168162,
+      "name": "Lease On Life",
+      "url": "https://open.spotify.com/track/4ufkuONjQMNR2fyXu1bO9w"
     },
     {
       "added_at": "2023-07-14 10:25:34",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-07-14 10:25:34",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/1sW3lhfPUhjjgD6oaYnBnV"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
         }
       ],
-      "duration_ms": 198221,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A"
+      "duration_ms": 234623,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX"
     },
     {
       "added_at": "2023-07-14 10:25:34",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-07-14 10:25:34",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/1sW3lhfPUhjjgD6oaYnBnV"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR"
       },
       "artists": [
         {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 234623,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX"
+      "duration_ms": 198221,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A"
     },
     {
       "added_at": "2023-07-14 10:25:34",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-07-14 10:25:34",
       "album": {
-        "name": "Thrill Of It All",
-        "url": "https://open.spotify.com/album/23tZRrcxog6733FrjhknAi"
-      },
-      "artists": [
-        {
-          "name": "Berre",
-          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
-        }
-      ],
-      "duration_ms": 203603,
-      "name": "Thrill Of It All",
-      "url": "https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh"
-    },
-    {
-      "added_at": "2023-07-14 10:25:34",
-      "album": {
         "name": "Ready To Be Loved",
         "url": "https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 180581,
       "name": "Ready To Be Loved",
       "url": "https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v"
+    },
+    {
+      "added_at": "2023-07-14 10:25:34",
+      "album": {
+        "name": "Thrill Of It All",
+        "url": "https://open.spotify.com/album/23tZRrcxog6733FrjhknAi"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "duration_ms": 203603,
+      "name": "Thrill Of It All",
+      "url": "https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh"
     },
     {
       "added_at": "2023-07-14 10:25:34",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-07-14 10:25:34",
       "album": {
-        "name": "We Can Be Just Friends",
-        "url": "https://open.spotify.com/album/56U3Wkr8ts148ZnLTnoHN2"
-      },
-      "artists": [
-        {
-          "name": "ana\u00efs",
-          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
-        }
-      ],
-      "duration_ms": 164135,
-      "name": "We Can Be Just Friends",
-      "url": "https://open.spotify.com/track/057imKEFcRqQNJkGhZ6wqT"
-    },
-    {
-      "added_at": "2023-07-14 10:25:34",
-      "album": {
         "name": "girls like me don't cry (sped up)",
         "url": "https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 213640,
       "name": "girls like me don't cry",
       "url": "https://open.spotify.com/track/4bSMUfnzyMd9z3SaFoMQfP"
+    },
+    {
+      "added_at": "2023-07-14 10:25:34",
+      "album": {
+        "name": "We Can Be Just Friends",
+        "url": "https://open.spotify.com/album/56U3Wkr8ts148ZnLTnoHN2"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "duration_ms": 164135,
+      "name": "We Can Be Just Friends",
+      "url": "https://open.spotify.com/track/057imKEFcRqQNJkGhZ6wqT"
     },
     {
       "added_at": "2023-07-14 10:25:34",

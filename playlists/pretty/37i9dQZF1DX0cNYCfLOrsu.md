@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Tina \(Hoodcelebrityy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,405 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,487 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 18 | [Whine & Kotch](https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv) | [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Whine & Kotch](https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ) | 3:37 |
 | 19 | [Shen Yeng Anthem](https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shen Yeng Anthem](https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT) | 2:21 |
 | 20 | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/track/58mtgcQVZ56NgWHKsN94nD) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/album/6sYqQ3Pem0Ml376lKx545S) | 3:28 |
-| 21 | [W \(feat\. Gunna\)](https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [W \(feat\. Gunna\)](https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5) | 3:50 |
-| 22 | [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 |
+| 21 | [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 |
+| 22 | [W \(feat\. Gunna\)](https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [W \(feat\. Gunna\)](https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5) | 3:50 |
 | 23 | [Slow Down](https://open.spotify.com/track/0jPEWByX9DZAQb5zyQ6eng) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:14 |
 | 24 | [So Mi Like It](https://open.spotify.com/track/6IFDy0imCdhDpHj98GczEX) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [So Mi Like It](https://open.spotify.com/album/3VsPJKD7uZPIYB4SNGeLRt) | 2:33 |
 | 25 | [Pull up to Mi Bumper](https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull up to Mi Bumper](https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS) | 2:30 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 50 | [Bet Mi Money](https://open.spotify.com/track/2taU9obeNJpV0sDiiu3oNt) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Bet Mi Money \- Single](https://open.spotify.com/album/4zHe5UZXTojzY5HnDxX3XG) | 2:49 |
 | 51 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0fz2jINcCa4iD7j4dmioCa) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/5kOOn0ChRFeAohElEPTqkz) | 3:06 |
 | 52 | [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 |
-| 53 | [Run Di Road](https://open.spotify.com/track/6motja4C4U6oCgtojBTyCI) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Run Di Road](https://open.spotify.com/album/0BKb9d38XK9xmTF3IOoTBc) | 2:24 |
-| 54 | [Bubble](https://open.spotify.com/track/0Wszs6jrBwK0YO2vYLb1We) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Gemini](https://open.spotify.com/album/4TGkpeR5mcuh4C3Nnw1gM8) | 3:20 |
+| 53 | [Bubble](https://open.spotify.com/track/0Wszs6jrBwK0YO2vYLb1We) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Gemini](https://open.spotify.com/album/4TGkpeR5mcuh4C3Nnw1gM8) | 3:20 |
+| 54 | [Run Di Road](https://open.spotify.com/track/6motja4C4U6oCgtojBTyCI) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Run Di Road](https://open.spotify.com/album/0BKb9d38XK9xmTF3IOoTBc) | 2:24 |
 | 55 | [Gold](https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Gold](https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS) | 3:10 |
 | 56 | [Romping Shop](https://open.spotify.com/track/1xn2rn7Bw8IM3RqYwB4xWz) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Romping Shop](https://open.spotify.com/album/17C2TyzNMDe64H0zpr4DBE) | 3:33 |
 | 57 | [Man Is The Least](https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Extra Raw: The First Lady Of Dancehall](https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd) | 3:50 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 60 | [Senseless](https://open.spotify.com/track/20GrAO16fXHWO241JeYKWP) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Senseless](https://open.spotify.com/album/2y6X069vn7n8YbnX8gDY4o) | 3:03 |
 | 61 | [Just a Little Bit](https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Queen of Bacchanal](https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3) | 3:54 |
 | 62 | [Key Fi Mi Life](https://open.spotify.com/track/1lrrO0ker7afjH7DfmFD5X) | [Vershon](https://open.spotify.com/artist/42NCKSFJsf7cFevs2BuG2g) | [Key Fi Mi Life \- Single](https://open.spotify.com/album/5BNb05N4r4LQYZ4x0m9oxA) | 3:22 |
-| 63 | [Feelings](https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Feelings](https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5) | 2:35 |
+| 63 | [No Limit](https://open.spotify.com/track/5D8ChOpWBYGR5R1NFDhL1z) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [No Limit](https://open.spotify.com/album/48yig5ryaViHZ3Rh3itItz) | 2:38 |
 | 64 | [Nuh Reason](https://open.spotify.com/track/3AjY1Uq9a0eMmuhLzddY5G) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Preserve Mi Life](https://open.spotify.com/album/27zFlK0mhEIf4tkjbVBAMR) | 3:18 |
 | 65 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 |
 | 66 | [Put It On You](https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:05 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 69 | [Yamabella](https://open.spotify.com/track/0kXox7KhOnDs62txnUSLF1) | [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ) | [Yamabella](https://open.spotify.com/album/1MOESZoQnGJnCwXy6vm1Bs) | 2:54 |
 | 70 | [Tek Weh Yuhself](https://open.spotify.com/track/6PWhaGqUfwAXX7MyRluOAu) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [The Biggest Ragga Dancehall Anthems 2007](https://open.spotify.com/album/7ddsTEh3W8FDNKQx0QJrxx) | 2:56 |
 | 71 | [Don Walk](https://open.spotify.com/track/72MXBT0ZqohXULxmkYVKRz) | [Rymez](https://open.spotify.com/artist/6lUWb46h9Y8H8cqpW3i0pc), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Don Walk](https://open.spotify.com/album/5YwjKEC86hGgSwR5RM77PI) | 3:28 |
-| 72 | [No Limit](https://open.spotify.com/track/5D8ChOpWBYGR5R1NFDhL1z) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [No Limit](https://open.spotify.com/album/48yig5ryaViHZ3Rh3itItz) | 2:38 |
+| 72 | [Feelings](https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Feelings](https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5) | 2:35 |
 | 73 | [Bun Fi Bun \- Fast](https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3) | 2:29 |
 | 74 | [Banana](https://open.spotify.com/track/7nF0TnQV9RIzn1mIlr5qxC) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Banana](https://open.spotify.com/album/3UeUx9etR6Rg7VeqO8EdPu) | 2:30 |
 | 75 | [Where We Come From](https://open.spotify.com/track/1UXBxulT5ezQKMk99DZ602) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Where We Come From](https://open.spotify.com/album/3iZe5yKemYO68gNG9hQ33C) | 4:02 |
 
-Snapshot ID: `MCxhMzVhMDg4OWE4ZGIwYzVjMGNmNDg5OGQ3NzJmMWRiMzNmN2QyM2Iz`
+Snapshot ID: `MCw3ZTI2YWFmYzA3Zjg4MjY3ZDU5MzlmMzY1ZDA2NWRiOWIxZGMyZDQw`

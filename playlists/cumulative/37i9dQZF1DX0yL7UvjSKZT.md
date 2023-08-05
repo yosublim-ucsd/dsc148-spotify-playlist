@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Molly Tuttle
 
-303 songs - 19 hr 4 min
+305 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,9 +199,11 @@
 | [Prodigal Daughter](https://open.spotify.com/track/62GUjBiYCUCGtd5BHOIhi0) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:42 | 2023-04-28 |  |
 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 | 2023-06-23 |  |
 | [Real World](https://open.spotify.com/track/3bimtjFTf1f44qp2dH9m5F) | [Highland Reverie](https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2) | [Real World](https://open.spotify.com/album/6Z4aXYZHNwCcKhgrjfztZy) | 3:17 | 2021-12-31 | 2022-07-16 |
+| [Red Rocking Chair](https://open.spotify.com/track/3YrXglYblDURRXFitsQeq6) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Working on a Building / Red Rocking Chair](https://open.spotify.com/album/0dlpqJPSkvBInmfJnEZcX7) | 3:06 | 2023-08-04 |  |
 | [Rhododendron](https://open.spotify.com/track/36hL1aF2Bxel9EOkHy3CuX) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron](https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP) | 4:46 | 2022-10-14 | 2023-06-10 |
 | [Run To Heaven](https://open.spotify.com/track/0OJAIweexqlZ1ec5aDFsV2) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ladies & Gentlemen](https://open.spotify.com/album/3FDQWdReKKAu4hgebNjI0N) | 3:10 | 2021-10-01 | 2022-07-29 |
 | [Run To Heaven](https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ladies & Gentlemen](https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm) | 3:10 | 2022-07-22 | 2022-10-08 |
+| [Sally Ann](https://open.spotify.com/track/0fSDDYAH15TC90WzSZh37D) | [Wild Ponies](https://open.spotify.com/artist/3FA773INUQV6r86d9XW0jJ) | [Galax](https://open.spotify.com/album/4Sgw7znxUBBGHf9Qztzs9M) | 2:59 | 2023-08-04 |  |
 | [Save This Heart](https://open.spotify.com/track/44rtc66Yh6F8HxDDyKJoo9) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/5dR3GxLveYLBkq6utHAZmT) | 3:01 | 2021-10-01 | 2022-07-29 |
 | [Save This Heart](https://open.spotify.com/track/5B1KYVaGIsI7v7LZYbXWI8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 3:01 | 2022-07-22 | 2023-04-09 |
 | [Scrape Me Off the Ceiling](https://open.spotify.com/track/0fD7WXONvfGg9poOUOn8SI) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Scrape Me Off the Ceiling](https://open.spotify.com/album/7ojJLIbIIlC7XqiONY0csB) | 3:00 | 2021-10-01 | 2022-07-29 |

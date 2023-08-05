@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 164761,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
@@ -2927,6 +2927,28 @@
     },
     {
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1w3ITOS9BAgJ7qADAYJMAD"
+      },
+      "artists": [
+        {
+          "name": "PALASTIC",
+          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
+        },
+        {
+          "name": "NOVUM",
+          "url": "https://open.spotify.com/artist/5fbXkFsRWli6BMW6rUOTFv"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147215,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/1aG6d3qaIQUe7kc1NzRdFW"
+    },
+    {
+      "album": {
         "name": "Losing My Mind",
         "url": "https://open.spotify.com/album/7IjAfvZpEb865xTsWmfvbo"
       },
@@ -3384,7 +3406,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 139668,
       "name": "Never Surrender (feat. H. Kenneth)",
       "url": "https://open.spotify.com/track/4N8XoCat9D67QHn7XDOHCZ"
@@ -5372,6 +5394,28 @@
       "duration_ms": 136023,
       "name": "Wash It Off",
       "url": "https://open.spotify.com/track/3eUbqmtDvKOAyhGiNg6pzl"
+    },
+    {
+      "album": {
+        "name": "We Ride (feat. Teddy Bee)",
+        "url": "https://open.spotify.com/album/3yKdq0HWKiF25WjWAqTUAK"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "Teddy Bee",
+          "url": "https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "We Ride (feat. Teddy Bee)",
+      "url": "https://open.spotify.com/track/5Owz0Wkb3XgaADAm6dEr2O"
     },
     {
       "album": {

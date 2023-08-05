@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 
 > ¡Rolas pa' sacar las chelas y el tequila!
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,663 likes - 150 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,181 likes - 150 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,9 +141,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 131 | [Modo Crudo \- Versión Banda](https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Modo Crudo \(Versión Banda\)](https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k) | 2:08 |
 | 132 | [Arboles De La Barranca](https://open.spotify.com/track/0zBXoD73b7ysX3nz9HbNAU) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Historia](https://open.spotify.com/album/4Txi7EuXuO1w8AnxRi6eZU) | 2:56 |
 | 133 | [El Karma](https://open.spotify.com/track/5OcWYcPLTtLQNsfuBAb9vS) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma](https://open.spotify.com/album/157AfgOIg4Tq7m5sEO7ps5) | 3:15 |
-| 134 | [El Dia Que Puedas](https://open.spotify.com/track/2irOqljUpmxU16GCq8mZ6U) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Atraves de la Luna](https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2) | 4:09 |
+| 134 | [El Strawberry](https://open.spotify.com/track/1iQbmo9nnw026Oc1nHLCDm) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Corridos Necesarios, Vol\. 1](https://open.spotify.com/album/3hvp63bGehkoAmfQIxxojW) | 4:24 |
 | 135 | [El Borrego](https://open.spotify.com/track/2ypDwYTfpbAgj4ocOWvgwZ) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos A Quema Ropa](https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK) | 3:18 |
-| 136 | [El Strawberry](https://open.spotify.com/track/1iQbmo9nnw026Oc1nHLCDm) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Corridos Necesarios, Vol\. 1](https://open.spotify.com/album/3hvp63bGehkoAmfQIxxojW) | 4:24 |
+| 136 | [El Dia Que Puedas](https://open.spotify.com/track/2irOqljUpmxU16GCq8mZ6U) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Atraves de la Luna](https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2) | 4:09 |
 | 137 | [Contra Mis Principios \- Bonus Track](https://open.spotify.com/track/0bp7iqBd58Quykcujvd9P3) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Sin Perder El Estilo](https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF) | 3:46 |
 | 138 | [Ya Valiste Madre \- En Vivo](https://open.spotify.com/track/3f615FYAufUocTYlEMh3Fv) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Ya Valiste Madre \(En Vivo\)](https://open.spotify.com/album/6paAsiZAEqWpTR1EujPATt) | 3:07 |
 | 139 | [El Ahuate](https://open.spotify.com/track/2hTWTQ3kXZVl2KTzBxqYBr) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 4:30 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 149 | [Gente Batallosa](https://open.spotify.com/track/5xyloRk3erqq5Ro2uHzUa3) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Lo Mejor De...](https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup) | 2:28 |
 | 150 | [Aguanta Corazón](https://open.spotify.com/track/6Ty1gDf8oUZfqf9TotnSSe) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Exitos De Los Invasores De Nuevo Leon](https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C) | 2:15 |
 
-Snapshot ID: `MCw1OGFjYTliZmY2ZWUwOTk1NGM5ZWNjNjgyNjUyYjM4ZTcwNGJjYjA1`
+Snapshot ID: `MCwxOTMwNTAxMjI3NjZjOTU1MGMxZjNjZDQ5ZDlhNGIxZjFlYjE3MGQ4`

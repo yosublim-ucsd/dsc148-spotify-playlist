@@ -1,13 +1,37 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 1019855,
+  "num_followers": 1019968,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjRjYWZjN2Q4YzQ3ZmRmOTQ5Y2VmOTc0NTI3Mzk0Y2FmOTc2OWVi",
+  "snapshot_id": "MCw3ZDZiNjViOTdjODFhMjJlYzAxZDE5NThmYmExNTgwMzY3OWI2YmQ3",
   "tracks": [
+    {
+      "added_at": "2023-08-04 15:56:06",
+      "album": {
+        "name": "Ticking Away",
+        "url": "https://open.spotify.com/album/2CNm7QxoOSkqawLMnoepZB"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        },
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 205270,
+      "name": "Ticking Away",
+      "url": "https://open.spotify.com/track/4bdzlt280luOgFi0ZlkTvR"
+    },
     {
       "added_at": "2023-06-26 13:13:06",
       "album": {

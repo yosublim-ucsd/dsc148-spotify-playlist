@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,201 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,255 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 92 | [It's About the Size of a House](https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:34 |
 | 93 | [Welk](https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Dolores](https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79) | 6:18 |
 | 94 | [New Horizons](https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp) | [Netherworld](https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN) | [Mørketid](https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp) | 9:23 |
-| 95 | [Arvesølv](https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 2:38 |
+| 95 | [Søvnens Kvelertak](https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 3:33 |
 | 96 | [De Storm](https://open.spotify.com/track/6mVclchrniUeZKwLxMAT9p) | [Kreng](https://open.spotify.com/artist/1D8wAaE3QG9CJQJvAKMJhZ) | [L’Autopsie Phénoménale de Dieu](https://open.spotify.com/album/14gJJ0h7DJiC0UqlSLSnqy) | 3:42 |
 | 97 | [Verdantique](https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq) | [Nudge](https://open.spotify.com/artist/76OH9UQEealbQ15TJABkLO) | [As Good As Gone](https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ) | 0:45 |
-| 98 | [Ripple and Fade](https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Inlandish](https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy) | 3:17 |
-| 99 | [Swarm](https://open.spotify.com/track/2l7WZvw6VbGHKq3XDWVSm2) | [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Steel Wound](https://open.spotify.com/album/1aLlVAVx4qvra3V7gYNag0) | 4:00 |
-| 100 | [Søvnens Kvelertak](https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 3:33 |
+| 98 | [chessa](https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 6:58 |
+| 99 | [Ripple and Fade](https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Inlandish](https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy) | 3:17 |
+| 100 | [Swarm](https://open.spotify.com/track/2l7WZvw6VbGHKq3XDWVSm2) | [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Steel Wound](https://open.spotify.com/album/1aLlVAVx4qvra3V7gYNag0) | 4:00 |
 
-Snapshot ID: `MCxkNjc4ZjlkMGRhNDFkNmU1Y2VkMGRlM2I4NGM4ZTFjMmZlMWMyNjQw`
+Snapshot ID: `MCwzNWExNjMxMzk5MWE4ZDc3MjZhOTczN2MwZWYzNGZiYWM3YmZmYWY4`

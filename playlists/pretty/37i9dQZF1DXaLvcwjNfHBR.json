@@ -1,12 +1,12 @@
 {
   "description": "Your new favourite songs! Cover: Calvin Harris + Sam Smith",
-  "num_followers": 60210,
+  "num_followers": 60289,
   "original_name": "Breaking Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2I4ZjU0ZjQxM2NjY2FmMzdmZWM5NjYxMjQxMTkxZmQ0Yzk4ZWUz",
+  "snapshot_id": "MCxhODc3MTM3YWRkZWIxOTFlNmE0ZGE4MjJjYTZjMTljOTllNjg4ODE3",
   "tracks": [
     {
       "added_at": "2023-08-03 14:00:00",
@@ -75,6 +75,22 @@
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2023-08-03 14:00:00",
+      "album": {
+        "name": "Always Gonna Be",
+        "url": "https://open.spotify.com/album/1WI5hRCxaEOSMUtKxO5fKa"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 172213,
+      "name": "Always Gonna Be",
+      "url": "https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk"
     },
     {
       "added_at": "2023-08-03 14:00:00",

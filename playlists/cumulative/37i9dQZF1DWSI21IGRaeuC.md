@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-190 songs - 16 hr 10 min
+191 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Bongoloco](https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA) | 3:26 | 2023-02-10 |  |
 | [Bouncer](https://open.spotify.com/track/2cPp9AOTQcVcZUklahBmab) | [KI Creighton](https://open.spotify.com/artist/54fZiNN8CtExTWCj5Gbeu4) | [Bouncer](https://open.spotify.com/album/6JPQh64ynH13iEoRDdSMqK) | 4:01 | 2022-06-03 | 2022-07-31 |
 | [Bring It Back](https://open.spotify.com/track/1EQ2D7HRLZDz2aPSibkACT) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bring It Back](https://open.spotify.com/album/2hQ4dYGyQeKXSQbQRTB61k) | 5:41 | 2023-06-09 |  |
-| [buss it.](https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [winter '23](https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy) | 6:10 | 2023-03-17 |  |
+| [buss it.](https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [winter '23](https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy) | 6:10 | 2023-03-17 | 2023-08-05 |
+| [C'mon](https://open.spotify.com/track/3p28zxsE5Ndd9CJUvpUwnC) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [C'mon](https://open.spotify.com/album/1JFfBxteXBD0yGNbfENRdA) | 4:00 | 2023-08-04 |  |
 | [can't stop the swing.](https://open.spotify.com/track/2mTNrZp8XBLay7hwwcAj81) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [spring '23](https://open.spotify.com/album/0sI5QLNxVfY8SeHGm70RZL) | 6:04 | 2023-05-26 |  |
 | [CDWU](https://open.spotify.com/track/7BAx0TzD2eE7amrzEZH1Hg) | [Simon Kidzoo](https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA) | [CDWU EP](https://open.spotify.com/album/04CqfNadncHwswivDrT9xM) | 3:02 | 2022-07-22 | 2022-07-29 |
 | [Changes](https://open.spotify.com/track/6WMjfoQiJn7Bbs7Bv7G6rT) | [Simon Kidzoo](https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA) | [Changes EP](https://open.spotify.com/album/6OICJ3V1eLF0NTfMY4Em4n) | 2:51 | 2022-06-10 | 2022-07-29 |

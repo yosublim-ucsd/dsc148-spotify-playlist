@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,710 likes - 225 songs - 13 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,725 likes - 225 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 9 | [In The Air](https://open.spotify.com/track/4ub1JODSX5rGlcKhckbRgM) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [In The Air](https://open.spotify.com/album/00wZ6R07W9BsSAm7sozAmS) | 2:32 |
 | 10 | [Luminescence](https://open.spotify.com/track/0pDug97KNMJ7EqT4GdIBeC) | [Kiabits](https://open.spotify.com/artist/7Iwn7mwI12WYQtlVoi4GAg), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Luminescence](https://open.spotify.com/album/2b3TrpF9eaEfzYDz9NTDks) | 1:29 |
 | 11 | [Pearls](https://open.spotify.com/track/42P8KxGfdFrY26zVovIdaJ) | [Ryan Randolph](https://open.spotify.com/artist/1DnbNSRsPs7dLlnBYti0jB) | [Pearls](https://open.spotify.com/album/03hLFQObxUo97XQIt4OzOr) | 2:39 |
-| 12 | [Chika \(Scared\)](https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Chika \(scared\)](https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z) | 2:48 |
+| 12 | [Chika \(scared\)](https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Chika \(scared\)](https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z) | 2:48 |
 | 13 | [Jessie \(I Miss You\)](https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jessie \(i miss you\)](https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ) | 3:17 |
 | 14 | [Rock With You](https://open.spotify.com/track/2OZrxq8XMp9iFDgFuIWHfm) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD) | [Rock With You](https://open.spotify.com/album/1iQmYo1Y9CBAsCqj3XHkYn) | 1:24 |
 | 15 | [Afternoon](https://open.spotify.com/track/7bLHWQicZFxR1dkvYrYNCj) | [mushii.](https://open.spotify.com/artist/3ytz3wAW8Qg1GqedDm5E2h), [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb) | [Village](https://open.spotify.com/album/00aPsGMmRq7ZL7vcj4HyNz) | 2:27 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 224 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 225 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MCxmZDBhOWM1Y2U3NmQ2OTNmZmRmZGIxMmFiMTA1YTkzMmQzZmFiODRj`
+Snapshot ID: `MCw5YjIzZTExMjM2ZGU3YjJlMGQ2ZTI1ZTJkZTg1NjAwODJiM2YxYzUz`

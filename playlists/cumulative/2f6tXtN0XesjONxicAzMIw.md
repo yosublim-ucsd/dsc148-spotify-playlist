@@ -4,7 +4,7 @@
 
 > The best of 2000s Y2K nostalgia, from Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
 
-197 songs - 12 hr 50 min
+198 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Survivor](https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 4:14 | 2023-01-19 |  |
 | [Survivor](https://open.spotify.com/track/5sN8MGWR2pu2Rn3oAOPYXt) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 4:14 | 2022-06-03 | 2023-01-20 |
 | [Sweet Dreams](https://open.spotify.com/track/1FKxKGONukVFXWVJxAKmlz) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 3:28 | 2023-02-21 |  |
+| [Take Da Charge](https://open.spotify.com/track/2XOKoaCWziW0W14DPeY7XS) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Layin' Da Smack Down \(Explicit Version\)](https://open.spotify.com/album/1SVEph4VG00L3vsmMeeBcC) | 3:06 | 2023-08-04 |  |
 | [Tears Dry On Their Own](https://open.spotify.com/track/7MDfN1ldfTMtuXXdVz2Pzc) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:06 | 2023-02-21 | 2023-06-15 |
 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 | 2022-08-11 | 2023-06-15 |
 | [Teenage Dirtbag](https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Songs From Dawson's Creek, Vol\. II](https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj) | 4:01 | 2023-06-14 |  |

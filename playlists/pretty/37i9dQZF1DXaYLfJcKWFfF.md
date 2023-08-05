@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd?si=\-vTi\-zG8TceLlVsEnt73bw"> Tommy WA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,516 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,557 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 9 | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/album/65HSV5JvGWhtbvnBOITYMY) | 2:37 |
 | 10 | [Letting Go](https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD) | [Manuel Bless](https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq) | [Letting Go](https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ) | 3:33 |
 | 11 | [In The Clouds](https://open.spotify.com/track/4CIOeAaG7HTGFL2OZjbB9k) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [In The Clouds](https://open.spotify.com/album/79eYcHk7WngNWEIAP68pmn) | 3:23 |
-| 12 | [Imali](https://open.spotify.com/track/0POdzGSgOhsL9oPX4ERj6q) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/3UkDRVrOBRrMvoMsb0EGim) | 2:42 |
+| 12 | [Imali](https://open.spotify.com/track/3Z9lmDapyI88AyHZ8utTf1) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/1bgbyxRaOGJaHu4Qze6rle) | 2:42 |
 | 13 | [Stranger](https://open.spotify.com/track/7CDgFr0gMqKCIQkWF7LL0s) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Love and Highlife](https://open.spotify.com/album/6cUiseAcWeWyF5mgeknpRU) | 3:43 |
 | 14 | [Your Turn](https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Your Turn](https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e) | 3:54 |
 | 15 | [My Ability](https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [My Ability](https://open.spotify.com/album/4ksFUZlag8pQV82WLLxivc) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [JI](https://open.spotify.com/track/05Z7zjFNdexq8adjFibaU3) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [JI](https://open.spotify.com/album/54tBFtklctJSt9ZUC9WtFa) | 2:29 |
 | 50 | [Mahaba Yatatuua](https://open.spotify.com/track/5qDdvkYJBLZKciPWMCx9Fz) | [Ndung'u Mbithi](https://open.spotify.com/artist/1Xae29olA5X6qpDX6MOvHO) | [Mahaba Yatatuua](https://open.spotify.com/album/74uv6gKqamatXy8IfjntRA) | 3:20 |
 
-Snapshot ID: `MCwyMDIzMmZhN2ZkZTcwNWI5M2MyNmNjZDllNDU0ZTcwNWE2NmI4MDM5`
+Snapshot ID: `MCw3MTU1OTYzZDRkZDY0NWM4YWNmYmY1MWJmY2NlNjU4ZWRjODYwNTI2`

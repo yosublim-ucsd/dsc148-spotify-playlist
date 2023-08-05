@@ -4,7 +4,7 @@
 
 > Músicas calminhas pra começar o dia bem relax.
 
-188 songs - 10 hr 47 min
+190 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-07-21 |  |
 | [Frágil Coração](https://open.spotify.com/track/2VxnvfZykJxJkRTXd6tZUI) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Frágil Coração](https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP) | 3:36 | 2022-04-01 | 2023-08-02 |
 | [Furta\-Cor](https://open.spotify.com/track/4PUFsnaztPNbXSHhGnQ2Tw) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z), [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Respiro](https://open.spotify.com/album/2wKOCCeBGn6D2KJImp97vW) | 2:51 | 2022-04-01 | 2022-04-21 |
+| [Garotos II \- Ao Vivo](https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Garotos II \(Ao Vivo\)](https://open.spotify.com/album/3yYpPiPKxnoL39eKC6H3gk) | 3:18 | 2023-08-04 |  |
 | [Gigi](https://open.spotify.com/track/1W39bHsutPg1ItstVvzS2T) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/5rCOOZsVbPWwuAVKrA5Xug) | 2:56 | 2022-04-01 | 2022-04-21 |
 | [Good Vibes](https://open.spotify.com/track/7lW9epMgtSyF21b3muuNDw) | [Dois é Par](https://open.spotify.com/artist/2LfLjCqLZupHpDuFWq70Zk) | [Dois é Par](https://open.spotify.com/album/2aW8hmMBYgHV3ClYmKly5H) | 2:56 | 2022-02-18 | 2022-07-29 |
 | [Horizonte](https://open.spotify.com/track/53M78qKCQ1PVoqnzqE94VH) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Horizonte](https://open.spotify.com/album/4InM7tZt258Z6hSGDLPpgj) | 3:23 | 2022-04-01 | 2022-05-07 |
@@ -110,7 +111,7 @@
 | [Leoa](https://open.spotify.com/track/6l993djoioRwZkNvB8jkRp) | [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Leoa](https://open.spotify.com/album/7LqFIY1vkKx2fsxKshty6P) | 3:31 | 2022-02-18 | 2022-07-29 |
 | [Leve](https://open.spotify.com/track/5jn5jnmwO9hdyoix0bCOif) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mahmundi](https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN) | 4:55 | 2022-04-01 | 2022-04-19 |
 | [Leão](https://open.spotify.com/track/5jyhJeoNPBM5EGMU1OTfb8) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Leão](https://open.spotify.com/album/1N5Lvy0FhCxXpB0P047oRg) | 3:27 | 2022-02-18 | 2022-07-29 |
-| [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 | 2022-02-18 |  |
+| [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 | 2022-02-18 | 2023-08-05 |
 | [Mais Bonito Não Há](https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Mais Bonito Não Há](https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd) | 3:57 | 2022-02-18 |  |
 | [Mais Que Ontem](https://open.spotify.com/track/1KshLJaAFxRowOEKgdgk9D) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Quintal](https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW) | 2:57 | 2023-01-13 | 2023-08-01 |
 | [Mantra \(Feat\. Emicida\)](https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Casas](https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX) | 4:54 | 2022-04-01 | 2022-08-02 |
@@ -189,8 +190,9 @@
 | [Vontade Lunar \(feat\. OUTROEU\)](https://open.spotify.com/track/6g8Q5HsDn9Mn2ckBiWMAJf) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Vontade Lunar \(feat\. OUTROEU\)](https://open.spotify.com/album/6kwPkBFgJ7rEzVtVi9VYMJ) | 3:00 | 2022-02-18 | 2022-07-27 |
 | [Várias Queixas](https://open.spotify.com/track/18TXfDzDZptWGoim29fDry) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Gilsons](https://open.spotify.com/album/1FNbRPG8Oy5zi5WLRZP0YZ) | 2:50 | 2022-02-18 | 2022-07-29 |
 | [Várias Queixas](https://open.spotify.com/track/5HFvMPiNjclAq8DbEAPWMw) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 2:50 | 2022-06-24 |  |
+| [Xícara](https://open.spotify.com/track/5089QL4ZmWBLyHdL4YWOra) | [Guilherme Castel](https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX) | [Xícara](https://open.spotify.com/album/3Oy0KAhfLaKzJGQeNVtmhX) | 2:31 | 2023-08-04 |  |
 | [Zen](https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Anitta](https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z) | 2:45 | 2022-02-18 | 2022-06-07 |
-| [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 | 2022-04-01 |  |
+| [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 | 2022-04-01 | 2023-08-05 |
 | [Zé Do Caroço](https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Kavita 1](https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO) | 6:32 | 2022-04-01 | 2022-04-20 |
 | [Á Primeira Vista](https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Aos Vivos](https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF) | 3:36 | 2022-04-01 |  |
 | [É tudo pra ontem](https://open.spotify.com/track/48QajhR9A10V7uM2UbIWxO) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [É tudo pra ontem](https://open.spotify.com/album/0ucGkC2GM4IBycOIAw9eBj) | 5:10 | 2022-02-18 | 2022-06-29 |

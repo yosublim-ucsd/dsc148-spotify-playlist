@@ -1607,6 +1607,28 @@
     },
     {
       "album": {
+        "name": "Sweet Memories: The Music Of Ray Price & The Cherokee Cowboys",
+        "url": "https://open.spotify.com/album/7d5S3zwO2vZn64PbtLZQ9r"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        },
+        {
+          "name": "Paul Franklin",
+          "url": "https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175773,
+      "name": "Healing Hands Of Time",
+      "url": "https://open.spotify.com/track/34sj5y5j85TPf4Q46QAJUD"
+    },
+    {
+      "album": {
         "name": "Heartbreak Song",
         "url": "https://open.spotify.com/album/6el7S7Ebsgh69AimpDPesJ"
       },

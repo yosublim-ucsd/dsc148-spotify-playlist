@@ -656,7 +656,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 224250,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/1jdOJBKLdLtSrV63ztyYdP"
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 213769,
       "name": "Home",
       "url": "https://open.spotify.com/track/32B1bOMkjY9dnMVlcmpWdv"
@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "My Sweet Lord",
+        "url": "https://open.spotify.com/album/7rbfhqkpS5J9JerwXt4OPq"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304391,
+      "name": "My Sweet Lord",
+      "url": "https://open.spotify.com/track/0gVCFdvavY7YRsIpssaxaz"
+    },
+    {
+      "album": {
         "name": "Red Mango",
         "url": "https://open.spotify.com/album/3GbXwZCsddzlFF4QPLzS0E"
       },
@@ -2000,6 +2018,28 @@
       "duration_ms": 279741,
       "name": "My World Is Empty Without You",
       "url": "https://open.spotify.com/track/2f5l3dzeD2KMTZJDxo3wZP"
+    },
+    {
+      "album": {
+        "name": "Never Let You Down",
+        "url": "https://open.spotify.com/album/65I2WkH3rAmgb1E4ef55he"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        },
+        {
+          "name": "Gentleman",
+          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188937,
+      "name": "Never Let You Down",
+      "url": "https://open.spotify.com/track/2Q2Md34uxHcRvSNzbCAgLH"
     },
     {
       "album": {
@@ -2187,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/0OvsWLx9SJLnDEUW045fzQ"
+      },
+      "artists": [
+        {
+          "name": "Conkarah",
+          "url": "https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "People",
+      "url": "https://open.spotify.com/track/1VnOw9GNrOYoAXM0AIDNx5"
+    },
+    {
+      "album": {
         "name": "Victory Rock Riddim",
         "url": "https://open.spotify.com/album/2ychB1n3vMLc8t2bOflZTu"
       },
@@ -2206,7 +2264,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 207324,
       "name": "People",
       "url": "https://open.spotify.com/track/1pH3ibG3IDuktQ7wFozrnu"
@@ -2440,7 +2498,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 223453,
       "name": "Scandalous",
       "url": "https://open.spotify.com/track/64mnLoJjo09QpqwlKlXxx5"
@@ -2578,6 +2636,40 @@
       "duration_ms": 209357,
       "name": "Soul of the World (with Barrington Levy)",
       "url": "https://open.spotify.com/track/7DpNYAQdvEg5vFD8U5UriV"
+    },
+    {
+      "album": {
+        "name": "Sounds of Summer (with Slightly Stoopid & J Boog) [Remix]",
+        "url": "https://open.spotify.com/album/0N5fhkX7dxDh0cYpPavO6y"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+        },
+        {
+          "name": "Noah Cronin",
+          "url": "https://open.spotify.com/artist/2yqSHKgMDbDW3Mzrk2M5df"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254906,
+      "name": "Sounds of Summer (with Slightly Stoopid & J Boog) - Remix",
+      "url": "https://open.spotify.com/track/01RCm15CxS9M38rDtlJA0E"
     },
     {
       "album": {
@@ -3114,7 +3206,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 232051,
       "name": "When She Loves",
       "url": "https://open.spotify.com/track/3D0l2V3pDLXoHV9Xmdoku1"

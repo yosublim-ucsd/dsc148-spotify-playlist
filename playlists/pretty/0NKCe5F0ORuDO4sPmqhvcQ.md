@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,978 likes - 108 songs - 6 hr 2 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,978 likes - 111 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,5 +116,8 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 106 | [Waiting...](https://open.spotify.com/track/2RvaQGoRf0aGCrzzITBqpE) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Waiting...](https://open.spotify.com/album/5Tw9rBaxeaAOT5AYisGu9o) | 3:41 |
 | 107 | [The Fall](https://open.spotify.com/track/1tpCENh4JDWpWGFeTz02fP) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Fall / For the Last Time](https://open.spotify.com/album/3GzBwa27pIwAnytu1KP0ka) | 3:37 |
 | 108 | [The Vortex](https://open.spotify.com/track/2XhfNg6trek448vkXR1zaW) | [Gromo](https://open.spotify.com/artist/0fZTPSPLC75QesDYUfSPdx) | [The Vortex](https://open.spotify.com/album/0ji8HEJxJ9KnkhvquiP30g) | 3:12 |
+| 109 | [Doin' Fine](https://open.spotify.com/track/21IEP05e11FUtTHgi1azuj) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [Doin' Fine](https://open.spotify.com/album/5nFIBGaI1Hx9U25UIQ0UF3) | 3:27 |
+| 110 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu) | 3:25 |
+| 111 | [Nowhere](https://open.spotify.com/track/31gMxpu8lSWdIBayKt5ED3) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [Nowhere](https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz) | 3:13 |
 
-Snapshot ID: `MTA0MDYsNzIxYmRjNjZkYThmMmZmNjkyZTU5Y2I3ODg5MzU5MTY0YjBhZDA1YQ==`
+Snapshot ID: `MTA0MDksMTA3OTc5NDY4Y2YyYjI3OTI5ODAzY2NiNWJhZWVmOTIxOWJlMTdiYg==`

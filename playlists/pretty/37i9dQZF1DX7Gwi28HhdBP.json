@@ -1,12 +1,12 @@
 {
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631! \u063a\u0644\u0627\u0641:<a href=\"https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw?si=PO2Z_KZ6Rny84J54tvSmlA\"> \u0639\u0628\u062f \u0627\u0644\u0628\u0627\u0633\u0637 \u062d\u0645\u0648\u062f\u0629 \u0648 <a href=\"https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV?si=LROac5XuRleQt23P0C_VKg\"> \u0639\u0645\u0631 \u0643\u0645\u0627\u0644",
-  "num_followers": 67196,
+  "num_followers": 67288,
   "original_name": "\u0634\u0639\u0628\u064a \u0645\u0635\u0631\u064a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWMyZDQxYTllNTI1OGY0MmNmNDNlNjQyNzUwMjMyN2JlZmQ3MTkw",
+  "snapshot_id": "MCwwYzkwNTExODNmOTAwMzJlYzEzZTkxYTJiYWU2NTIyYmZiMGY4MDQw",
   "tracks": [
     {
       "added_at": "2023-08-02 20:58:38",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-08-02 20:58:38",
       "album": {
-        "name": "Abia El Donia",
-        "url": "https://open.spotify.com/album/3UlzoBKkSpdbdOopu4NtJb"
-      },
-      "artists": [
-        {
-          "name": "Bossy",
-          "url": "https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7"
-        }
-      ],
-      "duration_ms": 212957,
-      "name": "Abia El Donia",
-      "url": "https://open.spotify.com/track/6hioBIoRNttVg7pvZ9qnrd"
-    },
-    {
-      "added_at": "2023-08-02 20:58:38",
-      "album": {
         "name": "\u0645\u062f\u0644\u0639\u0629",
         "url": "https://open.spotify.com/album/0pIkS094WHvil5JytPYMj4"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 213589,
       "name": "\u0645\u062f\u0644\u0639\u0629",
       "url": "https://open.spotify.com/track/12JYrfMtRussFNacCUlqRZ"
+    },
+    {
+      "added_at": "2023-08-02 20:58:38",
+      "album": {
+        "name": "Abia El Donia",
+        "url": "https://open.spotify.com/album/3UlzoBKkSpdbdOopu4NtJb"
+      },
+      "artists": [
+        {
+          "name": "Bossy",
+          "url": "https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7"
+        }
+      ],
+      "duration_ms": 212957,
+      "name": "Abia El Donia",
+      "url": "https://open.spotify.com/track/6hioBIoRNttVg7pvZ9qnrd"
     },
     {
       "added_at": "2023-08-02 20:58:38",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-08-02 20:58:38",
       "album": {
+        "name": "\u0632\u0639\u0644\u0627\u0646\u0627 \u0645\u0646\u0643",
+        "url": "https://open.spotify.com/album/1H1mvMlGLkxtIIGT80v07Q"
+      },
+      "artists": [
+        {
+          "name": "Shafeqa",
+          "url": "https://open.spotify.com/artist/78nDgw9OwoINjiHYCejKPh"
+        }
+      ],
+      "duration_ms": 622505,
+      "name": "\u062c\u0631\u0628\u062a \u0627\u0644\u062d\u0628 \u0645\u0631\u0647",
+      "url": "https://open.spotify.com/track/6dXpfC0mxL1ytHsy5t32Jv"
+    },
+    {
+      "added_at": "2023-08-02 20:58:38",
+      "album": {
         "name": "\u062f\u0648\u0643\u0647",
         "url": "https://open.spotify.com/album/4l8WltW1mSqTOmby0ASWwx"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 214809,
       "name": "\u0627\u0644\u062c\u0648 \u0648\u0644\u0639",
       "url": "https://open.spotify.com/track/0vzm1POq1H0JVHwSOaufio"
-    },
-    {
-      "added_at": "2023-08-02 20:58:38",
-      "album": {
-        "name": "\u0632\u0639\u0644\u0627\u0646\u0627 \u0645\u0646\u0643",
-        "url": "https://open.spotify.com/album/1H1mvMlGLkxtIIGT80v07Q"
-      },
-      "artists": [
-        {
-          "name": "Shafeqa",
-          "url": "https://open.spotify.com/artist/78nDgw9OwoINjiHYCejKPh"
-        }
-      ],
-      "duration_ms": 622505,
-      "name": "\u062c\u0631\u0628\u062a \u0627\u0644\u062d\u0628 \u0645\u0631\u0647",
-      "url": "https://open.spotify.com/track/6dXpfC0mxL1ytHsy5t32Jv"
     },
     {
       "added_at": "2023-08-02 20:58:38",

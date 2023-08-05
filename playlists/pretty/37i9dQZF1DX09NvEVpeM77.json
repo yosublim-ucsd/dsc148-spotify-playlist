@@ -1,12 +1,12 @@
 {
   "description": "Classic rock favorites. Cover: Bruce Springsteen",
-  "num_followers": 320164,
+  "num_followers": 320552,
   "original_name": "Dad Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGY5YTQzYTA1ZjkxNjk2NmMzMzlmY2FiNDQ5MzRlMjhjYjU1NGQ5",
+  "snapshot_id": "MCwxOWU1ZDUxMzQ1Zjk4NGI0MzU0YmEzYmRiM2U4YzYyZGE0MGZjMTM1",
   "tracks": [
     {
       "added_at": "2022-06-15 19:50:25",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
     },
     {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "The Best Of Don McLean",
-        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 515866,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
-    },
-    {
       "added_at": "2022-03-04 19:14:07",
       "album": {
         "name": "Pieces Of Eight",
@@ -587,6 +571,22 @@
       "duration_ms": 257226,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "The Best Of Don McLean",
+        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 515866,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
     },
     {
       "added_at": "2022-03-04 19:14:07",
@@ -621,20 +621,20 @@
       "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
     },
     {
-      "added_at": "2022-06-15 19:50:25",
+      "added_at": "2022-03-04 19:00:59",
       "album": {
-        "name": "Honky Tonk Women / You Can't Always Get What You Want",
-        "url": "https://open.spotify.com/album/1bp4Aq0SnjhifrYaKbfSdS"
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 182706,
-      "name": "Honky Tonk Women",
-      "url": "https://open.spotify.com/track/3fnPv1LRMxENr63afVhaz1"
+      "duration_ms": 201693,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
     },
     {
       "added_at": "2022-03-04 19:00:59",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
     },
     {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Refugee",
-      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
-    },
-    {
       "added_at": "2022-03-31 19:45:13",
       "album": {
         "name": "The Captain and Me",
@@ -683,6 +667,22 @@
       "duration_ms": 195306,
       "name": "China Grove",
       "url": "https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6"
+    },
+    {
+      "added_at": "2022-06-15 19:50:25",
+      "album": {
+        "name": "Honky Tonk Women / You Can't Always Get What You Want",
+        "url": "https://open.spotify.com/album/1bp4Aq0SnjhifrYaKbfSdS"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Honky Tonk Women",
+      "url": "https://open.spotify.com/track/3fnPv1LRMxENr63afVhaz1"
     },
     {
       "added_at": "2022-03-04 19:00:59",

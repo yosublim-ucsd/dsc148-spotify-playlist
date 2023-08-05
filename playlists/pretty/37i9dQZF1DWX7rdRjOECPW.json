@@ -1,12 +1,12 @@
 {
   "description": "Sommer, Sonne, Lieblingshits  \u2600\ufe0f",
-  "num_followers": 1506939,
+  "num_followers": 1507642,
   "original_name": "Sommerhits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWVmOTEwZjEwMTQxNjEzN2VlNDYyOGI0YWEzNDkzZDQwMDczM2E4",
+  "snapshot_id": "MCwyMzAzNTIzNDA1YWQwZjBhNTA0ZDQzZjhhMGMxNzk2ZWY1MThmMmY3",
   "tracks": [
     {
       "added_at": "2023-07-26 13:28:32",
@@ -95,26 +95,6 @@
     {
       "added_at": "2023-07-26 13:28:32",
       "album": {
-        "name": "Calm Down (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 239317,
-      "name": "Calm Down (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
-    },
-    {
-      "added_at": "2023-07-26 13:28:32",
-      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+    },
+    {
+      "added_at": "2023-07-26 13:28:32",
+      "album": {
+        "name": "Calm Down (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
       "added_at": "2023-07-26 13:28:32",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-07-26 13:28:32",
       "album": {
-        "name": "Feel Alive",
-        "url": "https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP"
-      },
-      "artists": [
-        {
-          "name": "KAMRAD",
-          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
-        }
-      ],
-      "duration_ms": 148116,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe"
-    },
-    {
-      "added_at": "2023-07-26 13:28:32",
-      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv"
       },
@@ -923,22 +907,18 @@
     {
       "added_at": "2023-07-26 13:28:32",
       "album": {
-        "name": "All For Love",
-        "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP"
       },
       "artists": [
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+          "name": "KAMRAD",
+          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
         }
       ],
-      "duration_ms": 166666,
-      "name": "All For Love",
-      "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
+      "duration_ms": 148116,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe"
     },
     {
       "added_at": "2023-07-26 13:28:32",
@@ -959,6 +939,26 @@
       "duration_ms": 160893,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
+    },
+    {
+      "added_at": "2023-07-26 13:28:32",
+      "album": {
+        "name": "All For Love",
+        "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "All For Love",
+      "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
     },
     {
       "added_at": "2023-07-26 13:28:32",
@@ -1003,46 +1003,6 @@
     {
       "added_at": "2023-07-26 13:28:32",
       "album": {
-        "name": "After Midnight (feat. Xoro)",
-        "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "Xoro",
-          "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
-        }
-      ],
-      "duration_ms": 143526,
-      "name": "After Midnight (feat. Xoro)",
-      "url": "https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1"
-    },
-    {
-      "added_at": "2023-07-26 13:28:32",
-      "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ"
-      },
-      "artists": [
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 175671,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX"
-    },
-    {
-      "added_at": "2023-07-26 13:28:32",
-      "album": {
         "name": "If Only I (feat. Bebe Rexha)",
         "url": "https://open.spotify.com/album/2zpbQGsg44a9BahMS8EwIy"
       },
@@ -1063,6 +1023,66 @@
       "duration_ms": 142756,
       "name": "If Only I (feat. Bebe Rexha)",
       "url": "https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX"
+    },
+    {
+      "added_at": "2023-07-26 13:28:32",
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ"
+      },
+      "artists": [
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 175671,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX"
+    },
+    {
+      "added_at": "2023-07-26 13:28:32",
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
+    },
+    {
+      "added_at": "2023-07-26 13:28:32",
+      "album": {
+        "name": "After Midnight (feat. Xoro)",
+        "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Xoro",
+          "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
+        }
+      ],
+      "duration_ms": 143526,
+      "name": "After Midnight (feat. Xoro)",
+      "url": "https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1"
     },
     {
       "added_at": "2023-07-26 13:28:32",
@@ -1103,26 +1123,6 @@
       "duration_ms": 139422,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
-    },
-    {
-      "added_at": "2023-07-26 13:28:32",
-      "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
     },
     {
       "added_at": "2023-07-26 13:28:32",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-07-26 13:28:32",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        }
-      ],
-      "duration_ms": 159357,
-      "name": "Suavemente",
-      "url": "https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j"
-    },
-    {
-      "added_at": "2023-07-26 13:28:32",
-      "album": {
         "name": "June",
         "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 164840,
       "name": "June",
       "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
+    },
+    {
+      "added_at": "2023-07-26 13:28:32",
+      "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "duration_ms": 159357,
+      "name": "Suavemente",
+      "url": "https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j"
     },
     {
       "added_at": "2023-07-26 13:28:32",
@@ -1379,6 +1379,30 @@
     {
       "added_at": "2023-07-26 13:28:32",
       "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
+        }
+      ],
+      "duration_ms": 170578,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/6wLqNGHQIja6xqT0cfrzBB"
+    },
+    {
+      "added_at": "2023-07-26 13:28:32",
+      "album": {
         "name": "Rapunzel (DJ Robin Remix)",
         "url": "https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX"
       },
@@ -1403,26 +1427,30 @@
     {
       "added_at": "2023-07-26 13:28:32",
       "album": {
-        "name": "Feel Again",
-        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
+        "name": "Monsoon (feat. Tokio Hotel)",
+        "url": "https://open.spotify.com/album/1vDHV4XiihKINCQhWX04O6"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         },
         {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
         },
         {
-          "name": "Alika",
-          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
         }
       ],
-      "duration_ms": 170578,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/6wLqNGHQIja6xqT0cfrzBB"
+      "duration_ms": 163598,
+      "name": "Monsoon (feat. Tokio Hotel)",
+      "url": "https://open.spotify.com/track/5KtDo0LvaAVjRXrIFrYgUF"
     },
     {
       "added_at": "2023-07-26 13:28:32",
@@ -1495,30 +1523,18 @@
     {
       "added_at": "2023-07-26 13:28:32",
       "album": {
-        "name": "Monsoon (feat. Tokio Hotel)",
-        "url": "https://open.spotify.com/album/1vDHV4XiihKINCQhWX04O6"
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
       "artists": [
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        },
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "Tokio Hotel",
-          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
         }
       ],
-      "duration_ms": 163598,
-      "name": "Monsoon (feat. Tokio Hotel)",
-      "url": "https://open.spotify.com/track/5KtDo0LvaAVjRXrIFrYgUF"
+      "duration_ms": 177371,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi"
     },
     {
       "added_at": "2023-07-26 13:28:32",
@@ -1543,22 +1559,6 @@
       "duration_ms": 171233,
       "name": "Stars",
       "url": "https://open.spotify.com/track/0L5dwOLG1xpw9oD5FcyQak"
-    },
-    {
-      "added_at": "2023-07-26 13:28:32",
-      "album": {
-        "name": "Good Times Go",
-        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        }
-      ],
-      "duration_ms": 177371,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi"
     },
     {
       "added_at": "2023-07-26 13:28:32",

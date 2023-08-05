@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Dree",
+        "url": "https://open.spotify.com/album/7bpMNe8Sr5XDlkrbqSHdm3"
+      },
+      "artists": [
+        {
+          "name": "Mindful Changes",
+          "url": "https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Dree",
+      "url": "https://open.spotify.com/track/7pesKriQybH0DBYTA5FbM0"
+    },
+    {
+      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ"
       },

@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene.
 
-215 songs - 9 hr 28 min
+216 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [FLY HIGH!!](https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [檸檬](https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP) | 4:04 | 2022-07-08 | 2023-01-06 |
 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 | 2022-05-27 | 2023-07-14 |
 | [from up on silent hill](https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [from up on silent hill](https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ) | 2:30 | 2023-01-27 | 2023-02-10 |
-| [ghost in the shell \(feat\. SXMPRA and KAMAARA\)](https://open.spotify.com/track/4q6gU25VGU8d72N0laFme5) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [ghost in the shell \(feat\. SXMPRA and KAMAARA\)](https://open.spotify.com/album/5IIfWSzUSqWL2tRAd8jsop) | 2:37 | 2023-07-13 |  |
+| [ghost in the shell \(feat\. SXMPRA and KAMAARA\)](https://open.spotify.com/track/4q6gU25VGU8d72N0laFme5) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [ghost in the shell \(feat\. SXMPRA and KAMAARA\)](https://open.spotify.com/album/5IIfWSzUSqWL2tRAd8jsop) | 2:37 | 2023-07-13 | 2023-08-05 |
 | [GHOSTKILLA](https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC) | 2:19 | 2023-02-24 |  |
 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 | 2022-05-25 |  |
 | [GO!!!](https://open.spotify.com/track/30WNOfFRiqgebO4eRkCii8) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 3:56 | 2022-07-08 | 2022-09-03 |
@@ -136,6 +136,7 @@
 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 | 2022-12-02 |  |
 | [Naruto Bluebird Freestyle](https://open.spotify.com/track/0lVp0ajGZ2huxjV0LjnLI4) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Naruto Bluebird Freestyle](https://open.spotify.com/album/7keMCtMuSyvoRCnHnofyFz) | 1:42 | 2022-05-25 | 2023-01-13 |
 | [Nightmar3](https://open.spotify.com/track/4PMcBJPHgznWZsZL6bf9JV) | [Fabvl](https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9) | [Nightmar3](https://open.spotify.com/album/7zNVMODjxw7qD5CSrIl2Lr) | 4:14 | 2022-05-25 | 2022-07-28 |
+| [Nightmare on Peachtree Street \(feat\. Freddie Dredd\)](https://open.spotify.com/track/1iSNk5qM7aScyTL3508KQ6) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do) | [Nightmare on Peachtree Street \(feat\. Freddie Dredd\)](https://open.spotify.com/album/6bgMTwZUkaJeNvlvlM8u9R) | 3:12 | 2023-08-04 |  |
 | [Nikes](https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT) | [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf), [kid toni](https://open.spotify.com/artist/3FQn8qCboTin4JhAPP8gEy) | [Nikes](https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn) | 2:19 | 2022-06-10 | 2022-11-22 |
 | [No Suburban, Pt\. 2](https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 2:33 | 2022-05-25 | 2023-07-14 |
 | [OKAY SHAWTY](https://open.spotify.com/track/3qsR1pTGoshzapShuYm0ns) | [Kwe the Artist](https://open.spotify.com/artist/1QduOP354RYyRRGRuvYPD2) | [OKAY SHAWTY](https://open.spotify.com/album/2vtizplVpMIp3cguwoT7nA) | 1:46 | 2022-06-01 | 2022-07-29 |

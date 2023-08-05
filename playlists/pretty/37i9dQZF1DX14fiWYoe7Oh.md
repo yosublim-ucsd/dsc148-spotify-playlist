@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fiWYoe7Oh.md) - [plain]
 
 > The K\-Pop idols who started it all from 90's \- 10's\. \(90년대부터 2010년대까지 케이팝 아이돌 필수곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,058 likes - 137 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,159 likes - 137 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fiWYoe7Oh.md) - [plain]
 | 52 | [Atlantis Princess](https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Atlantis Princess \- The 3rd Album](https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV) | 3:44 |
 | 53 | [반대가 끌리는 이유](https://open.spotify.com/track/7CZiB2IQO8Rfwc6EpoYRB5) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [보통날 An Ordinary Day](https://open.spotify.com/album/1mI5TmP9QFFdqql5rBi1As) | 4:14 |
 | 54 | [I'm Sorry \(Feat\. T.O.P\)](https://open.spotify.com/track/6UF4dbXnxEL2kTKDoGAUS8) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [T.O.P.](https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y) | [Comfort](https://open.spotify.com/album/63mXEu4xtlyEYDxBrs9EVP) | 3:56 |
-| 55 | [지운 얼굴 \(Familiar Face\)](https://open.spotify.com/track/59CYOWfGI9HEtxv4b4sTvx) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [It's Raining](https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ) | 4:09 |
+| 55 | [Familiar Face](https://open.spotify.com/track/7ox3wrRvfAhYJ20H23KkhZ) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [It's Raining](https://open.spotify.com/album/45ngiRidCweoSOwjcSsj0A) | 4:09 |
 | 56 | [A Better Day](https://open.spotify.com/track/0TpJgjTSFekS05ZyQFIUzp) | [JTL](https://open.spotify.com/artist/1QxDhdpQDAxevRaOWUDjPC) | [Enter The Dragon](https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR) | 4:06 |
 | 57 | [Nobody](https://open.spotify.com/track/0TBNg82Zqi0k1VslEe2ooq) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [2 Different Tears](https://open.spotify.com/album/1TqEUbduSOGhGWo0cP4qYM) | 3:34 |
 | 58 | [Haru Haru](https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 4:16 |
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fiWYoe7Oh.md) - [plain]
 | 103 | [MOYA](https://open.spotify.com/track/6glpcXkXExtumL9zGeK2uM) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MOYA](https://open.spotify.com/album/3WA0CxSimy8XevTh46Qh7L) | 3:40 |
 | 104 | [Love Sick](https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Cheerful Sensibility](https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk) | 4:01 |
 | 105 | [니가 있어야 할 곳 The Place You Belong](https://open.spotify.com/track/7AYSLiGvyyPlZZ4Kxa44nZ) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 4](https://open.spotify.com/album/0HxYruZGss8KfUWgZlisGp) | 3:39 |
-| 106 | [태양을 피하는 방법 How to Run From the Sun \(Gtr.Remix\)](https://open.spotify.com/track/2ESHlCrJsHzgx8XL1MCkFo) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [RAIN 2](https://open.spotify.com/album/7gjMBUCENFdEPZwSlVW1gE) | 3:51 |
+| 106 | [How to Run From the Sun \(Gtr.Remix\)](https://open.spotify.com/track/67A5HpruURs2HzdC9wAN7F) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [RAIN 2](https://open.spotify.com/album/0COc1yDwr8FL4dCcUQ6DWk) | 3:51 |
 | 107 | [Don't move!](https://open.spotify.com/track/0Wjzv69qjjBq4apcPOlOB2) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Do U Wanna B?](https://open.spotify.com/album/2BZ3VizVI04b0slvSMNwA4) | 3:25 |
 | 108 | [죽어도 못 보내](https://open.spotify.com/track/6bX31xvB4HeeUOMorR77oV) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [죽어도 못 보내 Never Let You Go](https://open.spotify.com/album/37Mz6EoieVepZzvLDL87I0) | 3:15 |
 | 109 | [\(Bonus Track\) Voice Mail \(Korean Version\)](https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 4:06 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fiWYoe7Oh.md) - [plain]
 | 136 | [Be My Baby](https://open.spotify.com/track/4H3nLd4sDY2OBsugvJc0ql) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [Wonder World](https://open.spotify.com/album/1vEiOIYInN3Y2LpvXTcEyK) | 3:31 |
 | 137 | [The Boys](https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys \- The 3rd Album](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) | 3:48 |
 
-Snapshot ID: `MCxjMDc2YjBmZDI4MWE3NGQ1NzdlYWEyZGU2ZjBhN2MyNTFiODZlMTUw`
+Snapshot ID: `MCw1ZTYyNGNkMTg0Yjc2NDgyOTdhNTMzN2FkMThiN2YwNjQ3NmY3OGFk`

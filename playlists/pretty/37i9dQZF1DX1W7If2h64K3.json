@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 42187,
+  "num_followers": 42210,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjBkYmFiZGFkYzAwMWI3Mzg1YjUyMDFkYjBkNTI5YWMwNzkzNzE3",
+  "snapshot_id": "MCw1NGMxYjgzNmMxNzVlZjRkNTNkNzIzMDQwZjE3Njk4NWJiOTRmNjJh",
   "tracks": [
     {
       "added_at": "2022-11-04 13:17:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Frage",
-        "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        }
-      ],
-      "duration_ms": 110773,
-      "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
-      "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: The Symphonies",
         "url": "https://open.spotify.com/album/0mPFNFmftItN3rF566s1nM"
       },
@@ -723,8 +703,8 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Symphony No. 1 in B Flat Major, Op. 38 \"Spring\": III. Scherzo. Molto vivace",
-        "url": "https://open.spotify.com/album/6ucj1lc7fJKkUghOv2CLq7"
+        "name": "Schumann: Frage",
+        "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
       },
       "artists": [
         {
@@ -732,17 +712,13 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Staatskapelle Berlin",
-          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
         }
       ],
-      "duration_ms": 353000,
-      "name": "Symphony No. 1 in B Flat Major, Op. 38 \"Spring\": III. Scherzo. Molto vivace",
-      "url": "https://open.spotify.com/track/22O2MEvTDmsVdbbn5J6jYT"
+      "duration_ms": 110773,
+      "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
+      "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -771,6 +747,30 @@
       "duration_ms": 911400,
       "name": "Violin Concerto in D minor, WoO 23: I. In kr\u00e4ftigem, nicht zu schnellem Tempo",
       "url": "https://open.spotify.com/track/3GI9zES0F4tERFfC91obWX"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: Symphony No. 1 in B Flat Major, Op. 38 \"Spring\": III. Scherzo. Molto vivace",
+        "url": "https://open.spotify.com/album/6ucj1lc7fJKkUghOv2CLq7"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "Symphony No. 1 in B Flat Major, Op. 38 \"Spring\": III. Scherzo. Molto vivace",
+      "url": "https://open.spotify.com/track/22O2MEvTDmsVdbbn5J6jYT"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -911,6 +911,50 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann: Myrthen",
+        "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Camilla Tilling",
+          "url": "https://open.spotify.com/artist/125PYk9VJbA5d7CQ0DjLtK"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Myrthen, Op. 25: No. 1, Widmung",
+      "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schubert: Arpeggione Sonata / Schumann: Fantasiestucke",
+        "url": "https://open.spotify.com/album/5UHzBpKCHYZpr04YnJP0vy"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Maria Kliegel",
+          "url": "https://open.spotify.com/artist/0SPYS9NzfjFEplX7yD7PsK"
+        },
+        {
+          "name": "Kristin Merscher",
+          "url": "https://open.spotify.com/artist/5TFRDFXpRjT5suDvJVNHzH"
+        }
+      ],
+      "duration_ms": 316800,
+      "name": "Adagio and Allegro, Op. 70: Allegro",
+      "url": "https://open.spotify.com/track/57V1s2MwyMEXWZcZV6Pzjl"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Schumann, R.: Dichterliebe, Op. 48 / Liederkreis, Op. 39",
         "url": "https://open.spotify.com/album/5En6DGCjjYAZqLZ39egU8A"
       },
@@ -931,26 +975,6 @@
       "duration_ms": 116200,
       "name": "Liederkreis, Op. 39: In der Fremde",
       "url": "https://open.spotify.com/track/4kStvokm1k1PFT5mTuoU1B"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schumann: Myrthen",
-        "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Camilla Tilling",
-          "url": "https://open.spotify.com/artist/125PYk9VJbA5d7CQ0DjLtK"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Myrthen, Op. 25: No. 1, Widmung",
-      "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -999,30 +1023,6 @@
       "duration_ms": 801000,
       "name": "Fantasy for Violin and Orchestra in C Major, Op. 131: Moderato semplice ma espressivo (Transcr. by Fritz Kreisler) - Live",
       "url": "https://open.spotify.com/track/7iqtk0DuSB3McFvAs6WQgp"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schubert: Arpeggione Sonata / Schumann: Fantasiestucke",
-        "url": "https://open.spotify.com/album/5UHzBpKCHYZpr04YnJP0vy"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Maria Kliegel",
-          "url": "https://open.spotify.com/artist/0SPYS9NzfjFEplX7yD7PsK"
-        },
-        {
-          "name": "Kristin Merscher",
-          "url": "https://open.spotify.com/artist/5TFRDFXpRjT5suDvJVNHzH"
-        }
-      ],
-      "duration_ms": 316800,
-      "name": "Adagio and Allegro, Op. 70: Allegro",
-      "url": "https://open.spotify.com/track/57V1s2MwyMEXWZcZV6Pzjl"
     },
     {
       "added_at": "2022-11-04 13:17:00",

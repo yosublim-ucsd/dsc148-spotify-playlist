@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bSunwoojunga(\uc120\uc6b0\uc815\uc544)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 323651,
+  "num_followers": 323676,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmVmYjM0MmRkNGY4MTU2ZWQ0NTJmNzc3YWU3MTk1ZmI4MTFkNjYz",
+  "snapshot_id": "MCwxZDQ5ZDNmNTZlMTYwYWE4NzNhYTZiY2RjOWJiYzJhNGUwZWIzN2M5",
   "tracks": [
     {
       "added_at": "2023-07-20 09:34:30",
@@ -299,18 +299,22 @@
     {
       "added_at": "2023-07-20 09:34:30",
       "album": {
-        "name": "Me After You",
-        "url": "https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh"
+        "name": "\uae34 \ubc24 (feat. GIRIBOY)",
+        "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         }
       ],
-      "duration_ms": 280358,
-      "name": "Me After You",
-      "url": "https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9"
+      "duration_ms": 210853,
+      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
+      "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
     },
     {
       "added_at": "2023-07-20 09:34:30",
@@ -331,22 +335,18 @@
     {
       "added_at": "2023-07-20 09:34:30",
       "album": {
-        "name": "\uae34 \ubc24 (feat. GIRIBOY)",
-        "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
+        "name": "Me After You",
+        "url": "https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh"
       },
       "artists": [
         {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 210853,
-      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
-      "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
+      "duration_ms": 280358,
+      "name": "Me After You",
+      "url": "https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9"
     },
     {
       "added_at": "2023-07-20 09:34:30",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-07-20 09:34:30",
       "album": {
-        "name": "Naul <Ballad Pop City>",
-        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 260668,
-      "name": "Nights Into Days (Prod. by Naul)",
-      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
-    },
-    {
-      "added_at": "2023-07-20 09:34:30",
-      "album": {
         "name": "Stay Here",
         "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 228615,
       "name": "Stay Here",
       "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
+    },
+    {
+      "added_at": "2023-07-20 09:34:30",
+      "album": {
+        "name": "Naul <Ballad Pop City>",
+        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 260668,
+      "name": "Nights Into Days (Prod. by Naul)",
+      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
     },
     {
       "added_at": "2023-07-20 09:34:30",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-07-20 09:34:30",
       "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 239499,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
+    },
+    {
+      "added_at": "2023-07-20 09:34:30",
+      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
       },
@@ -671,38 +687,6 @@
     {
       "added_at": "2023-07-20 09:34:30",
       "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/58T3Mkgs37IjcximP129MP"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 179253,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw"
-    },
-    {
-      "added_at": "2023-07-20 09:34:30",
-      "album": {
-        "name": "Purpose - The 2nd Album",
-        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 239499,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
-    },
-    {
-      "added_at": "2023-07-20 09:34:30",
-      "album": {
         "name": "Chocolate, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1IIaSwpqJvJCvxXyM69c3A"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2023-07-20 09:34:30",
       "album": {
-        "name": "Doctor Cha (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4"
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/58T3Mkgs37IjcximP129MP"
       },
       "artists": [
         {
-          "name": "PARK MIN HYE",
-          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
         }
       ],
-      "duration_ms": 256320,
-      "name": "After this night",
-      "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
+      "duration_ms": 179253,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw"
     },
     {
       "added_at": "2023-07-20 09:34:30",
@@ -747,6 +731,22 @@
       "duration_ms": 221080,
       "name": "IF I",
       "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
+    },
+    {
+      "added_at": "2023-07-20 09:34:30",
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4"
+      },
+      "artists": [
+        {
+          "name": "PARK MIN HYE",
+          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "After this night",
+      "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
     },
     {
       "added_at": "2023-07-20 09:34:30",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-07-20 09:34:30",
       "album": {
+        "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+        "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
+      },
+      "artists": [
+        {
+          "name": "Kim Min-seok (MeloMance)",
+          "url": "https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+      "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
+    },
+    {
+      "added_at": "2023-07-20 09:34:30",
+      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
-    },
-    {
-      "added_at": "2023-07-20 09:34:30",
-      "album": {
-        "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
-        "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
-      },
-      "artists": [
-        {
-          "name": "Kim Min-seok (MeloMance)",
-          "url": "https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
-      "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
     },
     {
       "added_at": "2023-07-20 09:34:30",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-07-20 09:34:30",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
-        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 256314,
-      "name": "It\u2032s My Life",
-      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
-    },
-    {
-      "added_at": "2023-07-20 09:34:30",
-      "album": {
         "name": "Hate Everything",
         "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 205759,
       "name": "Hate Everything - Korean Version",
       "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
+    },
+    {
+      "added_at": "2023-07-20 09:34:30",
+      "album": {
+        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 256314,
+      "name": "It\u2032s My Life",
+      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
     },
     {
       "added_at": "2023-07-20 09:34:30",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-07-20 09:34:30",
       "album": {
-        "name": "New Year",
-        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "Fuckin' New Year",
-      "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
-    },
-    {
-      "added_at": "2023-07-20 09:34:30",
-      "album": {
         "name": "Faith OST",
         "url": "https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 267937,
       "name": "Walking Slowly",
       "url": "https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9"
+    },
+    {
+      "added_at": "2023-07-20 09:34:30",
+      "album": {
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "Fuckin' New Year",
+      "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
     },
     {
       "added_at": "2023-07-20 09:34:30",

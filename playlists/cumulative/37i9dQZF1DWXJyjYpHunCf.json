@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 171157,
       "name": "18",
       "url": "https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An"
@@ -4710,6 +4710,24 @@
       "duration_ms": 198653,
       "name": "Until You",
       "url": "https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq"
+    },
+    {
+      "album": {
+        "name": "Valapriso",
+        "url": "https://open.spotify.com/album/6Ro2L2h4BlChNYSiy00mys"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Valapriso",
+      "url": "https://open.spotify.com/track/1Z3hqW2OprFrwO05euqt8z"
     },
     {
       "album": {

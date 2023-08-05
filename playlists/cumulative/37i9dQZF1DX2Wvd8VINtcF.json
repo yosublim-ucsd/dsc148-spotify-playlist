@@ -7129,6 +7129,24 @@
     },
     {
       "album": {
+        "name": "Keep Me In Love",
+        "url": "https://open.spotify.com/album/7ETOuFfahxfhuMlKPYbFPt"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156034,
+      "name": "Keep Me In Love",
+      "url": "https://open.spotify.com/track/7j8mf8Qrvmhjl8Yr13iFr7"
+    },
+    {
+      "album": {
         "name": "Kenneth",
         "url": "https://open.spotify.com/album/4C4t410jpJg0H7pBptTuN4"
       },

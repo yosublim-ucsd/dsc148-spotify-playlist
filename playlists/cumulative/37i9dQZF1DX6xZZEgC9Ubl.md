@@ -2,9 +2,9 @@
 
 ### [tear drop](https://open.spotify.com/playlist/37i9dQZF1DX6xZZEgC9Ubl)
 
-> Emo feels for the misunderstood\. Cover: Lil Peep
+> Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-828 songs - 1 day 13 hr 34 min
+829 songs - 1 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [FWM2](https://open.spotify.com/track/3eNwP64oXiB9xXIZMCFQ8v) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/1nEasgzWx61CJchM2eXNvM) | 2:04 | 2022-04-08 | 2022-10-05 |
 | [FWM2](https://open.spotify.com/track/7o7WupJer78gUUoaHzVxTq) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t) | 2:04 | 2023-04-12 |  |
 | [G n T](https://open.spotify.com/track/7bI1ljBRkTLgQExzKRcwdY) | [Lucid Kidd](https://open.spotify.com/artist/18fitAD50Su7lbUq5TvApN) | [G n T](https://open.spotify.com/album/15d8bNkv39geOBFQDBRoVF) | 3:25 | 2022-03-25 | 2022-04-21 |
-| [get me high](https://open.spotify.com/track/4XJUPTlWg7AqgR5x50GRst) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [get me high](https://open.spotify.com/album/4MTI29E0eV4q2AvInfnqUA) | 1:45 | 2021-07-24 |  |
+| [get me high](https://open.spotify.com/track/4XJUPTlWg7AqgR5x50GRst) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [get me high](https://open.spotify.com/album/4MTI29E0eV4q2AvInfnqUA) | 1:45 | 2021-07-24 | 2023-08-05 |
 | [Ghost Rider](https://open.spotify.com/track/3xXkIxNwHu4aP6VUtGKJc0) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Ghost Rider](https://open.spotify.com/album/2X9G26ucxdZzrpVOj72rtO) | 4:00 | 2021-06-12 | 2022-03-02 |
 | [Ghostrider](https://open.spotify.com/track/7wBR106AOaYxjx3TnAcpTT) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [Ghostrider \(Clean\)](https://open.spotify.com/album/0ThUYc49NxSW6x1ZQQWCbE) | 2:12 | 2023-03-17 | 2023-04-09 |
 | [GIN N JUICE](https://open.spotify.com/track/7IeF3GYiOqsKQ97cchFod3) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [GIN N JUICE](https://open.spotify.com/album/31tl4xCfME9LBkMdCg0p0U) | 1:41 | 2021-01-21 | 2022-06-16 |
@@ -701,6 +701,7 @@
 | [switch up](https://open.spotify.com/track/3TGzipwh8V14Xtkc4QvTxx) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [switch up](https://open.spotify.com/album/1gakTBKmayP7iMiNqWOGtk) | 1:44 | 2023-04-07 | 2023-05-24 |
 | [Table For One](https://open.spotify.com/track/1DwpGCzzpIRuIJ1Xuk9gar) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Table For One](https://open.spotify.com/album/599TzIg1O0sHDE2ou2dy75) | 2:44 | 2022-04-15 | 2022-07-29 |
 | [Take Me Away](https://open.spotify.com/track/17wanlVPlVaCGKn23ATf2F) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV) | [PAIN?](https://open.spotify.com/album/64K087zrMAkeNTpI3oyX9O) | 2:06 | 2020-12-13\* | 2021-01-16 |
+| [Take Me Back](https://open.spotify.com/track/0RxJW4CqKIM1v0DN3z32zG) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Take Me Back](https://open.spotify.com/album/21RRWWtERAfAwBFv9rzktq) | 3:20 | 2023-08-04 |  |
 | [TAKE THE BLAME](https://open.spotify.com/track/6RXQ5Q933Z3kkVDKVVbBy4) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [PAIN MUSEUM](https://open.spotify.com/album/1XitWSLK1DrQ9pPSruVjss) | 2:42 | 2022-05-13 | 2022-05-17 |
 | [Taking A Walk](https://open.spotify.com/track/4mHgYpuGHu99Mw69E83CP2) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LIFE'S A TRIP](https://open.spotify.com/album/214f4uAY0p2KgY7Fl4fBgk) | 2:01 | 2022-07-22 | 2022-10-01 |
 | [Taking Over](https://open.spotify.com/track/5Unr6WoYvsnGYo3NazmkW4) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sometimes Sorry Isn't Enough](https://open.spotify.com/album/3fzX6NA9OnZBoHBv5vLJ2n) | 2:38 | 2021-04-17 | 2022-04-23 |

@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 156679,
+  "num_followers": 156747,
   "original_name": "Gaming Malandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDVkYTA3MDI5NzZmZGYwYTA1OTdlNzBjMjA4OWZjY2JjNzVmZTk1",
+  "snapshot_id": "MCw3ZWQ1MDIzYjJkODMwMjFlYjBkNTJmOGFmZTJlOTA1M2E2NmYwMzFl",
   "tracks": [
     {
       "added_at": "2023-07-28 20:09:33",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "IceWeed-Man",
-        "url": "https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8"
-      },
-      "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "BeeJay",
-          "url": "https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Desvielados",
-      "url": "https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
         "name": "Qui\u00faboles Que!",
         "url": "https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 221541,
       "name": "Qui\u00faboles Que",
       "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "IceWeed-Man",
+        "url": "https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "BeeJay",
+          "url": "https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Desvielados",
+      "url": "https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "Viviendo Recio",
-        "url": "https://open.spotify.com/album/4Xnfrq4wc7We7YssTaarVB"
+        "name": "Ni Miedo Ni Piedad",
+        "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
       },
       "artists": [
         {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
         }
       ],
-      "duration_ms": 306744,
-      "name": "Sangre De Barrio",
-      "url": "https://open.spotify.com/track/3WBmdLBkrl7K1W8CPIFrgX"
+      "duration_ms": 278181,
+      "name": "Ni Miedo Ni Piedad",
+      "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "Ni Miedo Ni Piedad",
-        "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
+        "name": "Viviendo Recio",
+        "url": "https://open.spotify.com/album/4Xnfrq4wc7We7YssTaarVB"
       },
       "artists": [
         {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
         }
       ],
-      "duration_ms": 278181,
-      "name": "Ni Miedo Ni Piedad",
-      "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
+      "duration_ms": 306744,
+      "name": "Sangre De Barrio",
+      "url": "https://open.spotify.com/track/3WBmdLBkrl7K1W8CPIFrgX"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "Nosotros Somos la Under Side Karnal",
-        "url": "https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL"
-      },
-      "artists": [
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        }
-      ],
-      "duration_ms": 308485,
-      "name": "Ni Muy Muy Ni Tan Tan",
-      "url": "https://open.spotify.com/track/0IQ0mB0s9OB1opgTEniuf2"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
         "name": "Artilleria Pesada, Presenta:",
         "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
       },
@@ -1483,6 +1467,26 @@
       "duration_ms": 264365,
       "name": "Noche De Lokera",
       "url": "https://open.spotify.com/track/2AE2CB3jFINTfjhlOWgDx9"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "High Con Class XIII",
+        "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "La Feria Drogas y Muerte",
+      "url": "https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1519,26 +1523,6 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "High Con Class XIII",
-        "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
-      },
-      "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "La Feria Drogas y Muerte",
-      "url": "https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 206645,
       "name": "7",
       "url": "https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "Nosotros Somos la Under Side Karnal",
+        "url": "https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "duration_ms": 308485,
+      "name": "Ni Muy Muy Ni Tan Tan",
+      "url": "https://open.spotify.com/track/0IQ0mB0s9OB1opgTEniuf2"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "WARZONE FREESTYLE",
-        "url": "https://open.spotify.com/album/4IKnvsfuxWYGJIaVUkwC2P"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "WARZONE FREESTYLE",
-      "url": "https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
         "name": "Al Mill\u00f3n",
         "url": "https://open.spotify.com/album/4P9XxgcqLfqBrNLHn1RTL0"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 138028,
       "name": "Al Mill\u00f3n",
       "url": "https://open.spotify.com/track/1ITxkijE0eZUgesUI4Lr3Z"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "WARZONE FREESTYLE",
+        "url": "https://open.spotify.com/album/4IKnvsfuxWYGJIaVUkwC2P"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "WARZONE FREESTYLE",
+      "url": "https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "Round 6",
-        "url": "https://open.spotify.com/album/49NfXDDECqeg5BjGp7HD0W"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "Round 6",
-      "url": "https://open.spotify.com/track/2fqcMU5Y5HnqPYj4p47Kcz"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
         "name": "Derrochando Estilo",
         "url": "https://open.spotify.com/album/69VroiPXANkirFKgDSp9rt"
       },
@@ -2031,18 +2011,38 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "Activados y Prendidos",
-        "url": "https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj"
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/2BfmP87r9XJ4pQLMdmpdo9"
       },
       "artists": [
         {
-          "name": "Santa Estilo",
-          "url": "https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG"
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
         }
       ],
-      "duration_ms": 175186,
-      "name": "Activados y Prendidos",
-      "url": "https://open.spotify.com/track/4AvpUGiEn0d9HQEPuvC7gt"
+      "duration_ms": 188181,
+      "name": "Followers",
+      "url": "https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "Round 6",
+        "url": "https://open.spotify.com/album/49NfXDDECqeg5BjGp7HD0W"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "Round 6",
+      "url": "https://open.spotify.com/track/2fqcMU5Y5HnqPYj4p47Kcz"
     }
   ],
   "unique_name": "Gaming Malandro",

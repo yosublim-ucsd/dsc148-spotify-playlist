@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Paz Court.\nDales PLAY, dales POWER.",
-  "num_followers": 12457,
+  "num_followers": 12463,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGYzN2I2NzYwYTAyNDU4ZWRiYzEyNDllMWI1OTQwMDk5M2FlZDA1",
+  "snapshot_id": "MCw1MTQwZjEwMTE3YzkyNzBjZjY5YzY0MmIzOTEwZTczYjNkYzdhMWZm",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "AMOR MINIMAL",
-        "url": "https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 159254,
-      "name": "Horas contigo",
-      "url": "https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Lo Que No Hablas",
         "url": "https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 208441,
       "name": "Lo Que No Hablas",
       "url": "https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "AMOR MINIMAL",
+        "url": "https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 159254,
+      "name": "Horas contigo",
+      "url": "https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Depura",
-        "url": "https://open.spotify.com/album/3vjJyFUnFaBtNwKxJkWmoI"
-      },
-      "artists": [
-        {
-          "name": "Dania Neko",
-          "url": "https://open.spotify.com/artist/6ehVh5kPMBixAL8VovNYeE"
-        }
-      ],
-      "duration_ms": 98000,
-      "name": "Purga",
-      "url": "https://open.spotify.com/track/0N40SPBpzzLUEbLhyWa3xA"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "La isla de Lesbos",
         "url": "https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 189400,
       "name": "La isla de Lesbos",
       "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Depura",
+        "url": "https://open.spotify.com/album/3vjJyFUnFaBtNwKxJkWmoI"
+      },
+      "artists": [
+        {
+          "name": "Dania Neko",
+          "url": "https://open.spotify.com/artist/6ehVh5kPMBixAL8VovNYeE"
+        }
+      ],
+      "duration_ms": 98000,
+      "name": "Purga",
+      "url": "https://open.spotify.com/track/0N40SPBpzzLUEbLhyWa3xA"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "traves\u00eda",
+        "url": "https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        }
+      ],
+      "duration_ms": 161979,
+      "name": "bfly",
+      "url": "https://open.spotify.com/track/0STumFIQjbAGvDILpjOmFL"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "mala idea",
         "url": "https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z"
       },
@@ -487,26 +503,6 @@
       "duration_ms": 223236,
       "name": "mala idea",
       "url": "https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "No Me Detiene (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/02apW9dWBnukLEN0w4JZHs"
-      },
-      "artists": [
-        {
-          "name": "Glo Herrera",
-          "url": "https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57"
-        },
-        {
-          "name": "Solosiberia",
-          "url": "https://open.spotify.com/artist/0bmIdFgmr3BuMfWITJtpQ1"
-        }
-      ],
-      "duration_ms": 148031,
-      "name": "Algo Real - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3KFeZhnUFQTB34gh4kAtcw"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -527,18 +523,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "traves\u00eda",
-        "url": "https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H"
+        "name": "No Me Detiene (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/02apW9dWBnukLEN0w4JZHs"
       },
       "artists": [
         {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+          "name": "Glo Herrera",
+          "url": "https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57"
+        },
+        {
+          "name": "Solosiberia",
+          "url": "https://open.spotify.com/artist/0bmIdFgmr3BuMfWITJtpQ1"
         }
       ],
-      "duration_ms": 161979,
-      "name": "bfly",
-      "url": "https://open.spotify.com/track/0STumFIQjbAGvDILpjOmFL"
+      "duration_ms": 148031,
+      "name": "Algo Real - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3KFeZhnUFQTB34gh4kAtcw"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Inamable",
-        "url": "https://open.spotify.com/album/0wUXGXAL8piK9uq27upBt3"
-      },
-      "artists": [
-        {
-          "name": "CATAROH",
-          "url": "https://open.spotify.com/artist/7G090Dm7RJ1lb7riAprrxq"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Margarita",
-      "url": "https://open.spotify.com/track/0mEj8Bj8CQnmNDzdxGhntx"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Temores",
         "url": "https://open.spotify.com/album/5xiXFDgbaJhenJSuP5Rx2N"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 254040,
       "name": "Temores",
       "url": "https://open.spotify.com/track/7L2dPSItNwM0gJIovdNWWS"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Inamable",
+        "url": "https://open.spotify.com/album/0wUXGXAL8piK9uq27upBt3"
+      },
+      "artists": [
+        {
+          "name": "CATAROH",
+          "url": "https://open.spotify.com/artist/7G090Dm7RJ1lb7riAprrxq"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/0mEj8Bj8CQnmNDzdxGhntx"
     }
   ],
   "unique_name": "EQUAL Chile",

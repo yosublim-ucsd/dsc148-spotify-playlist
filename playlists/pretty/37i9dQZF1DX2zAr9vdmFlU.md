@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,350 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,465 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,16 +62,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 52 | [Bienvenido a mi habitación](https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7) | [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Bienvenido a mi habitación](https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp) | 3:12 |
 | 53 | [Electric Soul](https://open.spotify.com/track/4YhqlvorKX7kd9pHLLfWz1) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Mettavolution](https://open.spotify.com/album/14PfZxWDjz2M104JSlhV5Q) | 3:58 |
 | 54 | [Si Te Contara](https://open.spotify.com/track/4FZjsJCf0MO19udtVY4rfx) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trébol](https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg) | 2:39 |
-| 55 | [Despues De Almuerzo Parte 3](https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ) | [Bitman & Roban](https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe) | [Musica Para Despues De Almuerzo](https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP) | 3:15 |
-| 56 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 |
+| 55 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 |
+| 56 | [Despues De Almuerzo Parte 3](https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ) | [Bitman & Roban](https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe) | [Musica Para Despues De Almuerzo](https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP) | 3:15 |
 | 57 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
 | 58 | [Vem Pra Mim](https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:52 |
 | 59 | [Mar Y Cielo](https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE), [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 3:05 |
 | 60 | [Virgencita \- Happy Colors Remix](https://open.spotify.com/track/6xCqIZp7aemBDBX2reivBk) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Happy Colors](https://open.spotify.com/artist/4nGluPm2aDd2ngK9MkpLp1), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Calentura: Global Bassment](https://open.spotify.com/album/6slKSPfGlzrhQkP1ShncUu) | 3:16 |
 | 61 | [Mariposas Blancas](https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Mariposas](https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q) | 4:21 |
 | 62 | [Pelo Negro](https://open.spotify.com/track/63lE9CBiNmJIdgkH2vPpVm) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Pelo Negro](https://open.spotify.com/album/1aHrWZbOa31S3rBUA51muK) | 6:10 |
-| 63 | [Come Fly With Me](https://open.spotify.com/track/4htOz9gMFZStfcVz1kx3El) | [¡Oye Frank! Sonata Latina Tribute Orchestra](https://open.spotify.com/artist/7zug34wHklQjAqvDHAhqJ3) | [¡Oye Frank! Sonata Latina Tribute Orchestra](https://open.spotify.com/album/1SSdDsip5PL6hBiWrQ1QiI) | 3:00 |
-| 64 | [bossa nova](https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [bossa nova](https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN) | 3:08 |
+| 63 | [bossa nova](https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [bossa nova](https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN) | 3:08 |
+| 64 | [Come Fly With Me](https://open.spotify.com/track/4htOz9gMFZStfcVz1kx3El) | [¡Oye Frank! Sonata Latina Tribute Orchestra](https://open.spotify.com/artist/7zug34wHklQjAqvDHAhqJ3) | [¡Oye Frank! Sonata Latina Tribute Orchestra](https://open.spotify.com/album/1SSdDsip5PL6hBiWrQ1QiI) | 3:00 |
 | 65 | [Un Telegrama](https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 2:42 |
 | 66 | [Speakin' Nuyorican](https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Cookin' Gumbo](https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe) | 3:29 |
 | 67 | [Una Piedra en el Cielo](https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Parrilladas Vargas](https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR) | 2:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 99 | [El Amor Después Del Amor](https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Amor Después Del Amor](https://open.spotify.com/album/7CLnc7ghDp9nX6zJy3Q7e6) | 3:45 |
 | 100 | [Donde Está](https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS) | [Si\*Sé](https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9) | [Gold](https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU) | 3:44 |
 
-Snapshot ID: `MCxhMzYzM2ZkNjc2MjlkZWFlMTRiZjM2YjAwZTEwYmE1ZTU2NDU5Njc0`
+Snapshot ID: `MCxiNGFhNjA0MmJjOTRmZTQ2MmZlYTg2ZGU0Y2U1YjEyZWY3MWQxYTFi`

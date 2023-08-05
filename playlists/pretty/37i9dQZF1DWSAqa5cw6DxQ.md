@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 
 > Clear your mind with soothing new age guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,189 likes - 126 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,202 likes - 126 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ledande Ljus](https://open.spotify.com/track/2wiHBKhOZicIlyBWYgdyEn) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [Ledande ljus](https://open.spotify.com/album/0eMvV2wJBjoimDJqe49HpD) | 2:48 |
-| 2 | [Ledande Ljus \(Nature\)](https://open.spotify.com/track/1s1cl2adF275sqQnVD7Par) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [Ledande ljus](https://open.spotify.com/album/0eMvV2wJBjoimDJqe49HpD) | 2:48 |
+| 1 | [Aimless](https://open.spotify.com/track/2hIiiNrMvZYbHXT3odD0dP) | [Elevated Ground](https://open.spotify.com/artist/1RzaYiehVD1lcOsYtuY1NV) | [Aimless](https://open.spotify.com/album/3KZfTCIFaPMTIpowpV03vn) | 2:27 |
+| 2 | [Ledande Ljus](https://open.spotify.com/track/2wiHBKhOZicIlyBWYgdyEn) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [Ledande ljus](https://open.spotify.com/album/0eMvV2wJBjoimDJqe49HpD) | 2:48 |
 | 3 | [Lake Como](https://open.spotify.com/track/4WstvhelZEHggLOZ4SyOqm) | [Savino Fiorelli](https://open.spotify.com/artist/3UhmIVKpLg4zkoyOTuduU4) | [Lake Como](https://open.spotify.com/album/5oSXlTvivXtQfW0YypVrRi) | 3:03 |
 | 4 | [You´re All I Need](https://open.spotify.com/track/0hSiaMpXMWhtgNXu3bpIIi) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [You´re All I Need](https://open.spotify.com/album/43Hsx3jgETYWnsv7qg1xvy) | 2:40 |
 | 5 | [Elsewhere Now](https://open.spotify.com/track/3HWtnVR3Nq63AMLefzpXtm) | [Rigby Jay](https://open.spotify.com/artist/12s8RdGDrmojyfC16intDY) | [Elsewhere Now](https://open.spotify.com/album/1vfso6z9jOLp90nlfsFzjR) | 3:12 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 125 | [Beginners Mind](https://open.spotify.com/track/750EM9eXVnU3XeHW945rJv) | [Delta Lab](https://open.spotify.com/artist/54v62EvD3dmxVaEo3LTVYe) | [Beginners Mind](https://open.spotify.com/album/7wjigSjvD3ERxDtKS9o7f0) | 3:53 |
 | 126 | [Waves](https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2) | [Aliya Coldwell](https://open.spotify.com/artist/0kUap0NamZGz6FwR7tCjUE) | [Waves](https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5) | 2:56 |
 
-Snapshot ID: `MCxhODQyYmRkYWU4MTRkNWI1NWNmYWM1ZjI1NjM1Njk2MzRlYmVkN2Jj`
+Snapshot ID: `MCw4NDE0NGNlODliYTVkOTM2YWExYTIxYjhmMzUwZjg1ZTNmOWU1OWYz`

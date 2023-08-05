@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 327511,
+  "num_followers": 327576,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDQ5NTA4MTBmMjBiZGE3MTQxMzg5NzNmNmUyZTE5ZjkwOGQ1NTA3",
+  "snapshot_id": "MCw1ZmJjODFhY2MzMzVlMmMwY2Q0Y2I2MDBiMGYwZTUxZWQ2ZTljNDI5",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Fashion Forward (Acoustic)",
-        "url": "https://open.spotify.com/album/6N4FN2emskAPc2OVbErRnj"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Fashion Forward (Acoustic)",
-      "url": "https://open.spotify.com/track/3dat7ilaCtUw5uqHbZs8Vc"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Transient (acoustic)",
         "url": "https://open.spotify.com/album/6hArGQoERO4x7t1QLtUzXs"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 260209,
       "name": "Transient (acoustic)",
       "url": "https://open.spotify.com/track/5tVtDLvrpsn4hhpMkipK1j"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Fashion Forward (Acoustic)",
+        "url": "https://open.spotify.com/album/6N4FN2emskAPc2OVbErRnj"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Fashion Forward (Acoustic)",
+      "url": "https://open.spotify.com/track/3dat7ilaCtUw5uqHbZs8Vc"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 209801,
-      "name": "Wax Poetic (Acoustic)",
-      "url": "https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Reimagined",
         "url": "https://open.spotify.com/album/3VCobudBxR70a4fngXZFLe"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 199750,
       "name": "Dakota (Reimagined)",
       "url": "https://open.spotify.com/track/3Rkpb1WRkkFD7AlFjNZf1i"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 209801,
+      "name": "Wax Poetic (Acoustic)",
+      "url": "https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Pavement (Acoustic)",
-        "url": "https://open.spotify.com/album/6EjQOwjTQoiM9X8MW8azuP"
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/5AxRjl0PvsKU9FTGuIZkDx"
       },
       "artists": [
         {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
         }
       ],
-      "duration_ms": 240428,
-      "name": "Pavement (Acoustic)",
-      "url": "https://open.spotify.com/track/6x6aHBeRb6Yy7gU29ctYMy"
+      "duration_ms": 208204,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/2MFsaQN0JMrAoQDmpIDv0C"
     }
   ],
   "unique_name": "Punk Unplugged",

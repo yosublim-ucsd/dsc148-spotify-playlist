@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits j\u00e1 consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Xam\u00e3",
+  "description": "Os hits j\u00e1 consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Pabllo Vittar",
   "name": "Palco POP",
   "tracks": [
     {
@@ -670,7 +670,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 93473,
       "name": "Apaguei a Luz",
       "url": "https://open.spotify.com/track/6o3DIxt9kXUS5bsFR4sEEO"
@@ -1655,6 +1655,28 @@
     },
     {
       "album": {
+        "name": "Calcinha",
+        "url": "https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW"
+      },
+      "artists": [
+        {
+          "name": "Kika Boom",
+          "url": "https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P"
+        },
+        {
+          "name": "Kaya Conky",
+          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178041,
+      "name": "Calcinha",
+      "url": "https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l"
+    },
+    {
+      "album": {
         "name": "Camisa Floral",
         "url": "https://open.spotify.com/album/0pVLLvqFORgONmlq24kL0L"
       },
@@ -2468,10 +2490,28 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 149168,
       "name": "Dif\u00edcil De Esquecer",
       "url": "https://open.spotify.com/track/59gPzC6zAatOA6Rdjnve5q"
+    },
+    {
+      "album": {
+        "name": "F\u00e9 Na Caminhada",
+        "url": "https://open.spotify.com/album/41eYp9Mqs7dmd6Ad9ziR6F"
+      },
+      "artists": [
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159913,
+      "name": "Digdin",
+      "url": "https://open.spotify.com/track/0XWVsGfQMBbvGDYddqP07n"
     },
     {
       "album": {
@@ -3046,6 +3086,28 @@
       "duration_ms": 191294,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5ounBh0Yphr8RStw0XO9XG"
+    },
+    {
+      "album": {
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204235,
+      "name": "Fiu Fiu",
+      "url": "https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq"
     },
     {
       "album": {
@@ -5304,6 +5366,28 @@
       "duration_ms": 133806,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
+    },
+    {
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/02OyGnFuU31TEBpfPFhGE2"
+      },
+      "artists": [
+        {
+          "name": "Vivi",
+          "url": "https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU"
+        },
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132603,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6arTWP7kPORoLcuUbhMwhe"
     },
     {
       "album": {
@@ -7713,6 +7797,46 @@
     },
     {
       "album": {
+        "name": "Quanto + Vida Melhor",
+        "url": "https://open.spotify.com/album/5H9q5IocriQT6sVtDsWrQL"
+      },
+      "artists": [
+        {
+          "name": "Robson S\u00e1",
+          "url": "https://open.spotify.com/artist/1xtDLOFghpcmOKK9rW5lPh"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162063,
+      "name": "Quanto + Vida Melhor",
+      "url": "https://open.spotify.com/track/5M7lhKC3A4k50x2cQMfzCt"
+    },
+    {
+      "album": {
+        "name": "Quase N\u00e3o Namoro",
+        "url": "https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135456,
+      "name": "Quase N\u00e3o Namoro",
+      "url": "https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr"
+    },
+    {
+      "album": {
         "name": "Para todas as mulheres que j\u00e1 rimei",
         "url": "https://open.spotify.com/album/3UQLzEpN117dUBLbe2W2gD"
       },
@@ -9098,7 +9222,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 154496,
       "name": "TE LEVO PRA BOA",
       "url": "https://open.spotify.com/track/361zcwWReUYhkK57P3TZYG"
@@ -9661,6 +9785,24 @@
     },
     {
       "album": {
+        "name": "Tua Bitch",
+        "url": "https://open.spotify.com/album/3kGPprFPCsh8G82UfU5nDY"
+      },
+      "artists": [
+        {
+          "name": "Dona Nyna",
+          "url": "https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193411,
+      "name": "TUA BITCH",
+      "url": "https://open.spotify.com/track/72BAYk9CRm5tPSFmc33djL"
+    },
+    {
+      "album": {
         "name": "Fim do Mundo",
         "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
       },
@@ -9842,6 +9984,36 @@
       "duration_ms": 213333,
       "name": "T\u00e1 com o Papato (feat. BIN)",
       "url": "https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV"
+    },
+    {
+      "album": {
+        "name": "T\u00e1 OK (Remix)",
+        "url": "https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171760,
+      "name": "T\u00e1 OK (Remix)",
+      "url": "https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X"
     },
     {
       "album": {

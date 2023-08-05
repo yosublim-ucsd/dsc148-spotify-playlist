@@ -2019,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "Pada Pada",
+        "url": "https://open.spotify.com/album/0Z2Rpy6uXsEn36qSl1LJnl"
+      },
+      "artists": [
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243428,
+      "name": "Pada Pada",
+      "url": "https://open.spotify.com/track/3k9ea76NrDYX68bBIaETcU"
+    },
+    {
+      "album": {
         "name": "Padessave Pilla",
         "url": "https://open.spotify.com/album/58o4XflfE94ZzJlU7iySkA"
       },

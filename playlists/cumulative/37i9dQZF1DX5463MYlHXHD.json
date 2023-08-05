@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "En el Mercho",
+        "url": "https://open.spotify.com/album/3ImRkQNwSB2JzXolhgKMhH"
+      },
+      "artists": [
+        {
+          "name": "Corre Guachin",
+          "url": "https://open.spotify.com/artist/02AwBRpMnDrozfJcOnFOaY"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209975,
+      "name": "En el Mercho",
+      "url": "https://open.spotify.com/track/0iWwb0D31vN79BkJS1FBZJ"
+    },
+    {
+      "album": {
         "name": "No Hay Mal Que Dure 100 A\u00f1os",
         "url": "https://open.spotify.com/album/65MAxmxDPkdM3IZQY6ZOco"
       },
@@ -2902,7 +2920,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 247500,
       "name": "Voz de beb\u00e9",
       "url": "https://open.spotify.com/track/38WBgeP8cXm9I5Rr6kftyE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,934 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,065 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 29 | [Regime Fechado \- Ao Vivo](https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:52 |
 | 30 | [Pesadão](https://open.spotify.com/track/2nPYWC7Jtd3gsd1iMQT3Vs) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:19 |
 | 31 | [Vai Embrazando](https://open.spotify.com/track/41RtcX3L4Ee6AzgZEBkMFC) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [MC Vigary](https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9) | [Vai Embrazando](https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q) | 2:46 |
-| 32 | [Vingança \- Ao Vivo](https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Live\-Móvel \(Ao Vivo\)](https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2) | 3:01 |
-| 33 | [Na Ponta Ela Fica](https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Na Ponta Ela Fica](https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW) | 2:34 |
+| 32 | [Na Ponta Ela Fica](https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Na Ponta Ela Fica](https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW) | 2:34 |
+| 33 | [Vingança \- Ao Vivo](https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Live\-Móvel \(Ao Vivo\)](https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2) | 3:01 |
 | 34 | [Pouca Pausa](https://open.spotify.com/track/2odzriVVZBwYOiYJEj30tm) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Cortesia Da Casa](https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6), [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Pouca Pausa](https://open.spotify.com/album/4uvWaZXSz2eMn7YZXXXcS1) | 4:39 |
 | 35 | [10% \- Ao Vivo](https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
 | 36 | [Ar Condicionado no 15 \- Ao Vivo](https://open.spotify.com/track/59iqQY09BBJD3cSvojPsh0) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [In Miami Beach \(Ao Vivo\)](https://open.spotify.com/album/20wBgOGIjSo3lWwgXfishN) | 2:51 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 42 | [Não Fala Não pra Mim](https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Não Fala Não pra Mim](https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG) | 3:16 |
 | 43 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
 | 44 | [Ao Vivo E A Cores](https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ao Vivo E A Cores](https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo) | 3:00 |
-| 45 | [Ela Me Faz](https://open.spotify.com/track/2B5AbenHFTVtThonFDvg9x) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Ainda Bem Que Eu Segui as Batidas do Meu Coração](https://open.spotify.com/album/2YWDBpZGMXcvkCu05Zb87z) | 2:59 |
-| 46 | [Não sou obrigada](https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Não sou obrigada](https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ) | 2:28 |
+| 45 | [Não sou obrigada](https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Não sou obrigada](https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ) | 2:28 |
+| 46 | [Ela Me Faz](https://open.spotify.com/track/2B5AbenHFTVtThonFDvg9x) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Ainda Bem Que Eu Segui as Batidas do Meu Coração](https://open.spotify.com/album/2YWDBpZGMXcvkCu05Zb87z) | 2:59 |
 | 47 | [Coisa Boa](https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Coisa Boa](https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru) | 2:45 |
 | 48 | [Invocada \(Participação especial de Léo Santana\) \- Ao vivo](https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Hello mundo \(Ao vivo\)](https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw) | 2:37 |
 | 49 | [Dona Maria](https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Dona Maria](https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur) | 3:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 59 | [Encaixa](https://open.spotify.com/track/6VXpxDMdPfMrFF8UmZRm87) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Encaixa](https://open.spotify.com/album/2aIFyJR1TbFuxBjRXt3UMA) | 2:49 |
 | 60 | [Aquele 1% \(feat\. Wesley Safadão\)](https://open.spotify.com/track/3m8Ndnhd8u1VuSlu75hy7D) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Acústico \- Tão Feliz \(Deluxe\)](https://open.spotify.com/album/5zIF8gOoLkPouCjxiJJS9O) | 2:56 |
 
-Snapshot ID: `MCxhMmU2MGQ0NTIzMjliN2VlMGM4ZjEwYWRjN2Q1NWY2ZTc2YmRhOWEy`
+Snapshot ID: `MCwxOGM1YWIxNjIxN2ZmOTQ3MGM1MTE2OWM4OTcxZjY0NTc5ZWUyMzAw`

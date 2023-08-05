@@ -4,7 +4,7 @@
 
 > She's everything\. He's just Ken\. Listen to the music from and inspired by Barbie, curated by Mark Ronson.
 
-41 songs - 2 hr 17 min
+42 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Lady Marmalade \- From "Moulin Rouge" Soundtrack](https://open.spotify.com/track/7GQqj9jRtDkMp8zByehXQI) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Moulin Rouge](https://open.spotify.com/album/1Kg7AyuyIMTfD6geg9VghI) | 4:24 | 2023-07-07 |  |
 | [Let's Hear It for the Boy \- From "Footloose" Soundtrack](https://open.spotify.com/track/5kaF88lat4fWUiDXP6G48M) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Footloose \(15th Anniversary Collectors' Edition\)](https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC) | 4:21 | 2023-07-07 |  |
 | [Man I Am](https://open.spotify.com/track/28NzgzNmoHRsFKihGxpmmV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 3:07 | 2023-07-21 |  |
+| [Meeting Ruth](https://open.spotify.com/track/6mKHm67aAI4azpDooIf3qO) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm), [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Barbie \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy) | 2:22 | 2023-08-04 |  |
 | [Pink](https://open.spotify.com/track/2YXGbxICUdOUJe9OPlicy1) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:23 | 2023-07-21 |  |
 | [Pink \(Bad Day\) \[From Barbie The Album\]](https://open.spotify.com/track/5qLX1qtb9lJjblp0Uc6ejF) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Pink \(From Barbie The Album\)](https://open.spotify.com/album/4Np4Y9DtFQYc3MlgOst3gb) | 1:04 | 2023-08-01 |  |
 | [Push](https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:58 | 2023-07-21 |  |

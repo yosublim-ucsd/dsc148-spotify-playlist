@@ -2837,6 +2837,24 @@
     },
     {
       "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172892,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
+    },
+    {
+      "album": {
         "name": "Mbappe (Remix)",
         "url": "https://open.spotify.com/album/1AJXKqkuN7bzSGBWcpiE2h"
       },
@@ -4022,14 +4040,6 @@
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Ezekiel \"Slashmouth\" Miller",
-          "url": "https://open.spotify.com/artist/3oFDmAWLkcObKnmOeaGpSa"
-        },
-        {
-          "name": "Mike Strange",
-          "url": "https://open.spotify.com/artist/3aMlmfmaVX2q34LRfIgB3O"
         }
       ],
       "date_added": "2023-08-03",

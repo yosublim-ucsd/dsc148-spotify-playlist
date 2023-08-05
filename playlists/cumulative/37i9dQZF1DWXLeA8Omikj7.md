@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-833 songs - 2 day 11 hr 38 min
+834 songs - 2 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [Imagination](https://open.spotify.com/track/4jsWwL5JRWrHrWRqid2Jvg) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Imagination](https://open.spotify.com/album/15R2xjP52mnJkWztc1pgCo) | 5:49 | 2021-04-24 | 2022-06-27 |
 | [Immersion](https://open.spotify.com/track/1fchgXINtcQqZRAjKicdzz) | [Jaffna](https://open.spotify.com/artist/1BpJSVWvzT2RRGlZfHfR4x) | [Ripples](https://open.spotify.com/album/5YjJMwY5VseinGXH0QxmOm) | 3:18 | 2019-06-19\* | 2020-08-26 |
 | [In Peace](https://open.spotify.com/track/7f0821iahFxsysdLDZ5wHZ) | [Cold Blue](https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF) | [Winter](https://open.spotify.com/album/3IvI5Kjnz66uRRcjNcuzwl) | 2:18 | 2020-04-22 | 2020-10-22 |
-| [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 | 2021-07-23 |  |
+| [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 | 2021-07-23 | 2023-08-05 |
 | [In The Sea \(Drowned\)](https://open.spotify.com/track/4ogi00gtqhx3THnzt205jj) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Lost and Found](https://open.spotify.com/album/4iduGBflFC8GTtX9fpfX7t) | 11:14 | 2020-04-22 | 2020-10-22 |
 | [In This Together](https://open.spotify.com/track/0FIN5jPkLUjUGRVfmjbTI5) | [Flowen](https://open.spotify.com/artist/6S4jzHRBwIKZw9vlUoKayG) | [In This Together](https://open.spotify.com/album/223fs67KiMNr8RGjKz7KDK) | 2:37 | 2019-06-19\* | 2020-10-21 |
 | [Indian Summer](https://open.spotify.com/track/4u2RPCt1DdZuGgRvfvnEgb) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/4sv5wZjZMPWQ9KvZ6PQZzQ) | 4:08 | 2019-05-26\* | 2020-08-26 |
@@ -461,7 +461,7 @@
 | [Mirrors](https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Mirrors](https://open.spotify.com/album/2UkMebjhDLVDDFGZg2kEPY) | 3:45 | 2023-07-07 |  |
 | [Missing the Moon](https://open.spotify.com/track/2JvbaCFEHS8aaakQ92xWmz) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Missing the Moon](https://open.spotify.com/album/1hNTKdVUzEhglYbukbndok) | 3:32 | 2023-03-03 | 2023-05-27 |
 | [ML3A](https://open.spotify.com/track/1o9DkWP5zph0hi09OdsiLi) | [Baseck](https://open.spotify.com/artist/3osPFn4n6nIX1cI3EOaJMq), [Pilo](https://open.spotify.com/artist/7wyxqLCu88yJqDCl2EfESr) | [In Fragments](https://open.spotify.com/album/7IPytA4ux0ldE6LcsU3fwt) | 2:27 | 2020-08-26 | 2020-10-22 |
-| [Mollie \(Hear Your Name\)](https://open.spotify.com/track/4RK8ACIo6MlEv8WyMIoxOa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:01 | 2023-03-24 |  |
+| [Mollie \(hear your name\)](https://open.spotify.com/track/4RK8ACIo6MlEv8WyMIoxOa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:01 | 2023-03-24 |  |
 | [Moment](https://open.spotify.com/track/5qVwiIw05xLv3IwTtqdd5S) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Two Fold Pt\. 2](https://open.spotify.com/album/6WAm1Z7pv03iivo9jCMePQ) | 3:12 | 2019-05-26\* | 2020-08-26 |
 | [Moments](https://open.spotify.com/track/2LAmMdTuNzuwJGyPgCosdt) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Moments](https://open.spotify.com/album/29h6YzXV7UUXJRdpnQaJ9P) | 3:20 | 2019-05-26\* | 2020-10-21 |
 | [Moments](https://open.spotify.com/track/5fFqxdgVb6XRHN8VEoKh6I) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Found Footage](https://open.spotify.com/album/2w8WfnamQbPHnopnZMcVrp) | 2:48 | 2019-06-19\* | 2022-04-15 |
@@ -640,6 +640,7 @@
 | [Signal \- Jean\-Michel Blais Piano Version](https://open.spotify.com/track/5JCUGvJDcnGzl6Paoo7koR) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Signal \(Jean\-Michel Blais Piano Version\)](https://open.spotify.com/album/2c03yWZ5VQa5Wez98iMlhx) | 4:29 | 2021-03-07 | 2021-10-02 |
 | [Signal From The Noise](https://open.spotify.com/track/2yb37ZX3btCqyNZnf7Jhsi) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Signal From The Noise](https://open.spotify.com/album/6wEN3iDpvHf1e7wYrImOaX) | 9:02 | 2021-07-23 | 2022-04-13 |
 | [Signal from the Noise](https://open.spotify.com/track/4K6Ns8QEIQJ8UH9QHEoFRS) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 9:02 | 2022-07-01 | 2023-02-18 |
+| [Silhouette](https://open.spotify.com/track/38QBIb9E55FZ1BLoDhiQe2) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [Canyon](https://open.spotify.com/album/1GoDkBDJmaYAO1lDarIj3b) | 5:20 | 2023-08-04 |  |
 | [Silver](https://open.spotify.com/track/4LT2kEBHiqRFFszfshq7sd) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Bloom](https://open.spotify.com/album/5LC0qMoqYsqvC6UMcXWrMH) | 3:54 | 2019-06-19\* | 2020-06-12 |
 | [Sirocco \- Original Mix](https://open.spotify.com/track/5qYEM2wsezbb37E786zIxm) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Sirocco](https://open.spotify.com/album/2YN04ujAH0eboKhz6VyBjX) | 3:55 | 2019-06-19\* | 2022-04-18 |
 | [Sister Species](https://open.spotify.com/track/5EpnGDKvSm4Rm3lnyOrX4D) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Softcorners](https://open.spotify.com/album/0JCaD2WojF7P8pIoIHEzxC) | 5:04 | 2023-05-03 | 2023-06-23 |

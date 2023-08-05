@@ -436,7 +436,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 142354,
       "name": "Anoche llam\u00e9",
       "url": "https://open.spotify.com/track/69AGmizjPlRLhOnHqvhZfB"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 153913,
       "name": "Cuando Se Apaga La Luz",
       "url": "https://open.spotify.com/track/4U6xgntrpMLoeD30fS4HSE"
@@ -2862,7 +2862,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 197647,
       "name": "Esa Nena",
       "url": "https://open.spotify.com/track/2uvoAHdthe0bSCD0qIRBta"
@@ -4104,6 +4104,28 @@
       "duration_ms": 149433,
       "name": "LA DEA",
       "url": "https://open.spotify.com/track/1L9TXxy6RxbGFRyR8ocM2L"
+    },
+    {
+      "album": {
+        "name": "La Dieta",
+        "url": "https://open.spotify.com/album/5h6bpaTTjza3Eqly1g3ggk"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "La Dieta",
+      "url": "https://open.spotify.com/track/057ybvJLKXxHmalgXR7jru"
     },
     {
       "album": {
@@ -6551,6 +6573,28 @@
     },
     {
       "album": {
+        "name": "Otra Vibra",
+        "url": "https://open.spotify.com/album/0Dcd0VT52oXwUldW3jEaoS"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207664,
+      "name": "Otra Vibra",
+      "url": "https://open.spotify.com/track/7aprD0hcQ0dr3efnJCrJI5"
+    },
+    {
+      "album": {
         "name": "Otro",
         "url": "https://open.spotify.com/album/0eGqUAZJxkm2QJkZx9iXpp"
       },
@@ -6920,10 +6964,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 206666,
       "name": "Perre\u00e1ndote",
       "url": "https://open.spotify.com/track/5RgBJX31NEVDcGUSMGBWWO"
+    },
+    {
+      "album": {
+        "name": "Piedritas En Los Dientes",
+        "url": "https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156544,
+      "name": "Piedritas En Los Dientes",
+      "url": "https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL"
     },
     {
       "album": {
@@ -9132,6 +9194,36 @@
       "duration_ms": 201200,
       "name": "Tus Poses",
       "url": "https://open.spotify.com/track/5g7gOcJf2CInnuZWnmEfRK"
+    },
+    {
+      "album": {
+        "name": "T\u00e1 OK (Remix)",
+        "url": "https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171760,
+      "name": "T\u00e1 OK (Remix)",
+      "url": "https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X"
     },
     {
       "album": {

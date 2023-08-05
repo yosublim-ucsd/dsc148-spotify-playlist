@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 155713,
+  "num_followers": 155791,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzkxMDQzOGVkZjEwNDI2Zjg1NTkxNjNhMWU1MjM2NDM1YjVkMjQ3",
+  "snapshot_id": "MCxmNWM2ZTE0N2Y0ODA3MzQxODM3Yzc2OGZlMWRkMzA2Mzg1MjU4ODAw",
   "tracks": [
     {
       "added_at": "2023-04-28 16:37:16",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Paris Blues",
-        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 353585,
-      "name": "Paris Blues",
-      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "You Can't Lose What You Ain't Never Had",
         "url": "https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 433360,
       "name": "How Unlucky Can One Man Be",
       "url": "https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Paris Blues",
+        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 353585,
+      "name": "Paris Blues",
+      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Freedom Flight",
-        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 428680,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
         "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 312600,
       "name": "Mississippi - Version 2",
       "url": "https://open.spotify.com/track/6JWHNd8QMxTvojYkmZtKGI"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Freedom Flight",
+        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 428680,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 341173,
-      "name": "Gambler's Blues",
-      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Bonnie Raitt (2008 Remaster)",
         "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 282066,
       "name": "Finest Lovin' Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/6RjcJGWKuDUZn5lgXLMD6L"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 341173,
+      "name": "Gambler's Blues",
+      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Your Lies",
-        "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
-      },
-      "artists": [
-        {
-          "name": "The Cinelli Brothers",
-          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
-        }
-      ],
-      "duration_ms": 193130,
-      "name": "Your Lies",
-      "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "The Chess Story 1957-1964",
         "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 171266,
       "name": "I'm A Little Mixed Up",
       "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Your Lies",
+        "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
+      },
+      "artists": [
+        {
+          "name": "The Cinelli Brothers",
+          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
+        }
+      ],
+      "duration_ms": 193130,
+      "name": "Your Lies",
+      "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Jake's Blues",
-        "url": "https://open.spotify.com/album/01M40NXXc0i5mu2Ybm7T7I"
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
       },
       "artists": [
         {
-          "name": "Johnnie Red Latham",
-          "url": "https://open.spotify.com/artist/5kmoCRQWzALw8CyRfCfz0U"
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
         }
       ],
-      "duration_ms": 236026,
-      "name": "Jake's Blues",
-      "url": "https://open.spotify.com/track/2X2Jk7H5EG8VY91a7Jh0OI"
+      "duration_ms": 156040,
+      "name": "I Need Love So Bad",
+      "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+        "name": "Jake's Blues",
+        "url": "https://open.spotify.com/album/01M40NXXc0i5mu2Ybm7T7I"
       },
       "artists": [
         {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+          "name": "Johnnie Red Latham",
+          "url": "https://open.spotify.com/artist/5kmoCRQWzALw8CyRfCfz0U"
         }
       ],
-      "duration_ms": 156040,
-      "name": "I Need Love So Bad",
-      "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
+      "duration_ms": 236026,
+      "name": "Jake's Blues",
+      "url": "https://open.spotify.com/track/2X2Jk7H5EG8VY91a7Jh0OI"
     },
     {
       "added_at": "2023-04-28 16:37:16",

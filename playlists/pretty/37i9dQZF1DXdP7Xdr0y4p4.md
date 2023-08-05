@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover:  <a href="https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA">The Browns</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,152 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,166 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 26 | [Ten Thousand Angels / He Looked Beyond My Fault And Saw My Need](https://open.spotify.com/track/3ZMacOVRytVPDW8PtXQv2x) | [The Collingsworth Family](https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc), [Kim Collingsworth](https://open.spotify.com/artist/5Pyrtb7bDbSxoaB5ajdqts), [Phil Collingsworth, Jr.](https://open.spotify.com/artist/7hG3nweoWdpxkntjJSQwEN) | [Just Sing!](https://open.spotify.com/album/3HEPflkMDvnyoTXpnarPQz) | 7:37 |
 | 27 | [Steppin' out in Faith](https://open.spotify.com/track/3oD8RRGLXHwk4vEMkbBo9k) | [Jim Brady Trio](https://open.spotify.com/artist/370fla8RwoHgAhGzUy56OB) | [A New Chapter](https://open.spotify.com/album/5uAhKPfP2Iy5lCgxLUQEpN) | 3:18 |
 | 28 | [Thinking 'Bout Home \- Live](https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Thinking 'Bout Home \(Live\)](https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940) | 4:05 |
-| 29 | [Overcome \- Radio Edit](https://open.spotify.com/track/0VAnfdHYy86E0TWJBfN6JP) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Overcome \(Radio Edit\)](https://open.spotify.com/album/6HYHgxwMcknXcdvWHCojqM) | 4:07 |
-| 30 | [Peace in Trusting](https://open.spotify.com/track/0bRCxiCy7DKlaaa0cfZqc4) | [The Isaacs](https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp) | [Songs for the Times](https://open.spotify.com/album/37dXrupCMdsgBbOWlOy55U) | 3:44 |
+| 29 | [Peace in Trusting](https://open.spotify.com/track/0bRCxiCy7DKlaaa0cfZqc4) | [The Isaacs](https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp) | [Songs for the Times](https://open.spotify.com/album/37dXrupCMdsgBbOWlOy55U) | 3:44 |
+| 30 | [Overcome \- Radio Edit](https://open.spotify.com/track/0VAnfdHYy86E0TWJBfN6JP) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Overcome \(Radio Edit\)](https://open.spotify.com/album/6HYHgxwMcknXcdvWHCojqM) | 4:07 |
 | 31 | [Best Thing](https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Bigger Than Sunday](https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19) | 3:17 |
 | 32 | [Plenty Good Room](https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI) | [Plenty Good Room](https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA) | 3:57 |
 | 33 | [Great Is His Faithfulness](https://open.spotify.com/track/5DQ1iZR8EKRFezKYiRxYaA) | [The Collingsworth Family](https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc), [Olivia Collingsworth](https://open.spotify.com/artist/0Kp8BEwvYuGMcuKu5aEuCC) | [Great Is His Faithfulness](https://open.spotify.com/album/7HfV6ry5U4qHaQlq6lSfzt) | 4:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 79 | [In Your Hands](https://open.spotify.com/track/5jv8q8RMsCZLsLoughuYcK) | [Zane & Donna King](https://open.spotify.com/artist/49ez4RKPnnHvNyLPfIgcer) | [In Your Hands](https://open.spotify.com/album/6XEgkVMyUuHhAgs3Z9wh5d) | 3:19 |
 | 80 | [Every Story Whispers His Name](https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Every Story Whispers His Name](https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl) | 3:55 |
 
-Snapshot ID: `MCw0YzVhYjc4ODA2ZWE2ZjQ2OWNjMDFmMjE1ODA5NzI3Y2FkM2E4ZTdm`
+Snapshot ID: `MCwyNjEzYjQyMzMwMTMzYzIzYjhlY2ZlODI5NjE3YWExYjkzYjAyNTJm`

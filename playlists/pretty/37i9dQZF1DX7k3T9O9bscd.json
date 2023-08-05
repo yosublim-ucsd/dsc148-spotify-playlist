@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 376515,
+  "num_followers": 376785,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTA4ZmUwZTFjMjY4ZTExNGIwZDZlMTBkYzMxNjdiZjI5NWEwN2Vl",
+  "snapshot_id": "MCw1OGE0YmNjODJjODNkYWU1MGUzMTZkNWY2ZTA1YWIzOTMxOTljNTQ1",
   "tracks": [
     {
       "added_at": "2023-08-02 16:20:29",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Ananda Shankar (US Internet Release)",
-        "url": "https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3"
+        "name": "World Music",
+        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
       },
       "artists": [
         {
-          "name": "Ananda Shankar",
-          "url": "https://open.spotify.com/artist/5eNWwEF0woj5E5Fnu9qXaQ"
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
         }
       ],
-      "duration_ms": 215866,
-      "name": "Jumpin' Jack Flash",
-      "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
+      "duration_ms": 170186,
+      "name": "Golden Dawn",
+      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "World Music",
-        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
+        "name": "Ananda Shankar (US Internet Release)",
+        "url": "https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3"
       },
       "artists": [
         {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+          "name": "Ananda Shankar",
+          "url": "https://open.spotify.com/artist/5eNWwEF0woj5E5Fnu9qXaQ"
         }
       ],
-      "duration_ms": 170186,
-      "name": "Golden Dawn",
-      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
+      "duration_ms": 215866,
+      "name": "Jumpin' Jack Flash",
+      "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Naxatras",
         "url": "https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 440014,
       "name": "Waves",
       "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Snake Chain",
-        "url": "https://open.spotify.com/album/5hWVND0W7e2bWiZHwBqxql"
-      },
-      "artists": [
-        {
-          "name": "Shake Chain",
-          "url": "https://open.spotify.com/artist/6akq3yIgLS5DRCXLweoMCN"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "Mike",
-      "url": "https://open.spotify.com/track/47t2i7V3eYY8CqRKGjnK4O"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Bud Spencer Blues Explosion",
         "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Los Estimados",
-        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
+        "name": "Snake Chain",
+        "url": "https://open.spotify.com/album/5hWVND0W7e2bWiZHwBqxql"
       },
       "artists": [
         {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+          "name": "Shake Chain",
+          "url": "https://open.spotify.com/artist/6akq3yIgLS5DRCXLweoMCN"
         }
       ],
-      "duration_ms": 277589,
-      "name": "Los Estimados",
-      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
+      "duration_ms": 138333,
+      "name": "Mike",
+      "url": "https://open.spotify.com/track/47t2i7V3eYY8CqRKGjnK4O"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
+        "name": "Los Estimados",
+        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "duration_ms": 277589,
+      "name": "Los Estimados",
+      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
         "name": "The Real Work",
         "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 266737,
       "name": "Risky Behaviour",
       "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221701,
-      "name": "Asteroid Witch",
-      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221701,
+      "name": "Asteroid Witch",
+      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
         "name": "Pascuales",
         "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Sacred Drugs",
-        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
-      },
-      "artists": [
-        {
-          "name": "Al Lover",
-          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
-        }
-      ],
-      "duration_ms": 186858,
-      "name": "A Shaman's Hand is Infinite",
-      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "World Music",
         "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 176120,
       "name": "Diarabi",
       "url": "https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Sacred Drugs",
+        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
+      },
+      "artists": [
+        {
+          "name": "Al Lover",
+          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
+        }
+      ],
+      "duration_ms": 186858,
+      "name": "A Shaman's Hand is Infinite",
+      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Aquarium Drunkard's Lagniappe Session",
-        "url": "https://open.spotify.com/album/4IM6Ut2jf9cHvgnLSgJWzV"
-      },
-      "artists": [
-        {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        }
-      ],
-      "duration_ms": 310144,
-      "name": "Lady Rachel",
-      "url": "https://open.spotify.com/track/0Sx7vYgpMShPW7obwHjt1a"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Guayabo de Agua Ardiente",
-        "url": "https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9"
+        "name": "Aquarium Drunkard's Lagniappe Session",
+        "url": "https://open.spotify.com/album/4IM6Ut2jf9cHvgnLSgJWzV"
       },
       "artists": [
         {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
         }
       ],
-      "duration_ms": 220287,
-      "name": "Marihuana",
-      "url": "https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5"
+      "duration_ms": 310144,
+      "name": "Lady Rachel",
+      "url": "https://open.spotify.com/track/0Sx7vYgpMShPW7obwHjt1a"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1483,6 +1467,22 @@
       "duration_ms": 250214,
       "name": "Meme City",
       "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Guayabo de Agua Ardiente",
+        "url": "https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "duration_ms": 220287,
+      "name": "Marihuana",
+      "url": "https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Not Normal",
-        "url": "https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx"
-      },
-      "artists": [
-        {
-          "name": "moe.",
-          "url": "https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj"
-        }
-      ],
-      "duration_ms": 541122,
-      "name": "New Hope For The New Year",
-      "url": "https://open.spotify.com/track/1nvN1xiHviRrs1m3V3guLY"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Transporter",
         "url": "https://open.spotify.com/album/6GSwsFG6B9fT0Ue7nnWuxe"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 397813,
       "name": "Space Camel",
       "url": "https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Not Normal",
+        "url": "https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx"
+      },
+      "artists": [
+        {
+          "name": "moe.",
+          "url": "https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj"
+        }
+      ],
+      "duration_ms": 541122,
+      "name": "New Hope For The New Year",
+      "url": "https://open.spotify.com/track/1nvN1xiHviRrs1m3V3guLY"
     },
     {
       "added_at": "2023-08-02 16:20:29",

@@ -1,12 +1,12 @@
 {
   "description": "Life in plastic is fantastic ",
-  "num_followers": 151079,
+  "num_followers": 155535,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjZhMzZkYmMyMmE3NGU5NGY4ZmI3MzlkZjgwOWU1NzVmMjk1YzIx",
+  "snapshot_id": "MCxhYTVlOTUyMDIwYmE4ODY5YmJhYzA3NmE1MmMzYmJkMGY0NzNmM2Q1",
   "tracks": [
     {
       "added_at": "2023-07-30 23:02:49",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-07-30 23:02:49",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
-    },
-    {
-      "added_at": "2023-07-30 23:02:49",
-      "album": {
         "name": "Barbie The Album",
         "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 143833,
       "name": "Pink",
       "url": "https://open.spotify.com/track/2YXGbxICUdOUJe9OPlicy1"
+    },
+    {
+      "added_at": "2023-07-30 23:02:49",
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2023-07-30 23:02:49",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-07-30 23:02:49",
       "album": {
-        "name": "The Idol Episode 1 (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h"
-      },
-      "artists": [
-        {
-          "name": "Lily-Rose Depp",
-          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "World Class Sinner / I\u2019m A Freak",
-      "url": "https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM"
-    },
-    {
-      "added_at": "2023-07-30 23:02:49",
-      "album": {
         "name": "Hot Pink",
         "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 237893,
       "name": "Say So",
       "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
+    },
+    {
+      "added_at": "2023-07-30 23:02:49",
+      "album": {
+        "name": "The Idol Episode 1 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h"
+      },
+      "artists": [
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "World Class Sinner / I\u2019m A Freak",
+      "url": "https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM"
     },
     {
       "added_at": "2023-07-30 23:02:49",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-07-30 23:02:49",
       "album": {
-        "name": "FANCY YOU",
-        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "FANCY",
-      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
-    },
-    {
-      "added_at": "2023-07-30 23:02:49",
-      "album": {
         "name": "girls like me don't cry (sped up)",
         "url": "https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 164718,
       "name": "girls like me don't cry (sped up)",
       "url": "https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C"
+    },
+    {
+      "added_at": "2023-07-30 23:02:49",
+      "album": {
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
     },
     {
       "added_at": "2023-07-30 23:02:49",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-07-30 23:02:49",
       "album": {
+        "name": "Not Your Barbie Girl",
+        "url": "https://open.spotify.com/album/0V4a4xYECICWUCzgoxfIYF"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 186520,
+      "name": "Not Your Barbie Girl",
+      "url": "https://open.spotify.com/track/4fkM7M4Uo5AUASnnsRC7EZ"
+    },
+    {
+      "added_at": "2023-07-30 23:02:49",
+      "album": {
         "name": "Amala (Deluxe Version)",
         "url": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 211013,
       "name": "Tia Tamera (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"
-    },
-    {
-      "added_at": "2023-07-30 23:02:49",
-      "album": {
-        "name": "Not Your Barbie Girl",
-        "url": "https://open.spotify.com/album/0V4a4xYECICWUCzgoxfIYF"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 186520,
-      "name": "Not Your Barbie Girl",
-      "url": "https://open.spotify.com/track/4fkM7M4Uo5AUASnnsRC7EZ"
     },
     {
       "added_at": "2023-07-30 23:02:49",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-07-30 23:02:49",
       "album": {
-        "name": "Queen Elizabitch",
-        "url": "https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU"
-      },
-      "artists": [
-        {
-          "name": "cupcakKe",
-          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
-        }
-      ],
-      "duration_ms": 208463,
-      "name": "Cpr",
-      "url": "https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1"
-    },
-    {
-      "added_at": "2023-07-30 23:02:49",
-      "album": {
         "name": "Birds of Prey: The Album",
         "url": "https://open.spotify.com/album/3wITH77YIxYdtVv1W4W1SI"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 134239,
       "name": "Boss Bitch",
       "url": "https://open.spotify.com/track/0kEzNFvi5ZOlwn6ly5DR8i"
+    },
+    {
+      "added_at": "2023-07-30 23:02:49",
+      "album": {
+        "name": "Queen Elizabitch",
+        "url": "https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU"
+      },
+      "artists": [
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+        }
+      ],
+      "duration_ms": 208463,
+      "name": "Cpr",
+      "url": "https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1"
     },
     {
       "added_at": "2023-07-30 23:02:49",
@@ -1215,7 +1215,7 @@
     {
       "added_at": "2023-07-30 23:02:49",
       "album": {
-        "name": "This Side of Paradise - EP",
+        "name": "This Side of Paradise",
         "url": "https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD"
       },
       "artists": [

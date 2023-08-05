@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Tyler Childers
+> A new shade of Country\. Cover: Charles Wesley Godwin
 
-469 songs - 1 day 4 hr 59 min
+470 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Ain't No Harmin' Me](https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Ain't No Harmin' Me](https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9) | 3:50 | 2023-03-10 | 2023-05-27 |
 | [Ain't Proud](https://open.spotify.com/track/6ykRYSG0m2iuoArpjDpJrT) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Ain't Proud](https://open.spotify.com/album/2BMZC0Al0UlwdvvtwYSptW) | 3:26 | 2023-05-05 |  |
 | [Alcohallelujah](https://open.spotify.com/track/0K6dmuthM56bETaZY10pbk) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Alcohallelujah](https://open.spotify.com/album/0BfroDedjttVda68iUY5ia) | 3:33 | 2023-05-12 |  |
+| [All Again](https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties \(Sampler\)](https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz) | 3:48 | 2023-08-04 |  |
 | [All I Needed](https://open.spotify.com/track/15TlVyJLpMysa7g9FSS0No) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [All I Needed](https://open.spotify.com/album/0tfD1g8c7W0tun48L9ZK7U) | 2:59 | 2022-04-15 | 2022-06-11 |
 | [All I Needed](https://open.spotify.com/track/2VUNlM2B9OqF1A4R7mqCrB) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Chicamacomico](https://open.spotify.com/album/4oOoEXroTRo6DePYVOrl5B) | 2:59 | 2022-06-10 | 2023-04-15 |
 | [All I See Is You](https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Geronimo](https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz) | 4:17 | 2021-12-17 | 2022-08-13 |
@@ -94,7 +95,7 @@
 | [Collecting Dust](https://open.spotify.com/track/0Tm0JeMRDBd4AZr13eDclx) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Collecting Dust](https://open.spotify.com/album/5rICmJCVw98Yuu3cA7ItA4) | 2:58 | 2022-04-08 | 2022-07-30 |
 | [Colorado Blues](https://open.spotify.com/track/2a1YnK5daxSlKjfYEdTveh) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Colorado Blues](https://open.spotify.com/album/13KX0b4NxsVYMWg1akI80F) | 2:37 | 2022-02-18 | 2022-07-29 |
 | [Colorado Blues](https://open.spotify.com/track/2uug7N1S3J0IXW8LaytlDO) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Run Like a Bull](https://open.spotify.com/album/61PLAYtZkCVhS8PeOBMSZm) | 2:37 | 2022-07-22 | 2022-10-08 |
-| [Comeback Kid](https://open.spotify.com/track/1ViNv171bw5aC5rcD9MC4M) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Comeback Kid](https://open.spotify.com/album/7vs8zVEytvdxIhIsgVYWgl) | 4:16 | 2022-09-16 |  |
+| [Comeback Kid](https://open.spotify.com/track/1ViNv171bw5aC5rcD9MC4M) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Comeback Kid](https://open.spotify.com/album/7vs8zVEytvdxIhIsgVYWgl) | 4:16 | 2022-09-16 | 2023-08-05 |
 | [Common Law](https://open.spotify.com/track/5aImc0JnM01Y2LYNbdAx5T) | [Zoe Cummins](https://open.spotify.com/artist/6JQwJ01NpI4KojdmsN7Omh), [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Common Law](https://open.spotify.com/album/2l8tS2MaLm9XUkmmWhmPZi) | 3:03 | 2022-07-08 | 2023-03-04 |
 | [Corralling the Blues](https://open.spotify.com/track/2DsHa2ozp5MveeKjylgKWF) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Corralling the Blues](https://open.spotify.com/album/1GWoPqXhA9YAUTb95Y4V8t) | 2:27 | 2023-06-02 |  |
 | [Country & Western](https://open.spotify.com/track/5HOg65WRx6rttRDRrRSW2E) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/4CHT5gYJygDJ1IzF1hPslk) | 3:04 | 2022-04-22 | 2022-09-24 |
@@ -274,7 +275,7 @@
 | [Love You Tonight](https://open.spotify.com/track/6eB1ykuJXmtoJ8CmHra4ip) | [Caleb Lee Hutchinson](https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6) | [Slot Machine Syndrome](https://open.spotify.com/album/6FJMaNrAirTTv36lmZD3d4) | 3:03 | 2021-12-17 | 2022-09-17 |
 | [Lydia](https://open.spotify.com/track/7CfW5ThHbtvOjXKU9h0Cw2) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Lydia](https://open.spotify.com/album/5wiu4newGcJlBKsj4qWalD) | 6:11 | 2022-11-11 | 2023-05-06 |
 | [Lyin' low](https://open.spotify.com/track/2dXGmRWNxNwSakbBPxAbiH) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/7jo6e3KUvEk7DqwfI9eS6w) | 4:18 | 2021-12-17 | 2023-05-11 |
-| [Lyin' Low](https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125) | 4:18 | 2023-05-05 |  |
+| [Lyin' Low](https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125) | 4:18 | 2023-05-05 | 2023-08-05 |
 | [Mahogany](https://open.spotify.com/track/0yh0dKIdp1uTZMVau5J0oH) | [Chris Acker](https://open.spotify.com/artist/6zOZGDOyElPbPuiI8kahym) | [Odd, Ordinary & Otherwise](https://open.spotify.com/album/0vpnY9l4BZxZqj3SbLEifx) | 3:21 | 2022-02-18 | 2022-03-12 |
 | [Marfa Lights](https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Marfa Lights](https://open.spotify.com/album/24NOQ09OAx540cYX976EEo) | 3:42 | 2021-12-17 | 2022-10-15 |
 | [Married Alone \(feat\. Vince Gill\)](https://open.spotify.com/track/0zvwzNNpHS4Z4cLk1KNOzD) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Married Alone \(feat\. Vince Gill\)](https://open.spotify.com/album/1wOHneMzn80srFomjCpTR9) | 4:14 | 2022-08-19 | 2023-03-04 |

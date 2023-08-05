@@ -4,7 +4,7 @@
 
 > Craving that crisp country air? These low\-key country songs will take you there.
 
-89 songs - 5 hr 12 min
+90 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Happy Now](https://open.spotify.com/track/3U1V2JWnoLV7wVYgOPPDBR) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Happy Now](https://open.spotify.com/album/6ngiL95TBNpZkP6ZEKI4fY) | 3:19 | 2023-06-15 |  |
 | [Heights](https://open.spotify.com/track/7ywfbPWKYt9rO2J4D7ZLP1) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Heartline](https://open.spotify.com/album/17WUzrpoONxTwLrx9BGktP) | 4:13 | 2023-06-15 |  |
 | [Holy Water](https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Holy Water](https://open.spotify.com/album/2IqSupOGT9SFUaxv7oQUMn) | 2:45 | 2023-06-15 |  |
+| [Home](https://open.spotify.com/track/7g4rTgNRHnfj1EguB4ETow) | [Nathan May](https://open.spotify.com/artist/1MSZWYELfRVbVsRH9I8HdT) | [Home](https://open.spotify.com/album/7B8mcC2S9XkvBG59tMzGwr) | 4:17 | 2023-08-03 |  |
 | [I Could Use a Love Song](https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:16 | 2023-06-15 |  |
 | [I've Lost My Best Friend](https://open.spotify.com/track/217ufaOS3H8Ax1HGX2z6MY) | [Amy Freeman](https://open.spotify.com/artist/0ntoXm5dmjLYIS9ClqVXdU) | [Catch Myself Talking To You](https://open.spotify.com/album/62U1WApDE6dnQYZ7LG8hGH) | 3:24 | 2023-06-15 |  |
 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-08-01 |  |

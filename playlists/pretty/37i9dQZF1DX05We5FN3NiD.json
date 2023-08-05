@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 39856,
+  "num_followers": 39874,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODRhODJmNDIyN2UwZTRhNWQzMjJlMjRhZDYzMTgyYWIwMjg2NDYy",
+  "snapshot_id": "MCxhNDE0ZGYwZjUyODRjYmVhNWE1ODhmOTdlYWU2NGFiMWYxNTBjMDNm",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "i'll die anyway.",
-        "url": "https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 192612,
-      "name": "i'll die anyway.",
-      "url": "https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "i'll die anyway.",
+        "url": "https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 192612,
+      "name": "i'll die anyway.",
+      "url": "https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "OUTTA MY MIND",
-        "url": "https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL"
-      },
-      "artists": [
-        {
-          "name": "Monsune",
-          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
-        }
-      ],
-      "duration_ms": 226005,
-      "name": "OUTTA MY MIND",
-      "url": "https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 271200,
       "name": "Fallingwater",
       "url": "https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "OUTTA MY MIND",
+        "url": "https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL"
+      },
+      "artists": [
+        {
+          "name": "Monsune",
+          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
+        }
+      ],
+      "duration_ms": 226005,
+      "name": "OUTTA MY MIND",
+      "url": "https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Summer Girl - Bonus Track",
-      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 145720,
       "name": "U (Man Like)",
       "url": "https://open.spotify.com/track/59lQwJcWbr9x3OvTvW5NNX"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Summer Girl - Bonus Track",
+      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Cheap Queen",
-        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 202280,
-      "name": "Ain't Together",
-      "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/3g2V8aC3c2ytEKHLeMhKBX"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 212160,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/65eQZ65gCurZX0SXTfeBnc"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Cheap Queen",
+        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 202280,
+      "name": "Ain't Together",
+      "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
     },
     {
       "added_at": "2022-09-16 04:53:36",

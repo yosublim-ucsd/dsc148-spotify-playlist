@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: VUKOVI
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,026 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,033 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 41 | [JUNKIE](https://open.spotify.com/track/6azzQpelUGRtIQUfgR9R0J) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 2: the burn](https://open.spotify.com/album/4kDBAwGGcSpxs6d4FFdPYG) | 3:08 |
 | 42 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 |
 | 43 | [I'll Wait](https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [I'll Wait](https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1) | 2:52 |
-| 44 | [Famous](https://open.spotify.com/track/1te0wzOWRVnKXF49lAztVq) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Famous](https://open.spotify.com/album/0rfBEU8mBh0Il5Pagpam4e) | 3:54 |
+| 44 | [Famous](https://open.spotify.com/track/1te0wzOWRVnKXF49lAztVq) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG), [LaLotus](https://open.spotify.com/artist/7e5cGwWgUr0VyoaWa2h8XZ) | [Famous](https://open.spotify.com/album/0rfBEU8mBh0Il5Pagpam4e) | 3:54 |
 | 45 | [All I Wanna Do Is Hate](https://open.spotify.com/track/62wdj6E0AiXV6rh8tqJTUb) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [All I Wanna Do Is Hate](https://open.spotify.com/album/2A4OPZOkKblkfpMi1zUCfz) | 2:45 |
 | 46 | [Friends of Mine](https://open.spotify.com/track/3T7JN3VHiWFLAPUexUuxes) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Friends of Mine](https://open.spotify.com/album/3eY2qS65MuDKI4MXqiuopU) | 3:26 |
 | 47 | [Money](https://open.spotify.com/track/5rlfh1uoDFgbycSkX0Dms5) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Money](https://open.spotify.com/album/3WSZtZRBRJVoAljZAaip2m) | 2:54 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 54 | [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:18 |
 | 55 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 |
 
-Snapshot ID: `MCw2ZWRjYWIzODMxMjVlMjZjOWMzMmY3OWY3NzI0NzY5M2FjMGEyM2Q5`
+Snapshot ID: `MCxjNzFmNjE0MjE1NjY1NGZiYmZkZjk4NWY5ZWQ3YzE5ZGY3NjAxYjQy`

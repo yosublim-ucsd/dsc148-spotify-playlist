@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 282740,
+  "num_followers": 282974,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MThlMDU5ODQyOThlOTA5YWM1YWZlZTMyMjU2ZTg4MDYxZGMxMjZh",
+  "snapshot_id": "MCwyMjg3OGQ2ZTYxYTExY2QyYWU1Nzk3NGQ0YjZiZDQ5NDkzYmMwMWY0",
   "tracks": [
     {
       "added_at": "2023-06-22 01:44:05",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Crimson Thunder",
-        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
+        "name": "The Concrete Confessional",
+        "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
       },
       "artists": [
         {
-          "name": "HammerFall",
-          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
         }
       ],
-      "duration_ms": 231386,
-      "name": "Hearts on Fire",
-      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
+      "duration_ms": 161626,
+      "name": "Looking Down the Barrel of Today",
+      "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "The Concrete Confessional",
-        "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
+        "name": "Crimson Thunder",
+        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
       },
       "artists": [
         {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+          "name": "HammerFall",
+          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
         }
       ],
-      "duration_ms": 161626,
-      "name": "Looking Down the Barrel of Today",
-      "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
+      "duration_ms": 231386,
+      "name": "Hearts on Fire",
+      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Repentless",
-        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Repentless",
-      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "Mutter",
         "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 188600,
       "name": "Feuer frei!",
       "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Repentless",
+        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Repentless",
+      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "The Sin and the Sentence",
-        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 349869,
-      "name": "The Sin and the Sentence",
-      "url": "https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "Jomsviking",
         "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 263760,
       "name": "Raise Your Horns",
       "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "The Sin and the Sentence",
+        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 349869,
+      "name": "The Sin and the Sentence",
+      "url": "https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K"
     },
     {
       "added_at": "2023-06-22 01:44:05",

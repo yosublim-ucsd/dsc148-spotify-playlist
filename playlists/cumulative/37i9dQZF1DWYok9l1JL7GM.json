@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The south got something to say. Cover: Plies",
+  "description": "The south got something to say. Cover: TI",
   "name": "I Love My Down South Classics",
   "tracks": [
     {
@@ -28,6 +28,24 @@
       "duration_ms": 281960,
       "name": "#1 Stunna",
       "url": "https://open.spotify.com/track/7kBdenpTmgWfAz9clmBcok"
+    },
+    {
+      "album": {
+        "name": "Trap Muzik",
+        "url": "https://open.spotify.com/album/1SloKtrz48mjFA3QIDg7Vl"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282906,
+      "name": "24's (Vocals Only)",
+      "url": "https://open.spotify.com/track/33j4CLU9UyRjO63ry5J61Q"
     },
     {
       "album": {
@@ -276,7 +294,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 198026,
       "name": "Be Easy",
       "url": "https://open.spotify.com/track/00qpe8j0FiQhMzPP8asBwP"
@@ -1450,7 +1468,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 241946,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/0Ft6hwGWdCdujdK6TOfBV7"
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 347506,
       "name": "Rubber Band Man",
       "url": "https://open.spotify.com/track/5Rkbnhwkb6oiqq1HQcXirN"
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 261972,
       "name": "Sippin On Some Syrup (feat. UGK (Underground Kingz) & Project Pat)",
       "url": "https://open.spotify.com/track/2EduiM2UNwjCC7PsLxnOCH"
@@ -2038,7 +2056,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 118933,
       "name": "Slob On My Nob (feat. Project Pat)",
       "url": "https://open.spotify.com/track/0mXMr1OVZZKYmOinBaofOp"

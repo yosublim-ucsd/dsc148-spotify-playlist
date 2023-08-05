@@ -194,7 +194,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 264750,
       "name": "Aonde Est\u00e1 Deus",
       "url": "https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF"
@@ -1282,6 +1282,24 @@
       "duration_ms": 173026,
       "name": "Meu Valor",
       "url": "https://open.spotify.com/track/5CxJx9S892Gwy3Ic3UNfdX"
+    },
+    {
+      "album": {
+        "name": "Nada Vai Me Parar",
+        "url": "https://open.spotify.com/album/3DkwV4LBkLW0vPX9ZOSAMv"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229320,
+      "name": "Nada Vai Me Parar",
+      "url": "https://open.spotify.com/track/5T5lgvGDNxEAxOHrKNMvTW"
     },
     {
       "album": {

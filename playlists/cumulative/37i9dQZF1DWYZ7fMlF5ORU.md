@@ -4,7 +4,7 @@
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Jéssica Augusto
 
-83 songs - 5 hr 36 min
+84 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Deus da Minha Vida](https://open.spotify.com/track/0JpSWEkjpNEfnmlPTYw60F) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 2](https://open.spotify.com/album/2Zg8Q0hCbXr56S86f1C918) | 4:45 | 2023-04-15 |  |
 | [Deus Está No Controle](https://open.spotify.com/track/6ycM0D2SAlyxwl40Y10AlZ) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 2:52 | 2023-04-15 |  |
 | [Deus Gosta de Quem Você Não Gosta](https://open.spotify.com/track/2FNeYPUxGXmZFd4s6rDCYA) | [Luiz Arcanjo](https://open.spotify.com/artist/3jhaArlXRtYY9R7GJrvcZ2), [Salomão](https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx) | [Deus Gosta de Quem Você Não Gosta](https://open.spotify.com/album/1EY0Rs3vYh2DqbWcqRTMXM) | 2:58 | 2023-04-15 |  |
-| [Deus É Bom](https://open.spotify.com/track/2USllhBBWdhwUCnVr9rz39) | [Jonatan Moraes](https://open.spotify.com/artist/0UedoRaEiHjL9WUCmVWgbQ), [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Deus É Bom](https://open.spotify.com/album/5lDfCxomvBIO97A6qOLQLI) | 3:44 | 2023-04-15 |  |
+| [Deus É Bom](https://open.spotify.com/track/2USllhBBWdhwUCnVr9rz39) | [Jonatan Moraes](https://open.spotify.com/artist/0UedoRaEiHjL9WUCmVWgbQ), [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Deus É Bom](https://open.spotify.com/album/5lDfCxomvBIO97A6qOLQLI) | 3:44 | 2023-04-15 | 2023-08-05 |
 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l) | 5:31 | 2023-07-14 |  |
 | [Ele Me Amou](https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l) | [Wellington Caetano](https://open.spotify.com/artist/2sjxlztngIj8gPo1NDFp1V), [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F), [Rodney Graciano](https://open.spotify.com/artist/3eAqzvv41VPIqYgiYSqZDh) | [Ele Me Amou](https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA) | 4:29 | 2023-04-15 |  |
 | [Emaús](https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw) | [Templo Soul](https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9) | [Emaús](https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c) | 7:15 | 2023-07-28 |  |
@@ -75,6 +75,7 @@
 | [Profeta](https://open.spotify.com/track/3XDlh3qWr9on7q4kLRRf05) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Fortaleza Minha](https://open.spotify.com/album/0fmDzUwpVkfVmOK97YdEhC) | 4:46 | 2023-04-15 |  |
 | [provérbios 16](https://open.spotify.com/track/4Te7CWux7EKyXmhBUZbpCU) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [o Dono do tempo](https://open.spotify.com/album/0d9lKsIyRHmeOhYisKGUGu) | 4:07 | 2023-04-15 |  |
 | [Rei das Nações](https://open.spotify.com/track/73YXZQaoyLTSUtq4IpGn6s) | [Luiz Arcanjo](https://open.spotify.com/artist/3jhaArlXRtYY9R7GJrvcZ2) | [Rei das Nações](https://open.spotify.com/album/46eO3dzrbGtGhr2HPWRCvf) | 3:41 | 2023-04-15 |  |
+| [Sangue de Jesus](https://open.spotify.com/track/5DebScLy9XPILqkvhQ5vjK) | [Thalita Pertuzatti](https://open.spotify.com/artist/5jA3LhvXXKZrtZWYFxY1gg) | [Soul Gospel](https://open.spotify.com/album/0qIpBqACgyeA68ndfeMni3) | 3:11 | 2023-08-04 |  |
 | [Tamo Junto](https://open.spotify.com/track/3ZVOLNMuY3zqLl9lyU4VtD) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Silas Simões](https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r), [Lorena Fadi](https://open.spotify.com/artist/22ar4P0skJmstiB0GPJ3TT), [Luã Freitas](https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY) | [Tamo Junto](https://open.spotify.com/album/7vUi0Zwz0xQrQbFqPgitp6) | 3:15 | 2023-04-15 |  |
 | [Te Agradeço](https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Cânticos I](https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm) | 4:26 | 2023-04-15 |  |
 | [Todos São Iguais \- Ao Vivo](https://open.spotify.com/track/1nvQzQaL7lEOtyGz3W3jgi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [João Alexandre](https://open.spotify.com/artist/5kgQN9xPuWYGxVzsJb86Hx) | [Todos São Iguais \(Ao Vivo\)](https://open.spotify.com/album/7ejMECw1J8l2h7vv08H1JA) | 4:16 | 2023-04-15 |  |

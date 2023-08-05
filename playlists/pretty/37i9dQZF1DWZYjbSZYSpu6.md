@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: SOLE, Sung Si Kyung\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,586 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,660 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 49 | [Freesia](https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:49 |
 | 50 | [She Said \(with BIBI\)](https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:28 |
 
-Snapshot ID: `MCwxNmM3ODc1ZGQxOWIwZDMzNzU1NjYwOWRiOTlhNmU2NTg4MDIwNDc1`
+Snapshot ID: `MCwwNTBjNmIzMDQwNGZmMTk2NDdhOGQwNTAwYTdkMjg2OGI4YTQ3OThj`

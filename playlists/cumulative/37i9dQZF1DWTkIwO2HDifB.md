@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Novidade Na Área e os funks mais 🔑 do Brasil\. Foto: MC Livinho, DJ Matt D
+> Halls Na Língua Remix e os funks mais 🔑 do Brasil\. Foto: GORDÃO DO PC
 
 189 songs - 10 hr 5 min
 

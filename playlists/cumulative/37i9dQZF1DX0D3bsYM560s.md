@@ -4,7 +4,7 @@
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-96 songs - 5 hr 28 min
+98 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Carried Away](https://open.spotify.com/track/2WuuiyHR2qJzdn8VSJpUWD) | [Amanda Cook](https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn) | [Carried Away](https://open.spotify.com/album/3GsgQgjdpG2yTdirtPruhP) | 2:56 | 2023-04-14 |  |
 | [Chasin' Indigo](https://open.spotify.com/track/5QSDNHaXMUERdanAy5ejHJ) | [Carley Arrowood](https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK) | [Chasin' Indigo](https://open.spotify.com/album/0Ge1b3uTSaGygoWx4wupht) | 3:59 | 2023-06-23 |  |
 | [Choices And Changes](https://open.spotify.com/track/4hqJJdwJuWx0y6sNcHIHYF) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Weighted Mind](https://open.spotify.com/album/1Nhg69P4YB6wBXuP6Kmhbe) | 3:19 | 2023-04-14 |  |
+| [Creeping Round My Cabin](https://open.spotify.com/track/4aKozQLYvFFBQ4PfaBxacs) | [Missy Armstrong](https://open.spotify.com/artist/6ysW5iTGPo3hoq29T2BjJs) | [My Remedy](https://open.spotify.com/album/22sRGaHEabLIFZkcPHu3r0) | 2:18 | 2023-08-04 |  |
 | [Crooked Tree](https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:52 | 2023-04-14 |  |
 | [Crossing Muddy Waters](https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Crossing Muddy Waters / Be My Husband](https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO) | 3:48 | 2023-04-14 |  |
 | [Dark Skies](https://open.spotify.com/track/6WZhUdMsbYpRuO7VzguKI1) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [I've Got That Old Feeling](https://open.spotify.com/album/1ETt1sfe0PREZLQqsIOAU7) | 2:23 | 2023-04-14 |  |
@@ -60,6 +61,7 @@
 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 | 2023-04-14 |  |
 | [Mountain Banjo](https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 2:41 | 2023-04-14 |  |
 | [Night Singing](https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 2:11 | 2023-04-14 |  |
+| [Nothing to Lose](https://open.spotify.com/track/3rX3s25gWhcG47YOWJsDhe) | [Olivia Jo](https://open.spotify.com/artist/7EtlrfGDlCMzJNKHCYUepA), [Lou Reid](https://open.spotify.com/artist/6pLbG63bQVlbOyZGb8ldd6) | [Nothing to Lose](https://open.spotify.com/album/23PBI8ewt7XwbFK59azoiC) | 3:38 | 2023-08-04 |  |
 | [Odds of Getting Even](https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Odds of Getting Even](https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE) | 3:15 | 2023-05-15 |  |
 | [Old Songs Never Die](https://open.spotify.com/track/1IQWXHm4JHL3xpHYrlawtR) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Common Nation Of Sorrow](https://open.spotify.com/album/53S29DN4hv8ZiRSuj5PdCo) | 2:34 | 2023-04-14 |  |
 | [Old Songs Never Die](https://open.spotify.com/track/3FKtWyA5l5mNGEGv0uRDSm) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Common Nation Of Sorrow](https://open.spotify.com/album/2IhYLlwuRGpWIzUuqJgY43) | 2:34 | 2023-04-14 | 2023-04-30 |

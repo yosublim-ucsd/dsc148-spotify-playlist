@@ -137,6 +137,32 @@
     },
     {
       "album": {
+        "name": "A la Cima",
+        "url": "https://open.spotify.com/album/2oMah8AiP4OhAWJzzn1utD"
+      },
+      "artists": [
+        {
+          "name": "Dj Bitman",
+          "url": "https://open.spotify.com/artist/7FfKue3foqwcKAUi36xsh9"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142913,
+      "name": "A la Cima",
+      "url": "https://open.spotify.com/track/3Bnz6lDcPOUFT5IDgbZs4S"
+    },
+    {
+      "album": {
         "name": "Pirates over Wacken (Live)",
         "url": "https://open.spotify.com/album/3FrOHRVCQ41hHbg7NhpWc0"
       },
@@ -996,7 +1022,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 251521,
       "name": "Barracuda - Live 1985",
       "url": "https://open.spotify.com/track/0PB5asiVnUI2n9Uf1CasUy"
@@ -4565,6 +4591,24 @@
     },
     {
       "album": {
+        "name": "Imaginary Worlds",
+        "url": "https://open.spotify.com/album/1ChuHp9kRPlirbrvkfvxo1"
+      },
+      "artists": [
+        {
+          "name": "BVSMV",
+          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "Imaginary Worlds",
+      "url": "https://open.spotify.com/track/6XkDo14yD9eKEcuQpRMgbM"
+    },
+    {
+      "album": {
         "name": "Imagine A Man (Live At Wembley, UK / 2019)",
         "url": "https://open.spotify.com/album/4czqeo8Tx9OGcVmfkbItyq"
       },
@@ -7211,6 +7255,42 @@
     },
     {
       "album": {
+        "name": "Ojos de Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/1T1hBoWhzLbRsfIHo3eDEy"
+      },
+      "artists": [
+        {
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253373,
+      "name": "Ojos de Cielo - En Vivo",
+      "url": "https://open.spotify.com/track/6AzZlB6kqZ19ZywqRvwvF3"
+    },
+    {
+      "album": {
+        "name": "Olive Tree (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/4umaFT788I6iVgnEO8OdcF"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358900,
+      "name": "Olive Tree - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/3Eq9hqFwjfmKXzDr2P4IlF"
+    },
+    {
+      "album": {
         "name": "On And Ever Onward (Live From Housing Works 2009)",
         "url": "https://open.spotify.com/album/2yQFVTCDcHgwPkX3AKjNSY"
       },
@@ -9130,7 +9210,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 290948,
       "name": "So Much - Bright-Side Mix",
       "url": "https://open.spotify.com/track/5cJ31Zc5IUlrwjF7fs6C5D"
@@ -10260,7 +10340,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 315546,
       "name": "The Sign - Extended Remix",
       "url": "https://open.spotify.com/track/7AeooPeVsCx5CZdsGuFXLJ"
@@ -10369,6 +10449,32 @@
     },
     {
       "album": {
+        "name": "Them Belly Full (But We Hungry) (Feat. Rema & Skip Marley)",
+        "url": "https://open.spotify.com/album/4PrIjUOhymWHG83mEzDj1R"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190589,
+      "name": "Them Belly Full (But We Hungry) (Feat. Rema and Skip Marley)",
+      "url": "https://open.spotify.com/track/7fbQLuKMYfGpqK9f0OuQjg"
+    },
+    {
+      "album": {
         "name": "Therapy session",
         "url": "https://open.spotify.com/album/2oKPQSu3BD4MU19aIU2KWo"
       },
@@ -10440,6 +10546,24 @@
       "duration_ms": 139787,
       "name": "THIRST4VIOLENCE (feat. Freddie Dredd & Silverstein)",
       "url": "https://open.spotify.com/track/6fQaD9UaCJPLceCxfS8fpH"
+    },
+    {
+      "album": {
+        "name": "The Lebanon",
+        "url": "https://open.spotify.com/album/3UMZ86HUxicc6lMVv7bVzK"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249706,
+      "name": "Thirteen",
+      "url": "https://open.spotify.com/track/1yTOtki9JyA4oM1svzdE1K"
     },
     {
       "album": {

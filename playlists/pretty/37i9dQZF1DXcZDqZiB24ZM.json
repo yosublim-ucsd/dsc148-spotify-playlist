@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
-  "num_followers": 7837,
+  "num_followers": 7848,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Nzc5ZWFjOWU1M2FlMjg1NDk3NTk2OTgxOGY5MzUxYjc5OWFlNjgz",
+  "snapshot_id": "MCw3MTY3ODkyOTE4YjBlZTJhMDk1ZjBmMzJkMjU2Njg3NDRlNTVjMjkx",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "5 / 5",
+        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
+      },
+      "artists": [
+        {
+          "name": "5sang14",
+          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
+        }
+      ],
+      "duration_ms": 209235,
+      "name": "PLG",
+      "url": "https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Fouette Saint-Patrick",
         "url": "https://open.spotify.com/album/1OKQUHt3LCz5JnqgTEggce"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 163459,
       "name": "Chill?",
       "url": "https://open.spotify.com/track/3zQI8CC3IokFvAqgXgY5KB"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "5 / 5",
-        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
-      },
-      "artists": [
-        {
-          "name": "5sang14",
-          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
-        }
-      ],
-      "duration_ms": 209235,
-      "name": "PLG",
-      "url": "https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "H\u00f4tel d\u00e9lices",
-        "url": "https://open.spotify.com/album/73Q5aLTYECXFWFbYQKAPML"
-      },
-      "artists": [
-        {
-          "name": "LaF",
-          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
-        }
-      ],
-      "duration_ms": 208160,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/3H0AwabHiugPGdHwYIZUYf"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Saint Laurent",
         "url": "https://open.spotify.com/album/6uqW9dsiR5MDJcRTzhw3MD"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 215511,
       "name": "Saint Laurent",
       "url": "https://open.spotify.com/track/3alXnI2ImIwAUoTYMjm26H"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "H\u00f4tel d\u00e9lices",
+        "url": "https://open.spotify.com/album/73Q5aLTYECXFWFbYQKAPML"
+      },
+      "artists": [
+        {
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+        }
+      ],
+      "duration_ms": 208160,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/3H0AwabHiugPGdHwYIZUYf"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Dis moi",
-        "url": "https://open.spotify.com/album/0o2F7nm9VHaApSJqWTgQOW"
-      },
-      "artists": [
-        {
-          "name": "Corops",
-          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
-        }
-      ],
-      "duration_ms": 247170,
-      "name": "Dis Moi",
-      "url": "https://open.spotify.com/track/1oFBEWYPqis4mpQZB8sl4H"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Silence de mort",
         "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 189344,
       "name": "Entre toi et moi",
       "url": "https://open.spotify.com/track/5NfnhUxP5iSIPajibgMB67"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Dis moi",
+        "url": "https://open.spotify.com/album/0o2F7nm9VHaApSJqWTgQOW"
+      },
+      "artists": [
+        {
+          "name": "Corops",
+          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
+        }
+      ],
+      "duration_ms": 247170,
+      "name": "Dis Moi",
+      "url": "https://open.spotify.com/track/1oFBEWYPqis4mpQZB8sl4H"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Personne ne touche le ciel",
+        "url": "https://open.spotify.com/album/6BisJ6xLM0ZtRHtjAwMg7E"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "Plume",
+      "url": "https://open.spotify.com/track/4S67VsQJoZVaRKpzdVT7IM"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Temple de la Renomm\u00e9e",
         "url": "https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 219062,
       "name": "Dans L'trap",
       "url": "https://open.spotify.com/track/4ZaVq23ofISP4U9EChy7sN"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Personne ne touche le ciel",
-        "url": "https://open.spotify.com/album/6BisJ6xLM0ZtRHtjAwMg7E"
-      },
-      "artists": [
-        {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "Plume",
-      "url": "https://open.spotify.com/track/4S67VsQJoZVaRKpzdVT7IM"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Temple de la Renomm\u00e9e",
-        "url": "https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A"
-      },
-      "artists": [
-        {
-          "name": "LES ANTICIPATEURS",
-          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
-        }
-      ],
-      "duration_ms": 227711,
-      "name": "Parle-Mo\u00e9 Don D'\u00e7a",
-      "url": "https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1PN3Kkwd2mOyIOOiRJkBAh"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 193293,
       "name": "Dollaz",
       "url": "https://open.spotify.com/track/2LI5ggYAq4MC7zmHhD3x9A"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Temple de la Renomm\u00e9e",
+        "url": "https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A"
+      },
+      "artists": [
+        {
+          "name": "LES ANTICIPATEURS",
+          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
+        }
+      ],
+      "duration_ms": 227711,
+      "name": "Parle-Mo\u00e9 Don D'\u00e7a",
+      "url": "https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0"
-      },
-      "artists": [
-        {
-          "name": "O.Z",
-          "url": "https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc"
-        }
-      ],
-      "duration_ms": 210976,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/0ce1MQn7HJBr1OPyJOoDB3"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 214726,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/2jnNLZ4GcmstGoS0d591jD"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0"
+      },
+      "artists": [
+        {
+          "name": "O.Z",
+          "url": "https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc"
+        }
+      ],
+      "duration_ms": 210976,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1811,6 +1811,26 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Irr\u00e9versible",
+        "url": "https://open.spotify.com/album/5AHWRtchHWxLyQcCD6hflC"
+      },
+      "artists": [
+        {
+          "name": "Sarahm\u00e9e",
+          "url": "https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "duration_ms": 257544,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/3fioUBORpFuvNIL8RIwuGU"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Jungle Music",
         "url": "https://open.spotify.com/album/0KsLYPXIW6Ky6rT2yrlcXZ"
       },
@@ -1847,26 +1867,6 @@
       "duration_ms": 170351,
       "name": "back",
       "url": "https://open.spotify.com/track/5TyT9YnF3S0Z4DfqUSO96b"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Irr\u00e9versible",
-        "url": "https://open.spotify.com/album/5AHWRtchHWxLyQcCD6hflC"
-      },
-      "artists": [
-        {
-          "name": "Sarahm\u00e9e",
-          "url": "https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX"
-        },
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        }
-      ],
-      "duration_ms": 257544,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/3fioUBORpFuvNIL8RIwuGU"
     },
     {
       "added_at": "2022-03-11 05:02:00",

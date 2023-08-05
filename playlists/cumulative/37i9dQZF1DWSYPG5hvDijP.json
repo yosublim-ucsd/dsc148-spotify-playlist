@@ -612,7 +612,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 146945,
       "name": "Burey Din",
       "url": "https://open.spotify.com/track/6St0M4ePah3MzAmdgIi4Vf"
@@ -1014,6 +1014,28 @@
       "duration_ms": 261333,
       "name": "FUKA SARI RAAT",
       "url": "https://open.spotify.com/track/1zGYGFRRFQdgTPE6aCzIqQ"
+    },
+    {
+      "album": {
+        "name": "Gang",
+        "url": "https://open.spotify.com/album/5Gn8zttLWDIDP1sRjij8np"
+      },
+      "artists": [
+        {
+          "name": "Sammohit",
+          "url": "https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2"
+        },
+        {
+          "name": "Stunnah Beatz",
+          "url": "https://open.spotify.com/artist/0qtrkagnaYxnByLorZ1dzl"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170993,
+      "name": "Gang",
+      "url": "https://open.spotify.com/track/7t7osq9vb9bQG5iN5J9WHx"
     },
     {
       "album": {
@@ -1440,7 +1462,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 201739,
       "name": "It's Aight",
       "url": "https://open.spotify.com/track/0m6q4ExjPAlpICPMN0Mnd3"

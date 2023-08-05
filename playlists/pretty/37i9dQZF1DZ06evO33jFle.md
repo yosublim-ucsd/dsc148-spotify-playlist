@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 
 > This is Jenni Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,009 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,229 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 45 | [Aparentemente Bien \- Versión Sencillo](https://open.spotify.com/track/2nHekPOutiUg9MiCp74NjH) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Aparentemente Bien](https://open.spotify.com/album/1932flu69zKoy3j2Qgz0P2) | 4:17 |
 | 46 | [Así Fue \- Pop](https://open.spotify.com/track/7G9UBSP0u8EEDWNaadXnZU) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 4:37 |
 | 47 | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/track/3B1rdhOmO7LwlyIFsC0xFK) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 2:56 |
-| 48 | [Misión Cumplida](https://open.spotify.com/track/4LMQxOMgUPlugjBlfp2ZK6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Misión Cumplida](https://open.spotify.com/album/0uQRZ1SvseWfRuu5kl14hc) | 3:11 |
-| 49 | [Por un Amor Cucurrucucu Paloma](https://open.spotify.com/track/0SoWXX2bEslbR4lmoTFwk7) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 3:42 |
+| 48 | [Por un Amor Cucurrucucu Paloma](https://open.spotify.com/track/0SoWXX2bEslbR4lmoTFwk7) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 3:42 |
+| 49 | [Misión Cumplida](https://open.spotify.com/track/4LMQxOMgUPlugjBlfp2ZK6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Misión Cumplida](https://open.spotify.com/album/0uQRZ1SvseWfRuu5kl14hc) | 3:11 |
 | 50 | [Engañémoslo \- Versión Mariachi \- Versión Sencillo](https://open.spotify.com/track/6ZtFzzPFSwg6rPPfNIqFJj) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Mariachi Los Reyes](https://open.spotify.com/artist/4F7KkuF7t7TJPJk7mNPIlM) | [Engañémoslo](https://open.spotify.com/album/3WEmQxo46sFb48DUXk8nli) | 3:31 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDAyNDRkNjg3NzUwYWY5NWVjNDc5Njg3OGMyZTI1ZTNhZA==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDA3NWZhOWY2NDA1NGI0ZDhhYWJmODFhNWRkNWRjOTBmNg==`

@@ -2,9 +2,9 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> Best of the Indian Indie scene\. Cover \- Akanksha Bhandari
+> Best of the Indian Indie scene\. Cover \- Shreya Jain
 
-201 songs - 11 hr 31 min
+202 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Junoon](https://open.spotify.com/track/1Y5treJOPB7WnAMZnsA5u8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Junoon](https://open.spotify.com/album/5j7k8clw2nghIdjcn36Ixg) | 3:11 | 2023-03-28 |  |
 | [Just A Word](https://open.spotify.com/track/4iP7HF6dhCmvXOk6pHnX9u) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Just A Word](https://open.spotify.com/album/6vsFUU0gYqbQVoV2tiz94v) | 3:00 | 2022-03-21 | 2022-05-24 |
 | [Kaagaz Ki Naav](https://open.spotify.com/track/0VsdGpccIWa7h8sYZmaO0G) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Kaagaz Ki Naav](https://open.spotify.com/album/6T7enWmASSVnmlkK7UurGu) | 4:57 | 2021-12-06 | 2023-03-29 |
-| [Kaari](https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Kaari](https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j) | 2:37 | 2021-12-06 |  |
+| [Kaari](https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Kaari](https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j) | 2:37 | 2021-12-06 | 2023-08-05 |
 | [Kabhi Kabhi](https://open.spotify.com/track/2D67rL8nrEWiLug7w2Q6nh) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Kabhi Kabhi](https://open.spotify.com/album/4z793Z8t0qUdwercwEUK1M) | 3:34 | 2022-08-22 | 2022-11-22 |
 | [Kahaani](https://open.spotify.com/track/0lbe1bIqb5rR1czdQP6fTK) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Kahaani](https://open.spotify.com/album/1MnbaNHLBduuqDZwU0uWTU) | 3:08 | 2022-05-23 |  |
 | [Kanaa](https://open.spotify.com/track/6J2pC3j9WF4tVJo4mEHZdn) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [2jaym](https://open.spotify.com/artist/1JydyoYCEY3j5NSeagX44i), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv) | [Kanaa](https://open.spotify.com/album/1SVZ3tkWEkyE7gY1wRkN7F) | 4:17 | 2021-12-06 | 2022-08-11 |
@@ -154,6 +154,7 @@
 | [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 | 2022-06-13 |  |
 | [Rab Raakha](https://open.spotify.com/track/6cmPjiylmkjv2wiBCx2AHz) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Rab Raakha](https://open.spotify.com/album/7waXLin5hX3LJ6bxrCHxZf) | 3:59 | 2021-12-06 | 2023-05-14 |
 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 | 2021-12-06 |  |
+| [Ratiya](https://open.spotify.com/track/1NxUTUf4rQqtnux7QA9hoc) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Ratiya](https://open.spotify.com/album/0xzWmdxI68bqPem3BL3nHQ) | 2:45 | 2023-08-04 |  |
 | [Rehnuma](https://open.spotify.com/track/4l9YKebWc0WGhcNbtJFeRe) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Rehnuma](https://open.spotify.com/album/5ZG20aDD6ZyqeFHyDzufeO) | 3:13 | 2022-02-25 | 2022-11-19 |
 | [Roz Roz](https://open.spotify.com/track/6E6BCsQHXDAdXsrL7zV71N) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Roz Roz](https://open.spotify.com/album/1XRn1HkOk0Nc3fLKcfkNu2) | 3:38 | 2021-12-06 |  |
 | [Run Closer](https://open.spotify.com/track/40rO5T5aZa0MlgzCetTRTn) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Run Closer \- Single](https://open.spotify.com/album/47Eqo6aO3LZZkkj2uk7g6f) | 3:22 | 2022-01-05 | 2022-01-28 |

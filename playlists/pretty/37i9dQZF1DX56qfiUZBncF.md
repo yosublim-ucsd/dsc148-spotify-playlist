@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,274 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,287 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,19 +74,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 64 | [Jeanie](https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:47 |
 | 65 | [I Want You](https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5) | [ACT ONE \(The Complete Collection\)](https://open.spotify.com/album/2QTg7XF8hHMHexJLCKsqdA) | 3:32 |
 | 66 | [Swing Tree](https://open.spotify.com/track/3Gec0eWZ22o0rNKKUSSzLI) | [Discovery](https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5) | [LP \(Deluxe Edition\)](https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv) | 2:38 |
-| 67 | [This World](https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [This World](https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK) | 3:52 |
-| 68 | [Frail State Of Mind](https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Frail State Of Mind](https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn) | 3:54 |
+| 67 | [Frail State Of Mind](https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Frail State Of Mind](https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn) | 3:54 |
+| 68 | [This World](https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [This World](https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK) | 3:52 |
 | 69 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 4:07 |
 | 70 | [Hunger](https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU) | [Sam Sure](https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd) | [Hunger](https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA) | 3:12 |
-| 71 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 |
-| 72 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 |
+| 71 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 |
+| 72 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 |
 | 73 | [No Time](https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [First Contact](https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf) | 3:56 |
 | 74 | [cherry blossom](https://open.spotify.com/track/2pVym24miJgEbF170Is2lO) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [are we?](https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze) | 2:21 |
 | 75 | [Naive](https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe) | [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc) | [Naive](https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI) | 3:33 |
 | 76 | [Nighttime Hunger](https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [YOUNG](https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm) | 2:48 |
 | 77 | [Four Winds](https://open.spotify.com/track/3NPiANHZYahLZhUT00GwTw) | [Opia](https://open.spotify.com/artist/70zHrrrPfBkVV44AEhFyyh) | [Four Winds](https://open.spotify.com/album/3WgtvCNabRAok46pCZJyMt) | 3:43 |
-| 78 | [6 Letters](https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [6 Letters](https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2) | 2:46 |
-| 79 | [Gold \- Flume Rework](https://open.spotify.com/track/6iIDeCpn9TQB7yns5zwkc6) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Gold \(Flume Rework\)](https://open.spotify.com/album/0c6k1Sx08mOgZ1ZmnyqG9T) | 4:27 |
+| 78 | [Gold \- Flume Rework](https://open.spotify.com/track/6iIDeCpn9TQB7yns5zwkc6) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Gold \(Flume Rework\)](https://open.spotify.com/album/0c6k1Sx08mOgZ1ZmnyqG9T) | 4:27 |
+| 79 | [6 Letters](https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [6 Letters](https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2) | 2:46 |
 | 80 | [What Kinda Music \- Jordan Rakei Remix](https://open.spotify.com/track/0FMgzGbCh8yNMibGY5L2cM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Jordan Rakei Remix\)](https://open.spotify.com/album/2xNZKNIlHUY9NKXrHzr19g) | 5:40 |
 | 81 | [Hummed Low](https://open.spotify.com/track/5ptxcmrUfNuLQezXE1Polu) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Odessa](https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH) | 3:35 |
 | 82 | [superpowerful \(with Crooked Colours\)](https://open.spotify.com/track/3KgfNzfM4LfxP2v2miNIvh) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA), [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [are we?](https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [Losing Sleep](https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Losing Sleep](https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4) | 3:42 |
 | 100 | [Trip](https://open.spotify.com/track/53s35uBUa1PpKdwY3L8zxF) | [Vacationer](https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7) | [Gone](https://open.spotify.com/album/18YfZB3sMphELTAkjMjpZk) | 2:53 |
 
-Snapshot ID: `MCw0YzJkNDc0NzQ2NmE1OTg1ZjQ1ZjRhNzk3OWI4MWEzM2UxZTc3MzNi`
+Snapshot ID: `MCwwMzJiOWRmNDY4NzYzMzU4YmJkZWFlYWUyNWJhZjdkYWYyZGIwMDE3`

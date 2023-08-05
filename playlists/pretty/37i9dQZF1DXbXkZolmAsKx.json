@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 5132,
+  "num_followers": 5149,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTgwZGJjZTkwODRmNGQyYTA2NzY0MmZmYmFmN2U5NThiOTExZjk2",
+  "snapshot_id": "MCw0NGVhYmEyMzgzZDIyODM2OWRmYWU5ZDc4MDA4ZWU2Y2RmNGY3ODAx",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
-      },
-      "artists": [
-        {
-          "name": "Warmth",
-          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
-        }
-      ],
-      "duration_ms": 426786,
-      "name": "Spherule",
-      "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "In Arboreal Whispering",
         "url": "https://open.spotify.com/album/7hHtQmDjx7srb9fyMueT4s"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 249159,
       "name": "Intransigence",
       "url": "https://open.spotify.com/track/4eMOIEdYGXThAxGb7SdNZd"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
+      },
+      "artists": [
+        {
+          "name": "Warmth",
+          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
+        }
+      ],
+      "duration_ms": 426786,
+      "name": "Spherule",
+      "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Virgins",
-        "url": "https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 157369,
-      "name": "Live Room Out",
-      "url": "https://open.spotify.com/track/16tcBvtiZHoWfjzTyL4wOx"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Balsams",
         "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 310826,
       "name": "Calamus",
       "url": "https://open.spotify.com/track/204GTh8baiHsw4dM97xkmJ"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Virgins",
+        "url": "https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 157369,
+      "name": "Live Room Out",
+      "url": "https://open.spotify.com/track/16tcBvtiZHoWfjzTyL4wOx"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Balsams",
+        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
+      },
+      "artists": [
+        {
+          "name": "Chuck Johnson",
+          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
+        }
+      ],
+      "duration_ms": 435722,
+      "name": "Eye on the Sparrow",
+      "url": "https://open.spotify.com/track/6mqIbknCYcNRiVPoef1Wi5"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Parallel",
         "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Balsams",
-        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
-      },
-      "artists": [
-        {
-          "name": "Chuck Johnson",
-          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
-        }
-      ],
-      "duration_ms": 435722,
-      "name": "Eye on the Sparrow",
-      "url": "https://open.spotify.com/track/6mqIbknCYcNRiVPoef1Wi5"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Atomos",
         "url": "https://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z"
       },
@@ -911,26 +911,6 @@
       "duration_ms": 469213,
       "name": "Atomos VII",
       "url": "https://open.spotify.com/track/2Ax0k7jE4DmGO1q1WJxhAO"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "S\u00f3laris",
-        "url": "https://open.spotify.com/album/1ZdCibjLTQFL9SULO8Lfk9"
-      },
-      "artists": [
-        {
-          "name": "Ben Frost",
-          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
-        },
-        {
-          "name": "Dan\u00edel Bjarnason",
-          "url": "https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon"
-        }
-      ],
-      "duration_ms": 158992,
-      "name": "You Mean More to Me Than Any Scientific Truth",
-      "url": "https://open.spotify.com/track/0qZk8jOCXnHqeAN5sE1XDM"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -963,6 +943,26 @@
       "duration_ms": 192559,
       "name": "Before Meaning Comes",
       "url": "https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "S\u00f3laris",
+        "url": "https://open.spotify.com/album/1ZdCibjLTQFL9SULO8Lfk9"
+      },
+      "artists": [
+        {
+          "name": "Ben Frost",
+          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
+        },
+        {
+          "name": "Dan\u00edel Bjarnason",
+          "url": "https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon"
+        }
+      ],
+      "duration_ms": 158992,
+      "name": "You Mean More to Me Than Any Scientific Truth",
+      "url": "https://open.spotify.com/track/0qZk8jOCXnHqeAN5sE1XDM"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Fire Light",
-        "url": "https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3"
-      },
-      "artists": [
-        {
-          "name": "Darshan Ambient",
-          "url": "https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "So Close",
-      "url": "https://open.spotify.com/track/3kZKCUgtVv8NuzgobobYk9"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Infra",
         "url": "https://open.spotify.com/album/7zwjum4hz8odYpeZrSZyz2"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 244786,
       "name": "Infra 1",
       "url": "https://open.spotify.com/track/3c7ZpMEp2doDCVm1Rw7Vf3"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Fire Light",
+        "url": "https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3"
+      },
+      "artists": [
+        {
+          "name": "Darshan Ambient",
+          "url": "https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "So Close",
+      "url": "https://open.spotify.com/track/3kZKCUgtVv8NuzgobobYk9"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Moiety",
+        "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "duration_ms": 239351,
+      "name": "Equal Ourselves",
+      "url": "https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Distant and Spirals",
         "url": "https://open.spotify.com/album/6SpGVAZE5ANPlGF4Nqme5R"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 205186,
       "name": "Second Lens",
       "url": "https://open.spotify.com/track/6jbq7JCBAnTyYQqFzeneXC"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Moiety",
-        "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
-      },
-      "artists": [
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        }
-      ],
-      "duration_ms": 239351,
-      "name": "Equal Ourselves",
-      "url": "https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Make Me Know You Sweet",
+        "url": "https://open.spotify.com/album/4cq8lOA5PvprvOw8xpLEFI"
+      },
+      "artists": [
+        {
+          "name": "Pendant",
+          "url": "https://open.spotify.com/artist/3Dwfw1WTW4TyJJim9hblas"
+        }
+      ],
+      "duration_ms": 445241,
+      "name": "AAE-KZT",
+      "url": "https://open.spotify.com/track/6kHS5vk5QLUlxy2qbCMlop"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "The Last of Our Time Together",
         "url": "https://open.spotify.com/album/3AyLgph2cuxoHXY2WndeQc"
       },
@@ -1483,26 +1499,6 @@
       "duration_ms": 962000,
       "name": "The Last of Our Time Together",
       "url": "https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Glider 10: Reworks",
-        "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        },
-        {
-          "name": "Leandro Fresco",
-          "url": "https://open.spotify.com/artist/0gJgTQEVl62dN80lQbOBK5"
-        }
-      ],
-      "duration_ms": 464874,
-      "name": "Without Motion - Leandro Fresco Remix",
-      "url": "https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1523,18 +1519,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Make Me Know You Sweet",
-        "url": "https://open.spotify.com/album/4cq8lOA5PvprvOw8xpLEFI"
+        "name": "Glider 10: Reworks",
+        "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
       },
       "artists": [
         {
-          "name": "Pendant",
-          "url": "https://open.spotify.com/artist/3Dwfw1WTW4TyJJim9hblas"
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        },
+        {
+          "name": "Leandro Fresco",
+          "url": "https://open.spotify.com/artist/0gJgTQEVl62dN80lQbOBK5"
         }
       ],
-      "duration_ms": 445241,
-      "name": "AAE-KZT",
-      "url": "https://open.spotify.com/track/6kHS5vk5QLUlxy2qbCMlop"
+      "duration_ms": 464874,
+      "name": "Without Motion - Leandro Fresco Remix",
+      "url": "https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "American Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
+      },
+      "artists": [
+        {
+          "name": "Adam Bryanbaum Wiltzie",
+          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
+        }
+      ],
+      "duration_ms": 106643,
+      "name": "Search Party",
+      "url": "https://open.spotify.com/track/1DrPfngDvjmj1JPh9BtfGP"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "It All Falls Apart",
         "url": "https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 209560,
       "name": "Nightmare 5",
       "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "American Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
-      },
-      "artists": [
-        {
-          "name": "Adam Bryanbaum Wiltzie",
-          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
-        }
-      ],
-      "duration_ms": 106643,
-      "name": "Search Party",
-      "url": "https://open.spotify.com/track/1DrPfngDvjmj1JPh9BtfGP"
     },
     {
       "added_at": "2023-06-07 15:21:34",

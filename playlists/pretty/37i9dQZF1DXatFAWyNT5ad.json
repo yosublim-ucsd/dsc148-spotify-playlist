@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: Imagine Dragons",
-  "num_followers": 106909,
+  "num_followers": 106980,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGVmN2Q0ODU0NDJhMTM0M2FiMjMxZWQyYWFlZmZjYmFhYzk3Y2Yw",
+  "snapshot_id": "MCwwZGIxNjQ5ZWIzMTIyNGVkOWIxNjhiNzcwYzk1ZTVjZGQ5NDc1Y2Uz",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "sTraNgeRs",
-        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 195747,
-      "name": "sTraNgeRs",
-      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Back To Me / Alive",
         "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 224968,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "sTraNgeRs",
+        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 195747,
+      "name": "sTraNgeRs",
+      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "u turn me on (but u give me depression)",
+        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 147535,
+      "name": "u turn me on (but u give me depression)",
+      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "sail away",
         "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
       },
@@ -863,18 +879,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "u turn me on (but u give me depression)",
-        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
+        "name": "Year 3000 2.0",
+        "url": "https://open.spotify.com/album/5Ofq6KPqN8XUK5gaOSB5WC"
       },
       "artists": [
         {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+          "name": "Busted",
+          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 147535,
-      "name": "u turn me on (but u give me depression)",
-      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
+      "duration_ms": 197387,
+      "name": "Year 3000 2.0",
+      "url": "https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -907,26 +927,6 @@
       "duration_ms": 217136,
       "name": "Morning Blue",
       "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Year 3000 2.0",
-        "url": "https://open.spotify.com/album/5Ofq6KPqN8XUK5gaOSB5WC"
-      },
-      "artists": [
-        {
-          "name": "Busted",
-          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 197387,
-      "name": "Year 3000 2.0",
-      "url": "https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 213024,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "29",
         "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 163027,
       "name": "29",
       "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 213024,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
       },
       "artists": [
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
         }
       ],
-      "duration_ms": 184281,
-      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
       },
       "artists": [
         {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+      "duration_ms": 184281,
+      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "cough drops",
-        "url": "https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 163990,
-      "name": "cough drops",
-      "url": "https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 196000,
       "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "cough drops",
+        "url": "https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 163990,
+      "name": "cough drops",
+      "url": "https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 134582,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Memories (with WILLOW)",
         "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 155919,
       "name": "Memories (with WILLOW)",
       "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 134582,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "BLOOD AND SUGAR",
-        "url": "https://open.spotify.com/album/030TjWifiM82d85tllj2QY"
-      },
-      "artists": [
-        {
-          "name": "BOYS LIKE GIRLS",
-          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "BLOOD AND SUGAR",
-      "url": "https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "i\u2019m too pretty for this",
         "url": "https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 166037,
       "name": "i'm too pretty for this",
       "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "BLOOD AND SUGAR",
+        "url": "https://open.spotify.com/album/030TjWifiM82d85tllj2QY"
+      },
+      "artists": [
+        {
+          "name": "BOYS LIKE GIRLS",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "BLOOD AND SUGAR",
+      "url": "https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "UPSAHL PRESENTS: THE PHX TAPES V1",
-        "url": "https://open.spotify.com/album/7hF7nGQXoQhkWjz7y1uTPk"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 139844,
-      "name": "GOOD GIRL ERA (SIDE A)",
-      "url": "https://open.spotify.com/track/5whdFux566Ve7KTpR0Hk73"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "One of the Guys",
         "url": "https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 118759,
       "name": "One of the Guys",
       "url": "https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "UPSAHL PRESENTS: THE PHX TAPES V1",
+        "url": "https://open.spotify.com/album/7hF7nGQXoQhkWjz7y1uTPk"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 139844,
+      "name": "GOOD GIRL ERA (SIDE A)",
+      "url": "https://open.spotify.com/track/5whdFux566Ve7KTpR0Hk73"
     },
     {
       "added_at": "2023-07-28 04:00:00",

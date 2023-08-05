@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=LJke8bmwSjeu4whf3N\_9HA">Khaligraph Jones</a>
 
-137 songs - 7 hr 0 min
+138 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Can't Stop, Won't Stop](https://open.spotify.com/track/4XHwTlzlBacs3hHVMvlPGH) | [Clue Ashaivisha Track](https://open.spotify.com/artist/7uSiyol0SgxNKHJFzXFI2P), [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg) | [Can't Stop, Won't Stop](https://open.spotify.com/album/4eDBCnVb4QPOjy0JtQTwSR) | 1:40 | 2023-04-06 |  |
 | [CATALYST](https://open.spotify.com/track/3gaYFa4e3JswfToeYHtAKX) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:44 | 2022-05-19 | 2023-02-04 |
 | [Catalyst](https://open.spotify.com/track/0eYtxjlZfYQEsqCWzzptuO) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 2:47 | 2022-05-19 | 2022-12-09 |
-| [CHECKLIST](https://open.spotify.com/track/4vSPH1x7oYohAUEoYehl2b) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E) | [CHECKLIST](https://open.spotify.com/album/1AtdGKcZ4hjcWTBDGDRpD2) | 3:25 | 2022-08-04 |  |
+| [CHECKLIST](https://open.spotify.com/track/4vSPH1x7oYohAUEoYehl2b) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E) | [CHECKLIST](https://open.spotify.com/album/1AtdGKcZ4hjcWTBDGDRpD2) | 3:25 | 2022-08-04 | 2023-08-05 |
 | [Chief Gwetheist \(Sewersydaa\)](https://open.spotify.com/track/2GucYaVrScyiDXQpie0pIY) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Chief Gwetheist \(Sewersydaa\)](https://open.spotify.com/album/5GD594cT72b9UnuBl0vEIC) | 2:50 | 2023-04-13 |  |
 | [Clear The Frequency](https://open.spotify.com/track/6osRDw4VDDEiNP7xidJHQi) | [P\-Tah](https://open.spotify.com/artist/7yk0XpTOwg0Dhxequ5EtlM) | [Clear The Frequency](https://open.spotify.com/album/2VFQnjljSxSBlK4NLZ33mE) | 4:44 | 2022-10-21 | 2023-03-18 |
 | [Coastin](https://open.spotify.com/track/3Q6sRzzw2IIUDhEAag9Ah4) | [R.I.Z.E](https://open.spotify.com/artist/4eW4BZAP0bK32vgLIe1IqO) | [Coastin](https://open.spotify.com/album/037ahJTrsQ4PuEvFUHljwQ) | 2:29 | 2022-05-27 | 2022-11-11 |
@@ -95,6 +95,7 @@
 | [PREE](https://open.spotify.com/track/0voJpkHOyEcHiTmCS6rFEB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [PREE](https://open.spotify.com/album/6dNMrRjXb7bSU6uI2jRVX0) | 3:17 | 2022-04-14 | 2022-10-30 |
 | [Pretty Overload](https://open.spotify.com/track/6a2WQeQHhW1xUiIjskV672) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [Pretty Overload](https://open.spotify.com/album/2b03wQZzmqqtIcguqZfgqR) | 2:37 | 2022-08-18 |  |
 | [Queens Speech](https://open.spotify.com/track/39KWRJHeOCPrxjZtat72zD) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH), [Shanty Bobo](https://open.spotify.com/artist/5DHVUoC4CvknkFAOkyJ88N) | [Dem Kutoka Mwiki](https://open.spotify.com/album/1JD29V2kKZBTOebnyqXgOc) | 3:26 | 2023-04-27 |  |
+| [Quill2thmfwrld](https://open.spotify.com/track/7snV7SDZmfCjS9Sm099RRG) | [Jakk Quill](https://open.spotify.com/artist/6QqOXzlH2dcYNAHeGgZcLm) | [SEARCHING FOR UTOPIA](https://open.spotify.com/album/7IbrgLFXo4lzo7UvK4xqZe) | 5:19 | 2023-08-04 |  |
 | [ROLL THE DICE \(Prod\. Gesaffelstein\)](https://open.spotify.com/track/7CAg4N1S926AymvuLjnJcy) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [ROLL THE DICE \(Prod\. Gesaffelstein\)](https://open.spotify.com/album/6P4c5OMZZQZVJLQJrYgjbd) | 2:44 | 2023-05-11 |  |
 | [Romantic Rivals](https://open.spotify.com/track/3icpxCljEDRZ0OgMs5wXIY) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7), [Domani Mkadinali](https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2), [Sewersydaa](https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm) | [Romantic Rivals](https://open.spotify.com/album/32EU7qQmOukGB0S3x7C7cE) | 4:15 | 2022-04-28 |  |
 | [RUN IT BACK](https://open.spotify.com/track/3Va9pM09AQ2Gyatgu4vQ0O) | [AINE](https://open.spotify.com/artist/6wjvPNWZyYAX8Q98XzVrQM), [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [PEPA](https://open.spotify.com/artist/4HqvlMEqy26JdJ99TagjWh) | [RUN IT BACK](https://open.spotify.com/album/6alK8J7KlYDgQB0bswLBdE) | 2:34 | 2022-07-14 | 2023-03-10 |

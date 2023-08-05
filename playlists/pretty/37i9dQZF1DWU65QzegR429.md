@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Polimá Westcoast
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,182 likes - 59 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,195 likes - 59 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 4 | [Delincuente](https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Delincuente](https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta) | 3:46 |
 | 5 | [Hecha Pa' Mi](https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:06 |
 | 6 | [Una Vaina Loca](https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Una Vaina Loca](https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP) | 3:08 |
-| 7 | [T'as peur](https://open.spotify.com/track/0KERPiv5izyNsVcXYNEugE) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [T'as peur](https://open.spotify.com/album/5iq2ffpT0zwW0CLI646Z8d) | 3:35 |
-| 8 | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr) | 3:12 |
+| 7 | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr) | 3:12 |
+| 8 | [T'as peur](https://open.spotify.com/track/0KERPiv5izyNsVcXYNEugE) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [T'as peur](https://open.spotify.com/album/5iq2ffpT0zwW0CLI646Z8d) | 3:35 |
 | 9 | [Feliz](https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Feliz](https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8) | 2:57 |
 | 10 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 |
 | 11 | [Dream Girl](https://open.spotify.com/track/2Sla5cgNpVoRcckYjaAMKP) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Dream Girl](https://open.spotify.com/album/5T1CaRLFtOsukpEPjZ5t0p) | 2:42 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 29 | [Acurrucao](https://open.spotify.com/track/7aOWxZ4KoVg4cKF8x2iiGI) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Sofia LaSanta](https://open.spotify.com/artist/7FKAgyZsXEwIWvCC9uwRl0) | [Acurrucao](https://open.spotify.com/album/0H4BRh7Cl8ErMlks9Wj80s) | 3:06 |
 | 30 | [Booty Puty](https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Booty Puty](https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt) | 2:56 |
 | 31 | [Dembow Dominicano](https://open.spotify.com/track/6IiPbCJXLJbigeFoWuftWa) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Dembow Dominicano](https://open.spotify.com/album/1Q6G7NqJ3cN2rTtnNO25za) | 2:36 |
-| 32 | [Luces](https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Luces](https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW) | 3:45 |
-| 33 | [For Real \(feat\. Kemba\)](https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg) | [Jharrel Jerome](https://open.spotify.com/artist/08ir3R5W3Str9JizW5eht4), [Kemba](https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM) | [For Real \(feat\. Kemba\)](https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8) | 3:05 |
+| 32 | [For Real \(feat\. Kemba\)](https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg) | [Jharrel Jerome](https://open.spotify.com/artist/08ir3R5W3Str9JizW5eht4), [Kemba](https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM) | [For Real \(feat\. Kemba\)](https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8) | 3:05 |
+| 33 | [Luces](https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Luces](https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW) | 3:45 |
 | 34 | [Tempo](https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Tempo](https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB) | 2:25 |
 | 35 | [Claramente](https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Claramente](https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH) | 3:02 |
 | 36 | [Sola](https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Ghetto Kumbé](https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe) | 4:15 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 58 | [Probando Freestyle](https://open.spotify.com/track/6uy9W7BAXUR09pMnnix338) | [Gailen La Moyeta](https://open.spotify.com/artist/0a7DjyuupA55K2NqWItRir) | [Probando Freestyle](https://open.spotify.com/album/5Jb7CmfSS5MdsGZ5ZQtOFC) | 1:05 |
 | 59 | [Deja Que Te Lleve](https://open.spotify.com/track/1cOCvJSFjmdvh4ByUGZf2V) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Deja Que Te Lleve](https://open.spotify.com/album/36mgrUsQbHrpFcR7gA914n) | 3:23 |
 
-Snapshot ID: `MCwyZmFhMWQ1YWQyOTYwOTM1NDhlZTc2Y2Q1NjY3MmNlMjRmMDQ1YTc0`
+Snapshot ID: `MCxiYzIyZDBhZTk3MWIzNWZkZjdhNjRhYmM2ZjMyMjA4N2Q3MGI3ZTk5`

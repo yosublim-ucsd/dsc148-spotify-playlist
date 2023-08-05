@@ -1,29 +1,13 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 143545,
+  "num_followers": 143708,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDk4MzI3NDk5NDFlZmJiMWE4NTg3MGViODc4MWEyNjc5MTU3MGNh",
+  "snapshot_id": "MCwwMWY5NWJiMjk4Y2E5MmIyZGU2ZTIzYjQ2NWZiZDU4YjFhYzE1MTg5",
   "tracks": [
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Me Dice Que Me Ama",
-      "url": "https://open.spotify.com/track/5Q175erZOZJZHKaZzJFYDN"
-    },
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
@@ -43,6 +27,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Me Dice Que Me Ama",
+      "url": "https://open.spotify.com/track/5Q175erZOZJZHKaZzJFYDN"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
         "name": "Creo en Ti",
         "url": "https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S"
       },
@@ -55,22 +55,6 @@
       "duration_ms": 423173,
       "name": "Creo En Ti",
       "url": "https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Glorioso Rey",
-        "url": "https://open.spotify.com/album/0gGh9W1G0gVNvn6oINKeB2"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "Perfume a Tus Pies",
-      "url": "https://open.spotify.com/track/5cS1TaKqN5z5brcTnG2Ory"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -99,6 +83,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
+        "name": "Glorioso Rey",
+        "url": "https://open.spotify.com/album/0gGh9W1G0gVNvn6oINKeB2"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "Perfume a Tus Pies",
+      "url": "https://open.spotify.com/track/5cS1TaKqN5z5brcTnG2Ory"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
         "name": "Mi Casa Y Yo",
         "url": "https://open.spotify.com/album/0i512i22eafJqbKfbC8x0k"
       },
@@ -111,6 +111,22 @@
       "duration_ms": 223735,
       "name": "Mi Casa Y Yo",
       "url": "https://open.spotify.com/track/43n69z6ySqLtXjkmeWeBEe"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Soplando Vida",
+        "url": "https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Te Dejo Ganar",
+      "url": "https://open.spotify.com/track/4wrq8qLtW8fhIq6agng9Mv"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -143,18 +159,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "El Cielo Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3lsNrx40kpa8vxMGK6jAik"
+        "name": "Somos Iglesia",
+        "url": "https://open.spotify.com/album/4PLfF0JPfYpAXK2vzjHK4F"
       },
       "artists": [
         {
-          "name": "Art Aguilera",
-          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
         }
       ],
-      "duration_ms": 266173,
-      "name": "Hay Libertad",
-      "url": "https://open.spotify.com/track/4nxxZtSpkS3tEmuYxNMPmr"
+      "duration_ms": 288800,
+      "name": "Jesucristo basta",
+      "url": "https://open.spotify.com/track/6XgnLNskskRPjdfa3CyKGA"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -183,6 +203,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
+        "name": "El Cielo Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3lsNrx40kpa8vxMGK6jAik"
+      },
+      "artists": [
+        {
+          "name": "Art Aguilera",
+          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "Hay Libertad",
+      "url": "https://open.spotify.com/track/4nxxZtSpkS3tEmuYxNMPmr"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
         "name": "Vida Encontr\u00e9",
         "url": "https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e"
       },
@@ -195,42 +231,6 @@
       "duration_ms": 260000,
       "name": "Ll\u00e9vame A La Cruz",
       "url": "https://open.spotify.com/track/73NLZ4uZrEls4JqIEXdbBZ"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Soplando Vida",
-        "url": "https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 201946,
-      "name": "Te Dejo Ganar",
-      "url": "https://open.spotify.com/track/4wrq8qLtW8fhIq6agng9Mv"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Somos Iglesia",
-        "url": "https://open.spotify.com/album/4PLfF0JPfYpAXK2vzjHK4F"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
-        }
-      ],
-      "duration_ms": 288800,
-      "name": "Jesucristo basta",
-      "url": "https://open.spotify.com/track/6XgnLNskskRPjdfa3CyKGA"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Gloria al Rey",
-        "url": "https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz"
-      },
-      "artists": [
-        {
-          "name": "Jaci Velasquez",
-          "url": "https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko"
-        }
-      ],
-      "duration_ms": 264626,
-      "name": "Gloria al Rey",
-      "url": "https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "En Esto Creo (Live)",
         "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 439480,
       "name": "No Hay Otro Nombre - Live",
       "url": "https://open.spotify.com/track/5EcTHBNB5GUHh66dExVIGC"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Gloria al Rey",
+        "url": "https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz"
+      },
+      "artists": [
+        {
+          "name": "Jaci Velasquez",
+          "url": "https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko"
+        }
+      ],
+      "duration_ms": 264626,
+      "name": "Gloria al Rey",
+      "url": "https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Tu Amor",
-        "url": "https://open.spotify.com/album/7up0mQ3oTyRGHGwa9YXVES"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n Gracia M\u00fasica",
-          "url": "https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich"
-        },
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 468529,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/4A323YPkioQfDqhKmPhtaI"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Esto Es Jesus Culture",
         "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 264906,
       "name": "Glorioso Eres T\u00fa",
       "url": "https://open.spotify.com/track/25A92qcO6w5ERUwKqt4UwC"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Tu Amor",
+        "url": "https://open.spotify.com/album/7up0mQ3oTyRGHGwa9YXVES"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n Gracia M\u00fasica",
+          "url": "https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "duration_ms": 468529,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/4A323YPkioQfDqhKmPhtaI"
     },
     {
       "added_at": "2023-04-09 08:31:46",

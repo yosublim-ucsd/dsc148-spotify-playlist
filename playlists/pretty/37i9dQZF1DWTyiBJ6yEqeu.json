@@ -1,12 +1,12 @@
 {
   "description": "Press play, press start.",
-  "num_followers": 5215581,
+  "num_followers": 5216504,
   "original_name": "Top Gaming Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTMzNjc5ZTIzMmI1YzRjYjZlM2Y1MzY3YTBjODAxMTA2MWE5ZWZm",
+  "snapshot_id": "MCxhZTE0MzJiMWIwMjcxOWE0MjU2MjZlNTU1OWFkMzM5NjcyNjU4YzNk",
   "tracks": [
     {
       "added_at": "2023-08-03 15:36:18",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-08-03 15:36:18",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
-    },
-    {
-      "added_at": "2023-08-03 15:36:18",
-      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 246133,
       "name": "MELTDOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
+    },
+    {
+      "added_at": "2023-08-03 15:36:18",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "added_at": "2023-08-03 15:36:18",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-08-03 15:36:18",
       "album": {
-        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
-    },
-    {
-      "added_at": "2023-08-03 15:36:18",
-      "album": {
         "name": "GOOD LOYAL THOTS",
         "url": "https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 102556,
       "name": "GOOD LOYAL THOTS",
       "url": "https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr"
+    },
+    {
+      "added_at": "2023-08-03 15:36:18",
+      "album": {
+        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
     },
     {
       "added_at": "2023-08-03 15:36:18",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-08-03 15:36:18",
       "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2023-08-03 15:36:18",
-      "album": {
         "name": "Belly Dancer",
         "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+    },
+    {
+      "added_at": "2023-08-03 15:36:18",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
       "added_at": "2023-08-03 15:36:18",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-08-03 15:36:18",
       "album": {
-        "name": "Lyf\u00eb",
-        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 150241,
-      "name": "Out th\u00eb way",
-      "url": "https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6"
-    },
-    {
-      "added_at": "2023-08-03 15:36:18",
-      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "added_at": "2023-08-03 15:36:18",
+      "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 150241,
+      "name": "Out th\u00eb way",
+      "url": "https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6"
     },
     {
       "added_at": "2023-08-03 15:36:18",
@@ -1361,6 +1361,26 @@
       "url": "https://open.spotify.com/track/2kx5sQgmjYug0GiDh1a4sU"
     },
     {
+      "added_at": "2023-08-04 15:58:27",
+      "album": {
+        "name": "GMFU (w/ 6arelyhuman)",
+        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 127741,
+      "name": "GMFU (w/ 6arelyhuman)",
+      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
+    },
+    {
       "added_at": "2023-08-03 15:36:18",
       "album": {
         "name": "Tek It (I Watch the Moon)",
@@ -1687,38 +1707,6 @@
     {
       "added_at": "2023-08-03 15:36:18",
       "album": {
-        "name": "COWBELL WARRIOR!",
-        "url": "https://open.spotify.com/album/5XyrJDyXLimURWjVboM1tC"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "COWBELL WARRIOR!",
-      "url": "https://open.spotify.com/track/4eDE92gbf1iKImxBIKS64V"
-    },
-    {
-      "added_at": "2023-08-03 15:36:18",
-      "album": {
-        "name": "I'm Geekin",
-        "url": "https://open.spotify.com/album/4tgQ15beC7oqscFBlSJWfo"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        }
-      ],
-      "duration_ms": 101946,
-      "name": "I'm Geekin",
-      "url": "https://open.spotify.com/track/4jQF77FelHaw2u1CB0sIfp"
-    },
-    {
-      "added_at": "2023-08-03 15:36:18",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp"
       },
@@ -1731,6 +1719,22 @@
       "duration_ms": 141505,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a"
+    },
+    {
+      "added_at": "2023-08-03 15:36:18",
+      "album": {
+        "name": "COWBELL WARRIOR!",
+        "url": "https://open.spotify.com/album/5XyrJDyXLimURWjVboM1tC"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "COWBELL WARRIOR!",
+      "url": "https://open.spotify.com/track/4eDE92gbf1iKImxBIKS64V"
     },
     {
       "added_at": "2023-08-03 15:36:18",
@@ -1751,6 +1755,22 @@
       "duration_ms": 148816,
       "name": "Die Young (feat. 347aidan)",
       "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
+    },
+    {
+      "added_at": "2023-08-03 15:36:18",
+      "album": {
+        "name": "I'm Geekin",
+        "url": "https://open.spotify.com/album/4tgQ15beC7oqscFBlSJWfo"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "duration_ms": 101946,
+      "name": "I'm Geekin",
+      "url": "https://open.spotify.com/track/4jQF77FelHaw2u1CB0sIfp"
     },
     {
       "added_at": "2023-08-03 15:36:18",
@@ -1859,30 +1879,6 @@
       "duration_ms": 139574,
       "name": "Je M'appelle",
       "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
-    },
-    {
-      "added_at": "2023-08-03 15:36:18",
-      "album": {
-        "name": "Quality Control: Control The Streets Volume 2",
-        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
-      },
-      "artists": [
-        {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 142417,
-      "name": "Baby (Lil Baby feat. DaBaby)",
-      "url": "https://open.spotify.com/track/5MPPttjfGap2C6j6eKcO6J"
     }
   ],
   "unique_name": "Top Gaming Tracks",

@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 40108,
+  "num_followers": 40345,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2I5ZjBmNDJjNzgwMmVlYjI0NDQxMDA4NjZlYWY3YmM0NGM5ZDA5",
+  "snapshot_id": "MCxhMzRmYjVkOTM3MzBmNGY1YTExNWQ4MDEyOGQwZmIxZGM4YzNhZThl",
   "tracks": [
     {
       "added_at": "2023-08-04 00:01:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-08-04 00:01:00",
       "album": {
+        "name": "Trust In God (Radio Version)",
+        "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 243715,
+      "name": "Trust In God - Radio Version",
+      "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
+    },
+    {
+      "added_at": "2023-08-04 00:01:00",
+      "album": {
         "name": "My Daddy, My Daddy (Live at AiiiH - As It Is In Heaven)",
         "url": "https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 812625,
       "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
       "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
-    },
-    {
-      "added_at": "2023-08-04 00:01:00",
-      "album": {
-        "name": "Trust In God (Radio Version)",
-        "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 243715,
-      "name": "Trust In God - Radio Version",
-      "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
     },
     {
       "added_at": "2023-08-04 00:01:00",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2023-08-04 00:01:00",
       "album": {
+        "name": "Another Miracle",
+        "url": "https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        },
+        {
+          "name": "Dena Mwana",
+          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
+        }
+      ],
+      "duration_ms": 212869,
+      "name": "Another Miracle",
+      "url": "https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG"
+    },
+    {
+      "added_at": "2023-08-04 00:01:00",
+      "album": {
         "name": "Winning",
         "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 405840,
       "name": "You Are Worthy",
       "url": "https://open.spotify.com/track/3agNg2Dsn2LpHO9i0M112R"
-    },
-    {
-      "added_at": "2023-08-04 00:01:00",
-      "album": {
-        "name": "Another Miracle",
-        "url": "https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU"
-      },
-      "artists": [
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        },
-        {
-          "name": "Dena Mwana",
-          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
-        }
-      ],
-      "duration_ms": 212869,
-      "name": "Another Miracle",
-      "url": "https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG"
     },
     {
       "added_at": "2023-08-04 00:01:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-08-04 00:01:00",
       "album": {
-        "name": "Blessing Now",
-        "url": "https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM"
-      },
-      "artists": [
-        {
-          "name": "Mike Abdul",
-          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
-        }
-      ],
-      "duration_ms": 208588,
-      "name": "Blessing Now",
-      "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
-    },
-    {
-      "added_at": "2023-08-04 00:01:00",
-      "album": {
         "name": "ALONE WITH GOD (Spontaneous Worship)",
         "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2023-08-04 00:01:00",
       "album": {
-        "name": "Onwanwani",
-        "url": "https://open.spotify.com/album/7mdVICvVDQTjBo5jsyVAY3"
+        "name": "Blessing Now",
+        "url": "https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
         }
       ],
-      "duration_ms": 357236,
-      "name": "Onwanwani",
-      "url": "https://open.spotify.com/track/4zMwX6dhKL54LaRTp7quwO"
+      "duration_ms": 208588,
+      "name": "Blessing Now",
+      "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
     },
     {
       "added_at": "2023-08-04 00:01:00",
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2023-08-04 00:01:00",
       "album": {
+        "name": "Onwanwani",
+        "url": "https://open.spotify.com/album/7mdVICvVDQTjBo5jsyVAY3"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 357236,
+      "name": "Onwanwani",
+      "url": "https://open.spotify.com/track/4zMwX6dhKL54LaRTp7quwO"
+    },
+    {
+      "added_at": "2023-08-04 00:01:00",
+      "album": {
         "name": "More Than Music (Transcendent Worship)",
         "url": "https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg"
       },
@@ -1327,18 +1327,22 @@
     {
       "added_at": "2023-08-04 00:01:00",
       "album": {
-        "name": "Yahweh Be Praised",
-        "url": "https://open.spotify.com/album/1elhLJH10sQPxWc1MlYMOO"
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/24mcEzYexHZ7frccXqijWK"
       },
       "artists": [
         {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+          "name": "Gabriel Eziashi",
+          "url": "https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx"
+        },
+        {
+          "name": "Henrisoul",
+          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
         }
       ],
-      "duration_ms": 327554,
-      "name": "Yahweh Be Praised",
-      "url": "https://open.spotify.com/track/058gANWDIXnZh7u37Sn0Oa"
+      "duration_ms": 552000,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/3l5EhgXbihlSPU3ffHikIf"
     },
     {
       "added_at": "2023-08-04 00:01:00",
@@ -1363,22 +1367,34 @@
     {
       "added_at": "2023-08-04 00:01:00",
       "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/24mcEzYexHZ7frccXqijWK"
+        "name": "Yahweh Be Praised",
+        "url": "https://open.spotify.com/album/1elhLJH10sQPxWc1MlYMOO"
       },
       "artists": [
         {
-          "name": "Gabriel Eziashi",
-          "url": "https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx"
-        },
-        {
-          "name": "Henrisoul",
-          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
         }
       ],
-      "duration_ms": 552000,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/3l5EhgXbihlSPU3ffHikIf"
+      "duration_ms": 327554,
+      "name": "Yahweh Be Praised",
+      "url": "https://open.spotify.com/track/058gANWDIXnZh7u37Sn0Oa"
+    },
+    {
+      "added_at": "2023-08-04 00:01:00",
+      "album": {
+        "name": "As we pray (Prayer charge)",
+        "url": "https://open.spotify.com/album/2AkXQqXDLSrntsnWaLlhgM"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        }
+      ],
+      "duration_ms": 345443,
+      "name": "As we pray - Prayer charge",
+      "url": "https://open.spotify.com/track/4svNtsUGDRGLRCfQq8LSMg"
     },
     {
       "added_at": "2023-08-04 00:01:00",
@@ -1407,34 +1423,18 @@
     {
       "added_at": "2023-08-04 00:01:00",
       "album": {
-        "name": "As we pray (Prayer charge)",
-        "url": "https://open.spotify.com/album/2AkXQqXDLSrntsnWaLlhgM"
+        "name": "Fathered by the best",
+        "url": "https://open.spotify.com/album/0SGehcWaVRh6KWwDEWlAOY"
       },
       "artists": [
         {
-          "name": "Pastor Courage",
-          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+          "name": "Yadah",
+          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
         }
       ],
-      "duration_ms": 345443,
-      "name": "As we pray - Prayer charge",
-      "url": "https://open.spotify.com/track/4svNtsUGDRGLRCfQq8LSMg"
-    },
-    {
-      "added_at": "2023-08-04 00:01:00",
-      "album": {
-        "name": "IBUKA",
-        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 302608,
-      "name": "IBUKA",
-      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
+      "duration_ms": 435541,
+      "name": "Kelerem chimo",
+      "url": "https://open.spotify.com/track/7IYBkPcrPnzLEg4TfAab51"
     },
     {
       "added_at": "2023-08-04 00:01:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-08-04 00:01:00",
       "album": {
+        "name": "IBUKA",
+        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 302608,
+      "name": "IBUKA",
+      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
+    },
+    {
+      "added_at": "2023-08-04 00:01:00",
+      "album": {
         "name": "Evidence",
         "url": "https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 355250,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB"
-    },
-    {
-      "added_at": "2023-08-04 00:01:00",
-      "album": {
-        "name": "Fathered by the best",
-        "url": "https://open.spotify.com/album/0SGehcWaVRh6KWwDEWlAOY"
-      },
-      "artists": [
-        {
-          "name": "Yadah",
-          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
-        }
-      ],
-      "duration_ms": 435541,
-      "name": "Kelerem chimo",
-      "url": "https://open.spotify.com/track/7IYBkPcrPnzLEg4TfAab51"
     },
     {
       "added_at": "2023-08-04 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,461 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,569 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,18 +73,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 63 | [Another Day](https://open.spotify.com/track/2OKIfa8QDPUb5fZOfXdU9p) | [Harget Kart](https://open.spotify.com/artist/5zfHhvhZk4urnU1SHWkxBm) | [Another Day](https://open.spotify.com/album/785ArxpCDxcCaV7a8jFhUM) | 3:52 |
 | 64 | [Erjaa Shoufak](https://open.spotify.com/track/1b7XaGjQ8dGQMP4sVuOgHO) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt) | 3:47 |
 | 65 | [Mwashah](https://open.spotify.com/track/5qmccL1z7kKuKj3S4L9NNr) | [Hamza El Din](https://open.spotify.com/artist/5Aq8aAMrRJlJj8DMI8xOJZ) | [Eclipse](https://open.spotify.com/album/6Ka5WwtprznAbsBEbmmBSs) | 3:44 |
-| 66 | [Bahebek Lelsama](https://open.spotify.com/track/6J4xPcKd2BdyCYdCIspKTg) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Bahebek Lelsama](https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn) | 3:20 |
-| 67 | [Talfantelak](https://open.spotify.com/track/2BCWZhkwEhTI7SYNzwdCdu) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Talfantelak](https://open.spotify.com/album/6fEh7EpH7NUQtC8dg2Yldv) | 3:52 |
+| 66 | [Talfantelak](https://open.spotify.com/track/2BCWZhkwEhTI7SYNzwdCdu) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Talfantelak](https://open.spotify.com/album/6fEh7EpH7NUQtC8dg2Yldv) | 3:52 |
+| 67 | [Bahebek Lelsama](https://open.spotify.com/track/6J4xPcKd2BdyCYdCIspKTg) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Bahebek Lelsama](https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn) | 3:20 |
 | 68 | [Helwa Ya Baladi حلوة يا بلدي \- Cover](https://open.spotify.com/track/3WVU8Hqnp45QfgtVZu36He) | [Lina Sleibi](https://open.spotify.com/artist/4V7rYFRvFUe9t0D4wPCxrz) | [Helwa Ya Baladi حلوة يا بلدي \(Cover\)](https://open.spotify.com/album/3DkQKBXouCLFM1xrl3R667) | 3:24 |
 | 69 | [Yas2alony Allayl](https://open.spotify.com/track/74R69FDyc1T1aWBYAVsH3J) | [Luka Salam](https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK) | [Yas2alony Allayl](https://open.spotify.com/album/7EoshBasiyNxGw334w2pl3) | 3:20 |
 | 70 | [Khallini Bel Jaw](https://open.spotify.com/track/514i2jFUpYy26L92YGRSOH) | [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Eza](https://open.spotify.com/album/6ZyBVcuJy1NFAEQJWIA5Iq) | 4:32 |
 | 71 | [Aatini Al Naya Wa Ghanni](https://open.spotify.com/track/4Lyx3S3OkUrJrJJAGrsh0Q) | [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Henning Sieverts](https://open.spotify.com/artist/4NPI4lNYQw86uzyS1SqZXP), [Tamer Pinarbaşi](https://open.spotify.com/artist/56qCAXOnxTC7VPlUGwrBqA), [Burcu Karadağ](https://open.spotify.com/artist/6sm7wuehySIzhD2QyCT26q), [Itamar Doari](https://open.spotify.com/artist/4fOBhUMIOwCcoWuRKlkwFc) | [El Nour](https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF) | 5:05 |
 | 72 | [Ween El\-Kalam](https://open.spotify.com/track/5FoOlTlC8pzAHV23s7gPqY) | [Hayajan](https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT) | [Ya Bay](https://open.spotify.com/album/2gnn8Mwb6Njbh34OsqvoIh) | 5:36 |
 | 73 | [The Sun of Love \- Remix](https://open.spotify.com/track/0ssucGvDVIMzkZsdeEkLks) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO), [Bruno Cruz](https://open.spotify.com/artist/0yIJhvdaYRB4dOJskdpqxW), [Ministry of Dub\-Key](https://open.spotify.com/artist/1XW2NTbJjpWDcZioxGuzVT) | [R.I.M.I.X](https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc) | 3:26 |
-| 74 | [Ya Bay \- Live](https://open.spotify.com/track/7f8Hj1nQ0FnLUjswRiITKl) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ya Bay \- Live](https://open.spotify.com/album/2iz4CRdRylXqvWkYRtznqq) | 6:10 |
-| 75 | [Rouh Ya Amar](https://open.spotify.com/track/2lIKMzHpP3KzZpxK6QwM5O) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX) | [Rouh Ya Amar](https://open.spotify.com/album/6Se4NtTSbdIK9tQToOcQB6) | 4:02 |
-| 76 | [Adaysh Kan Fe Nas \- Lo\-fi remix](https://open.spotify.com/track/2iuis9F4yWYYxVGwkPLV7c) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Adaysh Kan Fe Nas \(Lo\-fi remix\)](https://open.spotify.com/album/7G1AD6m0P2vgNl22TAj3D4) | 2:49 |
-| 77 | [لوين بروح](https://open.spotify.com/track/4LWO2PSM4751X7J9q82H6D) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [عساف](https://open.spotify.com/album/4hLQnN3M5nTYN4NU4NG6NM) | 4:50 |
+| 74 | [Rouh Ya Amar](https://open.spotify.com/track/2lIKMzHpP3KzZpxK6QwM5O) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX) | [Rouh Ya Amar](https://open.spotify.com/album/6Se4NtTSbdIK9tQToOcQB6) | 4:02 |
+| 75 | [Ya Bay \- Live](https://open.spotify.com/track/7f8Hj1nQ0FnLUjswRiITKl) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ya Bay \- Live](https://open.spotify.com/album/2iz4CRdRylXqvWkYRtznqq) | 6:10 |
+| 76 | [لوين بروح](https://open.spotify.com/track/4LWO2PSM4751X7J9q82H6D) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [عساف](https://open.spotify.com/album/4hLQnN3M5nTYN4NU4NG6NM) | 4:50 |
+| 77 | [Adaysh Kan Fe Nas \- Lo\-fi remix](https://open.spotify.com/track/2iuis9F4yWYYxVGwkPLV7c) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Adaysh Kan Fe Nas \(Lo\-fi remix\)](https://open.spotify.com/album/7G1AD6m0P2vgNl22TAj3D4) | 2:49 |
 | 78 | [Nostalgia](https://open.spotify.com/track/4ktzD6OYjb2u2kqfecXK79) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Nostalgia](https://open.spotify.com/album/3JNS9fh8RFw3N86GCCbZp6) | 3:19 |
 | 79 | [Fuqaati \(My Bubble\)](https://open.spotify.com/track/1qvai6uaDWd2z4JeYSlFka) | [Ruba Shamshoum](https://open.spotify.com/artist/2SFD4ndp40N3lL0iy6W9VM) | [Fuqaati \(My Bubble\)](https://open.spotify.com/album/1BhIR1MRcxHmVp53exP61r) | 4:28 |
 | 80 | [Hawel Tensany](https://open.spotify.com/track/4DNTAPb1bwk61n4jNfO6nj) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hawel Tensany](https://open.spotify.com/album/7ndAWFIsXAqncsWbytToka) | 3:39 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 97 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
 | 98 | [Falaytaka Tahlou](https://open.spotify.com/track/2QC2N9Y3qfyeqFqyizohk6) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Falaytaka Tahlou](https://open.spotify.com/album/4fRMjvfPoNSVNkJT0E4GFm) | 3:56 |
 | 99 | [Magic](https://open.spotify.com/track/4Uag89IBUeSUvugURZaLnl) | [Moseqar](https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH) | [Café Sessions](https://open.spotify.com/album/5SSTPqEYSx9SlO8AFx3nwg) | 3:52 |
-| 100 | [Mustaheel](https://open.spotify.com/track/2ycSFamPmfqPFFr10kYkX0) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Mustaheel](https://open.spotify.com/album/43KCM5CLKO7V6kgLYpUP65) | 3:09 |
+| 100 | [Teftah El Shebbak](https://open.spotify.com/track/0WccFvkfsltcCe9gKefZYO) | [Haytham Saeid](https://open.spotify.com/artist/0WXx3Fv4nzZbz6RtsXa3Mw) | [Teftah El Shebbak](https://open.spotify.com/album/7y1XvljJOCcCvi6iBcX9Cy) | 3:46 |
 
-Snapshot ID: `MCwwYjllNThiNDBlZWVmZjM3ZjVlMzNiNDFlZWEzMzFlMjI3YzgwMmFi`
+Snapshot ID: `MCwyZjA2YTQwYTM1M2RiOWJiMjQzYjJmYzQ3ZmZlOGQxZjAzZDJmZDM4`

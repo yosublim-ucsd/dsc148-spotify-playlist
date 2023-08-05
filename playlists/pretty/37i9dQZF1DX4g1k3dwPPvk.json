@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
-  "num_followers": 262091,
+  "num_followers": 262175,
   "original_name": "90s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWVlNDdkMDE3YzMzMDQ3YWEzMTdkMTM3NzRjNzgwMjg3NDQ1YmM4",
+  "snapshot_id": "MCw4NDhhNThiNjhlYWY2ODg5NTE3Nzc1ZWQ4MjE5NTk1NzUzOWFmNDBl",
   "tracks": [
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Originales",
-        "url": "https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ"
+        "name": "Mdo",
+        "url": "https://open.spotify.com/album/1p9H3b7e01jdlsW3ffG9na"
       },
       "artists": [
         {
-          "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+          "name": "MDO",
+          "url": "https://open.spotify.com/artist/08xFgTEmizKwzfDSbxvODp"
         }
       ],
-      "duration_ms": 244773,
-      "name": "Mu\u00e9velo",
-      "url": "https://open.spotify.com/track/2oZLIxCH4U7a5uc307IFLp"
+      "duration_ms": 210453,
+      "name": "No Puedo Olvidarme Ti",
+      "url": "https://open.spotify.com/track/6uX7rP2i6yXwc0gPLKW05j"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Mdo",
-        "url": "https://open.spotify.com/album/1p9H3b7e01jdlsW3ffG9na"
+        "name": "Originales",
+        "url": "https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ"
       },
       "artists": [
         {
-          "name": "MDO",
-          "url": "https://open.spotify.com/artist/08xFgTEmizKwzfDSbxvODp"
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
         }
       ],
-      "duration_ms": 210453,
-      "name": "No Puedo Olvidarme Ti",
-      "url": "https://open.spotify.com/track/6uX7rP2i6yXwc0gPLKW05j"
+      "duration_ms": 244773,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/2oZLIxCH4U7a5uc307IFLp"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Enrique",
-        "url": "https://open.spotify.com/album/183XphT974zDxwM5QxETET"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "Rhythm Divine",
-      "url": "https://open.spotify.com/track/067sYyLu6IdRP5bCubdSfl"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 247733,
       "name": "Tiempo De Vals",
       "url": "https://open.spotify.com/track/6MfrzCRWvSYdCMuFk5ZRne"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Enrique",
+        "url": "https://open.spotify.com/album/183XphT974zDxwM5QxETET"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "Rhythm Divine",
+      "url": "https://open.spotify.com/track/067sYyLu6IdRP5bCubdSfl"
     },
     {
       "added_at": "2023-02-17 21:06:33",

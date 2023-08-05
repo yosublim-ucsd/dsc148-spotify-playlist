@@ -4,7 +4,7 @@
 
 > Energy tracks to get your beast mode on.
 
-293 songs - 14 hr 27 min
+294 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [AIN'T GONNA ANSWER](https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [AIN'T GONNA ANSWER](https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA) | 3:07 | 2023-03-24 |  |
 | [All Of A Sudden](https://open.spotify.com/track/0XOMoQbYxYPVLxwK4VDmNA) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Hard](https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt) | 2:49 | 2021-02-12 | 2022-04-21 |
 | [Ambition For Cash](https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Ambition For Cash](https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9) | 2:23 | 2021-10-01 | 2023-07-08 |
-| [Andale](https://open.spotify.com/track/4EgZqNfwsDJ1HvvSMEXypp) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 2:48 | 2023-04-09 |  |
+| [Andale](https://open.spotify.com/track/4EgZqNfwsDJ1HvvSMEXypp) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 2:48 | 2023-04-09 | 2023-08-05 |
 | [AP \- Music from the film Boogie](https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [AP \(Music from the film Boogie\)](https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI) | 2:51 | 2021-02-26 | 2022-12-10 |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-05-12 |  |
 | [Aye \(feat\. Travis Scott\)](https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:27 | 2023-06-30 |  |
@@ -42,6 +42,7 @@
 | [Blackout](https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Blackout](https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV) | 3:16 | 2023-04-09 |  |
 | [Blick Blick \(with Nicki Minaj\)](https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf) | 2:58 | 2022-03-18 | 2023-07-28 |
 | [Blood All On it \(feat\. Key Glock, Young Dolph\)](https://open.spotify.com/track/2DdpOlqObnMU1IcMGLp0nk) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Blood All On it \(feat\. Key Glock, Young Dolph\)](https://open.spotify.com/album/04IEdmPMiMvzWtBXdiOGGa) | 3:54 | 2022-04-18 | 2022-07-29 |
+| [BLOOD ON MY NIKEZ \[Feat\. Juicy J\]](https://open.spotify.com/track/5JwIMQ0LjjuG2dOVzEvSRw) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [BLOOD ON MY NIKEZ \[Feat\. Juicy J\]](https://open.spotify.com/album/3yqVwj5ze0hxUt28pFReRC) | 3:42 | 2023-08-04 |  |
 | [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 | 2022-09-23 |  |
 | [Bodak Yellow](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:43 | 2023-06-09 |  |
 | [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 | 2023-04-28 |  |

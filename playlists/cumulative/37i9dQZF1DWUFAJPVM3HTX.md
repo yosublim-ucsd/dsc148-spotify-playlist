@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: Bea Anderson\. Updates every Wednesday.
 
-1,582 songs - 3 day 9 hr 35 min
+1,585 songs - 3 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -757,6 +757,7 @@
 | [Kissin' My Tattoos](https://open.spotify.com/track/09xQ2YpARX6KfVKKbiDaoY) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [Kissin' My Tattoos](https://open.spotify.com/album/7ueCXrWwTa6Fe209cZuSYP) | 2:28 | 2023-06-21 | 2023-08-04 |
 | [Kitty & I](https://open.spotify.com/track/1CEvoEip9uA8w5Or4Pf7G3) | [Chloe Bodur](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [Kitty & I](https://open.spotify.com/album/0yAkS28Cl4QtLaxRKVc9VZ) | 3:03 | 2022-08-19 | 2022-09-23 |
 | [Klei](https://open.spotify.com/track/2umvKO03mTOKrrtxUh5vUU) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Klei](https://open.spotify.com/album/6rLDaLzmu8NLg9Odlhm0dT) | 1:53 | 2023-07-26 |  |
+| [kleins](https://open.spotify.com/track/0VHDFZLCnMItkz9a5HAi8w) | [gabby parafina](https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP) | [kleins](https://open.spotify.com/album/6tVwGSwLilsyLVKR1TV1g8) | 4:12 | 2023-08-03 |  |
 | [KLM](https://open.spotify.com/track/61kUJ5SyDid5ujv4ZyrIjU) | [MisterKay](https://open.spotify.com/artist/1rd2uaxe75DEeIz8AnlyLN) | [KLM](https://open.spotify.com/album/7M8t6y4yEeARY88jrW1uEY) | 2:29 | 2022-08-10 | 2022-09-15 |
 | [Know Better](https://open.spotify.com/track/5BCjVArkgJDYnLet6eECgl) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Know Better](https://open.spotify.com/album/21Hp9TDtn1M6j90vUAoDz1) | 3:47 | 2023-03-31 | 2023-04-22 |
 | [Know It's Wrong](https://open.spotify.com/track/4QEtedNdEUJSusAF0m1NOu) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [Know It's Wrong](https://open.spotify.com/album/39K9QGEVT1iQnTgf5czaZ8) | 3:23 | 2022-06-02 | 2022-08-20 |
@@ -807,6 +808,7 @@
 | [Little Things](https://open.spotify.com/track/6kWTYT4OYwJJaKblBnuZos) | [Gabrielle B.](https://open.spotify.com/artist/6c6lgfcYsan5k1njNQ1Smj) | [UNSCRIPTED](https://open.spotify.com/album/0Q6caLe9BsqCPJgtcTOwn1) | 3:39 | 2022-10-14 | 2022-10-29 |
 | [Living For](https://open.spotify.com/track/03LB8fHbPRvl4MygY4bHcZ) | [Ethan Mark](https://open.spotify.com/artist/20ZHmYNQXa3NoerXEAADpl), [Chara Kai\-Le](https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n) | [Living For](https://open.spotify.com/album/4AkYY2aJTl2PzydT86Nmmo) | 2:26 | 2022-10-14 | 2022-10-29 |
 | [Living Room](https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [What We Become](https://open.spotify.com/album/59orHxxohwog8QsHMSXjso) | 2:53 | 2023-07-21 |  |
+| [Lock In](https://open.spotify.com/track/5Hml3bsM1EGbO9TSAd8DOf) | [Alus](https://open.spotify.com/artist/3MD55k0EwGeucg8pA4H1dV) | [Lock In](https://open.spotify.com/album/549V5YR9FV43vgGMwVf6iJ) | 2:45 | 2023-08-03 |  |
 | [Locked In](https://open.spotify.com/track/4kv4V1IH1IVGltBRLmsxrV) | [Xades](https://open.spotify.com/artist/2hrJX5VA0aLhBgRMrGAqHz) | [Locked In](https://open.spotify.com/album/1SHEfFSl1FyILZ0ortRg0H) | 3:17 | 2022-08-10 | 2022-09-09 |
 | [Lonely](https://open.spotify.com/track/5vt7dvdHX7DFRKHAMKrRDs) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Lonely](https://open.spotify.com/album/4H1vS1PKnxiypPT7oaf7y7) | 2:11 | 2023-05-12 | 2023-08-04 |
 | [Lonely](https://open.spotify.com/track/3Ht8o27JNTz70EKcfFLYc2) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Lonely](https://open.spotify.com/album/026SGqwYNfVtykc2OSf6tP) | 2:58 | 2023-05-24 | 2023-08-04 |
@@ -868,7 +870,8 @@
 | [Malibu](https://open.spotify.com/track/0JAzlCL0Btz2z6qWN09AaG) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Malibu](https://open.spotify.com/album/6lGF6ysU8aKnpIUiA6lYpz) | 2:51 | 2022-06-09 | 2022-08-20 |
 | [mama's little girl \(hate the world\)](https://open.spotify.com/track/2DvtkayNBAvN0nJVbQf5Zc) | [Sie](https://open.spotify.com/artist/4hs7Io6w7BHOxlbtOIjGH1) | [mama's little girl \(hate the world\)](https://open.spotify.com/album/5hLjQiJjtCmNa805N15UpO) | 2:05 | 2022-10-07 | 2022-12-01 |
 | [Man Down](https://open.spotify.com/track/0Y4LVCIZVLEkho5g2SfgfX) | [Julián Dysart](https://open.spotify.com/artist/0DhHRZO4e0YBPeSXA9aVID) | [Man Down](https://open.spotify.com/album/3uEoo2ginP8FqunYyoml1S) | 2:24 | 2023-03-17 | 2023-08-04 |
-| [Man on Fire](https://open.spotify.com/track/51lVe8EdMDeH81kkoqlhD5) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Man on Fire](https://open.spotify.com/album/14f7KXWYCNHaOMVOdrMRAp) | 2:24 | 2023-06-21 |  |
+| [Man on Fire](https://open.spotify.com/track/2sj3vQG3dgYgGVmr3J4HXH) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Man on Fire](https://open.spotify.com/album/0pTpY3EXd0aC1xCilBsG5v) | 2:24 | 2023-06-21 |  |
+| [Man on Fire](https://open.spotify.com/track/51lVe8EdMDeH81kkoqlhD5) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Man on Fire](https://open.spotify.com/album/14f7KXWYCNHaOMVOdrMRAp) | 2:24 | 2023-06-21 | 2023-08-05 |
 | [Mango Butter](https://open.spotify.com/track/2biRwgdbRj553k78fgoz86) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Wanderlust](https://open.spotify.com/album/4srecdfVYmg9qp7cIGFj0Z) | 3:42 | 2022-11-30 | 2023-03-11 |
 | [Mantra \(Sun Girl\)](https://open.spotify.com/track/5tbrZaNIgsrqYBkeZK6P0z) | [Hana Ni](https://open.spotify.com/artist/4m3Qqp9y7vGY0aWQEDpiIm) | [Everything Is Temporary](https://open.spotify.com/album/04keX1f4o1cPwp9oSBcqeb) | 5:25 | 2021-12-01 | 2022-01-13 |
 | [Mapquest](https://open.spotify.com/track/4oLxtXc65gUxC8D1Qc6qOr) | [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP), [Vooo](https://open.spotify.com/artist/3vHTWo80WtxaxoYy36oZXF), [JAAS](https://open.spotify.com/artist/58d2ZdXnLiZ4xhRNef78kt) | [Mapquest](https://open.spotify.com/album/7i9XkJROm39jBXlrAMBlu6) | 2:17 | 2023-07-14 |  |

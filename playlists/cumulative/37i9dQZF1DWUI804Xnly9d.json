@@ -141,6 +141,24 @@
     },
     {
       "album": {
+        "name": "Akela",
+        "url": "https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw"
+      },
+      "artists": [
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301828,
+      "name": "Akela",
+      "url": "https://open.spotify.com/track/6XJes28674sRmlHAlndb5o"
+    },
+    {
+      "album": {
         "name": "Akela Rasta",
         "url": "https://open.spotify.com/album/0risckpoN86HOTMXh11HdH"
       },
@@ -254,6 +272,24 @@
       "duration_ms": 208333,
       "name": "Baarish Ki Boondein",
       "url": "https://open.spotify.com/track/18FhNEar51YMYXureTvkIn"
+    },
+    {
+      "album": {
+        "name": "Baarishein",
+        "url": "https://open.spotify.com/album/0391DL7W1ftvUB6K1TO4an"
+      },
+      "artists": [
+        {
+          "name": "Shubham Agrawal",
+          "url": "https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213671,
+      "name": "Baarishein",
+      "url": "https://open.spotify.com/track/07Nu7WQpx6eKoS3VLprxOR"
     },
     {
       "album": {
@@ -428,6 +464,24 @@
       "duration_ms": 272033,
       "name": "Banja Beimaan",
       "url": "https://open.spotify.com/track/4F6hIftaEtiZqX7O9qohUo"
+    },
+    {
+      "album": {
+        "name": "Baton Baton Mein (From \"Love-All\")",
+        "url": "https://open.spotify.com/album/4hxaVoj9O1DZ3bsvicYH0s"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229291,
+      "name": "Baton Baton Mein (From \"Love-All\")",
+      "url": "https://open.spotify.com/track/6fnVga9swfvgQ6r8NcRQoj"
     },
     {
       "album": {
@@ -821,6 +875,24 @@
     },
     {
       "album": {
+        "name": "Akela",
+        "url": "https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw"
+      },
+      "artists": [
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255855,
+      "name": "Doobay",
+      "url": "https://open.spotify.com/track/6i1UFSwXOzrbnfaNnRkpHT"
+    },
+    {
+      "album": {
         "name": "Doobie Do",
         "url": "https://open.spotify.com/album/333sIAKoYJ09tNV3vcpJTz"
       },
@@ -958,6 +1030,24 @@
       "duration_ms": 235000,
       "name": "Heer Ranjha (Reprise)",
       "url": "https://open.spotify.com/track/1bqUw1KWD8e9SiZx9vXTNh"
+    },
+    {
+      "album": {
+        "name": "Akela",
+        "url": "https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw"
+      },
+      "artists": [
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268314,
+      "name": "Hum (Reprise)",
+      "url": "https://open.spotify.com/track/2v9Sln7HcVBqUNc0zXvtbE"
     },
     {
       "album": {
@@ -2014,7 +2104,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 246000,
       "name": "Na Jaane Tu",
       "url": "https://open.spotify.com/track/4toWcCNqdFYcsfaiHGDOAe"
@@ -2036,7 +2126,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 226390,
       "name": "Na Neend Hai Na Khwaab",
       "url": "https://open.spotify.com/track/6btADb95DODidqb9HFkl9l"
@@ -2422,7 +2512,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 215363,
       "name": "Saadgi (feat. Varsha Gaur)",
       "url": "https://open.spotify.com/track/7kmKa5Of9dHnCb3zgrUqyA"
@@ -2520,7 +2610,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 138387,
       "name": "Tabaahi (Stripped Down Version)",
       "url": "https://open.spotify.com/track/4DfwE2GhqMvKeuGu6DfwmX"
@@ -2746,7 +2836,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 136261,
       "name": "Tu",
       "url": "https://open.spotify.com/track/7DlBboctH1CiJFC0chyOO2"
@@ -3004,7 +3094,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 181624,
       "name": "Waqt",
       "url": "https://open.spotify.com/track/3buNym71LEMqC24JqZjiwd"
@@ -3066,6 +3156,28 @@
       "duration_ms": 304125,
       "name": "Wo Mere Saath Saath",
       "url": "https://open.spotify.com/track/4duYnnrZthODike5XEcARR"
+    },
+    {
+      "album": {
+        "name": "Yaari Ke Dhaage",
+        "url": "https://open.spotify.com/album/0fRZWJiJsvrMnGEWhN7WfU"
+      },
+      "artists": [
+        {
+          "name": "Ishaan Nigam",
+          "url": "https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2"
+        },
+        {
+          "name": "Brite Roy",
+          "url": "https://open.spotify.com/artist/7rxPUpZCGnK9I2SHVhTw1Y"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "Yaari Ke Dhaage",
+      "url": "https://open.spotify.com/track/1F79kSzDvRgQFOge5CMvl0"
     },
     {
       "album": {

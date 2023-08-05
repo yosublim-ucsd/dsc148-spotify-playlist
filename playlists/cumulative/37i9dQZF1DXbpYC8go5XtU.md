@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-208 songs - 16 hr 36 min
+210 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Green Awakening](https://open.spotify.com/track/6cCUbHnO3d48zNbJBlPOMY) | [Gallery Six](https://open.spotify.com/artist/1rbPYgBG7xEiwzLzg009Y3) | [Wind Colors](https://open.spotify.com/album/5NKep1P7MmurjX0HbfuRZ0) | 5:44 | 2022-08-17 |  |
 | [Amayadori](https://open.spotify.com/track/22FIQx73AmjHLpUhkgdswZ) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Fragmentary](https://open.spotify.com/album/77dDhKqacxTQBz9womkmbY) | 8:20 | 2021-12-22 |  |
 | [Animal](https://open.spotify.com/track/1v09ATzQfzToQrBgu0mkD6) | [Conor C\. Ellis](https://open.spotify.com/artist/2HR4D4z3iLHR57uszqD7mC) | [Soft Earth](https://open.spotify.com/album/7icKhOFCKAwpaLqXUzT68B) | 3:12 | 2021-12-22 |  |
+| [Arrow](https://open.spotify.com/track/4snF5UUPhYAaoDnUyfwpTE) | [Nao Otsuka](https://open.spotify.com/artist/4ySZXPHhYKNUU9Tzq3txzT) | [Arrow](https://open.spotify.com/album/5CUAQ1HaXZjjQIlf3Cu66J) | 3:44 | 2023-08-04 |  |
 | [Aru](https://open.spotify.com/track/3imnDatPTaEg1Y1SuBlvEs) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Hibi](https://open.spotify.com/album/2ilbAhaYpdlFGe5e3FzRhS) | 2:46 | 2021-12-22 |  |
 | [Ashore](https://open.spotify.com/track/7okAPL9Qoj88byNDbuIjiV) | [Ebauche](https://open.spotify.com/artist/5n0eez6NwUmuLTn2AwA0i3) | [Adrift](https://open.spotify.com/album/19jaJ8g4HUynwp0fREHFe4) | 9:20 | 2021-12-22 |  |
 | [Assured](https://open.spotify.com/track/2yUD0XuUPhhM3l3M6if6Jh) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Headwaters](https://open.spotify.com/album/4zw3XeZ8dDXuUDcd1flLtl) | 7:23 | 2022-11-11 |  |
@@ -33,6 +34,7 @@
 | [Cypress Magic](https://open.spotify.com/track/4u79VkDV1sGAelETOfiNcq) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU), [Chuck Plaisance](https://open.spotify.com/artist/4wfZxczwjNep3PNGUWMwkZ) | [Tranquility](https://open.spotify.com/album/26vcQV2TjPDV3BdZGABenp) | 3:08 | 2021-12-22 | 2023-04-14 |
 | [Dark Green](https://open.spotify.com/track/4leNLyb6fZZPzMZd40lkcv) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [Blue Corridor](https://open.spotify.com/album/5yi8EGpyAovKwdgEyET2XS) | 3:46 | 2021-12-22 |  |
 | [Dawn](https://open.spotify.com/track/2CtGXLSiPIJiGCwcqlp6oT) | [The Green Kingdom](https://open.spotify.com/artist/4EOmRRSrO3mMPt9W4knkJO) | [Residence on Earth](https://open.spotify.com/album/2E93vwKg4VcQZaN8fBKaWB) | 2:48 | 2021-12-22 |  |
+| [Daybreak](https://open.spotify.com/track/2JUUAZKmuUBKLAHWDjVs0u) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI), [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Daybreak / Ethereal Mist](https://open.spotify.com/album/2Yo99gzXjhUlrh03Qw5RpV) | 3:35 | 2023-08-04 |  |
 | [Deep Blue](https://open.spotify.com/track/66XGxK7oj3XzAkhVbqSYpb) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO), [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Deep Blue](https://open.spotify.com/album/0iqpQ0FHOu8oFzmRyFuVtZ) | 3:15 | 2022-08-17 |  |
 | [Deep Creek \(Autumn, 2.33pm\) \- 528hz Meditation](https://open.spotify.com/track/6C1JNqeXFWlAiZc4G42ia1) | [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Awake Within The Dream: Sound Meditations, Vol\. 1](https://open.spotify.com/album/08NsoOBj6S7PfCp7sGDNPL) | 9:28 | 2023-03-03 |  |
 | [Deep into the Forest](https://open.spotify.com/track/31sRH2Vd8KGFIDh9iGUDYu) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Deep into the Forest](https://open.spotify.com/album/1TMbC7L4WVsVwQGqI4ynhe) | 3:42 | 2022-04-08 |  |

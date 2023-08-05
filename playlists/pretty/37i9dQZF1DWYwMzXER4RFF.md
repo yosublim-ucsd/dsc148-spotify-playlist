@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,599 likes - 55 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,679 likes - 55 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,16 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 27 | [Creatures](https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 3:32 |
 | 28 | [Adderall \(End of the Line\)](https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:25 |
 | 29 | [wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C) | [Steintor Herrenchor](https://open.spotify.com/artist/70OwN96zJa61uhBIPdKgFO), [diggidaniel](https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw) | [wollte nie](https://open.spotify.com/album/1HB7QOEie88WSdXl0BAVlO) | 3:15 |
-| 30 | [Swampy](https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Swampy & Sombre Two](https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5) | 3:33 |
-| 31 | [Beautiful Blue Sky](https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx) | [Ought](https://open.spotify.com/artist/2VhVBXSB8n2KxuzKVZNxTY) | [Sun Coming Down](https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD) | 7:43 |
+| 30 | [Beautiful Blue Sky](https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx) | [Ought](https://open.spotify.com/artist/2VhVBXSB8n2KxuzKVZNxTY) | [Sun Coming Down](https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD) | 7:43 |
+| 31 | [Kwenchy Kups](https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Stumpwork](https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO) | 2:45 |
 | 32 | [Girls & Boys](https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 4:39 |
 | 33 | [Concrete](https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Songs of Praise](https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH) | 3:34 |
-| 34 | [Demolition Row](https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Demolition Row](https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk) | 4:18 |
-| 35 | [Kwenchy Kups](https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Stumpwork](https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO) | 2:45 |
-| 36 | [Book](https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Audio Drag for Ego Slobs](https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3) | 2:00 |
-| 37 | [The Cleaner](https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Cleaner](https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo) | 7:33 |
-| 38 | [Hunger for a Way Out](https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Hunger for a Way Out](https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm) | 2:21 |
-| 39 | [Nah, That Ain't It](https://open.spotify.com/track/38TaGhJuDI9mXDCCA3FxyI) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Nah, That Ain't It / Phone Lines Down](https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P) | 2:46 |
+| 34 | [Book](https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Audio Drag for Ego Slobs](https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3) | 2:00 |
+| 35 | [Demolition Row](https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Demolition Row](https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk) | 4:18 |
+| 36 | [The Cleaner](https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Cleaner](https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo) | 7:33 |
+| 37 | [Hunger for a Way Out](https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Hunger for a Way Out](https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm) | 2:21 |
+| 38 | [Nah, That Ain't It](https://open.spotify.com/track/38TaGhJuDI9mXDCCA3FxyI) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Nah, That Ain't It / Phone Lines Down](https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P) | 2:46 |
+| 39 | [Swampy](https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Swampy & Sombre Two](https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5) | 3:33 |
 | 40 | [Six\-Pack](https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 3:51 |
 | 41 | [Back To The Radio](https://open.spotify.com/track/0hHOIVyywNzkoh1v6RWFb3) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Waterslide, Diving Board, Ladder To The Sky](https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5) | 3:07 |
 | 42 | [This Heat](https://open.spotify.com/track/70H0Quqm0SwkmjlcaRy74B) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain](https://open.spotify.com/album/0ysuZ27s6yTQDmREAaAp1I) | 3:24 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 45 | [Wharf \(ii\)](https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy) | [Horsey](https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO) | [Debonair](https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn) | 4:25 |
 | 46 | [St\. Paul of the Tarantulas](https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | ['Til The Stream Runs Dry](https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO) | 4:20 |
 | 47 | [Avoidarama](https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 2:58 |
-| 48 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 |
-| 49 | [Sweet](https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad \(Expanded Edition\)](https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA) | 3:42 |
+| 48 | [Sweet](https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad \(Expanded Edition\)](https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA) | 3:42 |
+| 49 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 |
 | 50 | [Pour Another](https://open.spotify.com/track/5BvpTVOBtKADtK5LAOgX4g) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:20 |
 | 51 | [Stick](https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3) | 3:22 |
 | 52 | [Pamphlets](https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 8:03 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/3sYAWmzPqgZBHawmexpuMG) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/4rsmZQDXlfrwEIHrsL1cRt) | 3:43 |
 | 55 | [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 |
 
-Snapshot ID: `MCw2ZTI2ODAzNTQ2MzAzYzQ2MzI1NmQ1OTI4MTcyNGFkOGRmNmJjYWZj`
+Snapshot ID: `MCwzM2IwODVhMjE4YjFhZjI1ZTIzY2QyYTAzMTcwMGM2NDc3ZDQzNDQ5`

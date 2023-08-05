@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 57032,
+  "num_followers": 57035,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDQ0YTc0MmY0ZTVkNjlkNTgyYWNhYTk4MTRmNDg0MzRkYWY3Nzk4",
+  "snapshot_id": "MCwzMmVjNzM3NWViOTVhMzFjNTI4MTc4OTlkYTNhMDk3YmY0NWZkZGVl",
   "tracks": [
     {
       "added_at": "2023-07-24 15:47:32",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-07-24 15:47:32",
       "album": {
-        "name": "Mingus Ah Um",
-        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
-      },
-      "artists": [
-        {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
-        }
-      ],
-      "duration_ms": 342373,
-      "name": "Goodbye Pork Pie Hat",
-      "url": "https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz"
-    },
-    {
-      "added_at": "2023-07-24 15:47:32",
-      "album": {
         "name": "Whiplash (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 89026,
       "name": "Fletcher's Song In Club",
       "url": "https://open.spotify.com/track/0ZFortLKtHTKy7YtuJiubt"
+    },
+    {
+      "added_at": "2023-07-24 15:47:32",
+      "album": {
+        "name": "Mingus Ah Um",
+        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 342373,
+      "name": "Goodbye Pork Pie Hat",
+      "url": "https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz"
     },
     {
       "added_at": "2023-07-24 15:47:32",
@@ -615,8 +615,8 @@
     {
       "added_at": "2023-07-24 15:47:32",
       "album": {
-        "name": "Go! (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 322000,
-      "name": "I Guess I'll Hang My Tears Out To Dry - Rudy Van Gelder Edition/Remastered 1999",
-      "url": "https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa"
+      "duration_ms": 405226,
+      "name": "I'm A Fool To Want You",
+      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
     },
     {
       "added_at": "2023-07-24 15:47:32",
@@ -731,8 +731,8 @@
     {
       "added_at": "2023-07-24 15:47:32",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+        "name": "Go! (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 405226,
-      "name": "I'm A Fool To Want You",
-      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
+      "duration_ms": 322000,
+      "name": "I Guess I'll Hang My Tears Out To Dry - Rudy Van Gelder Edition/Remastered 1999",
+      "url": "https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa"
     },
     {
       "added_at": "2023-07-24 15:47:32",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-07-24 15:47:32",
       "album": {
-        "name": "The Body & The Soul",
-        "url": "https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 202773,
-      "name": "Dedicated To You",
-      "url": "https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I"
-    },
-    {
-      "added_at": "2023-07-24 15:47:32",
-      "album": {
         "name": "The Complete Argo Mercury Sessions",
         "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 192893,
       "name": "I Remember Clifford",
       "url": "https://open.spotify.com/track/4zquVwZMHXKHUHqHIHDlNA"
+    },
+    {
+      "added_at": "2023-07-24 15:47:32",
+      "album": {
+        "name": "The Body & The Soul",
+        "url": "https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 202773,
+      "name": "Dedicated To You",
+      "url": "https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I"
     },
     {
       "added_at": "2023-07-24 15:47:32",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-07-24 15:47:32",
       "album": {
+        "name": "Rhapsody in Blue",
+        "url": "https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p"
+      },
+      "artists": [
+        {
+          "name": "Dominick Farinacci",
+          "url": "https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB"
+        }
+      ],
+      "duration_ms": 249453,
+      "name": "Rhapsody in Blue",
+      "url": "https://open.spotify.com/track/5up8HNHkEfnK47K1H74R2F"
+    },
+    {
+      "added_at": "2023-07-24 15:47:32",
+      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 313040,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj"
-    },
-    {
-      "added_at": "2023-07-24 15:47:32",
-      "album": {
-        "name": "Rhapsody in Blue",
-        "url": "https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p"
-      },
-      "artists": [
-        {
-          "name": "Dominick Farinacci",
-          "url": "https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB"
-        }
-      ],
-      "duration_ms": 249453,
-      "name": "Rhapsody in Blue",
-      "url": "https://open.spotify.com/track/5up8HNHkEfnK47K1H74R2F"
     },
     {
       "added_at": "2023-07-24 15:47:32",
@@ -1123,30 +1123,6 @@
     {
       "added_at": "2023-07-24 15:47:32",
       "album": {
-        "name": "Wisteria",
-        "url": "https://open.spotify.com/album/5Ok4cskcyAERwTnaKjEA8s"
-      },
-      "artists": [
-        {
-          "name": "Steve Kuhn",
-          "url": "https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt"
-        },
-        {
-          "name": "Steve Swallow",
-          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
-        },
-        {
-          "name": "Joey Baron",
-          "url": "https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW"
-        }
-      ],
-      "duration_ms": 347146,
-      "name": "Wisteria",
-      "url": "https://open.spotify.com/track/4lKiH7lACKR3hAdd1bONzp"
-    },
-    {
-      "added_at": "2023-07-24 15:47:32",
-      "album": {
         "name": "Master Trio",
         "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
       },
@@ -1171,6 +1147,30 @@
     {
       "added_at": "2023-07-24 15:47:32",
       "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/5Ok4cskcyAERwTnaKjEA8s"
+      },
+      "artists": [
+        {
+          "name": "Steve Kuhn",
+          "url": "https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt"
+        },
+        {
+          "name": "Steve Swallow",
+          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
+        },
+        {
+          "name": "Joey Baron",
+          "url": "https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW"
+        }
+      ],
+      "duration_ms": 347146,
+      "name": "Wisteria",
+      "url": "https://open.spotify.com/track/4lKiH7lACKR3hAdd1bONzp"
+    },
+    {
+      "added_at": "2023-07-24 15:47:32",
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-07-24 15:47:32",
       "album": {
-        "name": "Here's Love",
-        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
-      },
-      "artists": [
-        {
-          "name": "Hank Jones",
-          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "My Wish",
-      "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
-    },
-    {
-      "added_at": "2023-07-24 15:47:32",
-      "album": {
         "name": "Everytime around",
         "url": "https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 325562,
       "name": "Everytime around",
       "url": "https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw"
+    },
+    {
+      "added_at": "2023-07-24 15:47:32",
+      "album": {
+        "name": "Here's Love",
+        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
+      },
+      "artists": [
+        {
+          "name": "Hank Jones",
+          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "My Wish",
+      "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
     },
     {
       "added_at": "2023-07-24 15:47:32",

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 116279,
+  "num_followers": 116309,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTRhYWUzYjBkMDY0ZjUyMzVhOWRiOGRmY2RhYzkzOTI0OTRlNjli",
+  "snapshot_id": "MCw0ZDYxMWZhNTk0YjQ3MWYxNzc0ZjM2MmJiMzRmNjhkNmNjYmY4MWYx",
   "tracks": [
     {
       "added_at": "2023-07-07 06:04:16",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-07-07 06:04:16",
       "album": {
+        "name": "Argumento (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5IjrQ0JHuQlMo6YLruSAAG"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 203319,
+      "name": "Argumento (Spotify Singles)",
+      "url": "https://open.spotify.com/track/2BBFcUCDTas0y6vV3LZ3c0"
+    },
+    {
+      "added_at": "2023-07-07 06:04:16",
+      "album": {
         "name": "Areia Fina",
         "url": "https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 211200,
       "name": "Areia Fina",
       "url": "https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE"
-    },
-    {
-      "added_at": "2023-07-07 06:04:16",
-      "album": {
-        "name": "Argumento (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5IjrQ0JHuQlMo6YLruSAAG"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 203319,
-      "name": "Argumento (Spotify Singles)",
-      "url": "https://open.spotify.com/track/2BBFcUCDTas0y6vV3LZ3c0"
     },
     {
       "added_at": "2023-07-07 06:04:16",

@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-157 songs - 12 hr 12 min
+158 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [nine\-sum sorcery A](https://open.spotify.com/track/6yn5KVRcL1miUzXnysQJc2) | [LABOUR](https://open.spotify.com/artist/7JKGENPLlNWqBwV1pKQA8v), [Hani Mojtahedy](https://open.spotify.com/artist/4u6WezeJnoWI28umFSAU1M) | [nine\-sum sorcery](https://open.spotify.com/album/34qMEi2AKlTcYHIDLX5KQ4) | 14:21 | 2022-05-18 | 2023-03-04 |
 | [No tiempo](https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 3:35 | 2022-10-10 |  |
 | [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-05 | 2022-10-21 |
-| [Nocturnal](https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN) | [Fiona Brice](https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT) | [And You Know I Care](https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ) | 4:49 | 2022-12-02 |  |
+| [Nocturnal](https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN) | [Fiona Brice](https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT) | [And You Know I Care](https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ) | 4:49 | 2022-12-02 | 2023-08-05 |
 | [O Ignee Spriritus](https://open.spotify.com/track/4tM3MKcPRKp6lzni47Td61) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 8:26 | 2022-05-18 | 2023-04-14 |
 | [Ocean](https://open.spotify.com/track/6ZacLLHoOCwFun1fTXrQFG) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 4:28 | 2022-12-02 | 2023-01-29 |
 | [Ode to the blue](https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ode to the blue](https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO) | 2:53 | 2022-05-18 |  |
@@ -155,6 +155,7 @@
 | [The Tides Do That with Me](https://open.spotify.com/track/54IVj29KBSyfbDd5jCJ4b9) | [Jonnine](https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ) | [Blue Hills](https://open.spotify.com/album/7nNCCgvJdDuE4DgnS68cQ8) | 2:40 | 2022-05-18 |  |
 | [The Unfolding](https://open.spotify.com/track/7BKOFg8gQm0pMMPrKyrvd2) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o), [Paraorchestra](https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm) | [The Unfolding](https://open.spotify.com/album/17VZ1IVAxBYtoWCvQSKrch) | 5:47 | 2023-02-17 |  |
 | [The Unfolding](https://open.spotify.com/track/7kZWl6yV9WYnGD6OTQS7GH) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o), [Paraorchestra](https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm) | [The Unfolding](https://open.spotify.com/album/7wxd4u4qDhBamLFUUp4J2H) | 5:47 | 2022-05-18 | 2023-02-24 |
+| [Theories](https://open.spotify.com/track/4ydGyZ14rN1gWavN80KMzs) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Point Of Entry](https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe) | 2:12 | 2023-08-04 |  |
 | [Thoughts](https://open.spotify.com/track/4kJ9oMXeWR0IxDHsly7SGQ) | [Shards](https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU) | [Find Sound](https://open.spotify.com/album/04Kd4PBkBMEGJBf6JLn35c) | 3:37 | 2022-05-18 | 2022-07-23 |
 | [Thursday Night, Friday Morning](https://open.spotify.com/track/5Tsdj9fb4y4YElEh5cZaCG) | [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O), [Party Store](https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2) | [Northwest & Southeast](https://open.spotify.com/album/2kkBsfxeuSjGUi0cxHMXDt) | 6:46 | 2023-03-03 |  |
 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 | 2022-09-20 |  |

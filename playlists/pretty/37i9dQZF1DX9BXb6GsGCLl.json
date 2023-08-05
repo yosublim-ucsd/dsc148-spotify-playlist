@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 529541,
+  "num_followers": 529825,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmE1NzEwYzQ3ZTQ1OWEyMjA5ODAwOTFjMmI3NDlhODI1YjcwMTU1",
+  "snapshot_id": "MCw2Y2M4NTg1YTI1YjAzZWFmNWExNTFiMWI2YTI2MTUyOTAwNTM2ZThi",
   "tracks": [
     {
       "added_at": "2021-08-20 08:20:52",
@@ -695,26 +695,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Love Not War (The Tampa Beat)",
-        "url": "https://open.spotify.com/album/3CHys9v5aX1NS861o6r556"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Nuka",
-          "url": "https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z"
-        }
-      ],
-      "duration_ms": 192921,
-      "name": "Love Not War (The Tampa Beat)",
-      "url": "https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "More Than I Can Say",
         "url": "https://open.spotify.com/album/7uIapyvYvTGZtM3Osj9kiB"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 153197,
       "name": "More Than I Can Say",
       "url": "https://open.spotify.com/track/1Kmth9jEjaymopjSRBmtkz"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Love Not War (The Tampa Beat)",
+        "url": "https://open.spotify.com/album/3CHys9v5aX1NS861o6r556"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Nuka",
+          "url": "https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z"
+        }
+      ],
+      "duration_ms": 192921,
+      "name": "Love Not War (The Tampa Beat)",
+      "url": "https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -831,6 +831,22 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 221820,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "Lifestyle (feat. Adam Levine)",
         "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 147840,
       "name": "All Around The World (La La La)",
       "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Break My Heart",
-        "url": "https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 140011,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
     },
     {
       "added_at": "2021-08-20 08:20:52",

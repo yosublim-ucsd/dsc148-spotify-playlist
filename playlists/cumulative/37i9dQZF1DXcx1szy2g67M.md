@@ -4,7 +4,7 @@
 
 > Zo klinkt de zomer van 2023!
 
-226 songs - 11 hr 25 min
+227 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 | 2023-02-23 |  |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-02-23 |  |
 | [Camino](https://open.spotify.com/track/50UWMLI07e82G1VLMZ2M11) | [QUIQUE](https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ) | [Camino](https://open.spotify.com/album/4Aki0Qb1ior78C1RcWb5oX) | 2:56 | 2023-02-23 | 2023-04-18 |
-| [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2023-02-23 |  |
+| [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2023-02-23 | 2023-08-05 |
 | [Can't Bring Me Down](https://open.spotify.com/track/4amkoUyQJDBXvcysAVUPX5) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Toby Gad](https://open.spotify.com/artist/2v4e16xkId2E5YbYEWgPP8), [Nicole Bus](https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX) | [Can't Bring Me Down](https://open.spotify.com/album/3AF5Dt2J8DGXMqbsYtIw4h) | 3:16 | 2023-06-10 |  |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-02-23 |  |
 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 | 2023-06-29 |  |
@@ -127,6 +127,7 @@
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-07-13 |  |
 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-06-10 | 2023-07-14 |
 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 | 2023-02-23 | 2023-04-22 |
+| [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-08-04 |  |
 | [Lose You](https://open.spotify.com/track/4cMnESkXGcB6kIp6iPNUB2) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lose You](https://open.spotify.com/album/39BNYNxtVj2e9M70mWi77R) | 2:35 | 2023-02-23 | 2023-03-18 |
 | [Lost Inside My Head](https://open.spotify.com/track/3yIcYpQTvfEnGjKxQjoa01) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Lost Inside My Head](https://open.spotify.com/album/7tOl1qi1qAGEWzKtgtM4QT) | 2:41 | 2023-05-26 |  |
 | [Lost Love](https://open.spotify.com/track/10uL8zMFDZVfB9voq9PQPB) | [Thomas Nicolas](https://open.spotify.com/artist/7pXdNMrXe30tL64f3N5rN8) | [Lost Love](https://open.spotify.com/album/3NOpRc2HifqbW3bXWMTWNy) | 2:16 | 2023-02-23 | 2023-05-12 |

@@ -4,7 +4,7 @@
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 0 min
+55 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,10 +57,11 @@
 | [Red and Purple](https://open.spotify.com/track/6lOAhWZ3oPz2Z6elA9phfc) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 3:36 | 2022-09-16 | 2022-11-17 |
 | [Round The Bend](https://open.spotify.com/track/3pYEOC4YluYylx12kstL5L) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:14 | 2022-09-16 |  |
 | [Stupid Heavy Metal Broken Hearted Loser Punk](https://open.spotify.com/track/0GqdnBuiNOIqMd8R4RDWEx) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:12 | 2022-09-16 |  |
+| [Summer Gurl](https://open.spotify.com/track/0k15e2OF6mpANBavcZ8BdB) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 2:40 | 2023-08-04 |  |
 | [Summer Gurl](https://open.spotify.com/track/3YmTu9LqqLpY9O3fUBawPo) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 2:40 | 2022-09-22 | 2022-10-07 |
 | [Thrash Metal Cassette](https://open.spotify.com/track/0RhYWcRxUljBv363WhAbtu) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:39 | 2022-09-16 |  |
 | [White T\-Shirt and Jeans](https://open.spotify.com/track/2B66zZymYWxQqP8QQxQUAy) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 3:14 | 2022-09-16 | 2022-11-19 |
-| [White T\-Shirt and Jeans](https://open.spotify.com/track/6DqehBSiRdtI3qvEeAcUk3) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 3:14 | 2022-11-18 |  |
+| [White T\-Shirt and Jeans](https://open.spotify.com/track/6DqehBSiRdtI3qvEeAcUk3) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 3:14 | 2022-11-18 | 2023-08-05 |
 | [Willow Tree](https://open.spotify.com/track/6wA2hdPFoJYrtsBk6pjH5u) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 3:09 | 2022-09-21 | 2022-09-23 |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

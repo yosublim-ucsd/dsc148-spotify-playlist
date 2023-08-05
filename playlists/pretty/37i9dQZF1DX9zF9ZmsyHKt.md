@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,263 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,304 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 43 | [Maria, Maria](https://open.spotify.com/track/215mQEOW8ddILFNINNd9YI) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis Por Ela](https://open.spotify.com/album/4VEVVGC2MYMrK63drpR2hE) | 2:44 |
 | 44 | [Primeira Vez](https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Primeira Vez](https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6) | 3:13 |
 | 45 | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG) | 4:30 |
-| 46 | [Frevo Mulher](https://open.spotify.com/track/1ePuI28sGPx7ROzKZBRbqS) | [Amelinha](https://open.spotify.com/artist/5hzHutt6DLPzctqvnS6Fdv) | [Frevo Mulher](https://open.spotify.com/album/48nwSoJS9YsQ1f8OotMNUg) | 4:01 |
-| 47 | [Asa Morena](https://open.spotify.com/track/7K5rZnp7C07SVotXqMaKFp) | [Zizi Possi](https://open.spotify.com/artist/65yVjvbkC6m9DzQFihrSvL) | [Asa Morena](https://open.spotify.com/album/0jP4j74A5rX2B9Ump7jH4e) | 4:04 |
-| 48 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 4:31 |
+| 46 | [Asa Morena](https://open.spotify.com/track/7K5rZnp7C07SVotXqMaKFp) | [Zizi Possi](https://open.spotify.com/artist/65yVjvbkC6m9DzQFihrSvL) | [Asa Morena](https://open.spotify.com/album/0jP4j74A5rX2B9Ump7jH4e) | 4:04 |
+| 47 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 4:31 |
+| 48 | [Frevo Mulher](https://open.spotify.com/track/1ePuI28sGPx7ROzKZBRbqS) | [Amelinha](https://open.spotify.com/artist/5hzHutt6DLPzctqvnS6Fdv) | [Frevo Mulher](https://open.spotify.com/album/48nwSoJS9YsQ1f8OotMNUg) | 4:01 |
 | 49 | [Alguém Me Avisou/Acreditar/Sonho Meu](https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX) | [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Sempre a Cantar](https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO) | 5:04 |
 | 50 | [Olhos Coloridos](https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra de Sá \- 1982](https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol) | 4:27 |
 | 51 | [Uma Noite E 1/2](https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol), [Renato Rocketh](https://open.spotify.com/artist/6sw8STlzeeHvYQEeZueg63) | [Virgem](https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco) | 4:44 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 88 | [Pra Te Lembrar \[Trilha da Novela Sete Vidas\]](https://open.spotify.com/track/3OE8rx6lNYxRnjCZ6wMlPs) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq) | [Pra Te Lembrar \[Trilha da Novela Sete Vidas\]](https://open.spotify.com/album/20RxMq4XRBg30WRqjBwTGb) | 3:38 |
 | 89 | [Louca](https://open.spotify.com/track/40taoSSjzKnymwcc5NJVOj) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Louca](https://open.spotify.com/album/5nistd67S4SRwZ84CD8BwH) | 2:39 |
 | 90 | [Solo Seduzente](https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea) | [Dani Russo](https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r) | [Solo Seduzente](https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC) | 2:05 |
-| 91 | [Nanã](https://open.spotify.com/track/3VAWBQtMV10ImXFG3AxH42) | [Serena Assumpção](https://open.spotify.com/artist/38mQKqohQ2VooBHJOkR14g), [Paula Pretta](https://open.spotify.com/artist/145l07Yb0sZFMiEvlHPPf7) | [Ascensão](https://open.spotify.com/album/15V1ZcZ3fsOEIQtVGlddXc) | 3:08 |
-| 92 | [Rosa amarela](https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Rosa Amarela](https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX) | 3:18 |
-| 93 | [Quer Ir no Meu Show ?](https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Quer Ir no Meu Show ?](https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt) | 4:40 |
+| 91 | [Rosa amarela](https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Rosa Amarela](https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX) | 3:18 |
+| 92 | [Quer Ir no Meu Show ?](https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Quer Ir no Meu Show ?](https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt) | 4:40 |
+| 93 | [Nanã](https://open.spotify.com/track/3VAWBQtMV10ImXFG3AxH42) | [Serena Assumpção](https://open.spotify.com/artist/38mQKqohQ2VooBHJOkR14g), [Paula Pretta](https://open.spotify.com/artist/145l07Yb0sZFMiEvlHPPf7) | [Ascensão](https://open.spotify.com/album/15V1ZcZ3fsOEIQtVGlddXc) | 3:08 |
 | 94 | [Menina, Amanhã de Manhã](https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Iaiá](https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA) | 5:29 |
 | 95 | [Sussu](https://open.spotify.com/track/0dzMJ2pEdM7LfSZtJaQTyN) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [LEXA](https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi) | 2:06 |
 | 96 | [Frank Ocean](https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:33 |
-| 97 | [Hitzão da Porra](https://open.spotify.com/track/6WIP2ysmvfkPyAc4c2bD6O) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Hitzão da Porra](https://open.spotify.com/album/5FnDUJMFoExQFtycmhg5dZ) | 2:12 |
-| 98 | [Quem Vai Quem Vem](https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1) | [Cátia de França](https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM) | [Vinte Palavras ao Redor do Sol](https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi) | 3:03 |
-| 99 | [Meu São Jorge](https://open.spotify.com/track/7ERR92JTk2VsswMquOvOD5) | [Lia de Itamaracá](https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo) | [Ciranda Sem Fim](https://open.spotify.com/album/7HQ5LO7lg80CQsHE1eI8fs) | 3:20 |
-| 100 | [Encantos de Sereia](https://open.spotify.com/track/02igANx7YEYQPJzDzI2Fob) | [Ceumar](https://open.spotify.com/artist/4lTstEgQJelAPnmAuNg5Nu) | [Silencia](https://open.spotify.com/album/4Yft0S0ZM9u4m7AlN5wzkF) | 4:10 |
+| 97 | [Meu São Jorge](https://open.spotify.com/track/7ERR92JTk2VsswMquOvOD5) | [Lia de Itamaracá](https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo) | [Ciranda Sem Fim](https://open.spotify.com/album/7HQ5LO7lg80CQsHE1eI8fs) | 3:20 |
+| 98 | [Hitzão da Porra](https://open.spotify.com/track/6WIP2ysmvfkPyAc4c2bD6O) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Hitzão da Porra](https://open.spotify.com/album/5FnDUJMFoExQFtycmhg5dZ) | 2:12 |
+| 99 | [Encantos de Sereia](https://open.spotify.com/track/02igANx7YEYQPJzDzI2Fob) | [Ceumar](https://open.spotify.com/artist/4lTstEgQJelAPnmAuNg5Nu) | [Silencia](https://open.spotify.com/album/4Yft0S0ZM9u4m7AlN5wzkF) | 4:10 |
+| 100 | [Quem Vai Quem Vem](https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1) | [Cátia de França](https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM) | [Vinte Palavras ao Redor do Sol](https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi) | 3:03 |
 
-Snapshot ID: `MCw2MjcxYjZlYjc0MzRkNjZjOTU4NDgzOWY4NGJkNTQ1ZjcyODdmMzhl`
+Snapshot ID: `MCwxNDJkZjIxYjViNDc0ZTI3ZmJkYzY2ZTZhMGQ0ZDUwNzg4NGI4ZDBm`

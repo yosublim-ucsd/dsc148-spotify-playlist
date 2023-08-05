@@ -1,12 +1,12 @@
 {
   "description": "All the Punk Rock that you need in your life. Cover: Rancid",
-  "num_followers": 898956,
+  "num_followers": 899213,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjNmOWQ2ZDU2NDY4NmE5MjNlNTMyOTFmOTdhZTIyOTQ0YzhkNDNm",
+  "snapshot_id": "MCxiNzU5YzBhZTgyM2JhOGZkYTE2NGE4ZDVmMjJmZjBkMTIwMGUwMjcy",
   "tracks": [
     {
       "added_at": "2023-03-07 12:31:09",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-03-07 12:31:09",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
-    },
-    {
-      "added_at": "2023-03-07 12:31:09",
-      "album": {
         "name": "New Wave (U.S. Version)",
         "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 254200,
       "name": "Thrash Unreal",
       "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
+    },
+    {
+      "added_at": "2023-03-07 12:31:09",
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Sound System - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
     },
     {
       "added_at": "2023-03-07 12:31:09",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-03-07 12:31:09",
       "album": {
-        "name": "White Crosses",
-        "url": "https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ"
-      },
-      "artists": [
-        {
-          "name": "Against Me!",
-          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "I Was a Teenage Anarchist",
-      "url": "https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1"
-    },
-    {
-      "added_at": "2023-03-07 12:31:09",
-      "album": {
         "name": "Sing Sing Death House",
         "url": "https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 209626,
       "name": "City Of Angels",
       "url": "https://open.spotify.com/track/0sAIljILdEo8Ku4tPLQ7dF"
+    },
+    {
+      "added_at": "2023-03-07 12:31:09",
+      "album": {
+        "name": "They Came From The Shadows",
+        "url": "https://open.spotify.com/album/3ly3cAdJJ0anuETQ6HFkde"
+      },
+      "artists": [
+        {
+          "name": "Teenage Bottlerocket",
+          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
+        }
+      ],
+      "duration_ms": 110800,
+      "name": "Skate or Die",
+      "url": "https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj"
     }
   ],
   "unique_name": "Punk Essentials",

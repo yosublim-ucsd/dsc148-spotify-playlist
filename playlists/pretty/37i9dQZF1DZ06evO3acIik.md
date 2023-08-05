@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,085 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,110 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 32 | [Mercy](https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Mercy](https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY) | 2:29 |
 | 33 | [All I Need](https://open.spotify.com/track/0GQPdbDdcBCO8MUY8YKluB) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 3:25 |
 | 34 | [Eyes Only for You](https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Ecclesia](https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC) | [Eyes Only for You](https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH) | 3:32 |
-| 35 | [3:35am](https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K) | 3:02 |
-| 36 | [In the Ocean \(feat\. Montell Fish\)](https://open.spotify.com/track/6IoH81sosd6WHhoLgYODBH) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Spring](https://open.spotify.com/album/0aT8MMYx6r4tN1W0ipTgOs) | 3:45 |
-| 37 | [Slipping Away](https://open.spotify.com/track/66pCTcRfozirdS9mQvMwv2) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 1:43 |
+| 35 | [Slipping Away](https://open.spotify.com/track/66pCTcRfozirdS9mQvMwv2) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 1:43 |
+| 36 | [3:35am](https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K) | 3:02 |
+| 37 | [In the Ocean \(feat\. Montell Fish\)](https://open.spotify.com/track/6IoH81sosd6WHhoLgYODBH) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Spring](https://open.spotify.com/album/0aT8MMYx6r4tN1W0ipTgOs) | 3:45 |
 | 38 | [God Given Dreams](https://open.spotify.com/track/15gmFPuXOMZV7l1Afj0JMM) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Lofi](https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi) | 2:52 |
 | 39 | [Your Love Has Called Me Back](https://open.spotify.com/track/0ObkGoEBWzsWHvO9AcxptJ) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 4:04 |
 | 40 | [Give U More](https://open.spotify.com/track/3nuaFEZqXgCiE283Qy4T6E) | [Miles Carter](https://open.spotify.com/artist/4Jm580nuipYFdlgljTftY7), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC) | [Give U More](https://open.spotify.com/album/7rTh8hgSYgC0bEO4UTIbFF) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 49 | [Don't Wait If Your Not Supposed To.](https://open.spotify.com/track/5KjwW42ttM1o7KAt62WQ62) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Lofi](https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi) | 2:15 |
 | 50 | [Getting Stronger](https://open.spotify.com/track/2RNUP450GqkdTQvnSDo8zO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Chillhop Essentials Winter 2020](https://open.spotify.com/album/2tawQhSOBEJ4MQm1ZN6knB) | 2:40 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDA2ZTYzMTljYTM3ZjJkY2MyNzM5ZmJmODA5YTdjYjU2OA==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDA0Y2U1OWQ5NzQ5YWRhYTMzNDNjOWJmNGZhMWRmMjA3MQ==`

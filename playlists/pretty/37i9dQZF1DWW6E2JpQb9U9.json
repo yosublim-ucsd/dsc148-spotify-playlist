@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 100650,
+  "num_followers": 100670,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmQ4ZjFmMDA0ZGZlNmViYjRkN2RhYjc4Y2NkMDBjOWEwYzRjNmY2",
+  "snapshot_id": "MCw3OTVkZmQzMzU3ZGVjMWMxZTA2OGU5ZjcwNmEwYzBmZjhjMDM4NDA4",
   "tracks": [
     {
       "added_at": "2023-08-03 18:54:07",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-08-03 18:54:07",
       "album": {
-        "name": "Otra Noche en la Luna (Episodio II)",
-        "url": "https://open.spotify.com/album/2i3jAjsGsoeP0Sq0DjF1vy"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Homero - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe"
-    },
-    {
-      "added_at": "2023-08-03 18:54:07",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 214357,
       "name": "Ya No Est\u00e1s - En Vivo en el Luna Park",
       "url": "https://open.spotify.com/track/3c8v1vkAFkEMn17asSMldf"
+    },
+    {
+      "added_at": "2023-08-03 18:54:07",
+      "album": {
+        "name": "Otra Noche en la Luna (Episodio II)",
+        "url": "https://open.spotify.com/album/2i3jAjsGsoeP0Sq0DjF1vy"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Homero - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe"
     },
     {
       "added_at": "2023-08-03 18:54:07",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-08-03 18:54:07",
       "album": {
-        "name": "En Vivo en The Theater at Madison Square Garden",
-        "url": "https://open.spotify.com/album/4Ba1fMWwQyXQOCcTLdWYdW"
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
         }
       ],
-      "duration_ms": 417880,
-      "name": "Mal Bicho - En Vivo en Theater at Madison Square Garden",
-      "url": "https://open.spotify.com/track/7u6COXLLPAbO4TTlSimsNx"
+      "duration_ms": 226186,
+      "name": "Yo Tomo - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
     },
     {
       "added_at": "2023-08-03 18:54:07",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-08-03 18:54:07",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+        "name": "En Vivo en The Theater at Madison Square Garden",
+        "url": "https://open.spotify.com/album/4Ba1fMWwQyXQOCcTLdWYdW"
       },
       "artists": [
         {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 226186,
-      "name": "Yo Tomo - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
+      "duration_ms": 417880,
+      "name": "Mal Bicho - En Vivo en Theater at Madison Square Garden",
+      "url": "https://open.spotify.com/track/7u6COXLLPAbO4TTlSimsNx"
     },
     {
       "added_at": "2023-08-03 18:54:07",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-08-03 18:54:07",
       "album": {
-        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 283946,
-      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
-    },
-    {
-      "added_at": "2023-08-03 18:54:07",
-      "album": {
         "name": "Vivo De Pastillas: Locura Y Realidad (Live In Buenos Aires / 2016)",
         "url": "https://open.spotify.com/album/3l0v842H6eKkHsOmHUUcHe"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 222226,
       "name": "Absolutismos\u2026 - Live In Buenos Aires / 2016",
       "url": "https://open.spotify.com/track/5CbX94QcX74Xy0l4ArAIQI"
+    },
+    {
+      "added_at": "2023-08-03 18:54:07",
+      "album": {
+        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 283946,
+      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
     },
     {
       "added_at": "2023-08-03 18:54:07",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-08-03 18:54:07",
       "album": {
-        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
-        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 276186,
-      "name": "Sasha, Sissi Y El C\u00edrculo De Baba - En Vivo",
-      "url": "https://open.spotify.com/track/4cbfHPIwApaXNgfQPaUzbK"
-    },
-    {
-      "added_at": "2023-08-03 18:54:07",
-      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 285053,
       "name": "Pasos al Costado - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d"
+    },
+    {
+      "added_at": "2023-08-03 18:54:07",
+      "album": {
+        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
+        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 276186,
+      "name": "Sasha, Sissi Y El C\u00edrculo De Baba - En Vivo",
+      "url": "https://open.spotify.com/track/4cbfHPIwApaXNgfQPaUzbK"
     },
     {
       "added_at": "2023-08-03 18:54:07",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-08-03 18:54:07",
       "album": {
-        "name": "En Las Ventas 7 septiembre 1993 (En directo)",
-        "url": "https://open.spotify.com/album/30GKlcBPFyyhVjAxH6TC5Q"
+        "name": "Foro Sol - 17 Nov 2017 (En Vivo)",
+        "url": "https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht"
       },
       "artists": [
         {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         }
       ],
-      "duration_ms": 342645,
-      "name": "Sin documentos - En directo, Las Ventas 7 septiembre 1993",
-      "url": "https://open.spotify.com/track/0EjnyCHJN8TeW4FYocAaRc"
+      "duration_ms": 200764,
+      "name": "C\u00f3mo Me Voy a Olvidar - En Vivo en el Foro Sol",
+      "url": "https://open.spotify.com/track/2lGZ3IB6Vnbr4Lv2MAjRv2"
     },
     {
       "added_at": "2023-08-03 18:54:07",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-08-03 18:54:07",
       "album": {
-        "name": "Foro Sol - 17 Nov 2017 (En Vivo)",
-        "url": "https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 200764,
-      "name": "C\u00f3mo Me Voy a Olvidar - En Vivo en el Foro Sol",
-      "url": "https://open.spotify.com/track/2lGZ3IB6Vnbr4Lv2MAjRv2"
-    },
-    {
-      "added_at": "2023-08-03 18:54:07",
-      "album": {
         "name": "Luces (En Vivo Luna Park 2006)",
         "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 163346,
       "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
       "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
+    },
+    {
+      "added_at": "2023-08-03 18:54:07",
+      "album": {
+        "name": "En Las Ventas 7 septiembre 1993 (En directo)",
+        "url": "https://open.spotify.com/album/30GKlcBPFyyhVjAxH6TC5Q"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 342645,
+      "name": "Sin documentos - En directo, Las Ventas 7 septiembre 1993",
+      "url": "https://open.spotify.com/track/0EjnyCHJN8TeW4FYocAaRc"
     },
     {
       "added_at": "2023-08-03 18:54:07",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-08-03 18:54:07",
       "album": {
-        "name": "De No Olvidar (En Vivo)",
-        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 159653,
-      "name": "De No Olvidar - En Vivo",
-      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
-    },
-    {
-      "added_at": "2023-08-03 18:54:07",
-      "album": {
         "name": "Alucinados como la primera vez",
         "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 331453,
       "name": "Sacrificio y Rock and Roll",
       "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
+    },
+    {
+      "added_at": "2023-08-03 18:54:07",
+      "album": {
+        "name": "De No Olvidar (En Vivo)",
+        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 159653,
+      "name": "De No Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
     },
     {
       "added_at": "2023-08-03 18:54:07",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "nos fuimos de fiesta con Justin Quiles & El Alfa \ud83c\udf89",
+  "description": "nos fuimos de fiesta con Kali Uchis, El Alfa & JT \ud83c\udf89",
   "name": "Fiesta",
   "tracks": [
     {
@@ -610,7 +610,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 246061,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
@@ -2908,7 +2908,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 158440,
       "name": "FULANITO",
       "url": "https://open.spotify.com/track/3CIl8hlnMcULSIIhUMmB1Z"
@@ -2934,6 +2934,28 @@
       "duration_ms": 158531,
       "name": "FULANITO",
       "url": "https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg"
+    },
+    {
+      "album": {
+        "name": "GANAS",
+        "url": "https://open.spotify.com/album/5WojaFxkR4saLIwiyUBAnX"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169651,
+      "name": "GANAS",
+      "url": "https://open.spotify.com/track/4WBJO0asHRwWh7yyFHzABq"
     },
     {
       "album": {
@@ -5392,6 +5414,32 @@
       "duration_ms": 156318,
       "name": "Mu\u00f1ecas",
       "url": "https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d"
+    },
+    {
+      "album": {
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
+        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219642,
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
+      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
     },
     {
       "album": {

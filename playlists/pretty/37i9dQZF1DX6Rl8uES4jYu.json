@@ -1,13 +1,45 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 240363,
+  "num_followers": 240358,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDZlYWVkZDFiNDExMDMzYzE4ZDljNTY0NmNlMTdiMjg1MTBkNDJl",
+  "snapshot_id": "MCw5ODI1MmJmODlhMzFjYmFlMzE2ZTAwZTJkM2QwZDUzODA5MGJmZmM4",
   "tracks": [
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "The Pool",
+        "url": "https://open.spotify.com/album/6fMCbvSwgHSnB0BcgVB7m8"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 215893,
+      "name": "The Pool",
+      "url": "https://open.spotify.com/track/0vrk52MOndmqMjtMNYCApR"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Flower Power",
+        "url": "https://open.spotify.com/album/3QgEOGksSEQgeXnGRYCGUI"
+      },
+      "artists": [
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 149354,
+      "name": "Flower Power",
+      "url": "https://open.spotify.com/track/1dSiwT4oLIWWLAwBMaEObL"
+    },
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
@@ -1691,22 +1723,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Keep On Smiling",
-        "url": "https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 262356,
-      "name": "Everybody's Cool",
-      "url": "https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "People People",
         "url": "https://open.spotify.com/album/6AdhgefWLxvq89hIRKeRRn"
       },
@@ -1719,30 +1735,6 @@
       "duration_ms": 236448,
       "name": "People People",
       "url": "https://open.spotify.com/track/4xOOBxljutpqUOfWxbmIR6"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Don't Try",
-        "url": "https://open.spotify.com/album/53qLFnHCxA1bDGGSyxfkAk"
-      },
-      "artists": [
-        {
-          "name": "Nina Tonji",
-          "url": "https://open.spotify.com/artist/4tDdvHgJos0AlSU3sptU1q"
-        },
-        {
-          "name": "Jay Adams",
-          "url": "https://open.spotify.com/artist/6MUJd2wLr0VB7SXy9kPgJ8"
-        },
-        {
-          "name": "Ben Molinaro",
-          "url": "https://open.spotify.com/artist/3DYu0keMqdZnNJ3QezVFMG"
-        }
-      ],
-      "duration_ms": 175063,
-      "name": "Addiction",
-      "url": "https://open.spotify.com/track/5zzN7Dvt8eJI8m7egpKRdM"
     },
     {
       "added_at": "2022-09-23 04:00:00",

@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Khalid
 
-477 songs - 1 day 1 hr 49 min
+478 songs - 1 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 | 2023-03-16 | 2023-04-01 |
 | [GO SLOW \- A COLORS SHOW](https://open.spotify.com/track/5VnZTry3HpruQpTKhhuvvI) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [GO SLOW \- A COLORS SHOW](https://open.spotify.com/album/71hE7PNuaYZ8iue9QdYXh8) | 2:16 | 2023-01-26 | 2023-02-04 |
 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 | 2023-01-26 |  |
-| [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 | 2023-08-03 |  |
+| [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 | 2023-08-03 |  |
 | [good morning good night](https://open.spotify.com/track/4ij11R78HtOc7SIeyC043g) | [blue clementine](https://open.spotify.com/artist/0YlkgjUQ1R3plj7M9KmIXk) | [good morning good night](https://open.spotify.com/album/5ZWbmaRZyFVM8HszjLDbJa) | 3:29 | 2023-05-18 | 2023-06-09 |
 | [Good Time](https://open.spotify.com/track/5C5TY76zEvTDPT3FRi6Obs) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Good Time](https://open.spotify.com/album/3D3que0A2F6BVUqmsY2MFh) | 3:18 | 2022-11-10 | 2022-12-17 |
 | [Goodbye 2022 \(feat\. J.O.Y\)](https://open.spotify.com/track/3xmGR655IjSCH5oFcMmdBS) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Goodbye 2022](https://open.spotify.com/album/5kTSDjeJ7RErbxbA3rLfn8) | 3:02 | 2022-12-01 | 2023-01-14 |
@@ -212,6 +212,7 @@
 | [it’s just life](https://open.spotify.com/track/4AYvEFaFesR6N6s8pxJERL) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [it’s just life](https://open.spotify.com/album/19cWRFMqEARxveqsWES28p) | 2:38 | 2022-09-29 | 2023-07-14 |
 | [JADED](https://open.spotify.com/track/3JLRDi6U0BXwWzkqXjliIn) | [Silver Lim](https://open.spotify.com/artist/1Wytp9rQDwH6Qnt8RBc3Pb), [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [JADED](https://open.spotify.com/album/5mH7POlWSAS7WYlk7kK39E) | 3:10 | 2022-06-08 | 2022-09-09 |
 | [Jah](https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Jah](https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd) | 2:27 | 2023-06-15 | 2023-06-23 |
+| [Keep Me In Love](https://open.spotify.com/track/7j8mf8Qrvmhjl8Yr13iFr7) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Keep Me In Love](https://open.spotify.com/album/7ETOuFfahxfhuMlKPYbFPt) | 2:36 | 2023-08-03 |  |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-16 | 2023-04-15 |
 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 | 2023-04-14 | 2023-06-09 |
 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 | 2022-06-08 | 2023-01-14 |

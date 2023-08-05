@@ -2,9 +2,9 @@
 
 ### [ALT NOW](https://open.spotify.com/playlist/37i9dQZF1DWVqJMsgEN0F4)
 
-> Holly Humberstone & d4vd along with the best alternative songs of today.
+> Bakar along with the best alternative songs of today.
 
-401 songs - 22 hr 45 min
+402 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [I Won't](https://open.spotify.com/track/1y8ooe9Zr1PMIxrOwNeeOi) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [I Won't](https://open.spotify.com/album/7vXjnE5noLdqc9EIsOhLpQ) | 2:48 | 2022-07-29 | 2022-12-17 |
 | [I'll Call You Mine](https://open.spotify.com/track/0RQoxryvRJZD9CShaRLASb) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:21 | 2022-01-14 | 2022-05-20 |
 | [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 | 2022-09-16 | 2023-02-18 |
-| [I've Loved You For So Long](https://open.spotify.com/track/02JkjqNNLxmWkm9bBCp2Yx) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/5LO06DFO56CESiQ6BjGsVJ) | 2:56 | 2023-06-02 |  |
+| [I've Loved You For So Long](https://open.spotify.com/track/02JkjqNNLxmWkm9bBCp2Yx) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/5LO06DFO56CESiQ6BjGsVJ) | 2:56 | 2023-06-02 | 2023-08-05 |
 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/1BiRaCcUqWpLLb4LZpvRMF) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/album/3VGiUssrBkq8DKNdnbZRBR) | 2:49 | 2021-11-19 | 2022-03-26 |
 | [In My Head](https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [In My Head](https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm) | 2:52 | 2023-03-24 | 2023-05-27 |
 | [In The Mirror](https://open.spotify.com/track/11ytsbCqnMlj2bV0hVKp5P) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Mirror](https://open.spotify.com/album/5s0vXZdva9QidlE4g5r2HC) | 3:04 | 2022-07-01 | 2022-07-30 |
@@ -227,6 +227,7 @@
 | [Nosebleeds](https://open.spotify.com/track/1jjthaUpATAKHlCY4T5Kj2) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/1OgH6tYqGQ2K7dTFzA0TcN) | 3:03 | 2023-05-12 |  |
 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 | 2023-03-31 |  |
 | [Not Strong Enough](https://open.spotify.com/track/72GNW1xKoi5BAhMYAW6e7e) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:54 | 2023-03-10 | 2023-04-04 |
+| [Not The 1975](https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw) | 3:18 | 2023-08-04 |  |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2023-05-19 |  |
 | [Notion](https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Futureproof](https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg) | 3:15 | 2022-03-11 | 2022-07-02 |
 | [NYE](https://open.spotify.com/track/187xDDU8WnqZVXm3oQVYPc) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:10 | 2023-07-28 |  |

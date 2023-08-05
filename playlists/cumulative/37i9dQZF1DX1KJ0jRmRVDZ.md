@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-788 songs - 1 day 21 hr 1 min
+789 songs - 1 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,6 +740,7 @@
 | [苦多春](https://open.spotify.com/track/2xQ0hFTu17qAkNIruYAmD8) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [事後叙景](https://open.spotify.com/album/5pNIvJAkRup2UJb5CaRyoM) | 2:33 | 2022-06-09 | 2022-06-11 |
 | [藍才](https://open.spotify.com/track/7znz9Gm1qXs5wOXwOGQqZR) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [藍才](https://open.spotify.com/album/7jVKn2OEHBIflIiBOFQ5O1) | 4:16 | 2022-06-09 | 2022-07-12 |
 | [虚ろを扇ぐ](https://open.spotify.com/track/1xfPXJeJX2NOsdJGtbgJKH) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [虚ろを扇ぐ](https://open.spotify.com/album/2iWOVRsUdZk3nzwYgY22xw) | 3:27 | 2022-12-27 | 2022-12-29 |
+| [虚像のCarousel](https://open.spotify.com/track/2FCkgW3vOc3IvpOCd0LJMT) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [虚像のCarousel](https://open.spotify.com/album/4HnTbIJinqxIvnHeIBaJv6) | 3:48 | 2023-08-03 |  |
 | [蛍はいなかった \- Self Cover](https://open.spotify.com/track/5b65oi8dlSb4gcV5PWQFzd) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [蛍はいなかった](https://open.spotify.com/album/5yusmis1jlcSuQGgtTBgzH) | 3:29 | 2022-06-16 | 2022-07-20 |
 | [蜃気楼](https://open.spotify.com/track/5EeCqwaWhxYm7QKFEoaR9k) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [蜃気楼](https://open.spotify.com/album/3yurGs4HCVIyMbK9Z90tQV) | 5:33 | 2022-10-04 | 2022-10-06 |
 | [蜜蜂](https://open.spotify.com/track/6oDv2ylQf1fiqOMp7UWcV8) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [Hypnotize](https://open.spotify.com/album/4ZN7YVrRO7uGeAchbVMmBm) | 3:14 | 2022-08-30 | 2023-01-06 |

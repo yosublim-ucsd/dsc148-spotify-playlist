@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Terrace Martin",
+  "description": "New jazz for open minds. Cover: Keyon Harrold",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 264692,
       "name": "Achilles Heel - Subharmonic Version",
       "url": "https://open.spotify.com/track/5kOkyjSGWwJCdlu9PuI5Ln"
@@ -1176,6 +1176,32 @@
       "duration_ms": 386209,
       "name": "Amathongo",
       "url": "https://open.spotify.com/track/2jUqVDtYIJWd3baszNjZkF"
+    },
+    {
+      "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Muthspiel",
+          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
+        },
+        {
+          "name": "Scott Colley",
+          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422506,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64"
     },
     {
       "album": {
@@ -2114,6 +2140,24 @@
       "duration_ms": 261410,
       "name": "Balm",
       "url": "https://open.spotify.com/track/22h4bg05XHk550N5HIEs35"
+    },
+    {
+      "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337573,
+      "name": "Baltimore",
+      "url": "https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ"
     },
     {
       "album": {
@@ -3292,7 +3336,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 428653,
       "name": "Calder Shapes",
       "url": "https://open.spotify.com/track/6W6iCHIlyiYq2oAWBrT3tt"
@@ -5168,6 +5212,28 @@
       "duration_ms": 176937,
       "name": "Don\u2019t Believe The Dancers",
       "url": "https://open.spotify.com/track/4l9tu2beBs4QXeyZ9v9koq"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Lie [Feat. Malaya]",
+        "url": "https://open.spotify.com/album/1JUxXtOkoLUgwHN7dfb2ML"
+      },
+      "artists": [
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
+        {
+          "name": "Malaya",
+          "url": "https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261716,
+      "name": "Don\u2019t Lie [Feat. Malaya]",
+      "url": "https://open.spotify.com/track/6xVgDPrFSlBinlx7lRzI1S"
     },
     {
       "album": {
@@ -7991,6 +8057,24 @@
     },
     {
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/1sYm78ZyaQtJESPtajIdze"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181928,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/61MTLrkxDy0A3GyGC13flH"
+    },
+    {
+      "album": {
         "name": "Endless Era",
         "url": "https://open.spotify.com/album/48rFPcYpJ2EL3itMZ2N8y8"
       },
@@ -8786,7 +8870,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 264320,
       "name": "Impressions",
       "url": "https://open.spotify.com/track/23gpK7yn4WbIVmsIYpoR0H"
@@ -10051,6 +10135,32 @@
     },
     {
       "album": {
+        "name": "Lady Tambourine",
+        "url": "https://open.spotify.com/album/2xzCpb6RdDdl933rpxOKrJ"
+      },
+      "artists": [
+        {
+          "name": "Michael Blicher",
+          "url": "https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ"
+        },
+        {
+          "name": "Dan Hemmer",
+          "url": "https://open.spotify.com/artist/1dmEVxj0YBAnoaEepaB2oz"
+        },
+        {
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381525,
+      "name": "Lady Tambourine",
+      "url": "https://open.spotify.com/track/0TuBBxv6FQ7hroCLA1GX4f"
+    },
+    {
+      "album": {
         "name": "Landsdown",
         "url": "https://open.spotify.com/album/6ivj7sRDxqcYDQ75rqxVJm"
       },
@@ -11285,6 +11395,24 @@
     },
     {
       "album": {
+        "name": "Maimoun",
+        "url": "https://open.spotify.com/album/79UDB7HDZK5w89ymNY5YPs"
+      },
+      "artists": [
+        {
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509031,
+      "name": "Maimoun",
+      "url": "https://open.spotify.com/track/46ZgUJQCJMI6IMhqCEskzU"
+    },
+    {
+      "album": {
         "name": "Make My Way Back Home",
         "url": "https://open.spotify.com/album/12cV7xYYdoT5h8DqUjJR42"
       },
@@ -12186,6 +12314,24 @@
       "duration_ms": 271376,
       "name": "Mountain Man Exit",
       "url": "https://open.spotify.com/track/7xKRYjwpDJHiWBSRNFscJ0"
+    },
+    {
+      "album": {
+        "name": "Mountains, Trees and Seas",
+        "url": "https://open.spotify.com/album/16xRAk41n6Qpmz0kput949"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306093,
+      "name": "Mountains, Trees and Seas",
+      "url": "https://open.spotify.com/track/6h52zNa8ChwfY3SuQb1NzD"
     },
     {
       "album": {
@@ -13248,7 +13394,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 257962,
       "name": "Olha Maria",
       "url": "https://open.spotify.com/track/06J8E2lWKBGSjblUZm1sqy"
@@ -13266,7 +13412,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 417318,
       "name": "On the Nile",
       "url": "https://open.spotify.com/track/4HFQ2yNe3e16O6UccibV4F"
@@ -13910,7 +14056,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 167218,
       "name": "Past reflections",
       "url": "https://open.spotify.com/track/661Apu8vWjJ84fnw6DTkBt"
@@ -13994,6 +14140,32 @@
       "duration_ms": 88016,
       "name": "Peace Please",
       "url": "https://open.spotify.com/track/3ff3uqKr2Yqx6nIXH6ZvMC"
+    },
+    {
+      "album": {
+        "name": "People of The Sun",
+        "url": "https://open.spotify.com/album/5d3LrvZRe23YqwU2GJwQ62"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "Jean Carne",
+          "url": "https://open.spotify.com/artist/3ejLRcSbNwwvFbVWnStKvB"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194173,
+      "name": "People of The Sun",
+      "url": "https://open.spotify.com/track/5yiRpEYb8n6NWuPx3u3EcW"
     },
     {
       "album": {
@@ -15200,7 +15372,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 258000,
       "name": "Retro Back Summer Action",
       "url": "https://open.spotify.com/track/6AKBzcm7FhGSBWGloW8PIr"
@@ -16260,7 +16432,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 366240,
       "name": "Shine",
       "url": "https://open.spotify.com/track/17BIypK3xrWHGLPhY3sVMX"
@@ -17816,7 +17988,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 245877,
       "name": "Sunset Milk Tea - Instrumental",
       "url": "https://open.spotify.com/track/6mp6PUHw9vnWIIg2zujrSm"
@@ -17918,7 +18090,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 272441,
       "name": "Susanna",
       "url": "https://open.spotify.com/track/653Pz3Tsn62HUPU0nkJ3FT"
@@ -18120,7 +18292,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 190306,
       "name": "Tangram",
       "url": "https://open.spotify.com/track/5gHDa3J7x4v6KtNtF41dPB"
@@ -18688,6 +18860,40 @@
       "duration_ms": 383040,
       "name": "The Cold Man",
       "url": "https://open.spotify.com/track/7Cb6fXhdDx9cKVx5rIvNdo"
+    },
+    {
+      "album": {
+        "name": "The Dance",
+        "url": "https://open.spotify.com/album/5YogcLfXQCiGSETxFW5Udp"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
+        {
+          "name": "Terreon Gully",
+          "url": "https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P"
+        },
+        {
+          "name": "Dario Chiazzolino",
+          "url": "https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG"
+        },
+        {
+          "name": "Jermaine Paul",
+          "url": "https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283318,
+      "name": "The Dance",
+      "url": "https://open.spotify.com/track/5XLM75KbmQZWYxAefKoKgC"
     },
     {
       "album": {
@@ -20326,7 +20532,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 307934,
       "name": "Tumba la Timba",
       "url": "https://open.spotify.com/track/2DMTeFjP0brzo1Rl6dxKaL"
@@ -20579,6 +20785,28 @@
     },
     {
       "album": {
+        "name": "Uncertainties",
+        "url": "https://open.spotify.com/album/0cEakLOQxGGg8ndHljx89z"
+      },
+      "artists": [
+        {
+          "name": "Tristan De Liege",
+          "url": "https://open.spotify.com/artist/56WzaWPSOfPePuPdfHBYr5"
+        },
+        {
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301095,
+      "name": "Uncertainties",
+      "url": "https://open.spotify.com/track/0UpbT3Joops0jxblkZVhZL"
+    },
+    {
+      "album": {
         "name": "unctuous",
         "url": "https://open.spotify.com/album/2oS9491jYB24kr5DCEZOTJ"
       },
@@ -20720,6 +20948,28 @@
       "duration_ms": 167262,
       "name": "Up and Up",
       "url": "https://open.spotify.com/track/6Lduosf81XUhbksNEy50a9"
+    },
+    {
+      "album": {
+        "name": "Up on Harvard Ave.",
+        "url": "https://open.spotify.com/album/1GHB2RSAJRVRiutA4Josmb"
+      },
+      "artists": [
+        {
+          "name": "Nick Andre",
+          "url": "https://open.spotify.com/artist/30pvn9DTpeyOxTAtOwKNiV"
+        },
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158009,
+      "name": "Up on Harvard Ave.",
+      "url": "https://open.spotify.com/track/4S4Cmnk1vHIToGPttXLHnh"
     },
     {
       "album": {
@@ -22596,6 +22846,24 @@
       "duration_ms": 232000,
       "name": "\u5bb5\u5bb5\u96ea\u82b1",
       "url": "https://open.spotify.com/track/6iIxRqJjExIvewfqpOX8Bf"
+    },
+    {
+      "album": {
+        "name": "\u67b6\u7a7a\u90fd\u5e02",
+        "url": "https://open.spotify.com/album/4gk9e4b1F40Gv5Vmkjj5ix"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "\u67b6\u7a7a\u90fd\u5e02",
+      "url": "https://open.spotify.com/track/1WR0Ow20xUHfXvYhKRHQYr"
     },
     {
       "album": {

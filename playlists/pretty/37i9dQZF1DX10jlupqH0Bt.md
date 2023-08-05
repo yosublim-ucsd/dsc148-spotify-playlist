@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,371 likes - 54 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,476 likes - 54 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 | 53 | [See \(Third Eye 852Hz\)](https://open.spotify.com/track/4DFwQXEIVn26fSd6GRC7Tb) | [Altered Perspectives](https://open.spotify.com/artist/5z8Dm6QOSwVNH9CG28xLzl), [L0<3\*](https://open.spotify.com/artist/5jAkNUHe2xCLAxAON1iuYW), [SINES](https://open.spotify.com/artist/2JX6iA3kZCBWVohNQ5lSq6) | [Altered Perspectives](https://open.spotify.com/album/4JBqvqMjI9bB5OVhoQnSiI) | 5:03 |
 | 54 | [Alignment 852 Hz](https://open.spotify.com/track/6yJXNUxkwtw0jXhy6a1Yrr) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Solfeggio Frequencies: Aligning for Change](https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE) | 3:45 |
 
-Snapshot ID: `MCxjOGZlMDQ2OTcxMjJjY2Y0NTE0NWI2Y2QwOWZjMDRkMmQyYzVmMjg5`
+Snapshot ID: `MCw1YzA0NTEzNmZmM2NiNmZhY2JmN2RhM2NiMGEyYjgyN2VhMDRmMmIw`

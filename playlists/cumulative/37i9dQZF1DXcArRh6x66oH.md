@@ -4,7 +4,7 @@
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-165 songs - 9 hr 57 min
+171 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ain't Nothin' to It](https://open.spotify.com/track/4QWaq7U3fufJjy1rCBm6ds) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:22 | 2023-02-24 |  |
 | [Ain't Proud](https://open.spotify.com/track/6ykRYSG0m2iuoArpjDpJrT) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Ain't Proud](https://open.spotify.com/album/2BMZC0Al0UlwdvvtwYSptW) | 3:26 | 2023-05-05 | 2023-07-28 |
 | [Albuquerque](https://open.spotify.com/track/3gkLQWgABigJvtmdA2hJfj) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Albuquerque](https://open.spotify.com/album/5x86pNR8YiqkNXhwkeusNb) | 3:09 | 2023-04-28 |  |
+| [All Again](https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties \(Sampler\)](https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz) | 3:48 | 2023-08-04 |  |
 | [All My Love](https://open.spotify.com/track/7ByxizhA4GgEf7Sxomxhze) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:11 | 2023-05-22 |  |
 | [All Your'n](https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:38 | 2023-02-24 |  |
 | [Allergy Season](https://open.spotify.com/track/7iABcQjrZuN8bZaQyYLJcf) | [Levi Turner](https://open.spotify.com/artist/0QwS0oC5xcBWPmWfjGAhH6) | [Allergy Season](https://open.spotify.com/album/4Mz9ZrzR4jm3wwsbIXArvp) | 3:33 | 2023-06-23 |  |
@@ -38,6 +39,7 @@
 | [Come Back Down](https://open.spotify.com/track/6BCtcTbcAyXRx3AKRgnWEk) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Medicine Man](https://open.spotify.com/album/6nmGkTVbK3Vcq4GFELHynr) | 4:33 | 2023-02-24 |  |
 | [Condemned](https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:54 | 2023-02-24 |  |
 | [Corralling the Blues](https://open.spotify.com/track/2DsHa2ozp5MveeKjylgKWF) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Corralling the Blues](https://open.spotify.com/album/1GWoPqXhA9YAUTb95Y4V8t) | 2:27 | 2023-07-14 |  |
+| [Could've Been Her](https://open.spotify.com/track/1I8EAskXPELoy0q3EkErsg) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:25 | 2023-08-04 |  |
 | [Cowpoke](https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI) | 3:12 | 2023-02-24 |  |
 | [Dancing in the Sky](https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Dancing in the Sky](https://open.spotify.com/album/7yesav1UJgVC74RFifnzM9) | 3:06 | 2023-06-02 |  |
 | [Dark Black Coal](https://open.spotify.com/track/4u0P6WKN5NQRz6wDRgDSlR) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Dark Black Coal](https://open.spotify.com/album/0Lf1eMtFx8X9ph0VmVMG7Z) | 4:14 | 2023-05-05 |  |
@@ -53,6 +55,7 @@
 | [Eveline](https://open.spotify.com/track/6wgCah9IU4VP9zqqMSVxk7) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [farmland](https://open.spotify.com/album/7HD3bbzKRfWsKX5KvaQTe4) | 3:50 | 2023-02-24 |  |
 | [Even Jesus Got The Blues](https://open.spotify.com/track/3O6pwu8y1SGJudoAiLouGy) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Even Jesus Got The Blues](https://open.spotify.com/album/54V2QD9hvipUq4629FNm36) | 3:31 | 2023-04-14 | 2023-07-01 |
 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2023-03-27 |  |
+| [Everything We Need](https://open.spotify.com/track/6lmJ5Nn7CrAmZkuMejx8YZ) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [Everything We Need](https://open.spotify.com/album/5gDSgkqX0dEzmOyVKANv7M) | 3:33 | 2023-08-04 |  |
 | [Fall In Love](https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:52 | 2023-06-05 |  |
 | [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2023-02-24 | 2023-06-08 |
 | [Feathered Indians](https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:44 | 2023-02-24 |  |
@@ -66,6 +69,7 @@
 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 | 2023-02-24 |  |
 | [Goodbye World](https://open.spotify.com/track/2R1FGbXB0bELZvaP1hmOmz) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Sunday Morning](https://open.spotify.com/album/2A9iLSQg4UvUDFBOMxWaoo) | 3:28 | 2023-05-19 | 2023-07-01 |
 | [Growing Sideways](https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:15 | 2023-05-22 |  |
+| [Hair Salon](https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:44 | 2023-08-04 |  |
 | [Happier Alone](https://open.spotify.com/track/3cTPILvh238II28NyF5OEf) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone](https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j) | 3:44 | 2023-05-12 |  |
 | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC) | 3:44 | 2023-02-24 | 2023-05-13 |
 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 | 2023-02-24 |  |
@@ -134,6 +138,7 @@
 | [She Likes the Beatles](https://open.spotify.com/track/38iGqJQPZcTYNx6bdR5YWC) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Rose Queen](https://open.spotify.com/album/0owdopMgxzzssx6JVV86s5) | 4:16 | 2023-02-24 |  |
 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 | 2023-02-24 |  |
 | [Silver Lining](https://open.spotify.com/track/7Cmd1xEuyrUYtiLbbeBfgJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:50 | 2023-03-24 |  |
+| [Sleep on My Side](https://open.spotify.com/track/0qOdElKqdDKN58aKCo3yHS) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:08 | 2023-08-04 |  |
 | [Sleeping Alone](https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Homeland Insecurity](https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422) | 3:50 | 2023-02-24 |  |
 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 | 2023-02-24 |  |
 | [Smell Like Smoke](https://open.spotify.com/track/3FQL51eEwEDRw8YQj9Vlwc) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 2:48 | 2023-03-03 |  |
@@ -164,6 +169,7 @@
 | [White River](https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [White River](https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG) | 3:33 | 2023-02-24 |  |
 | [Why](https://open.spotify.com/track/40oF62UXziCZaX3S3UtGuZ) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb) | 3:17 | 2023-02-24 | 2023-06-02 |
 | [Why](https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR) | 3:17 | 2023-05-22 |  |
+| [Why Johnny](https://open.spotify.com/track/3yCcJIX6VbB1DKXrIsm0BE) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 4:01 | 2023-08-04 |  |
 | [Wicked Twisted Road](https://open.spotify.com/track/22HHKW1Z3NhxUFV0tOV6Iv) | [Reckless Kelly](https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg) | [Wicked Twisted Road](https://open.spotify.com/album/7GOAyWeR97lIJ5kgHwRWFC) | 3:25 | 2023-02-24 |  |
 | [Wild as Her](https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg) | 3:19 | 2023-02-24 | 2023-06-06 |
 | [Wild as Her](https://open.spotify.com/track/3kXH9BQq0TyNliiP1MIE6N) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Blacktop](https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi) | 3:21 | 2023-06-05 |  |

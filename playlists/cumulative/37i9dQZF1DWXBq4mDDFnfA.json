@@ -773,6 +773,28 @@
     },
     {
       "album": {
+        "name": "Poulenc: Complete Chamber Music",
+        "url": "https://open.spotify.com/album/1wuDEkqo7hR06VieUrIGeB"
+      },
+      "artists": [
+        {
+          "name": "Francis Poulenc",
+          "url": "https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY"
+        },
+        {
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166120,
+      "name": "Sarabande for Guitar, FP 179",
+      "url": "https://open.spotify.com/track/57kjlZb922AMJJKWCfpNLl"
+    },
+    {
+      "album": {
         "name": "Chitarra Giocosa",
         "url": "https://open.spotify.com/album/4hsz409ORqBPBdd9BkpzFr"
       },

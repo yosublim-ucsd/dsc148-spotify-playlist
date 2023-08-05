@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Alex Luna",
+  "description": "Fresh Latin pop on the rise. Cover: Ingratax",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -1078,6 +1078,24 @@
       "duration_ms": 172384,
       "name": "Braille",
       "url": "https://open.spotify.com/track/1BnyQf6WeVs32MZF5ah9u0"
+    },
+    {
+      "album": {
+        "name": "Brillantina",
+        "url": "https://open.spotify.com/album/6xJf96sSXhVYsAlNJ4WWUl"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "Brillantina",
+      "url": "https://open.spotify.com/track/6jdmBiyGFqqSmShFLoNkkL"
     },
     {
       "album": {
@@ -2439,6 +2457,28 @@
     },
     {
       "album": {
+        "name": "El Man Perfecto",
+        "url": "https://open.spotify.com/album/6gifQZChGomZlbjyvvG7wK"
+      },
+      "artists": [
+        {
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        },
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212706,
+      "name": "El Man Perfecto",
+      "url": "https://open.spotify.com/track/6liVt4KfKzMQ4vdedo8Ld2"
+    },
+    {
+      "album": {
         "name": "ANASTASIA",
         "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
       },
@@ -3282,7 +3322,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 139716,
       "name": "hotel san juan",
       "url": "https://open.spotify.com/track/5Di7ARBdcVfesKYlcyCdun"
@@ -3336,7 +3376,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 136426,
       "name": "I Try For You",
       "url": "https://open.spotify.com/track/5rVbqzznJzjD8VnlwBdbsC"
@@ -4034,7 +4074,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 166771,
       "name": "LIC\u00c1NTROPO",
       "url": "https://open.spotify.com/track/3HjaJVZlDcX7b1lxCuE3Ko"
@@ -4164,7 +4204,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 202106,
       "name": "Los Mejores A\u00f1os",
       "url": "https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn"
@@ -4604,7 +4644,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 172077,
       "name": "mi man\u00e1",
       "url": "https://open.spotify.com/track/0zhV7fyFkmRz69TzajWjdO"
@@ -4884,6 +4924,36 @@
       "duration_ms": 185972,
       "name": "Muchachitos Feat. Humbe",
       "url": "https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM"
+    },
+    {
+      "album": {
+        "name": "Mucho Peor - Spotify Singles",
+        "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        },
+        {
+          "name": "Joaquina Mertz",
+          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+        },
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        },
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211791,
+      "name": "Mucho Peor - Spotify Singles",
+      "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
     },
     {
       "album": {
@@ -6497,6 +6567,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/2YCoLtzdiW3YAiYzEiADm0"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206546,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61"
+    },
+    {
+      "album": {
         "name": "Ramona Flowers",
         "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
       },
@@ -6632,6 +6720,24 @@
       "duration_ms": 142054,
       "name": "Robot",
       "url": "https://open.spotify.com/track/5Dgbojt1HsytRAL3Vss7HI"
+    },
+    {
+      "album": {
+        "name": "Rosita Sakura",
+        "url": "https://open.spotify.com/album/4FUcl9yeddUzRuIWh1eeAK"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148073,
+      "name": "Rosita Sakura",
+      "url": "https://open.spotify.com/track/3eMgAnyfJ6Ax6GymY2rjsD"
     },
     {
       "album": {
@@ -7150,6 +7256,24 @@
       "duration_ms": 179805,
       "name": "Solos",
       "url": "https://open.spotify.com/track/7vEPWsovwnkHa2fN5I3tST"
+    },
+    {
+      "album": {
+        "name": "Soltando A Pedazos",
+        "url": "https://open.spotify.com/album/5KsQBvqPKCWGC15MCPOaJy"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164673,
+      "name": "Soltando A Pedazos",
+      "url": "https://open.spotify.com/track/54Hpm4MoCvzmlO6yvD2wj0"
     },
     {
       "album": {
@@ -7916,7 +8040,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 206400,
       "name": "TURISMO",
       "url": "https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS"

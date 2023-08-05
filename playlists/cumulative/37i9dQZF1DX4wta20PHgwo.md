@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-385 songs - 1 day 11 hr 32 min
+386 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Is There a Way](https://open.spotify.com/track/4ZaXpHGVShRlMwFKe6SOnP) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 4:05 | 2022-07-21 |  |
 | [Isabela](https://open.spotify.com/track/3sRMYgT5GinbUCw5pkGfKB) | [Oded Tzur](https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Petros Klampanis](https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B), [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Isabela](https://open.spotify.com/album/53IXzlGp6ibwzN5DHR156U) | 10:50 | 2022-05-12 |  |
 | [It Ain't Necessarily So](https://open.spotify.com/track/2qswPLZD9CbUoSidGNyxwm) | [Mary Lou Williams](https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR) | [Gilles Peterson \- Magic Peterson Sunshine](https://open.spotify.com/album/6VflpBTIdO5wvutZII2Grw) | 4:40 | 2020-05-02\* |  |
-| [It Never Entered My Mind](https://open.spotify.com/track/1vawGyH0kTmE8SCADEI5k2) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [It Never Entered My Mind](https://open.spotify.com/album/5lorPM42rAyHXCrnMecPmP) | 8:45 | 2023-08-03 |  |
+| [It Never Entered My Mind](https://open.spotify.com/track/1vawGyH0kTmE8SCADEI5k2) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [It Never Entered My Mind](https://open.spotify.com/album/5lorPM42rAyHXCrnMecPmP) | 8:45 | 2023-08-03 | 2023-08-05 |
 | [It Never Entered My Mind](https://open.spotify.com/track/6zGHpPBJFxudCfvrCmo6EF) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Hans Andersson](https://open.spotify.com/artist/0u7AFb2NdypFhoLJ8tYH8I), [Johan Lofcrantz Ramsay](https://open.spotify.com/artist/3yV0vWr0YdP5rPERtUL775), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS) | [It Never Entered My Mind](https://open.spotify.com/album/3nqEfqV0hlxvOegVjThfKq) | 6:15 | 2021-12-04 |  |
 | [It's Always You](https://open.spotify.com/track/6w4GCn9Tg8iJLUZlN3fxB7) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker My Ideal](https://open.spotify.com/album/2rdeJjByPHjFzKgMXg3JwC) | 3:31 | 2020-05-02\* | 2021-09-01 |
 | [January](https://open.spotify.com/track/3bPNIOqP9KeWX0Z6SpM4qC) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/5nizuls1o8fJQ0S5xR3WZM) | 8:38 | 2020-05-02\* | 2022-07-26 |
@@ -211,6 +211,7 @@
 | [Mood](https://open.spotify.com/track/1LS7O7v95kU5BbZny7ooni) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P.](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 8:50 | 2021-02-26 | 2022-03-11 |
 | [Mother Stands for Comfort](https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [return to casual](https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s) | 4:07 | 2023-06-01 |  |
 | [Mother Stands for Comfort](https://open.spotify.com/track/5e7Cm6pTeymXvHKfsXyJMx) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Mother Stands For Comfort](https://open.spotify.com/album/3VMS5nN5sKgqt1GAvihrkt) | 4:07 | 2023-03-02 | 2023-05-17 |
+| [Mountains, Trees and Seas](https://open.spotify.com/track/6h52zNa8ChwfY3SuQb1NzD) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Mountains, Trees and Seas](https://open.spotify.com/album/16xRAk41n6Qpmz0kput949) | 5:06 | 2023-08-03 |  |
 | [Music For Some Film](https://open.spotify.com/track/5iiM7aAhdPWhzvoGtSqGtP) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 7:52 | 2022-04-07 | 2023-02-08 |
 | [My Foolish Heart](https://open.spotify.com/track/6J973mNweqCDzoGfl2v8SA) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/3jrQgQYZ3WDW3mn55SFuUv) | 4:57 | 2020-05-02\* | 2022-04-15 |
 | [My Funny Valentine](https://open.spotify.com/track/7LdrTu0apcwGJi3B5WWYnk) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 3:24 | 2021-12-17 |  |

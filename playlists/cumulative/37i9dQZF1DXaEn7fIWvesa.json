@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-14",
-  "description": "A lo cubano \ud83d\udd25 Con Descemer Bueno & Gente de Zona en portada.",
+  "description": "A lo cubano \ud83d\udd25 Con El Micha en portada.",
   "name": "Cubat\u00f3n Miami",
   "tracks": [
     {
@@ -52,6 +52,24 @@
       "duration_ms": 342932,
       "name": "A Mi Manera",
       "url": "https://open.spotify.com/track/54VYbUPPoGKGiM0ZJeNTFE"
+    },
+    {
+      "album": {
+        "name": "Pa Mi Gente",
+        "url": "https://open.spotify.com/album/3qDh0pss8FNO5MPjjJnHHG"
+      },
+      "artists": [
+        {
+          "name": "El Micha",
+          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197816,
+      "name": "A Perriar",
+      "url": "https://open.spotify.com/track/2xWVVYZmPsf7F6epXIrIbf"
     },
     {
       "album": {
@@ -960,7 +978,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 173685,
       "name": "Secuestro",
       "url": "https://open.spotify.com/track/5sK0UjjnF5STHk2wct5U9G"

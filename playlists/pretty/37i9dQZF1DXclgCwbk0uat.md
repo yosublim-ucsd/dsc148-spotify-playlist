@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Quevedo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,847,740 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,847,941 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 27 | [Ya No Pienso en Ti](https://open.spotify.com/track/447CO62bX92cmh13R0DAnk) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Ya No Pienso en Ti](https://open.spotify.com/album/4dVfr03Qqi1gpp2di7naIf) | 2:13 |
 | 28 | [Su Altura](https://open.spotify.com/track/3bclq6OXFKMmFaUoFLbO8E) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Su Altura](https://open.spotify.com/album/01Q6s2xUyvHYC2SAW1spjs) | 3:01 |
 | 29 | [Toda Guapa](https://open.spotify.com/track/6XLOKUNpCZRkWAKfEDeArF) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Toda Guapa](https://open.spotify.com/album/5jBPkUmcXBzPyff2y1Wzc2) | 2:35 |
-| 30 | [VÁMONOS PA LA EUROPA](https://open.spotify.com/track/2VfBDjJ0tZ9XUi24aQibTM) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [VÁMONOS PA LA EUROPA](https://open.spotify.com/album/1wI6Z4ek2MVDY3bKDtuXwe) | 3:12 |
+| 30 | [VÁMONOS PA LA EUROPA](https://open.spotify.com/track/2VfBDjJ0tZ9XUi24aQibTM) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [VÁMONOS PA LA EUROPA](https://open.spotify.com/album/1wI6Z4ek2MVDY3bKDtuXwe) | 3:12 |
 | 31 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 |
 | 32 | [Viviendo El Proceso <3](https://open.spotify.com/track/6P3e7ieiYq8ZITkkmW2Uim) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Viviendo El Proceso <3](https://open.spotify.com/album/3nsV4MTWKfJOiVfjZvnsMi) | 2:01 |
 | 33 | [Donde?](https://open.spotify.com/track/5iaGRmDzm4aPhttaOEK8OD) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [6.5](https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 |
 | 50 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 
-Snapshot ID: `MCxmYTUxYjRkZDRmNzhlYTM3YWM2OTk5NjE5MmU0YjYwZDhiODdlYTFi`
+Snapshot ID: `MCxlNDA4ODg1OTRhZjVlMDVjOTFkYTU3YTFiMDI0YjFlOWY5ZjQzYjE1`

@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM?si=iyU8ZgF1TN6hxaTEXBD7CQ\"> Cheque </a> ",
-  "num_followers": 23501,
+  "num_followers": 23570,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGY3MDUwYzVjZDI4Y2I4NjdjYWI1YzMwOTQ0Y2E2NzVkYjA3ZjVl",
+  "snapshot_id": "MCw2MDIzODM2ZWJmYTk1M2YwMjU2ZDUxM2I4ZWFjZjFiMDZiZDY2Zjk5",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -579,22 +579,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Not My Fault",
-        "url": "https://open.spotify.com/album/7973TCLuWKCvUWFbfSVVOs"
+        "name": "Earth Song",
+        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
       },
       "artists": [
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
         }
       ],
-      "duration_ms": 188750,
-      "name": "Not My Fault",
-      "url": "https://open.spotify.com/track/7KxZdsNygnVsFOHExpxymV"
+      "duration_ms": 183536,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -639,18 +635,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Earth Song",
-        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
+        "name": "Not My Fault",
+        "url": "https://open.spotify.com/album/7973TCLuWKCvUWFbfSVVOs"
       },
       "artists": [
         {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         }
       ],
-      "duration_ms": 183536,
-      "name": "Earth Song",
-      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
+      "duration_ms": 188750,
+      "name": "Not My Fault",
+      "url": "https://open.spotify.com/track/7KxZdsNygnVsFOHExpxymV"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Chequemate",
+        "url": "https://open.spotify.com/album/2EPnjTlC52Hr4LPIHNjcjt"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        }
+      ],
+      "duration_ms": 149628,
+      "name": "Way Too Young",
+      "url": "https://open.spotify.com/track/6CpKnWXqOXKaRoYXZr78GK"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Moving Mad",
         "url": "https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 126750,
       "name": "Omo X 100",
       "url": "https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Chequemate",
-        "url": "https://open.spotify.com/album/2EPnjTlC52Hr4LPIHNjcjt"
-      },
-      "artists": [
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        }
-      ],
-      "duration_ms": 149628,
-      "name": "Way Too Young",
-      "url": "https://open.spotify.com/track/6CpKnWXqOXKaRoYXZr78GK"
     },
     {
       "added_at": "2023-08-03 23:00:00",

@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-786 songs - 1 day 18 hr 49 min
+787 songs - 1 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [bad guy](https://open.spotify.com/track/4727RsuKMuY09HnC1ZD6yt) | [Crypto](https://open.spotify.com/artist/3hkBUDhKEiz64k5kTrd1QQ) | [bad guy](https://open.spotify.com/album/3Au2Jv6CGEyc9FLVT7moz9) | 2:18 | 2022-01-14 | 2022-02-10 |
 | [Bad Karma](https://open.spotify.com/track/5ZVujHtwnsqFJvLnqRSdch) | [Axel Thesleff](https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG) | [Bad Karma](https://open.spotify.com/album/0ST1YWy4B7KqmbVpAcVhlx) | 6:56 | 2022-11-22 |  |
 | [Bandaid \(with Corey Mouch\)](https://open.spotify.com/track/3v0uz2vv9JmVMVyppnHC7n) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7) | [Bandaid \(with Corey Mouch\)](https://open.spotify.com/album/0QZBvLW6rPnsKH72NoXa5e) | 3:52 | 2023-03-18 | 2023-07-29 |
+| [BATIDA DE FUNK](https://open.spotify.com/track/5cqTrRH9KD2vf8pi0mruHZ) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [BATIDA DE FUNK](https://open.spotify.com/album/219SHZSr9CjzSbuC6tTC70) | 1:25 | 2023-08-04 |  |
 | [Be Free](https://open.spotify.com/track/66CEPFHeeZuMTaODDOUwJj) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Be Free](https://open.spotify.com/album/1XWmso7QfG25h0xhu3eShw) | 3:12 | 2022-01-14 | 2022-01-29 |
 | [Beautiful Nothing](https://open.spotify.com/track/0x5j3PoYG2Hex2bUrbBX3v) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Beautiful Nothing](https://open.spotify.com/album/0MaD5lTQ32Np46N7qTmR4f) | 3:31 | 2023-07-14 |  |
 | [Begin](https://open.spotify.com/track/0T2n3HaXUmYa5m20OMvPDW) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Begin](https://open.spotify.com/album/2UILEJmXX3a0STzNJCWEqA) | 3:25 | 2023-04-08 | 2023-05-27 |

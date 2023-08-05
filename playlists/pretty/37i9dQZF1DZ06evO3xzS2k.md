@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,862 likes - 37 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,861 likes - 37 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 17 | [Somersault](https://open.spotify.com/track/1X3RzfQtAcsj3K6QE9l9IO) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:30 |
 | 18 | [Nineteen Ninety Heaven](https://open.spotify.com/track/3wsglsWrkeITfIWmYpY0Ge) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:40 |
 | 19 | [Bernie Sanders](https://open.spotify.com/track/5SQkUFHUn2Gsj5tfvNKoa0) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:07 |
-| 20 | [You Wind Me Up](https://open.spotify.com/track/6yUAD5PO15m2Vc4OZBloQw) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:59 |
+| 20 | [Plastic Migraine](https://open.spotify.com/track/2K4MJk3z1GgNKIElhcwT44) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:44 |
 | 21 | [Dig](https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:02 |
 | 22 | [Eaten by Worms](https://open.spotify.com/track/6cpbYfrmRRATj7MK89ZMox) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 5:00 |
 | 23 | [In Blueberry Memories](https://open.spotify.com/track/3wjWNCX6ADU9NaOSoRZhSQ) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 5:18 |
-| 24 | [Plastic Migraine](https://open.spotify.com/track/2K4MJk3z1GgNKIElhcwT44) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:44 |
+| 24 | [You Wind Me Up](https://open.spotify.com/track/6yUAD5PO15m2Vc4OZBloQw) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:59 |
 | 25 | [Hymn to the Pillory](https://open.spotify.com/track/5mR1Clx2pnR6RNSS0U3wq9) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:41 |
 | 26 | [The Dives \(Lazarus in Ashes\)](https://open.spotify.com/track/2sEGs6OadzAdCKJV5GOzvD) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 2:38 |
 | 27 | [Pattern After Us \- DOTB B Side](https://open.spotify.com/track/0W2TihuUErag5W2UeWnMQp) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Spirit of the Stairs \- B\-Sides & Rarities](https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF) | 3:40 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 33 | [The Mohegan \- DOTB B Side](https://open.spotify.com/track/7mlXr4SOCtD142pBgpVZzG) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Spirit of the Stairs \- B\-Sides & Rarities](https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF) | 3:19 |
 | 34 | [Suns and Lovers](https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 4:44 |
 | 35 | [Spell \- TOT B Side](https://open.spotify.com/track/1o7HsCCBFqZTcMFwKTw03X) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Spirit of the Stairs \- B\-Sides & Rarities](https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF) | 3:06 |
-| 36 | [The Rites of Love and Death](https://open.spotify.com/track/0AXEe3B8qM3ETJMPLHBPOn) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:50 |
-| 37 | [If Only](https://open.spotify.com/track/6ZFMqpt1Th8COlR0dUSFnb) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:01 |
+| 36 | [If Only](https://open.spotify.com/track/6ZFMqpt1Th8COlR0dUSFnb) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:01 |
+| 37 | [The Rites of Love and Death](https://open.spotify.com/track/0AXEe3B8qM3ETJMPLHBPOn) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:50 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDBkZGEyNTEwYmFlN2ZhMWE3NGU3YjdkZTgyMmViMmE1YQ==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDBlMjU4MjUxZmJiYmRiZTRjNTU3NjhmMTZlYjI4ZjU1Zg==`

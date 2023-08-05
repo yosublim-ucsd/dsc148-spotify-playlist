@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 
 > This is Isadora Pompeo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,407 likes - 43 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,461 likes - 43 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 10 | [Casinha Favorita](https://open.spotify.com/track/0M3B9SP1tUSu3uuwjz07PH) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 10:58 |
 | 11 | [Vou Me Humilhar](https://open.spotify.com/track/6XsCKaTpswfeXBak03mNhl) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vou Me Humilhar](https://open.spotify.com/album/1JEot4g3P0ySOuBGB9otLB) | 3:56 |
 | 12 | [Minha Morada \- Ao Vivo](https://open.spotify.com/track/4ndpiHFCHD9vMT39QFzkXU) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 6:51 |
-| 13 | [Como Nunca Antes](https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Como Nunca Antes](https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9) | 4:43 |
-| 14 | [Nem Um Segundo](https://open.spotify.com/track/7epXtZHT9aSqU4WRpbNrBA) | [Gabriel Pompeo](https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nem Um Segundo](https://open.spotify.com/album/1L0d5ejVgEd1og01wwET1u) | 5:49 |
+| 13 | [Nem Um Segundo](https://open.spotify.com/track/7epXtZHT9aSqU4WRpbNrBA) | [Gabriel Pompeo](https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nem Um Segundo](https://open.spotify.com/album/1L0d5ejVgEd1og01wwET1u) | 5:49 |
+| 14 | [Como Nunca Antes](https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Como Nunca Antes](https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9) | 4:43 |
 | 15 | [Oi, Jesus](https://open.spotify.com/track/24yMODgKNyQDvvCKlbwlxR) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Oi, Jesus](https://open.spotify.com/album/1mQXcTWqbRM5DNgOPN70N4) | 3:53 |
 | 16 | [Eu Sei Que Vem \- Ao Vivo](https://open.spotify.com/track/5UeQutpeNRqg21FBMiuStv) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 4:07 |
 | 17 | [Não Há o Que Temer](https://open.spotify.com/track/0OF4D4FGn9epxkXAJKFD86) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Não Há o Que Temer](https://open.spotify.com/album/7eTkm4rpXnIKxfbQXSIIoQ) | 4:12 |
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 34 | [Eu Tenho Você \(Remix\)](https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Me Faz Viver](https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN) | 3:11 |
 | 35 | [Confio em Ti](https://open.spotify.com/track/3UBwVX5qweI2yIrkvLjRzM) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Confio em Ti](https://open.spotify.com/album/1UHI806hrGV9QVZFjq7xJB) | 4:12 |
 | 36 | [A Casa é Sua + Labareda](https://open.spotify.com/track/5C4touLyxRJB5ES63KyX6r) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 8:07 |
-| 37 | [Guia\-me](https://open.spotify.com/track/2epjjOlDk4NrSMPtCvPkSc) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Guia\-me](https://open.spotify.com/album/2EEQMKmT4Ce4VCYWuWMSQS) | 4:08 |
-| 38 | [Saudade \- Ao Vivo](https://open.spotify.com/track/2hRiEBYbEY7jBAKm7QTkN1) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Saudade \(Ao Vivo\)](https://open.spotify.com/album/2a2qZ1sGQGjXwf7Net8rEy) | 3:56 |
+| 37 | [Saudade \- Ao Vivo](https://open.spotify.com/track/2hRiEBYbEY7jBAKm7QTkN1) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Saudade \(Ao Vivo\)](https://open.spotify.com/album/2a2qZ1sGQGjXwf7Net8rEy) | 3:56 |
+| 38 | [Guia\-me](https://open.spotify.com/track/2epjjOlDk4NrSMPtCvPkSc) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Guia\-me](https://open.spotify.com/album/2EEQMKmT4Ce4VCYWuWMSQS) | 4:08 |
 | 39 | [Espero Por Ti](https://open.spotify.com/track/00L5VK0Etex3Kolo7iglIV) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Espero Por Ti](https://open.spotify.com/album/6HPsW00Ig5tKjcU5jywqVb) | 5:48 |
 | 40 | [Assume A Responsa](https://open.spotify.com/track/3VTOIGYgtzpZRDMQugP22h) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 4:19 |
 | 41 | [10 Anos](https://open.spotify.com/track/6FN0YpMMkDM3ziaH14MC9m) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [10 Anos](https://open.spotify.com/album/5BqkDaAaj07vQuxqNgPx4z) | 3:19 |
 | 42 | [Tu És Tudo](https://open.spotify.com/track/674Ta2OaFPdY3dTJpTsZz6) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 12:53 |
 | 43 | [Diante De Ti](https://open.spotify.com/track/6kF89RbyQkJnpkVwO96q24) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 4:49 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDBiOTRlNGJiYWE4NjQ5MjNlYjgzMDU4N2UxNDYwNzQ2OQ==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDBjOGEwNWVmNTE5ZWNkYjVmMGVkODcwNDE3YjM3YzlmMQ==`

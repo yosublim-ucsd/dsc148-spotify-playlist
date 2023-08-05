@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Hand-picked indie to nourish the ears.",
+  "description": "Hand-picked and nourishing.",
   "name": "Garden Indie",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 229520,
       "name": "4Runner",
       "url": "https://open.spotify.com/track/6fHORDEAnP4POdVZB9kO9V"
+    },
+    {
+      "album": {
+        "name": "crumbs in my bed",
+        "url": "https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh"
+      },
+      "artists": [
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147400,
+      "name": "9 lives",
+      "url": "https://open.spotify.com/track/0v3qc1Q0LFX9jN7xQWasII"
     },
     {
       "album": {
@@ -1004,7 +1022,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 216027,
       "name": "Comingback - Single Version",
       "url": "https://open.spotify.com/track/6Z4au4V6reG130oGNDnXfU"
@@ -1026,6 +1044,28 @@
       "duration_ms": 238053,
       "name": "Corduroy",
       "url": "https://open.spotify.com/track/27fEdxOjoSUElncwegKiTb"
+    },
+    {
+      "album": {
+        "name": "Daisy Chain",
+        "url": "https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        },
+        {
+          "name": "Tayo Sound",
+          "url": "https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166600,
+      "name": "Daisy Chain",
+      "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
     },
     {
       "album": {
@@ -1058,7 +1098,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 288229,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/3xBIsExqz82twU9FWQjis2"
@@ -2549,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196739,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
+    },
+    {
+      "album": {
         "name": "Lover (Don\u2019t Let Me Down)",
         "url": "https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD"
       },
@@ -2902,7 +2960,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 188619,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
@@ -4090,7 +4148,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 188346,
       "name": "Stacking Chairs",
       "url": "https://open.spotify.com/track/779oVM9a1jQAnKUMKQdVMd"
@@ -4216,7 +4274,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 186573,
       "name": "Surreal",
       "url": "https://open.spotify.com/track/134Naq9YPOeBDXFUB7rdA9"
@@ -4541,6 +4599,24 @@
     },
     {
       "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
+    {
+      "album": {
         "name": "Vocation Vacation",
         "url": "https://open.spotify.com/album/77HAoGdR0QrRBusNIOx5Lt"
       },
@@ -4610,6 +4686,28 @@
       "duration_ms": 282920,
       "name": "When It Calls",
       "url": "https://open.spotify.com/track/2HJMJT8O9bUL42ftUpLRWM"
+    },
+    {
+      "album": {
+        "name": "Where Are Your Kids Tonight? (feat. John Grant)",
+        "url": "https://open.spotify.com/album/3zcyFcBDhb8rfthnlQnCPE"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        },
+        {
+          "name": "John Grant",
+          "url": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326093,
+      "name": "Where Are Your Kids Tonight? (feat. John Grant)",
+      "url": "https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0"
     },
     {
       "album": {

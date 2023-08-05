@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "YONAKA along with today's Rock songs you need to hear.",
+  "description": "Bring Me The Horizon along with today's Rock songs you need to hear.",
   "name": "Rock This",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 224178,
       "name": "2am",
       "url": "https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK"
+    },
+    {
+      "album": {
+        "name": "The Gutter",
+        "url": "https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174641,
+      "name": "6 Pack and Cigarettes",
+      "url": "https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ"
     },
     {
       "album": {
@@ -3550,7 +3568,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 250653,
       "name": "Love Will Get You There",
       "url": "https://open.spotify.com/track/4ycaDB5s90BpUyaS5nZwcI"
@@ -5529,6 +5547,24 @@
     },
     {
       "album": {
+        "name": "Still There",
+        "url": "https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189579,
+      "name": "Still There",
+      "url": "https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E"
+    },
+    {
+      "album": {
         "name": "Story Of My Life (feat. Trippie Redd)",
         "url": "https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6"
       },
@@ -6144,7 +6180,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 220765,
       "name": "The Void",
       "url": "https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW"

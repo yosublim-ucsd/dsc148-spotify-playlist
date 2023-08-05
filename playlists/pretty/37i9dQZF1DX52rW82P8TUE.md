@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,565 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,624 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 2 | [Dança do Canguru](https://open.spotify.com/track/1U4Vl0LRSvWtfBtRI6bnBN) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 2:53 |
 | 3 | [Aos Olhos do Pai](https://open.spotify.com/track/28ATy9KFpbfUujbB8ZMkWc) | [Crianças Diante do Trono](https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5) | [Crianças Diante do Trono](https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk) | 4:32 |
 | 4 | [Oceanos](https://open.spotify.com/track/2Ehjl2vMGZhWsNwRco3hMu) | [Rayne Almeida](https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj) | [Oceanos](https://open.spotify.com/album/3vt5PFQ9JUQbeL7AnfsK2j) | 3:54 |
-| 5 | [Não Temos Medo do Fogo](https://open.spotify.com/track/3tnh93byTIcpyhZYsLN93O) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Minha Vida É uma Viagem 5](https://open.spotify.com/album/2DCbdwhK6SoBW9XawSSrbK) | 3:05 |
-| 6 | [Eu Nasci](https://open.spotify.com/track/2dE7xXqKFCUAnL8njBXUrI) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Eu Nasci](https://open.spotify.com/album/2HmqtDhNBSUKR42VLi2Evl) | 3:34 |
+| 5 | [Eu Nasci](https://open.spotify.com/track/2dE7xXqKFCUAnL8njBXUrI) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Eu Nasci](https://open.spotify.com/album/2HmqtDhNBSUKR42VLi2Evl) | 3:34 |
+| 6 | [Não Temos Medo do Fogo](https://open.spotify.com/track/3tnh93byTIcpyhZYsLN93O) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Minha Vida É uma Viagem 5](https://open.spotify.com/album/2DCbdwhK6SoBW9XawSSrbK) | 3:05 |
 | 7 | [A Alegria Está no Coração](https://open.spotify.com/track/61PU43JNFgjn1zuAaAz96d) | [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Mara Lima e Seus Amiguinhos, Vol\. 6](https://open.spotify.com/album/1cAgUMSQibfGNArPNRIJKn) | 3:23 |
 | 8 | [Dança do Pinguim](https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:56 |
 | 9 | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/track/3lRfG9FccT67tuGboXeEZs) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/album/1F1pwnUBYMI9vFVpIQF97W) | 2:12 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 32 | [Com Jesus](https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2) | [Com Jesus](https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60) | 2:58 |
 | 33 | [Toc Toc Toc \- Baby Fun \- Remix](https://open.spotify.com/track/6KjIPIOhwSHq2K4ItYRDJb) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Toc Toc Toc \- Baby Fun \(Remix\)](https://open.spotify.com/album/1g7vUqTtKS2DzSRn3lugll) | 2:17 |
 | 34 | [Chevere \(feat\. Lito Atalaia\)](https://open.spotify.com/track/3Ecllma7tEPF8gZZZsNp1v) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Chevere \(feat\. Lito Atalaia\)](https://open.spotify.com/album/2nuYrKJ4TCQ1B9ZV2Mjupg) | 3:33 |
-| 35 | [Tudo Vai Terminar Bem](https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Tudo Vai Terminar Bem](https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA) | 3:45 |
-| 36 | [Tic Tac](https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx) | [Talitha Franco](https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Tic Tac](https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk) | 3:08 |
+| 35 | [Tic Tac](https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx) | [Talitha Franco](https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Tic Tac](https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk) | 3:08 |
+| 36 | [Tudo Vai Terminar Bem](https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Tudo Vai Terminar Bem](https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA) | 3:45 |
 | 37 | [Verdadeiro Amor](https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2), [Olívia Teles](https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ) | [Verdadeiro Amor](https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH) | 3:31 |
 | 38 | [Deus Grandão](https://open.spotify.com/track/4P0TyPgmAOq2gVQJf7LMV5) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Grandão](https://open.spotify.com/album/1zkpj6qPydhF9RAaDnrWRn) | 4:11 |
 | 39 | [Jesus Me Ama Tanto](https://open.spotify.com/track/0J8hD8AoGlQipoHU6LF6ZX) | [Arieta Magrini](https://open.spotify.com/artist/3KPggmoiyvKE7nhNdJ3sL5), [Metodista Kids](https://open.spotify.com/artist/2IsqqcA3KOtxZHKplFVUaa) | [Jesus Me Ama Tanto](https://open.spotify.com/album/2Zz9nQm8tCtURbCYJnN0mc) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 49 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
 | 50 | [Satisfação](https://open.spotify.com/track/5rmBG2lYpzQFXU5LXrWHTE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Satisfação](https://open.spotify.com/album/7dNxBMr0QOAUD3ydFcCH8f) | 2:17 |
 
-Snapshot ID: `MCxlNThlNGU0ZGE5N2Q5YzRmYTgyOWE3OTM2NDQ5ZjA5NmU0YjdlNzE4`
+Snapshot ID: `MCw0NjE0NjE5MjhhZmU4YjFmOWM1MTBlODUwYTBlNDcxYzE4NzlhZTZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,980 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,105 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 59 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 |
 | 60 | [The Star Room \(OG Version\) \- Bonus Track](https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Watching Movies with the Sound Off \(10th Anniversary\)](https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp) | 4:24 |
 
-Snapshot ID: `MCxhMmE2YjM3ODYwMjA1MmNiMmE1ODQwNmUxNTQ0NGJlZjE4ZmNkMWUx`
+Snapshot ID: `MCwxNGI1M2E5OTRjYjRlYzQ2MjliZGYzYjc5NjJkMjk0ZjcxZDllMTcz`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: maryjo",
+  "description": "Dark, hard hitting pop. Cover: SNOW WIFE",
   "name": "SALT",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 181191,
       "name": "21st Century Princess",
       "url": "https://open.spotify.com/track/7t5szdTagFPMLCfTFKPG9c"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 183511,
       "name": "BABY DON'T BURN",
       "url": "https://open.spotify.com/track/73VT1cKHeq36m5Dt6N80jw"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 168365,
       "name": "blue",
       "url": "https://open.spotify.com/track/78PzKHIuCAv8ve3VLIfCI8"
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 166309,
       "name": "brokenboys&bitterbitches",
       "url": "https://open.spotify.com/track/7wX1A5JaAhBZyTSdfARBSE"
@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 165172,
       "name": "F U It's Over",
       "url": "https://open.spotify.com/track/3U2vi9J7dN7X2ZqYSfOIht"
@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 153384,
       "name": "Father, Son, Holy Ghost",
       "url": "https://open.spotify.com/track/0aJb0z0Izv8Hjr3Oh4nC4Y"
@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 140598,
       "name": "feelings",
       "url": "https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz"
@@ -2656,6 +2656,28 @@
       "duration_ms": 148793,
       "name": "Found You On The Internet",
       "url": "https://open.spotify.com/track/5BhoSA4HfIzX1E1alpU2z0"
+    },
+    {
+      "album": {
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/2R4cBv4crCsgmscopkR67j"
+      },
+      "artists": [
+        {
+          "name": "Jake Daniels",
+          "url": "https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh"
+        },
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127800,
+      "name": "Freak Show",
+      "url": "https://open.spotify.com/track/4dL8cY3jCkVgip6827j3PE"
     },
     {
       "album": {
@@ -3052,7 +3074,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 130613,
       "name": "GOOD ENEMY",
       "url": "https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l"
@@ -3524,7 +3546,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 240937,
       "name": "Hot Gum",
       "url": "https://open.spotify.com/track/3ENzDf9yNtgQ3NPSOfVhN8"
@@ -3924,7 +3946,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 200568,
       "name": "Imitate",
       "url": "https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA"
@@ -4202,7 +4224,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
@@ -4242,7 +4264,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 190344,
       "name": "Late Nights",
       "url": "https://open.spotify.com/track/1H8pQCxDEq0kFO99KBfAys"
@@ -4660,6 +4682,28 @@
       "duration_ms": 158918,
       "name": "Make A Wish",
       "url": "https://open.spotify.com/track/4zuYVAvlOW5rxDjyEzii6N"
+    },
+    {
+      "album": {
+        "name": "Make Me Cry (feat. Deadbeat Girl)",
+        "url": "https://open.spotify.com/album/2DiEV6hfnGqeCud4kf5gyK"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        },
+        {
+          "name": "Deadbeat Girl",
+          "url": "https://open.spotify.com/artist/6V267iCF72e4eP1L3ZkKQt"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210707,
+      "name": "Make Me Cry (feat. Deadbeat Girl)",
+      "url": "https://open.spotify.com/track/2iv9L7pBxfuGIRbJx7ip1D"
     },
     {
       "album": {
@@ -5272,7 +5316,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 154586,
       "name": "Only Love Can Save Us Now",
       "url": "https://open.spotify.com/track/6EP9E1OLjmwe6sJlu3EyZN"
@@ -5872,7 +5916,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 171199,
       "name": "RENT FREE",
       "url": "https://open.spotify.com/track/63OJuAjBAhM0SV7EKAXVC3"
@@ -6352,7 +6396,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 134117,
       "name": "sickly sweet",
       "url": "https://open.spotify.com/track/23v6BY613BSU5UaRhQ7mYB"
@@ -6396,7 +6440,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 199233,
       "name": "Sicko (feat. Paycheck & TIMMS)",
       "url": "https://open.spotify.com/track/3NeuyR9x5qZDL9Jwn6fWGL"
@@ -7161,6 +7205,24 @@
     },
     {
       "album": {
+        "name": "This City is a Graveyard",
+        "url": "https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH"
+      },
+      "artists": [
+        {
+          "name": "Baby Storme",
+          "url": "https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187377,
+      "name": "This City is a Graveyard",
+      "url": "https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH"
+    },
+    {
+      "album": {
         "name": "this is how i learn to say no",
         "url": "https://open.spotify.com/album/3iW6t3t4c18qRC8NjvHenG"
       },
@@ -7334,7 +7396,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 159909,
       "name": "touching myself",
       "url": "https://open.spotify.com/track/4Syo2P98egu33XoKqnywLg"
@@ -7688,7 +7750,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 247873,
       "name": "VOID",
       "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
@@ -7785,6 +7847,24 @@
     },
     {
       "album": {
+        "name": "Wasting Away",
+        "url": "https://open.spotify.com/album/0fpzU9fJOvKBQkMm6TAU7g"
+      },
+      "artists": [
+        {
+          "name": "Cat & Calmell",
+          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164240,
+      "name": "Wasting Away",
+      "url": "https://open.spotify.com/track/0rJ0SYEc5UGjgQuDFozKer"
+    },
+    {
+      "album": {
         "name": "Watch Me",
         "url": "https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B"
       },
@@ -7868,7 +7948,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 182925,
       "name": "Welcome To The Real World",
       "url": "https://open.spotify.com/track/1qqFDzFd2AZTKP542DsJOZ"

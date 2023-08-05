@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Lainey Wilson",
+  "description": "Today's top country hits. Cover: Brett Young",
   "name": "Hot Country",
   "tracks": [
     {
@@ -3536,7 +3536,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 155120,
       "name": "Girl In Mine",
       "url": "https://open.spotify.com/track/2DPqR0kuZVjrOF5oxIRYPy"
@@ -4494,6 +4494,28 @@
       "duration_ms": 209109,
       "name": "Heartache Medication",
       "url": "https://open.spotify.com/track/6ZvAXIWw3rw8WR0Xlmifri"
+    },
+    {
+      "album": {
+        "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
+        "url": "https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197803,
+      "name": "Heartbroken - Jessie Version",
+      "url": "https://open.spotify.com/track/60bbiP93CSxmLibuwvxay9"
     },
     {
       "album": {
@@ -5593,6 +5615,24 @@
     },
     {
       "album": {
+        "name": "In Your Love",
+        "url": "https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225826,
+      "name": "In Your Love",
+      "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
+    },
+    {
+      "album": {
         "name": "It All Comes Out in the Wash",
         "url": "https://open.spotify.com/album/2RaCnBxNkh1efVm5m7lQv6"
       },
@@ -6524,7 +6564,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 210813,
       "name": "Love You a Little Bit",
       "url": "https://open.spotify.com/track/0isqpzdmr2hsKb50uBSCdo"

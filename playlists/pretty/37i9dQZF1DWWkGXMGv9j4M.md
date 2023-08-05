@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,019 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,022 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 | 22 | [Idaho](https://open.spotify.com/track/4FvqAI5GwPspJE3TkMGnEb) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 4:05 |
 | 23 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
 | 24 | [Pretty Boy](https://open.spotify.com/track/7IL8PSVwLOJxqYne6azxQv) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 3:54 |
-| 25 | [Chika \(Scared\)](https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Chika \(scared\)](https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z) | 2:48 |
+| 25 | [Chika \(scared\)](https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Chika \(scared\)](https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z) | 2:48 |
 | 26 | [SUNRISE](https://open.spotify.com/track/0C3sscH57PNeQ8dmY6xTIR) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SUNRISE](https://open.spotify.com/album/6m24WJWs47zUE3d3VhOdK3) | 2:56 |
 | 27 | [Tonight \(I Wish I Was Your Boy\)](https://open.spotify.com/track/7DmTaJoM7L020qm3egqNsM) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:07 |
 | 28 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 | 99 | [Loner](https://open.spotify.com/track/6ELEjTrMflbYVxguHiukjk) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 3:12 |
 | 100 | [For Props](https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Sundry Rock Song Stock](https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy) | 3:43 |
 
-Snapshot ID: `MCxiMGEyYzU1Njg5ZjMxYWQyOTI5MDNmMTdiZDhhY2FiZmI5YjgyMjg0`
+Snapshot ID: `MCxjNTU2OTgyMGI4NjJiZDVkYzc3NGUwYTMzZGQwY2I1MTU2YTYwYjIx`

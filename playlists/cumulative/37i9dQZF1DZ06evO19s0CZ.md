@@ -4,12 +4,13 @@
 
 > This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-79 songs - 5 hr 23 min
+80 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 | 2022-01-09 |  |
 | [19th Nervous Breakdown \- Mono Version](https://open.spotify.com/track/21ElXnithj4MX8E4rg5lh8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks \(1964\-1971\)](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 3:56 | 2022-01-09 | 2022-03-06 |
+| [19th Nervous Breakdown \- Mono Version](https://open.spotify.com/track/4ImKOn34SKnoY0OH7lkLKP) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/17BYe75slJy2AWCLJBlhvO) | 3:57 | 2023-08-04 |  |
 | [Almost Hear You Sigh \- Remastered](https://open.spotify.com/track/2r41JRUZ5Cjcx98ARVI0vo) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Steel Wheels \(Remastered 2009\)](https://open.spotify.com/album/7yUBkHdrxKHn4a3QhrfEj4) | 4:37 | 2022-02-06 | 2022-10-09 |
 | [Angie \- Remastered 2009](https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \(Remastered 2009\)](https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9) | 4:32 | 2022-01-09 |  |
 | [Anybody Seen My Baby? \- Remastered 2009](https://open.spotify.com/track/4tXr9v3K7nWW1aebWqR1B7) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Bridges To Babylon \(Remastered\)](https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7) | 4:31 | 2022-01-09 |  |
@@ -63,7 +64,7 @@
 | [Rip This Joint](https://open.spotify.com/track/0SojSZcka4j8l8Sl0W9jUZ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 2:23 | 2022-05-15 |  |
 | [Rip This Joint \- Live At The El Mocambo 1977](https://open.spotify.com/track/7givGIDyNXr6aV9bUHhlYE) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [It’s Only Rock ’N’ Roll \(But I Like It\) / Rip This Joint \[Live At The El Mocambo 1977\]](https://open.spotify.com/album/1LNkP9TVG6KSk5wbXwbcM3) | 2:11 | 2022-04-05 | 2022-04-29 |
 | [Rocks Off](https://open.spotify.com/track/42o3gy9e8dzBHvQE991ad8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 4:31 | 2022-01-09 |  |
-| [Route 66](https://open.spotify.com/track/1FRP8d6l2jm3DS5f78ZrhK) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones](https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX) | 2:20 | 2022-04-01 |  |
+| [Route 66](https://open.spotify.com/track/1FRP8d6l2jm3DS5f78ZrhK) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones](https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX) | 2:20 | 2022-04-01 | 2023-08-05 |
 | [Ruby Tuesday](https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Between The Buttons](https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5) | 3:16 | 2022-01-09 |  |
 | [Shattered \- Remastered](https://open.spotify.com/track/0FfZBWDv7p63yj6oh2I2PS) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 3:46 | 2022-01-09 |  |
 | [She's A Rainbow](https://open.spotify.com/track/6KOtheMY0KN4s9TrQHr9It) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [She's A Rainbow / Dandelion / We Love You](https://open.spotify.com/album/0ZVb7BLZuvx9ZZebd9i3lu) | 4:13 | 2022-01-09 |  |
@@ -77,7 +78,7 @@
 | [Sweet Virginia](https://open.spotify.com/track/1hJrWWK74fKL7eeV3CFOvF) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 4:26 | 2022-01-09 |  |
 | [Sympathy For The Devil \- 50th Anniversary Edition](https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 6:18 | 2022-01-09 |  |
 | [The Last Time \- Mono Version](https://open.spotify.com/track/7foiOmd1Je7Z0D3TaZCDro) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:41 | 2022-01-09 | 2023-05-27 |
-| [The Last Time \- Mono Version](https://open.spotify.com/track/2kdVIVKTMRC3WNJ9m9BAXN) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/17BYe75slJy2AWCLJBlhvO) | 3:42 | 2023-08-03 |  |
+| [The Last Time \- Mono Version](https://open.spotify.com/track/2kdVIVKTMRC3WNJ9m9BAXN) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/17BYe75slJy2AWCLJBlhvO) | 3:42 | 2023-08-03 | 2023-08-05 |
 | [Time Is On My Side \- Mono Version](https://open.spotify.com/track/2jaN6NgXflZTj2z9CWcqaP) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones No\. 2](https://open.spotify.com/album/0MDhZ0yRkugNEg7PmMMUE8) | 2:59 | 2022-01-09 | 2022-10-20 |
 | [Tumbling Dice](https://open.spotify.com/track/4hq0S6wznq7SHDyMOFXL9i) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 3:46 | 2022-01-09 |  |
 | [Under My Thumb](https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:41 | 2022-01-09 |  |
@@ -86,6 +87,6 @@
 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 | 2022-01-09 |  |
 | [You Can't Always Get What You Want](https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 7:28 | 2022-01-09 |  |
 | [You Got Me Rocking](https://open.spotify.com/track/0JTrB3fXGdyGcwxFFECsm1) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Voodoo Lounge \(Remastered 2009\)](https://open.spotify.com/album/3oyjbpNQs5Qm5DNVJW4AlV) | 3:36 | 2023-05-07 | 2023-05-09 |
-| [You Got The Silver](https://open.spotify.com/track/2pbHaKsIRuIqjZHCLpyQMv) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 2:50 | 2023-04-27 | 2023-08-04 |
+| [You Got The Silver](https://open.spotify.com/track/2pbHaKsIRuIqjZHCLpyQMv) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 2:50 | 2023-04-27 |  |
 
 \*This playlist was first scraped on 2022-01-11. Prior content cannot be recovered.

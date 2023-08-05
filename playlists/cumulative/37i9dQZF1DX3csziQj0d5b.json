@@ -838,7 +838,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
@@ -856,7 +856,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 256687,
       "name": "Be My Mistake",
       "url": "https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 180000,
       "name": "Beautiful (feat. Camila Cabello)",
       "url": "https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF"
@@ -954,7 +954,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 194757,
       "name": "Beautiful Scars",
       "url": "https://open.spotify.com/track/1Hu42ZLWG9dHaVOPiWyEmE"
@@ -994,7 +994,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 238012,
       "name": "Break My Heart Again",
       "url": "https://open.spotify.com/track/0DGh73t9eaZA3X3ZXHf4Qe"
@@ -1290,6 +1290,24 @@
       "duration_ms": 220492,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
+    },
+    {
+      "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
     },
     {
       "album": {
@@ -1568,7 +1586,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 209732,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/16frIpnyUb9poRwQxQTmaC"
@@ -1782,7 +1800,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 260285,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
@@ -2558,7 +2576,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 204266,
       "name": "Eyes Off You",
       "url": "https://open.spotify.com/track/0VpEX8ib3wE7u8NOw4szU6"
@@ -2718,6 +2736,24 @@
       "duration_ms": 152666,
       "name": "favorite crime",
       "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
+    },
+    {
+      "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185552,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
     },
     {
       "album": {
@@ -3008,7 +3044,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 160517,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
@@ -3594,6 +3630,24 @@
       "duration_ms": 191813,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5M5IB1cNzJqbWFEUK4a1MD"
+    },
+    {
+      "album": {
+        "name": "Hello My Name Is",
+        "url": "https://open.spotify.com/album/2J1sl3AmTdeaDKIR0SWlUa"
+      },
+      "artists": [
+        {
+          "name": "Kyle Hume",
+          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Hello My Name Is",
+      "url": "https://open.spotify.com/track/3ekyM2RKssRCbqVhrVt2R0"
     },
     {
       "album": {
@@ -4590,7 +4644,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 249191,
       "name": "Ivy",
       "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
@@ -5218,7 +5272,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 219040,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj"
@@ -5428,7 +5482,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 234623,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX"
@@ -5786,7 +5840,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 162732,
       "name": "Make It To Me",
       "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
@@ -6356,7 +6410,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 197182,
       "name": "Naked - Bonus Track",
       "url": "https://open.spotify.com/track/0SbOpoBzBBCqWIcvo94JeD"
@@ -6508,7 +6562,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5"
@@ -6649,6 +6703,24 @@
     },
     {
       "album": {
+        "name": "One More Shot (One Take Version)",
+        "url": "https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI"
+      },
+      "artists": [
+        {
+          "name": "CIL",
+          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141184,
+      "name": "One More Shot",
+      "url": "https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN"
+    },
+    {
+      "album": {
         "name": "One Right Now",
         "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
       },
@@ -6722,7 +6794,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 163733,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/3fGW43fnu3OHEw6ohTC2Bw"
@@ -7427,6 +7499,24 @@
     },
     {
       "album": {
+        "name": "Red Wine Supernova",
+        "url": "https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192720,
+      "name": "Red Wine Supernova",
+      "url": "https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev"
+    },
+    {
+      "album": {
         "name": "Remember That Night?",
         "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
       },
@@ -7514,7 +7604,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 210666,
       "name": "Saturday Nights",
       "url": "https://open.spotify.com/track/5kfNriitmkNE8mUbZ7gbq8"
@@ -7623,6 +7713,24 @@
     },
     {
       "album": {
+        "name": "See You Later",
+        "url": "https://open.spotify.com/album/3F5wWjyaj0raSg2JFK1Yqw"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155733,
+      "name": "See You Later",
+      "url": "https://open.spotify.com/track/1Gu9Ub6kjlbsk64jY7Qjgs"
+    },
+    {
+      "album": {
         "name": "Crisis / Secret / Set Me Free",
         "url": "https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0"
       },
@@ -7718,6 +7826,24 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+    },
+    {
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219742,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN"
     },
     {
       "album": {
@@ -8418,7 +8544,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 207973,
       "name": "Superficial Love",
       "url": "https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE"
@@ -8454,7 +8580,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 224866,
       "name": "Sweet Creature",
       "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
@@ -8490,7 +8616,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 192896,
       "name": "Take Me Where Your Heart Is",
       "url": "https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI"
@@ -8798,7 +8924,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 197293,
       "name": "The Bones",
       "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
@@ -9132,7 +9258,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 232852,
       "name": "This Town",
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
@@ -9396,7 +9522,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 216864,
       "name": "Walked Through Hell",
       "url": "https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI"
@@ -9486,7 +9612,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 133747,
       "name": "Waves",
       "url": "https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC"
@@ -9562,7 +9688,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 159375,
       "name": "Weak",
       "url": "https://open.spotify.com/track/3UnfOb5hmnf4KF7NIgAj9a"
@@ -9624,6 +9750,24 @@
       "duration_ms": 184665,
       "name": "What Am I",
       "url": "https://open.spotify.com/track/0TMGV2zMZXOILVtQLtkI3G"
+    },
+    {
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199986,
+      "name": "What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
     },
     {
       "album": {
@@ -10294,7 +10438,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0"
@@ -10348,7 +10492,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 185194,
       "name": "YOUTH",
       "url": "https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9"

@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring raquel. Updates every Wednesday.",
-  "num_followers": 171585,
+  "num_followers": 171597,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWY1NzUwZmQ5M2MyNTRiOTI1NzYxNDhkMmRjMzI0NjFmNTk5ZjEw",
+  "snapshot_id": "MCwwNGZmMjVhZDc1Njc5MzliZjQ2YWMzMWUwY2U1MWY0ZjA3Nzk5YzZh",
   "tracks": [
     {
       "added_at": "2023-08-02 14:47:54",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-08-02 14:47:54",
       "album": {
-        "name": "Se Acaba",
-        "url": "https://open.spotify.com/album/5HQdNPcwZb1Rxe95vxEIdt"
-      },
-      "artists": [
-        {
-          "name": "Adrie",
-          "url": "https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Se Acaba",
-      "url": "https://open.spotify.com/track/7FCvwds9Prp18YA3zYjeoT"
-    },
-    {
-      "added_at": "2023-08-02 14:47:54",
-      "album": {
         "name": "Pir\u00e1mide",
         "url": "https://open.spotify.com/album/4kSAzEEJE6MzVHKvGFYv18"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 204000,
       "name": "Pir\u00e1mide",
       "url": "https://open.spotify.com/track/5Cn79rGGFSePXgVIPS19Tb"
+    },
+    {
+      "added_at": "2023-08-02 14:47:54",
+      "album": {
+        "name": "Se Acaba",
+        "url": "https://open.spotify.com/album/5HQdNPcwZb1Rxe95vxEIdt"
+      },
+      "artists": [
+        {
+          "name": "Adrie",
+          "url": "https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Se Acaba",
+      "url": "https://open.spotify.com/track/7FCvwds9Prp18YA3zYjeoT"
     },
     {
       "added_at": "2023-08-02 14:47:54",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-08-02 14:47:54",
       "album": {
+        "name": "Vivo Caro",
+        "url": "https://open.spotify.com/album/1j52KiCc2jOfvVn4sMdQbO"
+      },
+      "artists": [
+        {
+          "name": "Duriex",
+          "url": "https://open.spotify.com/artist/2UFkq8zMMnNeb6uCXpCGVW"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Vivo Caro",
+      "url": "https://open.spotify.com/track/7fU4dUMAAyo8xhhpMGxAlx"
+    },
+    {
+      "added_at": "2023-08-02 14:47:54",
+      "album": {
         "name": "MILL\u00d3N DE R\u00cdOS",
         "url": "https://open.spotify.com/album/5zAzK9gSlQQzTmfwdl0VvS"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 131681,
       "name": "Refugio",
       "url": "https://open.spotify.com/track/2BRnSnWF63alNlXPRsJwCo"
-    },
-    {
-      "added_at": "2023-08-02 14:47:54",
-      "album": {
-        "name": "Vivo Caro",
-        "url": "https://open.spotify.com/album/1j52KiCc2jOfvVn4sMdQbO"
-      },
-      "artists": [
-        {
-          "name": "Duriex",
-          "url": "https://open.spotify.com/artist/2UFkq8zMMnNeb6uCXpCGVW"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Vivo Caro",
-      "url": "https://open.spotify.com/track/7fU4dUMAAyo8xhhpMGxAlx"
     },
     {
       "added_at": "2023-08-02 14:47:54",

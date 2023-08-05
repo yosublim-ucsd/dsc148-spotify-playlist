@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDlhJPQNPrw.md) - [plain]
 
 > things will get better soon\. for now, just listen and dream.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428 likes - 143 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 458 likes - 143 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDlhJPQNPrw.md) - [plain]
 | 2 | [Two birds](https://open.spotify.com/track/66s4fv5w7UUF3mF78bsxTX) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Two birds](https://open.spotify.com/album/2wE6gH2DFlaP0mEEUZcU4M) | 2:33 |
 | 3 | [Syllables Flow](https://open.spotify.com/track/2USbdKxzXryyv1fakxIbD0) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Syllables Flow](https://open.spotify.com/album/3rJEjPamXwipkhDj65Fkn0) | 2:06 |
 | 4 | [one way](https://open.spotify.com/track/4W2432JBzc5yujNBQOinng) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [one way](https://open.spotify.com/album/1e4qJMNCZwSH001bUM0kuz) | 2:44 |
-| 5 | [Ménuet Belmonte](https://open.spotify.com/track/5TKPsDdOCl2d78wM9TYNoP) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Ménuet Belmonte](https://open.spotify.com/album/5IzWBmyTiWM5R7CVMlPeY8) | 3:14 |
-| 6 | [Perpendicular](https://open.spotify.com/track/0cd9j88kIE6LIpDwAAtKOO) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Perpendicular](https://open.spotify.com/album/3Jz2nhyhV7ftStCe9d2IFY) | 2:18 |
-| 7 | [Stretch](https://open.spotify.com/track/4KQlV2TCwuN2GwHQ8fsFrB) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Stretch](https://open.spotify.com/album/4iXA4CDdh5Z4jiXRdGU3fd) | 3:30 |
-| 8 | [Lugn](https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lugn](https://open.spotify.com/album/32Di3Yyg05ysztLJV02oYh) | 2:18 |
-| 9 | [Trinité](https://open.spotify.com/track/4mj4DJxJCBZjbUdA5qMvxE) | [Elena Miguel](https://open.spotify.com/artist/5gK5I1IIdNR5gZNGhYuJLD) | [Trinité](https://open.spotify.com/album/5dfnZVMMnSHXI2Ihws6wgE) | 2:46 |
-| 10 | [If I knew](https://open.spotify.com/track/1VcOEnQ2idqqgKxLX2MK4S) | [Tanit Breo](https://open.spotify.com/artist/3MAWaQn9QYHFPA6cwbHhqE) | [If I knew](https://open.spotify.com/album/6o46Pt6wgVtZ29zsuuTjo2) | 1:55 |
-| 11 | [Aning](https://open.spotify.com/track/1gqSAZHdFgARHhkmGHvr5D) | [Julia Andersson](https://open.spotify.com/artist/2biLvSI1dr6gdNAZAnq6z2) | [Dröm](https://open.spotify.com/album/7emzujJp5H2gEdEpzdgILf) | 2:38 |
-| 12 | [Sunday Morning](https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Sunday Morning](https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG) | 2:42 |
-| 13 | [Somersault \- Revisited](https://open.spotify.com/track/1hpZuDKO80t1lR5BR0BaKP) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Somersault \(lO\)](https://open.spotify.com/album/33YGKrv3mjwVhAlFhz9vyQ) | 2:07 |
+| 5 | [Perpendicular](https://open.spotify.com/track/0cd9j88kIE6LIpDwAAtKOO) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Perpendicular](https://open.spotify.com/album/3Jz2nhyhV7ftStCe9d2IFY) | 2:18 |
+| 6 | [Stretch](https://open.spotify.com/track/4KQlV2TCwuN2GwHQ8fsFrB) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Stretch](https://open.spotify.com/album/4iXA4CDdh5Z4jiXRdGU3fd) | 3:30 |
+| 7 | [Lugn](https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lugn](https://open.spotify.com/album/32Di3Yyg05ysztLJV02oYh) | 2:18 |
+| 8 | [Trinité](https://open.spotify.com/track/4mj4DJxJCBZjbUdA5qMvxE) | [Elena Miguel](https://open.spotify.com/artist/5gK5I1IIdNR5gZNGhYuJLD) | [Trinité](https://open.spotify.com/album/5dfnZVMMnSHXI2Ihws6wgE) | 2:46 |
+| 9 | [If I knew](https://open.spotify.com/track/1VcOEnQ2idqqgKxLX2MK4S) | [Tanit Breo](https://open.spotify.com/artist/3MAWaQn9QYHFPA6cwbHhqE) | [If I knew](https://open.spotify.com/album/6o46Pt6wgVtZ29zsuuTjo2) | 1:55 |
+| 10 | [Aning](https://open.spotify.com/track/1gqSAZHdFgARHhkmGHvr5D) | [Julia Andersson](https://open.spotify.com/artist/2biLvSI1dr6gdNAZAnq6z2) | [Dröm](https://open.spotify.com/album/7emzujJp5H2gEdEpzdgILf) | 2:38 |
+| 11 | [Sunday Morning](https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Sunday Morning](https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG) | 2:42 |
+| 12 | [Somersault \- Revisited](https://open.spotify.com/track/1hpZuDKO80t1lR5BR0BaKP) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Somersault \(lO\)](https://open.spotify.com/album/33YGKrv3mjwVhAlFhz9vyQ) | 2:07 |
+| 13 | [Ménuet Belmonte](https://open.spotify.com/track/5TKPsDdOCl2d78wM9TYNoP) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Ménuet Belmonte](https://open.spotify.com/album/5IzWBmyTiWM5R7CVMlPeY8) | 3:14 |
 | 14 | [Fragile Beauty](https://open.spotify.com/track/1hroEYeXHwndmO03pfIu9u) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [Fragile Beauty](https://open.spotify.com/album/63UFtAXFba8wSrPEouv010) | 2:30 |
 | 15 | [Closing Stages](https://open.spotify.com/track/45XxWtNAwclSQIBJDUVw6N) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Closing Stages](https://open.spotify.com/album/2uAnT5ZeIyl28nA97aJ9YP) | 2:49 |
 | 16 | [For 4](https://open.spotify.com/track/1wqN0d4GvN2xHlnGNPmKDa) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [For](https://open.spotify.com/album/4ghcAKdZyyugvjRyaTABdM) | 2:21 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDlhJPQNPrw.md) - [plain]
 | 142 | [Through My Eyes](https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Through My Eyes](https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN) | 2:53 |
 | 143 | [October stroll](https://open.spotify.com/track/0djBbURQR8Zu4SD4K48lzJ) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [October stroll](https://open.spotify.com/album/7dnDyRoLFwV6HSSiZ3L1AP) | 2:09 |
 
-Snapshot ID: `MCxjMzQ0NTI5ZjRmYTZlODMzNWRhODcyMDUwNzM4Y2JjZjhiYzU3Zjdi`
+Snapshot ID: `MCwwYzgyMjgwOTI2ZjQ0NWI5YWNlNmM0Y2NlMGFmNzUyZTI1ZTJmZDU5`

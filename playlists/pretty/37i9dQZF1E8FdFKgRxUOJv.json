@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzcwMmE2NDk0ZjU4ODA1MDI5NWFmM2QyMjI1NGJkYzhmZTYzOWZm",
+  "snapshot_id": "MCwzNDZmY2UyMzIxMWZjMWJjNzNiNjU3ZWRiYWRkMGNlZDM0ODMxOTMw",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
         }
       ],
-      "duration_ms": 166139,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/1HkB10b5D1tb0fSb1QsOvD"
+      "duration_ms": 199391,
+      "name": "Thinking 'Bout Love",
+      "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
     },
     {
       "added_at": null,
@@ -75,18 +75,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love? Songs",
-        "url": "https://open.spotify.com/album/0ldCKrt8rkkFzdWRiZHczc"
+        "name": "Ash & Stone",
+        "url": "https://open.spotify.com/album/7G78HVl5SJNmEdem6QIGfA"
       },
       "artists": [
         {
-          "name": "Jordy Searcy",
-          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/2rBIC9Uc5qZeBjJvWulFTN"
+      "duration_ms": 256812,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/6nvgVD48p3t7wt86ftjG1b"
     },
     {
       "added_at": null,
@@ -127,6 +127,102 @@
     {
       "added_at": null,
       "album": {
+        "name": "It Must Be Luck",
+        "url": "https://open.spotify.com/album/7FhG789vclJm8GKGYG4rPo"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 223865,
+      "name": "It Must Be Luck",
+      "url": "https://open.spotify.com/track/5hySKQQSkjRuhkLDBZ5hFd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild Rivers",
+        "url": "https://open.spotify.com/album/4SMbqvJenspMXbcPROZsVK"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 173604,
+      "name": "Speak Too Soon",
+      "url": "https://open.spotify.com/track/0AUURXuRvLPKEH6KaJZSXy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love? Songs",
+        "url": "https://open.spotify.com/album/0ldCKrt8rkkFzdWRiZHczc"
+      },
+      "artists": [
+        {
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2rBIC9Uc5qZeBjJvWulFTN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On the Train Ride Home",
+        "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Arms",
+      "url": "https://open.spotify.com/track/4EXvl9cypQrKVYwabqd1EY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "Carry Me Away",
+      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inside Friend (feat. John Mayer)",
         "url": "https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV"
       },
@@ -163,34 +259,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "All The Light Above It Too",
-        "url": "https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5"
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 210466,
-      "name": "Sunsets For Somebody Else",
-      "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
+      "duration_ms": 247266,
+      "name": "Hot Tears",
+      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
     },
     {
       "added_at": null,
       "album": {
-        "name": "It Must Be Luck",
-        "url": "https://open.spotify.com/album/7FhG789vclJm8GKGYG4rPo"
+        "name": "Heartbreak Hits",
+        "url": "https://open.spotify.com/album/04QktcTXcS9qQTp7Q22Z3I"
       },
       "artists": [
         {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+          "name": "Theo Katzman",
+          "url": "https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya"
         }
       ],
-      "duration_ms": 223865,
-      "name": "It Must Be Luck",
-      "url": "https://open.spotify.com/track/5hySKQQSkjRuhkLDBZ5hFd"
+      "duration_ms": 221508,
+      "name": "Good to Be Alone",
+      "url": "https://open.spotify.com/track/2P8kBO7P0SppnEX8gVN3up"
     },
     {
       "added_at": null,
@@ -204,9 +300,9 @@
           "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 159133,
-      "name": "Carry Me Away",
-      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
+      "duration_ms": 217426,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
     },
     {
       "added_at": null,
@@ -231,18 +327,122 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ash & Stone",
-        "url": "https://open.spotify.com/album/7G78HVl5SJNmEdem6QIGfA"
+        "name": "I'm Gonna Find Another You (feat. John Mayer)",
+        "url": "https://open.spotify.com/album/3MnHBjsHhMmH81HiL2zxQj"
       },
       "artists": [
         {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+          "name": "Wynton Marsalis Septet",
+          "url": "https://open.spotify.com/artist/3cOaUqzZ7TYloRPGcuQnMY"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
         }
       ],
-      "duration_ms": 256812,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/6nvgVD48p3t7wt86ftjG1b"
+      "duration_ms": 164084,
+      "name": "I'm Gonna Find Another You",
+      "url": "https://open.spotify.com/track/0qirTBMXN2a9AlUl7pyjgM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/0OLyRkEk8qQw3z4glKERMm"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "I Do - Bonus Track",
+      "url": "https://open.spotify.com/track/7KDt8lUrhiYDx42AN1RwZj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rearrange Us",
+        "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "Rearrange Us",
+      "url": "https://open.spotify.com/track/1uZIL52W5zXEF55fCh5lqP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever You and Me",
+        "url": "https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 175592,
+      "name": "Forever You and Me",
+      "url": "https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Slow Dancing in a Burning Room",
+      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunday Afternoon",
+        "url": "https://open.spotify.com/album/7161Ua93UTMPDlAPl2uQzx"
+      },
+      "artists": [
+        {
+          "name": "East Love",
+          "url": "https://open.spotify.com/artist/0xGSNh06Su9UthAz4o1cvM"
+        }
+      ],
+      "duration_ms": 217875,
+      "name": "Sunday Afternoon",
+      "url": "https://open.spotify.com/track/6hTWUHTOmEjV6cv3tdgRUZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All The Light Above It Too",
+        "url": "https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Sunsets For Somebody Else",
+      "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
     },
     {
       "added_at": null,
@@ -256,57 +456,9 @@
           "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
         }
       ],
-      "duration_ms": 199391,
-      "name": "Thinking 'Bout Love",
-      "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Hot Tears",
-      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "New Light",
-      "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
+      "duration_ms": 166139,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/1HkB10b5D1tb0fSb1QsOvD"
     },
     {
       "added_at": null,
@@ -331,134 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On the Train Ride Home",
-        "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Arms",
-      "url": "https://open.spotify.com/track/4EXvl9cypQrKVYwabqd1EY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild Rivers",
-        "url": "https://open.spotify.com/album/4SMbqvJenspMXbcPROZsVK"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 173604,
-      "name": "Speak Too Soon",
-      "url": "https://open.spotify.com/track/0AUURXuRvLPKEH6KaJZSXy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rearrange Us",
-        "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Rearrange Us",
-      "url": "https://open.spotify.com/track/1uZIL52W5zXEF55fCh5lqP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbreak Hits",
-        "url": "https://open.spotify.com/album/04QktcTXcS9qQTp7Q22Z3I"
-      },
-      "artists": [
-        {
-          "name": "Theo Katzman",
-          "url": "https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya"
-        }
-      ],
-      "duration_ms": 221508,
-      "name": "Good to Be Alone",
-      "url": "https://open.spotify.com/track/2P8kBO7P0SppnEX8gVN3up"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Slow Dancing in a Burning Room",
-      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pull Out Couch",
-        "url": "https://open.spotify.com/album/2mkdh0ix2CjY5kjIZzEoiJ"
-      },
-      "artists": [
-        {
-          "name": "Cody Lovaas",
-          "url": "https://open.spotify.com/artist/7fWrZ2q4fGZAnuCPfgSU52"
-        }
-      ],
-      "duration_ms": 196171,
-      "name": "Just So You Know",
-      "url": "https://open.spotify.com/track/2J5CFPW6DZynYSXO0Yncgj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunday Afternoon",
-        "url": "https://open.spotify.com/album/7161Ua93UTMPDlAPl2uQzx"
-      },
-      "artists": [
-        {
-          "name": "East Love",
-          "url": "https://open.spotify.com/artist/0xGSNh06Su9UthAz4o1cvM"
-        }
-      ],
-      "duration_ms": 217875,
-      "name": "Sunday Afternoon",
-      "url": "https://open.spotify.com/track/6hTWUHTOmEjV6cv3tdgRUZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/0OLyRkEk8qQw3z4glKERMm"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 184444,
-      "name": "I Do - Bonus Track",
-      "url": "https://open.spotify.com/track/7KDt8lUrhiYDx42AN1RwZj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing is Lost",
         "url": "https://open.spotify.com/album/4oSPnhntlJfKCoplB7o93h"
       },
@@ -471,22 +495,6 @@
       "duration_ms": 205124,
       "name": "Half-Saved",
       "url": "https://open.spotify.com/track/6jNMtmG7RdcOxRyZsFjMbt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Edges Run",
-        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "People Change",
-      "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
     },
     {
       "added_at": null,
@@ -507,70 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jealous of Birds",
-        "url": "https://open.spotify.com/album/3b1uVZTRJF71DRH1qhEEUG"
-      },
-      "artists": [
-        {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
-        }
-      ],
-      "duration_ms": 192080,
-      "name": "Jealous of Birds",
-      "url": "https://open.spotify.com/track/5A6k7MKg3gUMwT1Z9TCRKb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On the Corner Where You Live",
-        "url": "https://open.spotify.com/album/02g8cOPykp2ZbBFDfScCTE"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "Give Me Your Fire, Give Me Your Rain",
-      "url": "https://open.spotify.com/track/7obe8UuHv5wSDaNZh93Kvk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/5u14nFR2NAMX1R0DslsyH9"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 206903,
-      "name": "Pink Shades",
-      "url": "https://open.spotify.com/track/3YsjOrar28TbRQAOZ7z63r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carry on, San Vicente",
         "url": "https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z"
       },
@@ -583,38 +527,6 @@
       "duration_ms": 262079,
       "name": "Nothing Like You",
       "url": "https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 285053,
-      "name": "Stop This Train",
-      "url": "https://open.spotify.com/track/3E6iea9uEmB7gRru4lyP6h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Little Lift",
-        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 194523,
-      "name": "How Good It Is",
-      "url": "https://open.spotify.com/track/4XGlpZw4XyOAisQrpodzPn"
     },
     {
       "added_at": null,
@@ -655,6 +567,118 @@
     {
       "added_at": null,
       "album": {
+        "name": "On the Corner Where You Live",
+        "url": "https://open.spotify.com/album/02g8cOPykp2ZbBFDfScCTE"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "Give Me Your Fire, Give Me Your Rain",
+      "url": "https://open.spotify.com/track/7obe8UuHv5wSDaNZh93Kvk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jealous of Birds",
+        "url": "https://open.spotify.com/album/3b1uVZTRJF71DRH1qhEEUG"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Jealous of Birds",
+      "url": "https://open.spotify.com/track/5A6k7MKg3gUMwT1Z9TCRKb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 285053,
+      "name": "Stop This Train",
+      "url": "https://open.spotify.com/track/3E6iea9uEmB7gRru4lyP6h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Wait Up For Me",
+      "url": "https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 307534,
+      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/5u14nFR2NAMX1R0DslsyH9"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 206903,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/3YsjOrar28TbRQAOZ7z63r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Undergrad Romance and the Moses in Me",
+        "url": "https://open.spotify.com/album/3BKFrChX5Exd28VX3Yq4Kb"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "If You Were the Rain",
+      "url": "https://open.spotify.com/track/5EXD5rXJ4IVb8g4xSwT0fc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chasing After the Moon",
         "url": "https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u"
       },
@@ -667,122 +691,6 @@
       "duration_ms": 238994,
       "name": "Chasing After the Moon",
       "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'll Be Around",
-        "url": "https://open.spotify.com/album/1uQn196WK2ZYn9Ypyp9czZ"
-      },
-      "artists": [
-        {
-          "name": "Garrett Kato",
-          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
-        }
-      ],
-      "duration_ms": 186954,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/3ccDb4UqLC54IoFJ8LmFoy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 219226,
-      "name": "Til the Right One Comes",
-      "url": "https://open.spotify.com/track/4f0xBbWvKWmuB17yebh24a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Light Year (feat. Lennon Stella)",
-        "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        },
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 188043,
-      "name": "Light Year (feat. Lennon Stella)",
-      "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B - Sides",
-        "url": "https://open.spotify.com/album/1SCAFaUflfm4NuWTTlWNz3"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 172520,
-      "name": "I Will Never Find Another You",
-      "url": "https://open.spotify.com/track/7pUWOyjKUiyXSSwnLXFjDz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Our Time",
-        "url": "https://open.spotify.com/album/1HP1KymMq8MzxzjqLgyjaZ"
-      },
-      "artists": [
-        {
-          "name": "The Light the Heat",
-          "url": "https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR"
-        }
-      ],
-      "duration_ms": 221979,
-      "name": "It's Our Time",
-      "url": "https://open.spotify.com/track/71p9FBPJZtc77fs4AxUX6T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dreaming in Electric Blue",
-        "url": "https://open.spotify.com/album/6EojMTIcdHKZUesfXcm04U"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 192005,
-      "name": "Dreaming in Electric Blue",
-      "url": "https://open.spotify.com/track/680DQctfdFDsuO0Dt1QV3a"
     },
     {
       "added_at": null,
@@ -803,42 +711,134 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Gonna Find Another You (feat. John Mayer)",
-        "url": "https://open.spotify.com/album/3MnHBjsHhMmH81HiL2zxQj"
+        "name": "The Bones (with Hozier)",
+        "url": "https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH"
       },
       "artists": [
         {
-          "name": "Wynton Marsalis Septet",
-          "url": "https://open.spotify.com/artist/3cOaUqzZ7TYloRPGcuQnMY"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         },
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 164084,
-      "name": "I'm Gonna Find Another You",
-      "url": "https://open.spotify.com/track/0qirTBMXN2a9AlUl7pyjgM"
+      "duration_ms": 197298,
+      "name": "The Bones - with Hozier",
+      "url": "https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb"
     },
     {
       "added_at": null,
       "album": {
-        "name": "My New Moon",
-        "url": "https://open.spotify.com/album/4CwmESdihxUhlYVwdYCyps"
+        "name": "Edges Run",
+        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
       },
       "artists": [
         {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
         }
       ],
-      "duration_ms": 250173,
-      "name": "Hang On, Hang On",
-      "url": "https://open.spotify.com/track/5jn4aPKkBTJ21lLeLGizv4"
+      "duration_ms": 212853,
+      "name": "People Change",
+      "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maybe I'll Find You Again",
+        "url": "https://open.spotify.com/album/6wdgz4OVySP3D64Jf4u0cK"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Slow Fade",
+      "url": "https://open.spotify.com/track/2G3BKCeB6EewCUpWm7M6pu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If You're Gonna Ignite",
+        "url": "https://open.spotify.com/album/1LftdVZglgHeQ1gN31srJn"
+      },
+      "artists": [
+        {
+          "name": "Doc Robinson",
+          "url": "https://open.spotify.com/artist/5O0efDEpkqEmWbXD2zpkjz"
+        }
+      ],
+      "duration_ms": 250925,
+      "name": "If You're Gonna Ignite",
+      "url": "https://open.spotify.com/track/0sxosejGeghtoIZ2ET3lHA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Little Lift",
+        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 194523,
+      "name": "How Good It Is",
+      "url": "https://open.spotify.com/track/4XGlpZw4XyOAisQrpodzPn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "The Heart of Life",
+      "url": "https://open.spotify.com/track/78DwRIo6Vj6wqteyerGetr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rearrange Us",
+        "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Let Loose",
+      "url": "https://open.spotify.com/track/4xXglb2SBiHnqPMQiItlrG"
     }
   ],
   "unique_name": "Carry Me Away Radio",

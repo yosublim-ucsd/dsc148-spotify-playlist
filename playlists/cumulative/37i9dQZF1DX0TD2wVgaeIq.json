@@ -221,6 +221,28 @@
     },
     {
       "album": {
+        "name": "Buddha's Samatha",
+        "url": "https://open.spotify.com/album/4OrcYjrDiwkyZ84ns94P2F"
+      },
+      "artists": [
+        {
+          "name": "Vic Vision",
+          "url": "https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0"
+        },
+        {
+          "name": "Vedic Moon",
+          "url": "https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198715,
+      "name": "Buddha's Samatha",
+      "url": "https://open.spotify.com/track/7koUSVnpLOEplKROKRsDDb"
+    },
+    {
+      "album": {
         "name": "Calming Raga",
         "url": "https://open.spotify.com/album/3Ar0bUOfySyArKK2CA8muj"
       },

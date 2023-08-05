@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh?si=bei5IcQ0Qe\-2NnN2LjyV6g"> Odeal </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,378 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,446 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [New Emotions](https://open.spotify.com/track/092Owc3EItJ95apRAI8Jyr) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [New Emotions](https://open.spotify.com/album/2dJojtafQIHqOt11o0r6zY) | 2:10 |
 | 80 | [NEW ID](https://open.spotify.com/track/7zabZXdxVjHycqcHEemmn4) | [Moyoswrld](https://open.spotify.com/artist/5qydyw9umzN1IlybYsgPzR), [Maison2500](https://open.spotify.com/artist/4LM7PNYtQtrHXnfQYr16mx) | [NEW ID](https://open.spotify.com/album/1hzM6lVI0sWXyYeGKZJAN3) | 2:30 |
 
-Snapshot ID: `MCxkNzcwMTExYjY0OGRkMjFkOWNjYjcwMzBhOTVkZjMzNDI1MTY4ZmVl`
+Snapshot ID: `MCxlMWVlN2M4MTY4Zjk5MTAwODQxNzhjZjA2N2FlODU2MGE0YjE5NjZl`

@@ -4,7 +4,7 @@
 
 > Uplifting classical melodies to help you rise and shine.
 
-72 songs - 4 hr 44 min
+73 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 3:04 | 2022-02-04 |  |
 | [Guiding Light](https://open.spotify.com/track/1jt4hk4d51pZ8DZl8yMMmG) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:17 | 2022-05-27 | 2023-04-06 |
 | [Guiding Light](https://open.spotify.com/track/6DsGXu4Hii9LyNPLexGCwU) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Guiding Light](https://open.spotify.com/album/1OsTAPPpJmkQh8uyeZJRfa) | 3:17 | 2022-02-04 | 2022-07-29 |
+| [Harpsichord Concerto No\. 4 in A Major, BWV 1055 \(Adapted for Oboe d'amore, Strings and Basso continuo\): I\. Allegro](https://open.spotify.com/track/2tx1OGhwMuaS456NgiuEuP) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Albrecht Mayer](https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW), [Berliner Barock Solisten](https://open.spotify.com/artist/7mEuyFgTPiTRgCh3Hzuwsl) | [Bach Generations](https://open.spotify.com/album/5yOf6Z2tkIAkI3q43OAe5L) | 4:25 | 2023-08-04 |  |
 | [Holberg Suite, Op\. 40: II\. Sarabande \(Andante\)](https://open.spotify.com/track/4SXNho7ARXRuvxEIXa4uJ0) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Gothenburg Symphony Orchestra](https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2), [Neeme Järvi](https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps) | [Grieg: Holberg Suite; Lyric Suite](https://open.spotify.com/album/1svqZTOGQ1yT4t3p5IRDZX) | 3:14 | 2022-02-04 | 2022-05-26 |
 | [Jesu, Joy of Man's Desiring \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/2Kn5PauE1nEJxUQlD6N3JF) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Jesu, Joy of Man's Desiring](https://open.spotify.com/album/2pjG5wJxCWKHmZcNcK0mCR) | 2:08 | 2023-04-14 | 2023-05-12 |
 | [Jesu, Joy of Man's Desiring \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/75pxraYiRRhRn68Kwk4sT3) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 2:08 | 2023-04-14 |  |

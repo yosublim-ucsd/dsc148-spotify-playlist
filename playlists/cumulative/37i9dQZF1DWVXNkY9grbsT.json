@@ -332,7 +332,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 352000,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/1tvrdTMUPrL5QAAUu2mBpL"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 557261,
       "name": "Before the Sun",
       "url": "https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N"
@@ -1034,6 +1034,24 @@
       "duration_ms": 225000,
       "name": "Bouncing Rays",
       "url": "https://open.spotify.com/track/4ZvQwjVFNvq27c1Um6msmB"
+    },
+    {
+      "album": {
+        "name": "Extemperate",
+        "url": "https://open.spotify.com/album/1CU6vcBYMcbV4NUIUpRGtn"
+      },
+      "artists": [
+        {
+          "name": "Matt Robertson",
+          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240636,
+      "name": "Boundary Effect",
+      "url": "https://open.spotify.com/track/6EXvFsFMtcobZApGF0SVdT"
     },
     {
       "album": {
@@ -1194,6 +1212,42 @@
       "duration_ms": 222212,
       "name": "CAPRICORN",
       "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
+    },
+    {
+      "album": {
+        "name": "Castle Song",
+        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173311,
+      "name": "Castle Song",
+      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
+    },
+    {
+      "album": {
+        "name": "Field",
+        "url": "https://open.spotify.com/album/4i7oE95RXgkWoLofkEjVob"
+      },
+      "artists": [
+        {
+          "name": "Shuttle358",
+          "url": "https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203013,
+      "name": "caudex",
+      "url": "https://open.spotify.com/track/7427iNpKoYs4z8COyqeNZz"
     },
     {
       "album": {
@@ -4170,7 +4224,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 284312,
       "name": "Part 3",
       "url": "https://open.spotify.com/track/5lr9zsPpnk6XRHpNZWIHyh"
@@ -4270,6 +4324,28 @@
       "duration_ms": 228923,
       "name": "Permanent Display",
       "url": "https://open.spotify.com/track/6JuJXNp4hKHMOmH8TFefUZ"
+    },
+    {
+      "album": {
+        "name": "Reimagined by Civilistj\u00e4vel!",
+        "url": "https://open.spotify.com/album/4hflrVmJW7qo5U9o97TonK"
+      },
+      "artists": [
+        {
+          "name": "Death and Vanilla",
+          "url": "https://open.spotify.com/artist/7GSTcEvn1BkC3eucAlvBwt"
+        },
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495507,
+      "name": "Perpetuum Mobile - Civilistj\u00e4vel! Dub",
+      "url": "https://open.spotify.com/track/0TdghIglWF8RE2VDiQQo5A"
     },
     {
       "album": {
@@ -5946,7 +6022,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 229662,
       "name": "Trains",
       "url": "https://open.spotify.com/track/4Dhm28AOQtFIh7WIJPBAve"

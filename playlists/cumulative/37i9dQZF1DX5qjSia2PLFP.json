@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves.  Cover:  <a href=\"https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG?si=0v3V-PEhRWyKj94k5GI6wg\">WALWIN</a>",
-  "name": "Ripple Effect",
+  "description": "New music breaking waves.  Cover:  <a href=\"https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95?si=Sbyfk88GRe2RY8KJQvv8mQ\">BAMBII</a>",
+  "name": "RIPPLE EFFECT",
   "tracks": [
     {
       "album": {
@@ -238,6 +238,36 @@
       "duration_ms": 208618,
       "name": "50/50",
       "url": "https://open.spotify.com/track/0tEtaU2hWPVnqU9FkCs6bu"
+    },
+    {
+      "album": {
+        "name": "L O W B L O W",
+        "url": "https://open.spotify.com/album/6HxhnZSjU62P9B0OzZXh1v"
+      },
+      "artists": [
+        {
+          "name": "indie tribe",
+          "url": "https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        },
+        {
+          "name": "Mogli the Iceburg",
+          "url": "https://open.spotify.com/artist/1SZikSUx9fZ2cUFjrmM6Sy"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147483,
+      "name": "ACT",
+      "url": "https://open.spotify.com/track/53digzlDS79znypcRuFXBo"
     },
     {
       "album": {
@@ -1940,7 +1970,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 146919,
       "name": "DUMB (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/2PQ8j691jAj6T4f7Ur4RiU"
@@ -2154,7 +2184,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 187741,
       "name": "Face",
       "url": "https://open.spotify.com/track/3Hdeh6HKLdJd29L17gttkZ"
@@ -2168,6 +2198,10 @@
         {
           "name": "WALWIN",
           "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        },
+        {
+          "name": "LaLotus",
+          "url": "https://open.spotify.com/artist/7e5cGwWgUr0VyoaWa2h8XZ"
         }
       ],
       "date_added": "2023-07-28",
@@ -2645,6 +2679,24 @@
     },
     {
       "album": {
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/4XBC6xmWwswsKiITRNeIL2"
+      },
+      "artists": [
+        {
+          "name": "Hello Yello",
+          "url": "https://open.spotify.com/artist/7qh0Fzuz79iruogSwYTY3G"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146840,
+      "name": "Good Intentions",
+      "url": "https://open.spotify.com/track/1wHStyw8d3GiqP906Gfsk6"
+    },
+    {
+      "album": {
         "name": "Good Movie",
         "url": "https://open.spotify.com/album/2REajdJ8KOaR8Vm2Zx8UXM"
       },
@@ -2838,7 +2890,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 158362,
       "name": "Hand Her The Gun",
       "url": "https://open.spotify.com/track/2m7vIOdJPH5eqDKYJmuJpN"
@@ -2969,6 +3021,28 @@
     },
     {
       "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184914,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n"
+    },
+    {
+      "album": {
         "name": "Hot to the Touch",
         "url": "https://open.spotify.com/album/3VUtqPYzBXpilEZoS0h0fG"
       },
@@ -3028,7 +3102,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 133511,
       "name": "I Ain't Going Lie",
       "url": "https://open.spotify.com/track/42DXWvSX2Sr2rY1Dg4JcEQ"
@@ -3562,6 +3636,24 @@
       "duration_ms": 151123,
       "name": "Lesson Learned",
       "url": "https://open.spotify.com/track/3rahkSYrtJdTqUVK9NiHt0"
+    },
+    {
+      "album": {
+        "name": "Let It Rain",
+        "url": "https://open.spotify.com/album/7l3lv5SWsUy7ehwvnMmsXJ"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159878,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/2SHd3iSPeYj9epQUrYVmtX"
     },
     {
       "album": {
@@ -4174,6 +4266,24 @@
       "duration_ms": 80312,
       "name": "Neva Goin Broke",
       "url": "https://open.spotify.com/track/3MDay3lotWzIJ9RmuYwi1H"
+    },
+    {
+      "album": {
+        "name": "Never Look Back",
+        "url": "https://open.spotify.com/album/1PK34jg3257ZFhCjXqbvVe"
+      },
+      "artists": [
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169602,
+      "name": "Never Look Back",
+      "url": "https://open.spotify.com/track/1oR5Ow17MqtjNoAYAIvNOy"
     },
     {
       "album": {
@@ -4936,7 +5046,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 154869,
       "name": "Princess Diana",
       "url": "https://open.spotify.com/track/2doammtCiLQMD8LXIKl4OE"

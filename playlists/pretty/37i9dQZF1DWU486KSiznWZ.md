@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: رابح صقر
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,126 likes - 40 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,231 likes - 40 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 39 | [يذكرني الشتاء](https://open.spotify.com/track/7m8xFOiG78eaTpnWCVT5Xp) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [يذكرني الشتاء](https://open.spotify.com/album/2H1sagWhwYpDkxI3lprHUC) | 2:55 |
 | 40 | [Yeheb Al Bard](https://open.spotify.com/track/1MF7i7rhvphEq4QQr3fajo) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Yeheb Al Bard](https://open.spotify.com/album/4fw97akgChztlsTIgfFm6m) | 3:53 |
 
-Snapshot ID: `MCw0ZTE5NWE2MGM1Y2Q2ZGU4NWJmYmJkNTM1MzkwNzMzM2U0Y2UxODdk`
+Snapshot ID: `MCxhMDY3M2UzZDBkMzM0MTc1MjIwZWRhNDdkYzJhZjdkMmI3MDI3MjA3`

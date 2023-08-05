@@ -1,12 +1,12 @@
 {
   "description": "Listen to Arab women, at full volume. Cover: Asmaa lmnawar\n\n",
-  "num_followers": 10257,
+  "num_followers": 10272,
   "original_name": "EQUAL Arabia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODQwM2JhZDZjYjQxMTM5NTViNzJmYjMyMzVmMDk2NTM3OTUyMGFm",
+  "snapshot_id": "MCxmNzY4YThlYzVlODRmZDBhYjU3YmJjOGYyMGU4YzY1NDZlYzA0MmI2",
   "tracks": [
     {
       "added_at": "2023-08-03 21:16:17",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-08-03 21:16:17",
       "album": {
+        "name": "Ya Gamalak (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2S15knFuXlYmfkxlGHWblT"
+      },
+      "artists": [
+        {
+          "name": "Carmen Soliman",
+          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
+        }
+      ],
+      "duration_ms": 124295,
+      "name": "Ya Gamalak - Acoustic Version",
+      "url": "https://open.spotify.com/track/6LqhmrQ1LB6SKhjESbHOel"
+    },
+    {
+      "added_at": "2023-08-03 21:16:17",
+      "album": {
         "name": "Ana El Bent",
         "url": "https://open.spotify.com/album/3w6UgD8PcJDOX5I33JKSVO"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 240885,
       "name": "Wayak Wayak",
       "url": "https://open.spotify.com/track/4yMY3INVgDXfDUIRuuIMRC"
-    },
-    {
-      "added_at": "2023-08-03 21:16:17",
-      "album": {
-        "name": "Ya Gamalak (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2S15knFuXlYmfkxlGHWblT"
-      },
-      "artists": [
-        {
-          "name": "Carmen Soliman",
-          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
-        }
-      ],
-      "duration_ms": 124295,
-      "name": "Ya Gamalak - Acoustic Version",
-      "url": "https://open.spotify.com/track/6LqhmrQ1LB6SKhjESbHOel"
     },
     {
       "added_at": "2023-08-03 21:16:17",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-08-03 21:16:17",
       "album": {
-        "name": "Kheles El Kalam",
-        "url": "https://open.spotify.com/album/5acNcctheDVFIMvTlliQEL"
+        "name": "Enta El Aseel",
+        "url": "https://open.spotify.com/album/6nUvAb96iFIbxtxELpjZrl"
       },
       "artists": [
         {
-          "name": "Shaimaa El Maghraby",
-          "url": "https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9"
+          "name": "Carmen Soliman",
+          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
         }
       ],
-      "duration_ms": 155428,
-      "name": "Kheles El Kalam",
-      "url": "https://open.spotify.com/track/7lrnS2D78WccsAro9d9QTR"
+      "duration_ms": 216449,
+      "name": "Enta El Aseel",
+      "url": "https://open.spotify.com/track/7j8tmCMqHfLdg75uyDHxXQ"
     },
     {
       "added_at": "2023-08-03 21:16:17",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-08-03 21:16:17",
       "album": {
+        "name": "Kheles El Kalam",
+        "url": "https://open.spotify.com/album/5acNcctheDVFIMvTlliQEL"
+      },
+      "artists": [
+        {
+          "name": "Shaimaa El Maghraby",
+          "url": "https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "Kheles El Kalam",
+      "url": "https://open.spotify.com/track/7lrnS2D78WccsAro9d9QTR"
+    },
+    {
+      "added_at": "2023-08-03 21:16:17",
+      "album": {
         "name": "El Qalb Hab",
         "url": "https://open.spotify.com/album/1lDfJuWLlTq3staZDOF6i6"
       },
@@ -635,70 +651,6 @@
       "duration_ms": 194725,
       "name": "El Qalb Hab",
       "url": "https://open.spotify.com/track/1OUQcMVeT1YkcsMLIOj1Au"
-    },
-    {
-      "added_at": "2023-08-03 21:16:17",
-      "album": {
-        "name": "Enta El Aseel",
-        "url": "https://open.spotify.com/album/6nUvAb96iFIbxtxELpjZrl"
-      },
-      "artists": [
-        {
-          "name": "Carmen Soliman",
-          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
-        }
-      ],
-      "duration_ms": 216449,
-      "name": "Enta El Aseel",
-      "url": "https://open.spotify.com/track/7j8tmCMqHfLdg75uyDHxXQ"
-    },
-    {
-      "added_at": "2023-08-03 21:16:17",
-      "album": {
-        "name": "Baad Sneen",
-        "url": "https://open.spotify.com/album/6GIUWZvRkFJyjgLwXak8Md"
-      },
-      "artists": [
-        {
-          "name": "Hiba Tawaji",
-          "url": "https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Baad Sneen",
-      "url": "https://open.spotify.com/track/613tFlzrS2BfYZ1zqcTHqZ"
-    },
-    {
-      "added_at": "2023-08-03 21:16:17",
-      "album": {
-        "name": "Welaane",
-        "url": "https://open.spotify.com/album/6QA0ySWUCTZCgdovGFfBUP"
-      },
-      "artists": [
-        {
-          "name": "Diana Karazon",
-          "url": "https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE"
-        }
-      ],
-      "duration_ms": 232191,
-      "name": "Welaane",
-      "url": "https://open.spotify.com/track/3yI0oj88v89SblbqDJyCvK"
-    },
-    {
-      "added_at": "2023-08-03 21:16:17",
-      "album": {
-        "name": "Ghazaleh",
-        "url": "https://open.spotify.com/album/2Zc9QTMpG13Zvj8LJiJ0h9"
-      },
-      "artists": [
-        {
-          "name": "Dana Salah",
-          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
-        }
-      ],
-      "duration_ms": 155930,
-      "name": "Ghazaleh",
-      "url": "https://open.spotify.com/track/0Ry7WiDzMxBmwKHKmE2JAJ"
     },
     {
       "added_at": "2023-08-03 21:16:17",
@@ -719,6 +671,54 @@
     {
       "added_at": "2023-08-03 21:16:17",
       "album": {
+        "name": "Welaane",
+        "url": "https://open.spotify.com/album/6QA0ySWUCTZCgdovGFfBUP"
+      },
+      "artists": [
+        {
+          "name": "Diana Karazon",
+          "url": "https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE"
+        }
+      ],
+      "duration_ms": 232191,
+      "name": "Welaane",
+      "url": "https://open.spotify.com/track/3yI0oj88v89SblbqDJyCvK"
+    },
+    {
+      "added_at": "2023-08-03 21:16:17",
+      "album": {
+        "name": "Baad Sneen",
+        "url": "https://open.spotify.com/album/6GIUWZvRkFJyjgLwXak8Md"
+      },
+      "artists": [
+        {
+          "name": "Hiba Tawaji",
+          "url": "https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "Baad Sneen",
+      "url": "https://open.spotify.com/track/613tFlzrS2BfYZ1zqcTHqZ"
+    },
+    {
+      "added_at": "2023-08-03 21:16:17",
+      "album": {
+        "name": "Ghazaleh",
+        "url": "https://open.spotify.com/album/2Zc9QTMpG13Zvj8LJiJ0h9"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "duration_ms": 155930,
+      "name": "Ghazaleh",
+      "url": "https://open.spotify.com/track/0Ry7WiDzMxBmwKHKmE2JAJ"
+    },
+    {
+      "added_at": "2023-08-03 21:16:17",
+      "album": {
         "name": "Maksour Albi - \u0645\u0643\u0633\u0648\u0631 \u0642\u0644\u0628\u064a (From Eshret Omor Series - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0634\u0631\u0629 \u0639\u0645\u0631)",
         "url": "https://open.spotify.com/album/5xX7kQ7GkCUF1B9lW8XzS2"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 161298,
       "name": "Maksour Albi - \u0645\u0643\u0633\u0648\u0631 \u0642\u0644\u0628\u064a - From Eshret Omor Series - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0634\u0631\u0629 \u0639\u0645\u0631",
       "url": "https://open.spotify.com/track/7DrQNFN993CYcTZlUbY4ft"
+    },
+    {
+      "added_at": "2023-08-03 21:16:17",
+      "album": {
+        "name": "Setohom",
+        "url": "https://open.spotify.com/album/0FUQtskWerR5kanIdP0uG2"
+      },
+      "artists": [
+        {
+          "name": "Habiba",
+          "url": "https://open.spotify.com/artist/1usUiq1yUVpqCOJWMaBNtG"
+        }
+      ],
+      "duration_ms": 149702,
+      "name": "Setohom",
+      "url": "https://open.spotify.com/track/3EuYY09tMEEAytakj5AXYT"
     },
     {
       "added_at": "2023-08-03 21:16:17",
@@ -767,6 +783,22 @@
     {
       "added_at": "2023-08-03 21:16:17",
       "album": {
+        "name": "Taqa Egabiya",
+        "url": "https://open.spotify.com/album/5YC6fQoCORJTPD0Ul0RTvu"
+      },
+      "artists": [
+        {
+          "name": "Maya Diab",
+          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+        }
+      ],
+      "duration_ms": 183556,
+      "name": "Taqa Egabiya",
+      "url": "https://open.spotify.com/track/36W3RtxBprZcvw1bcbcQFW"
+    },
+    {
+      "added_at": "2023-08-03 21:16:17",
+      "album": {
         "name": "Ahenu Ilayka",
         "url": "https://open.spotify.com/album/2WrO9FMMDPLcIRrwag5v4A"
       },
@@ -779,38 +811,6 @@
       "duration_ms": 222760,
       "name": "Ahenu Ilayka",
       "url": "https://open.spotify.com/track/1cMmjfiraN9MdBMliiJDrR"
-    },
-    {
-      "added_at": "2023-08-03 21:16:17",
-      "album": {
-        "name": "Feeling Cool",
-        "url": "https://open.spotify.com/album/28LsjxEF3blmrXgGwGzeVT"
-      },
-      "artists": [
-        {
-          "name": "Nicole Saba",
-          "url": "https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Feeling Cool",
-      "url": "https://open.spotify.com/track/2qkhYIpplFRmIqVAG5QfYG"
-    },
-    {
-      "added_at": "2023-08-03 21:16:17",
-      "album": {
-        "name": "\u0645\u0627\u0644\u064a\u0634 \u0641\u064a \u0627\u0644\u0642\u0641\u0634",
-        "url": "https://open.spotify.com/album/7zY2CdxjCPh0WFO7BUz6ZC"
-      },
-      "artists": [
-        {
-          "name": "Ayten Amer",
-          "url": "https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE"
-        }
-      ],
-      "duration_ms": 147804,
-      "name": "\u0645\u0627\u0644\u064a\u0634 \u0641\u064a \u0627\u0644\u0642\u0641\u0634",
-      "url": "https://open.spotify.com/track/4nSB4EJoJBdFHVKiZGooa8"
     }
   ],
   "unique_name": "EQUAL Arabia ",

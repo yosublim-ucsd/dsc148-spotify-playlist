@@ -4,7 +4,7 @@
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-81 songs - 5 hr 34 min
+82 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Auf dem Wasser zu singen, D.774 \- Transcription: Franz Liszt, Searle 558 No.2](https://open.spotify.com/track/6Sd8oJpKHsq7nndrC2L56n) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Evgeny Kissin](https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ) | [Fantasy](https://open.spotify.com/album/0eTChaWcIBPgfZNt83slIl) | 3:53 | 2022-01-24 | 2022-07-29 |
 | [Barber: Adagio for Strings](https://open.spotify.com/track/1CSaCKPIp2yCIDL3t7Fyau) | [Samuel Barber](https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) | [Samuel Barber \- Adagio](https://open.spotify.com/album/4zW79KZjDenZMLXSGU0Mqu) | 8:57 | 2021-11-09 |  |
 | [Berceuse](https://open.spotify.com/track/1Y3NJjnXXaXmrfSLeDMaU7) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Sara Chenal](https://open.spotify.com/artist/00JrlzGhrk892JNRAAQOTo), [Jean\-Pierre Ferey](https://open.spotify.com/artist/5kdpljCuyKmbDLT2NAUpc8) | [Violon au féminin: Compositrices françaises](https://open.spotify.com/album/6siGUFHjGuPLis1gkhqP3F) | 2:28 | 2022-01-26 | 2022-03-08 |
+| [Cello Sonata in D Major, Op\. 17: II\. Andante tranquillo](https://open.spotify.com/track/4OOTZjgz2fAusb6S1Qch2G) | [Luise Adolpha Le Beau](https://open.spotify.com/artist/15KzHD78uVagBwSRELfIDX), [Steven Isserlis](https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1), [Connie Shih](https://open.spotify.com/artist/4uya3b8m8TBafBavneZk3D) | [A Golden Cello Decade, 1878\-1888: Dvořák, R\. Strauss, Bruch, Le Beau](https://open.spotify.com/album/5bUW6KrQYTN3OIK5fA9QXe) | 4:30 | 2023-08-04 |  |
 | [Chopin: Nocturne No\. 20 in C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Chopin: Piano Sonata No\. 2, Nocturnes, Barcarolle & Scherzo](https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9) | 4:19 | 2021-11-09 |  |
 | [Concerto in D Minor, Op.7, No.4: I\. Adagio](https://open.spotify.com/track/05iURKvut2OWEzPHQUhDT5) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Academy of Ancient Music](https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf), [Richard Egarr](https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq) | [Handel: Organ Concertos, Op\. 7](https://open.spotify.com/album/5OQJ9lv225IZAL4YNVO8L5) | 4:45 | 2021-11-09 |  |
 | [Deux Arabesques, L66: No\. 1: Andantino con moto](https://open.spotify.com/track/6VnSkysUFuLEayG0LIQlVF) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Debussy, Ravel: Piano Music](https://open.spotify.com/album/0RnAJzvGCJPn7igIlHGBsQ) | 4:32 | 2022-11-10 |  |

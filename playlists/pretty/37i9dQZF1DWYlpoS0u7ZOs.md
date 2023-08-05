@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: WARGASM \(UK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,491 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,502 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 7 | [Lazy Brain](https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Deepest Blue](https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl) | 3:38 |
 | 8 | [What's The Point In Life](https://open.spotify.com/track/18BRLFiAfy2GFQlVF62CFg) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [What's The Point In Life](https://open.spotify.com/album/4rUczOIIrnjN06ezLBgt9l) | 2:18 |
 | 9 | [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 |
-| 10 | [Famous](https://open.spotify.com/track/1te0wzOWRVnKXF49lAztVq) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Famous](https://open.spotify.com/album/0rfBEU8mBh0Il5Pagpam4e) | 3:54 |
+| 10 | [Famous](https://open.spotify.com/track/1te0wzOWRVnKXF49lAztVq) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG), [LaLotus](https://open.spotify.com/artist/7e5cGwWgUr0VyoaWa2h8XZ) | [Famous](https://open.spotify.com/album/0rfBEU8mBh0Il5Pagpam4e) | 3:54 |
 | 11 | [Brat](https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Brat](https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3) | 3:06 |
 | 12 | [Believe](https://open.spotify.com/track/1XckAV94cXSzpKSRjFc6eY) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Believe](https://open.spotify.com/album/53NMyyTEnOAWWaFoZ9t9HE) | 4:11 |
 | 13 | [Holly](https://open.spotify.com/track/7b22PAJMC8VkuWlailtWU8) | [Sick Love](https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB) | [Holly](https://open.spotify.com/album/6dkP3Np2UjEk9aNT4nVO91) | 3:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [Rip My Calendar](https://open.spotify.com/track/2iREiP77hQ4oR5eS3HpIMN) | [Valerie Rose](https://open.spotify.com/artist/07ti3q3QcT6Xe8eCFNlZlZ) | [Rip My Calendar](https://open.spotify.com/album/6Zpc6socD4ELy4hwiB6kac) | 2:30 |
 | 80 | [Right Time](https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Right Time](https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW) | 4:00 |
 
-Snapshot ID: `MCw2ZWE4NGJlYjMzYWQ5ZWM4NWY1MTIxYTI0ODM2Y2FiOGRiYmFjNmI3`
+Snapshot ID: `MCwyYmRiMmQzNzEwMTllMDk4OThiNmRmYWRlZTg5N2E4Y2VhYjkyOTBl`

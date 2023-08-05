@@ -4,7 +4,7 @@
 
 > Traditional country sounds from artists of yesterday and today.
 
-164 songs - 9 hr 29 min
+166 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bubba Shot The Jukebox](https://open.spotify.com/track/7fJaL74toBMoNuO7iUXsST) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [20th Century Masters: The Millennium Collection: Best of Mark Chesnutt](https://open.spotify.com/album/5xUFPoqCFaU40vSGBe6xmG) | 3:05 | 2022-02-17 | 2022-07-29 |
 | [Carrying Your Love With Me](https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Carrying Your Love With Me](https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ) | 3:52 | 2022-02-17 |  |
 | [Catching Up With An Ol' Memory](https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Texas to Tennessee](https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6) | 3:24 | 2022-04-15 | 2023-01-06 |
+| [Chickens](https://open.spotify.com/track/1Z8BUFcizWq9j96VxK8jk9) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Chickens](https://open.spotify.com/album/44LtOB4v6VCOETzIc392Y0) | 3:35 | 2023-08-04 |  |
 | [Country & Western](https://open.spotify.com/track/1ayTX1jzJpevKNV8LmharO) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Country & Western](https://open.spotify.com/album/434Z6v3AoQSsfz3FRErUHI) | 3:04 | 2022-04-08 | 2022-04-21 |
 | [Country Again](https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 3:41 | 2022-02-17 |  |
 | [Country In The Girl](https://open.spotify.com/track/0qxFuP4qRzvXAlRdlAdd1c) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Country In The Girl](https://open.spotify.com/album/4R0KEBRAfTa41LbAat49Yc) | 3:26 | 2022-02-17 | 2022-05-06 |
@@ -67,7 +68,7 @@
 | [I Can Be Your Whiskey](https://open.spotify.com/track/0A7GvbqAUCnpSQb3TLKKFO) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj) | [Faulkner County](https://open.spotify.com/album/76TJG2HSA6OfERayHK4XLQ) | 3:59 | 2022-02-19 | 2022-07-15 |
 | [I Can Lie \(The Truth Is\)](https://open.spotify.com/track/5qqIccBZC1LfSGPU04Px26) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [I Can Lie \(The Truth Is\)](https://open.spotify.com/album/6QwfWouiQcSPcnh8t6GYvF) | 3:30 | 2023-06-09 |  |
 | [I May Hate Myself In The Morning](https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [There's More Where That Came From](https://open.spotify.com/album/7unRtRZHDFAMqVNEAQjlDs) | 4:32 | 2022-02-17 |  |
-| [I Met a Girl](https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Vinyl](https://open.spotify.com/album/0g5rhDZDPOuaLlxCq0GZ2g) | 3:21 | 2022-02-17 |  |
+| [I Met a Girl](https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Vinyl](https://open.spotify.com/album/0g5rhDZDPOuaLlxCq0GZ2g) | 3:21 | 2022-02-17 | 2023-08-05 |
 | [I Think I'll Just Stay Here And Drink](https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Back To The Barrooms](https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj) | 4:31 | 2022-05-13 |  |
 | [I'd Do It Different](https://open.spotify.com/track/4rzD1EihpFtcWLtNAQ2ugc) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj) | [I'd Do It Different](https://open.spotify.com/album/5QAZosdEGZeS1cmIJcSm1b) | 3:28 | 2022-02-17 | 2023-01-21 |
 | [I'll Think Of A Reason Later](https://open.spotify.com/track/7ygWc80Ao1nhcV2D6Q3zPa) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Some Things I Know](https://open.spotify.com/album/2Wdl9EOvTg4l4AhEpYovw8) | 3:38 | 2022-06-10 | 2023-06-10 |
@@ -80,6 +81,7 @@
 | [Independence Day](https://open.spotify.com/track/2jOkuPweyFcDBBBF8ZW8Zr) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Greatest Hits](https://open.spotify.com/album/467Cag6qid9mjW2hpnIcFi) | 3:26 | 2022-02-17 | 2023-05-27 |
 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 | 2022-02-17 |  |
 | [Just Might Have Her Radio On](https://open.spotify.com/track/0vnCEYbnzh4g8peFJ6ZqKm) | [Trent Tomlinson](https://open.spotify.com/artist/1Zn69emN3uZsF6YwCrkgYp) | [Country Is My Rock](https://open.spotify.com/album/1dMtfygDergsiS0sep6KDL) | 3:38 | 2022-02-17 | 2023-01-19 |
+| [Justa Jonesin'](https://open.spotify.com/track/4RudqZOuftr0uk55iKCYh3) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Justa Jonesin'](https://open.spotify.com/album/3BIkkShMzkjbOfFfQdFvbC) | 2:44 | 2023-08-04 |  |
 | [Killin' Time](https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Ultimate Clint Black](https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz) | 2:48 | 2022-02-17 |  |
 | [Kings and Queens of the Modern Day Honky Tonk](https://open.spotify.com/track/6ljSShN6zlEVlXAQMm17k2) | [Justin Adams](https://open.spotify.com/artist/2u3XRCxHLda0KhnBplrGc0) | [Kings and Queens of the Modern Day Honky Tonk](https://open.spotify.com/album/4EfE4YL8KA0pxQZ3Qd1xtr) | 3:05 | 2022-04-01 | 2022-04-21 |
 | [Lay Down With You](https://open.spotify.com/track/0SLiBF2OKw6F1vjKV2rnt1) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Lay Down With You](https://open.spotify.com/album/1ednonVNc1XyWtfOT3V4In) | 3:02 | 2022-07-29 |  |
@@ -93,7 +95,7 @@
 | [Maybe It Was Memphis](https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Put Yourself In My Place](https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz) | 3:59 | 2022-05-13 |  |
 | [Me on You](https://open.spotify.com/track/68yrOD2q0Chbbd5BEsj7aM) | [Josh Kiser](https://open.spotify.com/artist/0f3VHWozHxr2u1VcsOVWnV) | [When Country Was](https://open.spotify.com/album/349YKa9ysD4XZMzhJJCYjJ) | 3:16 | 2022-04-08 | 2022-07-25 |
 | [Meet In the Middle](https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Diamond Rio](https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr) | 3:18 | 2022-02-17 |  |
-| [Mr\. Saturday Night](https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9) | 3:06 | 2022-07-22 |  |
+| [Mr\. Saturday Night](https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9) | 3:06 | 2022-07-22 | 2023-08-05 |
 | [My Kinda Trouble](https://open.spotify.com/track/26DQPEXZJNwU5Qiite8NxW) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Songs from 'Backslider'](https://open.spotify.com/album/0ayjSku5dGTl6a1ihuTEJv) | 2:37 | 2022-02-19 | 2022-05-17 |
 | [Neon Blue](https://open.spotify.com/track/20LTvIfOH5vjhXC1E7WFxk) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/7tGi2TSrjFhjJ6W6BbD1wQ) | 2:51 | 2022-02-17 |  |
 | [Neon Dreamin'](https://open.spotify.com/track/5NlRilI9PDyCQXxSxt0CxW) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Neon Dreamin'](https://open.spotify.com/album/5BAVG5h0zvrNUbR0Kglefr) | 3:27 | 2023-07-07 |  |

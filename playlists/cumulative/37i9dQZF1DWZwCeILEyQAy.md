@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Sexyy Red
 
-409 songs - 17 hr 23 min
+411 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Fasho Fasho](https://open.spotify.com/track/5cYBnLxnTUxqu3ZK1cPMnm) | [Chelly Flame](https://open.spotify.com/artist/5zgtnqJoKA4WVzfUcPw1W7) | [Fasho Fasho](https://open.spotify.com/album/7rfjsqxWNtGFaANAOYamVe) | 2:02 | 2022-10-28 | 2022-11-09 |
 | [Female Goat](https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:53 | 2021-11-05 | 2022-06-04 |
 | [First Day In LA](https://open.spotify.com/track/1OdtpdyOeGpYtlTfekIWAJ) | [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [First Day In LA](https://open.spotify.com/album/3M5P1wm4AVl1sIeVOjFt0B) | 1:56 | 2022-10-07 | 2023-01-28 |
+| [FLAME](https://open.spotify.com/track/1cLuO6ZohgsYiePL6WAeJO) | [Enjonu](https://open.spotify.com/artist/0Vn8AG57dwla4ujcm97Dfx) | [I’LLGIVEYOUSOMETHING2CRYABOUT](https://open.spotify.com/album/2V9hDJGd74wJYIDiHtMgYd) | 2:42 | 2023-08-04 |  |
 | [Flow](https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8) | [Jourden](https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u) | [Flow](https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc) | 2:42 | 2023-07-14 |  |
 | [Fly Shhh \(feat\. Gloss Up\)](https://open.spotify.com/track/5xsd1d5ArJqqdBTK7RHOKN) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [RESILIENCE](https://open.spotify.com/album/6oq03SmM5eN38iNZOFpjmx) | 2:04 | 2023-07-21 |  |
 | [Fractions](https://open.spotify.com/track/28PeqNMnFfVQnXvXmyf88G) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 3:01 | 2021-11-05 | 2022-03-18 |
@@ -171,7 +172,7 @@
 | [Heavy Steppers \- Remix](https://open.spotify.com/track/0jbzP7LQDrRlDSS8x3mAPe) | [9ina](https://open.spotify.com/artist/1sbXueC2f1AS634qGiyZFw), [Bidney Blood](https://open.spotify.com/artist/4bJCIoav4AKcHaLMIYXKhF) | [Heavy Steppers \(Remix\)](https://open.spotify.com/album/5U6PsUxmiTvOKxsS54t5fA) | 2:00 | 2021-11-05 | 2022-03-15 |
 | [Hellcats SRTs](https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:33 | 2023-06-09 |  |
 | [Here I Come](https://open.spotify.com/track/24JTap3Y2LHb3icc5iIkNj) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Here I Come](https://open.spotify.com/album/5yEN89IGBwa3y0tP2qWAnK) | 1:48 | 2022-11-18 | 2023-05-06 |
-| [Hoedown \(with Zoe Osama\)](https://open.spotify.com/track/5y8AkgjrtsCspzzAjxqIJ3) | [Shady Blu](https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa), [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Hoedown \(with Zoe Osama\)](https://open.spotify.com/album/1SJWGIrKqoQMfALk7xtGWn) | 2:13 | 2023-06-16 |  |
+| [Hoedown \(with Zoe Osama\)](https://open.spotify.com/track/5y8AkgjrtsCspzzAjxqIJ3) | [Shady Blu](https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa), [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Hoedown \(with Zoe Osama\)](https://open.spotify.com/album/1SJWGIrKqoQMfALk7xtGWn) | 2:13 | 2023-06-16 | 2023-08-05 |
 | [Hold Up](https://open.spotify.com/track/6yDSzYsva8buINy7piNZ0b) | [Shady Blu](https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa) | [Topic Of Discussion](https://open.spotify.com/album/2LSPEGg9mB9Pbiy923nHwx) | 2:27 | 2023-02-10 | 2023-04-22 |
 | [Honey Bun](https://open.spotify.com/track/20f6NKhIFA61Sw4bjYKHu7) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Honey Bun](https://open.spotify.com/album/4JYcG0gR8kCJ6rd3mKB3hm) | 3:11 | 2022-09-30 | 2023-03-25 |
 | [Hood Celebrity \(Shake it\)](https://open.spotify.com/track/3MJ8iBdGoL3qMg0fhSsMgq) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Flow Of Forum](https://open.spotify.com/album/36QL5IbxHb7GKTxR3W5SBH) | 2:08 | 2022-08-05 | 2022-10-22 |
@@ -221,7 +222,7 @@
 | [MAD](https://open.spotify.com/track/3RIfPynHjfJgChiUX6nDrg) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [MAD](https://open.spotify.com/album/6L0iHM0jM6pvsTZesuHBWO) | 2:46 | 2023-07-21 |  |
 | [Make It Lit](https://open.spotify.com/track/17UlPmEGyHxCC3BMRv9Kel) | [Kenzo B](https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH) | [Make It Lit](https://open.spotify.com/album/5ItLGaYeJEH6C1h4iSKoDH) | 2:53 | 2022-10-14 | 2023-01-21 |
 | [Maneuver \(feat\. Flo Milli\)](https://open.spotify.com/track/4bWGHob6LSJ6XV2NtEo5Zi) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 3:21 | 2022-09-23 | 2023-03-25 |
-| [Manifest It \(feat\. Jean Deaux\)](https://open.spotify.com/track/1Q2h8rAQ8o1FlcMFTi4Dff) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Manifest It \(feat\. Jean Deaux\)](https://open.spotify.com/album/7wzsGrZ0lr4MEkxPu4I0Xj) | 2:53 | 2023-07-14 |  |
+| [Manifest It \(feat\. Jean Deaux\)](https://open.spotify.com/track/1Q2h8rAQ8o1FlcMFTi4Dff) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Manifest It \(feat\. Jean Deaux\)](https://open.spotify.com/album/7wzsGrZ0lr4MEkxPu4I0Xj) | 2:53 | 2023-07-14 | 2023-08-05 |
 | [Margarita](https://open.spotify.com/track/5jVQWnQukez0gilwAvqKOV) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM) | [Margarita](https://open.spotify.com/album/7agoHE6NnnJIwCKJUNysii) | 3:22 | 2021-11-05 | 2022-03-14 |
 | [Mascara](https://open.spotify.com/track/41cmC5V2ilq3NxKMq2MZTn) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Mascara](https://open.spotify.com/album/3wPGN4DPFG9Z69Q6s52CBZ) | 2:26 | 2021-11-05 | 2022-02-25 |
 | [Meet Yo Mama](https://open.spotify.com/track/1YPQlOn1f25xaTF3oXM1bS) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [Meet Yo Mama](https://open.spotify.com/album/1t07LZKfClXuSIoUiZcO2E) | 2:51 | 2023-03-03 | 2023-04-29 |
@@ -331,6 +332,7 @@
 | [Shisha](https://open.spotify.com/track/3GQ4WtNBEax7cYRGBNM0Js) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Keep It Playa](https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS) | 3:12 | 2021-12-17 | 2022-03-18 |
 | [Shots Fired](https://open.spotify.com/track/3yhhv0VCmKkAWD9ysDLpTE) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:50 | 2021-11-05 | 2022-09-03 |
 | [Silly Heaux](https://open.spotify.com/track/4dqToym9mPeED3cSkpRogr) | [Nikki Jayy](https://open.spotify.com/artist/4MONW063BePUr0702vTw6c) | [Silly Heaux](https://open.spotify.com/album/03DunL87YaUMadDMdIPzRA) | 2:10 | 2023-05-05 |  |
+| [SINISTER](https://open.spotify.com/track/7L67hqIlmroFlNplyBXEh2) | [Enjonu](https://open.spotify.com/artist/0Vn8AG57dwla4ujcm97Dfx) | [I’LLGIVEYOUSOMETHING2CRYABOUT](https://open.spotify.com/album/2V9hDJGd74wJYIDiHtMgYd) | 2:10 | 2023-08-04 |  |
 | [SIXTEEN](https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [SIXTEEN](https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN) | 2:32 | 2023-03-03 | 2023-07-15 |
 | [Slide](https://open.spotify.com/track/0eN3LYdvUOq7Z1WOpd48g3) | [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Slide](https://open.spotify.com/album/3RfilbCGqpSGaatGl42MKt) | 2:41 | 2022-04-29 | 2022-07-29 |
 | [SLIDIN](https://open.spotify.com/track/6MX37FJ73QJM4QdtFn5v5B) | [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx) | [SLIDIN](https://open.spotify.com/album/0LwTsPggKFPtaDs7DKEIAv) | 1:59 | 2022-10-28 | 2023-01-28 |

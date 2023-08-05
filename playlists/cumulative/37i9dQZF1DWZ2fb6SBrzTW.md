@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-308 songs - 16 hr 0 min
+309 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Apotheke](https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 4:34 | 2023-04-27 | 2023-07-17 |
 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 | 2023-04-28 |  |
 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 | 2023-03-10 | 2023-06-23 |
+| [As I Wake Up](https://open.spotify.com/track/2j6L2Mqm0HWLQWuw5Vythm) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [As I Wake Up](https://open.spotify.com/album/5T8xA88j50McKpbcK7RRP3) | 3:27 | 2023-08-03 |  |
 | [Aso](https://open.spotify.com/track/5wHk6dHg0L0wf969TA1p9b) | [Skrilla Ghad](https://open.spotify.com/artist/0WkzfB1NFXWyYF2rDbtJ93) | [Aso](https://open.spotify.com/album/2lnTdMbJf9eNCzFrPL2web) | 1:46 | 2022-06-16 | 2022-07-25 |
 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 | 2022-11-25 | 2023-05-11 |
 | [Atenu](https://open.spotify.com/track/7LKOOxFzqTRkzsTwipxXFQ) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Fire](https://open.spotify.com/album/7pQThPR8GmQWkzpvqIteNH) | 2:24 | 2022-06-23 | 2022-07-28 |
@@ -34,7 +35,7 @@
 | [Baboni](https://open.spotify.com/track/1oyyyo84213cxYa2ZAh6kd) | [Slim Kofi](https://open.spotify.com/artist/5pHHQo1zsnAkbnIhEKuMU6), [Versatile](https://open.spotify.com/artist/2ukohNyOzWF8p6S3Tqz3J7) | [Baboni](https://open.spotify.com/album/7MbNMZostPP8Kihu31ODWB) | 2:54 | 2022-04-14 | 2022-07-29 |
 | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/album/4vrb4l5CjEYXkCTsZkP2go) | 2:49 | 2022-11-25 | 2023-04-21 |
 | [Bad Girl \(feat\. Wande Coal & Victony\)](https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bad Girl \(feat\. Wande Coal & Victony\)](https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq) | 3:24 | 2022-07-28 | 2023-03-18 |
-| [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 | 2022-09-19 |  |
+| [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 | 2022-09-19 | 2023-08-05 |
 | [BAGS](https://open.spotify.com/track/65ifNZG6sUFpLd3RowpvMp) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BAGS](https://open.spotify.com/album/3HKilqWvytZNtmTMvyIfT0) | 2:54 | 2022-07-07 | 2022-07-29 |
 | [Balaclava Baby](https://open.spotify.com/track/7jRe7wL8ZnCvX2JAUH0CY5) | [badthesoundboy](https://open.spotify.com/artist/39xSEItKpV8z7fhtLn5lRI) | [Balaclava Baby](https://open.spotify.com/album/3EV3bT5qo3r0l2YRG6CIA8) | 2:34 | 2022-04-21 | 2022-07-20 |
 | [Baleka \(feat\. Nokwazi, DJ Biza & Tsiki XII\)](https://open.spotify.com/track/7iBiBYaVBw69mmPwPBgM0t) | [Mr JazziQ](https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL), [DJ Biza](https://open.spotify.com/artist/4HeR40LXLro0IsVPpDJXrm), [Tsiki XII](https://open.spotify.com/artist/202SrQTYVvPja7Z5lrsWuk) | [ALL YOU NEED IS PIANO](https://open.spotify.com/album/4FxJb1vaaJzZVTi0LI5xs5) | 6:17 | 2022-08-12 | 2022-09-24 |

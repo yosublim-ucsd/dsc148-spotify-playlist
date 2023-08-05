@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 414196,
+  "num_followers": 414572,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODM0MDIwZjY5MTdkNWRlMzBhZWQ4NzYyMDJjZDIyY2RjNmVmOTU4",
+  "snapshot_id": "MCw0NGM5NDMyNjk5OGMxYTI4N2YwYjUxZTJlZTJhNmJkZjAyN2RlOTk4",
   "tracks": [
     {
       "added_at": "2023-06-20 11:05:16",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Soul Eyes",
-        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 224460,
-      "name": "Place To Hide",
-      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
         "name": "Songbird 20",
         "url": "https://open.spotify.com/album/3XqJP3zCQMeEdJrk7IGiTJ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 282640,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/76rNA8RYBC1WgspUaOVZsB"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
+        "name": "Soul Eyes",
+        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 224460,
+      "name": "Place To Hide",
+      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Frenchy",
-        "url": "https://open.spotify.com/album/33aacw53MZVyxjzjqxcs9o"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dutronc",
-          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
-        },
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Un homme et une femme",
-      "url": "https://open.spotify.com/track/70DFIIL8qvunU5PWwsFDtw"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
         "name": "Coming Back To You",
         "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 220600,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
+        "name": "Frenchy",
+        "url": "https://open.spotify.com/album/33aacw53MZVyxjzjqxcs9o"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+        },
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Un homme et une femme",
+      "url": "https://open.spotify.com/track/70DFIIL8qvunU5PWwsFDtw"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Linger Awhile (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 183523,
-      "name": "Sometimes Today Seems Like Yesterday",
-      "url": "https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
         "name": "My Wonderland",
         "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
       },
@@ -1599,22 +1583,18 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
-        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
+        "name": "Linger Awhile (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
       },
       "artists": [
         {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
         }
       ],
-      "duration_ms": 242666,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
+      "duration_ms": 183523,
+      "name": "Sometimes Today Seems Like Yesterday",
+      "url": "https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1635,6 +1615,26 @@
       "duration_ms": 261706,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
+        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
+        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "Ain't Misbehavin'",
-      "url": "https://open.spotify.com/track/12nF9kcd6ixm3RLGZD5kqk"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 492520,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 223400,
+      "name": "Ain't Misbehavin'",
+      "url": "https://open.spotify.com/track/12nF9kcd6ixm3RLGZD5kqk"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
+        "name": "On My Way to You",
+        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 176280,
+      "name": "One At A Time",
+      "url": "https://open.spotify.com/track/6M00o3MqNCShYRPND1UBEN"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
         "name": "The Look Of Love - Burt Bacharach Songbook",
         "url": "https://open.spotify.com/album/34pw7PTVYdcEkfHnIo9jx2"
       },
@@ -1955,38 +1971,6 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "On My Way to You",
-        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 176280,
-      "name": "One At A Time",
-      "url": "https://open.spotify.com/track/6M00o3MqNCShYRPND1UBEN"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
-        "name": "I've Got You Under My Skin",
-        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 209848,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
         "name": "La belle vie - The Good Life",
         "url": "https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 222920,
       "name": "La belle vie - The Good Life",
       "url": "https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
+        "name": "I've Got You Under My Skin",
+        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 209848,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
     },
     {
       "added_at": "2023-06-20 11:05:16",

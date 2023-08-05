@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover\- Taba Chake
 
-226 songs - 13 hr 10 min
+227 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Dancing with my phone](https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:23 | 2023-05-19 |  |
 | [Dark Blue Sky](https://open.spotify.com/track/2q7SxiB53YPRj4NTLujb0P) | [Mimansa](https://open.spotify.com/artist/1ZChq8269HWtLsjugMFR0l) | [Dark Blue Sky](https://open.spotify.com/album/1aSfpHhHhjceiFnWofOJe6) | 4:07 | 2022-03-25 | 2022-05-26 |
 | [daydream](https://open.spotify.com/track/1vRJrhhctvUFI1X44CVn8V) | [Taarini](https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv) | [daydream](https://open.spotify.com/album/4JB9jTAwRLkQPG3iLBWHCs) | 3:03 | 2023-03-16 | 2023-04-19 |
-| [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 | 2022-03-25 |  |
+| [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 | 2022-03-25 | 2023-08-05 |
 | [Desert Island](https://open.spotify.com/track/4v4lyqBQuvFyIzPkrVX1xQ) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Desert Island](https://open.spotify.com/album/0FOG8vBG0OfDwFVfKDwf29) | 3:28 | 2022-03-25 | 2023-05-20 |
 | [DFWM](https://open.spotify.com/track/6356OPdyCg97sRoBnYyTwe) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs), [Oceantied](https://open.spotify.com/artist/755GG4WXDoBMcDlcBEwgp3) | [DFWM](https://open.spotify.com/album/2wu92Nq78NWpXjL6S2Uu0M) | 3:17 | 2022-03-25 | 2022-05-22 |
 | [Disconnect](https://open.spotify.com/track/2aiQyxSMWMvmKs4YC9Av7a) | [Pragnya Wakhlu](https://open.spotify.com/artist/2YIHuXM9ivsh3cGQ0Ne1tl) | [Disconnect](https://open.spotify.com/album/73Kr7Mho0OoSB7DCVUk0Ez) | 4:19 | 2022-09-02 | 2022-09-10 |
@@ -219,6 +219,7 @@
 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 | 2022-03-25 |  |
 | [UNO](https://open.spotify.com/track/6Fsp0QzecAzkHEJn1QInU8) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [UNO](https://open.spotify.com/album/6OZef64g2SeanHZyzsaLiW) | 3:10 | 2022-03-25 | 2023-01-18 |
 | [Vanilla](https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7) | 2:31 | 2023-05-24 |  |
+| [Vibe Killer](https://open.spotify.com/track/2jf4UKl4hCH13KqOSK3Lsr) | [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS) | [Digitalover](https://open.spotify.com/album/0noKqaCAONqoI6SxBE0xwK) | 2:42 | 2023-08-02 |  |
 | [Void](https://open.spotify.com/track/2O2O8SvRfKz2ALOIvqBazc) | [Aanchal Bordoloi](https://open.spotify.com/artist/69JXumQlC6KoLNevtXerF1), [Sanketh](https://open.spotify.com/artist/7qNrYaYetKPxHFlAX727BB) | [Void](https://open.spotify.com/album/1DcssSPO2Dio4imihI9FbK) | 6:40 | 2022-12-23 | 2023-01-13 |
 | [Walk Away](https://open.spotify.com/track/1gY0QBMjHNX8z8b324VQI9) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Walk Away](https://open.spotify.com/album/0wBxQTwnPhw1HgGkaI4Op0) | 4:32 | 2023-06-21 |  |
 | [walk away](https://open.spotify.com/track/6N51hS8QG3ounVWetTnNP1) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [idk it's complicated](https://open.spotify.com/album/32q4VWN3LXqqGSaaqdsrwJ) | 2:55 | 2023-05-19 | 2023-05-24 |

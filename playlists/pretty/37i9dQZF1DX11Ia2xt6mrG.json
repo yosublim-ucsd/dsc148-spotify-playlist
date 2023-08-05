@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mr Pig y Mario Bautista en portada.",
-  "num_followers": 54790,
+  "num_followers": 54792,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmVhOTQyY2I3NWEzYWEwOWZmZTQ5Mzc4ZjM1NmIwNWM5NTJjZjJi",
+  "snapshot_id": "MCxlNDNjMjQyZDVkMTdkYzY4NzI4YmZmMjcwMGM4ZTQwZjM0MmE4MGE5",
   "tracks": [
     {
       "added_at": "2023-07-28 19:14:29",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
-        "name": "Lunar Spirits",
-        "url": "https://open.spotify.com/album/7gZaCDSfzWTxJ0arszwSI0"
-      },
-      "artists": [
-        {
-          "name": "Can\u00f8",
-          "url": "https://open.spotify.com/artist/61y7GkU4OOPseS05owEXtL"
-        }
-      ],
-      "duration_ms": 399677,
-      "name": "Lunar Spirits",
-      "url": "https://open.spotify.com/track/26TzE87XsAR0zd9SkruqxB"
-    },
-    {
-      "added_at": "2023-07-28 19:14:29",
-      "album": {
         "name": "Melancol\u00eda",
         "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 222366,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
+    },
+    {
+      "added_at": "2023-07-28 19:14:29",
+      "album": {
+        "name": "Lunar Spirits",
+        "url": "https://open.spotify.com/album/7gZaCDSfzWTxJ0arszwSI0"
+      },
+      "artists": [
+        {
+          "name": "Can\u00f8",
+          "url": "https://open.spotify.com/artist/61y7GkU4OOPseS05owEXtL"
+        }
+      ],
+      "duration_ms": 399677,
+      "name": "Lunar Spirits",
+      "url": "https://open.spotify.com/track/26TzE87XsAR0zd9SkruqxB"
     },
     {
       "added_at": "2023-07-28 19:14:29",
@@ -603,26 +603,6 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
-      },
-      "artists": [
-        {
-          "name": "Juan Soto",
-          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
-        },
-        {
-          "name": "Lemon Mint",
-          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
-        }
-      ],
-      "duration_ms": 252579,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
-    },
-    {
-      "added_at": "2023-07-28 19:14:29",
-      "album": {
         "name": "UP (Bzars Remix)",
         "url": "https://open.spotify.com/album/57NJ9mlC0mPtXJAc6T9Q2g"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 142372,
       "name": "UP (Bzars Remix)",
       "url": "https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB"
+    },
+    {
+      "added_at": "2023-07-28 19:14:29",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
+      },
+      "artists": [
+        {
+          "name": "Juan Soto",
+          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
+        },
+        {
+          "name": "Lemon Mint",
+          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
+        }
+      ],
+      "duration_ms": 252579,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
     },
     {
       "added_at": "2023-07-28 19:14:29",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
+        "name": "Hanging Tree",
+        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "Hanging Tree",
+      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
+    },
+    {
+      "added_at": "2023-07-28 19:14:29",
+      "album": {
         "name": "\u00a1Bang Bang!",
         "url": "https://open.spotify.com/album/5DwaVHb22Cf0iI4eVhloH1"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 167666,
       "name": "\u00a1Bang Bang!",
       "url": "https://open.spotify.com/track/3jporpDKD12uIni94rIOjh"
-    },
-    {
-      "added_at": "2023-07-28 19:14:29",
-      "album": {
-        "name": "Hanging Tree",
-        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Hanging Tree",
-      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
     },
     {
       "added_at": "2023-07-28 19:14:29",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
-        "name": "The Same Loop Again",
-        "url": "https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC"
-      },
-      "artists": [
-        {
-          "name": "Orig\u0101mi",
-          "url": "https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0"
-        }
-      ],
-      "duration_ms": 279594,
-      "name": "The Same Loop Again",
-      "url": "https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC"
-    },
-    {
-      "added_at": "2023-07-28 19:14:29",
-      "album": {
         "name": "Time (feat. Alexia Langis)",
         "url": "https://open.spotify.com/album/4SElNkH0p7XWGmRZSNoDsi"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 187317,
       "name": "Time (feat. Alexia Langis)",
       "url": "https://open.spotify.com/track/3aw25wFUuAAB8rxheGg09G"
+    },
+    {
+      "added_at": "2023-07-28 19:14:29",
+      "album": {
+        "name": "The Same Loop Again",
+        "url": "https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC"
+      },
+      "artists": [
+        {
+          "name": "Orig\u0101mi",
+          "url": "https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0"
+        }
+      ],
+      "duration_ms": 279594,
+      "name": "The Same Loop Again",
+      "url": "https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC"
     },
     {
       "added_at": "2023-07-28 19:14:29",
@@ -1007,30 +1007,6 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
-        "name": "Just Leave The Past Behind",
-        "url": "https://open.spotify.com/album/69sTttBrKs2MQBoND8cDcU"
-      },
-      "artists": [
-        {
-          "name": "Genis",
-          "url": "https://open.spotify.com/artist/0Bcv2l62XJ2dND1hjO4pJw"
-        },
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        },
-        {
-          "name": "Lasser Drakar",
-          "url": "https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Just Leave The Past Behind - Human Version",
-      "url": "https://open.spotify.com/track/3KFjNp9m5fDzNpmoBkndMq"
-    },
-    {
-      "added_at": "2023-07-28 19:14:29",
-      "album": {
         "name": "In Your Arms",
         "url": "https://open.spotify.com/album/19068iWscfCtBIkmza7Mur"
       },
@@ -1055,22 +1031,26 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
-        "name": "Esto Aqui No Acaba",
-        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
+        "name": "Just Leave The Past Behind",
+        "url": "https://open.spotify.com/album/69sTttBrKs2MQBoND8cDcU"
       },
       "artists": [
         {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+          "name": "Genis",
+          "url": "https://open.spotify.com/artist/0Bcv2l62XJ2dND1hjO4pJw"
         },
         {
-          "name": "Flor Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        },
+        {
+          "name": "Lasser Drakar",
+          "url": "https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Esto Aqui No Acaba",
-      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
+      "duration_ms": 222000,
+      "name": "Just Leave The Past Behind - Human Version",
+      "url": "https://open.spotify.com/track/3KFjNp9m5fDzNpmoBkndMq"
     },
     {
       "added_at": "2023-07-28 19:14:29",
@@ -1095,6 +1075,26 @@
       "duration_ms": 150966,
       "name": "Agua Pa Beber",
       "url": "https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh"
+    },
+    {
+      "added_at": "2023-07-28 19:14:29",
+      "album": {
+        "name": "Esto Aqui No Acaba",
+        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Flor Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Esto Aqui No Acaba",
+      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
     },
     {
       "added_at": "2023-07-28 19:14:29",
@@ -1151,6 +1151,26 @@
       "duration_ms": 121937,
       "name": "FUEL",
       "url": "https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A"
+    },
+    {
+      "added_at": "2023-07-28 19:14:29",
+      "album": {
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/3ZkgrJ5TuwFNMniMQIKRRl"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/6yAGKyOvFquLOnrM75re5N"
     },
     {
       "added_at": "2023-07-28 19:14:29",
@@ -1243,26 +1263,6 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
-        "name": "Empty Words",
-        "url": "https://open.spotify.com/album/3ZkgrJ5TuwFNMniMQIKRRl"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Empty Words",
-      "url": "https://open.spotify.com/track/6yAGKyOvFquLOnrM75re5N"
-    },
-    {
-      "added_at": "2023-07-28 19:14:29",
-      "album": {
         "name": "Ra Ta Ta (LNY TNZ Remix)",
         "url": "https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
-    },
-    {
-      "added_at": "2023-07-28 19:14:29",
-      "album": {
         "name": "Scare",
         "url": "https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 213133,
       "name": "Windows",
       "url": "https://open.spotify.com/track/1JUOjyWpg8X8nePqmYKSCW"
+    },
+    {
+      "added_at": "2023-07-28 19:14:29",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        }
+      ],
+      "duration_ms": 210967,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
     },
     {
       "added_at": "2023-07-28 19:14:29",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
-        "name": "Like a Dream",
-        "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Bandido Brothers",
-          "url": "https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Like a Dream",
-      "url": "https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC"
-    },
-    {
-      "added_at": "2023-07-28 19:14:29",
-      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/3r4UauxvbGR8am8API7124"
       },
@@ -1543,6 +1523,22 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
+        "name": "Eunoia",
+        "url": "https://open.spotify.com/album/6vvIKaVVvt3qHX94edFmmj"
+      },
+      "artists": [
+        {
+          "name": "Leimantour",
+          "url": "https://open.spotify.com/artist/23dJcrY31UxUxew6zHi02N"
+        }
+      ],
+      "duration_ms": 428000,
+      "name": "Eunoia",
+      "url": "https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy"
+    },
+    {
+      "added_at": "2023-07-28 19:14:29",
+      "album": {
         "name": "killed love",
         "url": "https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP"
       },
@@ -1559,18 +1555,22 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
-        "name": "Eunoia",
-        "url": "https://open.spotify.com/album/6vvIKaVVvt3qHX94edFmmj"
+        "name": "Like a Dream",
+        "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
       },
       "artists": [
         {
-          "name": "Leimantour",
-          "url": "https://open.spotify.com/artist/23dJcrY31UxUxew6zHi02N"
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Bandido Brothers",
+          "url": "https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ"
         }
       ],
-      "duration_ms": 428000,
-      "name": "Eunoia",
-      "url": "https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy"
+      "duration_ms": 210731,
+      "name": "Like a Dream",
+      "url": "https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC"
     },
     {
       "added_at": "2023-07-28 19:14:29",

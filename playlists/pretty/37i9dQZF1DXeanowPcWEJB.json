@@ -1,12 +1,12 @@
 {
   "description": "Viaja al M\u00e9xico tradicional con la expresi\u00f3n de sus guitarras.",
-  "num_followers": 63681,
+  "num_followers": 63803,
   "original_name": "Guitarra Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTM1NjZhZWVjNzhhNTYzOGMxMTNlYzcyMjJjZTdhZTNjNmQxNjM4",
+  "snapshot_id": "MCwxYTA4NjBmZDEwYjUxN2VhNDYwNTBlZmNlNjBkMjQ5NTQ1NWUzNzdm",
   "tracks": [
     {
       "added_at": "2023-01-23 22:55:31",
@@ -27,22 +27,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+        "name": "Grandes Exitos del Sol",
+        "url": "https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D"
       },
       "artists": [
         {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+          "name": "Guitarras de Luna",
+          "url": "https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh"
         }
       ],
-      "duration_ms": 186852,
-      "name": "Ansia",
-      "url": "https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG"
+      "duration_ms": 203933,
+      "name": "Contigo Aprend\u00ed",
+      "url": "https://open.spotify.com/track/47NvUPEO2wIsUrAt1dNRfq"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -67,18 +63,22 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Grandes Exitos del Sol",
-        "url": "https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D"
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
       "artists": [
         {
-          "name": "Guitarras de Luna",
-          "url": "https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh"
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
         }
       ],
-      "duration_ms": 203933,
-      "name": "Contigo Aprend\u00ed",
-      "url": "https://open.spotify.com/track/47NvUPEO2wIsUrAt1dNRfq"
+      "duration_ms": 186852,
+      "name": "Ansia",
+      "url": "https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "\u00c9xitos Vol. 2",
-        "url": "https://open.spotify.com/album/6DG898DOEIdqpKyK2nB72v"
-      },
-      "artists": [
-        {
-          "name": "Chamin Correa",
-          "url": "https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w"
-        }
-      ],
-      "duration_ms": 268434,
-      "name": "Esta Triste Guitarra",
-      "url": "https://open.spotify.com/track/4WVOyMd86ZTGhh6WNuwUSs"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
         "name": "Noche Negra",
         "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 119739,
       "name": "Noche Negra",
       "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "\u00c9xitos Vol. 2",
+        "url": "https://open.spotify.com/album/6DG898DOEIdqpKyK2nB72v"
+      },
+      "artists": [
+        {
+          "name": "Chamin Correa",
+          "url": "https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w"
+        }
+      ],
+      "duration_ms": 268434,
+      "name": "Esta Triste Guitarra",
+      "url": "https://open.spotify.com/track/4WVOyMd86ZTGhh6WNuwUSs"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Coleccion De Oro",
-        "url": "https://open.spotify.com/album/17aGPzpgZyUu3VtSiErXNr"
+        "name": "Parece Que Fue Ayer",
+        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
       },
       "artists": [
         {
-          "name": "Chamin Correa",
-          "url": "https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w"
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
         }
       ],
-      "duration_ms": 297351,
-      "name": "La Barca / Tu Condena / El Reloj",
-      "url": "https://open.spotify.com/track/4zU0JhDu2f1Zojz2LlCwuI"
+      "duration_ms": 168250,
+      "name": "Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Parece Que Fue Ayer",
-        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
+        "name": "Coleccion De Oro",
+        "url": "https://open.spotify.com/album/17aGPzpgZyUu3VtSiErXNr"
       },
       "artists": [
         {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+          "name": "Chamin Correa",
+          "url": "https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w"
         }
       ],
-      "duration_ms": 168250,
-      "name": "Parece Que Fue Ayer",
-      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
+      "duration_ms": 297351,
+      "name": "La Barca / Tu Condena / El Reloj",
+      "url": "https://open.spotify.com/track/4zU0JhDu2f1Zojz2LlCwuI"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Amor Que Malo Eres",
-        "url": "https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB"
+        "name": "Guitarra Mexicana",
+        "url": "https://open.spotify.com/album/4E9JVN15xAQeBCtFuxnafP"
       },
       "artists": [
         {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+          "name": "Roberto Rojas",
+          "url": "https://open.spotify.com/artist/6h8HM5jSn1QjXgOiZzfm0p"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Amor Que Malo Eres",
-      "url": "https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ"
+      "duration_ms": 151150,
+      "name": "La Feria De Las Flores",
+      "url": "https://open.spotify.com/track/4UhQUTyawdgrLXfvZUNpzU"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Guitarra Mexicana",
-        "url": "https://open.spotify.com/album/4E9JVN15xAQeBCtFuxnafP"
+        "name": "Amor Que Malo Eres",
+        "url": "https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB"
       },
       "artists": [
         {
-          "name": "Roberto Rojas",
-          "url": "https://open.spotify.com/artist/6h8HM5jSn1QjXgOiZzfm0p"
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
         }
       ],
-      "duration_ms": 151150,
-      "name": "La Feria De Las Flores",
-      "url": "https://open.spotify.com/track/4UhQUTyawdgrLXfvZUNpzU"
+      "duration_ms": 156000,
+      "name": "Amor Que Malo Eres",
+      "url": "https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Spanish Guitar Latin Hits",
-        "url": "https://open.spotify.com/album/7t9FXqxz2X4tveYgxLBb1U"
-      },
-      "artists": [
-        {
-          "name": "Manuel Granada",
-          "url": "https://open.spotify.com/artist/0hBBzgIZteyQLiAh6v3AjV"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Cielito Lindo - Guitar Version",
-      "url": "https://open.spotify.com/track/6Rb3aBYBruXdLDmcDmsnRQ"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
         "name": "La Consentida",
         "url": "https://open.spotify.com/album/6DXALbPNgKm6YOUYeksMkL"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 125000,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/5gVHtoux61H8WpJHS8lIP1"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Spanish Guitar Latin Hits",
+        "url": "https://open.spotify.com/album/7t9FXqxz2X4tveYgxLBb1U"
+      },
+      "artists": [
+        {
+          "name": "Manuel Granada",
+          "url": "https://open.spotify.com/artist/0hBBzgIZteyQLiAh6v3AjV"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Cielito Lindo - Guitar Version",
+      "url": "https://open.spotify.com/track/6Rb3aBYBruXdLDmcDmsnRQ"
     },
     {
       "added_at": "2023-01-23 22:55:31",

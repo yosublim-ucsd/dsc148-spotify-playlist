@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoMAjKwiHY5.md) - [plain]
 
 > Got Fray\-fever? Or craving some DeGraw\-delights? Get on the Train\-train and enjoy these pop/rock classics\. Cover: Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,421 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,434 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoMAjKwiHY5.md) - [plain]
 | 74 | [Sleepwalker](https://open.spotify.com/track/5szl1EdOw3CuvItkpGuDHk) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Breach](https://open.spotify.com/album/0NkjpLDsYnqAdfEre7EHNL) | 3:31 |
 | 75 | [Be Like That](https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 4:25 |
 
-Snapshot ID: `MCwyYTRhODIyYmE2OTNhMzdkNGJlM2Q3MGQ3YTk0YjVmYjgyYWQzNDcx`
+Snapshot ID: `MCw1OGQ0ZmRmY2NhYTQ4MGJmNDNkNWUxMzE5NGRiZjEwM2FkNDdjYWUw`

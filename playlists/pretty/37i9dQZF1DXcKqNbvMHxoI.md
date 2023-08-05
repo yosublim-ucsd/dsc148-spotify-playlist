@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 
 > Songs so beautiful, made for the night
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,223 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,226 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 13 | [ain't the same](https://open.spotify.com/track/36HiyxDVheJRnCDhJk73Um) | [Lwny](https://open.spotify.com/artist/0nwK1tWueQUPpKudMyAArz) | [ain't the same](https://open.spotify.com/album/5FZolbTrLLPuvTPoVKidJW) | 4:24 |
 | 14 | [These Things Will Come To Be](https://open.spotify.com/track/27cgqh0VRhVeM61ugTnorD) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:56 |
 | 15 | [Comfort](https://open.spotify.com/track/2BmB9dEutF0cDtI5IbT8IE) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Going Home, Vol\. 1](https://open.spotify.com/album/4emb3mG0Dm5mJtnMdZm0tz) | 3:37 |
-| 16 | [Kyle \(I Found You\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 |
+| 16 | [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 |
 | 17 | [All for You](https://open.spotify.com/track/6VvtXayx5dU4CNluVzJTgM) | [LILITA](https://open.spotify.com/artist/7yjPJtEHUsXGKXOnRuTvuy) | [All for You](https://open.spotify.com/album/1QXHhDj48buwqHyE9FXSpD) | 4:29 |
 | 18 | [Lone Raver](https://open.spotify.com/track/3557dpMjGiydWbB98MT6H5) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 4:17 |
 | 19 | [Radiate](https://open.spotify.com/track/7ml9LpCXsH88Ez1mJnFzTg) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Radiate](https://open.spotify.com/album/15wCdrCX8iVt1KwM9uta2J) | 4:17 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 33 | [Change Your Mind](https://open.spotify.com/track/07KyRPrK4fGBiJkGDWAwLJ) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Eyes Open EP](https://open.spotify.com/album/13Ua4Sd4A8WhG3CgaNOKT0) | 5:17 |
 | 34 | [Stories](https://open.spotify.com/track/2wN4Y7z16C2sbtH493TRnH) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Slow Dance '19](https://open.spotify.com/album/0ciY4l6aX0ss6gHwIgM0zj) | 4:10 |
 | 35 | [You and Me](https://open.spotify.com/track/2RuOeqFMhuYLVGbgGPQx2l) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Souls](https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m) | 3:54 |
-| 36 | [Chika \(Scared\)](https://open.spotify.com/track/1XZFCOZm2Z0r0xszT254Of) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life](https://open.spotify.com/album/2eQW56txcEoh0iG0bC0gDr) | 2:48 |
+| 36 | [Chika \(scared\)](https://open.spotify.com/track/1XZFCOZm2Z0r0xszT254Of) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life](https://open.spotify.com/album/2eQW56txcEoh0iG0bC0gDr) | 2:48 |
 | 37 | [FHKD](https://open.spotify.com/track/4XpLwRcfumQsZ0IxDNOP3f) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Warm on a Cold Night \(Deluxe\)](https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA) | 4:29 |
 | 38 | [Road](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:58 |
 | 39 | [Better Place](https://open.spotify.com/track/2whKl8r9QCy1rZNBaLTMfN) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 79 | [Little Girl](https://open.spotify.com/track/6MWW1R6QcvgZOJ27ANqb9j) | [Rafau Etamski](https://open.spotify.com/artist/7crMfuf5neUYzmwwklDPCO) | [Little Girl](https://open.spotify.com/album/3vwyoOkfnsK1cr4kIknmnz) | 4:12 |
 | 80 | [The Sun Is Warm and Directly Above You](https://open.spotify.com/track/51C6ZIS91sig8ZHrWtsWlt) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [The Sun Is Warm and Directly Above You](https://open.spotify.com/album/4Udumqsv1U3QVeND9tqVp1) | 3:42 |
 
-Snapshot ID: `MCwxNjk0N2M4OGU4MGZiYzVjZjQ0ZmJlMjQ5YjQxZGM4ZTUxOWY0ZmI5`
+Snapshot ID: `MCxhNjA2ZTU1YjYyMGZmYTVjZTk1MTVlNTJiNzA0NDVkMGNmMjQ5ODUz`

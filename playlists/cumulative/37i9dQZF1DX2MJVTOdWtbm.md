@@ -2,9 +2,9 @@
 
 ### [Latin R&B](https://open.spotify.com/playlist/37i9dQZF1DX2MJVTOdWtbm)
 
-> The home of Latin R&B\. La casa del R&B Latino\. Cover: Maikel Delacalle
+> The home of Latin R&B\. La casa del R&B Latino\. Cover: Aleesha
 
-321 songs - 16 hr 56 min
+323 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,13 +66,15 @@
 | [Chimbita](https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Chimbita](https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit) | 2:45 | 2022-08-05 |  |
 | [Chiquita](https://open.spotify.com/track/4za1MD83DGTxNnmsNlVmy7) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Chiquita](https://open.spotify.com/album/1xERT4eWPhXVdE1SI1Wq7l) | 2:29 | 2022-08-17 | 2022-09-15 |
 | [Chiquita](https://open.spotify.com/track/7ACjdrdU2NaEq8s740awuq) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Chiquita](https://open.spotify.com/album/57EgKo9V4vRdOSNaiBEfCv) | 2:29 | 2022-02-11 | 2022-08-18 |
+| [Chulita](https://open.spotify.com/track/1evtsHnfBKGvUO2pSDCTww) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [Chulita](https://open.spotify.com/album/41A7H4P1B9wHLK8KCJQO0I) | 2:54 | 2023-08-04 |  |
 | [CINCO](https://open.spotify.com/track/4rogcVulmlEmSi08u3VWc8) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [5](https://open.spotify.com/album/158sVr4HeR7ukWJMDGmdFw) | 3:27 | 2022-03-11 | 2022-05-07 |
 | [Cliché](https://open.spotify.com/track/6q5eVWbNaW19NZWNeLqjyM) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Cliché](https://open.spotify.com/album/0l5ayQ0P7lUKSidsIJyp7T) | 2:53 | 2022-02-11 | 2022-07-29 |
+| [Climax](https://open.spotify.com/track/44rBnwPtuBSZTKUhjChFvI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [Climax](https://open.spotify.com/album/2C7rex6fcBtRICYrdOKxEz) | 2:28 | 2023-08-04 |  |
 | [COLOGNE](https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:45 | 2022-12-06 |  |
 | [Como Amigos](https://open.spotify.com/track/2uXS7NcBChNJZTIjHjlgjV) | [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Mi Monopolio](https://open.spotify.com/album/21HvaqyP2K8nQZdgGicqMh) | 3:50 | 2023-03-10 |  |
 | [Como Amigos](https://open.spotify.com/track/3ymNNjeQsobL39vXi6KmK6) | [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Como Amigos](https://open.spotify.com/album/2RxpDHtD9R3VYCGdxDiNdU) | 3:50 | 2023-02-24 | 2023-03-23 |
 | [como te va?](https://open.spotify.com/track/64gyDJ9fXpZvsycMEHRLUG) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [como te va?](https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V) | 2:34 | 2023-05-12 |  |
-| [Completa](https://open.spotify.com/track/56UwPuOsLHYgb0c04tNY3h) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Emi Muñiz](https://open.spotify.com/artist/19NZ579epNEbAxEuUlDUUj) | [Completa](https://open.spotify.com/album/6UeQLxvjp6AqO6whrw5Lyc) | 3:21 | 2023-07-28 |  |
+| [Completa](https://open.spotify.com/track/56UwPuOsLHYgb0c04tNY3h) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Emi Muñiz](https://open.spotify.com/artist/19NZ579epNEbAxEuUlDUUj) | [Completa](https://open.spotify.com/album/6UeQLxvjp6AqO6whrw5Lyc) | 3:21 | 2023-07-28 | 2023-08-05 |
 | [CON TAL](https://open.spotify.com/track/6hvsPuihxUfnp6GARyAO3w) | [Marval](https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM) | [CON TAL](https://open.spotify.com/album/1wJYAtnHZRBqt8H3cwRwBm) | 2:54 | 2022-02-11 | 2022-09-07 |
 | [Confusión](https://open.spotify.com/track/1fSkREDvtJw4pGkudpJzEF) | [Lao](https://open.spotify.com/artist/2zDEnKW6qy7E4M9A2c2YAZ), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq) | [Confusión](https://open.spotify.com/album/3TXITNl8PYjxLY6MYGpg61) | 3:51 | 2022-02-11 | 2022-07-29 |
 | [Conoce](https://open.spotify.com/track/4B1LWPQeIOTVHsMNa3KBBg) | [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Conoce](https://open.spotify.com/album/7ecm1r41OIi5VDEwcVhs50) | 3:39 | 2022-02-11 | 2023-05-13 |
@@ -292,7 +294,7 @@
 | [Ten Cuidao'](https://open.spotify.com/track/0FPMwL6lPQP5dYZr4fVKvp) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Ten Cuidao'](https://open.spotify.com/album/13ixtSvxnOOCjcsA19x28i) | 2:54 | 2023-05-12 | 2023-06-18 |
 | [tenemos que hablar](https://open.spotify.com/track/7k0yRWiVy5KiPRMX7hlVcI) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [tenemos que hablar](https://open.spotify.com/album/3t2asu3cz8C608hqCZwbir) | 3:25 | 2022-02-11 | 2022-05-17 |
 | [The Distance](https://open.spotify.com/track/3wEiJMQozHw9KOGeLbkhKK) | [Maryann Vasquez](https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9) | [The Distance](https://open.spotify.com/album/1XXshy7NZW44R2EM2akB7d) | 3:22 | 2022-03-25 | 2022-05-06 |
-| [Thinking About You](https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Thinking About You](https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj) | 2:37 | 2023-05-12 |  |
+| [Thinking About You](https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Thinking About You](https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj) | 2:37 | 2023-05-12 | 2023-08-05 |
 | [Thirteen](https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC) | [NEZZA](https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz) | [Thirteen](https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ) | 3:33 | 2022-08-05 | 2023-05-13 |
 | [Tira La Puerta](https://open.spotify.com/track/0RyZbvuv6h5AeKXi1AYvJs) | [Claire Delić](https://open.spotify.com/artist/5I5LlQHGqDoz2RGXph2llc) | [Tira La Puerta](https://open.spotify.com/album/31vwz8em3IHKspVCw9hC3x) | 2:34 | 2022-02-11 | 2022-07-28 |
 | [todavía dueles](https://open.spotify.com/track/7n9xkY2W8QEQyBBuR2aLdB) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todavía dueles](https://open.spotify.com/album/6BjsUk9eHecrsCmPiSCf3g) | 2:54 | 2023-06-13 | 2023-07-19 |

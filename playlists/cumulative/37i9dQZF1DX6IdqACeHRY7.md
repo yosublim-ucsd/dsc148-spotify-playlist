@@ -4,7 +4,7 @@
 
 > Behagelig musik.
 
-380 songs - 22 hr 5 min
+381 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Call Your Girlfriend](https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Call Your Girlfriend](https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu) | 3:14 | 2020-10-06\* | 2023-05-08 |
 | [Candle](https://open.spotify.com/track/1UObdUtqaviqpHbYIg05ZU) | [All Our Exes Live in Texas](https://open.spotify.com/artist/5Ul7YrRYtvl8da6i7Ziakt) | [When We Fall](https://open.spotify.com/album/6EXPtn1Gg7wU13HAilnHcF) | 3:14 | 2021-05-23 | 2021-05-27 |
 | [Cannonball](https://open.spotify.com/track/0knqVSsgD7C8yu5yNmQFbA) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La) | 5:10 | 2021-05-22 | 2021-10-12 |
-| [Cannonball](https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:10 | 2022-09-09 |  |
+| [Cannonball](https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:10 | 2022-09-09 | 2023-08-05 |
 | [Carry You Home](https://open.spotify.com/track/282p5nzzWitBct4l5NXoYz) | [Jamie Scott](https://open.spotify.com/artist/29QbBR0oTzA7A0kiOzrbbr) | [My Hurricane](https://open.spotify.com/album/5knuQLXo7V4YnODlay8oKy) | 4:01 | 2022-09-09 | 2022-11-13 |
 | [Carry You Home](https://open.spotify.com/track/5cZ3QCfLRVBxMptA6HswII) | [Jamie Scott](https://open.spotify.com/artist/29QbBR0oTzA7A0kiOzrbbr) | [Carry You Home](https://open.spotify.com/album/0pNYOy3vQH4yg3H8vN2VIz) | 4:01 | 2021-01-17 | 2022-07-29 |
 | [Chained To The Rhythm](https://open.spotify.com/track/6WYZpPWeHcAXd0KVSfjbwI) | [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Chained To The Rhythm](https://open.spotify.com/album/0bpEFgySwiqBSeqoxoujy9) | 3:23 | 2020-10-06\* | 2021-05-26 |
@@ -100,7 +100,7 @@
 | [Fired Up](https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Fired Up](https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP) | 3:21 | 2020-10-06\* |  |
 | [Fireproof](https://open.spotify.com/track/7lx4PtPvS63cuNuLvCBxD5) | [VAX](https://open.spotify.com/artist/6cQVcprcYDxGM79YmyCkcQ), [Teddy Sky](https://open.spotify.com/artist/6D0UYqXOF2HFQOet85VDKd) | [Fireproof](https://open.spotify.com/album/6C1aESANMZqbYgNKLCdvOV) | 3:11 | 2020-10-20 | 2022-07-29 |
 | [Fireproof \(feat\. Teddy Sky\)](https://open.spotify.com/track/4q1WaJZoHTtojqDHX8QvaC) | [VAX](https://open.spotify.com/artist/6cQVcprcYDxGM79YmyCkcQ), [Teddy Sky](https://open.spotify.com/artist/6D0UYqXOF2HFQOet85VDKd) | [Fireproof \(feat\. Teddy Sky\)](https://open.spotify.com/album/1vsaHaeuDcnd9YufInpKfp) | 3:11 | 2022-09-09 | 2022-11-13 |
-| [Flux](https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Flux](https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD) | 3:49 | 2020-10-06\* | 2023-07-28 |
+| [Flux](https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Flux](https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD) | 3:49 | 2020-10-06\* |  |
 | [Follow You](https://open.spotify.com/track/5hHB9MZBgdMK7Yxyx2XlRu) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Follow You](https://open.spotify.com/album/3rCECr2BEF3fDH0lVgaADu) | 3:17 | 2020-10-06\* | 2022-07-29 |
 | [For a While](https://open.spotify.com/track/1unohXBFohogHnkq3AdlsS) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/5zNHRKWMMBW7NIx7v23swV) | 3:54 | 2021-05-23 | 2021-05-28 |
 | [For You](https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [For You](https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX) | 3:23 | 2022-05-09 |  |
@@ -135,7 +135,8 @@
 | [Hold On](https://open.spotify.com/track/6kSMUoQA3VSMWOk2ni0hfD) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Hold On](https://open.spotify.com/album/6ReDl0QX2YZdK4aYh5yOOg) | 3:30 | 2020-10-20 | 2022-07-29 |
 | [Hollow Days \- Acoustic](https://open.spotify.com/track/714uY0TGFUPF2DMNK7NNMs) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Hollow Days \(Acoustic\)](https://open.spotify.com/album/5KO6hcgN3Jk2z3InMQKOa8) | 2:42 | 2020-10-06\* | 2022-07-29 |
 | [House On Fire](https://open.spotify.com/track/4OqBSwyAzEEMnESPYmb1Xp) | [Jonah Blacksmith](https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr) | [House On Fire](https://open.spotify.com/album/4w69F0jer7PX7K6GCxBw2K) | 3:21 | 2023-01-09 | 2023-05-04 |
-| [How Would You Feel \(Paean\)](https://open.spotify.com/track/1lyNFzcCl9kXCof6GV32fV) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [How Would You Feel \(Paean\)](https://open.spotify.com/album/6m47Bv7lQlUWNZ5W6N4XjJ) | 4:40 | 2020-10-06\* |  |
+| [How Would You Feel \(Paean\)](https://open.spotify.com/track/1lyNFzcCl9kXCof6GV32fV) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [How Would You Feel \(Paean\)](https://open.spotify.com/album/6m47Bv7lQlUWNZ5W6N4XjJ) | 4:40 | 2020-10-06\* | 2023-08-05 |
+| [How Would You Feel \(Paean\)](https://open.spotify.com/track/6PJ8FF6UR8FZXfEvpHkIVN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:40 | 2023-08-03 |  |
 | [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 | 2020-10-06\* |  |
 | [I Believe](https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:37 | 2020-10-06\* |  |
 | [I Could Fight On A Wall](https://open.spotify.com/track/0ykOwUlNIOejwOOSylGlQs) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [ii](https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN) | 3:30 | 2021-05-22 | 2021-07-28 |

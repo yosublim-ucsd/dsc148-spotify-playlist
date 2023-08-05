@@ -4,7 +4,7 @@
 
 > Beautiful bansuri flute and sitar from India.
 
-77 songs - 6 hr 16 min
+78 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Breathe](https://open.spotify.com/track/4K3hd7S53f3HiYN7LggDWL) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Breathe](https://open.spotify.com/album/4L1ZCIt38M2mnII7Sn87ca) | 6:10 | 2023-03-09 |  |
 | [Breathe Deep](https://open.spotify.com/track/1IbaKAjgt3jCUgeb3MxKiM) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Breathe Deep](https://open.spotify.com/album/6TQhNqh95efIgkLWcBn0kf) | 3:14 | 2023-03-09 |  |
 | [Breathing Space](https://open.spotify.com/track/53hZ7K9FClYjkTtrm6t1NK) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Call to the Divine](https://open.spotify.com/album/6Lo6v2cqRdPC2vc59bAZaG) | 8:06 | 2023-03-09 |  |
+| [Buddha's Samatha](https://open.spotify.com/track/7koUSVnpLOEplKROKRsDDb) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0), [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7) | [Buddha's Samatha](https://open.spotify.com/album/4OrcYjrDiwkyZ84ns94P2F) | 3:18 | 2023-08-04 |  |
 | [Calming Raga](https://open.spotify.com/track/2W8dObDUEuAgZTz3eRRnUw) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Calming Raga](https://open.spotify.com/album/3Ar0bUOfySyArKK2CA8muj) | 5:11 | 2023-03-09 |  |
 | [Celestial](https://open.spotify.com/track/0zuW70H4BDayKr9bl5eIHa) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Celestial](https://open.spotify.com/album/3htC8VYLMehNJYtkMbRCUz) | 3:09 | 2023-03-09 |  |
 | [Compassion](https://open.spotify.com/track/5pxPqW9c8F010Cv3VfJIJJ) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Compassion](https://open.spotify.com/album/6aIorUJ01obK1eRU74UHdj) | 7:10 | 2023-03-09 |  |

@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bloc Party
 
-76 songs - 4 hr 34 min
+77 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Como Esquecer De Você](https://open.spotify.com/track/3vw7tup826gbSI2dIzLZD9) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí \- Vol\. 3](https://open.spotify.com/album/2BIit8ROWteatmlkMG0KEy) | 3:28 | 2023-07-21 |  |
 | [Conto os Dias](https://open.spotify.com/track/3gBHnHw9GqHAPocOcNihrN) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD) | [Conto os Dias](https://open.spotify.com/album/6KMOOty14Oqm0zfWsclTXB) | 3:23 | 2023-07-21 |  |
 | [dear god](https://open.spotify.com/track/39HJJEgUFZcnhH4ziSqomg) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:12 | 2023-07-21 |  |
+| [Desculpa te Ligar \- Versão Estendida, Ao Vivo](https://open.spotify.com/track/2gJaKTrXgaNQzAbNRCJSkK) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Desculpa te Ligar \(Versão Estendida, Ao Vivo\)](https://open.spotify.com/album/0ZcuzvxFwJXLhiidHmPJDQ) | 3:28 | 2023-08-04 |  |
 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 | 2023-07-21 |  |
 | [Dois Mundos](https://open.spotify.com/track/0yWPnJ50IOP1Vbzf3jYxbX) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Tulio Freitas](https://open.spotify.com/artist/1jDI5QIP2tPVrFDqwQY4Dj) | [Dois Mundos](https://open.spotify.com/album/64ZYrxz7k8QunMzLd3Wrcv) | 4:17 | 2023-07-21 |  |
 | [Espetacular](https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ) | [Márcio Greyck](https://open.spotify.com/artist/2conBw3718AG6tQ6JATCE4) | [Espetacular](https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc) | 4:33 | 2023-07-21 |  |
@@ -47,7 +48,7 @@
 | [Lá Fora](https://open.spotify.com/track/3U0PI7XB2PQCI2Z4rAopZJ) | [Rafa Valle](https://open.spotify.com/artist/0OcnZHMbddFEVbOxNPG5l2) | [Lá Fora](https://open.spotify.com/album/6sSnpqf9EEo1Nz0yBwvzjx) | 3:22 | 2023-07-21 |  |
 | [Mais um Trabalhador](https://open.spotify.com/track/3OPgYlZ4aCCH3VLtzEoNtZ) | [BÁRBARA SILVA](https://open.spotify.com/artist/2wtqSDlZaxdRlek9nNF5XV) | [Mais um Trabalhador](https://open.spotify.com/album/6YV5T7aupc4j63nw1e3r8d) | 3:19 | 2023-07-21 |  |
 | [Menina Linda](https://open.spotify.com/track/7HUiek8MyBiLGM33NzgUSm) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE) | 3:00 | 2023-07-21 |  |
-| [Mercado](https://open.spotify.com/track/18o5wKZ5M3onKU69OZD5Cs) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [B\-Sides Gêmeos](https://open.spotify.com/album/1ef3KBKANvCTkDauRecAa5) | 3:06 | 2023-07-21 |  |
+| [Mercado](https://open.spotify.com/track/18o5wKZ5M3onKU69OZD5Cs) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [B\-Sides Gêmeos](https://open.spotify.com/album/1ef3KBKANvCTkDauRecAa5) | 3:06 | 2023-07-21 | 2023-08-05 |
 | [Música de Botar o Papo no Lugar](https://open.spotify.com/track/38389u9gqu5jd9RiSy2jEH) | [Scatolove](https://open.spotify.com/artist/0icMce3ZQU1HdA8gGHo5Rg) | [Música de Botar o Papo no Lugar](https://open.spotify.com/album/2dU7Mwqk5B31axoHYs5LqY) | 2:53 | 2023-07-21 |  |
 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny) | 5:22 | 2023-07-21 |  |
 | [No Small Thing](https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [No Small Thing](https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm) | 4:42 | 2023-07-21 |  |

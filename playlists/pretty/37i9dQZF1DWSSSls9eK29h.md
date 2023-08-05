@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 
 > So smooth, so classic\. Cover: George Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,111 likes - 60 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,221 likes - 60 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 28 | [Burma Road](https://open.spotify.com/track/4E01hW7den04JgdXH2LkOz) | [Greg Adams](https://open.spotify.com/artist/5JLlu8IDh3Aj1nT3cUJUUY) | [Hidden Agenda](https://open.spotify.com/album/4EpH6ucX2QlCa9xlqIHdHA) | 4:48 |
 | 29 | [Touchdown](https://open.spotify.com/track/01liKzGQmuq4BRFR19YaeI) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Touchdown](https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6) | 5:44 |
 | 30 | [Hearts Of Longing](https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY) | [Urban Knights](https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5) | [Urban Knights](https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW) | 7:17 |
-| 31 | [South Of Market](https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Playing It Cool](https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ) | 4:25 |
-| 32 | [So Far From Home](https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Dave Koz](https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU) | 6:10 |
+| 31 | [So Far From Home](https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Dave Koz](https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU) | 6:10 |
+| 32 | [South Of Market](https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Playing It Cool](https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ) | 4:25 |
 | 33 | [Creepin'](https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Trust](https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q) | 3:40 |
 | 34 | [Aruban Nights](https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF) | [Bobby Lyle](https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On) | [The Power Of Touch](https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9) | 5:10 |
 | 35 | [Pamela](https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np) | [Brian Hughes](https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb) | [Straight To You](https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9) | 5:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 59 | [Affair In San Miguel](https://open.spotify.com/track/5LdbDkRMKDEYKYZxj3TpW9) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Steve Reid](https://open.spotify.com/artist/4jQrVUOMWHpcwAj9CJB1f0), [Brandon Fields](https://open.spotify.com/artist/6m677bkJTyCYHZZa6h8PR5) | [The Best Of The Rippingtons](https://open.spotify.com/album/0nq9ESVd0F7vZTREx8GLHD) | 5:08 |
 | 60 | [Personal Touch](https://open.spotify.com/track/0NA50DOtbAqH4LDngxH3Xw) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [I Came To Play](https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO) | 5:55 |
 
-Snapshot ID: `MCw3MzMyYmMzMzA5Mzg2YzgyZmQ0Zjk0MTdhZWJiZmNiNWFjZjYyNjcy`
+Snapshot ID: `MCxjNzBiNTA1OTk4ZDYxNDFhMmQ2MmE0NTczMTBmMDJiNDZlYzI1OWU3`

@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Guetta x Bebe Rexha
 
-448 songs - 22 hr 20 min
+449 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [2nite](https://open.spotify.com/track/7JbM7QwsJyNvhtH0GuBwzM) | [B4N4N4 G4NG](https://open.spotify.com/artist/3Z9w6UtrvPO4NIvlRZqACr), [Kristoph Galland](https://open.spotify.com/artist/2kGfHpvMHJWNzTYvtOut1v) | [2nite](https://open.spotify.com/album/6hhGM0tMGLpv2P0Wpt0R6c) | 2:32 | 2023-03-23 | 2023-04-28 |
 | [A Better Way](https://open.spotify.com/track/292iuvOOYUZjc0PHNE8xEC) | [MrWhite](https://open.spotify.com/artist/4HD8ewNDLIhBO5f0N15J2h), [WINARTA](https://open.spotify.com/artist/4pmANSOlqm7SAJ3Vfwfj8s), [Borned](https://open.spotify.com/artist/3EmG4Owcq7GhI5TxLO3zwY) | [A Better Way](https://open.spotify.com/album/2ZFb1pDRRppo96pPoyaBUp) | 3:21 | 2023-02-02 | 2023-04-07 |
 | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf) | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I) | 2:23 | 2023-02-02 | 2023-03-25 |
+| [AFTER THE END ft\. Yuna](https://open.spotify.com/track/0mRBk0W4P9QV59jBGfbpSH) | [clear eyes](https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [AFTER THE END ft\. Yuna](https://open.spotify.com/album/17iAVZo5SYPXSplTNhMWnl) | 2:12 | 2023-08-03 |  |
 | [Afterglow](https://open.spotify.com/track/6FHJtTykaTFDrd5IX3vjTz) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Michel Zitron](https://open.spotify.com/artist/0SiA0xtHw1lnSXRf1S7jjw) | [Afterglow](https://open.spotify.com/album/11ZZHbKeaw32nDGhpXQSdl) | 2:58 | 2023-02-09 | 2023-03-03 |
 | [Again](https://open.spotify.com/track/3gB0fkEzOzV0kEWuQBFweu) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Again](https://open.spotify.com/album/1K9U7ZYaG8bxDYskbCxR8y) | 3:19 | 2023-02-16 | 2023-03-03 |
 | [Aglow](https://open.spotify.com/track/5ytMbojsX5HtlvDPd5dam7) | [Shunichi Komazu](https://open.spotify.com/artist/12pmBFJ1S6dxyClYKSsusN), [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG), [Zoe](https://open.spotify.com/artist/3BORdvvXzwjXCTGMztDqRY) | [Aglow](https://open.spotify.com/album/7s1JNHj5Iymj6IK5O8ZdOF) | 2:17 | 2023-06-22 |  |

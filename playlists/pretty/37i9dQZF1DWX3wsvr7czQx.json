@@ -1,13 +1,29 @@
 {
   "description": "Icons only. Cover: Michael Bolton",
-  "num_followers": 10347,
+  "num_followers": 10367,
   "original_name": "Classic Artists New Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmZlMjY1NDlhY2U1N2VlNzM0YTZkZmIzYzVlOTM3MGE1ZDlhZDQ3",
+  "snapshot_id": "MCw0Y2Q3N2U1ZmRiNWJmNWQyMDlmODgyYmY0OGU4ZjYwZTE0ODM2YWZh",
   "tracks": [
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/3XEVD5T03YvAoojsCXlTgq"
+      },
+      "artists": [
+        {
+          "name": "Rick Springfield",
+          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+        }
+      ],
+      "duration_ms": 198307,
+      "name": "Fake It 'Til You Make It",
+      "url": "https://open.spotify.com/track/6hiURAxDXme5mWZUg6sBj9"
+    },
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 193013,
       "name": "Dippin My Feet",
       "url": "https://open.spotify.com/track/0hb9885MfdqibhnFysxCon"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Exit Wound",
-        "url": "https://open.spotify.com/album/2vLZvJJPD9eJQ8GY4BlDap"
-      },
-      "artists": [
-        {
-          "name": "Rick Springfield",
-          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
-        }
-      ],
-      "duration_ms": 161876,
-      "name": "Exit Wound",
-      "url": "https://open.spotify.com/track/0V1cNtY74UmCVJn44yBZ5i"
     },
     {
       "added_at": "2023-04-28 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 50758,
+  "num_followers": 50860,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmM3NGRjYjAxMDIyNjEzOTY5ZDNlYjQ3OTIzOTE0ZDFiZGUxNmJm",
+  "snapshot_id": "MCxiYmQxOWVmZWYzYzQ0NDViZDYzYmJjNGEwZDFjODZhZDhhNmFkMDdj",
   "tracks": [
     {
       "added_at": "2023-07-27 22:01:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Go Insane",
-        "url": "https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        },
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Go Insane",
-      "url": "https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "So Druff (D-Fence Remix)",
         "url": "https://open.spotify.com/album/1Syx62VNKXvKBPZ84zQj1v"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 166950,
       "name": "So Druff - D-Fence Remix",
       "url": "https://open.spotify.com/track/1yDNPqk30hDMY2wTPuqQiu"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Go Insane",
+        "url": "https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        },
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Go Insane",
+      "url": "https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Blow Up",
-        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        }
-      ],
-      "duration_ms": 204439,
-      "name": "Blow Up",
-      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "READY 4 WAR",
         "url": "https://open.spotify.com/album/3KX00M9fI6G2H1mlFzvPKi"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Beat My Drum",
-        "url": "https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq"
+        "name": "Blow Up",
+        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
       },
       "artists": [
         {
-          "name": "Dither",
-          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
         }
       ],
-      "duration_ms": 202124,
-      "name": "Beat My Drum",
-      "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
+      "duration_ms": 204439,
+      "name": "Blow Up",
+      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1119,6 +1103,22 @@
       "duration_ms": 324300,
       "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
       "url": "https://open.spotify.com/track/6D67E5KlS9L6o2KgU3Ng0O"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Beat My Drum",
+        "url": "https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq"
+      },
+      "artists": [
+        {
+          "name": "Dither",
+          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
+        }
+      ],
+      "duration_ms": 202124,
+      "name": "Beat My Drum",
+      "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Sky Ablaze",
-        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
-      },
-      "artists": [
-        {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "Sky Ablaze",
-      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Jongens van de straat",
         "url": "https://open.spotify.com/album/1S7iTYpQr6eYFLaCLWVfbt"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 202571,
       "name": "Jongens van de straat",
       "url": "https://open.spotify.com/track/5O9mjAGrtDPTgque6qZWn8"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Sky Ablaze",
+        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
+      },
+      "artists": [
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "Sky Ablaze",
+      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1835,18 +1835,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Ride With Me",
-        "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
+        "name": "Die For This",
+        "url": "https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1"
       },
       "artists": [
         {
-          "name": "Vandal!sm",
-          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
+          "name": "Bulletproof",
+          "url": "https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
         }
       ],
-      "duration_ms": 237818,
-      "name": "Ride With Me",
-      "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
+      "duration_ms": 240300,
+      "name": "Die For This",
+      "url": "https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG"
     }
   ],
   "unique_name": "Hardcore Rage 2023",

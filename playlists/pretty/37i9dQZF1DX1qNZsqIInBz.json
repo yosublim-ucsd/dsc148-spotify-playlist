@@ -1,12 +1,12 @@
 {
   "description": "smooth drifting only",
-  "num_followers": 111561,
+  "num_followers": 112028,
   "original_name": "cosmic phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmNiZjlkNDYwZTE1NTFmMGFlOWE4ZTk5M2Q3MDc2MWI0YzcwOTgw",
+  "snapshot_id": "MCxhOWE5ZjM4Njk1Y2EyMTFiNDkzZGM0YzNlNDk1NjUyMTRkMzU5ODZi",
   "tracks": [
     {
       "added_at": "2023-06-23 15:47:05",
@@ -27,6 +27,26 @@
       "duration_ms": 172548,
       "name": "SO TIRED",
       "url": "https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs"
+    },
+    {
+      "added_at": "2023-08-04 15:15:37",
+      "album": {
+        "name": "Memory Reboot",
+        "url": "https://open.spotify.com/album/134MPeCAA7a1yRC1rRFQCx"
+      },
+      "artists": [
+        {
+          "name": "V\u00d8J",
+          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+        },
+        {
+          "name": "Narvent",
+          "url": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
+        }
+      ],
+      "duration_ms": 209416,
+      "name": "Memory Reboot",
+      "url": "https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -145,6 +165,30 @@
       "url": "https://open.spotify.com/track/6ykmd9ifNFPlKFdjePXLUb"
     },
     {
+      "added_at": "2023-08-04 15:15:37",
+      "album": {
+        "name": "Ketamine Girl",
+        "url": "https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2"
+      },
+      "artists": [
+        {
+          "name": "akiaura",
+          "url": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
+        },
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "name": "STM",
+          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Sleepwalker",
+      "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
+    },
+    {
       "added_at": "2023-03-10 18:22:07",
       "album": {
         "name": "Aria Math",
@@ -204,7 +248,7 @@
       "added_at": "2023-07-28 11:48:29",
       "album": {
         "name": "NIGHT PHONK",
-        "url": "https://open.spotify.com/album/25acPZp9Yma25jbnJhmyIx"
+        "url": "https://open.spotify.com/album/0AcaL7E1MdTZsMCwRK4MQz"
       },
       "artists": [
         {
@@ -214,7 +258,7 @@
       ],
       "duration_ms": 82865,
       "name": "NIGHT PHONK",
-      "url": "https://open.spotify.com/track/6JI7mIk8CtD4R8BbhK3u1v"
+      "url": "https://open.spotify.com/track/0ze8n8jr6UP7n09NKxWCWn"
     },
     {
       "added_at": "2023-03-10 18:22:07",
@@ -1339,38 +1383,6 @@
       "duration_ms": 176110,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/7vbKIia4KB5vWcWpPypPBr"
-    },
-    {
-      "added_at": "2023-03-10 18:22:07",
-      "album": {
-        "name": "After World",
-        "url": "https://open.spotify.com/album/42cJG6MAXsrjoR7wV5e22G"
-      },
-      "artists": [
-        {
-          "name": "chipbagov",
-          "url": "https://open.spotify.com/artist/0sd6x399jllqi3BqxgBvlw"
-        }
-      ],
-      "duration_ms": 131583,
-      "name": "After World",
-      "url": "https://open.spotify.com/track/43jFJOD28MIG9vgcqVlvhn"
-    },
-    {
-      "added_at": "2023-03-10 18:22:07",
-      "album": {
-        "name": "Cyanide",
-        "url": "https://open.spotify.com/album/1AlwyKku3ObMAl0jkz8Qwf"
-      },
-      "artists": [
-        {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
-        }
-      ],
-      "duration_ms": 177144,
-      "name": "Cyanide",
-      "url": "https://open.spotify.com/track/2FqBlSZxiRuxjgQcMvQAUP"
     },
     {
       "added_at": "2023-03-10 18:22:07",

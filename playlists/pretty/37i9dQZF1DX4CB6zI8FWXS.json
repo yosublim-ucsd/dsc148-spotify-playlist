@@ -1,12 +1,12 @@
 {
   "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Khalid",
-  "num_followers": 84753,
+  "num_followers": 84759,
   "original_name": "Groovin' R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzZhMzExNWFkYjA3ZGE1NjkxM2M0MDhlYzk1YzI0NDExODM4MWI1",
+  "snapshot_id": "MCxiNDVkZDNmNDEzNWQ2NTE2YzY4NmQ3OWVmYjVjMzUyOTA4ZjZjZGE1",
   "tracks": [
     {
       "added_at": "2023-08-03 15:00:00",
@@ -20,12 +20,12 @@
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
       "duration_ms": 247100,
@@ -95,6 +95,22 @@
       "duration_ms": 188504,
       "name": "Summer Too Hot",
       "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 172892,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
     },
     {
       "added_at": "2023-08-03 15:00:00",

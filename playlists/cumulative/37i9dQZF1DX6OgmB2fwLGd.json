@@ -640,7 +640,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 150427,
       "name": "ADHD",
       "url": "https://open.spotify.com/track/2NnYebjJbFNce6q7vVYRsc"
@@ -5040,7 +5040,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 156000,
       "name": "Games",
       "url": "https://open.spotify.com/track/707DkaerHk1Ad2uySczdR4"
@@ -5188,7 +5188,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 139469,
       "name": "GHOSTKILLA",
       "url": "https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w"
@@ -10651,6 +10651,32 @@
     },
     {
       "album": {
+        "name": "Bars Mitzvah",
+        "url": "https://open.spotify.com/album/77iWKhQsnPv2ceYGWZ4TMS"
+      },
+      "artists": [
+        {
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Trapland Pat",
+          "url": "https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180291,
+      "name": "Quite Frankly (with Luh Tyler & Trapland Pat)",
+      "url": "https://open.spotify.com/track/6jSC6HQdTrDMobpRciFYvq"
+    },
+    {
+      "album": {
         "name": "R4C3",
         "url": "https://open.spotify.com/album/054SOG39uPXb0q4SdOmRS9"
       },
@@ -13673,6 +13699,24 @@
     },
     {
       "album": {
+        "name": "warning",
+        "url": "https://open.spotify.com/album/6h3Hwzp2rRPGBe1SvWmAIl"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "warning",
+      "url": "https://open.spotify.com/track/1URv5SAu4pjhmQ7gAshWtQ"
+    },
+    {
+      "album": {
         "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
         "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
       },
@@ -14168,6 +14212,24 @@
       "duration_ms": 116923,
       "name": "WYM",
       "url": "https://open.spotify.com/track/3te3tOWUQigAnYO2joSWJi"
+    },
+    {
+      "album": {
+        "name": "Osama Season",
+        "url": "https://open.spotify.com/album/6rwxZslqJuyF0DivxOB0w9"
+      },
+      "artists": [
+        {
+          "name": "OsamaSon",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57029,
+      "name": "X & Sex",
+      "url": "https://open.spotify.com/track/6qyAMxx8th14kYK4LlxpTc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-295 songs - 23 hr 23 min
+296 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Brush](https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 1:20 | 2022-07-08 | 2023-01-07 |
 | [Brush](https://open.spotify.com/track/6lNrPAYL1ShzpzEEQNcUeo) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog \(Prequel\)](https://open.spotify.com/album/010kVtJGaVvJPmMyAHscKD) | 1:20 | 2022-03-17 | 2022-07-29 |
 | [Buenas Noches, Yuki](https://open.spotify.com/track/6OXmhrJPmcFNVK4nXskReG) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [Honne \(本 音\)](https://open.spotify.com/album/3UAS7VNUKdxLx6GB1Gabpw) | 4:21 | 2022-03-17 | 2022-07-28 |
+| [Castle Song](https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Castle Song](https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW) | 2:53 | 2023-08-04 |  |
 | [Chronology](https://open.spotify.com/track/6hGoOJmGx40sD8e0czLy6E) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D) | [Chronology](https://open.spotify.com/album/7BZVmbH7so3Hf1tciJPXkI) | 6:52 | 2022-03-17 | 2022-12-21 |
 | [Cirrus & Cumulus](https://open.spotify.com/track/3CLLThUqGL2SMFNI73X9rh) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Sketches From An Island 2](https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9) | 5:10 | 2023-06-30 | 2023-07-14 |
 | [City Never Sleeps](https://open.spotify.com/track/7px2crjhUFaEnbFKqfAH63) | [Jan Bang](https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107), [Eivind Aarset](https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC) | [City Never Sleeps](https://open.spotify.com/album/6WqqtTnmfd87Yn3BqO4MyE) | 3:44 | 2023-07-14 |  |
@@ -261,7 +262,7 @@
 | [The Signals From the Abyss](https://open.spotify.com/track/6yJWaFqw7Umwe3LYpMjgyh) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Aquarealm](https://open.spotify.com/album/2b2NKMGXqjTtRkHQVXjkBS) | 7:48 | 2023-03-16 | 2023-08-03 |
 | [Then](https://open.spotify.com/track/5Ij5ddGh0JCn6i6yGoC6Tf) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Then](https://open.spotify.com/album/6Yj7uh3SXxi4OCpy9qTymc) | 3:27 | 2022-09-12 |  |
 | [They Being Dead Yet Speaketh \- Pt.3 \- From „The Miners’ Hymns” Soundtrack](https://open.spotify.com/track/0EVfcXz7EgfOHjniBA8nqy) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Miners’ Hymns \(Original Soundtrack\)](https://open.spotify.com/album/02mbXjMS4qDuZjPXKOLNTA) | 3:44 | 2022-03-17 | 2022-05-31 |
-| [This Comfort](https://open.spotify.com/track/4kTSH9bXzfz6honMCEfNXF) | [Grant Chapman](https://open.spotify.com/artist/4ovf5n6upZQN6Mr77VpOML) | [Indentations](https://open.spotify.com/album/4DM9J26xKqEdMWyLJjPEKf) | 2:22 | 2023-07-21 |  |
+| [This Comfort](https://open.spotify.com/track/4kTSH9bXzfz6honMCEfNXF) | [Grant Chapman](https://open.spotify.com/artist/4ovf5n6upZQN6Mr77VpOML) | [Indentations](https://open.spotify.com/album/4DM9J26xKqEdMWyLJjPEKf) | 2:22 | 2023-07-21 | 2023-08-05 |
 | [This Is What I Wanted to Tell You \- Group Listening Remix](https://open.spotify.com/track/2CtX0WqmREcZvi09m9awBx) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78), [Group Listening](https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe) | [Basement Tapes](https://open.spotify.com/album/0mVdQU5dMnhqxwdlMDoOGc) | 8:54 | 2022-03-30 | 2022-04-21 |
 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 | 2023-05-19 | 2023-06-06 |
 | [Time Takes A While](https://open.spotify.com/track/7gUPgFwdlHQuWlEFbdMPrR) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [More Truth](https://open.spotify.com/album/2H5XQJwbsobcJLp1eeuhCg) | 4:39 | 2023-05-19 | 2023-06-06 |

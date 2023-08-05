@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 195273,
+  "num_followers": 195291,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjRhMTE0NmU3MzdmYTAxNThlMTc2ZWQ3ZmZkMmU1NDEyZDdiMGMy",
+  "snapshot_id": "MCxkOTZjNjYzMDE5YmQ0NDZhM2JlMTMzZTMzZmFhNjQwMGE0NWY0ZTNh",
   "tracks": [
     {
       "added_at": "2023-08-03 22:00:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "DOM SKA VETA",
-        "url": "https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L"
+        "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
+        "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
       },
       "artists": [
         {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
         }
       ],
-      "duration_ms": 195518,
-      "name": "Vi ska aldrig g\u00e5 hem",
-      "url": "https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0"
+      "duration_ms": 183764,
+      "name": "Heaven med dig",
+      "url": "https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
-        "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
+        "name": "DOM SKA VETA",
+        "url": "https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L"
       },
       "artists": [
         {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
         }
       ],
-      "duration_ms": 183764,
-      "name": "Heaven med dig",
-      "url": "https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI"
+      "duration_ms": 195518,
+      "name": "Vi ska aldrig g\u00e5 hem",
+      "url": "https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "+3 bpm",
-        "url": "https://open.spotify.com/album/7fZMtaTLaGtmxTr92ELKbq"
-      },
-      "artists": [
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        }
-      ],
-      "duration_ms": 135318,
-      "name": "Nej tack, det \u00e4r bra!",
-      "url": "https://open.spotify.com/track/3C23RjOroCMUmbdtmpSPX4"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "V\u00e4lkommen \u00c5ter",
         "url": "https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 175714,
       "name": "V\u00e4lkommen \u00c5ter",
       "url": "https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "+3 bpm",
+        "url": "https://open.spotify.com/album/7fZMtaTLaGtmxTr92ELKbq"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 135318,
+      "name": "Nej tack, det \u00e4r bra!",
+      "url": "https://open.spotify.com/track/3C23RjOroCMUmbdtmpSPX4"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "M\u00e5ndagsbarn (Spotify Singles)",
-        "url": "https://open.spotify.com/album/19WGMtXFnntmUQvqfAdmPC"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 180372,
-      "name": "M\u00e5ndagsbarn - Spotify Singles",
-      "url": "https://open.spotify.com/track/6sLEtc4bWznxS0ERA6lt1k"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Gr\u00e5ter om du vill",
         "url": "https://open.spotify.com/album/2NmGftyYl1iIEuS81urNTW"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 228453,
       "name": "Gr\u00e5ter om du vill",
       "url": "https://open.spotify.com/track/0FlfVeOFogL3cU4AO8xNc4"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "M\u00e5ndagsbarn (Spotify Singles)",
+        "url": "https://open.spotify.com/album/19WGMtXFnntmUQvqfAdmPC"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 180372,
+      "name": "M\u00e5ndagsbarn - Spotify Singles",
+      "url": "https://open.spotify.com/track/6sLEtc4bWznxS0ERA6lt1k"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Har du sett henne i bl\u00e5tt",
-        "url": "https://open.spotify.com/album/2nW9lLF2l1cAAgdM6xMJMW"
-      },
-      "artists": [
-        {
-          "name": "Danny Saucedo",
-          "url": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
-        }
-      ],
-      "duration_ms": 201741,
-      "name": "Har du sett henne i bl\u00e5tt",
-      "url": "https://open.spotify.com/track/4Cyvf54FSEE7NcdK0vN3Ej"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 192970,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Har du sett henne i bl\u00e5tt",
+        "url": "https://open.spotify.com/album/2nW9lLF2l1cAAgdM6xMJMW"
+      },
+      "artists": [
+        {
+          "name": "Danny Saucedo",
+          "url": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
+        }
+      ],
+      "duration_ms": 201741,
+      "name": "Har du sett henne i bl\u00e5tt",
+      "url": "https://open.spotify.com/track/4Cyvf54FSEE7NcdK0vN3Ej"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "late night thoughts",
-        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 153905,
-      "name": "wait it out",
-      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Vet Hon Om?",
         "url": "https://open.spotify.com/album/0a4tSc39xsFYlKIY1XBB9K"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 184773,
       "name": "Vet Hon Om?",
       "url": "https://open.spotify.com/track/0078peqORcMMXbcYEfeLkk"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "late night thoughts",
+        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 153905,
+      "name": "wait it out",
+      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Du f\u00f6rtj\u00e4nar det",
+        "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 199657,
+      "name": "Du f\u00f6rtj\u00e4nar det",
+      "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m"
       },
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Du f\u00f6rtj\u00e4nar det",
-        "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
+        "name": "Sweet Tea",
+        "url": "https://open.spotify.com/album/7KgXqySqEbM0qbJuyhfrXp"
       },
       "artists": [
         {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 199657,
-      "name": "Du f\u00f6rtj\u00e4nar det",
-      "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
+      "duration_ms": 247957,
+      "name": "Sweet Tea",
+      "url": "https://open.spotify.com/track/2cxtkjiJYEiGD4hcZsjBWr"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1167,6 +1183,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Grammofon",
+        "url": "https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 189625,
+      "name": "Grammofon",
+      "url": "https://open.spotify.com/track/6wT8TBV3CkKbNvuDjxeGaa"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Edelweiss",
         "url": "https://open.spotify.com/album/1Tzn1c4m7eM9s69pC3znQh"
       },
@@ -1199,38 +1231,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Den h\u00e4r g\u00e5ngen \u00e4r det p\u00e5 riktigt",
-        "url": "https://open.spotify.com/album/5V4y3mYlWm8ic3VOLtykLw"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 256449,
-      "name": "Den h\u00e4r g\u00e5ngen \u00e4r det p\u00e5 riktigt",
-      "url": "https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Grammofon",
-        "url": "https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2"
-      },
-      "artists": [
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        }
-      ],
-      "duration_ms": 189625,
-      "name": "Grammofon",
-      "url": "https://open.spotify.com/track/6wT8TBV3CkKbNvuDjxeGaa"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
         "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
       },
@@ -1247,6 +1247,22 @@
       "duration_ms": 169213,
       "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
       "url": "https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Den h\u00e4r g\u00e5ngen \u00e4r det p\u00e5 riktigt",
+        "url": "https://open.spotify.com/album/5V4y3mYlWm8ic3VOLtykLw"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 256449,
+      "name": "Den h\u00e4r g\u00e5ngen \u00e4r det p\u00e5 riktigt",
+      "url": "https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1283,6 +1299,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Magic Stone",
+        "url": "https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Magic Stone",
+      "url": "https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Oslo",
         "url": "https://open.spotify.com/album/6LO3Qd8810GskbohCmgDgQ"
       },
@@ -1303,38 +1335,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Notre-Dame",
-        "url": "https://open.spotify.com/album/4a5uM9yzhjfql6WW6NgIch"
-      },
-      "artists": [
-        {
-          "name": "Mares",
-          "url": "https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC"
-        }
-      ],
-      "duration_ms": 202972,
-      "name": "Notre-Dame",
-      "url": "https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Tumbling Dice",
-        "url": "https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 175991,
-      "name": "Tumbling Dice",
-      "url": "https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Hatar att du l\u00e4t oss g\u00e5",
         "url": "https://open.spotify.com/album/0EgjkXmUyXWeBOhZqUYnRO"
       },
@@ -1351,34 +1351,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Magic Stone",
-        "url": "https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS"
+        "name": "Notre-Dame",
+        "url": "https://open.spotify.com/album/4a5uM9yzhjfql6WW6NgIch"
       },
       "artists": [
         {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+          "name": "Mares",
+          "url": "https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC"
         }
       ],
-      "duration_ms": 213106,
-      "name": "Magic Stone",
-      "url": "https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Oas",
-        "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 240262,
-      "name": "Mormor",
-      "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"
+      "duration_ms": 202972,
+      "name": "Notre-Dame",
+      "url": "https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1399,6 +1383,38 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Oas",
+        "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 240262,
+      "name": "Mormor",
+      "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Tumbling Dice",
+        "url": "https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 175991,
+      "name": "Tumbling Dice",
+      "url": "https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Salt och socker",
         "url": "https://open.spotify.com/album/4LVLEpfiwqT3fULAWfH5P4"
       },
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Bad One",
-        "url": "https://open.spotify.com/album/5TLnEbj28pHxKrIJvdCx3b"
+        "name": "Tack vare dig",
+        "url": "https://open.spotify.com/album/6MdYecbKxByYEUQqH8Lzkp"
       },
       "artists": [
         {
-          "name": "Mike \u00c4pt",
-          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
+          "name": "Mwuana",
+          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Bad One",
-      "url": "https://open.spotify.com/track/2AVgZLXMqkvi2hsQA1VJn2"
+      "duration_ms": 193600,
+      "name": "Tack vare dig",
+      "url": "https://open.spotify.com/track/72COIJY2DM001e9tLVtYaX"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1443,22 +1459,6 @@
       "duration_ms": 151947,
       "name": "Effort",
       "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Oas",
-        "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 197297,
-      "name": "Oas",
-      "url": "https://open.spotify.com/track/0XpRnotgEEsbFHY7UfXH3o"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1499,6 +1499,38 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Bad One",
+        "url": "https://open.spotify.com/album/5TLnEbj28pHxKrIJvdCx3b"
+      },
+      "artists": [
+        {
+          "name": "Mike \u00c4pt",
+          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Bad One",
+      "url": "https://open.spotify.com/track/2AVgZLXMqkvi2hsQA1VJn2"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Oas",
+        "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 197297,
+      "name": "Oas",
+      "url": "https://open.spotify.com/track/0XpRnotgEEsbFHY7UfXH3o"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Vatten",
         "url": "https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa"
       },
@@ -1515,66 +1547,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Tack vare dig",
-        "url": "https://open.spotify.com/album/6MdYecbKxByYEUQqH8Lzkp"
+        "name": "LESS",
+        "url": "https://open.spotify.com/album/5W7XuGuj82QHTEBds6DO6X"
       },
       "artists": [
         {
-          "name": "Mwuana",
-          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
         }
       ],
-      "duration_ms": 193600,
-      "name": "Tack vare dig",
-      "url": "https://open.spotify.com/track/72COIJY2DM001e9tLVtYaX"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 172198,
-      "name": "911",
-      "url": "https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 192496,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Dina \u00d6gon",
-        "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "Tombola 94",
-      "url": "https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI"
+      "duration_ms": 193565,
+      "name": "LESS",
+      "url": "https://open.spotify.com/track/08p0RXW7VhUlAVNmjfRsk9"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1599,6 +1583,38 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 172198,
+      "name": "911",
+      "url": "https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Dina \u00d6gon",
+        "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "Tombola 94",
+      "url": "https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Gold Rush",
         "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
       },
@@ -1611,6 +1627,22 @@
       "duration_ms": 284970,
       "name": "Gold Rush",
       "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 192496,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1631,18 +1663,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Poetiska f\u00f6rs\u00f6k",
-        "url": "https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu"
+        "name": "Airforce blue",
+        "url": "https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn"
       },
       "artists": [
         {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
         }
       ],
-      "duration_ms": 344013,
-      "name": "Sm\u00e5 b\u00e4ckar, stora floder",
-      "url": "https://open.spotify.com/track/1PHLVlH4ehdonWo8Xwupro"
+      "duration_ms": 168982,
+      "name": "Airforce blue",
+      "url": "https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1663,50 +1695,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
+        "name": "Poetiska f\u00f6rs\u00f6k",
+        "url": "https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 219405,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Airforce blue",
-        "url": "https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 168982,
-      "name": "Airforce blue",
-      "url": "https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "June/July",
-        "url": "https://open.spotify.com/album/2poLiQEtSevIkb5tEFOhgl"
-      },
-      "artists": [
-        {
-          "name": "Lou Elliotte",
-          "url": "https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "June/July",
-      "url": "https://open.spotify.com/track/62FGkTkd3MCVK4Snz3u5VY"
+      "duration_ms": 344013,
+      "name": "Sm\u00e5 b\u00e4ckar, stora floder",
+      "url": "https://open.spotify.com/track/1PHLVlH4ehdonWo8Xwupro"
     }
   ],
   "unique_name": "Made in Sweden",

@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 173995,
       "name": "cuida de mim",
       "url": "https://open.spotify.com/track/0T83WyyuuFXfQzjzu8gwSd"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 222228,
       "name": "Esquina Sem Nome",
       "url": "https://open.spotify.com/track/1sWjeSg8zaWf5G9DEUxqdG"
@@ -3269,6 +3269,24 @@
     },
     {
       "album": {
+        "name": "Luar Neon",
+        "url": "https://open.spotify.com/album/4AHwZG79rV7aHlU1ipH9Wb"
+      },
+      "artists": [
+        {
+          "name": "RPM",
+          "url": "https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267808,
+      "name": "Luar Neon",
+      "url": "https://open.spotify.com/track/6Uk8xAVT0YS5ubSsjNjoSO"
+    },
+    {
+      "album": {
         "name": "Luta ou Fuga",
         "url": "https://open.spotify.com/album/4hNUujf887BnP0h74WqSrt"
       },
@@ -3722,6 +3740,24 @@
       "duration_ms": 370737,
       "name": "Musica Urbana",
       "url": "https://open.spotify.com/track/3IBGVjbsGYQxkpY9oNNpyG"
+    },
+    {
+      "album": {
+        "name": "Gimme More and More",
+        "url": "https://open.spotify.com/album/6PHUhrrhq7VQHf3cVMK0ax"
+      },
+      "artists": [
+        {
+          "name": "Forgotten Boys",
+          "url": "https://open.spotify.com/artist/3iXovebRefBCpxdCw7x7Ms"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179933,
+      "name": "Musketeer - Live",
+      "url": "https://open.spotify.com/track/2IU774DbOINGPQHfNavI0I"
     },
     {
       "album": {
@@ -4534,7 +4570,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 261120,
       "name": "O Sol da Liberdade",
       "url": "https://open.spotify.com/track/3t2NlLa4WN491vjAxmh5yI"
@@ -4842,7 +4878,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 255930,
       "name": "Perfei\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6JKjPmMTx4RVcGw9oZOVqx"
@@ -5160,7 +5196,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 249624,
       "name": "Quando a Cidade Te Engolir",
       "url": "https://open.spotify.com/track/4IrPMbWD7dMCPMERokpwmd"
@@ -5388,6 +5424,24 @@
       "duration_ms": 151642,
       "name": "Rem\u00e9dios",
       "url": "https://open.spotify.com/track/3MXugNQaPFyMhvFFpXq6JK"
+    },
+    {
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/4ZvCPmIvNNGIu9RPnxagO6"
+      },
+      "artists": [
+        {
+          "name": "Odeon",
+          "url": "https://open.spotify.com/artist/4sQ0rhuhy3NbmADbXEFmIt"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225454,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/2DhYBCdjldHp7YIEFVHkJW"
     },
     {
       "album": {
@@ -5788,6 +5842,24 @@
       "duration_ms": 267233,
       "name": "sem rumo",
       "url": "https://open.spotify.com/track/5dK4KjIqd60Y0W3rivvSgP"
+    },
+    {
+      "album": {
+        "name": "Senador",
+        "url": "https://open.spotify.com/album/5LmC8vcX4HMjnbQ5n9tCTD"
+      },
+      "artists": [
+        {
+          "name": "Dupoint",
+          "url": "https://open.spotify.com/artist/54GML44bZteHh8aoqc644G"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163680,
+      "name": "Senador",
+      "url": "https://open.spotify.com/track/6uALZSrh136doyHHljYo4M"
     },
     {
       "album": {
@@ -6520,6 +6592,28 @@
       "duration_ms": 142293,
       "name": "UM CUPIDO ME FLECHOU",
       "url": "https://open.spotify.com/track/2oebIxdd8SZpGmdRsU90Bd"
+    },
+    {
+      "album": {
+        "name": "um novo jeito de se machucar",
+        "url": "https://open.spotify.com/album/3mxHuaFOhavMHtgfUwZG8F"
+      },
+      "artists": [
+        {
+          "name": "Analaga",
+          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
+        },
+        {
+          "name": "Emmercia",
+          "url": "https://open.spotify.com/artist/4FT9Hgt2E3s0KXJOSuAiVy"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189092,
+      "name": "um novo jeito de se machucar",
+      "url": "https://open.spotify.com/track/4m1BQmWdyQNN1OE1pvc94u"
     },
     {
       "album": {

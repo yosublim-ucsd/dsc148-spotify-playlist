@@ -4,7 +4,7 @@
 
 > Are you trapped in some kind of haunted Hell? What is your favorite nightmare?
 
-164 songs - 8 hr 21 min
+165 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [BEcause](https://open.spotify.com/track/0ufYP4HLjzVSLUsGKCIQJH) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Summer Holiday\]](https://open.spotify.com/album/3dD0qCBPe7eYeaftyIKwa5) | 3:11 | 2023-01-14 |  |
 | [BEcause](https://open.spotify.com/track/3L74uwShK0JqEUZ5Y2JoDW) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Summer Holiday\]](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) | 3:11 | 2022-04-20 | 2023-07-09 |
 | [Before & After \- Intro](https://open.spotify.com/track/3q73g0Y4qbcR7del2XNW4N) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Prequel](https://open.spotify.com/album/7dwF0tRN3awkAyYEdLJic3) | 1:10 | 2022-04-20 |  |
-| [Black Or White](https://open.spotify.com/track/11wbEfF8uFBY6T2gNH7cI5) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:24 | 2022-04-20 |  |
+| [Black Or White](https://open.spotify.com/track/11wbEfF8uFBY6T2gNH7cI5) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:24 | 2022-04-20 | 2023-08-05 |
+| [Black Or White](https://open.spotify.com/track/5sZ8yVoQdKExlssx9uYEhO) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 3:24 | 2023-01-14 |  |
 | [BOCA](https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:09 | 2023-01-14 |  |
 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Lose Myself］](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 | 2022-04-20 | 2023-08-02 |
 | [Break The Wall](https://open.spotify.com/track/10Jnl1L9oVkT6rE25QrbwM) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:46 | 2023-01-14 |  |

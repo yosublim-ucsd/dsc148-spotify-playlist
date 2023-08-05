@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 64859,
+  "num_followers": 64913,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjU4YTEwYzllOWZkODBlYjljOGFkMzhlYmJkM2E1MGYyODE5M2Vj",
+  "snapshot_id": "MCw0YmIwNDk4NDYxNzYzYTc5OWRlM2M2ZjBjMDQwMmI5ZDEyYjU2Mzhj",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -875,26 +875,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "No Hay Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/7tvBTREzJRkLQKhsvNCbt9"
-      },
-      "artists": [
-        {
-          "name": "COCO-PALOMA",
-          "url": "https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19"
-        },
-        {
-          "name": "H\u00e9ctor Oaks",
-          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
-        }
-      ],
-      "duration_ms": 423601,
-      "name": "No Hay Ma\u00f1ana - Club Mix",
-      "url": "https://open.spotify.com/track/0ddC48e0XVsjoczyIYiGCr"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "First Album (2009 Reissue)",
         "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 319493,
       "name": "1982",
       "url": "https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "No Hay Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/7tvBTREzJRkLQKhsvNCbt9"
+      },
+      "artists": [
+        {
+          "name": "COCO-PALOMA",
+          "url": "https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19"
+        },
+        {
+          "name": "H\u00e9ctor Oaks",
+          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
+        }
+      ],
+      "duration_ms": 423601,
+      "name": "No Hay Ma\u00f1ana - Club Mix",
+      "url": "https://open.spotify.com/track/0ddC48e0XVsjoczyIYiGCr"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Cirrus",
+        "url": "https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 352246,
+      "name": "Cirrus",
+      "url": "https://open.spotify.com/track/2hNTfrAILBLesbPootV83e"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "LOFF IS ALL YOU SPEED",
         "url": "https://open.spotify.com/album/5q8Bg4uE1LMUDxQPdalwiT"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 183936,
       "name": "LOFF IS ALL YOU SPEED",
       "url": "https://open.spotify.com/track/0rcUKid4bfrHeWu4feQQ9H"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Cirrus",
-        "url": "https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 352246,
-      "name": "Cirrus",
-      "url": "https://open.spotify.com/track/2hNTfrAILBLesbPootV83e"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1627,30 +1627,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "We All Move Together (Kevin Saunderson x Latroit Remix)",
-        "url": "https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc"
+        "name": "Sol De Mi Vida",
+        "url": "https://open.spotify.com/album/4FnwfcgBFqIQoUXBccJhmV"
       },
       "artists": [
         {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "Latroit",
-          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
         }
       ],
-      "duration_ms": 200000,
-      "name": "We All Move Together - Kevin Saunderson x Latroit Remix",
-      "url": "https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17"
+      "duration_ms": 187593,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/2nzw5ghlLsOKEqD4EuH6qO"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1675,18 +1663,30 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Sol De Mi Vida",
-        "url": "https://open.spotify.com/album/4FnwfcgBFqIQoUXBccJhmV"
+        "name": "We All Move Together (Kevin Saunderson x Latroit Remix)",
+        "url": "https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc"
       },
       "artists": [
         {
-          "name": "Dinamarca",
-          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Latroit",
+          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
         }
       ],
-      "duration_ms": 187593,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/2nzw5ghlLsOKEqD4EuH6qO"
+      "duration_ms": 200000,
+      "name": "We All Move Together - Kevin Saunderson x Latroit Remix",
+      "url": "https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Club Eat",
-        "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
-      },
-      "artists": [
-        {
-          "name": "Club Eat",
-          "url": "https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Just Us",
         "url": "https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 405768,
       "name": "Just Us",
       "url": "https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Club Eat",
+        "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
+      },
+      "artists": [
+        {
+          "name": "Club Eat",
+          "url": "https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a"
     },
     {
       "added_at": "2023-07-07 04:00:00",

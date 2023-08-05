@@ -4,7 +4,7 @@
 
 > That summer sound.
 
-302 songs - 17 hr 24 min
+303 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [In The Dark](https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica \(Deluxe\)](https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms) | 3:05 | 2022-03-27 | 2022-07-29 |
 | [Instant Crush \(feat\. Julian Casablancas\)](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:37 | 2019-09-05\* | 2021-07-17 |
 | [Ipanema](https://open.spotify.com/track/1yoOiFrd7KHnUPun8BSBxl) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Ipanema](https://open.spotify.com/album/0MeYbSRPpmVFTVLLl1KICf) | 2:07 | 2019-09-05\* | 2022-03-28 |
-| [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 | 2019-09-05\* |  |
+| [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 | 2019-09-05\* | 2023-08-05 |
 | [Just A Cloud Away](https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Just A Cloud Away](https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY) | 2:56 | 2022-03-27 | 2023-04-19 |
 | [Just Say](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Just Say](https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG) | 2:46 | 2022-08-19 | 2022-11-13 |
 | [Kasoto \- Noche Española Remix](https://open.spotify.com/track/3zoWsC5mGgYua60WGWM5fK) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax), [Noche Española](https://open.spotify.com/artist/0L9lUdMibw0dRYVDj4TNdQ) | [Kasoto](https://open.spotify.com/album/0lcfkmdUXpsQ8G7lvLqaor) | 5:42 | 2022-05-02 | 2022-07-29 |
@@ -228,6 +228,7 @@
 | [Shooting Stars](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Bag Raiders \(Deluxe\)](https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo) | 3:55 | 2019-09-05\* | 2023-04-10 |
 | [Show Me](https://open.spotify.com/track/10myPNOGfqlAmkKRc3L1d9) | [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Show Me](https://open.spotify.com/album/3H5theFZzPfDdbBVOEkxlG) | 3:15 | 2019-09-05\* | 2022-03-28 |
 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-07-21 | 2023-07-28 |
+| [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-08-04 |  |
 | [Sleepless Nights \(feat\. Nightly\)](https://open.spotify.com/track/4PUWpNtDejQwwa80LjvxXl) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [In the Shape of a Dream](https://open.spotify.com/album/7arFGGWl2p1FTC3LPTw7Dz) | 3:17 | 2019-09-05\* | 2022-03-28 |
 | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:50 | 2019-09-05\* |  |
 | [Slow Hands](https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:08 | 2019-09-05\* | 2022-03-28 |

@@ -4,7 +4,7 @@
 
 > masquerades, moonlit encounters, and locking eyes across the ballroom
 
-87 songs - 6 hr 36 min
+88 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 \- 2012](https://open.spotify.com/track/2WP7odDNsrrkceU9zarqqd) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Brunch with Vivaldi](https://open.spotify.com/album/7vjUkzgBtOhL42fXMscbUW) | 2:35 | 2022-10-03 | 2022-11-14 |
 | [Recomposed by Peter Gregson: Bach \- Cello Suite No\. 6 in D Major, BWV 1012: 6\. Gigue](https://open.spotify.com/track/6yPUtBVbbSpp7khUpcmcDu) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Richard Harwood](https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9), [Reinoud Ford](https://open.spotify.com/artist/5fVIkYGFnKyKO5CTphBoKO), [Tim Lowe](https://open.spotify.com/artist/4c6Gwxq0m60hm6dx4dnAqB), [Ben Chappell](https://open.spotify.com/artist/5Bcr5JYvl4wiO9jvoDvH8F), [Katherine Jenkinson](https://open.spotify.com/artist/3GD1m7RLwgmITy17vj8Ht6) | [Bach: The Cello Suites \- Recomposed by Peter Gregson](https://open.spotify.com/album/0Fs1VrnUcbVxKW6Dbq7jyZ) | 2:48 | 2022-04-01 |  |
 | [Run](https://open.spotify.com/track/7yUukIX492jvLR85xYQkvc) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:32 | 2022-04-01 |  |
+| [Sarabande](https://open.spotify.com/track/51GuTNRTy1i9j3tUVRBsJw) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur) | [Sarabande](https://open.spotify.com/album/0aP3bGzAvvazmk5FmkpM78) | 4:14 | 2023-08-04 |  |
 | [Scheherazade: The Tale of the Kalendar Prince](https://open.spotify.com/track/04eShjKTWijeJJqGnhxpYK) | [Nikolai Rimsky\-Korsakov](https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs), [Lars Hjalmar Joakim](https://open.spotify.com/artist/0k5uXmuyASwY2Cwi5TQki4) | [Rimsky\-Korsakov: Scheherezade](https://open.spotify.com/album/3QXtNXmOyrOfZ2mWG4rw9v) | 3:20 | 2022-04-01 |  |
 | [Schwanengesang, D\. 957: No\. 4, Ständchen](https://open.spotify.com/track/2S9IQTWq2AsiKNztp6m3XZ) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Goldmund Quartet](https://open.spotify.com/artist/0FnOdHfjxgm6gvr5B0us9t) | [No\. 4, Ständchen](https://open.spotify.com/album/7gCa5AvULMotY5lCjvjsvH) | 3:24 | 2023-03-03 | 2023-05-28 |
 | [Schwanengesang, D\. 957: No\. 4, Ständchen](https://open.spotify.com/track/3hUTE3r2qC1UiKXEMjd87Y) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Goldmund Quartet](https://open.spotify.com/artist/0FnOdHfjxgm6gvr5B0us9t) | [Der Tod und das Mädchen & Songs](https://open.spotify.com/album/0icCxdBQMNGtzvVowdMZYY) | 3:24 | 2023-04-21 |  |

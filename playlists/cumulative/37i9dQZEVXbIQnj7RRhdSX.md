@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,369 songs - 2 day 22 hr 35 min
+1,370 songs - 2 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Ancora, Ancora, Ancora](https://open.spotify.com/track/3Ipfe6NFwCvTtfBMl4NbBh) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:45 | 2023-04-15 | 2023-04-22 |
 | [Andrea](https://open.spotify.com/track/03j2Lo97VCDprSk8oLb8Gi) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Andrea](https://open.spotify.com/album/1mbwNDgFojWsQfJCN46Izm) | 3:05 | 2022-02-19 | 2022-03-06 |
 | [Andrea](https://open.spotify.com/track/5Ti7LXn9K5s5WT0y7LgFnG) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 3:05 | 2022-03-05 | 2022-03-21 |
-| [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/5w4kBgLzFTJoxXbChBcBnq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 3:09 | 2023-06-30 |  |
+| [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:09 | 2023-08-04 |  |
+| [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/5w4kBgLzFTJoxXbChBcBnq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 3:09 | 2023-06-30 | 2023-08-05 |
 | [Angelina Jolie](https://open.spotify.com/track/6BQAc2HhuDupDytILiSkZe) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 2:49 | 2022-03-05 | 2022-03-27 |
 | [Angelina Jolie](https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Angelina Jolie](https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR) | 2:49 | 2021-03-27\* | 2022-03-06 |
 | [Angelo All'Inferno \(feat\. Salmo & Federica Abbate\)](https://open.spotify.com/track/5Jd2X0NbPpC3bpYsI3h6hd) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:53 | 2023-06-03 | 2023-06-18 |

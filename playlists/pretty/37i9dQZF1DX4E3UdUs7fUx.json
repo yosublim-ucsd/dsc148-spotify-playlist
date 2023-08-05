@@ -1,12 +1,12 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2312559,
+  "num_followers": 2312529,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDc0OTkyMWMyMGY2Mzk5NDk4YTc2ODhmZGVjNjJmZjA2ZDJkNWRl",
+  "snapshot_id": "MCxkMjU3MGZkNmRjOTZmMDY5NjQ2NjA3YTk1NWU4ZDBlNDRjMGIzNzdk",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "The Pleasant Trees (Volume 2)",
-        "url": "https://open.spotify.com/album/7njexd4MXzmW0tXn0GK5EW"
-      },
-      "artists": [
-        {
-          "name": "Tom Rosenthal",
-          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
-        }
-      ],
-      "duration_ms": 164721,
-      "name": "Middle Of My Mind",
-      "url": "https://open.spotify.com/track/5RSQUFoAIg75ZQKP5zyT8i"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Beulah",
         "url": "https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 243012,
       "name": "Hate The Way You Love Me",
       "url": "https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "The Pleasant Trees (Volume 2)",
+        "url": "https://open.spotify.com/album/7njexd4MXzmW0tXn0GK5EW"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "duration_ms": 164721,
+      "name": "Middle Of My Mind",
+      "url": "https://open.spotify.com/track/5RSQUFoAIg75ZQKP5zyT8i"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Hold Your Head Up High",
-        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Hold Your Head Up High",
-      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Open Season (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 150521,
       "name": "Bridge",
       "url": "https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Hold Your Head Up High",
+        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Hold Your Head Up High",
+      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
     },
     {
       "added_at": "2023-06-30 04:00:00",

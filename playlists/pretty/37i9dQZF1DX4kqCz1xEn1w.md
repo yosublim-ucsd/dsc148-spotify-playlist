@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,565 likes - 100 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,560 likes - 100 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 42 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 |
 | 43 | [Touch The Sky](https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Empires](https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD) | 4:22 |
 | 44 | [You Will Be Saved](https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [You Will Be Saved](https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk) | 6:14 |
-| 45 | [Better Word \- Single Version](https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67) | 3:22 |
-| 46 | [Where Do I Fit In \(feat\. Tori Kelly, Chandler Moore & Judah Smith\)](https://open.spotify.com/track/6e3oGWsdfHSKBCFv548RRm) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Judah Smith](https://open.spotify.com/artist/2Cxb2kuXKmtE7g8noyL5yJ) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 4:46 |
+| 45 | [Where Do I Fit In \(feat\. Tori Kelly, Chandler Moore & Judah Smith\)](https://open.spotify.com/track/6e3oGWsdfHSKBCFv548RRm) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Judah Smith](https://open.spotify.com/artist/2Cxb2kuXKmtE7g8noyL5yJ) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 4:46 |
+| 46 | [Better Word \- Single Version](https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67) | 3:22 |
 | 47 | [I Surrender](https://open.spotify.com/track/2oIJcLFfmcNNaNpMJzBUwG) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Take Heart \(Again\)](https://open.spotify.com/album/6HcqVBH2iWODP7vYAuvR8O) | 5:14 |
 | 48 | [Waymaker](https://open.spotify.com/track/0hLsDRLsfvwExXMBeDS53k) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM), [Madelyn Berry](https://open.spotify.com/artist/0BQdLOsJd5icawEym8uBp0) | [Awaken: The Surrounded Experience](https://open.spotify.com/album/7ABTyGBo7jkcRjLwA03Kqa) | 7:17 |
 | 49 | [Be Enthroned \- Live](https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Have It All \(Live\)](https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2) | 8:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 99 | [Savior Of The World \- Single Version](https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Savior Of The World](https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO) | 4:44 |
 | 100 | [You Are The Lord](https://open.spotify.com/track/5XYBrwScp68y8LGo08Na8x) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Breakthrough Miracle Power / You Are The Lord](https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU) | 5:10 |
 
-Snapshot ID: `MCxiODE4NjFjZGM1MzRhZjBjNWQ5ZWE3ZWRmYTFkNmJmOTg0ZGEzYjUx`
+Snapshot ID: `MCw2MjUyZTQxNzY0MjU4ODcwYjY3ZTcxYmMzMzhlYmMzYTM1MWM0ZTZm`

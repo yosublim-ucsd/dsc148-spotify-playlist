@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "afraid",
+        "url": "https://open.spotify.com/album/5athKnedDAj44OMlwx4L2Y"
+      },
+      "artists": [
+        {
+          "name": "heylog",
+          "url": "https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161748,
+      "name": "afraid",
+      "url": "https://open.spotify.com/track/481A0KvGKhzGsQHM1RlODQ"
+    },
+    {
+      "album": {
         "name": "You Will Never Know Why",
         "url": "https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M"
       },
@@ -248,7 +266,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 202000,
       "name": "All That I've Wasted",
       "url": "https://open.spotify.com/track/2tHAj5Py3sXE8pJyh5ouPz"
@@ -674,7 +692,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 161225,
       "name": "bb",
       "url": "https://open.spotify.com/track/0BwlbW42QQj8xHABX53WVi"
@@ -1990,6 +2008,24 @@
       "duration_ms": 262900,
       "name": "Dismal",
       "url": "https://open.spotify.com/track/4xlAQxlNPIUtSg8K6aVlL8"
+    },
+    {
+      "album": {
+        "name": "Distortion Spear",
+        "url": "https://open.spotify.com/album/1ZRZmhgSWzXID20b8o5jcd"
+      },
+      "artists": [
+        {
+          "name": "Candy Claws",
+          "url": "https://open.spotify.com/artist/34Xay0uKsALHCrn5LkrYeh"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221703,
+      "name": "Distortion Spear",
+      "url": "https://open.spotify.com/track/18jxW8sLv8VwBAZJWKOez7"
     },
     {
       "album": {
@@ -3698,7 +3734,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 307000,
       "name": "Involved",
       "url": "https://open.spotify.com/track/4vjA0e8i58eJbsa67MuIlt"
@@ -4552,7 +4588,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 128373,
       "name": "Mystkluv",
       "url": "https://open.spotify.com/track/7vmjWL7aaCqjT9uJUjafRV"
@@ -5140,7 +5176,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 254493,
       "name": "Plague X",
       "url": "https://open.spotify.com/track/7caVWx4BPpENLeZWrVr8T5"
@@ -5428,7 +5464,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 245840,
       "name": "reina de primavera",
       "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
@@ -5544,6 +5580,24 @@
       "duration_ms": 319842,
       "name": "Saved For Summer",
       "url": "https://open.spotify.com/track/1vdGnzQYnZniAsJngfkIFP"
+    },
+    {
+      "album": {
+        "name": "Scapa Flow",
+        "url": "https://open.spotify.com/album/4aFQWkk0HOEz3zjxzj207N"
+      },
+      "artists": [
+        {
+          "name": "Drop Nineteens",
+          "url": "https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239586,
+      "name": "Scapa Flow",
+      "url": "https://open.spotify.com/track/1Qw8bC0vgxhLx1kLcNFEkk"
     },
     {
       "album": {
@@ -5861,6 +5915,24 @@
     },
     {
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1blwMKDfziJJU9R14pQ5iD"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Kraft",
+          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184853,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/1bd7Jt9jIg3mKe2AT08RJI"
+    },
+    {
+      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
       },
@@ -6092,6 +6164,24 @@
       "duration_ms": 93500,
       "name": "sue\u00f1os pasajeros",
       "url": "https://open.spotify.com/track/5qkh3OCdhzDFLLkLDyzQ3I"
+    },
+    {
+      "album": {
+        "name": "suffocate",
+        "url": "https://open.spotify.com/album/1nt7XyS14fMXYsnTmuCGN9"
+      },
+      "artists": [
+        {
+          "name": "deer death",
+          "url": "https://open.spotify.com/artist/17QFJD1kvdfFzwZPMd6uCg"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170780,
+      "name": "suffocate",
+      "url": "https://open.spotify.com/track/7vQFhx226rC2MZML37k7HU"
     },
     {
       "album": {
@@ -6701,6 +6791,24 @@
     },
     {
       "album": {
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/4nteDNfkJVsJuWQhOnnHFN"
+      },
+      "artists": [
+        {
+          "name": "Computerwife",
+          "url": "https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212309,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/5VieQH9z7lj6UIGfTkkmiM"
+    },
+    {
+      "album": {
         "name": "Tired of Tomorrow (Deluxe Version)",
         "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
       },
@@ -7011,6 +7119,28 @@
     },
     {
       "album": {
+        "name": "white lies",
+        "url": "https://open.spotify.com/album/2rGnMJlNVjHeXp5WHTVWuq"
+      },
+      "artists": [
+        {
+          "name": "kenesukoh",
+          "url": "https://open.spotify.com/artist/7rLnYGZPu6KJ3IovPMYaBr"
+        },
+        {
+          "name": "flyingfish",
+          "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158980,
+      "name": "white lies",
+      "url": "https://open.spotify.com/track/3lDy1Sju7eDqMtTIzbOu4v"
+    },
+    {
+      "album": {
         "name": "11\u202211\u202211",
         "url": "https://open.spotify.com/album/5mGJloHxjO2igmx9XJKAeJ"
       },
@@ -7058,7 +7188,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 219063,
       "name": "wish i knew",
       "url": "https://open.spotify.com/track/4XUuhwGsTx0H7IvWWAXVTC"
@@ -7134,6 +7264,28 @@
       "duration_ms": 295714,
       "name": "You",
       "url": "https://open.spotify.com/track/4KAXCtaIkLzAlajKxpeTDb"
+    },
+    {
+      "album": {
+        "name": "Seafoam Walls on Audiotree Live",
+        "url": "https://open.spotify.com/album/0ZDABzfMWnxiBxem8S1Eac"
+      },
+      "artists": [
+        {
+          "name": "Seafoam Walls",
+          "url": "https://open.spotify.com/artist/38sXpZuO83ogEnlGr3zC90"
+        },
+        {
+          "name": "Audiotree",
+          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281698,
+      "name": "You Can't Have Your Cake and Ego Too (Happy Birthday) - Audiotree Live version",
+      "url": "https://open.spotify.com/track/3uF3pwjo99lnmOcFy3Ve1w"
     },
     {
       "album": {

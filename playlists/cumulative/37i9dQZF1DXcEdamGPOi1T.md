@@ -4,7 +4,7 @@
 
 > La bande sonore de ton été 2023!
 
-294 songs - 15 hr 49 min
+295 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 | 2022-07-29 | 2023-01-25 |
 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 | 2022-07-26 | 2022-08-27 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-04-07 |  |
-| [Feels \(feat\. Pharrell Williams, Katy Perry & Big Sean\)](https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:43 | 2022-07-26 |  |
+| [Feels \(feat\. Pharrell Williams, Katy Perry & Big Sean\)](https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:43 | 2022-07-26 | 2023-08-05 |
 | [Femme Like U \- J](https://open.spotify.com/track/4dVIIxSQlGlRQ2v1kXcSL0) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [MAYKO](https://open.spotify.com/artist/6HN3vDScmw1RmWghiRao5U) | [Emma Peters \(Remixed\)](https://open.spotify.com/album/5NHfnTwW8s72NU0Fa92jeP) | 2:10 | 2022-05-27 | 2022-07-14 |
 | [Femme\-Lady](https://open.spotify.com/track/2oEL7zcZ6W2auzcj0BGwsp) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Femme\-Lady](https://open.spotify.com/album/4CHbXHghoxgeaav8crDiEc) | 3:33 | 2022-05-27 | 2022-07-04 |
 | [Feu](https://open.spotify.com/track/5akYStB7cnYV9614KjB2Om) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [EP3](https://open.spotify.com/album/1Oq27yGxo4F5JKeCYJFm2z) | 3:37 | 2022-05-27 | 2022-07-29 |
@@ -273,6 +273,7 @@
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2022-07-26 |  |
 | [The Sun Is Up Forever](https://open.spotify.com/track/1Lb1S77Ooubhoy3sz509aY) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/4E2TcDaegufL6YTbOzHiqR) | 3:44 | 2022-05-27 | 2022-07-15 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-05-27 | 2023-07-01 |
+| [TIKI TAKA](https://open.spotify.com/track/58hhN9kFvXIEPvkd6Q5XCR) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 2:34 | 2023-08-04 |  |
 | [Toko Toko](https://open.spotify.com/track/11jljbDlwqMyvQdepjse5G) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Toko Toko](https://open.spotify.com/album/3Op7cAYJ0VWN4NUAgICcMQ) | 2:54 | 2022-05-27 | 2022-07-28 |
 | [Tokébakicitte](https://open.spotify.com/track/60hf8p6QGVYHNbdG82DmM3) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [Tokébakicitte](https://open.spotify.com/album/7GeLUcKzeuVU28PxiLJO9o) | 2:50 | 2022-05-27 | 2022-07-27 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-04-07 |  |

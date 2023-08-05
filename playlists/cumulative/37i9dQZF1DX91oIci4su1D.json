@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 213120,
       "name": "Black Heart - Sunny Lax Remix",
       "url": "https://open.spotify.com/track/6EshijssDrfMJKXbztdI4w"
@@ -2744,6 +2744,24 @@
       "duration_ms": 234974,
       "name": "Concentrate",
       "url": "https://open.spotify.com/track/1AO8Yfpq0V9LmFy5sIUOSm"
+    },
+    {
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/4toXocV8ZrRUSjvkeG26Fr"
+      },
+      "artists": [
+        {
+          "name": "Super8 & Tab",
+          "url": "https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167082,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/0sKJQ38BIstZUFXihXB4rU"
     },
     {
       "album": {
@@ -6787,6 +6805,28 @@
     },
     {
       "album": {
+        "name": "Join Me",
+        "url": "https://open.spotify.com/album/7shTBbLNB8laWJUeAegcTs"
+      },
+      "artists": [
+        {
+          "name": "Pinball",
+          "url": "https://open.spotify.com/artist/7qfKjRGrO1By4TujWvUA8F"
+        },
+        {
+          "name": "Pulsedriver",
+          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Join Me",
+      "url": "https://open.spotify.com/track/3QC6FbNGCSfyKHNLcrcHUa"
+    },
+    {
+      "album": {
         "name": "Just A Call Away",
         "url": "https://open.spotify.com/album/6EYqGqkkWzNGsaqFCoV4Dx"
       },
@@ -8761,6 +8801,24 @@
     },
     {
       "album": {
+        "name": "Mistral",
+        "url": "https://open.spotify.com/album/72X5aUTyjZs8Ito52US9aj"
+      },
+      "artists": [
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197231,
+      "name": "Mistral",
+      "url": "https://open.spotify.com/track/3RLYXVhEX3SKr1X3UIfPtk"
+    },
+    {
+      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/0axXxvjQtWnKTvYfpwBFnX"
       },
@@ -9876,6 +9934,32 @@
       "duration_ms": 245357,
       "name": "Other Days",
       "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
+    },
+    {
+      "album": {
+        "name": "Other Eye",
+        "url": "https://open.spotify.com/album/2RdgrxAAz38mRRmIsNbEhS"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        },
+        {
+          "name": "Gabriel & Dresden",
+          "url": "https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV"
+        },
+        {
+          "name": "Sub Teal",
+          "url": "https://open.spotify.com/artist/3oqiDRfqAdXhjdGh4eY3hT"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299212,
+      "name": "Other Eye",
+      "url": "https://open.spotify.com/track/4R7fUqdunkboVEVxVZQC3K"
     },
     {
       "album": {
@@ -11893,6 +11977,28 @@
     },
     {
       "album": {
+        "name": "Someone Like You",
+        "url": "https://open.spotify.com/album/72ekjOThzXa4FIGEC12QQE"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "name": "Ciaran McAuley",
+          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196521,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/5BhOXlQmuNX30x9G1jSOrS"
+    },
+    {
+      "album": {
         "name": "Something Beautiful (Super8 & Tab Remix)",
         "url": "https://open.spotify.com/album/2zrNxLhHjr46sjubcx2h7i"
       },
@@ -11956,6 +12062,24 @@
       "duration_ms": 153809,
       "name": "Something I Can't Feel",
       "url": "https://open.spotify.com/track/3Ag0UGNACEb2VNtntxCfDl"
+    },
+    {
+      "album": {
+        "name": "Something More (Edit)",
+        "url": "https://open.spotify.com/album/4nGovERU5lRg5GEGnULgiT"
+      },
+      "artists": [
+        {
+          "name": "Shane Codd",
+          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179600,
+      "name": "Something More - Edit",
+      "url": "https://open.spotify.com/track/5CsNxbCrigo3gmeq4uJ0w8"
     },
     {
       "album": {

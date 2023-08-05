@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,221 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,264 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 38 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 |
 | 39 | [Have You Ever Seen the Rain \(feat\. Paula Nelson\)](https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Paula Nelson](https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV) | [To All The Girls...](https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx) | 4:38 |
 | 40 | [Blue Skies](https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 3:33 |
-| 41 | [I Gotta Get Drunk \(with Willie Nelson\)](https://open.spotify.com/track/2uUhWqoiyp1wKJC81vKaJ4) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [My Very Special Guests](https://open.spotify.com/album/3am7sXkWVQ9mpldg5KtrUm) | 2:10 |
-| 42 | [Cruel World](https://open.spotify.com/track/166Dyvfibu4SOygA4vub85) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 2:28 |
+| 41 | [Cruel World](https://open.spotify.com/track/166Dyvfibu4SOygA4vub85) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 2:28 |
+| 42 | [I Gotta Get Drunk \(with Willie Nelson\)](https://open.spotify.com/track/2uUhWqoiyp1wKJC81vKaJ4) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [My Very Special Guests](https://open.spotify.com/album/3am7sXkWVQ9mpldg5KtrUm) | 2:10 |
 | 43 | [On The Sunny Side Of The Street](https://open.spotify.com/track/4hkfBXwxJnCWRf9sDZvtkr) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 2:55 |
 | 44 | [Sinner](https://open.spotify.com/track/34jUlISPpEYnJqzPc7B7Sh) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Sinner](https://open.spotify.com/album/0CJrzaavg6xQaIKolWD83H) | 3:31 |
 | 45 | [Juanita](https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 3:40 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 47 | [Devil in a Sleepin' Bag](https://open.spotify.com/track/7JSIPdukJ1MCWWa2sOBuWi) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:38 |
 | 48 | [Just to Satisfy You](https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Ultimate Waylon Jennings](https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa) | 2:49 |
 | 49 | [Georgia On My Mind](https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 4:19 |
-| 50 | [You Left Me A Long, Long Time Ago](https://open.spotify.com/track/2zMuGPbl3pgxbbO3ayqoQE) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [You Left Me A Long, Long Time Ago](https://open.spotify.com/album/10pIXX2E1ZNIWFBGQDlMXt) | 4:18 |
+| 50 | [Easy](https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Tuskegee \(Deluxe Version\)](https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z) | 4:30 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDBiN2E1ZmJhZTdmYjVlMzY4MGU5NzAzMGQ0YWQ2OGM1NQ==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDBmMzk5OTYyZDljYzE5NjNjMzZkNjk1NDVmOTkxNDNmYg==`

@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-135 songs - 8 hr 11 min
+136 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Oohale Oosule](https://open.spotify.com/track/4lyl9K1D7syj1d0LL8nNGA) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [Lakshmi Meghana](https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN) | [Oohale Oosule](https://open.spotify.com/album/5p50H6A7erX9LKav26JdaF) | 2:51 | 2023-02-14 |  |
 | [Oopiriga](https://open.spotify.com/track/52E72LjUNeAmAmSUapKTZ0) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Oopiriga](https://open.spotify.com/album/4egLenJbozGwmXp5MomLqR) | 4:28 | 2023-06-04 |  |
 | [Oorelipota Mama](https://open.spotify.com/track/3lQCnKafxZtct8QfsG6jog) | [Chowraasta](https://open.spotify.com/artist/7l8YWhszshSlwN43NtokOO) | [Oorellipota Mama](https://open.spotify.com/album/5WEUFAOSi07U29RKWNsKG9) | 2:46 | 2022-07-18 |  |
+| [Pada Pada](https://open.spotify.com/track/3k9ea76NrDYX68bBIaETcU) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Pada Pada](https://open.spotify.com/album/0Z2Rpy6uXsEn36qSl1LJnl) | 4:03 | 2023-08-04 |  |
 | [Padessave Pilla](https://open.spotify.com/track/3rXoZn6p4OY6gYqPV9A9ko) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkat Chaitanya](https://open.spotify.com/artist/2GNR01LjMoSuhvp4GSuFX8), [Vijay Bhanu](https://open.spotify.com/artist/3kGye1N1zSbmdG81klESLO) | [Padessave Pilla](https://open.spotify.com/album/58o4XflfE94ZzJlU7iySkA) | 3:06 | 2023-04-06 |  |
 | [Panipuri Anthem](https://open.spotify.com/track/0zBSq5bRDfTCu9p8XWjBbg) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Panipuri Anthem](https://open.spotify.com/album/1qRNd3zrxt7fyVzuxy6FwB) | 1:57 | 2023-02-11 |  |
 | [People](https://open.spotify.com/track/0iXylfvuzZEE6mT4Y56ZvP) | [TES](https://open.spotify.com/artist/45bO8rTZ9fQrxXPWBvGiwZ), [EDWRLDMUSICK](https://open.spotify.com/artist/0GvRLozNftPCJkoE2DTrF5) | [People](https://open.spotify.com/album/0wTFhT4m7lLa5ti4p26iiW) | 2:25 | 2023-03-31 | 2023-05-23 |

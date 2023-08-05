@@ -1281,6 +1281,28 @@
     },
     {
       "album": {
+        "name": "Sarabande",
+        "url": "https://open.spotify.com/album/0aP3bGzAvvazmk5FmkpM78"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254306,
+      "name": "Sarabande",
+      "url": "https://open.spotify.com/track/51GuTNRTy1i9j3tUVRBsJw"
+    },
+    {
+      "album": {
         "name": "Rimsky-Korsakov: Scheherezade",
         "url": "https://open.spotify.com/album/3QXtNXmOyrOfZ2mWG4rw9v"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Refo Dan Fauna
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,041,115 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,042,283 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 74 | [in the stars](https://open.spotify.com/track/798s1KJWQglhZoKLUF9p7D) | [Sami Rose](https://open.spotify.com/artist/2NLhDrmuSI9K1SHfwmqNXL) | [in the stars](https://open.spotify.com/album/0mPY19kYRyEMP1IOk06k5j) | 3:45 |
 | 75 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 |
 
-Snapshot ID: `MCw3ZDVlNzYwMTExYTJkZGY4MmFkNmNlNWQ3ZTIwMDFiNTViZTgwMGNk`
+Snapshot ID: `MCw0MGI0MGZkZjhhZWIwYjBkMDkzMDgzNTU1NWRkNTlhOWI2NjY5NmQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 
 > Der Soundtrack für deinen Sommer ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,268,620 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,268,884 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 42 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 |
 | 43 | [SUMMER VIBES](https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [SUMMER VIBES](https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2) | 2:26 |
 | 44 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 |
-| 45 | [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 |
-| 46 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 |
+| 45 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 |
+| 46 | [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 |
 | 47 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 |
 | 48 | [Hey Blondie \(From Barbie The Album\)](https://open.spotify.com/track/78JGdUz8IxGBaBpZo9BYKv) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Hey Blondie \(From Barbie The Album\)](https://open.spotify.com/album/4xkTjrcq1DSA8fZ09ILDm5) | 2:21 |
 | 49 | [Rimini](https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [rimini tape](https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU) | 2:54 |
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 52 | [Katharina](https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:00 |
 | 53 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 |
 | 54 | [Bedroom Exile](https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY) | 3:18 |
-| 55 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 |
-| 56 | [Running in Circles](https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Running in Circles](https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe) | 3:11 |
-| 57 | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ) | 3:33 |
+| 55 | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ) | 3:33 |
+| 56 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 |
+| 57 | [Running in Circles](https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Running in Circles](https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe) | 3:11 |
 | 58 | [Summer of Luv \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/7tMYbJhP6N732MAglwmuJf) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Summer of Luv \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/album/7xvecR0lQHuMtwxErfq2JA) | 2:39 |
-| 59 | [Wir haben den Winter überlebt](https://open.spotify.com/track/07kPTchc4mhslGur0QF6lj) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Wir haben den Winter überlebt](https://open.spotify.com/album/16j5gY7gqDM1phRVqzgrbL) | 3:33 |
-| 60 | [Spiegelbild](https://open.spotify.com/track/0rt8k3nUqVpM4lc5KRdkOf) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Spiegelbild](https://open.spotify.com/album/70TzQMM2AWBS1amTd4h57G) | 3:14 |
-| 61 | [Midnight](https://open.spotify.com/track/2XoRnEuxmv6EMApi6fagyE) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Midnight](https://open.spotify.com/album/2T8uIHAH9XOjXLJNdHJiLY) | 2:56 |
+| 59 | [Spiegelbild](https://open.spotify.com/track/0rt8k3nUqVpM4lc5KRdkOf) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Spiegelbild](https://open.spotify.com/album/70TzQMM2AWBS1amTd4h57G) | 3:14 |
+| 60 | [Midnight](https://open.spotify.com/track/2XoRnEuxmv6EMApi6fagyE) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Midnight](https://open.spotify.com/album/2T8uIHAH9XOjXLJNdHJiLY) | 2:56 |
+| 61 | [Wir haben den Winter überlebt](https://open.spotify.com/track/07kPTchc4mhslGur0QF6lj) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Wir haben den Winter überlebt](https://open.spotify.com/album/16j5gY7gqDM1phRVqzgrbL) | 3:33 |
 | 62 | [More To This Life](https://open.spotify.com/track/6zPyE3kqAboGKv2iKNOEcR) | [Max Giesinger](https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [More To This Life](https://open.spotify.com/album/4GAoGetqEAbfALqARE0s4I) | 3:20 |
 | 63 | [Sie](https://open.spotify.com/track/07gGSxcPN5iEnszYgtx73S) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Sie](https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1) | 3:21 |
 | 64 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 66 | [vielleicht in einem jahr](https://open.spotify.com/track/7AcPEULNvoFNKyN3tQjkD5) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [vielleicht in einem jahr](https://open.spotify.com/album/13QzEFvk3yyGMTw4ucm41U) | 2:21 |
 | 67 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 |
 | 68 | [Only For A Moment](https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Only For A Moment](https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV) | 2:47 |
-| 69 | [do u really? \(with Ruth B.\)](https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [do u really?](https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6) | 2:41 |
-| 70 | [Happy](https://open.spotify.com/track/3gNGs3jVDgvbJUD8nNCZD0) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W) | [Canaries in a Coal Mine](https://open.spotify.com/album/6w8FlpM4WCoQNK94V0xruX) | 3:27 |
+| 69 | [Happy](https://open.spotify.com/track/3gNGs3jVDgvbJUD8nNCZD0) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W) | [Canaries in a Coal Mine](https://open.spotify.com/album/6w8FlpM4WCoQNK94V0xruX) | 3:27 |
+| 70 | [do u really? \(with Ruth B.\)](https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [do u really?](https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6) | 2:41 |
 
-Snapshot ID: `MCw0YWNhZjc0NDVjYmE0YjQ1N2E2ZDY0ZjVkODNiOWYxMjkyOTRmYTRj`
+Snapshot ID: `MCwyODRjZGRiZDhmYjJjYTg3NDlmNjg5NzE5MzdhMjJiMDI1MDdhNTI2`

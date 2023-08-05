@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 131681,
+  "num_followers": 131916,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGRmMjg3Y2UxNmI5MTU3ZDRmN2M4MTJkY2E2NGIwODViYmE5ODc1",
+  "snapshot_id": "MCwxMGZiMDFhNjBiZjljNjI2NjJiMGNiN2I4NDdlMTIwMGE2MTU0NDE2",
   "tracks": [
     {
       "added_at": "2023-03-07 19:29:41",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Loveher",
-        "url": "https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "Loveher",
-      "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
-    },
-    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "5K",
@@ -319,6 +303,22 @@
       "duration_ms": 133493,
       "name": "Races",
       "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Loveher",
+        "url": "https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "Loveher",
+      "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Tears can be so soft",
-        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 311928,
-      "name": "Tears can be so soft",
-      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "like everyone else",
         "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 201133,
       "name": "like everyone else",
       "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Tears can be so soft",
+        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 311928,
+      "name": "Tears can be so soft",
+      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "forevher",
-        "url": "https://open.spotify.com/album/1Gkq8xYCUvIaRshmoLa6ze"
-      },
-      "artists": [
-        {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
-        }
-      ],
-      "duration_ms": 247346,
-      "name": "religion (u can lay your hands on me)",
-      "url": "https://open.spotify.com/track/4YIimRZi9KYx0ohj1b7vmj"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 236486,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "forevher",
+        "url": "https://open.spotify.com/album/1Gkq8xYCUvIaRshmoLa6ze"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "duration_ms": 247346,
+      "name": "religion (u can lay your hands on me)",
+      "url": "https://open.spotify.com/track/4YIimRZi9KYx0ohj1b7vmj"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "nice",
-        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 176318,
-      "name": "death proof",
-      "url": "https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/34lYIGfJoCuFH8D1YRRFIp"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 196301,
       "name": "Queen",
       "url": "https://open.spotify.com/track/5Y5WLk0oI5MZSJMyK88upb"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "nice",
+        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 176318,
+      "name": "death proof",
+      "url": "https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "The Clutch",
-        "url": "https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD"
-      },
-      "artists": [
-        {
-          "name": "Palehound",
-          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
-        }
-      ],
-      "duration_ms": 190091,
-      "name": "The Clutch",
-      "url": "https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "HARDCORE HAPPY",
         "url": "https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 169400,
       "name": "HARDCORE HAPPY",
       "url": "https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "The Clutch",
+        "url": "https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "duration_ms": 190091,
+      "name": "The Clutch",
+      "url": "https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "California Girl",
-        "url": "https://open.spotify.com/album/6JI9ahGVM3OofcDbQjhkSl"
+        "name": "Olympus",
+        "url": "https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4"
       },
       "artists": [
         {
-          "name": "Lo Knowles",
-          "url": "https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 237165,
-      "name": "California Girl",
-      "url": "https://open.spotify.com/track/0nQih7s8hEqAeQQZb44M24"
+      "duration_ms": 216852,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
+        "name": "California Girl",
+        "url": "https://open.spotify.com/album/6JI9ahGVM3OofcDbQjhkSl"
+      },
+      "artists": [
+        {
+          "name": "Lo Knowles",
+          "url": "https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ"
+        }
+      ],
+      "duration_ms": 237165,
+      "name": "California Girl",
+      "url": "https://open.spotify.com/track/0nQih7s8hEqAeQQZb44M24"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 207946,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Olympus",
-        "url": "https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 216852,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "sorry isn't good enough",
-      "url": "https://open.spotify.com/track/1PTjdobwHJOZc8NdtGvtKJ"
-    },
-    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "i love you but this is goodbye",
@@ -1247,6 +1231,22 @@
       "duration_ms": 142545,
       "name": "closure",
       "url": "https://open.spotify.com/track/2TozmWy9NS5FMqqnEq8AJy"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "sorry isn't good enough",
+      "url": "https://open.spotify.com/track/1PTjdobwHJOZc8NdtGvtKJ"
     }
   ],
   "unique_name": "Alternative Pride",

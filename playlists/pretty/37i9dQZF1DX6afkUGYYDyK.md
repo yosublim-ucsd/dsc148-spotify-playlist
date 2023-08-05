@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,302 likes - 60 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,314 likes - 60 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 37 | [Give Thanks \- Live](https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Give Thanks \(Live\)](https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83) | 4:14 |
 | 38 | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/track/67t6GzdwhJ0e99MoH9NjjK) | [Ruth La'Ontra](https://open.spotify.com/artist/6isNHmZDAF2RaxkVlxHmNq), [Thomas & The Situation](https://open.spotify.com/artist/3TV5i0jWmSSroHENVrPLiJ) | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/album/3tEcRHRF9ZopnnkloV29mM) | 4:17 |
 | 39 | [At This Table](https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [At This Table](https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6) | 3:59 |
-| 40 | [Give Thanks \- Medley](https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL) | [T.D\. Jakes](https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ) | [Woman; Thou Art Loosed!](https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL) | 3:41 |
-| 41 | [We Give You Thanks](https://open.spotify.com/track/7ophliTSArPbWKiydO5TRl) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Integrity's Hosanna! Music](https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn) | [All Sons & Daughters](https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6) | 5:35 |
+| 40 | [We Give You Thanks](https://open.spotify.com/track/7ophliTSArPbWKiydO5TRl) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Integrity's Hosanna! Music](https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn) | [All Sons & Daughters](https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6) | 5:35 |
+| 41 | [Give Thanks \- Medley](https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL) | [T.D\. Jakes](https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ) | [Woman; Thou Art Loosed!](https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL) | 3:41 |
 | 42 | [Thanks Giver](https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Cookies: A Merry Crowder Christmas](https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt) | 3:28 |
 | 43 | [Give Thanks](https://open.spotify.com/track/2fRPNI68Vk8SawD7lq1rsw) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Give Thanks](https://open.spotify.com/album/1Aut9LT8m8InV1Yu2Yx8tE) | 3:13 |
 | 44 | [Give Thanks \- Live](https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 6:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 59 | [Thankful](https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [Faithful To Believe](https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61) | 6:26 |
 | 60 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
 
-Snapshot ID: `MCw3NWIzNjQxOGM0OGZkOGE4ZTA3ZjJlNDlkNTRhYWMzMDIxZjcwYmI1`
+Snapshot ID: `MCwyZjNlNzgwZTgyZTQwMjFkNGYyNDkxNDlhYjBmOTUxN2U0ZThkNzk5`

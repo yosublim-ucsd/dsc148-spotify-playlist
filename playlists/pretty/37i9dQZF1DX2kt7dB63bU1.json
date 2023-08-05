@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Laufey",
-  "num_followers": 127393,
+  "num_followers": 127475,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTE4MDY5NmU1ZDM2ZDY2YjE4YjI1OGVjNDk2MzVlODJmNWQ5OTY4",
+  "snapshot_id": "MCxmMDhhMzUyZmIwMWMwNmVjZTZlZmI0ZjI0OWYxMzFlZmFmZmFhOGQw",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/4DdjqjTARDbAvjELiHxuyn"
     },
     {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "How Did You Get In My Dreams?",
+        "url": "https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 217376,
+      "name": "How Did You Get In My Dreams?",
+      "url": "https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO"
+    },
+    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "I Am What I Am",
@@ -77,30 +93,10 @@
       "url": "https://open.spotify.com/track/0ZkpaZtDYH1ibxz3rfXApD"
     },
     {
-      "added_at": "2023-07-14 04:01:00",
+      "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Chicago Blues",
-        "url": "https://open.spotify.com/album/5WWS6v1T7jcdZ1CLUZtJtH"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
-        }
-      ],
-      "duration_ms": 293973,
-      "name": "Chicago Blues",
-      "url": "https://open.spotify.com/track/26gSq8ynYSkBTo637il67o"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Dignidad",
-        "url": "https://open.spotify.com/album/7wQyzR5qpjMCyZFn8bcxYB"
+        "name": "Venas (feat. Joel Ross, Sean Mason, Jonathan Michel & Joe Dyson)",
+        "url": "https://open.spotify.com/album/5tQyYsOD3EzLEFP5yKF7P7"
       },
       "artists": [
         {
@@ -124,9 +120,49 @@
           "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
         }
       ],
-      "duration_ms": 183650,
-      "name": "Dignidad",
-      "url": "https://open.spotify.com/track/6BvnDPPGQsdQoymojmjNjW"
+      "duration_ms": 225417,
+      "name": "Venas (feat. Joel Ross, Sean Mason, Jonathan Michel & Joe Dyson)",
+      "url": "https://open.spotify.com/track/74BRdmhoM9hJflGJHpyVhe"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Chicago Blues",
+        "url": "https://open.spotify.com/album/5WWS6v1T7jcdZ1CLUZtJtH"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "duration_ms": 293973,
+      "name": "Chicago Blues",
+      "url": "https://open.spotify.com/track/26gSq8ynYSkBTo637il67o"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "High Standards",
+        "url": "https://open.spotify.com/album/67MjTmlLG28UrchS60RTMo"
+      },
+      "artists": [
+        {
+          "name": "Freda Payne",
+          "url": "https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ"
+        },
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "Honeysuckle Rose",
+      "url": "https://open.spotify.com/track/2XHZQMfaIft1QP0RFSl56F"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -299,22 +335,6 @@
       "duration_ms": 261105,
       "name": "Third Time's the Charm",
       "url": "https://open.spotify.com/track/6tisjXGvkpnLQua7CO1R6E"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "On a Clear Day",
-        "url": "https://open.spotify.com/album/2xs9zIvepSaIbTRSYDF4AQ"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 255829,
-      "name": "On a Clear Day",
-      "url": "https://open.spotify.com/track/3jCd4mKJou4SLrhuPJe0gX"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -779,22 +799,6 @@
       "duration_ms": 164869,
       "name": "The Best Mistake",
       "url": "https://open.spotify.com/track/57dFZtD0yXsonQEndrFqf5"
-    },
-    {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
-        "name": "Sessions",
-        "url": "https://open.spotify.com/album/31fBo6fB2UXSmSCwdh45Ls"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "It Was A Very Good Year",
-      "url": "https://open.spotify.com/track/37vFLEQMtzQCnZC3Uy0Qtd"
     },
     {
       "added_at": "2023-04-28 04:01:00",

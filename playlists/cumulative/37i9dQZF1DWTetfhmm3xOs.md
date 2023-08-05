@@ -4,7 +4,7 @@
 
 > Meditate to the sound of soothing voices and flutes.
 
-115 songs - 5 hr 55 min
+116 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Light Ascending](https://open.spotify.com/track/3J8zS0bx3RBPlPYJ44F6aH) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Shards](https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU) | [FLOW](https://open.spotify.com/album/6Qyo5vztyRzMvYCHap6Yyb) | 2:47 | 2022-10-04 | 2022-11-13 |
 | [Light Ascending](https://open.spotify.com/track/483t4Dw6FPoKXyhMnDNkRY) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Shards](https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU) | [Light Ascending](https://open.spotify.com/album/3VnaphUrqIjgbzkHU29fB7) | 2:47 | 2022-05-25 | 2022-07-29 |
 | [Light Ascending](https://open.spotify.com/track/5PAkAiq4kOuMYITzYCkEV4) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Shards](https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU) | [The Sand That Ate The Sea](https://open.spotify.com/album/5gB7mLZc3DkMOahSlHfpKZ) | 2:47 | 2022-07-22 | 2023-07-01 |
+| [Light Of Purpose](https://open.spotify.com/track/3ZKiF3zKAwMC0Ftjxd7tpT) | [Strangewoods](https://open.spotify.com/artist/0KwJGZ4wFqLaQ5fGoC19cH) | [Light Of Purpose](https://open.spotify.com/album/7fPup8POfEeT6xK3nnamVH) | 2:43 | 2023-08-04 |  |
 | [Little Swallow](https://open.spotify.com/track/1I0k8K0RQSZZKWGVXw2uDD) | [Mollis](https://open.spotify.com/artist/1QT9mxEShl9BmYBUhnr1DG) | [Little Swallow](https://open.spotify.com/album/4JNFQHbtSsuqD9UtiNiGnN) | 3:34 | 2022-05-25 |  |
 | [Love Is My Cure](https://open.spotify.com/track/4kqekA8aWuYbvbn2WGecPW) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY), [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Love Is My Cure](https://open.spotify.com/album/3CQJtBcKv6o2yz7UrYLoV8) | 5:08 | 2022-05-25 | 2022-12-10 |
 | [Loving\-Kindness](https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB) | [Vimassana](https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv) | [Loving\-Kindness](https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD) | 2:50 | 2022-05-25 |  |

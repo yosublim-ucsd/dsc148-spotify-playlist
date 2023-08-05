@@ -2,9 +2,9 @@
 
 ### [feedBack](https://open.spotify.com/playlist/37i9dQZF1DXbmErmrio5En)
 
-> \-8 LUFS if you can\. Ft\. mykel online
+> Ft\. re6ce
 
-243 songs - 10 hr 41 min
+246 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [airplane](https://open.spotify.com/track/0ZSrtjk2DQH6xWura7F01v) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [airplane](https://open.spotify.com/album/1DeRZ8RuEzvo7pfTzf5mYm) | 3:15 | 2023-01-27 | 2023-02-18 |
 | [Alive](https://open.spotify.com/track/27XTTUlL99G8lcfuaetPij) | [CHRIS YONGE](https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT), [bloom](https://open.spotify.com/artist/3cXtMPyjj49G5dfZiO7W7Q) | [Alive](https://open.spotify.com/album/2udKLu1JEzjTssCifkxxRJ) | 2:21 | 2022-12-16 | 2023-02-18 |
 | [alone](https://open.spotify.com/track/7B0UsAj5qR6NeYQq3y74rF) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [alone](https://open.spotify.com/album/0C1DeypOQyvRbU7Eg7917n) | 3:13 | 2022-12-04 |  |
+| [angels](https://open.spotify.com/track/6wCLVKb22rGMBG7QOobpVX) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [angels](https://open.spotify.com/album/2ahAvViHDFbt74G69KLHlr) | 2:49 | 2023-08-04 |  |
 | [another night on the edge](https://open.spotify.com/track/4BE1RiDAUPdO7cknzaVHQf) | [fats'e](https://open.spotify.com/artist/6XFt0iOyYmGY19gn8upF5t) | [im sorry i never texted u back](https://open.spotify.com/album/0Uv6EaqO8PWeJxMoAwc7Nv) | 1:45 | 2023-03-20 | 2023-06-24 |
 | [anything u want](https://open.spotify.com/track/3PvsmNvUhhIaAeMK2PFe6p) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [anything u want](https://open.spotify.com/album/7nPPo0dyXrRFscTHV4k0yY) | 2:26 | 2023-05-05 |  |
 | [anything u want](https://open.spotify.com/track/4iV9i4oVWpJdwnI86VPh5o) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [anything u want](https://open.spotify.com/album/73CV9zUvuDoKWkBCnBFzIV) | 2:26 | 2023-05-05 | 2023-07-14 |
@@ -26,7 +27,7 @@
 | [Bargain \(with ThxSoMch\)](https://open.spotify.com/track/6ZuapdXPe54vleFxBSQMqL) | [thekid.ACE](https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [One Step Of The Way](https://open.spotify.com/album/5wrUP92c9qZFYQYi7UPTGm) | 2:57 | 2023-06-16 |  |
 | [battle](https://open.spotify.com/track/5nXCKJngc7V11pMXSyUkfK) | [kaido](https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX) | [battle](https://open.spotify.com/album/5ggDewxZAS4HZNwdb4MBsx) | 1:17 | 2023-03-07 |  |
 | [before i go](https://open.spotify.com/track/7oRWfs4HVAglIlSK7ytUuf) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [psychosis](https://open.spotify.com/album/42gnvKERgMw72qxGnEIEhN) | 2:15 | 2022-12-16 | 2023-06-24 |
-| [BENDER](https://open.spotify.com/track/3LEE81zDZ24QCjI5ZnvSfI) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [BENDER](https://open.spotify.com/album/3HasSpfec6qc3xQB5ujNC8) | 2:57 | 2023-06-16 |  |
+| [BENDER](https://open.spotify.com/track/3LEE81zDZ24QCjI5ZnvSfI) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [BENDER](https://open.spotify.com/album/3HasSpfec6qc3xQB5ujNC8) | 2:57 | 2023-06-16 | 2023-08-05 |
 | [bestfriends girl](https://open.spotify.com/track/5z20DkZvTsPejzPFHs3aI0) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [bestfriends girl](https://open.spotify.com/album/2ypBYf95W9pRjbMuOFJJBE) | 2:31 | 2023-06-16 | 2023-07-29 |
 | [better off dead](https://open.spotify.com/track/5rFK78i7giot3tu9nq7mZN) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX) | [better off dead](https://open.spotify.com/album/00N0Z98MyHDseMugQdNYKd) | 2:42 | 2023-03-10 | 2023-06-24 |
 | [Birds Fly](https://open.spotify.com/track/5D0F0NUf3nhgAZPiVIdwRq) | [Deep October](https://open.spotify.com/artist/0nYshUSXrbGoxvSDo03JMc) | [Birds Fly](https://open.spotify.com/album/4N0VLGbDm2Bmmxm19qlg88) | 3:01 | 2023-06-23 |  |
@@ -46,7 +47,7 @@
 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 | 2023-01-13 | 2023-04-15 |
 | [catherine never broke again](https://open.spotify.com/track/2RP8p6uDqJCMvpXxfo3L7s) | [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf) | [catherine never broke again](https://open.spotify.com/album/0SS7QRTl0W0CBbUCPkmmaM) | 1:54 | 2023-02-24 |  |
 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 | 2022-12-04 |  |
-| [chronically online bitch](https://open.spotify.com/track/4p25lyI6HiIdLrjaBVdJoU) | [Stevyn](https://open.spotify.com/artist/72xvR0gA7IoOaPP5pX5nGQ), [CThruRio](https://open.spotify.com/artist/0zQSlXfHpiKFcQNf9izlvA) | [chronically online bitch](https://open.spotify.com/album/1BjkuSizpVWZuZqNtYcbFM) | 2:09 | 2023-06-23 |  |
+| [chronically online bitch](https://open.spotify.com/track/4p25lyI6HiIdLrjaBVdJoU) | [Stevyn](https://open.spotify.com/artist/72xvR0gA7IoOaPP5pX5nGQ), [CThruRio](https://open.spotify.com/artist/0zQSlXfHpiKFcQNf9izlvA) | [chronically online bitch](https://open.spotify.com/album/1BjkuSizpVWZuZqNtYcbFM) | 2:09 | 2023-06-23 | 2023-08-05 |
 | [CONSUMED](https://open.spotify.com/track/4cbchAUt8tHwEwd1dyL6T6) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [CONSUMED](https://open.spotify.com/album/0RfdjQvgnPvOJNYc74ukAX) | 2:44 | 2023-06-23 |  |
 | [Cops and robbers](https://open.spotify.com/track/7s4EFCLbEw5HUm2lKjnOTW) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Cops and robbers](https://open.spotify.com/album/6yXnKNNgTQ732nJwM5WAXo) | 4:25 | 2023-05-05 | 2023-08-02 |
 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/2NFag2zEx2GC5ySs0d3IaS) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/5VQi7iQ03yrVsFV3z5DCiq) | 2:39 | 2023-01-20 | 2023-03-03 |
@@ -122,7 +123,7 @@
 | [It's Goin Bad](https://open.spotify.com/track/1weAJG8eNS4Bbk0vYn7vV4) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [It's Goin Bad / Lacerate](https://open.spotify.com/album/5kxj9JXn7XW5b4B82e5MUw) | 2:50 | 2023-03-31 | 2023-06-24 |
 | [J3TL4G](https://open.spotify.com/track/6ViKN734SFqotcu7XmZFny) | [M0P H3AD](https://open.spotify.com/artist/0zA5IIOAwQZ3hlGMyJLbKD), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [J3TL4G](https://open.spotify.com/album/1N1pLTAoZZllU9T5f1tRX2) | 2:26 | 2023-06-16 | 2023-06-24 |
 | [jealousy](https://open.spotify.com/track/1moK2L5Y2bftYzpGrcOU5X) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [jealousy](https://open.spotify.com/album/4RUrlqnlDk7HAQlruVR7SO) | 2:48 | 2022-12-09 | 2023-03-04 |
-| [JUNKLOVER](https://open.spotify.com/track/5j4Q63V3VQQ9DtwJu1U0GP) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Sick Sad Obsession](https://open.spotify.com/album/2i5cPdBPvsRMfml8bhKqZb) | 2:11 | 2023-06-23 |  |
+| [JUNKLOVER](https://open.spotify.com/track/5j4Q63V3VQQ9DtwJu1U0GP) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Sick Sad Obsession](https://open.spotify.com/album/2i5cPdBPvsRMfml8bhKqZb) | 2:11 | 2023-06-23 | 2023-08-05 |
 | [just like before \- sped up](https://open.spotify.com/track/3w8rxEsj85AOAjt4TUUXmW) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [just like before \- sped up / slowed](https://open.spotify.com/album/1bs3OVHVL7WsEB6fS8uoWv) | 3:35 | 2023-01-27 | 2023-04-15 |
 | [Keep It Tucked](https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Keep It Tucked](https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY) | 2:53 | 2022-12-09 | 2023-01-14 |
 | [Keys To My Brain](https://open.spotify.com/track/1FGijIBuOBCtzTzNYYodzS) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [Keys To My Brain](https://open.spotify.com/album/7yYnDnRO98K7g4bcwyd91g) | 1:45 | 2023-06-16 | 2023-06-24 |
@@ -205,6 +206,7 @@
 | [Started With](https://open.spotify.com/track/0HItsiWHdkju9IHa1wUAIv) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [Started With](https://open.spotify.com/album/0mvV5B0MFOk3UKWcSuVOte) | 2:05 | 2023-06-23 |  |
 | [stay close](https://open.spotify.com/track/2jajPzkjTecTxrcSBnb4J4) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [stay close](https://open.spotify.com/album/05CV2db056PerekmifWzfA) | 2:46 | 2023-01-27 | 2023-03-02 |
 | [stranded \(feat\. angelus\)](https://open.spotify.com/track/4ybA4RmMlEjU83umFZnTVj) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h), [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [stranded \(feat\. angelus\)](https://open.spotify.com/album/4yAZzAMHd6AnEJtN0gglFm) | 1:55 | 2023-02-10 | 2023-06-24 |
+| [stuck.](https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [stuck.](https://open.spotify.com/album/7dBT7hYdoqjKmge72tftyR) | 2:14 | 2023-08-04 |  |
 | [sub 32](https://open.spotify.com/track/5bJyWVbQjvHlA4eptnaHeT) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [sub 32](https://open.spotify.com/album/1ayf7TVmz3NSRUD1q36mMJ) | 1:48 | 2023-06-23 |  |
 | [Sunset](https://open.spotify.com/track/2gT5BDAkyam9VuQa4Y4BvD) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX), [Jah PHNX](https://open.spotify.com/artist/4FAtkJD7fCoiw7nECuemAG) | [Sunset](https://open.spotify.com/album/0pIGDIi7PHFhcYp8mLgByo) | 2:34 | 2023-06-09 | 2023-06-17 |
 | [Sweet One](https://open.spotify.com/track/07yN3cbIaYw9LOli6iFEuL) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Perpetual States of Boredom](https://open.spotify.com/album/6oRFl2fJkYPBAMyRw6Q3GY) | 2:13 | 2022-12-04 | 2022-12-07 |
@@ -238,6 +240,7 @@
 | [whats it mean to be a king](https://open.spotify.com/track/21iJxrE5WYXpqkr6bJM05c) | [Kenny Orlando](https://open.spotify.com/artist/2EaS3fIceT87x7nqjODgvq), [Okayracer](https://open.spotify.com/artist/4j8joGNndygibHb37LVwRo) | [whats it mean to be a king](https://open.spotify.com/album/0ZU45BAWwk63gm3EXtU5Vf) | 2:20 | 2023-06-16 | 2023-06-24 |
 | [Where I Met U](https://open.spotify.com/track/2LQfCcWNrClF8BMujEK4de) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [House](https://open.spotify.com/album/5fSePu9nCtehVU2U2IBb2q) | 2:02 | 2023-06-23 |  |
 | [Where I Met U](https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [House](https://open.spotify.com/album/1XQrxEQ2qTHQBHxOvTfHOw) | 2:02 | 2023-06-23 | 2023-07-12 |
+| [whiplash](https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [whiplash / cliche](https://open.spotify.com/album/6xE5ALjPamqaG7iPIx4dGX) | 2:47 | 2023-08-04 |  |
 | [white noise! \(feat\. cybertrash\)](https://open.spotify.com/track/4RZRRDbFDgxkf5hV2xizyr) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [white noise! \(feat\. cybertrash\)](https://open.spotify.com/album/4gIJoCUfHRHnKeAY8uiCTt) | 2:07 | 2023-01-20 | 2023-03-02 |
 | [white tiger](https://open.spotify.com/track/6i94abfEAkbOluMpdcbS7w) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [White Tiger](https://open.spotify.com/album/2ij1JaqxLVOKTOsSUZKMji) | 1:54 | 2023-06-23 |  |
 | [WISH I NEVER KNEW YOU](https://open.spotify.com/track/2PGdJ3bE9j8TwwGkge8To2) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WISH I NEVER KNEW YOU](https://open.spotify.com/album/39VudHdhAGwLJ51ZYOzKHp) | 2:59 | 2023-03-17 |  |

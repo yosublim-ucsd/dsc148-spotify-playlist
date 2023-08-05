@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-351 songs - 21 hr 16 min
+352 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [How to Start A Garden](https://open.spotify.com/track/6pyWPwXCQqB4FcRrcefzmU) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [How To Start A Garden](https://open.spotify.com/album/5Cq8LjM4wG9tQdo8ynIC5g) | 5:02 | 2023-05-04 | 2023-07-07 |
 | [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-06 | 2023-04-21 |
 | [I Built A Friend \(2020\)](https://open.spotify.com/track/68XhCrBajUR64h6wv4eYYW) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Built A Friend \(2020\)](https://open.spotify.com/album/31s5CRYvua6xU9c2n7H8PJ) | 2:56 | 2022-12-06 | 2023-02-10 |
-| [I Don't Want to Go That Way](https://open.spotify.com/track/6iEeLs6QqMVFMjG1eg1W6d) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [I Don't Want to Go That Way](https://open.spotify.com/album/5FWtDMA4uVbsh00QTdLeJ0) | 5:24 | 2023-08-03 |  |
+| [I Don't Want to Go That Way](https://open.spotify.com/track/0tpvtMPtvWDgLDVXY3JDKR) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [I Don't Want to Go That Way](https://open.spotify.com/album/2FMlVRoAFvcKhFneYl4taT) | 5:24 | 2023-08-03 |  |
+| [I Don't Want to Go That Way](https://open.spotify.com/track/6iEeLs6QqMVFMjG1eg1W6d) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [I Don't Want to Go That Way](https://open.spotify.com/album/5FWtDMA4uVbsh00QTdLeJ0) | 5:24 | 2023-08-03 | 2023-08-05 |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2022-10-20 |  |
 | [I Like Me Better](https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:17 | 2022-12-15 |  |
 | [I Love You More.](https://open.spotify.com/track/5Id0x8wRZVso2GLqzofDAB) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nisenhyakunen](https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n) | 2:00 | 2023-01-03 | 2023-02-15 |

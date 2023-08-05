@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Jenny Lewis
 
-414 songs - 1 day 1 hr 29 min
+416 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Blindsided](https://open.spotify.com/track/7j6rS4xEI6tVqVnkzuP4Hn) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/0TubWPHVUNb0sSzMxpFkyW) | 3:42 | 2021-11-12 | 2022-07-28 |
 | [Blue](https://open.spotify.com/track/1MrElax7day41jzoztYk2k) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3iIrKF9cVzG0sctCOOgP3U) | 2:36 | 2021-11-12 | 2022-07-28 |
 | [Blue](https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3) | 2:36 | 2022-07-11 |  |
-| [Blue Over Blue](https://open.spotify.com/track/3GHxQ1rlb8nvZEYRrB7eB2) | [The Clientele](https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0) | [Blue Over Blue](https://open.spotify.com/album/4MdmtxBC2ByJnRWWsYXzw7) | 3:16 | 2023-04-28 |  |
+| [Blue Over Blue](https://open.spotify.com/track/3GHxQ1rlb8nvZEYRrB7eB2) | [The Clientele](https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0) | [Blue Over Blue](https://open.spotify.com/album/4MdmtxBC2ByJnRWWsYXzw7) | 3:16 | 2023-04-28 | 2023-08-05 |
 | [Bodies](https://open.spotify.com/track/5pJdonxbRs57P0u97HsDE5) | [Tunng](https://open.spotify.com/artist/6k8oBFzievbIn6XJK0pDpa) | [This Is Tunng...Magpie Bites and Other Cuts](https://open.spotify.com/album/3jFj7aN2yVSNxZrpMzWfb2) | 4:27 | 2021-11-12 | 2022-07-25 |
 | [Bottle It Up](https://open.spotify.com/track/6Kevag30eZxaL3MBo6dIdL) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Bottle It Up](https://open.spotify.com/album/6KyRKYNzETURqiupPRygbg) | 3:05 | 2022-07-11 |  |
 | [Bottle It Up \(feat\. Greta Stanley\)](https://open.spotify.com/track/3IcHXc3pAio3wozwIlB5Gv) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Bottle It Up \(feat\. Greta Stanley\)](https://open.spotify.com/album/6EMVG0qdIGTTp31HLtHcX9) | 3:05 | 2021-11-12 | 2022-07-28 |
@@ -72,6 +72,7 @@
 | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/track/6FHmHZgliJRNz6L16y60V1) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/5vIo3myTJ8fmttU2wARlYB) | 3:49 | 2021-11-12 | 2022-03-09 |
 | [Can't See Stars \(feat\. Kevin Morby\)](https://open.spotify.com/track/4vDEQxivxtfbgmEHtsJ29H) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Lighten Up](https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI) | 3:36 | 2022-02-11 | 2022-11-13 |
 | [Can't Stop The Rain](https://open.spotify.com/track/0VIR6RuxQMvGICgS3GgLnM) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Can't Stop The Rain](https://open.spotify.com/album/1iCgCacKIkBclHhWdAiLh1) | 4:06 | 2021-11-12 | 2022-07-29 |
+| [Can't Stop The Rain](https://open.spotify.com/track/4nWdyAe1MXWH80xnaKfx3E) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [In Plain Sight](https://open.spotify.com/album/4f4GSFPKKTlpP3XhjEXV28) | 4:06 | 2023-08-04 |  |
 | [Canyonheart](https://open.spotify.com/track/3uqfzjOGrxagYcsQeWLgSx) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/4VJOOjvvZrL8QM21Bpz02d) | 3:52 | 2021-11-12 | 2022-07-21 |
 | [Can’t Do Much](https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:44 | 2022-07-11 |  |
 | [Can’t Do Much](https://open.spotify.com/track/46nIiL5q7LNeUtbnOwiOH2) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/04HMMwLmjkftjWy7xc6Bho) | 3:44 | 2021-11-12 | 2022-07-29 |
@@ -293,7 +294,7 @@
 | [Pretty Lies](https://open.spotify.com/track/6OxXnJvmvsnnlIMsel7VX9) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [Whats Wrong With Changing?](https://open.spotify.com/album/4aarU69hg9e2mWscZCArUB) | 5:12 | 2022-04-01 | 2022-04-21 |
 | [Promises](https://open.spotify.com/track/7z2MAtdSKCY0bAVy2ItYP0) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/27yHVnSUoOngzMAwwPA0ks) | 3:59 | 2022-05-25 | 2022-07-19 |
 | [Provider](https://open.spotify.com/track/0QHydHDcswklkcHffb1NG7) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [View from the Bridge](https://open.spotify.com/album/5lIkEQvBkgqRcsDpsmepIC) | 3:05 | 2022-01-21 | 2022-04-16 |
-| [Psycho](https://open.spotify.com/track/0ACxNWb6ZrSdod5OKqlPTx) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Psycho](https://open.spotify.com/album/2LS8scIEjFEGDJ1OeyXb4P) | 4:29 | 2023-07-28 |  |
+| [Psycho](https://open.spotify.com/track/0ACxNWb6ZrSdod5OKqlPTx) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Psycho](https://open.spotify.com/album/2LS8scIEjFEGDJ1OeyXb4P) | 4:29 | 2023-07-28 | 2023-08-05 |
 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 | 2023-03-31 |  |
 | [Puppy and a Truck](https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:11 | 2023-06-09 |  |
 | [Puppy and a Truck](https://open.spotify.com/track/6nrfecLjwsQngv4LbOMrRe) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Puppy and a Truck](https://open.spotify.com/album/2udBN6XsNrbgLOFzrqEBVt) | 3:11 | 2023-04-21 | 2023-06-12 |
@@ -360,6 +361,7 @@
 | [Sunday Drive](https://open.spotify.com/track/7aRTaxQpag64SWksC1bTyl) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [On The Edge](https://open.spotify.com/album/4UFxr8dkCMT6cEnh92E268) | 3:42 | 2021-11-12 | 2022-07-15 |
 | [Sunny Room](https://open.spotify.com/track/0TFenVsi49MtEo1vQRwbnM) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Sunny Room](https://open.spotify.com/album/4mYmpnhEhagXhTrhUiZmau) | 4:31 | 2022-04-01 | 2022-07-25 |
 | [Swimming Backwards](https://open.spotify.com/track/6gdXKvWTGKYDOsC1Rj3Q3d) | [There](https://open.spotify.com/artist/1acar6LWnyqmDdmHabW68Y) | [Swimming Backwards](https://open.spotify.com/album/6eiGLXIkQHtUO7EdFFAywc) | 3:42 | 2021-11-12 | 2022-07-26 |
+| [Symphony Of A Man](https://open.spotify.com/track/1XHDvhHlJ59kCx9BwIAS03) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Symphony Of A Man](https://open.spotify.com/album/6aqIl1lKIV3fPi948ebSKm) | 3:08 | 2023-08-04 |  |
 | [Teeth Marks](https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Teeth Marks](https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE) | 3:37 | 2022-05-25 | 2022-07-28 |
 | [Tender Organs](https://open.spotify.com/track/6cst4w2QTOrH5e6FAsLLjI) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 4:45 | 2021-11-12 | 2022-07-27 |
 | [That Spell](https://open.spotify.com/track/7Ir9KIlb69H98nwh7NO6Ea) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/3HNd7Q0saYVsXWlaScI7Ar) | 3:23 | 2021-11-12 | 2022-07-27 |

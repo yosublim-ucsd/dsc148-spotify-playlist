@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,219 songs - 2 day 15 hr 16 min
+1,220 songs - 2 day 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,7 +774,7 @@
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-11-28 | 2022-12-29 |
 | [Mitt Hjerte I Dine Hender](https://open.spotify.com/track/0CyJ4fAYJ6OQ9Jc2JJOd8H) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Enten Går Det Bra...](https://open.spotify.com/album/3hWNz4z3mOcjj3JMbNFNRx) | 2:30 | 2022-02-26 | 2022-02-28 |
 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-19 | 2023-03-05 |
-| [MODERN JAM \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:15 | 2023-07-29 |  |
+| [MODERN JAM \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:15 | 2023-07-29 | 2023-08-05 |
 | [Mon Amie](https://open.spotify.com/track/4x71au2JCvZrKdYfcB9W5k) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 2:55 | 2023-04-14 | 2023-04-23 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-10-13 | 2021-11-14 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 | 2021-09-19 | 2021-10-23 |
@@ -982,6 +982,7 @@
 | [SEVILLA](https://open.spotify.com/track/1YRrnU7iBSHsdyG5AVIC2Y) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [SEVILLA](https://open.spotify.com/album/24EnvnJxCORX2zeI9s72NJ) | 2:55 | 2022-09-14 | 2022-10-02 |
 | [Shakira](https://open.spotify.com/track/6kGas3qqqBNAoDdgwvuuxT) | [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf) | [Shakira](https://open.spotify.com/album/5GOs9VMAYF6Ot8GUwCjTNb) | 1:58 | 2023-05-06 | 2023-05-08 |
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:37 | 2023-01-17 | 2023-02-05 |
+| [She Knows \- with Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(with Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 | 2023-08-04 |  |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-05 | 2022-04-03 |
 | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9) | 3:09 | 2021-05-30 | 2021-05-31 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-29 | 2022-11-06 |

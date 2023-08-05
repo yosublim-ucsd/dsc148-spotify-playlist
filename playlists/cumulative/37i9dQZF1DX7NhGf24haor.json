@@ -1107,6 +1107,28 @@
     },
     {
       "album": {
+        "name": "Burn The Place Up",
+        "url": "https://open.spotify.com/album/2cAAQ0ANoKN9V3Ze3vKQjN"
+      },
+      "artists": [
+        {
+          "name": "Firelite",
+          "url": "https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2"
+        },
+        {
+          "name": "Redhot",
+          "url": "https://open.spotify.com/artist/3YnnRFY9QQ9F91WEnvTILG"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187124,
+      "name": "Burn The Place Up",
+      "url": "https://open.spotify.com/track/3JFlEtsbsAb74sz7rkB4kW"
+    },
+    {
+      "album": {
         "name": "Burning Love",
         "url": "https://open.spotify.com/album/4QtKtnuiJlNiChWgdam1gP"
       },
@@ -2835,6 +2857,28 @@
     },
     {
       "album": {
+        "name": "For Those About To Rave (with Timmy Trumpet) [LUNAX Remix]",
+        "url": "https://open.spotify.com/album/42Y3VeNJJzGKJntyXM9MuC"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        },
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141200,
+      "name": "For Those About To Rave (with Timmy Trumpet) - LUNAX Remix",
+      "url": "https://open.spotify.com/track/7pPLHY0hjwyNhY6z1bgddW"
+    },
+    {
+      "album": {
         "name": "Force Of Will",
         "url": "https://open.spotify.com/album/6SuMWuLyuBbZmgArJRtcP6"
       },
@@ -4236,7 +4280,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 148000,
       "name": "In My Head - Averro Remix",
       "url": "https://open.spotify.com/track/4OtszrE7547SNwlec7MVzZ"
@@ -7237,6 +7281,32 @@
     },
     {
       "album": {
+        "name": "Reignite (feat. Malukah) [D-Block & S-te-Fan Remix]",
+        "url": "https://open.spotify.com/album/4qOo1Keoi3XPSBzpVOUSSX"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        },
+        {
+          "name": "Malukah",
+          "url": "https://open.spotify.com/artist/6qFEVczpjXakMuKcI5BBdc"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290196,
+      "name": "Reignite - D-Block & S-te-Fan Remix",
+      "url": "https://open.spotify.com/track/3rgRcuAQJFH1kwzMXWkUUA"
+    },
+    {
+      "album": {
         "name": "Reignite The Fire (Indicator 2022 Anthem) [feat. Elyn]",
         "url": "https://open.spotify.com/album/1f5aleM4A31YXpGzGXUCD4"
       },
@@ -8589,6 +8659,32 @@
     },
     {
       "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/3iThcgDJsW0Gi8BFs49YLu"
+      },
+      "artists": [
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "Empyre One",
+          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
+        },
+        {
+          "name": "Paul Keen",
+          "url": "https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153679,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/33B7euqXibTwnJXdRr4bS4"
+    },
+    {
+      "album": {
         "name": "Superman",
         "url": "https://open.spotify.com/album/2dIE8N6Atr7U7YPPg1qWP4"
       },
@@ -8840,7 +8936,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 220257,
       "name": "The Frequency That Defines Us",
       "url": "https://open.spotify.com/track/7IiwUWv8CAIplXbUJ2JPAD"
@@ -9462,7 +9558,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 246175,
       "name": "Titan",
       "url": "https://open.spotify.com/track/17j1N1J7blwiShIwzwlh0n"
@@ -10062,7 +10158,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 269949,
       "name": "Wariors",
       "url": "https://open.spotify.com/track/1dzsgBuDGW5N91jaEF5clU"

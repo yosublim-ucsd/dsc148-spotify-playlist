@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Masta Quba, Delfina Dib y Astrid Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,482 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,511 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 99 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 |
 | 100 | [Mujer De Fuego](https://open.spotify.com/track/0Nb4vPSBX9mpoQg41wK6al) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Mujer De Fuego](https://open.spotify.com/album/5NvV2UDzWL0STSOsmljLSz) | 3:17 |
 
-Snapshot ID: `MCw5OWJlYTg1ODgyZTM1MjY5MjA0NjgxZmUxNzBlZTMwMTRmNjc0YzQ3`
+Snapshot ID: `MCxhNmNjYTVhNWIwYmUxMWI1ZWU4ODFlNTMxY2U2YmRiMGU1YmVmMGU2`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Estas son las indomables de la M\u00fasica Mexicana. Janeth Valenzuela en portada.",
+  "description": "Estas son las indomables de la M\u00fasica Mexicana. Ana B\u00e1rbara en portada.",
   "name": "Mujeres Brav\u00edas",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 164626,
       "name": "Ahora Va La M\u00eda",
       "url": "https://open.spotify.com/track/0CEublugofmBX9a2RKoxjq"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 205840,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 191840,
       "name": "Asi Son los Hombres",
       "url": "https://open.spotify.com/track/3ZTldOU6uczC22Rx1eXIbG"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 178813,
       "name": "Besos Y Copas",
       "url": "https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Contigo Aprend\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 252306,
       "name": "Coraz\u00f3n de Ave",
       "url": "https://open.spotify.com/track/4MSHxsXUGG8j9Ejq72ahcm"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 278800,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/2rPmMvb83a5GaLFGcMFoBw"
@@ -1252,6 +1252,24 @@
       "duration_ms": 173861,
       "name": "Despu\u00e9s de Unas Horas",
       "url": "https://open.spotify.com/track/3lY5qWx1aQYavwEYV68i4E"
+    },
+    {
+      "album": {
+        "name": "Directito A Mi Herida (En Vivo)",
+        "url": "https://open.spotify.com/album/0n6N4SDyj0WsINr9V05TLT"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175521,
+      "name": "Directito A Mi Herida - En Vivo",
+      "url": "https://open.spotify.com/track/0tNPaiYXFUoobqPWHucQ3E"
     },
     {
       "album": {
@@ -1696,6 +1714,24 @@
       "duration_ms": 227040,
       "name": "Gaviota Traidora",
       "url": "https://open.spotify.com/track/5qSvi8PGmczWG2sxWwNI2I"
+    },
+    {
+      "album": {
+        "name": "Gente Gacha",
+        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175285,
+      "name": "Gente Gacha",
+      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
     },
     {
       "album": {
@@ -2214,7 +2250,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-31",
+      "date_removed": null,
       "duration_ms": 152768,
       "name": "Le Cale A Quien Le Cale",
       "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
@@ -2286,7 +2322,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 220427,
       "name": "Lo Mal Que Me Trataste",
       "url": "https://open.spotify.com/track/0Tfr04oA2EPOTovHiM5lqK"
@@ -2456,7 +2492,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 238026,
       "name": "Mariposa de Barrio",
       "url": "https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4"
@@ -2683,6 +2719,24 @@
     },
     {
       "album": {
+        "name": "Mi Culpa",
+        "url": "https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268733,
+      "name": "Mi Culpa",
+      "url": "https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW"
+    },
+    {
+      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -2698,7 +2752,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 203173,
       "name": "Mi Ego",
       "url": "https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB"
@@ -2868,6 +2922,24 @@
       "duration_ms": 224506,
       "name": "Mor\u00ed",
       "url": "https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E"
+    },
+    {
+      "album": {
+        "name": "Mucha Mujer",
+        "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
+      },
+      "artists": [
+        {
+          "name": "Herly RG",
+          "url": "https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156067,
+      "name": "Mucha Mujer",
+      "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
     },
     {
       "album": {
@@ -3120,7 +3192,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 135806,
       "name": "No Me Lamentare",
       "url": "https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM"
@@ -3228,10 +3300,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 193066,
       "name": "No Te Dejes Enga\u00f1ar",
       "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
+    },
+    {
+      "album": {
+        "name": "No Te Fui Suficiente",
+        "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278666,
+      "name": "No Te Fui Suficiente",
+      "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
     },
     {
       "album": {
@@ -3322,7 +3412,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 165919,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/6JYE09qjRvxvGZBxPNOTw1"
@@ -3376,7 +3466,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 172013,
       "name": "Ovarios",
       "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"
@@ -3544,7 +3634,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 210040,
       "name": "Pedacito de M\u00ed",
       "url": "https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ"
@@ -3638,7 +3728,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 226973,
       "name": "Piensa en M\u00ed",
       "url": "https://open.spotify.com/track/79KPSHPdl3HEsYqO8LCLvo"
@@ -3858,7 +3948,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 158146,
       "name": "Porque Soy Abeja Reina",
       "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
@@ -3934,6 +4024,24 @@
       "duration_ms": 156329,
       "name": "Que Facilito",
       "url": "https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC"
+    },
+    {
+      "album": {
+        "name": "Que Le Vamos A Hacer",
+        "url": "https://open.spotify.com/album/70Ma9THR2zNcpYW7pLyaLa"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203251,
+      "name": "Que Le Vamos A Hacer",
+      "url": "https://open.spotify.com/track/7lgZKUOlZ0OkKgxQK8SAEJ"
     },
     {
       "album": {
@@ -4122,7 +4230,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 188206,
       "name": "Qu\u00e9 Agon\u00eda - Remix",
       "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
@@ -4140,7 +4248,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 185680,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi"
@@ -4494,7 +4602,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 186475,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x"
@@ -4520,6 +4628,24 @@
       "duration_ms": 166333,
       "name": "Sexo D\u00e9bil (TNMDQH)",
       "url": "https://open.spotify.com/track/0qMENPFhmwopv8R8JaYQxr"
+    },
+    {
+      "album": {
+        "name": "Si Dej\u00f3 de Quererte",
+        "url": "https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200864,
+      "name": "Si Dej\u00f3 de Quererte",
+      "url": "https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU"
     },
     {
       "album": {
@@ -4660,7 +4786,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 223813,
       "name": "Sin Valor - En Vivo",
       "url": "https://open.spotify.com/track/3rbvj7ze4RtxgasRobBk9X"
@@ -4848,7 +4974,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 187693,
       "name": "Te Aprovechas",
       "url": "https://open.spotify.com/track/4IBhHhbBSGRGrP6wXzRK2v"
@@ -4942,7 +5068,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 153946,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm"
@@ -5021,6 +5147,24 @@
     },
     {
       "album": {
+        "name": "Tengo Ganas",
+        "url": "https://open.spotify.com/album/3j8lPWgsLaxqylpLU0qsAF"
+      },
+      "artists": [
+        {
+          "name": "Jessica Ballesteros",
+          "url": "https://open.spotify.com/artist/1Rq2kGkkTmWsoPlrB8baSE"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168711,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/1E5eyzEex0ZjD4x8Z3ZSdD"
+    },
+    {
+      "album": {
         "name": "Todo Todo",
         "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
       },
@@ -5054,7 +5198,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-01",
+      "date_removed": null,
       "duration_ms": 231793,
       "name": "Tu Lo Decidiste",
       "url": "https://open.spotify.com/track/7hUTX7fvNLej0G7u2QMWni"
@@ -5072,7 +5216,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 181500,
       "name": "Tus Desprecios",
       "url": "https://open.spotify.com/track/1JPjkRwFPi7NJy8YEDBxlv"
@@ -5184,6 +5328,24 @@
       "duration_ms": 173148,
       "name": "Una Tarde De Abril",
       "url": "https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY"
+    },
+    {
+      "album": {
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
     },
     {
       "album": {
@@ -5364,7 +5526,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 211493,
       "name": "Y Sigues Siendo T\u00fa",
       "url": "https://open.spotify.com/track/0aoR2KYk8JJDDaKwSeP4Y8"
@@ -5476,7 +5638,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 220946,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
@@ -5498,6 +5660,24 @@
       "duration_ms": 101680,
       "name": "Ya Viv\u00ed El Desamor",
       "url": "https://open.spotify.com/track/5SZcsfj451HOgs3GYxOHgj"
+    },
+    {
+      "album": {
+        "name": "Yo No Creo En Los Hombres",
+        "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215893,
+      "name": "Yo No Creo En Los Hombres",
+      "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
     },
     {
       "album": {

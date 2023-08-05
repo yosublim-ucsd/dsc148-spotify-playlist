@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Focus with soft study music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,731,497 likes - 295 songs - 12 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,731,505 likes - 295 songs - 12 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -304,4 +304,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 294 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 |
 | 295 | [Perfectly Flawed](https://open.spotify.com/track/6AdGVOupLKxDJTByA1Fs1j) | [Aiden Riedel](https://open.spotify.com/artist/77j4VlHhrvqU37GkYjwmp1) | [Perfectly Flawed](https://open.spotify.com/album/0K5ub7KMLtzFk4zM2nFiAp) | 2:47 |
 
-Snapshot ID: `MCw2ODVkZWM4YmQ0NGJjZTFmOWM5NDQ2OWMyN2Q2NTFlYzMyOWRjMDNh`
+Snapshot ID: `MCw4OGM1Y2I4NjZkMzdlNjU4YjAyMDk0YjEyZWI4MGYwZThkMWYwMzJj`

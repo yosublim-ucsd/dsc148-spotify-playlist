@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > That summer in the city feeling, any day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,431 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,532 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 35 | [Love Endeavor \(Maurice Fulton Remix\) \- Mixed](https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw), [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD) | [Weekends and Beginnings](https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C) | 5:32 |
 | 36 | [Calling Out \(feat\. Dames Brown\) \- 12" Mix](https://open.spotify.com/track/6nfYXTZfmJMM56AfTV4mF4) | [Sophie Lloyd](https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF), [Dames Brown](https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B) | [Calling Out \(feat\. Dames Brown\) \[12" Mix\]](https://open.spotify.com/album/2ZAIcJo3D6FN7ACpDTh77x) | 7:57 |
 | 37 | [Disco Dancer](https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL) | 6:56 |
-| 38 | [Chantal](https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Mandar All Day 001](https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk) | 4:38 |
-| 39 | [Mars 500](https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56) | 6:52 |
+| 38 | [Mars 500](https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56) | 6:52 |
+| 39 | [Chantal](https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Mandar All Day 001](https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk) | 4:38 |
 | 40 | [Rap\-O Clap\-O \- 2013 \- Remaster](https://open.spotify.com/track/3zjPJnExupCwiukKM27m9q) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Anthology](https://open.spotify.com/album/0RHvIL5YrBdDp5RmSbAwZg) | 3:51 |
-| 41 | [Get a Life \(feat\. Bobby Womack\) \- Regrind 09](https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Raiding the Vaults](https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6) | 3:57 |
-| 42 | [Walking Away](https://open.spotify.com/track/5vhNn6ZfEXbFMw0qR6Grpn) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Walking Away](https://open.spotify.com/album/2WJYEyGr2q6xUt0jyDuJq1) | 3:01 |
-| 43 | [Morning Shift](https://open.spotify.com/track/3zleqNZf1vJabDXJKfAE9G) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Scented Trip](https://open.spotify.com/album/12Z1TMLUbMqeeivrEijzha) | 6:20 |
-| 44 | [Raw Cuts \#3](https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b) | [Danilo Plessow](https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Raw Cuts \#3](https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe) | 6:54 |
+| 41 | [Walking Away](https://open.spotify.com/track/5vhNn6ZfEXbFMw0qR6Grpn) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Walking Away](https://open.spotify.com/album/2WJYEyGr2q6xUt0jyDuJq1) | 3:01 |
+| 42 | [Get a Life \(feat\. Bobby Womack\) \- Regrind 09](https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Raiding the Vaults](https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6) | 3:57 |
+| 43 | [Raw Cuts \#3](https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b) | [Danilo Plessow](https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Raw Cuts \#3](https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe) | 6:54 |
+| 44 | [Morning Shift](https://open.spotify.com/track/3zleqNZf1vJabDXJKfAE9G) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Scented Trip](https://open.spotify.com/album/12Z1TMLUbMqeeivrEijzha) | 6:20 |
 | 45 | [Lady Bug \- Disco Mix](https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB) | [Bumblebee Unlimited](https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58) | [Sting Like A Bee](https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI) | 9:49 |
 | 46 | [Thank You](https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE) | 3:45 |
 | 47 | [Figure of Jazz](https://open.spotify.com/track/1B89dglefjYMvJkLOEwfD1) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Figure of Jazz](https://open.spotify.com/album/0HAJNbgqrpShglJNHfzYyw) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 49 | [Lurk](https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK) | 2:33 |
 | 50 | [Dancing in the Dusk \- Clap! Clap! Remix](https://open.spotify.com/track/086EQKkc1JSugaMbrpQYyq) | [Sunbörn](https://open.spotify.com/artist/7293VovtiQo4DOspfUDgXt), [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF) | [Dancing in the Dusk \(Clap! Clap! Remix\)](https://open.spotify.com/album/3Of6o8tJrzGCHNhmfLLDvc) | 7:11 |
 
-Snapshot ID: `MCxkNjFjZGI1NzQxNmE2NjRiNTY1MzhlYzhhNGFhMmZiYzljMjZkZDdk`
+Snapshot ID: `MCwzNmQ5MTM0Zjc5MThlM2EyMjIxNDlkOWMzOGRmMGYyZGFiNzRmNTQ1`

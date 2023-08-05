@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 
 > Are you trapped in some kind of haunted Hell? What is your favorite nightmare?
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,863 likes - 105 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,897 likes - 105 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 | 39 | [Scream](https://open.spotify.com/track/7FxshQAsTWmogWU959hz3T) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 3:24 |
 | 40 | [Tension](https://open.spotify.com/track/4YmjQsMNLq799qtK1QAWBm) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 3:11 |
 | 41 | [Red Sun](https://open.spotify.com/track/0WXmPCkeeLjpTddcBI98GV) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 3:05 |
-| 42 | [Black Or White](https://open.spotify.com/track/11wbEfF8uFBY6T2gNH7cI5) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:24 |
+| 42 | [Black Or White](https://open.spotify.com/track/5sZ8yVoQdKExlssx9uYEhO) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 3:24 |
 | 43 | [Jazz Bar](https://open.spotify.com/track/5XVjj6hJTWgYiDx72Wo5QS) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 3:34 |
 | 44 | [SAHARA](https://open.spotify.com/track/1EEj03tWxVgfV8t0NfVexY) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 3:10 |
 | 45 | [In The Frozen](https://open.spotify.com/track/4EDO3EhEnnSifcWC4EQkVe) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 3:16 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 | 104 | [Chase Me](https://open.spotify.com/track/2KH7ZhZs01rJOIVvuUNFbo) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 3:09 |
 | 105 | [Emotion](https://open.spotify.com/track/0dCdQvk03zbYUXpoEEFJCl) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 3:43 |
 
-Snapshot ID: `MCxiODgxZjkxYWM4NTQxNmZkZDRiZTMwMWE2MDA3ZDQ2ZGVjNzEyYTEz`
+Snapshot ID: `MCw4MzJiMzNmOWY2YzE2YzQwOTI4YzU3MmQ4Y2E0NzNkZTM3ZmFkOGQ2`

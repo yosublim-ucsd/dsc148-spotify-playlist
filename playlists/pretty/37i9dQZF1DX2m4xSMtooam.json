@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 161595,
+  "num_followers": 161836,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmJhNjI4NWFkNDc2MDkyMTllYTk3ODJmZTcwOGUyNWQ4YmQxOGNi",
+  "snapshot_id": "MCxlZjgxNDVkYzY2NmQzYTk2MzY1NjlmYjllNThjYTk3MGM5YzY4ODMy",
   "tracks": [
     {
       "added_at": "2023-08-03 22:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Travelin' Light",
-        "url": "https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 149640,
-      "name": "And I Love Him",
-      "url": "https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Chambre avec vue",
         "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 248306,
       "name": "All I Really Want Is Love",
       "url": "https://open.spotify.com/track/4EtULbS8K8zZ3apaEX36oI"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Travelin' Light",
+        "url": "https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 149640,
+      "name": "And I Love Him",
+      "url": "https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "P\u00e3o de A\u00e7\u00facar",
+        "url": "https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM"
+      },
+      "artists": [
+        {
+          "name": "El Equipo Del Norte",
+          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
+        }
+      ],
+      "duration_ms": 222402,
+      "name": "P\u00e3o de A\u00e7\u00facar",
+      "url": "https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -679,18 +695,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "P\u00e3o de A\u00e7\u00facar",
-        "url": "https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM"
+        "name": "Chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
       },
       "artists": [
         {
-          "name": "El Equipo Del Norte",
-          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
         }
       ],
-      "duration_ms": 222402,
-      "name": "P\u00e3o de A\u00e7\u00facar",
-      "url": "https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ"
+      "duration_ms": 203066,
+      "name": "Jazz M\u00e9diterran\u00e9e",
+      "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -707,22 +723,6 @@
       "duration_ms": 265492,
       "name": "Gentileza",
       "url": "https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Jazz M\u00e9diterran\u00e9e",
-      "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Summer Samba! - Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 136066,
+      "name": "De Conversa Em Conversa",
+      "url": "https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "The Girl From Ipanema - The Bossa Nova Years",
         "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 304826,
       "name": "Para Machuchar Meu Coracao",
       "url": "https://open.spotify.com/track/5jBv1j7ISp1ja8e1N2oSmt"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Summer Samba! - Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 136066,
-      "name": "De Conversa Em Conversa",
-      "url": "https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Bossa Antigua",
-        "url": "https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 282560,
-      "name": "Bossa Antigua",
-      "url": "https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Cosme Velho",
         "url": "https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 173943,
       "name": "Cosme Velho",
       "url": "https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Bossa Antigua",
+        "url": "https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 282560,
+      "name": "Bossa Antigua",
+      "url": "https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Bossa Nova Soul Samba (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP"
-      },
-      "artists": [
-        {
-          "name": "Ike Quebec",
-          "url": "https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "Favela - Remastered",
-      "url": "https://open.spotify.com/track/13Y8guAjsfss2WPIINuoYd"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Strangers in the Night",
         "url": "https://open.spotify.com/album/6QGyGBnji7UQ2ZHeV6vZRs"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "River of Dreams",
-        "url": "https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA"
+        "name": "Bossa Nova Soul Samba (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP"
       },
       "artists": [
         {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+          "name": "Ike Quebec",
+          "url": "https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh"
         }
       ],
-      "duration_ms": 183082,
-      "name": "River of Dreams",
-      "url": "https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS"
+      "duration_ms": 240266,
+      "name": "Favela - Remastered",
+      "url": "https://open.spotify.com/track/13Y8guAjsfss2WPIINuoYd"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Cheek to cheek",
+        "url": "https://open.spotify.com/album/712te0ZI1fyrkkI6k8ui6b"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Cheek to cheek",
+      "url": "https://open.spotify.com/track/0XnleUxgreIMS02KY2ld7F"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Bossa Nova For Beginners",
         "url": "https://open.spotify.com/album/1pcnT4wosrH8uUmKZBtozX"
       },
@@ -1139,34 +1139,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Bel\u00ea",
-        "url": "https://open.spotify.com/album/46rjYly7NZYyQRxgOJULGx"
+        "name": "River of Dreams",
+        "url": "https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA"
       },
       "artists": [
         {
-          "name": "Affonsinho",
-          "url": "https://open.spotify.com/artist/5WhavPZYFVB6roWZubZMLZ"
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
         }
       ],
-      "duration_ms": 269840,
-      "name": "Aquela Bossa Ax\u00e9",
-      "url": "https://open.spotify.com/track/5G4VEEZXyBTEBw9RCj0L8S"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Cheek to cheek",
-        "url": "https://open.spotify.com/album/712te0ZI1fyrkkI6k8ui6b"
-      },
-      "artists": [
-        {
-          "name": "Cole Peers trio",
-          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Cheek to cheek",
-      "url": "https://open.spotify.com/track/0XnleUxgreIMS02KY2ld7F"
+      "duration_ms": 183082,
+      "name": "River of Dreams",
+      "url": "https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1187,22 +1171,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR"
-      },
-      "artists": [
-        {
-          "name": "Hiro Suzuki",
-          "url": "https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth"
-        }
-      ],
-      "duration_ms": 420811,
-      "name": "Vespertine",
-      "url": "https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Everything I Love",
         "url": "https://open.spotify.com/album/0xEdEQEBbOvXAS640Ii8PP"
       },
@@ -1215,6 +1183,38 @@
       "duration_ms": 271584,
       "name": "Everything I Love",
       "url": "https://open.spotify.com/track/1HmfqLGKxU3pSnhs2n0RDn"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Bel\u00ea",
+        "url": "https://open.spotify.com/album/46rjYly7NZYyQRxgOJULGx"
+      },
+      "artists": [
+        {
+          "name": "Affonsinho",
+          "url": "https://open.spotify.com/artist/5WhavPZYFVB6roWZubZMLZ"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Aquela Bossa Ax\u00e9",
+      "url": "https://open.spotify.com/track/5G4VEEZXyBTEBw9RCj0L8S"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR"
+      },
+      "artists": [
+        {
+          "name": "Hiro Suzuki",
+          "url": "https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth"
+        }
+      ],
+      "duration_ms": 420811,
+      "name": "Vespertine",
+      "url": "https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "But Not for Me",
-        "url": "https://open.spotify.com/album/5dC6hVfIA8U6WJbtbchXaE"
-      },
-      "artists": [
-        {
-          "name": "Jonny Libonate",
-          "url": "https://open.spotify.com/artist/6pS27rHwAFUbbLvuUWVZba"
-        }
-      ],
-      "duration_ms": 188650,
-      "name": "Cleopatra's Dream",
-      "url": "https://open.spotify.com/track/79Pa36K6R3somBuhNi2B0V"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Blue Night Bossa",
         "url": "https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 231377,
       "name": "Standing Tall",
       "url": "https://open.spotify.com/track/6zyXnFhbzWquheImVhTyMX"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "But Not for Me",
+        "url": "https://open.spotify.com/album/5dC6hVfIA8U6WJbtbchXaE"
+      },
+      "artists": [
+        {
+          "name": "Jonny Libonate",
+          "url": "https://open.spotify.com/artist/6pS27rHwAFUbbLvuUWVZba"
+        }
+      ],
+      "duration_ms": 188650,
+      "name": "Cleopatra's Dream",
+      "url": "https://open.spotify.com/track/79Pa36K6R3somBuhNi2B0V"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "O Qu\u00e9 e Amar",
-        "url": "https://open.spotify.com/album/5aQw0jC4z1hDAqlb5Tcngu"
-      },
-      "artists": [
-        {
-          "name": "Xavier Mendoza",
-          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "O Qu\u00e9 e Amar",
-      "url": "https://open.spotify.com/track/23yWKIqw0l0oYRYWE2wJpe"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Every Time We Say Goodbye",
         "url": "https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 213931,
       "name": "So In Love",
       "url": "https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "O Qu\u00e9 e Amar",
+        "url": "https://open.spotify.com/album/5aQw0jC4z1hDAqlb5Tcngu"
+      },
+      "artists": [
+        {
+          "name": "Xavier Mendoza",
+          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "O Qu\u00e9 e Amar",
+      "url": "https://open.spotify.com/track/23yWKIqw0l0oYRYWE2wJpe"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Letra & M\u00fasica Ary Barroso \u2013 Rosa Passos e Lula Galv\u00e3o",
-        "url": "https://open.spotify.com/album/24mfpDgch1Xr8qzJuqUi1Q"
-      },
-      "artists": [
-        {
-          "name": "Rosa Passos",
-          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
-        }
-      ],
-      "duration_ms": 376440,
-      "name": "Pra Machucar Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5uhAtnaJcQcPuR8bHU6TKe"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Night Lights (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 330546,
       "name": "Morning Of The Carnival - From \"Black Orpheus\"",
       "url": "https://open.spotify.com/track/6GQ6rapsknPIutGbpv0DTR"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Letra & M\u00fasica Ary Barroso \u2013 Rosa Passos e Lula Galv\u00e3o",
+        "url": "https://open.spotify.com/album/24mfpDgch1Xr8qzJuqUi1Q"
+      },
+      "artists": [
+        {
+          "name": "Rosa Passos",
+          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
+        }
+      ],
+      "duration_ms": 376440,
+      "name": "Pra Machucar Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5uhAtnaJcQcPuR8bHU6TKe"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "day by day",
-        "url": "https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB"
-      },
-      "artists": [
-        {
-          "name": "Luca Mundaca",
-          "url": "https://open.spotify.com/artist/7u3L4UZO9IXBElwdUyvAxl"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Day by day",
-      "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Brisa do Mar",
         "url": "https://open.spotify.com/album/0WzNCdLD9mCtx1lO6NQ8g5"
       },
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "day by day",
+        "url": "https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB"
+      },
+      "artists": [
+        {
+          "name": "Luca Mundaca",
+          "url": "https://open.spotify.com/artist/7u3L4UZO9IXBElwdUyvAxl"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Day by day",
+      "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Nara Dez Anos Depois",
         "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 247711,
       "name": "Once Forgotten",
       "url": "https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Liljeholmsviken",
+        "url": "https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "duration_ms": 262408,
+      "name": "Liljeholmsviken",
+      "url": "https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1739,38 +1755,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Liljeholmsviken",
-        "url": "https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe"
-      },
-      "artists": [
-        {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
-        }
-      ],
-      "duration_ms": 262408,
-      "name": "Liljeholmsviken",
-      "url": "https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "North Carolina",
         "url": "https://open.spotify.com/album/5CSBOCtfPDZdagmDqyvb81"
       },
@@ -1787,18 +1771,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Take Ten",
-        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 253133,
-      "name": "The Theme from \"Black Orpheus\"",
-      "url": "https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE"
+      "duration_ms": 215160,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1831,6 +1815,22 @@
       "duration_ms": 186050,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/4oVtVfH5Byf8mRThHC8ZSb"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Take Ten",
+        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 253133,
+      "name": "The Theme from \"Black Orpheus\"",
+      "url": "https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1887,26 +1887,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Rio Bahia",
-        "url": "https://open.spotify.com/album/3cgIE2eEoFouC2oxYghfRg"
-      },
-      "artists": [
-        {
-          "name": "Joyce Moreno",
-          "url": "https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v"
-        },
-        {
-          "name": "Dori Caymmi",
-          "url": "https://open.spotify.com/artist/6fV3ZNUY8BCP45yuCWWDez"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "Jo\u00e3ozinho Boa Pinta",
-      "url": "https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Studio Rio Presents: The Brazil Connection",
         "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
       },
@@ -1927,6 +1907,26 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Rio Bahia",
+        "url": "https://open.spotify.com/album/3cgIE2eEoFouC2oxYghfRg"
+      },
+      "artists": [
+        {
+          "name": "Joyce Moreno",
+          "url": "https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v"
+        },
+        {
+          "name": "Dori Caymmi",
+          "url": "https://open.spotify.com/artist/6fV3ZNUY8BCP45yuCWWDez"
+        }
+      ],
+      "duration_ms": 148146,
+      "name": "Jo\u00e3ozinho Boa Pinta",
+      "url": "https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Quarteto Jobim Morelenbaum",
         "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
       },
@@ -1939,6 +1939,38 @@
       "duration_ms": 233499,
       "name": "S\u00f3 Tinha de Ser Com Voc\u00ea",
       "url": "https://open.spotify.com/track/1U2yKTVqJASLKLSCzrwxi7"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "You Fascinate Me So",
+        "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ilanda Trio",
+          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
+        }
+      ],
+      "duration_ms": 239636,
+      "name": "You Fascinate Me So",
+      "url": "https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "The Cole Porter Mix",
+        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
+      },
+      "artists": [
+        {
+          "name": "Patricia Barber",
+          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1963,34 +1995,34 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "The Cole Porter Mix",
-        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
+        "name": "Ondas Cintilantes",
+        "url": "https://open.spotify.com/album/3TzJR9AZiINuZIY2WWvR7A"
       },
       "artists": [
         {
-          "name": "Patricia Barber",
-          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
         }
       ],
-      "duration_ms": 216320,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs"
+      "duration_ms": 178123,
+      "name": "Ondas Cintilantes",
+      "url": "https://open.spotify.com/track/0BaqfOrf4DXXO7oOgbanwm"
     },
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "You Fascinate Me So",
-        "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
+        "name": "Standard Deviations",
+        "url": "https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf"
       },
       "artists": [
         {
-          "name": "Pablo Ilanda Trio",
-          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
+          "name": "Andreas Gidlund Five",
+          "url": "https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6"
         }
       ],
-      "duration_ms": 239636,
-      "name": "You Fascinate Me So",
-      "url": "https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU"
+      "duration_ms": 248000,
+      "name": "Ceora",
+      "url": "https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -2031,38 +2063,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Standard Deviations",
-        "url": "https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf"
-      },
-      "artists": [
-        {
-          "name": "Andreas Gidlund Five",
-          "url": "https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Ceora",
-      "url": "https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Ondas Cintilantes",
-        "url": "https://open.spotify.com/album/3TzJR9AZiINuZIY2WWvR7A"
-      },
-      "artists": [
-        {
-          "name": "Mabon Clarke Quartet",
-          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
-        }
-      ],
-      "duration_ms": 178123,
-      "name": "Ondas Cintilantes",
-      "url": "https://open.spotify.com/track/0BaqfOrf4DXXO7oOgbanwm"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Effortlessly",
         "url": "https://open.spotify.com/album/0g04IdZKalfueB9Nr1F0fl"
       },
@@ -2075,6 +2075,22 @@
       "duration_ms": 297653,
       "name": "Effortlessly",
       "url": "https://open.spotify.com/track/75VrNlO6GbJJHByrwJkpgr"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Once I Loved",
+        "url": "https://open.spotify.com/album/0MyW4ebA1Otb0YYXeVOtnP"
+      },
+      "artists": [
+        {
+          "name": "Logan Perez Trio",
+          "url": "https://open.spotify.com/artist/1LkgOk5uGieE5FGkTxGNIw"
+        }
+      ],
+      "duration_ms": 434476,
+      "name": "Once I Loved",
+      "url": "https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -2111,18 +2127,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Once I Loved",
-        "url": "https://open.spotify.com/album/0MyW4ebA1Otb0YYXeVOtnP"
+        "name": "Bossa Nova - This Is Jazz # 29",
+        "url": "https://open.spotify.com/album/0ZjoVVcivTAErI32AUtwOW"
       },
       "artists": [
         {
-          "name": "Logan Perez Trio",
-          "url": "https://open.spotify.com/artist/1LkgOk5uGieE5FGkTxGNIw"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         }
       ],
-      "duration_ms": 434476,
-      "name": "Once I Loved",
-      "url": "https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U"
+      "duration_ms": 376226,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/74WrcYUQjTFhOecnV2ZwVo"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -2139,22 +2155,6 @@
       "duration_ms": 208773,
       "name": "Quoi, Quoi, Quoi",
       "url": "https://open.spotify.com/track/33LLGxCJUrJAX0XvcvN1AH"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Bossa Nova - This Is Jazz # 29",
-        "url": "https://open.spotify.com/album/0ZjoVVcivTAErI32AUtwOW"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 376226,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/74WrcYUQjTFhOecnV2ZwVo"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -2195,18 +2195,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Amorosa",
-        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
+        "name": "Santa Tereza",
+        "url": "https://open.spotify.com/album/7qiZlKHt1z0FCPz3RuyRFM"
       },
       "artists": [
         {
-          "name": "Rosa Passos",
-          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
+          "name": "Joao Silva Olivieira",
+          "url": "https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX"
         }
       ],
-      "duration_ms": 181173,
-      "name": "Essa \u00e9 Pro Jo\u00e3o",
-      "url": "https://open.spotify.com/track/26S40PKjEz1FZZJabKRVch"
+      "duration_ms": 226924,
+      "name": "Zephyr",
+      "url": "https://open.spotify.com/track/47Bm8HKITZFcEi3WmmpJlG"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -2223,22 +2223,6 @@
       "duration_ms": 284133,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Santa Tereza",
-        "url": "https://open.spotify.com/album/7qiZlKHt1z0FCPz3RuyRFM"
-      },
-      "artists": [
-        {
-          "name": "Joao Silva Olivieira",
-          "url": "https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX"
-        }
-      ],
-      "duration_ms": 226924,
-      "name": "Zephyr",
-      "url": "https://open.spotify.com/track/47Bm8HKITZFcEi3WmmpJlG"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -2291,6 +2275,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Amorosa",
+        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
+      },
+      "artists": [
+        {
+          "name": "Rosa Passos",
+          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
+        }
+      ],
+      "duration_ms": 181173,
+      "name": "Essa \u00e9 Pro Jo\u00e3o",
+      "url": "https://open.spotify.com/track/26S40PKjEz1FZZJabKRVch"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4"
       },
@@ -2319,22 +2319,6 @@
       "duration_ms": 218346,
       "name": "Teleco-Teco",
       "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/5WIyLdYc2yschYbWx7BkSU"
-      },
-      "artists": [
-        {
-          "name": "Rosa Passos",
-          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
-        }
-      ],
-      "duration_ms": 307520,
-      "name": "Fusion",
-      "url": "https://open.spotify.com/track/3Zt1ziRYn8ABtqaApKGIcr"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -2455,6 +2439,22 @@
       "duration_ms": 193253,
       "name": "O Pato",
       "url": "https://open.spotify.com/track/5ZhOwbrUtDDct1EwPQ5OsA"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/5WIyLdYc2yschYbWx7BkSU"
+      },
+      "artists": [
+        {
+          "name": "Rosa Passos",
+          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
+        }
+      ],
+      "duration_ms": 307520,
+      "name": "Fusion",
+      "url": "https://open.spotify.com/track/3Zt1ziRYn8ABtqaApKGIcr"
     },
     {
       "added_at": "2023-08-03 22:00:00",

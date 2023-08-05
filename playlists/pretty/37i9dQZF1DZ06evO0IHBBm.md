@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 
 > This is Damares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,649 likes - 46 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,663 likes - 46 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,21 +38,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 28 | [Não Toque no Ungido](https://open.spotify.com/track/2w8E3RYl14JHRRFnNi1ae7) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 3:55 |
 | 29 | [Deixa Senhor](https://open.spotify.com/track/06z7qj0dpj7xdl6rFvbgiO) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Deixa Senhor](https://open.spotify.com/album/1vOizfnBsBejbnHvGbYpp6) | 6:02 |
 | 30 | [O Processo](https://open.spotify.com/track/2aQxomfu4HA5aHikGvgCjm) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 5:16 |
-| 31 | [Sou Teu Deus](https://open.spotify.com/track/2Uhx9tWSDxNxi5SXTRnSD2) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 4:20 |
+| 31 | [Tô na Estrada](https://open.spotify.com/track/6GUBGxoOA48cTTeOplSlBa) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 3:41 |
 | 32 | [Escondido Nele](https://open.spotify.com/track/7x3qHc3QKCC9ObpYaWPJNz) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 4:46 |
 | 33 | [Yeshua \(Ao Vivo\)](https://open.spotify.com/track/2b9sOPTgLige26J50aINp9) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Damares \(Ao Vivo\)](https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA) | 5:58 |
 | 34 | [Pai, Preciso de Ti](https://open.spotify.com/track/324t5ZkCfdhBxP2t6708pD) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 5:33 |
-| 35 | [Tô na Estrada](https://open.spotify.com/track/6GUBGxoOA48cTTeOplSlBa) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 3:41 |
+| 35 | [Sou Teu Deus](https://open.spotify.com/track/2Uhx9tWSDxNxi5SXTRnSD2) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 4:20 |
 | 36 | [Não pare \(Participação especial de Damares\)](https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Cadê o vencedor?](https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq) | 3:42 |
 | 37 | [Questão de Tempo](https://open.spotify.com/track/4k7hKaTgrtsGRO86Zjr2IX) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 4:27 |
 | 38 | [Superação](https://open.spotify.com/track/2SWRyMIpGHBzU6Vo24AE4J) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 5:57 |
 | 39 | [A Oração de Jabes \(Ao Vivo\)](https://open.spotify.com/track/1FRingDBRVx2JTV6uGgSBF) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu \(Ao Vivo\)](https://open.spotify.com/album/01ZUb4FtrUZH390oHfyORi) | 4:25 |
 | 40 | [É Milagre \(feat\. Damares\) \- Ao Vivo](https://open.spotify.com/track/38dPxKE0tOrddwKiMy7I48) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Acelera e Pisa \(Ao Vivo\)](https://open.spotify.com/album/1AxsFgdjC8PtnPPJixKqS3) | 6:03 |
-| 41 | [Dependente](https://open.spotify.com/track/2hvEKOvLh4Vt1m1r4nuCaV) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Tudo Volta ao Seu Lugar](https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5) | 6:31 |
-| 42 | [Em adoração \- Ao Vivo](https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Damares 2011 \(ao vivo\)](https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp) | 6:41 |
+| 41 | [Em adoração \- Ao Vivo](https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Damares 2011 \(ao vivo\)](https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp) | 6:41 |
+| 42 | [Dependente](https://open.spotify.com/track/2hvEKOvLh4Vt1m1r4nuCaV) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Tudo Volta ao Seu Lugar](https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5) | 6:31 |
 | 43 | [És Maior](https://open.spotify.com/track/0cPy3Yr05gh3G8dTpzMGDR) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 4:27 |
 | 44 | [O Deus que Faz \(Ao Vivo\)](https://open.spotify.com/track/5QLgebw9fQi8YI4OeZqXxW) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Damares \(Ao Vivo\)](https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA) | 9:00 |
 | 45 | [Sou o Que Sou](https://open.spotify.com/track/3jWAJKgbJl6mPivyVZhJo5) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Obra Prima](https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5) | 5:23 |
 | 46 | [Vou Louvar](https://open.spotify.com/track/35lexxTpnonCNyIq6cS5yZ) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Obra Prima](https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5) | 3:56 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDBjMGI2YTUxMDRiM2FhNWIxNWIxYjljNjcwN2FhOTQwZA==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDBkODQ5YjYwYmQ1YzJlMjRlYjExZjA2MTk4NDMwMDg2MQ==`

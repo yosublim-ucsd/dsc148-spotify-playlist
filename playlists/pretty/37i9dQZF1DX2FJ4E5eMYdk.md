@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,137 likes - 60 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,223 likes - 60 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 59 | [Automechanic](https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [Automechanic](https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA) | 3:48 |
 | 60 | [Trust Me](https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0) | [Barnaby Keen](https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA) | [Trust Me](https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq) | 3:41 |
 
-Snapshot ID: `MCwwNzIyOWY1MTRiZmE2ZmUwOTk4OTJkMWVjOTgxYjBjOWFmN2JhYTJi`
+Snapshot ID: `MCxiNjA4ZWJmNTZmZTUwM2I4NTZhYzc2ZGMxYWJjNTA5ZWY5NjhhZTli`

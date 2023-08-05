@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Ensi, Nerone
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,891 likes - 56 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,918 likes - 56 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 8 | [LEWANDOWSKI X](https://open.spotify.com/track/6dM0fBNHPBLcpfK0UCft5h) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 3:26 |
 | 9 | [Lifestyle](https://open.spotify.com/track/20XT7TO32dN1s9xtowLPuR) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dj Harsh](https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq) | [Fastlife 4](https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6) | 2:09 |
 | 10 | [LONTANO \- carlito's way](https://open.spotify.com/track/2t1dculU2L9HxEIzB00Xpk) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:46 |
-| 11 | [Amici](https://open.spotify.com/track/7aVX95NjONZszSeb8vJZF3) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Nic Sarno](https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo) | [Scialla Semper](https://open.spotify.com/album/3fMHmtOJf2KK3HThKh9ZNX) | 3:00 |
+| 11 | [Amici \(feat\. Crookers & Nic Sarno\)](https://open.spotify.com/track/24LOH9TdyAsSqASnyfY3Xn) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Nic Sarno](https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo) | [Scialla Semper](https://open.spotify.com/album/4HzX5H3PFVQk1nAlzLG29r) | 3:00 |
 | 12 | [Intro \(Cielo\)](https://open.spotify.com/track/7luFLdyoCkAyNZm3BEGAAT) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 2:24 |
 | 13 | [IN HEAVEN \(feat\. Ernia\)](https://open.spotify.com/track/0IEMAsKTp3fbnlBI2T92Yl) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [OUTSIDER](https://open.spotify.com/album/65bhPTCdqbC37RhICrkUUu) | 3:26 |
 | 14 | [Prefissi](https://open.spotify.com/track/19ik2WLPpAWJIy3k3Q2a2L) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:15 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 55 | [Vita sbagliata](https://open.spotify.com/track/4ThoVGWZoI3w0eKvKlWkej) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 3:13 |
 | 56 | [Veleno 8 \(feat\. Gemitaiz\)](https://open.spotify.com/track/06OBAy97uVyHCZvonvgfE2) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 3:02 |
 
-Snapshot ID: `MCxkNjY4YzNiYTc4NWMyZjEyZjAwY2U5OGFkYTM5ZDAwNDllZmU5YTlh`
+Snapshot ID: `MCxiZTUwMzA2MmQzNzUwZjBhNzAwNmJjZTkwNDZiY2ZjZDFmYWJmZTEw`

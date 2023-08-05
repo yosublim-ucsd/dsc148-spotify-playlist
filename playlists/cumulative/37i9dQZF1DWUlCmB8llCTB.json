@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con Darell, Nicky Jam, Wisin y Luar La L.",
+  "description": "Perreando toda la noche con Sech.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -454,7 +454,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 167175,
       "name": "AGUARDIENTE",
       "url": "https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 156000,
       "name": "Be Con Be",
       "url": "https://open.spotify.com/track/1CtTPDF2C68dorPvn7S8oR"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 151304,
       "name": "Bora Bora",
       "url": "https://open.spotify.com/track/7AdDZQQNj19gZ2vVJnL1tj"
@@ -5633,6 +5633,28 @@
     },
     {
       "album": {
+        "name": "La Dieta",
+        "url": "https://open.spotify.com/album/5h6bpaTTjza3Eqly1g3ggk"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "La Dieta",
+      "url": "https://open.spotify.com/track/057ybvJLKXxHmalgXR7jru"
+    },
+    {
+      "album": {
         "name": "La HP - Spotify Singles",
         "url": "https://open.spotify.com/album/4EA3vA6Qya4YZRUYlT9PPB"
       },
@@ -7633,6 +7655,24 @@
     },
     {
       "album": {
+        "name": "NO PARE",
+        "url": "https://open.spotify.com/album/7Cox5cc0YmFSLTMElICoW8"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155607,
+      "name": "NO PARE",
+      "url": "https://open.spotify.com/track/4cEYQceQjgsi0hZZQQWhXp"
+    },
+    {
+      "album": {
         "name": "No Pinto Pajaritos",
         "url": "https://open.spotify.com/album/65w3z9tO7ZFDYP8QH9tsPh"
       },
@@ -7692,6 +7732,28 @@
       "duration_ms": 209214,
       "name": "No Se Olvida (with DEKKO)",
       "url": "https://open.spotify.com/track/4q97rK525tPgSCuxs8FaKe"
+    },
+    {
+      "album": {
+        "name": "NOCHE DE CHUPETEO",
+        "url": "https://open.spotify.com/album/4UVBEK6IkWMWTRv5H6efKv"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178183,
+      "name": "NOCHE DE CHUPETEO",
+      "url": "https://open.spotify.com/track/6PuKHbuN92jpqMDvzj9Tsu"
     },
     {
       "album": {
@@ -8214,6 +8276,28 @@
       "duration_ms": 193469,
       "name": "PALOMA",
       "url": "https://open.spotify.com/track/3yg6SabdfUu2cApTfZS991"
+    },
+    {
+      "album": {
+        "name": "PAL\u00b4 LAO",
+        "url": "https://open.spotify.com/album/5zzEfWzbWnX6skWejczwgC"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153191,
+      "name": "PAL\u00b4 LAO",
+      "url": "https://open.spotify.com/track/6YLE7QspnHGFj6ZfAegvC1"
     },
     {
       "album": {
@@ -8887,6 +8971,24 @@
     },
     {
       "album": {
+        "name": "Piedritas En Los Dientes",
+        "url": "https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156544,
+      "name": "Piedritas En Los Dientes",
+      "url": "https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL"
+    },
+    {
+      "album": {
         "name": "Pinkstar",
         "url": "https://open.spotify.com/album/2tGXGuxP58wPNgtUhSLJZu"
       },
@@ -9408,7 +9510,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 206958,
       "name": "Que Vuelta",
       "url": "https://open.spotify.com/track/0o1MSPQCoDgRa6QNInsmM2"
@@ -12260,7 +12362,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 188862,
       "name": "X 1 BESO",
       "url": "https://open.spotify.com/track/0aLsiURB2GJoiN0mmtEQ5P"

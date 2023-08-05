@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel\. Agris en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,450 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,454 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 47 | [No Soy Yo](https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [No Soy Yo](https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09) | 3:13 |
 | 48 | [Hierbas](https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Hierbas Para la Tristeza](https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK) | 2:46 |
 | 49 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 |
-| 50 | [SIN TI](https://open.spotify.com/track/2Bvi1KTSvX2OlfUBbOhu1e) | [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [SIN TI](https://open.spotify.com/album/1Ze1iSoCDbhaRMqfuRnoMG) | 2:48 |
+| 50 | [Te había contao](https://open.spotify.com/track/00pEWo382r8gERWquqG1wS) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb), [Pororó](https://open.spotify.com/artist/37rFJ6EXmC8mPSiLUS3sW3) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:38 |
 | 51 | [Tan Bien Que Estaba](https://open.spotify.com/track/3ozEF7ejFaLouclqb7khai) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Tan Bien Que Estaba](https://open.spotify.com/album/6agvAr3BILtwOWJfO6i2gg) | 3:34 |
-| 52 | [Te había contao](https://open.spotify.com/track/00pEWo382r8gERWquqG1wS) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb), [Pororó](https://open.spotify.com/artist/37rFJ6EXmC8mPSiLUS3sW3) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:38 |
+| 52 | [SIN TI](https://open.spotify.com/track/2Bvi1KTSvX2OlfUBbOhu1e) | [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [SIN TI](https://open.spotify.com/album/1Ze1iSoCDbhaRMqfuRnoMG) | 2:48 |
 | 53 | [Pasado y Olvido](https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Pasado y Olvido](https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs) | 4:15 |
 | 54 | [Te Rendiste en Mi](https://open.spotify.com/track/0avJUBhRYnqhqDWb9kBCy6) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Te Rendiste en Mi](https://open.spotify.com/album/4KnN1SFJS4nOuyJrq76IAK) | 2:28 |
 | 55 | [La Vida Nos Hizo En Pares](https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [La Vida Nos Hizo En Pares](https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 79 | [Hoy Es Hoy](https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hoy Es Hoy](https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF) | 2:54 |
 | 80 | [El Fin](https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N) | [Karla Cruise](https://open.spotify.com/artist/1lDvMKVfuYM3tO8iAIlYrs) | [El Fin](https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8) | 2:57 |
 
-Snapshot ID: `MCw4NTJjOTg3YzVkZjI2MWI5Zjg5ZjJlOTMwNDEwMTJjZTE4Mjk2NDYx`
+Snapshot ID: `MCwyMjk5Yjg0MjNmYTlkOWNhYWFhOGE1YzM1MTE0NjE2NDk5Mzk4NGUz`

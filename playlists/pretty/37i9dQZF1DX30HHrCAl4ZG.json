@@ -1,12 +1,12 @@
 {
   "description": "All new indie rock. Featuring new music by spill tab.",
-  "num_followers": 847687,
+  "num_followers": 847775,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzdkZDYzMDc1ZjRiNGM4NmI4Y2M3ZDFkY2QwMWIxYjhiMDhmOWNi",
+  "snapshot_id": "MCw3ZmVkNzRlNzAxNzk1MmQ4YmY4MmU1ZTRmMDgzNGJhMjViMzkyZGMw",
   "tracks": [
     {
       "added_at": "2023-07-21 04:01:00",
@@ -57,6 +57,38 @@
       "url": "https://open.spotify.com/track/6zGXpYNIkVYy5QRmj9Qlg4"
     },
     {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Where Are You Going?",
+        "url": "https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 212985,
+      "name": "Now I Know You",
+      "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
+    },
+    {
+      "added_at": "2023-07-28 14:33:00",
+      "album": {
+        "name": "Soak Up The Sun",
+        "url": "https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 304413,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI"
+    },
+    {
       "added_at": "2023-07-28 14:33:00",
       "album": {
         "name": "Hello (feat. KennyHoopla)",
@@ -93,20 +125,52 @@
       "url": "https://open.spotify.com/track/1vDnhuoFPLK3Vgf64yO8fG"
     },
     {
-      "added_at": "2023-07-28 14:33:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Soak Up The Sun",
-        "url": "https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD"
+        "name": "Evicted",
+        "url": "https://open.spotify.com/album/2Exf1TaOG1wElBCKNDzWdz"
       },
       "artists": [
         {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
         }
       ],
-      "duration_ms": 304413,
-      "name": "Soak Up The Sun",
-      "url": "https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI"
+      "duration_ms": 209760,
+      "name": "Evicted",
+      "url": "https://open.spotify.com/track/2JW4rkz1XshjSVV4LES2RJ"
+    },
+    {
+      "added_at": "2023-05-24 13:49:16",
+      "album": {
+        "name": "Digital Silence",
+        "url": "https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Digital Silence",
+      "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
+    },
+    {
+      "added_at": "2023-07-28 14:33:00",
+      "album": {
+        "name": "Pontiac",
+        "url": "https://open.spotify.com/album/5n8a6L0rODiSETCLRGeo30"
+      },
+      "artists": [
+        {
+          "name": "Rec Hall",
+          "url": "https://open.spotify.com/artist/7n0i6RECXvCkOElGs6IP97"
+        }
+      ],
+      "duration_ms": 168406,
+      "name": "Pontiac",
+      "url": "https://open.spotify.com/track/6v1YAvqoysAmUAxtLvp69r"
     },
     {
       "added_at": "2023-07-21 14:51:10",
@@ -125,20 +189,20 @@
       "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
     },
     {
-      "added_at": "2023-07-28 14:33:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Pontiac",
-        "url": "https://open.spotify.com/album/5n8a6L0rODiSETCLRGeo30"
+        "name": "As Good As It Gets",
+        "url": "https://open.spotify.com/album/1Nq7X61ErYdrIfN2BDYar0"
       },
       "artists": [
         {
-          "name": "Rec Hall",
-          "url": "https://open.spotify.com/artist/7n0i6RECXvCkOElGs6IP97"
+          "name": "FIZZ",
+          "url": "https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U"
         }
       ],
-      "duration_ms": 168406,
-      "name": "Pontiac",
-      "url": "https://open.spotify.com/track/6v1YAvqoysAmUAxtLvp69r"
+      "duration_ms": 164494,
+      "name": "As Good As It Gets",
+      "url": "https://open.spotify.com/track/1oSFY7EjYTQGqECkCgX9hF"
     },
     {
       "added_at": "2023-07-31 13:59:02",
@@ -173,6 +237,22 @@
       "url": "https://open.spotify.com/track/1J3yWZC6J1lEaCrWrRx8Ni"
     },
     {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Sarah's Birthday on the Beach",
+        "url": "https://open.spotify.com/album/6dQpeNbSypatcAG3N53Ldz"
+      },
+      "artists": [
+        {
+          "name": "marinelli",
+          "url": "https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a"
+        }
+      ],
+      "duration_ms": 176522,
+      "name": "Irish Goodbye",
+      "url": "https://open.spotify.com/track/6t1Irvbvz3xb71iaqsac10"
+    },
+    {
       "added_at": "2023-07-28 14:33:00",
       "album": {
         "name": "aahdjk",
@@ -205,6 +285,22 @@
       "url": "https://open.spotify.com/track/1PJe0Vt9p0QaV4ZNHUwml0"
     },
     {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Sabeline",
+        "url": "https://open.spotify.com/album/0aMXItwR69aDCVI5gRWwN9"
+      },
+      "artists": [
+        {
+          "name": "hallpass",
+          "url": "https://open.spotify.com/artist/1ojodT2n3tLClMDaRgIk7Z"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/3lKKT3H1gMr3zIPdauECXk"
+    },
+    {
       "added_at": "2023-07-28 14:33:00",
       "album": {
         "name": "Since August",
@@ -219,22 +315,6 @@
       "duration_ms": 175190,
       "name": "Since August",
       "url": "https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y"
-    },
-    {
-      "added_at": "2023-05-24 13:49:16",
-      "album": {
-        "name": "Digital Silence",
-        "url": "https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Digital Silence",
-      "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
     },
     {
       "added_at": "2023-07-28 17:20:30",
@@ -267,6 +347,22 @@
       "duration_ms": 303860,
       "name": "Everything (all at once)",
       "url": "https://open.spotify.com/track/4G1a2dYMI9PkgLb6MRoFtT"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "PLPH",
+        "url": "https://open.spotify.com/album/4rJ0VnGZUKXhUS8E6tCvkG"
+      },
+      "artists": [
+        {
+          "name": "Lutalo",
+          "url": "https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln"
+        }
+      ],
+      "duration_ms": 218346,
+      "name": "PLPH",
+      "url": "https://open.spotify.com/track/3g0CvIGuOKpQiFEJXZXyVs"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -343,6 +439,22 @@
       "duration_ms": 233786,
       "name": "Truck",
       "url": "https://open.spotify.com/track/3gpFdIoxvpOPYPbxAcq9VZ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Variety Pack",
+        "url": "https://open.spotify.com/album/3pmNLRyXB6nnXYditvGTZD"
+      },
+      "artists": [
+        {
+          "name": "Mustard Service",
+          "url": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Bupkis",
+      "url": "https://open.spotify.com/track/2UloinNAnfNmUvNo9JkB3y"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -427,6 +539,22 @@
       "duration_ms": 142333,
       "name": "Marvelous",
       "url": "https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Car??",
+        "url": "https://open.spotify.com/album/4PTh2dyxZND8vnplSqejfv"
+      },
+      "artists": [
+        {
+          "name": "Baby Wave",
+          "url": "https://open.spotify.com/artist/2InWfiCopgR2razz9odY6K"
+        }
+      ],
+      "duration_ms": 161151,
+      "name": "Car??",
+      "url": "https://open.spotify.com/track/4x4a7S7JRCUQDJkRf3FBfP"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -853,22 +981,6 @@
       "url": "https://open.spotify.com/track/0t0gMxicWbc6n2NzxQ3iJ3"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/6EM0HNbNcofoF9Ih78GS6E"
-      },
-      "artists": [
-        {
-          "name": "Swimm",
-          "url": "https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX"
-        }
-      ],
-      "duration_ms": 239490,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/0NMukraEM5cTE6xRhKqJik"
-    },
-    {
       "added_at": "2023-07-07 21:26:40",
       "album": {
         "name": "Big Bite EP",
@@ -1017,22 +1129,6 @@
       "url": "https://open.spotify.com/track/4iqjXPdleI1U2mCzhcg16G"
     },
     {
-      "added_at": "2023-07-07 21:26:40",
-      "album": {
-        "name": "In Theory Depression",
-        "url": "https://open.spotify.com/album/1Z94rLxogxcR9tWFUwbU8F"
-      },
-      "artists": [
-        {
-          "name": "THALA",
-          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
-        }
-      ],
-      "duration_ms": 155760,
-      "name": "Are You Thinking of Me",
-      "url": "https://open.spotify.com/track/1t63a1ZQlX1OnpsyQXqsvj"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Bunny",
@@ -1179,42 +1275,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Nauseous (WHY NOT Version)",
-        "url": "https://open.spotify.com/album/13Z4tNSN9OzfEZzXnOJvbA"
-      },
-      "artists": [
-        {
-          "name": "Annie DiRusso",
-          "url": "https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw"
-        },
-        {
-          "name": "WHY NOT",
-          "url": "https://open.spotify.com/artist/0gU8JtrXa3Df75VOVRGuWP"
-        }
-      ],
-      "duration_ms": 210305,
-      "name": "Nauseous - WHY NOT Version",
-      "url": "https://open.spotify.com/track/1eYabnDTiN86cGEbCdGiQo"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "I Could Never Stay Mad at You",
-        "url": "https://open.spotify.com/album/1KWuwlyam2XwPb4U4PcnB2"
-      },
-      "artists": [
-        {
-          "name": "Faerybabyy",
-          "url": "https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id"
-        }
-      ],
-      "duration_ms": 162570,
-      "name": "I Could Never Stay Mad at You",
-      "url": "https://open.spotify.com/track/0c7X02GyiWb35Iw9LVRyqd"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Sunburn Fades",
         "url": "https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia"
       },
@@ -1343,34 +1403,6 @@
       "duration_ms": 193612,
       "name": "Voice Of The Voiceless",
       "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 290360,
-      "name": "Satanist",
-      "url": "https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1553,22 +1585,6 @@
       "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "First to Know",
-        "url": "https://open.spotify.com/album/7dAtkiATptjN8rpszcVX4C"
-      },
-      "artists": [
-        {
-          "name": "Declan Welsh and The Decadent West",
-          "url": "https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5"
-        }
-      ],
-      "duration_ms": 233832,
-      "name": "First to Know",
-      "url": "https://open.spotify.com/track/0UjmsX8YB7grhAGVZBekZe"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Nothing Matters",
@@ -1631,38 +1647,6 @@
       "duration_ms": 275560,
       "name": "Winona",
       "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
-    },
-    {
-      "added_at": "2023-04-12 18:50:06",
-      "album": {
-        "name": "Drop Stop Roll",
-        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Drop Stop Roll",
-      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
-    },
-    {
-      "added_at": "2023-05-24 13:35:17",
-      "album": {
-        "name": "NYE",
-        "url": "https://open.spotify.com/album/0xIg9hAbN6BYXXoEVoMwqX"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 190664,
-      "name": "NYE",
-      "url": "https://open.spotify.com/track/5VWtw1qkaq1lBsgY2lLhNo"
     }
   ],
   "unique_name": "Today's Indie Rock",

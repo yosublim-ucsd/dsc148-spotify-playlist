@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Disc Me Bro",
+        "url": "https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v"
+      },
+      "artists": [
+        {
+          "name": "Basixx",
+          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Disc Me Bro",
+      "url": "https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q"
+    },
+    {
+      "album": {
         "name": "Don't Wait Blue",
         "url": "https://open.spotify.com/album/6HgQpYP3a9omdYczFyTjdg"
       },
@@ -1040,6 +1058,24 @@
       "duration_ms": 203893,
       "name": "endless cup",
       "url": "https://open.spotify.com/track/4sdtDC5geKrZHoVqyx5bBA"
+    },
+    {
+      "album": {
+        "name": "Vibes Vol. 3",
+        "url": "https://open.spotify.com/album/53uc38DjJTTD6JG1EcQJym"
+      },
+      "artists": [
+        {
+          "name": "Heyson",
+          "url": "https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225447,
+      "name": "Feel Decent",
+      "url": "https://open.spotify.com/track/61zOivEMvcyCoymnvBVPy5"
     },
     {
       "album": {
@@ -2160,6 +2196,24 @@
       "duration_ms": 169558,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/2KdKLnwFSmXPTFllAPXcQ4"
+    },
+    {
+      "album": {
+        "name": "Para Sol",
+        "url": "https://open.spotify.com/album/4zCjXYDYpNXj1p7CHYKfGp"
+      },
+      "artists": [
+        {
+          "name": "Teide Garcia",
+          "url": "https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196695,
+      "name": "Para Sol",
+      "url": "https://open.spotify.com/track/5hrJnEz67Q6l33sPtGFga4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,172 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,229 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 17 | [Un Poco de Amor](https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Un Poco de Amor](https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O) | 2:51 |
 | 18 | [Donde Andará](https://open.spotify.com/track/1AvJ3JBfma4kdkpY91rc4l) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Del Campo a la Ciudad](https://open.spotify.com/album/1YVcOrdEEN3xZSSRMI5288) | 3:47 |
 | 19 | [Adios Mi Vida](https://open.spotify.com/track/6XwAxF4iekTzTgsyZA6mpa) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Bendita Mujer](https://open.spotify.com/album/5jzKBAq7ZRUCTCMGX6h5WV) | 3:29 |
-| 20 | [Polvo Y Nada](https://open.spotify.com/track/3hxmYDtf38nK7MLtbdaHFj) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Polvo Y Nada](https://open.spotify.com/album/0tsv50A3ZdXC5EeohYYHag) | 3:34 |
-| 21 | [Mi Enemigo El Amor \- En Vivo](https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [En Vivo](https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It) | 3:54 |
+| 20 | [Mi Enemigo El Amor \- En Vivo](https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [En Vivo](https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It) | 3:54 |
+| 21 | [Polvo Y Nada](https://open.spotify.com/track/3hxmYDtf38nK7MLtbdaHFj) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Polvo Y Nada](https://open.spotify.com/album/0tsv50A3ZdXC5EeohYYHag) | 3:34 |
 | 22 | [Lucharé Por Ti](https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Lucharé Por Ti](https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7) | 3:30 |
 | 23 | [Adiós, Adiós](https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV) | 3:13 |
 | 24 | [Andamos Borrachos Todos \- En Vivo](https://open.spotify.com/track/0OiBmdNifHrKDer8l1bUUJ) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Desde La Playa Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/5Cg2SJc24bmBeoTQZ3ulVt) | 3:14 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 45 | [Esta Va por Ti](https://open.spotify.com/track/3R8WZ9lTTEFHifPtRbVTpZ) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Esta Va por Ti](https://open.spotify.com/album/2ldbuKO6qKF6iNxn43cusK) | 3:25 |
 | 46 | [Al Sabor Del Champagne](https://open.spotify.com/track/31CBLt8Zkp2kEE6JX8aWx0) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Al Sabor Del Champagne](https://open.spotify.com/album/2Fg4m6JftW78wXMQ1bEaUG) | 2:52 |
 | 47 | [No Creo Merecerte](https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [No Creo Merecerte](https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh) | 3:05 |
-| 48 | [No Llores Mis Recuerdos](https://open.spotify.com/track/0rUYYUjhjxQDE2Zc6tDK5A) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Cuenta Conmigo](https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se) | 4:11 |
-| 49 | [Por Una Sonrisa](https://open.spotify.com/track/1Bbf3b3q6g8ycctLHCVDZA) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Lo Mejor De Mi Repertorio](https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR) | 3:01 |
+| 48 | [Por Una Sonrisa](https://open.spotify.com/track/1Bbf3b3q6g8ycctLHCVDZA) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Lo Mejor De Mi Repertorio](https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR) | 3:01 |
+| 49 | [No Llores Mis Recuerdos](https://open.spotify.com/track/0rUYYUjhjxQDE2Zc6tDK5A) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Cuenta Conmigo](https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se) | 4:11 |
 | 50 | [El Baleado \- En Vivo](https://open.spotify.com/track/4eAMrahsJUpJipw0mqJDtn) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Desde La Playa Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/5Cg2SJc24bmBeoTQZ3ulVt) | 3:45 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDA5YzNkM2VlYjU0YjA4ZDRjOWE5ZGU5NjRjMjE3OWFhYQ==`
+Snapshot ID: `MjgxODYwODIsMDAwMDAwMDA1MjY5N2YwNmUwYzEzMWE4ZDdiNWVjM2UzN2EzNDlhMQ==`

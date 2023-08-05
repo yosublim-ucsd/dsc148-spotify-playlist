@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 664222,
+  "num_followers": 664411,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjUxNDY1M2U5NWEzNjk4OGQ3MTIzNDUxMjU5MTExNTE0YWNkZjJh",
+  "snapshot_id": "MCxlOWIyOTE5NWE3OGJkYjVkYmYxMzQ2MDUwOGU5OTY4NmNiMTA5ZjYy",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Un D\u00eda A La Vez",
-        "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        }
-      ],
-      "duration_ms": 160106,
-      "name": "Eucalipto",
-      "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Despierto",
         "url": "https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 199017,
       "name": "Despierto",
       "url": "https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Un D\u00eda A La Vez",
+        "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "duration_ms": 160106,
+      "name": "Eucalipto",
+      "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "UNA LUZ",
+        "url": "https://open.spotify.com/album/6JXgkVDyf9IFhyfn1TGNSY"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 127275,
+      "name": "UNA LUZ",
+      "url": "https://open.spotify.com/track/1c3qAaZrwvcTHHOL8XrHLJ"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Visa",
         "url": "https://open.spotify.com/album/3d77pCQ3luC9ZkqQZhE45o"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "UNA LUZ",
-        "url": "https://open.spotify.com/album/6JXgkVDyf9IFhyfn1TGNSY"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 127275,
-      "name": "UNA LUZ",
-      "url": "https://open.spotify.com/track/1c3qAaZrwvcTHHOL8XrHLJ"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "GOTEO",
         "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 230540,
       "name": "MI TODO",
       "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Singles 2019-2021",
+        "url": "https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "duration_ms": 224268,
+      "name": "Clich\u00e9",
+      "url": "https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1023,22 +1039,6 @@
       "duration_ms": 144255,
       "name": "cuarto pa' las doce",
       "url": "https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Singles 2019-2021",
-        "url": "https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 224268,
-      "name": "Clich\u00e9",
-      "url": "https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Bolitas",
-        "url": "https://open.spotify.com/album/3BNA0RribroeshLDr3PTWB"
-      },
-      "artists": [
-        {
-          "name": "Colectivo Da Silva",
-          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
-        }
-      ],
-      "duration_ms": 221322,
-      "name": "Bolitas",
-      "url": "https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 235102,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/1pvwboMTkqES8ExXx5JBag"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Bolitas",
+        "url": "https://open.spotify.com/album/3BNA0RribroeshLDr3PTWB"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Da Silva",
+          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
+        }
+      ],
+      "duration_ms": 221322,
+      "name": "Bolitas",
+      "url": "https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "no est\u00e1s",
-        "url": "https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 164369,
-      "name": "no est\u00e1s",
-      "url": "https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Iridiscente",
         "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 180320,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "no est\u00e1s",
+        "url": "https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 164369,
+      "name": "no est\u00e1s",
+      "url": "https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "if you let me",
-        "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
-      },
-      "artists": [
-        {
-          "name": "riela",
-          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "if you let me",
-      "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Esc\u00e1pate",
         "url": "https://open.spotify.com/album/0X8qCLQQl7u0ovRKkl0kWJ"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 178200,
       "name": "Knock Out",
       "url": "https://open.spotify.com/track/1qkmBKxrpW2brB10WlqM99"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "if you let me",
+        "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
+      },
+      "artists": [
+        {
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "if you let me",
+      "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
     },
     {
       "added_at": "2023-07-28 04:00:00",

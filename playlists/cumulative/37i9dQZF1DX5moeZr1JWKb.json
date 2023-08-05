@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "Flow Amazing",
+        "url": "https://open.spotify.com/album/5FRw6kGV05wV7NrIcsd58V"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo Genek",
+          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92783,
+      "name": "Amor Sin Contrato",
+      "url": "https://open.spotify.com/track/3B56Mr3QophjrI2hB9R2qc"
+    },
+    {
+      "album": {
         "name": "Asi Es la Vida",
         "url": "https://open.spotify.com/album/4yLc8PxzYwiyTw2iogrCK3"
       },
@@ -64,7 +82,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 132000,
       "name": "Asi Es la Vida",
       "url": "https://open.spotify.com/track/5BA4WEqUAPHBqx4bxO7Ld5"
@@ -130,6 +148,24 @@
       "duration_ms": 163723,
       "name": "Bendici\u00f3n o Desgracia",
       "url": "https://open.spotify.com/track/2jMh4nHPNtayqz7MsAnoc9"
+    },
+    {
+      "album": {
+        "name": "Bogot\u00e1",
+        "url": "https://open.spotify.com/album/3eSvHe6Q008l85ZJ8s6lEH"
+      },
+      "artists": [
+        {
+          "name": "Tres Coronas",
+          "url": "https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201714,
+      "name": "Bogot\u00e1",
+      "url": "https://open.spotify.com/track/6DcedC1YjHenkutpm6X2KA"
     },
     {
       "album": {
@@ -280,6 +316,28 @@
       "duration_ms": 194495,
       "name": "Como Bolero",
       "url": "https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv"
+    },
+    {
+      "album": {
+        "name": "Como la Luna",
+        "url": "https://open.spotify.com/album/2ZOtTWMHm1DG7lNFsjhJDI"
+      },
+      "artists": [
+        {
+          "name": "Selene",
+          "url": "https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226437,
+      "name": "Como la Luna",
+      "url": "https://open.spotify.com/track/1UEHZCmDiPnyHM0iYZCBtQ"
     },
     {
       "album": {
@@ -578,7 +636,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 247640,
       "name": "Estrapgos",
       "url": "https://open.spotify.com/track/0NayxfCD9umqeRlllJHO2y"
@@ -699,6 +757,24 @@
     },
     {
       "album": {
+        "name": "TOY LOKAZO",
+        "url": "https://open.spotify.com/album/5Dqi0yKIDsT7Bds9F3VHIn"
+      },
+      "artists": [
+        {
+          "name": "Jaze",
+          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "ke ser\u00e1 de m\u00ed",
+      "url": "https://open.spotify.com/track/2Nbv8V7VtWUohwHmtFBJ9y"
+    },
+    {
+      "album": {
         "name": "La Junta",
         "url": "https://open.spotify.com/album/4tmlpeh4UeaZPxyEblnAzV"
       },
@@ -789,6 +865,24 @@
     },
     {
       "album": {
+        "name": "Formas para Perderse o I.D.E.A.S",
+        "url": "https://open.spotify.com/album/4BPphO6cUdSLxYXefZSd0R"
+      },
+      "artists": [
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332446,
+      "name": "Los Verbos",
+      "url": "https://open.spotify.com/track/72LpgXEUlfjT0twa1YlJGs"
+    },
+    {
+      "album": {
         "name": "EL BLOKE",
         "url": "https://open.spotify.com/album/0gGEc0IvXmdXaXUtOosEYh"
       },
@@ -856,7 +950,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 200000,
       "name": "Mala Fe",
       "url": "https://open.spotify.com/track/6YIPZSCLIGU44X4ksMfSsM"
@@ -874,7 +968,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 162352,
       "name": "Mermelada",
       "url": "https://open.spotify.com/track/4D8gHiFn0dK0Mbo8hxVAGF"
@@ -1057,6 +1151,28 @@
     },
     {
       "album": {
+        "name": "Gallo Tapao #1 (Ep)",
+        "url": "https://open.spotify.com/album/6lGoHLcS8Wwbl1YM392BRj"
+      },
+      "artists": [
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146750,
+      "name": "Otro Concierto",
+      "url": "https://open.spotify.com/track/3D2g4YCGiiSidMABDe9ypA"
+    },
+    {
+      "album": {
         "name": "No Ten\u00edamos Nada, Pero \u00c9ramos Felices",
         "url": "https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs"
       },
@@ -1182,7 +1298,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 342142,
       "name": "Quiero Ser Baladista",
       "url": "https://open.spotify.com/track/5vn7LJgmLIy8Xxg7359eO6"
@@ -1462,7 +1578,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 223437,
       "name": "Un Beso",
       "url": "https://open.spotify.com/track/007UTWXFgD65IDRcoVvQx9"
@@ -1532,7 +1648,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 254281,
       "name": "Vaiv\u00e9n",
       "url": "https://open.spotify.com/track/5Pmqbpl8LsFAOTVM5CyLcy"

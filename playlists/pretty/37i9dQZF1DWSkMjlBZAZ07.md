@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,969,281 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,969,443 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,10 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 74 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
 | 75 | [Hey Baby](https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj) | 2:50 |
 | 76 | [Bad Blood](https://open.spotify.com/track/0TDji9s4SDqN0CldK1bBU1) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Bad Blood](https://open.spotify.com/album/1UGw8OmeHw7FbiOEekbGlz) | 2:45 |
-| 77 | [Diamonds In The Snow](https://open.spotify.com/track/45FWmYpboXilptta3D9fxD) | [Scott McMicken and THE EVER\-EXPANDING](https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc) | [Shabang](https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv) | 4:10 |
-| 78 | [I Will Remain](https://open.spotify.com/track/52VPecMGJQOxyWWWgnUvsI) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [To the North](https://open.spotify.com/album/0cKaHI9t8EnlykFdIRspw3) | 3:26 |
-| 79 | [Silver Lining](https://open.spotify.com/track/2fpDrL2Vpee0JnM6AoUFvl) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Silver Lining](https://open.spotify.com/album/3FxWxJXvkNN3peG2iikNh7) | 3:19 |
-| 80 | [Rusty](https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [The Art of Escape](https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn) | 3:18 |
+| 77 | [I Will Remain](https://open.spotify.com/track/52VPecMGJQOxyWWWgnUvsI) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [To the North](https://open.spotify.com/album/0cKaHI9t8EnlykFdIRspw3) | 3:26 |
+| 78 | [Diamonds In The Snow](https://open.spotify.com/track/45FWmYpboXilptta3D9fxD) | [Scott McMicken and THE EVER\-EXPANDING](https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc) | [Shabang](https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv) | 4:10 |
+| 79 | [Rusty](https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [The Art of Escape](https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn) | 3:18 |
+| 80 | [Silver Lining](https://open.spotify.com/track/2fpDrL2Vpee0JnM6AoUFvl) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Silver Lining](https://open.spotify.com/album/3FxWxJXvkNN3peG2iikNh7) | 3:19 |
 | 81 | [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 |
 | 82 | [White Flag](https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 3:19 |
 | 83 | [Two of Us On the Run](https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez) | 4:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 99 | [Life's What You Make It](https://open.spotify.com/track/5rRDCbF97rcJW0ES9RhPhC) | [Graham Colton](https://open.spotify.com/artist/3bCmhyXqTr9ZNGlHNYNTFA) | [Life's What You Make It](https://open.spotify.com/album/2p1lJKQNcodNZVqsuFq6H2) | 3:06 |
 | 100 | [Get It ‘Fore It’s Gone](https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [In The Blossom of Their Shade](https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf) | 3:34 |
 
-Snapshot ID: `MCw4NmY3M2ZlYjUzNjJlYWUxMjUwNzRlNDA3NGFkMGI2OWVmODVhNjBh`
+Snapshot ID: `MCw2OTgwNjVlMDU4OGMzMThjNTg1YjlmZjMzYjNjMzc3ZTM3MzljNjRj`

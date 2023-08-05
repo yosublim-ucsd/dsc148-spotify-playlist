@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock bands/artists in Japan right now! Cover: \u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-  "num_followers": 263701,
+  "num_followers": 263818,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjVhNDRjZGFiNGFhYjQxZWMxYWExZTMxZThlMTU5NDdkZTJiYTIw",
+  "snapshot_id": "MCxiZmE3Zjc2ZjBkYzcxZWFlY2VlNzEwOTBlODE0MjEyNTYwZmQ2OGJi",
   "tracks": [
     {
       "added_at": "2023-08-01 15:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-08-01 15:00:00",
       "album": {
-        "name": "\u79c1\u306f\u732b\u306e\u76ee",
-        "url": "https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx"
-      },
-      "artists": [
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "\u79c1\u306f\u732b\u306e\u76ee",
-      "url": "https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd"
-    },
-    {
-      "added_at": "2023-08-01 15:00:00",
-      "album": {
         "name": "\u30b9\u30dd\u30fc\u30c4",
         "url": "https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 180000,
       "name": "\u80fd\u52d5\u7684\u4e09\u5206\u9593",
       "url": "https://open.spotify.com/track/4veOvrYiK224LWEqHX39vv"
+    },
+    {
+      "added_at": "2023-08-01 15:00:00",
+      "album": {
+        "name": "\u79c1\u306f\u732b\u306e\u76ee",
+        "url": "https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "\u79c1\u306f\u732b\u306e\u76ee",
+      "url": "https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd"
     }
   ],
   "unique_name": "Big in Japan",

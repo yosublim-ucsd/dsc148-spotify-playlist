@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-785 songs - 1 day 19 hr 31 min
+786 songs - 1 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,6 +710,7 @@
 | [This fffire \- New Version](https://open.spotify.com/track/46gSk82duJtX3TTA182ruG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [This fffire](https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll) | 3:38 | 2022-09-29 | 2023-06-06 |
 | [Thor: The Dark World](https://open.spotify.com/track/0DX8cevJ5isMroRfT17dOn) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Thor: The Dark World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OeadLLasL6zqGPjPEic6x) | 2:10 | 2019-09-29\* | 2021-03-14 |
 | [Ticket To Ride](https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Ticket To Ride](https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq) | 3:02 | 2021-05-24 | 2021-12-11 |
+| [Ticking Away](https://open.spotify.com/track/4bdzlt280luOgFi0ZlkTvR) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Ticking Away](https://open.spotify.com/album/2CNm7QxoOSkqawLMnoepZB) | 3:25 | 2023-08-04 |  |
 | [Time](https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Inception \(Music From The Motion Picture\)](https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp) | 4:35 | 2019-09-29\* | 2021-03-10 |
 | [Tiring Game](https://open.spotify.com/track/7eeg1G22Q386Zigie8qrpN) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Revolve](https://open.spotify.com/album/4BJEBuRutpTG0rW5OEg3iu) | 3:23 | 2021-05-23 | 2021-12-11 |
 | [To the Bone](https://open.spotify.com/track/6A1otOgRcNpIs0eta8D4tb) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk) | [Game On!](https://open.spotify.com/album/6SpxyDfoqxLUuvd5jiyAZx) | 4:53 | 2022-04-13 |  |

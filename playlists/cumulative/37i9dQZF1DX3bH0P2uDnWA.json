@@ -5045,6 +5045,28 @@
     },
     {
       "album": {
+        "name": "The Beat Goes On (Future Swing Mix)",
+        "url": "https://open.spotify.com/album/6hfS8LlDXKpphG1mgiZ3sM"
+      },
+      "artists": [
+        {
+          "name": "Bbop",
+          "url": "https://open.spotify.com/artist/2lCZNuPKVZbPkvAxpGnsII"
+        },
+        {
+          "name": "Betty Booom",
+          "url": "https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128300,
+      "name": "The Beat Goes On - Future Swing Mix",
+      "url": "https://open.spotify.com/track/2izKXaS7nITbsTWS51X2aD"
+    },
+    {
+      "album": {
         "name": "The Cat Came Back",
         "url": "https://open.spotify.com/album/3NMJ7yVpUcwwE5alueef9V"
       },

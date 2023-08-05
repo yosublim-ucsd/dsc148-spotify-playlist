@@ -4,7 +4,7 @@
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-120 songs - 10 hr 4 min
+121 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [And Then I Turned Away](https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 3:30 | 2022-08-09 |  |
 | [Anfangtastisch \- Remastered 2022](https://open.spotify.com/track/4HwEPEnSRL5LZaH9luAKue) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Streichelfisch \(Remastered 2022\)](https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6) | 1:14 | 2022-08-09 |  |
 | [Aparaquasynthe \- Remastered 2022](https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Streichelfisch \(Remastered 2022\)](https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6) | 5:51 | 2022-08-09 |  |
-| [Arvesølv](https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 2:38 | 2022-08-09 |  |
+| [Arvesølv](https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 2:38 | 2022-08-09 | 2023-08-05 |
 | [Austin Texas Mental Hospital, Pt\. 3](https://open.spotify.com/track/7DggAuNltLAhPaineGWUpD) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [The Tired Sounds of Stars of the Lid](https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl) | 5:47 | 2022-08-09 |  |
 | [Ba Ba](https://open.spotify.com/track/16To30yLksgfW2l2iGnsvY) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ba Ba Ti Ki Di Do](https://open.spotify.com/album/0UivSfs4EofCWkNHhycH1q) | 6:12 | 2022-08-09 |  |
 | [Blind Contour Drawing for Piano](https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [L'Orange L'Orange](https://open.spotify.com/album/3yVzkwlzy9FMprEMcPHoG5) | 5:14 | 2022-12-30 |  |
@@ -29,6 +29,7 @@
 | [Borderlands](https://open.spotify.com/track/3hVO7ocg93xTMZDCK10xZt) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [An Imaginary Country](https://open.spotify.com/album/25dw2V4di8Wibx99F1jE5R) | 4:46 | 2022-08-09 |  |
 | [Btwn You + Me](https://open.spotify.com/track/2c29Sowwtuf7U3Thnh24nK) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Songs for the Broken Hearted](https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC) | 6:18 | 2022-08-09 |  |
 | [Calm Of The Cast\-Light Cloud](https://open.spotify.com/track/5e5lDuehzdZRJaoRjCmwPj) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Talk Amongst the Trees](https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p) | 5:30 | 2022-08-09 |  |
+| [chessa](https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 6:58 | 2023-08-04 |  |
 | [City of Light](https://open.spotify.com/track/1x5gVSrVSGtnNZ3JewrKKH) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Venice](https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ) | 6:34 | 2022-08-09 |  |
 | [Cold Out There](https://open.spotify.com/track/0c0ZVPQPNOfoW16dSa891N) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou) | 3:54 | 2022-08-09 |  |
 | [Coral Gables](https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [Through the Cardial Window](https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU) | 5:50 | 2022-08-09 |  |

@@ -2,7 +2,7 @@
 
 ### [Nouveautés francophones](https://open.spotify.com/playlist/37i9dQZF1DX9SvXmR7wQty)
 
-> Découvrez les meilleures nouveautés francophones\. Photo: Salebarbes
+> Découvrez les meilleures nouveautés francophones\. Photo: Eli Rose
 
 1,972 songs - 4 day 9 hr 18 min
 

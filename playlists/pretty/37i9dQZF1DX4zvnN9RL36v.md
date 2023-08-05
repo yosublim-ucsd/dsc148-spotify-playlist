@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 
 > 내 마음을 노랫말이 알아줄 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,647 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,652 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 11 | [구애 \(求愛\) Propose](https://open.spotify.com/track/5l4dUjmoMoPaobxwjOZYPY) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [구애 \(求愛\) Propose](https://open.spotify.com/album/0Kkbekrv59RZxdbbZ6ICyZ) | 3:33 |
 | 12 | [An Ordinary Day](https://open.spotify.com/track/2RzUXBM4M82BfsGriLx8mk) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Mister \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UMbArkE5oPJArjsfiDxqw) | 4:34 |
 | 13 | [나였으면](https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [중독](https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK) | 4:22 |
-| 14 | [이럴거면 그러지말지 Shouldn't Have… \(feat\. Young K\)](https://open.spotify.com/track/4F9EZD74cDuCwqn3neLqJE) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [이럴거면 그러지말지 Shouldn't Have…](https://open.spotify.com/album/4YZRASuAhduD5cAJAsxFvL) | 3:32 |
+| 14 | [Shouldn't Have...](https://open.spotify.com/track/4F9EZD74cDuCwqn3neLqJE) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX), [Young K](https://open.spotify.com/artist/2K1piKoDWujwiWh5pdktIV) | [Shouldn't Have...](https://open.spotify.com/album/4YZRASuAhduD5cAJAsxFvL) | 3:32 |
 | 15 | [그녀를 사랑해줘요](https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Stand Alone](https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i) | 4:19 |
 | 16 | [Don’t Like Her](https://open.spotify.com/track/5DZMjcAMca1rT2dD9dYdCg) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Spring of Twenty](https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb) | 4:17 |
 | 17 | [Greeting](https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Chocolate, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/0w6aqyXQlvBxOIhqmRKk4C) | 3:25 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 37 | [Even though I hate you, I love you \(Special Track\)](https://open.spotify.com/track/2yoTyFjOAOYCRDBzWfSFq4) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 5:25 |
 | 38 | [Tattoo](https://open.spotify.com/track/6ly2IeEPXEtzsUMgwOk3P6) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [AMY](https://open.spotify.com/album/0qocbypKL5iOqhvbt3n3uo) | 3:19 |
 | 39 | [Do You Know That](https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt) | [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [The Forbidden Marriage, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0l0tL7F4yLUwG3Ms2ivBsI) | 3:33 |
-| 40 | [to him](https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [19to20](https://open.spotify.com/album/7zq8yS4JkTPQNRrS8lptY1) | 3:39 |
+| 40 | [to him](https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [19 to 20](https://open.spotify.com/album/7zq8yS4JkTPQNRrS8lptY1) | 3:39 |
 | 41 | [A lonely song](https://open.spotify.com/track/2naBl4NQlX9a4t6ONd47nF) | [I'll](https://open.spotify.com/artist/5CMK32w7gbxJsFe67eZJqs) | [A lonely song](https://open.spotify.com/album/6AJlKivqnbSRgP49nNR0ba) | 3:45 |
 | 42 | [Her](https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0) | [CherryB](https://open.spotify.com/artist/0Bd1VLl8A4yk5vo2XfVnCd) | [Her](https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t) | 4:09 |
 | 43 | [Love Me Once Again](https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RE:PLAYLIST Vol.3](https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa) | 4:24 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 46 | [Wanna be her](https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [One Strange Night](https://open.spotify.com/album/2NIHcafPBpwE9exKTsSWrr) | 4:11 |
 | 47 | [One\-sided love](https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [One\-sided love](https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw) | 3:10 |
 | 48 | [I Ain't Over](https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB) | 4:10 |
-| 49 | [Loving You is Loving Me](https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd) | [Han Yeoyoo](https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP) | [Loving You is Loving Me](https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG) | 3:43 |
-| 50 | [Eul \(feat\. Jehwwn\)](https://open.spotify.com/track/0rs5yeJDBlpT63BB5R7MzY) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [Seoul Vibes Pt.6](https://open.spotify.com/album/1yod6TfvhiqSdqnMkq6q5J) | 3:23 |
+| 49 | [Eul \(feat\. Jehwwn\)](https://open.spotify.com/track/0rs5yeJDBlpT63BB5R7MzY) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [Seoul Vibes Pt.6](https://open.spotify.com/album/1yod6TfvhiqSdqnMkq6q5J) | 3:23 |
+| 50 | [Loving You is Loving Me](https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd) | [Han Yeoyoo](https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP) | [Loving You is Loving Me](https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG) | 3:43 |
 
-Snapshot ID: `MCw4Y2NkZjU2NzkwOTBmYzEzZGY4ZDFkOGJjZWZmMmQ4Nzc3MTNkZGFk`
+Snapshot ID: `MCw3ZTdlZTY5NjBkYTAwMDM2NWFkMzZkY2IyNDA1MDAyZjQxZDgyNjZm`

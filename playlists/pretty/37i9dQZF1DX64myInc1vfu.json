@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: La Isla Centeno",
-  "num_followers": 71494,
+  "num_followers": 71543,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmRkNzRhOTFkMjFjZjc5YzE4MWQzMDQ5N2M5YjE4ZmNlMWEyZmYw",
+  "snapshot_id": "MCw4ZTI2NWQ3ZmJkODdjNzdkZDZjMGExZjgyYTk3MjY5ZDFjNGY2ZWVl",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Camas Separadas",
+        "url": "https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 218506,
+      "name": "Costa Rica",
+      "url": "https://open.spotify.com/track/6fodcUvAswFV8Az3Imd5F5"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Como habla una mujer (feat. C. Tangana)",
         "url": "https://open.spotify.com/album/09sHAU8dDbAuIy3RfCM3wZ"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 206889,
       "name": "Como habla una mujer (feat. C. Tangana)",
       "url": "https://open.spotify.com/track/1pJeLDLduCZS4hLuc1JByJ"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Camas Separadas",
-        "url": "https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 218506,
-      "name": "Costa Rica",
-      "url": "https://open.spotify.com/track/6fodcUvAswFV8Az3Imd5F5"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Cuando Te Encuentre",
+        "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 176056,
+      "name": "Cuando Te Encuentre",
+      "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Saudade (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 296671,
       "name": "Saudade - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Cuando Te Encuentre",
-        "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 176056,
-      "name": "Cuando Te Encuentre",
-      "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Tengo Algo Que Decirte",
-        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
+        "name": "Pajaritos",
+        "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
       },
       "artists": [
         {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
         }
       ],
-      "duration_ms": 206546,
-      "name": "Tengo Algo Que Decirte",
-      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
+      "duration_ms": 144300,
+      "name": "Pajaritos",
+      "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Pajaritos",
-        "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
+        "name": "Tengo Algo Que Decirte",
+        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
       },
       "artists": [
         {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
         }
       ],
-      "duration_ms": 144300,
-      "name": "Pajaritos",
-      "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
+      "duration_ms": 206546,
+      "name": "Tengo Algo Que Decirte",
+      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Cuenta Regresiva",
-        "url": "https://open.spotify.com/album/469L6ILwfPQV6nQgtZ8cSL"
-      },
-      "artists": [
-        {
-          "name": "Salma",
-          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
-        }
-      ],
-      "duration_ms": 193672,
-      "name": "Cuenta Regresiva",
-      "url": "https://open.spotify.com/track/1uRn5FuNtdRKsXvzprK3Nm"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Amor En Cuarentena",
         "url": "https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 165586,
       "name": "Amor En Cuarentena",
       "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Cuenta Regresiva",
+        "url": "https://open.spotify.com/album/469L6ILwfPQV6nQgtZ8cSL"
+      },
+      "artists": [
+        {
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+        }
+      ],
+      "duration_ms": 193672,
+      "name": "Cuenta Regresiva",
+      "url": "https://open.spotify.com/track/1uRn5FuNtdRKsXvzprK3Nm"
     },
     {
       "added_at": "2023-07-28 04:01:00",

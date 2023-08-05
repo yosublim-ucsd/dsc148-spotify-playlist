@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,378 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,404 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 86 | [Liar](https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [Circle](https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl) | 4:31 |
 | 87 | [Mister Man](https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD) | [Turkuaz](https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7) | [Afterlife Vol\. 2 \- EP](https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al) | 3:46 |
 | 88 | [Body Party](https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4) | [Jukestone Paradise](https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y) | 4:02 |
-| 89 | [I'm Your Biggest Fan](https://open.spotify.com/track/4IThPVciaEpF0h8rIs1QnV) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [Gnomes & Badgers](https://open.spotify.com/album/56MQoYzvGvaaECXTN9rUFY) | 3:36 |
-| 90 | [Miss Mess](https://open.spotify.com/track/47agFZSo5O4c6ZEJfgfH8k) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Anna Brooks](https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV), [Iwan VanHetten](https://open.spotify.com/artist/2aeUMFKtymkdC7J7ZH30WY) | [Stay Good](https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7) | 5:32 |
+| 89 | [Miss Mess](https://open.spotify.com/track/47agFZSo5O4c6ZEJfgfH8k) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Anna Brooks](https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV), [Iwan VanHetten](https://open.spotify.com/artist/2aeUMFKtymkdC7J7ZH30WY) | [Stay Good](https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7) | 5:32 |
+| 90 | [I'm Your Biggest Fan](https://open.spotify.com/track/4IThPVciaEpF0h8rIs1QnV) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [Gnomes & Badgers](https://open.spotify.com/album/56MQoYzvGvaaECXTN9rUFY) | 3:36 |
 | 91 | [.img](https://open.spotify.com/track/5BXZOifc6Z6M2QCYWPFspA) | [Brother Theodore](https://open.spotify.com/artist/5MBOU2gdYzq0EDy0BoUykg) | [St\. Ann](https://open.spotify.com/album/3DOaQqmgxasR3CtsJnnynn) | 5:47 |
 | 92 | [Do It with Soul](https://open.spotify.com/track/4U3pzSGJKpi3JwAOZygvwX) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Soul Side of Town](https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ) | 3:53 |
 | 93 | [Warning](https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Kaiit](https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2) | [Lab Experiments, Vol\. 2](https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 99 | [Wild](https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh) | [Garth.](https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI), [Mammal Dap](https://open.spotify.com/artist/7nel0SBlJRHLKGr5VZMleq) | [Wild](https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK) | 3:32 |
 | 100 | [Wired Up](https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [TBNH](https://open.spotify.com/album/6gL04x8eHRhPngzh6WzFq2) | 3:32 |
 
-Snapshot ID: `MCwwOGRlY2Y1OTYzMTVjZTc2MjA3Mzk0YTFhNzdhNTRlNjAwYzI2ZTk3`
+Snapshot ID: `MCwyOTlmOGFjZTdlZGNjYzk1ZmRhMTc1ZWYwNWI0MjEyODkzZjg3NTIy`

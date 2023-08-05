@@ -3421,6 +3421,28 @@
     },
     {
       "album": {
+        "name": "AFTER THE END ft. Yuna",
+        "url": "https://open.spotify.com/album/17iAVZo5SYPXSplTNhMWnl"
+      },
+      "artists": [
+        {
+          "name": "clear eyes",
+          "url": "https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "AFTER THE END ft. Yuna",
+      "url": "https://open.spotify.com/track/0mRBk0W4P9QV59jBGfbpSH"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/11ZZHbKeaw32nDGhpXQSdl"
       },
@@ -70817,6 +70839,24 @@
     },
     {
       "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172892,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
+    },
+    {
+      "album": {
         "name": "Make Way",
         "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
       },
@@ -75971,7 +76011,7 @@
     },
     {
       "album": {
-        "name": "Mu\u00f1ekita (with El Alfa & JT from City Girls)",
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
         "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
       },
       "artists": [
@@ -75992,7 +76032,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219642,
-      "name": "Mu\u00f1ekita (with El Alfa & JT from City Girls)",
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
     },
     {
@@ -86161,6 +86201,24 @@
     },
     {
       "album": {
+        "name": "Peanut Butter & Tears",
+        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225613,
+      "name": "Peanut Butter & Tears",
+      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
+    },
+    {
+      "album": {
         "name": "Peanut Butter Crackers",
         "url": "https://open.spotify.com/album/3RwPpkRKx7nLWfjwvPHlrj"
       },
@@ -91780,14 +91838,6 @@
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Ezekiel \"Slashmouth\" Miller",
-          "url": "https://open.spotify.com/artist/3oFDmAWLkcObKnmOeaGpSa"
-        },
-        {
-          "name": "Mike Strange",
-          "url": "https://open.spotify.com/artist/3aMlmfmaVX2q34LRfIgB3O"
         }
       ],
       "date_added": "2023-08-03",
@@ -129066,7 +129116,7 @@
     {
       "album": {
         "name": "XXL",
-        "url": "https://open.spotify.com/album/4K0wKLFE0LxcQAmcmVvd0X"
+        "url": "https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf"
       },
       "artists": [
         {
@@ -129077,6 +129127,24 @@
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206706,
+      "name": "XXL",
+      "url": "https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0"
+    },
+    {
+      "album": {
+        "name": "XXL",
+        "url": "https://open.spotify.com/album/4K0wKLFE0LxcQAmcmVvd0X"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-05",
       "duration_ms": 206706,
       "name": "XXL",
       "url": "https://open.spotify.com/track/7AftUxnj6ngHrWiT29xwKK"

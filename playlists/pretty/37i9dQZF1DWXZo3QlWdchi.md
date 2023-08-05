@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,715 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,856 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 44 | [Dança do Tempo \- Ao Vivo](https://open.spotify.com/track/5kB97u7TFIsfor7faFWtvO) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [A Céu Aberto \(Ao Vivo\)](https://open.spotify.com/album/3YMSBwHkhEE4yfpzQqzXHu) | 4:04 |
 | 45 | [My Hero \- Live at Studio 606 West, Northridge, CA \- September 2007](https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [00070725 Live At Studio 606](https://open.spotify.com/album/1i7uzsvuhrO7d1gXSZnr4X) | 4:39 |
 | 46 | [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 |
-| 47 | [Behind Your Walls \- Acoustic](https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Behind Your Walls](https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ) | 3:21 |
-| 48 | [Pra Dizer Adeus \- Trio Acústico](https://open.spotify.com/track/5d3FwTgLhVIFf6UcSIfkk8) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Pra Dizer Adeus \(Trio Acústico\)](https://open.spotify.com/album/5UNoFiPyAyTq9B6E4CBX2g) | 3:44 |
-| 49 | [Can You Hear Me \- Acoustic](https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Can You Hear Me \(Acoustic\)](https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR) | 2:54 |
-| 50 | [Aposta \- Ao Vivo](https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Acústico 20 Anos \- O Amor Não Tem Inimigos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ) | 3:33 |
+| 47 | [Aposta \- Ao Vivo](https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Acústico 20 Anos \- O Amor Não Tem Inimigos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ) | 3:33 |
+| 48 | [Behind Your Walls \- Acoustic](https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Behind Your Walls](https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ) | 3:21 |
+| 49 | [Pra Dizer Adeus \- Trio Acústico](https://open.spotify.com/track/5d3FwTgLhVIFf6UcSIfkk8) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Pra Dizer Adeus \(Trio Acústico\)](https://open.spotify.com/album/5UNoFiPyAyTq9B6E4CBX2g) | 3:44 |
+| 50 | [Can You Hear Me \- Acoustic](https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Can You Hear Me \(Acoustic\)](https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR) | 2:54 |
 | 51 | [With Or Without You \- Songs Of Surrender](https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [With Or Without You \(Songs Of Surrender\)](https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0) | 3:14 |
 | 52 | [Fast Car](https://open.spotify.com/track/6Vjch0N0MK9NZ5piuLZHv1) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Fast Car b/w Fire](https://open.spotify.com/album/71iDfOWbiVriNL3FnD6fFJ) | 5:42 |
 | 53 | [Hear Me Now \- Ao Vivo](https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Sex on the Beach \(Ao Vivo\)](https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 74 | [Canção Da Meia Noite](https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Outros](https://open.spotify.com/album/0CzqUT8e3oHcXOXWiSxyY0) | 4:02 |
 | 75 | [Malandragem \- Ao Vivo](https://open.spotify.com/track/0brP1QBsJiMoqt3jqEHZaN) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Pop Brasil das Antigas](https://open.spotify.com/album/1hszah1arYRilCMPwvB6Ib) | 4:00 |
 
-Snapshot ID: `MCw1N2RiM2I2NDhkOWQzODg3N2FhMmYwMjgxOTI2N2EwMzI5YTE3Mzcx`
+Snapshot ID: `MCwyN2U2OTNkN2QxZWQyZTZkYzBjMzEyMDNkMDIwYWM1MWY5NWE0ZTkx`

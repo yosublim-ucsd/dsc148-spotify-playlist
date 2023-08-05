@@ -4,7 +4,7 @@
 
 > Dance tracks for a big workout.
 
-425 songs - 21 hr 6 min
+426 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Language](https://open.spotify.com/track/4ta97KyyCWLCQAAFtOWFpy) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Language](https://open.spotify.com/album/24FFBFTNl0Rraus5wPoQnH) | 6:08 | 2022-04-01 | 2022-04-09 |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-06 |  |
 | [Learn To Love Me \(feat\. Ryan Tedder\)](https://open.spotify.com/track/5Apm1AC2iO9thO32d5bA8y) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Learn To Love Me \(feat\. Ryan Tedder\)](https://open.spotify.com/album/1iWgVSKcE2Jiqixcq1qEsg) | 2:58 | 2022-01-07 | 2022-03-12 |
-| [Left & Right](https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Left & Right](https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS) | 2:34 | 2022-10-14 |  |
+| [Left & Right](https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Left & Right](https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS) | 2:34 | 2022-10-14 | 2023-08-05 |
 | [Let Them Know](https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Let Them Know](https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB) | 2:28 | 2022-01-07 | 2022-04-16 |
 | [Let U Have Me](https://open.spotify.com/track/0y2sS5edZlqYvTebwphr8q) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Let U Have Me](https://open.spotify.com/album/6oZBo1srQJ4hi4KT3ibm2v) | 2:45 | 2022-04-22 | 2022-07-29 |
 | [Let You Go](https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:54 | 2022-03-11 | 2022-05-28 |
@@ -255,6 +255,7 @@
 | [Mexico](https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Mexico](https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6) | 2:33 | 2023-05-19 |  |
 | [Midnight Rapture](https://open.spotify.com/track/1c5sVhqoQvLHTXTYJTb98i) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Midnight Rapture](https://open.spotify.com/album/52OxA20iRzso3tPiXvHkrF) | 3:17 | 2022-01-07 | 2022-05-07 |
 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 | 2022-09-02 |  |
+| [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:53 | 2023-08-04 |  |
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2022-07-29 |  |
 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 | 2022-10-28 |  |
 | [Mistakes](https://open.spotify.com/track/0RvQLK3wSHhRuC55sjxeSQ) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Mistakes](https://open.spotify.com/album/3U16S348ETHW0DTPeM9Pp0) | 2:33 | 2022-01-28 | 2022-07-29 |

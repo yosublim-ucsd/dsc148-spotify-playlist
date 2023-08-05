@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,602 likes - 150 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,924 likes - 150 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 40 | [The Sweetest Thing \(I've Ever Known\)](https://open.spotify.com/track/3EFgVWb1TAYP3CF17BB4fU) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice Newton's Greatest Hits](https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw) | 4:08 |
 | 41 | [Mountain Music](https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Ultimate Alabama 20 \# 1 Hits](https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z) | 3:38 |
 | 42 | [Lookin' for Love](https://open.spotify.com/track/5pvNhGuCow3Eq1nWbP3Sco) | [Johnny Lee](https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu) | [Lookin' For Love](https://open.spotify.com/album/6AxUdkfWrqHQxQEHKbqL47) | 3:40 |
-| 43 | [The One I Loved Back Then \(The Corvette Song\)](https://open.spotify.com/track/0RbaD2rw0HmpfflXFH9DKu) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Who's Gonna Fill Their Shoes](https://open.spotify.com/album/0SRwLRes0ubEsYsjM9F5uL) | 2:30 |
+| 43 | [Killin' Time](https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Ultimate Clint Black](https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz) | 2:48 |
 | 44 | [You Look So Good In Love](https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [George Strait's Greatest Hits](https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c) | 3:13 |
-| 45 | [Killin' Time](https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Ultimate Clint Black](https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz) | 2:48 |
+| 45 | [The One I Loved Back Then \(The Corvette Song\)](https://open.spotify.com/track/0RbaD2rw0HmpfflXFH9DKu) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Who's Gonna Fill Their Shoes](https://open.spotify.com/album/0SRwLRes0ubEsYsjM9F5uL) | 2:30 |
 | 46 | [Big City](https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 2:59 |
 | 47 | [Rockin' With The Rhythm Of The Rain](https://open.spotify.com/track/0uEuAQ0c5yittMpxJ3l5iR) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Rockin' With The Rhythm](https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq) | 2:41 |
 | 48 | [Country Club](https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 3:10 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [Crackers \- Single Version](https://open.spotify.com/track/3VSkgyqT0jkV68t5QCX8iQ) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Love Is Fair](https://open.spotify.com/album/6sVMfY88I8a7xkmSaXCruy) | 2:34 |
 | 150 | [Woke Up In Love](https://open.spotify.com/track/0t2EyDBuMiQ3iHi3rXrFtR) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Super Hits](https://open.spotify.com/album/2ktMx6m6ivjS1Pqm9tSrkJ) | 3:06 |
 
-Snapshot ID: `MCw4NzY0ZmI5NjQxNzkxOWIwZjUzZTQ0N2I2ZWYyYzUyNzlkNjA1YzAy`
+Snapshot ID: `MCw0NjI3NGQxNjAxMjI1NGY5ZmI2ZWY5MTAyMmZiNGY1MTdjOGFjYjBm`

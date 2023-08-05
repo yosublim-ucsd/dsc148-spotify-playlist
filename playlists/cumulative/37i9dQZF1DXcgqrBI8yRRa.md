@@ -4,7 +4,7 @@
 
 > Girls just wanna have funds
 
-300 songs - 17 hr 4 min
+301 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,8 @@
 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 | 2022-04-18 | 2023-06-27 |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-02-16 | 2023-07-07 |
 | [Plenty \(Too Trendy\)](https://open.spotify.com/track/2FjZhlWpuCAnAnTJOfxulV) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Plenty \(Too Trendy\)](https://open.spotify.com/album/6XSJg5zvbDjPydgMetheYE) | 2:47 | 2023-07-06 |  |
-| [Pounds & Dollars](https://open.spotify.com/track/43o9i6vgfaTD5LDKlcIpav) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [African Baddie](https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413) | 3:24 | 2023-07-06 |  |
+| [Pounds & Dollars](https://open.spotify.com/track/1MGDBkEAXEIXojBu5bZYhQ) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [African Baddie](https://open.spotify.com/album/3Hq0h20QXGyrQWfdURFUPw) | 3:24 | 2023-07-06 |  |
+| [Pounds & Dollars](https://open.spotify.com/track/43o9i6vgfaTD5LDKlcIpav) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [African Baddie](https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413) | 3:24 | 2023-07-06 | 2023-08-05 |
 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 | 2021-10-19 | 2022-07-21 |
 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 | 2022-09-08 | 2023-06-27 |
 | [Rich Girl](https://open.spotify.com/track/2Y2q7PkD7lvuWr8YaZfWuv) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:56 | 2023-07-06 |  |

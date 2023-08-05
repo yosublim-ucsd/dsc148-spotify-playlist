@@ -294,7 +294,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 207133,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 212293,
       "name": "Animal",
       "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 187682,
       "name": "Anyone For You (Tiger Lily)",
       "url": "https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -966,7 +966,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 214226,
       "name": "Beautiful Soul",
       "url": "https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS"
@@ -2325,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "The Papercut Chronicles",
+        "url": "https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX"
+      },
+      "artists": [
+        {
+          "name": "Gym Class Heroes",
+          "url": "https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243773,
+      "name": "Cupid's Chokehold / Breakfast in America",
+      "url": "https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK"
+    },
+    {
+      "album": {
         "name": "- (Deluxe)",
         "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
       },
@@ -2336,7 +2354,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 224803,
       "name": "Curtains",
       "url": "https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP"
@@ -2532,7 +2550,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 270720,
       "name": "Dancing On The Ceiling",
       "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
@@ -2550,7 +2568,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 164533,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 294400,
       "name": "Don't Worry Be Happy",
       "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
@@ -3022,7 +3040,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 240796,
       "name": "Every Teardrop Is a Waterfall",
       "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
@@ -5489,6 +5507,24 @@
     },
     {
       "album": {
+        "name": "Just Like Fire (From the Original Motion Picture \"Alice Through The Looking Glass\")",
+        "url": "https://open.spotify.com/album/09K53TLaJZ156prccNvwuS"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215413,
+      "name": "Just Like Fire (From the Original Motion Picture \"Alice Through The Looking Glass\")",
+      "url": "https://open.spotify.com/track/7K5dzhGda2vRTaAWYI3hrb"
+    },
+    {
+      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -5972,7 +6008,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 233478,
       "name": "Locked out of Heaven",
       "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
@@ -7232,7 +7268,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 146654,
       "name": "people pleaser",
       "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
@@ -9368,7 +9404,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 234333,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
@@ -9702,7 +9738,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 178560,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
@@ -9720,7 +9756,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 197346,
       "name": "Treat People With Kindness",
       "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
@@ -10558,7 +10594,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
@@ -10746,7 +10782,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 215693,
       "name": "You Make Me Feel... (feat. Sabi)",
       "url": "https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM"
@@ -10854,7 +10890,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 187133,
       "name": "Your Love Is My Drug",
       "url": "https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92"

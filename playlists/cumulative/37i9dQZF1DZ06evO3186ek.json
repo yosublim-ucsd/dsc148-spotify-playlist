@@ -415,6 +415,36 @@
     },
     {
       "album": {
+        "name": "Simple Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Johnny Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462607,
+      "name": "C\u00f3mo Te Amamos (feat. Karen Espinosa & Johnny Pe\u00f1a)",
+      "url": "https://open.spotify.com/track/10q6abcYrEB5BBQxN0In72"
+    },
+    {
+      "album": {
         "name": "Maverick City, Vol. 1",
         "url": "https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt"
       },
@@ -942,7 +972,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 945731,
       "name": "Lean Back (feat. Amanda Lindsey Cook)",
       "url": "https://open.spotify.com/track/4EtKV9VxLbL6wgeQjiPm4r"

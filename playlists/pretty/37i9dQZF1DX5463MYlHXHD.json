@@ -1,31 +1,35 @@
 {
   "description": "Cumbia pa' volar la chapa \u00f1eri. Foto: La T y La M",
-  "num_followers": 552380,
+  "num_followers": 552568,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmFlYTQ5YmEwNjBjMTA0YzgzM2VmYTJlNzU5NzY3ZDY4ZTAyNzAw",
+  "snapshot_id": "MCw2ZmY0ZDYxY2I0Y2MzMDQxNDVjMDE0ZDI1OTYxMTg3MGY4NjJkYjg4",
   "tracks": [
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "En Otra",
-        "url": "https://open.spotify.com/album/2LfZrUypchm1xCe73gDMsU"
+        "name": "BM | DJ TAO Turreo Sessions #17",
+        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
       },
       "artists": [
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
         }
       ],
-      "duration_ms": 131697,
-      "name": "En Otra",
-      "url": "https://open.spotify.com/track/26XTUfkLRnLR1W2XbjM9pf"
+      "duration_ms": 176144,
+      "name": "BM | DJ TAO Turreo Sessions #17",
+      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Tu Turrito",
         "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
@@ -45,35 +49,23 @@
       "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "No Me Vuelvo a Enamorar (Remix)",
-        "url": "https://open.spotify.com/album/76XGHb95o1OiR8mBqLKnD9"
+        "name": "En Otra",
+        "url": "https://open.spotify.com/album/2LfZrUypchm1xCe73gDMsU"
       },
       "artists": [
         {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        },
-        {
-          "name": "R Jota",
-          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
-        },
-        {
-          "name": "DobleP",
-          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
-        },
-        {
-          "name": "JCKC",
-          "url": "https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 193290,
-      "name": "No Me Vuelvo a Enamorar - Remix",
-      "url": "https://open.spotify.com/track/3UIGtbFXyXuGFZZrZtZvP0"
+      "duration_ms": 131697,
+      "name": "En Otra",
+      "url": "https://open.spotify.com/track/26XTUfkLRnLR1W2XbjM9pf"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Butakera",
         "url": "https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3"
@@ -97,27 +89,7 @@
       "url": "https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "BM | DJ TAO Turreo Sessions #17",
-        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 176144,
-      "name": "BM | DJ TAO Turreo Sessions #17",
-      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "LATI2",
         "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
@@ -141,27 +113,7 @@
       "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
-        "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 140109,
-      "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
-      "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "CALLEJERO FINO | Mission 10",
         "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
@@ -181,7 +133,7 @@
       "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "No Te Creas Tan Importante (En Vivo)",
         "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
@@ -201,167 +153,7 @@
       "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Vamos A Amanecer (Remix)",
-        "url": "https://open.spotify.com/album/5xcEXfGJCm9aqLqUGqh8bs"
-      },
-      "artists": [
-        {
-          "name": "Papichamp",
-          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
-        },
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "Alejo Isakk",
-          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
-        }
-      ],
-      "duration_ms": 173465,
-      "name": "Vamos A Amanecer - Remix",
-      "url": "https://open.spotify.com/track/0nk7pbLOJEGRlzSdN1erGe"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Cumbia Villera",
-        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 251146,
-      "name": "La Cumbia De Los Trapos",
-      "url": "https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Ponte La 10",
-        "url": "https://open.spotify.com/album/3ILo8ufIhYW8jR4nCJ7rVr"
-      },
-      "artists": [
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 200842,
-      "name": "Ponte La 10",
-      "url": "https://open.spotify.com/track/7BTZzDl2yiRc8ICoFK6Po2"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
-        "url": "https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 163259,
-      "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
-      "url": "https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Voz de beb\u00e9",
-        "url": "https://open.spotify.com/album/60RFhH1hdv4XPfXO9UDwof"
-      },
-      "artists": [
-        {
-          "name": "Los Gedes",
-          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
-        },
-        {
-          "name": "B\u00fafalo Ortiz",
-          "url": "https://open.spotify.com/artist/5j7kpHc00qZrSIxnSZ4YZj"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Voz de beb\u00e9",
-      "url": "https://open.spotify.com/track/38WBgeP8cXm9I5Rr6kftyE"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "Yo Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Amor de Mentiras",
-        "url": "https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "Son de Amores",
-      "url": "https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "6to Sentido (Una Vuelta)",
         "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
@@ -385,31 +177,83 @@
       "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Que Esc\u00e1ndalo",
-        "url": "https://open.spotify.com/album/2u7fyjldU6wCuuDgRyi9n1"
+        "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
+        "url": "https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup"
       },
       "artists": [
         {
-          "name": "Ezequiel Llanos",
-          "url": "https://open.spotify.com/artist/3l4qjCL1496zAgprejycLi"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "Locura Mix",
-          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
-        },
-        {
-          "name": "Dimelo Ismael",
-          "url": "https://open.spotify.com/artist/0L42E3i2czZnCU0BYWdkor"
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Que Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/7kgAm5XKXTmi9QV2bfIKb4"
+      "duration_ms": 163259,
+      "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
+      "url": "https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Vamos A Amanecer (Remix)",
+        "url": "https://open.spotify.com/album/5xcEXfGJCm9aqLqUGqh8bs"
+      },
+      "artists": [
+        {
+          "name": "Papichamp",
+          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        }
+      ],
+      "duration_ms": 173465,
+      "name": "Vamos A Amanecer - Remix",
+      "url": "https://open.spotify.com/track/0nk7pbLOJEGRlzSdN1erGe"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 251146,
+      "name": "La Cumbia De Los Trapos",
+      "url": "https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Me Vas a Extra\u00f1ar (En Vivo)",
         "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
@@ -429,47 +273,71 @@
       "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "La Gilera (Remix)",
-        "url": "https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3"
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN"
       },
       "artists": [
         {
-          "name": "El Perro",
-          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "Ponte Perro",
-          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 147107,
-      "name": "La Gilera - Remix",
-      "url": "https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa"
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Cumbia Villera",
-        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+        "name": "En el Mercho",
+        "url": "https://open.spotify.com/album/3ImRkQNwSB2JzXolhgKMhH"
       },
       "artists": [
         {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+          "name": "Corre Guachin",
+          "url": "https://open.spotify.com/artist/02AwBRpMnDrozfJcOnFOaY"
         }
       ],
-      "duration_ms": 218680,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
+      "duration_ms": 209975,
+      "name": "En el Mercho",
+      "url": "https://open.spotify.com/track/0iWwb0D31vN79BkJS1FBZJ"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "Yo Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Amor de Mentiras",
+        "url": "https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 171493,
+      "name": "Son de Amores",
+      "url": "https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "No Est\u00e1 en la Flecha Sino en el Indio",
         "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
@@ -485,43 +353,43 @@
       "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Fua Mi Amor",
-        "url": "https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT"
+        "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
+        "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
       "artists": [
         {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "Four Plack",
-          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 165756,
-      "name": "Fua Mi Amor",
-      "url": "https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0"
+      "duration_ms": 140109,
+      "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
+      "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Tamo Chelo",
-        "url": "https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD"
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
       "artists": [
         {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
         }
       ],
-      "duration_ms": 112507,
-      "name": "Tamo Chelo",
-      "url": "https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T"
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
@@ -545,7 +413,43 @@
       "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Fua Mi Amor",
+        "url": "https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Four Plack",
+          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
+        }
+      ],
+      "duration_ms": 165756,
+      "name": "Fua Mi Amor",
+      "url": "https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Tamo Chelo",
+        "url": "https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD"
+      },
+      "artists": [
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        }
+      ],
+      "duration_ms": 112507,
+      "name": "Tamo Chelo",
+      "url": "https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
         "url": "https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT"
@@ -565,7 +469,7 @@
       "url": "https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Yendo No, Llegando",
         "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
@@ -597,7 +501,7 @@
       "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Pistola Remix",
         "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
@@ -625,7 +529,63 @@
       "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Me Muero de Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "El Viejo Marquez",
+          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
+        }
+      ],
+      "duration_ms": 208619,
+      "name": "Me Muero de Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Bailan Rochas y Chetas",
+      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Chocolate",
+        "url": "https://open.spotify.com/album/57pKlw31D8Y0bAQAmcZDy8"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Four Plack",
+          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
+        }
+      ],
+      "duration_ms": 157591,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/7IcdA7TnEtxAUvby7MukZY"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "EL NOBA | DJ TAO Turreo Sessions #7",
         "url": "https://open.spotify.com/album/38OxiO1MGBXfK8cicptGZH"
@@ -649,23 +609,7 @@
       "url": "https://open.spotify.com/track/2y1ia2Dlf7MeZoOviVWH3n"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Bailan Rochas y Chetas",
-      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Pibes Chorros - Criando Cuervos",
         "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
@@ -681,63 +625,7 @@
       "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Chocolate",
-        "url": "https://open.spotify.com/album/57pKlw31D8Y0bAQAmcZDy8"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "Four Plack",
-          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
-        }
-      ],
-      "duration_ms": 157591,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/7IcdA7TnEtxAUvby7MukZY"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Sabros\u00f3n",
-      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Me Muero de Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "El Viejo Marquez",
-          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
-        }
-      ],
-      "duration_ms": 208619,
-      "name": "Me Muero de Amor - En Vivo",
-      "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "PICA",
         "url": "https://open.spotify.com/album/1vyX43WgFXa8BLmIG3DlnN"
@@ -761,7 +649,39 @@
       "url": "https://open.spotify.com/track/5FKeJ9Z6W4mgG5aUOok3Qn"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Altos Cumbieros - Cumbia Villera",
+        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Sabros\u00f3n",
+      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "TRUCHO",
         "url": "https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK"
@@ -785,23 +705,23 @@
       "url": "https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Altos Cumbieros - Cumbia Villera",
-        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
       },
       "artists": [
         {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         }
       ],
-      "duration_ms": 188720,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
+      "duration_ms": 212253,
+      "name": "El humo de mi fasito",
+      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "No Lo Compren",
         "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
@@ -817,7 +737,7 @@
       "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Barrio Prendido",
         "url": "https://open.spotify.com/album/1y2ar7cUSgVihUHXeCI21J"
@@ -849,7 +769,7 @@
       "url": "https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "ROMPE",
         "url": "https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh"
@@ -869,7 +789,7 @@
       "url": "https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "TEKA | E6",
         "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
@@ -889,23 +809,7 @@
       "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "100% Negro Cumbiero",
-        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "El humo de mi fasito",
-      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "No Es Tan F\u00e1cil",
         "url": "https://open.spotify.com/album/1BtjQQmVRRs5m7AoBh81Xv"
@@ -921,7 +825,7 @@
       "url": "https://open.spotify.com/track/6JtV50W4szsOD04QREQgXk"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Cumbia Callejera",
         "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
@@ -937,7 +841,7 @@
       "url": "https://open.spotify.com/track/2PpnjTOCtpBjAmEDu10Vr8"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Tamo Chelo (Remix)",
         "url": "https://open.spotify.com/album/7mFkiXqQqnWYveSQeA9GXE"
@@ -977,7 +881,7 @@
       "url": "https://open.spotify.com/track/0utOOrcBB24KZil9cgAwXB"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Gracia Divina",
         "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
@@ -997,7 +901,7 @@
       "url": "https://open.spotify.com/track/21GP0hz3tF36WvSIwBYsGP"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Tranka",
         "url": "https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU"
@@ -1017,7 +921,23 @@
       "url": "https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey"
+      },
+      "artists": [
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+        }
+      ],
+      "duration_ms": 178464,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Session en el Barrio #4",
         "url": "https://open.spotify.com/album/2XNGEtOnfHv98X3Hf83nQO"
@@ -1037,23 +957,7 @@
       "url": "https://open.spotify.com/track/1YvhaUhTLCXsVuOiEbVFgq"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey"
-      },
-      "artists": [
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
-        }
-      ],
-      "duration_ms": 178464,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "M\u00e1s Negro Que la Noche",
         "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
@@ -1069,7 +973,7 @@
       "url": "https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Me Declaro Culpable",
         "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
@@ -1085,7 +989,7 @@
       "url": "https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Pinta",
         "url": "https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha"
@@ -1109,7 +1013,7 @@
       "url": "https://open.spotify.com/track/7nXutPtu8epp2VJ300iN2A"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Pibes Chorros - Criando Cuervos",
         "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
@@ -1125,7 +1029,7 @@
       "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Cumbia del Recuerdo",
         "url": "https://open.spotify.com/album/3obQ95iJxweMVROAlm7ETA"
@@ -1149,7 +1053,7 @@
       "url": "https://open.spotify.com/track/3c0laaLc9hCQy8TB79noyh"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Remake",
         "url": "https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U"
@@ -1185,7 +1089,7 @@
       "url": "https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Par-Tusa",
         "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
@@ -1201,7 +1105,7 @@
       "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Es Corta la Bocha",
         "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
@@ -1217,7 +1121,7 @@
       "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Los Maleantes",
         "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
@@ -1233,7 +1137,7 @@
       "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Cual Fue? (Remix)",
         "url": "https://open.spotify.com/album/2mROokrsjxuPcDemjcqvJ6"
@@ -1257,7 +1161,7 @@
       "url": "https://open.spotify.com/track/7ESW1EAnlel9tDIeR0BJE7"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
         "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
@@ -1273,23 +1177,7 @@
       "url": "https://open.spotify.com/track/03nTCsN43CgGyIhR9A3US2"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 313190,
-      "name": "Sentimiento Villero",
-      "url": "https://open.spotify.com/track/77UtrgTACiQ5ziErPh7fKe"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "La Vanda M\u00e1s Loca",
         "url": "https://open.spotify.com/album/2B3GFfHCVp73DgzXllsumE"
@@ -1305,7 +1193,47 @@
       "url": "https://open.spotify.com/track/5kYmx9V55bJWm7Qt9hD8WK"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "La Gilera (Remix)",
+        "url": "https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        }
+      ],
+      "duration_ms": 147107,
+      "name": "La Gilera - Remix",
+      "url": "https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 313190,
+      "name": "Sentimiento Villero",
+      "url": "https://open.spotify.com/track/77UtrgTACiQ5ziErPh7fKe"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Cumbia Callejera",
         "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
@@ -1321,7 +1249,7 @@
       "url": "https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "38",
         "url": "https://open.spotify.com/album/4YtUu37m5y31rp8jrWJ9wk"
@@ -1349,7 +1277,7 @@
       "url": "https://open.spotify.com/track/4My1ij0QUaZrojxzkV0OEx"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Es Corta la Bocha",
         "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
@@ -1365,7 +1293,7 @@
       "url": "https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "AL RITMO | E2",
         "url": "https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7"
@@ -1385,7 +1313,23 @@
       "url": "https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Corriendo La Coneja",
+        "url": "https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 267813,
+      "name": "Vamos A Bailar",
+      "url": "https://open.spotify.com/track/657aFPrDGW4f57rkoCG4lS"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
         "url": "https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY"
@@ -1405,23 +1349,7 @@
       "url": "https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Corriendo La Coneja",
-        "url": "https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 267813,
-      "name": "Vamos A Bailar",
-      "url": "https://open.spotify.com/track/657aFPrDGW4f57rkoCG4lS"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Saveiro",
         "url": "https://open.spotify.com/album/2OdD4Bw78UeyjUKejq2UZR"
@@ -1445,7 +1373,51 @@
       "url": "https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "No Me Vuelvo a Enamorar (Remix)",
+        "url": "https://open.spotify.com/album/76XGHb95o1OiR8mBqLKnD9"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        },
+        {
+          "name": "R Jota",
+          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
+        },
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "JCKC",
+          "url": "https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu"
+        }
+      ],
+      "duration_ms": 193290,
+      "name": "No Me Vuelvo a Enamorar - Remix",
+      "url": "https://open.spotify.com/track/3UIGtbFXyXuGFZZrZtZvP0"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Una copa mas",
+      "url": "https://open.spotify.com/track/0tAKVEBAQnXc8LrWuSZOdv"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Vicera, las Zapas",
         "url": "https://open.spotify.com/album/7jYECg5W7BIF5sMksrqxoi"
@@ -1465,23 +1437,7 @@
       "url": "https://open.spotify.com/track/2i0SfKksuxxJkDehpyzxuu"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Una copa mas",
-      "url": "https://open.spotify.com/track/0tAKVEBAQnXc8LrWuSZOdv"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Close de Ort!",
         "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
@@ -1501,7 +1457,7 @@
       "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Mata",
         "url": "https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3"
@@ -1517,7 +1473,31 @@
       "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "LOGI",
+        "url": "https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA"
+      },
+      "artists": [
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "LOGI",
+      "url": "https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Me Declaro Culpable",
         "url": "https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG"
@@ -1533,7 +1513,7 @@
       "url": "https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Batalla de los Dj Mixerzone",
         "url": "https://open.spotify.com/album/1J3PnGjU5bj5b02D87zzxQ"
@@ -1585,7 +1565,7 @@
       "url": "https://open.spotify.com/track/3RxFQSlNXtcH3gVlAsCRhE"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "\u00bfQu\u00e9 No Vale Nada?",
         "url": "https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac"
@@ -1601,7 +1581,7 @@
       "url": "https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "M\u00e1s Negro Que la Noche",
         "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
@@ -1617,7 +1597,7 @@
       "url": "https://open.spotify.com/track/0X1X7twYjUAOv3P0vNnvYf"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Lo Peor",
         "url": "https://open.spotify.com/album/4YY5w9pSiVeWyNvAbIigBc"
@@ -1633,31 +1613,7 @@
       "url": "https://open.spotify.com/track/1x9OQtBbG9UEOF0Hgpew6h"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "LOGI",
-        "url": "https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA"
-      },
-      "artists": [
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "LOGI",
-      "url": "https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/6ilkDJx9M7ppTKzFvs5tQx"
@@ -1673,7 +1629,7 @@
       "url": "https://open.spotify.com/track/0GXohhvxGe7ehlH84YGBO5"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Rompelo Ah\u00ed",
         "url": "https://open.spotify.com/album/4J6M9C6Zs0Ae3GIhactWyt"
@@ -1689,7 +1645,7 @@
       "url": "https://open.spotify.com/track/3WZCUO10KxZp5XExAAmbd7"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Los Dos Fallamos",
         "url": "https://open.spotify.com/album/0oMFwEMTOKAE1RdDh3bKqz"
@@ -1709,7 +1665,7 @@
       "url": "https://open.spotify.com/track/54cM6oKMmHbhrzTV6Qj0KQ"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Volver\u00e1s",
         "url": "https://open.spotify.com/album/46c1Anl2GJq3unG1KVDpWV"
@@ -1725,7 +1681,7 @@
       "url": "https://open.spotify.com/track/0YK6zUsPZyMIf5lhzu9dzV"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Solo Le Pido a Dios",
         "url": "https://open.spotify.com/album/2wNfH17ST3K7xM2OjeZDWY"
@@ -1741,7 +1697,7 @@
       "url": "https://open.spotify.com/track/5CORS17eUEK7kZOiwDarzj"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Venite Al Barrio",
         "url": "https://open.spotify.com/album/6FaIAy4mMYiaZUWsutQSUS"
@@ -1761,7 +1717,7 @@
       "url": "https://open.spotify.com/track/502621sPRjwZnxC5N7Co80"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Rompe el Party (Remix)",
         "url": "https://open.spotify.com/album/1h6s34Zj3EstmoMgn3J4ZV"
@@ -1785,7 +1741,7 @@
       "url": "https://open.spotify.com/track/0bpzKlI1oiRYp9UnK90qcV"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "DALE DALE",
         "url": "https://open.spotify.com/album/55GZVprq5iYoWZOBu4Xwj9"
@@ -1809,7 +1765,7 @@
       "url": "https://open.spotify.com/track/5RYg5SW0iqIGAmHDmoU2vb"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Hola (Remix)",
         "url": "https://open.spotify.com/album/79ZYNjHhMRByHU6xYGYWuI"
@@ -1841,7 +1797,7 @@
       "url": "https://open.spotify.com/track/0cBDwyo9iFsSd3i4RrcKaB"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "El Barrio",
         "url": "https://open.spotify.com/album/74nNhOfUeGDK98WrqaOlGd"
@@ -1869,7 +1825,7 @@
       "url": "https://open.spotify.com/track/56HxJH9N2DcRj0taX9mjb5"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
         "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
@@ -1885,23 +1841,7 @@
       "url": "https://open.spotify.com/track/4f8bTxlLhCK8DgpLrdVGfF"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/1CBTqGy6fo7NzRcHGxe9lP"
-      },
-      "artists": [
-        {
-          "name": "Los Dragones",
-          "url": "https://open.spotify.com/artist/0FtOEaKA25lR6G48iP1Jnt"
-        }
-      ],
-      "duration_ms": 211461,
-      "name": "El Mamado del Auto",
-      "url": "https://open.spotify.com/track/59a51WlcUh2OiYm3HZQuXk"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Podran Imitarnos, Jam\u00e1s Igualarnos",
         "url": "https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX"
@@ -1917,7 +1857,23 @@
       "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/1CBTqGy6fo7NzRcHGxe9lP"
+      },
+      "artists": [
+        {
+          "name": "Los Dragones",
+          "url": "https://open.spotify.com/artist/0FtOEaKA25lR6G48iP1Jnt"
+        }
+      ],
+      "duration_ms": 211461,
+      "name": "El Mamado del Auto",
+      "url": "https://open.spotify.com/track/59a51WlcUh2OiYm3HZQuXk"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "M\u00e1s Duros que Nunca",
         "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
@@ -1933,7 +1889,7 @@
       "url": "https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Es Corta la Bocha",
         "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
@@ -1949,7 +1905,7 @@
       "url": "https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Una Botella X Tu Amor",
         "url": "https://open.spotify.com/album/4d7TxPsGb8w6Ere4spc9Q2"
@@ -1973,7 +1929,23 @@
       "url": "https://open.spotify.com/track/5UYTx6v8mOGurOSo7qZnNz"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Ponte La 10",
+        "url": "https://open.spotify.com/album/3ILo8ufIhYW8jR4nCJ7rVr"
+      },
+      "artists": [
+        {
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+        }
+      ],
+      "duration_ms": 200842,
+      "name": "Ponte La 10",
+      "url": "https://open.spotify.com/track/7BTZzDl2yiRc8ICoFK6Po2"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "No Lo Compren",
         "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
@@ -1989,7 +1961,7 @@
       "url": "https://open.spotify.com/track/4fobsgzB6v77kwv57KsjNe"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "CD3",
         "url": "https://open.spotify.com/album/5W6qlIMhU69X31xJUO7s86"
@@ -2005,7 +1977,7 @@
       "url": "https://open.spotify.com/track/1h5B7nh5MMi8vj9ZP3wryA"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "ROCAMORA",
         "url": "https://open.spotify.com/album/7mJmTbXDyz0owhiAJmZDUP"
@@ -2025,7 +1997,7 @@
       "url": "https://open.spotify.com/track/6VViszGlqGJ7KKpR8AICGd"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Con S\u00edndrome de Abstinencia",
         "url": "https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ"
@@ -2041,7 +2013,7 @@
       "url": "https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "No Hay Mal Que Dure 100 A\u00f1os",
         "url": "https://open.spotify.com/album/65MAxmxDPkdM3IZQY6ZOco"
@@ -2057,7 +2029,7 @@
       "url": "https://open.spotify.com/track/1iryRHcRPsAVeXBa94zeqx"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Gordo Rata (En Vivo)",
         "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
@@ -2077,7 +2049,7 @@
       "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "El Retutu",
         "url": "https://open.spotify.com/album/0FH1NDJlj2Vvb4G21rPh3e"
@@ -2093,7 +2065,7 @@
       "url": "https://open.spotify.com/track/5qLueRsolYdRjdxVcclWLb"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "El Manual",
         "url": "https://open.spotify.com/album/5jso2UmnuNZvTRNAZXMerw"
@@ -2113,7 +2085,7 @@
       "url": "https://open.spotify.com/track/0qC3X3ffPny4BZCV0rNR6U"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Close de Ort!",
         "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
@@ -2129,7 +2101,7 @@
       "url": "https://open.spotify.com/track/1OCG4qYwvzanyg4f1EcvYI"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Puro Movimiento",
         "url": "https://open.spotify.com/album/6D53J2Fx7FANdtNngTsWCi"
@@ -2145,7 +2117,31 @@
       "url": "https://open.spotify.com/track/0VK2WShGGSlD8wCD9DSxup"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Que Esc\u00e1ndalo",
+        "url": "https://open.spotify.com/album/2u7fyjldU6wCuuDgRyi9n1"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Llanos",
+          "url": "https://open.spotify.com/artist/3l4qjCL1496zAgprejycLi"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        },
+        {
+          "name": "Dimelo Ismael",
+          "url": "https://open.spotify.com/artist/0L42E3i2czZnCU0BYWdkor"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Que Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/7kgAm5XKXTmi9QV2bfIKb4"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "L-Gante - El Apache Ness - Perro Primo",
         "url": "https://open.spotify.com/album/0GnWjEYxMShvTyDeBynKBs"
@@ -2169,7 +2165,7 @@
       "url": "https://open.spotify.com/track/7xPuaedCi3GLu5TmtuUkt9"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Alta Gira",
         "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
@@ -2185,23 +2181,7 @@
       "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Hdp",
-        "url": "https://open.spotify.com/album/65Nbvf1AHKsEerfNIWbgHp"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 185603,
-      "name": "Hdp",
-      "url": "https://open.spotify.com/track/5t7asDLp6jJXxLp6I2SBYl"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Ritmo Sustancia",
         "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
@@ -2217,7 +2197,23 @@
       "url": "https://open.spotify.com/track/1u2IbfH3dDRURiowHVul46"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Hdp",
+        "url": "https://open.spotify.com/album/65Nbvf1AHKsEerfNIWbgHp"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 185603,
+      "name": "Hdp",
+      "url": "https://open.spotify.com/track/5t7asDLp6jJXxLp6I2SBYl"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "El Marginal",
         "url": "https://open.spotify.com/album/58EvYnCxnhrid5sUBLCUW3"
@@ -2233,7 +2229,7 @@
       "url": "https://open.spotify.com/track/4SEhmRp9PAp0uS0AlefNWs"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Adentro del Party",
         "url": "https://open.spotify.com/album/78zVM36RvzD7VpaaKgQ7E5"
@@ -2253,7 +2249,7 @@
       "url": "https://open.spotify.com/track/14fTqe6T4p9zyikK1RvYti"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Sin Ayuda",
         "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
@@ -2273,7 +2269,7 @@
       "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "La Gata",
         "url": "https://open.spotify.com/album/0tuQi5VdcLsAVjhAsg7uxa"
@@ -2289,7 +2285,7 @@
       "url": "https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Una Vela",
         "url": "https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1"
@@ -2305,7 +2301,7 @@
       "url": "https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "25 Horas de Gira",
         "url": "https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL"
@@ -2321,7 +2317,7 @@
       "url": "https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Culo Pa 2 Tangas",
         "url": "https://open.spotify.com/album/6vA3jeLGv8Zixm640gPZVL"
@@ -2341,7 +2337,7 @@
       "url": "https://open.spotify.com/track/7G8ui29Y8betGzDM2d2Xvk"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Barra Libre",
         "url": "https://open.spotify.com/album/4BxwFfRR2mzpzvHXbeipOW"
@@ -2365,7 +2361,7 @@
       "url": "https://open.spotify.com/track/61nprE5601F6rxnEcTR5Dl"
     },
     {
-      "added_at": "2023-07-25 20:43:15",
+      "added_at": "2023-08-04 03:00:00",
       "album": {
         "name": "Sabado Picado",
         "url": "https://open.spotify.com/album/3jE8jm4PpLL3diaIqngVyl"

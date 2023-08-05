@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Lukas Will
 
-2,284 songs - 5 day 19 hr 59 min
+2,285 songs - 5 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2178,6 +2178,7 @@
 | [Vanilla](https://open.spotify.com/track/4Ncvcd2FNjjtimO0QIniaK) | [Sacred Space](https://open.spotify.com/artist/2ei9shwKD16R2eybFePMek) | [Vanilla](https://open.spotify.com/album/6Acd7yKJEHwDX6ooL05JyV) | 3:57 | 2022-03-31 | 2022-04-15 |
 | [Vermillion Love \(Not A Sunflower Campaign\)](https://open.spotify.com/track/6kZILz2tVdnc4GfpcsFArQ) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Vermillion Love \(Not A Sunflower Campaign\)](https://open.spotify.com/album/4RF7Fmq2OwHacitgeehEq0) | 1:45 | 2022-02-17 | 2022-03-05 |
 | [Vulnerable](https://open.spotify.com/track/2yAyUwHFOTzSkEBS6b0Ebw) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Vulnerable](https://open.spotify.com/album/0e8QeTz9RLR313Wo6FGM1x) | 4:04 | 2022-06-16 | 2022-07-08 |
+| [W.O.W](https://open.spotify.com/track/3Xh361d29Bt1d0EzACrP2C) | [Mandy Robins](https://open.spotify.com/artist/5iOVM0hIzFufmc8186STkg) | [Dear, U](https://open.spotify.com/album/0wfmXvbS2C2FyK3m1zp9BC) | 2:40 | 2023-08-03 |  |
 | [W.U.K](https://open.spotify.com/track/6pB5QTIQqzkx9zvlFCjaQD) | [Wakeupkids!](https://open.spotify.com/artist/2e7JAiHXiZVI611PuQhKTF) | [W.U.K](https://open.spotify.com/album/6ImtgVpDH6zMXoPVep5JYv) | 3:26 | 2023-02-09 | 2023-02-24 |
 | [Wajah](https://open.spotify.com/track/02js2rZ6GDNqoQCu0UzXQh) | [Shellin](https://open.spotify.com/artist/4H9DqxWlestCSXzqej6LBy), [Dheka Satria](https://open.spotify.com/artist/1wU4tY1Tt6cFOiujgdfie1) | [Wajah](https://open.spotify.com/album/7hecjXBcuUeAIG7dfHIDMS) | 3:41 | 2023-04-06 | 2023-04-28 |
 | [Wakai Koro](https://open.spotify.com/track/0diQ8YqtdoCaxy2xovKsMi) | [Laura Pradipta](https://open.spotify.com/artist/3DjOjSvtE3thRSMBeBR4kH) | [Wakai Koro](https://open.spotify.com/album/63teHEBVLWZYKuQtUDIjtL) | 4:39 | 2023-02-16 | 2023-03-03 |

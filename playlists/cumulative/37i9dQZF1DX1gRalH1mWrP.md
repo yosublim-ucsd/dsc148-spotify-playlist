@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,156 songs - 2 day 11 hr 45 min
+1,157 songs - 2 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,6 +511,7 @@
 | [Irrational](https://open.spotify.com/track/09m6It4feoA7uVhZxWUcbt) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Solaris](https://open.spotify.com/album/6MH9mIU41lFyM7hw7EU17w) | 2:49 | 2020-09-26 | 2021-04-30 |
 | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 | 2021-05-08 | 2021-05-30 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2022-04-12 | 2022-05-23 |
+| [It's Getting Hot](https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [It's Getting Hot](https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO) | 2:14 | 2023-08-04 |  |
 | [It's You](https://open.spotify.com/track/6moU77g9RQyMzHNuKEaQKq) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [It's You](https://open.spotify.com/album/40vQONzvJb6sKejDN3eWza) | 3:32 | 2019-06-22 | 2019-08-13 |
 | [I’m not Pretty Remix \(feat\. Bebe Rexha\) \- Remix](https://open.spotify.com/track/2dD1rdWU4DxN5J9EKGFRLk) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm not Pretty \(Remix\)](https://open.spotify.com/album/04ixV8oUR9iQvvK5O9eY54) | 1:58 | 2021-04-30 | 2022-04-13 |
 | [I’m Ready \(with Demi Lovato\)](https://open.spotify.com/track/1fipvP2zmef6vN2IwXfJhY) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [I’m Ready \(with Demi Lovato\)](https://open.spotify.com/album/44msshHeN6irJ1md7GVSlU) | 3:20 | 2020-04-29 | 2020-06-06 |
@@ -851,7 +852,7 @@
 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2021-05-08 | 2021-08-28 |
 | [Run My Shit](https://open.spotify.com/track/7zVVkNOKWMd46nwMUgHPmL) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Run My Shit](https://open.spotify.com/album/2oL7uPcbVkIEOV3oCIfC7K) | 2:53 | 2021-04-30 | 2021-10-13 |
 | [Running On My Mind](https://open.spotify.com/track/0xEW9gPv5wNuS84pXGG3lc) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Running On My Mind](https://open.spotify.com/album/117stOgbjnRoJjARCJjADm) | 2:36 | 2020-05-31 | 2020-07-08 |
-| [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2023-03-07 |  |
+| [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2023-03-07 | 2023-08-05 |
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-14 |  |
 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 | 2023-07-14 |  |
 | [SABOR FRESA](https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [SABOR FRESA](https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ) | 2:36 | 2023-06-26 |  |

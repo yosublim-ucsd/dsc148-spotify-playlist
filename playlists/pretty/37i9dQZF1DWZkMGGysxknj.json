@@ -1,12 +1,12 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 815821,
+  "num_followers": 815851,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzYxNTg3MTQyMDJjYzY5ZGQ0NDhjN2MyM2UwOTYwMzU5YTBkODli",
+  "snapshot_id": "MCwwN2EzNjg4ZDhjYzRmNmY4ZjFlYjc4YTljMzM1YjliYWQ4NjNmZTAx",
   "tracks": [
     {
       "added_at": "2023-06-09 14:25:05",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "I Make Sparks",
+        "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 218573,
+      "name": "I Make Sparks",
+      "url": "https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 228059,
       "name": "Price",
       "url": "https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "I Make Sparks",
-        "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "I Make Sparks",
-      "url": "https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/3dS1DCljr8LjIweYoUhbgB"
-      },
-      "artists": [
-        {
-          "name": "Dan Berk",
-          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
-        }
-      ],
-      "duration_ms": 198712,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4ptDJbJl35d7gQfeNteBwp"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 235579,
       "name": "What I Am - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/3dS1DCljr8LjIweYoUhbgB"
+      },
+      "artists": [
+        {
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+        }
+      ],
+      "duration_ms": 198712,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4ptDJbJl35d7gQfeNteBwp"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/5W7UsE6bg6hx9ygRaebphc"
-      },
-      "artists": [
-        {
-          "name": "DORA",
-          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
-        }
-      ],
-      "duration_ms": 143896,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/7Kn7TYpJT0fjv5he98acyq"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Happy Now (Acoustic Version)",
         "url": "https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 213666,
       "name": "Happy Now - Acoustic",
       "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/5W7UsE6bg6hx9ygRaebphc"
+      },
+      "artists": [
+        {
+          "name": "DORA",
+          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
+        }
+      ],
+      "duration_ms": 143896,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/7Kn7TYpJT0fjv5he98acyq"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "When Smoke Rises",
-        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
-      },
-      "artists": [
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 181372,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "New Rules",
         "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 194285,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "When Smoke Rises",
+        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 181372,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1315,6 +1315,22 @@
       "duration_ms": 193412,
       "name": "Everything I wanted",
       "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1447,22 +1463,6 @@
       "duration_ms": 162297,
       "name": "Conc\u00e9ntrica Canci\u00f3n",
       "url": "https://open.spotify.com/track/4gSBMIeKcra4fwb9oIXPQt"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 238817,
       "name": "Saudade - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 192981,
-      "name": "This Is What You Did",
-      "url": "https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Counting Stars",
         "url": "https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 304893,
       "name": "Softly - Mahogany Sessions",
       "url": "https://open.spotify.com/track/3TRleR2FHWPDWHKQf9P66X"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 192981,
+      "name": "This Is What You Did",
+      "url": "https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "Ganas - Spotify Singles",
-      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Lo Primero",
         "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 180778,
       "name": "Un D\u00eda Lo Encontr\u00e9",
       "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "One Kiss",
-        "url": "https://open.spotify.com/album/4aGUFwXZaiK0iXxC5lSCll"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 160678,
-      "name": "One Kiss",
-      "url": "https://open.spotify.com/track/4Ocm5X4MdGoF9cvIGgOe39"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Tren Al Sur",
         "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 235982,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "One Kiss",
+        "url": "https://open.spotify.com/album/4aGUFwXZaiK0iXxC5lSCll"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 160678,
+      "name": "One Kiss",
+      "url": "https://open.spotify.com/track/4Ocm5X4MdGoF9cvIGgOe39"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
-      },
-      "artists": [
-        {
-          "name": "Praia Grande",
-          "url": "https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v"
-        }
-      ],
-      "duration_ms": 225674,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Terrace Rain/Grid Search",
         "url": "https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 176548,
       "name": "Terrace Rain",
       "url": "https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
+      },
+      "artists": [
+        {
+          "name": "Praia Grande",
+          "url": "https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v"
+        }
+      ],
+      "duration_ms": 225674,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Lullabies for Adults & Children",
-        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
-      },
-      "artists": [
-        {
-          "name": "Odessa",
-          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
-        }
-      ],
-      "duration_ms": 156214,
-      "name": "Wake Up With the Sun",
-      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Chantaje",
         "url": "https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 207431,
       "name": "Chantaje",
       "url": "https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Lullabies for Adults & Children",
+        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
+      },
+      "artists": [
+        {
+          "name": "Odessa",
+          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
+        }
+      ],
+      "duration_ms": 156214,
+      "name": "Wake Up With the Sun",
+      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Runaway (Deluxe)",
-        "url": "https://open.spotify.com/album/0Pvw8yEWsf4LlI8JWMIwC6"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 220468,
-      "name": "Hell Or High Water",
-      "url": "https://open.spotify.com/track/723ZdKcJ6aqovM1MqOfU2m"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "The Moons Detriment",
         "url": "https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 155000,
       "name": "The Moons Detriment",
       "url": "https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Runaway (Deluxe)",
+        "url": "https://open.spotify.com/album/0Pvw8yEWsf4LlI8JWMIwC6"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 220468,
+      "name": "Hell Or High Water",
+      "url": "https://open.spotify.com/track/723ZdKcJ6aqovM1MqOfU2m"
     },
     {
       "added_at": "2023-06-09 14:25:05",

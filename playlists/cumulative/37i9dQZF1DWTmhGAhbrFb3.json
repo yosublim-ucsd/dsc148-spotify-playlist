@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Demure",
+        "url": "https://open.spotify.com/album/48Uw5LB9ItbGl2poSXzq5q"
+      },
+      "artists": [
+        {
+          "name": "Caleb Huber",
+          "url": "https://open.spotify.com/artist/3gEu2oKuCuCY3HcbVLHlNW"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122142,
+      "name": "Demure",
+      "url": "https://open.spotify.com/track/1uMNi0Sg9Sq0qrHS5kJWcy"
+    },
+    {
+      "album": {
         "name": "Den Stunden",
         "url": "https://open.spotify.com/album/0ZH9BfyjNXAzSSUPVtrINQ"
       },
@@ -1856,6 +1874,24 @@
       "duration_ms": 103578,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/5xxYVFRpVThMwcYtFSfIkr"
+    },
+    {
+      "album": {
+        "name": "Feelstora",
+        "url": "https://open.spotify.com/album/7aHse6DPzmFYPAe4Om6MFW"
+      },
+      "artists": [
+        {
+          "name": "Apech",
+          "url": "https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206785,
+      "name": "Feelstora",
+      "url": "https://open.spotify.com/track/03XAiZp5HVuwqxafhc2LCC"
     },
     {
       "album": {

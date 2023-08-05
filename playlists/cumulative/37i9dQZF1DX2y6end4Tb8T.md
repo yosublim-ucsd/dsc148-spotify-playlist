@@ -4,7 +4,7 @@
 
 > Rap de alta gama\. Foto: Juice WRLD
 
-133 songs - 7 hr 16 min
+134 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 | 2021-11-12 |  |
 | [No Puedo](https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:55 | 2021-11-12 |  |
 | [No Regrets \(feat\. Don Toliver\)](https://open.spotify.com/track/1lO9CZo6eDrOy0S7khgryG) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Music To Be Murdered By](https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6) | 3:20 | 2021-11-12 |  |
-| [NO TV](https://open.spotify.com/track/78KiqdSnQIGiJzOJRQMs8G) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [NO TV](https://open.spotify.com/album/6M3SHnGd6dndntqykBbbKU) | 2:04 | 2021-11-12 |  |
+| [NO TV](https://open.spotify.com/track/78KiqdSnQIGiJzOJRQMs8G) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [NO TV](https://open.spotify.com/album/6M3SHnGd6dndntqykBbbKU) | 2:04 | 2021-11-12 | 2023-08-05 |
 | [On The Road \(feat\. Meek Mill & Lil Baby\)](https://open.spotify.com/track/0hGH0S74Eoyv6mXZcOKtdQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hollywood's Bleeding](https://open.spotify.com/album/3KziODx7ieQTgYCVrS6nBv) | 3:38 | 2021-11-12 | 2022-07-29 |
 | [On The Road \(feat\. Meek Mill & Lil Baby\)](https://open.spotify.com/track/12Fkyg9lpmaz2zmKOfw2Y2) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:38 | 2021-11-12 |  |
 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 | 2021-11-12 |  |
@@ -117,6 +117,7 @@
 | [Tata](https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:45 | 2021-11-12 |  |
 | [Teca](https://open.spotify.com/track/47hR4k0HXKligeRvMiQAbQ) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Zecca](https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8) | [Teca](https://open.spotify.com/album/7xBdmaoynBoXOm6dI4skKt) | 3:21 | 2021-11-12 |  |
 | [Tequila Shots](https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:13 | 2021-11-12 |  |
+| [Thang For You \(feat\. No Cap\)](https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/3o2XvAddxTcAXl5wwWrrPZ) | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2) | 4:19 | 2023-08-04 |  |
 | [The Bigger Picture](https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Bigger Picture](https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75) | 4:12 | 2021-11-12 |  |
 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 | 2021-11-12 |  |
 | [THE SCOTTS](https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk) | [THE SCOTTS](https://open.spotify.com/artist/2PaZWGu5T5nHjY2xxAkFsT), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [THE SCOTTS](https://open.spotify.com/album/7q6zjWaLw8bN5nYiBWjrus) | 2:45 | 2021-11-12 |  |

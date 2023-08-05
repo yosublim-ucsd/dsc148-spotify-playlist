@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "80's Baby",
+        "url": "https://open.spotify.com/album/5PG0AmjEASRuW7XxFPYLQq"
+      },
+      "artists": [
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272400,
+      "name": "80's Baby",
+      "url": "https://open.spotify.com/track/4uHKi2GTJEsNgssBLqjv8z"
+    },
+    {
+      "album": {
         "name": "A Hand, A Heart (2021)",
         "url": "https://open.spotify.com/album/64FRBimcWLupwj5WBrzjm9"
       },
@@ -1056,6 +1074,24 @@
       "duration_ms": 217519,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/67abo3o0GemMBmypVt6A92"
+    },
+    {
+      "album": {
+        "name": "Chasing Stars",
+        "url": "https://open.spotify.com/album/6PyKj1fCASd8kWRLuOlI6G"
+      },
+      "artists": [
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191454,
+      "name": "Chasing Stars",
+      "url": "https://open.spotify.com/track/6OlfBmZ9vyIUnNCt5dYYix"
     },
     {
       "album": {
@@ -5966,7 +6002,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 206659,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/1Z6ND9vhUdc2fXG7vAgfbl"
@@ -6042,7 +6078,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"

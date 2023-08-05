@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,513 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,516 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 9 | [Bad Influence](https://open.spotify.com/track/2RaHreAi8lXvQOM0prMvXT) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Bad Influence](https://open.spotify.com/album/7udDaiv9Mgh1LrHvObls1I) | 2:18 |
 | 10 | [Location \(feat\. Burna Boy\)](https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 4:01 |
 | 11 | [Abobi](https://open.spotify.com/track/7echDVorySYxnup1HrR15b) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Abobi](https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1) | 3:21 |
-| 12 | [Imali](https://open.spotify.com/track/0POdzGSgOhsL9oPX4ERj6q) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/3UkDRVrOBRrMvoMsb0EGim) | 2:42 |
+| 12 | [Imali](https://open.spotify.com/track/3Z9lmDapyI88AyHZ8utTf1) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/1bgbyxRaOGJaHu4Qze6rle) | 2:42 |
 | 13 | [My Lady](https://open.spotify.com/track/2qJKnWeXuINcyjGhufB0nZ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [My Lady](https://open.spotify.com/album/1ISLNwowQgIUwjiWHAqf6W) | 2:58 |
 | 14 | [Diamant](https://open.spotify.com/track/6KUZmPHPg2SGrINq8SVLI7) | [MASIDI](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Diamant](https://open.spotify.com/album/6Tseko2czwOTsBe4A3ST5W) | 2:48 |
 | 15 | [Logba Logba](https://open.spotify.com/track/2FOtCZz3B6OM4BogE6mavN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [TBH \(To Be Honest\)](https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 79 | [Different](https://open.spotify.com/track/0lDhpQ8KUBcX8w4ilY1UPs) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 2:44 |
 | 80 | [Niata](https://open.spotify.com/track/1mtlYmtelBzQWEbHm07q1o) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Niata](https://open.spotify.com/album/1JsCxj69403hiZzgNnKOYJ) | 3:02 |
 
-Snapshot ID: `MCw4MDY1YTRmMzI4NWQwOTZhMzY0NThlZGJhODFlYjRkYmU3Mzk1YjNl`
+Snapshot ID: `MCwwY2MwZDFmZGE5NDNhMmE0YjI3YzY2ZjBlODcyNmIyYTA5ZjU0Y2Jj`

@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Aerial",
+        "url": "https://open.spotify.com/album/2dIn22xee7AGSCWqeXBTNb"
+      },
+      "artists": [
+        {
+          "name": "Levineci",
+          "url": "https://open.spotify.com/artist/6htu8VXfPQRzB7bIsyWsqe"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Aerial",
+      "url": "https://open.spotify.com/track/5ziRszGYU31KUp4AfHh4Yc"
+    },
+    {
+      "album": {
         "name": "Alima",
         "url": "https://open.spotify.com/album/3TWKhBt6dL1MfBQ4jFz4Iy"
       },
@@ -2364,6 +2382,24 @@
       "duration_ms": 162000,
       "name": "Elude",
       "url": "https://open.spotify.com/track/3IIX3ZJHdlQ7jJc13FOKH9"
+    },
+    {
+      "album": {
+        "name": "Elusion",
+        "url": "https://open.spotify.com/album/0QsjebOtINMUtZ2g68XGGx"
+      },
+      "artists": [
+        {
+          "name": "Boudoin",
+          "url": "https://open.spotify.com/artist/1VtcKV38DHQyR0rBukGcep"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Elusion",
+      "url": "https://open.spotify.com/track/7pPFhgsWnalylOU55IJGRd"
     },
     {
       "album": {

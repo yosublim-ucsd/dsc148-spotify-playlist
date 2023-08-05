@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 
 > Blues \- new and old \- to accompany your drive\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,251 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,347 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 24 | [I'm A Man](https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:44 |
 | 25 | [Bell Bottom Blues](https://open.spotify.com/track/2YJgM8lj4u5YEZRSHSfL60) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 5:01 |
 | 26 | [The House Is Rockin'](https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 2:23 |
-| 27 | [Hound Dog](https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:01 |
-| 28 | [Lie To Me](https://open.spotify.com/track/6DCALWbYX0BCOAGy0hMmRs) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Lie To Me](https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio) | 4:11 |
+| 27 | [Lie To Me](https://open.spotify.com/track/6DCALWbYX0BCOAGy0hMmRs) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Lie To Me](https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio) | 4:11 |
+| 28 | [Hound Dog](https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:01 |
 | 29 | [Damn Right, I've Got the Blues](https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 4:31 |
 | 30 | [Chains And Things](https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l) | 4:53 |
 | 31 | [Part of Me](https://open.spotify.com/track/53DRkI3ebM3SbSQm4gQ1vF) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Made Up Mind](https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA) | 4:06 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 36 | [I'm In The Mood](https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 2:47 |
 | 37 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 |
 | 38 | [Simple Man](https://open.spotify.com/track/3bNM6obnxsPd9hbJlsrQhL) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Brighter Days](https://open.spotify.com/album/3tvCSsZA2AfdQ1aE2xGF5U) | 3:03 |
-| 39 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:58 |
-| 40 | [Someday Baby](https://open.spotify.com/track/5ZBUC1YafitJgLt8dgZYTW) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [A Bothered Mind](https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm) | 3:16 |
+| 39 | [Someday Baby](https://open.spotify.com/track/5ZBUC1YafitJgLt8dgZYTW) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [A Bothered Mind](https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm) | 3:16 |
+| 40 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:58 |
 | 41 | [I'd Rather Go Blind](https://open.spotify.com/track/3BF9J3DjZuNKcfiAwkTsWK) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 8:06 |
 | 42 | [Cold Shot](https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 4:00 |
 | 43 | [Nick Of Time](https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:52 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 87 | [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 |
 | 88 | [Holy Ghost Fire](https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:22 |
 | 89 | [You Don't Want Me](https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 5:16 |
-| 90 | [Signs, High Times](https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Signs](https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck) | 3:51 |
-| 91 | [What Kind Of Woman Is This?](https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 5:17 |
+| 90 | [What Kind Of Woman Is This?](https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 5:17 |
+| 91 | [Signs, High Times](https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Signs](https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck) | 3:51 |
 | 92 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:18 |
 | 93 | [Somehow, Somewhere, Someway](https://open.spotify.com/track/3N8YmS2jHNmziUhqTR7Wk4) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Trouble Is...](https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9) | 5:34 |
 | 94 | [Inflation](https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o) | [Earnest Jackson](https://open.spotify.com/artist/5pXRWt2xs9uVuBO2n49jrm), [Sugar Daddy and the Gumbo Roux](https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6) | [Inflation](https://open.spotify.com/album/0AOkZiHga3bBuhdabrVgyD) | 3:19 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 97 | [What's the Matter with You](https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8) | 3:52 |
 | 98 | [How Blue Can You Get?](https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Anthology](https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb) | 2:40 |
 | 99 | [Hungry Heart](https://open.spotify.com/track/540DkRIAjWwRwON3v9ll6M) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Push The Blues Away](https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl) | 3:21 |
-| 100 | [Fresh Out](https://open.spotify.com/track/0hLEks6H1dPXioRyyHWCBz) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 3:48 |
+| 100 | [Somebody Gotta Make A Move](https://open.spotify.com/track/3g8TyEzKyPMYXLSUvXMJU4) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Blacktop Run](https://open.spotify.com/album/583OXr5VnpSpYHHukpZkSc) | 3:54 |
 
-Snapshot ID: `MCw1MjE0Mzg4OGY2MDhiYTNhZDBlNzI3M2E5MTkzNGMwY2I1NDUxYWU1`
+Snapshot ID: `MCxiMDYxNzg0M2MwODRkNzAwYWFkZmI0M2Y0NTkxOWVmMzFhYmU0ZjEy`

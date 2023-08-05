@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Kai Buizon Artwork: Isu Kim
 
-1,530 songs - 3 day 19 hr 14 min
+1,533 songs - 3 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [Facade](https://open.spotify.com/track/3bmuz3Ezn2aWVdwjuBBOYS) | [Tera](https://open.spotify.com/artist/3k6meIaVtCMgLgTV0wlpQr) | [Facade](https://open.spotify.com/album/2TbVFo7KbpwfkRcMxHydYG) | 3:17 | 2023-02-16 | 2023-03-10 |
 | [FAIR](https://open.spotify.com/track/3RQVm7WsEiZOyk1mGwk0bK) | [Xjohn](https://open.spotify.com/artist/7MbJsISDS26JH2TOGxvDIj), [Dwhîte](https://open.spotify.com/artist/6IhmomduCLCrHifc99z9qn) | [GOING TO TOP](https://open.spotify.com/album/1C3TjkAMQo7ei62z62sSaB) | 2:38 | 2022-03-31 | 2022-05-06 |
 | [Fall](https://open.spotify.com/track/5PPjiYgYQd38hOBAX6u5Ir) | [Toots](https://open.spotify.com/artist/2vG7Gc8oR9AEARU3bPzsiZ) | [Fall](https://open.spotify.com/album/1t6EBTOHdCLKwOyVa39O2q) | 3:08 | 2022-10-06 | 2022-10-14 |
+| [Fall Fast](https://open.spotify.com/track/7lhKh4GwPRbUf1KABOhR7H) | [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D) | [Fall Fast](https://open.spotify.com/album/2slqPxAehaSAptq63djpc9) | 3:15 | 2023-08-03 |  |
 | [Fall For You](https://open.spotify.com/track/1swTFUOhGZXD1dbkiYyGgS) | [Precious Jewel Amor](https://open.spotify.com/artist/2QHBSznrzFvrQJchoLHYVw) | [Fall For You](https://open.spotify.com/album/3ZrwyZ4A1N5IXbM2fzQOe7) | 4:26 | 2023-02-16 | 2023-03-10 |
 | [FALLBACK](https://open.spotify.com/track/6F22n7MBMrdHry9V3D9BuK) | [mica yui](https://open.spotify.com/artist/6RATIE1X7i1BLhEONur8mY), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [FALLBACK](https://open.spotify.com/album/2J8rTNCXnT60KquV6CGRXE) | 2:52 | 2023-05-04 | 2023-05-26 |
 | [fallen](https://open.spotify.com/track/18LsjUmTu3SD2pmxYG2kkW) | [Th1rt3en Yuzora](https://open.spotify.com/artist/0ZsV5LjbQKkSE6zkQbGQgc) | [fallen](https://open.spotify.com/album/1BsMavB1FPZTRTIy2lXkuF) | 2:33 | 2023-03-23 | 2023-04-14 |
@@ -723,6 +724,7 @@
 | [Kilo](https://open.spotify.com/track/7Jo9KBZZzfdtu4LDn2yqGi) | [Muric](https://open.spotify.com/artist/48K8I2AZGPknyk914KtMzO) | [Kilo](https://open.spotify.com/album/3ygQ5QnMsOIlfk97KO6SwW) | 3:01 | 2023-06-08 | 2023-06-23 |
 | [Kinab\-an](https://open.spotify.com/track/4kQY55AbiwT7vTAN10RTj4) | [Oswald Sleeps Tonight](https://open.spotify.com/artist/5S8uFuMfg1qDFMOvEpLOi2) | [Kinab\-an](https://open.spotify.com/album/6TG14788H5bpZ7tHOgVSXj) | 5:27 | 2023-04-20 | 2023-05-05 |
 | [King\-Ill Freestyle](https://open.spotify.com/track/4OmmlheoypfzMqEhkiaopJ) | [Slader](https://open.spotify.com/artist/0rvUGkKiWLmwZ2lXJqbc0S), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [AnZietyDepression](https://open.spotify.com/album/1ME0JcIEqEc7Vj6XmXhWSl) | 2:44 | 2022-10-13 | 2023-02-03 |
+| [kleins](https://open.spotify.com/track/0VHDFZLCnMItkz9a5HAi8w) | [gabby parafina](https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP) | [kleins](https://open.spotify.com/album/6tVwGSwLilsyLVKR1TV1g8) | 4:12 | 2023-08-03 |  |
 | [KOMPLETO](https://open.spotify.com/track/2jwZHyrs1yxGg5SIobNtvK) | [Marco BMG](https://open.spotify.com/artist/46wFQ13fQTY41FSRJS2m1u), [Max Importunate](https://open.spotify.com/artist/1ey4bEDkXvpAzhMkoEcOlP) | [KOMPLETO](https://open.spotify.com/album/2CBWDk5V8CTFCyCSlxUFdw) | 5:09 | 2023-03-16 | 2023-03-31 |
 | [Kompletos Rekados](https://open.spotify.com/track/11UAVqbEwWNtmTWoWmuuM7) | [SNG On Da Track](https://open.spotify.com/artist/497uh8Q5OmAzaNpaZDVL35), [Rish Mel](https://open.spotify.com/artist/2ENtIAo6CMZB7bLmJj3Owf), [Big Drimm](https://open.spotify.com/artist/3VbppAr11BTMOgcltTTDqZ), [Rove](https://open.spotify.com/artist/4xWG2T3Q14InL7VoQbthUB), [Abat](https://open.spotify.com/artist/4zHrke1vCIgYcWeSO5vfEr) | [Kompletos Rekados](https://open.spotify.com/album/2Rw1EwXRvceQoCRT2KHVGv) | 3:43 | 2023-04-13 | 2023-05-05 |
 | [Kulay](https://open.spotify.com/track/3J32OU1Sx6PkFTZfxVKyLl) | [KYRT.](https://open.spotify.com/artist/6r19U1nFGfYHgO8rI5ycLs) | [Kulay](https://open.spotify.com/album/0W6U3ItYhykwTScAGd1QBf) | 3:13 | 2023-02-09 | 2023-02-17 |
@@ -820,6 +822,7 @@
 | [Lowkey](https://open.spotify.com/track/1SEUmH7bezwvZC8eLlNLe7) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj), [$killz](https://open.spotify.com/artist/2ulYvQZc4T5VIBg0eUYyAJ) | [Lowkey](https://open.spotify.com/album/1IGFTAG4jQq5zjU9fS7CX0) | 3:33 | 2022-02-10 | 2022-04-01 |
 | [LP 2 ILL](https://open.spotify.com/track/63Fd4HDhtftWzZzFg1T0YD) | [E\-Kove](https://open.spotify.com/artist/1oy5G3wIJcMmPqOSaWzndE), [Aj Kee Hong](https://open.spotify.com/artist/5ab50mt03i3p35ru1FoSFv) | [LP 2 ILL](https://open.spotify.com/album/5fCIAHOSlxNQUE9nhGBkda) | 3:46 | 2022-06-16 | 2022-09-09 |
 | [LSB](https://open.spotify.com/track/3cAMt4nHC5A8xIkMwWwk07) | [EC Orduna](https://open.spotify.com/artist/62ycja55uV9zKY8mw6cdWa), [JP Bacallan](https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG) | [LSB](https://open.spotify.com/album/14oqoInzMLWY8Km6PbJouU) | 3:33 | 2023-07-20 | 2023-08-04 |
+| [Luck](https://open.spotify.com/track/290Jp7ppT85a8BwlzqCK7v) | [Underclass](https://open.spotify.com/artist/3yVOOVzczmJdKGDiD1jwYW) | [Luck](https://open.spotify.com/album/3JlLYbXHkrMN9CknGrVxjk) | 3:11 | 2023-08-03 |  |
 | [LULAN](https://open.spotify.com/track/6jFTqB8iNPnsaAgpQPqxPo) | [AJ La Torre](https://open.spotify.com/artist/1Wd6UoCQJPC3bQBONvUhCA), [Johann Regaya](https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ) | [LULAN](https://open.spotify.com/album/1bJykLi7qtS1b5xlolCTtV) | 3:38 | 2022-02-03 | 2022-02-11 |
 | [Lulay](https://open.spotify.com/track/6IVoV10fauImZHBVmc4vAF) | [Nowan.](https://open.spotify.com/artist/2FhQRdH3HIiapENFKfBvXJ) | [Lulay](https://open.spotify.com/album/6ntZ2nx0HXRj3Vb5gYkUOo) | 3:12 | 2023-04-27 | 2023-05-12 |
 | [Lumalalim, Naliligaw](https://open.spotify.com/track/280azLLSovaQqo85kaNtAu) | [Nicoli Recario](https://open.spotify.com/artist/7biGIzKP8OS8RebocnC5pX) | [Lumalalim, Naliligaw](https://open.spotify.com/album/2kxICNyDQqGnM3RgWRkyP7) | 4:19 | 2023-02-09 | 2023-02-24 |

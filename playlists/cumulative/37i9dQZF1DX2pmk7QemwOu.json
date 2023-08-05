@@ -539,6 +539,32 @@
     },
     {
       "album": {
+        "name": "Do It Like That (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/5KSss6H6yvZIpYG2MNpVR7"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139441,
+      "name": "Do It Like That (Alan Walker Remix)",
+      "url": "https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ"
+    },
+    {
+      "album": {
         "name": "Do It Like That (Pop R&B Remix)",
         "url": "https://open.spotify.com/album/69mUDfqiMNvS4IHwdtEfn0"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,130 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,277 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 9 | [Near Light](https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ) | 3:28 |
 | 10 | [Duvet](https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 3:24 |
 | 11 | [Amorpha](https://open.spotify.com/track/3YR27cjoj0MJV1moSVdhJK) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [Bajascillators](https://open.spotify.com/album/6NAiGqHITefAfPFaDc46Zx) | 9:42 |
-| 12 | [Brush](https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 1:20 |
-| 13 | [Angels](https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT) | [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [Othona](https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5) | 4:16 |
+| 12 | [Angels](https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT) | [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [Othona](https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5) | 4:16 |
+| 13 | [Brush](https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 1:20 |
 | 14 | [aisatsana \[102\]](https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 5:21 |
 | 15 | [wondering dub](https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [wondering dub](https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f) | 2:07 |
 | 16 | [Looking You In Silence](https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 49 | [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 |
 | 50 | ['Jardin de Simone' Acte 2](https://open.spotify.com/track/0rCDmpoGGU5WeCghQRXA9M) | [Ghédalia Tazartès](https://open.spotify.com/artist/13c7WwsaOvuzDXqEFtSnda), [Rhys Chatham](https://open.spotify.com/artist/5xzxiSk1Y7Qd7pWnQL5r04) | [Two Men in a Boat](https://open.spotify.com/album/6Q8AsPluGFM1GBZsSBpEgX) | 6:54 |
 
-Snapshot ID: `MCw3MDM3YjZmMDkyOTIwZjZjOGQzOGZkN2I2ZWJhZWY1MGNlODg2MWRi`
+Snapshot ID: `MCw0ZDQ1OThiZjc5NTc0MzczZWNjZmNiNzE5Zjk2OWY4YWQwMWQ4NzJh`

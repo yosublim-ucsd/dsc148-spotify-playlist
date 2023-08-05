@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 
 > The sweet sounds of Yemen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,283 likes - 40 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,296 likes - 40 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 36 | [يا متيم](https://open.spotify.com/track/7w7GSGMmMGFJa7jIXOkTXz) | [مروة سالم](https://open.spotify.com/artist/5T8HcA0hsPwLvdejz6NKJj) | [يا متيم \- Single](https://open.spotify.com/album/7dwA6hXAiRBvPG11tyAdwM) | 4:34 |
 | 37 | [ياطير في عالي الغصون](https://open.spotify.com/track/7lft2qvHsmL1P06YcFLN7C) | [Sharaf Al Qaady](https://open.spotify.com/artist/1IdxbAEwj8rBjjtfxWUKLx) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 5:40 |
 | 38 | [يا جانيات العناقيد](https://open.spotify.com/track/3HIM2MSek0HBoMJU2HOnNQ) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 5:36 |
-| 39 | [لي قلب اضناني](https://open.spotify.com/track/6b1ZwfUyHlNN1dBTSdFlvy) | [Sheikh Ahmed Al Hobaishi](https://open.spotify.com/artist/1DuhcPKBk1ulZQkWiN5smR) | [انا وقلبي](https://open.spotify.com/album/6kbIHqXGsQgrWzYsvKvKOJ) | 6:36 |
+| 39 | [يهددني](https://open.spotify.com/track/210bnFRVRTGdBJ1kt7DseV) | [Assala Al Majidi](https://open.spotify.com/artist/2pTl8ndSxB3HXTCkpyxD9D) | [يهددني](https://open.spotify.com/album/5La0nvvmt7Tcq2JZCs2gmE) | 3:02 |
 | 40 | [Eih Ahebak](https://open.spotify.com/track/0g5EJbRnkDaXyWBhAk7qat) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Eih Ahebak](https://open.spotify.com/album/50KvxvqYsNgNjTSEW3FjEl) | 3:30 |
 
-Snapshot ID: `MCw0MzQxNzljNzgwMWE4ZGNjMjUxOGYyY2UzNmFkYThiN2Y0NDVlODZh`
+Snapshot ID: `MCxhNzBiOTM1YTU1YjU2N2Q0NDZhZTg4ODNkODk4OWZlNGNhNDQ5YmY4`

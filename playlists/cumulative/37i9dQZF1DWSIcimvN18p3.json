@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 228492,
       "name": "A Thread to Find",
       "url": "https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6"
@@ -4264,7 +4264,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 159493,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/1P1nt3zpz3ryHC7Uafckdg"
@@ -6831,6 +6831,24 @@
     },
     {
       "album": {
+        "name": "Anarchist Gospel",
+        "url": "https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199093,
+      "name": "Whole",
+      "url": "https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V"
+    },
+    {
+      "album": {
         "name": "Lucy and the Wolves",
         "url": "https://open.spotify.com/album/7tjNeeTCDNpzxa1JRCddBf"
       },
@@ -7076,7 +7094,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 219053,
       "name": "You And I",
       "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"

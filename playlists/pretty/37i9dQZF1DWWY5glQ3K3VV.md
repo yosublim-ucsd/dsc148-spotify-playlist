@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: Tony Effe
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,423 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,505 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 42 | [Bisous](https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Bisous](https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP) | 2:34 |
 | 43 | [MALA \(feat\. Lazza, Tony Effe, JVLI\)](https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [PLC tape 1](https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF) | 2:58 |
 | 44 | [Gigolò \(feat\. Sfera Ebbasta & Capo Plaza\)](https://open.spotify.com/track/4KilYheWwxakB1L43ECTeP) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Re Mida \(Aurum\)](https://open.spotify.com/album/18oJqI5kIQ5lwDvpdlny99) | 2:44 |
-| 45 | [Lento](https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Lento](https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P) | 2:42 |
-| 46 | [ADVICE](https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [LISTA 47](https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4) | 3:03 |
+| 45 | [ADVICE](https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [LISTA 47](https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4) | 3:03 |
+| 46 | [Lento](https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Lento](https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P) | 2:42 |
 | 47 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 |
 | 48 | [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:21 |
 | 49 | [Baby \(with J Balvin\)](https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 3:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 79 | [Polo nord \- C+N Progressive Mix](https://open.spotify.com/track/1Wbc0N0X1zkFqnKGcj8Quh) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Nic Sarno](https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo) | [Scialla Semper \(Emodrill Repack\)](https://open.spotify.com/album/6nIBGD2Z0TbFrNcFOfhHVJ) | 4:09 |
 | 80 | [Gli Occhi del Blocco \(feat\. Escomar\)](https://open.spotify.com/track/2dKfIsCs1XhlDZrLjuTbX5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [EP1](https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP) | 2:55 |
 
-Snapshot ID: `MCwzODE2YjZmMDdmZTM0YjVjYzBjODNkZjg0NjhmMGI4Y2VkNTNjYjFm`
+Snapshot ID: `MCxkYzA3NGRkODY2MTJhMGE0MTNkZmMwOTcwODcxNTg4MzNkMGQzMWVl`

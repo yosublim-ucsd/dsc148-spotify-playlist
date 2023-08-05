@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: TXT, Jonas Brothers\)
 
-131 songs - 7 hr 5 min
+135 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,8 @@
 | [Dreamers](https://open.spotify.com/track/3rpJA5YqsZKIh1Wb71pR20) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Dreamers](https://open.spotify.com/album/32xNTIA4avuQXwY9jLzIrH) | 3:33 | 2021-12-20 | 2022-02-24 |
 | [Dumb \(feat\. Sonnet\) \- Remix](https://open.spotify.com/track/3YWWj0sze9RqfHlhdYWg6Z) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B) | [Dumb \(feat\. Sonnet\) \[Remix\]](https://open.spotify.com/album/6A7Fi2YTBwaXAedyWpltOk) | 3:12 | 2021-12-20 | 2022-02-25 |
 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 | 2021-12-20 |  |
+| [Eve, Psyche & the Bluebeard’s wife \(feat\. Demi Lovato\)](https://open.spotify.com/track/5zYrD1r49ex3WJk6iVIhfw) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Eve, Psyche & the Bluebeard’s wife \(feat\. Demi Lovato\)](https://open.spotify.com/album/2VVf6P029Bw2sRXV721xui) | 3:05 | 2023-08-04 |  |
+| [Eve, Psyche & the Bluebeard’s wife \(Rina Sawayama Remix\)](https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eve, Psyche & the Bluebeard’s wife \(Rina Sawayama Remix\)](https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh) | 2:54 | 2023-08-04 |  |
 | [Expectations](https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Expectations](https://open.spotify.com/album/3T6Xy6iJPpYmawK2LmJWFF) | 3:09 | 2023-03-09 |  |
 | [Fairytale](https://open.spotify.com/track/0XZL9R2exRu1Rpw6KSAeS4) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A) | 2:52 | 2022-06-21 |  |
 | [Family \(feat\. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Family \(feat\. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/1O3wGX19uKgXZZuW7uKb9l) | 2:38 | 2021-12-20 | 2022-08-30 |
@@ -136,8 +138,10 @@
 | [Zero \(J.I.D Remix\)](https://open.spotify.com/track/12Yy0hZrUebGnr3IrppPnW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Zero \(J.I.D Remix\)](https://open.spotify.com/album/45wwQll1Ay4A1Rz79wWuNt) | 3:44 | 2023-06-22 |  |
 | [あいのちから](https://open.spotify.com/track/3I5W8iA8iZAyO62UVceK3F) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [あいのちから](https://open.spotify.com/album/3fqYnHqWRVePkZzPQpxclM) | 3:50 | 2021-12-20 | 2022-09-06 |
 | [クネクネ \(Wiggle Wiggle\)](https://open.spotify.com/track/0OyEy0oKOszTW889A4RQwg) | [Raon](https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst) | [クネクネ \(Wiggle Wiggle\)](https://open.spotify.com/album/6V8gM3RmsezyJK2a7pavFd) | 3:16 | 2022-04-19 | 2023-02-17 |
+| [ジュエリー \(Prod\. imase\)](https://open.spotify.com/track/1PeBPKbOCc370rnLKploBL) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ジュエリー \(Prod\. imase\)](https://open.spotify.com/album/6mw2LvoVp9MP0jMv0ZuJla) | 2:43 | 2023-08-04 |  |
 | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/track/5yR9bGLr8Zz2EndMrthui1) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/album/4i69b6pT4wIAIkoYGA71Um) | 3:24 | 2022-08-29 |  |
 | [如果可以 \(韓文版\) \- 電影"月老"主題曲](https://open.spotify.com/track/579jTwYxNQ1dKQjcKGXPy3) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(韓文版\) \[電影"月老"主題曲\]](https://open.spotify.com/album/3dPvM0IdO54j1m3zFjU8hv) | 4:34 | 2022-03-10 | 2023-02-17 |
+| [妳在哪裡 \(WYA\)](https://open.spotify.com/track/4WOBcLq8VFP4xWLyNMAotu) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [妳在哪裡 \(WYA\)](https://open.spotify.com/album/6ynjwmYfzxcX8HmRnxyqLt) | 3:43 | 2023-08-04 |  |
 | [雨恋](https://open.spotify.com/track/7IhPNuQ9Wofe1wnvksz0a3) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [雨恋](https://open.spotify.com/album/5vZyHXMwvNbgCQACWO2lHm) | 3:51 | 2021-12-20 | 2022-03-05 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

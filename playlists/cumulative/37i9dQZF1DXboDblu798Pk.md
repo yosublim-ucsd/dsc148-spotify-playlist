@@ -4,7 +4,7 @@
 
 > Pop hits in the making! Cover: Tones And I
 
-146 songs - 7 hr 36 min
+147 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [overthinking about you](https://open.spotify.com/track/3uxPJckvg3g5B686iNgqXU) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [overthinking about you](https://open.spotify.com/album/6HoiPGlbAGOrJRJ5ZRVnzn) | 3:16 | 2023-07-07 |  |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-06-15 |  |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-03 |  |
+| [Peanut Butter & Tears](https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Peanut Butter & Tears](https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I) | 3:45 | 2023-08-03 |  |
 | [Perfect For You](https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Perfect For You](https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir) | 2:58 | 2023-06-15 | 2023-06-23 |
 | [Practically Strangers](https://open.spotify.com/track/3qkRncHx7iqp05daYmVPCL) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Practically Strangers](https://open.spotify.com/album/2Hh1RsqsHsz80iosebrvob) | 2:10 | 2023-06-15 | 2023-07-21 |
 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu) | 2:44 | 2023-06-15 | 2023-08-04 |

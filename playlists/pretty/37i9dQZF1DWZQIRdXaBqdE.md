@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 
 > Get on down the road with these classic country tunes\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,278 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,510 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,15 +65,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 55 | [I Think I ll Just Stay Here And Drink \- Re\-Recorded](https://open.spotify.com/track/6DmyknyzXRbIKZe3ySDA6Y) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Okie From Muskogee](https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26) | 3:50 |
 | 56 | [Behind Closed Doors](https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Love Songs](https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL) | 2:54 |
 | 57 | [Lord, I Hope This Day Is Good \- Single Version](https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [Lord I Hope This Day Is Good](https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk) | 4:09 |
-| 58 | [Wildflowers \- 2015 Remaster](https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 3:36 |
-| 59 | [I'm the Only Hell \(Mama Ever Raised\)](https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Super Hits](https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3) | 3:06 |
+| 58 | [I'm the Only Hell \(Mama Ever Raised\)](https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Super Hits](https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3) | 3:06 |
+| 59 | [Wildflowers \- 2015 Remaster](https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 3:36 |
 | 60 | [Is Anybody Goin' to San Antone](https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Charley Pride's 10th Album](https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl) | 2:13 |
 | 61 | [Meet Me In Montana](https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi), [Marie Osmond](https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj) | [Won't Be Blue Anymore](https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI) | 3:56 |
-| 62 | [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [I Will Stand By You \- The Essential Collection](https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM) | 4:16 |
-| 63 | [Two Dozen Roses](https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 3:43 |
-| 64 | [She's Got You \- Single Version](https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Sentimentally Yours](https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ) | 3:01 |
+| 62 | [Two Dozen Roses](https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 3:43 |
+| 63 | [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [I Will Stand By You \- The Essential Collection](https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM) | 4:16 |
+| 64 | [Help Me Make It Through The Night](https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [The Best Of Sammi Smith](https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg) | 2:35 |
 | 65 | [I Think I'll Just Stay Here And Drink](https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Back To The Barrooms](https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj) | 4:31 |
-| 66 | [Help Me Make It Through The Night](https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [The Best Of Sammi Smith](https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg) | 2:35 |
+| 66 | [She's Got You \- Single Version](https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Sentimentally Yours](https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ) | 3:01 |
 | 67 | [You Never Even Called Me By My Name](https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe \- 16 Biggest Hits](https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l) | 5:14 |
 | 68 | [Y'all Come Back Saloon](https://open.spotify.com/track/790HdFZdub1eobl2iLzcem) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [You're The One](https://open.spotify.com/album/4q0ML8wcGoyyMl3hOOACtJ) | 2:54 |
 | 69 | [Big Bad John](https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso) | [Jimmy Dean](https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC) | [The Best Of Jimmy Dean](https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 99 | [Old Hippie](https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 4:07 |
 | 100 | [The Last Thing On My Mind](https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 2:36 |
 
-Snapshot ID: `MCw4YmY5ZDE4Mjc2MGMxYjk1NDAwNGM5ZjQ1NjJjMmJkZGQwMjI0ODVj`
+Snapshot ID: `MCxlMWJhZjU1MWRhMmMxODhhODA0OWVkMjAwM2M1ODZkMjg2ZTQwN2U0`

@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: The Cold Stares
 
-239 songs - 15 hr 5 min
+241 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/6ReF4Cn3aG4ehqC4NdrLrV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Crawling Kingsnake](https://open.spotify.com/album/2nK8Pcq0cWqWC0lPapfEcL) | 3:52 | 2021-04-16 | 2022-07-29 |
 | [Creeper](https://open.spotify.com/track/3DI0Ko7hmK2uh8INSXFnkb) | [Lincoln Durham](https://open.spotify.com/artist/1Zngx1vu4ARlsOn5MwvOVo) | [Revelations of a Mind Unraveling](https://open.spotify.com/album/1LnaYr79OQ3ZjfwjLmts6w) | 3:41 | 2020-10-16 | 2023-05-27 |
 | [Cross The Line](https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Cross The Line](https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a) | 3:07 | 2023-07-07 |  |
+| [Dark Side](https://open.spotify.com/track/0mQyWnVZ09hgVRITJMACgJ) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Dark Side](https://open.spotify.com/album/5b96aKOHRQ9J7vtX6r1P4E) | 3:23 | 2023-08-04 |  |
 | [Death by Misadventure](https://open.spotify.com/track/1rHGpxJKJZb5QzcKUlhfb1) | [The Infamists](https://open.spotify.com/artist/5rqXUA24KUryMCNvNTqR6B) | [Live Evil](https://open.spotify.com/album/06wuQ81ou2JE8xdXXlqMSB) | 3:26 | 2023-04-07 |  |
 | [Destination Unknown](https://open.spotify.com/track/2svcyE4LIiCKgBOVGtLDdC) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Destination Unknown](https://open.spotify.com/album/11HPOujLHHqTCpAbVNnBd5) | 4:50 | 2022-09-09 | 2023-04-22 |
 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 | 2022-06-10 |  |
@@ -81,6 +82,7 @@
 | [Gypsy Woman](https://open.spotify.com/track/0Xt2U98SY4qyd2ZTU8nOsE) | [Jonathan Tyler & The Northern Lights](https://open.spotify.com/artist/0ojbcl4680K7tn6aPicIaP) | [Hot Trottin'](https://open.spotify.com/album/1Nd6QhAWTbOlVQjKf3wYQY) | 4:15 | 2022-02-11 |  |
 | [Half My Fault](https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/35LXXukiQmYjZ9sRjpga2I) | 3:20 | 2021-09-03 | 2022-09-10 |
 | [Half\-Tongue](https://open.spotify.com/track/3n2fRYNaGoDygheFYRJlNM) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [ATW](https://open.spotify.com/album/29zIQDGwvtcvbaqCISJSMC) | 4:35 | 2020-10-16 |  |
+| [Hands On Fire](https://open.spotify.com/track/1KxQQ5FlMtvlUxJ2bVisNV) | [Ryan Scott](https://open.spotify.com/artist/5XhU9rfYBQBDGxujJiB3LJ) | [Hands On Fire](https://open.spotify.com/album/2iY6WfZ1el0SXzOQhwIVhN) | 4:35 | 2023-08-04 |  |
 | [Hard Times](https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:26 | 2021-03-26 | 2023-01-15 |
 | [Hard Times](https://open.spotify.com/track/7zdR9mlXoyrrw9eqE2sNgV) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Hard Times](https://open.spotify.com/album/6OplYWUMxvkCi7WtiS5RRj) | 3:26 | 2021-03-26 | 2022-07-29 |
 | [Haunted Heart](https://open.spotify.com/track/74y2oKuMSBVtoukuUg08rh) | [Ray Beadle](https://open.spotify.com/artist/7wGs0wj3dW628DJio6N4r3) | [Haunted Heart](https://open.spotify.com/album/1l6OJVASvXKZ5tsviojuoQ) | 3:48 | 2022-04-26 |  |
@@ -112,7 +114,7 @@
 | [Innocence Of Youth \- Live](https://open.spotify.com/track/6hKLwqU65JM6LfVS4VFsnk) | [When Rivers Meet](https://open.spotify.com/artist/3r4hYfzQA1yuQFEKMDJzJi) | [Flying Free Tour \(Live\)](https://open.spotify.com/album/3kqzlnGvqTxFSrcblmAP8n) | 5:00 | 2022-11-04 |  |
 | [Into The Midnight Sun](https://open.spotify.com/track/4aGwqnQRU1nQuDuqGkNnoR) | [Electric Boys](https://open.spotify.com/artist/0zRRk9Oe6owoIi3cY5yWk4) | [Into The Midnight Sun](https://open.spotify.com/album/4tV6FOGhLdQHSospIkbDfc) | 3:54 | 2022-04-26 |  |
 | [Just Takes Time](https://open.spotify.com/track/4NfUTIqcPzLTcL7Owbezt7) | [Simon McBride](https://open.spotify.com/artist/4S2kddUZy77NYpLH50f3qC) | [The Fighter](https://open.spotify.com/album/52jRQHJzlln2SkAfYQnLQC) | 3:09 | 2022-06-03 |  |
-| [Karma](https://open.spotify.com/track/3VIwNFzZScES4Mp1DLLE3X) | [Katie O'Malley](https://open.spotify.com/artist/6okmBH0CynrW1oDQCaGjSQ) | [Karma](https://open.spotify.com/album/52kgNqpBJ9HaXsB1EeZ8G7) | 4:14 | 2023-03-31 |  |
+| [Karma](https://open.spotify.com/track/3VIwNFzZScES4Mp1DLLE3X) | [Katie O'Malley](https://open.spotify.com/artist/6okmBH0CynrW1oDQCaGjSQ) | [Karma](https://open.spotify.com/album/52kgNqpBJ9HaXsB1EeZ8G7) | 4:14 | 2023-03-31 | 2023-08-05 |
 | [Karma](https://open.spotify.com/track/6wFtwvkZ0j0ldpQkc1RvRn) | [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [Karma](https://open.spotify.com/album/07FCM8eqY33fC2pXikSD3Y) | 4:00 | 2020-10-16 |  |
 | [Keep Up](https://open.spotify.com/track/3k1GpN1mzkzpXsJun3T5br) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Keep Up](https://open.spotify.com/album/15lRMZm1okutfln1ZBX2GG) | 3:32 | 2021-04-09 |  |
 | [Keep Up](https://open.spotify.com/track/6eUXiwxjHI3RblcwckJ7Qq) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Keep Up](https://open.spotify.com/album/5kNJLJiLAEMMq8b909JBsY) | 3:32 | 2021-03-19 | 2022-08-05 |
@@ -196,7 +198,7 @@
 | [Sugar and Spice](https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9) | [Jocelyn & Chris Arndt](https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R) | [Sugar and Spice](https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL) | 3:34 | 2021-06-18 |  |
 | [Suit in the Back](https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [QCNH](https://open.spotify.com/album/0kGed2LeKgJxM3wiX8ykt2) | 2:53 | 2020-10-16 |  |
 | [Sunshine Lady](https://open.spotify.com/track/2bsJZptUrnp4Rt786WKxc6) | [The Shelter People](https://open.spotify.com/artist/3m1rUUzCaulww0FUM2Gw1i) | [Sunshine Lady / Rock n Roll](https://open.spotify.com/album/0LZ5hsTglEgJovaQgDru6v) | 3:01 | 2022-06-03 |  |
-| [Superhuman](https://open.spotify.com/track/5IT0dXkBnNZ1cefzaSWDWx) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Superhuman](https://open.spotify.com/album/1B25jVWUCH41IhBo6iz5WK) | 4:05 | 2021-12-07 |  |
+| [Superhuman](https://open.spotify.com/track/5IT0dXkBnNZ1cefzaSWDWx) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Superhuman](https://open.spotify.com/album/1B25jVWUCH41IhBo6iz5WK) | 4:05 | 2021-12-07 | 2023-08-05 |
 | [Taking Me Back](https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:05 | 2021-10-22 | 2023-03-04 |
 | [Tell Me](https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:17 | 2021-02-26 |  |
 | [Tell Me](https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/7hLiHJqM7TJJrHxN5o4FWB) | 3:17 | 2021-02-26 | 2022-07-28 |

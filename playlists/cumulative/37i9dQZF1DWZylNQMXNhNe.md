@@ -2,9 +2,9 @@
 
 ### [AUGE](https://open.spotify.com/playlist/37i9dQZF1DWZylNQMXNhNe)
 
-> Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Lia Clark, Pabllo Vittar
+> Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Kika Boom, Kaya Conky
 
-110 songs - 4 hr 54 min
+111 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [CACHORRINHAS](https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CACHORRINHAS](https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6) | 2:14 | 2022-07-22 |  |
 | [Cadeado](https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:48 | 2023-03-11 |  |
 | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/album/5GLvWI68rAJXKVmGfdV2Eu) | 3:01 | 2022-04-29 |  |
+| [Calcinha](https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe) | [Calcinha](https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW) | 2:58 | 2023-08-04 |  |
 | [Cavalona](https://open.spotify.com/track/6rgyzu6AxYyx7Fa9qAxN8W) | [Blogueirinha](https://open.spotify.com/artist/7C9PDbLk94PbL45y8qeavR) | [Quem Me Conhece Sabe](https://open.spotify.com/album/4zu11ms7NSVOfTqmMGWz26) | 1:41 | 2022-04-29 | 2022-07-23 |
 | [Contra Corrente](https://open.spotify.com/track/34Jekz6lvkUk3us5dAQeqx) | [Leandro Buenno](https://open.spotify.com/artist/1CMOP7dPehm12jO9GW2Y1B) | [Contra Corrente](https://open.spotify.com/album/0RK21g7bYrnXDjDcTQ64GD) | 3:29 | 2022-12-02 | 2023-02-11 |
 | [Cuntelectual](https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND](https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1) | 2:11 | 2023-06-16 |  |
@@ -68,7 +69,7 @@
 | [MIL GRAU](https://open.spotify.com/track/4BkjISAYyQ6OMnEpzpQxgA) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [ALEGORIA](https://open.spotify.com/album/6kAhfgYBxtIQcI2AfMn2nq) | 2:25 | 2022-04-29 | 2022-07-29 |
 | [Milkshake](https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Gente Crazy](https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC) | 2:31 | 2023-01-13 |  |
 | [MODO TURBO](https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MODO TURBO](https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt) | 2:30 | 2022-04-29 |  |
-| [Na Sua](https://open.spotify.com/track/5Wwap1q83am8aMJMo4mjDs) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Na Sua](https://open.spotify.com/album/4rUcoz67PBYnscDJFS0hi8) | 3:05 | 2023-04-15 |  |
+| [Na Sua](https://open.spotify.com/track/5Wwap1q83am8aMJMo4mjDs) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Na Sua](https://open.spotify.com/album/4rUcoz67PBYnscDJFS0hi8) | 3:05 | 2023-04-15 | 2023-08-05 |
 | [Necomancia](https://open.spotify.com/track/7rugGx6BTUaqjTvaoEIDAb) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Pajubá](https://open.spotify.com/album/5xyoM3kQr3FJSGk2CVP6du) | 4:06 | 2022-04-29 | 2022-09-24 |
 | [NOITE DE CAÇA](https://open.spotify.com/track/3vNEwUDgq46FPGk7xVhwTx) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [NOITE DE CAÇA](https://open.spotify.com/album/4BpC89Hz3YwISnrcYBfWbH) | 2:38 | 2022-04-29 |  |
 | [Não Tenta](https://open.spotify.com/track/5Jc73Nw398c5Jbs1sTTP65) | [OXA](https://open.spotify.com/artist/4QF8nYOlEY7ZwReHyx8KVT) | [Não Tenta](https://open.spotify.com/album/59S5U5mIZyBSuIdGQkCBLd) | 2:30 | 2022-04-29 | 2022-05-28 |

@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa ñeri\. Foto: La T y La M
 
-137 songs - 7 hr 28 min
+138 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [EL NOBA \| DJ TAO Turreo Sessions \#7](https://open.spotify.com/track/2y1ia2Dlf7MeZoOviVWH3n) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [EL NOBA \| DJ TAO Turreo Sessions \#7](https://open.spotify.com/album/38OxiO1MGBXfK8cicptGZH) | 2:09 | 2023-05-26 |  |
 | [EL PRESO](https://open.spotify.com/track/30ifw7I5iQXqhuF87LtcAd) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [EL PRESO](https://open.spotify.com/album/3UiqD2eUHBYfHrRTUlv9JE) | 4:30 | 2023-06-30 | 2023-07-08 |
 | [El Whatsapp](https://open.spotify.com/track/0X1X7twYjUAOv3P0vNnvYf) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:32 | 2023-05-26 |  |
+| [En el Mercho](https://open.spotify.com/track/0iWwb0D31vN79BkJS1FBZJ) | [Corre Guachin](https://open.spotify.com/artist/02AwBRpMnDrozfJcOnFOaY) | [En el Mercho](https://open.spotify.com/album/3ImRkQNwSB2JzXolhgKMhH) | 3:29 | 2023-08-04 |  |
 | [En la Cama Tú y Yo](https://open.spotify.com/track/1iryRHcRPsAVeXBa94zeqx) | [El Aspirante](https://open.spotify.com/artist/214I4pFYN6o8iAN4shhZHK) | [No Hay Mal Que Dure 100 Años](https://open.spotify.com/album/65MAxmxDPkdM3IZQY6ZOco) | 2:55 | 2023-05-26 |  |
 | [En Otra](https://open.spotify.com/track/26XTUfkLRnLR1W2XbjM9pf) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [En Otra](https://open.spotify.com/album/2LfZrUypchm1xCe73gDMsU) | 2:11 | 2023-07-14 |  |
 | [Es un Secreto](https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG) | 3:17 | 2023-05-26 |  |
@@ -141,7 +142,7 @@
 | [Venite Al Barrio](https://open.spotify.com/track/502621sPRjwZnxC5N7Co80) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Venite Al Barrio](https://open.spotify.com/album/6FaIAy4mMYiaZUWsutQSUS) | 2:43 | 2023-05-26 |  |
 | [Vicera, las Zapas](https://open.spotify.com/track/2i0SfKksuxxJkDehpyzxuu) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Danilo Montana](https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP) | [Vicera, las Zapas](https://open.spotify.com/album/7jYECg5W7BIF5sMksrqxoi) | 2:16 | 2023-05-26 |  |
 | [Vos de Bebe](https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf) | [Alta Gira](https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy) | 4:07 | 2023-05-26 |  |
-| [Voz de bebé](https://open.spotify.com/track/38WBgeP8cXm9I5Rr6kftyE) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf), [Búfalo Ortiz](https://open.spotify.com/artist/5j7kpHc00qZrSIxnSZ4YZj) | [Voz de bebé](https://open.spotify.com/album/60RFhH1hdv4XPfXO9UDwof) | 4:07 | 2023-07-14 |  |
+| [Voz de bebé](https://open.spotify.com/track/38WBgeP8cXm9I5Rr6kftyE) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf), [Búfalo Ortiz](https://open.spotify.com/artist/5j7kpHc00qZrSIxnSZ4YZj) | [Voz de bebé](https://open.spotify.com/album/60RFhH1hdv4XPfXO9UDwof) | 4:07 | 2023-07-14 | 2023-08-05 |
 | [Yendo No, Llegando](https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Yendo No, Llegando](https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP) | 3:31 | 2023-05-26 |  |
 | [Yo Fumo](https://open.spotify.com/track/2AOiUFvBd1AbUtEnmwqhaI) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Yo Fumo](https://open.spotify.com/album/33FknRCSpak207j4cmiApB) | 3:10 | 2023-05-26 | 2023-06-13 |
 | [Yo Me Enamoré](https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 3:12 | 2023-05-26 |  |

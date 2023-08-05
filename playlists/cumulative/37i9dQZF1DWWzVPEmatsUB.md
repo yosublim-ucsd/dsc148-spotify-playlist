@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-363 songs - 21 hr 57 min
+365 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [15](https://open.spotify.com/track/66FmBx9jNIjm4WhTOPJMwi) | [Bishop Ivy](https://open.spotify.com/artist/2Iq2lTFLmxtdaYCmhRSMbb) | [15](https://open.spotify.com/album/1ukbsiFX0gLmoS5bCbMysd) | 3:17 | 2020-10-17 | 2022-04-20 |
 | [6 AM](https://open.spotify.com/track/3UJbJOsLhyuGXOOofKr52i) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [6 AM](https://open.spotify.com/album/6f0QgMv0n3IBDpcYW0QPQL) | 3:50 | 2022-08-05 | 2022-08-27 |
 | [6 AM](https://open.spotify.com/track/5frJ2iO0fDjeAVHlg9Z62T) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:50 | 2022-08-12 |  |
+| [80's Baby](https://open.spotify.com/track/4uHKi2GTJEsNgssBLqjv8z) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [80's Baby](https://open.spotify.com/album/5PG0AmjEASRuW7XxFPYLQq) | 4:32 | 2023-08-04 |  |
 | [A Hand, A Heart \- 2021](https://open.spotify.com/track/2MylFBKIQH5ogcBbeMDYiR) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [A Hand, A Heart \(2021\)](https://open.spotify.com/album/64FRBimcWLupwj5WBrzjm9) | 4:28 | 2022-01-07 | 2022-06-28 |
 | [A Thousand Ringing Bells](https://open.spotify.com/track/5ycP3ywAnIdtTGVEZYH4zp) | [Uri Sade](https://open.spotify.com/artist/7y3eEKZ2Z7P8DBNmIMq9nj) | [No Trace of Sound](https://open.spotify.com/album/1GYrBSrl5eRPAFMFQpiq4T) | 3:55 | 2020-10-17 | 2022-04-20 |
 | [about time](https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Takahiro Izumikawa](https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D) | [about time](https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u) | 3:13 | 2022-06-17 | 2022-11-29 |
@@ -65,6 +66,7 @@
 | [Changes \(feat\. Laura Elliott\)](https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [More Better](https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA) | 4:00 | 2023-06-02 |  |
 | [Changing](https://open.spotify.com/track/7gH7ypqeTfrzfGAGLMXxTN) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Restless Minds](https://open.spotify.com/album/5wIJ5KSFs23rMjn3JDoTR7) | 4:03 | 2020-10-17 | 2022-04-19 |
 | [Chasing Ghosts](https://open.spotify.com/track/67abo3o0GemMBmypVt6A92) | [Janelle Arthur](https://open.spotify.com/artist/6mKOqlRuNGivh0qDkrAB7l) | [Chasing Ghosts](https://open.spotify.com/album/4ua2x5Oj3ZbWnycA4lxDiA) | 3:37 | 2020-10-17 | 2022-07-29 |
+| [Chasing Stars](https://open.spotify.com/track/6OlfBmZ9vyIUnNCt5dYYix) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Chasing Stars](https://open.spotify.com/album/6PyKj1fCASd8kWRLuOlI6G) | 3:11 | 2023-08-04 |  |
 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 | 2022-01-21 |  |
 | [Chocolate Hills](https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chocolate Hills](https://open.spotify.com/album/5PwD9RssnZnPRgDuP3s5hY) | 3:10 | 2022-01-21 | 2022-07-29 |
 | [Coffee in the Morning](https://open.spotify.com/track/6FNOTA9gcK03rocm5fYTL5) | [Jess Best](https://open.spotify.com/artist/4pwfmguHmiuEmH1Xsw2NME) | [Saturday](https://open.spotify.com/album/5oNqJL7BI516bo2E0i5cSA) | 3:21 | 2020-10-17 | 2022-07-29 |
@@ -323,11 +325,11 @@
 | [Sweeter Than Peaches](https://open.spotify.com/track/5TQr5GihbdY4GuYURxW4Lx) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Sweeter Than Peaches](https://open.spotify.com/album/2lZUEwvmSL9NWgggV28n6T) | 2:07 | 2021-07-16 | 2022-07-23 |
 | [Temptation](https://open.spotify.com/track/30YAMud3jbVG4tWkwmuH3E) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Temptation](https://open.spotify.com/album/4mIbuUoAWuVUJQHwdVwZxp) | 2:55 | 2022-04-15 | 2023-04-29 |
 | [Thang \(hips\)](https://open.spotify.com/track/45NhEzSuvE5M5i3cYwphuL) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [12 Little Spells](https://open.spotify.com/album/3mWCkfWvAFi8FSgfLNrVfg) | 4:35 | 2020-10-17 | 2022-04-21 |
-| [Thank You](https://open.spotify.com/track/1Z6ND9vhUdc2fXG7vAgfbl) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:26 | 2022-01-06 |  |
+| [Thank You](https://open.spotify.com/track/1Z6ND9vhUdc2fXG7vAgfbl) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:26 | 2022-01-06 | 2023-08-05 |
 | [Thank You](https://open.spotify.com/track/4mVm8cTbilqoIWCYNNjCxt) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Thank You](https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo) | 3:26 | 2021-12-16 | 2022-07-29 |
 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 | 2020-10-17 | 2023-02-04 |
 | [The Idea](https://open.spotify.com/track/2o4eax2msyhbpijcWKtbOS) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [I Don't Know What Love Is](https://open.spotify.com/album/52FQWWrNHNXIU3JlCzt3fX) | 3:31 | 2023-04-07 |  |
-| [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-11 |  |
+| [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-11 | 2023-08-05 |
 | [the last laugh](https://open.spotify.com/track/4j25oHEZNvFt1m3P9WUJlv) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [the last laugh](https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL) | 3:17 | 2023-03-31 |  |
 | [The Night We Met \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [13 Reasons Why \(Season 2\)](https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN) | 3:28 | 2020-10-17 | 2023-02-04 |
 | [The Talking Palm Tree \- Acoustic \- Bonus Track](https://open.spotify.com/track/3ilIAhXsas81LwPnDB0zMS) | [ALYSS](https://open.spotify.com/artist/6h6jp2XsW3RvXdQs7Pfu4m) | [Answers](https://open.spotify.com/album/6iaeBc7rxIgd9ow4BPieUd) | 2:42 | 2023-04-28 |  |

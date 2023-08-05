@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/5b96aKOHRQ9J7vtX6r1P4E"
+      },
+      "artists": [
+        {
+          "name": "Ferris & Sylvester",
+          "url": "https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Dark Side",
+      "url": "https://open.spotify.com/track/0mQyWnVZ09hgVRITJMACgJ"
+    },
+    {
+      "album": {
         "name": "Live Evil",
         "url": "https://open.spotify.com/album/06wuQ81ou2JE8xdXXlqMSB"
       },
@@ -1332,6 +1350,24 @@
       "duration_ms": 275200,
       "name": "Half-Tongue",
       "url": "https://open.spotify.com/track/3n2fRYNaGoDygheFYRJlNM"
+    },
+    {
+      "album": {
+        "name": "Hands On Fire",
+        "url": "https://open.spotify.com/album/2iY6WfZ1el0SXzOQhwIVhN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Scott",
+          "url": "https://open.spotify.com/artist/5XhU9rfYBQBDGxujJiB3LJ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275193,
+      "name": "Hands On Fire",
+      "url": "https://open.spotify.com/track/1KxQQ5FlMtvlUxJ2bVisNV"
     },
     {
       "album": {
@@ -1904,7 +1940,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 254208,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3VIwNFzZScES4Mp1DLLE3X"
@@ -3448,7 +3484,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 245226,
       "name": "Superhuman",
       "url": "https://open.spotify.com/track/5IT0dXkBnNZ1cefzaSWDWx"

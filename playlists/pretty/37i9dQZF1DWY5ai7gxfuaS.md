@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The most innovative and forward thinking metal right now\. Cover: Static\-X
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,890 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,120 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 46 | [RedZone](https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN) | 3:47 |
 | 47 | [Don't Wait](https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [Don't Wait](https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO) | 2:08 |
 | 48 | [Azure](https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Azure](https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN) | 4:14 |
-| 49 | [Red River](https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS) | [Show Me A Dinosaur](https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ) | [Plantgazer](https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP) | 9:36 |
-| 50 | [Arluck](https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Blood Year](https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb) | 6:33 |
+| 49 | [Arluck](https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Blood Year](https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb) | 6:33 |
+| 50 | [Red River](https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS) | [Show Me A Dinosaur](https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ) | [Plantgazer](https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP) | 9:36 |
 | 51 | [Soul Revolution](https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution](https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel) | 3:34 |
 | 52 | [The Future Says Thank You](https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61) | 3:38 |
 | 53 | [Contact](https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik](https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP) | 3:34 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 59 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 |
 | 60 | [Picasso On The Concrete](https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ) | [Picasso On The Concrete](https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM) | 3:10 |
 | 61 | [Envy](https://open.spotify.com/track/6UHkVaXaIioxAFmXmOyRfW) | [Afterlife](https://open.spotify.com/artist/7LeHdLOuiySZgt7ewdckbX) | [Part Of Me](https://open.spotify.com/album/24HkFJ9oUSMDFdsE4yYyBc) | 3:32 |
-| 62 | [WHATS UP?](https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [WHATS UP?](https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ) | 2:48 |
-| 63 | [Shut Up](https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Shut Up](https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9) | 3:24 |
+| 62 | [Shut Up](https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Shut Up](https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9) | 3:24 |
+| 63 | [WHATS UP?](https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [WHATS UP?](https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ) | 2:48 |
 | 64 | [Into The Void \- Single Edit](https://open.spotify.com/track/1ciEVtDZAPVU2fbewIHH1U) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites \(Deluxe Edition\)](https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T) | 3:30 |
 | 65 | [With You](https://open.spotify.com/track/6BDDpHza9P19logSNepfSy) | [IMMERSE](https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN) | [The Weight That Holds Me Here](https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84) | 3:06 |
 | 66 | [I Can't Breathe](https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Wake of a Nation](https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA) | 1:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 79 | [Arcana Imperii](https://open.spotify.com/track/2OI2gIOnRe7TnErAoH2dUd) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Ámr](https://open.spotify.com/album/3fi6uKI0YHsgnnn9YezPYh) | 4:53 |
 | 80 | [Frost \(C\)](https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2) | [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Pyroclasts](https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f) | 10:56 |
 
-Snapshot ID: `MCw5MjZlMzJmZTAzZDgwMWRmYzQ1MGYxYjQ5Mjg3MjUwYjRkY2JkMTZk`
+Snapshot ID: `MCw5YWM1ZDE4ZTI3NjYxY2E4ZjRlYTViNjNjY2JmNGUyY2ExNDM3MDRj`

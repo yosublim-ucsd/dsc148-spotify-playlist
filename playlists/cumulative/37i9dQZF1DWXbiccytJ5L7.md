@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-101 songs - 5 hr 41 min
+102 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Country Made](https://open.spotify.com/track/0kvkHlDvoALmZU8pzkXTur) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [J Rosevelt](https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj) | [Still The King](https://open.spotify.com/album/203wsuneFV8jM0aYimR0TR) | 3:29 | 2023-04-21 |  |
 | [Country Made](https://open.spotify.com/track/2dzQTTYxfcKpH8PncC3SkE) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [J Rosevelt](https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj) | [Still The King](https://open.spotify.com/album/58yc5Wx0ShmeAsJjParire) | 3:29 | 2023-03-17 | 2023-05-18 |
 | [Country Slide](https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4) | [Chris Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22) | [Was it Worth the Wait](https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm) | 2:50 | 2023-03-17 | 2023-05-27 |
+| [Crocodile Hunter](https://open.spotify.com/track/3DLobnxKerFxxuKCK5VAIG) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq) | [Crocodile Hunter](https://open.spotify.com/album/2zVNTo9y6TcUqlCqnljvpe) | 2:18 | 2023-08-04 |  |
 | [Diesel Gang](https://open.spotify.com/track/4PAOoxMolPJnNqkUDmGI4r) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Diesel Gang](https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb) | 2:18 | 2023-03-17 |  |
 | [Dirt Road](https://open.spotify.com/track/24LyKCgvEia1eAPUbuISlk) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Dirt Road](https://open.spotify.com/album/2rVX2YE6zvgkTVsWmk7OP5) | 2:30 | 2023-03-17 |  |
 | [Dirt Road](https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Dirt Road](https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo) | 2:45 | 2023-03-17 |  |

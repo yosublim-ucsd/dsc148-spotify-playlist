@@ -1251,6 +1251,40 @@
     },
     {
       "album": {
+        "name": "He Touched Me / Something Beautiful",
+        "url": "https://open.spotify.com/album/0aDye7Hbc6IkmxyN1pUsqh"
+      },
+      "artists": [
+        {
+          "name": "Gaither",
+          "url": "https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY"
+        },
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Susie McEntire",
+          "url": "https://open.spotify.com/artist/2eCSPBCgOoSo97Uy7zTI6U"
+        },
+        {
+          "name": "Sonya Isaacs",
+          "url": "https://open.spotify.com/artist/4weums6IzU9u5hNt7lR31b"
+        },
+        {
+          "name": "Becky Isaacs",
+          "url": "https://open.spotify.com/artist/3rxvs0DJZWRwAtdhg3bEDC"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215327,
+      "name": "He Touched Me / Something Beautiful",
+      "url": "https://open.spotify.com/track/08r7I8bTMrjQL8KWWy4W4o"
+    },
+    {
+      "album": {
         "name": "Heart of God",
         "url": "https://open.spotify.com/album/05tgQSry1iAyf8qsbTvNaS"
       },

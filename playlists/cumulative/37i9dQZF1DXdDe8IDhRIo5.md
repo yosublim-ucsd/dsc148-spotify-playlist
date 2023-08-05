@@ -4,7 +4,7 @@
 
 > Django and beyond.
 
-91 songs - 5 hr 34 min
+92 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Coquette](https://open.spotify.com/track/55CneNdMfXocuqDVvO2DT3) | [Hot Club De Norvege](https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8), [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn), [Ben Powell](https://open.spotify.com/artist/25HkovLb1b05hLLIIoohM6) | [Caution HOT](https://open.spotify.com/album/2PQMXbEudx9Kl0M01pwZg8) | 2:35 | 2021-02-04 | 2022-07-29 |
 | [Coquette](https://open.spotify.com/track/1mfaDtRk81CE7EQ9VZ18RA) | [Hot Club De Norvege](https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8), [Ben Powell](https://open.spotify.com/artist/25HkovLb1b05hLLIIoohM6), [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn) | [Caution Hot](https://open.spotify.com/album/1plB2YqojpYtNMOWREhOEr) | 2:35 | 2021-02-04 |  |
 | [Coucou](https://open.spotify.com/track/5whsPGYSk2FMFCkluUkp6I) | [Tchavolo Schmitt](https://open.spotify.com/artist/500N0I1rRpN81oULt3QUFY) | [Coucou](https://open.spotify.com/album/5ZPSCr10M050pYwZM2lDyn) | 2:56 | 2022-05-27 |  |
-| [Django's Tiger](https://open.spotify.com/track/0QTyHwOsBjUPZ2A10ofvRN) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Edouard Pennes](https://open.spotify.com/artist/6cgVqekLIRoFfthxvXDEkm) | [Django's Tiger](https://open.spotify.com/album/5XGhKJPYf1xr5x0p8IqV1U) | 2:12 | 2021-03-26 |  |
+| [Django's Tiger](https://open.spotify.com/track/0QTyHwOsBjUPZ2A10ofvRN) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Edouard Pennes](https://open.spotify.com/artist/6cgVqekLIRoFfthxvXDEkm) | [Django's Tiger](https://open.spotify.com/album/5XGhKJPYf1xr5x0p8IqV1U) | 2:12 | 2021-03-26 | 2023-08-05 |
 | [Djangology](https://open.spotify.com/track/42gtiaKzcoCMEOLkiuYf4U) | [Duane Andrews](https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR) | [Djangology](https://open.spotify.com/album/25QeMhEESQIg9oDVPq9chK) | 3:24 | 2022-02-25 |  |
 | [Dolores](https://open.spotify.com/track/1UOTHt2Vxk5xHMvdN7gkRF) | [The Black Market Trust](https://open.spotify.com/artist/05YUfl0SzLH3OqbAICDULQ) | [Folk Songs](https://open.spotify.com/album/7fEjk6IjjNZwM70grqR4QL) | 2:03 | 2021-02-04 |  |
 | [Donna Lee](https://open.spotify.com/track/2hLU38ZuCq9rT5T1rM6FiH) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG), [Peter Autschbach](https://open.spotify.com/artist/1vx10uTehWMVhL2sPENMgG) | [Sundowner](https://open.spotify.com/album/0pjEuWVpDTupTerq0pFDBH) | 3:31 | 2021-03-12 |  |
@@ -86,6 +86,7 @@
 | [So What](https://open.spotify.com/track/0Xjw40EraBvcZJy9uI4iGl) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS), [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Summertime](https://open.spotify.com/album/2vy4nH2D2wwYFQS1wFH2EW) | 4:09 | 2021-02-04 | 2022-07-29 |
 | [So What](https://open.spotify.com/track/7FdobqGYDzI6RSwxxMiSGe) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS), [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Dreyfus Jazz Club: In the Mood of..\. Miles](https://open.spotify.com/album/1lalwbHB3KsXVRIfn0sAve) | 4:09 | 2021-02-04 | 2022-11-13 |
 | [Some Of These Days](https://open.spotify.com/track/4KPCtQYl2eAaZu8pTA6Mds) | [Gonzalo Bergara](https://open.spotify.com/artist/1gjZYoYLOlpHdbj3F3adP5) | [Porteña Soledad](https://open.spotify.com/album/2gD8rFbSkMVSQEbuc1dQnu) | 2:25 | 2021-02-04 |  |
+| [Someday My Prince Will Come](https://open.spotify.com/track/3jvxbohfMCNSV9K8rvVThF) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Antoine Boyer](https://open.spotify.com/artist/2UKlumP0ZZDFcnuOSeNxHP) | [French Connection, Vol\. 2](https://open.spotify.com/album/03aOf3MFWIlm1dSnE01Rlr) | 3:26 | 2023-08-04 |  |
 | [Songe d'automne](https://open.spotify.com/track/1sUbrYb20WAdDd9AwoAlc2) | [The Rosenberg Trio](https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu) | [Roots](https://open.spotify.com/album/0vN2kv5uBDKL6BYkjQ4GUn) | 3:58 | 2021-02-04 |  |
 | [Soundscape](https://open.spotify.com/track/3fOdWS7sHmnPQNSVbQo6sx) | [Gwen Cahue](https://open.spotify.com/artist/40KKpmd5tQqNohkfjFF9hO), [Bastien Ribot](https://open.spotify.com/artist/6Qvtaf9WCDT22AMuYtSIBh), [William Brunard](https://open.spotify.com/artist/2CKHnbBFpiHF2Uw9Wu2rCy), [Julien Cattiaux](https://open.spotify.com/artist/6mqYjdMpLf0OryIg7DnHv1) | [Soundscape](https://open.spotify.com/album/1kvM0LoxdJVkFEgzXHB0aQ) | 4:09 | 2021-08-20 |  |
 | [Swing for Ninine](https://open.spotify.com/track/3Pawr6Yl02JxMeCl0TDDFI) | [Jimmy Rosenberg](https://open.spotify.com/artist/6tq9JKuE6vPDbQw5EiXLwn) | [The First Recordings](https://open.spotify.com/album/4w4qb10hzPA7byUDAPVu8k) | 2:18 | 2021-02-04 |  |

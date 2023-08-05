@@ -1,12 +1,12 @@
 {
   "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: ITZY",
-  "num_followers": 343869,
+  "num_followers": 344198,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2JlMzk2NjBmYmMxOGFmOTc0NGUwNjlmMzlhYjAyODg5OWExMmY4",
+  "snapshot_id": "MCwxMDVlMTUzMzJjNDJmNzNiMjUzZmVjM2UxM2VmNzkwYjllYzg4NDli",
   "tracks": [
     {
       "added_at": "2023-08-03 15:35:54",
@@ -59,6 +59,26 @@
     {
       "added_at": "2023-08-03 15:35:54",
       "album": {
+        "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. Demi Lovato)",
+        "url": "https://open.spotify.com/album/2VVf6P029Bw2sRXV721xui"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. Demi Lovato)",
+      "url": "https://open.spotify.com/track/5zYrD1r49ex3WJk6iVIhfw"
+    },
+    {
+      "added_at": "2023-08-03 15:35:54",
+      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -91,6 +111,30 @@
       "duration_ms": 212901,
       "name": "BONA BONA",
       "url": "https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF"
+    },
+    {
+      "added_at": "2023-08-03 15:35:54",
+      "album": {
+        "name": "Do It Like That (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/5KSss6H6yvZIpYG2MNpVR7"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 139441,
+      "name": "Do It Like That (Alan Walker Remix)",
+      "url": "https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ"
     },
     {
       "added_at": "2023-08-03 15:35:54",

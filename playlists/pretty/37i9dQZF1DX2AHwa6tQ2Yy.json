@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 38628,
+  "num_followers": 38680,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWE4MmQxMGVmMTk5MzNjNmI3ZDUyYWFlNzRkODhmMDg0OWQ2MGJj",
+  "snapshot_id": "MCw5ZTg3NWNjNWM1YjgxYjg0OGQ1MTUwMWQyOWU5OTE1YjkzYjZmYzNi",
   "tracks": [
     {
       "added_at": "2023-07-13 14:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
-        "name": "You Never Visit Me",
-        "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "You Never Visit Me - Single Version",
-      "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
         "name": "Bittersweet (Radio Edit)",
         "url": "https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 236640,
       "name": "Bittersweet - Radio Edit",
       "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
+        "name": "You Never Visit Me",
+        "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "You Never Visit Me - Single Version",
+      "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
     },
     {
       "added_at": "2023-07-13 14:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
-        "name": "Express",
-        "url": "https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo"
-      },
-      "artists": [
-        {
-          "name": "Reiki Ruawai",
-          "url": "https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Express",
-      "url": "https://open.spotify.com/track/4HzmXpT5If3OD9cvEwXZUX"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 137046,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/6eXNp3TwJsu67AEpWkU38O"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
+        "name": "Express",
+        "url": "https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo"
+      },
+      "artists": [
+        {
+          "name": "Reiki Ruawai",
+          "url": "https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Express",
+      "url": "https://open.spotify.com/track/4HzmXpT5If3OD9cvEwXZUX"
     },
     {
       "added_at": "2023-07-13 14:00:00",
@@ -727,6 +727,26 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
+        "name": "Jaime (Reimagined)",
+        "url": "https://open.spotify.com/album/4WF6ivKo1khvBsGHJODucP"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/25Olcsu6q4zxwASmTuUA8R"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
         "name": "New Ways",
         "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
@@ -763,26 +783,6 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
-        "name": "Jaime (Reimagined)",
-        "url": "https://open.spotify.com/album/4WF6ivKo1khvBsGHJODucP"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/25Olcsu6q4zxwASmTuUA8R"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
       },
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
+        "name": "Tomorrow's Gonna Come",
+        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "Falling in Love Again",
+      "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
         "name": "Sunrise Bang Ur Head Against Tha Wall",
         "url": "https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 207280,
       "name": "No Need 2 Be Sorry, Call Me? (ft. Maverick Sabre)",
       "url": "https://open.spotify.com/track/1DpjVHeNTz2UIXkAd4CBF8"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
-        "name": "Tomorrow's Gonna Come",
-        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "Falling in Love Again",
-      "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
     },
     {
       "added_at": "2023-07-13 14:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-07-13 14:00:00",
       "album": {
-        "name": "exodus the north star",
-        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 205354,
-      "name": "exodus the north star",
-      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
-    },
-    {
-      "added_at": "2023-07-13 14:00:00",
-      "album": {
         "name": "WAY OUT (feat. Milan Ring, matt mcwaters, & ?uestlove)",
         "url": "https://open.spotify.com/album/1uggfls8BO7LmNnyhtqpRP"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 197716,
       "name": "WAY OUT (feat. Milan Ring, matt mcwaters, & ?uestlove)",
       "url": "https://open.spotify.com/track/4MjQCE1rN1xjLLr8xcYFA9"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
+        "name": "exodus the north star",
+        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 205354,
+      "name": "exodus the north star",
+      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
     }
   ],
   "unique_name": "Soulful",

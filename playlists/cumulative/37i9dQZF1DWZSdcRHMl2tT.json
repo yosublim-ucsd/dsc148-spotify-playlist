@@ -4099,6 +4099,24 @@
     },
     {
       "album": {
+        "name": "Night Shades",
+        "url": "https://open.spotify.com/album/1mq4x89voeeXoA7FYaKEQa"
+      },
+      "artists": [
+        {
+          "name": "Purple Waves",
+          "url": "https://open.spotify.com/artist/0KJ2P4KrAgSoL8dg3Bpoc1"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141909,
+      "name": "Night Shades",
+      "url": "https://open.spotify.com/track/0jneMOWzfrISVk4esEnvC9"
+    },
+    {
+      "album": {
         "name": "Night Visions",
         "url": "https://open.spotify.com/album/37VCmWXI1SMZO3vsbp4Ecc"
       },
@@ -4456,6 +4474,24 @@
       "duration_ms": 242691,
       "name": "paloma beach",
       "url": "https://open.spotify.com/track/7M3sK9nRnpwT826somSyS9"
+    },
+    {
+      "album": {
+        "name": "Para Sol",
+        "url": "https://open.spotify.com/album/4zCjXYDYpNXj1p7CHYKfGp"
+      },
+      "artists": [
+        {
+          "name": "Teide Garcia",
+          "url": "https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196695,
+      "name": "Para Sol",
+      "url": "https://open.spotify.com/track/5hrJnEz67Q6l33sPtGFga4"
     },
     {
       "album": {

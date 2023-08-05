@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Be More",
+        "url": "https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231684,
+      "name": "Be More",
+      "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
+    },
+    {
+      "album": {
         "name": "Everything I Know About Love (Deluxe Edition)",
         "url": "https://open.spotify.com/album/777K2ytcKbDsX0AZ2y8CBS"
       },
@@ -620,7 +638,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 225550,
       "name": "Blow My Cover",
       "url": "https://open.spotify.com/track/0ZVZ0htiIF0MaoczqT0zFV"
@@ -3785,6 +3803,28 @@
     },
     {
       "album": {
+        "name": "Mr Right (with Meghan Trainor)",
+        "url": "https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167035,
+      "name": "Mr Right (with Meghan Trainor)",
+      "url": "https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp"
+    },
+    {
+      "album": {
         "name": "My Game",
         "url": "https://open.spotify.com/album/6GLUWw271MCvjhDcp7sd31"
       },
@@ -6036,7 +6076,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 157761,
       "name": "With A Little Help From My Friends - Poppin Mix",
       "url": "https://open.spotify.com/track/1m0WIodfeFyevAYuHsWk0w"

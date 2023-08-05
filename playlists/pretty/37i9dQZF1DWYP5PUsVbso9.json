@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 269277,
+  "num_followers": 269508,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzZhYTJhODg2ZDcxZmE4MTZiNzI5MGQ4MDlhYjQ3YTYwZWU1MTk0",
+  "snapshot_id": "MCw2ZmIzMDZjOGMzNWVjZDI0ZGM3YjJhOTEzODkwYmUzNDdhYjJlZTFl",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+        "name": "Winners",
+        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+          "name": "Donna Fargo",
+          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
         }
       ],
-      "duration_ms": 145946,
-      "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
-      "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
+      "duration_ms": 151306,
+      "name": "The Happiest Girl In The Whole U.S.A.",
+      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Winners",
-        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
       "artists": [
         {
-          "name": "Donna Fargo",
-          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
         }
       ],
-      "duration_ms": 151306,
-      "name": "The Happiest Girl In The Whole U.S.A.",
-      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
+      "duration_ms": 145946,
+      "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
+      "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The Essential Ray Price",
-        "url": "https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 227786,
-      "name": "For the Good Times",
-      "url": "https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "The Essential Johnny Duncan",
         "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 189786,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "The Essential Ray Price",
+        "url": "https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 227786,
+      "name": "For the Good Times",
+      "url": "https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "HAG: The Hits Volume 2",
-        "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 169346,
-      "name": "The Fightin' Side Of Me",
-      "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Quarter Moon in a Ten Cent Town (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 186333,
       "name": "Two More Bottles of Wine - 2003 Remaster",
       "url": "https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "HAG: The Hits Volume 2",
+        "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 169346,
+      "name": "The Fightin' Side Of Me",
+      "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Every Time Two Fools Collide",
-        "url": "https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL"
+        "name": "Best Of The Bellamy Brothers",
+        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
-          "name": "Dottie West",
-          "url": "https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB"
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
         }
       ],
-      "duration_ms": 180906,
-      "name": "Every Time Two Fools Collide",
-      "url": "https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy"
+      "duration_ms": 192040,
+      "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
+      "url": "https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE"
     }
   ],
   "unique_name": "70s Country",

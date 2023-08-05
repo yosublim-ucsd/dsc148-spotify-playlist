@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Eelke Kleijn
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,437 likes - 89 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,639 likes - 89 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 88 | [2 People](https://open.spotify.com/track/12rtAkfauBC8ISjCYraZgJ) | [Till Von Sein](https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI) | [2 People](https://open.spotify.com/album/0rHEIqRbetXkYq4D3BTcMv) | 6:14 |
 | 89 | [Fan Bass](https://open.spotify.com/track/1YQi7jqgNeGChvXR3igaXM) | [Tayga](https://open.spotify.com/artist/0i3of4V0ZgVxBGGTGjAqYS) | [Fan Bass](https://open.spotify.com/album/4KLjGoeJlz5z2LyVx1N85E) | 4:09 |
 
-Snapshot ID: `MCwxY2EyNTk1ZGJmNGM0YmI1ZGNkZThkYTJmMDAwMjgxMWZiMzQ1Mjhl`
+Snapshot ID: `MCw0MGVkNDU5YmY1NDBkMDg5MjA2YzFmMTM0M2Y4ZDA2OTg0MThiMzcz`

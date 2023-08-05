@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,420 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,455 likes - 90 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 32 | [Bad](https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Bad](https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00) | 2:49 |
 | 33 | [Shake It](https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay) | 2:47 |
 | 34 | [SICKO MODE \- Skrillex Remix](https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [SICKO MODE \(Skrillex Remix\)](https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa) | 5:04 |
-| 35 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 |
-| 36 | [Sex & Love](https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:25 |
+| 35 | [Sex & Love](https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:25 |
+| 36 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 |
 | 37 | [Better When You're Gone](https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Better When You're Gone](https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o) | 3:12 |
 | 38 | [Turn Back Time](https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Turn Back Time](https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ) | 2:27 |
 | 39 | [Bum Bum](https://open.spotify.com/track/1rUfAnT35qS7hL6okyDOH0) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Bum Bum](https://open.spotify.com/album/0xILTcOCna3TN6GQSF4ncV) | 2:46 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 72 | [In Your Eyes \(feat\. Alida\) \- KREAM Remix](https://open.spotify.com/track/45vQQXKfA4edHqKV5roP3M) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [In Your Eyes \(feat\. Alida\) \[KREAM Remix\]](https://open.spotify.com/album/4opn0PjzGOFZTGUKFj0JUR) | 3:23 |
 | 73 | [Moonlight](https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Moonlight](https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7) | 2:53 |
 | 74 | [Kong 2.0](https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kong 2.0](https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi) | 3:22 |
-| 75 | [Check This Out](https://open.spotify.com/track/40mYZdW4XYsfVU4D1L3cXx) | [Toby Green](https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP) | [Check This Out](https://open.spotify.com/album/2UJEcNBmxdzbEn9r9CUrdz) | 2:31 |
-| 76 | [Winter](https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Winter](https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS) | 2:24 |
+| 75 | [Winter](https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Winter](https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS) | 2:24 |
+| 76 | [Check This Out](https://open.spotify.com/track/40mYZdW4XYsfVU4D1L3cXx) | [Toby Green](https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP) | [Check This Out](https://open.spotify.com/album/2UJEcNBmxdzbEn9r9CUrdz) | 2:31 |
 | 77 | [Bang](https://open.spotify.com/track/77HuzKr2vvl0cJsW3gED3G) | [RICCI](https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL) | [Bang](https://open.spotify.com/album/4JmR9ubw7pcnzt73IW5Mp8) | 2:56 |
 | 78 | [Nothing To Do](https://open.spotify.com/track/23xtuubzgbV2UCKepN0h84) | [Bancali](https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h) | [Nothing To Do](https://open.spotify.com/album/5Dfz1XYeRSSdhOOTNrhedG) | 2:33 |
 | 79 | [Morenito](https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [Mystic Natives](https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Morenito](https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA) | 3:10 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 89 | [Back to the Oldskool](https://open.spotify.com/track/2Kz0LyPpbHDljctj1tzLwP) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Back to the Oldskool](https://open.spotify.com/album/0YHcF5aiUDLAYM2mpF7Pwz) | 2:24 |
 | 90 | [Roses \- \(Imanbek Remix\) \[Latino Gang\]](https://open.spotify.com/track/2JCOFv3vvv6HIfw7QOqpIz) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \[\(Imanbek Remix\) \[Latino Gang\]\]](https://open.spotify.com/album/6ccX7hrWPnlaBv1hYLok2u) | 3:28 |
 
-Snapshot ID: `MCxmM2IwODAxNWI5YTU4NTZhYmQ2YmQ2NWI4ZjdkYjdhODYzYTNiZWZl`
+Snapshot ID: `MCwyOWI2MzY4M2YyZDFkZTdjZjgxMGZmY2NiYjcxNDRhYTRlMzlhODgz`

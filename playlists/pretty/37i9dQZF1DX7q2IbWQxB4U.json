@@ -1,12 +1,12 @@
 {
   "description": "De la cuna pa'l mundo. Celebrando la cultura y m\u00fasica de Puerto Rico con los sonidos de la Casa.",
-  "num_followers": 3832,
+  "num_followers": 3864,
   "original_name": "Casa Spotify Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDc1M2RmNWYzZmVlN2U2Mzc1YWZkNzdjNTgyNDUzNmJiNGZlZTVi",
+  "snapshot_id": "MCxhNjM2NGYyYWNmOTlkYjMzMjIyNmU2ZDU5ODg3MTRkYTkxY2I4Y2Jj",
   "tracks": [
     {
       "added_at": "2023-06-27 18:03:27",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 188080,
+      "name": "Se Prepar\u00f3",
+      "url": "https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
         "name": "Podemos Repetirlo",
         "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 211707,
       "name": "Podemos Repetirlo",
       "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Se Prepar\u00f3",
-      "url": "https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "Tiempos de Plan B",
-        "url": "https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb"
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
       },
       "artists": [
         {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 161287,
-      "name": "Tiempos de Plan B",
-      "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
+      "duration_ms": 306005,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
+        "name": "Tiempos de Plan B",
+        "url": "https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb"
       },
       "artists": [
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
         }
       ],
-      "duration_ms": 306005,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86"
+      "duration_ms": 161287,
+      "name": "Tiempos de Plan B",
+      "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -759,22 +759,22 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "La \u00daltima Misi\u00f3n",
-        "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
+        "name": "Amandita",
+        "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
       },
       "artists": [
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 208894,
-      "name": "Vapor",
-      "url": "https://open.spotify.com/track/7it0u6IGJQLRX9Q9q7vgOj"
+      "duration_ms": 223469,
+      "name": "Amandita",
+      "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -811,22 +811,22 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "Amandita",
-        "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
       },
       "artists": [
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         },
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 223469,
-      "name": "Amandita",
-      "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
+      "duration_ms": 208894,
+      "name": "Vapor",
+      "url": "https://open.spotify.com/track/7it0u6IGJQLRX9Q9q7vgOj"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -895,22 +895,18 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "El 6EI66EI6",
-        "url": "https://open.spotify.com/album/2Zrv60HlQOOTHJXxTtQpiB"
+        "name": "En Su Nota",
+        "url": "https://open.spotify.com/album/6WUoryCcrqbeteyb9jlfvX"
       },
       "artists": [
         {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        },
-        {
-          "name": "Slick La Mina",
-          "url": "https://open.spotify.com/artist/6skLfn2ojiEKJN89maIR8n"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 115324,
-      "name": "TrapTelly",
-      "url": "https://open.spotify.com/track/5L9u1w2MgYKkStdDoqjw0T"
+      "duration_ms": 167733,
+      "name": "En Su Nota",
+      "url": "https://open.spotify.com/track/14JTYSChGSj1ULTnpTC70Z"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -951,6 +947,26 @@
       "duration_ms": 162244,
       "name": "Quien Es Dei V?",
       "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
+        "name": "El 6EI66EI6",
+        "url": "https://open.spotify.com/album/2Zrv60HlQOOTHJXxTtQpiB"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Slick La Mina",
+          "url": "https://open.spotify.com/artist/6skLfn2ojiEKJN89maIR8n"
+        }
+      ],
+      "duration_ms": 115324,
+      "name": "TrapTelly",
+      "url": "https://open.spotify.com/track/5L9u1w2MgYKkStdDoqjw0T"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -1007,22 +1023,6 @@
       "duration_ms": 211130,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/0T5VcGJw3qFfeVlabdwQfE"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
-        "name": "En Su Nota",
-        "url": "https://open.spotify.com/album/6WUoryCcrqbeteyb9jlfvX"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "En Su Nota",
-      "url": "https://open.spotify.com/track/14JTYSChGSj1ULTnpTC70Z"
     }
   ],
   "unique_name": "Casa Spotify Puerto Rico",

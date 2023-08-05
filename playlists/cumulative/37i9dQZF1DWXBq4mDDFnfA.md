@@ -4,7 +4,7 @@
 
 > Relax to the sound of classical guitar.
 
-45 songs - 3 hr 15 min
+46 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Romance \(Arr\. J\. Williams for Guitar & Orchestra\)](https://open.spotify.com/track/6kPqRhYyJuK2jmKGUIjYCZ) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [John C\. Williams](https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY), [William Goodchild](https://open.spotify.com/artist/6rdlJExUAyM362j8SH6WG8), [String Orchestra](https://open.spotify.com/artist/2ur2pK3VjH3wAl4tO1eBGG) | [The Ultimate Guitar Collection](https://open.spotify.com/album/7gGDntw1EndFOxhpTWmmQZ) | 3:17 | 2021-06-28 |  |
 | [Romanza](https://open.spotify.com/track/1ezqle0CLSBPjjZcjKhFuh) | [Miguel Llobet Solés](https://open.spotify.com/artist/0Ag2rHCb9q0jmQ6Jaj1GUT), [Lorenzo Micheli](https://open.spotify.com/artist/0j7TdouVq0DtMZZRWiwcjq) | [Llobet: Guitar Works \(Complete\)](https://open.spotify.com/album/5XzOZZtOhTgL5yFthYxn6Q) | 5:09 | 2021-06-28 |  |
 | [Ronsard \(De Platero y Yo\)](https://open.spotify.com/track/76UK5gKqUosKutmEnBtWeY) | [Castelnuevo\-Tedesco](https://open.spotify.com/artist/4Tl9BcuIraxV7gBAdc7RhA), [Andrés Segovia](https://open.spotify.com/artist/3Din7QXYnTjT52WF62KS97) | [Reveries](https://open.spotify.com/album/49x5ATRMfvUVQDyEL9IyQM) | 3:10 | 2021-06-28 |  |
+| [Sarabande for Guitar, FP 179](https://open.spotify.com/track/57kjlZb922AMJJKWCfpNLl) | [Francis Poulenc](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY), [Nash Ensemble](https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7) | [Poulenc: Complete Chamber Music](https://open.spotify.com/album/1wuDEkqo7hR06VieUrIGeB) | 2:46 | 2023-08-04 |  |
 | [Sonata giocosa: II\. Andante moderato](https://open.spotify.com/track/7lCykZv6dxrbN7p7GbKxMz) | [Joaquín Rodrigo](https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr), [Marcin Dylla](https://open.spotify.com/artist/12Wd9ttq7EUbesXRqEGhRB) | [Chitarra Giocosa](https://open.spotify.com/album/4hsz409ORqBPBdd9BkpzFr) | 4:19 | 2021-06-28 |  |
 | [The Deer Hunter: Cavatina](https://open.spotify.com/track/0OjeJ8wBPo0AYTMbFp1QBI) | [Stanley Myers](https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt), [Jason Vieaux](https://open.spotify.com/artist/0wHPFvTTjnGMQ6bvUn2KlO) | [Play](https://open.spotify.com/album/0YRcR0lcnYBZcGrCML3O9h) | 3:45 | 2021-06-28 |  |
 | [The Frog Galliard](https://open.spotify.com/track/3vAlgcCLgVr6VpYzIdwffA) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Christoph Denoth](https://open.spotify.com/artist/4mROVpgaeFTNmKG7dpsg8B) | [Mister Dowland's Midnight](https://open.spotify.com/album/57ywLala59SjhhaFuqHiNd) | 2:10 | 2021-06-28 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Just vibes. Cover: DJ Maff & Elena Rose",
+  "description": "Just vibes. Cover: Luar La L & Ozuna",
   "name": "Vibras",
   "tracks": [
     {
@@ -224,7 +224,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 186091,
       "name": "Air France",
       "url": "https://open.spotify.com/track/6wrHRPtw1Z37iP5PGDbS6g"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 135003,
       "name": "ANGOLA",
       "url": "https://open.spotify.com/track/59N9V0HT0lnopU5bLL9NI8"
@@ -3394,7 +3394,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 284285,
       "name": "Mi Vicio - Remix",
       "url": "https://open.spotify.com/track/7EObfG3E9rQdUOcft0cIjb"
@@ -4152,7 +4152,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 212957,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
@@ -4280,6 +4280,28 @@
       "duration_ms": 228506,
       "name": "Otra Noche Sin Ti",
       "url": "https://open.spotify.com/track/6xvaSd27eSA5kQlFRYhWZF"
+    },
+    {
+      "album": {
+        "name": "Otra Vibra",
+        "url": "https://open.spotify.com/album/0Dcd0VT52oXwUldW3jEaoS"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207664,
+      "name": "Otra Vibra",
+      "url": "https://open.spotify.com/track/7aprD0hcQ0dr3efnJCrJI5"
     },
     {
       "album": {
@@ -5826,6 +5848,24 @@
       "duration_ms": 157333,
       "name": "Vente A Mi (feat. Jeuru)",
       "url": "https://open.spotify.com/track/2JSYuVXVDnKgHVhVqv6gSP"
+    },
+    {
+      "album": {
+        "name": "VENTE CONMIGO",
+        "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "VENTE CONMIGO",
+      "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 353965,
+  "num_followers": 354045,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWQwNWFhZTMzZmUzMmI4NWQ0M2VlOTQyNzJhOWFkMGExZTIxMDEx",
+  "snapshot_id": "MCxjYTFmNDE2YTYwYWNlZjI0NDhhY2QyNjNlNDY0YTcxODhjNmVhMzRm",
   "tracks": [
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Love Generation (Radio Edit)",
-        "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Gary Pine",
-          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
-        }
-      ],
-      "duration_ms": 204798,
-      "name": "Love Generation - Radio Edit",
-      "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Lady Marmalade",
         "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 267960,
       "name": "Lady Marmalade - Single Edit",
       "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Love Generation (Radio Edit)",
+        "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Gary Pine",
+          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
+        }
+      ],
+      "duration_ms": 204798,
+      "name": "Love Generation - Radio Edit",
+      "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Tarpeia",
-        "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
-      },
-      "artists": [
-        {
-          "name": "Paradisio",
-          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 160306,
       "name": "Summer in the City - Remastered",
       "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Tarpeia",
+        "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
+      },
+      "artists": [
+        {
+          "name": "Paradisio",
+          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Furia Latina",
-        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
-      },
-      "artists": [
-        {
-          "name": "Seguridad Social",
-          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Quiero tener tu presencia",
-      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 225693,
       "name": "Nada Fue Un Error - Live In Spain / 2005",
       "url": "https://open.spotify.com/track/7GO6pBFbieZ30NjGIp2LP5"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Furia Latina",
+        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
+      },
+      "artists": [
+        {
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Quiero tener tu presencia",
+      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Atado A Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 253133,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Que No Se Extinga La Llama!",
         "url": "https://open.spotify.com/album/100SajoSYlozWJ2wRFKob3"
       },
@@ -2019,38 +2035,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Atado A Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
+        "name": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
+        "url": "https://open.spotify.com/album/6zuPC93NJGRvfQAO3yzfCj"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "Coque Malla",
-          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
         }
       ],
-      "duration_ms": 234800,
-      "name": "Mucho mejor (feat. Coque Malla)",
-      "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
+      "duration_ms": 202653,
+      "name": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/0W8nDs4H2cqxxAgszNMYO3"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2071,22 +2071,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
-        "url": "https://open.spotify.com/album/6zuPC93NJGRvfQAO3yzfCj"
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
         },
         {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
         }
       ],
-      "duration_ms": 202653,
-      "name": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
-      "url": "https://open.spotify.com/track/0W8nDs4H2cqxxAgszNMYO3"
+      "duration_ms": 234800,
+      "name": "Mucho mejor (feat. Coque Malla)",
+      "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Risqu\u00e9 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 486186,
-      "name": "Good Times - 2018 Remaster",
-      "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Up",
         "url": "https://open.spotify.com/album/78u5gGU8ALR3TuvEVWV3tH"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 170493,
       "name": "I'm Too Sexy",
       "url": "https://open.spotify.com/track/2wmnubOPY1hyR4fSaZ9o1T"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Risqu\u00e9 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 486186,
+      "name": "Good Times - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
     },
     {
       "added_at": "2023-06-09 09:38:51",

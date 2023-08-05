@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 587703,
+  "num_followers": 587944,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmYzYWYzMjVmNjAxMmZhMzMwMWYzZjliMDJmOGQyNmRlM2E3NjA0",
+  "snapshot_id": "MCxlNjE5YjNjMWIxNTUxZWQyNjIxYzE4YmE2ODI5OTczZmZiYWRmZWQ3",
   "tracks": [
     {
       "added_at": "2023-08-02 13:15:56",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-08-02 13:15:56",
       "album": {
-        "name": "These Things Will Come To Be",
-        "url": "https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 296360,
-      "name": "These Things Will Come To Be",
-      "url": "https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE"
-    },
-    {
-      "added_at": "2023-08-02 13:15:56",
-      "album": {
         "name": "Altered Destiny",
         "url": "https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 185578,
       "name": "Altered Destiny - Chill Mix",
       "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
+    },
+    {
+      "added_at": "2023-08-02 13:15:56",
+      "album": {
+        "name": "These Things Will Come To Be",
+        "url": "https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 296360,
+      "name": "These Things Will Come To Be",
+      "url": "https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE"
     },
     {
       "added_at": "2023-08-02 13:15:56",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-08-02 13:15:56",
       "album": {
-        "name": "Better In The Dark",
-        "url": "https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 352054,
-      "name": "Better In The Dark",
-      "url": "https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r"
-    },
-    {
-      "added_at": "2023-08-02 13:15:56",
-      "album": {
         "name": "Roda",
         "url": "https://open.spotify.com/album/2R2VAtvhljTHh0sZ54xip1"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 285123,
       "name": "Roda",
       "url": "https://open.spotify.com/track/1lBaMqhhJIRNqiNSn1EUMc"
+    },
+    {
+      "added_at": "2023-08-02 13:15:56",
+      "album": {
+        "name": "Better In The Dark",
+        "url": "https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 352054,
+      "name": "Better In The Dark",
+      "url": "https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r"
     },
     {
       "added_at": "2023-08-02 13:15:56",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-08-02 13:15:56",
       "album": {
-        "name": "Petit Matin",
-        "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 447066,
-      "name": "Petit Matin",
-      "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
-    },
-    {
-      "added_at": "2023-08-02 13:15:56",
-      "album": {
         "name": "Lost Generation",
         "url": "https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 163902,
       "name": "Lost Generation - Edit",
       "url": "https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi"
+    },
+    {
+      "added_at": "2023-08-02 13:15:56",
+      "album": {
+        "name": "Petit Matin",
+        "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "duration_ms": 447066,
+      "name": "Petit Matin",
+      "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
     },
     {
       "added_at": "2023-08-02 13:15:56",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2023-08-02 13:15:56",
       "album": {
-        "name": "Laufen",
-        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
-      },
-      "artists": [
-        {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        },
-        {
-          "name": "Fritz K\u00f6lner",
-          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
-        }
-      ],
-      "duration_ms": 257709,
-      "name": "Laufen",
-      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
-    },
-    {
-      "added_at": "2023-08-02 13:15:56",
-      "album": {
         "name": "What U Doing",
         "url": "https://open.spotify.com/album/65xPPLYFiHhx6YxRV3S9fV"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 229523,
       "name": "What U Doing",
       "url": "https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1"
+    },
+    {
+      "added_at": "2023-08-02 13:15:56",
+      "album": {
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        },
+        {
+          "name": "Fritz K\u00f6lner",
+          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+        }
+      ],
+      "duration_ms": 257709,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
     },
     {
       "added_at": "2023-08-02 13:15:56",

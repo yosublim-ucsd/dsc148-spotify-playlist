@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Aquarious",
+        "url": "https://open.spotify.com/album/1Hw4krAnuUAfTWWNI4tnDW"
+      },
+      "artists": [
+        {
+          "name": "FoaM",
+          "url": "https://open.spotify.com/artist/1XEXjIZsZ178A5msOFALpu"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104250,
+      "name": "Aquarious",
+      "url": "https://open.spotify.com/track/6g7keElPVodgBUw450CRWO"
+    },
+    {
+      "album": {
         "name": "Handmade Life",
         "url": "https://open.spotify.com/album/7kRT0cIG57gQnrSgHxCHhY"
       },
@@ -1620,6 +1638,24 @@
       "duration_ms": 143001,
       "name": "lessly",
       "url": "https://open.spotify.com/track/2U62UKX9kl7lHsLn5ANsZp"
+    },
+    {
+      "album": {
+        "name": "Start Somewhere",
+        "url": "https://open.spotify.com/album/45Qh4kJ9fSnjo6awLgYew8"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200353,
+      "name": "Life Balance",
+      "url": "https://open.spotify.com/track/5Fy3qUli32XAqwvMibwibE"
     },
     {
       "album": {

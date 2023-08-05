@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd"
+    },
+    {
+      "album": {
         "name": "Angel (From Barbie The Album)",
         "url": "https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V"
       },
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
@@ -1738,6 +1756,24 @@
       "duration_ms": 149438,
       "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
+    },
+    {
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
     },
     {
       "album": {
@@ -3103,6 +3139,24 @@
     },
     {
       "album": {
+        "name": "Casual Kisser",
+        "url": "https://open.spotify.com/album/2gzL4mfz5BiHfsUvZdyI79"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164293,
+      "name": "Casual Kisser",
+      "url": "https://open.spotify.com/track/6vS9XivvbeoxUMUywhHSuc"
+    },
+    {
+      "album": {
         "name": "Cate\u2019s Brother",
         "url": "https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F"
       },
@@ -3150,7 +3204,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
@@ -4143,6 +4197,28 @@
     },
     {
       "album": {
+        "name": "Delicate (Seeb Remix)",
+        "url": "https://open.spotify.com/album/7gU675c7KZ54MzEcL1O3px"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173265,
+      "name": "Delicate - Seeb Remix",
+      "url": "https://open.spotify.com/track/2Sy2oGjP5RYB4cLVoDU0Gz"
+    },
+    {
+      "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
@@ -4382,6 +4458,24 @@
       "duration_ms": 257881,
       "name": "Difficult",
       "url": "https://open.spotify.com/track/3JiaA3hvuKu4Fjf6AWwVMX"
+    },
+    {
+      "album": {
+        "name": "Why Can\u2019t I Have Two? (2468) / DILF",
+        "url": "https://open.spotify.com/album/5R06NvE2q2iQm8akxCC3F5"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139476,
+      "name": "DILF",
+      "url": "https://open.spotify.com/track/2Q8Ky0A9wVrjIiQIcUfYz4"
     },
     {
       "album": {
@@ -5074,6 +5168,28 @@
       "duration_ms": 239888,
       "name": "Escapism. - Sped Up",
       "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
+    },
+    {
+      "album": {
+        "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. Demi Lovato)",
+        "url": "https://open.spotify.com/album/2VVf6P029Bw2sRXV721xui"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185538,
+      "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. Demi Lovato)",
+      "url": "https://open.spotify.com/track/5zYrD1r49ex3WJk6iVIhfw"
     },
     {
       "album": {
@@ -10345,6 +10461,28 @@
     },
     {
       "album": {
+        "name": "Mr Right (with Meghan Trainor)",
+        "url": "https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167035,
+      "name": "Mr Right (with Meghan Trainor)",
+      "url": "https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp"
+    },
+    {
+      "album": {
         "name": "Mr. Forgettable",
         "url": "https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa"
       },
@@ -10482,7 +10620,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 155202,
       "name": "Never Ending Song",
       "url": "https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9"
@@ -11542,7 +11680,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
@@ -11640,7 +11778,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -12532,6 +12670,24 @@
       "duration_ms": 124373,
       "name": "Seven",
       "url": "https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw"
+    },
+    {
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208906,
+      "name": "seven",
+      "url": "https://open.spotify.com/track/6KJqZcs9XDgVck7Lg9QOTC"
     },
     {
       "album": {
@@ -14284,6 +14440,24 @@
       "duration_ms": 198106,
       "name": "Texas (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
+    },
+    {
+      "album": {
+        "name": "TGIF",
+        "url": "https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171240,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P"
     },
     {
       "album": {
@@ -16134,7 +16308,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 200533,
       "name": "What a Feeling",
       "url": "https://open.spotify.com/track/0iSWAT0EL8TwmzcgBjKMh6"

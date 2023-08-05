@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. El Bogueto en portada ",
-  "num_followers": 8870,
+  "num_followers": 8913,
   "original_name": "Perreo Bellakoso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTRmNzg5NmZlNjMzYTVjYWExMTUzN2U5N2RmYTc1ZmZiOTc5ZmEw",
+  "snapshot_id": "MCxjYTJiMjRjNmQwYmE4NmI2MTViYWQzNjE4MzNkNDgwNjc1NGFmMWFh",
   "tracks": [
     {
       "added_at": "2023-07-28 16:41:33",
@@ -155,18 +155,26 @@
     {
       "added_at": "2023-07-28 16:41:33",
       "album": {
-        "name": "Un Cigarrillo",
-        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
+        "name": "Caba\u00f1a",
+        "url": "https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT"
       },
       "artists": [
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Los Patos Feos Inc",
+          "url": "https://open.spotify.com/artist/5ys86BAZteP8RpVCDmT4p5"
+        },
+        {
+          "name": "Nes",
+          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
         }
       ],
-      "duration_ms": 184266,
-      "name": "Un Cigarrillo",
-      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
+      "duration_ms": 178836,
+      "name": "Caba\u00f1a",
+      "url": "https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768"
     },
     {
       "added_at": "2023-07-28 16:41:33",
@@ -239,26 +247,18 @@
     {
       "added_at": "2023-07-28 16:41:33",
       "album": {
-        "name": "Caba\u00f1a",
-        "url": "https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT"
+        "name": "Un Cigarrillo",
+        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
       },
       "artists": [
         {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        },
-        {
-          "name": "Los Patos Feos Inc",
-          "url": "https://open.spotify.com/artist/5ys86BAZteP8RpVCDmT4p5"
-        },
-        {
-          "name": "Nes",
-          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 178836,
-      "name": "Caba\u00f1a",
-      "url": "https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768"
+      "duration_ms": 184266,
+      "name": "Un Cigarrillo",
+      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
     },
     {
       "added_at": "2023-07-28 16:41:33",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-07-28 16:41:33",
       "album": {
-        "name": "L-Gante: RKT SESSIONS #1",
-        "url": "https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG"
-      },
-      "artists": [
-        {
-          "name": "Papu DJ",
-          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 181928,
-      "name": "L-Gante: RKT SESSIONS #1",
-      "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
-    },
-    {
-      "added_at": "2023-07-28 16:41:33",
-      "album": {
         "name": "Baja Sube Sube",
         "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 211404,
       "name": "Baja Sube Sube",
       "url": "https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I"
+    },
+    {
+      "added_at": "2023-07-28 16:41:33",
+      "album": {
+        "name": "L-Gante: RKT SESSIONS #1",
+        "url": "https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG"
+      },
+      "artists": [
+        {
+          "name": "Papu DJ",
+          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 181928,
+      "name": "L-Gante: RKT SESSIONS #1",
+      "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
     },
     {
       "added_at": "2023-07-28 16:41:33",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-07-28 16:41:33",
       "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Divergentes Inc.",
-          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
-        }
-      ],
-      "duration_ms": 211542,
-      "name": "Mu\u00e9vete",
-      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
-    },
-    {
-      "added_at": "2023-07-28 16:41:33",
-      "album": {
         "name": "Se Menea",
         "url": "https://open.spotify.com/album/29QUuLDAgelu6uM7zmh4CM"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 219611,
       "name": "Se Menea",
       "url": "https://open.spotify.com/track/3mbKLIppSw6vqWidiuMd53"
+    },
+    {
+      "added_at": "2023-07-28 16:41:33",
+      "album": {
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Divergentes Inc.",
+          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
+        }
+      ],
+      "duration_ms": 211542,
+      "name": "Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
     },
     {
       "added_at": "2023-07-28 16:41:33",
@@ -1039,6 +1039,26 @@
       "duration_ms": 164223,
       "name": "R\u00f3mpelo",
       "url": "https://open.spotify.com/track/2DTKvhMEE6pTJAKu3uv6Ks"
+    },
+    {
+      "added_at": "2023-07-28 16:41:33",
+      "album": {
+        "name": "\u00d1ero Session 3",
+        "url": "https://open.spotify.com/album/1FKZ9HEFRmELWUtyaWcHWA"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Jencko el Shinobi",
+          "url": "https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "\u00d1ero Session 3",
+      "url": "https://open.spotify.com/track/0awixw6edMqOwTm2wcM3Uj"
     },
     {
       "added_at": "2023-07-28 16:41:33",
@@ -1127,8 +1147,8 @@
     {
       "added_at": "2023-07-28 16:41:33",
       "album": {
-        "name": "\u00d1ero Session 3",
-        "url": "https://open.spotify.com/album/1FKZ9HEFRmELWUtyaWcHWA"
+        "name": "\u00d1ero Session 2",
+        "url": "https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E"
       },
       "artists": [
         {
@@ -1136,33 +1156,17 @@
           "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
         },
         {
-          "name": "Jencko el Shinobi",
-          "url": "https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "\u00d1ero Session 3",
-      "url": "https://open.spotify.com/track/0awixw6edMqOwTm2wcM3Uj"
-    },
-    {
-      "added_at": "2023-07-28 16:41:33",
-      "album": {
-        "name": "Contra la Pared",
-        "url": "https://open.spotify.com/album/1Dj6HcOXpEDTtCMOZ7LVks"
-      },
-      "artists": [
-        {
-          "name": "Pablito Mix",
-          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+          "name": "Cris Sour",
+          "url": "https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t"
         },
         {
-          "name": "City Lights",
-          "url": "https://open.spotify.com/artist/1LmRtLEIqkkFfvMaLxbJ5a"
+          "name": "Zkiper Mami",
+          "url": "https://open.spotify.com/artist/42dhqBXADvMbtRoUX2SckE"
         }
       ],
-      "duration_ms": 177506,
-      "name": "Contra la Pared",
-      "url": "https://open.spotify.com/track/1AOJGa2b29LokEYqaaHWyg"
+      "duration_ms": 146938,
+      "name": "\u00d1ero Session 2",
+      "url": "https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp"
     },
     {
       "added_at": "2023-07-28 16:41:33",
@@ -1183,6 +1187,26 @@
       "duration_ms": 227608,
       "name": "Tu Pones La Hora y Yo le Caigo",
       "url": "https://open.spotify.com/track/24gG1Loc0WhJK9plg8MIUO"
+    },
+    {
+      "added_at": "2023-07-28 16:41:33",
+      "album": {
+        "name": "Contra la Pared",
+        "url": "https://open.spotify.com/album/1Dj6HcOXpEDTtCMOZ7LVks"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "City Lights",
+          "url": "https://open.spotify.com/artist/1LmRtLEIqkkFfvMaLxbJ5a"
+        }
+      ],
+      "duration_ms": 177506,
+      "name": "Contra la Pared",
+      "url": "https://open.spotify.com/track/1AOJGa2b29LokEYqaaHWyg"
     },
     {
       "added_at": "2023-07-28 16:41:33",
@@ -1279,30 +1303,6 @@
     {
       "added_at": "2023-07-28 16:41:33",
       "album": {
-        "name": "\u00d1ero Session 2",
-        "url": "https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Cris Sour",
-          "url": "https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t"
-        },
-        {
-          "name": "Zkiper Mami",
-          "url": "https://open.spotify.com/artist/42dhqBXADvMbtRoUX2SckE"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "\u00d1ero Session 2",
-      "url": "https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp"
-    },
-    {
-      "added_at": "2023-07-28 16:41:33",
-      "album": {
         "name": "PUSSY",
         "url": "https://open.spotify.com/album/6swVOsbbkJkFCyNoeiasgs"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-07-28 16:41:33",
       "album": {
-        "name": "Llego El Perreo",
-        "url": "https://open.spotify.com/album/4Vb6NhgiW727CjOYxrlFnP"
-      },
-      "artists": [
-        {
-          "name": "Dj Bekman",
-          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
-        }
-      ],
-      "duration_ms": 212802,
-      "name": "Perreo Como Antes",
-      "url": "https://open.spotify.com/track/5InIuRBCKBEiSboJnliVQo"
-    },
-    {
-      "added_at": "2023-07-28 16:41:33",
-      "album": {
         "name": "A Mover Ese Booty",
         "url": "https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 157347,
       "name": "A Mover Ese Booty",
       "url": "https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j"
+    },
+    {
+      "added_at": "2023-07-28 16:41:33",
+      "album": {
+        "name": "Llego El Perreo",
+        "url": "https://open.spotify.com/album/4Vb6NhgiW727CjOYxrlFnP"
+      },
+      "artists": [
+        {
+          "name": "Dj Bekman",
+          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
+        }
+      ],
+      "duration_ms": 212802,
+      "name": "Perreo Como Antes",
+      "url": "https://open.spotify.com/track/5InIuRBCKBEiSboJnliVQo"
     },
     {
       "added_at": "2023-07-28 16:41:33",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-07-28 16:41:33",
       "album": {
+        "name": "CULETEO",
+        "url": "https://open.spotify.com/album/7IGufkYRaam4cn196RMR2G"
+      },
+      "artists": [
+        {
+          "name": "Arturo Challa",
+          "url": "https://open.spotify.com/artist/5hbTewixuDJk5PGugClaj6"
+        }
+      ],
+      "duration_ms": 133580,
+      "name": "CULETEO",
+      "url": "https://open.spotify.com/track/1elKwtcNQfOs6bmpXRMNgJ"
+    },
+    {
+      "added_at": "2023-07-28 16:41:33",
+      "album": {
         "name": "Pal Bellakeo",
         "url": "https://open.spotify.com/album/3mdzmfzXoCh1Ns2DqYQ4kM"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 212630,
       "name": "Pal Bellakeo",
       "url": "https://open.spotify.com/track/3HNJzcAtMDkmyjcIP4AekL"
-    },
-    {
-      "added_at": "2023-07-28 16:41:33",
-      "album": {
-        "name": "CULETEO",
-        "url": "https://open.spotify.com/album/7IGufkYRaam4cn196RMR2G"
-      },
-      "artists": [
-        {
-          "name": "Arturo Challa",
-          "url": "https://open.spotify.com/artist/5hbTewixuDJk5PGugClaj6"
-        }
-      ],
-      "duration_ms": 133580,
-      "name": "CULETEO",
-      "url": "https://open.spotify.com/track/1elKwtcNQfOs6bmpXRMNgJ"
     },
     {
       "added_at": "2023-07-28 16:41:33",
@@ -1791,30 +1791,6 @@
     {
       "added_at": "2023-07-28 16:41:33",
       "album": {
-        "name": "Aplaude",
-        "url": "https://open.spotify.com/album/50YaeruYkphtAlXEDYUgmG"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "HM BTZ",
-          "url": "https://open.spotify.com/artist/3pzrLxWxBwOg3e8UjYFQHu"
-        },
-        {
-          "name": "Tavo Rayo",
-          "url": "https://open.spotify.com/artist/4V6Om8WdDxyoHGhpfgD9Mp"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Aplaude",
-      "url": "https://open.spotify.com/track/0XOzKFrzY8ZLh7m4ldN9q8"
-    },
-    {
-      "added_at": "2023-07-28 16:41:33",
-      "album": {
         "name": "Como Me Muevo",
         "url": "https://open.spotify.com/album/4UX6wYvUssV4rHu35NHJEx"
       },
@@ -1835,6 +1811,30 @@
       "duration_ms": 172500,
       "name": "Como Me Muevo",
       "url": "https://open.spotify.com/track/5LvqbMx39IhZNUBz4YQG3b"
+    },
+    {
+      "added_at": "2023-07-28 16:41:33",
+      "album": {
+        "name": "Aplaude",
+        "url": "https://open.spotify.com/album/50YaeruYkphtAlXEDYUgmG"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "HM BTZ",
+          "url": "https://open.spotify.com/artist/3pzrLxWxBwOg3e8UjYFQHu"
+        },
+        {
+          "name": "Tavo Rayo",
+          "url": "https://open.spotify.com/artist/4V6Om8WdDxyoHGhpfgD9Mp"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Aplaude",
+      "url": "https://open.spotify.com/track/0XOzKFrzY8ZLh7m4ldN9q8"
     },
     {
       "added_at": "2023-07-28 16:41:33",
@@ -2011,6 +2011,30 @@
     {
       "added_at": "2023-07-28 16:41:33",
       "album": {
+        "name": "Saca",
+        "url": "https://open.spotify.com/album/5uObXIxpN6BcyH3LJRKEPy"
+      },
+      "artists": [
+        {
+          "name": "CrisMajor",
+          "url": "https://open.spotify.com/artist/3OqUmisKp401f6AihvBDqc"
+        },
+        {
+          "name": "Fito Music",
+          "url": "https://open.spotify.com/artist/4xvntHuAkjVHfy16NC5efb"
+        },
+        {
+          "name": "Bla-De",
+          "url": "https://open.spotify.com/artist/1Xrr08n5RuyrzvLljE1HPa"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Saca",
+      "url": "https://open.spotify.com/track/1tHBZsSmcdOMNTgmTJGYA7"
+    },
+    {
+      "added_at": "2023-07-28 16:41:33",
+      "album": {
         "name": "Swipe Up",
         "url": "https://open.spotify.com/album/2nSrXIdqNv7xbENHUjYZqZ"
       },
@@ -2055,30 +2079,6 @@
       "duration_ms": 208000,
       "name": "Kilate",
       "url": "https://open.spotify.com/track/5dndTlMRXyvejjR05OkI3K"
-    },
-    {
-      "added_at": "2023-07-28 16:41:33",
-      "album": {
-        "name": "Saca",
-        "url": "https://open.spotify.com/album/5uObXIxpN6BcyH3LJRKEPy"
-      },
-      "artists": [
-        {
-          "name": "CrisMajor",
-          "url": "https://open.spotify.com/artist/3OqUmisKp401f6AihvBDqc"
-        },
-        {
-          "name": "Fito Music",
-          "url": "https://open.spotify.com/artist/4xvntHuAkjVHfy16NC5efb"
-        },
-        {
-          "name": "Bla-De",
-          "url": "https://open.spotify.com/artist/1Xrr08n5RuyrzvLljE1HPa"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Saca",
-      "url": "https://open.spotify.com/track/1tHBZsSmcdOMNTgmTJGYA7"
     },
     {
       "added_at": "2023-07-28 16:41:33",

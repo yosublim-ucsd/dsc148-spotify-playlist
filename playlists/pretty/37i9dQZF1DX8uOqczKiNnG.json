@@ -1,12 +1,12 @@
 {
   "description": "Los m\u00e1s grandes \u00e9xitos de los 70 en Argentina.",
-  "num_followers": 79896,
+  "num_followers": 79930,
   "original_name": "Los 70 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTg0ZjIzNWNhZjQwNzVlZmFhYjllM2Q2M2VmMjIwYjVjMDUyN2M1",
+  "snapshot_id": "MCxmMmU0OWVkODQ4MDFjYTE5MWU1YWZlOWM1ODIzYzYwYzg2MzU2MDZl",
   "tracks": [
     {
       "added_at": "2020-03-13 18:13:53",
@@ -415,6 +415,22 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
+        "name": "Begin the Beguine",
+        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 292573,
+      "name": "Me Olvide De Vivir",
+      "url": "https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8"
+    },
+    {
+      "added_at": "2020-03-13 18:13:53",
+      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 214366,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
-    },
-    {
-      "added_at": "2020-03-13 18:13:53",
-      "album": {
-        "name": "Begin the Beguine",
-        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 292573,
-      "name": "Me Olvide De Vivir",
-      "url": "https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8"
     },
     {
       "added_at": "2020-03-13 18:13:53",

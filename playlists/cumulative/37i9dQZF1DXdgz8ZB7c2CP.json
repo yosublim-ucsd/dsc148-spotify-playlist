@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Jai Wolf",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Louis The Child",
   "name": "creamy",
   "tracks": [
     {
@@ -303,6 +303,28 @@
     },
     {
       "album": {
+        "name": "All Good (Jasper Tygner Remix)",
+        "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        },
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243853,
+      "name": "All Good - Jasper Tygner Remix",
+      "url": "https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH"
+    },
+    {
+      "album": {
         "name": "For One to Follow",
         "url": "https://open.spotify.com/album/5APyA3dx7QBAzXu4kXP8wq"
       },
@@ -438,7 +460,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 142622,
       "name": "am i dreaming?",
       "url": "https://open.spotify.com/track/1RCIegmCrpQW4kBeKrMOi7"
@@ -634,7 +656,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 222000,
       "name": "Back Now",
       "url": "https://open.spotify.com/track/1U4EJlYgHHuEzZPgiuUvEH"
@@ -902,6 +924,32 @@
       "duration_ms": 183445,
       "name": "Better",
       "url": "https://open.spotify.com/track/4Dug0HsHzITLyGGJz6xZct"
+    },
+    {
+      "album": {
+        "name": "Better Luck",
+        "url": "https://open.spotify.com/album/2YsoBpYkOm3GF3Ve5GIRTa"
+      },
+      "artists": [
+        {
+          "name": "Sam Day",
+          "url": "https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U"
+        },
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        },
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193235,
+      "name": "Better Luck",
+      "url": "https://open.spotify.com/track/5stLAx1TzmdPRTwFqc9mSh"
     },
     {
       "album": {
@@ -1354,7 +1402,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 96004,
       "name": "catalyst",
       "url": "https://open.spotify.com/track/40La981foZ1iPvfqfhgu7Y"
@@ -2390,7 +2438,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 207619,
       "name": "DOWN TO EARTH",
       "url": "https://open.spotify.com/track/1X2WoxWS5rVNlmHCWr4jsV"
@@ -2500,6 +2548,28 @@
       "duration_ms": 241979,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
+    },
+    {
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/4s2EjL4SlGCNokGwui7Iwp"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "bloody white",
+          "url": "https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Duality",
+      "url": "https://open.spotify.com/track/1MDFcgb008rczRBg2lmtGG"
     },
     {
       "album": {
@@ -2664,7 +2734,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 217500,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/1pHssnGn5rQjUSM5Esrz99"
@@ -3993,6 +4063,28 @@
     },
     {
       "album": {
+        "name": "heartbreak (feat. joegarratt)",
+        "url": "https://open.spotify.com/album/3kQQ4qFE9I4HP5OQQTRuj4"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "joegarratt",
+          "url": "https://open.spotify.com/artist/6vkcAnHmppXfe6oAgZLcGf"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "heartbreak (feat. joegarratt)",
+      "url": "https://open.spotify.com/track/7IsAYozq9Cm2v1hU6vutm1"
+    },
+    {
+      "album": {
         "name": "heights",
         "url": "https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j"
       },
@@ -4876,7 +4968,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 247619,
       "name": "JIYO",
       "url": "https://open.spotify.com/track/3h0nO3M5ollNKRVmEnnUd4"
@@ -4924,6 +5016,28 @@
       "duration_ms": 149760,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/0Hxg817iDRgOgizgY8G0j1"
+    },
+    {
+      "album": {
+        "name": "Keep The Lights On",
+        "url": "https://open.spotify.com/album/2tNm6bp4Jx46klup8qcIo4"
+      },
+      "artists": [
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        },
+        {
+          "name": "Beach Season",
+          "url": "https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185656,
+      "name": "Keep The Lights On",
+      "url": "https://open.spotify.com/track/1ov61nQUSYIgQTfSiv2xwx"
     },
     {
       "album": {
@@ -5012,6 +5126,24 @@
       "duration_ms": 213817,
       "name": "Kids (feat. dawsonLIED)",
       "url": "https://open.spotify.com/track/4XwHtfePlLsUpEUeQ5hp9D"
+    },
+    {
+      "album": {
+        "name": "kindness in spite of it all",
+        "url": "https://open.spotify.com/album/4onmV6rQrVxFJajux4zlGG"
+      },
+      "artists": [
+        {
+          "name": "Former Hero",
+          "url": "https://open.spotify.com/artist/77WqTzN8g3Wr9PeVFoG3Mm"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331034,
+      "name": "kindness in spite of it all",
+      "url": "https://open.spotify.com/track/72z6AxKGmhBtZckjtsxDmz"
     },
     {
       "album": {
@@ -5575,6 +5707,24 @@
     },
     {
       "album": {
+        "name": "TANZPARTEI (Alts)",
+        "url": "https://open.spotify.com/album/713fivhX2Wyws2TqHAJ828"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260868,
+      "name": "Me + You - Chill Mix",
+      "url": "https://open.spotify.com/track/0CgU7AKWdjR0bTxswhgxFH"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/5Te858VbhA2CD4zLrMYxIH"
       },
@@ -5692,6 +5842,28 @@
       "duration_ms": 172535,
       "name": "Minute",
       "url": "https://open.spotify.com/track/7oFUalDSW80cvDjsekma4Q"
+    },
+    {
+      "album": {
+        "name": "Missing You (feat. A Little Sound)",
+        "url": "https://open.spotify.com/album/11U06IwgwsIdP3g8fAOhN1"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181732,
+      "name": "Missing You (feat. A Little Sound)",
+      "url": "https://open.spotify.com/track/3im7OnZDP2UqX9UDQUiOTy"
     },
     {
       "album": {
@@ -6017,6 +6189,24 @@
     },
     {
       "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/31gMxpu8lSWdIBayKt5ED3"
+    },
+    {
+      "album": {
         "name": "On Air",
         "url": "https://open.spotify.com/album/13czmHAij9ZlJaT9qh50gI"
       },
@@ -6236,7 +6426,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 138320,
       "name": "Out Of Touch",
       "url": "https://open.spotify.com/track/5FhepPAZpSH6wgFWYbeuxC"
@@ -7068,7 +7258,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 238736,
       "name": "Run Away!",
       "url": "https://open.spotify.com/track/6jkNTZVkFwaoufxsZbPmX2"
@@ -7178,6 +7368,28 @@
       "duration_ms": 163669,
       "name": "Safe",
       "url": "https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY"
+    },
+    {
+      "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/16fuAXQUtixLaJaV9aZiGo"
+      },
+      "artists": [
+        {
+          "name": "Daktyl",
+          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
+        },
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204250,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/2ictSZJ9sGFOpdMlCBYGH9"
     },
     {
       "album": {
@@ -7324,7 +7536,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 165217,
       "name": "sedatives",
       "url": "https://open.spotify.com/track/6XMBQ2Dk9oQoXBfoI53Sqt"
@@ -7500,7 +7712,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 246346,
       "name": "Shellshock - Edit",
       "url": "https://open.spotify.com/track/42azUFbAeOk3JpTlqxFBE1"
@@ -7636,7 +7848,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 169003,
       "name": "Skin",
       "url": "https://open.spotify.com/track/7FrNn25zSxlaJ3WjGTUE6e"
@@ -7690,7 +7902,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 85000,
       "name": "skyscraper",
       "url": "https://open.spotify.com/track/3kksDDFnR3kis8B3C1g6yu"
@@ -7808,6 +8020,28 @@
       "duration_ms": 252705,
       "name": "So Long - Tails Remix",
       "url": "https://open.spotify.com/track/7fM3iJ14tE5SX1L1TVpf7p"
+    },
+    {
+      "album": {
+        "name": "So Much In Love (Sub Focus Remix)",
+        "url": "https://open.spotify.com/album/47FtmJz3uPnswg7tTrAvF0"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235885,
+      "name": "So Much In Love - Sub Focus Remix",
+      "url": "https://open.spotify.com/track/7umV8hDGUBIYV3kxoNz1Vb"
     },
     {
       "album": {
@@ -8004,6 +8238,32 @@
       "duration_ms": 199796,
       "name": "Spoiled little brat",
       "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
+    },
+    {
+      "album": {
+        "name": "Spring (feat. Riverine)",
+        "url": "https://open.spotify.com/album/2hL3SJp6luM6I3LZbpf4w9"
+      },
+      "artists": [
+        {
+          "name": "L D R U",
+          "url": "https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq"
+        },
+        {
+          "name": "Fitch",
+          "url": "https://open.spotify.com/artist/4R1KJqQAvnwb0ChZWqTege"
+        },
+        {
+          "name": "Riverine",
+          "url": "https://open.spotify.com/artist/6JDUp5zPbGZ5tTHVgf3dbm"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182369,
+      "name": "Spring (feat. Riverine)",
+      "url": "https://open.spotify.com/track/4oCjOVKYVwPbi1ufU3uuC1"
     },
     {
       "album": {

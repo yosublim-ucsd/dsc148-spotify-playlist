@@ -4,7 +4,7 @@
 
 > Rock swagger served neat\. Cover: Chris Stapleton
 
-208 songs - 12 hr 46 min
+209 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,8 +71,9 @@
 | [DLTGYD](https://open.spotify.com/track/7qfdFKdEZFuOf2X4cID8jS) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [For the Birds](https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx) | 4:30 | 2023-05-12 |  |
 | [Do Your Worst](https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 3:30 | 2020-08-21 |  |
 | [Don't Come Lookin'](https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Jackson Dean](https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp) | 3:07 | 2021-06-11 |  |
+| [Down To The Devil](https://open.spotify.com/track/0cHOVlDO5vNuJOaTTO29Z6) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Georgiana](https://open.spotify.com/album/1ygRWLYPXMKn1MyyThyzpK) | 3:26 | 2023-07-21 |  |
 | [Down to the Devil](https://open.spotify.com/track/1KqEnSyj7ZFUfN2HddUZMe) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Down to the Devil](https://open.spotify.com/album/08FkK7BlweOZ7PFct99fMo) | 3:26 | 2021-09-10 | 2022-07-29 |
-| [Down To The Devil](https://open.spotify.com/track/2hOB1WsQRTLgVxeXaz7F73) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Down to the Devil](https://open.spotify.com/album/0fEy0iCdOq34h6Ci3zvZVv) | 3:26 | 2022-06-14 |  |
+| [Down To The Devil](https://open.spotify.com/track/2hOB1WsQRTLgVxeXaz7F73) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Down to the Devil](https://open.spotify.com/album/0fEy0iCdOq34h6Ci3zvZVv) | 3:26 | 2022-06-14 | 2023-08-05 |
 | [Edge Of Darkness](https://open.spotify.com/track/4rhUBIlzi7zgV7TryhVujl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 4:28 | 2020-08-21 |  |
 | [Everything You're Breathing For](https://open.spotify.com/track/5LzHQ5aVYK828HIWcnralK) | [The Parlor Mob](https://open.spotify.com/artist/1U4d20oJAq9aLa2mhDGwVV) | [And You Were A Crow](https://open.spotify.com/album/5cKSit160Ht2Iododg6sUQ) | 3:46 | 2020-08-21 | 2023-01-06 |
 | [Fearless](https://open.spotify.com/track/7mvfSh2FqzHBv2uoLgoHME) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Fearless](https://open.spotify.com/album/07JymTZmXvEZnX1eknGIOq) | 3:08 | 2021-07-30 |  |

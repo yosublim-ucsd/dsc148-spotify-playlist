@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023: Mitski's beautiful return
 
-1,722 songs - 4 day 7 hr 20 min
+1,723 songs - 4 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,7 +460,7 @@
 | [Everywhere I Go I Bring the Rain](https://open.spotify.com/track/6ji5AQtHWnxX20wGfDMLXm) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [The Art of Forgetting](https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N) | 5:04 | 2023-03-31 | 2023-04-22 |
 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:45 | 2021-10-20 | 2022-04-03 |
 | [Exscape](https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Exscape](https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b) | 2:22 | 2022-11-04 | 2022-12-06 |
-| [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 | 2023-07-20 |  |
+| [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 | 2023-07-20 | 2023-08-05 |
 | [facetime after sex](https://open.spotify.com/track/5aFtC3Uc43XhA9XWEXRRox) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [the third ep](https://open.spotify.com/album/2OdlmTdbcKqIe21Pdceayd) | 3:06 | 2022-05-13 | 2022-07-13 |
 | [Faith](https://open.spotify.com/track/3mZHmZahGKJwP0GDtWaOq8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Faith](https://open.spotify.com/album/6udb0IhmEdSQvWwjfnh6UA) | 3:37 | 2019-07-20 | 2019-08-16 |
 | [Faith Healer](https://open.spotify.com/track/5KDqYTqobAjzb4XzwjHJ53) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Faith Healer](https://open.spotify.com/album/0KZ41Kat8EobCM31uRAjGi) | 2:54 | 2021-02-06 | 2021-10-16 |
@@ -1219,7 +1219,7 @@
 | [Questioning My Mind](https://open.spotify.com/track/0H2EwgDNxFwBY6gPnVmuV2) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Questioning My Mind](https://open.spotify.com/album/6X7WVkGVz7znUSldpVjBLh) | 4:14 | 2019-11-09 | 2020-08-07 |
 | [Quien Tengo Que Ser](https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Quien Tengo Que Ser](https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8) | 4:27 | 2023-04-21 | 2023-05-06 |
 | [Quiet On Set](https://open.spotify.com/track/7yjum1B7kQ8gFWTP0cqKMu) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Quiet On Set / Grumpy Old Man](https://open.spotify.com/album/24CtvDmYkaT3MbLIVHHFGg) | 3:15 | 2021-09-02 | 2022-04-06 |
-| [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 | 2023-06-09 | 2023-08-03 |
+| [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 | 2023-06-09 |  |
 | [RABi](https://open.spotify.com/track/1NrmVZxiiBPBOVHnN0001b) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 3:32 | 2019-08-23 | 2020-01-10 |
 | [Radio](https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/6qXDmHqkVW2O8FQUKWiHh4) | 3:14 | 2022-10-11 | 2022-10-13 |
 | [Radio](https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:14 | 2022-10-14 | 2023-01-14 |
@@ -1397,6 +1397,7 @@
 | [Street You Live On](https://open.spotify.com/track/0Rg7gsv3kLviC7jW6Jemv3) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:33 | 2021-10-22 | 2022-05-20 |
 | [Stress Relief](https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Am I sinking or Am I swimming?](https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV) | 3:25 | 2022-04-29 | 2023-01-14 |
 | [Sucker](https://open.spotify.com/track/0KAW820FoYhpDe3lsgMRaC) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker](https://open.spotify.com/album/5LzeVIZgtEHrbLYwsBRalD) | 4:43 | 2020-06-12 | 2021-03-02 |
+| [Suddenly](https://open.spotify.com/track/49H43h8jd9pE3qy5v5NseC) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Suddenly](https://open.spotify.com/album/2ujA7Bkj0mWEWPimvJV1Iu) | 4:23 | 2023-08-04 |  |
 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2021-09-02 | 2022-05-21 |
 | [Sugar](https://open.spotify.com/track/79nkN1EmB1B03uZi9DcS4w) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 3:16 | 2022-07-08 | 2022-08-10 |
 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-04-08 | 2022-08-09 |
@@ -1587,7 +1588,7 @@
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2019-09-13 | 2019-12-13 |
 | [u dont kno me](https://open.spotify.com/track/1jbbnDJ54AGBRswmNm5PAw) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [u dont kno me](https://open.spotify.com/album/0agdvtc1hwwIydaYFwXdxp) | 3:59 | 2022-03-24 | 2022-04-30 |
 | [U&ME](https://open.spotify.com/track/4UoZigJdqn8y8jmMzuvmLd) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [U&ME](https://open.spotify.com/album/4zAk9vfm8nKpkUpCYssqf7) | 3:18 | 2021-10-04 | 2022-07-29 |
-| [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-13 |  |
+| [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-13 | 2023-08-05 |
 | [Unconditional I \(Lookout Kid\)](https://open.spotify.com/track/0Zd9Nub5lwmzSBoWaVOWrP) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Unconditional I \(Lookout Kid\)](https://open.spotify.com/album/245E4YWubHwp4sZNlz82dG) | 4:33 | 2022-05-06 | 2022-07-14 |
 | [Under The Sun](https://open.spotify.com/track/3KRiNc9gBfTe15xM1XVGHp) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Under The Sun](https://open.spotify.com/album/45ubqbPdQyqmYEj9FFzmQ4) | 3:37 | 2021-10-10 | 2021-10-11 |
 | [underground pleasure](https://open.spotify.com/track/3qcth5GYMyx9DhMEGKN98f) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [underground pleasure](https://open.spotify.com/album/5IoGXR8bkNSvbYnLsT6iqp) | 4:04 | 2022-03-18 | 2022-06-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Swinging jazz for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,523 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,607 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 78 | [From My Perspective](https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [From My Perspective](https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz) | 4:02 |
 | 79 | [Views Of Dawn](https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Views Of Dawn](https://open.spotify.com/album/6ffUhpiJexNGF2eL5DVJxM) | 4:53 |
 | 80 | [Tuxedo and top hat](https://open.spotify.com/track/3c5s24ryFSbhu9RqQML4gd) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Tuxedo and top hat](https://open.spotify.com/album/2plkKk4zTHEOE0IFgVOGnz) | 2:28 |
-| 81 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 |
-| 82 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 |
+| 81 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 |
+| 82 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 |
 | 83 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 |
 | 84 | [Soliloquy](https://open.spotify.com/track/0te1ho7v4bPASest2eI0q3) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [Soliloquy](https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34) | 2:23 |
 | 85 | [Now that we are here](https://open.spotify.com/track/0rQngOdT0wJxPT6jxt9B0n) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Now that we are here](https://open.spotify.com/album/4rzLnj1bsRZNq3MDEr6Hh8) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 99 | [One More Time](https://open.spotify.com/track/1cwApuGBzxyhCPBYSX3xqk) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [One More Time](https://open.spotify.com/album/75WAs6klPeLsGuW2jAvB4x) | 3:16 |
 | 100 | [Bobbi](https://open.spotify.com/track/4fcQOD3jgADwsZ2UCMsB2B) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Bobbi](https://open.spotify.com/album/3zYm6hkuRqlpEkUyjamMuG) | 2:32 |
 
-Snapshot ID: `MCxiZGM5NzZlODE5YzA3YTQ0OTVjMjU4NTcxMTYyZjFjMDYyNmJiZGNl`
+Snapshot ID: `MCwxODQ3Y2Q1MzQ3MTlkYmMzODQyZjUwMDZhYmVmOTBjMzhhMmU1ZGZj`

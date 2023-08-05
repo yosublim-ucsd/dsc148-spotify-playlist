@@ -4,7 +4,7 @@
 
 > Meet the lineup of ULTRA KOREA, the best music festival boasting the world's top EDM DJ\. \(세계 최정상 EDM DJ를 자랑하는 최고의 음악 축제 ULTRA KOREA의 라인업을 만나보세요.\)
 
-54 songs - 3 hr 53 min
+55 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Vacaciones En Chile \- Original Mix](https://open.spotify.com/track/7CKsgEdJNFTDqWgk3XD1XB) | [Ilario Alicante](https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD) | [Warm Vibes](https://open.spotify.com/album/1J8JYqCBf5o9Sp9MAFXbze) | 9:49 | 2022-09-15 |  |
 | [Voices In My Head \- DJ Mii Remix](https://open.spotify.com/track/4bk0S0gMfbC2Qu5nJdGf4r) | [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS), [Chad Kowal](https://open.spotify.com/artist/3iWVcAb4L9XtNmAmHkcJUa), [DJ Mii](https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m) | [Voices In My Head \(DJ Mii Remix\)](https://open.spotify.com/album/7CZGyjxa4sxZLMF1UMngVf) | 2:48 | 2022-09-15 |  |
 | [Wild Card \- Original Mix](https://open.spotify.com/track/4SGS2NVJMBxHaQKxdENjaC) | [WAGS](https://open.spotify.com/artist/5vbuZ8h6kjV38LGh8uQJ1i) | [Wild Card](https://open.spotify.com/album/1BnTIze8TO8ZT9J7tulrbf) | 3:43 | 2022-09-15 |  |
-| [Your Mind](https://open.spotify.com/track/1WsHKAuN9vDthcmimdqqaY) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Your Mind](https://open.spotify.com/album/07lumzt0xDO5eyuWwvevAJ) | 8:22 | 2022-09-15 |  |
+| [Your Mind](https://open.spotify.com/track/1WsHKAuN9vDthcmimdqqaY) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Your Mind](https://open.spotify.com/album/07lumzt0xDO5eyuWwvevAJ) | 8:22 | 2022-09-15 | 2023-08-05 |
+| [Your Mind](https://open.spotify.com/track/5NZdurYcFYOg3s2YyzeVgE) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Your Mind](https://open.spotify.com/album/1r6UqJJNidWeu594zRPySp) | 8:22 | 2022-09-15 |  |
 | [Your Mind](https://open.spotify.com/track/5AET7qAVhzCZDJbcbmP41r) | [Beatrice](https://open.spotify.com/artist/6l6JLklTHqQ3mJ5FUvj9j7), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r) | [Your Mind](https://open.spotify.com/album/5dojUE6TOTTuuq9yFSzWPq) | 8:23 | 2022-09-15 | 2023-07-30 |
 | [뭘 기다리고 있어 \(What You Waiting For\)](https://open.spotify.com/track/0zWDxMqxq7bGDmZEl7Cye8) | [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN), [Anda](https://open.spotify.com/artist/2PZt7SATrAxsNG60Mqkan4) | [뭘 기다리고 있어 \(What You Waiting For\)](https://open.spotify.com/album/0GPaKzASwZiS68S5IkshKC) | 2:54 | 2022-09-15 |  |
 

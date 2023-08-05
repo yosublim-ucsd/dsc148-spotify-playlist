@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-468 songs - 1 day 22 hr 10 min
+469 songs - 1 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Everyday \- Shimza Remix](https://open.spotify.com/track/2GDWZWVlEWK9CMs2ZkMEOd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Everyday \(Shimza Remix\)](https://open.spotify.com/album/4hPSNAFdFZutofFFVRMoMT) | 7:32 | 2022-10-28 | 2023-01-17 |
 | [Extassy](https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Extassy / In A Distorted Galaxy](https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0) | 9:43 | 2022-10-24 | 2022-12-17 |
 | [Falling Again](https://open.spotify.com/track/3W6N0y9cMCKnpcX1RCYGXb) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs), [onebit.](https://open.spotify.com/artist/0rJ1sIMo2XYGEgzvSbY5DE) | [Falling Again](https://open.spotify.com/album/5xAcd94u5LYDLA8RfNu9TA) | 3:16 | 2023-06-16 |  |
-| [Falling Through the Ceiling](https://open.spotify.com/track/7ifPwC6SBd3NSr4ozhIOz2) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Falling Through the Ceiling](https://open.spotify.com/album/6sTVDZ00EmXpnafUkCXZ4y) | 7:52 | 2023-01-06 |  |
+| [Falling Through the Ceiling](https://open.spotify.com/track/7ifPwC6SBd3NSr4ozhIOz2) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Falling Through the Ceiling](https://open.spotify.com/album/6sTVDZ00EmXpnafUkCXZ4y) | 7:52 | 2023-01-06 | 2023-08-05 |
 | [FANTASIZE](https://open.spotify.com/track/155OwUtXixaS773beh6FBD) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FANTASIZE](https://open.spotify.com/album/0V9G9Hpr3BehgRxg7yuCsv) | 6:32 | 2023-06-30 | 2023-07-03 |
 | [Farsi](https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Farsi](https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU) | 8:41 | 2022-05-27 |  |
 | [Fata Morgana](https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Fata Morgana](https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz) | 5:09 | 2023-04-21 | 2023-06-03 |
@@ -418,6 +418,7 @@
 | [The Rhythm](https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [The Rhythm](https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv) | 3:19 | 2023-06-30 |  |
 | [The Silence](https://open.spotify.com/track/5I2bl8yVsQ6F7CNnh2P9dc) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu), [Apple Gule](https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1) | [The Silence](https://open.spotify.com/album/6BiPBIh5lMuS0jdbxHD3Mn) | 7:31 | 2022-07-01 | 2022-07-04 |
 | [The Silence](https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [The Silence](https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL) | 4:23 | 2023-05-19 |  |
+| [The Stars](https://open.spotify.com/track/6XZrEFdwo0cnbwy24llaLI) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Meta\_](https://open.spotify.com/artist/4b2jMQx1533SIiypVXVJ8J) | [The Stars](https://open.spotify.com/album/1jIkwcwYO2x3bw4qlXJ5KT) | 5:48 | 2023-08-04 |  |
 | [The Wildcard Rhapsody](https://open.spotify.com/track/7xIqFDhrWrDiwOibmIGl0o) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h), [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq) | [The Wildcard Rhapsody EP](https://open.spotify.com/album/35YTlMCyEgaKmiAOwfDLQx) | 8:17 | 2022-04-15 | 2022-08-22 |
 | [The Witness](https://open.spotify.com/track/5dna0ShfmtsCcgZfi8pEjl) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [The Witness](https://open.spotify.com/album/2agQCuwawKF5udp9i3wD9t) | 7:03 | 2022-07-01 | 2022-12-17 |
 | [The Woods \- Kostakis Lost in the Woods Edit](https://open.spotify.com/track/5dm5TSgzPHfTz12Il1ZubQ) | [Kostakis](https://open.spotify.com/artist/220vnZDNctyvMXmQOFTheW), [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [The Woods](https://open.spotify.com/album/5eoRTl5QPag8mGvoqMrjoG) | 6:32 | 2021-05-21 | 2022-07-28 |

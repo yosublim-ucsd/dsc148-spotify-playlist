@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-299 songs - 16 hr 34 min
+300 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,8 @@
 | [Wonderland](https://open.spotify.com/track/1zKPCjlJ3hka82T6TCc8QC) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Tamentai](https://open.spotify.com/album/1xmyMceh6akaFbhR0yV222) | 3:19 | 2023-03-30 | 2023-04-14 |
 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-09 | 2023-06-02 |
 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 | 2023-06-01 |  |
-| [XXL](https://open.spotify.com/track/7AftUxnj6ngHrWiT29xwKK) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [XXL](https://open.spotify.com/album/4K0wKLFE0LxcQAmcmVvd0X) | 3:26 | 2023-08-03 |  |
+| [XXL](https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [XXL](https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf) | 3:26 | 2023-08-03 |  |
+| [XXL](https://open.spotify.com/track/7AftUxnj6ngHrWiT29xwKK) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [XXL](https://open.spotify.com/album/4K0wKLFE0LxcQAmcmVvd0X) | 3:26 | 2023-08-03 | 2023-08-05 |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2023-01-31 | 2023-03-16 |
 | [You Might Like It](https://open.spotify.com/track/0XarZ75YT67Ov5WeVSlI6g) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/7wC1PfvmudTT9ZzEih6bZ7) | 3:37 | 2023-03-28 | 2023-05-10 |
 | [Yume wa Sametemo](https://open.spotify.com/track/2rqgyouAVrWeRjGvFKnqLm) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Yume wa Sametemo](https://open.spotify.com/album/6Ohpoh84DNmZLaW6aTGuhP) | 3:41 | 2023-06-04 |  |

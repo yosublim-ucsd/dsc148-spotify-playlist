@@ -667,6 +667,32 @@
     },
     {
       "album": {
+        "name": "Bach Generations",
+        "url": "https://open.spotify.com/album/5yOf6Z2tkIAkI3q43OAe5L"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Albrecht Mayer",
+          "url": "https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW"
+        },
+        {
+          "name": "Berliner Barock Solisten",
+          "url": "https://open.spotify.com/artist/7mEuyFgTPiTRgCh3Hzuwsl"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265197,
+      "name": "Harpsichord Concerto No. 4 in A Major, BWV 1055 (Adapted for Oboe d'amore, Strings and Basso continuo): I. Allegro",
+      "url": "https://open.spotify.com/track/2tx1OGhwMuaS456NgiuEuP"
+    },
+    {
+      "album": {
         "name": "Grieg: Holberg Suite; Lyric Suite",
         "url": "https://open.spotify.com/album/1svqZTOGQ1yT4t3p5IRDZX"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,629 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,700 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 49 | [Choose Life](https://open.spotify.com/track/64bFcGOGHhAtNtYzneEDJV) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2) | 2:09 |
 | 50 | [PARTY ON MY DEATHBED](https://open.spotify.com/track/3qh27miHE2KwwDQcSVFTXS) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [PARTY ON MY DEATHBED](https://open.spotify.com/album/4WbHJLxoavNl9tztIdSclB) | 3:28 |
 
-Snapshot ID: `MCw2ZDQ3OGViNTBjZTY2N2JhOWVlNWRkNDI4ZmVmNzIzNGY2ZjVmZTMy`
+Snapshot ID: `MCxiNGMwYTI5NjFiYmM3YTdlMmRjODBjMDQ3ZDZiODM3MzRlYzA0Mjk4`

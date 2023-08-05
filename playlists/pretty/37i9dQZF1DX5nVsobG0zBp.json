@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 49074,
+  "num_followers": 49112,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDRlNjVkYzViMTcwNjhiN2ZjNzIzNWRmZTZiMGFlZWI0MWVkYTFm",
+  "snapshot_id": "MCxiZGEzYThkYzk2OGNkZTZlNDZmZTRhMjQ0NTJmNjdjNTgyY2Y0YTEy",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Galileu",
+        "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 182362,
+      "name": "Galileu",
+      "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Iluminado",
         "url": "https://open.spotify.com/album/5fbYIdwgZSukUtH9iZ3xeq"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 168133,
       "name": "Mi\u00fada",
       "url": "https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Galileu",
-        "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 182362,
-      "name": "Galileu",
-      "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -983,6 +983,26 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Louco",
+        "url": "https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        },
+        {
+          "name": "Bluay",
+          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Louco",
+      "url": "https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "#FFFFFF",
         "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
       },
@@ -1003,22 +1023,50 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Louco",
-        "url": "https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D"
+        "name": "Juvena",
+        "url": "https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc"
       },
       "artists": [
         {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
-        },
-        {
-          "name": "Bluay",
-          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Louco",
-      "url": "https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F"
+      "duration_ms": 159452,
+      "name": "Juvena",
+      "url": "https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "P de Pablito",
+        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "P de Pablito",
+      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Hoji N'ka ta Rola",
+        "url": "https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 236526,
+      "name": "Hoji N'ka ta Rola",
+      "url": "https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1043,54 +1091,6 @@
       "duration_ms": 254117,
       "name": "GOD MODE",
       "url": "https://open.spotify.com/track/6EUF8bqqgRbkXgYOPSrJXj"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "P de Pablito",
-        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "P de Pablito",
-      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Juvena",
-        "url": "https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 159452,
-      "name": "Juvena",
-      "url": "https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Hoji N'ka ta Rola",
-        "url": "https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 236526,
-      "name": "Hoji N'ka ta Rola",
-      "url": "https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1123,34 +1123,6 @@
       "duration_ms": 247200,
       "name": "Conto Bafiento",
       "url": "https://open.spotify.com/track/6oPbtUaYxVvQaRDwm61Sg8"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
-        "url": "https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2"
-      },
-      "artists": [
-        {
-          "name": "Mizzy Miles",
-          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
-        },
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        },
-        {
-          "name": "LON3R JOHNY",
-          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
-        },
-        {
-          "name": "9 Miller",
-          "url": "https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX"
-        }
-      ],
-      "duration_ms": 209882,
-      "name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
-      "url": "https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1215,6 +1187,34 @@
       "duration_ms": 265631,
       "name": "Hospedeira",
       "url": "https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
+        "url": "https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        },
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        },
+        {
+          "name": "9 Miller",
+          "url": "https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX"
+        }
+      ],
+      "duration_ms": 209882,
+      "name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
+      "url": "https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Conclus\u00e3o",
-        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 147820,
-      "name": "Conclus\u00e3o",
-      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6"
       },
@@ -1339,18 +1323,34 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "SACA L\u00c1",
-        "url": "https://open.spotify.com/album/2hI0hN3tuadLZ95pr8hAEC"
+        "name": "STAY FLY",
+        "url": "https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq"
       },
       "artists": [
         {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
         }
       ],
-      "duration_ms": 222009,
-      "name": "SACA L\u00c1",
-      "url": "https://open.spotify.com/track/2LtF00zFSSWzsYtoVYy28k"
+      "duration_ms": 234893,
+      "name": "STAY FLY",
+      "url": "https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Conclus\u00e3o",
+        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 147820,
+      "name": "Conclus\u00e3o",
+      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
     }
   ],
   "unique_name": "Rap Tuga Hits",

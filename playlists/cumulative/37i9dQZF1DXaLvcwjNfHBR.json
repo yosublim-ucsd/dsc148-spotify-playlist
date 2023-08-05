@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "Always Gonna Be",
+        "url": "https://open.spotify.com/album/1WI5hRCxaEOSMUtKxO5fKa"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172213,
+      "name": "Always Gonna Be",
+      "url": "https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk"
+    },
+    {
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },

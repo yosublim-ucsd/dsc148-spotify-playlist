@@ -2909,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Layin' Da Smack Down (Explicit Version)",
+        "url": "https://open.spotify.com/album/1SVEph4VG00L3vsmMeeBcC"
+      },
+      "artists": [
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "Take Da Charge",
+      "url": "https://open.spotify.com/track/2XOKoaCWziW0W14DPeY7XS"
+    },
+    {
+      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },

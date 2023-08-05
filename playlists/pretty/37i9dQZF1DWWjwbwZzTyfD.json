@@ -1,12 +1,12 @@
 {
   "description": "The official soundtrack of Nike's NYvsNY, curated by the players. We Outside!",
-  "num_followers": 10521,
+  "num_followers": 10536,
   "original_name": "NYvsNY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzA4OTdlMmVjZDgyNzNiZjA4OTQ5NWFjNGViYjhiYTNkZmMzZTFh",
+  "snapshot_id": "MCw3NzYxOTQzYjNhNGFhZDMyNWM5MGJiNWFmMjE4ZTBkNjgyMzYwNGVj",
   "tracks": [
     {
       "added_at": "2023-07-10 21:55:04",
@@ -245,6 +245,22 @@
       "url": "https://open.spotify.com/track/5fEB6ZmVkg63GZg9qO86jh"
     },
     {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Too Hard",
+        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 162053,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
+    },
+    {
       "added_at": "2023-07-10 21:55:04",
       "album": {
         "name": "BUSINESS IS BUSINESS",
@@ -263,22 +279,6 @@
       "duration_ms": 185333,
       "name": "Oh U Went (feat. Drake)",
       "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Too Hard",
-        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 162053,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -671,8 +671,8 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Good Days",
-        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 279204,
-      "name": "Good Days",
-      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
+      "duration_ms": 231253,
+      "name": "Broken Clocks",
+      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -811,8 +811,8 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 231253,
-      "name": "Broken Clocks",
-      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
+      "duration_ms": 279204,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Strike (Holster)",
-        "url": "https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 148115,
-      "name": "Strike (Holster)",
-      "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "Dreams and Nightmares (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 230693,
       "name": "Dreams and Nightmares",
       "url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Strike (Holster)",
+        "url": "https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 148115,
+      "name": "Strike (Holster)",
+      "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1193,6 +1193,22 @@
       "url": "https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I"
     },
     {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/7EXstuWka51pNFzEAidEol"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 256733,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff"
+    },
+    {
       "added_at": "2023-07-10 21:55:04",
       "album": {
         "name": "HOTEL LOBBY (Unc & Phew)",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Let Me Love You",
-        "url": "https://open.spotify.com/album/7EXstuWka51pNFzEAidEol"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 256733,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "Artist",
         "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Die Lit",
-        "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 211773,
-      "name": "Long Time - Intro",
-      "url": "https://open.spotify.com/track/4IO2X2YoXoUMv0M2rwomLC"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "For Broken Ears",
         "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 196204,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Die Lit",
+        "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 211773,
+      "name": "Long Time - Intro",
+      "url": "https://open.spotify.com/track/4IO2X2YoXoUMv0M2rwomLC"
     },
     {
       "added_at": "2023-06-27 06:48:40",

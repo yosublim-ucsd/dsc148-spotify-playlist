@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw">Kim Walker\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,323 likes - 80 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,594 likes - 80 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 33 | [Here as in Heaven](https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 8:19 |
 | 34 | [The Blessing \- Live](https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [The Blessing \(Live\)](https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE) | 8:34 |
 | 35 | [Praise You In This Storm](https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 4:57 |
-| 36 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Surrounded](https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl) | 5:00 |
-| 37 | [The Lion and the Lamb](https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 5:06 |
+| 36 | [The Lion and the Lamb](https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 5:06 |
+| 37 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Surrounded](https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl) | 5:00 |
 | 38 | [Champion \- Live](https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 8:46 |
 | 39 | [Forever \- Live](https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 6:49 |
 | 40 | [RATTLE! \(Live\)](https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 7:12 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 75 | [Just Be](https://open.spotify.com/track/65O1Ry1edYOixyVOCXXY7R) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Just Be](https://open.spotify.com/album/3HHaO3Bpaf6UEt225M55Us) | 4:33 |
 | 76 | [Lord Send Revival \- Live](https://open.spotify.com/track/2bwhBn3W0xFftyRu6mBdDZ) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 6:44 |
 | 77 | [Here's My Heart \- Live](https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:51 |
-| 78 | [The Worship Medley: Reckless Love / O Come To The Altar / Great Are You Lord \(feat\. Davies\)](https://open.spotify.com/track/0JuHPj28kzFiUerc5bz2Z6) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Davies](https://open.spotify.com/artist/3JX5OfBuVx3kqJjigmW4Jy) | [The Worship Medley: Reckless Love / O Come To The Altar / Great Are You Lord \(feat\. Davies\)](https://open.spotify.com/album/1gTdRkkxK2AnZ00MUE8YWt) | 6:46 |
-| 79 | [Your Great Name](https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Love Revolution](https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG) | 6:01 |
+| 78 | [Your Great Name](https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Love Revolution](https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG) | 6:01 |
+| 79 | [The Worship Medley: Reckless Love / O Come To The Altar / Great Are You Lord \(feat\. Davies\)](https://open.spotify.com/track/0JuHPj28kzFiUerc5bz2Z6) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Davies](https://open.spotify.com/artist/3JX5OfBuVx3kqJjigmW4Jy) | [The Worship Medley: Reckless Love / O Come To The Altar / Great Are You Lord \(feat\. Davies\)](https://open.spotify.com/album/1gTdRkkxK2AnZ00MUE8YWt) | 6:46 |
 | 80 | [Faithful God](https://open.spotify.com/track/5YcgWiIj7woRmQQMXDjQ7H) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Faithful God](https://open.spotify.com/album/3DytmYZJbUkgCtRyBtkpf7) | 3:30 |
 
-Snapshot ID: `MCxiMDJlZGE3MmMxYWE4NmU5YzVjMzgyMzI1M2QwMjlhNGY0NDI1ZjM4`
+Snapshot ID: `MCw2YzQ1NGFjMzMwYzRlMTU1MmFjNjQ5MmFjOGJiZWI0NDkxN2ZlNmE0`

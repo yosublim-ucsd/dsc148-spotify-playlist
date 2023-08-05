@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. El Fantasma en portada. ",
+  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Chacho y Su Vagancia en portada. ",
   "name": "Sierre\u00f1o 2023",
   "tracks": [
     {
@@ -262,6 +262,24 @@
       "duration_ms": 137183,
       "name": "Andamos Mejor",
       "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
+    },
+    {
+      "album": {
+        "name": "Ando Triste",
+        "url": "https://open.spotify.com/album/0QGvhNBMCUs4UKSyHUSdyW"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160108,
+      "name": "Ando Triste",
+      "url": "https://open.spotify.com/track/2NSr6ZIecxwvuLuMZIyQpm"
     },
     {
       "album": {
@@ -722,7 +740,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 213455,
       "name": "Compadre",
       "url": "https://open.spotify.com/track/0UIeDAcAJnK7cI3QB23aZh"
@@ -744,6 +762,24 @@
       "duration_ms": 284672,
       "name": "Confiar En Mi",
       "url": "https://open.spotify.com/track/3wVm1plAjtErQGzWeAsNT4"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe"
+      },
+      "artists": [
+        {
+          "name": "Los Luna",
+          "url": "https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183600,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rVlDhGNxSQApSOFM4XHYd"
     },
     {
       "album": {
@@ -954,7 +990,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 167720,
       "name": "Cuerno Mio",
       "url": "https://open.spotify.com/track/1kiwk2pQBVQNIbx7Hf3y8Z"
@@ -1244,6 +1280,24 @@
       "duration_ms": 188500,
       "name": "D\u00e9jame Ser",
       "url": "https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jenla Que Sea Feliz",
+        "url": "https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3"
+      },
+      "artists": [
+        {
+          "name": "Chacho Y Su Vagancia",
+          "url": "https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175677,
+      "name": "D\u00e9jenla Que Sea Feliz",
+      "url": "https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH"
     },
     {
       "album": {
@@ -1962,7 +2016,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 130375,
       "name": "Era El \u00danico",
       "url": "https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX"
@@ -2581,6 +2635,24 @@
     },
     {
       "album": {
+        "name": "La Joya",
+        "url": "https://open.spotify.com/album/2dORJIqrbsOWUpVVf09aRM"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172329,
+      "name": "La Joya",
+      "url": "https://open.spotify.com/track/5KyAyaQLzwXXJs0vSTtdI1"
+    },
+    {
+      "album": {
         "name": "La Lista",
         "url": "https://open.spotify.com/album/2W91Gs7qvH1yODKt8Hm7QH"
       },
@@ -2800,7 +2872,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 263111,
       "name": "Lo Eminente",
       "url": "https://open.spotify.com/track/4eQAmN30bn85qpIPMoiQP2"
@@ -3032,7 +3104,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 187324,
       "name": "Medias Negras",
       "url": "https://open.spotify.com/track/36aWKc0gB1dt2bh9YLlUD6"
@@ -3180,7 +3252,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 172250,
       "name": "Mira Jodidon",
       "url": "https://open.spotify.com/track/7b5Qcwa49HRUW3AvX3v781"
@@ -3202,7 +3274,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 174626,
       "name": "M\u00eda Un A\u00f1o",
       "url": "https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey"
@@ -3684,7 +3756,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 126538,
       "name": "Por Si Te Lo Preguntas",
       "url": "https://open.spotify.com/track/1VEQ2EDfVO6fMcAzhI42D7"
@@ -3786,6 +3858,24 @@
       "duration_ms": 153679,
       "name": "Puro Pa' Delante",
       "url": "https://open.spotify.com/track/0ARXyftIAFj6BPJCDDEac8"
+    },
+    {
+      "album": {
+        "name": "Que Le Vamos A Hacer",
+        "url": "https://open.spotify.com/album/70Ma9THR2zNcpYW7pLyaLa"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203251,
+      "name": "Que Le Vamos A Hacer",
+      "url": "https://open.spotify.com/track/7lgZKUOlZ0OkKgxQK8SAEJ"
     },
     {
       "album": {
@@ -4010,7 +4100,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 235858,
       "name": "Se Amerita",
       "url": "https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt"
@@ -4212,7 +4302,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 187440,
       "name": "Si Tu Te Fueras De Mi",
       "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
@@ -4342,7 +4432,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 185354,
       "name": "Somos Gente Del Sombrero - En Vivo",
       "url": "https://open.spotify.com/track/48nvLEfnH12HM49DL4UhpO"
@@ -4541,6 +4631,28 @@
     },
     {
       "album": {
+        "name": "Parque de Diversiones",
+        "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209358,
+      "name": "Te Lo Dije",
+      "url": "https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY"
+    },
+    {
+      "album": {
         "name": "Te Mereces A Mi",
         "url": "https://open.spotify.com/album/6ipurHHwRzradhwlT4JFZN"
       },
@@ -4556,6 +4668,24 @@
       "duration_ms": 140354,
       "name": "Te Mereces A Mi",
       "url": "https://open.spotify.com/track/5UFmU41FARfLkGGi4u7mQq"
+    },
+    {
+      "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/7z3mXFNMoA1GKKtDaPmIQb"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez",
+          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156061,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/2WXuY0GXFDwui1mfh9h1BY"
     },
     {
       "album": {

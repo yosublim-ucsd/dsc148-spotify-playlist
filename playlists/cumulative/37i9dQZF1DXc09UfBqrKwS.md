@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-246 songs - 12 hr 3 min
+247 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Relaksohuni](https://open.spotify.com/track/2iXFZRMJCWCkLd8hrm8GmO) | [Qetesia](https://open.spotify.com/artist/1E7RDm6USh7HGKtdVF9TZM) | [Relaksohuni](https://open.spotify.com/album/0067doxs6tNJaqwtweBdrQ) | 3:02 | 2023-03-31 |  |
 | [Release U](https://open.spotify.com/track/23RCTNUpMvJoBpnWUizG3y) | [Jamie Soner](https://open.spotify.com/artist/1bdlQnsdKWva2CelmDntCB) | [Release U](https://open.spotify.com/album/4TdzdTQDRB9NQs3OYgDPaq) | 3:14 | 2023-03-31 |  |
 | [Resolutions](https://open.spotify.com/track/4ovVCv4X9VZfT79f79c0XN) | [Bevan Holcomb](https://open.spotify.com/artist/4c2v7qErEBJfzjDs2UXStG) | [Resolutions](https://open.spotify.com/album/4aHmDEtV3YWFakmdD2LMow) | 3:08 | 2023-03-31 |  |
+| [Rest And Sleep](https://open.spotify.com/track/1dP2Rd9ViYTNv3yVO2KEY1) | [Youssouf Yaro](https://open.spotify.com/artist/7pFjwqCdPUodEXf6mfoM7g) | [Rest And Sleep](https://open.spotify.com/album/0DTIAeAIV5iLToCDdrdsyG) | 3:23 | 2023-08-04 |  |
 | [Ridges](https://open.spotify.com/track/6Q3WHEYkQ54apZl6WoFyQu) | [Jon Laer](https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW) | [Ridges](https://open.spotify.com/album/5QPmwgdpIy1rjFGazOFDpC) | 3:45 | 2023-03-31 |  |
 | [Rituals](https://open.spotify.com/track/6ijjVhsdUDrHWTkciKq0nD) | [Lorelle Paredes](https://open.spotify.com/artist/6ivO0lqiz77mOwRgh9UNev) | [Rituals](https://open.spotify.com/album/54PzqjmnzQhv0ylYYUSA6A) | 2:24 | 2023-03-31 |  |
 | [Samadhi](https://open.spotify.com/track/4kcGn4dAtnspFcNtuSm0Or) | [Isah Atkins](https://open.spotify.com/artist/6Cus1UHddFX9FPj4CoBEK4) | [Samadhi](https://open.spotify.com/album/7phmahFTX46shF30MD8sn6) | 3:24 | 2023-03-31 |  |

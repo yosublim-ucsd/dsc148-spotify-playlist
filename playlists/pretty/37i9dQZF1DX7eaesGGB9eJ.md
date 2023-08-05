@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,964 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,124 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 25 | [Cómo, Cuándo Y Dónde](https://open.spotify.com/track/11eACiyPuD3biN1BkR3KXx) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [KOMP 104.9 Radio Compa](https://open.spotify.com/album/0XTuj69Q39D7KPKbH69ceD) | 4:18 |
 | 26 | [Mextasis](https://open.spotify.com/track/7hUGy5dnyRVXzHOv9LoZB9) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Morroeste](https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe) | 3:16 |
 | 27 | [Solo Como Amigos](https://open.spotify.com/track/0LC8PbKuTyhCpsrdLtL3jz) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Luces Fantasma](https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj) | 4:33 |
-| 28 | [Pues Que Pues](https://open.spotify.com/track/4pWMXmEgwEMBoBMyw8BCG4) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 4:56 |
+| 28 | [Sirve Mi Café Temprano](https://open.spotify.com/track/7j4P6of6eyZDe49HUYSU2h) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Sirve Mi Café Temprano](https://open.spotify.com/album/0I7niYRGKf1mfAjVdrkogE) | 3:59 |
 | 29 | [La Pelotona](https://open.spotify.com/track/3msi3GShzgiIAuCrbx2XNj) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Cartel De Santa](https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa) | 3:41 |
-| 30 | [Sirve Mi Café Temprano](https://open.spotify.com/track/7j4P6of6eyZDe49HUYSU2h) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Sirve Mi Café Temprano](https://open.spotify.com/album/0I7niYRGKf1mfAjVdrkogE) | 3:59 |
+| 30 | [Pues Que Pues](https://open.spotify.com/track/4pWMXmEgwEMBoBMyw8BCG4) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 4:56 |
 | 31 | [Mañanero](https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [High Con Class XIII](https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh) | 3:29 |
 | 32 | [Siempre Peligroso \(feat\. Fermin IV Caballero\)](https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Fermin IV Caballero](https://open.spotify.com/artist/2ADe1weFY6flwz9LoSDcy3) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 3:57 |
 | 33 | [Ni Muy Muy Ni Tan Tan](https://open.spotify.com/track/0IQ0mB0s9OB1opgTEniuf2) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Nosotros Somos la Under Side Karnal](https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL) | 5:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 49 | [Bómboro](https://open.spotify.com/track/2xvaPbaFiZO4nhkVWJKGva) | [Kartel Aztlán](https://open.spotify.com/artist/249NypbZvEmdeVoeF6TQ45) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:45 |
 | 50 | [Tú](https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr) | [Frenesi](https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td) | 7:32 |
 
-Snapshot ID: `MCwyODRhYzJkMmRmNTA5NTUxZDhmMDI4NmNlMWVhNGQwMTM4YTllNjFj`
+Snapshot ID: `MCwyNTFiYTFlODJlNDhlNzA1MTEwZTc5YTc1NjlkZjFjYjVjOThjZGE4`

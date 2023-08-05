@@ -6441,6 +6441,32 @@
     },
     {
       "album": {
+        "name": "Repatriarme",
+        "url": "https://open.spotify.com/album/7wT4xq4YjTPNanajHpbxJY"
+      },
+      "artists": [
+        {
+          "name": "Mariana Michi",
+          "url": "https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR"
+        },
+        {
+          "name": "Ezequiel Kronenberg",
+          "url": "https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx"
+        },
+        {
+          "name": "Nicolas Btesh",
+          "url": "https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248791,
+      "name": "Repatriarme",
+      "url": "https://open.spotify.com/track/31HBKlN8njiPCtcdzPykvv"
+    },
+    {
+      "album": {
         "name": "Respiro (Cap. 8)",
         "url": "https://open.spotify.com/album/0nbH40OtNF4gU2Ilxn5BCo"
       },
@@ -7340,7 +7366,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 250790,
       "name": "Te Dej\u00e9 una Carta",
       "url": "https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC"

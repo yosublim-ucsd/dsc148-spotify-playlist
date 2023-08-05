@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "Canci\u00f3n Para Olvidarte",
+        "url": "https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164120,
+      "name": "Canci\u00f3n Para Olvidarte",
+      "url": "https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ"
+    },
+    {
+      "album": {
         "name": "Casi Algo (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d"
       },
@@ -314,10 +332,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 169750,
       "name": "Decide Qu\u00e9 Somos",
       "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
+    },
+    {
+      "album": {
+        "name": "Dej\u00e9moslo As\u00ed",
+        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209026,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
     },
     {
       "album": {
@@ -383,6 +419,28 @@
     },
     {
       "album": {
+        "name": "El Cielo A\u00fan Espera",
+        "url": "https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233200,
+      "name": "El Cielo A\u00fan Espera",
+      "url": "https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881"
+    },
+    {
+      "album": {
         "name": "El Mejor Regalo",
         "url": "https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd"
       },
@@ -438,6 +496,24 @@
       "duration_ms": 166920,
       "name": "En Este Amor",
       "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
+    },
+    {
+      "album": {
+        "name": "Pa' Olvidar",
+        "url": "https://open.spotify.com/album/3N7u4XnJEIkr0Os15iYdj0"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165756,
+      "name": "En Mis Zapatos",
+      "url": "https://open.spotify.com/track/0qyuualuo4GnERGgnBlxr3"
     },
     {
       "album": {
@@ -499,6 +575,24 @@
     },
     {
       "album": {
+        "name": "Este Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227605,
+      "name": "Este Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr"
+    },
+    {
+      "album": {
         "name": "Por El Amor De Siempre",
         "url": "https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC"
       },
@@ -514,6 +608,24 @@
       "duration_ms": 206558,
       "name": "Este Terco Coraz\u00f3n",
       "url": "https://open.spotify.com/track/165FBpcm7ng4HPBiGg806H"
+    },
+    {
+      "album": {
+        "name": "Fue Tan Poco Tu Cari\u00f1o",
+        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "Fue Tan Poco Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
     },
     {
       "album": {
@@ -554,6 +666,42 @@
       "duration_ms": 270943,
       "name": "Hasta Que Llegue el Alba",
       "url": "https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7"
+    },
+    {
+      "album": {
+        "name": "Ingrato Amor",
+        "url": "https://open.spotify.com/album/7tpjidgce03vk1qwyMxj1K"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201160,
+      "name": "Ingrato Amor",
+      "url": "https://open.spotify.com/track/4zbDfTl8QfmMR1wfPdCmE9"
+    },
+    {
+      "album": {
+        "name": "Forajido EP2",
+        "url": "https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210688,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/294ae9GSeG6nYVFlCOljJz"
     },
     {
       "album": {
@@ -739,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Me Cuesta Tanto Olvidarte",
+        "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173546,
+      "name": "Me Cuesta Tanto Olvidarte",
+      "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
+    },
+    {
+      "album": {
         "name": "Me Extra\u00f1o",
         "url": "https://open.spotify.com/album/0fuHe4cJQ677flvGr2QLN1"
       },
@@ -780,6 +946,46 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
+    },
+    {
+      "album": {
+        "name": "Me Vale Madre",
+        "url": "https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "Me Vale Madre",
+      "url": "https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H"
+    },
+    {
+      "album": {
+        "name": "Mejor As\u00ed",
+        "url": "https://open.spotify.com/album/0fa1WYDpSKEHiCj3YTtsDq"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168074,
+      "name": "Mejor As\u00ed",
+      "url": "https://open.spotify.com/track/0lmmvf2eUzkjNlDWctEibC"
     },
     {
       "album": {
@@ -881,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "No Es Que Me Quiera Ir",
+        "url": "https://open.spotify.com/album/0cIyRV5u303lYQM2QWUsIl"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244720,
+      "name": "No Es Que Me Quiera Ir",
+      "url": "https://open.spotify.com/track/6D0BBt7Rr25q0iAAafdCq3"
+    },
+    {
+      "album": {
         "name": "Al Fin Te Encontr\u00e9",
         "url": "https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6"
       },
@@ -957,6 +1181,28 @@
     },
     {
       "album": {
+        "name": "Pacto De Olvido",
+        "url": "https://open.spotify.com/album/0Tc3dJ7HiRhqA23Sv5So8w"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        },
+        {
+          "name": "Fanny Lu",
+          "url": "https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156620,
+      "name": "Pacto De Olvido",
+      "url": "https://open.spotify.com/track/6CJY3LwNJ4zgBtR6hRcs7B"
+    },
+    {
+      "album": {
         "name": "Buscando el Olvido",
         "url": "https://open.spotify.com/album/4UFscI9bYCYgaPdDojIZkh"
       },
@@ -972,6 +1218,42 @@
       "duration_ms": 147093,
       "name": "Peca de Bonita",
       "url": "https://open.spotify.com/track/07RH0vbLICqwO1GrXTWl6e"
+    },
+    {
+      "album": {
+        "name": "...Y Lleg\u00f3 Para Quedarse",
+        "url": "https://open.spotify.com/album/1CYA2MjGmAUvoNG5rUMYxf"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187133,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4Tq20RgZQXRAqekScOU4I7"
+    },
+    {
+      "album": {
+        "name": "Piensa en M\u00ed",
+        "url": "https://open.spotify.com/album/41oLeM3NG2XwKrPMzB0GTG"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/79KPSHPdl3HEsYqO8LCLvo"
     },
     {
       "album": {
@@ -1059,6 +1341,46 @@
     },
     {
       "album": {
+        "name": "Prohibido Llorar",
+        "url": "https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253733,
+      "name": "Prohibido Llorar",
+      "url": "https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY"
+    },
+    {
+      "album": {
+        "name": "Javier Camarena - La Voz de M\u00e9xico",
+        "url": "https://open.spotify.com/album/0XGgZddNyq7ueKObEBKpdg"
+      },
+      "artists": [
+        {
+          "name": "Javier Camarena",
+          "url": "https://open.spotify.com/artist/13rDolPZ1xlUWBQWxl8cED"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191531,
+      "name": "Que Seas Feliz (feat. Lila Downs)",
+      "url": "https://open.spotify.com/track/6rbIrFizEB9kIdMJYx3tXH"
+    },
+    {
+      "album": {
         "name": "Mexicano Hasta Las Pampas",
         "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
       },
@@ -1096,6 +1418,50 @@
       "duration_ms": 152923,
       "name": "Qu\u00e9 Agon\u00eda",
       "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Agon\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188206,
+      "name": "Qu\u00e9 Agon\u00eda - Remix",
+      "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
+    },
+    {
+      "album": {
+        "name": "Qu\u00edtame ese Hombre",
+        "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196874,
+      "name": "Qu\u00edtame Ese Hombre",
+      "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
     },
     {
       "album": {
@@ -1158,6 +1524,28 @@
       "duration_ms": 176200,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/3iFlXPKEoIKgQJtryXvL28"
+    },
+    {
+      "album": {
+        "name": "Si No Es Muy Tarde (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/4NZmU0T1ixQM0xgh3mI0x8"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241466,
+      "name": "Si No Es Muy Tarde - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/2VmXYSPm82hQ0xotthshnU"
     },
     {
       "album": {
@@ -1259,6 +1647,46 @@
     },
     {
       "album": {
+        "name": "Te Lo Agradezco",
+        "url": "https://open.spotify.com/album/4b54nXTn2X4aRFgUnCaMGE"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183667,
+      "name": "Te Lo Agradezco",
+      "url": "https://open.spotify.com/track/0NnbCdowqhKtgtNEQ9oeBX"
+    },
+    {
+      "album": {
+        "name": "Todo Todo",
+        "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194066,
+      "name": "Todo Todo",
+      "url": "https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg"
+    },
+    {
+      "album": {
         "name": "Tu Maniqu\u00ed",
         "url": "https://open.spotify.com/album/7HkqbCqtwAFIbtgFyeIpRi"
       },
@@ -1343,6 +1771,46 @@
     },
     {
       "album": {
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
+    },
+    {
+      "album": {
+        "name": "Vivir Sin Ti ( Version Acustica )",
+        "url": "https://open.spotify.com/album/4cupD82naLrPTfwr14oMPq"
+      },
+      "artists": [
+        {
+          "name": "Ana Emilia",
+          "url": "https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172813,
+      "name": "Vivir Sin Ti ( Version Acustica )",
+      "url": "https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf"
+    },
+    {
+      "album": {
         "name": "Vivo en el 6",
         "url": "https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz"
       },
@@ -1376,6 +1844,24 @@
       "duration_ms": 174157,
       "name": "Voy A Conquistarte",
       "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
+    },
+    {
+      "album": {
+        "name": "Yo No Creo En Los Hombres",
+        "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215893,
+      "name": "Yo No Creo En Los Hombres",
+      "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
     },
     {
       "album": {
@@ -1456,6 +1942,24 @@
       "duration_ms": 185038,
       "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+    },
+    {
+      "album": {
+        "name": "\u00c9chame A M\u00ed La Culpa",
+        "url": "https://open.spotify.com/album/1UzNlPl5CuIzvLqZ9Suv50"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193826,
+      "name": "\u00c9chame A M\u00ed La Culpa",
+      "url": "https://open.spotify.com/track/4aWbiCasnpmIRn4LsQVKSD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWT1J5CAuMUxr"

@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 104271,
+  "num_followers": 104798,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDNjOTY5ZTU4YzA4OGEyNGIwNDY3MGY0Y2JjNDM1OGM5NjU4YTU0",
+  "snapshot_id": "MCxmYjgzYjdlMzQxMGQ5ZTFiYjhiYjdhODc5YmNiYmRiYTVkY2VmOTQ5",
   "tracks": [
     {
       "added_at": "2023-07-12 16:22:38",
@@ -213,26 +213,6 @@
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
     },
     {
-      "added_at": "2023-07-12 16:22:38",
-      "album": {
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "Space Cadet (feat. Gunna)",
-      "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
-    },
-    {
       "added_at": "2023-07-19 14:27:54",
       "album": {
         "name": "Sequ\u00eancia da Dz7",
@@ -251,6 +231,26 @@
       "duration_ms": 119184,
       "name": "Sequ\u00eancia da Dz7",
       "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
+    },
+    {
+      "added_at": "2023-07-12 16:22:38",
+      "album": {
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "Space Cadet (feat. Gunna)",
+      "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
     },
     {
       "added_at": "2023-07-12 16:22:38",
@@ -381,6 +381,26 @@
       "url": "https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7"
     },
     {
+      "added_at": "2023-08-04 16:00:42",
+      "album": {
+        "name": "GMFU (w/ 6arelyhuman)",
+        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 127741,
+      "name": "GMFU (w/ 6arelyhuman)",
+      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
+    },
+    {
       "added_at": "2023-07-12 16:22:38",
       "album": {
         "name": "NEON BLADE",
@@ -431,22 +451,6 @@
     {
       "added_at": "2023-07-12 16:22:38",
       "album": {
-        "name": "Sahara",
-        "url": "https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa"
-      },
-      "artists": [
-        {
-          "name": "Hensonn",
-          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
-        }
-      ],
-      "duration_ms": 171384,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
-    },
-    {
-      "added_at": "2023-07-12 16:22:38",
-      "album": {
         "name": "Scopin",
         "url": "https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1"
       },
@@ -459,6 +463,22 @@
       "duration_ms": 101632,
       "name": "Scopin",
       "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
+    },
+    {
+      "added_at": "2023-07-12 16:22:38",
+      "album": {
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa"
+      },
+      "artists": [
+        {
+          "name": "Hensonn",
+          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
+        }
+      ],
+      "duration_ms": 171384,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
     },
     {
       "added_at": "2023-07-12 16:22:38",
@@ -531,22 +551,6 @@
     {
       "added_at": "2023-07-12 16:22:38",
       "album": {
-        "name": "AVOID ME",
-        "url": "https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ"
-      },
-      "artists": [
-        {
-          "name": "KUTE",
-          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
-        }
-      ],
-      "duration_ms": 105789,
-      "name": "AVOID ME",
-      "url": "https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65"
-    },
-    {
-      "added_at": "2023-07-12 16:22:38",
-      "album": {
         "name": "The Search",
         "url": "https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv"
       },
@@ -587,18 +591,18 @@
     {
       "added_at": "2023-07-12 16:22:38",
       "album": {
-        "name": "Rotten",
-        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
+        "name": "AVOID ME",
+        "url": "https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ"
       },
       "artists": [
         {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+          "name": "KUTE",
+          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
         }
       ],
-      "duration_ms": 139440,
-      "name": "HDMI",
-      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
+      "duration_ms": 105789,
+      "name": "AVOID ME",
+      "url": "https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65"
     },
     {
       "added_at": "2023-07-25 15:20:22",
@@ -623,6 +627,22 @@
       "duration_ms": 136062,
       "name": "MTG - PISTA TOMA",
       "url": "https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W"
+    },
+    {
+      "added_at": "2023-07-12 16:22:38",
+      "album": {
+        "name": "Rotten",
+        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 139440,
+      "name": "HDMI",
+      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
     },
     {
       "added_at": "2023-07-12 16:22:38",
@@ -691,22 +711,6 @@
       "duration_ms": 166400,
       "name": "Nuketown (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9"
-    },
-    {
-      "added_at": "2023-07-12 16:22:38",
-      "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x"
-      },
-      "artists": [
-        {
-          "name": "GRAVECHILL",
-          "url": "https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt"
-        }
-      ],
-      "duration_ms": 116129,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI"
     }
   ],
   "unique_name": "gymcore",

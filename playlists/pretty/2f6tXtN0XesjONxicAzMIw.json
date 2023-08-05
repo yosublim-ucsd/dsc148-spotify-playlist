@@ -1,13 +1,29 @@
 {
   "description": "The best of 2000s Y2K nostalgia, from Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.",
-  "num_followers": 1610024,
+  "num_followers": 1609977,
   "original_name": "2000s HITS THROWBACKS | TOP 100 SONGS",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "MTcwMCwxM2U4MGY5NjE0NzJkMDJhY2NhZGYwNDVmNWY3MDg1YzM4MzIyOTZh",
+  "snapshot_id": "MTcwMyxhYjRmZGY0NTg1YzM5ZDhkZTk3YjQzM2UxYmVkMGQwNDdkZWFkNGIy",
   "tracks": [
+    {
+      "added_at": "2023-07-27 21:31:19",
+      "album": {
+        "name": "B'Day Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 227853,
+      "name": "Irreplaceable",
+      "url": "https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r"
+    },
     {
       "added_at": "2023-07-27 21:31:19",
       "album": {
@@ -459,6 +475,22 @@
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
+    },
+    {
+      "added_at": "2023-08-04 21:31:37",
+      "album": {
+        "name": "Layin' Da Smack Down (Explicit Version)",
+        "url": "https://open.spotify.com/album/1SVEph4VG00L3vsmMeeBcC"
+      },
+      "artists": [
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "Take Da Charge",
+      "url": "https://open.spotify.com/track/2XOKoaCWziW0W14DPeY7XS"
     },
     {
       "added_at": "2023-07-27 21:31:19",
@@ -935,22 +967,6 @@
       "duration_ms": 255626,
       "name": "Best of You",
       "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
-    },
-    {
-      "added_at": "2023-07-27 21:31:19",
-      "album": {
-        "name": "B'Day Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 227853,
-      "name": "Irreplaceable",
-      "url": "https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r"
     },
     {
       "added_at": "2023-07-27 21:31:19",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Sevendust",
+  "description": "The hardest songs, loud. Very loud. Cover: Mammoth WVH",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -666,10 +666,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 275827,
       "name": "Another Celebration at the End of the World",
       "url": "https://open.spotify.com/track/4k6NV1b3icM8BRCkT57oPV"
+    },
+    {
+      "album": {
+        "name": "Mammoth II",
+        "url": "https://open.spotify.com/album/2ZVBJR0iHqyTLV15RlPdTf"
+      },
+      "artists": [
+        {
+          "name": "Mammoth WVH",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275827,
+      "name": "Another Celebration at the End of the World",
+      "url": "https://open.spotify.com/track/6uHr9t7Ct5cDVJboGKgmzv"
     },
     {
       "album": {
@@ -774,7 +792,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 175047,
       "name": "Anything",
       "url": "https://open.spotify.com/track/0C3zqvrC2ynrWGfcHwIalL"
@@ -886,7 +904,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 232320,
       "name": "Baby What You Do",
       "url": "https://open.spotify.com/track/4TXGCfMrLa40VigIgJOywg"
@@ -1102,7 +1120,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 214880,
       "name": "BANSHEE",
       "url": "https://open.spotify.com/track/6pdntQc8sbazCWErk3AKz1"
@@ -2206,6 +2224,24 @@
       "duration_ms": 284266,
       "name": "Call Me Little Sunshine",
       "url": "https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70"
+    },
+    {
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/4nul0YLXFkkHO4O2PnFnot"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/7sTW2t8GBkzgA90BXnB79K"
     },
     {
       "album": {
@@ -3654,6 +3690,24 @@
       "duration_ms": 250274,
       "name": "Degradation Rules (feat. Tony Iommi)",
       "url": "https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW"
+    },
+    {
+      "album": {
+        "name": "Degrade Me",
+        "url": "https://open.spotify.com/album/6hCo1w2KpEbJaFpZGFlprK"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180624,
+      "name": "Degrade Me",
+      "url": "https://open.spotify.com/track/4Prj9fsFBVEGEpokBWz6nI"
     },
     {
       "album": {
@@ -5589,6 +5643,24 @@
     },
     {
       "album": {
+        "name": "Generation Psycho",
+        "url": "https://open.spotify.com/album/6env54gj95TlpdQEMDXRKk"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229978,
+      "name": "Generation Psycho",
+      "url": "https://open.spotify.com/track/77UBXLVoE90TpVmUKsgjGx"
+    },
+    {
+      "album": {
         "name": "Ghosted",
         "url": "https://open.spotify.com/album/5R0BZ1kvWdyIgprKpPgeAf"
       },
@@ -6148,7 +6220,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 178773,
       "name": "Halo",
       "url": "https://open.spotify.com/track/7aCv75B0ySvqGBVkfBuT6G"
@@ -6228,6 +6300,28 @@
       "duration_ms": 487559,
       "name": "Harridan",
       "url": "https://open.spotify.com/track/2ixHZTXZwFkPGauOYTLQrW"
+    },
+    {
+      "album": {
+        "name": "Hate Me (feat. Loveless)",
+        "url": "https://open.spotify.com/album/77saHZy6WPP1JjEVPr4e74"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        },
+        {
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221200,
+      "name": "Hate Me (feat. Loveless)",
+      "url": "https://open.spotify.com/track/70RYhIYRYeL1YNJcAIBjjm"
     },
     {
       "album": {
@@ -7266,6 +7360,24 @@
       "duration_ms": 201185,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/6BYZGyIwoHBy8i4zcS2ABM"
+    },
+    {
+      "album": {
+        "name": "Invisible Hand",
+        "url": "https://open.spotify.com/album/0tdKFj9MZ2g1oPb2VoEepz"
+      },
+      "artists": [
+        {
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234134,
+      "name": "Invisible Hand",
+      "url": "https://open.spotify.com/track/5BblwbftnIDV0Je620kSKs"
     },
     {
       "album": {
@@ -8804,7 +8916,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 228947,
       "name": "Maleficent",
       "url": "https://open.spotify.com/track/4csHSnOIjNti7fEbvOwF0W"
@@ -10380,7 +10492,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 245266,
       "name": "Outsider",
       "url": "https://open.spotify.com/track/0IM9DQkmVjiRr0RpdUXIEo"
@@ -11004,7 +11116,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 197000,
       "name": "Poison Pill",
       "url": "https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM"
@@ -11748,6 +11860,24 @@
       "duration_ms": 244395,
       "name": "Sacred Kiss",
       "url": "https://open.spotify.com/track/3zRZjDl3t6kwKzK9lKdo5N"
+    },
+    {
+      "album": {
+        "name": "Sad Weather Kids",
+        "url": "https://open.spotify.com/album/7fv3QtWfx54JtvZzyddyes"
+      },
+      "artists": [
+        {
+          "name": "Lonely Spring",
+          "url": "https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155646,
+      "name": "Sad Weather Kids",
+      "url": "https://open.spotify.com/track/5NIXjeTRJmdGFixIwCe8p9"
     },
     {
       "album": {
@@ -15156,6 +15286,28 @@
       "duration_ms": 187823,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/294Abb02j2OpQSHFRGNPSc"
+    },
+    {
+      "album": {
+        "name": "Unstoppable (feat. Cory Marks)",
+        "url": "https://open.spotify.com/album/6cAguc6Xmqh9KmaLiTiFRp"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        },
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186462,
+      "name": "Unstoppable (feat. Cory Marks)",
+      "url": "https://open.spotify.com/track/3MWCJZybLRQ0skDYnSP1Ze"
     },
     {
       "album": {

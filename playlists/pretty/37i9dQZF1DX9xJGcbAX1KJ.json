@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 15029,
+  "num_followers": 15061,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWY1ODNkMWJkYzE4NWY2ZmJmNjA3MzU3MmEwOTZkNTM1NTllMmVi",
+  "snapshot_id": "MCxjMjFlNzVlZTlkMjc5Yzg4Y2I4ZGU4MDFjNmRiNDI4N2IwMzMzZjRi",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -75,22 +75,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "All Apologies",
-      "url": "https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Crazy Rich Asians (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 201933,
       "name": "Can't Help Falling In Love",
       "url": "https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "All Apologies",
+      "url": "https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -419,26 +419,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "As Long as You Love Me",
-        "url": "https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1"
-      },
-      "artists": [
-        {
-          "name": "Erato",
-          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
-        },
-        {
-          "name": "Charlotte Almgren",
-          "url": "https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua"
-        }
-      ],
-      "duration_ms": 151618,
-      "name": "As Long as You Love Me",
-      "url": "https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Little Talks",
         "url": "https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 219760,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "As Long as You Love Me",
+        "url": "https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1"
+      },
+      "artists": [
+        {
+          "name": "Erato",
+          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
+        },
+        {
+          "name": "Charlotte Almgren",
+          "url": "https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua"
+        }
+      ],
+      "duration_ms": 151618,
+      "name": "As Long as You Love Me",
+      "url": "https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -495,22 +495,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Pink Strat",
-        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 155240,
-      "name": "Whole Wide World",
-      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "If I Was (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 248280,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Pink Strat",
+        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 155240,
+      "name": "Whole Wide World",
+      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -779,22 +779,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Cover Sessions, Vol. 3",
-        "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
-      },
-      "artists": [
-        {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        }
-      ],
-      "duration_ms": 227562,
-      "name": "Titanium",
-      "url": "https://open.spotify.com/track/0knwYd0kPonZMwaNWLLudK"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/0v1JwHkMxT27evapwgUcvp"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 172919,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/7fBRH08A6Fu47GMyFamyoO"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Cover Sessions, Vol. 3",
+        "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        }
+      ],
+      "duration_ms": 227562,
+      "name": "Titanium",
+      "url": "https://open.spotify.com/track/0knwYd0kPonZMwaNWLLudK"
     },
     {
       "added_at": "2019-02-22 20:19:46",

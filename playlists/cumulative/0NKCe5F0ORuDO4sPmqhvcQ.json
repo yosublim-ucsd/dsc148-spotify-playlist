@@ -2187,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "Doin' Fine",
+        "url": "https://open.spotify.com/album/5nFIBGaI1Hx9U25UIQ0UF3"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207123,
+      "name": "Doin' Fine",
+      "url": "https://open.spotify.com/track/21IEP05e11FUtTHgi1azuj"
+    },
+    {
+      "album": {
         "name": "Don't Break His Heart",
         "url": "https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0"
       },
@@ -2220,6 +2238,28 @@
       "duration_ms": 207956,
       "name": "Don't Kick Me",
       "url": "https://open.spotify.com/track/2zJFeCI8KtP0Olwf3W3w8R"
+    },
+    {
+      "album": {
+        "name": "Don't Look Down (feat. BANKS)",
+        "url": "https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205423,
+      "name": "Don't Look Down (feat. BANKS)",
+      "url": "https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu"
     },
     {
       "album": {
@@ -6068,6 +6108,24 @@
       "duration_ms": 154237,
       "name": "Nothing On Me",
       "url": "https://open.spotify.com/track/2xVQdYjh1Lul8dHAlas6W2"
+    },
+    {
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/31gMxpu8lSWdIBayKt5ED3"
     },
     {
       "album": {

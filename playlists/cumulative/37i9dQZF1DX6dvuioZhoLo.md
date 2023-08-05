@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Sierra Ferrell
 
-210 songs - 12 hr 24 min
+211 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Spud Infinity](https://open.spotify.com/track/6w8XLI2OnMRxwYi5SX5YGZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [No Reason / Spud Infinity](https://open.spotify.com/album/13lNwYutq39VEtYK5nJ617) | 5:34 | 2022-01-04 | 2022-07-29 |
 | [Still Miss the Way](https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 3:09 | 2021-11-12 |  |
 | [Stone Me](https://open.spotify.com/track/41G13b0SToDtz6rIENwswT) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:09 | 2021-11-12 |  |
-| [Table for One](https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Honest Life](https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se) | 3:59 | 2021-11-12 |  |
+| [Table for One](https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Honest Life](https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se) | 3:59 | 2021-11-12 | 2023-08-05 |
 | [Take You Back \(The Iron Hoof Cattle Call\)](https://open.spotify.com/track/4rt5TvPSn69Y50Dmzjt4qW) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/7Jn1h8E5aT96pdyrPxrLWi) | 3:27 | 2021-11-12 | 2022-07-29 |
 | [Take You Back \(The Iron Hoof Cattle Call\)](https://open.spotify.com/track/6F6bUsLOJMoaTUky7LftrP) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:27 | 2022-04-01 |  |
 | [Tehachapi](https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:07 | 2021-11-12 |  |
@@ -191,6 +191,7 @@
 | [The Story](https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Cover Stories: Brandi Carlile Celebrates 10 Years of the Story \(An Album to Benefit War Child\)](https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7) | 4:17 | 2022-04-01 |  |
 | [The Story](https://open.spotify.com/track/1XYD3qY6OrSvTcsAas6vWT) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Story](https://open.spotify.com/album/0DK5IHPN9VNzADJ0vgf9BK) | 4:17 | 2021-11-12 | 2022-07-29 |
 | [The Sweetest Tune](https://open.spotify.com/track/5XzOc450ipHJN7R5Xaxwyg) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/2xvl46LPQ9xmyj6Z2M9FB9) | 3:39 | 2022-04-01 | 2022-06-17 |
+| [This Masquerade](https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [This Masquerade](https://open.spotify.com/album/1otvDymvVShCQLgSWp869e) | 3:12 | 2023-08-04 |  |
 | [Tides](https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6) | [Gold Child](https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc) | [Tides](https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4) | 3:40 | 2021-11-12 | 2022-07-29 |
 | [To Learn Her](https://open.spotify.com/track/3l78vP424XB904B5MMmEdN) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:47 | 2022-04-01 |  |
 | [Today I Started Loving You Again](https://open.spotify.com/track/0SUeDxIX7QXvA9uVkkYYWs) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x), [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR) | [Today I Started Loving You Again](https://open.spotify.com/album/6Q2DffHqnmTRIOW51TgQpP) | 2:36 | 2022-04-01 | 2023-04-29 |

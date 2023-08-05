@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 
 > This is Hayley Kiyoko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,234 likes - 42 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,237 likes - 42 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf) | 2:32 |
 | 2 | [Greenlight](https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Greenlight](https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy) | 2:53 |
-| 3 | [Girls Like Girls](https://open.spotify.com/track/3dNjUFt6EFU4Gq6Q5vfJqf) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise \- EP](https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD) | 3:49 |
+| 3 | [Girls Like Girls](https://open.spotify.com/track/3dNjUFt6EFU4Gq6Q5vfJqf) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise](https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD) | 3:49 |
 | 4 | [for the girls](https://open.spotify.com/track/3KsjKXNeNMQ56baZH0RFq0) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:37 |
 | 5 | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu) | 3:02 |
 | 6 | [What I Need \(feat\. Kehlani\)](https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:39 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 | 8 | [somewhere between the sand and the stardust](https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [somewhere between the sand and the stardust](https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY) | 3:30 |
 | 9 | [sugar at the bottom](https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:05 |
 | 10 | [Curious](https://open.spotify.com/track/5btaVjrLBxTvXNmCv5DrW2) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:03 |
-| 11 | [Cliffs Edge](https://open.spotify.com/track/5Q7Z26cX90eA14VaVg3xtB) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise \- EP](https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD) | 3:33 |
+| 11 | [Cliffs Edge](https://open.spotify.com/track/5Q7Z26cX90eA14VaVg3xtB) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise](https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD) | 3:33 |
 | 12 | [Pretty Girl](https://open.spotify.com/track/55kn1i0n1mUWiEB6LZrTYe) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Citrine EP](https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE) | 3:36 |
 | 13 | [deep in the woods](https://open.spotify.com/track/0JmxPS0bVRETJa4haH0zhP) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:09 |
 | 14 | [Sleepover](https://open.spotify.com/track/0WqqFajBwA3tpRZ66kRomu) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:53 |
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 | 31 | [One Bad Night](https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Citrine EP](https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE) | 3:55 |
 | 32 | [She](https://open.spotify.com/track/4BE7L7XB1I7X8v4imHVhoG) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r) | 3:11 |
 | 33 | [Need You Closer](https://open.spotify.com/track/4ogCiDj7Np9jurdXceYg5a) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Phantoms](https://open.spotify.com/album/0UhmXh4kJDbIhL9EeEcxCA) | 4:12 |
-| 34 | [Maple](https://open.spotify.com/track/4tiu6fGnOzyJYXfYx1YptA) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:01 |
+| 34 | [Rich Youth](https://open.spotify.com/track/4lwy7TthkTeLzuCTB5N2vD) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:27 |
 | 35 | [Ease My Mind](https://open.spotify.com/track/7GHSSr69BQ0NwSbpfTjjSm) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Citrine EP](https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE) | 3:19 |
 | 36 | [Runaway](https://open.spotify.com/track/6D9gsDE5QqFYM904iKHBFM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r) | 2:30 |
-| 37 | [Feeding the Fire](https://open.spotify.com/track/2g8GG331WBCnyYp3gVBT94) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise \- EP](https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD) | 3:30 |
-| 38 | [Rich Youth](https://open.spotify.com/track/4lwy7TthkTeLzuCTB5N2vD) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:27 |
+| 37 | [Given It All](https://open.spotify.com/track/4zVqWUET8JgoDHwmWrYP45) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise](https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD) | 3:50 |
+| 38 | [Maple](https://open.spotify.com/track/4tiu6fGnOzyJYXfYx1YptA) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:01 |
 | 39 | [Glory Days \(feat\. Hayley Kiyoko\) \- Party Pupils Remix](https://open.spotify.com/track/3CZqTaiEQdN61xQP58BNRO) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [Glory Days \(feat\. Hayley Kiyoko\) \[Party Pupils Remix\]](https://open.spotify.com/album/3JH2u1LgVvwsCppzohPDBu) | 2:48 |
-| 40 | [Given It All](https://open.spotify.com/track/4zVqWUET8JgoDHwmWrYP45) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise \- EP](https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD) | 3:50 |
+| 40 | [Feeding the Fire](https://open.spotify.com/track/2g8GG331WBCnyYp3gVBT94) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise](https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD) | 3:30 |
 | 41 | [A Belle to Remember](https://open.spotify.com/track/2I05iyCC84kQHipFDl7yfd) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:26 |
 | 42 | [Hit & Run](https://open.spotify.com/track/1jlLg8ZQbvCTkIoP2fI70b) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:33 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDAwYzNhOTJkMWMwMDIxOGZhNTQwNWIyYzQwZjk0ZjJiYw==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDAxMjI1OWZjODgyMWFjMWFlNGM4ZGM1NmE2YWE2NWUyZg==`

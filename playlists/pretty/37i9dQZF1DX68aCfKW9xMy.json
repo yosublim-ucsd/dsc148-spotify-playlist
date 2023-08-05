@@ -1,12 +1,12 @@
 {
   "description": "La casa de los corazones rotos.",
-  "num_followers": 1538358,
+  "num_followers": 1539094,
   "original_name": "Mal de Amores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjc0NzIwOGE1ZmU3OGU0N2I0ZWMxNjFlYTIzMWU5NTI2NjFkMWQ0",
+  "snapshot_id": "MCwxYTNhYjRjYWY4MTMzMDExYWFmNTUyNDNmZTY0MjAzNDFhNjMzNTk3",
   "tracks": [
     {
       "added_at": "2023-05-05 18:28:59",
@@ -447,26 +447,6 @@
     {
       "added_at": "2023-05-05 18:28:59",
       "album": {
-        "name": "Llorar y Llorar (con Carin Leon)",
-        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 169705,
-      "name": "Llorar y Llorar - con Carin Leon",
-      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
-    },
-    {
-      "added_at": "2023-05-05 18:28:59",
-      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 177791,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
+    },
+    {
+      "added_at": "2023-05-05 18:28:59",
+      "album": {
+        "name": "Llorar y Llorar (con Carin Leon)",
+        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 169705,
+      "name": "Llorar y Llorar - con Carin Leon",
+      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
     },
     {
       "added_at": "2023-05-05 18:28:59",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-05-05 18:28:59",
       "album": {
-        "name": "Ya No Vives En M\u00ed",
-        "url": "https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 209586,
-      "name": "Cu\u00e1l Adi\u00f3s",
-      "url": "https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy"
-    },
-    {
-      "added_at": "2023-05-05 18:28:59",
-      "album": {
         "name": "Ojos En Blanco",
         "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 147053,
       "name": "Ya Te Perd\u00ed La Fe",
       "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
+    },
+    {
+      "added_at": "2023-05-05 18:28:59",
+      "album": {
+        "name": "Ya No Vives En M\u00ed",
+        "url": "https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 209586,
+      "name": "Cu\u00e1l Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy"
     },
     {
       "added_at": "2023-05-05 18:28:59",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-05-05 18:28:59",
       "album": {
+        "name": "En Vivo EP, Vol. 1 (En vivo)",
+        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 228545,
+      "name": "Te Apuesto - En vivo",
+      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
+    },
+    {
+      "added_at": "2023-05-05 18:28:59",
+      "album": {
         "name": "Se Acabo (En Vivo)",
         "url": "https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2023-05-05 18:28:59",
       "album": {
-        "name": "En Vivo EP, Vol. 1 (En vivo)",
-        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 228545,
-      "name": "Te Apuesto - En vivo",
-      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
+      "duration_ms": 214400,
+      "name": "Un Desenga\u00f1o",
+      "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
     },
     {
       "added_at": "2023-05-05 18:28:59",
@@ -1247,22 +1263,6 @@
       "duration_ms": 194626,
       "name": "Enhorabuena",
       "url": "https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO"
-    },
-    {
-      "added_at": "2023-05-05 18:28:59",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Un Desenga\u00f1o",
-      "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
     },
     {
       "added_at": "2023-05-05 18:28:59",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-05-05 18:28:59",
       "album": {
+        "name": "Mi Vida Eres T\u00fa",
+        "url": "https://open.spotify.com/album/3azaq42L9KN7ivVeETobzt"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 217429,
+      "name": "En Donde Esta Tu Amor",
+      "url": "https://open.spotify.com/track/6qNrqyOQOgnNDozI8eDRsg"
+    },
+    {
+      "added_at": "2023-05-05 18:28:59",
+      "album": {
         "name": "Palabra de Hombre",
         "url": "https://open.spotify.com/album/5EYyJ7ar2hW6Nh1G89wzPb"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 218013,
       "name": "Y Por Esa Calle Vive",
       "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
-    },
-    {
-      "added_at": "2023-05-05 18:28:59",
-      "album": {
-        "name": "Mi Vida Eres T\u00fa",
-        "url": "https://open.spotify.com/album/3azaq42L9KN7ivVeETobzt"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 217429,
-      "name": "En Donde Esta Tu Amor",
-      "url": "https://open.spotify.com/track/6qNrqyOQOgnNDozI8eDRsg"
     },
     {
       "added_at": "2023-05-05 18:28:59",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2023-05-05 18:28:59",
       "album": {
+        "name": "Querido Ex Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/3EE2AwVMOWthcfk1b5d6iR"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Querido Ex Amor (En Vivo)",
+      "url": "https://open.spotify.com/track/0sxUALE5zJjNBlida8NALL"
+    },
+    {
+      "added_at": "2023-05-05 18:28:59",
+      "album": {
         "name": "Te Vale Madre",
         "url": "https://open.spotify.com/album/025e1NdAZgqFznEwS9Amvm"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 151600,
       "name": "Te Vale Madre",
       "url": "https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6"
-    },
-    {
-      "added_at": "2023-05-05 18:28:59",
-      "album": {
-        "name": "Querido Ex Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/3EE2AwVMOWthcfk1b5d6iR"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Querido Ex Amor (En Vivo)",
-      "url": "https://open.spotify.com/track/0sxUALE5zJjNBlida8NALL"
     },
     {
       "added_at": "2023-05-05 18:28:59",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2023-05-05 18:28:59",
       "album": {
-        "name": "Tiempo Fuera",
-        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Tiempo Fuera",
-      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
-    },
-    {
-      "added_at": "2023-05-05 18:28:59",
-      "album": {
         "name": "Ya Aprend\u00ed la Lecci\u00f3n",
         "url": "https://open.spotify.com/album/4mruyGpiOW9uR1nqyE3xoE"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 208541,
       "name": "El Final de Nuestra Historia",
       "url": "https://open.spotify.com/track/4dGfHOm1BZjV6LdC1ufJtY"
+    },
+    {
+      "added_at": "2023-05-05 18:28:59",
+      "album": {
+        "name": "Tiempo Fuera",
+        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Tiempo Fuera",
+      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
     },
     {
       "added_at": "2023-05-05 18:28:59",

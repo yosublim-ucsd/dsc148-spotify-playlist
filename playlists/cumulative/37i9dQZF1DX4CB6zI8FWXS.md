@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Khalid
 
-203 songs - 11 hr 0 min
+204 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Give It To Me](https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Give It To Me](https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn) | 4:03 | 2023-05-04 |  |
 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 | 2023-03-16 | 2023-05-05 |
 | [Go back](https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF) | 3:52 | 2023-03-16 | 2023-04-21 |
-| [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 | 2023-08-03 |  |
+| [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 | 2023-08-03 |  |
 | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z) | 2:17 | 2023-05-04 | 2023-06-02 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2023-03-16 | 2023-05-05 |
 | [HIKIGANE](https://open.spotify.com/track/4AyPOsCyA8BoH5MgmPjZ4A) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [DRAFT ONE](https://open.spotify.com/album/2yMZlPUpcOWG2oc0f9dihT) | 2:33 | 2023-03-16 | 2023-04-07 |
@@ -109,6 +109,7 @@
 | [Magical](https://open.spotify.com/track/3vwd499tfp2HSDJ7HN7ZHt) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [IT'S not YOU, it's me](https://open.spotify.com/album/59fRFRS8RpqQEnq9B9kUTf) | 2:46 | 2023-03-30 | 2023-04-21 |
 | [Main One \(feat\. Tyga\)](https://open.spotify.com/track/2nB44lzuvxp40hNMkT6BZj) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Main One \(feat\. Tyga\)](https://open.spotify.com/album/3poW1IiF8t9MNcrk2CgJWF) | 3:19 | 2023-07-20 |  |
 | [Make It Up To You](https://open.spotify.com/track/6zZU70goOWBGPWTThgP4IW) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Make It Up To You](https://open.spotify.com/album/3enz29y0ybkTEdS322Jejt) | 3:22 | 2023-04-06 | 2023-06-23 |
+| [Make Up Your Mind](https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Make Up Your Mind](https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80) | 2:52 | 2023-08-03 |  |
 | [Midlife Glow \(feat\. Ozay Moore\)](https://open.spotify.com/track/3dvaCvUSosEjWxUOuUiOiw) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Ozay Moore](https://open.spotify.com/artist/5upHj0MnOX1kIBXf7zzoZb) | [Midlife Glow \(feat\. Ozay Moore\)](https://open.spotify.com/album/4mhIfyutZJgYcmtKG0la1q) | 3:58 | 2023-03-16 | 2023-05-05 |
 | [MIRROR](https://open.spotify.com/track/6BH26KLvdWAgWyh5ITG3Li) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [SWING A SOUL](https://open.spotify.com/album/0HHc2bE8BCfMlqeijJZJLV) | 2:00 | 2023-06-22 |  |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-03-16 | 2023-05-05 |

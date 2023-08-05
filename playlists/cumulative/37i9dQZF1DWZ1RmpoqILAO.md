@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation Cover: Faye Webster
 
-139 songs - 9 hr 19 min
+142 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Blood Red Sentimental Blues](https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO) | 4:36 | 2023-05-19 |  |
 | [Blue Lightning](https://open.spotify.com/track/2PNvb2hdbbAvWCjybGbqXO) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:51 | 2023-02-23 | 2023-07-20 |
 | [Bury The Hatchet \- Radio Edit](https://open.spotify.com/track/731pNkRH6bnlhDGZQLRWJs) | [Mol Sullivan](https://open.spotify.com/artist/3oYFKaeq39nYQsW6z6LX3T) | [Bury The Hatchet \(Radio Edit\)](https://open.spotify.com/album/6nWAsgxghVFT7xXP0EY4aF) | 3:38 | 2023-02-23 |  |
-| [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 | 2023-06-23 |  |
+| [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 | 2023-06-23 | 2023-08-05 |
 | [Buzzing In The Light](https://open.spotify.com/track/4rTftcEWlMXJsj7IfOUnjZ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Critical Equation](https://open.spotify.com/album/2NsHYx621pWYlCrJFhTDaq) | 4:01 | 2023-02-23 |  |
 | [Carthage](https://open.spotify.com/track/0e0T3WcSL0IvHFc2CqMLIy) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/6kEte3BcsOoAwuGnVTkgME) | 5:30 | 2023-04-28 |  |
 | [Carthage](https://open.spotify.com/track/5T2rPvGAbs5Z6CLXXbh3jX) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 5:30 | 2023-02-23 | 2023-05-01 |
@@ -76,6 +76,7 @@
 | [Hunter](https://open.spotify.com/track/1fRRvjB2eKyWJAOuinZ5NZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hunter](https://open.spotify.com/album/5f2StDzDcdxE0JR6K7YiDT) | 3:48 | 2023-04-28 | 2023-06-12 |
 | [Hunter](https://open.spotify.com/track/1vgEyqOgNdgp2qTJ8oFmsb) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 3:48 | 2023-06-09 |  |
 | [Hunter](https://open.spotify.com/track/5ipJCn0tOI0qAUwhQ0Onhk) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hunter](https://open.spotify.com/album/7JLqUV9lFZMym6t0uEVGs7) | 3:48 | 2023-03-31 | 2023-04-30 |
+| [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 | 2023-08-04 |  |
 | [I Know You're Wrong](https://open.spotify.com/track/25SJcZXOn89sHTfP3g5tsu) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q) | [New Music and Big Pop](https://open.spotify.com/album/5z2BTKi7FQnonynrYUvyEF) | 2:03 | 2023-06-16 |  |
 | [In A Good Way](https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:44 | 2023-02-23 |  |
 | [Indiana](https://open.spotify.com/track/4yVrfsUNtc5RS7nbOv8hHA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides](https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1) | 2:37 | 2023-02-23 |  |
@@ -87,6 +88,7 @@
 | [Lay Me Down](https://open.spotify.com/track/4NpDlGwphr2dyvTarnuwn0) | [Nick Wagen](https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ) | [Lay Me Down](https://open.spotify.com/album/0zJRL59dhMIe2PbFJDQN1p) | 4:07 | 2023-05-03 |  |
 | [Let Me Get There](https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5), [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Until the Hunter](https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU) | 7:30 | 2023-07-05 |  |
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2023-06-30 |  |
+| [Letters](https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 2:26 | 2023-08-04 |  |
 | [Long Wave](https://open.spotify.com/track/5UnoxzcNj2Ym6ZOnIGdwGE) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [Longwave](https://open.spotify.com/album/7uo0oJVjhuw0fIGltmSPcs) | 5:23 | 2023-05-10 |  |
 | [Lose Sight of You](https://open.spotify.com/track/0MRl699sc4XD47N8voalTg) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Something Wild](https://open.spotify.com/album/3Wc0YFoix2vAhwc8UmRkFJ) | 1:58 | 2023-06-12 |  |
 | [Mountain Man](https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:58 | 2023-02-23 |  |
@@ -135,6 +137,7 @@
 | [Tres Hermanos](https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:21 | 2023-02-23 |  |
 | [Truck](https://open.spotify.com/track/3gpFdIoxvpOPYPbxAcq9VZ) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Truck](https://open.spotify.com/album/4fxXwdUoB6iJ0x2Ik7eNTu) | 3:53 | 2023-07-21 |  |
 | [True Love](https://open.spotify.com/track/77YpxagBmCQV9cVzSi284F) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6) | 4:11 | 2023-02-23 |  |
+| [TV Dinners](https://open.spotify.com/track/4LxwqKEPKxx4IavfyY2Eqy) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Knockin'](https://open.spotify.com/album/6SX1sQ1tNE2d9jlLSFplla) | 3:52 | 2023-08-04 |  |
 | [Ur Name on a Grain of Rice](https://open.spotify.com/track/6RmefriEmuqmToFqMlvwlF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Always Repeating](https://open.spotify.com/album/3UQh0f5HtW2WmcwMvjhiIJ) | 5:01 | 2023-02-23 |  |
 | [Valleys \(My Love\)](https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Forever Turned Around](https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ) | 3:56 | 2023-04-28 | 2023-06-13 |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-07-19 |  |

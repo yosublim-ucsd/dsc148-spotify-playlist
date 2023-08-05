@@ -1,12 +1,12 @@
 {
   "description": "This week's top new releases. Cover: Glockenbach, Ella Henderson",
-  "num_followers": 37611,
+  "num_followers": 37631,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2NhNzI4YmU4MmFmMGJhMmQxMWQ5ZTNlNWVmNmMwODZjNTEwMjhk",
+  "snapshot_id": "MCw2ODc5YzM5YTA2MWRhNmExYTFiZmE2NTNjMWU3NDVmZjIzOTc0ODFm",
   "tracks": [
     {
       "added_at": "2023-08-03 22:00:00",
@@ -232,12 +232,12 @@
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
       "duration_ms": 247100,
@@ -531,8 +531,8 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Treppenhaus",
-        "url": "https://open.spotify.com/album/0jsbXEF26ZTqjds5fAO7ui"
+        "name": "Teil vom Ganzen",
+        "url": "https://open.spotify.com/album/46WYDWDIojRYafGPTAsoTn"
       },
       "artists": [
         {
@@ -554,7 +554,27 @@
       ],
       "duration_ms": 193173,
       "name": "Treppenhaus",
-      "url": "https://open.spotify.com/track/7zRQCjAB2hz47xZS6wbbB5"
+      "url": "https://open.spotify.com/track/1diBYjVLL4AEPhTU0urYuB"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "PA' LA VUELTA",
+        "url": "https://open.spotify.com/album/7qxd9lTnTTARbkPrfsVdHL"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 224041,
+      "name": "PA' LA VUELTA",
+      "url": "https://open.spotify.com/track/1C4xSER4CBBj45eV1gDx0F"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -731,7 +751,7 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Mu\u00f1ekita (with El Alfa & JT from City Girls)",
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
         "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
       },
       "artists": [
@@ -749,14 +769,14 @@
         }
       ],
       "duration_ms": 219642,
-      "name": "Mu\u00f1ekita (with El Alfa & JT from City Girls)",
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
     },
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "XXL",
-        "url": "https://open.spotify.com/album/4K0wKLFE0LxcQAmcmVvd0X"
+        "url": "https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf"
       },
       "artists": [
         {
@@ -766,7 +786,7 @@
       ],
       "duration_ms": 206706,
       "name": "XXL",
-      "url": "https://open.spotify.com/track/7AftUxnj6ngHrWiT29xwKK"
+      "url": "https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -935,6 +955,22 @@
       "duration_ms": 199026,
       "name": "Wellenl\u00e4ngen",
       "url": "https://open.spotify.com/track/6R2xBCoJhimKect9AxexdZ"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 172892,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1119,6 +1155,26 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "RNTBCK ft. Sahtyre",
+        "url": "https://open.spotify.com/album/40hySMZvGLxFRvXHe4re6r"
+      },
+      "artists": [
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        {
+          "name": "Sahtyre",
+          "url": "https://open.spotify.com/artist/1ZHmdzn0KzjEICyi9v6oDU"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "RNTBCK ft. Sahtyre",
+      "url": "https://open.spotify.com/track/3Go7cFLfkQMH9KV6H1VcIY"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Hype Me Up",
         "url": "https://open.spotify.com/album/4rXP4oMmequey8Q600Gs6i"
       },
@@ -1175,8 +1231,8 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Hot Baklava",
-        "url": "https://open.spotify.com/album/0rrBvjk4AUIo737hTUSM7k"
+        "name": "Hot Baklava Germany",
+        "url": "https://open.spotify.com/album/4ufnnoOKeIyWXBCzwzbXuU"
       },
       "artists": [
         {
@@ -1184,21 +1240,21 @@
           "url": "https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz"
         },
         {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
         },
         {
           "name": "Summer Cem",
           "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
         }
       ],
-      "duration_ms": 140009,
-      "name": "Hot Baklava",
-      "url": "https://open.spotify.com/track/022rI0RuFfCXbccNYdQF1l"
+      "duration_ms": 140019,
+      "name": "Hot Baklava Germany",
+      "url": "https://open.spotify.com/track/0TQulR5BVtJ0CwnA3tThzX"
     },
     {
       "added_at": "2023-08-03 22:00:00",

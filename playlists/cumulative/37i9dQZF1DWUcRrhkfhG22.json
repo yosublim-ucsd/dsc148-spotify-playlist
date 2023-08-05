@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Customized",
+        "url": "https://open.spotify.com/album/6cTbL1vRVLNLF4RoNxr4rA"
+      },
+      "artists": [
+        {
+          "name": "Diamond Ortiz",
+          "url": "https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197177,
+      "name": "Customized",
+      "url": "https://open.spotify.com/track/1GlAErHGsY4EVlmx9v12Iq"
+    },
+    {
+      "album": {
         "name": "Nathan East",
         "url": "https://open.spotify.com/album/0YvZVmKkFKuyYSPzMTLTwj"
       },

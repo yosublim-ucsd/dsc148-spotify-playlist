@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-432 songs - 21 hr 27 min
+434 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 | 2022-08-15 |  |
 | [Abrazo Sereno](https://open.spotify.com/track/24SPAIgNceYbCmdrowgkRK) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Melodías Susurrantes](https://open.spotify.com/album/16ArDAGmj2dEQAdAuRD8PW) | 3:39 | 2023-06-23 |  |
 | [Acending](https://open.spotify.com/track/0gny3oCHB6fKmZ6PoDedRA) | [So Jao](https://open.spotify.com/artist/0ScQmROrSMggRHzVdPIRim) | [Acending](https://open.spotify.com/album/5UTfGuymK5d3VbqMVjh0fh) | 2:54 | 2021-11-10 |  |
+| [Aerial](https://open.spotify.com/track/5ziRszGYU31KUp4AfHh4Yc) | [Levineci](https://open.spotify.com/artist/6htu8VXfPQRzB7bIsyWsqe) | [Aerial](https://open.spotify.com/album/2dIn22xee7AGSCWqeXBTNb) | 2:50 | 2023-08-04 |  |
 | [Alima](https://open.spotify.com/track/60ihi5DukD0bd4kUBvteWe) | [Luca Sana](https://open.spotify.com/artist/5R2pilr3nQLjlV11knoaHY) | [Alima](https://open.spotify.com/album/3TWKhBt6dL1MfBQ4jFz4Iy) | 2:46 | 2023-03-17 |  |
 | [All We Can Do](https://open.spotify.com/track/3vr2MU6TzGcU94Ozgaw6BG) | [Edna Lyles](https://open.spotify.com/artist/4VmIM4MrXi2N7C5apFApwz) | [All We Can Do](https://open.spotify.com/album/7cRrgyTdXLHIiSd59mkGvx) | 3:16 | 2022-04-07 |  |
 | [Alma](https://open.spotify.com/track/2j9r4JRWjLsFn7VEibICxz) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Alma](https://open.spotify.com/album/1VkVWLRl4jyxBUUDvMKy7K) | 2:51 | 2021-11-10 |  |
@@ -139,6 +140,7 @@
 | [Ellips](https://open.spotify.com/track/1BElZwQK3VhQ8iHRMolo1i) | [Nightweaver](https://open.spotify.com/artist/6tfQKH57x0m7yECik90Rd9) | [Ellips](https://open.spotify.com/album/19CV6Lr9VbryVgNcoyPMm4) | 2:56 | 2021-11-10 | 2023-02-18 |
 | [Elphine](https://open.spotify.com/track/7q0inA86Z78g6BIY06xwoz) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Elphine](https://open.spotify.com/album/4jl6RTcFr236YEhqs4s7EH) | 2:22 | 2021-11-10 |  |
 | [Elude](https://open.spotify.com/track/3IIX3ZJHdlQ7jJc13FOKH9) | [Vinyardo](https://open.spotify.com/artist/2wQMVtkA9XenZkYUbyoE1Y) | [Anya](https://open.spotify.com/album/2kfA1EeuBVBTpXdQrOFdZC) | 2:42 | 2022-12-20 |  |
+| [Elusion](https://open.spotify.com/track/7pPFhgsWnalylOU55IJGRd) | [Boudoin](https://open.spotify.com/artist/1VtcKV38DHQyR0rBukGcep) | [Elusion](https://open.spotify.com/album/0QsjebOtINMUtZ2g68XGGx) | 2:51 | 2023-08-04 |  |
 | [Emerald Isles](https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Emerald Isles](https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd) | 3:53 | 2021-11-10 | 2022-03-25 |
 | [Encore Une Fois](https://open.spotify.com/track/5aB3pTdKskrxVVfoOGl4bN) | [Alanna Brooks](https://open.spotify.com/artist/1xTG3LpQV7sTX86GrPnDEH) | [Heaven On Earth](https://open.spotify.com/album/2ZMy6y5uSEXUkYLpVYTHGA) | 3:20 | 2023-04-21 |  |
 | [Engel Stemme](https://open.spotify.com/track/1lwYE92fXWS6nebOLO5yTR) | [Velpo Sonols](https://open.spotify.com/artist/27eOFbWsw1qOMgSaMqR1MM) | [Engel Stemme](https://open.spotify.com/album/6YEYVd0UNdA0JNFoc02YWx) | 3:50 | 2021-11-10 | 2023-07-22 |

@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 143604,
+  "num_followers": 143661,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGU4ZjM2Y2ExMmFiYzk0ZDRmYzA1NzU1NGVhODVlOTZhNjk1ZmQ5",
+  "snapshot_id": "MCw4YWZkN2MzOWJkY2EyYWU5YzM1OGEzM2M1NTA3MzdhNzM2M2U2Njhm",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -287,18 +287,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Firefall",
-        "url": "https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o"
+        "name": "You're Only Lonely",
+        "url": "https://open.spotify.com/album/1JoT6VQQ8H5CUtPLEYw7o0"
       },
       "artists": [
         {
-          "name": "Firefall",
-          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
+          "name": "JD Souther",
+          "url": "https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5"
         }
       ],
-      "duration_ms": 216066,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/6nwlPs3mgpHYUJJ0ETPIXP"
+      "duration_ms": 228000,
+      "name": "You're Only Lonely",
+      "url": "https://open.spotify.com/track/0qzEkwri1hE0rgxVqdOBAf"
     },
     {
       "added_at": "2022-06-01 14:20:20",
@@ -319,18 +319,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "You're Only Lonely",
-        "url": "https://open.spotify.com/album/1JoT6VQQ8H5CUtPLEYw7o0"
+        "name": "Firefall",
+        "url": "https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o"
       },
       "artists": [
         {
-          "name": "JD Souther",
-          "url": "https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5"
+          "name": "Firefall",
+          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
         }
       ],
-      "duration_ms": 228000,
-      "name": "You're Only Lonely",
-      "url": "https://open.spotify.com/track/0qzEkwri1hE0rgxVqdOBAf"
+      "duration_ms": 216066,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/6nwlPs3mgpHYUJJ0ETPIXP"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -771,6 +771,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Slippin Away",
+        "url": "https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y"
+      },
+      "artists": [
+        {
+          "name": "Chris Hillman",
+          "url": "https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Step on Out",
+      "url": "https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 235106,
       "name": "Make A Little Magic - 2001 Remaster",
       "url": "https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Slippin Away",
-        "url": "https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y"
-      },
-      "artists": [
-        {
-          "name": "Chris Hillman",
-          "url": "https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Step on Out",
-      "url": "https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE"
     },
     {
       "added_at": "2020-08-05 15:52:11",

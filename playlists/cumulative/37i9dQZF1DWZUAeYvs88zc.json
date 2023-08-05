@@ -628,7 +628,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 163504,
       "name": "Best Friends",
       "url": "https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 229881,
       "name": "Blue",
       "url": "https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3"
@@ -2856,6 +2856,24 @@
       "duration_ms": 193007,
       "name": "Hate That You Love Me",
       "url": "https://open.spotify.com/track/69btEcSPQvdTiEv2Yb1nek"
+    },
+    {
+      "album": {
+        "name": "closer to closure",
+        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182946,
+      "name": "hate to be you",
+      "url": "https://open.spotify.com/track/4B8xshUQgezhJ8i8HWhHR1"
     },
     {
       "album": {
@@ -7688,7 +7706,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 196760,
       "name": "tears in the club (feat. the weeknd)",
       "url": "https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg"

@@ -1,65 +1,13 @@
 {
   "description": "The soundtrack to the internet. Cover: 2Rare",
-  "num_followers": 1387664,
+  "num_followers": 1387979,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTIyY2Q2MzBlYzE2OWRlYTk2YTEwOGZhMWVjMjc5YWE4MTAxZmE5",
+  "snapshot_id": "MCw1ODlhM2U3OGM2YWIzZTkxYzkzMjZjYWQxZGY0MDQ3MDQ5YmQ1M2Nk",
   "tracks": [
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "I love freaks",
-        "url": "https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1"
-      },
-      "artists": [
-        {
-          "name": "Lijay",
-          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
-        }
-      ],
-      "duration_ms": 101198,
-      "name": "I love freaks",
-      "url": "https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "500lbs",
-        "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 144390,
-      "name": "500lbs",
-      "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Barrio (with Lefty Sm)",
-        "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 144414,
-      "name": "Barrio (with Lefty Sm)",
-      "url": "https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn"
-    },
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
@@ -75,6 +23,22 @@
       "duration_ms": 118923,
       "name": "RICH SCHOLAR",
       "url": "https://open.spotify.com/track/2hsNdc8rDVN2O5QOxbGayy"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "I love freaks",
+        "url": "https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
+        }
+      ],
+      "duration_ms": 101198,
+      "name": "I love freaks",
+      "url": "https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -97,6 +61,46 @@
       "url": "https://open.spotify.com/track/7oaDmhGFSRcGxiYDVhJsk1"
     },
     {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Bars Mitzvah",
+        "url": "https://open.spotify.com/album/77iWKhQsnPv2ceYGWZ4TMS"
+      },
+      "artists": [
+        {
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Trapland Pat",
+          "url": "https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ"
+        }
+      ],
+      "duration_ms": 180291,
+      "name": "Quite Frankly (with Luh Tyler & Trapland Pat)",
+      "url": "https://open.spotify.com/track/6jSC6HQdTrDMobpRciFYvq"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "500lbs",
+        "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "500lbs",
+      "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
+    },
+    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "First Day Out (Freestyle)",
@@ -111,6 +115,22 @@
       "duration_ms": 142739,
       "name": "First Day Out (Freestyle)",
       "url": "https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Osama Season",
+        "url": "https://open.spotify.com/album/6rwxZslqJuyF0DivxOB0w9"
+      },
+      "artists": [
+        {
+          "name": "OsamaSon",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
+        }
+      ],
+      "duration_ms": 57029,
+      "name": "X & Sex",
+      "url": "https://open.spotify.com/track/6qyAMxx8th14kYK4LlxpTc"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -185,6 +205,26 @@
       "url": "https://open.spotify.com/track/20LjVwLgn8EaT2LvEoK0Nl"
     },
     {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Barrio (with Lefty Sm)",
+        "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 144414,
+      "name": "Barrio (with Lefty Sm)",
+      "url": "https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn"
+    },
+    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "One Margarita (Margarita Song) [feat. Saucy Santana] [Saucy Remix]",
@@ -227,6 +267,22 @@
       "duration_ms": 152000,
       "name": "Stop Hating",
       "url": "https://open.spotify.com/track/47h7mEYiGuvzM1o8yhMPIW"
+    },
+    {
+      "added_at": "2023-08-04 13:19:30",
+      "album": {
+        "name": "warning",
+        "url": "https://open.spotify.com/album/6h3Hwzp2rRPGBe1SvWmAIl"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "warning",
+      "url": "https://open.spotify.com/track/1URv5SAu4pjhmQ7gAshWtQ"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -399,6 +455,22 @@
       "duration_ms": 109722,
       "name": "KNOYA",
       "url": "https://open.spotify.com/track/7KlYBKL2aNJJ3kQI1iO96M"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Snot or Not",
+        "url": "https://open.spotify.com/album/4PtaK9Se4jUaKwyeTMqnRN"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        }
+      ],
+      "duration_ms": 158837,
+      "name": "5!RE",
+      "url": "https://open.spotify.com/track/5dpguvEDjvEljrnIScoXpV"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1639,22 +1711,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Snot or Not",
-        "url": "https://open.spotify.com/album/4PtaK9Se4jUaKwyeTMqnRN"
-      },
-      "artists": [
-        {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
-        }
-      ],
-      "duration_ms": 158837,
-      "name": "5!RE",
-      "url": "https://open.spotify.com/track/5dpguvEDjvEljrnIScoXpV"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
@@ -1739,38 +1795,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "ADHD",
-        "url": "https://open.spotify.com/album/3gRHDUqZGMb4wnHBPvk5OL"
-      },
-      "artists": [
-        {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
-        }
-      ],
-      "duration_ms": 150427,
-      "name": "ADHD",
-      "url": "https://open.spotify.com/track/2NnYebjJbFNce6q7vVYRsc"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Games",
-        "url": "https://open.spotify.com/album/3dCdXYs4q7pn3iCdsxzgd9"
-      },
-      "artists": [
-        {
-          "name": "Dina Ayada",
-          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Games",
-      "url": "https://open.spotify.com/track/707DkaerHk1Ad2uySczdR4"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "rockhardt",
         "url": "https://open.spotify.com/album/193IYs1YZemD7CXQCSyXfc"
       },
@@ -1783,26 +1807,6 @@
       "duration_ms": 158108,
       "name": "rockhardt",
       "url": "https://open.spotify.com/track/2DcwwZtauRU5s2ZxzGRJQi"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "GHOSTKILLA",
-        "url": "https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        }
-      ],
-      "duration_ms": 139469,
-      "name": "GHOSTKILLA",
-      "url": "https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w"
     },
     {
       "added_at": "2023-07-14 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,463 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,524 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 45 | [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 |
 | 46 | [Currency](https://open.spotify.com/track/59VpttBOjuFDpOOdqeTDiI) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Currency](https://open.spotify.com/album/1yqoT8UTNOYyLHc8mIVjIT) | 2:58 |
 | 47 | [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 |
-| 48 | [Money Chop](https://open.spotify.com/track/2ddctHqfc2lA2QSIdDUUxh) | [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3) | [THREEE](https://open.spotify.com/album/7zIY5WjgJx0LgYvnns8akf) | 2:40 |
+| 48 | [Money Chop](https://open.spotify.com/track/2ddctHqfc2lA2QSIdDUUxh) | [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [THREEE](https://open.spotify.com/album/7zIY5WjgJx0LgYvnns8akf) | 2:40 |
 | 49 | [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 |
 | 50 | [Dejavu](https://open.spotify.com/track/3ZwqPR9wHrcH1yEmm3nBto) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/4yOuw6mqRk6nusJyfT3Kvk) | 2:40 |
 | 51 | [Hat\-trick](https://open.spotify.com/track/33ohxqNJdE1QXNSnJihNbN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Hat\-trick](https://open.spotify.com/album/7jYk45lrUzw0NTDk9WBbqU) | 2:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 79 | [The Best \(feat\. Mayorkun\)](https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:51 |
 | 80 | [Yoga](https://open.spotify.com/track/79xHOEYZKZEj6fPkmhQboa) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Yoga](https://open.spotify.com/album/63GoanBcE6J4MDIuSQi7jc) | 2:48 |
 
-Snapshot ID: `MCw3NmFmZWM2YjNjZTMwNWU0OTIwNmJlN2UwMDRhZTVjMTllNTkzYjVk`
+Snapshot ID: `MCxhZmQyNWQyMjQ4MDU4ZTlkZjVkM2Y2OTBkZjI1ZmFiNWM3OTEwYzhk`

@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 165245,
       "name": "Cheque",
       "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
@@ -3122,6 +3122,28 @@
       "duration_ms": 170476,
       "name": "I WANT",
       "url": "https://open.spotify.com/track/6tkQHOd8Wgf2ZpecK9sXGs"
+    },
+    {
+      "album": {
+        "name": "I'm Drunk (feat. AMY MIY\u00da)",
+        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "AMY MIY\u00da",
+          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150234,
+      "name": "I'm Drunk (feat. AMY MIY\u00da)",
+      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
     },
     {
       "album": {
@@ -5490,7 +5512,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 138750,
       "name": "Push And Pull",
       "url": "https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0"
@@ -6220,6 +6242,24 @@
       "duration_ms": 173437,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"
+    },
+    {
+      "album": {
+        "name": "Still Cutting Shapes",
+        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Still Cutting Shapes",
+      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Colo de Deus
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,938 likes - 70 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,095 likes - 70 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,18 +38,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 28 | [Decididamente](https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8) | [Cassiano Menke](https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1), [Walmir Alencar](https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN) | [Decididamente](https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN) | 4:18 |
 | 29 | [Se Eu Tenho o Hoje](https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Se Eu Tenho o Hoje](https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi) | 5:27 |
 | 30 | [Ato de Amor](https://open.spotify.com/track/5pxF7Ksy0FzF6DF1Dypsv4) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Ato de Amor](https://open.spotify.com/album/4yf1sTOcn1bC7pAUY8DItT) | 3:22 |
-| 31 | [Inflama\-Me](https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Inflama\-Me](https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR) | 6:41 |
+| 31 | [Louvor dos Pequenos](https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Cantai a Deus Com Alegria 2023](https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q) | 5:08 |
 | 32 | [Romaria \- Ao Vivo](https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Leo Cidade](https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit) | [Romaria \(Ao Vivo\)](https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U) | 5:19 |
-| 33 | [Louvor dos Pequenos](https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Cantai a Deus Com Alegria 2023](https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q) | 5:08 |
+| 33 | [Inflama\-Me](https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Inflama\-Me](https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR) | 6:41 |
 | 34 | [Nada Temerei](https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK) | [Nada Temerei](https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ) | 4:46 |
 | 35 | [Canção de Madalena](https://open.spotify.com/track/1y26YuDAbMbnZfmsNvjCb3) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Hosana, Pt\. 01](https://open.spotify.com/album/5Nnu2Z67j4rbQm2zXMrm4N) | 3:34 |
 | 36 | [Se Eu Tocar](https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Espírito da Verdade](https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P) | 4:47 |
 | 37 | [Em Silêncio](https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg) | [Ministério Tua Palavra](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Em Silêncio](https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z) | 3:48 |
 | 38 | [Como És Lindo](https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Gil Monteiro](https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:53 |
-| 39 | [Egito \- Ao Vivo Em São Paulo](https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [O Fogo Não Se Apagou \(Ao Vivo Em São Paulo\)](https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi) | 7:29 |
-| 40 | [Deus Vê](https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx) | [Evandro José](https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46) | [Deus Vê](https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q) | 4:09 |
+| 39 | [Que Amor É Esse?](https://open.spotify.com/track/0r4pRsYnIIjoscIkoGe9dQ) | [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Que Amor É Esse?](https://open.spotify.com/album/1VfrXFXpdm0M0Liuc1LXK7) | 4:43 |
+| 40 | [Egito \- Ao Vivo Em São Paulo](https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [O Fogo Não Se Apagou \(Ao Vivo Em São Paulo\)](https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi) | 7:29 |
 | 41 | [Paciência](https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Paciência](https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL) | 4:28 |
-| 42 | [Que Amor É Esse?](https://open.spotify.com/track/0r4pRsYnIIjoscIkoGe9dQ) | [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Que Amor É Esse?](https://open.spotify.com/album/1VfrXFXpdm0M0Liuc1LXK7) | 4:43 |
+| 42 | [Deus Vê](https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx) | [Evandro José](https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46) | [Deus Vê](https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q) | 4:09 |
 | 43 | [Quero Ouvir Tua Voz](https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO) | [Cleiton Saraiva](https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO), [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO) | [Quero Ouvir Tua Voz](https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v) | 4:24 |
 | 44 | [Só por Ti, Jesus](https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 4](https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f) | 3:55 |
 | 45 | [Já Deu Certo](https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Canthares](https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr) | [Já Deu Certo](https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns) | 4:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
 | 70 | [Nosso General](https://open.spotify.com/track/68TNC5h0T9ykt0zIqKVrsG) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Canthares](https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr) | [Nosso General](https://open.spotify.com/album/4oTvhv5yHSHK3Kjqsab01T) | 3:23 |
 
-Snapshot ID: `MCxhNGUxY2NiMTU2ODk5OTViZDBiNTJkNmFjNGVkZGNkZjgxZDYwNjJm`
+Snapshot ID: `MCxkNGExYjM2MTdlYTc3MDNkNDVjYjVhYjFjYjg5NGFhOWEyNzliYmNj`

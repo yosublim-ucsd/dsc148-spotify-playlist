@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-384 songs - 19 hr 31 min
+386 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Next To Me](https://open.spotify.com/track/3zLvAsYtkRFNEHS4Z4Oe87) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Next To Me](https://open.spotify.com/album/0rQjy8jVtUlzjp7D6lUWbg) | 2:22 | 2023-06-23 |  |
 | [Nigeria Rhythm](https://open.spotify.com/track/6OxqqDfG5smNFoVejgtBLI) | [Tropical king](https://open.spotify.com/artist/1KS0DksrAJXHcQ3kdc90tE) | [Nigeria Rhythm](https://open.spotify.com/album/3gSzRNT9ADgWo5YOmDxaqQ) | 2:42 | 2022-10-07 |  |
 | [Night Ranger](https://open.spotify.com/track/7iyKQvIJ0kjdytW4WgR6U5) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Aerials](https://open.spotify.com/album/4p4jg5815wGcBGM6CIeBLl) | 3:33 | 2022-11-25 |  |
+| [Night Shades](https://open.spotify.com/track/0jneMOWzfrISVk4esEnvC9) | [Purple Waves](https://open.spotify.com/artist/0KJ2P4KrAgSoL8dg3Bpoc1) | [Night Shades](https://open.spotify.com/album/1mq4x89voeeXoA7FYaKEQa) | 2:21 | 2023-08-04 |  |
 | [Night Visions](https://open.spotify.com/track/3kIaZnczSu1uoCQ78P7TxD) | [Thirsty Ear](https://open.spotify.com/artist/6RqaxUVExoKE01pPo39A2e) | [Night Visions](https://open.spotify.com/album/37VCmWXI1SMZO3vsbp4Ecc) | 3:55 | 2022-04-05 |  |
 | [NiteGlow](https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ) | [Zev Lyso](https://open.spotify.com/artist/3GzxMwoPimZI714GHHrCsy) | [NiteGlow](https://open.spotify.com/album/4F4aUag4mbxyT1TSAT5hj8) | 2:12 | 2022-04-05 |  |
 | [No Stampede](https://open.spotify.com/track/45Hz6R4BU9C0gc4Dee48Eg) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Bitter Move](https://open.spotify.com/album/0g3AJoh2B1iUhmO30POzLz) | 4:02 | 2022-04-05 | 2022-07-08 |
@@ -253,6 +254,7 @@
 | [Palm Tree](https://open.spotify.com/track/6nalAQtGzYV2PGBdHLrz9p) | [I Can East](https://open.spotify.com/artist/7Mrt8ANdFz3SlbMsD6GICP) | [Palm Tree](https://open.spotify.com/album/1iQXVdRUs2eJ0wDwpvStIl) | 5:48 | 2022-04-05 | 2022-04-15 |
 | [Palma](https://open.spotify.com/track/1eoJB7MFGxUb2LyHl8Cfou) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Palma](https://open.spotify.com/album/01jhngUcEPsPXJG7nSTvfY) | 3:42 | 2022-09-02 |  |
 | [paloma beach](https://open.spotify.com/track/7M3sK9nRnpwT826somSyS9) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [paloma beach](https://open.spotify.com/album/3ZtcDAqw3gck5JsDq8gkNv) | 4:02 | 2022-08-19 |  |
+| [Para Sol](https://open.spotify.com/track/5hrJnEz67Q6l33sPtGFga4) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Para Sol](https://open.spotify.com/album/4zCjXYDYpNXj1p7CHYKfGp) | 3:16 | 2023-08-04 |  |
 | [Passage](https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL) | [Ben Travel](https://open.spotify.com/artist/6s1MIr0LiLjEnSGjvPqaUC) | [Passage](https://open.spotify.com/album/2ODUevO5ok7PMjrhlTmU3l) | 2:57 | 2022-04-05 |  |
 | [Passing By](https://open.spotify.com/track/28lMyaJBMmgvw4Cn4OvoeH) | [Monday Motive](https://open.spotify.com/artist/4bCmFKZPJZBIZeQ5qVzIyN) | [Passing By](https://open.spotify.com/album/7tj4fpjyhDvNyPgp76Zhlb) | 3:05 | 2022-04-05 | 2022-07-29 |
 | [Peaceful Nature](https://open.spotify.com/track/1gDslzncbGkKzv5P6NZ8Ql) | [Qeeo](https://open.spotify.com/artist/6E5CtHXk5zbfF6bmi6oVAE) | [Sunny Girl](https://open.spotify.com/album/7kjXdIPtoAKaKnfNkLRgs8) | 2:41 | 2022-04-05 | 2022-06-10 |

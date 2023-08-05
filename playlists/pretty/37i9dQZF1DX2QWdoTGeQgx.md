@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 
 > Chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,770 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,816 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 42 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
 | 43 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 |
 | 44 | [Kotak Hati](https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48) | [Hujan](https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A) | [Lonely Soldier Boy](https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL) | 4:52 |
-| 45 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 |
-| 46 | [solo](https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:03 |
+| 45 | [solo](https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:03 |
+| 46 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 |
 | 47 | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2TkAUHBaCReXruGnMVPGNL) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/album/2oF2nQnJr8Fg43g2oo68uX) | 3:23 |
-| 48 | [Right Person, Wrong Time](https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Right Person, Wrong Time](https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa) | 3:58 |
-| 49 | [It's You \(feat\. Kaleb J\)](https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [It's You \(feat\. Kaleb J\)](https://open.spotify.com/album/11VkZvAqWd1FBjo4NVxoMa) | 4:29 |
+| 48 | [It's You \(feat\. Kaleb J\)](https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [It's You \(feat\. Kaleb J\)](https://open.spotify.com/album/11VkZvAqWd1FBjo4NVxoMa) | 4:29 |
+| 49 | [Right Person, Wrong Time](https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Right Person, Wrong Time](https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa) | 3:58 |
 | 50 | [Pulang](https://open.spotify.com/track/4XIs2mOTfd5pzTw5zlCbJc) | [K\-Clique](https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh), [Aj](https://open.spotify.com/artist/22d6nqxq33gYU50eC0YV37) | [Pulang](https://open.spotify.com/album/0dFuagEe4bOXBkIIs9mNW3) | 4:20 |
 | 51 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 |
 | 52 | [comeoutside](https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Yewy](https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq) | [hi, i like you.](https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8) | 3:07 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 69 | [Castaway](https://open.spotify.com/track/19zPT36WogsfBd8HIaUnt4) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Rouge](https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ) | 4:29 |
 | 70 | [more than friends](https://open.spotify.com/track/6UKJSeAwuHJ9nl7vyMeUJX) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [more than friends](https://open.spotify.com/album/5B7QRaSqhgyNd0u8tKZoEb) | 2:40 |
 
-Snapshot ID: `MCxmMTUzYzdlMzBiYmVkMWMxMTkxYzBlNjlmMDMzZDExN2RjNDRiODQx`
+Snapshot ID: `MCw0OWZiNDc1NDAxNDkxYmQwNDM5MmIzMGMxYjliZWQyNjg1NDE4ZjJj`

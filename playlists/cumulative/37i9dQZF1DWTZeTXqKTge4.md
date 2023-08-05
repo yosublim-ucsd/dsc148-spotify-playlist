@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: GreenWoodz
+> Le meilleur du hip\-hop québécois\. Photo: Lost
 
-449 songs - 22 hr 56 min
+451 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [C00N](https://open.spotify.com/track/4wJyyhwG8ZeESwPVR9mKg2) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [C00N: la prophétie](https://open.spotify.com/album/672gWjyvSXba4DbO2p6JrS) | 3:01 | 2022-10-21 | 2023-02-04 |
 | [Calmate](https://open.spotify.com/track/0APdg7ZldMEtLnEB6opdDV) | [McFlyy](https://open.spotify.com/artist/65hhflNXZEhgbQvnyftw0L) | [Calmate](https://open.spotify.com/album/3MPX5w5DLcq0jh8wC4zhIm) | 2:34 | 2022-03-18 | 2022-03-26 |
 | [Camping](https://open.spotify.com/track/3nCyD17Oecbgx4VNX5fNZ5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Camping](https://open.spotify.com/album/0TKxbWXUfFAdInNrf6WzrQ) | 3:24 | 2022-07-08 | 2023-03-18 |
-| [CAMÉLÉON](https://open.spotify.com/track/4eGyyIrOWWGlBbdt0xZTMI) | [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [CAMÉLÉON](https://open.spotify.com/album/1wC9LZFmdvqfeqFtKOOcYE) | 3:23 | 2022-09-30 |  |
+| [CAMÉLÉON](https://open.spotify.com/track/4eGyyIrOWWGlBbdt0xZTMI) | [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [CAMÉLÉON](https://open.spotify.com/album/1wC9LZFmdvqfeqFtKOOcYE) | 3:23 | 2022-09-30 | 2023-08-05 |
 | [Capuché](https://open.spotify.com/track/6ZEU7NkiRoW2olcUGs5vxI) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Capuché](https://open.spotify.com/album/7Khak6hXE74lb7Cc7L2yQO) | 3:06 | 2022-01-07 | 2022-03-18 |
 | [CATCH LACKIN](https://open.spotify.com/track/6fAbhytzLIl2aUc3s1JrxR) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr) | [CATCH LACKIN](https://open.spotify.com/album/2tIMAhiJvYPi61JPOKWWIJ) | 2:47 | 2022-03-18 | 2022-07-23 |
 | [CC](https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [CC](https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc) | 3:47 | 2022-12-16 |  |
@@ -278,6 +278,7 @@
 | [Metal](https://open.spotify.com/track/5OzHZiK7AapFqnTpAyVTNy) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Metal](https://open.spotify.com/album/0KF4OaklvypnnbPpNh5Ptt) | 3:22 | 2022-01-07 | 2022-03-23 |
 | [Mew](https://open.spotify.com/track/0XyFWTz62YHIppuJHsdCXS) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Mew](https://open.spotify.com/album/7z4jZcsp7l9U6j5Q5ydhrW) | 3:17 | 2023-03-10 | 2023-06-03 |
 | [MICRODOSE](https://open.spotify.com/track/6ccLf6BQBxl863pP57yr3g) | [Whitie](https://open.spotify.com/artist/0i91b2mJ9VCTPDvBEmOTID) | [VITE!](https://open.spotify.com/album/7HsaVeXEfVsB6SAO3Nrcqj) | 2:09 | 2022-05-13 | 2022-07-23 |
+| [MIKE TANGO LIMA](https://open.spotify.com/track/38bvFbzotkGZLkBNi5LYD0) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 2:24 | 2023-08-04 |  |
 | [Mission Nocturne](https://open.spotify.com/track/7g1sKd5TXXMMVTaBlssG2U) | [Dextee](https://open.spotify.com/artist/2T0593JGcrLxhxTwHXaWiE) | [Mission Nocturne](https://open.spotify.com/album/3tKvDoCb5VgKj7lQZO50Bc) | 2:40 | 2023-04-28 |  |
 | [Misunderstood](https://open.spotify.com/track/6uqdKP6QZIlAaVqyZP6krW) | [DARY](https://open.spotify.com/artist/7vfo5uAqkgpHfgTW2LmSPG) | [HAINE MOI](https://open.spotify.com/album/74rD7TMXbDIRygW8MiWbjD) | 3:48 | 2022-01-21 | 2022-07-02 |
 | [Mode Avion](https://open.spotify.com/track/2OwCPUafRzulE8CyB0WQMY) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Mode Avion](https://open.spotify.com/album/7oSVJPi9zgjRavK3z0xB4H) | 3:17 | 2023-05-12 | 2023-07-08 |
@@ -288,6 +289,7 @@
 | [Monkey See Monkey Do](https://open.spotify.com/track/1nkSM3aKotsIwOgafMpQqQ) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Monkey See Monkey Do](https://open.spotify.com/album/2XHD8IJglSeKL203sKOFkR) | 3:18 | 2022-10-07 | 2022-11-19 |
 | [Monnaie](https://open.spotify.com/track/0LIKOSDqVHvvZkBnjaYa2W) | [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [PETiTOM](https://open.spotify.com/album/6HXIjuxcjCMm2tBG6HuW5r) | 2:29 | 2022-09-09 | 2022-09-24 |
 | [Monochrome](https://open.spotify.com/track/2Y9DqcZ43ybo06qJoElOR5) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Monochrome](https://open.spotify.com/album/37NFf8kkfvIGpOOJlFTGm6) | 2:39 | 2022-04-29 | 2022-05-28 |
+| [Montego Bay](https://open.spotify.com/track/7u3hvzsMpRgV3o8PHSFMS0) | [Nikki\-B](https://open.spotify.com/artist/0W4nncV2qo2VMYhhx1GBA0) | [Montego Bay](https://open.spotify.com/album/2WR2QlAGCRC5sJuJhZEUHS) | 3:02 | 2023-08-04 |  |
 | [Mouiller Le Maillot](https://open.spotify.com/track/3Lhy7t0J2UCHXTk1WhNRp3) | [Loussa](https://open.spotify.com/artist/66JV0RT5jJXASMORQJCuEv) | [Mouiller Le Maillot](https://open.spotify.com/album/1zcoFvG57xznifvJA3MqPm) | 2:58 | 2022-01-14 | 2022-07-30 |
 | [Mozart](https://open.spotify.com/track/45SCJksvCasAR13KwqIaMa) | [MCM](https://open.spotify.com/artist/0lp5ESFVVH1DGSwb2LtnfD) | [Mozart](https://open.spotify.com/album/5zN46qQTWi8V9FFXJfZWCG) | 2:55 | 2022-03-04 | 2022-04-29 |
 | [Murciélago](https://open.spotify.com/track/4XZyPSlpUW0HrpYOcFJFZX) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Murciélago](https://open.spotify.com/album/2my4wNL1hk75yFIJgVljIl) | 2:53 | 2022-09-23 | 2023-01-14 |
@@ -335,7 +337,7 @@
 | [Planer](https://open.spotify.com/track/1hlXA96A3AyXX8UT0OK7I5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Planer](https://open.spotify.com/album/4b6ns1QBr9YtTEmjyn7HHK) | 2:55 | 2023-07-14 |  |
 | [Plata](https://open.spotify.com/track/2S4GE0dXH8F0G4HZwviRSQ) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [400](https://open.spotify.com/album/1QLh17mGCqestAzRo8VcC0) | 2:57 | 2022-10-14 | 2023-03-11 |
 | [Polygone](https://open.spotify.com/track/6HZgqXad50xSCbAvpzzrfH) | [Nikki\-B](https://open.spotify.com/artist/0W4nncV2qo2VMYhhx1GBA0), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Polygone](https://open.spotify.com/album/7rRouNve7pkhxSWiTStvJs) | 3:29 | 2022-09-16 | 2022-11-26 |
-| [Pont Champlain](https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pont Champlain](https://open.spotify.com/album/1fumWxp522ocJH8odkks3L) | 3:30 | 2023-03-17 |  |
+| [Pont Champlain](https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pont Champlain](https://open.spotify.com/album/1fumWxp522ocJH8odkks3L) | 3:30 | 2023-03-17 | 2023-08-05 |
 | [Porte](https://open.spotify.com/track/1XkvgJQShm0CpIWe6UbTHH) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Pour de Vrai](https://open.spotify.com/album/5JcvPcv2DJ51OEdOKrfZrw) | 3:03 | 2022-11-11 | 2023-06-17 |
 | [Post mortem](https://open.spotify.com/track/60TztDj0niSWokNuDrAlx8) | [Bkay](https://open.spotify.com/artist/5JoE2pt6hYEd4g4qq5rQHl) | [Post mortem](https://open.spotify.com/album/0oT0z4MkqXDQlGsmK7fh6a) | 3:30 | 2022-02-11 | 2022-03-12 |
 | [Poutine Sauce](https://open.spotify.com/track/0r1dJC8vkEiuqiW7KqVf3g) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Poutine Sauce](https://open.spotify.com/album/4QxwYAdzuPYO8v8gS2fLWO) | 3:32 | 2022-01-07 | 2022-02-12 |

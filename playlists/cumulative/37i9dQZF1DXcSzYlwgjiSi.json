@@ -1705,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "Have A Good Time",
+        "url": "https://open.spotify.com/album/7AjXiy71zgyqiAw8iqtf9S"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211093,
+      "name": "Have A Good Time",
+      "url": "https://open.spotify.com/track/7Mjp2UDsPGeWqCLFnKPP2v"
+    },
+    {
+      "album": {
         "name": "California Sunrise",
         "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },

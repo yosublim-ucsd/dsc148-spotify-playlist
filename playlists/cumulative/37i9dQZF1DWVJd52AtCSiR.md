@@ -4,7 +4,7 @@
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-140 songs - 7 hr 13 min
+141 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,5 +148,6 @@
 | [Will He Shoemaker?](https://open.spotify.com/track/57oVp2b8qARYTp8XbVkDaZ) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 3:17 | 2021-10-07 | 2022-09-03 |
 | [You Can Never Belong](https://open.spotify.com/track/3hxmdwLdmjSwV15ahceHY7) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 3:54 | 2021-10-07 | 2022-07-16 |
 | [You'll Be in My Heart](https://open.spotify.com/track/15DB0qZcbqxSkvjqGM9bds) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0) | [Disney Peaceful Strings: Relax](https://open.spotify.com/album/6cBNz6y4BwjCFKawzy55mW) | 3:50 | 2023-01-09 |  |
+| [You've Got A Friend In Me \- From "Toy Story"](https://open.spotify.com/track/0Dc5fbpiEcLYnYajH8FqDt) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [You've Got A Friend In Me \(From "Toy Story"\)](https://open.spotify.com/album/6lArXn3181ZklgXGXdFdqk) | 4:12 | 2023-08-04 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Lorem 🤝 Bleached\. Ft our favorite tracks from the festival's artists + new releases in the Lorem world.
 
-2,328 songs - 5 day 5 hr 7 min
+2,330 songs - 5 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,7 +633,7 @@
 | [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 | 2022-12-09 | 2023-02-15 |
 | [endlessly](https://open.spotify.com/track/4dR4CSy5uvkyBgPN1YeMDs) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/6uE1hp1mHK0kQXxnTEsuaT) | 2:05 | 2022-02-11 | 2022-05-19 |
 | [Endlessly](https://open.spotify.com/track/0wzCQjc8JRa39ej1TFkAFt) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:35 | 2023-04-18 | 2023-07-29 |
-| [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 | 2022-08-12 | 2022-12-15 |
+| [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 | 2022-08-12 |  |
 | [Enfance 80](https://open.spotify.com/track/41EVzZNXWACIguYgegrrFX) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Enfance 80](https://open.spotify.com/album/60LNVKspXzJne1FidTar5h) | 3:42 | 2020-05-01 | 2021-01-23 |
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-07-01 | 2022-08-06 |
 | [enjoy it while u can!](https://open.spotify.com/track/2r8ByPRBEiCODQjYaMotae) | [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy) | [enjoy it while u can!](https://open.spotify.com/album/6gBhlrxXGFGbmnuy5v8pGF) | 2:24 | 2020-07-24 | 2020-10-07 |
@@ -1749,6 +1749,7 @@
 | [Selfluv](https://open.spotify.com/track/2IDLUO7LuKyTiLZLIEVvoG) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7), [GUS](https://open.spotify.com/artist/4ZZpN3SBlgpAT8SqIJ74nv) | [Selfluv](https://open.spotify.com/album/7yVjwaU7hkPOoP41OZhmkf) | 4:33 | 2020-03-13 | 2020-05-07 |
 | [Sensitive](https://open.spotify.com/track/1XbyfNSAe9UHBjn22YJ7Ys) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Sensitive](https://open.spotify.com/album/4Wml9i3C4GlRNbdj99rRmX) | 2:47 | 2021-02-19 | 2021-04-16 |
 | [sent you flowers.](https://open.spotify.com/track/4rvikymmhww79w4fIiXm6J) | [adobee.](https://open.spotify.com/artist/3ag2JXWElKqKiJsU9pe7Rs), [Roy Blair](https://open.spotify.com/artist/2bg4TKwooGY8KpfMAwVUng), [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [sent you flowers.](https://open.spotify.com/album/7nsjMzKUllwqFFUm7gyHyl) | 2:01 | 2020-01-10 | 2020-01-14 |
+| [Sepsis](https://open.spotify.com/track/5hSH7K2BAcdkDo4VRVreTo) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 3:46 | 2023-08-04 |  |
 | [september](https://open.spotify.com/track/6JU5xmZEqXxw2sukVDCcba) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [september](https://open.spotify.com/album/5NG3pro4O1omnF9nTdxptQ) | 3:02 | 2022-06-17 | 2022-07-01 |
 | [Serotonin](https://open.spotify.com/track/1q2Zb0v5ZGxKDktEz7wSPb) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Serotonin](https://open.spotify.com/album/7Dv5bbo8oZ0KTrXG6CkeUO) | 3:02 | 2021-03-06 | 2022-01-08 |
 | [Set The Table \(feat\. Claud\)](https://open.spotify.com/track/4KKfz33BvPygaynUJyeyC2) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Set The Table](https://open.spotify.com/album/293J6DF0p1SvXtIt9xFilZ) | 3:15 | 2021-04-10 | 2021-08-14 |
@@ -2167,6 +2168,7 @@
 | [UrbanAngel1999](https://open.spotify.com/track/0sDsJ3HMMzrelKD11WARqc) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [UrbanAngel1999](https://open.spotify.com/album/5axdYpfOE0FnDMPlhxyqXQ) | 3:10 | 2020-09-10 | 2021-06-24 |
 | [Used To Love](https://open.spotify.com/track/6WC27GPEjsX24Vv12VX6mb) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Used To Love](https://open.spotify.com/album/2oGxWLARSLplTHJ4HhiwPD) | 3:35 | 2019-10-04 | 2020-01-10 |
 | [useless](https://open.spotify.com/track/7KQ8sdFIWCCDXIcQDEeuzC) | [RUFUS](https://open.spotify.com/artist/2s5bedliLW2wGQgXprYzsP) | [useless](https://open.spotify.com/album/3Y9SgjeoJPTRImcJaYqYKm) | 2:36 | 2019-08-02 | 2020-02-05 |
+| [Valapriso](https://open.spotify.com/track/1Z3hqW2OprFrwO05euqt8z) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Valapriso](https://open.spotify.com/album/6Ro2L2h4BlChNYSiy00mys) | 3:07 | 2023-08-04 |  |
 | [Vampire](https://open.spotify.com/track/0SRPuTnr5QOKRoIxMvvlgK) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 3:06 | 2020-07-31 | 2020-11-20 |
 | [vampire](https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [vampire](https://open.spotify.com/album/13WWTAEpg25HmUqtqpVI0P) | 2:40 | 2022-05-06 | 2022-08-05 |
 | [Vanity](https://open.spotify.com/track/073ieHTpc9Lfug88ojL9DT) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Mildew](https://open.spotify.com/album/4yGtkKywRagLcmI3U0ldbe) | 4:53 | 2020-08-20 | 2020-09-04 |

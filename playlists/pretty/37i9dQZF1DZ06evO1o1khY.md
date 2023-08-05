@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,378 likes - 29 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,386 likes - 29 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 18 | [Bestfrenn \(feat\. GloRilla\)](https://open.spotify.com/track/2c8XhH3CD3Ztja2MIBxILf) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Bestfrenn \(feat\. GloRilla\)](https://open.spotify.com/album/2PH99JWwjb865QK15qvO0m) | 2:18 |
 | 19 | [Gang Nem](https://open.spotify.com/track/6klLjDbLFjIINFcNSkgnTZ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Gang Nem](https://open.spotify.com/album/3yFLxnWLRK4nUfq4XpU4au) | 2:43 |
 | 20 | [No More Love](https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:10 |
-| 21 | [OOOHH](https://open.spotify.com/track/1qJvi5YfZTRQcdzrqD4oT4) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gloss Up](https://open.spotify.com/artist/1U5XNJxVpvBL6HJCK1vPhR), [Stmg](https://open.spotify.com/artist/1McizXN31c3hgEgPbRMoJ2) | [OOOHH](https://open.spotify.com/album/51Q9lpFEfU4iyXOgtSo7E1) | 3:15 |
-| 22 | [Outside](https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Niki Pooh](https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX) | [Outside](https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC) | 2:35 |
+| 21 | [Outside](https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Niki Pooh](https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX) | [Outside](https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC) | 2:35 |
+| 22 | [OOOHH](https://open.spotify.com/track/1qJvi5YfZTRQcdzrqD4oT4) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gloss Up](https://open.spotify.com/artist/1U5XNJxVpvBL6HJCK1vPhR), [Stmg](https://open.spotify.com/artist/1McizXN31c3hgEgPbRMoJ2) | [OOOHH](https://open.spotify.com/album/51Q9lpFEfU4iyXOgtSo7E1) | 3:15 |
 | 23 | [Better Thangs \(with Summer Walker & GloRilla\) \- Remix](https://open.spotify.com/track/0xUZ8H6dtWmXRTyqgRkkTO) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Better Thangs \(Remix\)](https://open.spotify.com/album/5Ekjip2Vx87beFHsrKDCWt) | 3:35 |
 | 24 | [Out Loud Thinking](https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:50 |
 | 25 | [Common Denominator](https://open.spotify.com/track/5MFkk1aeKVU6XBOKqkSnNn) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Common Denominator](https://open.spotify.com/album/1eIgblJilmCeaymw8cyeTt) | 2:37 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 28 | [You Ain't Shit](https://open.spotify.com/track/5DE3GqkM204y8eS2AAhujh) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [You Ain't Shit](https://open.spotify.com/album/1OacT8jeOurJExUtAUf2M9) | 3:40 |
 | 29 | [Afford Me](https://open.spotify.com/track/6zNYUZJGEs70HIH40SFhYX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [JaTavia Akiaa](https://open.spotify.com/artist/2zanO9oR7cBRKmEdi4Gzll) | [Afford Me](https://open.spotify.com/album/5Huo9LyxnF12d2aogAGgeQ) | 3:29 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDAwYzExMDEzNDYyNjJiM2U0Zjk2ZWI5NzAwZWMwZGE1OQ==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDBlMWNhMjg2ZjFkZTAyYmI1MTc4ODhmODFkODNkMTczYg==`

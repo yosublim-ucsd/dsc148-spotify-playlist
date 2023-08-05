@@ -217,6 +217,32 @@
     },
     {
       "album": {
+        "name": "CHIEN DE LA RUE",
+        "url": "https://open.spotify.com/album/3TaMnYmnticc6CAZcWR1ic"
+      },
+      "artists": [
+        {
+          "name": "Chystemc",
+          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+        },
+        {
+          "name": "Mani De\u00efz",
+          "url": "https://open.spotify.com/artist/0IKPfKkoKDbdQTKX0LCFZB"
+        },
+        {
+          "name": "Santa Salut",
+          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206190,
+      "name": "BONS\u00c1I",
+      "url": "https://open.spotify.com/track/1IiG7d7bck8O18WcfNJHde"
+    },
+    {
+      "album": {
         "name": "Boombarrio",
         "url": "https://open.spotify.com/album/5bmFCK52DIm32GPjOzzT8V"
       },
@@ -782,6 +808,28 @@
       "duration_ms": 227727,
       "name": "Definitiva-Mente",
       "url": "https://open.spotify.com/track/4MowkQMmyvH83UBYH3u2iw"
+    },
+    {
+      "album": {
+        "name": "El Arte de No Estar Ni Ah\u00ed 2",
+        "url": "https://open.spotify.com/album/6d0VvzDBIto0jdqgVNu195"
+      },
+      "artists": [
+        {
+          "name": "Motafonkas",
+          "url": "https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS"
+        },
+        {
+          "name": "Ambar Luna",
+          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/0pGSMJUKF5WSkv3biaKscJ"
     },
     {
       "album": {
@@ -1662,7 +1710,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 212936,
       "name": "III Figura",
       "url": "https://open.spotify.com/track/7aukVJcUSYzvbpyP3LhZwN"
@@ -2180,7 +2228,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 177272,
       "name": "No Le Bajes",
       "url": "https://open.spotify.com/track/4lfJ1o9QFUhqULepgZdlD8"

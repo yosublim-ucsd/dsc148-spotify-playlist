@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3wc57nV2fGEoM8x4xPK1O9">Dixon</a>'s favorite tracks\. Updated regularly\. Curated by Dixon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-292 songs - 1 day 2 hr 16 min
+293 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 | 2023-04-14 |  |
 | [Bo Yaka \- Astral Mix](https://open.spotify.com/track/3BFrNadf7LWn0MZ11HlYAn) | [Prince Kongo](https://open.spotify.com/artist/05NHCKlMPrkOlBH9oHYA6M), [Joe Kinwu](https://open.spotify.com/artist/5byY1PtmhFn3IIZuj5NtfY) | [Bo Yaka \(Remixes\)](https://open.spotify.com/album/28L5jAjy5l1nnPqnn9n0Tv) | 3:24 | 2023-04-14 |  |
 | [Bone](https://open.spotify.com/track/0JnzTTr0uUQHsQaAA2XOVe) | [Map Of Africa](https://open.spotify.com/artist/11JxhpXpF2NkGjPsYoyv92) | [Late Night Tales: Django Django](https://open.spotify.com/album/6bkHnwgH22RQlsMke4UMqD) | 3:49 | 2022-11-08 | 2022-12-24 |
-| [Border River Flow](https://open.spotify.com/track/4Wuhb6qTENf4xtIOzf0QGr) | [Owari](https://open.spotify.com/artist/2Uu40uaNa3ozTiqpiG2V2d) | [Border River Flow](https://open.spotify.com/album/387OAcgbxiMMTNHaPU2TEs) | 3:56 | 2023-04-14 |  |
+| [Border River Flow](https://open.spotify.com/track/35qOtH2ADY9Nn7b4zQ87ex) | [Owari](https://open.spotify.com/artist/2Uu40uaNa3ozTiqpiG2V2d) | [Border River Flow](https://open.spotify.com/album/0CedJdj0ROZJrfkycyItRP) | 3:56 | 2023-06-06 |  |
+| [Border River Flow](https://open.spotify.com/track/4Wuhb6qTENf4xtIOzf0QGr) | [Owari](https://open.spotify.com/artist/2Uu40uaNa3ozTiqpiG2V2d) | [Border River Flow](https://open.spotify.com/album/387OAcgbxiMMTNHaPU2TEs) | 3:56 | 2023-04-14 | 2023-08-05 |
 | [Bouabre](https://open.spotify.com/track/4d373FfukuornBA2UiluPw) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ) | [Rob The Plants](https://open.spotify.com/album/0MrsuuNgVd32YYtBJkC79h) | 6:09 | 2023-06-06 |  |
 | [BREATHE \- Edit](https://open.spotify.com/track/4hQSEqsdY7NJRP0qY74nrd) | [PVBLIC XCESS](https://open.spotify.com/artist/3iD9oBONm3q7TjPagMYrVh), [Duchess](https://open.spotify.com/artist/6s0EQIA8heD6JVi8jNW207) | [BREATHE \(Edit\)](https://open.spotify.com/album/4R89mPXDuMs4W4jJmZ0fXQ) | 3:24 | 2023-02-02 | 2023-04-15 |
 | [Broken Melody](https://open.spotify.com/track/0laa1rK5dPLXwF1Qi4Vu4b) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Broken Melody](https://open.spotify.com/album/4gzeLQvhfZ5vjnblYDMBqn) | 4:26 | 2022-09-19 | 2023-02-03 |

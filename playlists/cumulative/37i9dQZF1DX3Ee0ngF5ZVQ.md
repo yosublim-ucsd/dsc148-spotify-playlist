@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jenna Paulette
 
-485 songs - 1 day 4 hr 50 min
+487 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Gold Standard](https://open.spotify.com/track/3ZVMKmTQfuzGgMAV85zYVf) | [Kelley Mickwee](https://open.spotify.com/artist/1mL6Bc23N2p1OTNnlrgy3K) | [Gold Standard](https://open.spotify.com/album/31CLQQHswNksEu8ODlpvEC) | 3:04 | 2022-02-25 | 2022-07-09 |
 | [Gonna Come Back as a Country Song](https://open.spotify.com/track/5KTRvA487P1YQ0gyZ11TRb) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Gonna Come Back as a Country Song](https://open.spotify.com/album/5cPlErhGpL5E8kujxQsQsk) | 3:04 | 2022-04-15 | 2022-08-11 |
 | [Goodbye Gasoline](https://open.spotify.com/track/30mjMeBQmodiVVWfrpFhPM) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Goodbye Gasoline](https://open.spotify.com/album/5PKGayTUSJYbZBCeMxEDqY) | 2:45 | 2022-02-11 | 2022-07-29 |
+| [Goodbye Horses](https://open.spotify.com/track/4dM6n7StQUjohoWk0JFLw4) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [What Is It Even?](https://open.spotify.com/album/7pOByvaZQPALod9AwZJi3j) | 3:41 | 2023-08-04 |  |
 | [Grain of Salt](https://open.spotify.com/track/0Kv4Y5oOn41W93IFXsvcpY) | [Kin Faux](https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu) | [Grain of Salt](https://open.spotify.com/album/11fYmLaOYK0KKoj77tliqj) | 3:49 | 2022-07-15 | 2022-07-18 |
 | [Green Eyes Blue](https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Green Eyes Blue](https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq) | 3:37 | 2023-03-24 |  |
 | [Growing Up](https://open.spotify.com/track/0OQBDgDbMM9eJITeGwZusI) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41) | [Growing Up](https://open.spotify.com/album/5RKdHUALvM0KCNPwsHRO1V) | 3:44 | 2022-07-08 | 2022-07-30 |
@@ -248,7 +249,7 @@
 | [Know That by Now](https://open.spotify.com/track/1yL8k3wylADawLh7T5BzbO) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Know That by Now](https://open.spotify.com/album/6tZ6olAlfKCuB3ZWr741LC) | 4:01 | 2022-09-23 | 2023-02-01 |
 | [Last American Summer](https://open.spotify.com/track/75YFljzpMBKPICS0UhktL3) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Last American Summer](https://open.spotify.com/album/1ELbgyymPeozN3fYiKIZEJ) | 3:51 | 2023-06-30 |  |
 | [Last Goodbye](https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Last Goodbye](https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA) | 3:32 | 2023-06-09 |  |
-| [Learnin' my Lesson](https://open.spotify.com/track/0BbB09Svr2wBTYERsUJ10b) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD), [Wes Bayliss](https://open.spotify.com/artist/4HVDdibCfau9ebwkNxDp0f) | [Learnin' my Lesson](https://open.spotify.com/album/7GUnsUVz27ZchZ7vmtm1Mn) | 3:07 | 2023-07-07 |  |
+| [Learnin' my Lesson](https://open.spotify.com/track/0BbB09Svr2wBTYERsUJ10b) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD), [Wes Bayliss](https://open.spotify.com/artist/4HVDdibCfau9ebwkNxDp0f) | [Learnin' my Lesson](https://open.spotify.com/album/7GUnsUVz27ZchZ7vmtm1Mn) | 3:07 | 2023-07-07 | 2023-08-05 |
 | [Legends](https://open.spotify.com/track/3tMySztcJ2hrYLHOAXpCVc) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Legends](https://open.spotify.com/album/7fw5CcuAmxFL4eSwoDa69u) | 3:31 | 2022-10-28 | 2023-01-06 |
 | [Let Him In](https://open.spotify.com/track/1Ksas5Umdnh7rLfBhK4wNi) | [Seth Ward](https://open.spotify.com/artist/55kr1RaQ3UONiM6f2AzeHt) | [Let Him In](https://open.spotify.com/album/10Am8PcY3Z0DokMgDBmldJ) | 3:59 | 2021-12-17 | 2022-03-19 |
 | [Life Without You](https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:46 | 2021-12-17 | 2022-03-19 |
@@ -290,7 +291,7 @@
 | [My Guitar](https://open.spotify.com/track/2R8J4w7gU2jdhE19Eq353x) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [My Guitar](https://open.spotify.com/album/6SrueBxY4VCFGfWmPzxM6S) | 3:06 | 2022-06-24 | 2022-07-21 |
 | [My Heart You'll Tend](https://open.spotify.com/track/3po9LDXpTQyJCPc5O1RUut) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [My Heart You'll Tend](https://open.spotify.com/album/1KpJBUETISSfAToyFkBDDA) | 3:53 | 2023-07-28 |  |
 | [My Mistake](https://open.spotify.com/track/7qob3E6PdqRBJw0BnSjE5g) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/3kXYEKoW7QdKQALUEdKvbp) | 3:41 | 2021-12-17 | 2022-03-19 |
-| [My Old Man and Jesus](https://open.spotify.com/track/3dm2tAOVyFavpTXVir5sGL) | [Casey Daniels Band](https://open.spotify.com/artist/7eVdtDS1ReoSxBZ4Apqpc7) | [My Old Man and Jesus](https://open.spotify.com/album/1ck49Jsp0ZNzWyPdWUFWif) | 3:26 | 2023-06-23 |  |
+| [My Old Man and Jesus](https://open.spotify.com/track/3dm2tAOVyFavpTXVir5sGL) | [Casey Daniels Band](https://open.spotify.com/artist/7eVdtDS1ReoSxBZ4Apqpc7) | [My Old Man and Jesus](https://open.spotify.com/album/1ck49Jsp0ZNzWyPdWUFWif) | 3:26 | 2023-06-23 | 2023-08-05 |
 | [Neon You](https://open.spotify.com/track/1IuV2JJG9u3fqL5GYT3FEM) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [This Is For You](https://open.spotify.com/album/3PVjlBT5pTSG4YSLsB9oa8) | 3:07 | 2023-06-16 |  |
 | [Neon You](https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Neon You](https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz) | 3:07 | 2022-10-07 | 2023-06-10 |
 | [New Tattoos](https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx) | [South Texas Tweek](https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM) | [New Tattoos](https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom) | 2:37 | 2021-12-17 | 2022-03-19 |
@@ -298,6 +299,7 @@
 | [Nothin' to Lose \(But the Lonely\)](https://open.spotify.com/track/3l8h1ZFp7HRYFEDnVvmJUC) | [Texwestus](https://open.spotify.com/artist/4DQpyVVZCzvcELZZR4jASN) | [Nothing to Lose](https://open.spotify.com/album/2fIeS90l8Ksy21cQ9l1yWc) | 3:44 | 2021-12-17 | 2022-07-14 |
 | [Nothing But Love Songs](https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Nothing But Love Songs](https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK) | 3:45 | 2022-07-29 | 2022-10-25 |
 | [Nothing No More](https://open.spotify.com/track/0kLyVOwCvlxsT7Z3dSJpNg) | [JB and the Moonshine Band](https://open.spotify.com/artist/0fY9RWMWc5guge9XOKe4OW) | [Nothing No More](https://open.spotify.com/album/0yJqJ8of9DVX60BsRP1qEf) | 3:12 | 2023-07-07 |  |
+| [Nothin’s Changed](https://open.spotify.com/track/55Dy9OWWGmV4QQyU9uqjK1) | [Bart Crow](https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1) | [Nothin’s Changed](https://open.spotify.com/album/1mfsIkwIlh9UJ851daTUt2) | 3:02 | 2023-08-04 |  |
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-09-02 |  |
 | [On My Way](https://open.spotify.com/track/5KZzV6eNfHLFjQW4tSoTnr) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [On My Way](https://open.spotify.com/album/18lEO0bUtImvRtUHn9FDgy) | 3:03 | 2022-06-10 | 2022-07-16 |
 | [Once in a Blue Moon](https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Once in a Blue Moon](https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk) | 3:07 | 2022-04-01 | 2023-02-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,418 likes - 85 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,081 likes - 85 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [バグちゃん](https://open.spotify.com/track/6MjzbRuEpkmP7fwvwaUF4T) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [バグちゃん\(TVアニメ「聖者無双\~サラリーマン、異世界で生き残るために歩む道\~オープニングテーマ\)](https://open.spotify.com/album/1TuhgrZsLfLks3CRShYoq7) | 3:37 |
 | 85 | [Kakuriyo](https://open.spotify.com/track/5AcpugY3aqM57SLVuTC3If) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [Kakuriyo](https://open.spotify.com/album/6G2dCzjkvQTfdS1AtpXCSx) | 3:53 |
 
-Snapshot ID: `MCxkMmRlZWNkM2NkMTVhNWE0MzI2MDdhMDNhNmNhODYxNTFmYjJiZWVl`
+Snapshot ID: `MCwyYWYwNTViMDg1ZjE2OWRiMWNlMjE3NTdlYjQ3ZWNkNDc1ZGQwYWNk`

@@ -1,12 +1,12 @@
 {
   "description": "N.I.N.A e mais mulheres para serem ouvidas no volume m\u00e1ximo! ",
-  "num_followers": 149407,
+  "num_followers": 149402,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDhkYmQ0YmY0NzdjNmY5MGZhODUzNTJiNTU1ZmNiN2Y2ODIzNDIz",
+  "snapshot_id": "MCwzNjYzZjc2M2RlMDA2MjQ0YTVlNjRlNzMyNjhkNWYxMjE2N2FiYzdm",
   "tracks": [
     {
       "added_at": "2023-08-02 03:00:00",
@@ -447,6 +447,26 @@
     {
       "added_at": "2023-08-02 03:00:00",
       "album": {
+        "name": "Espelho Meu",
+        "url": "https://open.spotify.com/album/5zLZ1RHhsbFopNls2yDPj7"
+      },
+      "artists": [
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        },
+        {
+          "name": "DIMVS",
+          "url": "https://open.spotify.com/artist/5jQ0eRnyDLim20WIFzHNIM"
+        }
+      ],
+      "duration_ms": 163974,
+      "name": "Espelho Meu",
+      "url": "https://open.spotify.com/track/4fCWPeVBRRRZXKUwngXjzg"
+    },
+    {
+      "added_at": "2023-08-02 03:00:00",
+      "album": {
         "name": "Nenhuma Outra Mulher",
         "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
       },
@@ -479,22 +499,22 @@
     {
       "added_at": "2023-08-02 03:00:00",
       "album": {
-        "name": "Espelho Meu",
-        "url": "https://open.spotify.com/album/5zLZ1RHhsbFopNls2yDPj7"
+        "name": "Favelinha",
+        "url": "https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd"
       },
       "artists": [
         {
-          "name": "Mc Soffia",
-          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
         },
         {
-          "name": "DIMVS",
-          "url": "https://open.spotify.com/artist/5jQ0eRnyDLim20WIFzHNIM"
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
         }
       ],
-      "duration_ms": 163974,
-      "name": "Espelho Meu",
-      "url": "https://open.spotify.com/track/4fCWPeVBRRRZXKUwngXjzg"
+      "duration_ms": 102958,
+      "name": "Favelinha",
+      "url": "https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod"
     },
     {
       "added_at": "2023-08-02 03:00:00",
@@ -515,26 +535,6 @@
       "duration_ms": 233600,
       "name": "Te quero mais",
       "url": "https://open.spotify.com/track/3ISIvh8jSR6xlO3N2BdlmZ"
-    },
-    {
-      "added_at": "2023-08-02 03:00:00",
-      "album": {
-        "name": "Favelinha",
-        "url": "https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd"
-      },
-      "artists": [
-        {
-          "name": "Jovem MK",
-          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 102958,
-      "name": "Favelinha",
-      "url": "https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod"
     },
     {
       "added_at": "2023-08-02 03:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-08-02 03:00:00",
       "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 120944,
-      "name": "7 Ruas",
-      "url": "https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE"
-    },
-    {
-      "added_at": "2023-08-02 03:00:00",
-      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2023-08-02 03:00:00",
       "album": {
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 120944,
+      "name": "7 Ruas",
+      "url": "https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE"
+    },
+    {
+      "added_at": "2023-08-02 03:00:00",
+      "album": {
         "name": "DE CRIA PRA CRIA",
         "url": "https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad"
       },
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-08-02 03:00:00",
       "album": {
+        "name": "Urucum",
+        "url": "https://open.spotify.com/album/23Zw9VnwKnrSkbGGJQKwPi"
+      },
+      "artists": [
+        {
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+        }
+      ],
+      "duration_ms": 197375,
+      "name": "Mal Nenhum",
+      "url": "https://open.spotify.com/track/0pV74QCFg904RrD0u9vkgl"
+    },
+    {
+      "added_at": "2023-08-02 03:00:00",
+      "album": {
         "name": "Rude",
         "url": "https://open.spotify.com/album/68UOEAyDvW6kxhDDMF5NOC"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 174657,
       "name": "Rude",
       "url": "https://open.spotify.com/track/3rdUXvGBzH97grQewH9AtO"
-    },
-    {
-      "added_at": "2023-08-02 03:00:00",
-      "album": {
-        "name": "Urucum",
-        "url": "https://open.spotify.com/album/23Zw9VnwKnrSkbGGJQKwPi"
-      },
-      "artists": [
-        {
-          "name": "Karol Conk\u00e1",
-          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
-        }
-      ],
-      "duration_ms": 197375,
-      "name": "Mal Nenhum",
-      "url": "https://open.spotify.com/track/0pV74QCFg904RrD0u9vkgl"
     },
     {
       "added_at": "2023-08-02 03:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-08-02 03:00:00",
       "album": {
-        "name": "Urucum",
-        "url": "https://open.spotify.com/album/23Zw9VnwKnrSkbGGJQKwPi"
-      },
-      "artists": [
-        {
-          "name": "Karol Conk\u00e1",
-          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
-        }
-      ],
-      "duration_ms": 152557,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/2ePkP29FCterBBR1SynVoh"
-    },
-    {
-      "added_at": "2023-08-02 03:00:00",
-      "album": {
         "name": "Da Viela Pro Mundo",
         "url": "https://open.spotify.com/album/5VqImQimN6ayrkJGGdbmQ5"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 160000,
       "name": "Artilheira",
       "url": "https://open.spotify.com/track/2H1MEMcbfbKy4NhU5bjDDt"
+    },
+    {
+      "added_at": "2023-08-02 03:00:00",
+      "album": {
+        "name": "Urucum",
+        "url": "https://open.spotify.com/album/23Zw9VnwKnrSkbGGJQKwPi"
+      },
+      "artists": [
+        {
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+        }
+      ],
+      "duration_ms": 152557,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/2ePkP29FCterBBR1SynVoh"
     },
     {
       "added_at": "2023-08-02 03:00:00",

@@ -4,7 +4,7 @@
 
 > Perreo after hours.
 
-323 songs - 17 hr 9 min
+324 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Bombero](https://open.spotify.com/track/0wGUCDSRabJuQa01Hoo0tD) | [J\. Cruze](https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V), [Dj Fredy Fresco](https://open.spotify.com/artist/7v5hVOTXEjeW6jJZ94iKzV) | [Bombero](https://open.spotify.com/album/1QX5SucGWKS4RF2UhdNaC9) | 2:06 | 2022-07-08 | 2023-01-28 |
 | [BOY TOY](https://open.spotify.com/track/4sfiPyEjbUip1wR4wWZcP6) | [Izzy La Reina](https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi) | [BOY TOY](https://open.spotify.com/album/7m0EBWf9PUkwYR4LP9fGdQ) | 2:16 | 2022-03-21 | 2022-04-20 |
 | [Brillo](https://open.spotify.com/track/3hPgU45si92VnVuNyFFVFF) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Brillo](https://open.spotify.com/album/704X09kwq2A7jPVFAZMHF7) | 2:50 | 2022-03-21 | 2022-04-20 |
+| [Cabaña](https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Los Patos Feos Inc](https://open.spotify.com/artist/5ys86BAZteP8RpVCDmT4p5), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Cabaña](https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT) | 2:58 | 2023-08-04 |  |
 | [Cabron](https://open.spotify.com/track/37j4MVGZNm8gdGGLKkSOXW) | [Dj Fredy Fresco](https://open.spotify.com/artist/7v5hVOTXEjeW6jJZ94iKzV), [Miguelito](https://open.spotify.com/artist/4gwgJqemp17xhiPm7pEAqu), [TheoCiros](https://open.spotify.com/artist/54nD27jvViSIUKKKRGInkj) | [Cabron](https://open.spotify.com/album/327yzZyxCQIxZTFUFOQW9M) | 2:40 | 2022-03-21 | 2022-04-26 |
 | [Callaita](https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Callaita](https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7) | 4:10 | 2022-04-19 | 2022-07-09 |
 | [Castigada](https://open.spotify.com/track/3j6Ad8n9AYj2YjMXvDkZOk) | [Catalyna](https://open.spotify.com/artist/7bwjYGg7DOoLpV3AFK2Jmz), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Cory](https://open.spotify.com/artist/7o7FisMfKqVaysG1CSIWrr) | [Castigada](https://open.spotify.com/album/2xVbGAL132T4yXoJDS8TuL) | 3:16 | 2022-07-08 | 2023-05-26 |
@@ -296,7 +297,7 @@
 | [Tiradera](https://open.spotify.com/track/7JhM79M6RQCJEm1uUqTWi8) | [Blanco Balling](https://open.spotify.com/artist/0GPqspWpvbvmfARaIlRKft) | [K.B.B](https://open.spotify.com/album/2GnGn50rINcF61xp06iVmJ) | 2:41 | 2022-09-16 | 2022-10-15 |
 | [Todavía](https://open.spotify.com/track/5kvMHWJfoIgKTpP5HzpG25) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:23 | 2023-06-30 |  |
 | [Tokyo](https://open.spotify.com/track/5au61mbP6G6il9y9cT3hzV) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Tokyo](https://open.spotify.com/album/24JyTtGGX1MJqoCsKbHesg) | 2:37 | 2022-03-21 | 2022-07-09 |
-| [Toma](https://open.spotify.com/track/48iWXYdWMFNenABULLtopW) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Toma](https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF) | 2:42 | 2023-05-25 |  |
+| [Toma](https://open.spotify.com/track/48iWXYdWMFNenABULLtopW) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Toma](https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF) | 2:42 | 2023-05-25 | 2023-08-05 |
 | [TORO](https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Toro](https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2) | 4:14 | 2022-12-07 | 2023-05-26 |
 | [Toto](https://open.spotify.com/track/3IWcUkdKHKCd8yC6WImYnl) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Toto](https://open.spotify.com/album/7uCR5vxsTuVHaqd8nMWoDV) | 2:57 | 2023-05-25 |  |
 | [Tra Tra](https://open.spotify.com/track/46YrvybgPpjBL13f0uc8Oc) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Tra Tra](https://open.spotify.com/album/5KJG1LyqoEmWyidFAm5JYt) | 2:55 | 2022-09-16 | 2022-10-15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Current favorites and exciting new music. Cover: Calvin Harris & Sam Smith ",
+  "description": "Current favorites and exciting new music. Cover: Bebe Rexha & David Guetta",
   "name": "just hits",
   "tracks": [
     {
@@ -336,7 +336,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 170830,
       "name": "A Year Ago",
       "url": "https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 172536,
       "name": "Alright",
       "url": "https://open.spotify.com/track/0zhtsgZpLGeBNQ4MvBV5c5"
@@ -1300,6 +1300,28 @@
       "duration_ms": 169127,
       "name": "At My Worst (feat. Kehlani)",
       "url": "https://open.spotify.com/track/58w68w4s8h9gw3xrDaXyuj"
+    },
+    {
+      "album": {
+        "name": "Atlantis (Robin Schulz Presents KOPPY)",
+        "url": "https://open.spotify.com/album/0RNI2RAuIHHNMDF4AuqkKz"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "KOPPY",
+          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Atlantis (Robin Schulz Presents KOPPY)",
+      "url": "https://open.spotify.com/track/5TdnT5EfvkF6K3jHDe7toT"
     },
     {
       "album": {
@@ -2130,6 +2152,24 @@
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "album": {
+        "name": "Blindside",
+        "url": "https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211835,
+      "name": "Blindside",
+      "url": "https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES"
     },
     {
       "album": {
@@ -4208,7 +4248,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 164914,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
@@ -4746,7 +4786,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 268235,
       "name": "Double Fantasy (with Future)",
       "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
@@ -5188,6 +5228,24 @@
       "duration_ms": 209803,
       "name": "End Of Time",
       "url": "https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc"
+    },
+    {
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191103,
+      "name": "Endless Nights",
+      "url": "https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu"
     },
     {
       "album": {
@@ -8304,7 +8362,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 190902,
       "name": "I like u",
       "url": "https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK"
@@ -9611,6 +9669,24 @@
     },
     {
       "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/3oso8n6CkMfjn4h5hEvrjF"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134160,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/4lVRLtbxN9Aqo8zpgqt2ep"
+    },
+    {
+      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -10076,6 +10152,28 @@
       "duration_ms": 207481,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD"
+    },
+    {
+      "album": {
+        "name": "Lifeline (feat. Ella Henderson)",
+        "url": "https://open.spotify.com/album/6cXVZGm8DdsT8QZpfeUST1"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170253,
+      "name": "Lifeline (feat. Ella Henderson)",
+      "url": "https://open.spotify.com/track/0AH3qQFtYXEoCJrc1vysel"
     },
     {
       "album": {
@@ -11626,7 +11724,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 153037,
       "name": "Meltdown",
       "url": "https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5"
@@ -13121,6 +13219,28 @@
     },
     {
       "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+    },
+    {
+      "album": {
         "name": "One Last Time (with R3HAB) (feat. Enny-Mae)",
         "url": "https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX"
       },
@@ -13534,6 +13654,24 @@
       "duration_ms": 218200,
       "name": "PAIN",
       "url": "https://open.spotify.com/track/7quWqKzjJwYXF3cqSDSCRL"
+    },
+    {
+      "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
       "album": {
@@ -14124,7 +14262,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 169325,
       "name": "Pretty Devil",
       "url": "https://open.spotify.com/track/5rLTJ0f8Gyvf96KhT3dz5I"
@@ -14454,6 +14592,24 @@
       "duration_ms": 191254,
       "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
       "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
+    },
+    {
+      "album": {
+        "name": "Ray Of Solar",
+        "url": "https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241793,
+      "name": "Ray Of Solar",
+      "url": "https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8"
     },
     {
       "album": {
@@ -17407,6 +17563,24 @@
     },
     {
       "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/4ZrTFJ486SKULQTaWAGfLm"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316833,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0p4aS6c0Yva2WYrKNQQCnK"
+    },
+    {
+      "album": {
         "name": "The Hard Way",
         "url": "https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff"
       },
@@ -17868,7 +18042,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 183493,
       "name": "TRAINWRECK",
       "url": "https://open.spotify.com/track/5j8USqbwYjEa0pP8lgphzy"
@@ -18418,7 +18592,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 155258,
       "name": "VULGAR (with Madonna)",
       "url": "https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL"

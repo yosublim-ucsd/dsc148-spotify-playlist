@@ -4,7 +4,7 @@
 
 > Las más bichotas de la escena featuring TAICHU.
 
-112 songs - 5 hr 25 min
+114 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,10 +43,12 @@
 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 | 2023-03-17 |  |
 | [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 | 2023-03-17 |  |
 | [fue mejor](https://open.spotify.com/track/2I9t0e3gLAKOi5syoHxP46) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:48 | 2023-03-17 |  |
+| [Gata Gangster](https://open.spotify.com/track/14y09CdlBDvgbkoS08c6L6) | [La Julietita](https://open.spotify.com/artist/3aw6q1vPCwLaRzlys6comg), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6) | [Gata Gangster](https://open.spotify.com/album/1kL1lEEwZ9VEiFzTheaDhb) | 2:42 | 2023-08-04 |  |
 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 | 2023-03-17 |  |
 | [GATÚBELA](https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [GATÚBELA](https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA) | 3:29 | 2023-03-17 |  |
 | [Glock](https://open.spotify.com/track/1N6VDChBSHkitVoaJlU42T) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Nena Trampa \(Deluxe Edition\)](https://open.spotify.com/album/7ntr88BWCrwZGySZQlHgBM) | 2:58 | 2023-04-14 |  |
 | [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 | 2023-03-17 | 2023-04-23 |
+| [Hey Pa'](https://open.spotify.com/track/4TXGqY6364608w12mhtRxy) | [Jossi](https://open.spotify.com/artist/51ZHU1EKuVtXdVO561U7zJ) | [Hey Pa'](https://open.spotify.com/album/2fKpgsiWV6v768LFwhBoxa) | 2:17 | 2023-08-04 |  |
 | [Hey Siri](https://open.spotify.com/track/5ohqJK8ieHOGIUsbw2oZqQ) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Hey Siri](https://open.spotify.com/album/26PSRzfCh69uiTBWg2eIZO) | 2:27 | 2023-03-17 | 2023-05-09 |
 | [intoxicao](https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:48 | 2023-03-17 |  |
 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 | 2023-03-17 |  |
@@ -74,10 +76,10 @@
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2023-03-17 |  |
 | [MONA XINA](https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [MONA XINA](https://open.spotify.com/album/5RHQ2fzewCE9TeJNG0pQMx) | 2:32 | 2023-03-17 | 2023-04-09 |
 | [Mujerón](https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Mujerón](https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX) | 2:50 | 2023-03-17 |  |
-| [n la disco](https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:02 | 2023-03-17 |  |
+| [n la disco](https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:02 | 2023-03-17 | 2023-08-05 |
 | [narcisa](https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [besitos, cuídate](https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu) | 2:53 | 2023-03-17 |  |
 | [Nena](https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [EKKI](https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5) | [Nena](https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva) | 3:21 | 2023-04-14 | 2023-07-05 |
-| [Nena Trampa](https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 2:27 | 2023-03-17 |  |
+| [Nena Trampa](https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 2:27 | 2023-03-17 | 2023-08-05 |
 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 | 2023-03-17 |  |
 | [Nobody Like Yo](https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nobody Like Yo](https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ) | 2:34 | 2023-03-17 |  |
 | [NOCHE DE SATEO](https://open.spotify.com/track/0OkrRSwJYVXQi7EKtjVO5m) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 2:53 | 2023-07-27 |  |

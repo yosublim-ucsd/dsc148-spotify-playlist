@@ -1,28 +1,32 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx?si=EzDRsNliTqKI0xKJPjwzhA\">Cream Machine</a> ",
-  "num_followers": 1114,
+  "num_followers": 1121,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjUyYjE5YTY3ZWI5YWMzNTUzYmNhNTFjNDg3MWQ5N2VlNjVmZjAz",
+  "snapshot_id": "MCw1YjFlNjE0NjU0ZGM4ODc1ZWQ5YjBmNWFmMjRjZDc4MDY1OTRhNGM4",
   "tracks": [
     {
-      "added_at": "2023-07-27 21:59:00",
+      "added_at": "2023-08-04 08:38:57",
       "album": {
-        "name": "Way Back",
-        "url": "https://open.spotify.com/album/6IKLbddOqFbBZQ6VQGwcDk"
+        "name": "JMHWB",
+        "url": "https://open.spotify.com/album/1T6tnYZ1l4htYjHyQ8aNWO"
       },
       "artists": [
         {
           "name": "Cream Machine",
           "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
+        },
+        {
+          "name": "Stuwi W",
+          "url": "https://open.spotify.com/artist/1I6vji9IXigkijAeej9pQO"
         }
       ],
-      "duration_ms": 209655,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/527mz0huuO9JxDvSPitqzl"
+      "duration_ms": 227691,
+      "name": "JMHWB",
+      "url": "https://open.spotify.com/track/2iVtx13izbsfNMdDjmK7Th"
     },
     {
       "added_at": "2023-01-27 11:30:47",
@@ -41,20 +45,44 @@
       "url": "https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1"
     },
     {
-      "added_at": "2023-07-13 21:59:00",
+      "added_at": "2023-08-04 08:38:57",
       "album": {
-        "name": "My testimony",
-        "url": "https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s"
+        "name": "Big Fish",
+        "url": "https://open.spotify.com/album/4VdJbhqCsOMd85sHF9x11k"
       },
       "artists": [
+        {
+          "name": "Die Twaalf",
+          "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
+        },
         {
           "name": "Bigbforever",
           "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
         }
       ],
-      "duration_ms": 245764,
-      "name": "My testimony",
-      "url": "https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez"
+      "duration_ms": 187431,
+      "name": "Big Fish",
+      "url": "https://open.spotify.com/track/7dq3upkgbcExbqQW5CCm2F"
+    },
+    {
+      "added_at": "2023-08-04 08:38:57",
+      "album": {
+        "name": "Awe",
+        "url": "https://open.spotify.com/album/0VtgAxF8js5FxEPMNNQeba"
+      },
+      "artists": [
+        {
+          "name": "Young Midi",
+          "url": "https://open.spotify.com/artist/4NQRYP8Shjn1eA4Ic0iTk4"
+        },
+        {
+          "name": "Buzzi Lee",
+          "url": "https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Awe",
+      "url": "https://open.spotify.com/track/07pekB0VlTJg0tpb8qvTcH"
     },
     {
       "added_at": "2023-05-05 04:30:19",
@@ -109,6 +137,38 @@
       "url": "https://open.spotify.com/track/1knJxiQusxbgHW0oKjwOym"
     },
     {
+      "added_at": "2023-07-13 21:59:00",
+      "album": {
+        "name": "Duidelik",
+        "url": "https://open.spotify.com/album/7iZV2Pb6drsJNfwxwUgHDh"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        }
+      ],
+      "duration_ms": 122435,
+      "name": "Duidelik",
+      "url": "https://open.spotify.com/track/0fzhyU8gk2lYMAzzyd2dg9"
+    },
+    {
+      "added_at": "2023-07-13 21:59:00",
+      "album": {
+        "name": "My testimony",
+        "url": "https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s"
+      },
+      "artists": [
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        }
+      ],
+      "duration_ms": 245764,
+      "name": "My testimony",
+      "url": "https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez"
+    },
+    {
       "added_at": "2023-04-06 21:59:00",
       "album": {
         "name": "Die Lewe is 'n Lied",
@@ -131,6 +191,22 @@
       "duration_ms": 239591,
       "name": "Die Lewe is 'n Lied",
       "url": "https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q"
+    },
+    {
+      "added_at": "2023-07-27 21:59:00",
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/6IKLbddOqFbBZQ6VQGwcDk"
+      },
+      "artists": [
+        {
+          "name": "Cream Machine",
+          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/527mz0huuO9JxDvSPitqzl"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -211,22 +287,6 @@
       "duration_ms": 243353,
       "name": "Letterkundig - 7785 oordrom remix",
       "url": "https://open.spotify.com/track/792Q46TaZHAJWvto8A99vu"
-    },
-    {
-      "added_at": "2023-07-13 21:59:00",
-      "album": {
-        "name": "Duidelik",
-        "url": "https://open.spotify.com/album/7iZV2Pb6drsJNfwxwUgHDh"
-      },
-      "artists": [
-        {
-          "name": "KYLEO FROM THE WEST",
-          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
-        }
-      ],
-      "duration_ms": 122435,
-      "name": "Duidelik",
-      "url": "https://open.spotify.com/track/0fzhyU8gk2lYMAzzyd2dg9"
     },
     {
       "added_at": "2022-09-08 21:59:00",
@@ -403,22 +463,6 @@
       "duration_ms": 330031,
       "name": "Passion Vir Die Game",
       "url": "https://open.spotify.com/track/5Bn47hs1QD5eByG6g11cKS"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
-        "name": "Aangename Kennis",
-        "url": "https://open.spotify.com/album/3rSgGMWq1S2Xipr0kKYfq4"
-      },
-      "artists": [
-        {
-          "name": "Early B",
-          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
-        }
-      ],
-      "duration_ms": 187480,
-      "name": "Cerebellum",
-      "url": "https://open.spotify.com/track/0RITqRIAaeqTkH69haD3SN"
     },
     {
       "added_at": "2022-09-08 21:59:00",
@@ -619,46 +663,6 @@
       "duration_ms": 230186,
       "name": "Dala wat jy moet - Radio Edit",
       "url": "https://open.spotify.com/track/4e3bju60JhI6KWRTsagoAB"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
-        "name": "Funky-Kaans",
-        "url": "https://open.spotify.com/album/4dCrzyFLnOoCrMCEfLZ6qa"
-      },
-      "artists": [
-        {
-          "name": "Early B",
-          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
-        },
-        {
-          "name": "Anny",
-          "url": "https://open.spotify.com/artist/5S3D0VwV9kYiOBsvPRmjT7"
-        }
-      ],
-      "duration_ms": 230626,
-      "name": "Forever Or Never",
-      "url": "https://open.spotify.com/track/2vQlEG2lcO9xcw5t1Gzgtv"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
-        "name": "Meisies & Partytjies",
-        "url": "https://open.spotify.com/album/6zuBf5TT5VdAvijbdb3oCT"
-      },
-      "artists": [
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        },
-        {
-          "name": "Angie oeh",
-          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
-        }
-      ],
-      "duration_ms": 222750,
-      "name": "Meisies & Partytjies",
-      "url": "https://open.spotify.com/track/1psMgy1yY92I0iEDmiEtmT"
     },
     {
       "added_at": "2022-09-08 21:59:00",

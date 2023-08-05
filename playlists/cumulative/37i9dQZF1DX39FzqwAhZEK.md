@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-350 songs - 17 hr 36 min
+351 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [After The Rain Has Fallen](https://open.spotify.com/track/0j7QCxrWopn9BaCvTY4EF8) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/3LdOpCpXEIiL6SiLd0tAd8) | 2:33 | 2022-07-05 | 2023-03-04 |
 | [Against A Paler Sun](https://open.spotify.com/track/7yLum5NO3S84uFaKRnDbYV) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Hibernation](https://open.spotify.com/album/5dVDeiMsoSUGb0KJhXnpmi) | 2:20 | 2022-07-05 | 2023-03-10 |
 | [Against The Sky \- 2005 Digital Remaster](https://open.spotify.com/track/50mwGp3PgKoZldhBvfy2cf) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:52 | 2022-07-05 | 2023-03-31 |
+| [Airflow](https://open.spotify.com/track/4Ip1ZWHSxJ7zaXI4Sk94MM) | [Luna Ombro](https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M) | [Airflow](https://open.spotify.com/album/4AaMJmGRlY33J3AADaca8i) | 3:12 | 2023-08-04 |  |
 | [aldrei endar elskan](https://open.spotify.com/track/0ov4xf6xaae92Ob0fppnSv) | [Traum Fanger](https://open.spotify.com/artist/0yyAswmbegMXrWvdxTEIkF) | [aldrei endar elskan](https://open.spotify.com/album/5daP5cHf9iBMspEtYajoFh) | 2:57 | 2022-07-05 | 2023-07-29 |
 | [Align](https://open.spotify.com/track/5Nawyr4KZXikRk0ULZyBOY) | [Mark Watson](https://open.spotify.com/artist/6vUk8SMonemgCpxqUhYzlv) | [Align](https://open.spotify.com/album/3wkDTcaSDlCjoJ26BMucVD) | 3:35 | 2022-11-11 |  |
 | [All Rivers](https://open.spotify.com/track/5bw8YBybhZA37RZKjZ2voM) | [Static Garden](https://open.spotify.com/artist/3uuH2jEYv8ZArIf83io4hN) | [All Rivers](https://open.spotify.com/album/0QgSmP4m5QXm8s76qrUM91) | 3:57 | 2022-07-05 | 2023-03-04 |
@@ -239,7 +240,7 @@
 | [Places](https://open.spotify.com/track/3OoXbnBZiWY3RHhz31zKPj) | [Elysha Iman](https://open.spotify.com/artist/3YG9AoDdEIOygPtme6s1ZE) | [Places](https://open.spotify.com/album/6EmGsuDo6pV86aTIeeVK99) | 3:25 | 2022-07-05 |  |
 | [Porcelain](https://open.spotify.com/track/1p6B2W8oxPhLhkY9baZbi5) | [Unilow](https://open.spotify.com/artist/3zSgZfjvgK6sEyiEVa2vQa) | [Porcelain](https://open.spotify.com/album/4JM38aezOxi9ZN7dKawJcx) | 2:09 | 2022-11-11 |  |
 | [presence](https://open.spotify.com/track/16n67SZWxTUrA6ROUId39X) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [presence](https://open.spotify.com/album/711PJkTmbbJTTFYvk9h3nq) | 3:22 | 2022-07-05 |  |
-| [Profound](https://open.spotify.com/track/738ZWyXzrfKT1OuyRJmmsX) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Profound](https://open.spotify.com/album/2T5PHfwAwONbtakHIwNb5X) | 3:20 | 2022-07-05 |  |
+| [Profound](https://open.spotify.com/track/738ZWyXzrfKT1OuyRJmmsX) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Profound](https://open.spotify.com/album/2T5PHfwAwONbtakHIwNb5X) | 3:20 | 2022-07-05 | 2023-08-05 |
 | [Pulsar](https://open.spotify.com/track/1DS4QEIy4juYscI1xWYnad) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Pulsar](https://open.spotify.com/album/0EVavxdvKSfRqPKoS2gq6s) | 2:42 | 2023-06-16 |  |
 | [Quiet Awareness](https://open.spotify.com/track/395VlKRtLopomEXtjYSDsz) | [Yonah Stana](https://open.spotify.com/artist/6xA4srnsCK7Br48BUr9dOZ) | [Quiet Awareness](https://open.spotify.com/album/181nSoFp5KA9GKmAikQD18) | 3:01 | 2022-07-05 |  |
 | [Quiet Stars](https://open.spotify.com/track/1OlQRV9bOuT0CGCNI225EP) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Quiet Stars](https://open.spotify.com/album/1160mTTHoFxFl3wFuIkUGX) | 1:54 | 2022-07-05 | 2023-07-29 |

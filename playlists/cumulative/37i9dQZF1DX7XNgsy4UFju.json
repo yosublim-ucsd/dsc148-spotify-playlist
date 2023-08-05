@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Home to all the latest indie jams. Cover: Mitski",
+  "description": "Home to all the latest indie jams. Cover: Carly Rae Jepsen",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -340,7 +340,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 165916,
       "name": "A Good Thing",
       "url": "https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-03",
+      "date_removed": null,
       "duration_ms": 205890,
       "name": "Aftershook",
       "url": "https://open.spotify.com/track/4AdD9JhtqFrMXrSXOQ2MGT"
@@ -856,7 +856,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 145346,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0qK81UQieeWpsCPFLvHNWO"
@@ -1146,6 +1146,24 @@
       "duration_ms": 327816,
       "name": "Ancestors Too Young",
       "url": "https://open.spotify.com/track/2R68ppaS9ZRhOCGIcL1vPX"
+    },
+    {
+      "album": {
+        "name": "Songs For Ghosts",
+        "url": "https://open.spotify.com/album/45GMvUoGrOypKd28DXuNwe"
+      },
+      "artists": [
+        {
+          "name": "Michael Seyer",
+          "url": "https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200125,
+      "name": "angel",
+      "url": "https://open.spotify.com/track/6NbjZZ8yBxOPP7YGRRUV32"
     },
     {
       "album": {
@@ -1846,7 +1864,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 189338,
       "name": "Bender",
       "url": "https://open.spotify.com/track/0HOGhI5rJXiDaNI3DQ43dz"
@@ -5082,7 +5100,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 192752,
       "name": "Do You Wanna Party",
       "url": "https://open.spotify.com/track/1m7dBXRT9sndeZjVonOdfa"
@@ -5426,7 +5444,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 145093,
       "name": "Dummy",
       "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
@@ -7441,6 +7459,24 @@
     },
     {
       "album": {
+        "name": "Girl Supreme",
+        "url": "https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168798,
+      "name": "Girl Supreme",
+      "url": "https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB"
+    },
+    {
+      "album": {
         "name": "girlfriend",
         "url": "https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV"
       },
@@ -7752,7 +7788,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 337491,
       "name": "Golden Days",
       "url": "https://open.spotify.com/track/0f8cfrDoFjLDgdtaYfPJKh"
@@ -8947,6 +8983,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6en7EAve3rxTKP1RTwzClA"
+      },
+      "artists": [
+        {
+          "name": "Hannah Georgas",
+          "url": "https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235829,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6vB9ixXZc8yqpYjcJshlgG"
+    },
+    {
+      "album": {
         "name": "Home By Now",
         "url": "https://open.spotify.com/album/6ua077NQRY18YA0Yhk5rVt"
       },
@@ -9012,7 +9066,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 209837,
       "name": "hometown - edit",
       "url": "https://open.spotify.com/track/1uihJ89LWkV042gu5sO4sU"
@@ -9160,7 +9214,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 168571,
       "name": "house cats",
       "url": "https://open.spotify.com/track/1P2VyW7kOOppI7HEiWs9hq"
@@ -12549,6 +12603,24 @@
     },
     {
       "album": {
+        "name": "Me And You, Anywhere",
+        "url": "https://open.spotify.com/album/6Ae3GMu40g4zisALlypWZz"
+      },
+      "artists": [
+        {
+          "name": "Deadharrie",
+          "url": "https://open.spotify.com/artist/2AQksJj3wc0pTSVLZtjUJX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202900,
+      "name": "Me And You, Anywhere",
+      "url": "https://open.spotify.com/track/2YyvOCmxDpyTkovTmA86XY"
+    },
+    {
+      "album": {
         "name": "Measure of a Man (feat. Central Cee)",
         "url": "https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG"
       },
@@ -12568,6 +12640,24 @@
       "duration_ms": 195466,
       "name": "Measure of a Man (feat. Central Cee)",
       "url": "https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r"
+    },
+    {
+      "album": {
+        "name": "Melanin",
+        "url": "https://open.spotify.com/album/4GJayZNnz62Ui8PEWIOLY6"
+      },
+      "artists": [
+        {
+          "name": "Beach Season",
+          "url": "https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196415,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/4Okac0NBnN75gtBGTEh6Bv"
     },
     {
       "album": {
@@ -14011,6 +14101,24 @@
     },
     {
       "album": {
+        "name": "Where Are You Going?",
+        "url": "https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212985,
+      "name": "Now I Know You",
+      "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
+    },
+    {
+      "album": {
         "name": "Nowhere At All",
         "url": "https://open.spotify.com/album/5iS0QktbY95tuGK0jPLdUQ"
       },
@@ -14340,7 +14448,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 232266,
       "name": "One That Got Away",
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
@@ -15506,7 +15614,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 207133,
       "name": "PREYING MANTIS !",
       "url": "https://open.spotify.com/track/4HbvPMuan90tStQxIoJ4rn"
@@ -17667,6 +17775,24 @@
     },
     {
       "album": {
+        "name": "Somebody Like You",
+        "url": "https://open.spotify.com/album/09LPF57on4STv8JhBAI6cd"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200266,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/7jLAYW3N25Piy6lEI4WczE"
+    },
+    {
+      "album": {
         "name": "Someone2Me",
         "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
       },
@@ -18952,6 +19078,24 @@
       "duration_ms": 238320,
       "name": "The Boat I Row",
       "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
+    },
+    {
+      "album": {
+        "name": "The Half We Still Have",
+        "url": "https://open.spotify.com/album/5835P51LPwAvov94bc35PP"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250293,
+      "name": "The Call\u2019s Inside The House",
+      "url": "https://open.spotify.com/track/2Npu3oUYytAQwM0pvKWhhR"
     },
     {
       "album": {
@@ -20410,7 +20554,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 226373,
       "name": "Two Bit",
       "url": "https://open.spotify.com/track/5zv8nVUatcuqiK71LywTmQ"
@@ -21898,6 +22042,28 @@
       "duration_ms": 253026,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw"
+    },
+    {
+      "album": {
+        "name": "after two am",
+        "url": "https://open.spotify.com/album/6evNxyl74FBh7Kpim79KaB"
+      },
+      "artists": [
+        {
+          "name": "after two am",
+          "url": "https://open.spotify.com/artist/2h2hbcBVEkQgSdVQR0ry9M"
+        },
+        {
+          "name": "vbnd",
+          "url": "https://open.spotify.com/artist/5KbEFz293OMDqqk9ajZKZV"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239577,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/2AYdWDC6UiQg9ViVnqpOy6"
     },
     {
       "album": {

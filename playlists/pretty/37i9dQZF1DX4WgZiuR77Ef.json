@@ -1,13 +1,33 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 396898,
+  "num_followers": 396919,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGZiMGYzNDQ4ZjhlZmNlM2YxOWQ5MzlhMTRjNWM1N2FlZjhmZGI5",
+  "snapshot_id": "MCxiNDQ2ZTVmZTkyMmE0Y2FlZjcxZTE2MDlmNGEwMTU0YjBlMDczMjJh",
   "tracks": [
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Pacific Beat",
+        "url": "https://open.spotify.com/album/7lpnPu3Xi19seQAFnFSPw1"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        },
+        {
+          "name": "Jamie Allensworth",
+          "url": "https://open.spotify.com/artist/7CbRQq2vD9mZ39Vms6KOdn"
+        }
+      ],
+      "duration_ms": 263053,
+      "name": "Pacific Beat",
+      "url": "https://open.spotify.com/track/1d5GjJMyiHMqcZ9GcOHJlW"
+    },
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
@@ -1463,26 +1483,6 @@
       "duration_ms": 238882,
       "name": "Power Without Greed",
       "url": "https://open.spotify.com/track/1r0nn0QF5tNJDtzoIj2mIB"
-    },
-    {
-      "added_at": "2020-10-30 04:02:00",
-      "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/5Tp94nlIqgi6933CP5zoG8"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        },
-        {
-          "name": "Kelly Finnigan",
-          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/3dzZG5Snplh8mq1HO7v4Sd"
     },
     {
       "added_at": "2020-11-06 04:01:00",

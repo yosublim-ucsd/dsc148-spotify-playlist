@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-455 songs - 1 day 15 hr 4 min
+458 songs - 1 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Deathcrush](https://open.spotify.com/track/5wWRdIjndDOh1j4OXAPpdD) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [Deathcrush](https://open.spotify.com/album/2RxBdrvHKwgx57RKrNQ9hz) | 3:32 | 2022-07-13 | 2023-03-01 |
 | [Decade of Therion](https://open.spotify.com/track/1CrBmNLLRTuq19YHFxZV6h) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Satanica](https://open.spotify.com/album/5GVt3QeIw7ueuou2AZlzcV) | 3:19 | 2022-07-13 | 2023-08-02 |
 | [Demonon Vrosis](https://open.spotify.com/track/6YuVmHEXQU3Dgg3w3LSZnZ) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Aealo](https://open.spotify.com/album/16ywSYjE1gvCU1GtlYVXgV) | 4:56 | 2022-07-13 |  |
+| [Desolation's Flower](https://open.spotify.com/track/7gX1NBorrOZqpLYBlRIW3F) | [Ragana](https://open.spotify.com/artist/3SwRHVTRoAEOkggZnCSFzt) | [Desolation's Flower](https://open.spotify.com/album/3AmTVBNLadBMNE4OlVro6S) | 8:29 | 2023-08-04 |  |
 | [Destination Woe](https://open.spotify.com/track/1J4V8aJYMKrFAj64ry7Pxl) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [Destination Woe](https://open.spotify.com/album/5q13Ch3bg28ZqVrHhPsP1y) | 4:52 | 2023-03-17 | 2023-04-01 |
 | [Devil's Blood](https://open.spotify.com/track/3YW1hcnwzRIjwBfXuxl99Q) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Casus Luciferi \(Remastered\)](https://open.spotify.com/album/56zmJY3VeoWpC2j71DbsOI) | 5:54 | 2022-07-13 | 2022-07-29 |
 | [Devil's Blood](https://open.spotify.com/track/4IiSKfn6MVHcqrG2ScUbiF) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Casus Luciferi](https://open.spotify.com/album/2uqCn6pAXfkOd9P4huVZuf) | 5:54 | 2022-07-13 | 2023-07-31 |
@@ -183,7 +184,7 @@
 | [Haunted by Guilt](https://open.spotify.com/track/6vt2sAnAVzN0fPAa9hvFYU) | [Kalmah](https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF) | [Haunted by Guilt](https://open.spotify.com/album/7KTsCcLQtB09OhpulYMTmB) | 3:45 | 2023-02-23 | 2023-07-23 |
 | [Hautavajo](https://open.spotify.com/track/67CJMg5WR3wuzfekNNWxj8) | [Vermilia](https://open.spotify.com/artist/7lNaiNaI2CNeEhFg7iSPRm) | [Hautavajo](https://open.spotify.com/album/5EREwAR0GtdmWrBc5Fgfad) | 5:32 | 2022-06-10 | 2022-07-23 |
 | [Havenless](https://open.spotify.com/track/5XsxbIQeESqlp2BwHyZ8x7) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Below The Lights](https://open.spotify.com/album/3uei5LFX4boIwVER1zdLD8) | 5:35 | 2022-07-13 |  |
-| [He Was a Good Man, He Was a Taxpayer](https://open.spotify.com/track/3doMKklOpBPLGBNHOhZO70) | [KEN Mode](https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i) | [He Was a Good Man, He Was a Taxpayer](https://open.spotify.com/album/11ytiC7J5KOK99Tp80uFGW) | 5:04 | 2023-07-14 |  |
+| [He Was a Good Man, He Was a Taxpayer](https://open.spotify.com/track/3doMKklOpBPLGBNHOhZO70) | [KEN Mode](https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i) | [He Was a Good Man, He Was a Taxpayer](https://open.spotify.com/album/11ytiC7J5KOK99Tp80uFGW) | 5:04 | 2023-07-14 | 2023-08-05 |
 | [Hearts Turn To Stone](https://open.spotify.com/track/3wIOB1z2Vxse4W6fulRqJg) | [Trna](https://open.spotify.com/artist/6X78UG1TKS2NTAJ9bovuqp) | [Istok](https://open.spotify.com/album/6ZjiERTM8gvDyJFc49g4P9) | 6:45 | 2021-12-17 | 2022-04-29 |
 | [Heavy Friends](https://open.spotify.com/track/2VEamv1GrepvxhStHkZAwE) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Heavy Friends](https://open.spotify.com/album/4544LwAo6RqD35G4EWf9u9) | 4:49 | 2023-06-09 | 2023-07-04 |
 | [Hell On Four Wheels](https://open.spotify.com/track/6l4T6o2tH14GXfDBXOFW5C) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Hell On Four Wheels](https://open.spotify.com/album/4VqdaBRmNPTtFrAQIbpBo7) | 3:39 | 2023-07-14 |  |
@@ -274,7 +275,7 @@
 | [Nauseating Oblivion](https://open.spotify.com/track/7JYPEnhWA1jthT9QihGnQi) | [Nightrage](https://open.spotify.com/artist/6dhqzgrbFggOBns03STnU3) | [Nauseating Oblivion](https://open.spotify.com/album/2tXlcUe6UTMOSfMnjtfS6a) | 3:15 | 2021-12-17 | 2022-07-29 |
 | [Necrobionics](https://open.spotify.com/track/3AaLvR5xPbeewAElRzRMdB) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Necrobionics](https://open.spotify.com/album/4XekYCMN88wxtjOxkfrOlN) | 3:31 | 2022-03-18 | 2022-07-29 |
 | [Necrotica](https://open.spotify.com/track/2AdSg9Fpi2zKtkjboSQmgb) | [Exhumed](https://open.spotify.com/artist/2OjtmMho2pBS86zQ1PliRu) | [To the Dead](https://open.spotify.com/album/4O4krXb7DWdic7axPxg4UC) | 4:30 | 2022-10-21 | 2022-11-26 |
-| [Nel vento](https://open.spotify.com/track/0vi3vh2G7Y1dHaNfsPBV3v) | [Blaze of Sorrow](https://open.spotify.com/artist/3WdAbe7LcgPuckuALu2co5) | [Vultus Fati](https://open.spotify.com/album/04HEOUUe5JoSb6htpIwxjb) | 5:29 | 2023-07-21 |  |
+| [Nel vento](https://open.spotify.com/track/0vi3vh2G7Y1dHaNfsPBV3v) | [Blaze of Sorrow](https://open.spotify.com/artist/3WdAbe7LcgPuckuALu2co5) | [Vultus Fati](https://open.spotify.com/album/04HEOUUe5JoSb6htpIwxjb) | 5:29 | 2023-07-21 | 2023-08-05 |
 | [Neptune's Eye](https://open.spotify.com/track/7IhKe2RCCVWz52hXZoFy2v) | [Blut Aus Nord](https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf) | [Disharmonium \- Undreamable Abysses](https://open.spotify.com/album/2E0VM3yGCaKSgd2CENiNbr) | 5:57 | 2022-05-20 | 2022-08-07 |
 | [Ner i Mörkret](https://open.spotify.com/track/2JWtP6sx2UmfeA2qDYtHH1) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Vargtimman](https://open.spotify.com/album/3mhYdlpUs83zUAbtipURFs) | 6:06 | 2022-01-14 | 2022-07-29 |
 | [Night](https://open.spotify.com/track/5XH2xL0ahHWmOgfAwJDscJ) | [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo), [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Mizmor](https://open.spotify.com/artist/655AEE6ifgDJ3TYkhHdP48) | [Night](https://open.spotify.com/album/7IwWlcYAosb728DUZnw9RO) | 4:01 | 2022-04-15 | 2022-10-28 |
@@ -350,6 +351,7 @@
 | [Serve the Untrue](https://open.spotify.com/track/3VSjFsP90huj6wvNKaE3Uo) | [Kalmah](https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF) | [Kalmah](https://open.spotify.com/album/2wxVRKpv3yVZXV7hv5muqr) | 4:53 | 2023-05-26 |  |
 | [Sharpened Narcotics](https://open.spotify.com/track/2YtghqdRA401FXUwCYutF3) | [Trench](https://open.spotify.com/artist/3OuV1bOFKQPdQdIuDX7lO0) | [Encased in Chrome](https://open.spotify.com/album/2dbMIDmPfffd0tO9hyjkNF) | 2:01 | 2022-03-18 | 2022-04-23 |
 | [She is a Fire](https://open.spotify.com/track/4y1FN6vpHYUAaJVEOsgCHp) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [She is a Fire](https://open.spotify.com/album/03xxDa7rJRB4fl7ZB2B5qg) | 5:22 | 2023-03-03 |  |
+| [Shovel Beats Sceptre](https://open.spotify.com/track/2PucG2cHrOTmhARzm8EOaP) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Shovel Beats Sceptre](https://open.spotify.com/album/2GD1FDHMTBd7lKkhYG7ewZ) | 5:01 | 2023-08-04 |  |
 | [Shrines in Cinder](https://open.spotify.com/track/5iitxeQ3eMPteFo9EmSpyb) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [Shrines in Cinder](https://open.spotify.com/album/6oreJErT6gkTrUR6WFhABi) | 3:49 | 2022-04-22 | 2022-07-29 |
 | [Silence/Motion](https://open.spotify.com/track/42TSRptSYJCEiUHGDJgqFE) | [Blackwater Holylight](https://open.spotify.com/artist/2fqEhs5dZBrDLUqHvWRtBc) | [Silence/Motion](https://open.spotify.com/album/06rY9A3QaKVqDZRXXSjUYf) | 5:37 | 2021-12-17 | 2022-01-15 |
 | [Slasher](https://open.spotify.com/track/5QsYwX1DDvuhpsOCaCn4YP) | [Omnium Gatherum](https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu) | [Slasher](https://open.spotify.com/album/0qlglHVwWrCCkvFYCuSifB) | 4:21 | 2023-03-03 |  |
@@ -398,6 +400,7 @@
 | [The Lust Called Knowledge \- Re\-Recorded 2022](https://open.spotify.com/track/4B692KoX3G3KXXIrJhxeZr) | [Mors Principium Est](https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi) | [The Lust Called Knowledge \(Re\-Recorded 2022\)](https://open.spotify.com/album/1oltdhcpRRjJN8Elcrbn0v) | 4:31 | 2022-04-08 | 2022-07-26 |
 | [The Mask of Fate](https://open.spotify.com/track/0oJJhVgstOvOcsLeSR6gqO) | [ACOD](https://open.spotify.com/artist/6UDDF4b9a4zFj0voyjD4E1) | [Cryptic Curse](https://open.spotify.com/album/0r18y0KQKKKozZjsXQn8Bw) | 5:30 | 2023-02-15 | 2023-03-04 |
 | [The Middlemist Red](https://open.spotify.com/track/5l7ad026Ev0NpUkldLY5az) | [Dimman](https://open.spotify.com/artist/6QTX8AwQeLbU7QDEzi8zqZ) | [The Middlemist Red](https://open.spotify.com/album/6ujJzfrTiv96eAmCBQkp9o) | 3:59 | 2022-04-01 | 2022-07-17 |
+| [The Other Side of Anger](https://open.spotify.com/track/3oaddUa1UhnLcMePctuIgw) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [The Other Side of Anger](https://open.spotify.com/album/51q4WtjPxILy2mxq8IDbCX) | 4:23 | 2023-08-04 |  |
 | [The Pale Mist Hovers Towards the Nightly Shores](https://open.spotify.com/track/0lZFz009jZslzPn0ArTbkl) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Through Chasm, Caves and Titan Woods](https://open.spotify.com/album/2xq8TaPMvQJaXMW79byymI) | 2:55 | 2022-07-13 | 2022-07-28 |
 | [The Pale Mist Hovers Towards the Nightly Shores](https://open.spotify.com/track/10T3UIoqFkTUCGjZUuG6Gi) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Through Chasm, Caves And Titan Woods](https://open.spotify.com/album/6wW5MkAhpOr0QRtznvqqPH) | 2:55 | 2022-07-13 | 2023-07-04 |
 | [The Purest Black](https://open.spotify.com/track/6En6JSC3qRPv9XnoGQZ7F0) | [LIVLØS](https://open.spotify.com/artist/3upLnjEfkXlcb8IddTLQUA) | [The Purest Black](https://open.spotify.com/album/0yARYnhJy9u9HLq3RfgI97) | 5:51 | 2021-12-17 | 2022-05-07 |
@@ -462,6 +465,6 @@
 | [Ymir](https://open.spotify.com/track/1FCOfEzh2LpfhSYMKY95Me) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Ymir](https://open.spotify.com/album/7rRdCtu9eHLWrxCMSeOSMT) | 5:04 | 2021-12-17 | 2022-01-22 |
 | [You Are the Beginning](https://open.spotify.com/track/4z1hGpOWBgFPa1AUND2P7X) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [You Are the Beginning](https://open.spotify.com/album/4Jupeun3ZXE7DsAb3nv7ZG) | 3:44 | 2023-05-05 | 2023-06-22 |
 | [Ze Nigmar](https://open.spotify.com/track/3niz4765xdQsl0DSMf4DIx) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Rituals](https://open.spotify.com/album/261LnV8eQ6ZaNmh7A5SjF3) | 4:43 | 2022-07-13 |  |
-| [Χ Ξ Σ \- 666](https://open.spotify.com/track/3P4Vcz7MhJngRf8WUAaoA0) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Kata Ton Daimona Eaytoy \(Do What Thou Wilt\)](https://open.spotify.com/album/3z7rdtYy9L5RYgTpRQBygo) | 5:48 | 2022-07-13 |  |
+| [Χ Ξ Σ \- 666](https://open.spotify.com/track/3P4Vcz7MhJngRf8WUAaoA0) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Kata Ton Daimona Eaytoy \(Do What Thou Wilt\)](https://open.spotify.com/album/3z7rdtYy9L5RYgTpRQBygo) | 5:48 | 2022-07-13 | 2023-08-05 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

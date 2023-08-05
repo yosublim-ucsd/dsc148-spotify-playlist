@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: The hosts of this year's <a href=\"https://www.thestellarawards.com/index.html\">Stellar Awards</a> , <a href=\"https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx?si=ee37f97c830a42e7\">Tasha Cobbs Leonard</a>  and <a href=\"https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9?si=719b1ebceaa64e4a\">Jonathan McReynolds</a>",
+  "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover:  <a href=\"https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=7476425269ff490a\">Pastor Mike Jr.</a>, <a href=\"https://www.thestellarawards.com/index.html\">Stellar Awards'</a> Artist of the Year ",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 306426,
       "name": "All of My Help",
       "url": "https://open.spotify.com/track/29RRapHwQNANgAdwc6HuPE"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 242893,
       "name": "Already Getting Better",
       "url": "https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 349027,
       "name": "Black Lives Matter",
       "url": "https://open.spotify.com/track/5ZXZWHmI69IAhiseyYWF2D"
@@ -317,6 +317,40 @@
     },
     {
       "album": {
+        "name": "Brother (Mahogany x IRIS)",
+        "url": "https://open.spotify.com/album/4iGPiRikSzYNxwPxfvUDxb"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
+        {
+          "name": "Guvna B",
+          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
+        },
+        {
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+        },
+        {
+          "name": "Bianca Rose",
+          "url": "https://open.spotify.com/artist/3L06eylvgeEkGmkNyi4uPo"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221907,
+      "name": "Brother - Mahogany x IRIS",
+      "url": "https://open.spotify.com/track/7KJYN0aBnEOYo7cnvGcDDL"
+    },
+    {
+      "album": {
         "name": "Place Called Victory - EP",
         "url": "https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l"
       },
@@ -346,7 +380,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 366319,
       "name": "Change Me",
       "url": "https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB"
@@ -584,7 +618,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 210122,
       "name": "Glory / Stranger",
       "url": "https://open.spotify.com/track/1LfqzX9IZ9sosa60nG4byU"
@@ -602,7 +636,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 585080,
       "name": "God Is My Refuge (Live)",
       "url": "https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV"
@@ -752,7 +786,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 241838,
       "name": "High and Lifted",
       "url": "https://open.spotify.com/track/5BEfxZNZZa4wN6mlz4LH4U"
@@ -1354,7 +1388,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-31",
+      "date_removed": null,
       "duration_ms": 269579,
       "name": "Lifted Up",
       "url": "https://open.spotify.com/track/080UdKu38T2X7BkTb9jV9u"
@@ -1372,7 +1406,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 318186,
       "name": "Live",
       "url": "https://open.spotify.com/track/6Oc3UJgFdqv7WDKgl3x5CI"
@@ -1522,7 +1556,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 423106,
       "name": "My World Needs You (feat. Sarah Reeves, Tasha Cobbs & Tamela Mann)",
       "url": "https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk"
@@ -1584,7 +1618,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 251000,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/1z69IavRF0D3MXsdbvsPBE"
@@ -1700,7 +1734,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 236339,
       "name": "OK",
       "url": "https://open.spotify.com/track/5KC5XsV0BwYyHJkNqx2C7n"
@@ -1750,11 +1784,15 @@
         {
           "name": "Bryan Andrew Wilson",
           "url": "https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i"
+        },
+        {
+          "name": "Roderick Giles & Grace",
+          "url": "https://open.spotify.com/artist/5jMr6s2EqsG4U4HQROzA8e"
         }
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 265213,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/6BMKu4bu0kDdPYviP1Umrz"
@@ -1790,7 +1828,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 223666,
       "name": "Praise on the Inside",
       "url": "https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI"
@@ -1812,7 +1850,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 312146,
       "name": "Praying and Believing",
       "url": "https://open.spotify.com/track/7hfv1V47dO8Wg930ARWsex"
@@ -1830,7 +1868,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 246106,
       "name": "Put It On The Altar",
       "url": "https://open.spotify.com/track/1no67NVun0BIparrhLtPM6"
@@ -2022,7 +2060,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 257093,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj"
@@ -2384,7 +2422,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 434546,
       "name": "You Are God Alone",
       "url": "https://open.spotify.com/track/2cWRop4KNmto1AiIdYPEBj"
@@ -2504,7 +2542,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 220849,
       "name": "You Waited (Radio Edit) [Live]",
       "url": "https://open.spotify.com/track/5Hfmsb1SeH4GP2qi6eGCO0"
@@ -2522,7 +2560,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 230506,
       "name": "You're Bigger (Radio Edit)",
       "url": "https://open.spotify.com/track/6H81l4DgtgdEvfRGow3gI9"
@@ -2616,7 +2654,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 481167,
       "name": "You\u2019re Gonna Get The Glory - Live",
       "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"

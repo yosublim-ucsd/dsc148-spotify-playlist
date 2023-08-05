@@ -4,7 +4,7 @@
 
 > Songs for a broken heart
 
-195 songs - 10 hr 58 min
+197 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Happiest Year](https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Happiest Year](https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl) | 3:48 | 2021-12-16 | 2022-03-30 |
 | [Haunted House](https://open.spotify.com/track/4vNxFySlHhuWuxOHvphZuP) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Haunted House](https://open.spotify.com/album/35Qo3iBJ04Num2L8NCOJWz) | 2:13 | 2021-12-16 | 2022-01-26 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2021-12-16 |  |
+| [Him](https://open.spotify.com/track/5RweZJHqfLlEoz9rvmGFES) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 2:54 | 2023-08-04 |  |
 | [How Could You](https://open.spotify.com/track/7fkxcbBBsV7keJPnNfNf2L) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [How Could You](https://open.spotify.com/album/45iO8UkIUsCwFCuf8sI6ER) | 3:07 | 2022-11-08 | 2023-03-03 |
 | [How Could You](https://open.spotify.com/track/7wB9sL81rFRGhRt6msZ9CV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 3:07 | 2023-02-28 |  |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-10-04 |  |
@@ -88,7 +89,7 @@
 | [hurt so bad](https://open.spotify.com/track/5c1gKtJkR8dPjki25BU7Qz) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [hurt so bad](https://open.spotify.com/album/2btlqRkfHY0u4IZdKk1lcC) | 4:02 | 2021-12-16 | 2022-04-12 |
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-04-04 | 2023-03-01 |
 | [Hurts The Most](https://open.spotify.com/track/6SO2o0mJhtbsfwdwJfXKkk) | [Bradley Marshall](https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y) | [Hurts The Most](https://open.spotify.com/album/0IgxGIwmn9h0w5hepke0x8) | 3:22 | 2022-09-20 | 2023-05-24 |
-| [Hurts The Most](https://open.spotify.com/track/6oVfnKLydVrZIbSdsgoGd0) | [Bradley Marshall](https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y) | [Hurts The Most](https://open.spotify.com/album/1Ctxy0NALXX7W3ub57drGk) | 3:22 | 2023-05-23 |  |
+| [Hurts The Most](https://open.spotify.com/track/6oVfnKLydVrZIbSdsgoGd0) | [Bradley Marshall](https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y) | [Hurts The Most](https://open.spotify.com/album/1Ctxy0NALXX7W3ub57drGk) | 3:22 | 2023-05-23 | 2023-08-05 |
 | [i don't want to watch the world end with someone else](https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [i don't want to watch the world end with someone else](https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP) | 3:04 | 2022-09-06 | 2023-01-11 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/0BxUvT1nQ9ufHlxEblueWx) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Power Pop Ballads](https://open.spotify.com/album/4qYoNCEXDoJkHpHHNflxpB) | 3:21 | 2022-11-08 | 2022-11-14 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-02-14 | 2022-10-28 |
@@ -141,7 +142,7 @@
 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 | 2022-03-29 | 2023-02-01 |
 | [My Mistakes](https://open.spotify.com/track/01iY9wuMjG4Q5GMCebu27S) | [Matthew Nolan](https://open.spotify.com/artist/00eBZtIQVnVtZHOW1qDDDn) | [My Mistakes](https://open.spotify.com/album/1kcgftNp8C8hMhZ1lfxjj4) | 3:14 | 2021-12-16 | 2022-04-05 |
 | [My Oh My](https://open.spotify.com/track/2okt1sEb4uh6OkLJ4cgMWx) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [My Oh My](https://open.spotify.com/album/2Ch5romj95XcP2lXYRXfYS) | 2:39 | 2021-12-16 | 2023-03-01 |
-| [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-11 |  |
+| [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-11 | 2023-08-05 |
 | [No Words](https://open.spotify.com/track/11Q0l1bZkmXJk3LStYGuAy) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [No Words](https://open.spotify.com/album/1zqo2hzuuP6ZZtg7a6bMZz) | 3:09 | 2022-03-29 | 2022-09-07 |
 | [Nocturnal](https://open.spotify.com/track/135t5w0BiSthsGeqgKB3Gw) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Nocturnal](https://open.spotify.com/album/3QB4VboOQHb2iNP7ObBltP) | 4:22 | 2021-12-16 | 2022-02-15 |
 | [Not For Me](https://open.spotify.com/track/1mHcikpSNzkFdhYNctCsJy) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Not For Me](https://open.spotify.com/album/6TFlN4zjEzMthBNYleuAJg) | 3:46 | 2021-12-16 | 2022-09-07 |
@@ -190,6 +191,7 @@
 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 | 2022-04-04 | 2022-09-21 |
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-09-06 |  |
 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 | 2021-12-16 | 2022-09-07 |
+| [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-08-04 |  |
 | [When I Get There](https://open.spotify.com/track/24dotUzOINUEH3iTUlhDXX) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:20 | 2023-03-24 |  |
 | [When I Get There](https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [When I Get There](https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G) | 3:20 | 2023-02-28 | 2023-03-25 |
 | [When You Lose Someone](https://open.spotify.com/track/1CAZgVyNgA9pR4e6GHALhq) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:21 | 2022-09-06 | 2023-04-19 |

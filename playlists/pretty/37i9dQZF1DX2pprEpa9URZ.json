@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 726145,
+  "num_followers": 726221,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmUxMGFmNjgwY2M2N2JlZDhkNDlkYmNkMDA3NWM0MzJiYWYyMGY5",
+  "snapshot_id": "MCxjYmVmYTk3MDZjYzA5YmNhMTYwNDc4ZmM2OGIwMGYwZGRkMTgwOTVh",
   "tracks": [
     {
       "added_at": "2023-06-30 15:15:56",
@@ -443,6 +443,26 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
+        "name": "La Isla",
+        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
+      },
+      "artists": [
+        {
+          "name": "Megablast",
+          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
+        },
+        {
+          "name": "Eribertho Cruz",
+          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "La Isla - Radio Version",
+      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -463,22 +483,22 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "La Isla",
-        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
+        "name": "Agua e pipa",
+        "url": "https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b"
       },
       "artists": [
         {
-          "name": "Megablast",
-          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
         },
         {
-          "name": "Eribertho Cruz",
-          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
+          "name": "Jose Solano",
+          "url": "https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc"
         }
       ],
-      "duration_ms": 193306,
-      "name": "La Isla - Radio Version",
-      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
+      "duration_ms": 202553,
+      "name": "Agua e pipa",
+      "url": "https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -535,26 +555,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Agua e pipa",
-        "url": "https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b"
-      },
-      "artists": [
-        {
-          "name": "Buddha-Bar",
-          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
-        },
-        {
-          "name": "Jose Solano",
-          "url": "https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc"
-        }
-      ],
-      "duration_ms": 202553,
-      "name": "Agua e pipa",
-      "url": "https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Chaghaf",
         "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Ancestors",
-        "url": "https://open.spotify.com/album/10O7aLzod3Lt16msIPAJSw"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 287518,
-      "name": "Ancestors",
-      "url": "https://open.spotify.com/track/3XxpO5L12KHHaY0BfIMuub"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Se Va, Se Va",
         "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 449509,
       "name": "Se Va, Se Va",
       "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Ancestors",
+        "url": "https://open.spotify.com/album/10O7aLzod3Lt16msIPAJSw"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 287518,
+      "name": "Ancestors",
+      "url": "https://open.spotify.com/track/3XxpO5L12KHHaY0BfIMuub"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
+        "name": "Facets",
+        "url": "https://open.spotify.com/album/5hw2DVYE662RU72H2Fy4kM"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 286746,
+      "name": "Lost Tales",
+      "url": "https://open.spotify.com/track/3UB5dEBt70jOj7xNDARvar"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
         "name": "Alongside",
         "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 410000,
       "name": "Alongside - Omeria & NU Edit",
       "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
-        "name": "Facets",
-        "url": "https://open.spotify.com/album/5hw2DVYE662RU72H2Fy4kM"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 286746,
-      "name": "Lost Tales",
-      "url": "https://open.spotify.com/track/3UB5dEBt70jOj7xNDARvar"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Samra Samra",
-        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
-      },
-      "artists": [
-        {
-          "name": "Karmakind",
-          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
-        }
-      ],
-      "duration_ms": 304418,
-      "name": "Samra Samra",
-      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Beli",
         "url": "https://open.spotify.com/album/0EiBOtY4bFIadrgZTvAwQW"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 367636,
       "name": "Novicani",
       "url": "https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Samra Samra",
+        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
+      },
+      "artists": [
+        {
+          "name": "Karmakind",
+          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
+        }
+      ],
+      "duration_ms": 304418,
+      "name": "Samra Samra",
+      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
+        "name": "Yoruba",
+        "url": "https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 427627,
+      "name": "Yoruba",
+      "url": "https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
         "name": "Voodoo Guitar",
         "url": "https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI"
       },
@@ -1171,42 +1187,18 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Yoruba",
-        "url": "https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9"
+        "name": "Limbo EP",
+        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
       },
       "artists": [
         {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
         }
       ],
-      "duration_ms": 427627,
-      "name": "Yoruba",
-      "url": "https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
-        "name": "Alkebulan Remix",
-        "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
-      },
-      "artists": [
-        {
-          "name": "ANT LaROCK",
-          "url": "https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS"
-        },
-        {
-          "name": "Roland Clark",
-          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
-        },
-        {
-          "name": "David Mayer",
-          "url": "https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf"
-        }
-      ],
-      "duration_ms": 470243,
-      "name": "Alkebulan - David Mayer Remix",
-      "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
+      "duration_ms": 401815,
+      "name": "Wawanko",
+      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1231,18 +1223,26 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Limbo EP",
-        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
+        "name": "Alkebulan Remix",
+        "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
       "artists": [
         {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+          "name": "ANT LaROCK",
+          "url": "https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        },
+        {
+          "name": "David Mayer",
+          "url": "https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf"
         }
       ],
-      "duration_ms": 401815,
-      "name": "Wawanko",
-      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
+      "duration_ms": 470243,
+      "name": "Alkebulan - David Mayer Remix",
+      "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1323,6 +1323,42 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
+        "name": "Latlal",
+        "url": "https://open.spotify.com/album/2115g35ZN6IeJZrEpkHbxV"
+      },
+      "artists": [
+        {
+          "name": "Fairplay",
+          "url": "https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U"
+        }
+      ],
+      "duration_ms": 357220,
+      "name": "Latlal",
+      "url": "https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Persian Nights",
+        "url": "https://open.spotify.com/album/4JtiXGmWyNUB8uNaM2BsWP"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        },
+        {
+          "name": "Arya Noble",
+          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "Persian Nights",
+      "url": "https://open.spotify.com/track/5pRfsRKRDsAAkYvQ7262YH"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/5Lkjqkn8LFTfpo2o9kbqJP"
       },
@@ -1343,42 +1379,6 @@
       "duration_ms": 449454,
       "name": "Soul",
       "url": "https://open.spotify.com/track/5qFCeotddc68VUOEQ8jaur"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
-        "name": "Latlal",
-        "url": "https://open.spotify.com/album/2115g35ZN6IeJZrEpkHbxV"
-      },
-      "artists": [
-        {
-          "name": "Fairplay",
-          "url": "https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U"
-        }
-      ],
-      "duration_ms": 357220,
-      "name": "Latlal",
-      "url": "https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
-        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
-        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
-      },
-      "artists": [
-        {
-          "name": "Urban Village",
-          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
-        },
-        {
-          "name": "CHLOE (Th\u00e9venin)",
-          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
-        }
-      ],
-      "duration_ms": 384330,
-      "name": "Izivunguvungu - Chlo\u00e9 Remix",
-      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
     },
     {
       "added_at": "2023-06-30 15:15:56",

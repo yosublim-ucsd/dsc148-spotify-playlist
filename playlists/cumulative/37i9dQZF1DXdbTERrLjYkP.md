@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: Lily Fitts
+> Discover the next wave of talent on the scene writing their own songs\. Cover: Savana Santos
 
-508 songs - 1 day 3 hr 7 min
+512 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Casual](https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Casual](https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt) | 3:52 | 2022-10-28 | 2022-12-24 |
 | [Cautiously Optimistic](https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cautiously Optimistic](https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD) | 2:25 | 2022-12-30 | 2023-06-24 |
 | [Charlie](https://open.spotify.com/track/0TiQIfhHfhePbPqftW2bOM) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Charlie](https://open.spotify.com/album/0J1HrqxfTWwk4LxLT5f1kc) | 3:51 | 2022-10-14 | 2022-11-12 |
+| [cheater](https://open.spotify.com/track/6xpPSguO2bzapQNO2j23c3) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [cheater](https://open.spotify.com/album/4tTE6p1ed8F6OLGeRWRgMw) | 2:20 | 2023-08-04 |  |
 | [Clean Cut](https://open.spotify.com/track/2M6MKfoKhOgIvkrg9NLbNT) | [BIZZY](https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk) | [Clean Cut](https://open.spotify.com/album/0M2aQZBpqbnfi2M48AJpq1) | 3:11 | 2023-01-20 | 2023-02-25 |
 | [Clockwork](https://open.spotify.com/track/3DGJy61ZQHZJTfPtnMlU3Z) | [Sophia James](https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN) | [Clockwork](https://open.spotify.com/album/4aBRF9TW3Q7PSsuWSQcJEF) | 2:42 | 2023-03-31 |  |
 | [Come Close](https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Come Close](https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7) | 2:59 | 2022-01-14 | 2022-04-29 |
@@ -239,6 +240,7 @@
 | [I'm in a Rut](https://open.spotify.com/track/0W5JUrUOQmQbTmUOQwk7vx) | [Sophie Pecora](https://open.spotify.com/artist/1djGyQAjyVQh0HWCYMHCcB) | [I'm in a Rut](https://open.spotify.com/album/2JQiACEDZjhS8MmaCgqo6n) | 2:58 | 2022-04-15 | 2022-09-03 |
 | [I'm Not Like Alice](https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [I'm Not Like Alice](https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL) | 2:16 | 2022-12-02 | 2023-03-04 |
 | [I'm not there yet](https://open.spotify.com/track/5wPkADSHUuNOwVQ21QOlZs) | [MALINDA](https://open.spotify.com/artist/4gKo3LXoxHriLS6CBKThAU) | [I'm not there yet](https://open.spotify.com/album/01cipgct2Fs6B4erVHVbB6) | 3:40 | 2022-10-14 | 2022-12-24 |
+| [I'm Not Your Girl](https://open.spotify.com/track/0odnQuixwTfcSO0bkZ1EfZ) | [Bonner Black](https://open.spotify.com/artist/2VqvExXMDEoDd0EgDUw8kz) | [I'm Not Your Girl](https://open.spotify.com/album/0BuKUzoNyqcaxng1b77CF8) | 4:01 | 2023-08-04 |  |
 | [I'm Sorry, Tokyo](https://open.spotify.com/track/31eHodIKm5jNVeXjhqevNU) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [I'm Sorry, Tokyo](https://open.spotify.com/album/3pBTeNfzCh6eu6ZyCtufac) | 3:34 | 2022-01-14 | 2022-04-16 |
 | [If I Died Last Night](https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [If I Died Last Night](https://open.spotify.com/album/6Rxuv89Ct6gqsmcudqGYD5) | 2:44 | 2022-11-09 | 2022-12-03 |
 | [If I Had Stayed](https://open.spotify.com/track/2C84D0vtpGcohO5yqEnF9o) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [If I Had Stayed](https://open.spotify.com/album/0m8Vg18eqPH7maMYhzyBKB) | 2:11 | 2022-01-14 | 2022-03-12 |
@@ -253,6 +255,7 @@
 | [In Plain Sight](https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [In Plain Sight](https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0) | 2:36 | 2023-05-05 | 2023-07-15 |
 | [In The Kitchen](https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q) | 3:47 | 2022-07-22 | 2022-10-01 |
 | [In The Wild](https://open.spotify.com/track/0Rt1p1SafJXy63MqX9dvtm) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [In The Wild](https://open.spotify.com/album/1gyThah2qGByCUDyU69ZWv) | 2:32 | 2023-06-02 |  |
+| [Inconvenient](https://open.spotify.com/track/1Dof8LPU0ARJbiwmY0RNGA) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ), [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Inconvenient](https://open.spotify.com/album/6CY991bUkVT501259VTac3) | 2:20 | 2023-08-04 |  |
 | [Inevitable](https://open.spotify.com/track/16aUfGKznCQHHi00xCFy6v) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her \(Clean\)](https://open.spotify.com/album/1qZD8GiN2m2wxydGdXHpYT) | 3:22 | 2022-08-12 | 2022-10-13 |
 | [Inevitable](https://open.spotify.com/track/4HFPqbaVJIc0uTB1QhCY8z) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/3HQwoxEe5p7RNoOagQ57q4) | 3:22 | 2022-09-09 | 2023-02-18 |
 | [Inevitable](https://open.spotify.com/track/4jFWWwXkW037NJvLuZs9Kj) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her \(Clean\)](https://open.spotify.com/album/6WnoRdx3QhZkaImW71OLon) | 3:22 | 2022-09-09 | 2022-11-13 |
@@ -315,7 +318,7 @@
 | [Megan’s Song](https://open.spotify.com/track/71eVKx9MDUBpGChmV98Hiu) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Megan’s Song](https://open.spotify.com/album/6ZP7zOFmqA5NyjKLd2mhR2) | 3:10 | 2022-08-19 | 2022-12-24 |
 | [Memory Lane](https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Memory Lane](https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk) | 2:34 | 2022-01-14 | 2022-05-07 |
 | [Mess](https://open.spotify.com/track/1502aGzxNUgwcv2r1rG91S) | [Alaina Ray](https://open.spotify.com/artist/2hcq1PIq9XzXVmrab7mfXr) | [Mess](https://open.spotify.com/album/0WtLqYqc87OEDZ7kFJXjJu) | 2:15 | 2022-12-09 | 2022-12-24 |
-| [messy](https://open.spotify.com/track/1rL0K2uvyWRGvqvf0VI719) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [messy](https://open.spotify.com/album/161GbVxhgPvPoNFsoGBnEn) | 2:09 | 2023-07-14 |  |
+| [messy](https://open.spotify.com/track/1rL0K2uvyWRGvqvf0VI719) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [messy](https://open.spotify.com/album/161GbVxhgPvPoNFsoGBnEn) | 2:09 | 2023-07-14 | 2023-08-05 |
 | [Midnight Train From Marylebone](https://open.spotify.com/track/4AE4FWams3vyYkcObRAn7o) | [Isaac Stuart](https://open.spotify.com/artist/7vqrMptsKefoZat5ztYapE) | [Skyline](https://open.spotify.com/album/1FHfPh4tGlzWrnY6Yw6iZ2) | 3:21 | 2023-05-05 |  |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-11 | 2022-04-29 |
 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 | 2022-08-12 | 2022-11-12 |
@@ -504,6 +507,7 @@
 | [winter](https://open.spotify.com/track/6aMS0HK7fnPpT21KhV7MC7) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [winter](https://open.spotify.com/album/2RWtkN2zZCPl9VuMVBye6x) | 2:06 | 2022-01-21 | 2022-02-19 |
 | [Wish You Well](https://open.spotify.com/track/6PcDDuSAPG1AE1wefg6Y7D) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Wish You Well](https://open.spotify.com/album/7q1q1QmZumtecSST83J210) | 3:55 | 2022-01-14 | 2022-03-05 |
 | [without you with me](https://open.spotify.com/track/0WqHYUiGuqkC7koA2l5Ou1) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [without you with me](https://open.spotify.com/album/7CEx4rylOMVh4bI3Lb7anX) | 2:54 | 2022-01-14 | 2022-03-12 |
+| [Worst In Me](https://open.spotify.com/track/2jMetr6nF6WLRPzRmGh1Pc) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Worst In Me](https://open.spotify.com/album/2lVxm2kp7BtwXPl1VQElSP) | 2:29 | 2023-08-04 |  |
 | [worth something](https://open.spotify.com/track/6zjCGkjUprgfZ1PVWIzYHD) | [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [worth something](https://open.spotify.com/album/3nFpavDlZxCLwhRKrGQyXO) | 2:49 | 2022-01-28 | 2022-04-16 |
 | [WW3](https://open.spotify.com/track/11TpsX9rehEgUapDZ9UvrY) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [WW3](https://open.spotify.com/album/1mXJyuOU2nGhBzvOxW8RH2) | 3:12 | 2023-04-07 |  |
 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 | 2022-01-14 | 2022-10-01 |

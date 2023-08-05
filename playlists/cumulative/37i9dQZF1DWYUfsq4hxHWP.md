@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Logan Crosby, Artwork: Fanélie Muselier
 
-1,725 songs - 3 day 21 hr 54 min
+1,728 songs - 3 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [All My Dances](https://open.spotify.com/track/7hZdz3S7Wmsgk0VkoWRaky) | [Ryan Nelson](https://open.spotify.com/artist/3ZWoGIRMCbvG2ucNugtC8d) | [All My Dances](https://open.spotify.com/album/3ZznH2PVCN28FyiUpuetp4) | 3:55 | 2021-12-01 | 2022-01-13 |
 | [All That Pretty](https://open.spotify.com/track/4oAlfN2kHk4aQ6DG7r6NMD) | [Jonah Prill](https://open.spotify.com/artist/6kFzY8B9Mb3iDz6mPszoFp) | [All That Pretty](https://open.spotify.com/album/5CkVa7U9cRra4TQw0YL2xM) | 2:43 | 2023-06-07 | 2023-06-22 |
 | [All The Good Ones Do](https://open.spotify.com/track/7lmEYbp3Wydbi1VIMM5JCR) | [Johnny Day](https://open.spotify.com/artist/6ghe1ekLf6O0HUaKGBsNcA) | [All The Good Ones Do](https://open.spotify.com/album/3oq7s4XXQBhantfIQ5BbgG) | 3:12 | 2022-11-02 | 2023-01-26 |
+| [All to Yourself](https://open.spotify.com/track/1qHzMKegbX2x2mi9n7mhP1) | [Raquel Cole](https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF) | [All to Yourself](https://open.spotify.com/album/47KkcsloezADjw8jRxqV8O) | 2:57 | 2023-08-04 |  |
 | [Almost Missed You](https://open.spotify.com/track/39ODUZOAT3IiCEx0ZaT4vp) | [Bobby McClendon](https://open.spotify.com/artist/24ZSRZ25gSFAx2bCl1aM66) | [Almost Missed You](https://open.spotify.com/album/6TH000cqtpdbUkSSigIICK) | 3:04 | 2022-03-30 | 2022-05-12 |
 | [Alone Some](https://open.spotify.com/track/03lMS8wm9oa3xHCJMQ4KM3) | [Gracee Shriver](https://open.spotify.com/artist/2dn03VbHARxzUqbTrx0Rw1) | [Alone Some](https://open.spotify.com/album/2M7tI07QU18C9RD5JNjya8) | 2:52 | 2022-08-10 | 2022-09-22 |
 | [Already Crazy](https://open.spotify.com/track/4IoZV0Lbu90FCgIxo2MDM3) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Already Crazy](https://open.spotify.com/album/7sw2yYFMArOmlXs1wHdTo0) | 3:19 | 2022-11-09 | 2022-12-01 |
@@ -260,6 +261,7 @@
 | [But That Summer](https://open.spotify.com/track/1z1fu8Amze33AZEbhOhRla) | [Nick Boyd](https://open.spotify.com/artist/5MgzAw2RMY0fJSDTn63Cdj) | [But That Summer \- EP](https://open.spotify.com/album/1x6iOxUXV0XFn25aVI1aaE) | 3:09 | 2022-07-06 | 2022-08-04 |
 | [Buy A Bar](https://open.spotify.com/track/4T1RMa18RLesOJmM2vmgcF) | [Tim Dugger](https://open.spotify.com/artist/4H5rgUb0jilQ5sVsLFK4bj) | [Buy A Bar](https://open.spotify.com/album/535HyeVFjR0UdD9L1rV1LM) | 3:10 | 2023-02-08 | 2023-03-16 |
 | [Buy You That Drink](https://open.spotify.com/track/1CvLsSWRwkcTfuFwHb4OpF) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Buy You That Drink](https://open.spotify.com/album/40TJFsH5rU9rcAq3Evmiz0) | 3:33 | 2023-02-22 | 2023-03-30 |
+| [Buzz On](https://open.spotify.com/track/12BjtYIOi2cxhbfupVzx57) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [Buzz On](https://open.spotify.com/album/37smK2nMpzyFMwVXiBUPeL) | 2:47 | 2023-08-04 |  |
 | [Buzzin](https://open.spotify.com/track/5qJAND0aUxMFVzC6KtL7kS) | [Clinton Wilkie](https://open.spotify.com/artist/4fENw7D2QwXjEk48wvm8fh), [Molly Lovette](https://open.spotify.com/artist/173IW0WbY02WURT81tkEEr) | [Buzzin](https://open.spotify.com/album/5PNXUWu3giWPrGuUWfpR02) | 3:19 | 2022-06-08 | 2022-07-21 |
 | [Buzzin' Like You](https://open.spotify.com/track/5YTd6LeWiEOCRTPfNh3yYn) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Buzzin' Like You](https://open.spotify.com/album/1DnJixZpiYbZIkWzErmub5) | 3:00 | 2023-07-26 |  |
 | [Buzzkilla](https://open.spotify.com/track/2mnHIT6zav3oCFqQ2nO9cz) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Let Love Be Love](https://open.spotify.com/album/4Pw17nZHXxHSux3kpl26l7) | 2:52 | 2021-12-01 | 2022-01-13 |
@@ -1563,6 +1565,7 @@
 | [Twenty\-Four](https://open.spotify.com/track/25AmSvKS9wOMNPB0v3KOYK) | [Alee](https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe) | [Twenty\-Four](https://open.spotify.com/album/5YNr8xB3LqTbIJXgg7Php3) | 2:46 | 2022-09-28 | 2022-12-01 |
 | [Two Beers Old](https://open.spotify.com/track/2QuybYA5IkUG192cB2CaCH) | [Trey Teem](https://open.spotify.com/artist/53VXZh6xSVSnoSu4n0SoTF) | [Two Beers Old](https://open.spotify.com/album/7ckWGsZHyzSON6b4hvjF16) | 2:58 | 2022-03-16 | 2022-04-27 |
 | [TWO BROKE HEARTS](https://open.spotify.com/track/1cr011JYf3xTu3rYRUK6io) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [TWO BROKE HEARTS](https://open.spotify.com/album/36H4r65rax4ptGYfds64nC) | 3:17 | 2023-04-12 | 2023-06-01 |
+| [Two Lane](https://open.spotify.com/track/6XuJRTQZUhBEukHCf3Ymds) | [Mitch Zorn](https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7) | [Two Lane](https://open.spotify.com/album/7ogOLiAC1Hu9swWbR8ZANU) | 2:35 | 2023-08-04 |  |
 | [Two Left Feet](https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31) | [Cameron James Smith](https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp) | [Two Left Feet](https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK) | 3:14 | 2022-10-05 | 2022-10-13 |
 | [Two Things](https://open.spotify.com/track/5gZVj5aHhFAp40Dju6fR00) | [Dylan David Fader](https://open.spotify.com/artist/1kFpdTetDdgggUpA8G3723) | [Two Things](https://open.spotify.com/album/4vREGExY6RezljSzrYv1ch) | 3:13 | 2023-03-22 | 2023-05-11 |
 | [Two Way Street](https://open.spotify.com/track/5Gf8CtJbLkA3vwlkV6SvsY) | [Bree Jaxson](https://open.spotify.com/artist/5p9cWj6eyEHAVyBFuPO9CY) | [Two Way Street](https://open.spotify.com/album/4afr9IBHTGZvgDBhgSYeJ0) | 2:50 | 2022-07-20 | 2022-08-18 |

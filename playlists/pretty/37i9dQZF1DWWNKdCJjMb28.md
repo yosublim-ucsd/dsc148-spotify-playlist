@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNKdCJjMb28.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/karencivil/?hl=en">Karen Civil</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,688 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,758 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNKdCJjMb28.md) - [plain]
 | 42 | [Lonely Vibes](https://open.spotify.com/track/0fH67n0kMHc2Zm6bHdagwG) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Lonely Vibes](https://open.spotify.com/album/1svFbTEhnqACSVV5JZSFxE) | 3:16 |
 | 43 | [Amen](https://open.spotify.com/track/3axVR1ayqtT1UIqjsRtOqp) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Jeezy](https://open.spotify.com/artist/10ZP74NjhScq9YiNxJkmhi), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Fear of God II: Let Us Pray](https://open.spotify.com/album/6ZS2NOEZ7XwlNlKWK2dzPM) | 4:36 |
 | 44 | [U See Us](https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 3:25 |
-| 45 | [SUPABIEN](https://open.spotify.com/track/5rxgQs8vyfy4z3IErxGscx) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 1:43 |
-| 46 | [Yessirski](https://open.spotify.com/track/1c3Zkz6wzRAakKaYY6F3iw) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Demons R Us](https://open.spotify.com/album/7dHyTBvxC5obeBab5LKvQO) | 3:20 |
+| 45 | [Yessirski](https://open.spotify.com/track/1c3Zkz6wzRAakKaYY6F3iw) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Demons R Us](https://open.spotify.com/album/7dHyTBvxC5obeBab5LKvQO) | 3:20 |
+| 46 | [SUPABIEN](https://open.spotify.com/track/5rxgQs8vyfy4z3IErxGscx) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 1:43 |
 | 47 | [I Don't Stress](https://open.spotify.com/track/2FJnGx6mOQh7bB1dKj4IpI) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 4:21 |
 | 48 | [Blessings](https://open.spotify.com/track/7rctLyDUHeuSCXbSTniwL9) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 2:52 |
 | 49 | [Paint The Town Red](https://open.spotify.com/track/3ZX9CjDVbITSTlKqbLSDBk) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Young Jefe 3](https://open.spotify.com/album/2rnt0fBBFJ9ByEPnewCPr5) | 3:26 |
 
-Snapshot ID: `MCxlNWM0MmNkZTUyYzkyNmVkY2Y4M2VjMWEwNTY3ZjEyNTJlYjdmODk4`
+Snapshot ID: `MCxiY2M2MzJkOGI2YzA0ODg4MTg0MmUzM2JmYTEzMGZlOGYxMjU0YzZj`

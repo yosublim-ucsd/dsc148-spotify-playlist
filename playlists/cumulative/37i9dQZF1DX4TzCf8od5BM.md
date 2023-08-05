@@ -4,7 +4,7 @@
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
 
-188 songs - 4 hr 48 min
+190 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Baboons!](https://open.spotify.com/track/1OOq8w9ADim9j3Hm8H3YzH) | [Cast \- The Lion Guard](https://open.spotify.com/artist/5JzY52U0wxtkFAxSsgQub7) | [The Lion Guard: Disney Junior Music](https://open.spotify.com/album/14vTy6HIn4yERpXiN3IIuv) | 2:05 | 2022-03-18 |  |
 | [Baby Bath Time](https://open.spotify.com/track/0vASj53WHYdRqmWXKFraQZ) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Doc McStuffins: Disney Junior Music](https://open.spotify.com/album/0L9q0keOfRGpk5ElzGFZsd) | 0:52 | 2022-03-18 |  |
 | [Be A Firebud \- From "Disney Junior Music: Firebuds"](https://open.spotify.com/track/11IfD973wh91iYe4AH0lfP) | [Firebuds \- Cast](https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Be A Firebud \(From "Disney Junior Music: Firebuds"\)](https://open.spotify.com/album/34YGWg1HdUBeTSxgF9vwVe) | 2:30 | 2023-07-21 |  |
+| [Best Friends \- From "Disney Junior Music: Star Wars \- Young Jedi Adventures"](https://open.spotify.com/track/6yrtCt8np914Vk1kUmACr7) | [Star Wars: Young Jedi Adventures \- Cast](https://open.spotify.com/artist/5z8sEMBST1zW6RL9staYA7) | [Best Friends \(From "Disney Junior Music: Star Wars \- Young Jedi Adventures"\)](https://open.spotify.com/album/40pEr2MJkwHTYYFRC0xfE8) | 1:57 | 2023-08-04 |  |
 | [Best Medicine](https://open.spotify.com/track/46YX7WnuTsE8Q1JTyNw29I) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Disney Junior Music: Doc McStuffins \- The Doc Is In Vol\. 2](https://open.spotify.com/album/2APRAxjQ9Y4HLCm2sJuQdO) | 0:55 | 2022-03-18 |  |
 | [Better Together](https://open.spotify.com/track/06XmduRx6Fhod8FnjyK9lh) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS) | [Disney Junior Music: Mickey Mouse Funhouse Vol\. 1](https://open.spotify.com/album/4WAOBwmnOk4t3aZ7a4z7ZX) | 1:18 | 2022-03-18 |  |
 | [Bingo](https://open.spotify.com/track/32A7XEl78TS87LaA2RAF6B) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music Nursery Rhymes Vol\. 1](https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X) | 1:21 | 2022-03-18 |  |
@@ -184,6 +185,7 @@
 | [We'll Just Dance](https://open.spotify.com/track/5S6jTxWSVDL8HnZx1rDlCi) | [Cast \- Mickey and the Roadster Racers](https://open.spotify.com/artist/5YMR2MRTB2gJtx6YXjpclk) | [Mickey and The Roadster Racers: Disney Junior Music](https://open.spotify.com/album/3HyWs0pXZXUsLsLBDGhNzH) | 1:56 | 2022-03-18 |  |
 | [We're on the Case](https://open.spotify.com/track/7zrf9DSawhAV7TizF05P26) | [Mira, Royal Detective \- Cast](https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj) | [Disney Junior Music: Mira, Royal Detective](https://open.spotify.com/album/0bbffEsQXm7Z16d0iC3W2k) | 0:34 | 2022-03-18 |  |
 | [Weather](https://open.spotify.com/track/2K6MTdLSbkG3Ocr6srm0KA) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 2](https://open.spotify.com/album/5pGWhGWIzd5AjlLDk6ZJuZ) | 1:26 | 2022-03-18 |  |
+| [Web\-Spinners](https://open.spotify.com/track/3u63jOlIxYN2P2GoWjMyq0) | [Marvel’s Spidey and His Amazing Friends \- Cast](https://open.spotify.com/artist/2BdLNqjv0srjdAEJBI0Jgm), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Marvel's Spidey and His Amazing Friends \- Web\-Spinners](https://open.spotify.com/album/429rqYMxX34skuuCXDz9wn) | 1:31 | 2023-08-04 |  |
 | [Webs Up \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/73oKdtqfhexTnNvp2QFBns) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Webs Up \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/0zwpuxxddazT9xD2gPQmX4) | 1:03 | 2022-07-22 |  |
 | [Welcome to the Hospital](https://open.spotify.com/track/0cKehdz3x4KI97HYS3sqNY) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Doc McStuffins: Disney Junior Music](https://open.spotify.com/album/0L9q0keOfRGpk5ElzGFZsd) | 1:13 | 2022-03-18 |  |
 | [What Animal Do You Hear?](https://open.spotify.com/track/6wy6Iem6hgu2MGup3V2G0d) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 8](https://open.spotify.com/album/1kfmTVqOcHscZTl35tYmIe) | 1:26 | 2022-03-18 |  |

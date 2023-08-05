@@ -1,12 +1,12 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1001672,
+  "num_followers": 1002312,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzU2MjIwNjU4YzdlNjc1ZDEwOTAwYWE2ODVkNTgzMzc4MmViMzll",
+  "snapshot_id": "MCw3ZmUzMDYyNDE3MGI3YmFjMTMwMTY5ZjJkZjM2ZDJkZDgxNzJmYjc2",
   "tracks": [
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "My Cherie Amour",
-        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Down the Road Apiece - the Recordings 1963-1966",
         "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 144146,
       "name": "Do Wah Diddy Diddy - 2007 Remaster",
       "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Runaway with Del Shannon",
         "url": "https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 137306,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "That'll Be The Day",
-        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 150133,
-      "name": "That'll Be The Day",
-      "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 173266,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "That'll Be The Day",
+        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 150133,
+      "name": "That'll Be The Day",
+      "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2039,18 +2039,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Remember When",
-        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
+        "name": "Come Go With Me: The Best Of The Del-Vikings",
+        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
       },
       "artists": [
         {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
         }
       ],
-      "duration_ms": 124502,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm"
+      "duration_ms": 162293,
+      "name": "Come Go With Me",
+      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2071,18 +2071,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Come Go With Me: The Best Of The Del-Vikings",
-        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
       },
       "artists": [
         {
-          "name": "The Del-Vikings",
-          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
         }
       ],
-      "duration_ms": 162293,
-      "name": "Come Go With Me",
-      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
+      "duration_ms": 124502,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Bobby Darin",
-        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 131719,
-      "name": "Splish Splash",
-      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Dance To The Music",
         "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 179426,
       "name": "Dance to the Music",
       "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Bobby Darin",
+        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 131719,
+      "name": "Splish Splash",
+      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2247,38 +2247,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Crying",
-        "url": "https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 166466,
-      "name": "Crying",
-      "url": "https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "The Best Of The Penguins",
         "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
       },
@@ -2307,6 +2275,38 @@
       "duration_ms": 165744,
       "name": "The Way You Do The Things You Do",
       "url": "https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Crying",
+        "url": "https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "Crying",
+      "url": "https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9"
     },
     {
       "added_at": "2023-08-03 14:07:21",

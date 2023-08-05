@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,746 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,776 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kisses in the Rain](https://open.spotify.com/track/0xGa0PyJsByzRajl8KYefg) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Kisses In The Rain](https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX) | 4:32 |
 | 2 | [I'm Waiting For You](https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Lil' Man Soul](https://open.spotify.com/album/3GPPcFHouTopuZons7w27s) | 4:05 |
 | 3 | [Tequila Moon](https://open.spotify.com/track/4qkdBTRPwojWnqGcUSVQ3Z) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Tequila Moon](https://open.spotify.com/album/49n82PnSnIi9LFveKPH6h5) | 4:36 |
-| 4 | [La Dolce Vita](https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 5:25 |
-| 5 | [Suede](https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Player's Club](https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U) | 4:16 |
+| 4 | [Suede](https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Player's Club](https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U) | 4:16 |
+| 5 | [La Dolce Vita](https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 5:25 |
 | 6 | [Pacifica](https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Stay With Me](https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3) | 4:16 |
 | 7 | [Slow Jam](https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Born 2 Groove](https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l) | 5:09 |
 | 8 | [11:58](https://open.spotify.com/track/2vxubkwtKQ2Sn4FU47ygii) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Candy Store](https://open.spotify.com/album/7KJJl8pNcDjhoDkjW3CDKp) | 4:02 |
@@ -21,18 +21,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 11 | [Eye 2 Eye](https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Embrace](https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3) | 4:43 |
 | 12 | [18th & M](https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2) | [Marcus Johnson](https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM) | [Just Doing What I do](https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn) | 3:30 |
 | 13 | [Let It Flow](https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Night On The Town](https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq) | 4:49 |
-| 14 | [Do You Wanna Dance](https://open.spotify.com/track/6lOaVShahOYSeDR2RS0b9l) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 3:38 |
-| 15 | [Blue Water](https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Just Around The Corner](https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b) | 4:10 |
+| 14 | [Blue Water](https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Just Around The Corner](https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b) | 4:10 |
+| 15 | [Do You Wanna Dance](https://open.spotify.com/track/6lOaVShahOYSeDR2RS0b9l) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 3:38 |
 | 16 | [Dreaming Of You](https://open.spotify.com/track/5ClGoF3ctjs65gRIhqJR7Y) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [It's On Tonight](https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK) | 3:54 |
 | 17 | [Who's That Lady](https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Glow](https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif) | 4:30 |
 | 18 | [Waiting](https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 5:26 |
-| 19 | [On The Wes Side](https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Temptation](https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV) | 4:26 |
-| 20 | [Soul Dream](https://open.spotify.com/track/7LdSiHHU6cynBDc7j3DDoc) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Tim Bowman](https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e) | 5:02 |
+| 19 | [Soul Dream](https://open.spotify.com/track/7LdSiHHU6cynBDc7j3DDoc) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Tim Bowman](https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e) | 5:02 |
+| 20 | [On The Wes Side](https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Temptation](https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV) | 4:26 |
 | 21 | [Nightfall](https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Love's Melody](https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM) | 5:32 |
 | 22 | [All Jazzed Up \(And Nowhere To Go\)](https://open.spotify.com/track/3vZVCOn1WEuuxm0jFWOllv) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM) | 5:07 |
 | 23 | [Keepin' It Cool](https://open.spotify.com/track/6rKan5MDdzwXHUy90RYn26) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Keepin' It Cool](https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7) | 3:34 |
-| 24 | [24/7](https://open.spotify.com/track/4c1n3sgF8KcQXi6pF45X9o) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Up Front](https://open.spotify.com/album/12qKRGcqgSwQXZbP5MFb0y) | 4:27 |
-| 25 | [The Sax Pack](https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB) | [The Sax Pack](https://open.spotify.com/artist/2m74KCZFBOTpNy1g9XLbSA) | [The Sax Pack](https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN) | 3:34 |
+| 24 | [The Sax Pack](https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB) | [The Sax Pack](https://open.spotify.com/artist/2m74KCZFBOTpNy1g9XLbSA) | [The Sax Pack](https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN) | 3:34 |
+| 25 | [24/7](https://open.spotify.com/track/4c1n3sgF8KcQXi6pF45X9o) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Up Front](https://open.spotify.com/album/12qKRGcqgSwQXZbP5MFb0y) | 4:27 |
 | 26 | [Chill Or Be Chilled](https://open.spotify.com/track/7zpT0LfNeHx8arSeRTh7NZ) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [The Limit's The Sky](https://open.spotify.com/album/2xcJyQDNQKtypYZ260AJ4x) | 3:43 |
 | 27 | [I Still Believe](https://open.spotify.com/track/6dcNq7ZdQMG5ucQeuTZcWd) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Chillin'](https://open.spotify.com/album/7K2ByqRePgiW7yQAE3dsjt) | 3:59 |
 | 28 | [I Wanna Be Where You Are](https://open.spotify.com/track/5vM8GpI04rVLp7m1gUHDRa) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP), [Dennis Johnson](https://open.spotify.com/artist/4u2zMyt9wCVY1OipyXEB4y), [Armando Marçal](https://open.spotify.com/artist/4TjS37y1cLMvQbEumiAZ7C) | [Brazil Chill](https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn) | 5:46 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 31 | [Night Rider](https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Steppin' Out](https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF) | 3:58 |
 | 32 | [Kaleidoscope](https://open.spotify.com/track/0qD9zBjyp5GRhdkXxFFSVQ) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Soul Express](https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH) | 4:42 |
 | 33 | [Bumpin' on the Wes Side](https://open.spotify.com/track/64ZFGT08sZHec62uQayIFw) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Desire](https://open.spotify.com/album/1Ao7NIxzEyqJb9G2phlegX) | 5:27 |
-| 34 | [This Time Around](https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:02 |
-| 35 | [Feeling Good](https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Radiant](https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ) | 4:59 |
+| 34 | [Feeling Good](https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Radiant](https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ) | 4:59 |
+| 35 | [This Time Around](https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:02 |
 | 36 | [Ain't No Stoppin' Us Now](https://open.spotify.com/track/1Nu6wkDGw7JurB4AktFuoE) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Hang Time](https://open.spotify.com/album/5js3uGBKjYbpFyPhcVaw37) | 4:06 |
 | 37 | [In the Moment](https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ) | [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [In the Moment](https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk) | 4:11 |
 | 38 | [Mildred's Attraction](https://open.spotify.com/track/6LOA1tEyiS6oHdwZiJ9rkA) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Revolving Door](https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc) | 5:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 49 | [So Divine](https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Both Sides](https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9) | 4:55 |
 | 50 | [Make It Happen](https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9) | [Jay Soto](https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf) | [Stay Awhile](https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1) | 4:15 |
 
-Snapshot ID: `MCxkZmI0ZjNhYzI2MDM3NTFhNzE3ZTAyOWViYmQyNjExNDMwNmVhZjUw`
+Snapshot ID: `MCwzYjk0ZmNhYmIxOTdlZWFiMzc3ZDNlZWQ3YmZlYTc3Mjk3YWM5MWI5`

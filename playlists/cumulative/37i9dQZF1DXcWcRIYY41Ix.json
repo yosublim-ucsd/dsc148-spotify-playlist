@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 233312,
       "name": "Acantilado",
       "url": "https://open.spotify.com/track/2hTKVVpy3eZen3OVgfeIOR"
@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "Aqu\u00ed Te Espero",
+        "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255373,
+      "name": "Aqu\u00ed Te Espero",
+      "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
+    },
+    {
+      "album": {
         "name": "Aunque No Sea Yo",
         "url": "https://open.spotify.com/album/74j5XhF4zIq06Y4Hq6zRtp"
       },
@@ -932,7 +950,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 181000,
       "name": "Boedo",
       "url": "https://open.spotify.com/track/294fC5z8w22R90Doc2jZsf"
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 76966,
       "name": "Danza",
       "url": "https://open.spotify.com/track/3Bc3GtEleSnPNc3ZJBDBxG"
@@ -4646,7 +4664,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 156270,
       "name": "Lugar donde se florece",
       "url": "https://open.spotify.com/track/3Y1gXsgdxm8Uu6ycH5EESQ"
@@ -4888,7 +4906,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 240576,
       "name": "Me Voy a Valpara\u00edso",
       "url": "https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR"
@@ -5484,7 +5502,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 168026,
       "name": "no hace falta saber",
       "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
@@ -5930,7 +5948,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-22",
+      "date_removed": null,
       "duration_ms": 225287,
       "name": "Para la pena no",
       "url": "https://open.spotify.com/track/0dEr4JTpdsy1sAwHM6RGHF"
@@ -7485,6 +7503,28 @@
     },
     {
       "album": {
+        "name": "Te Lo Agradezco",
+        "url": "https://open.spotify.com/album/4b54nXTn2X4aRFgUnCaMGE"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183667,
+      "name": "Te Lo Agradezco",
+      "url": "https://open.spotify.com/track/0NnbCdowqhKtgtNEQ9oeBX"
+    },
+    {
+      "album": {
         "name": "Te Maldigo",
         "url": "https://open.spotify.com/album/6BISTfP4JFYoWuGdPPPVIS"
       },
@@ -8514,7 +8554,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-03",
+      "date_removed": null,
       "duration_ms": 166048,
       "name": "Visiones Doradas",
       "url": "https://open.spotify.com/track/55Kk2Tx8dtv3JxeSCEHueP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. LØLØ
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,478 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,578 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 47 | [Deep End](https://open.spotify.com/track/61Ty6v8l6KMOqHv9js55Xp) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [Deep End](https://open.spotify.com/album/06zDKs4zyoeMS8SBC9r9Tm) | 3:16 |
 | 48 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 |
 | 49 | [This Won't Go Over Well](https://open.spotify.com/track/5orscSJxQSOKAa76mp9xOJ) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [I'm Done](https://open.spotify.com/album/1ekt1n1bweW302dZONnH5R) | 3:24 |
-| 50 | [Famous](https://open.spotify.com/track/1te0wzOWRVnKXF49lAztVq) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Famous](https://open.spotify.com/album/0rfBEU8mBh0Il5Pagpam4e) | 3:54 |
+| 50 | [Famous](https://open.spotify.com/track/1te0wzOWRVnKXF49lAztVq) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG), [LaLotus](https://open.spotify.com/artist/7e5cGwWgUr0VyoaWa2h8XZ) | [Famous](https://open.spotify.com/album/0rfBEU8mBh0Il5Pagpam4e) | 3:54 |
 | 51 | [MK Nothing](https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [MK Nothing](https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j) | 3:24 |
 | 52 | [Friends With Benefits](https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Friends With Benefits](https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N) | 3:07 |
 | 53 | [Crumbled](https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Crumbled](https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS) | 3:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [\(NOT A\) LOVE SONG](https://open.spotify.com/track/4pbi40zXUCSQG3azxkag79) | [The Tyne](https://open.spotify.com/artist/5o5dFyK0UODK3sYQp5ao8V), [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [\(NOT A\) LOVE SONG](https://open.spotify.com/album/5ALQdJdsSKZikDNs6Br7VN) | 2:47 |
 | 80 | [Alright](https://open.spotify.com/track/6ZBr8E9XczoqgMRXyXUe6b) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Alright](https://open.spotify.com/album/2xawjrCCEKSTSxOg6VkPe9) | 3:22 |
 
-Snapshot ID: `MCwxMmMzYWMyNGI2MGVmZGRjM2QyODkxMTcwYjM1MjdhMWI1ZTRhYmZj`
+Snapshot ID: `MCw0M2MxZWZhNmQ4NDJlMzY2NDRkZmJiOGFjNDBlMTRiNjMyYWRlMTZi`

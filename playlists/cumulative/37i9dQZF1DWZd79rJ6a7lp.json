@@ -12161,6 +12161,24 @@
     },
     {
       "album": {
+        "name": "Frictionless",
+        "url": "https://open.spotify.com/album/0MUMMXAt41woVXxQ5BssVh"
+      },
+      "artists": [
+        {
+          "name": "Garc\u00edia",
+          "url": "https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176698,
+      "name": "Straight Ahead",
+      "url": "https://open.spotify.com/track/15SPWU4M4H0yhK5Nto68Kb"
+    },
+    {
+      "album": {
         "name": "Stream Of Somnolence",
         "url": "https://open.spotify.com/album/1WyX4lP1K5UAGEerqUchTZ"
       },

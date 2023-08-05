@@ -1,28 +1,56 @@
 {
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Adekunle Gold",
-  "num_followers": 1788776,
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Ciara",
+  "num_followers": 1788903,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTQ2MjUxMWVhYWM3YmE2YmQ5NGMwYmQ2ODNiY2Q0YmM0NGZlODAx",
+  "snapshot_id": "MCwyZjYyYzFjMGYyZjk1OGYyNWQyZTRmNTA2NDQ1M2Y1NWNhNjYyMjBk",
   "tracks": [
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Tequila Ever After",
-        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
+        "name": "How We Roll",
+        "url": "https://open.spotify.com/album/6QK3O5sAs6NJ8n3h8UssuZ"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 171431,
-      "name": "Not My Problem",
-      "url": "https://open.spotify.com/track/3fpISrtcsVBNJZ3K0JhRwG"
+      "duration_ms": 199512,
+      "name": "How We Roll",
+      "url": "https://open.spotify.com/track/7Fdhp8np9nZhsghO2VIPvJ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Good Good",
+        "url": "https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 247100,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -233,6 +261,70 @@
       "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
     },
     {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 172892,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Don't Say Love (R&B Version)",
+        "url": "https://open.spotify.com/album/0suvINTZqdzzV37L4XR3tS"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "duration_ms": 180131,
+      "name": "Don't Say Love - R&B Version",
+      "url": "https://open.spotify.com/track/01FKgn2t3o8adgrrfkN0HQ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "tori",
+        "url": "https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 171797,
+      "name": "shelter",
+      "url": "https://open.spotify.com/track/6ZX1PCq8GsEkjoDPiw800u"
+    },
+    {
       "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Talk To Me Nice",
@@ -247,6 +339,50 @@
       "duration_ms": 229844,
       "name": "Talk To Me Nice",
       "url": "https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Echoes (feat. Tony Duardo, Manana & Lusanda)",
+        "url": "https://open.spotify.com/album/6GPfETz7e4MYd3kU4CtLIK"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        },
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        },
+        {
+          "name": "Lusanda",
+          "url": "https://open.spotify.com/artist/7CSAqTFm0mlnIQOCtzi6NV"
+        }
+      ],
+      "duration_ms": 245041,
+      "name": "Echoes (feat. Tony Duardo, Manana & Lusanda)",
+      "url": "https://open.spotify.com/track/7msMFkuYQdBaJhiav2UrM1"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Tequila Ever After",
+        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 171431,
+      "name": "Not My Problem",
+      "url": "https://open.spotify.com/track/3fpISrtcsVBNJZ3K0JhRwG"
     },
     {
       "added_at": "2023-06-16 05:14:18",
@@ -285,20 +421,40 @@
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "tori",
-        "url": "https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd"
+        "name": "GRL GVNG",
+        "url": "https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS"
       },
       "artists": [
         {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 171797,
-      "name": "shelter",
-      "url": "https://open.spotify.com/track/6ZX1PCq8GsEkjoDPiw800u"
+      "duration_ms": 188093,
+      "name": "GRL GVNG",
+      "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 184914,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n"
     },
     {
       "added_at": "2023-07-14 05:46:05",
@@ -369,22 +525,6 @@
       "url": "https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
-      },
-      "artists": [
-        {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "22",
-      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
-    },
-    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "My Lady",
@@ -407,6 +547,62 @@
       "duration_ms": 178953,
       "name": "My Lady",
       "url": "https://open.spotify.com/track/2qJKnWeXuINcyjGhufB0nZ"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Talibans II",
+        "url": "https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "Talibans II",
+      "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "22",
+      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Balance (feat. Skillibeng)",
+        "url": "https://open.spotify.com/album/75liolcLZGv2M5gobKgFWk"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 203816,
+      "name": "Balance (feat. Skillibeng)",
+      "url": "https://open.spotify.com/track/6DWsAyAZdQe478O3vQyvmK"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -443,26 +639,6 @@
       "duration_ms": 206035,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/1r16zpUZ2nH44uOXlBGrbm"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Talibans II",
-        "url": "https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "Talibans II",
-      "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1395,8 +1571,8 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/41Mhl0oqQf6RlFohC4gjZV"
+        "name": "3 Words, 8 Letters",
+        "url": "https://open.spotify.com/album/3cwHtC44GniubdYWBVmHm0"
       },
       "artists": [
         {
@@ -1406,7 +1582,7 @@
       ],
       "duration_ms": 195394,
       "name": "Trouble",
-      "url": "https://open.spotify.com/track/0vnfEjGbBLa9uvzBuxWlaq"
+      "url": "https://open.spotify.com/track/6ClO1Nbpgac7ZP9hjprhdm"
     },
     {
       "added_at": "2023-05-26 15:49:43",
@@ -2023,8 +2199,8 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Touchin\u2019",
-        "url": "https://open.spotify.com/album/1oxUQAmnfZI56Ztsxo8Lky"
+        "name": "3 Words, 8 Letters",
+        "url": "https://open.spotify.com/album/5tFzkSSvccurLq2MFFQDvz"
       },
       "artists": [
         {
@@ -2034,7 +2210,7 @@
       ],
       "duration_ms": 193797,
       "name": "Touchin\u2019",
-      "url": "https://open.spotify.com/track/0EQbPoOAtAqlfzL30WLRA8"
+      "url": "https://open.spotify.com/track/5R9BiGgE7oNfIIKwbbuYgz"
     },
     {
       "added_at": "2023-04-14 04:00:00",

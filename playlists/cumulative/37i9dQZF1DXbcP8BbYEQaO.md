@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-553 songs - 1 day 7 hr 12 min
+555 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Die Trying](https://open.spotify.com/track/5JTAGruCIDyRLhKLwFkTnS) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Die Trying](https://open.spotify.com/album/3GtcNdfScg8xtLLbJNJbfm) | 3:29 | 2020-10-13\* | 2021-07-17 |
 | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK) | 3:33 | 2022-10-28 | 2022-11-13 |
 | [Doing To Me](https://open.spotify.com/track/1ioqD1XvFGDomjXkKNCBQB) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Trust Issues](https://open.spotify.com/album/0p9VYdjKX7XgC7M3wm5R3E) | 3:10 | 2020-10-13\* | 2021-12-04 |
+| [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu) | 3:25 | 2023-08-04 |  |
 | [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 | 2022-05-27 | 2023-01-28 |
 | [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 | 2021-02-19 | 2021-07-04 |
 | [dot dot dot](https://open.spotify.com/track/2babNB7t9s2xIlSSoRFaPy) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [dot dot dot](https://open.spotify.com/album/5quLNXWWPhwTJwxjVI73I1) | 2:17 | 2023-05-26 | 2023-07-24 |
@@ -198,6 +199,7 @@
 | [Ghost](https://open.spotify.com/track/4mUV6ibaOhrkYNxFT0bSuL) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Ghost \- EP](https://open.spotify.com/album/4xRU1l0o51zNmeTPqFuVRB) | 3:04 | 2021-12-31 | 2022-03-12 |
 | [ghostin](https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 4:31 | 2020-10-13\* | 2021-06-19 |
 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 | 2023-02-10 |  |
+| [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-08-04 |  |
 | [girls girls girls](https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [girls girls girls](https://open.spotify.com/album/17K0z0mxfAuYNNrV8Jx8v1) | 2:41 | 2021-10-09 | 2022-04-17 |
 | [Giving In To The Love](https://open.spotify.com/track/6pVGigBjIqGgGscGcKGqSi) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Giving In To The Love](https://open.spotify.com/album/5K0nBsDX1pO2OakhRPpsIJ) | 3:01 | 2021-10-16 | 2022-04-17 |
 | [GLAM!](https://open.spotify.com/track/4IazlP0NMBXhS1hF6H7et6) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [GLAM!](https://open.spotify.com/album/3oJkESCEfG0Q1M2xYIK63U) | 3:41 | 2022-01-07 | 2022-04-17 |
@@ -416,7 +418,7 @@
 | [Same Old](https://open.spotify.com/track/3GCVYVuCRRMH7WVtI5V0E3) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w) | 2:55 | 2020-10-13\* | 2021-10-16 |
 | [Same Room](https://open.spotify.com/track/48yUhAZGJb5WGSclZK1RAF) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Same Room](https://open.spotify.com/album/4Du5FOKBRQoDJHt2fHU4vI) | 3:53 | 2020-10-13\* | 2021-06-19 |
 | [Saturday Nights](https://open.spotify.com/track/7vGGAJBkHKxKtOnGjQduDV) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Suncity](https://open.spotify.com/album/4UNwL1B7JoymNUiTFJa52B) | 3:29 | 2020-10-13\* | 2021-11-19 |
-| [Save A Kiss](https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 4:02 | 2022-04-16 |  |
+| [Save A Kiss](https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 4:02 | 2022-04-16 | 2023-08-05 |
 | [Save Me](https://open.spotify.com/track/0B4Jl6HsG9hS3Q2vOfV9Kf) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Save Me](https://open.spotify.com/album/0aYqbPXUoilLlYD7GZVvhf) | 3:18 | 2022-04-08 | 2022-08-30 |
 | [Saw You In a Dream](https://open.spotify.com/track/6XwfbweA3ppZC6sI6GzC1G) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In a Dream](https://open.spotify.com/album/1qHy2NzNvx582iAqkCk7Uu) | 3:28 | 2020-10-13\* | 2021-06-19 |
 | [Say You're In Love](https://open.spotify.com/track/4lb6XqntzcSRbYXw6AXX3y) | [The Yves](https://open.spotify.com/artist/50CeFDCHW8eEwymrHFAeKL) | [Say You're In Love](https://open.spotify.com/album/2PJKwKurwvicf4aIYqdyAL) | 4:00 | 2021-10-02 | 2022-10-19 |
@@ -469,7 +471,7 @@
 | [Taken](https://open.spotify.com/track/1DCf4TQUJdWWXLM8LOIWA7) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:05 | 2020-10-13\* | 2021-06-19 |
 | [Talia](https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Talia](https://open.spotify.com/album/5Z9ThGv7MrUjdZJREO9GOF) | 3:27 | 2021-07-18 | 2021-11-20 |
 | [Talk](https://open.spotify.com/track/3ZE3BSTojEeiBmep57CcUa) | [Helen](https://open.spotify.com/artist/0dKF6Q9Wz7Y3PKSNyaFpkM) | [Talk](https://open.spotify.com/album/4onhJdux51mV5lSgb9rU1U) | 2:30 | 2022-09-16 | 2022-10-08 |
-| [Talk to Me](https://open.spotify.com/track/1x5vRfDFUZX8DV8OxV8GHb) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/05wLs4epCt9e5RKsmDJ8Zo) | 2:53 | 2023-07-14 |  |
+| [Talk to Me](https://open.spotify.com/track/1x5vRfDFUZX8DV8OxV8GHb) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/05wLs4epCt9e5RKsmDJ8Zo) | 2:53 | 2023-07-14 | 2023-08-05 |
 | [tear myself apart](https://open.spotify.com/track/57m2Kve0xnAgYVAPxMLKHS) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [tear myself apart](https://open.spotify.com/album/3FhPAdYjwW3aLRMvx8HbKz) | 2:48 | 2020-10-13\* | 2021-12-04 |
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:16 | 2022-04-16 |  |
 | [Temper](https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Temper](https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR) | 3:26 | 2021-10-16 | 2022-12-10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Travis Scott, Drake, Central Cee and Offset. ",
+  "description": "Music from Travis Scott, Drake and Latto. ",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 277043,
       "name": "Attention",
       "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
@@ -5362,7 +5362,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 219453,
       "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
@@ -18329,6 +18329,28 @@
     },
     {
       "album": {
+        "name": "Mandem",
+        "url": "https://open.spotify.com/album/0DyM4ObPQl24gdZ1Xhq6Ga"
+      },
+      "artists": [
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241567,
+      "name": "Mandem",
+      "url": "https://open.spotify.com/track/3oXsp44OaIdNIsFCqiGkDw"
+    },
+    {
+      "album": {
         "name": "Maniac",
         "url": "https://open.spotify.com/album/3X74V6sPBNbqyWqxBFgsiQ"
       },
@@ -22690,6 +22712,24 @@
       "duration_ms": 242368,
       "name": "Painless 2 (with NAV feat. Lil Durk)",
       "url": "https://open.spotify.com/track/71Ih7wOeWd2EJxKi77Yiqi"
+    },
+    {
+      "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
       "album": {
@@ -27384,7 +27424,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 124805,
       "name": "SHAKE SUMN",
       "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
@@ -27956,7 +27996,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 312820,
       "name": "SICKO MODE",
       "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
@@ -28272,6 +28312,24 @@
       "duration_ms": 101353,
       "name": "Sleepy Hollow",
       "url": "https://open.spotify.com/track/3v84EI4rMdsqJ95MxwIjQa"
+    },
+    {
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/5ebkIuetHLio3kC1E9CxmU"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149565,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/00rMGQGXFeY2VQTrg7SWde"
     },
     {
       "album": {
@@ -31490,6 +31548,24 @@
       "duration_ms": 195883,
       "name": "The Magic Number",
       "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
+    },
+    {
+      "album": {
+        "name": "I Showed U So",
+        "url": "https://open.spotify.com/album/4GVyz2cTtsOtCX5Jk1zeaU"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134715,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/3V0A5gVJFGy4Hmo3MJ59uD"
     },
     {
       "album": {
@@ -35760,7 +35836,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 201547,
       "name": "Woppenheimer",
       "url": "https://open.spotify.com/track/66YBofdqc9pF2MbvdjD23I"

@@ -1,12 +1,12 @@
 {
   "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=LPtyeJVuQRGv3ijbtZJVHQ\">Rooksein</a> ",
-  "num_followers": 13821,
+  "num_followers": 13833,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjJhNTk5NThiMTYwM2RmNjRjZGY2MjQ5M2E3NmU5MDUyN2I5MDM1",
+  "snapshot_id": "MCw4ZTM4YTg0ZTZkNDg1MmY1ZGZkZTg4OWY0Y2Y4OWFhYTY5OTRjYzgw",
   "tracks": [
     {
       "added_at": "2023-07-28 06:52:23",
@@ -77,6 +77,42 @@
       "url": "https://open.spotify.com/track/1vmgF0APgogTK1C19NH4r5"
     },
     {
+      "added_at": "2023-08-04 10:43:32",
+      "album": {
+        "name": "Big Mistakes",
+        "url": "https://open.spotify.com/album/6k4QPx0m28c6UlXqkiPnlC"
+      },
+      "artists": [
+        {
+          "name": "Trevor Rabin",
+          "url": "https://open.spotify.com/artist/23ukNzhMiRiYgORi3n3RJq"
+        }
+      ],
+      "duration_ms": 332696,
+      "name": "Big Mistakes",
+      "url": "https://open.spotify.com/track/3f5MFKBb6aRheW6IpSn5qw"
+    },
+    {
+      "added_at": "2023-08-04 10:43:32",
+      "album": {
+        "name": "Outcasts",
+        "url": "https://open.spotify.com/album/1WJEMPcD7KGqkJrSzmgTdD"
+      },
+      "artists": [
+        {
+          "name": "Cindy-Louise",
+          "url": "https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD"
+        },
+        {
+          "name": "Erick Gerber",
+          "url": "https://open.spotify.com/artist/4EPvmo3SCToxenG4mQfhcc"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "Outcasts",
+      "url": "https://open.spotify.com/track/38WBPi8N2uLBIA03sU0vea"
+    },
+    {
       "added_at": "2023-07-28 06:52:23",
       "album": {
         "name": "Solaris",
@@ -107,6 +143,22 @@
       "duration_ms": 260626,
       "name": "Escape (The Pi\u00f1a Colada Song)",
       "url": "https://open.spotify.com/track/0r6cNe1xXtVjUYixphdXd1"
+    },
+    {
+      "added_at": "2023-08-04 10:43:32",
+      "album": {
+        "name": "Moeg",
+        "url": "https://open.spotify.com/album/1IZOC8YN6GFWgRdsZGrtVr"
+      },
+      "artists": [
+        {
+          "name": "Rudi Kleingeld",
+          "url": "https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Moeg",
+      "url": "https://open.spotify.com/track/0t9uLw0ZL63rJPSQTBH94z"
     },
     {
       "added_at": "2023-07-28 06:52:23",
@@ -143,6 +195,38 @@
       "duration_ms": 145694,
       "name": "Almal Baklei",
       "url": "https://open.spotify.com/track/6tk21RK5t7pAJtoZL2txVB"
+    },
+    {
+      "added_at": "2023-08-04 10:43:32",
+      "album": {
+        "name": "Leave This Town",
+        "url": "https://open.spotify.com/album/5JK1A5Cwstbtxyr8kppd96"
+      },
+      "artists": [
+        {
+          "name": "Broke 'n Free",
+          "url": "https://open.spotify.com/artist/29zjs2vtld5vxaDuu2VnF5"
+        }
+      ],
+      "duration_ms": 201684,
+      "name": "Leave This Town",
+      "url": "https://open.spotify.com/track/2UJNr5PUzkDpqqLriIJpqK"
+    },
+    {
+      "added_at": "2023-08-04 10:43:32",
+      "album": {
+        "name": "Last Stand",
+        "url": "https://open.spotify.com/album/0WP7arJEFFalCREptv9VS0"
+      },
+      "artists": [
+        {
+          "name": "Kenny Hughes",
+          "url": "https://open.spotify.com/artist/6Y0yxjU9WEv7qauNd39OYL"
+        }
+      ],
+      "duration_ms": 289266,
+      "name": "Last Stand",
+      "url": "https://open.spotify.com/track/6Q8CVI78we0VBcoNWjvHCZ"
     },
     {
       "added_at": "2023-07-28 06:52:23",
@@ -759,90 +843,6 @@
       "duration_ms": 228540,
       "name": "Black Candy",
       "url": "https://open.spotify.com/track/6qm6JkUaYNFBi9ewXTKHBj"
-    },
-    {
-      "added_at": "2023-06-01 21:59:00",
-      "album": {
-        "name": "Unbroken",
-        "url": "https://open.spotify.com/album/6Yf1kD6cBNBqRSPbVWgaGm"
-      },
-      "artists": [
-        {
-          "name": "Naranjo",
-          "url": "https://open.spotify.com/artist/1St8wuhPvlGxHp49tsZH2R"
-        }
-      ],
-      "duration_ms": 291529,
-      "name": "Unbroken",
-      "url": "https://open.spotify.com/track/1OtXmZ9Fx1XK96inLpj2MA"
-    },
-    {
-      "added_at": "2023-06-08 21:59:00",
-      "album": {
-        "name": "In Stereo",
-        "url": "https://open.spotify.com/album/3676QgP6dh5qrUWUJ3yARp"
-      },
-      "artists": [
-        {
-          "name": "Liberty Down",
-          "url": "https://open.spotify.com/artist/5G3sIpOn5aW0SkDwTSupj9"
-        }
-      ],
-      "duration_ms": 241954,
-      "name": "In Stereo",
-      "url": "https://open.spotify.com/track/64ngTG7lCggnvgOk6ZpFXZ"
-    },
-    {
-      "added_at": "2023-05-18 21:59:00",
-      "album": {
-        "name": "Killing Time",
-        "url": "https://open.spotify.com/album/1zHfXySzYnUNA4vWAinERg"
-      },
-      "artists": [
-        {
-          "name": "Hunter Kennedy",
-          "url": "https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi"
-        }
-      ],
-      "duration_ms": 171254,
-      "name": "Killing Time",
-      "url": "https://open.spotify.com/track/1tAYM3JLn8gynNMHCUcIAj"
-    },
-    {
-      "added_at": "2023-03-09 21:59:00",
-      "album": {
-        "name": "Monitor",
-        "url": "https://open.spotify.com/album/41UZWeiuFGm0GaXb8bjQm9"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/6ehCbe3TFJmwqV5aNTYlCD"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Aansteeklik",
-        "url": "https://open.spotify.com/album/3dOKf9YXYnPLlRLaCwsL2G"
-      },
-      "artists": [
-        {
-          "name": "Droomsindroom",
-          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
-        },
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        }
-      ],
-      "duration_ms": 175728,
-      "name": "Kopskud Revolusie (feat. Spoegwolf)",
-      "url": "https://open.spotify.com/track/5taKG0t4Z0sv247eXWuWij"
     }
   ],
   "unique_name": "SA Rock ",

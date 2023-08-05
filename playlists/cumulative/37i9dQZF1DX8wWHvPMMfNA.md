@@ -2,7 +2,7 @@
 
 ### [Focus Jazz](https://open.spotify.com/playlist/37i9dQZF1DX8wWHvPMMfNA)
 
-> Soft instrumental Jazz for working or studying.
+> 
 
 527 songs - 1 day 10 hr 27 min
 
@@ -112,7 +112,7 @@
 | [Don't Blame Me](https://open.spotify.com/track/5BDOsVUha92UcNnDmZkWTR) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Don't Blame Me](https://open.spotify.com/album/2dfSee4b6Y0iOmiatGOceh) | 3:06 | 2023-06-01 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2022-11-11 |  |
 | [Don't Love Me](https://open.spotify.com/track/0zDUzk5CwhgMctfuIP4eez) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:39 | 2021-12-16 | 2022-11-11 |
-| [Don't Take Me For Granted](https://open.spotify.com/track/0pWw8k7ThQXQlODdT0MVkP) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Don't Take Me For Granted](https://open.spotify.com/album/7HEn07lzayUeSHnGSwWaAL) | 3:11 | 2023-06-01 |  |
+| [Don't Take Me For Granted](https://open.spotify.com/track/0pWw8k7ThQXQlODdT0MVkP) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Don't Take Me For Granted](https://open.spotify.com/album/7HEn07lzayUeSHnGSwWaAL) | 3:11 | 2023-06-01 | 2023-08-05 |
 | [Don't Take Your Love From Me](https://open.spotify.com/track/0yMntBQvB8hIcsrt5YSVIE) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Blues\-A\-Plenty](https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps) | 3:39 | 2022-05-18 | 2023-06-05 |
 | [Dorene Don't Cry, I \- Remastered](https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 6:14 | 2021-12-16 | 2022-09-29 |
 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 | 2022-11-11 |  |
@@ -333,7 +333,7 @@
 | [Night Lights](https://open.spotify.com/track/5eVERkVvJKBgV2FziCoLDE) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 4:58 | 2021-12-16 | 2022-10-06 |
 | [Night Swimmer](https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Swallows](https://open.spotify.com/album/1oY3zKF2arpXsgJolpVemU) | 2:56 | 2022-11-11 |  |
 | [Nightfall](https://open.spotify.com/track/0pUJIrhpnvI1wneFmal7oG) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Nightfall](https://open.spotify.com/album/1NKqdrY5COQ2fE54U1Mxbh) | 3:12 | 2023-04-20 |  |
-| [Nightingale](https://open.spotify.com/track/38JakPibJCWbVKbR9vwGAR) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Nightingale](https://open.spotify.com/album/3m85BUKWPRjMKLw2mc4w1C) | 3:39 | 2023-06-01 | 2023-07-20 |
+| [Nightingale](https://open.spotify.com/track/38JakPibJCWbVKbR9vwGAR) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Nightingale](https://open.spotify.com/album/3m85BUKWPRjMKLw2mc4w1C) | 3:39 | 2023-06-01 |  |
 | [Nine Days Before](https://open.spotify.com/track/4yld9ovOfGTAi4HXKlU0nS) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Nine Days Before](https://open.spotify.com/album/18DjBqUbuPhualp3VFsiS9) | 2:47 | 2023-06-15 |  |
 | [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 | 2023-06-01 |  |
 | [North again](https://open.spotify.com/track/1KsztYFy4WJZ7ZbuTIfrMH) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [North again](https://open.spotify.com/album/54cLqLRb50nAibPwJWBjyV) | 2:37 | 2023-06-01 |  |

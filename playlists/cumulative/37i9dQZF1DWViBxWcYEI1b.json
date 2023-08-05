@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For those with a taste for both the new and the classic. Cover: Josh Ross",
+  "description": "For those with a taste for both the new and the classic. Cover: James Arthur",
   "name": "Contemporary Blend",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 170830,
       "name": "A Year Ago",
       "url": "https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD"
@@ -600,6 +600,24 @@
       "duration_ms": 169228,
       "name": "AM Gold",
       "url": "https://open.spotify.com/track/6ttjTA8589PqK8DF9SBEC7"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd"
     },
     {
       "album": {
@@ -1044,6 +1062,24 @@
       "duration_ms": 201500,
       "name": "Ballerina",
       "url": "https://open.spotify.com/track/6CqgkvVUfWfa2xwZRT31AY"
+    },
+    {
+      "album": {
+        "name": "Be More",
+        "url": "https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231684,
+      "name": "Be More",
+      "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
     },
     {
       "album": {
@@ -1614,6 +1650,24 @@
       "duration_ms": 218238,
       "name": "Blindside",
       "url": "https://open.spotify.com/track/6xXQJ3nwqwK7jxPWmSyAsi"
+    },
+    {
+      "album": {
+        "name": "Blindside",
+        "url": "https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211835,
+      "name": "Blindside",
+      "url": "https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES"
     },
     {
       "album": {
@@ -2972,7 +3026,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 165759,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
@@ -3626,6 +3680,24 @@
       "duration_ms": 261622,
       "name": "Empty Hands",
       "url": "https://open.spotify.com/track/18vqU2qFGKhbtjXLUivJdV"
+    },
+    {
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191103,
+      "name": "Endless Nights",
+      "url": "https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu"
     },
     {
       "album": {
@@ -4960,7 +5032,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 178221,
       "name": "Gordon Pinsent",
       "url": "https://open.spotify.com/track/4Lc2IHY2ysZ34o1THKbluK"
@@ -6278,7 +6350,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 180778,
       "name": "I should call my mom",
       "url": "https://open.spotify.com/track/3eLf5darT8r7GIeEmgwAaQ"
@@ -6682,7 +6754,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 151631,
       "name": "If I Weren't Me",
       "url": "https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os"
@@ -8243,6 +8315,24 @@
     },
     {
       "album": {
+        "name": "Love Me With The Lights On",
+        "url": "https://open.spotify.com/album/4Xpla9OtisIbguTNlxHVuZ"
+      },
+      "artists": [
+        {
+          "name": "Shawn Desman",
+          "url": "https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181803,
+      "name": "Love Me With The Lights On",
+      "url": "https://open.spotify.com/track/6BtXjsNMlm2nanwp2R6cWw"
+    },
+    {
+      "album": {
         "name": "Love Myself",
         "url": "https://open.spotify.com/album/3dWKxlG74AkudyddirBxuF"
       },
@@ -8330,6 +8420,24 @@
       "duration_ms": 272021,
       "name": "Made Of Love",
       "url": "https://open.spotify.com/track/33uyQzDxVrCo7p7SaPfo15"
+    },
+    {
+      "album": {
+        "name": "Madeleine",
+        "url": "https://open.spotify.com/album/5AmJkRGxIAeJLUeWPyUxue"
+      },
+      "artists": [
+        {
+          "name": "Tilsen",
+          "url": "https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201599,
+      "name": "Madeleine",
+      "url": "https://open.spotify.com/track/5jIVqYYIy6meYB4oQglz9y"
     },
     {
       "album": {
@@ -8626,7 +8734,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 223231,
       "name": "Messy",
       "url": "https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h"
@@ -9331,6 +9439,24 @@
     },
     {
       "album": {
+        "name": "No Evil",
+        "url": "https://open.spotify.com/album/4LK3gSCgSPfwzzJb56iGEm"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166694,
+      "name": "No Evil",
+      "url": "https://open.spotify.com/track/2idCxFUGXvdJQpZNFmBHnX"
+    },
+    {
+      "album": {
         "name": "NO PLACE TO BE",
         "url": "https://open.spotify.com/album/0vvrFAMwZt4BeBJdcwjf7v"
       },
@@ -9490,6 +9616,24 @@
       "duration_ms": 167341,
       "name": "Old Flame",
       "url": "https://open.spotify.com/track/23KrgrkSQN9rY3DWbklgMc"
+    },
+    {
+      "album": {
+        "name": "Old Friends",
+        "url": "https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7"
     },
     {
       "album": {
@@ -11164,7 +11308,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 173100,
       "name": "Small",
       "url": "https://open.spotify.com/track/7fKGz1HKFtux9KWA4FR1No"
@@ -12019,6 +12163,42 @@
     },
     {
       "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/1RVywQGe5Gws3vNX74Iilo"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Dutcher",
+          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340954,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/7EOlgcPeMDnCaHnSxOnVA0"
+    },
+    {
+      "album": {
+        "name": "Technicolor Bliss",
+        "url": "https://open.spotify.com/album/6UXlrgExMZR7Mgvgl790t7"
+      },
+      "artists": [
+        {
+          "name": "nezsa",
+          "url": "https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Technicolor Bliss",
+      "url": "https://open.spotify.com/track/3Z3kUj6B9dWnShMf58LjKT"
+    },
+    {
+      "album": {
         "name": "Teenage Tears",
         "url": "https://open.spotify.com/album/1V5vfb0B2U2pMuyfz3NDOi"
       },
@@ -12052,7 +12232,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 265787,
       "name": "Tell Me How",
       "url": "https://open.spotify.com/track/00RDBupKs9RP0YQEBrKn1i"
@@ -13128,7 +13308,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 216515,
       "name": "WAKE UP",
       "url": "https://open.spotify.com/track/2IS8SGdFExo7woya8XMtat"
@@ -13218,7 +13398,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 179411,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/18dLNiaYuTkTJv75oE9RQc"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 84337,
+  "num_followers": 84350,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWQ3ZmU1NWRjNTFmOWE2ZjJjMTJiYmEwODE5ZTQ5N2YyNDdkOWFj",
+  "snapshot_id": "MCw3Y2E1ZDE5NzIxYjg2N2U3NDMxMTcxNTc0OTIyYjFhMTA0NjM4Y2E2",
   "tracks": [
     {
       "added_at": "2023-04-14 06:55:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
+        "name": "Barco de Papel",
+        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 212009,
+      "name": "Barco de Papel",
+      "url": "https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
         "name": "N\u00f3mada",
         "url": "https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 287701,
       "name": "N\u00f3mada",
       "url": "https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
-        "name": "Barco de Papel",
-        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 212009,
-      "name": "Barco de Papel",
-      "url": "https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Polvo Eres",
-        "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
-      },
-      "artists": [
-        {
-          "name": "La Derecha",
-          "url": "https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO"
-        }
-      ],
-      "duration_ms": 227665,
-      "name": "Emociones",
-      "url": "https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "Doce Vientos",
         "url": "https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Castillos de Arena",
-        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
+        "name": "Polvo Eres",
+        "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
       },
       "artists": [
         {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+          "name": "La Derecha",
+          "url": "https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO"
         }
       ],
-      "duration_ms": 196437,
-      "name": "Punto Final",
-      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
+      "duration_ms": 227665,
+      "name": "Emociones",
+      "url": "https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -611,6 +595,22 @@
       "duration_ms": 203592,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "Castillos de Arena",
+        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Punto Final",
+      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "No Hay Mal Que Dure una Vida",
-        "url": "https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd"
-      },
-      "artists": [
-        {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
-        }
-      ],
-      "duration_ms": 215287,
-      "name": "Qu\u00e9date Cerca",
-      "url": "https://open.spotify.com/track/5dioafqgaV1ywCUXpMMAOR"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "Ni\u00f1os Perdidos",
         "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
+        "name": "No Hay Mal Que Dure una Vida",
+        "url": "https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "duration_ms": 215287,
+      "name": "Qu\u00e9date Cerca",
+      "url": "https://open.spotify.com/track/5dioafqgaV1ywCUXpMMAOR"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
         "name": "Sigo",
         "url": "https://open.spotify.com/album/0XcwHtwzFbnrXuX1CzhFKQ"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 199294,
       "name": "Sigo",
       "url": "https://open.spotify.com/track/2D9fsqNw4aMABpchC5Once"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "Pnmt Corrosion",
+        "url": "https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96"
+      },
+      "artists": [
+        {
+          "name": "Pornomotora",
+          "url": "https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Izquierdo",
+      "url": "https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -743,22 +759,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Pnmt Corrosion",
-        "url": "https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96"
-      },
-      "artists": [
-        {
-          "name": "Pornomotora",
-          "url": "https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Izquierdo",
-      "url": "https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "TEMPLO KOMODO",
         "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 249965,
       "name": "B\u00fahoz",
       "url": "https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
-        "name": "Manglares (B-Sides) - EP",
-        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Gemas",
-      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -827,22 +811,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Barco de Papel",
-        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 203584,
-      "name": "Salir Ileso",
-      "url": "https://open.spotify.com/track/4x5YCTYmHCJV32RO5TAbr0"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/04hrxeWIyytJq6HtLXVDZL"
       },
@@ -871,6 +839,22 @@
       "duration_ms": 217903,
       "name": "Ave Nocturna",
       "url": "https://open.spotify.com/track/7Hnw7DhlqhfdywAqjNDXy5"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "Manglares (B-Sides) - EP",
+        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "duration_ms": 218752,
+      "name": "Gemas",
+      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -907,26 +891,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "El Pasado Fue Mejor (feat. Don Tetto)",
-        "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        },
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "El Pasado Fue Mejor (feat. Don Tetto)",
-      "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "Anaranjado, Pt. 1",
         "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
       },
@@ -959,6 +923,22 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
+        "name": "Barco de Papel",
+        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 203584,
+      "name": "Salir Ileso",
+      "url": "https://open.spotify.com/track/4x5YCTYmHCJV32RO5TAbr0"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
         "name": "Marteko Euriak",
         "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
       },
@@ -975,18 +955,18 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
+        "name": "Analog\u00eda de una Laguna",
+        "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
       },
       "artists": [
         {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
         }
       ],
-      "duration_ms": 179239,
-      "name": "Lejos De Aqui",
-      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
+      "duration_ms": 210217,
+      "name": "Analog\u00eda de una Laguna",
+      "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -1007,18 +987,38 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Analog\u00eda de una Laguna",
-        "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
+        "name": "El Pasado Fue Mejor (feat. Don Tetto)",
+        "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
       },
       "artists": [
         {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        },
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
         }
       ],
-      "duration_ms": 210217,
-      "name": "Analog\u00eda de una Laguna",
-      "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
+      "duration_ms": 180880,
+      "name": "El Pasado Fue Mejor (feat. Don Tetto)",
+      "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "Neum\u00e1ticos",
+        "url": "https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx"
+      },
+      "artists": [
+        {
+          "name": "Rev\u00f3lver Plateado",
+          "url": "https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO"
+        }
+      ],
+      "duration_ms": 225456,
+      "name": "Neum\u00e1ticos",
+      "url": "https://open.spotify.com/track/72cKV8a25RSFlIcr0KlpLM"
     }
   ],
   "unique_name": "Rock Colombia",

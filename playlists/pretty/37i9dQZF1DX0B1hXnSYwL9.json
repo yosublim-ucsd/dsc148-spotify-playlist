@@ -1,12 +1,12 @@
 {
   "description": "Canciones para sacarle brillo a la pista de baile.",
-  "num_followers": 91466,
+  "num_followers": 91545,
   "original_name": "Sal\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjMzMGM3ZTBlMzc4ODM2ODdhNDY1NDQ1OTkzMjNmOGVhMGQ2NWYx",
+  "snapshot_id": "MCxjZWE3ZDEyNzRmYWIwNWUwMzg3OWU3ZTJhMmNmNzc2ODkzMjcwZjY5",
   "tracks": [
     {
       "added_at": "2023-08-03 16:42:02",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-03 16:42:02",
       "album": {
-        "name": "Aqui No Se Sienta Nadie!",
-        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Brujeria",
-      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
-    },
-    {
-      "added_at": "2023-08-03 16:42:02",
-      "album": {
         "name": "Con la Fuerza de un Volc\u00e1n",
         "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 228266,
       "name": "Vienes y Te Vas",
       "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
+    },
+    {
+      "added_at": "2023-08-03 16:42:02",
+      "album": {
+        "name": "Aqui No Se Sienta Nadie!",
+        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
     },
     {
       "added_at": "2023-08-03 16:42:02",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-08-03 16:42:02",
       "album": {
+        "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
+      },
+      "artists": [
+        {
+          "name": "Max Torres",
+          "url": "https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF"
+        }
+      ],
+      "duration_ms": 264312,
+      "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
+      "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
+    },
+    {
+      "added_at": "2023-08-03 16:42:02",
+      "album": {
         "name": "De Qu\u00e9 Manera",
         "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 220753,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6"
-    },
-    {
-      "added_at": "2023-08-03 16:42:02",
-      "album": {
-        "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
-        "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
-      },
-      "artists": [
-        {
-          "name": "Max Torres",
-          "url": "https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF"
-        }
-      ],
-      "duration_ms": 264312,
-      "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
-      "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
     },
     {
       "added_at": "2023-08-03 16:42:02",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-08-03 16:42:02",
       "album": {
-        "name": "Lluvia (Baile Total)",
-        "url": "https://open.spotify.com/album/4AgZZalEkba03Ww2hTl8cW"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 281666,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/2on3gXXCAoZKdOWXdgHmUR"
-    },
-    {
-      "added_at": "2023-08-03 16:42:02",
-      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
+    },
+    {
+      "added_at": "2023-08-03 16:42:02",
+      "album": {
+        "name": "Lluvia (Baile Total)",
+        "url": "https://open.spotify.com/album/4AgZZalEkba03Ww2hTl8cW"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 281666,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/2on3gXXCAoZKdOWXdgHmUR"
     },
     {
       "added_at": "2023-08-03 16:42:02",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-08-03 16:42:02",
       "album": {
-        "name": "La Monjita Voladora - Cumbia Sonidera",
-        "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Toca Recio",
-          "url": "https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u"
-        }
-      ],
-      "duration_ms": 249768,
-      "name": "La Monjita Voladora - Cumbia Sonidera",
-      "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
-    },
-    {
-      "added_at": "2023-08-03 16:42:02",
-      "album": {
         "name": "De Buenos Aires Para El Mundo",
         "url": "https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 221346,
       "name": "Amor A Primera Vista",
       "url": "https://open.spotify.com/track/5Myb8S90Wg0yLec5kmrIGJ"
+    },
+    {
+      "added_at": "2023-08-03 16:42:02",
+      "album": {
+        "name": "La Monjita Voladora - Cumbia Sonidera",
+        "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Toca Recio",
+          "url": "https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u"
+        }
+      ],
+      "duration_ms": 249768,
+      "name": "La Monjita Voladora - Cumbia Sonidera",
+      "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
     },
     {
       "added_at": "2023-08-03 16:42:02",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-08-03 16:42:02",
       "album": {
+        "name": "Yo Quiero Chupar / Solo Exitos",
+        "url": "https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        }
+      ],
+      "duration_ms": 215524,
+      "name": "Yo Quiero Chupar",
+      "url": "https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT"
+    },
+    {
+      "added_at": "2023-08-03 16:42:02",
+      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 217013,
       "name": "Soy Soltero",
       "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
-    },
-    {
-      "added_at": "2023-08-03 16:42:02",
-      "album": {
-        "name": "Yo Quiero Chupar / Solo Exitos",
-        "url": "https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4"
-      },
-      "artists": [
-        {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        }
-      ],
-      "duration_ms": 215524,
-      "name": "Yo Quiero Chupar",
-      "url": "https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT"
     },
     {
       "added_at": "2023-08-03 16:42:02",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-08-03 16:42:02",
       "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 267613,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35"
+    },
+    {
+      "added_at": "2023-08-03 16:42:02",
+      "album": {
         "name": "Un Monton De Estrellas",
         "url": "https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 283678,
       "name": "La Triste Despedida",
       "url": "https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif"
-    },
-    {
-      "added_at": "2023-08-03 16:42:02",
-      "album": {
-        "name": "Me Liber\u00e9",
-        "url": "https://open.spotify.com/album/32bZg0QYyvPGxfmkebhmIg"
-      },
-      "artists": [
-        {
-          "name": "Mala Fe",
-          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "Con El Pompi Pa' 'rriba",
-      "url": "https://open.spotify.com/track/2NMCFyKkZFbjCDauYOBRKI"
     }
   ],
   "unique_name": "Sal\u00f3n Tropical",

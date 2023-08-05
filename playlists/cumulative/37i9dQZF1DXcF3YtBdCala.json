@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Camila Fern\u00e1ndez en portada. ",
+  "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Paola Jara en portada. ",
   "name": "Mariachi Joven",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 168866,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 185781,
       "name": "Apur\u00e9 Mi Caf\u00e9 - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/543GxK1Fbq64kfhMB4j7Dq"
@@ -378,10 +378,28 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 181447,
       "name": "Coincidir",
       "url": "https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE"
+    },
+    {
+      "album": {
+        "name": "\u00a1Arr\u00e1nquense Muchachos!",
+        "url": "https://open.spotify.com/album/3sBQgNTGwKqyuxyzw1VvTE"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231013,
+      "name": "Como Ella",
+      "url": "https://open.spotify.com/track/0FCahZioFe81Egnaof6v8n"
     },
     {
       "album": {
@@ -472,7 +490,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 206666,
       "name": "Cosi\u00e9ndome el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y"
@@ -606,7 +624,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 140173,
       "name": "Decid\u00ed Olvidarte",
       "url": "https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj"
@@ -624,7 +642,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 209026,
       "name": "Dej\u00e9moslo As\u00ed",
       "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
@@ -718,7 +736,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 155687,
       "name": "DIME",
       "url": "https://open.spotify.com/track/1RhDIyvdGKEeLowqZdof2w"
@@ -834,7 +852,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 163381,
       "name": "El Mejor Regalo",
       "url": "https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS"
@@ -924,7 +942,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 162133,
       "name": "Ese Fui Yo",
       "url": "https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR"
@@ -982,6 +1000,28 @@
       "duration_ms": 195466,
       "name": "Fue Tan Poco Tu Cari\u00f1o",
       "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
+    },
+    {
+      "album": {
+        "name": "Fue Tu Culpa",
+        "url": "https://open.spotify.com/album/5NOb3XhFyTN9QQcfdjYHWd"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        },
+        {
+          "name": "El Bala",
+          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225666,
+      "name": "Fue Tu Culpa",
+      "url": "https://open.spotify.com/track/7hxPbThnIsDlQQwSCwBNbH"
     },
     {
       "album": {
@@ -1380,7 +1420,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 173546,
       "name": "Me Cuesta Tanto Olvidarte",
       "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
@@ -1808,7 +1848,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 203250,
       "name": "No Me Rebajo",
       "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
@@ -1826,7 +1866,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 198893,
       "name": "No Mereces Que Te Quiera",
       "url": "https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f"
@@ -1880,7 +1920,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 193066,
       "name": "No Te Dejes Enga\u00f1ar",
       "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
@@ -1898,7 +1938,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 278666,
       "name": "No Te Fui Suficiente",
       "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
@@ -2014,7 +2054,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 187133,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/4Tq20RgZQXRAqekScOU4I7"
@@ -2032,7 +2072,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 226973,
       "name": "Piensa en M\u00ed",
       "url": "https://open.spotify.com/track/79KPSHPdl3HEsYqO8LCLvo"
@@ -2094,7 +2134,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-11",
+      "date_removed": null,
       "duration_ms": 194604,
       "name": "Por Ti Me Abrazar\u00e9",
       "url": "https://open.spotify.com/track/6bvHqGVqf320Sn3bkQcOyp"
@@ -2120,7 +2160,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 188826,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf"
@@ -2182,7 +2222,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 191531,
       "name": "Que Seas Feliz (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/6rbIrFizEB9kIdMJYx3tXH"
@@ -2252,7 +2292,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 229200,
       "name": "Qu\u00e9 Iron\u00eda",
       "url": "https://open.spotify.com/track/4OBNBGe8w5un8KJbONIhYF"
@@ -2324,7 +2364,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 163433,
       "name": "Ser\u00e9",
       "url": "https://open.spotify.com/track/79zvHHEqoXY3DFUUXBwNN2"
@@ -2386,7 +2426,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 205825,
       "name": "Soy de Parral",
       "url": "https://open.spotify.com/track/5Rx9uV1CS862Jkqjy4fKqw"
@@ -2458,7 +2498,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-21",
+      "date_removed": null,
       "duration_ms": 136246,
       "name": "Te Llegar\u00e1 Mi Olvido",
       "url": "https://open.spotify.com/track/2gVFqyEuY89biuosNL6Y43"
@@ -2592,7 +2632,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 170192,
       "name": "Te Ves Muy Feliz",
       "url": "https://open.spotify.com/track/6EJYz5QSjhPrg8AkRs3XOS"
@@ -2737,6 +2777,28 @@
     },
     {
       "album": {
+        "name": "Un Buen Amor",
+        "url": "https://open.spotify.com/album/2XM0gRxr8UVyb1pOBcxzdn"
+      },
+      "artists": [
+        {
+          "name": "Fernando Rodriguez",
+          "url": "https://open.spotify.com/artist/4iiVa7Hbjhosrvgnt5WjVs"
+        },
+        {
+          "name": "RR Records",
+          "url": "https://open.spotify.com/artist/5ZNHChN7b75i9SGA4xUnWr"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161236,
+      "name": "Un Buen Amor",
+      "url": "https://open.spotify.com/track/16tlajyYHYesuFa3NGhZW8"
+    },
+    {
+      "album": {
         "name": "Un Poco de Amor",
         "url": "https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O"
       },
@@ -2777,6 +2839,24 @@
     },
     {
       "album": {
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
+    },
+    {
+      "album": {
         "name": "Uno De Cuarenta",
         "url": "https://open.spotify.com/album/3RTG2z5r6pgDpkwFgTiUgu"
       },
@@ -2806,7 +2886,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 185560,
       "name": "Ven Porque Te Necesito",
       "url": "https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM"
@@ -2886,7 +2966,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 178378,
       "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
       "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
@@ -2948,6 +3028,24 @@
       "duration_ms": 185722,
       "name": "Ya No Somos Ni Seremos",
       "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
+    },
+    {
+      "album": {
+        "name": "Yo No Creo En Los Hombres",
+        "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215893,
+      "name": "Yo No Creo En Los Hombres",
+      "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
     },
     {
       "album": {
@@ -3038,7 +3136,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-16",
+      "date_removed": null,
       "duration_ms": 162916,
       "name": "\u00bfQu\u00e9 Le Echan al Tequila?",
       "url": "https://open.spotify.com/track/3e6nJ0bEkMA5j042TkZpua"
@@ -3100,7 +3198,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 193826,
       "name": "\u00c9chame A M\u00ed La Culpa",
       "url": "https://open.spotify.com/track/4aWbiCasnpmIRn4LsQVKSD"

@@ -27,6 +27,46 @@
     },
     {
       "album": {
+        "name": "Ai Papi",
+        "url": "https://open.spotify.com/album/4Izv8PBQCEl7emlpB4mbir"
+      },
+      "artists": [
+        {
+          "name": "Pizzolo",
+          "url": "https://open.spotify.com/artist/4OHphxLRxjo5L6Y09rp50a"
+        },
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Ai Papi",
+      "url": "https://open.spotify.com/track/2e7a4odH1FkMKAPGFRxkaO"
+    },
+    {
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1bxgtNtqdiMlt5PyKvMmPJ"
+      },
+      "artists": [
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122812,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/1ALWJAg2OHZyyjoAHB2hZg"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/2E2x5wze5IpZNo1Zt3zDVj"
       },
@@ -130,7 +170,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 240000,
       "name": "Calling (Tim van Werd Remix)",
       "url": "https://open.spotify.com/track/53ZRuhUxCd5c7UPeG0bfoO"
@@ -583,6 +623,24 @@
     },
     {
       "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/28XcE3EAhJSm7HhmYxKLNL"
+      },
+      "artists": [
+        {
+          "name": "Tough Art",
+          "url": "https://open.spotify.com/artist/6XiVEatJ4Bq46wONrrSJwA"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/3SHGhQYHrGgsRdLZGjjyxt"
+    },
+    {
+      "album": {
         "name": "I Just Wanna Be",
         "url": "https://open.spotify.com/album/4KDUAAmeJKcgdyRx6xjO5T"
       },
@@ -786,7 +844,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 191433,
       "name": "Moogzera",
       "url": "https://open.spotify.com/track/6VZvPSON6mVk6MI9N2A9QB"
@@ -812,6 +870,24 @@
       "duration_ms": 161280,
       "name": "My Face",
       "url": "https://open.spotify.com/track/7CYORRllLV3k116cZcmDux"
+    },
+    {
+      "album": {
+        "name": "My Moment",
+        "url": "https://open.spotify.com/album/0qXlWHYppyw1zrNBZcDoyf"
+      },
+      "artists": [
+        {
+          "name": "Obzkure",
+          "url": "https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120752,
+      "name": "My Moment",
+      "url": "https://open.spotify.com/track/1yD2PHNXRMhJPcseTiOjg4"
     },
     {
       "album": {
@@ -942,7 +1018,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 154285,
       "name": "Please Don't Cry",
       "url": "https://open.spotify.com/track/6QILtoOyoqxfqWqLzoJvBK"
@@ -1044,7 +1120,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 150793,
       "name": "REVENGE",
       "url": "https://open.spotify.com/track/1A33gWRHaeE6MyzQil5Un9"

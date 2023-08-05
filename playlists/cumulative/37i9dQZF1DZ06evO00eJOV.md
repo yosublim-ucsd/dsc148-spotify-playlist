@@ -4,7 +4,7 @@
 
 > This is Brenda Fassie\. The essential tracks, all in one playlist.
 
-67 songs - 5 hr 10 min
+68 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Kenang Bohle](https://open.spotify.com/track/1ZarN2H9sexCr38Rlm06NU) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Nomakanjani](https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM) | 4:57 | 2021-12-28 |  |
 | [Kutheni](https://open.spotify.com/track/0qrJ1ifPy3j0pUhYx6Lsfh) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Now Is The Time](https://open.spotify.com/album/7B7IBtt8hrh1fayumg5JkD) | 5:04 | 2021-12-29 | 2023-06-12 |
 | [Kuyoze Kuyovalwa](https://open.spotify.com/track/6UaKFi4ZmQqnQ1BoZYWoEw) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 4:26 | 2022-09-28 | 2022-09-30 |
+| [Lekwaito](https://open.spotify.com/track/4o1Kn47frZuFIQIZ3lhxzP) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mina Nawe](https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0) | 4:23 | 2023-08-04 |  |
 | [Life Is Going On](https://open.spotify.com/track/1YeFEB5XaozlnCwXs6I9rp) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mina Nawe](https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0) | 4:36 | 2021-12-28 |  |
 | [Lungisa Indaba Yakho \- Live Recorded](https://open.spotify.com/track/38ebJKDgF2KYeGX1WuOibu) | [Vuyo Mokoena](https://open.spotify.com/artist/4loUWAsdxGk2U4Du8mdiNH), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Lungisa Indaba Yakho](https://open.spotify.com/album/6w68ueDtrd4yHlNCpMh8qP) | 6:03 | 2023-06-19 | 2023-07-05 |
 | [Mali](https://open.spotify.com/track/1QIayXInAVGwR7ZktE3FLB) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mali](https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP) | 5:06 | 2021-12-28 |  |
@@ -61,7 +62,7 @@
 | [Sikelele](https://open.spotify.com/track/6vAtb3hkVBmYiIYD0PlVIU) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Malibongwe](https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6) | 4:43 | 2021-12-28 |  |
 | [Soon And Very Soon](https://open.spotify.com/track/6moVmCVeuTE9kVkLqb4LOs) | [Children Of God](https://open.spotify.com/artist/2DPySSVd2uQRDoUIMA9pEq), [Chicco](https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Soon And Very Soon](https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs) | 4:21 | 2022-04-21 |  |
 | [Soon And Very Soon \- 99 Remix](https://open.spotify.com/track/7eAvqI5V1YcEm7XdtLksZG) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Malibongwe](https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6) | 4:19 | 2021-12-28 | 2022-04-22 |
-| [Soon And Very Soon \- 99 Remix](https://open.spotify.com/track/03ms4BB4zAfsAn9wGp4UeG) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Nomakanjani](https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM) | 4:35 | 2022-12-12 |  |
+| [Soon And Very Soon \- 99 Remix](https://open.spotify.com/track/03ms4BB4zAfsAn9wGp4UeG) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Nomakanjani](https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM) | 4:35 | 2022-12-12 | 2023-08-05 |
 | [Stay Away \(From My Man\)](https://open.spotify.com/track/40DPMkp4xEbKKkhUCR65Iv) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Black President](https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW) | 3:46 | 2021-12-28 |  |
 | [Sum' Bulala](https://open.spotify.com/track/6VLBus4MvXYJ0wdV0GLv1Y) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Malibongwe](https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6) | 4:05 | 2021-12-28 |  |
 | [The Lord Is My Shepherd](https://open.spotify.com/track/2oaBWSFWKd5Nc3c0cE2pLE) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey](https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8) | 5:48 | 2021-12-28 |  |

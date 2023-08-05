@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-413 songs - 1 day 0 hr 32 min
+414 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Elle](https://open.spotify.com/track/74tfYbU9V6E73Kzf8KoxgE) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf), [David Bujold](https://open.spotify.com/artist/3erXqFbSNsihvzkRJSHZV7) | [L'éternel retour](https://open.spotify.com/album/0QdAA0cQPcVj2bM4kr7uNn) | 7:29 | 2021-01-16 | 2021-10-08 |
 | [Elle danse](https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN) | [Mimi O'Bonsawin](https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt) | [Elle danse](https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy) | 2:29 | 2021-01-03\* | 2023-07-13 |
 | [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 | 2023-04-28 |  |
-| [En attendant l'aube](https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF) | [Héra Ménard](https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO) | [En attendant l'aube](https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd) | 3:42 | 2021-01-03\* |  |
+| [En attendant l'aube](https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF) | [Héra Ménard](https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO) | [En attendant l'aube](https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd) | 3:42 | 2021-01-03\* | 2023-08-05 |
 | [Encore et encore](https://open.spotify.com/track/4kQtxAuiMW992AmzaEparm) | [Suzie Villeneuve](https://open.spotify.com/artist/1LwihJaOQLGpPb9ue7euvj) | [Encore et encore](https://open.spotify.com/album/5hu4NysMSIE8CykyRcYEYs) | 4:20 | 2021-01-03\* | 2021-09-30 |
 | [Endorphine](https://open.spotify.com/track/7FrdYdwPYseFuWGmJGjkb3) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl) | [Endorphine](https://open.spotify.com/album/0KBYgJIJdIoK6CdtepIwZO) | 3:58 | 2021-01-03\* | 2021-01-15 |
 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 | 2023-06-30 |  |
@@ -330,6 +330,7 @@
 | [Printemps](https://open.spotify.com/track/1P7CUAOfULTTFJopwOBSDc) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Printemps](https://open.spotify.com/album/0L9wXFLVdGFH2ynCvuPUE9) | 3:11 | 2021-02-15 | 2022-07-28 |
 | [Provincetown](https://open.spotify.com/track/73c2Iy7Nw9Xho5HUifdWbW) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Provincetown](https://open.spotify.com/album/0cRpTtG3Ev6Y4cZeOMJUj5) | 4:10 | 2022-02-28 | 2022-03-05 |
 | [Q.D.D\. Unplugged](https://open.spotify.com/track/0vqrPAcQlHWXfWeMDCZihP) | [Baggies](https://open.spotify.com/artist/3MaLB9t8oVeKHmnmYi0VJS), [Brand](https://open.spotify.com/artist/1eHjjxdit07BBOEjstihYO) | [Q.D.D\. Unplugged](https://open.spotify.com/album/7ArvOeyMUVsfrunzbIavlR) | 2:02 | 2021-01-15 | 2021-09-22 |
+| [Qimmijuat \(Wild Horses\)](https://open.spotify.com/track/3Rt3viQJXYZ72pLpqmL1C2) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Qimmijuat \(Wild Horses\)](https://open.spotify.com/album/464WdsCECkTzqIEv3ITRrD) | 5:29 | 2023-08-04 |  |
 | [Qtv](https://open.spotify.com/track/0j8nyLW1JwaDtvO6sOobbO) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP) | 4:59 | 2022-10-14 | 2023-05-07 |
 | [Qtv](https://open.spotify.com/track/6awabNZmJaJBEuZVkUsadS) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk) | 4:59 | 2021-07-31 | 2022-10-13 |
 | [Quand j'te vois](https://open.spotify.com/track/0eaLnITFfQL5Qn0MvjWDGl) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Des milliers de plumes](https://open.spotify.com/album/7CUWKrepTHMWp3YmfgF20h) | 3:39 | 2021-01-03\* | 2021-01-30 |

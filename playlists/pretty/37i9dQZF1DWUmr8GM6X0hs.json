@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 68993,
+  "num_followers": 69040,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTBhYWIxMDViNTc2NDFhZDYzOGNjNDAxNWY2NTBkN2Q2MGUyMzFl",
+  "snapshot_id": "MCxlOWVkN2RiMzU1YmYzMzBkYWQ4NTMwODc5NmM0NzRiZWQ0ZjJjNWNj",
   "tracks": [
     {
       "added_at": "2023-07-28 05:01:00",
@@ -151,22 +151,18 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
-        "name": "Ojitos de Aceituna",
-        "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
+        "name": "Su Voz, Su Piano Y M\u00e1s \u00c9xitos",
+        "url": "https://open.spotify.com/album/6U9q1lj6N3ObWC5TMZmGoa"
       },
       "artists": [
         {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        },
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
         }
       ],
-      "duration_ms": 167221,
-      "name": "Ojitos de Aceituna",
-      "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
+      "duration_ms": 175040,
+      "name": "La C\u00e1rcel de Sing Sing",
+      "url": "https://open.spotify.com/track/6KW49Ii30jvjZV1BBsNspy"
     },
     {
       "added_at": "2023-07-28 05:01:00",
@@ -187,34 +183,22 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
-        "name": "Su Voz, Su Piano Y M\u00e1s \u00c9xitos",
-        "url": "https://open.spotify.com/album/6U9q1lj6N3ObWC5TMZmGoa"
+        "name": "Ojitos de Aceituna",
+        "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
       },
       "artists": [
         {
-          "name": "Alci Acosta",
-          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "La C\u00e1rcel de Sing Sing",
-      "url": "https://open.spotify.com/track/6KW49Ii30jvjZV1BBsNspy"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
-        "name": "S\u00e9 Que Me Enga\u00f1aste un D\u00eda",
-        "url": "https://open.spotify.com/album/6QAmZA5XSfwanx2QdCyxT1"
-      },
-      "artists": [
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        },
         {
-          "name": "Iv\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
         }
       ],
-      "duration_ms": 201514,
-      "name": "Me Dices Que Te Vas",
-      "url": "https://open.spotify.com/track/3N2a9M6Dm9azoY1YmmSBmu"
+      "duration_ms": 167221,
+      "name": "Ojitos de Aceituna",
+      "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
     },
     {
       "added_at": "2023-07-28 05:01:00",
@@ -231,6 +215,22 @@
       "duration_ms": 169293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/7GlDEtXzNPFUAWr4Qu4K4d"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "S\u00e9 Que Me Enga\u00f1aste un D\u00eda",
+        "url": "https://open.spotify.com/album/6QAmZA5XSfwanx2QdCyxT1"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
+        }
+      ],
+      "duration_ms": 201514,
+      "name": "Me Dices Que Te Vas",
+      "url": "https://open.spotify.com/track/3N2a9M6Dm9azoY1YmmSBmu"
     },
     {
       "added_at": "2023-07-28 05:01:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/0AKTrMTiF6tFzOt2oYkwhW"
+        "name": "Y Siguen Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/4yWg278fGlo1SZHEjgLfUI"
       },
       "artists": [
         {
-          "name": "Iv\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
         }
       ],
-      "duration_ms": 240625,
-      "name": "Mozo Deme Otra Copa",
-      "url": "https://open.spotify.com/track/6NwgRRmIOlAdhicVB7T6Xt"
+      "duration_ms": 153573,
+      "name": "El Contragolpe",
+      "url": "https://open.spotify.com/track/74f7hfeONxGZH6bVnXIYGW"
     },
     {
       "added_at": "2023-07-28 05:01:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
-        "name": "Y Siguen Los \u00c9xitos",
-        "url": "https://open.spotify.com/album/4yWg278fGlo1SZHEjgLfUI"
-      },
-      "artists": [
-        {
-          "name": "Alci Acosta",
-          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "El Contragolpe",
-      "url": "https://open.spotify.com/track/74f7hfeONxGZH6bVnXIYGW"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
@@ -391,6 +375,38 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
+        "name": "Esencial Ana y Victor",
+        "url": "https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn"
+      },
+      "artists": [
+        {
+          "name": "Ana Bel\u00e9n",
+          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "La Mentira",
+      "url": "https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Disco de Oro",
+        "url": "https://open.spotify.com/album/0AKTrMTiF6tFzOt2oYkwhW"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
+        }
+      ],
+      "duration_ms": 240625,
+      "name": "Mozo Deme Otra Copa",
+      "url": "https://open.spotify.com/track/6NwgRRmIOlAdhicVB7T6Xt"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
         "name": "Aunque Me Cueste la Vida",
         "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 178493,
       "name": "Aunque Me Cueste la Vida",
       "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
-        "name": "Esencial Ana y Victor",
-        "url": "https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn"
-      },
-      "artists": [
-        {
-          "name": "Ana Bel\u00e9n",
-          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "La Mentira",
-      "url": "https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts"
     },
     {
       "added_at": "2023-07-28 05:01:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
-        "name": "Musica...Recuerdo Inolvidable",
-        "url": "https://open.spotify.com/album/7pZ3OkH9YbE4zebon4dvhl"
-      },
-      "artists": [
-        {
-          "name": "El Super Trio",
-          "url": "https://open.spotify.com/artist/00l3EIgirx9uXQBTn2JMUo"
-        }
-      ],
-      "duration_ms": 159240,
-      "name": "Se Rompio la Cadena",
-      "url": "https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
         "name": "Inolvidable (Boleros)",
         "url": "https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 215000,
       "name": "Ma\u00f1anas de Carnaval",
       "url": "https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Musica...Recuerdo Inolvidable",
+        "url": "https://open.spotify.com/album/7pZ3OkH9YbE4zebon4dvhl"
+      },
+      "artists": [
+        {
+          "name": "El Super Trio",
+          "url": "https://open.spotify.com/artist/00l3EIgirx9uXQBTn2JMUo"
+        }
+      ],
+      "duration_ms": 159240,
+      "name": "Se Rompio la Cadena",
+      "url": "https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643"
     },
     {
       "added_at": "2023-07-28 05:01:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
-        "name": "Un Bolero un Vals",
-        "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
+        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
+        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
       },
       "artists": [
         {
-          "name": "Eva Ayll\u00f3n",
-          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
+          "name": "Daniel Aranda",
+          "url": "https://open.spotify.com/artist/4QCcLssqPwu4I7BJUECJPJ"
         }
       ],
-      "duration_ms": 384253,
-      "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
-      "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
+      "duration_ms": 195000,
+      "name": "Solo Cenizas Quedaron",
+      "url": "https://open.spotify.com/track/5blYKQjsXDbGhENFKFBMXJ"
     },
     {
       "added_at": "2023-07-28 05:01:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
-        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
-        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
+        "name": "Un Bolero un Vals",
+        "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
       },
       "artists": [
         {
-          "name": "Daniel Aranda",
-          "url": "https://open.spotify.com/artist/4QCcLssqPwu4I7BJUECJPJ"
+          "name": "Eva Ayll\u00f3n",
+          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Solo Cenizas Quedaron",
-      "url": "https://open.spotify.com/track/5blYKQjsXDbGhENFKFBMXJ"
+      "duration_ms": 384253,
+      "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
+      "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
     },
     {
       "added_at": "2023-07-28 05:01:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
+        "name": "Los Triunfadores de la Rockola",
+        "url": "https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Otiniano",
+          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Que Te Vayas Bien",
+      "url": "https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
         "name": "La Tierna, Conmovedora, Bamboleadora",
         "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 174626,
       "name": "Desvelo De Amor",
       "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
-        "name": "Los Triunfadores de la Rockola",
-        "url": "https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Otiniano",
-          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Que Te Vayas Bien",
-      "url": "https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm"
     },
     {
       "added_at": "2023-07-28 05:01:00",
@@ -835,38 +835,6 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
-        "name": "El Rey de las Cantinas",
-        "url": "https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP"
-      },
-      "artists": [
-        {
-          "name": "Guiller",
-          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
-        }
-      ],
-      "duration_ms": 192040,
-      "name": "Corazoncito",
-      "url": "https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
-        "name": "Pedrito Otiniano y Sus Exitos",
-        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Otiniano",
-          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "Kio",
-      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
         "name": "50 A\u00f1os Live",
         "url": "https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS"
       },
@@ -879,6 +847,22 @@
       "duration_ms": 335533,
       "name": "Y Despu\u00e9s Del Amor",
       "url": "https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "El Rey de las Cantinas",
+        "url": "https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP"
+      },
+      "artists": [
+        {
+          "name": "Guiller",
+          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
+        }
+      ],
+      "duration_ms": 192040,
+      "name": "Corazoncito",
+      "url": "https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU"
     },
     {
       "added_at": "2023-07-28 05:01:00",
@@ -899,6 +883,22 @@
       "duration_ms": 175333,
       "name": "Loca Ansiedad",
       "url": "https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Pedrito Otiniano y Sus Exitos",
+        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Otiniano",
+          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "Kio",
+      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
     },
     {
       "added_at": "2023-07-28 05:01:00",

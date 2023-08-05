@@ -1,13 +1,157 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX?si=lVs8wzTzQrWvdwe-v3w8sQ\">Alice Phoebe Lou</a> ",
-  "num_followers": 6596,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/14Vt5ErffVByZY4up1hBBt?si=f4rrR-3aRBmTHo4lnKRwgA\">Amy Ayanda</a> ",
+  "num_followers": 6599,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWRiNjNkODNhNWJmMTQ4ZGNlNjJlOGViNTNjZTBjYWVjZGI3NjIx",
+  "snapshot_id": "MCw5MDZlOTdiMmUwOTA5YmZjOTFkNzQ5NzRjZDJlNmZmMzlkNjlkZjAw",
   "tracks": [
+    {
+      "added_at": "2023-08-04 09:45:01",
+      "album": {
+        "name": "Roxy Late Night",
+        "url": "https://open.spotify.com/album/7bHwXNmZxpzAXbytTkGdJy"
+      },
+      "artists": [
+        {
+          "name": "Amy Ayanda",
+          "url": "https://open.spotify.com/artist/14Vt5ErffVByZY4up1hBBt"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "Roxy Late Night",
+      "url": "https://open.spotify.com/track/3wEo3etGPy2w8pDoYaZZrb"
+    },
+    {
+      "added_at": "2023-08-04 09:45:01",
+      "album": {
+        "name": "Too Good At Being Single",
+        "url": "https://open.spotify.com/album/431mxYnrKZeM31t1BYzvDg"
+      },
+      "artists": [
+        {
+          "name": "Teagan",
+          "url": "https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Too Good At Being Single",
+      "url": "https://open.spotify.com/track/09Rf9tF3eEZUgjnqxxfEBA"
+    },
+    {
+      "added_at": "2023-08-04 09:45:01",
+      "album": {
+        "name": "rats in my walls",
+        "url": "https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 312459,
+      "name": "rats in my walls",
+      "url": "https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL"
+    },
+    {
+      "added_at": "2023-08-04 09:45:01",
+      "album": {
+        "name": "goodbye~",
+        "url": "https://open.spotify.com/album/5iIkWN6BGuu9wYRRH6r7va"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "duration_ms": 99130,
+      "name": "goodbye~",
+      "url": "https://open.spotify.com/track/1FoQGNxWPrxuydF1qTGaSI"
+    },
+    {
+      "added_at": "2023-08-04 09:45:01",
+      "album": {
+        "name": "Happy Ending",
+        "url": "https://open.spotify.com/album/0eOmxLTHkwZTYQxdzhDzTg"
+      },
+      "artists": [
+        {
+          "name": "Anelda",
+          "url": "https://open.spotify.com/artist/0LaWkf1uyYMu26Nwhmys1h"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/393wK9bZSGRfSP0nT4NrsP"
+    },
+    {
+      "added_at": "2023-08-04 09:45:01",
+      "album": {
+        "name": "Chase the sun",
+        "url": "https://open.spotify.com/album/1cBR568AmwbnnScXXADt41"
+      },
+      "artists": [
+        {
+          "name": "Bhuti & The Beast",
+          "url": "https://open.spotify.com/artist/0LNvudyoaZ1DlA1oCTlYnX"
+        },
+        {
+          "name": "Azi SA",
+          "url": "https://open.spotify.com/artist/0nC6wq5vtdOdvJdruojZwN"
+        },
+        {
+          "name": "AV Raincandy",
+          "url": "https://open.spotify.com/artist/2EAJTNNONpUI3Cc6Nz8KaR"
+        }
+      ],
+      "duration_ms": 162774,
+      "name": "Chase the sun",
+      "url": "https://open.spotify.com/track/1Vy5OKXonzGToIK2vCKgpj"
+    },
+    {
+      "added_at": "2023-08-04 09:45:01",
+      "album": {
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/6eJlQHw5IzM0zWBrXmF0Eh"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        },
+        {
+          "name": "ZUBIN",
+          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
+        }
+      ],
+      "duration_ms": 113527,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/7c02uViUZcHQE5C5l3n1qo"
+    },
+    {
+      "added_at": "2023-08-04 09:45:01",
+      "album": {
+        "name": "A Stone in the Mouth of the Ocean",
+        "url": "https://open.spotify.com/album/3XR4d44NxvJvu8QBDUslsG"
+      },
+      "artists": [
+        {
+          "name": "Luke Beling",
+          "url": "https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V"
+        },
+        {
+          "name": "Last Year's Man",
+          "url": "https://open.spotify.com/artist/56XJ4jcK8kaqy6jbJbGs2M"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "A Stone in the Mouth of the Ocean",
+      "url": "https://open.spotify.com/track/4wO4ACUZ6O4kyRUXzkslvW"
+    },
     {
       "added_at": "2023-07-28 06:39:00",
       "album": {
@@ -289,6 +433,22 @@
       "url": "https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L"
     },
     {
+      "added_at": "2023-08-04 10:38:31",
+      "album": {
+        "name": "Broken Men Break Hearts",
+        "url": "https://open.spotify.com/album/6eOWQkD5omHOX8HXHBR5i9"
+      },
+      "artists": [
+        {
+          "name": "Gothe",
+          "url": "https://open.spotify.com/artist/6FpFEaQbeODjVhr3dBaUwN"
+        }
+      ],
+      "duration_ms": 275533,
+      "name": "Broken Men Break Hearts",
+      "url": "https://open.spotify.com/track/1IteeLB8afKqgGWmwHCRh7"
+    },
+    {
       "added_at": "2023-07-28 06:39:00",
       "album": {
         "name": "Soulution",
@@ -415,22 +575,6 @@
       "duration_ms": 192309,
       "name": "These Four Walls",
       "url": "https://open.spotify.com/track/7B9HQGF0JH49JYhFZClEM9"
-    },
-    {
-      "added_at": "2023-07-06 21:59:00",
-      "album": {
-        "name": "This Wasteland",
-        "url": "https://open.spotify.com/album/1aI37UoJ0bqeUyG42Vhl3u"
-      },
-      "artists": [
-        {
-          "name": "Cece Vee",
-          "url": "https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp"
-        }
-      ],
-      "duration_ms": 151376,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/47FQ1T5hp4JdF9Kp18dBy4"
     },
     {
       "added_at": "2023-07-06 21:59:00",
@@ -699,134 +843,6 @@
       "duration_ms": 249339,
       "name": "Tell Me Again",
       "url": "https://open.spotify.com/track/4iKKvhm62Qs4L06GewDvoz"
-    },
-    {
-      "added_at": "2023-07-06 21:59:00",
-      "album": {
-        "name": "Tightly Bound",
-        "url": "https://open.spotify.com/album/4g0PmnyPZFN15ezcGZ0bGS"
-      },
-      "artists": [
-        {
-          "name": "Basson Laas",
-          "url": "https://open.spotify.com/artist/2Beab8dPjPTw62bpTfETqx"
-        }
-      ],
-      "duration_ms": 213386,
-      "name": "Tightly Bound",
-      "url": "https://open.spotify.com/track/1VG1atMGf1GYMQ52MLJKDQ"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
-        "name": "Aidan Fraser",
-        "url": "https://open.spotify.com/album/4SX8wjnaLxGo19l6x0Xmxt"
-      },
-      "artists": [
-        {
-          "name": "Aidan Fraser",
-          "url": "https://open.spotify.com/artist/2SNp368DTWkgfo7sM1RqMx"
-        }
-      ],
-      "duration_ms": 227215,
-      "name": "Jupiter's Rings",
-      "url": "https://open.spotify.com/track/4R1DPf8Xx8vEcdpwcQlIB0"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
-        "name": "do you remember",
-        "url": "https://open.spotify.com/album/32pIJshmDwpFGXsCEacwTC"
-      },
-      "artists": [
-        {
-          "name": "aboynamedblu",
-          "url": "https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj"
-        }
-      ],
-      "duration_ms": 147716,
-      "name": "do you remember",
-      "url": "https://open.spotify.com/track/6KJhZ4BtNLf3CltLYF6iaT"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
-        "name": "Parasite",
-        "url": "https://open.spotify.com/album/5hn6dLSrvICNwLyHrLY2gw"
-      },
-      "artists": [
-        {
-          "name": "TIMMS",
-          "url": "https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz"
-        }
-      ],
-      "duration_ms": 146870,
-      "name": "Parasite",
-      "url": "https://open.spotify.com/track/4q7Ta95N485EjD1fPXOkZ7"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
-        "name": "Dear Host",
-        "url": "https://open.spotify.com/album/4fJoL5EoBnMXnJNLVozZgM"
-      },
-      "artists": [
-        {
-          "name": "Carla Malrowe",
-          "url": "https://open.spotify.com/artist/1sgIxyaQ77veaGLIu40zYv"
-        }
-      ],
-      "duration_ms": 242643,
-      "name": "Dear Host",
-      "url": "https://open.spotify.com/track/7A7gXMYV7cqEYZjPzwwn90"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
-        "name": "Find You There",
-        "url": "https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3"
-      },
-      "artists": [
-        {
-          "name": "Booshle G.",
-          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Find You There",
-      "url": "https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
-        "name": "Home has never been good to us",
-        "url": "https://open.spotify.com/album/2fXqcG7ZRuVjm2ypxB4gds"
-      },
-      "artists": [
-        {
-          "name": "Ashwin Smith",
-          "url": "https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO"
-        }
-      ],
-      "duration_ms": 140966,
-      "name": "Home has never been good to us",
-      "url": "https://open.spotify.com/track/0VGw53FeCBukGIvYm7SiWH"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
-        "name": "Beautiful Day (Acoustic Cover)",
-        "url": "https://open.spotify.com/album/51zhilUUY6kaqSh5J3MHcF"
-      },
-      "artists": [
-        {
-          "name": "Cloud Illusions",
-          "url": "https://open.spotify.com/artist/1E4Zlw4mvjAYIqFO6HxMBp"
-        }
-      ],
-      "duration_ms": 245698,
-      "name": "Beautiful Day (Acoustic Cover)",
-      "url": "https://open.spotify.com/track/4Cx4C0D4w8zAgb2UFqfoPL"
     }
   ],
   "unique_name": "SAlt",

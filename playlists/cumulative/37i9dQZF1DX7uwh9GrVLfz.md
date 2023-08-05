@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ハルカミライ \(Haruka Mirai\)
 
-595 songs - 1 day 8 hr 4 min
+596 songs - 1 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,8 @@
 | [Koushu Road](https://open.spotify.com/track/1QTqwO6IvE5wcabJZMfUZH) | [Su凸ko D凹koi](https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51) | [Su凸ko D凹koi wo Shinjiruna](https://open.spotify.com/album/2O6tyCxGJvx19VuupjDezA) | 4:44 | 2023-05-23 |  |
 | [Lady Madonna](https://open.spotify.com/track/7Ek2h9DnXKHdbSkDOuFZej) | [periwinkles](https://open.spotify.com/artist/40iKR3QciuMqwtQyd50Q71) | [Lady Madonna](https://open.spotify.com/album/70YHiSvFrVDZPrQzURx4b0) | 3:23 | 2022-05-19 | 2022-07-24 |
 | [LAST FOREVER](https://open.spotify.com/track/1v8PMncTxjuhu0n6Lr15dX) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [LAST FOREVER](https://open.spotify.com/album/1rWSXluWjnTFoCdLC2WJiu) | 4:16 | 2023-05-16 | 2023-05-18 |
-| [LAST FOREVER](https://open.spotify.com/track/3LGrZHuqKCts17QUjaOPm8) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [LAST FOREVER](https://open.spotify.com/album/73tNOaqid3GTZjHaQx7lQ4) | 4:16 | 2023-05-16 |  |
+| [LAST FOREVER](https://open.spotify.com/track/3LGrZHuqKCts17QUjaOPm8) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [LAST FOREVER](https://open.spotify.com/album/73tNOaqid3GTZjHaQx7lQ4) | 4:16 | 2023-05-16 | 2023-08-05 |
+| [LAST FOREVER](https://open.spotify.com/track/6Tk4jblZ6c6p46RWT3NIWH) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [GOLD IMPRINTS](https://open.spotify.com/album/0eDi7dISTenhez8VO3Ndqp) | 4:17 | 2023-08-03 |  |
 | [Last train](https://open.spotify.com/track/0aqtaUsdAK5GFeVod6s7x6) | [push pull pot](https://open.spotify.com/artist/0777DLWkvCQkjaokIVNOEq) | [Last train](https://open.spotify.com/album/4ew9ArsqjYCPAVapCSULhU) | 1:59 | 2022-12-27 | 2023-02-15 |
 | [Laugh at life](https://open.spotify.com/track/6yvvbqMXxUlcP39fI0oUZA) | [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP) | [LAUGH AT LIFE](https://open.spotify.com/album/3Z3pABiK1AJkaVtaAV37P7) | 3:16 | 2022-05-17 | 2022-07-28 |
 | [Lazy](https://open.spotify.com/track/4u05WMv0zg3Wya55tFvxyu) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/6kVvpVvLHWXcAWth37cDv1) | 3:43 | 2023-05-16 | 2023-06-10 |

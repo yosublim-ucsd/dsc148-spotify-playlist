@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "N001",
+        "url": "https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217533,
+      "name": "Bad Man",
+      "url": "https://open.spotify.com/track/119iNERS1h3InUzpC0jtwf"
+    },
+    {
+      "album": {
         "name": "Wonder World",
         "url": "https://open.spotify.com/album/1vEiOIYInN3Y2LpvXTcEyK"
       },
@@ -330,7 +348,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 215066,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6HW5rmg4NtHTWQExmbh9Wa"
@@ -474,7 +492,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 225306,
       "name": "I Do",
       "url": "https://open.spotify.com/track/2g05KWuVd5Rixv1YtSSTog"
@@ -499,7 +517,7 @@
     },
     {
       "album": {
-        "name": "\ubcc4 Star",
+        "name": "Star",
         "url": "https://open.spotify.com/album/1ig2IUSFPtdxlAE9NmVXq8"
       },
       "artists": [
@@ -586,7 +604,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 220760,
       "name": "It\u2032s Raining",
       "url": "https://open.spotify.com/track/7gH0gjbvNKZJtryOUNW2Yt"
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 204973,
       "name": "Snow Prince",
       "url": "https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa"
@@ -1503,6 +1521,28 @@
     },
     {
       "album": {
+        "name": "DINNER MATE (Original Television Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/5Tcr7AHV7Y3iLD2pnhhGh0"
+      },
+      "artists": [
+        {
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+        },
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212520,
+      "name": "Yummy Yummy (feat. Chancellor)",
+      "url": "https://open.spotify.com/track/7JIPEpfmQOwFr9f1aC6lHL"
+    },
+    {
+      "album": {
         "name": "The Ballads",
         "url": "https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac"
       },
@@ -1608,24 +1648,6 @@
       "duration_ms": 225866,
       "name": "\uae40\ubc25",
       "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
-    },
-    {
-      "album": {
-        "name": "N001",
-        "url": "https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "date_added": "2021-03-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 217533,
-      "name": "\ub098\uc05c \ub0a8\uc790 Bad Man",
-      "url": "https://open.spotify.com/track/119iNERS1h3InUzpC0jtwf"
     },
     {
       "album": {
@@ -2076,7 +2098,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 231173,
       "name": "\ud0dc\uc591\uc744 \ud53c\ud558\ub294 \ubc29\ubc95 How to Run From the Sun (Gtr.Remix)",
       "url": "https://open.spotify.com/track/2ESHlCrJsHzgx8XL1MCkFo"

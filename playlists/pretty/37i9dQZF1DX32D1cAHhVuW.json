@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/druski/?hl=en\">Druski</a>",
-  "num_followers": 25167,
+  "num_followers": 25234,
   "original_name": "Druski's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzczY2QwYmU3NjY1ZWNlMmFlMjAxNzhkZGI2ZGY4Yjc1MmEzZDY0",
+  "snapshot_id": "MCwyMTgxY2E5NDY5ZTgwNTNlMGE3YmM1NGQzZWRiNWQ2NDFhNmNlNTIz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -394,11 +394,15 @@
         {
           "name": "Lil Durk",
           "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 218610,
-      "name": "That's Facts",
-      "url": "https://open.spotify.com/track/6dug6dIV40JMz2myhafHrm"
+      "duration_ms": 235014,
+      "name": "Rich Off Pain (feat. Rod Wave)",
+      "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -514,15 +518,11 @@
         {
           "name": "Lil Durk",
           "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 235014,
-      "name": "Rich Off Pain (feat. Rod Wave)",
-      "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
+      "duration_ms": 218610,
+      "name": "That's Facts",
+      "url": "https://open.spotify.com/track/6dug6dIV40JMz2myhafHrm"
     },
     {
       "added_at": "2022-10-01 16:00:00",

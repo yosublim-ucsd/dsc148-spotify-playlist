@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu?si=3\-MXJaS0SAu1k0Q7du85NQ">Festizie</a>
 
-478 songs - 1 day 15 hr 3 min
+479 songs - 1 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Most High.](https://open.spotify.com/track/3Q7SXiJxtlkWhn369vdOls) | [Empire](https://open.spotify.com/artist/7ojivdbJT5Lqnn7wJ2rbBU) | [Most High.](https://open.spotify.com/album/7szpxUJi1ojwTHOG1pF3e9) | 2:10 | 2023-07-21 |  |
 | [Most Holy One](https://open.spotify.com/track/7xtBUMRzhwvVPTx1b7cPLa) | [Mnqobi Nxumalo](https://open.spotify.com/artist/70Y2n0KGh0iCJrpBronVOW) | [Most Holy One](https://open.spotify.com/album/3hIi5s4zrx24zp32aW5geU) | 5:15 | 2023-07-28 |  |
 | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/track/0oONxPIqh6mWrFoS7jBiPq) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/album/7LFJV2qkgIxxGugI4VvP2T) | 2:30 | 2023-07-21 | 2023-08-04 |
+| [Mungu Ni Baba.](https://open.spotify.com/track/4JMNknRP8DLfN2nRbFWGMW) | [Alexis Zawadi](https://open.spotify.com/artist/0GJoWcqZQlO9GH08zxkDN3), [Emmanuel Mgogo](https://open.spotify.com/artist/06esCeDGQbjAxQf9NiAEl5) | [Mungu Ni Baba](https://open.spotify.com/album/0WwE3aCtokCa9mWTqnn5Rp) | 8:21 | 2023-08-04 |  |
 | [Muradi \(Desire\)](https://open.spotify.com/track/7yvLi9MJ8yzGO6OJZYuZRl) | [Pst\. Solomon TK](https://open.spotify.com/artist/5OCApsR2lIZUqeCjVGoWqm), [D manifest crew](https://open.spotify.com/artist/1S088r0e3wlBRsOVx4v2Rm) | [Muradi \(Desire\)](https://open.spotify.com/album/6C4jM6uxhsQgNxZTkt6wjt) | 5:30 | 2023-06-23 | 2023-07-07 |
 | [My Devotion \- Live](https://open.spotify.com/track/1yxGk5nkQ6RgXRF5cJEatw) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g) | [My Devotion \(Live\)](https://open.spotify.com/album/3Scf49ewy5dqnck7iFYVzT) | 9:01 | 2023-07-21 | 2023-08-04 |
 | [My Dey](https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [My Dey](https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT) | 2:11 | 2023-06-30 | 2023-07-14 |

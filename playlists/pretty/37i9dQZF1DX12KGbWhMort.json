@@ -1,29 +1,13 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 163832,
+  "num_followers": 163914,
   "original_name": "Enganchados: Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGI1YzU3ZDFiYWFlYmEyYTNlYWJjNDdiNjg4YjhmYmY3M2YzMzUw",
+  "snapshot_id": "MCxjOTIzOTQxNjU4NWY4MDZlZDJlNGZhYWM3YjM2YTJkYmM5Y2I5ZTY2",
   "tracks": [
-    {
-      "added_at": "2023-07-28 18:33:31",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "Propuesta Indecente",
-      "url": "https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv"
-    },
     {
       "added_at": "2023-07-28 18:33:31",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 230280,
       "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
       "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
+    },
+    {
+      "added_at": "2023-07-28 18:33:31",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "Propuesta Indecente",
+      "url": "https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv"
     },
     {
       "added_at": "2023-07-28 18:33:31",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-07-28 18:33:31",
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 307866,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+    },
+    {
+      "added_at": "2023-07-28 18:33:31",
+      "album": {
         "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 192698,
       "name": "Carita de Inocente (feat. Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
-    },
-    {
-      "added_at": "2023-07-28 18:33:31",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 307866,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
     },
     {
       "added_at": "2023-07-28 18:33:31",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-07-28 18:33:31",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 191209,
-      "name": "Carita de Inocente",
-      "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
-    },
-    {
-      "added_at": "2023-07-28 18:33:31",
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 265733,
       "name": "Pero Me Acuerdo de T\u00ed",
       "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
+    },
+    {
+      "added_at": "2023-07-28 18:33:31",
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 191209,
+      "name": "Carita de Inocente",
+      "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
     },
     {
       "added_at": "2023-07-28 18:33:31",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-07-28 18:33:31",
       "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
+      },
+      "artists": [
+        {
+          "name": "Obie Bermudez",
+          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/565MagsPGofHeTxiH678pW"
+    },
+    {
+      "added_at": "2023-07-28 18:33:31",
+      "album": {
         "name": "Presiento",
         "url": "https://open.spotify.com/album/4AoZ74lY9YRMaPaEPSCxnF"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 174379,
       "name": "Presiento",
       "url": "https://open.spotify.com/track/7nHUD2xhqkehsYk3PT6QDs"
-    },
-    {
-      "added_at": "2023-07-28 18:33:31",
-      "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
-      },
-      "artists": [
-        {
-          "name": "Obie Bermudez",
-          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
-        }
-      ],
-      "duration_ms": 220946,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/565MagsPGofHeTxiH678pW"
     },
     {
       "added_at": "2023-07-28 18:33:31",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-07-28 18:33:31",
       "album": {
-        "name": "Signos",
-        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 291040,
-      "name": "Entre La Tierra Y El Cielo",
-      "url": "https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf"
-    },
-    {
-      "added_at": "2023-07-28 18:33:31",
-      "album": {
         "name": "La Dif\u00edcil",
         "url": "https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 158533,
       "name": "La Dif\u00edcil",
       "url": "https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu"
+    },
+    {
+      "added_at": "2023-07-28 18:33:31",
+      "album": {
+        "name": "Signos",
+        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 291040,
+      "name": "Entre La Tierra Y El Cielo",
+      "url": "https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf"
     },
     {
       "added_at": "2023-07-28 18:33:31",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-07-28 18:33:31",
       "album": {
-        "name": "Fantas\u00eda o realidad (american edition)",
-        "url": "https://open.spotify.com/album/2NVUSpunMuwYEFaqJsTRd1"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        }
-      ],
-      "duration_ms": 265173,
-      "name": "Aunque no te pueda ver",
-      "url": "https://open.spotify.com/track/6UTRKQhyERZY5Jduii5Jmv"
-    },
-    {
-      "added_at": "2023-07-28 18:33:31",
-      "album": {
         "name": "Las Cosas Son Como Son",
         "url": "https://open.spotify.com/album/2L1ZdknL3hPfV2vFM18r14"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 268986,
       "name": "Volver",
       "url": "https://open.spotify.com/track/0fnSf6DuXn8uxlSdanhJqg"
+    },
+    {
+      "added_at": "2023-07-28 18:33:31",
+      "album": {
+        "name": "Fantas\u00eda o realidad (american edition)",
+        "url": "https://open.spotify.com/album/2NVUSpunMuwYEFaqJsTRd1"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        }
+      ],
+      "duration_ms": 265173,
+      "name": "Aunque no te pueda ver",
+      "url": "https://open.spotify.com/track/6UTRKQhyERZY5Jduii5Jmv"
     },
     {
       "added_at": "2023-07-28 18:33:31",

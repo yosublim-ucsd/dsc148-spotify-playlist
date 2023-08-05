@@ -1,12 +1,12 @@
 {
   "description": "Descubra Senndy e novos talentos brasileiros no horizonte.",
-  "num_followers": 421652,
+  "num_followers": 421641,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODMwN2U0Zjc5NDQ0NWE5NjdlYzk2OGY5ZWZmNzkyZDgyNmJiMDZh",
+  "snapshot_id": "MCxmZDFmYTkzZThkMGRkNTYzNjBmNGJjNzdhMmUxOGI0OThkZTMxOTAz",
   "tracks": [
     {
       "added_at": "2023-07-12 21:00:00",
@@ -291,22 +291,30 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "Putaria 2000",
-        "url": "https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC"
+        "name": "Combate",
+        "url": "https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC"
       },
       "artists": [
         {
-          "name": "Puterrier",
-          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+          "name": "RAP, falando",
+          "url": "https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt"
         },
         {
-          "name": "biggie diehl",
-          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
         }
       ],
-      "duration_ms": 107204,
-      "name": "Putaria 2000",
-      "url": "https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV"
+      "duration_ms": 190850,
+      "name": "Combate",
+      "url": "https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -335,30 +343,22 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "Combate",
-        "url": "https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC"
+        "name": "Putaria 2000",
+        "url": "https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC"
       },
       "artists": [
         {
-          "name": "RAP, falando",
-          "url": "https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt"
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
         },
         {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
         }
       ],
-      "duration_ms": 190850,
-      "name": "Combate",
-      "url": "https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp"
+      "duration_ms": 107204,
+      "name": "Putaria 2000",
+      "url": "https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -419,6 +419,26 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
+        "name": "100 Mili",
+        "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "100 Mili",
+      "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
         "name": "O Justo N\u00e3o Treme",
         "url": "https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 169057,
       "name": "O Justo N\u00e3o Treme",
       "url": "https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "100 Mili",
-        "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "100 Mili",
-      "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "Do Alto da Laje",
-        "url": "https://open.spotify.com/album/62hm4EluZad8WpNZZPdR0H"
-      },
-      "artists": [
-        {
-          "name": "Arthurzim",
-          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
-        }
-      ],
-      "duration_ms": 159048,
-      "name": "Daqui de Cima",
-      "url": "https://open.spotify.com/track/717tAnbqbE7NMGDVOFdwww"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "Hino Delas",
         "url": "https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 139854,
       "name": "Hino Delas",
       "url": "https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "Do Alto da Laje",
+        "url": "https://open.spotify.com/album/62hm4EluZad8WpNZZPdR0H"
+      },
+      "artists": [
+        {
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+        }
+      ],
+      "duration_ms": 159048,
+      "name": "Daqui de Cima",
+      "url": "https://open.spotify.com/track/717tAnbqbE7NMGDVOFdwww"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "Contrai",
-        "url": "https://open.spotify.com/album/5O2GGOafAOjpSG6yr6Krgm"
-      },
-      "artists": [
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        },
-        {
-          "name": "Martinnz",
-          "url": "https://open.spotify.com/artist/0DmKopdHbrBA1OVgTdwqcw"
-        }
-      ],
-      "duration_ms": 180008,
-      "name": "Contrai",
-      "url": "https://open.spotify.com/track/43bcJZ3Q0sxxPXPW9o5xE6"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "Santana Amarelo",
         "url": "https://open.spotify.com/album/2I3a1NXZt4AdF5LqltpY7P"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 183673,
       "name": "Santana Amarelo",
       "url": "https://open.spotify.com/track/68DsnQjAUwCQqzl7AwAq6l"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "Contrai",
+        "url": "https://open.spotify.com/album/5O2GGOafAOjpSG6yr6Krgm"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
+          "name": "Martinnz",
+          "url": "https://open.spotify.com/artist/0DmKopdHbrBA1OVgTdwqcw"
+        }
+      ],
+      "duration_ms": 180008,
+      "name": "Contrai",
+      "url": "https://open.spotify.com/track/43bcJZ3Q0sxxPXPW9o5xE6"
     },
     {
       "added_at": "2023-07-12 21:00:00",

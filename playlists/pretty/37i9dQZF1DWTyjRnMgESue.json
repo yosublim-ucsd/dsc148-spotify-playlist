@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Ilsey",
-  "num_followers": 55700,
+  "num_followers": 55831,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWJmZDA2YWExNWZkNjMwNjI0ZTUxYmVjMTcyYjg2ZTkxZDUxMDU3",
+  "snapshot_id": "MCw1ODgwOTc1YTU4NzkzYWVjYTI4ZjBhYzVjMmJiZDU4MDFjNTdlMGJl",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 215506,
       "name": "Visiting Hours",
       "url": "https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Last Man On Earth",
-        "url": "https://open.spotify.com/album/4JaYYKTMIoesQyIaCyGQGY"
-      },
-      "artists": [
-        {
-          "name": "Anna Bates",
-          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Last Man On Earth",
-      "url": "https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Last Man On Earth",
+        "url": "https://open.spotify.com/album/4JaYYKTMIoesQyIaCyGQGY"
+      },
+      "artists": [
+        {
+          "name": "Anna Bates",
+          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Last Man On Earth",
+      "url": "https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox"
-      },
-      "artists": [
-        {
-          "name": "Elliot Greer",
-          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
-        }
-      ],
-      "duration_ms": 190216,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "The Walls Are Way Too Thin",
         "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 221933,
       "name": "The Walls Are Way Too Thin",
       "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox"
+      },
+      "artists": [
+        {
+          "name": "Elliot Greer",
+          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
+        }
+      ],
+      "duration_ms": 190216,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Go Easy, Kid",
-        "url": "https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh"
-      },
-      "artists": [
-        {
-          "name": "Monica Martin",
-          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
-        }
-      ],
-      "duration_ms": 248181,
-      "name": "Go Easy, Kid",
-      "url": "https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Boston Accent",
         "url": "https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 201453,
       "name": "German Cars",
       "url": "https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Go Easy, Kid",
+        "url": "https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh"
+      },
+      "artists": [
+        {
+          "name": "Monica Martin",
+          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
+        }
+      ],
+      "duration_ms": 248181,
+      "name": "Go Easy, Kid",
+      "url": "https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Is It Just Me?",
+        "url": "https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi"
+      },
+      "artists": [
+        {
+          "name": "Meg McRee",
+          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Mary Jane & Chardonnay",
+      "url": "https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "give me hell",
         "url": "https://open.spotify.com/album/3rSDVdVKKTVHDqU1cC3pn0"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Is It Just Me?",
-        "url": "https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi"
-      },
-      "artists": [
-        {
-          "name": "Meg McRee",
-          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Mary Jane & Chardonnay",
-      "url": "https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Sleepless in Seattle",
         "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "a lighter shade of blue",
-        "url": "https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 213766,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/1b7g70Su9yEnnfIetjAYWL"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "The Summer I Lost My Lover",
         "url": "https://open.spotify.com/album/6LCJc8Rs72aH30ocmWoRaK"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 163733,
       "name": "Prime Years",
       "url": "https://open.spotify.com/track/3gTtFwxQ5fbAwnbr75LxeV"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "a lighter shade of blue",
+        "url": "https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 213766,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/1b7g70Su9yEnnfIetjAYWL"
     },
     {
       "added_at": "2023-07-21 04:00:00",

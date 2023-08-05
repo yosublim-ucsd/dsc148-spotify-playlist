@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Michael Bolton
 
-89 songs - 5 hr 47 min
+90 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Disconnected](https://open.spotify.com/track/1Lu7PmT0qjWn7oRPC08gMp) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Disconnected](https://open.spotify.com/album/4T93DNv8Icl7KKPh6CDn1h) | 4:54 | 2023-02-03 | 2023-03-18 |
 | [End Of Night](https://open.spotify.com/track/2mOzVvURATXmEU64DANxDr) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 3:23 | 2022-02-25 |  |
 | [Every One of Us](https://open.spotify.com/track/6SkgB0rRsGB0ZkSGkPWaOW) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt), [The Unsung Heroes](https://open.spotify.com/artist/0Hj4TOkvfWyweKo7lIipSg) | [Every One of Us](https://open.spotify.com/album/3Z08OEw7y50bZNAbapjP8B) | 3:25 | 2021-10-22 | 2022-06-11 |
-| [Exit Wound](https://open.spotify.com/track/0V1cNtY74UmCVJn44yBZ5i) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Exit Wound](https://open.spotify.com/album/2vLZvJJPD9eJQ8GY4BlDap) | 2:41 | 2023-07-21 |  |
+| [Exit Wound](https://open.spotify.com/track/0V1cNtY74UmCVJn44yBZ5i) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Exit Wound](https://open.spotify.com/album/2vLZvJJPD9eJQ8GY4BlDap) | 2:41 | 2023-07-21 | 2023-08-05 |
+| [Fake It 'Til You Make It](https://open.spotify.com/track/6hiURAxDXme5mWZUg6sBj9) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Automatic](https://open.spotify.com/album/3XEVD5T03YvAoojsCXlTgq) | 3:18 | 2023-08-04 |  |
 | [Find My Way](https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney III](https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884) | 3:54 | 2021-10-22 |  |
 | [Finish Line](https://open.spotify.com/track/2mRK4OJ96kntvBe141m9AW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Finish Line](https://open.spotify.com/album/0AiRY02hMgv49bJlqCQNPG) | 4:24 | 2021-10-22 |  |
 | [Firecracker](https://open.spotify.com/track/2FpEAJWDxKW2FCyyLC9Tg2) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Firecracker](https://open.spotify.com/album/3KETmuy3XHOCpqJSyBoYXD) | 3:50 | 2022-06-10 |  |

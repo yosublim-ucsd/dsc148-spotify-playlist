@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 
 > Ahgases! 7 or nothing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,171 likes - 132 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,173 likes - 132 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 104 | [DRUNK ON YOU](https://open.spotify.com/track/3py7jF8h0hJ0QiYoyqUBz5) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:46 |
 | 105 | [SENSES](https://open.spotify.com/track/3C7hRslMCduBjjDyfEYors) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:15 |
 | 106 | [ZERO](https://open.spotify.com/track/4jXgqvdN5MZPu1ge87vqu4) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I WON'T LET YOU GO \(Complete Edition\)](https://open.spotify.com/album/42GCdf2m9ogDdIsJCUgW8J) | 3:48 |
-| 107 | [너 하나만 One And Only You](https://open.spotify.com/track/261LXApprrMeuczNAGqjav) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df), [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Eyes On You](https://open.spotify.com/album/5aCJKuo69SGbveapvkSYMW) | 3:20 |
+| 107 | [One And Only You](https://open.spotify.com/track/261LXApprrMeuczNAGqjav) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df), [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Eyes On You](https://open.spotify.com/album/5aCJKuo69SGbveapvkSYMW) | 3:20 |
 | 108 | [WOLO](https://open.spotify.com/track/2A27zEZagIqtgpzLtnmjbb) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0) | 3:04 |
 | 109 | [LOVE TALK](https://open.spotify.com/track/5ukZlGN2l9WFC0kguXNMwv) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:53 |
 | 110 | [잘 지내야해 1:31AM](https://open.spotify.com/track/5vUyOyf1JRJglgkO8YwScG) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0) | 3:51 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 131 | [이젠 From Now](https://open.spotify.com/track/1ZM75OgbDpCxACUufAKVvE) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0) | 3:19 |
 | 132 | [No One Else](https://open.spotify.com/track/4QHs3gzvQ0vOMRH5cBxBWY) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) | 3:22 |
 
-Snapshot ID: `MCw4OTljYTY1NzQzN2Q5ZjQwMjc5MDQxMmY2OWRlMTA0YjBkNTRlYTk0`
+Snapshot ID: `MCxjYjAyOWE1ODMzNmNiMjk5MzliNDY1MTUwNjgxY2E5NGI2Yzg3YmU4`

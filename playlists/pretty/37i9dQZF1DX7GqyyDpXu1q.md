@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Rock swagger served neat\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,073 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,154 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 64 | [Highway Will](https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Highway Will](https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe) | 3:13 |
 | 65 | [Middle of Nowhere](https://open.spotify.com/track/30MvmP1YdmdyGbgZ8ZXPJP) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Middle Of Nowhere](https://open.spotify.com/album/3JxxQNF39rhwRGHs3GSdHX) | 4:00 |
 | 66 | [Up To No Good](https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Up To No Good](https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW) | 2:13 |
-| 67 | [Down To The Devil](https://open.spotify.com/track/2hOB1WsQRTLgVxeXaz7F73) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Down to the Devil](https://open.spotify.com/album/0fEy0iCdOq34h6Ci3zvZVv) | 3:26 |
+| 67 | [Down To The Devil](https://open.spotify.com/track/0cHOVlDO5vNuJOaTTO29Z6) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Georgiana](https://open.spotify.com/album/1ygRWLYPXMKn1MyyThyzpK) | 3:26 |
 | 68 | [Good Night Down in Georgia](https://open.spotify.com/track/2SJygkVMOLAp8690LOee1h) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/4C75RzJVeSN3s1K0cwZTpY) | 4:10 |
 | 69 | [Black Powder Soul](https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Black Powder Soul](https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy) | 3:36 |
 | 70 | [Outlaws & Outsiders](https://open.spotify.com/track/4OBrZqJzkwdDaXoYVfmIw7) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc) | [Outlaws & Outsiders](https://open.spotify.com/album/1FMwktOdGcAx5tzgdHRUf4) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 99 | [In Stride](https://open.spotify.com/track/3O6GPcdbS3cyT2MpHwm9pP) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [In Stride](https://open.spotify.com/album/1f9Z6ZUYbrjR10j1bwPL3u) | 3:47 |
 | 100 | [Let It Ride](https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Let It Ride](https://open.spotify.com/album/7xTvFnKhIlcMerkgIIV9jA) | 3:37 |
 
-Snapshot ID: `MCw5YTI1YjcyNWNjNTYyYTI0NjI4Y2FjMmM2OTAzYzA2M2NhNDQ5NjI2`
+Snapshot ID: `MCw2NWNlNDNjOGY1ZWNmOTFlYzA3MmYzYzkxYjg0NDY2MjY1ZjQwZDBl`

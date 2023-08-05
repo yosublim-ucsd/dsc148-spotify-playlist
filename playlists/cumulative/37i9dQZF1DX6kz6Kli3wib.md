@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-272 songs - 13 hr 18 min
+273 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Kinkaku\-ji](https://open.spotify.com/track/7lNECdcPTy9GLiEGyXIqfO) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kinkaku\-ji](https://open.spotify.com/album/5qwFBgvbIh12LJDO6hOhck) | 3:13 | 2021-11-11 |  |
 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 | 2021-11-11 | 2022-09-09 |
 | [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 | 2021-11-11 |  |
-| [Larina](https://open.spotify.com/track/2wB1OguijxeqOEgiC2ZCSQ) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Larina](https://open.spotify.com/album/3YLntfGTS2T2jFBw1wDNy5) | 2:36 | 2022-07-29 |  |
+| [Larina](https://open.spotify.com/track/2wB1OguijxeqOEgiC2ZCSQ) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Larina](https://open.spotify.com/album/3YLntfGTS2T2jFBw1wDNy5) | 2:36 | 2022-07-29 | 2023-08-05 |
 | [Las Vegas](https://open.spotify.com/track/0748dugTfsE4teDzF7Dmhx) | [Spiral Solace](https://open.spotify.com/artist/2NNajlXb9VSrYlESf8AlKG) | [Las Vegas](https://open.spotify.com/album/18Pt5mnL3AsrQHiIVgeMUc) | 3:40 | 2021-11-11 | 2022-01-22 |
 | [Leaning Backwards](https://open.spotify.com/track/5MXNVNhGjeAJ7iVTYZTAZm) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [Equality](https://open.spotify.com/album/4bCi8izrMc43Wdenchwy56) | 3:11 | 2021-11-11 | 2022-04-06 |
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2021-11-11 |  |
@@ -274,6 +274,7 @@
 | [Wednesday](https://open.spotify.com/track/4Sy3CQUkaEVOhr24k0JWhP) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [The Kankaku](https://open.spotify.com/album/77ggNvhUp4Ll7cer1NZOYx) | 2:16 | 2022-05-27 |  |
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2021-11-11 |  |
 | [Where the sand is](https://open.spotify.com/track/3VffpZvEnQsxLZ1ZgNb4Rn) | [Nino The Dino](https://open.spotify.com/artist/6Zf359QwgLxZM7Q2Fjkwhi) | [Sunset Paradise](https://open.spotify.com/album/5JzMUwp6FKlJPfgrS2eE6T) | 3:03 | 2022-06-24 |  |
+| [Whispers](https://open.spotify.com/track/6BtDIJo7YKYtRypNZXEdNg) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Whispers](https://open.spotify.com/album/7vqb57yzCf3uGhEKlfqmj4) | 3:21 | 2023-08-04 |  |
 | [wild tales](https://open.spotify.com/track/5Q7WJVOQdOyr03DnkULrLm) | [incovent](https://open.spotify.com/artist/7hxdstSD0iqnJwgwERrdDd) | [wild tales](https://open.spotify.com/album/5Yrb1fhHEmgNeZo608FNF2) | 2:28 | 2022-05-20 | 2022-09-23 |
 | [Wings](https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Wings](https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj) | 3:07 | 2022-01-21 | 2023-06-03 |
 | [Yama](https://open.spotify.com/track/5S94oJQP87jbUfsDZ2uj4h) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:13 | 2021-11-11 |  |

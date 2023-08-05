@@ -4,12 +4,12 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-329 songs - 20 hr 7 min
+331 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3AM in Chicago](https://open.spotify.com/track/4PqjlKTXoRBJwHCwy0OHtQ) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Little Black Flies](https://open.spotify.com/album/3IELDMdo0nbuzRSduoXYwJ) | 3:36 | 2021-07-09 | 2022-07-02 |
-| [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 | 2022-01-07 |  |
+| [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 | 2022-01-07 | 2023-08-05 |
 | [A Little Honey](https://open.spotify.com/track/1q5wF1wZQD41ura41yVqXb) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing At The Seams](https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp) | 3:10 | 2021-07-09 | 2023-07-08 |
 | [About Love](https://open.spotify.com/track/1MzIUuIxjrfUIlwFytoIok) | [The Soultrend Orchestra](https://open.spotify.com/artist/2ZCDrnzQpD9Xp5g2n2esnV), [Papik](https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4), [Alan Scaffardi](https://open.spotify.com/artist/77K1Ud04no7BEcBvPbeXMg) | [Live For Funk](https://open.spotify.com/album/10naG4dQ2r6SjjWPcEPFgR) | 3:56 | 2022-04-29 |  |
 | [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 | 2022-11-18 | 2023-02-18 |
@@ -96,7 +96,7 @@
 | [Future Lover](https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:31 | 2022-08-26 | 2023-02-18 |
 | [Get Back To The Land](https://open.spotify.com/track/0bOzDaUYbUVWMLtl8DNt8L) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh), [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs) | [Get Back To The Land](https://open.spotify.com/album/1wHQdMICR6yPfZfvKfh2up) | 4:26 | 2022-01-14 | 2022-07-25 |
 | [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 | 2023-01-20 |  |
-| [Get It Right](https://open.spotify.com/track/34C4K4p6tnU9So52HFbpMZ) | [Claire Davis](https://open.spotify.com/artist/7k4BeoQINC5sC1p7P4UBLA) | [Get It Right](https://open.spotify.com/album/15y0gBM5PFz4ftsLO1O1v3) | 3:01 | 2023-04-21 |  |
+| [Get It Right](https://open.spotify.com/track/34C4K4p6tnU9So52HFbpMZ) | [Claire Davis](https://open.spotify.com/artist/7k4BeoQINC5sC1p7P4UBLA) | [Get It Right](https://open.spotify.com/album/15y0gBM5PFz4ftsLO1O1v3) | 3:01 | 2023-04-21 | 2023-08-05 |
 | [Golden](https://open.spotify.com/track/52bSduJitvvc9Rj8NifQTm) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Golden](https://open.spotify.com/album/4zCLgozrcJZMxSI91GiaQG) | 3:42 | 2022-01-21 | 2023-06-10 |
 | [Good Day](https://open.spotify.com/track/6hF1GWwmTAT0vKYuErguVj) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Good Day](https://open.spotify.com/album/5gPIcMHoQLRRhE0iDUVw7s) | 3:07 | 2022-02-15 | 2023-03-25 |
 | [Good Love](https://open.spotify.com/track/0J1lFaf00GdhNUekI4lmqJ) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Good Love](https://open.spotify.com/album/4CgJXHgOTv1jPGsIZYEozZ) | 3:20 | 2022-03-21 | 2022-07-29 |
@@ -174,6 +174,7 @@
 | [Looking For A Brand New Game \- Live From Easy Eye Sound](https://open.spotify.com/track/1sU1M5bEdRDSfPactx6LdK) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Live From Easy Eye Sound](https://open.spotify.com/album/6lY1atAneLktIAWKI9ixrh) | 2:59 | 2023-01-14 | 2023-01-21 |
 | [Looking For Moses](https://open.spotify.com/track/3crGdqxcBCvHVeG7VaxNY1) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Party For One / Looking For Moses](https://open.spotify.com/album/1RmGdBJcGcO9dse9IdL8XN) | 5:13 | 2022-01-14 | 2022-07-29 |
 | [Lord Have Mercy](https://open.spotify.com/track/4YhkOJonZ9OOeAmBWmbRj7) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Lord Have Mercy](https://open.spotify.com/album/3Y46rN3HnsxoTa6AQWPYQF) | 4:01 | 2023-02-24 | 2023-05-06 |
+| [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-08-04 |  |
 | [Love Again](https://open.spotify.com/track/1rbykFoRXzj8yEG1Wyu6FC) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa) | 3:30 | 2021-07-09 | 2023-01-28 |
 | [Love and Hate in a Different Time \- Edit](https://open.spotify.com/track/1aTzG5OLk5m868nYMeAn7W) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 3:28 | 2021-08-06 | 2023-06-03 |
 | [Love Bird](https://open.spotify.com/track/280aVp4Q3m5g9RZkVSp50p) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe) | [Love Bird](https://open.spotify.com/album/0iniUlY3Z8tAruoZhXdl1d) | 3:09 | 2022-11-11 | 2023-01-14 |
@@ -334,6 +335,7 @@
 | [Workin' Man Blues](https://open.spotify.com/track/54SPmx0U4wg5P4I9rO9kdC) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [Workin' Man Blues](https://open.spotify.com/album/2gjhCcAyZe5Zb1kyUbNNPK) | 3:37 | 2022-05-06 | 2023-04-30 |
 | [X Boyfriends](https://open.spotify.com/track/3DYVCuzV31DJAgBbEo0Ae3) | [Ali McGuirk](https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM) | [Til It’s Gone](https://open.spotify.com/album/6S8mlOlfA5EM5liaSdKruf) | 2:53 | 2022-09-02 |  |
 | [X Boyfriends](https://open.spotify.com/track/6OLgvpOn1WTeyrS5UpWpAI) | [Ali McGuirk](https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM) | [X Boyfriends](https://open.spotify.com/album/0ZEQ4W92SuEoXauwadG1UW) | 2:53 | 2022-08-26 | 2023-04-30 |
+| [You](https://open.spotify.com/track/1GEHrWzUGuhQ7bg97fuaGo) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [You](https://open.spotify.com/album/3z5YjcnJlmbr3Ftzu83K7u) | 3:00 | 2023-08-04 |  |
 | [You Are Everything](https://open.spotify.com/track/1HL9e5uqnQg1qxJH2BisfJ) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [Stan Taylor](https://open.spotify.com/artist/0FLx5Ts7ydf1NuSsy334eU) | [You Are Everything](https://open.spotify.com/album/6LMTOf2XuRWmkm9O8Bvch8) | 2:59 | 2022-10-21 | 2022-11-12 |
 | [You Can Count On Me](https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn) | 4:09 | 2023-06-02 |  |
 | [You Know What It Do](https://open.spotify.com/track/1YPsvTzKTMsQjrdC88CRcT) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [No Beginning No End 2](https://open.spotify.com/album/1dwWH4m6TIepflnji3hVsG) | 3:07 | 2021-07-09 | 2022-06-11 |

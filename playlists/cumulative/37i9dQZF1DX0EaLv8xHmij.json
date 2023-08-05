@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 254000,
       "name": "40\u02da.40, Pt. II",
       "url": "https://open.spotify.com/track/6VWCgmyLqAWltjGO0Za00I"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 111125,
       "name": "5 Estrelas",
       "url": "https://open.spotify.com/track/0YGl7RgoEq9L4FPitQhTpm"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 140571,
       "name": "Cadeia ou Morte?",
       "url": "https://open.spotify.com/track/3cdkhjRdfY5Q5nN4mgtcOP"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 151861,
       "name": "Crime News",
       "url": "https://open.spotify.com/track/7ablZKsNCjMgEA3IwyFwqz"
@@ -4377,6 +4377,28 @@
     },
     {
       "album": {
+        "name": "Terra do Desando",
+        "url": "https://open.spotify.com/album/1ML0rTkcd8iJp6JMfK81zm"
+      },
+      "artists": [
+        {
+          "name": "aner aka estevvm",
+          "url": "https://open.spotify.com/artist/4vffmERAODggefWiwViFKG"
+        },
+        {
+          "name": "Paj\u00e9 Ib",
+          "url": "https://open.spotify.com/artist/2Lg7TsL9X3uzDKLzKQezQv"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152790,
+      "name": "Terra do Desando - Remix",
+      "url": "https://open.spotify.com/track/0TvIW2iCUCigSNIoFp1PXt"
+    },
+    {
+      "album": {
         "name": "Terrorista",
         "url": "https://open.spotify.com/album/1SFltkPUm7oUiLqwPPLGGk"
       },
@@ -4746,6 +4768,24 @@
       "duration_ms": 154928,
       "name": "Urubu",
       "url": "https://open.spotify.com/track/4CjbU2FFWlsZSWYaM4Tcdr"
+    },
+    {
+      "album": {
+        "name": "Vai Ter Que Aturar",
+        "url": "https://open.spotify.com/album/1PL3GDTvaPYoD698gs9vT1"
+      },
+      "artists": [
+        {
+          "name": "Mc G7",
+          "url": "https://open.spotify.com/artist/7tAU5puj4UTBvZPOgCfiRT"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Vai Ter Que Aturar",
+      "url": "https://open.spotify.com/track/5ZSsSb5WHUhJxc6DwRCRNo"
     },
     {
       "album": {

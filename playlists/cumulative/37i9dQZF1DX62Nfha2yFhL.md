@@ -2,9 +2,9 @@
 
 ### [Soul Lounge](https://open.spotify.com/playlist/37i9dQZF1DX62Nfha2yFhL)
 
-> every day grooves for a laid back day.
+> every day soul with a funky groove for a laid back day.
 
-142 songs - 8 hr 18 min
+143 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Good To Know \(feat\. Masego, Kp & Ambriia\)](https://open.spotify.com/track/42DZ6nBYhvyoLwmCUGz2T9) | [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Ambriia](https://open.spotify.com/artist/188wOiNLfaMrUoIGUbvq6q), [KP\_](https://open.spotify.com/artist/0oBxK7RWPdHdW1B9MFX3QI) | [Good To Know \(feat\. Masego, Kp & Ambriia\)](https://open.spotify.com/album/7rDIbwEbqPVRVFe4W0XPD4) | 4:01 | 2021-10-22 | 2022-11-12 |
 | [Head Rush \(feat\. Trinidad Jame$\)](https://open.spotify.com/track/4fjFcapaQFLdUghyyjXkN1) | [Morris Day](https://open.spotify.com/artist/1L56apXminRPJqnqBN0vhe), [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J) | [Last Call](https://open.spotify.com/album/1UFTWoydZvElLrrkLheaL4) | 3:41 | 2022-11-11 |  |
 | [Heels](https://open.spotify.com/track/22cpDTzClbMx2W6kH8ec7N) | [Trip Carter](https://open.spotify.com/artist/2bNkF5WGgymQPAqsdyxGH1) | [Heels](https://open.spotify.com/album/3Vpeygcr02b9CUXP7Z2kiD) | 2:31 | 2023-03-10 |  |
+| [Hideaway](https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Hideaway](https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG) | 4:19 | 2023-08-04 |  |
 | [High](https://open.spotify.com/track/3AzYlyo9FhKyETJKQI84rm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Love Language](https://open.spotify.com/album/5mBIU2o4sxDhbSfxuInbh7) | 3:47 | 2023-05-19 |  |
 | [High Up](https://open.spotify.com/track/3TcW4ih5EdzgMQd6tpfYEi) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Solaris](https://open.spotify.com/album/2iahJWQ2C6dwPj2oXG37FP) | 3:00 | 2022-02-18 |  |
 | [High Up](https://open.spotify.com/track/54pog56aKXKPjvSLNVpE61) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Solaris](https://open.spotify.com/album/6MH9mIU41lFyM7hw7EU17w) | 3:00 | 2021-10-22 | 2022-10-13 |

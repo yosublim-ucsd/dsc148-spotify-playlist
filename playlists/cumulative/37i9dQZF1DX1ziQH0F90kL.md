@@ -4,7 +4,7 @@
 
 > Hoy es noche de...
 
-257 songs - 15 hr 25 min
+258 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bora Bora](https://open.spotify.com/track/0DlxKvlTkBtWr6vnHVcWQm) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Bora Bora](https://open.spotify.com/album/0vaSbVCQgVtVT8ARtkDu5f) | 2:31 | 2023-03-17 | 2023-06-06 |
 | [BORRACHA](https://open.spotify.com/track/0UgEClHQLTnJtDX00L1wlA) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:37 | 2023-02-10 | 2023-03-26 |
 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 | 2022-05-10 |  |
+| [Cabaña](https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Los Patos Feos Inc](https://open.spotify.com/artist/5ys86BAZteP8RpVCDmT4p5), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Cabaña](https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT) | 2:58 | 2023-08-04 |  |
 | [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 | 2023-02-10 |  |
 | [Callaita](https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Callaita](https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7) | 4:10 | 2021-12-30 | 2022-07-29 |
 | [Callaita](https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:10 | 2022-12-08 | 2023-02-11 |
@@ -234,7 +235,7 @@
 | [Súbelo](https://open.spotify.com/track/3fHEwAssCgM4wJYdjT5Ch0) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Súbelo](https://open.spotify.com/album/2l929YaQMj0eFvPMMB4xyq) | 3:59 | 2023-02-10 |  |
 | [Tengo una Punto 40](https://open.spotify.com/track/5zsatbvXqrPSx6vid6c8Sf) | [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Gringo](https://open.spotify.com/artist/29cNzWXrkNaGVL74hZK0jU) | [Playero 40 New Era](https://open.spotify.com/album/6R1g9oipVOkjxwFsc1R2vB) | 2:37 | 2022-12-08 | 2023-02-11 |
 | [Travesuras](https://open.spotify.com/track/2etJ67Egf7woMgOikVrlJM) | [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno) | [Travesuras](https://open.spotify.com/album/6aKBvPUoqy0brM7geYXPLn) | 3:24 | 2021-12-30 | 2022-12-08 |
-| [Tsunami \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/track/0CS9Ypgubqau2INA8SFinq) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [The Love & Sex Tape](https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh) | 4:02 | 2023-02-10 |  |
+| [Tsunami \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/track/0CS9Ypgubqau2INA8SFinq) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [The Love & Sex Tape](https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh) | 4:02 | 2023-02-10 | 2023-08-05 |
 | [Tu Príncipe](https://open.spotify.com/track/0Q7ZM15J0cJA9rd7pQYdRq) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im) | 3:25 | 2021-12-30 | 2022-07-29 |
 | [Tu Príncipe](https://open.spotify.com/track/2FNqnsX74ZlwduUAcnmzee) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:25 | 2022-06-02 | 2023-02-11 |
 | [TU SABES DONDE VIVO](https://open.spotify.com/track/5RgSwK9Y13567fta5goKTz) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 2:50 | 2023-02-10 |  |

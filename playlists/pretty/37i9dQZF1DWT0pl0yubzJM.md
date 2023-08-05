@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,981 likes - 35 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,992 likes - 35 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 34 | [Emoción Diamante](https://open.spotify.com/track/0rUb5mvK44ldO7PvhYRLHR) | [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Miss Universo](https://open.spotify.com/album/3iuxk4D9W1vq5oH2apy3hy) | 3:48 |
 | 35 | [Manzana de Metal](https://open.spotify.com/track/34o7cYPQGPVxSfsSk5w6lE) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Nada Es Exacto Salvo la Medida de los Sueños](https://open.spotify.com/album/1n2cKxKtxlIRvzTIkShvNM) | 5:18 |
 
-Snapshot ID: `MCw1MTRjM2YwODA0NDYzNzU3N2IyYzI2ZjU1N2UzNzQ4MTA2MTZiNDEw`
+Snapshot ID: `MCw4YmJjMTAxZWZkZGQ2ZjdjZDQ0OGYzNjdjYTA4M2JlMDJmMmViZWU5`

@@ -4,7 +4,7 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-124 songs - 6 hr 58 min
+126 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [capturas de pantalla](https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [capturas de pantalla](https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL) | 3:26 | 2023-03-19 | 2023-05-09 |
 | [Caña Brava](https://open.spotify.com/track/0hy6YsimguNescPjjijro0) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Caña Brava](https://open.spotify.com/album/02aqlW1aBYEyhEC4I6lW42) | 3:01 | 2023-03-19 | 2023-05-26 |
 | [Cherokee](https://open.spotify.com/track/3TTdOAcCkDVru1F7QBK5xX) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cherokee](https://open.spotify.com/album/1AEQlsM7i3sn1evI9WKEJh) | 4:07 | 2023-07-16 |  |
+| [Climax](https://open.spotify.com/track/44rBnwPtuBSZTKUhjChFvI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [Climax](https://open.spotify.com/album/2C7rex6fcBtRICYrdOKxEz) | 2:28 | 2023-08-04 |  |
 | [Como Si Nada](https://open.spotify.com/track/3qeEnBDyql3BF8ZRo1fbSU) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Como Si Nada](https://open.spotify.com/album/3gaqW9uYFzUf8Ah2tggT5K) | 3:30 | 2023-04-26 | 2023-07-30 |
 | [Confuso](https://open.spotify.com/track/2Rl03TiPufCJyuv7v7DqAz) | [Dawn Haze](https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U) | [Confuso](https://open.spotify.com/album/2QuwIFRO0WUW6NQu2kF0I3) | 3:18 | 2023-03-19 | 2023-04-19 |
 | [Confuso](https://open.spotify.com/track/7zYdwyOOjJdfk0mfz1yWA4) | [Dawn Haze](https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U) | [Confuso](https://open.spotify.com/album/4U7ZiteMO7A6zIVlFJA8fG) | 3:18 | 2023-04-10 | 2023-05-09 |
@@ -41,8 +42,9 @@
 | [Crece y florece](https://open.spotify.com/track/4nvsfC0OSATtI6qMG0dMeL) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [GUACHA](https://open.spotify.com/album/5BLXqlpjgmJ7XeBB0cQZzT) | 2:54 | 2023-03-30 | 2023-06-26 |
 | [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 | 2023-03-19 | 2023-05-15 |
 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 | 2023-08-02 |  |
+| [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 | 2023-08-04 |  |
 | [Cómplices](https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cómplices](https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE) | 3:39 | 2023-04-14 | 2023-07-15 |
-| [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 | 2023-05-14 |  |
+| [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 | 2023-05-14 | 2023-08-05 |
 | [Dark](https://open.spotify.com/track/0CyE5fPcOtpkstZVW1cFxj) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [FLAPS](https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn) | 3:46 | 2023-03-29 | 2023-06-25 |
 | [De Vos](https://open.spotify.com/track/10umep0TNyuFyhKfx0z1Ew) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [De Vos](https://open.spotify.com/album/2dSepJ6uUSD9yE2LHUBAxy) | 4:57 | 2023-03-27 | 2023-06-24 |
 | [Debut](https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Debut](https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe) | 2:29 | 2023-07-28 |  |
@@ -122,7 +124,7 @@
 | [Soy un volcán](https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Luz de perla](https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY) | 2:49 | 2023-04-19 | 2023-07-23 |
 | [Sueño con Encontrarte](https://open.spotify.com/track/6xtw2JpsQkoYyeqsIXmKPR) | [Güili](https://open.spotify.com/artist/1P4R6sU4WSNcitkFlLawvK), [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Sueño con Encontrarte](https://open.spotify.com/album/6EeLJzNkjT9o3i26SNL1Ag) | 3:19 | 2023-07-19 |  |
 | [SUFICIENTEPUNTOWAV](https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [1UNAMORSUPREMO](https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP) | 4:00 | 2023-07-29 |  |
-| [Tampoco Poco](https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Tampoco Poco](https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r) | 3:00 | 2023-05-12 |  |
+| [Tampoco Poco](https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Tampoco Poco](https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r) | 3:00 | 2023-05-12 | 2023-08-05 |
 | [Tarde](https://open.spotify.com/track/1ZclY4XEkj9cz9uqj2Ueqo) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Tarde](https://open.spotify.com/album/4TFbd9bF0VZlQQqPHHDUiM) | 2:49 | 2023-05-31 |  |
 | [Toda la Noche](https://open.spotify.com/track/4JqzimmrHYg2yOXY37SfwV) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:49 | 2023-04-22 | 2023-07-26 |
 | [TODO LO QUE SIENTO](https://open.spotify.com/track/69Vd4QzGVEP9r3ayG346cn) | [dieglitter](https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg), [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN) | [TODO LO QUE SIENTO](https://open.spotify.com/album/1cj95fbqSnePtysJXnuzBd) | 3:12 | 2023-07-27 |  |

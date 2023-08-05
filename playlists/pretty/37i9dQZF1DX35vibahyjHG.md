@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > Listen to women at full volume\. Cover: <a href="https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD?si=a88783211a78482b"> Teni </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,023 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,067 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 47 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 |
 | 48 | [Pretty Mind](https://open.spotify.com/track/7EsEX8tntGi25knwAAx5jA) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Pretty Mind](https://open.spotify.com/album/5X2nm4gNZnJW4BO58wY7Zs) | 3:21 |
 | 49 | [Nani](https://open.spotify.com/track/4dj9HTABb7AGD4ocx9DLUx) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Nani](https://open.spotify.com/album/7LNH8B00PTKeB59xmdc2It) | 2:53 |
-| 50 | [Baddie](https://open.spotify.com/track/2Zw2XPLkBPGGN9uZpZT2r0) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [African Baddie](https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413) | 2:45 |
+| 50 | [Baddie](https://open.spotify.com/track/5AM21uaiIxLO8UG6VhMTbe) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [African Baddie](https://open.spotify.com/album/3Hq0h20QXGyrQWfdURFUPw) | 2:45 |
 | 51 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 |
 | 52 | [Co\-Star](https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Co\-Star](https://open.spotify.com/album/0FLajXxca41VLTunahQo9s) | 2:46 |
 | 53 | [Sail](https://open.spotify.com/track/26mrUHchbcgiCahub27gZY) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Sail](https://open.spotify.com/album/6QyzYTkLfUpToqNDd8SpSm) | 2:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 59 | [Temporary Love](https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Temporary Love](https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ) | 2:36 |
 | 60 | [NEW ID](https://open.spotify.com/track/5mH7eZfw6JegSV0Cr4yTlC) | [Moyoswrld](https://open.spotify.com/artist/5qydyw9umzN1IlybYsgPzR) | [NEW ID](https://open.spotify.com/album/0JbESFTgsAYBkaR0qa97fn) | 1:49 |
 
-Snapshot ID: `MCxkMWY1YzRmNzI2OWQ0MzljNjcwODMyMWQyNWQ3YWMwYWVkMGY2YjJj`
+Snapshot ID: `MCw5NzAzYjA2YjZhNmVhYTJkOTMyYzI3ZDI0YzA0ZjIwMzc1MWU0ZjRm`

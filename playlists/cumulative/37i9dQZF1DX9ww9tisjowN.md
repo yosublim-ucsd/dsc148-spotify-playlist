@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: Hikaru Utada \(宇多田ヒカル\)
 
-145 songs - 8 hr 22 min
+146 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [S'il vous plait](https://open.spotify.com/track/6NeSiZokIiQwJaqAID41Vy) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [ITEKOMA HITS](https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4) | 2:15 | 2023-05-09 |  |
 | [Samsa](https://open.spotify.com/track/3Su7tjUw5QbSBD5S3QFrWP) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [Samsa](https://open.spotify.com/album/6JvDXCgjEVlPNA34NlT3oH) | 3:32 | 2023-05-09 |  |
 | [Setsunano Chikai](https://open.spotify.com/track/1YKBiydKeMfqHXwDECHLU6) | [Neko Hacker](https://open.spotify.com/artist/2aQ9IoRPwXEhhBVj4wbS46), [由崎司](https://open.spotify.com/artist/57nGnwFiNGNY5t77bVWWw2) | [Setsunano Chikai](https://open.spotify.com/album/5RxLQesE8xz3LsCwyrLIDn) | 3:40 | 2023-05-09 | 2023-07-12 |
-| [Shambles](https://open.spotify.com/track/02uymGtd5fO1zlWqY0RK1b) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Shambles](https://open.spotify.com/album/38xpJSGkXHCndHFDHlQxBB) | 3:22 | 2023-08-03 |  |
+| [Shambles](https://open.spotify.com/track/02uymGtd5fO1zlWqY0RK1b) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Shambles](https://open.spotify.com/album/38xpJSGkXHCndHFDHlQxBB) | 3:22 | 2023-08-03 | 2023-08-05 |
+| [Shambles](https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Shambles](https://open.spotify.com/album/4hhkj6li1ULllYOZJHFt7w) | 3:22 | 2023-08-03 |  |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2023-05-09 |  |
 | [six feet under](https://open.spotify.com/track/1LNsuwA5ql2sUcbSgjX42q) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [six feet under](https://open.spotify.com/album/28JxzreIDNjj8KacsfV8Y1) | 3:37 | 2023-07-25 |  |
 | [Spica](https://open.spotify.com/track/3cwEY2BH2SALUHFeHLW4VM) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Spica](https://open.spotify.com/album/6skxVBdc3IvchpbUBZVZGC) | 2:45 | 2023-06-13 |  |

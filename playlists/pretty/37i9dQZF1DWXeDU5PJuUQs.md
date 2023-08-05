@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,856 likes - 64 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,919 likes - 64 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 21 | [Y Tu Te Vas / Pídeme](https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT) | [Y Tu Te Vas / Pídeme](https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ) | 5:50 |
 | 22 | [Perdoname / Te Quiero a Ti \- En Vivo](https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 4:29 |
 | 23 | [No Llores \- En Vivo](https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [En Vivo en el Gran Rex](https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx) | 2:57 |
-| 24 | [Entre el Cielo Vos y Yo \- En Vivo](https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Teatro del Huerto](https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL) | 4:20 |
-| 25 | [Madre Soltera \- En Vivo](https://open.spotify.com/track/1sW5XV58fHKTLB07WvrU69) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Bonita / Madre Soltera \(En Vivo\)](https://open.spotify.com/album/42RKKUdWT9eVM1OhLvFXfT) | 3:52 |
+| 24 | [Madre Soltera \- En Vivo](https://open.spotify.com/track/1sW5XV58fHKTLB07WvrU69) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Bonita / Madre Soltera \(En Vivo\)](https://open.spotify.com/album/42RKKUdWT9eVM1OhLvFXfT) | 3:52 |
+| 25 | [Entre el Cielo Vos y Yo \- En Vivo](https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Teatro del Huerto](https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL) | 4:20 |
 | 26 | [Como Podré](https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 4:38 |
 | 27 | [Amor Sin Fronteras](https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [10 Años Movistar Arena](https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4) | 4:03 |
 | 28 | [Persiana Americana \- En Vivo](https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:11 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 63 | [Era Tranquila \- En Vivo](https://open.spotify.com/track/0kHoDrq6IFIV5AAZRFOEQd) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Era Tranquila \(En Vivo\)](https://open.spotify.com/album/6T9HaCMIJRLkxmzZPEMdNF) | 3:57 |
 | 64 | [Me Olvide de Ti \- En Vivo](https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Me Olvide de Ti \(En Vivo\)](https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE) | 2:08 |
 
-Snapshot ID: `MCwzZDQxZTU4YzNmODE1OWM2MmQyMTg4M2FkOTZmNzFlZDEwZGUxZDli`
+Snapshot ID: `MCw0NWI0NmYyM2Q2YmY4ZDE2YWQyOTdmNjY1MjNkYWVmNDgzMDg1YjJk`

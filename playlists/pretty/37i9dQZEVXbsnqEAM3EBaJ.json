@@ -6,10 +6,26 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNzUyODAsMDAwMDAwMDA3NWU4N2IzMDIzMDU1NWQwYzdkYThlMmZlOGE0MzVkNA==",
+  "snapshot_id": "MjgxODUzNjAsMDAwMDAwMDBiYzkzYjc3NzAzZjM2YzZhNTA1NWYzNTk1NTY1NDg0OQ==",
   "tracks": [
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Ojos de Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/1T1hBoWhzLbRsfIHo3eDEy"
+      },
+      "artists": [
+        {
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "Ojos de Cielo - En Vivo",
+      "url": "https://open.spotify.com/track/6AzZlB6kqZ19ZywqRvwvF3"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Beaucoup de Rock'n'Roll (Live 1966)",
         "url": "https://open.spotify.com/album/3m3vukFkpww4qaxJU1ziZY"
@@ -25,7 +41,103 @@
       "url": "https://open.spotify.com/track/0rqJ1kJrTOhfujiGl3IM7r"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "The Lebanon",
+        "url": "https://open.spotify.com/album/3UMZ86HUxicc6lMVv7bVzK"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 249706,
+      "name": "Thirteen",
+      "url": "https://open.spotify.com/track/1yTOtki9JyA4oM1svzdE1K"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "A la Cima",
+        "url": "https://open.spotify.com/album/2oMah8AiP4OhAWJzzn1utD"
+      },
+      "artists": [
+        {
+          "name": "Dj Bitman",
+          "url": "https://open.spotify.com/artist/7FfKue3foqwcKAUi36xsh9"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "duration_ms": 142913,
+      "name": "A la Cima",
+      "url": "https://open.spotify.com/track/3Bnz6lDcPOUFT5IDgbZs4S"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Olive Tree (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/4umaFT788I6iVgnEO8OdcF"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 358900,
+      "name": "Olive Tree - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/3Eq9hqFwjfmKXzDr2P4IlF"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Imaginary Worlds",
+        "url": "https://open.spotify.com/album/1ChuHp9kRPlirbrvkfvxo1"
+      },
+      "artists": [
+        {
+          "name": "BVSMV",
+          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Imaginary Worlds",
+      "url": "https://open.spotify.com/track/6XkDo14yD9eKEcuQpRMgbM"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Them Belly Full (But We Hungry) (Feat. Rema & Skip Marley)",
+        "url": "https://open.spotify.com/album/4PrIjUOhymWHG83mEzDj1R"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "duration_ms": 190589,
+      "name": "Them Belly Full (But We Hungry) (Feat. Rema and Skip Marley)",
+      "url": "https://open.spotify.com/track/7fbQLuKMYfGpqK9f0OuQjg"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Vulindlela",
         "url": "https://open.spotify.com/album/5DATmwjbgb7HNRfHaIw8J2"
@@ -45,7 +157,7 @@
       "url": "https://open.spotify.com/track/4WoaqIsdUJmjPXHA4udr0P"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "The Unforgiven (Live at Metal Church)",
         "url": "https://open.spotify.com/album/5QyFNVsuF68vxRkiWNHv0t"
@@ -61,7 +173,7 @@
       "url": "https://open.spotify.com/track/4cyCR8VZK0r9by3qBA4BG6"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "A Love",
         "url": "https://open.spotify.com/album/0nNK36AnVwTjbNEt3vrrma"
@@ -77,23 +189,7 @@
       "url": "https://open.spotify.com/track/3fPfkDNKwefwabaDKEOioY"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Where The Shadows Fall (Live 1985)",
-        "url": "https://open.spotify.com/album/641Ptxo4mPGxsSu12hFiM3"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 251521,
-      "name": "Barracuda - Live 1985",
-      "url": "https://open.spotify.com/track/0PB5asiVnUI2n9Uf1CasUy"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "skin in the game",
         "url": "https://open.spotify.com/album/1EYRoDy36KEklMF2LJRnZb"
@@ -109,7 +205,7 @@
       "url": "https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "The Ballad of Darren",
         "url": "https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU"
@@ -125,7 +221,7 @@
       "url": "https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "White Line Frankenstein",
         "url": "https://open.spotify.com/album/5XodKvil0Thw2XAMBFAuxv"
@@ -141,7 +237,7 @@
       "url": "https://open.spotify.com/track/00RqWw41Rtiwu43KPWEucZ"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "A Veces Bien a Veces Mal",
         "url": "https://open.spotify.com/album/20OrFsDu55gkVr7dY5JUjy"
@@ -165,39 +261,7 @@
       "url": "https://open.spotify.com/track/1py1Q70o23MDIghZWTVzE9"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "So Much (Bright-Side Mix)",
-        "url": "https://open.spotify.com/album/7iS7A36j8O5TyIvJrk7LDu"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 290948,
-      "name": "So Much - Bright-Side Mix",
-      "url": "https://open.spotify.com/track/5cJ31Zc5IUlrwjF7fs6C5D"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Louise",
-        "url": "https://open.spotify.com/album/1rzck41dXGPFnOnLcN66Sr"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 315546,
-      "name": "The Sign - Extended Remix",
-      "url": "https://open.spotify.com/track/7AeooPeVsCx5CZdsGuFXLJ"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "July: Reaper's Song from The Seasons, Op. 37a",
         "url": "https://open.spotify.com/album/6hSGHwJohK7KZjb3amiVaI"
@@ -217,7 +281,7 @@
       "url": "https://open.spotify.com/track/5Kqgvp1YuW7vxMyYaIZc9i"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Mercedes Florecida",
         "url": "https://open.spotify.com/album/6TNLGCfPxkO3FEoZsoO2sm"
@@ -349,7 +413,7 @@
       "url": "https://open.spotify.com/track/2t3gWLQHM4ef0aOREBvcNA"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "I Ran (So Far Away) (BENZI & Remy Heart Remix)",
         "url": "https://open.spotify.com/album/2KqOaWlS4KZP45QRaIq5bs"
@@ -373,7 +437,7 @@
       "url": "https://open.spotify.com/track/6BzW96h3u4OlaVCMndXRYb"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Give It To Me (Demo)",
         "url": "https://open.spotify.com/album/7oOYddAiFE10K6tmXvVIGa"
@@ -389,7 +453,7 @@
       "url": "https://open.spotify.com/track/3Am8LuNaOHc9nPnBSZZIc5"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Moon River / How Could We Know",
         "url": "https://open.spotify.com/album/1qEvo5oupbjyJt2tdgnAZT"
@@ -417,7 +481,7 @@
       "url": "https://open.spotify.com/track/3pG0Hh8ANhVjFmFOe0yd5x"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Rigor Mortis Radio",
         "url": "https://open.spotify.com/album/5c8XabOTIVdkm39NkdAUJv"
@@ -433,7 +497,7 @@
       "url": "https://open.spotify.com/track/006xBsccJhHkcrdUILF1cP"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Verbal Style",
         "url": "https://open.spotify.com/album/5eLRKuyiFHlkgLWwRM575h"
@@ -453,7 +517,7 @@
       "url": "https://open.spotify.com/track/167WExAUvXCcsBadPA8Rzy"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "ACUARIO",
         "url": "https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr"
@@ -473,7 +537,7 @@
       "url": "https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Something Changed (Water From Your Eyes Interpolation)",
         "url": "https://open.spotify.com/album/4HJm5HpEQ6Jg8KHvnsj2q3"
@@ -493,7 +557,7 @@
       "url": "https://open.spotify.com/track/2rf3akXQqFEu41Ca3bJyNV"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "It's a Man's World (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4mXTpvVCAnAsDjdI2Pe9vr"
@@ -513,7 +577,7 @@
       "url": "https://open.spotify.com/track/6pDCfwTeLNAbzhKJlue7Qx"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "I Inside the Old Year Dying",
         "url": "https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK"
@@ -529,7 +593,7 @@
       "url": "https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Just Keep Walking",
         "url": "https://open.spotify.com/album/08EghP7gePBZhPDcHrCOoz"
@@ -549,7 +613,7 @@
       "url": "https://open.spotify.com/track/2eJpVwx1uaVHsx7gSPEuml"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Owner of a Lonely Heart (Luca Olivotto Remix)",
         "url": "https://open.spotify.com/album/0l7IWuiamXvc38w2U7qfOA"
@@ -569,7 +633,7 @@
       "url": "https://open.spotify.com/track/2NBiXi2nSS40Y1e73wlM7q"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Cities (Live) [2023 Remaster]",
         "url": "https://open.spotify.com/album/03Fwgxoot2pqsSaPcyxKcu"
@@ -585,7 +649,7 @@
       "url": "https://open.spotify.com/track/7kco4eWA4nien0eAwroiDe"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Wagging Tongue (Remixes)",
         "url": "https://open.spotify.com/album/3Oc7qOr81qHQIfNMjdEU1H"
@@ -605,7 +669,7 @@
       "url": "https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Speak Now (Taylor's Version)",
         "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
@@ -621,7 +685,7 @@
       "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Oh, Dolores (From \"The Horror of Dolores Roach\")",
         "url": "https://open.spotify.com/album/5u5IZfyru5RH4IGydHNHMU"
@@ -637,7 +701,7 @@
       "url": "https://open.spotify.com/track/22zLM7Qgh4Y6bmxb7ejpSy"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Monsters (feat. Aaron Gillespie of Underoath)",
         "url": "https://open.spotify.com/album/6U38G1MIHJteOtidVTLSJ2"
@@ -661,7 +725,7 @@
       "url": "https://open.spotify.com/track/26bgULl57xDw3Pska642zL"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "All A Share Together Now",
         "url": "https://open.spotify.com/album/4buyOrbqG380Urv8cdCH4i"

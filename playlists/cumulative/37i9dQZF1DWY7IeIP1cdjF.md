@@ -2,9 +2,9 @@
 
 ### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
 
-> Reggaeton hits from Darell, Feid, Quevedo and more.🔥🥵
+> Reggaeton hits from NATTI NATASHA, Feid, Quevedo and more.🔥🥵
 
-305 songs - 17 hr 16 min
+307 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [En Bajita](https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [En Bajita](https://open.spotify.com/album/77hesD3v2jWR2dnhElz9Yp) | 3:29 | 2023-03-17 | 2023-06-10 |
 | [En La De Ella](https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [En La De Ella](https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH) | 3:50 | 2022-10-21 | 2023-03-18 |
 | [En Llamas](https://open.spotify.com/track/4C9lz7XcINbbknMDsc23LC) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [En Llamas](https://open.spotify.com/album/2jfQbOscs3B8J8OWuDuFts) | 3:41 | 2023-07-28 | 2023-08-02 |
-| [En To Lao](https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA) | [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [En To Lao](https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl) | 3:15 | 2023-06-09 |  |
+| [En To Lao](https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA) | [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [En To Lao](https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl) | 3:15 | 2023-06-09 | 2023-08-05 |
 | [Entendemos](https://open.spotify.com/track/2Pz9DnS04JtX70gERPeorz) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Sistema](https://open.spotify.com/album/0kDg1ceIubRuJHXyIRGrBM) | 3:33 | 2021-12-24 | 2022-02-05 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-03-11 | 2022-11-14 |
 | [Envolver Remix](https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Envolver Remix](https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY) | 3:02 | 2022-03-04 | 2022-03-12 |
@@ -194,6 +194,7 @@
 | [Niña Bonita](https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Niña Bonita](https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB) | 3:07 | 2023-04-28 |  |
 | [Niña de Mis Sueños](https://open.spotify.com/track/5R70etCKr7FOqdTqnohNfT) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Niña de Mis Sueños](https://open.spotify.com/album/1EXy8WlpTf6BU7J2XLyjVG) | 2:41 | 2022-01-21 | 2022-01-29 |
 | [No Es Normal](https://open.spotify.com/track/2g13NghX82C4oR0Wmz7asw) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Always Dream](https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w) | 3:38 | 2022-07-22 | 2022-10-22 |
+| [NO PARE](https://open.spotify.com/track/4cEYQceQjgsi0hZZQQWhXp) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NO PARE](https://open.spotify.com/album/7Cox5cc0YmFSLTMElICoW8) | 2:35 | 2023-08-04 |  |
 | [No Pinto Pajaritos](https://open.spotify.com/track/3uvgwwqNvWHc7S32PvPD7r) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [No Pinto Pajaritos](https://open.spotify.com/album/65w3z9tO7ZFDYP8QH9tsPh) | 2:25 | 2023-02-03 | 2023-04-09 |
 | [NO SE OLVIDA](https://open.spotify.com/track/49qCDjCcu8OvKlSDBYDzHv) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [NO SE OLVIDA](https://open.spotify.com/album/0HVoLSZFWBp9F5JbiWrJqA) | 4:10 | 2022-02-10 | 2022-08-06 |
 | [Noche de Teteo](https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Noche de Teteo](https://open.spotify.com/album/5Qt0bEk7a3RONCNxHJIFdx) | 3:22 | 2022-05-20 | 2022-08-27 |
@@ -205,6 +206,7 @@
 | [Numero 1](https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Numero 1](https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6) | 2:44 | 2022-05-06 | 2022-06-22 |
 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 | 2022-06-24 | 2022-09-03 |
 | [Ojos Rojos](https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Ojos Rojos](https://open.spotify.com/album/4Vk8xZfdH45J2gDHs3lSjY) | 2:32 | 2022-01-28 | 2022-05-20 |
+| [Otra Vibra](https://open.spotify.com/track/7aprD0hcQ0dr3efnJCrJI5) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Otra Vibra](https://open.spotify.com/album/0Dcd0VT52oXwUldW3jEaoS) | 3:27 | 2023-08-04 |  |
 | [Otro](https://open.spotify.com/track/2VZmXemWIKoKxJjbA2WHJE) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Otro](https://open.spotify.com/album/0eGqUAZJxkm2QJkZx9iXpp) | 3:28 | 2022-02-04 | 2022-03-25 |
 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 | 2022-07-01 | 2023-04-29 |
 | [Pa'nama](https://open.spotify.com/track/5H36TeVC5aQnsvFhhzw9xZ) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Pa'nama](https://open.spotify.com/album/5UWoOpd0zEfASNiJUZqBD5) | 3:31 | 2021-12-24 | 2022-01-22 |

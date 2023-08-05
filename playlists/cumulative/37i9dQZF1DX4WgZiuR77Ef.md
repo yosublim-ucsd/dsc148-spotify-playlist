@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-207 songs - 14 hr 29 min
+208 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [On The Back Foot](https://open.spotify.com/track/1A7DTW3JyeCdUDpIqZS9fm) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Tyler Flowers](https://open.spotify.com/artist/2oMNeoWmefA167itF7EVZY) | [On The Back Foot](https://open.spotify.com/album/17ReFzA4bABwTN7tOghfwG) | 3:20 | 2022-03-11 |  |
 | [On The Road Again](https://open.spotify.com/track/1a0MoIIXDUQc25MgthHkc7) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Phil Diamond](https://open.spotify.com/artist/1bmzAwkc0MMIF97kzIiQC3) | [On The Road Again](https://open.spotify.com/album/7kK7tQRObUnzntktndeU0R) | 5:41 | 2023-04-28 |  |
 | [On To The Next One](https://open.spotify.com/track/0iIHi4PR5RNS97qDFDYEzG) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [On To The Next One](https://open.spotify.com/album/6JlZ30MIRDya1ejygqMk47) | 2:48 | 2022-10-07 |  |
+| [Pacific Beat](https://open.spotify.com/track/1d5GjJMyiHMqcZ9GcOHJlW) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Jamie Allensworth](https://open.spotify.com/artist/7CbRQq2vD9mZ39Vms6KOdn) | [Pacific Beat](https://open.spotify.com/album/7lpnPu3Xi19seQAFnFSPw1) | 4:23 | 2023-08-04 |  |
 | [Pacified](https://open.spotify.com/track/0POKng0AB6Z2PjFYQo2B3U) | [Soul Scratch](https://open.spotify.com/artist/5cYmc8pLfRYlL4Nc0QgiSC) | [Pacified](https://open.spotify.com/album/06AfRhGOhpariZKWGtp43p) | 3:19 | 2020-10-30 | 2022-04-09 |
 | [Paint The Toon \(feat\. Connie Lush\)](https://open.spotify.com/track/2INsiycUgobLSy4ksO4MzK) | [6ix Toys](https://open.spotify.com/artist/7k5NMuaLXe6SFdklcTWvXl), [Connie Lush](https://open.spotify.com/artist/24xmEoZir6fOrshgPLirzS) | [6IX Toys](https://open.spotify.com/album/6npwwHTOkAwTXSd54CKp3u) | 5:08 | 2020-10-30 | 2022-04-09 |
 | [Perpetual Conduit of Positivity](https://open.spotify.com/track/5Zx3OUrH7UjnDPkVGlQpnV) | [Mojoflo](https://open.spotify.com/artist/4aFQlnbkc73QGmqlw5N9ED) | [Perpetual Conduit of Positivity](https://open.spotify.com/album/2CQXUHTqVMPts2S6TxHQaC) | 5:51 | 2020-10-30 | 2023-04-29 |
@@ -178,7 +179,7 @@
 | [The Love You Left Behind \(feat\. Alecia Chakour\)](https://open.spotify.com/track/31pQtFVYEWAIkYPjSzz4nM) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Alecia Chakour](https://open.spotify.com/artist/49MxdIjguRArh8pGBsNTbt) | [Mt\. Crushmore](https://open.spotify.com/album/1nTtZzqe4MeFmYqq9x1ewU) | 3:42 | 2020-10-30 | 2022-04-09 |
 | [The Otherside](https://open.spotify.com/track/1kmG1FzXoSMO0ud1lbdYef) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa), [connor](https://open.spotify.com/artist/7DdiQ4GtU0voZdZKPzFKFl) | [The Otherside](https://open.spotify.com/album/0o6BEeeV5E3a8pCubnPBm4) | 3:56 | 2022-02-11 |  |
 | [The Truth](https://open.spotify.com/track/226pEjWaakamKLxnoTSaVF) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Connection](https://open.spotify.com/album/2mJeeTdHdYNwyB2xdKT4fj) | 4:07 | 2020-10-30 | 2022-07-29 |
-| [The Truth](https://open.spotify.com/track/3dzZG5Snplh8mq1HO7v4Sd) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Connection](https://open.spotify.com/album/5Tp94nlIqgi6933CP5zoG8) | 4:07 | 2020-10-30 |  |
+| [The Truth](https://open.spotify.com/track/3dzZG5Snplh8mq1HO7v4Sd) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Connection](https://open.spotify.com/album/5Tp94nlIqgi6933CP5zoG8) | 4:07 | 2020-10-30 | 2023-08-05 |
 | [The Wild Root](https://open.spotify.com/track/1PS0E4x777UMWqm47foX5W) | [Alan Evans Trio](https://open.spotify.com/artist/782YLYIMEd3KKv9V7IPvBi) | [The Wild Root](https://open.spotify.com/album/16gMFgpe8afNzvjybEd2cj) | 4:00 | 2020-10-30 | 2022-04-09 |
 | [The Wolf](https://open.spotify.com/track/27iGHkO0uIiMgHuwLNlPup) | [The Spencer Lee Band](https://open.spotify.com/artist/3nIzSJRQzH8v2DFs7iaXDi) | [The Spencer Lee Band](https://open.spotify.com/album/2TuywyPv1tT2IglXMUQFCf) | 2:54 | 2020-10-30 | 2022-04-09 |
 | [Turn up the Sound](https://open.spotify.com/track/3xDvyv5KF5Jvnycgutrgb9) | [The Brooks](https://open.spotify.com/artist/7GnRzYsBXvLyhcdFEtCAei) | [Turn up the Sound](https://open.spotify.com/album/29y8juHtLWWahTrNE7A6uz) | 3:49 | 2020-10-30 |  |

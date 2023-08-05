@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 
 > Chaos in electronic form.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,635 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,683 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What Do You Feel](https://open.spotify.com/track/4aoXyc65wTNDw4kQE8cS0V) | [Talik](https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz) | [Wood & Water](https://open.spotify.com/album/0rIY5iFDlZ2Yiqy41tBxOj) | 4:17 |
 | 2 | [wondering dub](https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [wondering dub](https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f) | 2:07 |
-| 3 | [E70 No\. 01](https://open.spotify.com/track/01iglyLhCYZYlCqAxY8Vfz) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 2:42 |
-| 4 | [In der Stadt und auf dem Land](https://open.spotify.com/track/5RpoUzFpBM0EMSet3Mzldw) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 3](https://open.spotify.com/album/4ZAtlPjTyeQeptFlp38oez) | 2:16 |
+| 3 | [In der Stadt und auf dem Land](https://open.spotify.com/track/5RpoUzFpBM0EMSet3Mzldw) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 3](https://open.spotify.com/album/4ZAtlPjTyeQeptFlp38oez) | 2:16 |
+| 4 | [E70 No\. 01](https://open.spotify.com/track/01iglyLhCYZYlCqAxY8Vfz) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 2:42 |
 | 5 | [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/track/5c56mfcwKfh788koF3CCRy) | [Nina Keith](https://open.spotify.com/artist/1nuCYFGzi0e4xb8lE18m2i), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g), [Qur'an Shaheed](https://open.spotify.com/artist/6zYf3M745APT179QsjrlB4) | [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/album/0Hn0apOsWV86eg8YDjsMAB) | 4:46 |
 | 6 | [Metropole](https://open.spotify.com/track/4CuUaiTclsHkpsYTfS7g0J) | [Stone Giants](https://open.spotify.com/artist/6Z9PPhoezsXDDnYdrF8HxI), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [West Coast Love Stories](https://open.spotify.com/album/5wQIX8UTy8aPbxUnen3324) | 3:40 |
 | 7 | [Of Air](https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Of Air](https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX) | 3:08 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 24 | [Marking Time](https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 4:30 |
 | 25 | [Ziad Jarrah Studied Mathematics](https://open.spotify.com/track/6FvJujsc00pC1umLOUN9gK) | [Vatican Shadow](https://open.spotify.com/artist/1b6p8KZ14dw35fuIuDWQNV) | [Media in the Service of Terror](https://open.spotify.com/album/321TLbC07nx2E9qg1LyYpw) | 4:50 |
 | 26 | [Senhor Zalla](https://open.spotify.com/track/2veEIrSGcCszmVKyEuiIVd) | [Shelter](https://open.spotify.com/artist/3k2mZ2vmhiARdgLHAuCkGT) | [Zon Zon Zon](https://open.spotify.com/album/7fUIL0vt55dn93nWfRgBWj) | 5:08 |
-| 27 | [Urban Myth](https://open.spotify.com/track/2k2mzXBWNGgyUFaoloLFfM) | [Iglew](https://open.spotify.com/artist/7losew6I5eFiELv8kHRk1x) | [Urban Myth](https://open.spotify.com/album/3FkIMzwA0Y08PaCoyyuIjt) | 4:13 |
-| 28 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 |
+| 27 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 |
+| 28 | [Urban Myth](https://open.spotify.com/track/2k2mzXBWNGgyUFaoloLFfM) | [Iglew](https://open.spotify.com/artist/7losew6I5eFiELv8kHRk1x) | [Urban Myth](https://open.spotify.com/album/3FkIMzwA0Y08PaCoyyuIjt) | 4:13 |
 | 29 | [Lost and Found \(Lost Mix\)](https://open.spotify.com/track/0t0hsYPyMuE4siG7GkDded) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Cocoon Crush](https://open.spotify.com/album/2vE3mTa7olXTXbHb6t2XjE) | 2:32 |
 | 30 | [Berries](https://open.spotify.com/track/19g98vnDqahXd7VuPx6LaF) | [Kapitan](https://open.spotify.com/artist/0d1tWd8tcaMhKHn8fHKgY9) | [Alaska](https://open.spotify.com/album/41Kfl8Sn5L2S6blNTeB4lY) | 3:12 |
 | 31 | [Wild Chamber](https://open.spotify.com/track/64jAqN4KeoMaiX11EXvXF4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Wild Chamber](https://open.spotify.com/album/7ow4bpiILldUbu975NRIx4) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 49 | [Aurelie \(Lido Pimienta Remix\)](https://open.spotify.com/track/0vFdrzcSex0hPwLnw3SFa1) | [Lou Canon](https://open.spotify.com/artist/2ZKNwYmNk7NS0oSNq5AieB), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Aurelie \(Lido Pimienta Remix\)](https://open.spotify.com/album/42imqapebSrpDVOjETHCnN) | 4:18 |
 | 50 | [Coris](https://open.spotify.com/track/1G5b1MCRsBsC9T53vv5SH9) | [OVSICORI](https://open.spotify.com/artist/0MVM5Khj39EkpVtLvU9Ujp) | [Bucle](https://open.spotify.com/album/0e2ihe6UiQ1SL73u98L98b) | 7:00 |
 
-Snapshot ID: `MCwxZjc0ZTg4M2FjY2U2YzExODQ3ODIxMjBiZDZmZTBhYjY2ZjUyY2Uy`
+Snapshot ID: `MCwxZjcwNGNkYWFjOWY2NTczMTRhOTUxZjA1NDQwZTViNjg5ZDIxZTg0`

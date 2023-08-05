@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-241 songs - 13 hr 10 min
+242 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/track/3nigSojrGL9YcS9RIt8X8U) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG) | 2:40 | 2023-04-21 |  |
 | [Love Makes You Blind \- Acoustic Version](https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo) | 2:40 | 2022-02-18 | 2022-10-22 |
 | [Loved Me That Way \(stripped\)](https://open.spotify.com/track/3vun63TsuIR6XBEqkuUaoL) | [Lauren Duski](https://open.spotify.com/artist/65Soberz2DNvbx2hrxHcx5) | [Loved Me That Way \(stripped\)](https://open.spotify.com/album/3fxgcZrlq630IxBTSacg7o) | 3:42 | 2021-12-17 | 2023-02-18 |
-| [Made \(Wedding Version\)](https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Made \(Wedding Version\)](https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA) | 3:35 | 2023-04-14 |  |
+| [Made \(Wedding Version\)](https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Made \(Wedding Version\)](https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA) | 3:35 | 2023-04-14 | 2023-08-05 |
 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 | 2021-12-17 | 2022-01-08 |
 | [Magic \- Acoustic Live In Studio](https://open.spotify.com/track/0otRit89LPUUlSOzlxVYyZ) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Magic \(Acoustic Live In Studio\)](https://open.spotify.com/album/7jxeRus7q2xwuLCaDEWUAf) | 3:00 | 2022-08-12 | 2022-09-09 |
 | [Maybe Someday You’ll Have A Daughter](https://open.spotify.com/track/5aAxEw0OECrXeGQqcyPxNV) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Primrose](https://open.spotify.com/album/651HDTxsDlfqeeK7oHWXum) | 3:28 | 2023-05-19 | 2023-07-16 |
@@ -164,6 +164,7 @@
 | [Prayed For You \- Wedding Version](https://open.spotify.com/track/3nxrXt836ZmhwhOj3bwtNX) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Prayed For You \(Wedding Version\)](https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO) | 3:25 | 2022-07-15 |  |
 | [Pretty Little Poison \- Piano Version](https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison \(Piano Version\)](https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb) | 3:36 | 2023-05-12 |  |
 | [Relationship Goals \- Acoustic Version](https://open.spotify.com/track/3TLF5siBrncY5Jm4NRDOEG) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Relationship Goals \(Acoustic Version\)](https://open.spotify.com/album/6wGaKFmXR6A2UaeSa3Lx0u) | 2:47 | 2022-01-14 | 2022-07-19 |
+| [Religiously \- Religiously\. The Acoustic Sessions.](https://open.spotify.com/track/6N7kZBEu0O7wckERy2XqWM) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously \(Religiously\. The Acoustic Sessions.\)](https://open.spotify.com/album/1Oa74VQMAtnNj7HGxXZLyO) | 2:58 | 2023-08-04 |  |
 | [Rock and A Hard Place \- Acoustic](https://open.spotify.com/track/1QLMOpJ9hjifk5pEiJdXMN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place \(Acoustic\)](https://open.spotify.com/album/1jp5itCaZpsTO6aK9KQH4R) | 3:27 | 2022-07-15 |  |
 | [Save The Roses \(Acoustic\)](https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Save The Roses \(Acoustic\)](https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N) | 3:17 | 2023-06-16 |  |
 | [Secret \- Gravel Drive Sounds](https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Secret \(Gravel Drive Sounds\)](https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG) | 3:45 | 2021-12-17 |  |

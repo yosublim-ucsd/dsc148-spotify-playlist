@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-476 songs - 1 day 2 hr 45 min
+479 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,8 +113,10 @@
 | [Do You Want My Love](https://open.spotify.com/track/7jwdL5htUUWezSZllV5l23) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [This Can’t Be Everything](https://open.spotify.com/album/0S3K3wCAeOAzHueZHDlM1f) | 4:28 | 2022-08-19 | 2023-01-30 |
 | [Doctor](https://open.spotify.com/track/5UenHnGCK9aY3VdHuwm1FZ) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Doctor](https://open.spotify.com/album/6z2IbCqkj2layBN9GRgyfK) | 3:10 | 2022-01-21 | 2022-02-16 |
 | [Dodgeball \(Lightyear Remix\)](https://open.spotify.com/track/39nJPEdkQzSFakgt1mZ3V8) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Lightyear](https://open.spotify.com/artist/1rJ2jr0BuFv7RGACToKrKc) | [Dodgeball \(Lightyear Remix\)](https://open.spotify.com/album/4xX8Pab64QMnsSRuOWndRr) | 2:46 | 2022-06-30 | 2022-09-19 |
+| [Doin' Fine](https://open.spotify.com/track/21IEP05e11FUtTHgi1azuj) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [Doin' Fine](https://open.spotify.com/album/5nFIBGaI1Hx9U25UIQ0UF3) | 3:27 | 2023-08-04 |  |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-31 | 2022-03-10 |
 | [Don't Kick Me](https://open.spotify.com/track/2zJFeCI8KtP0Olwf3W3w8R) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Don't Kick Me](https://open.spotify.com/album/6XrzH0s8ghY4hwIwmsunAx) | 3:27 | 2021-12-07 | 2022-01-08 |
+| [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu) | 3:25 | 2023-08-04 |  |
 | [DON'T SAY](https://open.spotify.com/track/6jQBmXtAN72QaNfZOiHPqr) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [DON'T SAY](https://open.spotify.com/album/4PghAYxdIdxNBQXILY3UVq) | 3:37 | 2023-01-20 | 2023-07-20 |
 | [Don’t Go Mad \(feat\. Seinabo Sey\)](https://open.spotify.com/track/3Cl8IGVb7E63EDIXTn5Pk7) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:24 | 2022-04-18 | 2022-11-23 |
 | [Don’t Leave Me Alone](https://open.spotify.com/track/0sts2lyM27TXVhRUo5uTEx) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Don't Leave Me Alone](https://open.spotify.com/album/4ehmsm1IQXNEF0Va8RHc5z) | 3:02 | 2022-04-21 | 2022-06-25 |
@@ -305,6 +307,7 @@
 | [NOT YOUR GUY](https://open.spotify.com/track/4oUTs1BJ5YFltx2PnUdD2y) | [Robokid](https://open.spotify.com/artist/3n7KOlGKfaR8KKKSkC4tA3) | [NOT YOUR GUY](https://open.spotify.com/album/46EJol667xsMTmS2KotaDy) | 2:10 | 2021-11-08 | 2022-01-08 |
 | [Nothing Good Comes Easy](https://open.spotify.com/track/1m66iYSRv0qEQBo0RqyPaw) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Nothing Good Comes Easy](https://open.spotify.com/album/0YTq3BQL2BoHNIrcnGn3sm) | 2:54 | 2022-02-15 | 2022-03-10 |
 | [Nothing On Me](https://open.spotify.com/track/2xVQdYjh1Lul8dHAlas6W2) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Nothing On Me](https://open.spotify.com/album/6Fs2nzfKvHQTtUy00L7slL) | 2:34 | 2022-03-17 | 2022-03-31 |
+| [Nowhere](https://open.spotify.com/track/31gMxpu8lSWdIBayKt5ED3) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [Nowhere](https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz) | 3:13 | 2023-08-04 |  |
 | [NW3](https://open.spotify.com/track/06mXSNndoxDKhzwFqt1GP6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [NW3](https://open.spotify.com/album/16Z9PQxHXHZA2naPJsjbff) | 3:53 | 2022-01-31 | 2022-03-10 |
 | [Obvious](https://open.spotify.com/track/4HLRMq9E9fSGFUEDI8uzQt) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP), [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [Obvious](https://open.spotify.com/album/5NHElSsTfLHGqQf64xBAtP) | 2:11 | 2021-11-12 | 2022-01-08 |
 | [Octavia](https://open.spotify.com/track/5jvIE049KDxFEGJdbKOA7Q) | [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Octavia](https://open.spotify.com/album/7pLF40nSHudOnKd0i4m30m) | 3:30 | 2021-11-12 | 2022-01-08 |

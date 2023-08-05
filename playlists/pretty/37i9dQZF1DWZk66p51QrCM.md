@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 
 > The Official EA SPORTS F1 23 Soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,276 likes - 34 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,385 likes - 34 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 | 12 | [Immortal](https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/31sFjiahDnYKKsPdDcqCSv) | 4:08 |
 | 13 | [Can’t Let You Go](https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Little Jet](https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa) | [Can’t Let You Go](https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8) | 2:53 |
 | 14 | [Adidas & Pearls](https://open.spotify.com/track/2zME1tNgLyHCJ29E2uSeJM) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Adidas & Pearls](https://open.spotify.com/album/5zTHdYXq0ojTz7J4K2gCUN) | 3:29 |
-| 15 | [Oi](https://open.spotify.com/track/1q3Bh0X0zCczI7ewPQnmsg) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Oi](https://open.spotify.com/album/1MyrJ9bOkmIBHPT04WlUup) | 3:36 |
-| 16 | [1 Chance](https://open.spotify.com/track/76am7pyRidCWxsrD4XIRpE) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [ADOLESCENCE](https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH) | 3:22 |
+| 15 | [1 Chance](https://open.spotify.com/track/76am7pyRidCWxsrD4XIRpE) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [ADOLESCENCE](https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH) | 3:22 |
+| 16 | [Oi](https://open.spotify.com/track/1q3Bh0X0zCczI7ewPQnmsg) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Oi](https://open.spotify.com/album/1MyrJ9bOkmIBHPT04WlUup) | 3:36 |
 | 17 | [Show My Love](https://open.spotify.com/track/075WtAJrh7uEbnInJVxjYj) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Show My Love](https://open.spotify.com/album/7riKp1e3NEWpgkevFL5v4U) | 2:43 |
 | 18 | [Out Of Control](https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Out Of Control](https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk) | 2:48 |
 | 19 | [Don't Cry](https://open.spotify.com/track/5X107YxNbBbQBn6ofr7OPR) | [LODATO](https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv), [Ally Ahern](https://open.spotify.com/artist/4RSgbf1zgR2X2APEbTqxbM) | [Don't Cry](https://open.spotify.com/album/5fP4Ys7OD25Tn0fKmGXFbV) | 3:11 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 | 33 | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/track/2Z9NWTkvE7dDFDpWhCY3bQ) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/album/71qWeuLd6mu03o55lvJPKH) | 6:45 |
 | 34 | [Go \(Otik Remix\)](https://open.spotify.com/track/0LF47HeMZteqsbcQRk1hkJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Go \(Otik Remix\)](https://open.spotify.com/album/0ybL4M8dUUD1YaxxUTVUcI) | 4:05 |
 
-Snapshot ID: `MCxiYjlmM2JiNDY2YjQ5MjY0NjdkYTkzMjI4ZWE0ZjhlMWZjZjY3MTVk`
+Snapshot ID: `MCwzNzViZjYzZTlmODExNWUzYzk0MTUwNzk0ZjA5MjgxZjFmOTJiN2Ey`

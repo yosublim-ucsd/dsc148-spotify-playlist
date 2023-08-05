@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2000s.",
-  "num_followers": 483689,
+  "num_followers": 484036,
   "original_name": "Soft 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzE0OTUyMGU3OTViMmRiODJkOWU1MzllMzA1N2IyZmRkZGVmZWQ2",
+  "snapshot_id": "MCw1NjEwMzQ2ZmY5ZTU1MWZlNGNmYTFlMDI5YTczNWU2MjE4N2FmNzNk",
   "tracks": [
     {
       "added_at": "2023-01-28 00:00:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "We Sing. We Dance. We Steal Things.",
-        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 223080,
       "name": "Say It Right",
       "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "We Sing. We Dance. We Steal Things.",
+        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
+        "name": "In My Own Words",
+        "url": "https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "So Sick",
+      "url": "https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 289160,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
-        "name": "In My Own Words",
-        "url": "https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "So Sick",
-      "url": "https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Double Wide",
-        "url": "https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ"
-      },
-      "artists": [
-        {
-          "name": "Uncle Kracker",
-          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
-        }
-      ],
-      "duration_ms": 218439,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Whoa, Nelly! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 243160,
       "name": "I'm Like A Bird",
       "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Double Wide",
+        "url": "https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ"
+      },
+      "artists": [
+        {
+          "name": "Uncle Kracker",
+          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+        }
+      ],
+      "duration_ms": 218439,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "No One (Remixes)",
         "url": "https://open.spotify.com/album/7cfKCPxLeKxSxePtCxckv6"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 254523,
       "name": "No One",
       "url": "https://open.spotify.com/track/0mZ5GyrHG908lqrHaTw4hi"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+        "name": "The Element Of Freedom",
+        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
       },
       "artists": [
         {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+      "duration_ms": 216480,
+      "name": "Empire State of Mind (Part II) Broken Down",
+      "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "The Element Of Freedom",
-        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 216480,
-      "name": "Empire State of Mind (Part II) Broken Down",
-      "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308933,
-      "name": "Thank You For Loving Me",
-      "url": "https://open.spotify.com/track/577MNC3o3L0lNIzx9abqOk"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "The Script",
         "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 241373,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308933,
+      "name": "Thank You For Loving Me",
+      "url": "https://open.spotify.com/track/577MNC3o3L0lNIzx9abqOk"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Shades of Purple",
-        "url": "https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj"
-      },
-      "artists": [
-        {
-          "name": "M2M",
-          "url": "https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH"
-        }
-      ],
-      "duration_ms": 279240,
-      "name": "Pretty Boy",
-      "url": "https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Enrique",
         "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 240492,
       "name": "Never Had A Dream Come True",
       "url": "https://open.spotify.com/track/0fIG0HBRIjLRNDHAogtwSB"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Shades of Purple",
+        "url": "https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj"
+      },
+      "artists": [
+        {
+          "name": "M2M",
+          "url": "https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH"
+        }
+      ],
+      "duration_ms": 279240,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej"
     },
     {
       "added_at": "2023-01-28 00:00:00",

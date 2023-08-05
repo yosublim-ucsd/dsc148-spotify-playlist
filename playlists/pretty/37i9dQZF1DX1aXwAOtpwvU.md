@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:6W1NclX9rP93bkhQEOQtm4">Frank Leen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,936 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,982 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sam](https://open.spotify.com/track/2JHhMVU7urxhuxF7IMF6Hw) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Sam](https://open.spotify.com/album/6FiasC1yEdNf0IwHoYuXag) | 2:34 |
-| 2 | [Millie Walky](https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [Millie Walky](https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse) | 2:14 |
+| 2 | [Latawce](https://open.spotify.com/track/10b1ej4W3KuY3W9RkIg0j0) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [SecretiveSuicide](https://open.spotify.com/artist/16VLZykOWwmhqR60Y5n2z9) | [Latawce](https://open.spotify.com/album/7yjZ8ljy2Rzh27HKTyJ8w8) | 2:42 |
 | 3 | [Samoloty](https://open.spotify.com/track/5NOUC4XsX99wm90BGQtjwO) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Samoloty](https://open.spotify.com/album/6hYHcpwgwyGQHGPIesLNnC) | 2:34 |
 | 4 | [Dobra Albo Zła](https://open.spotify.com/track/24FUYnBbb1WVYn7ScrEyff) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Dobra Albo Zła](https://open.spotify.com/album/5sepbyaEmhzsNPG5oCqHtJ) | 3:13 |
 | 5 | [kartki](https://open.spotify.com/track/0AXB0FxeXoTMjf4z5jd58v) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/2bnAOuohFRtLQlNeNJ8c5C) | 2:30 |
 | 6 | [Most](https://open.spotify.com/track/0fXNGgMLZB6jbh7RPOYBzW) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Most](https://open.spotify.com/album/2teOtNxv6PC6wvDk9UQKXf) | 2:55 |
-| 7 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 |
+| 7 | [Millie Walky](https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [Millie Walky](https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse) | 2:14 |
 | 8 | [Czekam Na Znak](https://open.spotify.com/track/5fjcRpwg94xQ2hrSqw6x06) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Czekam Na Znak](https://open.spotify.com/album/0qlpEOnkA92eMNZNuXJ7bn) | 3:18 |
 | 9 | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/track/2gp67Tm8jYHSP7Pg6y9CHf) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/album/6p7FZUkev82iOCQkyHaVDX) | 2:48 |
 | 10 | [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 |
 | 11 | [Złudzenia](https://open.spotify.com/track/2n5jDzn5XWO90vc6C7zRAs) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Złudzenia](https://open.spotify.com/album/2ISFdvufeOH0wtRUfF39RZ) | 3:29 |
-| 12 | [chrypki głos nie od fajek](https://open.spotify.com/track/3FaXFUfn2zJMuXchw902IW) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [chrypki głos nie od fajek](https://open.spotify.com/album/5s0PHctq0QWrUbWx2YcXq3) | 3:15 |
+| 12 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 |
 | 13 | [To Co Mam](https://open.spotify.com/track/5FF6gO4hHrBhsQFVGhWA27) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [To Co Mam](https://open.spotify.com/album/3hmQjrFRpJRZrZbyXIACPR) | 3:14 |
 | 14 | [RASTA](https://open.spotify.com/track/0eIGpaZ6HcS9k2Nt9nMnJJ) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [RASTA](https://open.spotify.com/album/4DlPSU1YXt8zKWMgTaWoos) | 3:11 |
 | 15 | [Poker](https://open.spotify.com/track/1p55Vk3mN5bUCrvL13zeaq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Poker](https://open.spotify.com/album/7edaeckjPgB02aWyESDg3n) | 1:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 59 | [Chcę Być Jak Oliwka Brazil](https://open.spotify.com/track/76jCSzHssCZuaQ1rEyi8Df) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs) | [Chcę Być Jak Oliwka Brazil](https://open.spotify.com/album/6baYZ2q3O6NqAjB6FZ0lhX) | 2:13 |
 | 60 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 
-Snapshot ID: `MCw3MjZkMGU3YmZlOGIyYzA4NDQ4YTA4ZjJiYzQ2YzdkYjcxNjFjODc2`
+Snapshot ID: `MCxlNGY2NzQyNDRkZWViMGQ3YjI3ODA2YjRiODgyZjIwZTBiMmEwOWFi`

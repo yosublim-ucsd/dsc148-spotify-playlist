@@ -4,12 +4,12 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Noah Kahan
 
-289 songs - 16 hr 37 min
+290 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12345](https://open.spotify.com/track/6WKZjZ8Efxa5JDBEE5Qiyg) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [12345](https://open.spotify.com/album/1UULSmzki8FPkCVaSjVnRl) | 2:42 | 2021-11-12 | 2022-07-25 |
-| [18](https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [18](https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf) | 2:51 | 2023-04-28 |  |
+| [18](https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [18](https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf) | 2:51 | 2023-04-28 | 2023-08-05 |
 | [3AM](https://open.spotify.com/track/30OVbvbrKOdmzeXxaOiyZW) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f), [TAESAN](https://open.spotify.com/artist/2Zz9U4J4t6H3G0HdYVX0uY) | [3AM](https://open.spotify.com/album/5NQXeXToor0XUCpTxe4eSZ) | 2:18 | 2021-11-12 | 2022-07-08 |
 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 | 2023-04-28 |  |
 | [Alaska](https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh) | 3:45 | 2022-10-14 |  |
@@ -262,6 +262,7 @@
 | [Undone](https://open.spotify.com/track/5iMl1CDPOjElGiCgerN7kN) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Palomar Parade](https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh) | 3:37 | 2022-10-14 | 2023-01-20 |
 | [Until I Found You](https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 2:56 | 2022-08-19 |  |
 | [Until You](https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You](https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem) | 3:18 | 2021-11-12 |  |
+| [Valapriso](https://open.spotify.com/track/1Z3hqW2OprFrwO05euqt8z) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Valapriso](https://open.spotify.com/album/6Ro2L2h4BlChNYSiy00mys) | 3:07 | 2023-08-04 |  |
 | [Valentina](https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw) | [The Hunts](https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH) | [Those Younger Days](https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs) | 3:50 | 2021-11-12 |  |
 | [Wait No More](https://open.spotify.com/track/4clWpztIoh70RqmZGPvnJz) | [The End of America](https://open.spotify.com/artist/1lyJ8ddC52ERd8XppvRbzq) | [Wait No More](https://open.spotify.com/album/73xDo3fQAsSLNTCpTlBedN) | 2:27 | 2021-11-12 | 2022-01-22 |
 | [Waiting Here](https://open.spotify.com/track/010K4ydIvyrxXWbt7gGvzZ) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Waiting Here \(Remixes\)](https://open.spotify.com/album/6VnXIm4oiQoiRVjSCypRJo) | 3:54 | 2022-03-12 | 2022-08-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: TOBi
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,449 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,487 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 38 | [MUST BE](https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:25 |
 | 39 | [Jupiter & Mars](https://open.spotify.com/track/6YwwmcamIeDCOBQC8yrgxA) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/4ncZCdSB9YcHmmK51P2ld1) | 3:16 |
 | 40 | [Bionic Man](https://open.spotify.com/track/7x9DxO4BrMKsQlmN2vPURS) | [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [Bionic Man](https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd) | 3:12 |
-| 41 | [Griselda Blanco](https://open.spotify.com/track/5TuREdxaWbjceZbX1945f8) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc), [TwoTwo](https://open.spotify.com/artist/3H6Mld9y4gFvW3LDEJUUoQ) | [Griselda Blanco](https://open.spotify.com/album/17LK6OSJ1oVihjzSHYIiMj) | 3:27 |
-| 42 | [Come Outside](https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf) | [K Money](https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6) | [Come Outside](https://open.spotify.com/album/2rjsJgXKKQRrLOrgmHHIby) | 3:18 |
+| 41 | [Come Outside](https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf) | [K Money](https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6) | [Come Outside](https://open.spotify.com/album/2rjsJgXKKQRrLOrgmHHIby) | 3:18 |
+| 42 | [Griselda Blanco](https://open.spotify.com/track/5TuREdxaWbjceZbX1945f8) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc), [TwoTwo](https://open.spotify.com/artist/3H6Mld9y4gFvW3LDEJUUoQ) | [Griselda Blanco](https://open.spotify.com/album/17LK6OSJ1oVihjzSHYIiMj) | 3:27 |
 | 43 | [NIGHTFALL \(feat\. Dro Kenji\)](https://open.spotify.com/track/04EvAhYmelTjLIxWzK7JLm) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [DUSK to DAWN](https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE) | 2:29 |
 | 44 | [Late Nights](https://open.spotify.com/track/4tFWHvXkGeJPH0hLeq3c06) | [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 3:48 |
 | 45 | [Netflix & Chill \(feat\. Fenix Flexin\)](https://open.spotify.com/track/5pgOjtwyKuzOVj8QAMKdJB) | [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Rastar](https://open.spotify.com/album/7DX9n6FpPSaZ6IQ4ZCNpag) | 2:53 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 71 | [Repeat](https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Repeat](https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG) | 3:28 |
 | 72 | [No Favours](https://open.spotify.com/track/2eTCpNzqUkZB6hsHE2hdki) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 3:41 |
 | 73 | [Don't Dance](https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc) | [Don't Dance](https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX) | 3:17 |
-| 74 | [BURN EVERYTHING](https://open.spotify.com/track/3Bcphu5Gi1NdhMKAwx2yIj) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Ye](https://open.spotify.com/artist/7F8mOnK6NxES96O7SiGlLt) | [BURN EVERYTHING](https://open.spotify.com/album/5wb97Ic2ukhlspPZAC29ow) | 2:49 |
-| 75 | [While You on Road](https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [While You on Road](https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC) | 3:02 |
+| 74 | [While You on Road](https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [While You on Road](https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC) | 3:02 |
+| 75 | [BURN EVERYTHING](https://open.spotify.com/track/3Bcphu5Gi1NdhMKAwx2yIj) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Ye](https://open.spotify.com/artist/7F8mOnK6NxES96O7SiGlLt) | [BURN EVERYTHING](https://open.spotify.com/album/5wb97Ic2ukhlspPZAC29ow) | 2:49 |
 
-Snapshot ID: `MCw3NzFhOWY3NzJlOWE0MjUwNDI2ZWJlNWY5MDJjMmVhMTFiMmVlNDE3`
+Snapshot ID: `MCxmYWQ5ZjY1Zjk2YzAxZDhiNDcyNGIyMzFmOGM1NmI5MzgxNzQwZTYw`

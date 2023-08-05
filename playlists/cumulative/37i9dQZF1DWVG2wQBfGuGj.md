@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-182 songs - 9 hr 30 min
+185 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,12 +59,14 @@
 | [diced pineapple](https://open.spotify.com/track/3Z7e2ZAeI9RBX8BFOFwNc1) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [diced pineapple](https://open.spotify.com/album/65yxYvCmn7OmDydhzPYSD3) | 3:21 | 2023-05-05 |  |
 | [different shapes](https://open.spotify.com/track/1ZaAkrf4D8kRAPklwEf2JA) | [Ms\. Velvet](https://open.spotify.com/artist/0y0wpWjKYzAqmY0nQkaZcH) | [different shapes](https://open.spotify.com/album/4b7RQgg0p2VsESDH7sW8de) | 2:52 | 2023-05-05 |  |
 | [Dirty Hero](https://open.spotify.com/track/7CNSMkift1gx78RPcJ0w4U) | [Petr Serkin](https://open.spotify.com/artist/5ywnDPnFteS7NhVDFfONop) | [Woodmaster](https://open.spotify.com/album/1c1MjLFLnW3piY8wwUjssp) | 5:24 | 2023-05-05 |  |
+| [Disc Me Bro](https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd) | [Disc Me Bro](https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v) | 2:42 | 2023-08-04 |  |
 | [Don't Wait Blue](https://open.spotify.com/track/22lKedeOAiGBpMOPW60PwD) | [Lukall](https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O) | [Don't Wait Blue](https://open.spotify.com/album/6HgQpYP3a9omdYczFyTjdg) | 3:05 | 2023-05-05 |  |
 | [Dr Zennheiser](https://open.spotify.com/track/4ZliUlRoGlwkCsEf60aeLv) | [John Son of John](https://open.spotify.com/artist/6XZyEFHLJ1SZieiBKiKwjA) | [Dr Zennheiser](https://open.spotify.com/album/3gElVEf2u7ZCu2RL7PwowP) | 2:42 | 2023-05-05 |  |
 | [Drunk Sundays](https://open.spotify.com/track/7HARmWLSb1quqaEGNuIudB) | [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [Dippin & Trippin](https://open.spotify.com/album/7c2S06S20LZ3i97CUXeMSb) | 5:19 | 2023-05-05 |  |
 | [Duné](https://open.spotify.com/track/0vzc3WshU7OjeAazBIJwoO) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Duné](https://open.spotify.com/album/2nFDnv4eUojR5Zu6qw82aX) | 2:38 | 2023-05-05 |  |
 | [Eleven](https://open.spotify.com/track/4FmayqmwkbAw2wMWVq2A1B) | [Shiruky](https://open.spotify.com/artist/1Tr7ffkJ66E8bXTm2g7uEM) | [Eleven](https://open.spotify.com/album/14d97dcXwRoZdOQtjP8LYb) | 4:07 | 2023-05-05 |  |
 | [endless cup](https://open.spotify.com/track/4sdtDC5geKrZHoVqyx5bBA) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [endless cup](https://open.spotify.com/album/1AHdwERDExWS6MCKxtQ3gb) | 3:23 | 2023-05-05 |  |
+| [Feel Decent](https://open.spotify.com/track/61zOivEMvcyCoymnvBVPy5) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Vibes Vol\. 3](https://open.spotify.com/album/53uc38DjJTTD6JG1EcQJym) | 3:45 | 2023-08-04 |  |
 | [Final Countdown Again](https://open.spotify.com/track/459AusJgWuTqzeyBP2OocC) | [John Son of John](https://open.spotify.com/artist/6XZyEFHLJ1SZieiBKiKwjA) | [Final Countdown Again](https://open.spotify.com/album/63A7o3OeGaTmDasRKdooK5) | 3:14 | 2023-05-05 |  |
 | [finders keepers](https://open.spotify.com/track/7zOCuC0lIMGoTP8z0xUluv) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [finders keepers](https://open.spotify.com/album/4YegljCmxI9QhS0wbG7ns9) | 2:55 | 2023-05-05 |  |
 | [Flight Home](https://open.spotify.com/track/0T6hXxaVQ3SKvnMweUX9P8) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [Flight Home](https://open.spotify.com/album/4x8lHP9jnahY4epxlwpG5P) | 4:06 | 2023-05-05 |  |
@@ -127,6 +129,7 @@
 | [Original Love](https://open.spotify.com/track/26obskJ2LXxb1kcWs6FUmB) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Original Love](https://open.spotify.com/album/5ToSCwAk4JI5h6yMI3qzhb) | 3:02 | 2023-05-05 |  |
 | [Paloma](https://open.spotify.com/track/549JBVNjLZt5BN6qfphBbQ) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Paloma](https://open.spotify.com/album/04mofxzUHsD7zVCAKzbpWu) | 2:37 | 2023-05-05 |  |
 | [Panorama](https://open.spotify.com/track/2KdKLnwFSmXPTFllAPXcQ4) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [Panorama](https://open.spotify.com/album/5NRsQdDUtEx4l2shHW7yKm) | 2:49 | 2023-05-05 |  |
+| [Para Sol](https://open.spotify.com/track/5hrJnEz67Q6l33sPtGFga4) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Para Sol](https://open.spotify.com/album/4zCjXYDYpNXj1p7CHYKfGp) | 3:16 | 2023-08-04 |  |
 | [Peachess](https://open.spotify.com/track/4IGRNWjPIK2diFXhAIP7hT) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Peachess](https://open.spotify.com/album/0nSvJfCCj7OTvGGhjGysyw) | 2:51 | 2023-05-05 |  |
 | [Piano Park](https://open.spotify.com/track/7MYP5ACQrR73wJ4CQkzhaZ) | [Ben Jonovski](https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC) | [Piano Park](https://open.spotify.com/album/6u0PJfhQLlBRArcd2T5iNr) | 2:08 | 2023-05-05 |  |
 | [Play My Heart \- Instrumental Dub](https://open.spotify.com/track/7dND9Gm3abCQZNkWBnU5kp) | [Jorja X](https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H) | [Play My Heart](https://open.spotify.com/album/2PMZo9UjJ1HuiRG19jtEvY) | 2:14 | 2023-05-05 |  |

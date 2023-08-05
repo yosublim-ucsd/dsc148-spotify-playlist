@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the week! Cover: Doja Cat",
-  "num_followers": 363136,
+  "num_followers": 363221,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTZhNzAzNjRmYWIzMTlkOTlkMmY4NDYyMzFlZTIxZWY3Y2U0ZmEx",
+  "snapshot_id": "MCxmYjNlYTFjY2JhMGUyNDVhNWI4Y2YxOTJlNDNhYmE0MzhhMWRkNmRi",
   "tracks": [
     {
       "added_at": "2023-08-03 14:00:00",
@@ -63,6 +63,22 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
+        "name": "Always Gonna Be",
+        "url": "https://open.spotify.com/album/1WI5hRCxaEOSMUtKxO5fKa"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 172213,
+      "name": "Always Gonna Be",
+      "url": "https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk"
+    },
+    {
+      "added_at": "2023-08-03 14:00:00",
+      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/5vlnjPKl74RRBj6aD9aspg"
       },
@@ -91,6 +107,22 @@
       "duration_ms": 145893,
       "name": "GO GO GO",
       "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
+    },
+    {
+      "added_at": "2023-08-03 14:00:00",
+      "album": {
+        "name": "Peanut Butter & Tears",
+        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Peanut Butter & Tears",
+      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
     },
     {
       "added_at": "2023-08-03 14:00:00",
@@ -168,12 +200,12 @@
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
       "duration_ms": 247100,
@@ -335,6 +367,26 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
+        "name": "RNTBCK ft. Sahtyre",
+        "url": "https://open.spotify.com/album/40hySMZvGLxFRvXHe4re6r"
+      },
+      "artists": [
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        {
+          "name": "Sahtyre",
+          "url": "https://open.spotify.com/artist/1ZHmdzn0KzjEICyi9v6oDU"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "RNTBCK ft. Sahtyre",
+      "url": "https://open.spotify.com/track/3Go7cFLfkQMH9KV6H1VcIY"
+    },
+    {
+      "added_at": "2023-08-03 14:00:00",
+      "album": {
         "name": "KILL MY DOUBT",
         "url": "https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik"
       },
@@ -404,7 +456,7 @@
       "added_at": "2023-08-03 14:00:00",
       "album": {
         "name": "I Don't Want to Go That Way",
-        "url": "https://open.spotify.com/album/5FWtDMA4uVbsh00QTdLeJ0"
+        "url": "https://open.spotify.com/album/2FMlVRoAFvcKhFneYl4taT"
       },
       "artists": [
         {
@@ -414,7 +466,7 @@
       ],
       "duration_ms": 324000,
       "name": "I Don't Want to Go That Way",
-      "url": "https://open.spotify.com/track/6iEeLs6QqMVFMjG1eg1W6d"
+      "url": "https://open.spotify.com/track/0tpvtMPtvWDgLDVXY3JDKR"
     },
     {
       "added_at": "2023-08-03 14:00:00",
@@ -784,7 +836,7 @@
       "added_at": "2023-08-03 14:00:00",
       "album": {
         "name": "XXL",
-        "url": "https://open.spotify.com/album/4K0wKLFE0LxcQAmcmVvd0X"
+        "url": "https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf"
       },
       "artists": [
         {
@@ -794,7 +846,7 @@
       ],
       "duration_ms": 206706,
       "name": "XXL",
-      "url": "https://open.spotify.com/track/7AftUxnj6ngHrWiT29xwKK"
+      "url": "https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0"
     },
     {
       "added_at": "2023-08-03 14:00:00",
@@ -1063,6 +1115,22 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 172892,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
+    },
+    {
+      "added_at": "2023-08-03 14:00:00",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/4W7K6hn8eDGATNm9OAdI5a"
       },
@@ -1136,7 +1204,7 @@
       "added_at": "2023-08-03 14:00:00",
       "album": {
         "name": "Make It There",
-        "url": "https://open.spotify.com/album/1JuXGp8qbI1LUwF2OjM1Jt"
+        "url": "https://open.spotify.com/album/0mu3NeLYJDjzxhToUh5bP6"
       },
       "artists": [
         {
@@ -1150,7 +1218,7 @@
       ],
       "duration_ms": 146400,
       "name": "Make It There",
-      "url": "https://open.spotify.com/track/3qz84r06J9oJqfGfuxs9xF"
+      "url": "https://open.spotify.com/track/5IMDXjRl8d3ZQleGtudI7f"
     },
     {
       "added_at": "2023-08-03 14:00:00",

@@ -4,7 +4,7 @@
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-163 songs - 9 hr 21 min
+165 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Gimme Your Love](https://open.spotify.com/track/2atugg2VUdakDZqAbCbHDO) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Ain't Giving Up](https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE) | 4:37 | 2023-06-07 |  |
 | [Go Down Swinging](https://open.spotify.com/track/4fJqzjd5rtgxPjzuTvIAeA) | [Hacienda](https://open.spotify.com/artist/5PFOoYivDdyFBYkDiku1E3) | [Go Down Swinging](https://open.spotify.com/album/2SAYfi2HiMRUpa7c8C5IyC) | 3:13 | 2023-06-07 |  |
 | [Good Love Goes Bad](https://open.spotify.com/track/4SAdnN5F4nOZW0R1CjwYDv) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Good Love Goes Bad](https://open.spotify.com/album/0s1mtwlKIxnASFrd442eW9) | 3:55 | 2023-06-07 |  |
-| [Got till it's gone](https://open.spotify.com/track/0iN8dVHfDWV2HSmPSvrUlR) | [Atomic stooges](https://open.spotify.com/artist/1AHSOjhowaZiCL7BNmTGzL), [好口博章](https://open.spotify.com/artist/6tbpVzAKDTNSkdwhx7TGEA) | [Got till it's gone](https://open.spotify.com/album/2FYDgrorxE3CBkgWWs7CBA) | 3:48 | 2023-06-07 |  |
+| [Got till it's gone](https://open.spotify.com/track/0iN8dVHfDWV2HSmPSvrUlR) | [Atomic stooges](https://open.spotify.com/artist/1AHSOjhowaZiCL7BNmTGzL), [好口博章](https://open.spotify.com/artist/6tbpVzAKDTNSkdwhx7TGEA) | [Got till it's gone](https://open.spotify.com/album/2FYDgrorxE3CBkgWWs7CBA) | 3:48 | 2023-06-07 | 2023-08-05 |
 | [Got To Get Out](https://open.spotify.com/track/2IFYh8DDCzkeeskV6yJmZT) | [Ray Beadle](https://open.spotify.com/artist/7wGs0wj3dW628DJio6N4r3) | [Bound To Get The Blues](https://open.spotify.com/album/7qUHJLDYF0b1z3DA2Jm2UR) | 5:00 | 2023-07-21 |  |
 | [Gotta Bleed \- Remix](https://open.spotify.com/track/5bbYD8wu2XFNyG76R41IAt) | [Bacon Fat Louis](https://open.spotify.com/artist/6smClsEV3ACst2Jul8FxAk), [miXendorp](https://open.spotify.com/artist/4lK3eAKeNM2RTUE5cILbgP) | [Gotta Bleed \(Remix\)](https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe) | 3:34 | 2023-06-07 |  |
 | [Gumbo Blues](https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [Presenting Smiley Lewis](https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj) | 2:25 | 2022-05-25 | 2023-06-08 |
@@ -113,7 +113,7 @@
 | [Little By Little \(I'm Losing You\)](https://open.spotify.com/track/25vYkkypWmtzS88Podza8X) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Calling All Blues \- The Chief, Profile & USA Recordings 1957\-1963](https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ) | 2:33 | 2022-05-25 | 2023-06-08 |
 | [Lonely](https://open.spotify.com/track/1EdUxZTtaa8ijHPaDlzL3l) | [Cam Cole](https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S) | [Vibes EP](https://open.spotify.com/album/6N2WWTRQAOV3LtLaWbNKQo) | 4:30 | 2023-06-07 |  |
 | [Love Sick](https://open.spotify.com/track/2ze1OCYN4dtuOnZVVZVP8L) | [The Dust Coda](https://open.spotify.com/artist/710Hc46Lu4nxavbYDpEAzP) | [Love Sick](https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ) | 4:34 | 2023-06-09 |  |
-| [Make It Easy](https://open.spotify.com/track/43672cxt3zJGmbVMD5aWYw) | [Mike Lerman](https://open.spotify.com/artist/4MPoosgdIp2c3xJVKrAMgs) | [Make It Easy](https://open.spotify.com/album/2Z1XbDAlAnf5ijTZDi6n6V) | 3:24 | 2023-06-07 |  |
+| [Make It Easy](https://open.spotify.com/track/43672cxt3zJGmbVMD5aWYw) | [Mike Lerman](https://open.spotify.com/artist/4MPoosgdIp2c3xJVKrAMgs) | [Make It Easy](https://open.spotify.com/album/2Z1XbDAlAnf5ijTZDi6n6V) | 3:24 | 2023-06-07 | 2023-08-05 |
 | [Mama, What About Your Daughter \- Single Version](https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Martin Scorsese Presents The Blues: J.B\. Lenoir](https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt) | 2:29 | 2022-05-25 | 2023-06-08 |
 | [Nothing But The Blues \- Live and Stripped](https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nothing But The Blues \(Live and Stripped\)](https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY) | 3:02 | 2023-06-09 |  |
 | [Old Road](https://open.spotify.com/track/5hMGPXvT6DC8CKexZnWlSO) | [Keegan McInroe](https://open.spotify.com/artist/6EtdMmaznBuJVYiKLhPRj0) | [Old Road](https://open.spotify.com/album/01HnUcfblIlxh7tGUk7fzb) | 5:11 | 2023-06-07 |  |
@@ -144,6 +144,7 @@
 | [She Moved On](https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c) | [McKinley James](https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB) | [She Moved On](https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU) | 2:47 | 2023-06-07 |  |
 | [Sho Been Worse](https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Sho Been Worse](https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco) | 2:54 | 2023-06-07 |  |
 | [Sing the Blues](https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg) | [Pontillo And The Vintage Crew](https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv) | [For the Love of Blues](https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs) | 5:53 | 2023-06-07 |  |
+| [Sneakin’ Around](https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sneakin' Around](https://open.spotify.com/album/0q55zTFXDDIiyjipipXE5T) | 3:40 | 2023-08-04 |  |
 | [So Free](https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [So Free](https://open.spotify.com/album/3kiLL8akJ1EtTeVxiK3z1L) | 3:17 | 2023-06-07 |  |
 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 | 2022-05-25 | 2023-06-08 |
 | [Spread Your Love](https://open.spotify.com/track/1gq5tbU9FTm90duAZtDZUv) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [B.R.M.C.](https://open.spotify.com/album/5kNEFtQmqLrPx0XA8Sq0N5) | 3:45 | 2023-06-07 |  |
@@ -158,6 +159,7 @@
 | [They're Red Hot \- SA.2627\-1](https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [The Centennial Collection](https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF) | 2:58 | 2022-05-25 | 2023-06-08 |
 | [Two Bugs And A Roach](https://open.spotify.com/track/4ry79KsP0Mbhp4lrg3z3cG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blues Roots](https://open.spotify.com/album/7lXGZuaIQXrvNRGVldoDoS) | 4:15 | 2022-05-25 | 2023-06-08 |
 | [Ugly Brain \- Single Version](https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [Ugly Brain](https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM) | 4:36 | 2023-06-07 |  |
+| [Undertow](https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4) | 3:22 | 2023-08-04 |  |
 | [Unhinged](https://open.spotify.com/track/41N74tDfqzG242pQe16lSE) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [Unhinged](https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR) | 3:23 | 2023-06-30 |  |
 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 | 2022-05-25 | 2023-04-30 |
 | [Waiting](https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9) | [Arthur Terembula](https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60) | [Waiting](https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01) | 2:14 | 2023-07-21 |  |

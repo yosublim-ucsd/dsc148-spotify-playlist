@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Hodari, Luedji Luna
 
-255 songs - 13 hr 32 min
+256 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Faminta](https://open.spotify.com/track/49LBlTClQWmunnBtadpzGI) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/5A6E29QwhDcINDIEBSbYPR) | 3:37 | 2022-10-28 | 2022-11-26 |
 | [Fim de Semana](https://open.spotify.com/track/4bMFMvGNOGQ5GN91G4vw1K) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Brian Arimura](https://open.spotify.com/artist/3564y3B882wmolbLQVDVzZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Fim de Semana](https://open.spotify.com/album/3QrfrubXNF6xRzCAV6DvB7) | 3:14 | 2023-03-15 | 2023-04-15 |
 | [Final de Semana](https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Final de Semana](https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu) | 3:21 | 2022-10-07 | 2023-07-15 |
+| [Fiu Fiu](https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 3:24 | 2023-08-04 |  |
 | [Fixação](https://open.spotify.com/track/6su9AZXjpyLYT9DptbsTE5) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Fixação](https://open.spotify.com/album/68s6AonOD9d90Usohm6lQF) | 2:21 | 2023-03-31 | 2023-05-13 |
 | [FOME](https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z), [FP do Trem Bala](https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR) | [FOME](https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2) | 2:49 | 2023-06-30 |  |
 | [Fora da Lei](https://open.spotify.com/track/0TzcOzVP177f5DTz2eRxvV) | [Flav](https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Fora da Lei](https://open.spotify.com/album/1h4U7QKQ15IIXWsHjPoOT3) | 2:22 | 2022-05-23 | 2022-06-15 |
@@ -172,7 +173,7 @@
 | [Outro Patamar](https://open.spotify.com/track/76klxh7fnauuROKC2kDuHG) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Outro Patamar](https://open.spotify.com/album/2gt5vOzXJxJIa6MCXss0Wj) | 3:44 | 2022-09-09 |  |
 | [PAIRARÁ](https://open.spotify.com/track/2bNqAao6TzjdRluD0dCwqy) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [PAIRARÁ](https://open.spotify.com/album/4LUSJnaImzU16fl6XvcV5W) | 3:00 | 2023-02-06 | 2023-03-25 |
 | [Pedaço de Mim](https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW) | [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Pedaço de Mim](https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B) | 3:22 | 2022-05-23 | 2022-12-10 |
-| [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 | 2023-06-16 |  |
+| [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 | 2023-06-16 | 2023-08-05 |
 | [Penelope](https://open.spotify.com/track/66qOxO7krWQpQWZPi1IzQo) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Penelope](https://open.spotify.com/album/71htdEQmQqPoSQwdTR0auD) | 2:51 | 2022-05-23 |  |
 | [Pensando Em Nós](https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Pensando Em Nós](https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd) | 3:12 | 2022-07-21 |  |
 | [Pensar em Você](https://open.spotify.com/track/1xUY8P1EzqbgizC7SoDhB2) | [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [Pensar em Você](https://open.spotify.com/album/7fMfS8sAX4ag7bMzIsBtVP) | 2:06 | 2022-06-17 | 2022-07-22 |

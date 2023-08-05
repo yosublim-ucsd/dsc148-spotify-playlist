@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-229 songs - 13 hr 8 min
+230 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [I Like \(feat\. WizKid\)](https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [I Like \(feat\. WizKid\)](https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO) | 3:12 | 2021-10-11 | 2022-10-01 |
 | [I'm Yours](https://open.spotify.com/track/4cTopCzcmxBvWE6K96RnhP) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [I'm Yours](https://open.spotify.com/album/3wg8nl3xkrTiZG3Kq3YH2d) | 3:32 | 2022-12-02 |  |
 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 | 2022-02-24 | 2022-07-29 |
-| [Imali](https://open.spotify.com/track/0POdzGSgOhsL9oPX4ERj6q) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/3UkDRVrOBRrMvoMsb0EGim) | 2:42 | 2023-08-03 |  |
+| [Imali](https://open.spotify.com/track/0POdzGSgOhsL9oPX4ERj6q) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/3UkDRVrOBRrMvoMsb0EGim) | 2:42 | 2023-08-03 | 2023-08-05 |
+| [Imali](https://open.spotify.com/track/3Z9lmDapyI88AyHZ8utTf1) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/1bgbyxRaOGJaHu4Qze6rle) | 2:42 | 2023-08-03 |  |
 | [In My Bed](https://open.spotify.com/track/1IGUy2nvx6G10HzyWiePaJ) | [Remy Baggins](https://open.spotify.com/artist/6Pj7ddulM4dzUOGR3sERaX) | [In My Bed](https://open.spotify.com/album/68NzuGaGavWYXT8Tuiikht) | 3:13 | 2023-03-17 | 2023-08-04 |
 | [In My Bed](https://open.spotify.com/track/6XM53PbvlzhuNtJZtpl7RP) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [The Beauty of Becoming](https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7) | 3:05 | 2021-10-11 | 2023-03-07 |
 | [Ina Jin](https://open.spotify.com/track/5sMl6iTfwS97ZxsuZNpwro) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9) | [Aisha's Sun](https://open.spotify.com/album/5pmpSBeVv0GaCCXHHlqKYt) | 2:49 | 2022-09-19 | 2022-11-04 |

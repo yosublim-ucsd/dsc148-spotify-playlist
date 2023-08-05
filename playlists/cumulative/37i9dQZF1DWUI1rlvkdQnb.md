@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-173 songs - 9 hr 9 min
+174 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Fragments Café](https://open.spotify.com/track/3jg4Z0yPJsVx5M3BOYkBS0) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/71Ao0d8AcoKZdzOFhZzScO) | 3:54 | 2021-12-10 | 2022-07-29 |
 | [From Shores To Mountains](https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt) | [The 2 Inversions](https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ) | [From Shores To Mountains](https://open.spotify.com/album/1jtEPkPm0pQeNBJ6ygS8OO) | 2:25 | 2021-12-10 | 2022-10-15 |
 | [Frontiers Are Where You Find Them](https://open.spotify.com/track/0pYcmN2XmJSWNEvjgGFodh) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Luminescence](https://open.spotify.com/album/5M1Z3FRYy0G5GWhlvvPdRw) | 3:13 | 2021-12-10 | 2022-07-29 |
-| [Frontiers Are Where You Find Them](https://open.spotify.com/track/4JHBDESS5rxMXjMXaKGYHf) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Luminescence](https://open.spotify.com/album/4JFvicXoNpfbIB1gAm7uxw) | 3:13 | 2022-06-29 |  |
+| [Frontiers Are Where You Find Them](https://open.spotify.com/track/4JHBDESS5rxMXjMXaKGYHf) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Luminescence](https://open.spotify.com/album/4JFvicXoNpfbIB1gAm7uxw) | 3:13 | 2022-06-29 | 2023-08-05 |
 | [Gelborn Heights](https://open.spotify.com/track/5D1t5wq4NGB1Z1r0fkcscF) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Soft Slow Sleep](https://open.spotify.com/album/5BdtXhbR9aIZ2RL8NJy5HK) | 3:13 | 2021-12-10 |  |
 | [Heart On The Tree](https://open.spotify.com/track/3cGW4cNhCTp8FzftakSFVy) | [Flamesoth](https://open.spotify.com/artist/2NnJcKlJCOhholG1vtsNOQ) | [Breathless](https://open.spotify.com/album/6kFVxQdoU5r5Fv90ICz0qn) | 3:04 | 2022-11-22 |  |
 | [Heaven's Shore](https://open.spotify.com/track/1pAmp7cLogyrAnOyxrTdYY) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Mindful Sleep](https://open.spotify.com/album/2kFyWqR5s7lvq8uNYGx6mj) | 3:32 | 2021-12-10 |  |
@@ -153,6 +153,7 @@
 | [Spiritual Conquest](https://open.spotify.com/track/0OLknAPE9i8CXou7d9Hk4M) | [Natural X](https://open.spotify.com/artist/1zP2l8li9yQDtXVsTRMMPu) | [Spiritual Conquest](https://open.spotify.com/album/4EAbmQe5oFYMSBE6izl7xk) | 3:22 | 2021-12-10 | 2022-08-13 |
 | [Spiritual Touch](https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Re\-Creating](https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky) | 4:17 | 2021-12-10 | 2021-12-24 |
 | [Starlight Song](https://open.spotify.com/track/6D1DLNT4FshLPwdiQ45rXu) | [Jamie McNeal](https://open.spotify.com/artist/74vNtY2P9DwQNltXVislIc) | [Starlight Song](https://open.spotify.com/album/0a81mgVUyef6JqS7DIPGb4) | 2:59 | 2021-12-10 |  |
+| [Stars Align](https://open.spotify.com/track/3EuOsa9Zb6QzS7XPCZnJ85) | [Malluma Nokto](https://open.spotify.com/artist/7ftD6LOqlL3lBzI4H4fbTg) | [Stars Align](https://open.spotify.com/album/6c2hKxQiGqT3M99FB82cR3) | 3:16 | 2023-08-04 |  |
 | [State of Tranquility](https://open.spotify.com/track/1JFb0Na5vJFckCPOmrxPXR) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 4:08 | 2021-12-10 | 2022-08-13 |
 | [Stillhet](https://open.spotify.com/track/3VssLi9w9PpBxc1fsLkJHN) | [Oscar Wallin](https://open.spotify.com/artist/0AiZKCmWMvIVBqIoqck2Xa) | [Stillhet](https://open.spotify.com/album/0NNY3mCYL6lMXGM6d74cz9) | 3:38 | 2021-12-10 |  |
 | [Stillness](https://open.spotify.com/track/1BQxGhCmtTfvpkNcZ3Lp8G) | [Ilumina](https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht) | [Stillness](https://open.spotify.com/album/5cAyA5mlUDMuQ89JHasPkg) | 3:03 | 2023-01-27 |  |

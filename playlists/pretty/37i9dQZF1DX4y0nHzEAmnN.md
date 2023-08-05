@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 
 > Las partes aburridas del día pueden ser divertidas con música\. ¡En Inglés y Español!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,355 likes - 50 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,354 likes - 50 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 31 | [Nice 'N' Clean](https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:49 |
 | 32 | [Getting Dressed Is the Best](https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 3:20 |
 | 33 | [Good Morning](https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff) | [Love to Sing](https://open.spotify.com/artist/5dz42IMRAYRfEn0igXDjoz) | [With You](https://open.spotify.com/album/12Bh0hHZUqDxCYy11xCxBv) | 2:11 |
-| 34 | [Please and Thank You Song](https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO) | [Heidi Butkus](https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au) | [Music for Classroom Management](https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1) | 0:43 |
-| 35 | [Aguita Y Jabon](https://open.spotify.com/track/6xAuZbX2PrnuqNqZnloKal) | [Cantando con Adriana](https://open.spotify.com/artist/1nbn5tCrTiPWwDUqhgzMGk) | [Bailaré junto a ti](https://open.spotify.com/album/6IvaryN7xqFwBQQLdWJrFh) | 1:41 |
+| 34 | [Aguita Y Jabon](https://open.spotify.com/track/6xAuZbX2PrnuqNqZnloKal) | [Cantando con Adriana](https://open.spotify.com/artist/1nbn5tCrTiPWwDUqhgzMGk) | [Bailaré junto a ti](https://open.spotify.com/album/6IvaryN7xqFwBQQLdWJrFh) | 1:41 |
+| 35 | [Please and Thank You Song](https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO) | [Heidi Butkus](https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au) | [Music for Classroom Management](https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1) | 0:43 |
 | 36 | [Fixin' My Hair](https://open.spotify.com/track/34AjttGzdQFz3rXmQakgR7) | [The Sesame Street Follicles](https://open.spotify.com/artist/6fFWIeOC1k2cboPOFDEDaQ), [Sesame Street's Kevin](https://open.spotify.com/artist/2ONAq9vAVfLxNm2HOmA8lv), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Splish Splash \- Bath Time Fun](https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw) | 1:32 |
 | 37 | [Kids Just Love to Brush](https://open.spotify.com/track/6mb6WxUM7Fxh7GeCQalkW9) | [Sesame Street's Bicuspids](https://open.spotify.com/artist/32xzvYpAc8iQSohhQ81QXF), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Splish Splash \- Bath Time Fun](https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw) | 2:51 |
 | 38 | [Cover Your Sneeze](https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 1:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 49 | [Wash The Dishes](https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ) | [Nat Hussey](https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA) | [Papa Goose](https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j) | 1:29 |
 | 50 | [La Canción del Baño](https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc) | [HooplaKidz En Español](https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu) | [Las Mejores Canciones para Niños](https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b) | 2:09 |
 
-Snapshot ID: `MCwwZWU3OTNjNTdmNmMyN2YzMTQ2N2Q4NThmYTg4MzE5Yzc1MjViODAx`
+Snapshot ID: `MCw0MWNjZjg3MzhmNTA5NmFkOTdmY2JlYjRmNzkyMmJlNjhjMWFjNzU4`

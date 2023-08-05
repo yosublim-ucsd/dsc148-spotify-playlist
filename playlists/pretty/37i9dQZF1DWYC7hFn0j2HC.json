@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 173502,
+  "num_followers": 173675,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjU2ZWM4MzkzMjNhNTNhZGJhNWI0ZmQ5NjJkMWM5NWJkNjExMDkz",
+  "snapshot_id": "MCxhYjFhZDA0MGY1OGYwMmI0N2NlNzRjOGIwZDZjMmNiNGJhMWYxMTFl",
   "tracks": [
     {
       "added_at": "2022-01-25 23:38:31",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK"
-      },
-      "artists": [
-        {
-          "name": "Jorge Negrete",
-          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
-        }
-      ],
-      "duration_ms": 169626,
-      "name": "La Que Se Fue",
-      "url": "https://open.spotify.com/track/6J9WTHBcgGL7pjnGT6vvS6"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "Jorge Negrete, Trio Calaveras y Silvestre Vargas",
         "url": "https://open.spotify.com/album/2QV8SOTtZ3APYWXwBjpNy8"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 145920,
       "name": "Ay Jalisco No Te Rajes",
       "url": "https://open.spotify.com/track/4euwnQbnoDNtXQ5LKNb07t"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "duration_ms": 169626,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/6J9WTHBcgGL7pjnGT6vvS6"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "15 Inmortales de Pedro Infante",
-        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 181720,
-      "name": "Amorcito coraz\u00f3n",
-      "url": "https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "Que Te Vaya Bonito",
         "url": "https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 185306,
       "name": "Cuando Sale la Luna",
       "url": "https://open.spotify.com/track/2vDaSr8NzCzG2rFtqup2Kq"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "15 Inmortales de Pedro Infante",
+        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 181720,
+      "name": "Amorcito coraz\u00f3n",
+      "url": "https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8"
     },
     {
       "added_at": "2022-01-25 23:38:31",

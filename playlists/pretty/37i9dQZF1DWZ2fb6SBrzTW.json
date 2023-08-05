@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 17459,
+  "num_followers": 17506,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2RjZTQyZWVmMDkxODgwZTk3YzBmNTNkMjVjNzUwOTA4ZWU3NDZl",
+  "snapshot_id": "MCw1ODYwYjAzOTI2YTU2YTQ4MDFhYTM4NTFhMjJmYWI1ZWI3OWY1ZjY2",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -287,26 +287,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Buga (Lo Lo Lo)",
-        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 183103,
-      "name": "Buga (Lo Lo Lo)",
-      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 166558,
       "name": "Sability",
       "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Buga (Lo Lo Lo)",
+        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 183103,
+      "name": "Buga (Lo Lo Lo)",
+      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Shu-Peru",
-        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
+        "name": "Ex Convict",
+        "url": "https://open.spotify.com/album/1ZNJEECHv1mt8ktam5iX6i"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 139377,
-      "name": "Shu-Peru",
-      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
+      "duration_ms": 202605,
+      "name": "Ex Convict",
+      "url": "https://open.spotify.com/track/3Q4oVlA6z9TH0jhaDl6aNT"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Ex Convict",
-        "url": "https://open.spotify.com/album/1ZNJEECHv1mt8ktam5iX6i"
+        "name": "Shu-Peru",
+        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 202605,
-      "name": "Ex Convict",
-      "url": "https://open.spotify.com/track/3Q4oVlA6z9TH0jhaDl6aNT"
+      "duration_ms": 139377,
+      "name": "Shu-Peru",
+      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Rave & Roses Ultra",
-        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 159100,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "FIREGUN (feat. Fireboy DML)",
         "url": "https://open.spotify.com/album/1t7HLxUEYRN3TUBGkoazWj"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 194400,
       "name": "FIREGUN (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 159100,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -895,8 +895,8 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "For Daddy",
-        "url": "https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf"
+        "name": "Certified Loner (No Competition)",
+        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
       },
       "artists": [
         {
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
         }
       ],
-      "duration_ms": 153232,
-      "name": "For Daddy",
-      "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
+      "duration_ms": 165000,
+      "name": "Certified Loner (No Competition)",
+      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1007,8 +1007,8 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Certified Loner (No Competition)",
-        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+        "name": "For Daddy",
+        "url": "https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf"
       },
       "artists": [
         {
@@ -1016,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Certified Loner (No Competition)",
-      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+      "duration_ms": 153232,
+      "name": "For Daddy",
+      "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Bad To Me",
-        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
+        "name": "As I Wake Up",
+        "url": "https://open.spotify.com/album/5T8xA88j50McKpbcK7RRP3"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
         }
       ],
-      "duration_ms": 176850,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
+      "duration_ms": 207941,
+      "name": "As I Wake Up",
+      "url": "https://open.spotify.com/track/2j6L2Mqm0HWLQWuw5Vythm"
     }
   ],
   "unique_name": "Keep Fit Club ",

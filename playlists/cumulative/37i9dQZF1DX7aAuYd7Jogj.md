@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-328 songs - 16 hr 1 min
+329 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [drifting](https://open.spotify.com/track/3TMENYMNJbzGlxD48gK1Qz) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/32DMNUC6JSKp2XzKv5WUyq) | 2:45 | 2023-04-06 | 2023-05-04 |
 | [drifting](https://open.spotify.com/track/6OgdBT8iNZJNmidOy2ImdF) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity, vol\. ii \(sleep\)](https://open.spotify.com/album/4OAWLl91Aso1DTKL4I8AL8) | 2:45 | 2023-04-21 |  |
 | [Drone](https://open.spotify.com/track/6ZRIH4QEe0sAkUCup8OmZM) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Drone](https://open.spotify.com/album/0eb5cxLBxQ6oYqT9VDwjo4) | 3:11 | 2023-06-16 |  |
-| [Dust](https://open.spotify.com/track/3P8JdN7l1cFkcMVkJHOHhF) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Dust](https://open.spotify.com/album/4JazgpRV9g6wD03c4excvY) | 2:56 | 2023-04-06 |  |
+| [Dust](https://open.spotify.com/track/3P8JdN7l1cFkcMVkJHOHhF) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Dust](https://open.spotify.com/album/4JazgpRV9g6wD03c4excvY) | 2:56 | 2023-04-06 | 2023-08-05 |
 | [Dvala](https://open.spotify.com/track/3MOqT1Ka4jEf9PKSafbDiT) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Dvala](https://open.spotify.com/album/0cE9nCfxJWkXE9MbB8jAuZ) | 2:57 | 2023-04-06 |  |
 | [Ease](https://open.spotify.com/track/2m6zb3XrNa0PXSzeOhJwCm) | [Savannah De Lucia](https://open.spotify.com/artist/34RbwsKOFiGKnE7BE8zhQS) | [Ease](https://open.spotify.com/album/5MGZFRyxbDaBb0rMhMrGU7) | 3:12 | 2023-04-06 | 2023-07-14 |
 | [Een mooie droom](https://open.spotify.com/track/6nxvSAvwbVJIK4CaAjwA5N) | [Zeb Maessen](https://open.spotify.com/artist/28GCtr7gDIxtcAeaaWwpIu) | [Een mooie droom](https://open.spotify.com/album/280hU6Lrftj2KAayzIzROw) | 3:10 | 2023-04-06 |  |
@@ -128,11 +128,11 @@
 | [Forest Night](https://open.spotify.com/track/3GPHBNaJEtE7cB2XvTes0o) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Forest Night](https://open.spotify.com/album/2J6U4M4eojgtfsah2x4tNb) | 2:12 | 2023-04-06 |  |
 | [Four Months](https://open.spotify.com/track/7mKa4BPGbRgRt9OQq8NNtY) | [Leyre Bacque](https://open.spotify.com/artist/3cSOS105ZsQjSVzTf8Gc1L) | [Four Months](https://open.spotify.com/album/3xsuA6xUgUzUWoZ88GBoG6) | 2:37 | 2023-04-06 |  |
 | [Fragile](https://open.spotify.com/track/1jNuMTWsvFvPMwyJcb30FF) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Fragile](https://open.spotify.com/album/23yYxqfArgUd8RkreaCD4t) | 2:59 | 2023-04-06 |  |
-| [Framandi](https://open.spotify.com/track/5yP77S2R52lPrfCEhQekCF) | [Syfjaður](https://open.spotify.com/artist/5kdOHIeSUebjZdlYo7rZb0) | [Framandi](https://open.spotify.com/album/4KzDuHiXkG0TT0NHivvLDX) | 3:01 | 2023-04-06 |  |
+| [Framandi](https://open.spotify.com/track/5yP77S2R52lPrfCEhQekCF) | [Syfjaður](https://open.spotify.com/artist/5kdOHIeSUebjZdlYo7rZb0) | [Framandi](https://open.spotify.com/album/4KzDuHiXkG0TT0NHivvLDX) | 3:01 | 2023-04-06 | 2023-08-05 |
 | [Freeform](https://open.spotify.com/track/3YrLrT0dfvY3biwPDkecAq) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Freeform](https://open.spotify.com/album/6yahW3mslf0k9LRWEDfc7J) | 3:36 | 2023-04-06 |  |
 | [From Within](https://open.spotify.com/track/7qxkgMuJLZ2jaDvk0RnjNf) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [From Within](https://open.spotify.com/album/0BK1COg9s24yNZTYqFKGtN) | 2:56 | 2023-04-06 |  |
 | [Ganymede](https://open.spotify.com/track/6gW7wl7Dbzvv4Az3RbolkD) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Ganymede](https://open.spotify.com/album/29sGh5uT3kHsrjPF7ASy89) | 2:32 | 2023-04-06 |  |
-| [Garden Charm](https://open.spotify.com/track/6TkkTtMH7X4E8B4GDIYznl) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Garden Charm](https://open.spotify.com/album/6EglOGkaaosZN9Iw2UQhSz) | 3:16 | 2023-04-06 |  |
+| [Garden Charm](https://open.spotify.com/track/6TkkTtMH7X4E8B4GDIYznl) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Garden Charm](https://open.spotify.com/album/6EglOGkaaosZN9Iw2UQhSz) | 3:16 | 2023-04-06 | 2023-08-05 |
 | [Gentle](https://open.spotify.com/track/19PlKAonAMJI24h468rBFp) | [Geneva Semere](https://open.spotify.com/artist/77VKKzoNiFyfVSn32eDiwD) | [Gentle](https://open.spotify.com/album/4EIyV7nsjGmJBgYjA5HtT5) | 2:58 | 2023-04-06 |  |
 | [Gentle Words](https://open.spotify.com/track/3Dqg1wo1NVZ9045tfsG2fN) | [Sperenza](https://open.spotify.com/artist/0H36hdcwfQjbJUCkFLIxYJ) | [Gentle Words](https://open.spotify.com/album/1gEp3FcH0gC7gGJ4EbwCn0) | 4:03 | 2023-04-06 |  |
 | [Gisteren](https://open.spotify.com/track/6VlkT2wNTiNCGiPS4pH3tO) | [Casper Wiersma](https://open.spotify.com/artist/2ZEbGQS7T0YnsUHidXUVUZ) | [Gisteren](https://open.spotify.com/album/46Epx3wYFdjZGIP6IFy1zm) | 2:23 | 2023-04-06 |  |
@@ -230,7 +230,7 @@
 | [Pojď se mnou](https://open.spotify.com/track/1s8Nw1IcBENpU7pIGOH8Uk) | [Václav Slezák](https://open.spotify.com/artist/3VHBfS16hX93D0BLGwraUz) | [Pojď se mnou](https://open.spotify.com/album/5fTi5LgFPvSVBBEMAJRL6s) | 3:05 | 2023-04-06 |  |
 | [Profundo Gozo](https://open.spotify.com/track/4nQYz3auP1cTpuvmTrVGkf) | [Hot Hot Springs](https://open.spotify.com/artist/7Mr7UHW0sdgRNuXYpb030K) | [Profundo Amor](https://open.spotify.com/album/4NzOAAKljBEm8GOyZBWYgw) | 2:09 | 2023-04-06 |  |
 | [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 | 2023-06-23 |  |
-| [Propinquity](https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Propinquity](https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843) | 2:22 | 2023-04-06 |  |
+| [Propinquity](https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Propinquity](https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843) | 2:22 | 2023-04-06 | 2023-08-05 |
 | [Prosperum](https://open.spotify.com/track/1qoWYQ6l3g4b7D6eJhzkjt) | [Yara Blom](https://open.spotify.com/artist/45MwI8cnjr9zaf9BKwfoKr) | [Prosperum](https://open.spotify.com/album/3RKzmtRaGOKBt0Fn53r3au) | 2:40 | 2023-06-09 |  |
 | [Protect Your Mind](https://open.spotify.com/track/475L4j7qFaZE0jlcvrsScN) | [Treasures Meditation Flow](https://open.spotify.com/artist/601K9Ks46CQk3kNbZsaOlr) | [Endless Time](https://open.spotify.com/album/4dJ0UwGAVSUK22PK3W3qNg) | 3:14 | 2023-04-06 |  |
 | [Purity](https://open.spotify.com/track/4LRV7mkO2L1yBVhmbDvdqV) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Purity](https://open.spotify.com/album/3dQTx0bJwb9h4la1hgJQbe) | 2:33 | 2023-04-06 |  |
@@ -248,7 +248,8 @@
 | [Release U](https://open.spotify.com/track/23RCTNUpMvJoBpnWUizG3y) | [Jamie Soner](https://open.spotify.com/artist/1bdlQnsdKWva2CelmDntCB) | [Release U](https://open.spotify.com/album/4TdzdTQDRB9NQs3OYgDPaq) | 3:14 | 2023-04-06 |  |
 | [Reminiscence](https://open.spotify.com/track/7gJ7Yb0ZpUPUiaYVv6FhR8) | [Griff Beynon](https://open.spotify.com/artist/4xdU9qb6mDz0punEhwwi72) | [Reminiscence](https://open.spotify.com/album/5ZqtwBmNJwxXHAff8szncz) | 3:21 | 2023-04-06 |  |
 | [Resolvation](https://open.spotify.com/track/6QsiRBMCsArD9PdKHGy2xJ) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Resolvation](https://open.spotify.com/album/78IWzcRF28DoxShxRrxrrT) | 2:56 | 2023-04-06 |  |
-| [Resting Mode](https://open.spotify.com/track/4M4pPhb3nKessOfO2luI7M) | [The Sleep Crew](https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn) | [Resting Mode](https://open.spotify.com/album/37aLyVyJDi2iUHZhTRq0Cg) | 2:24 | 2023-04-06 |  |
+| [Rest And Sleep](https://open.spotify.com/track/1dP2Rd9ViYTNv3yVO2KEY1) | [Youssouf Yaro](https://open.spotify.com/artist/7pFjwqCdPUodEXf6mfoM7g) | [Rest And Sleep](https://open.spotify.com/album/0DTIAeAIV5iLToCDdrdsyG) | 3:23 | 2023-08-04 |  |
+| [Resting Mode](https://open.spotify.com/track/4M4pPhb3nKessOfO2luI7M) | [The Sleep Crew](https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn) | [Resting Mode](https://open.spotify.com/album/37aLyVyJDi2iUHZhTRq0Cg) | 2:24 | 2023-04-06 | 2023-08-05 |
 | [Reticence](https://open.spotify.com/track/1VLKeNy3qUe8MNvejjTtoy) | [Fiona Kolev](https://open.spotify.com/artist/5gIsewE9wwowXLnCYMpzO4) | [Reticence](https://open.spotify.com/album/3r2Bjqzlzo9eGjzcFjT4Ox) | 2:33 | 2023-04-06 |  |
 | [Revival](https://open.spotify.com/track/28sltBUJ0po8xXWfTrFPe2) | [Brenda Latro](https://open.spotify.com/artist/0mHX6nwLN0iQCEGTNUkpFC) | [Revival](https://open.spotify.com/album/2I4Gb4vBDlszTW1sHT7MDT) | 3:28 | 2023-04-06 |  |
 | [Ridges](https://open.spotify.com/track/6Q3WHEYkQ54apZl6WoFyQu) | [Jon Laer](https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW) | [Ridges](https://open.spotify.com/album/5QPmwgdpIy1rjFGazOFDpC) | 3:45 | 2023-04-06 |  |
@@ -275,7 +276,7 @@
 | [Sluimeren](https://open.spotify.com/track/66pwfPIsgHrqmpq30wUTjE) | [Chaima Bergevoet](https://open.spotify.com/artist/5fjdDidIgzZ6pFIXk3q5Bj) | [Sluimeren](https://open.spotify.com/album/42yS37sBL5qc7cjkaowUsC) | 2:59 | 2023-04-06 |  |
 | [Soft Answers](https://open.spotify.com/track/5cNxtUwvAsml2dxp4zpoVa) | [Neoline Ewing](https://open.spotify.com/artist/1MhNxd0tQVdZHLw2xNATuF) | [Soft Answers](https://open.spotify.com/album/4n5WkZT1FkBtYkTXtlbEaE) | 3:23 | 2023-04-06 |  |
 | [Soft Night](https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Traditions & Traitors](https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f) | 2:35 | 2023-04-06 |  |
-| [Sogno Illuminum](https://open.spotify.com/track/2XwakW5X0FkLa7xGfgDwot) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Sogno Illuminum](https://open.spotify.com/album/278BtYoGB8VN4tnOcsTyHu) | 2:20 | 2023-04-06 |  |
+| [Sogno Illuminum](https://open.spotify.com/track/2XwakW5X0FkLa7xGfgDwot) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Sogno Illuminum](https://open.spotify.com/album/278BtYoGB8VN4tnOcsTyHu) | 2:20 | 2023-04-06 | 2023-08-05 |
 | [Solitudine](https://open.spotify.com/track/2hV9i6HwEGfKq7E3worBwb) | [Luca Magliano](https://open.spotify.com/artist/6rTUmNm0j9cHKtFUBa57B7) | [Solitudine](https://open.spotify.com/album/1GydnOM6KkPMR4EFVrzCcQ) | 3:05 | 2023-04-06 |  |
 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 | 2023-04-06 |  |
 | [Soothing Clouds](https://open.spotify.com/track/5rL5AzqG58aU1R0t0zY0Ox) | [Manuel Wall](https://open.spotify.com/artist/3RMH13VbjWYtpxwgAkF3cU) | [Soothing Clouds](https://open.spotify.com/album/2hoQyCzvAM14tksVwAcMcf) | 2:25 | 2023-04-06 |  |
@@ -331,7 +332,7 @@
 | [When we looked at the stars](https://open.spotify.com/track/2P8PPvipvkSK2iHsuqR27H) | [Maddox JR](https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr) | [Placidity](https://open.spotify.com/album/75ivkKwsC8iTZMcvbI7BeS) | 3:21 | 2023-04-06 | 2023-06-17 |
 | [Window To My Mind](https://open.spotify.com/track/1wE9HgRDTAlL5zsw1V3ThR) | [Konradism](https://open.spotify.com/artist/4uA8U0JA9Wg48FEmhekfFk) | [Window To My Mind](https://open.spotify.com/album/5nO2GGiIIYGRR4ZvnxsMXB) | 2:47 | 2023-04-06 |  |
 | [Wishing to Dream](https://open.spotify.com/track/2Iwa4VlmFChLkfy1kLk4js) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Wishing to Dream](https://open.spotify.com/album/0SvHuutnF3D6rb9LrOaqdh) | 2:50 | 2023-04-06 |  |
-| [Within the Light](https://open.spotify.com/track/6Di2mEmryP7AAak4VZMLVJ) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Within the Light \(Ambient Version\)](https://open.spotify.com/album/4qJ6aOT7ZWniQnKQVbIDK8) | 2:29 | 2023-04-06 |  |
+| [Within the Light](https://open.spotify.com/track/6Di2mEmryP7AAak4VZMLVJ) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Within the Light \(Ambient Version\)](https://open.spotify.com/album/4qJ6aOT7ZWniQnKQVbIDK8) | 2:29 | 2023-04-06 | 2023-08-05 |
 | [World Beyond](https://open.spotify.com/track/5ivvtayl4QgwCtjUd4JOB1) | [Evolving Stream](https://open.spotify.com/artist/5zL5lmsaGzjnU7dn85w2bz) | [World Beyond](https://open.spotify.com/album/7bYiEz6kPFaPZ0hxnMQnds) | 2:57 | 2023-04-06 |  |
 | [You Were There](https://open.spotify.com/track/4yeSps53hkpdwz7G4Jl7PR) | [Nadine Gaertner](https://open.spotify.com/artist/20pShYixHbYfabMneFBBAW) | [You Were There](https://open.spotify.com/album/76GHlYkgh8magZrxcsF9eG) | 4:04 | 2023-04-06 | 2023-07-14 |
 | [Your Peace](https://open.spotify.com/track/65AHFH7pRxxMrFDsFVH5Hv) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [New Beginning](https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP) | 3:44 | 2023-04-06 |  |

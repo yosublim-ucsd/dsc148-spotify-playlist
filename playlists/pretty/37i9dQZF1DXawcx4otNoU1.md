@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > For those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,491 likes - 150 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,622 likes - 150 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,14 +81,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 71 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
 | 72 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 |
 | 73 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/1et7vATtyqLfNMjTTZIYk1) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Tyler Shaw](https://open.spotify.com/album/36Tel8kJ51tu7M65yWywbP) | 2:30 |
-| 74 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
-| 75 | [Flashlight \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/6SkoBaMd0lzoQjID5aV2d9) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 3:29 |
+| 74 | [Flashlight \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/6SkoBaMd0lzoQjID5aV2d9) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 3:29 |
+| 75 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
 | 76 | [Midnight Train](https://open.spotify.com/track/1A85fOmviQuGgkF6Lww6Nd) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:27 |
 | 77 | [Chemicals](https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 3:41 |
 | 78 | [It's Gotta Be You](https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [Isaiah](https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv) | 3:13 |
 | 79 | [Peak \(Fed Up\)](https://open.spotify.com/track/3KcDfeZ1UAMtun8TuvG1kT) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Peak \(Fed Up\)](https://open.spotify.com/album/0bXAy3LZaokYu7txrbmScK) | 3:08 |
-| 80 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 |
-| 81 | [Wherever You Will Go](https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g) | [Charlene Soraia](https://open.spotify.com/artist/0qk8MxMzgnfFECvDO3cc0X) | [Wherever You Will Go](https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh) | 3:17 |
+| 80 | [Wherever You Will Go](https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g) | [Charlene Soraia](https://open.spotify.com/artist/0qk8MxMzgnfFECvDO3cc0X) | [Wherever You Will Go](https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh) | 3:17 |
+| 81 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 |
 | 82 | [I Was Made For Loving You](https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS) | 3:08 |
 | 83 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
 | 84 | [1973 \- Acoustic](https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 3:29 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 121 | [So Close To Magic](https://open.spotify.com/track/6aiss5Ofip4rDM88Fs1Yrg) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [So Close To Magic](https://open.spotify.com/album/0U9mWDHfGU2dOySdeHlQh1) | 3:22 |
 | 122 | [Bridge Back to Your Heart](https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk) | [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Bridge Back to Your Heart](https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA) | 4:21 |
 | 123 | [Radio](https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Radio](https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0) | 3:10 |
-| 124 | [May I Have This Dance](https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [May I Have This Dance](https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC) | 3:31 |
-| 125 | [I'm In Love With You](https://open.spotify.com/track/294dYnMUNXBv5oCbDV5Qxh) | [Endre Nordvik](https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb) | [Suburb Hero](https://open.spotify.com/album/0LuEYOydWvtw06yEO2x3O6) | 3:47 |
+| 124 | [I'm In Love With You](https://open.spotify.com/track/294dYnMUNXBv5oCbDV5Qxh) | [Endre Nordvik](https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb) | [Suburb Hero](https://open.spotify.com/album/0LuEYOydWvtw06yEO2x3O6) | 3:47 |
+| 125 | [May I Have This Dance](https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [May I Have This Dance](https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC) | 3:31 |
 | 126 | [Wish I Was Right For You](https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL) | [jens](https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg) | [Wish I Was Right For You](https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR) | 3:02 |
 | 127 | [Lifetime](https://open.spotify.com/track/1ih7dEWtBbKpIrNo38Hcbn) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [No Longer in the Suburbs](https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8) | 3:09 |
 | 128 | [The World's Smiling Now](https://open.spotify.com/track/6KrDF0sid0jwhbVIT0tatx) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Eternally Even](https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL) | 4:53 |
@@ -153,10 +153,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 143 | [Everything](https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Everything](https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ) | 3:39 |
 | 144 | [Song For A Friend](https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Song For A Friend](https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I) | 3:56 |
 | 145 | [Animals \- Unplugged Version](https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y) | [Chris Call](https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg) | [Animals](https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1) | 3:50 |
-| 146 | [Shelter](https://open.spotify.com/track/5JdnVXe1i6CI8a0cdPtLOc) | [David Ryan Harris](https://open.spotify.com/artist/3wnsAakCkhyU3yKQYMZmGo) | [Lightyears](https://open.spotify.com/album/7cVQV3nQQebitwdDJMKmT9) | 4:10 |
-| 147 | [If the Creek Don't Rise](https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Paupers Field](https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1) | 3:24 |
+| 146 | [If the Creek Don't Rise](https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Paupers Field](https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1) | 3:24 |
+| 147 | [Shelter](https://open.spotify.com/track/5JdnVXe1i6CI8a0cdPtLOc) | [David Ryan Harris](https://open.spotify.com/artist/3wnsAakCkhyU3yKQYMZmGo) | [Lightyears](https://open.spotify.com/album/7cVQV3nQQebitwdDJMKmT9) | 4:10 |
 | 148 | [Joshua](https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 3:31 |
 | 149 | [Keeper](https://open.spotify.com/track/4eAjYQi1Pcimj01jVl9DFO) | [Furns](https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy) | [Keeper](https://open.spotify.com/album/6diy4RSh46M4H07eFCSywl) | 4:25 |
 | 150 | [Heights](https://open.spotify.com/track/6AeMqCW8yvsUlPbC2euMON) | [Only Girl](https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt) | [Heights](https://open.spotify.com/album/0XDFAkZ0lguLrmkJlq0bRp) | 3:46 |
 
-Snapshot ID: `MCw3ZjJjY2FiNDY2MjE0YWI3YjUyNjgwMWRhOWE0YTg0ZjVlYmIyYzVi`
+Snapshot ID: `MCxhYzllMTY2NDdiYjQ1Yzg4YWQ2MTFhYTc3YWIxYThlNGQ3ZGMyZDM5`

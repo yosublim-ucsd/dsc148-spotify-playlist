@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 
 > This is Joy Crookes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,777 likes - 28 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,787 likes - 28 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 | 6 | [Mother May I Sleep With Danger?](https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:27 |
 | 7 | [You & Me Song](https://open.spotify.com/track/2KYxtGXViLqIRY5fkOpPDS) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [You & Me Song](https://open.spotify.com/album/3awmmBHW9HS1V5fp26kfN7) | 2:51 |
 | 8 | [Two Nights](https://open.spotify.com/track/5BeS2mGbdYVfS53Q6bVinG) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:06 |
-| 9 | [Anyone But Me](https://open.spotify.com/track/40KxHanilxLVRq4DY5pnm7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Anyone But Me](https://open.spotify.com/album/6DDUgkyC6tDXlSa3w4ua3q) | 3:02 |
-| 10 | [Don't Let Me Down \- Demo](https://open.spotify.com/track/1VwPTHAfPvcL1ZubK6qabL) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Don't Let Me Down \(Demo\)](https://open.spotify.com/album/7GWow8Uxx2X9Moop7GD3KR) | 3:15 |
+| 9 | [Don't Let Me Down \- Demo](https://open.spotify.com/track/1VwPTHAfPvcL1ZubK6qabL) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Don't Let Me Down \(Demo\)](https://open.spotify.com/album/7GWow8Uxx2X9Moop7GD3KR) | 3:15 |
+| 10 | [Anyone But Me](https://open.spotify.com/track/40KxHanilxLVRq4DY5pnm7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Anyone But Me](https://open.spotify.com/album/6DDUgkyC6tDXlSa3w4ua3q) | 3:02 |
 | 11 | [Poison](https://open.spotify.com/track/3yNLAcsyowTQ1GZUJUAXbH) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:31 |
 | 12 | [Hurts](https://open.spotify.com/track/1wliWYGaW0WHkZEOB469dI) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Perception EP](https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4) | 3:22 |
 | 13 | [London Mine](https://open.spotify.com/track/6vUIyI8EelA0GVKcwXOoai) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [London Mine](https://open.spotify.com/album/75Rq7SgoaIrr1CFQzUR7Nt) | 3:43 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 | 18 | [Darkest Hour](https://open.spotify.com/track/44gBofMgplbG0f1XQwTraO) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Perception EP](https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4) | 3:36 |
 | 19 | [Kingdom](https://open.spotify.com/track/0RVEAF3XFF2dZFhI8O58JF) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:08 |
 | 20 | [For a Minute \(feat\. KarimThaPeasant\)](https://open.spotify.com/track/4JSlPG9DkRuhyXNdLxhI5a) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [KarimThaPeasant](https://open.spotify.com/artist/1tDOv0KCi6XAF3aXsn559F) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:12 |
-| 21 | [Sinatra](https://open.spotify.com/track/7B7oncgJZ6AvkmKg6IZwpE) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:03 |
-| 22 | [Mahi Sona \(AKA The Wedding Song\) \- Joy Crookes Version](https://open.spotify.com/track/4oDFdxr8iodW5JubvDmjMt) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ), [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [Billy Khan](https://open.spotify.com/artist/1uEVvjjSsBzSJ15mxDcR4J) | [What's Love Got to Do with It? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3OtrHr6YssIB3dCg42g8qc) | 2:27 |
+| 21 | [Mahi Sona \(AKA The Wedding Song\) \- Joy Crookes Version](https://open.spotify.com/track/4oDFdxr8iodW5JubvDmjMt) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ), [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [Billy Khan](https://open.spotify.com/artist/1uEVvjjSsBzSJ15mxDcR4J) | [What's Love Got to Do with It? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3OtrHr6YssIB3dCg42g8qc) | 2:27 |
+| 22 | [Sinatra](https://open.spotify.com/track/7B7oncgJZ6AvkmKg6IZwpE) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:03 |
 | 23 | [Skin](https://open.spotify.com/track/7k8b5u5fisGTDNahrJK6dw) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 2:58 |
 | 24 | [Man's World](https://open.spotify.com/track/59oGmgXiWsC4BSkskZ1uhV) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:42 |
 | 25 | [New Manhattan](https://open.spotify.com/track/6B0VAfh8UCCEMNvgmGYEGX) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:11 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 | 27 | [Lover Don't](https://open.spotify.com/track/4cbumWU9TeBFWkeqK7i8hy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:37 |
 | 28 | [19th Floor](https://open.spotify.com/track/3fKmIoHvrhBQMOITJYeyeb) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:09 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDAxYjEzYmQyZmJjZTkyOGY4ZjA3YTM2NWI5NmRmYmI1ZQ==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDA2MDAxMTg3NWM0YWM2ZTQxN2MyYzQzNjA2NjEzNDFmOA==`

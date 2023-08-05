@@ -4,7 +4,7 @@
 
 > Dosis musical para disfrutar el momento\. Foto: Yoss Bones, Nanpa Básico
 
-89 songs - 4 hr 54 min
+90 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Debe ser que estoy rindiéndome](https://open.spotify.com/track/1ir9k1BaWEdZ2eGbfd1vRi) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Falta curar Vol.1](https://open.spotify.com/album/26pgudzDxWEF8U4npHqAbM) | 3:08 | 2023-07-07 |  |
 | [Dos Problemas \(feat\. Big Soto\) \- Remix](https://open.spotify.com/track/7bx66Je824Iak8c1CfsMrE) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Dos Problemas \(feat\. Big Soto\) \[Remix\]](https://open.spotify.com/album/6J5v3KTP6mYNd02doPo4mM) | 4:03 | 2023-03-31 |  |
 | [DREAM TEAM](https://open.spotify.com/track/5TUnTeJbmCl0uExo9Frxrm) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [DREAM TEAM](https://open.spotify.com/album/300OH5pDtCASI7RNgZaCZ1) | 2:16 | 2023-03-31 | 2023-06-24 |
-| [Emiliana](https://open.spotify.com/track/6YRbXDDO4qYimOJB2wLwMr) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Drama Vol\. 1](https://open.spotify.com/album/5SoVXEF6lDQzvKAHqdf5sM) | 2:44 | 2023-06-23 |  |
+| [Emiliana](https://open.spotify.com/track/6YRbXDDO4qYimOJB2wLwMr) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Drama Vol\. 1](https://open.spotify.com/album/5SoVXEF6lDQzvKAHqdf5sM) | 2:44 | 2023-06-23 | 2023-08-05 |
 | [ESO](https://open.spotify.com/track/0LNfEN9cJbgWwaikO4kZxo) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [ESO](https://open.spotify.com/album/2Tug6Kh0os9ZcHWfQX23ne) | 3:10 | 2023-03-31 | 2023-07-08 |
 | [Estetograma](https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Estetograma](https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu) | 3:40 | 2023-03-31 | 2023-07-08 |
 | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/track/4E6kns35AUSkJhHpXYRRKF) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/album/1Z3NkOHY0rbefHDkIttPhP) | 2:30 | 2023-06-23 | 2023-07-15 |
@@ -71,6 +71,7 @@
 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 | 2023-03-31 |  |
 | [No Pienses Que Me Fui](https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Pienses Que Me Fui](https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG) | 2:30 | 2023-03-31 | 2023-07-22 |
 | [No Puedo Olvidarte](https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Puedo Olvidarte](https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR) | 3:45 | 2023-07-21 |  |
+| [No quiero buscarte más](https://open.spotify.com/track/2TawSvt8WBTObWxhjJJiKM) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6) | [No quiero buscarte más](https://open.spotify.com/album/0KOfvc5NREcsnLP4HI1AEE) | 2:49 | 2023-08-04 |  |
 | [No Te Vayas](https://open.spotify.com/track/4BjwreWm0U4DdwqYk6hJH2) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [No Te Vayas](https://open.spotify.com/album/3vhqf5YeiGZyCuXkKzWE5b) | 4:36 | 2023-07-07 |  |
 | [NOSPOR](https://open.spotify.com/track/4yqrIQZxkR5ayIYDVE2alF) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [NOSPOR](https://open.spotify.com/album/1N0JU10NYU5sG4QD5lTjeV) | 2:18 | 2023-07-21 |  |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2023-03-31 | 2023-04-15 |

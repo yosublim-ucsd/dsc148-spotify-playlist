@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-132 songs - 9 hr 28 min
+133 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Nightime](https://open.spotify.com/track/6jrUeg6RAa2Nd9bXTFfi1W) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Hours](https://open.spotify.com/album/7bmYYxOYRSN6TIiMZoxYjj) | 10:58 | 2022-05-19 |  |
 | [Objecting](https://open.spotify.com/track/2VZWcp3QYWVMxj3Bn8r6dX) | [Alexander Mark](https://open.spotify.com/artist/6gah0trDTqv3p6OgjC5F0T) | [Objecting](https://open.spotify.com/album/4f07SHjOfxLqGwaq3YyCBM) | 2:48 | 2022-12-20 |  |
 | [Overture \(For Other Halfs\)](https://open.spotify.com/track/1F7vUCER63VfNzvZKTi2pn) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 6:38 | 2022-05-19 |  |
+| [Peace](https://open.spotify.com/track/0M7y04NJTaaQkS45V9TbXA) | [Calmly](https://open.spotify.com/artist/5OWksQm7ONWIGZqMXovSli) | [Peace](https://open.spotify.com/album/73nfGCVnUQmTmyvtaBzppv) | 2:17 | 2023-08-04 |  |
 | [Peace Within](https://open.spotify.com/track/2bEPZJ1J2pjgtVOoAOu6Iu) | [inertia.](https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH), [Feel Better](https://open.spotify.com/artist/1N4by2ZqavHgzSyWyCgoKd) | [Peace Within](https://open.spotify.com/album/3ttFxsXk4whRs5LCHi9Vpo) | 2:35 | 2023-07-06 |  |
 | [Photo With Grey Sky, White Clouds](https://open.spotify.com/track/3xLBY0NMWZqdLCYbPqcUb6) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 8:29 | 2022-05-19 |  |
 | [Pulse](https://open.spotify.com/track/20C59ZiRbuRZIY2Xbup9Wl) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Pulse](https://open.spotify.com/album/3ygr62Q1IfpB70QB9D1HEy) | 2:08 | 2022-07-08 | 2023-04-29 |

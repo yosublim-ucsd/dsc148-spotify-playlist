@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 
 > Taking it back to the 2000s\. Cover: Jay\-Z
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,667 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,867 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,14 +71,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 61 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 |
 | 62 | [Blow the Whistle](https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Blow The Whistle](https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp) | 2:43 |
 | 63 | [Shawty \(feat\. T Pain\)](https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [The Real Testament](https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW) | 4:15 |
-| 64 | [B.O.B\. \- Bombs Over Baghdad](https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 5:04 |
-| 65 | [Wanna Get To Know You](https://open.spotify.com/track/1dHJETCn2X1R1YwVlMvSza) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Beg For Mercy](https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy) | 4:25 |
+| 64 | [Wanna Get To Know You](https://open.spotify.com/track/1dHJETCn2X1R1YwVlMvSza) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Beg For Mercy](https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy) | 4:25 |
+| 65 | [B.O.B\. \- Bombs Over Baghdad](https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 5:04 |
 | 66 | [Hey Ma](https://open.spotify.com/track/2fE1hcjUxlLxXrZusTEJlq) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [Freekey Zeekey](https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3), [Toya](https://open.spotify.com/artist/02ehFoytLUjat0JMYpYsml) | [Come Home With Me](https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv) | 3:40 |
 | 67 | [Put It On Me](https://open.spotify.com/track/0OvwzS8FX73Bw7ykMRmffU) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Vita](https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU) | [Rule 3:36](https://open.spotify.com/album/2PIXzzS8WEzv8Ws92qspEH) | 4:22 |
 | 68 | [Good Times](https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP) | [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [A Gangster And A Gentleman](https://open.spotify.com/album/4LmiDfIReR290PQm026KNF) | 3:31 |
-| 69 | [Area Codes](https://open.spotify.com/track/3lcC9CnN7Rpo1ugATzmYjY) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Word Of Mouf](https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr) | 5:03 |
+| 69 | [I'm a Thug](https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [THUGS ARE US](https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH) | 4:14 |
 | 70 | [Bust It Baby, Pt\. 2 \(feat\. Ne\-Yo\)](https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Definition of Real](https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA) | 4:00 |
-| 71 | [I'm a Thug](https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [THUGS ARE US](https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH) | 4:14 |
+| 71 | [Area Codes](https://open.spotify.com/track/3lcC9CnN7Rpo1ugATzmYjY) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Word Of Mouf](https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr) | 5:03 |
 | 72 | [U and Dat \(feat\. T\. Pain & Kandi Girl\)](https://open.spotify.com/track/7g7M96UGiA7OR79H86gV4m) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Kandi Girl](https://open.spotify.com/artist/41TccBHnkaVhhgCgl83JU8) | [My Ghetto Report Card](https://open.spotify.com/album/3VqKqWHOHYfZqttJ0WwQHl) | 3:22 |
 | 73 | [Knuck If You Buck \(feat\. Lil' Scrappy\)](https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crime Mob](https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU) | 3:25 |
 | 74 | [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 99 | [New York](https://open.spotify.com/track/7xXvPyOiFCsB5SSpio5g38) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [R.U.L.E.](https://open.spotify.com/album/2gBIN9uSnZjf0mb3FjwEnb) | 4:18 |
 | 100 | [Shake Ya Ass \(feat\. Pharrell Williams\)](https://open.spotify.com/track/1jRzdY7oUBOhrylNtiMtBD) | [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Let's Get Ready](https://open.spotify.com/album/388lv1ynvLzyJooZsNmf0l) | 4:16 |
 
-Snapshot ID: `MCw0NjUzMTNjMzU3NDIzNTBjNjQzYzQxMjU2Y2FiOTdjYmZiNmEyZjJj`
+Snapshot ID: `MCxkMWVjMDdlNGM0N2ExNTBjZGYwYjk1MTM1YjhiNzNjMTEzMThmNDIz`

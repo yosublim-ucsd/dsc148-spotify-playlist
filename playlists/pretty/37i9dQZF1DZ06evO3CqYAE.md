@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,170 likes - 43 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,191 likes - 43 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 21 | [Oil on My Head \(Remix\)](https://open.spotify.com/track/5bBXbEHWTv1ixEDSCIaMWG) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Oil on My Head \(Remix\)](https://open.spotify.com/album/75MASrjuVKPaIUdKErSFrU) | 3:37 |
 | 22 | [Yesterday Today Forever](https://open.spotify.com/track/28ZfSHW7oGWpwW2vefLxLB) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:24 |
 | 23 | [Onememma](https://open.spotify.com/track/1AeUQHTbDnBwRqhFqFPZo8) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4) | [SATISFIED](https://open.spotify.com/album/6ob1gwzBctp5HnzXhyBH3b) | 4:06 |
-| 24 | [Regular \(feat\. Fiokee\)](https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 3:57 |
-| 25 | [Jesus Never Fails](https://open.spotify.com/track/14l8WcALXlYW0wmLn27M8I) | [MaryJane Nweke](https://open.spotify.com/artist/7GcL0el74n5UvZY4mtyhaW), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Jesus Never Fails](https://open.spotify.com/album/0n1dN2pZ24kVPBoADqICfj) | 5:28 |
+| 24 | [Jesus Never Fails](https://open.spotify.com/track/14l8WcALXlYW0wmLn27M8I) | [MaryJane Nweke](https://open.spotify.com/artist/7GcL0el74n5UvZY4mtyhaW), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Jesus Never Fails](https://open.spotify.com/album/0n1dN2pZ24kVPBoADqICfj) | 5:28 |
+| 25 | [Regular \(feat\. Fiokee\)](https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 3:57 |
 | 26 | [Imela](https://open.spotify.com/track/2CtReCMMQ7C7FiN1hbFWQ3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:11 |
-| 27 | [Jesus](https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Jesus](https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR) | 6:15 |
-| 28 | [Trust](https://open.spotify.com/track/3RZoiOu3Pae30Cm11y4hwt) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Trust](https://open.spotify.com/album/0yedzr4B8mZkmcsugAuv2u) | 2:53 |
+| 27 | [Trust](https://open.spotify.com/track/3RZoiOu3Pae30Cm11y4hwt) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Trust](https://open.spotify.com/album/0yedzr4B8mZkmcsugAuv2u) | 2:53 |
+| 28 | [Jesus](https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Jesus](https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR) | 6:15 |
 | 29 | [Power Belongs To Jesus](https://open.spotify.com/track/5fqI7ZiaxhNAGDD2rO0v9R) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Power Belongs To Jesus](https://open.spotify.com/album/4XDq3mAaDCBSBJzRGszNoN) | 4:16 |
 | 30 | [Igwe](https://open.spotify.com/track/0bmIKllyl9bZhNxt2jgvzA) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 5:27 |
 | 31 | [With our God all things are possible](https://open.spotify.com/track/1xOg39z68YKgYEpbLzdoQW) | [Rev\. Sam Oye](https://open.spotify.com/artist/1IsPJMbzL8v2OyLfRNMO6O), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Transformers Worship Team](https://open.spotify.com/artist/2cNuJvj9PX6bf5iNMbUZ0n) | [With our God all things are possible](https://open.spotify.com/album/7G9tmEdtkiXVoOj5h0UFko) | 11:50 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 42 | [Love Expression](https://open.spotify.com/track/1h4oo2IsxI5xUiipPYOj15) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Love Expression](https://open.spotify.com/album/6YMiYEkP0jdzjvCXsmlE1O) | 3:44 |
 | 43 | [NaNa Owei \(feat\. Mercy Chinwo\)](https://open.spotify.com/track/1st08MRE0BCD7CwwlEL8oi) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Ready](https://open.spotify.com/album/3ZDKzS3dLFIo0UErHknL2A) | 4:08 |
 
-Snapshot ID: `MjgxODQ1MTMsMDAwMDAwMDBhYjcxY2IzY2ExNjM4YjI5MDgzMTFhZWU1N2JmMjk0OQ==`
+Snapshot ID: `MjgxODYwODIsMDAwMDAwMDBkNDU1MTQ0ODU2NTY2NTgzM2M4OGFkMDQwOThmMTlkNw==`

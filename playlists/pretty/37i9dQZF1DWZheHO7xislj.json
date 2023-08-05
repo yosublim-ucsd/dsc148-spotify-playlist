@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 136700,
+  "num_followers": 136718,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjVhOTc4NTJiZTBmMjY3Yjk3MGU3YWVjMGI4MDM5OTk1MWRlOWU2",
+  "snapshot_id": "MCw3NzE2ZjcxMDNkMGIyMTNjZGEyMGMwMjM5OTAzODE1YjEzMjZiOGZj",
   "tracks": [
     {
       "added_at": "2023-06-27 13:29:38",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 155413,
       "name": "Love Is A Losing Game",
       "url": "https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
-        "name": "Abandoned Luncheonette",
-        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
+        "name": "Enter The 37th Chamber",
+        "url": "https://open.spotify.com/album/7ylTeGpMy2RbFDMGSnYjX5"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "C.R.E.A.M.",
+      "url": "https://open.spotify.com/track/4bJ7tMJqfYmkKgCYzaaG4B"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
         "name": "Fugue State",
         "url": "https://open.spotify.com/album/3DiHrdZ5z0AqW6JTpLAKxG"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 199639,
       "name": "1612",
       "url": "https://open.spotify.com/track/39rHfrVqCX6A55GF7uOZSC"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
-        "name": "Enter The 37th Chamber",
-        "url": "https://open.spotify.com/album/7ylTeGpMy2RbFDMGSnYjX5"
-      },
-      "artists": [
-        {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "C.R.E.A.M.",
-      "url": "https://open.spotify.com/track/4bJ7tMJqfYmkKgCYzaaG4B"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Givin' It Back",
-        "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Love the One You're With",
-      "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Take from Me",
         "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 213933,
       "name": "Easy to Come Home",
       "url": "https://open.spotify.com/track/3UZ8WlceXd5kDmnpNvA8Dd"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Givin' It Back",
+        "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Love the One You're With",
+      "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "George McCrae - Disco Pioneer",
-        "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
-      },
-      "artists": [
-        {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Breakin' Away",
         "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 226066,
       "name": "We're in This Love Together",
       "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "George McCrae - Disco Pioneer",
+        "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1971,18 +1971,18 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "The Very Best of Aretha Franklin - The 70's",
-        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
+        "name": "Songs In A Minor",
+        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 213560,
-      "name": "Spanish Harlem",
-      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
+      "duration_ms": 237626,
+      "name": "How Come You Don't Call Me",
+      "url": "https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Songs In A Minor",
-        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
+        "name": "The Very Best of Aretha Franklin - The 70's",
+        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 237626,
-      "name": "How Come You Don't Call Me",
-      "url": "https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72"
+      "duration_ms": 213560,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 270640,
-      "name": "This Land Is Your Land",
-      "url": "https://open.spotify.com/track/3PiHGEbBLYuBPFdP9tihF0"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "The Very Best of Aretha Franklin - The 70's",
         "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 333933,
       "name": "Bridge over Troubled Water",
       "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 270640,
+      "name": "This Land Is Your Land",
+      "url": "https://open.spotify.com/track/3PiHGEbBLYuBPFdP9tihF0"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2551,22 +2551,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "The Way I See It",
-        "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
-      },
-      "artists": [
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 138426,
-      "name": "100 Yard Dash",
-      "url": "https://open.spotify.com/track/2OPANrnimcwWcVQuDk8ibD"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "R&B: From Doo-Wop To Hip-Hop",
         "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
       },
@@ -2583,6 +2567,22 @@
       "duration_ms": 211426,
       "name": "Wake up Everybody (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/6aeSAKcpmdXyxUJK4ojyyR"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "The Way I See It",
+        "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
+      },
+      "artists": [
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 138426,
+      "name": "100 Yard Dash",
+      "url": "https://open.spotify.com/track/2OPANrnimcwWcVQuDk8ibD"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2635,22 +2635,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "The Way I See It",
-        "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
-      },
-      "artists": [
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 148240,
-      "name": "Let's Take a Walk",
-      "url": "https://open.spotify.com/track/7izNjJmJNskhSEFGMUacfl"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Fancy",
         "url": "https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6"
       },
@@ -2695,6 +2679,22 @@
       "duration_ms": 328500,
       "name": "You Can't Turn Me Away",
       "url": "https://open.spotify.com/track/7H6lTSdK33pBFUwNbXCxX3"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "The Way I See It",
+        "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
+      },
+      "artists": [
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 148240,
+      "name": "Let's Take a Walk",
+      "url": "https://open.spotify.com/track/7izNjJmJNskhSEFGMUacfl"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2863,22 +2863,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Spirit in the Dark",
-        "url": "https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 243826,
-      "name": "Spirit in the Dark",
-      "url": "https://open.spotify.com/track/1wGvueGYFPUmQUtVglgcPt"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Tellin' It",
         "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
       },
@@ -2891,6 +2875,22 @@
       "duration_ms": 178280,
       "name": "Come to Mama",
       "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Spirit in the Dark",
+        "url": "https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 243826,
+      "name": "Spirit in the Dark",
+      "url": "https://open.spotify.com/track/1wGvueGYFPUmQUtVglgcPt"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2987,22 +2987,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 262733,
-      "name": "Rhythm Of Life",
-      "url": "https://open.spotify.com/track/0M9IxiWUPqYXlBbPLaJg0R"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Another Side",
         "url": "https://open.spotify.com/album/1eSgEDszxXr6haafSVkK7u"
       },
@@ -3015,6 +2999,22 @@
       "duration_ms": 214506,
       "name": "You've Become a Habit",
       "url": "https://open.spotify.com/track/373YZS4hMUPxFTHMG4TAFh"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
+      },
+      "artists": [
+        {
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+        }
+      ],
+      "duration_ms": 262733,
+      "name": "Rhythm Of Life",
+      "url": "https://open.spotify.com/track/0M9IxiWUPqYXlBbPLaJg0R"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -3251,6 +3251,22 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
+        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
+        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
         "name": "Very Dionne",
         "url": "https://open.spotify.com/album/1qBpQ22zaCQzTLBW28sWO3"
       },
@@ -3279,22 +3295,6 @@
       "duration_ms": 168229,
       "name": "W.E.L.F.A.R.E",
       "url": "https://open.spotify.com/track/5tEBmzq26o1s6umHCvrpoF"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
-        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
-        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
     },
     {
       "added_at": "2023-06-27 13:29:38",

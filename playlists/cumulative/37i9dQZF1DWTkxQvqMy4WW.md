@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-382 songs - 21 hr 56 min
+383 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [How Country Feels](https://open.spotify.com/track/68A4qiCqD9y39N3WNEsJVD) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/1Wcnyz2zYWLIPZ1K63RXdW) | 3:05 | 2019-06-23 | 2022-04-18 |
 | [How Country Feels](https://open.spotify.com/track/6aUhfNWYnMThF3TGtuYUUu) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6) | 3:05 | 2022-05-13 |  |
 | [How Does It Sound](https://open.spotify.com/track/5tMViyamkwQmHjMm1OajDi) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [How Does It Sound](https://open.spotify.com/album/7gdxWcWFR6l5IFEHkVn6ol) | 2:42 | 2019-05-25\* | 2022-04-21 |
-| [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 | 2019-06-23 |  |
+| [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 | 2019-06-23 | 2023-08-05 |
 | [Huntin', Fishin' And Lovin' Every Day](https://open.spotify.com/track/0dbzWSYpMcRtwjI1S7Pkql) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Kill The Lights \(Deluxe\)](https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA) | 4:38 | 2019-06-25 | 2022-04-21 |
 | [Hurricane](https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:42 | 2019-10-26 | 2023-03-11 |
 | [Hurricane](https://open.spotify.com/track/3UZ9aPaYlBBlAvpdh3kK0U) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/2USjde8Y8z21QTCw6akgJU) | 3:43 | 2019-05-25\* | 2022-07-29 |
@@ -200,6 +200,7 @@
 | [Lonely If You Are](https://open.spotify.com/track/1Ut1A8UaNqGuwsHgWq75PW) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lonely If You Are](https://open.spotify.com/album/5oTMku8FuJiOES9xZ5Vvwb) | 2:55 | 2021-08-16 | 2021-08-20 |
 | [Long Hot Summer Day](https://open.spotify.com/track/0kOG4bwpKgRlcJw1NA6csR) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:12 | 2019-08-09 | 2020-02-06 |
 | [Look At You](https://open.spotify.com/track/7AK5vh1cRnO3YxAjOjL4Yy) | [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2) | [Mabelle \- EP](https://open.spotify.com/album/5Oit2yRIGTqTegzWYjPl5j) | 3:15 | 2019-05-25\* | 2022-04-21 |
+| [Looking Back Now](https://open.spotify.com/track/37imLguIvWwDJNT6RGO2Qi) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Looking Back Now](https://open.spotify.com/album/47MPMs9cQemgI2ek85Rbqd) | 3:29 | 2023-08-04 |  |
 | [Lose It](https://open.spotify.com/track/6GBndDk0OEpDkmKoSBJyyK) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Lose It](https://open.spotify.com/album/2HJhTeBJHvyQFAETnCPWgK) | 2:58 | 2019-05-25\* | 2022-04-17 |
 | [Love in a Bar](https://open.spotify.com/track/1ITz79C3v1z55dqPoSAl1O) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Ryan Hurd \- EP](https://open.spotify.com/album/6wVnoDiRPI8RDgQT2RH3PO) | 3:07 | 2019-06-26 | 2022-04-20 |
 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 | 2021-10-10 | 2022-04-18 |

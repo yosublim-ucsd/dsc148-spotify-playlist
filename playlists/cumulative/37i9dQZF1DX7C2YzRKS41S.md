@@ -4,7 +4,7 @@
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-393 songs - 23 hr 18 min
+395 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Better Part of Me](https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Better Part of Me](https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw) | 3:46 | 2022-11-25 | 2023-03-10 |
 | [Big Jet Plane \- Radio Edit](https://open.spotify.com/track/7xCkZq0aRtFoTFROPM63l8) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Big Jet Plane](https://open.spotify.com/album/6nhLs4qiFClX5ef3YaCfFm) | 3:44 | 2022-03-25 | 2022-04-14 |
 | [Birch](https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:30 | 2022-04-06 |  |
+| [Blindside](https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Blindside](https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ) | 3:31 | 2023-08-04 |  |
 | [Bloodstream](https://open.spotify.com/track/5v4sZRuvWDcisoOk1PFv6T) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 5:00 | 2022-04-06 | 2023-01-14 |
 | [Blue Moon](https://open.spotify.com/track/2uWwCU5X1TjJiiN6BbUaB8) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/3BBFUxPg8KFmAv96SmY4ok) | 4:02 | 2022-03-25 | 2022-04-15 |
 | [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 | 2022-10-14 |  |
@@ -175,7 +176,7 @@
 | [I Got So High That I Saw Jesus](https://open.spotify.com/track/3zQikNPCgTVnQLmj5RPn1k) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 3:37 | 2022-07-04 | 2022-12-18 |
 | [I Think I Met You In A Dream](https://open.spotify.com/track/09MZIpr7ciaUZyxHKb37Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I Think I Met You In A Dream](https://open.spotify.com/album/22LPEr1Zguz9lVmqLQReEO) | 3:09 | 2022-02-18 | 2022-04-21 |
 | [I Went Hunting](https://open.spotify.com/track/2X0B89nchlocmZ12zyYd7H) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [I Went Hunting](https://open.spotify.com/album/1P1G2eyoP4UphHDjRiol6T) | 3:45 | 2022-07-04 | 2022-12-11 |
-| [I Went Hunting](https://open.spotify.com/track/6CUts1EBhKu60Z7Q5qoT6S) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:45 | 2022-11-25 |  |
+| [I Went Hunting](https://open.spotify.com/track/6CUts1EBhKu60Z7Q5qoT6S) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:45 | 2022-11-25 | 2023-08-05 |
 | [Ilustração](https://open.spotify.com/track/67gKjKI5PMBgUWTYmXa2Yf) | [Jaffar Bambirra](https://open.spotify.com/artist/7fKgOWFmEK3tIokXoTaXV5) | [Ilustração](https://open.spotify.com/album/4b9bgPJYL0keoE67LGYv1g) | 3:47 | 2021-12-24 | 2022-07-28 |
 | [Imaginário](https://open.spotify.com/track/5RsjEJZda5J49PKRxnAi4t) | [zebidart](https://open.spotify.com/artist/6MXfdmayzycpV03KZAfBBw) | [Imaginário](https://open.spotify.com/album/6NRYZW2NSJbzycvCi9YKGH) | 3:14 | 2022-03-25 | 2022-04-21 |
 | [INCONSCIENTEMENTE](https://open.spotify.com/track/5KMi5R3gNyYFID5OzHA4iG) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [INCONSCIENTEMENTE](https://open.spotify.com/album/20zy3AllALKXGUvrosORrE) | 2:22 | 2022-04-29 | 2022-07-28 |
@@ -209,6 +210,7 @@
 | [Man on Fire](https://open.spotify.com/track/5IxaywIlITiuADtbdZBiYh) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Spark: A Burning Man Story \- Day + Night \(Music from & Inspired by Film\)](https://open.spotify.com/album/20DI9D0tdCU6AQDI88fOl0) | 4:16 | 2022-03-25 | 2022-04-18 |
 | [Man On Fire](https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN) | 4:19 | 2022-07-04 |  |
 | [Mantra](https://open.spotify.com/track/5DYfPDg2pEUv7UKZ2knpAW) | [Luneta](https://open.spotify.com/artist/5DdzWBQBtw2JdugsZthXcO) | [Deságua](https://open.spotify.com/album/4XYJSyQ7zCy1cg4wwcRRn1) | 3:02 | 2022-01-21 | 2022-07-17 |
+| [Me Leve](https://open.spotify.com/track/0s5nDuDC0o4zCf1z2nhaQK) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Me Leve](https://open.spotify.com/album/0pVL5tARzVQhDtb4DmS9Sr) | 3:45 | 2023-08-04 |  |
 | [Medo de Amar](https://open.spotify.com/track/3cPclQoSPNYPijnxuMd52l) | [Léo Vieira](https://open.spotify.com/artist/0XxePJXaakWSiVVyITL408) | [Partilha & Solidão](https://open.spotify.com/album/0YNKtgcZTBTLPrCB5vLAog) | 3:22 | 2021-12-24 | 2022-06-03 |
 | [Medo de Avião](https://open.spotify.com/track/6NNHvJiNoWUOB6QthRA7S1) | [Ana Cañas](https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz) | [Ana Cañas Canta Belchior](https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K) | 4:33 | 2022-02-11 | 2022-07-21 |
 | [Melhor Sem Mim](https://open.spotify.com/track/1hUzkO738a6LoYIBhMCR0r) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Melhor Sem Mim](https://open.spotify.com/album/088K4X8hrYw2RTyxs6q77A) | 3:06 | 2022-01-21 | 2022-04-17 |
@@ -368,7 +370,7 @@
 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 | 2021-12-24 |  |
 | [Trevo \(Tu\)](https://open.spotify.com/track/2vRBYKWOyHtFMtiK60qRz7) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:25 | 2021-12-24 |  |
 | [Trilha](https://open.spotify.com/track/7dBZR6eVPvyTTar9ad9Olz) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [Trilha](https://open.spotify.com/album/33x0LLXGTEcualElm8taE2) | 1:08 | 2022-02-18 | 2022-06-09 |
-| [Tua Voz](https://open.spotify.com/track/5teR1I7ubg9WQKzLys3rJz) | [Martins](https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg) | [Tua Voz](https://open.spotify.com/album/5mQIy6QhlB000eCxcqoDT2) | 3:25 | 2023-07-28 |  |
+| [Tua Voz](https://open.spotify.com/track/5teR1I7ubg9WQKzLys3rJz) | [Martins](https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg) | [Tua Voz](https://open.spotify.com/album/5mQIy6QhlB000eCxcqoDT2) | 3:25 | 2023-07-28 | 2023-08-05 |
 | [Tão Distraídos](https://open.spotify.com/track/3te1vlFf5mYLXhOWdcadRJ) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Tão Distraídos](https://open.spotify.com/album/4FnViUD7mk5sA4mI3D3xoh) | 2:35 | 2023-03-17 | 2023-04-16 |
 | [Um Fim](https://open.spotify.com/track/6NWstKFMrsQIsRX6Os7gxX) | [Jay Horsth](https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B) | [Um Fim](https://open.spotify.com/album/1xBh6y6msgEGUeZMypL83N) | 3:18 | 2022-03-25 | 2022-06-01 |
 | [Um Novo Amor \- Acústica](https://open.spotify.com/track/1s0hTZv5DvzspinUEgZ6Xd) | [Gabriel Piccolo](https://open.spotify.com/artist/1nBuS4ihAezxamZfDFSOfz) | [Um Novo Amor](https://open.spotify.com/album/55s6HcXhR2bagsTzNGVWJQ) | 2:31 | 2022-01-21 | 2022-06-20 |

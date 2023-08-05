@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 75348,
+  "num_followers": 75409,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjU0NDA1NDJjN2NhZDM5YjFiMDYzNWViMDYyMTc2NDA3MTNlMjFh",
+  "snapshot_id": "MCxjMzZkMWU2NDMyNWFmNzczMzdkNDZmNGU1MTMxYjc3YzQxNmEwNDBl",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -451,18 +451,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "(III)",
-        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
       },
       "artists": [
         {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -519,18 +519,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
+        "name": "(III)",
+        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         }
       ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
+      "duration_ms": 192000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
     },
     {
       "added_at": "2022-05-19 08:11:23",

@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-442 songs - 1 day 1 hr 8 min
+443 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [rayo violeta](https://open.spotify.com/track/5R5kHA3tw9s9DUUWmiEH5V) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Percii](https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 2:53 | 2022-01-28 | 2022-07-22 |
 | [Reina](https://open.spotify.com/track/4deE2RmG4R1N1mlHJABUeW) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Reina](https://open.spotify.com/album/64uweRga2ScsdB8Nf77yjg) | 3:03 | 2022-01-07 | 2022-07-21 |
 | [Remar una Canción](https://open.spotify.com/track/1f0Bo5En0SdihJiZZwcE3y) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Remar una Canción](https://open.spotify.com/album/2TFN0dlPZwNbDJsNu8ajhm) | 2:44 | 2022-01-07 | 2022-07-21 |
+| [Repatriarme](https://open.spotify.com/track/31HBKlN8njiPCtcdzPykvv) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR), [Ezequiel Kronenberg](https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx), [Nicolas Btesh](https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p) | [Repatriarme](https://open.spotify.com/album/7wT4xq4YjTPNanajHpbxJY) | 4:08 | 2023-08-04 |  |
 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/4TIaGP6idg1KZ5lSrGvjZw) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Respiro \(Cap\. 8\)](https://open.spotify.com/album/0nbH40OtNF4gU2Ilxn5BCo) | 3:41 | 2022-01-07 | 2022-07-29 |
 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 | 2022-07-15 |  |
 | [Rihanna](https://open.spotify.com/track/7GXeenPdpC7bOP5z25kn9w) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ) | 2:12 | 2022-04-01 | 2022-04-14 |
@@ -388,7 +389,7 @@
 | [Tarde](https://open.spotify.com/track/5DkCaPJVIyImEgETbdyLZ6) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Tarde](https://open.spotify.com/album/0s31MhZXKMCq9AbgeRBBnD) | 3:58 | 2022-01-28 | 2022-06-25 |
 | [Te Alejas Más De Mí](https://open.spotify.com/track/5C2oCLLrtnYI8nNVOOruar) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Te Alejas Más De Mí](https://open.spotify.com/album/6xQCTmwCep5eHgdOOOYmO9) | 3:39 | 2022-01-07 |  |
 | [Te Choca Te Checa](https://open.spotify.com/track/2Ng0PljkpZeMpHHTOQ5rOk) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Te Choca Te Checa](https://open.spotify.com/album/0vK6o7eQkYJaWSjtPhlONL) | 2:10 | 2022-01-28 | 2022-07-27 |
-| [Te Dejé una Carta](https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Martes 13](https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq) | 4:10 | 2022-01-07 |  |
+| [Te Dejé una Carta](https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Martes 13](https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq) | 4:10 | 2022-01-07 | 2023-08-05 |
 | [Te Estoy Amando Locamente](https://open.spotify.com/track/7EGYaSZLD1N9q6TizjuBXq) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [Te Estoy Amando Locamente](https://open.spotify.com/album/4mhoEgQJgFKiU4c0hF9cxR) | 3:20 | 2022-01-28 | 2022-07-21 |
 | [Te extraño](https://open.spotify.com/track/4DbemOwzWCwqGV6Q98as2h) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [YAGO](https://open.spotify.com/artist/1fKpVLI7kfwxckD1uhdrzO) | [Te extraño](https://open.spotify.com/album/7vp6CoBejsvEanbaaEr1ZO) | 2:42 | 2022-05-09 | 2022-07-24 |
 | [Te Pense un Monton](https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Te Pense un Monton](https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE) | 2:24 | 2022-09-23 | 2022-11-12 |

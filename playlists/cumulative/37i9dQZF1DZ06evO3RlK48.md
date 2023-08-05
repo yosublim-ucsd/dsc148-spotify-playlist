@@ -4,7 +4,7 @@
 
 > This is MUNA\. The essential tracks, all in one playlist.
 
-35 songs - 2 hr 12 min
+36 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,12 +22,13 @@
 | [In My Way](https://open.spotify.com/track/5NfpIjvaqEbrG46NmE3adV) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [In My Way](https://open.spotify.com/album/2AYySKA04nhtLWNvxjGbG9) | 3:20 | 2023-03-17 |  |
 | [It's Gonna Be Okay, Baby](https://open.spotify.com/track/5lH5KTgUiP5CSjGctZusTQ) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 5:44 | 2023-03-17 | 2023-05-04 |
 | [Kind Of Girl](https://open.spotify.com/track/2kNnSv2CB0MO3O5WMspcSC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:06 | 2023-03-17 | 2023-03-20 |
+| [Loose Garment](https://open.spotify.com/track/1CE5yIkftpwJ3dhtfc3ndl) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:10 | 2023-08-04 |  |
 | [Loudspeaker](https://open.spotify.com/track/5ztCcMNmFiq5ZnID9jY9SP) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 3:30 | 2023-03-17 |  |
 | [Morning Pages](https://open.spotify.com/track/0hUUCxji9cN0gb8Twf0a0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:47 | 2023-07-01 |  |
 | [Motivation \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Spotify Singles](https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH) | 3:26 | 2023-03-17 |  |
 | [Navy Blue](https://open.spotify.com/track/62fQs5LcdcyambpTxDnjmi) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:58 | 2023-03-17 |  |
 | [Nihilist \- From "Promising Young Woman" Soundtrack](https://open.spotify.com/track/2yCtn6X5xZUjD049EllMFq) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Promising Young Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL) | 3:25 | 2023-03-17 |  |
-| [No Idea](https://open.spotify.com/track/4X0P4EdiA3HBqqKFnlV5n7) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 2:54 | 2023-03-19 |  |
+| [No Idea](https://open.spotify.com/track/4X0P4EdiA3HBqqKFnlV5n7) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 2:54 | 2023-03-19 | 2023-08-05 |
 | [Number One Fan](https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:25 | 2023-03-17 |  |
 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 | 2023-04-19 |  |
 | [Pink Light](https://open.spotify.com/track/2zmGJTOfCKljp9HEffLM78) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:11 | 2023-03-17 |  |

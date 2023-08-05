@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 
 > This is Migos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,926 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,988 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 35 | [Bosses Don't Speak](https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 4:01 |
 | 36 | [Antisocial \(feat\. Juice WRLD\)](https://open.spotify.com/track/3lakLxKgelrvKBTyGwDXhX) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:22 |
 | 37 | [RAW SHIT \(feat\. Migos\)](https://open.spotify.com/track/1CCDIow4pPYyJYzhtTUYz2) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 3:36 |
-| 38 | [How We Coming](https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \(Deluxe\)](https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2) | 3:49 |
-| 39 | [WE GOING CRAZY \(feat\. H.E.R\. & Migos\)](https://open.spotify.com/track/6BvcWv1vfVJSoWix7L5BAP) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:16 |
+| 38 | [WE GOING CRAZY \(feat\. H.E.R\. & Migos\)](https://open.spotify.com/track/6BvcWv1vfVJSoWix7L5BAP) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:16 |
+| 39 | [How We Coming](https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \(Deluxe\)](https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2) | 3:49 |
 | 40 | [Give No Fxk](https://open.spotify.com/track/6ZelF5APDN5r6XnFqcnvWR) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Give No Fxk](https://open.spotify.com/album/5PGZpfzDkbbTvhDAuZlSQo) | 3:44 |
 | 41 | [Sacrifices](https://open.spotify.com/track/1r0faljjM2b876iNoaDUh5) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [I Decided.](https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar) | 4:47 |
 | 42 | [Is You Ready \- From "Mile 22"](https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Is You Ready \(From "Mile 22"\)](https://open.spotify.com/album/0kcQVLgW7ugVdFapH14iiP) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 49 | [Hot Summer](https://open.spotify.com/track/3fEpuoSr8ufvyRR7s2jB3U) | [DJ Durel](https://open.spotify.com/artist/1MHslxKWxauC559dXYEX1C), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Hot Summer](https://open.spotify.com/album/6BEHK0e0rknUYbDUIFv4Sl) | 3:51 |
 | 50 | [Body](https://open.spotify.com/track/3PGubBdFfQSHAHsXb068eG) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Mad Love The Prequel](https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6) | 3:26 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDA5YjUzZDAxZTEyYmNkMTI3MjNkNjU2NDZjZTFiOTQ1NQ==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDA0MDhlYzc2Y2NmMjVmZjIzODkzZTU2OTFiZjdiZjI4YQ==`

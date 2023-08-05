@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 
 > This is MUNA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,693 likes - 29 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,708 likes - 29 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 | 18 | [Taken](https://open.spotify.com/track/1DCf4TQUJdWWXLM8LOIWA7) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:05 |
 | 19 | [In My Way](https://open.spotify.com/track/5NfpIjvaqEbrG46NmE3adV) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [In My Way](https://open.spotify.com/album/2AYySKA04nhtLWNvxjGbG9) | 3:20 |
 | 20 | [Loudspeaker](https://open.spotify.com/track/5ztCcMNmFiq5ZnID9jY9SP) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 3:30 |
-| 21 | [No Idea](https://open.spotify.com/track/4X0P4EdiA3HBqqKFnlV5n7) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 2:54 |
+| 21 | [Loose Garment](https://open.spotify.com/track/1CE5yIkftpwJ3dhtfc3ndl) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:10 |
 | 22 | [Navy Blue](https://open.spotify.com/track/62fQs5LcdcyambpTxDnjmi) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:58 |
 | 23 | [Relief Next to Me](https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Tegan and Sara Present the Con X: Covers](https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9) | 2:57 |
 | 24 | [So Special](https://open.spotify.com/track/50EsWUxLBSS4nQnTuagVjF) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 3:57 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 | 28 | [Around U](https://open.spotify.com/track/7jStM0aMv8WoG91YrrDMbw) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 5:13 |
 | 29 | [Nihilist \- From "Promising Young Woman" Soundtrack](https://open.spotify.com/track/2yCtn6X5xZUjD049EllMFq) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Promising Young Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL) | 3:25 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDAxMDFkNDA4ZDRlMmEzNGI4NWExNWUwZjAyMGNiZTdkZA==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDBkZTU0ZDdkN2RiZjYwM2I3NjgxZWY3NjVkZGJiZGI2OQ==`

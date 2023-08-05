@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 232951,
       "name": "Hasta Ma\u00f1ana",
       "url": "https://open.spotify.com/track/0E7la0I7QrV6RKtBaCQqvg"
@@ -1748,6 +1748,28 @@
       "duration_ms": 269348,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/48XV7umdTgcGuPunNInlJP"
+    },
+    {
+      "album": {
+        "name": "Otra Como Tu",
+        "url": "https://open.spotify.com/album/7AYlRhSi6jSX0Y0plRh5GM"
+      },
+      "artists": [
+        {
+          "name": "You Salsa",
+          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
+        },
+        {
+          "name": "Norlam la Melodia",
+          "url": "https://open.spotify.com/artist/6a2oi57pF0ujx7wJNpUfuk"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241737,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/3yTn1nVCVIUM0dIbb4TuOR"
     },
     {
       "album": {

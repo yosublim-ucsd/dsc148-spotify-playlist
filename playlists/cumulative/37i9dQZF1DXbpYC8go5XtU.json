@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Arrow",
+        "url": "https://open.spotify.com/album/5CUAQ1HaXZjjQIlf3Cu66J"
+      },
+      "artists": [
+        {
+          "name": "Nao Otsuka",
+          "url": "https://open.spotify.com/artist/4ySZXPHhYKNUU9Tzq3txzT"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Arrow",
+      "url": "https://open.spotify.com/track/4snF5UUPhYAaoDnUyfwpTE"
+    },
+    {
+      "album": {
         "name": "Hibi",
         "url": "https://open.spotify.com/album/2ilbAhaYpdlFGe5e3FzRhS"
       },
@@ -460,6 +478,28 @@
       "duration_ms": 168343,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/2CtGXLSiPIJiGCwcqlp6oT"
+    },
+    {
+      "album": {
+        "name": "Daybreak / Ethereal Mist",
+        "url": "https://open.spotify.com/album/2Yo99gzXjhUlrh03Qw5RpV"
+      },
+      "artists": [
+        {
+          "name": "Adam Bokesch",
+          "url": "https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI"
+        },
+        {
+          "name": "Sound Bath",
+          "url": "https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215338,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/2JUUAZKmuUBKLAHWDjVs0u"
     },
     {
       "album": {

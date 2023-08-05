@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Big Mistakes",
+        "url": "https://open.spotify.com/album/6k4QPx0m28c6UlXqkiPnlC"
+      },
+      "artists": [
+        {
+          "name": "Trevor Rabin",
+          "url": "https://open.spotify.com/artist/23ukNzhMiRiYgORi3n3RJq"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332696,
+      "name": "Big Mistakes",
+      "url": "https://open.spotify.com/track/3f5MFKBb6aRheW6IpSn5qw"
+    },
+    {
+      "album": {
         "name": "Bittersomerson",
         "url": "https://open.spotify.com/album/4nBvLruXuk9NGPo8EeUwPt"
       },
@@ -2506,7 +2524,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 241954,
       "name": "In Stereo",
       "url": "https://open.spotify.com/track/64ngTG7lCggnvgOk6ZpFXZ"
@@ -2650,7 +2668,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 171254,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/1tAYM3JLn8gynNMHCUcIAj"
@@ -2748,7 +2766,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 175728,
       "name": "Kopskud Revolusie (feat. Spoegwolf)",
       "url": "https://open.spotify.com/track/5taKG0t4Z0sv247eXWuWij"
@@ -2770,6 +2788,24 @@
       "duration_ms": 229561,
       "name": "Laatnag-sonop-koebaai",
       "url": "https://open.spotify.com/track/6gq6he9HdSJqPcsgFQbxWQ"
+    },
+    {
+      "album": {
+        "name": "Last Stand",
+        "url": "https://open.spotify.com/album/0WP7arJEFFalCREptv9VS0"
+      },
+      "artists": [
+        {
+          "name": "Kenny Hughes",
+          "url": "https://open.spotify.com/artist/6Y0yxjU9WEv7qauNd39OYL"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289266,
+      "name": "Last Stand",
+      "url": "https://open.spotify.com/track/6Q8CVI78we0VBcoNWjvHCZ"
     },
     {
       "album": {
@@ -2806,6 +2842,24 @@
       "duration_ms": 318000,
       "name": "Last Train",
       "url": "https://open.spotify.com/track/11hwRTYLm0gWMxYGnzUGE8"
+    },
+    {
+      "album": {
+        "name": "Leave This Town",
+        "url": "https://open.spotify.com/album/5JK1A5Cwstbtxyr8kppd96"
+      },
+      "artists": [
+        {
+          "name": "Broke 'n Free",
+          "url": "https://open.spotify.com/artist/29zjs2vtld5vxaDuu2VnF5"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201684,
+      "name": "Leave This Town",
+      "url": "https://open.spotify.com/track/2UJNr5PUzkDpqqLriIJpqK"
     },
     {
       "album": {
@@ -3149,6 +3203,24 @@
     },
     {
       "album": {
+        "name": "Moeg",
+        "url": "https://open.spotify.com/album/1IZOC8YN6GFWgRdsZGrtVr"
+      },
+      "artists": [
+        {
+          "name": "Rudi Kleingeld",
+          "url": "https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236786,
+      "name": "Moeg",
+      "url": "https://open.spotify.com/track/0t9uLw0ZL63rJPSQTBH94z"
+    },
+    {
+      "album": {
         "name": "Kanniedood",
         "url": "https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh"
       },
@@ -3178,7 +3250,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 215400,
       "name": "Monitor",
       "url": "https://open.spotify.com/track/6ehCbe3TFJmwqV5aNTYlCD"
@@ -3582,6 +3654,28 @@
       "duration_ms": 172500,
       "name": "Out & About",
       "url": "https://open.spotify.com/track/4IJjTMbpLBnewkNrtcRLPj"
+    },
+    {
+      "album": {
+        "name": "Outcasts",
+        "url": "https://open.spotify.com/album/1WJEMPcD7KGqkJrSzmgTdD"
+      },
+      "artists": [
+        {
+          "name": "Cindy-Louise",
+          "url": "https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD"
+        },
+        {
+          "name": "Erick Gerber",
+          "url": "https://open.spotify.com/artist/4EPvmo3SCToxenG4mQfhcc"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189493,
+      "name": "Outcasts",
+      "url": "https://open.spotify.com/track/38WBPi8N2uLBIA03sU0vea"
     },
     {
       "album": {
@@ -5270,7 +5364,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 291529,
       "name": "Unbroken",
       "url": "https://open.spotify.com/track/1OtXmZ9Fx1XK96inLpj2MA"

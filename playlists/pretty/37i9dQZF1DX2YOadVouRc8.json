@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 14926,
+  "num_followers": 14981,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTI2MjJhYzVhYmQ4ZWQ4OGU4MGM2NzFmNmM1ZTIzNDljMWJmZjhh",
+  "snapshot_id": "MCw2MGIxZDBmMWU0OTJmMWQ1OTRlOTU3MTIwMDlmZTM3NGQ2YzliNDQ4",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -963,6 +963,26 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "That Uzere Boy",
+        "url": "https://open.spotify.com/album/67Ba42lVPrFR5NzbuwE3i6"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Gangnam Style",
+      "url": "https://open.spotify.com/track/7wKzYOEaBcSBMHFRR7rUTF"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/1BiQOEEHtZyvkY8gpjbxml"
       },
@@ -1003,26 +1023,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        }
-      ],
-      "duration_ms": 166271,
-      "name": "imagine",
-      "url": "https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Eleyele",
         "url": "https://open.spotify.com/album/6fPuy2F9Aega1ajo93h3lT"
       },
@@ -1039,22 +1039,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "That Uzere Boy",
-        "url": "https://open.spotify.com/album/67Ba42lVPrFR5NzbuwE3i6"
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
       },
       "artists": [
         {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         },
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
         }
       ],
-      "duration_ms": 144500,
-      "name": "Gangnam Style",
-      "url": "https://open.spotify.com/track/7wKzYOEaBcSBMHFRR7rUTF"
+      "duration_ms": 166271,
+      "name": "imagine",
+      "url": "https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "No Bad Boy, No Party",
-        "url": "https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 189148,
-      "name": "Make Sense",
-      "url": "https://open.spotify.com/track/4V5ewWUvecAPHQmgZ1TPQJ"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "My Own (feat. Blaqbonez)",
         "url": "https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 180765,
       "name": "My Own (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "No Bad Boy, No Party",
+        "url": "https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 189148,
+      "name": "Make Sense",
+      "url": "https://open.spotify.com/track/4V5ewWUvecAPHQmgZ1TPQJ"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Start Me Up",
-        "url": "https://open.spotify.com/album/5GZeyHEYLp13qFIJOyHVVJ"
-      },
-      "artists": [
-        {
-          "name": "Not3s",
-          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Start Me Up",
-      "url": "https://open.spotify.com/track/6Ls2C5eTT6QC54FH2pYYnX"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Beautiful Lies",
         "url": "https://open.spotify.com/album/6WlznjoXtwxdJvmTRabNxY"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 174964,
       "name": "Beautiful Lies",
       "url": "https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Start Me Up",
+        "url": "https://open.spotify.com/album/5GZeyHEYLp13qFIJOyHVVJ"
+      },
+      "artists": [
+        {
+          "name": "Not3s",
+          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Start Me Up",
+      "url": "https://open.spotify.com/track/6Ls2C5eTT6QC54FH2pYYnX"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Don't Tell Anyone",
-        "url": "https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 177300,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Patient Zero",
         "url": "https://open.spotify.com/album/7f1jBF06DtXBmFcPz1wIDo"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 152500,
       "name": "House Party",
       "url": "https://open.spotify.com/track/1Fi9F34fYmhJOwBqM1lUk8"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Don't Tell Anyone",
+        "url": "https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 177300,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1463,18 +1463,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT"
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
       },
       "artists": [
         {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C"
+      "duration_ms": 188760,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
     }
   ],
   "unique_name": "Chill Bops",

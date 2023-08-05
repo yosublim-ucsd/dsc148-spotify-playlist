@@ -4,7 +4,7 @@
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Usher
 
-198 songs - 10 hr 54 min
+199 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Girlfriend](https://open.spotify.com/track/5deRvXDZlILXkHZG1DA4sJ) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Girlfriend](https://open.spotify.com/album/48MblNhpA4tKaIxlev3VvE) | 2:49 | 2023-06-22 |  |
 | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh) | 2:25 | 2023-05-04 | 2023-07-07 |
 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 | 2023-03-16 | 2023-05-05 |
-| [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 | 2023-08-03 |  |
+| [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 | 2023-08-03 |  |
 | [good time](https://open.spotify.com/track/2zxqxK7CAG1J24oIVQMsan) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [More Than Friends](https://open.spotify.com/album/0WWhWyHvnWbxXl3lTDGQJN) | 2:32 | 2022-12-22 | 2022-12-29 |
 | [Good Time](https://open.spotify.com/track/5C5TY76zEvTDPT3FRi6Obs) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Good Time](https://open.spotify.com/album/3D3que0A2F6BVUqmsY2MFh) | 3:18 | 2022-12-22 | 2023-01-27 |
 | [Goodbye Paris](https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Goodbye Paris](https://open.spotify.com/album/1j9bISVe9klnDse00amxRQ) | 3:45 | 2022-12-22 | 2023-04-21 |
@@ -90,6 +90,7 @@
 | [Jealous \(with Ella Mai\)](https://open.spotify.com/track/2HXzOhKhZ46k5cLBPTlfuJ) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Jealous](https://open.spotify.com/album/3H6JHY6lWD4zKIbIjmXLh9) | 3:45 | 2023-04-06 | 2023-05-12 |
 | [Kaleidoscope](https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Kaleidoscope](https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ) | 3:19 | 2023-04-06 | 2023-06-02 |
 | [Karma](https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Take Control](https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa) | 2:23 | 2023-06-08 | 2023-07-14 |
+| [Keep Me In Love](https://open.spotify.com/track/7j8mf8Qrvmhjl8Yr13iFr7) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Keep Me In Love](https://open.spotify.com/album/7ETOuFfahxfhuMlKPYbFPt) | 2:36 | 2023-08-03 |  |
 | [Kissing On Your Tattoos](https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Kissing On Your Tattoos](https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN) | 2:33 | 2023-04-06 | 2023-06-16 |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-09 | 2023-04-07 |
 | [Let Me Go](https://open.spotify.com/track/7mcolOCCHAGVXB7rfyzIui) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Let Me Go](https://open.spotify.com/album/7d3Fk2tsXqf7EnvItNU0uB) | 3:11 | 2022-12-22 | 2023-02-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حاله حب 🫶
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,361 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,477 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 26 | [Ya Ghayeb](https://open.spotify.com/track/2j4O1Oz0AVTWNLHjhTzBbJ) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ya Ghayeb](https://open.spotify.com/album/1haRKmfoKMLJCJNJlwbzL7) | 3:53 |
 | 27 | [Habitha Ya Nas \- From Bhabak](https://open.spotify.com/track/3AwmOjkzr9WZUqEewrskM1) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [بحبك](https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2) | 2:35 |
 | 28 | [Khaleny Fe Hodnak](https://open.spotify.com/track/6yVGUtmHwDsqqXs1Lak423) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:16 |
-| 29 | [Ya Layaly](https://open.spotify.com/track/7ygixJ8FptOv80Ot2KadAN) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Ana Kteer](https://open.spotify.com/album/6Qbm7jzEzGqfZJqLaAUAdT) | 4:59 |
-| 30 | [Samurai](https://open.spotify.com/track/1EBmjew9K69csBqRxI8BeO) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 2:57 |
+| 29 | [Samurai](https://open.spotify.com/track/1EBmjew9K69csBqRxI8BeO) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 2:57 |
+| 30 | [Ya Layaly](https://open.spotify.com/track/7ygixJ8FptOv80Ot2KadAN) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Ana Kteer](https://open.spotify.com/album/6Qbm7jzEzGqfZJqLaAUAdT) | 4:59 |
 | 31 | [Hetta Tanya](https://open.spotify.com/track/5zn9ZT7dKnRX5fnYvb3loq) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Hetta Tanya](https://open.spotify.com/album/18REYwJulzZfAYpdvUXHtR) | 3:19 |
 | 32 | [Shokran](https://open.spotify.com/track/3zpuelnjip23dk1hxTqklg) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shokran](https://open.spotify.com/album/572v0Jez74h9cMKAYPCIug) | 3:28 |
 | 33 | [Fady Shewaya](https://open.spotify.com/track/3qRGs7H1bPfshHh19syRKQ) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mawloud Sanat 80](https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7) | 3:51 |
-| 34 | [حبه جنة](https://open.spotify.com/track/2QK9spxKFUWe7zeirPHf5O) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 5:02 |
+| 34 | [ليلى \- كايروكي من الاستوديو](https://open.spotify.com/track/5JtRiVuQRKqoEfueP1FVvU) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [كايروكي من الاستوديو](https://open.spotify.com/album/7h5YXGDPG5nC2yNfRe5lLp) | 3:32 |
 | 35 | [Malek El Fabraka](https://open.spotify.com/track/6DdXM6uwl9XuGIVwP7bXOx) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Malek El Fabraka](https://open.spotify.com/album/2T3oPO96g0IUsYb9uD2ULT) | 3:23 |
 | 36 | [Ana Mosammem](https://open.spotify.com/track/0yDB9QPreJjeDynwlwZ4m2) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Wo Malna](https://open.spotify.com/album/5YOnIhs1M9nPt7EyJCScER) | 5:23 |
 | 37 | [Namet Nenna](https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Namet Nenna](https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3) | 3:21 |
 | 38 | [لما بيوحشني](https://open.spotify.com/track/5BiSAqXhrMRoxvDd34vBXT) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 4:32 |
-| 39 | [ليلى \- كايروكي من الاستوديو](https://open.spotify.com/track/5JtRiVuQRKqoEfueP1FVvU) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [كايروكي من الاستوديو](https://open.spotify.com/album/7h5YXGDPG5nC2yNfRe5lLp) | 3:32 |
+| 39 | [حبه جنة](https://open.spotify.com/track/2QK9spxKFUWe7zeirPHf5O) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 5:02 |
 | 40 | [Oddam El Nas](https://open.spotify.com/track/2z1J38i6dM0v535hiwb3Y8) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Kol Yom Men Dah](https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f) | 3:47 |
 | 41 | [Ajmal Ihssas](https://open.spotify.com/track/2VHp98YYcFKrAy09IaiXN2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Aayshalak](https://open.spotify.com/album/4iitDZmbi4tg9iCyUVkXY4) | 5:56 |
 | 42 | [Sunnet El Hayah \(orange Ramadan 2020\)](https://open.spotify.com/track/4Yhx7H7UOXbwsyXwm8ASm7) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sunnet El Hayah \(orange Ramadan 2020\)](https://open.spotify.com/album/6nEAMZsj8M7BPLVH8BBNAu) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 49 | [خطوة](https://open.spotify.com/track/44Mu8j0VexMGUk8Om7U8HU) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [خطوة](https://open.spotify.com/album/0CHAeCoS0FlsSOXTBQgQje) | 3:18 |
 | 50 | [لو تخاصمني](https://open.spotify.com/track/2ijApNHjp90HBYZLZKVCue) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [لو تخاصمني](https://open.spotify.com/album/5S17tuujr6lGt6Cmv0L4Ie) | 3:10 |
 
-Snapshot ID: `MCxlZGNlYmZlMDFiMzNkOWY2NDQ3NmM4NzQ1ODNhZTZhM2I3MWQ5MmQx`
+Snapshot ID: `MCwzMDIwNDE1NTE3N2IzOWZjNDEzZDY0OWE0OGFkNDcwMzI3ZTVhMThk`

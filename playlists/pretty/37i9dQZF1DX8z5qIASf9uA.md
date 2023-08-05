@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > Honramos la memoria de las leyendas de nuestra Música Mexicana\. Ariel Camacho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,933 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,244 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 74 | [Un idiota](https://open.spotify.com/track/35euE6BwKwWF3DeEoINvE9) | [Julian Figueroa](https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m) | [Volaré](https://open.spotify.com/album/0yP1BBqUrfPnRBai5d63Yf) | 3:02 |
 | 75 | [La Vida Es Como una Baraja](https://open.spotify.com/track/2FdCfWxayWg4m9CCkcnxxT) | [Jerry Demara](https://open.spotify.com/artist/4fo4CVWELgeLeKwqzJqdY7) | [Brindemos](https://open.spotify.com/album/1qdf86Qo4CCnxyCJn8JbGs) | 3:32 |
 
-Snapshot ID: `MCwxM2FlNzQ1N2M1MGYwNDA5MWM0MjUwMGQwNWFjZDA5NDMyODQwMjJm`
+Snapshot ID: `MCxkNWZhOGJmZDJhMjY4ZGM5NjRjYmMxODE1ZDY2YmVmMDViMGRjMmZh`

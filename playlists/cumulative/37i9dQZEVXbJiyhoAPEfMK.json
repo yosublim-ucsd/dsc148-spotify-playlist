@@ -6368,7 +6368,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
@@ -6832,7 +6832,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -8716,7 +8716,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 274137,
       "name": "DELRESTO (ECHOES) (feat. Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
@@ -15526,6 +15526,24 @@
       "duration_ms": 241038,
       "name": "H\u00d6R NICHT AUF (feat. Teesy)",
       "url": "https://open.spotify.com/track/1CLYKdAae2TfCAHZM752sm"
+    },
+    {
+      "album": {
+        "name": "H\u00f6r nie auf damit",
+        "url": "https://open.spotify.com/album/5Ta3w7wehddEGyQufUgMow"
+      },
+      "artists": [
+        {
+          "name": "Angela Asiana",
+          "url": "https://open.spotify.com/artist/25vgYguyPkprd0hE2IRnZT"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162973,
+      "name": "H\u00f6r nie auf damit",
+      "url": "https://open.spotify.com/track/60933NIkFKyI5O7cgMWjhA"
     },
     {
       "album": {
@@ -22668,6 +22686,24 @@
       "duration_ms": 185403,
       "name": "Mi Amor (feat. Noizy & Jugglerz)",
       "url": "https://open.spotify.com/track/1XQSLHs0XR2wdAya1pmaER"
+    },
+    {
+      "album": {
+        "name": "Mi Amore",
+        "url": "https://open.spotify.com/album/5hLOygQVawRnXujDU0DtSa"
+      },
+      "artists": [
+        {
+          "name": "DON DESTANI",
+          "url": "https://open.spotify.com/artist/0bODX7Ip2saX3cLUJ03n46"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Mi Amore",
+      "url": "https://open.spotify.com/track/6wkBFdGOM6kL39JBswUmjG"
     },
     {
       "album": {
@@ -30804,7 +30840,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 219865,
       "name": "Shavkat",
       "url": "https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l"
@@ -31258,7 +31294,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 204447,
       "name": "SIRENS",
       "url": "https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k"
@@ -37188,7 +37224,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

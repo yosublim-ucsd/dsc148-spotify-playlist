@@ -2,20 +2,21 @@
 
 ### [shine](https://open.spotify.com/playlist/37i9dQZF1DWYzhk8ayyoEy)
 
-> Warm, inspirational pop, that's good at heart
+> Warm, inspirational pop, that's good at heart\. Cover: Lauren Daigle
 
-91 songs - 5 hr 4 min
+93 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Anything Can Happen](https://open.spotify.com/track/7jsXTvKtjaf6emYflX5bN0) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Anything Can Happen](https://open.spotify.com/album/3i5MndC3mSHJNk5tIUuwWY) | 3:09 | 2023-01-20 |  |
 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 | 2023-01-04 |  |
 | [BACK ON TOP \(feat\. Griff\)](https://open.spotify.com/track/4WwfMajCmOe3ApD9eF5B15) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [BACK ON TOP \(feat\. Griff\)](https://open.spotify.com/album/5bAoNisJV6KVdJ3puwJ54B) | 2:53 | 2023-01-04 | 2023-05-06 |
+| [Be Okay](https://open.spotify.com/track/2DBkMf9PHeJAc44vuYjfPL) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Be Okay](https://open.spotify.com/album/2WP9xHy2XZjI78eXGmQ5XE) | 3:28 | 2023-08-04 |  |
 | [Be There For You](https://open.spotify.com/track/7AWkRQoTPaqUrZpRvCH748) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:48 | 2023-02-10 |  |
 | [Beacon](https://open.spotify.com/track/4Mk4PFcGjfU8Z0CSzzTz7u) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Beacon](https://open.spotify.com/album/3hdKiBU6Yxh42FJsyc0jF0) | 3:47 | 2023-04-14 |  |
 | [Begin Again](https://open.spotify.com/track/02TKEQYD6jLEB0cYpBflFE) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Begin Again](https://open.spotify.com/album/5XSgaLPBoAAno2FwKhaIHl) | 3:19 | 2023-01-04 | 2023-06-10 |
 | [Begin Again](https://open.spotify.com/track/5tjQqL0NrS6J2IjU8j4CyH) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Begin Again](https://open.spotify.com/album/0W62jlxYdBxHIheyzS3YTs) | 3:19 | 2023-05-12 |  |
-| [Best Day Of My Life](https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:26 | 2023-01-04 |  |
+| [Best Day Of My Life](https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:26 | 2023-01-04 | 2023-08-05 |
 | [Better Days](https://open.spotify.com/track/2SLxgJ2YFohfd8KwuJZTUE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:24 | 2023-01-04 |  |
 | [Brave](https://open.spotify.com/track/5SfQhaZTGL7IewCIvMifFJ) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Brave](https://open.spotify.com/album/0mPhbDbLpPeCnjm35rSkql) | 3:21 | 2023-01-04 |  |
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2023-01-04 |  |
@@ -41,6 +42,7 @@
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2023-01-04 |  |
 | [I Tried](https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [I Tried](https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH) | 2:16 | 2023-02-03 |  |
 | [I'll Follow](https://open.spotify.com/track/05oHYdKxu7cnqrZgw6CiLK) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [I'll Follow](https://open.spotify.com/album/2eVMMMyptV72ZWM75hER4w) | 2:52 | 2023-05-05 |  |
+| [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-08-04 |  |
 | [Invincible](https://open.spotify.com/track/2Coxhwa6oQfrM03g6U57vw) | [Royston Noell](https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O) | [Invincible](https://open.spotify.com/album/4sUGi3g3MQF8k412qqtcbD) | 3:26 | 2023-04-07 |  |
 | [I’M BLESSED](https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:34 | 2023-01-04 | 2023-02-25 |
 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 | 2023-01-04 |  |
@@ -76,7 +78,7 @@
 | [Saved My Life \(with R3HAB\)](https://open.spotify.com/track/6ATM1zRLGYYP72J9xwnL1L) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Saved My Life \(with R3HAB\)](https://open.spotify.com/album/6deJd6SdTPGoCFwyzJk4L7) | 2:54 | 2023-01-04 |  |
 | [So Will I](https://open.spotify.com/track/2MH8nFkQQgVqwr6w6jEPIr) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [So Will I](https://open.spotify.com/album/1jz72j3JNoHfQfaN8QGKH3) | 2:53 | 2023-05-12 |  |
 | [Somebody Loves You](https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Somebody Loves You](https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO) | 3:11 | 2023-03-10 |  |
-| [Something in the Water](https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:58 | 2023-01-04 |  |
+| [Something in the Water](https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:58 | 2023-01-04 | 2023-08-05 |
 | [Stand By You](https://open.spotify.com/track/3kSXn1osC89W8JcPLozTzs) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:39 | 2023-01-04 |  |
 | [Stand Up Eight](https://open.spotify.com/track/0xpfVZCEELk5fD8OUmCnJ6) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stand Up Eight](https://open.spotify.com/album/5SagmoKh7rZMshbra8uz4N) | 3:07 | 2023-04-07 |  |
 | [Stronger \(Grey's Anatomy Version\)](https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:59 | 2023-02-03 |  |

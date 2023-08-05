@@ -1,15 +1,15 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 50293,
+  "num_followers": 50398,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmMwNjU5Mjk5NzViYzYyOTAyNTUwZTQ4ZDkxNjEyY2I2YzIyMDBl",
+  "snapshot_id": "MCwxZjVhMGM3Y2Q1NzQ2YmI0ZGRiOTk0ODllM2Q5ZmNiYTBkZmUyZmE4",
   "tracks": [
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Ball n' Chain",
         "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Live And Well",
         "url": "https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Essential Recordings: One Bourbon, One Scotch, One Beer",
         "url": "https://open.spotify.com/album/0LkSSubbJHoVeDNh7GEkLi"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/5iaBfR3xQnausmGgulSoJE"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Rock 'N' Roll Rarities",
         "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Getting Ready... (World)",
         "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
@@ -121,23 +121,7 @@
       "url": "https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "Dropout Boogie",
-        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "For the Love of Money",
-      "url": "https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Cold Snap (Remastered)",
         "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
@@ -153,7 +137,23 @@
       "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "For the Love of Money",
+      "url": "https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe"
+    },
+    {
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "The Real Deal: Greatest Hits Volume 1",
         "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Bo Diddley",
         "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/2R7uUQ0Dehu80gsOcydQC9"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Well, I Done Got Over It",
         "url": "https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
         "url": "https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Crawfish Fiesta (Remastered with Bonus Track)",
         "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "662",
         "url": "https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/2JHVfdnXq3ITx5RxzjM2qf"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/5cERxgxqQGUNmqEjsaz0B8"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/4HEmPMRG1Mz4pYEpYbWTO0"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Sho Been Worse",
         "url": "https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Hate To See You Go",
         "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/5jthNmPnbVPiEcO8JGgRsZ"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Sings Raining In My Heart",
         "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/4hQb2apmM2FUNaqXDOmHgA"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "You Broke Me",
         "url": "https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/2bPgtSoGMHuNC4rSicZD1u"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Buddy Guy & Junior Wells Play The Blues",
         "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Crossroads (Original Sountrack)",
         "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
@@ -397,23 +397,7 @@
       "url": "https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "Presenting Ike Turner",
-        "url": "https://open.spotify.com/album/72uPVZB2T541kI9nT4khgC"
-      },
-      "artists": [
-        {
-          "name": "Ike Turner",
-          "url": "https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb"
-        }
-      ],
-      "duration_ms": 169613,
-      "name": "Rocket 88",
-      "url": "https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
         "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
@@ -429,23 +413,7 @@
       "url": "https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "You Broke Me",
-        "url": "https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh"
-      },
-      "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        }
-      ],
-      "duration_ms": 236543,
-      "name": "Baby We're Through",
-      "url": "https://open.spotify.com/track/138LkLoWuHhs4eteMxjPde"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA"
@@ -461,7 +429,39 @@
       "url": "https://open.spotify.com/track/2OXDdCck0bMDIUCpaIMBJS"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
+      "album": {
+        "name": "You Broke Me",
+        "url": "https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "duration_ms": 236543,
+      "name": "Baby We're Through",
+      "url": "https://open.spotify.com/track/138LkLoWuHhs4eteMxjPde"
+    },
+    {
+      "added_at": "2023-08-04 12:24:20",
+      "album": {
+        "name": "Presenting Ike Turner",
+        "url": "https://open.spotify.com/album/72uPVZB2T541kI9nT4khgC"
+      },
+      "artists": [
+        {
+          "name": "Ike Turner",
+          "url": "https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb"
+        }
+      ],
+      "duration_ms": 169613,
+      "name": "Rocket 88",
+      "url": "https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g"
+    },
+    {
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "This Is... Huey 'Piano' Smith",
         "url": "https://open.spotify.com/album/2O3iFb9B97JGcQt1IxvEfD"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/1Ufhe0CbCnDLC7LvycY4t4"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Howlin' Wolf",
         "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "The Very Best of Jimmy Reed",
         "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "At Fillmore East",
         "url": "https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/0WDsLvL9DKjj3qjed4IBa0"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "The Excello Singles Anthology",
         "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "1956-1958 Cobra Recordings",
         "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
@@ -573,23 +573,7 @@
       "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "I Am The Moon: II. Ascension",
-        "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 159427,
-      "name": "So Long Savior",
-      "url": "https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Watch Your Back",
         "url": "https://open.spotify.com/album/3k5iL04w1N2VQhpwXfgClW"
@@ -605,23 +589,7 @@
       "url": "https://open.spotify.com/track/54sI3jSzu7Q3xaiU9o2nI7"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "662",
-        "url": "https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 203481,
-      "name": "That's What You Do",
-      "url": "https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
@@ -637,7 +605,39 @@
       "url": "https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
+      "album": {
+        "name": "I Am The Moon: II. Ascension",
+        "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 159427,
+      "name": "So Long Savior",
+      "url": "https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2"
+    },
+    {
+      "added_at": "2023-08-04 12:24:20",
+      "album": {
+        "name": "662",
+        "url": "https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 203481,
+      "name": "That's What You Do",
+      "url": "https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk"
+    },
+    {
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Hail To The Kings!",
         "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
@@ -669,27 +669,7 @@
       "url": "https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "Traveler's Blues",
-        "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
-      },
-      "artists": [
-        {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
-        },
-        {
-          "name": "Mickey Raphael",
-          "url": "https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B"
-        }
-      ],
-      "duration_ms": 265386,
-      "name": "Roadhouse Blues",
-      "url": "https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
@@ -713,7 +693,27 @@
       "url": "https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
+      "album": {
+        "name": "Traveler's Blues",
+        "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
+      },
+      "artists": [
+        {
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+        },
+        {
+          "name": "Mickey Raphael",
+          "url": "https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B"
+        }
+      ],
+      "duration_ms": 265386,
+      "name": "Roadhouse Blues",
+      "url": "https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy"
+    },
+    {
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
@@ -745,23 +745,7 @@
       "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "The Very Best of Wilson Pickett",
-        "url": "https://open.spotify.com/album/1tXKFPGHTVOAWjahKxacXH"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/5DxJfzKzdBFLu01SxGpnfg"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
@@ -777,7 +761,23 @@
       "url": "https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
+      "album": {
+        "name": "The Very Best of Wilson Pickett",
+        "url": "https://open.spotify.com/album/1tXKFPGHTVOAWjahKxacXH"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/5DxJfzKzdBFLu01SxGpnfg"
+    },
+    {
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Completely Well",
         "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/5I9dM2pwqMAQm266lUII5P"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-08-04 12:24:20",
       "album": {
         "name": "Sings Raining In My Heart",
         "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"

@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : Usher",
-  "num_followers": 113144,
+  "num_followers": 113165,
   "original_name": "Douces Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDZjMDk2NGIyZmU5OTNiYzA5NDQ0NjU0YTgwZjU5NTM4Y2RkNDkw",
+  "snapshot_id": "MCw5ZjUwMTQ2MTdmMTcxNzZkMTUxZTE1YmU3MmEzZTZlNWI2YjkwYTg4",
   "tracks": [
     {
       "added_at": "2023-08-03 22:00:00",
@@ -20,12 +20,12 @@
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
       "duration_ms": 247100,
@@ -131,6 +131,22 @@
       "duration_ms": 248760,
       "name": "WHO DO U LUV",
       "url": "https://open.spotify.com/track/4K3c9V4rrzCHv4kHNXP0xE"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Keep Me In Love",
+        "url": "https://open.spotify.com/album/7ETOuFfahxfhuMlKPYbFPt"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "duration_ms": 156034,
+      "name": "Keep Me In Love",
+      "url": "https://open.spotify.com/track/7j8mf8Qrvmhjl8Yr13iFr7"
     },
     {
       "added_at": "2023-08-03 22:00:00",

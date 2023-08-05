@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-226 songs - 11 hr 28 min
+227 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Dorado Brilla \- Ambient Meditation Music](https://open.spotify.com/track/2UztrDvXxwLaamIDFlDpcT) | [The Earth & I](https://open.spotify.com/artist/7E4rPNiqfq0hG54aXnRwvD) | [Mystic Peru](https://open.spotify.com/album/19kg8qpfYZa2VwkVAX9jos) | 3:11 | 2022-07-15 | 2022-09-24 |
 | [Dream about me](https://open.spotify.com/track/6L1sKb2kv74gPGUpjkybTO) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Dream about me](https://open.spotify.com/album/3XHxAXn40Nwlbjrg6rbRlK) | 2:58 | 2022-07-15 |  |
 | [Dream Light](https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Dream Light](https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9) | 2:16 | 2022-07-15 |  |
+| [Dree](https://open.spotify.com/track/7pesKriQybH0DBYTA5FbM0) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [Dree](https://open.spotify.com/album/7bpMNe8Sr5XDlkrbqSHdm3) | 2:24 | 2023-08-04 |  |
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2022-07-15 | 2023-07-01 |
 | [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 | 2022-10-15 |  |
 | [Drømme](https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh) | [Etheral Gust](https://open.spotify.com/artist/3SFHOYvNfR3lK8EskFk4PV) | [Drømme](https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf) | 2:12 | 2022-07-15 |  |

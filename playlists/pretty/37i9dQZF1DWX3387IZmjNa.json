@@ -1,13 +1,29 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Rylo Rodriguez",
-  "num_followers": 2014530,
+  "num_followers": 2014899,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGFlYmQ5YzgwYjdkODNmZTkxOTE5ODE5MzIwZWI1YTkyOWRjZjc1",
+  "snapshot_id": "MCwxOWRmMzA3OGQ1ZWI4ZDYzY2M0Yjg0OTRlY2E5Yzg0NTUzMmFhYzY4",
   "tracks": [
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
@@ -27,6 +43,26 @@
       "duration_ms": 259545,
       "name": "Thang For You (feat. No Cap)",
       "url": "https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "BEEZY",
+        "url": "https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "DEEP END (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/63YcOq8SNXtnZtCfjyEpmq"
     },
     {
       "added_at": "2023-07-28 04:26:54",
@@ -53,80 +89,24 @@
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
     },
     {
-      "added_at": "2023-07-07 04:00:00",
+      "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+        "name": "Sincerely For You",
+        "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
         },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 147666,
-      "name": "To Summer, From Cole - Audio Hug",
-      "url": "https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Search & Rescue",
-        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 272112,
-      "name": "Search & Rescue",
-      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Fell In Love",
-        "url": "https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 121283,
-      "name": "Fell In Love",
-      "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "BEEZY",
-        "url": "https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep"
-      },
-      "artists": [
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "DEEP END (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/63YcOq8SNXtnZtCfjyEpmq"
+      "duration_ms": 190186,
+      "name": "When You Bad Like That (feat. Future)",
+      "url": "https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -193,6 +173,62 @@
       "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
     },
     {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 144344,
+      "name": "Stressed (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 172892,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Fell In Love",
+        "url": "https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 121283,
+      "name": "Fell In Love",
+      "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
+    },
+    {
       "added_at": "2023-06-02 17:07:50",
       "album": {
         "name": "Hard To Love",
@@ -237,20 +273,20 @@
       "url": "https://open.spotify.com/track/7hrcHfHWaLhooHzGltlCYB"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "talk 2 em",
-        "url": "https://open.spotify.com/album/2Kwe1GT8kYZmOh6hmJhGyX"
+        "name": "Confirmation",
+        "url": "https://open.spotify.com/album/5U4deWruWEu8HcWXc1E7eY"
       },
       "artists": [
         {
-          "name": "AG Club",
-          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
         }
       ],
-      "duration_ms": 144200,
-      "name": "talk 2 em",
-      "url": "https://open.spotify.com/track/7L4gDJcbomtunXe5zEgYGZ"
+      "duration_ms": 192000,
+      "name": "Confirmation",
+      "url": "https://open.spotify.com/track/2Sym6hOXUGlWUSR43cJkj3"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -303,6 +339,26 @@
       "duration_ms": 256117,
       "name": "Her Old Friends",
       "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Fallback Queen (feat. Vory)",
+        "url": "https://open.spotify.com/album/2qYeK1QWdV9oMmYSzWzy6v"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "Fallback Queen (feat. Vory)",
+      "url": "https://open.spotify.com/track/3w7AzChjtAtjLvVQll2Mjf"
     },
     {
       "added_at": "2022-10-18 02:56:45",
@@ -381,6 +437,22 @@
       "url": "https://open.spotify.com/track/7a636g0dl8a487foiAcoCM"
     },
     {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Tell Shyanne",
+        "url": "https://open.spotify.com/album/1hZAoVLexmc57NQ0BB2W76"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Tell Shyanne",
+      "url": "https://open.spotify.com/track/5kCWAi0N7NIWcEfW8kKpwi"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "4 Me (feat. Kali Uchis)",
@@ -401,44 +473,24 @@
       "url": "https://open.spotify.com/track/3RBubtMyzlp9MPZegNcDRK"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "222",
-        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
       "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 144344,
-      "name": "Stressed (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Sincerely For You",
-        "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 190186,
-      "name": "When You Bad Like That (feat. Future)",
-      "url": "https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX"
+      "duration_ms": 147666,
+      "name": "To Summer, From Cole - Audio Hug",
+      "url": "https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -501,6 +553,22 @@
       "url": "https://open.spotify.com/track/1zOseucqy7fYWeVGn2Lmh4"
     },
     {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "talk 2 em",
+        "url": "https://open.spotify.com/album/2Kwe1GT8kYZmOh6hmJhGyX"
+      },
+      "artists": [
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "duration_ms": 144200,
+      "name": "talk 2 em",
+      "url": "https://open.spotify.com/track/7L4gDJcbomtunXe5zEgYGZ"
+    },
+    {
       "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Maybe It's Me...",
@@ -517,26 +585,6 @@
       "url": "https://open.spotify.com/track/5GwRqgaU2hHhl7WPD22jUw"
     },
     {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Real Me Remix (feat. NLE Choppa)",
-        "url": "https://open.spotify.com/album/4GNOfobbAX8StN9nHVKWDI"
-      },
-      "artists": [
-        {
-          "name": "Hurricane Wisdom",
-          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 183028,
-      "name": "Real Me Remix (feat. NLE Choppa)",
-      "url": "https://open.spotify.com/track/3Gurkj61CO5WEBpp72tZpf"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "3AM in Oakland",
@@ -551,26 +599,6 @@
       "duration_ms": 206270,
       "name": "3AM in Oakland",
       "url": "https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Man's World (with James Brown)",
-      "url": "https://open.spotify.com/track/235C6mYJSyfN74X8s92900"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -699,26 +727,6 @@
       "duration_ms": 214588,
       "name": "Spin Bout U",
       "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Some Like It Hot",
-        "url": "https://open.spotify.com/album/3i47bG7gXG3OurOD0fpIVX"
-      },
-      "artists": [
-        {
-          "name": "Wynne",
-          "url": "https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX"
-        },
-        {
-          "name": "Chris Patrick",
-          "url": "https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Wife",
-      "url": "https://open.spotify.com/track/3rGbTqECbeFc82sdYGv3Pz"
     },
     {
       "added_at": "2023-04-28 09:25:52",
@@ -959,26 +967,6 @@
       "duration_ms": 399153,
       "name": "Hours In Silence",
       "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "ROLL THE DICE (feat. DeJ Loaf)",
-        "url": "https://open.spotify.com/album/3RC8VcNswzGIfN90R7pZTf"
-      },
-      "artists": [
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
-        },
-        {
-          "name": "DeJ Loaf",
-          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
-        }
-      ],
-      "duration_ms": 224256,
-      "name": "ROLL THE DICE (feat. DeJ Loaf)",
-      "url": "https://open.spotify.com/track/3WhxyhcaabI2aNpUEFpTwr"
     }
   ],
   "unique_name": "B.A.E.",

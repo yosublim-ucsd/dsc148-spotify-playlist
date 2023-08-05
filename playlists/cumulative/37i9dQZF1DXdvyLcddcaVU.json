@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 186439,
       "name": "Allo",
       "url": "https://open.spotify.com/track/3IWsDAFAwPNVnnTeQyUj7w"
@@ -212,6 +212,24 @@
       "duration_ms": 162373,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
+    },
+    {
+      "album": {
+        "name": "Poison Ou Antidote",
+        "url": "https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199853,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/2LKRpB6YTz0MUqbhJoqNCg"
     },
     {
       "album": {
@@ -634,7 +652,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 122975,
       "name": "Drogbacit\u00e9 (feat. Junior Bvndo)",
       "url": "https://open.spotify.com/track/1s20za1efDrV6tjO4Aiz73"
@@ -1339,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "La vie de Many",
+        "url": "https://open.spotify.com/album/28cZatUBH4ypo1q3ieocuc"
+      },
+      "artists": [
+        {
+          "name": "Anas",
+          "url": "https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161693,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/0j8vEVsQkarCTSRdzMC5Ps"
+    },
+    {
+      "album": {
         "name": "Sremm 4 Life",
         "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
       },
@@ -1528,6 +1564,24 @@
       "duration_ms": 240066,
       "name": "Pourvu Qu'Elles M'Aiment",
       "url": "https://open.spotify.com/track/6Hr8Ek8a7r0aIdybhEx2T2"
+    },
+    {
+      "album": {
+        "name": "QUARTIERS NORD",
+        "url": "https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194960,
+      "name": "PROBL\u00c8MES",
+      "url": "https://open.spotify.com/track/3wRDJXLakoOT8ilNPOOhh9"
     },
     {
       "album": {
@@ -1968,7 +2022,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 220506,
       "name": "Vermedin",
       "url": "https://open.spotify.com/track/2KhbRuWQmIRK9pKNqFk14F"

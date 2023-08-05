@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Legallyrxx en portada.",
+  "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Noa Sainz y Nsqk en portada.",
   "name": "R&B Latino",
   "tracks": [
     {
@@ -999,6 +999,28 @@
     },
     {
       "album": {
+        "name": "Climax",
+        "url": "https://open.spotify.com/album/2C7rex6fcBtRICYrdOKxEz"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        },
+        {
+          "name": "Rap Bang Club",
+          "url": "https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148825,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/44rBnwPtuBSZTKUhjChFvI"
+    },
+    {
+      "album": {
         "name": "CL\u20acAN\u00a1",
         "url": "https://open.spotify.com/album/3ZpMamW5ItEBKIVZIVF88J"
       },
@@ -1112,6 +1134,24 @@
       "duration_ms": 200240,
       "name": "Cortada en la Frente",
       "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
+    },
+    {
+      "album": {
+        "name": "CREEL",
+        "url": "https://open.spotify.com/album/1dWkvKX5alMZDEGcBpS9IM"
+      },
+      "artists": [
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153852,
+      "name": "CREEL",
+      "url": "https://open.spotify.com/track/21dgLlkmrWomLtXJHizLFO"
     },
     {
       "album": {
@@ -1626,10 +1666,32 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 196000,
       "name": "En Alguna Estrella",
       "url": "https://open.spotify.com/track/0Bd3PDeGhd4wQK3oOxwq8z"
+    },
+    {
+      "album": {
+        "name": "EN EL GHETTO #3 (Par de cosas)",
+        "url": "https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "EN EL GHETTO #3 (Par de cosas)",
+      "url": "https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3"
     },
     {
       "album": {
@@ -4522,7 +4584,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 169565,
       "name": "Sin Kerer",
       "url": "https://open.spotify.com/track/0sCUbih1waSFC1xrUlzoW2"
@@ -4914,7 +4976,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 205125,
       "name": "Trankilo",
       "url": "https://open.spotify.com/track/6t2V7vC77fmSBhzioZi67g"

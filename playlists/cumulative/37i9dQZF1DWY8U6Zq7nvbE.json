@@ -3528,7 +3528,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 173008,
       "name": "If I Wasn't Me",
       "url": "https://open.spotify.com/track/3Xb3Ryh1vF9i4CKtMNphoD"
@@ -6330,6 +6330,24 @@
       "duration_ms": 201000,
       "name": "Sweet Nothing",
       "url": "https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2"
+    },
+    {
+      "album": {
+        "name": "All We Grow (Ten Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5zOLes5VjZqy44W30zE6VJ"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299199,
+      "name": "Take It With Me",
+      "url": "https://open.spotify.com/track/5B0FqWcBm3TKdZVn6DcYnZ"
     },
     {
       "album": {

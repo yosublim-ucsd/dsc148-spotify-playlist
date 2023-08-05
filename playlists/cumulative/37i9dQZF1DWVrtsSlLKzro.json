@@ -1303,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/2wsT5jedDnViFsaN076WES"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/1IRfa7grmih9KNGuH6RCjJ"
+    },
+    {
+      "album": {
         "name": "Colorblind (feat. Dayseeker)",
         "url": "https://open.spotify.com/album/7zxLuEY7mKLKdyWjnCfP35"
       },
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 203176,
       "name": "Different Kind of Lonely",
       "url": "https://open.spotify.com/track/5vZvUPKnhEErJ5w4ThtR4i"
@@ -2249,6 +2267,28 @@
     },
     {
       "album": {
+        "name": "Further Away",
+        "url": "https://open.spotify.com/album/5Cj5Y28x79njyaIIus6zNB"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Further Away",
+      "url": "https://open.spotify.com/track/5w6NzsoExb9pPhoEN9aWRc"
+    },
+    {
+      "album": {
         "name": "Getting Late (feat. Danni Carra)",
         "url": "https://open.spotify.com/album/1U1KPw61pnyjLktp0nCiPj"
       },
@@ -2352,6 +2392,28 @@
       "duration_ms": 189295,
       "name": "Gone",
       "url": "https://open.spotify.com/track/5TSYawMYDnedU0UAR4ajrS"
+    },
+    {
+      "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/1FBX7KlwpLpKMeYG23xRDu"
+      },
+      "artists": [
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        },
+        {
+          "name": "Zeli",
+          "url": "https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210983,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/1OlNYBgxkEL41GqBnN1X68"
     },
     {
       "album": {
@@ -2564,6 +2626,28 @@
       "duration_ms": 207627,
       "name": "Heartaches",
       "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
+    },
+    {
+      "album": {
+        "name": "heartbreak (feat. joegarratt)",
+        "url": "https://open.spotify.com/album/3kQQ4qFE9I4HP5OQQTRuj4"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "joegarratt",
+          "url": "https://open.spotify.com/artist/6vkcAnHmppXfe6oAgZLcGf"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "heartbreak (feat. joegarratt)",
+      "url": "https://open.spotify.com/track/7IsAYozq9Cm2v1hU6vutm1"
     },
     {
       "album": {

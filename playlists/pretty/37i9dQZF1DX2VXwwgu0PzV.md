@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH?si=ZIHuTJ8hTwma0c8lSSdDdg">Greatman Takit</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,364 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,438 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 79 | [PRAISE YOUR NAME](https://open.spotify.com/track/5YxkWVkxssPVMIgXQp8ahd) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [PRAISE YOUR NAME](https://open.spotify.com/album/7iUgmGiBgXkpECjHYgQ7AL) | 3:17 |
 | 80 | [Your Way](https://open.spotify.com/track/3sNaDycGqEhCZCynxXsqmD) | [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv) | [Your Way](https://open.spotify.com/album/3n9S4mPb88vqtiLERDxle1) | 3:20 |
 
-Snapshot ID: `MCxiMWFiMWRiMjc3MmM2ZDcwM2VhMTRhZDU4Yjg1MjhhMjk1M2M5NjVh`
+Snapshot ID: `MCxmMjRiNmZiZGJiYTIwOGIxYzQwYWVlZGNmZWFjYzAwZDcwM2I4ODVm`

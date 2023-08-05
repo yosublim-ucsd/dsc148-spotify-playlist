@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Pop music driving the current, every week.  Cover: Madison Rose",
+  "description": "Pop music driving the current, every week.  Cover: Halle",
   "name": "Pop Frequency",
   "tracks": [
     {
@@ -100,6 +100,24 @@
       "duration_ms": 215384,
       "name": "All I Ever Asked",
       "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd"
     },
     {
       "album": {
@@ -2255,6 +2273,32 @@
     },
     {
       "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/7nNO2GemVOjoyDpji26fnz"
+      },
+      "artists": [
+        {
+          "name": "Lachi",
+          "url": "https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD"
+        },
+        {
+          "name": "James Ian",
+          "url": "https://open.spotify.com/artist/5oOFQ8WI7kQxsyTw2gkC8b"
+        },
+        {
+          "name": "Gaelynn Lea",
+          "url": "https://open.spotify.com/artist/68zltLWXjBB3dIqHikDXZy"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227787,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/2ELn4AbxtbATXMsPDkEyjh"
+    },
+    {
+      "album": {
         "name": "Like This, Like That",
         "url": "https://open.spotify.com/album/573O96cjJWdTuiSlmLDuN2"
       },
@@ -2412,6 +2456,24 @@
       "duration_ms": 135253,
       "name": "Make My Day (with David Guetta)",
       "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
+    },
+    {
+      "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172892,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
     },
     {
       "album": {
@@ -2839,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "album": {
         "name": "PBC",
         "url": "https://open.spotify.com/album/06IJHrNnxOYwvOjT3RBl0i"
       },
@@ -3144,6 +3224,24 @@
       "duration_ms": 155571,
       "name": "Pretty Girl Era",
       "url": "https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM"
+    },
+    {
+      "album": {
+        "name": "When I Hear Your Name",
+        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193901,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
     },
     {
       "album": {

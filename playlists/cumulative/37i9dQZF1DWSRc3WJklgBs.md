@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,169 songs - 2 day 20 hr 30 min
+1,171 songs - 2 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,6 +690,7 @@
 | [Moving On](https://open.spotify.com/track/0S39nPBH7vqhobY6Bn2LOX) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [A R I Z O N A](https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED) | 3:21 | 2023-05-26 |  |
 | [Moving On](https://open.spotify.com/track/7r1tJrG00pgUbVioN1hbzf) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Moving On](https://open.spotify.com/album/6kbw2wcLnY2oUY5vkNmAg9) | 3:21 | 2023-02-10 | 2023-06-07 |
 | [Music Rescues Me](https://open.spotify.com/track/51OKLPkeBryHaauCtddqi3) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Music Rescues Me](https://open.spotify.com/album/6WVLSevpKyBlUjRVtzWNPK) | 4:02 | 2019-08-09\* | 2019-09-14 |
+| [Must Be Dreaming](https://open.spotify.com/track/16ux7RA90OUcVqhgrad44r) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [Must Be Dreaming](https://open.spotify.com/album/7bplOyFHY3tfZUgUr1KcCp) | 3:53 | 2023-08-04 |  |
 | [My Best Life \(feat\. Mike Waters\)](https://open.spotify.com/track/5kldIyD365H9iq8Cz1Jb5F) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Mike Waters](https://open.spotify.com/artist/35rZNMlMkBs7ghHmGKt0xq) | [My Best Life \(feat\. Mike Waters\)](https://open.spotify.com/album/57lxvNz7Fp3hHNtXspUkjC) | 3:32 | 2019-08-31 | 2020-10-30 |
 | [My Heart Is Your Heart \- Club Edit](https://open.spotify.com/track/2FqevXNVpzGd1jDhto40vC) | [Alex Schulz](https://open.spotify.com/artist/5OReTeTBZ578sj07hDS0x7), [Kid Alina](https://open.spotify.com/artist/3pgWYjWRZCFgIfywQq9IhQ) | [My Heart Is Your Heart \(Club Edit\)](https://open.spotify.com/album/0DiNAeiIpiUOYLVhZtadWk) | 3:19 | 2020-06-04 | 2021-09-11 |
 | [My Love](https://open.spotify.com/track/5wdRufqO0DroRmys6sCyMC) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [My Love](https://open.spotify.com/album/50Kxc6wBYTGukRltpSc85X) | 2:24 | 2019-08-27 | 2020-10-30 |
@@ -918,6 +919,7 @@
 | [Starlight \(Keep Me Afloat\)](https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Starlight \(Keep Me Afloat\)](https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY) | 3:22 | 2022-04-15 |  |
 | [Stars Belong With You](https://open.spotify.com/track/2shiTxgdnUwSxvIPil0BZA) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Stars Belong With You](https://open.spotify.com/album/6XWOydRIMwfeCZG2KytXc6) | 5:02 | 2022-05-27 |  |
 | [Starstruck](https://open.spotify.com/track/2WJVFqVQ3ivhAoAQWzEzeL) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Starstruck](https://open.spotify.com/album/6QrZRFMwgFNXV0d5N7ndUW) | 3:27 | 2021-04-24 | 2022-05-14 |
+| [Start Again](https://open.spotify.com/track/6AvPvdPQaRlsyrdP7PzeLU) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [In Our Own Way](https://open.spotify.com/album/0FvlZWhj9GnUosWOfZxkVc) | 3:09 | 2023-08-04 |  |
 | [Start It Over \(feat\. KC\)](https://open.spotify.com/track/4Y3hmcRgFw88qJnXGzCwkq) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Man Cub](https://open.spotify.com/artist/6uku31mN2SKBGAIEM6Umgi), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Start It Over \(feat\. KC\)](https://open.spotify.com/album/4BcDAfQlDRPek8jSKQRw6W) | 3:15 | 2022-04-29 |  |
 | [State Of My Heart](https://open.spotify.com/track/2wPG888F5AMkxILKc9Pc3Q) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Nat Dunn](https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni) | [State Of My Heart](https://open.spotify.com/album/7wShfmCoQeQI9abSH3zlN5) | 2:56 | 2022-10-07 |  |
 | [Stay \(feat\. Karen Harding\)](https://open.spotify.com/track/7eNF3i7lHKtRwlvMfbNu9M) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Stay \(feat\. Karen Harding\)](https://open.spotify.com/album/7DNteGyvbzO8o1XpVQoFVE) | 3:29 | 2019-08-09\* | 2020-03-29 |

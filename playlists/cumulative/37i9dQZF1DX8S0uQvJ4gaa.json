@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Mitchell Tenpenny",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Dylan Schneider",
   "name": "New Boots",
   "tracks": [
     {
@@ -436,6 +436,24 @@
       "duration_ms": 190706,
       "name": "99 Problems (Fish Ain't One)",
       "url": "https://open.spotify.com/track/3mPcoABQe29FXcYORjbVRr"
+    },
+    {
+      "album": {
+        "name": "A Few Hearts Ago",
+        "url": "https://open.spotify.com/album/3DVKTlns8aHzrl8oat68Cw"
+      },
+      "artists": [
+        {
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188133,
+      "name": "A Few Hearts Ago",
+      "url": "https://open.spotify.com/track/6mu9Jh4M8tAZyk3Z1qqgji"
     },
     {
       "album": {
@@ -1218,6 +1236,24 @@
       "duration_ms": 161085,
       "name": "Alright (feat. Russell Dickerson)",
       "url": "https://open.spotify.com/track/1h8X2tLPGk35kQ5hRY4rul"
+    },
+    {
+      "album": {
+        "name": "Always Gonna Be",
+        "url": "https://open.spotify.com/album/1WI5hRCxaEOSMUtKxO5fKa"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172213,
+      "name": "Always Gonna Be",
+      "url": "https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk"
     },
     {
       "album": {
@@ -6324,7 +6360,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 180626,
       "name": "Don't Stay Gone Too Long",
       "url": "https://open.spotify.com/track/3sITSLYWVirVIeYQi6BGnR"
@@ -7568,6 +7604,24 @@
       "duration_ms": 209173,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/7eZOjKOH0zNXs9ieGPchEY"
+    },
+    {
+      "album": {
+        "name": "Fake Names",
+        "url": "https://open.spotify.com/album/6HR8wY3bzZWNoU3sJZY2bX"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159613,
+      "name": "Fake Names",
+      "url": "https://open.spotify.com/track/2ClUu1kEWAGb6KZroRkkUq"
     },
     {
       "album": {
@@ -11372,7 +11426,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 196506,
       "name": "Heartbreak On The Map",
       "url": "https://open.spotify.com/track/4kAg1SWfJoqJq7m2FF7l8p"
@@ -13606,6 +13660,24 @@
       "duration_ms": 212215,
       "name": "I Just Killed A Man",
       "url": "https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG"
+    },
+    {
+      "album": {
+        "name": "I Know A Guy",
+        "url": "https://open.spotify.com/album/1TUlbemKM7UOS7gpi3gWdA"
+      },
+      "artists": [
+        {
+          "name": "Alex Hall",
+          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161103,
+      "name": "I Know A Guy",
+      "url": "https://open.spotify.com/track/2wAavjh84cV0tH4Pbcz0EF"
     },
     {
       "album": {
@@ -16410,7 +16482,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 209836,
       "name": "Looking Back Now",
       "url": "https://open.spotify.com/track/37imLguIvWwDJNT6RGO2Qi"
@@ -27412,7 +27484,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 220567,
       "name": "The Thing That Wrecks You",
       "url": "https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I"

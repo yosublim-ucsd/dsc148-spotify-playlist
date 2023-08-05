@@ -2,9 +2,9 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todos as novidades e hits do pop br aqui e agora! Foto: Papatinho
+> Ouça todos as novidades e hits do pop br aqui e agora! Foto: Juliette, Marina Sena
 
-218 songs - 10 hr 7 min
+221 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,9 @@
 | [Pra Te Machucar \(feat\. Suku Ward\)](https://open.spotify.com/track/3iNjNUUuuF5Mjk7tYWAI9N) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Suku Ward](https://open.spotify.com/artist/11mHQVYCOp3dbhqezMJDGq) | [Pra Te Machucar \(feat\. Suku Ward\)](https://open.spotify.com/album/6aK9Rcd0QztU0jRIoqJaN5) | 2:37 | 2022-01-14 | 2022-02-05 |
 | [Pra Você e pra Mim](https://open.spotify.com/track/2KG5nqBRLLYbPNs29tOUu2) | [Tayla Duarte](https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY) | [Pra Você e pra Mim](https://open.spotify.com/album/0ISog7zlptbjsJZvvuMg0X) | 2:25 | 2023-02-13 | 2023-02-18 |
 | [PROIBIDONA](https://open.spotify.com/track/090GUuqAuh7Vje3V745nep) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [PROIBIDONA](https://open.spotify.com/album/4uE5CGnjimzfh5m40ullYU) | 2:37 | 2023-01-19 |  |
+| [Quase Não Namoro](https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Quase Não Namoro](https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC) | 2:15 | 2023-08-04 |  |
 | [Que Rabão \(feat\. Mr\. Catra e YG\)](https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Mr\. Catra](https://open.spotify.com/artist/1mXaaMbQM3IYuhNWaZdFuE), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:56 | 2022-04-13 | 2023-02-11 |
+| [Que Se Vá](https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:24 | 2023-08-04 |  |
 | [Quebrar Seu Coração \(feat\. Luísa Sonza\)](https://open.spotify.com/track/707X30zRZYb1HYe1BtiY69) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Quebrar Seu Coração \(feat\. Luísa Sonza\)](https://open.spotify.com/album/3mX5V5Jbliy12mrafRMzfs) | 2:20 | 2022-01-14 | 2022-08-13 |
 | [Radar](https://open.spotify.com/track/0V4LaOkdQm1sJwNerXcxMl) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Affair](https://open.spotify.com/album/2hS0idBDjAAlWgY47HYA90) | 3:02 | 2022-01-14 | 2022-07-29 |
 | [Radar](https://open.spotify.com/track/5l4GTT4tLccGiZE3KGjlg4) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Affair](https://open.spotify.com/album/1uyLEC5sd3Mdyvu0iCvirh) | 3:02 | 2022-07-22 | 2022-12-24 |
@@ -214,6 +216,7 @@
 | [TROPA DAS SOLTINHAS](https://open.spotify.com/track/7k82WCRSzfByzGXVYRgAvb) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [TROPA DAS SOLTINHAS](https://open.spotify.com/album/0gLKqtVCVOcI7eGz6rJuIZ) | 2:26 | 2022-02-11 | 2022-03-18 |
 | [Tudo Pra Amar Você](https://open.spotify.com/track/2lDhKzEXHU14HRRAKja3ba) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Tudo Pra Amar Você](https://open.spotify.com/album/1neVMQB6q1Roh1Voz9dfDA) | 2:55 | 2023-02-24 | 2023-04-26 |
 | [Tudo Pra Amar Você](https://open.spotify.com/track/5GZ4UmrT3wv3eftsHo3WZ1) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Tudo Pra Amar Você](https://open.spotify.com/album/0FlzEsJbLiNBGr8rlaacLa) | 2:55 | 2023-04-25 |  |
+| [Tá OK \(Remix\)](https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tá OK \(Remix\)](https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf) | 2:51 | 2023-08-04 |  |
 | [Tóxico](https://open.spotify.com/track/3Pmh33KdrzB0imutuOUjoZ) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:08 | 2023-02-10 | 2023-02-18 |
 | [UMA BAD UMA FARRA](https://open.spotify.com/track/4xTuJuYX6eoypL09xTxvIM) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [: \( UMA BAD UMA FARRA : \)](https://open.spotify.com/album/4LOdX7PgbZyzNRq7uRolv6) | 3:05 | 2022-05-06 | 2022-06-04 |
 | [Vai Vendo](https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Vai Vendo](https://open.spotify.com/album/7khLcypJ5ujTq7aK5pAUm5) | 2:42 | 2023-04-28 |  |

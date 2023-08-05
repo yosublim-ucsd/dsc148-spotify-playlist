@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Art School Girlfriend
 
-1,669 songs - 4 day 3 hr 19 min
+1,670 songs - 4 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1089,6 +1089,7 @@
 | [Pay Your Way In Pain](https://open.spotify.com/track/0kiuMdZ9G8X9Odc8oifwX9) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Pay Your Way In Pain](https://open.spotify.com/album/0xqBlwYVpzvJAGAMHNPEUf) | 3:03 | 2021-03-06 | 2021-04-02 |
 | [Paying The Price](https://open.spotify.com/track/6F4DAh0ANpqlP20iR4Fqlh) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Paying The Price](https://open.spotify.com/album/5lXmnuAhMGGRYkQwOCVR3w) | 2:40 | 2022-03-11 | 2022-05-20 |
 | [Peachy](https://open.spotify.com/track/0ICwtGQlsuWDKMIImfENi0) | [Dan D'Lion](https://open.spotify.com/artist/6dLGrJfOwF5gdyI8Ga7b76) | [Peachy](https://open.spotify.com/album/2o0L24zwlCufVD5qCRq4Pn) | 2:25 | 2021-04-09 | 2021-06-25 |
+| [Peanut Butter & Tears](https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Peanut Butter & Tears](https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I) | 3:45 | 2023-08-03 |  |
 | [Pedestrian at Best](https://open.spotify.com/track/3IPAzFZONhGDApY5jmNQ4S) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Pedestrian at Best](https://open.spotify.com/album/53ITixSPuEatk5EwnJdRqJ) | 3:33 | 2020-10-16 | 2020-11-27 |
 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 | 2023-05-11 | 2023-05-26 |
 | [Pelican Freestyle](https://open.spotify.com/track/6sNfqqGpSImTscoZNrsCBe) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP) | [Cloud Paint](https://open.spotify.com/album/3ihhpCQwkkson9Lz3NQ6OI) | 3:19 | 2022-06-24 | 2022-08-19 |

@@ -2,9 +2,9 @@
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 
-> New and approved indie pop\. Cover: The Beaches
+> New and approved indie pop\. Cover: Bennett Coast
 
-1,634 songs - 3 day 14 hr 12 min
+1,635 songs - 3 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1050,6 +1050,7 @@
 | [Nothing Left To Give](https://open.spotify.com/track/5ti3pAj9M9HlnXrjUiO232) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Nothing Left To Give](https://open.spotify.com/album/0IVhJ8PzPajZB401x4lfkO) | 3:13 | 2023-04-14 | 2023-04-22 |
 | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/track/49rILSmVLmGmknARFACh3N) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/album/0QvkS38s3iUF88PeNqeXzt) | 2:38 | 2021-10-09 | 2021-10-16 |
 | [NOTHINGTOLOSE](https://open.spotify.com/track/7CG1wypkvWy644LbTQUulJ) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [NOTHINGTOLOSE](https://open.spotify.com/album/7B6H4m4fM96SQ9aFrhoAW2) | 2:04 | 2021-11-12 | 2022-04-21 |
+| [Now I Know You](https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 3:32 | 2023-08-04 |  |
 | [Nowhere To Run](https://open.spotify.com/track/3gLDhSSAQBZ2QeJyAuLtZ1) | [MarthaGunn](https://open.spotify.com/artist/4Rt63oQJifMiMbQEcmeqK8) | [Nowhere To Run](https://open.spotify.com/album/2Gocxpa9oVTnDIPjgf2pTG) | 4:07 | 2020-11-20 | 2021-05-25 |
 | [Number 1](https://open.spotify.com/track/7A6K76Ep7yjHtNmRnOQcHj) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Number 1](https://open.spotify.com/album/5g0eWYTDlGrdX3lyyIETlG) | 3:46 | 2021-02-22 | 2021-03-18 |
 | [Obsessed \(Demo\)](https://open.spotify.com/track/6Hzp6CZ47onhS27yUepksV) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Obsessed \(Demo\)](https://open.spotify.com/album/585FbTBKq8HAaW7MmOQou0) | 2:25 | 2022-09-09 | 2022-09-24 |
@@ -1206,7 +1207,7 @@
 | [Roadkill](https://open.spotify.com/track/3Rlj2kckSXwhcv1NarJyEn) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On a Conditional Form](https://open.spotify.com/album/65l2wbCvQ1XGtZ4PbKqF2i) | 2:55 | 2021-01-18 | 2021-06-03 |
 | [Rock Back & Forth](https://open.spotify.com/track/1pEpnFsBtUQEtA7TfKS1EH) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Rock Back & Forth](https://open.spotify.com/album/3VC2jwx5b1PTfiO6AQ2Pz2) | 3:05 | 2021-03-22 | 2021-05-28 |
 | [Rocket On My Feet](https://open.spotify.com/track/2VRuPvRr4dNrd7ITIu1ia7) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Rocket On My Feet](https://open.spotify.com/album/0TgONTUERlpYs61qIHb5IR) | 4:07 | 2022-02-25 | 2022-04-21 |
-| [Rocket Ship](https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Rocket Ship](https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m) | 1:29 | 2023-04-21 |  |
+| [Rocket Ship](https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Rocket Ship](https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m) | 1:29 | 2023-04-21 | 2023-08-05 |
 | [Rockstar](https://open.spotify.com/track/1fpvdpEUe6jncotfqNGRW8) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Rockstar](https://open.spotify.com/album/3pwHONJw42S7p9b6djAUzA) | 3:28 | 2020-10-13\* | 2020-10-16 |
 | [Rollerskates](https://open.spotify.com/track/2N8JOMhgbI28g9h3C0kPZY) | [Ryann](https://open.spotify.com/artist/5EJHdetWppJ5mcyyU2HN52) | [Emotions on Rollerskates](https://open.spotify.com/album/1gIi3xEGhV2g60G685E9cW) | 3:19 | 2020-10-13\* | 2021-02-26 |
 | [Romeo & Juliet](https://open.spotify.com/track/1VyA8mbSyXOdJx2lguR8Uu) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6Bdil490atXzxeG4pevs7o) | 2:46 | 2022-06-17 | 2022-10-08 |

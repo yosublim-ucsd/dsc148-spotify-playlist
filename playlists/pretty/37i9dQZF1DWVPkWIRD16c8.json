@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 87491,
+  "num_followers": 87823,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjEyZjNjMzA4NmYwMmUzOWIwMDAxMzQ2M2NhY2VhZGZjMDg0ZmMy",
+  "snapshot_id": "MCw5MmJjYjA4MWE1YjlmMGY3ZjViODBkMGEzYzhlMTY2YWU4OGUzNzg0",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:16",
@@ -111,26 +111,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Rescue Story",
-        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 223347,
-      "name": "There Was Jesus",
-      "url": "https://open.spotify.com/track/6oizwmD5yHvlQUw0xvirrY"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Raise a Hallelujah (Studio Version)",
         "url": "https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 244040,
       "name": "Raise a Hallelujah (Studio Version)",
       "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Rescue Story",
+        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 223347,
+      "name": "There Was Jesus",
+      "url": "https://open.spotify.com/track/6oizwmD5yHvlQUw0xvirrY"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "Faultlines Vol. I",
+        "url": "https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC"
+      },
+      "artists": [
+        {
+          "name": "kalley",
+          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 231400,
       "name": "Song In My Soul (feat. Hollyn)",
       "url": "https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "Faultlines Vol. I",
-        "url": "https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC"
-      },
-      "artists": [
-        {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "Dark Is The Way, Light Is A Place",
+        "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        }
+      ],
+      "duration_ms": 243573,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "REBELS",
         "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 226933,
       "name": "Rebels",
       "url": "https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "Dark Is The Way, Light Is A Place",
-        "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
-      },
-      "artists": [
-        {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        }
-      ],
-      "duration_ms": 243573,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
     },
     {
       "added_at": "2023-02-07 17:43:16",

@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Delaney Bailey
 
-378 songs - 23 hr 33 min
+379 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Gossamer](https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Gossamer](https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z) | 3:55 | 2022-09-30 | 2023-06-22 |
 | [Graves](https://open.spotify.com/track/2AMh8Toy9gNVutZN0V8bmn) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Graves](https://open.spotify.com/album/2Pn1ZcmnqkFAVflaBEnHkg) | 3:12 | 2022-01-21 | 2022-07-29 |
 | [Graves](https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 3:12 | 2022-04-29 | 2023-05-14 |
+| [Halfway \(Acoustic\) feat\. Hotel Fiction](https://open.spotify.com/track/66YHDx66wNm8bjuvWHeQOo) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH), [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Halfway \(Acoustic\) feat\. Hotel Fiction](https://open.spotify.com/album/3LkMO7M2naqTPwNIEOvuFr) | 4:02 | 2023-08-04 |  |
 | [Hannah Sun](https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ) | 3:28 | 2022-10-14 | 2023-04-29 |
 | [Hannah Sun](https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 3:28 | 2023-04-28 |  |
 | [Hard Drive](https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 5:27 | 2022-04-29 | 2023-06-24 |
@@ -319,7 +320,7 @@
 | [Sweetspot](https://open.spotify.com/track/6gJIgCURxpAOG61j5Q9LVx) | [Mess Esque](https://open.spotify.com/artist/52o8MHT44vLaGDarbic1zq) | [Mess Esque](https://open.spotify.com/album/3FxizRBHvFR28BC4yYGMih) | 7:57 | 2022-01-21 | 2023-06-17 |
 | [Swimming](https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:12 | 2022-04-29 | 2023-03-11 |
 | [Swimming](https://open.spotify.com/track/7dJR6TWnJns4w9OVYeMY2P) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Swimming](https://open.spotify.com/album/7DarjMHpMdUo3ForHknW9t) | 4:12 | 2022-01-21 | 2022-07-28 |
-| [tap](https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [tap](https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np) | 4:31 | 2022-04-13 |  |
+| [tap](https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [tap](https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np) | 4:31 | 2022-04-13 | 2023-08-05 |
 | [Telephone](https://open.spotify.com/track/0Y9QZo9l948hcvBIt9TQSO) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Telephone](https://open.spotify.com/album/4Qp1PN0SHjCjm8KGzh5qGu) | 3:42 | 2023-01-20 | 2023-02-21 |
 | [Telephone](https://open.spotify.com/track/6kmeI9upOHk6TRSi2StNlr) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 3:42 | 2023-02-10 |  |
 | [Tell Me What You Want](https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Tell Me What You Want](https://open.spotify.com/album/3VdUpn61KkhDfUlerooRwD) | 4:02 | 2023-03-10 | 2023-06-09 |

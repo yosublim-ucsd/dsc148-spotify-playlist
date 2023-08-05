@@ -4,7 +4,7 @@
 
 > Chasing sunsets con buena música de fondo.
 
-77 songs - 4 hr 27 min
+78 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [nostalgia](https://open.spotify.com/track/0t3uKEc44wvDzMsmCPRach) | [AZTRO](https://open.spotify.com/artist/59Mz51MhHOOKjJFsM4cSzU), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [nostalgia](https://open.spotify.com/album/6hwBv8CvjmxQwAtNkHaAY2) | 3:15 | 2023-03-10 |  |
 | [Nostalgic](https://open.spotify.com/track/4D7aTt00dJV85RfuL3sBb4) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [TTT](https://open.spotify.com/album/7qOQ37eoRAF8YR1MehRim6) | 3:56 | 2023-03-10 | 2023-03-26 |
 | [Nunca Te Quise](https://open.spotify.com/track/4LnW4biZe5TnYQPcFayoQX) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Nunca Te Quise](https://open.spotify.com/album/6DkPLxjjuUT5BtLZ0vczNv) | 3:35 | 2023-05-19 |  |
+| [paseo en carro a la costa](https://open.spotify.com/track/31R22n6xtllkynO6SVWayS) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Paseo En Carro A La Costa](https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo) | 4:18 | 2023-07-28 |  |
 | [Persona Favorita](https://open.spotify.com/track/6WklRgGMJsQEB74MvnS36U) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 4:01 | 2023-03-10 |  |
 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 | 2023-03-10 |  |
 | [Porque](https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Quemarropa](https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9) | 3:00 | 2023-07-14 |  |
@@ -79,7 +80,7 @@
 | [Trail Blazer](https://open.spotify.com/track/0Pe3iMJXI9a0dDdoXgG10G) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:13 | 2023-03-10 | 2023-05-24 |
 | [Tribus de libertad](https://open.spotify.com/track/3ylceN7GD9rUSebqzH61Ny) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Tribus de libertad](https://open.spotify.com/album/5t5TWWWB5iGSXzHiEBbmXf) | 4:24 | 2023-04-21 | 2023-06-04 |
 | [Tu Forma](https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Tu Forma](https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK) | 2:34 | 2023-04-21 |  |
-| [Un Poquito Más](https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Un Poquito Más](https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL) | 2:59 | 2023-03-10 |  |
+| [Un Poquito Más](https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Un Poquito Más](https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL) | 2:59 | 2023-03-10 | 2023-08-05 |
 | [Una noche que nunca termina](https://open.spotify.com/track/1UXbQVP8HhqtW7xQJks5gQ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 3:01 | 2023-03-10 | 2023-05-19 |
 | [Vueltas](https://open.spotify.com/track/27yF4FbBzJ2vy65aqNdCTm) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Vueltas](https://open.spotify.com/album/4yK2y4i9chYEAEwzn1fzSx) | 3:32 | 2023-05-05 |  |
 | [Ya nada es igual](https://open.spotify.com/track/3yqZj4Uap9uhX9Ps1zveRF) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [lo haría todo de nuevo](https://open.spotify.com/album/5rQLajIuxAciQpm4gpLwJ3) | 3:33 | 2023-03-24 | 2023-05-04 |

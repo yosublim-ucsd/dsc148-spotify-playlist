@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Lisandro Cuxi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,230 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,375 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 41 | [Tempestade](https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:25 |
 | 42 | [Teu Corpo](https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Teu Corpo](https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63) | 2:50 |
 | 43 | [Refúgio](https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Jordânia](https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod) | [Refúgio](https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa) | 3:57 |
-| 44 | [Puro](https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Puro](https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi) | 4:23 |
-| 45 | [Vais Me Perder](https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Vais Me Perder](https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx) | 3:41 |
-| 46 | [Segredo](https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk) | [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Segredo](https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi) | 3:27 |
+| 44 | [Segredo](https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk) | [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Segredo](https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi) | 3:27 |
+| 45 | [Puro](https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Puro](https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi) | 4:23 |
+| 46 | [Vais Me Perder](https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Vais Me Perder](https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx) | 3:41 |
 | 47 | [Desculpa](https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H) | 3:32 |
 | 48 | [Preparado](https://open.spotify.com/track/2CV9x25ByU2nmmeHSSn4NX) | [Rapaz 100 Juiz](https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Klasszik](https://open.spotify.com/artist/4eHjLzgTRHd3OOmNaMkBRD) | [Preparado](https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf) | 4:39 |
 | 49 | [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 69 | [Mad Love](https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Mad Love](https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ) | 3:12 |
 | 70 | [Tellin Me Something](https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Tellin Me Something](https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI) | 2:47 |
 | 71 | [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 |
-| 72 | [Felicidade](https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Felicidade](https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i) | 2:46 |
-| 73 | [Me Leva Contigo](https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Me Leva Contigo](https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM) | 4:18 |
+| 72 | [Me Leva Contigo](https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Me Leva Contigo](https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM) | 4:18 |
+| 73 | [Felicidade](https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Felicidade](https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i) | 2:46 |
 | 74 | [Criola](https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Mika Mendes](https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q) | 4:43 |
 | 75 | [Se Eu Pudesse](https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5) | 3:16 |
 | 76 | [Já Não Sei](https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Já Não Sei](https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO) | 4:21 |
 | 77 | [Arrepios](https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Arrepios](https://open.spotify.com/album/430jQV4UrweqvoV5osODxI) | 3:24 |
 | 78 | [Nha Rainha \(feat\. Dino D'Santiago\)](https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [The Gentleman](https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0) | 3:46 |
-| 79 | [Fica Parado \(feat\. C4 Pedro\)](https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Mais de Mim](https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi) | 3:48 |
+| 79 | [Africana](https://open.spotify.com/track/39GEvvoMVqRnxpy69XGRvT) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Africana](https://open.spotify.com/album/17vDciwK52wtjT5rFjmlXt) | 3:20 |
 | 80 | [Deusa do Amor](https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Anderson Mario](https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh), [Button](https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL) | [Deusa do Amor](https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS) | 4:39 |
 
-Snapshot ID: `MCw0ZTk0ODUzOGZiNDJiYzU5MTc0NWYyOTE0NjllZWFlNDAxOTY1ZWQx`
+Snapshot ID: `MCwyMzNiMmQ4Njg1ZGFkYTdlOTdkZTk5OTM5ZjliYTUyYWE0M2QzNWZh`

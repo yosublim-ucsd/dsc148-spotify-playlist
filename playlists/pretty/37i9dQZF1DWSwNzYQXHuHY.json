@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 7891,
+  "num_followers": 7901,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTY0MDhkMTAwZDU1ODM5ODMyZDM2M2VmZWRiODg1NjIzMGZiZjE0",
+  "snapshot_id": "MCw2ZDVmYTY5NzkzOGU4MTJkZmY0ZDRhMWRkM2YzZjJhYmY5OTcxYWNi",
   "tracks": [
     {
       "added_at": "2023-07-17 06:18:36",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-07-17 06:18:36",
       "album": {
+        "name": "Beige coat",
+        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Beige coat",
+      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
+    },
+    {
+      "added_at": "2023-07-17 06:18:36",
+      "album": {
         "name": "Our Spring : Who?",
         "url": "https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 190746,
       "name": "Who?",
       "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
-    },
-    {
-      "added_at": "2023-07-17 06:18:36",
-      "album": {
-        "name": "Beige coat",
-        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
-      },
-      "artists": [
-        {
-          "name": "Grizzly",
-          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Beige coat",
-      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
       "added_at": "2023-07-17 06:18:36",
@@ -599,18 +599,22 @@
     {
       "added_at": "2023-07-17 06:18:36",
       "album": {
-        "name": "Why isn't love always easy? (Romance 101 X JOY)",
-        "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
+        "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
+        "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
       },
       "artists": [
         {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "Raina",
+          "url": "https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h"
         }
       ],
-      "duration_ms": 221040,
-      "name": "Why isn't love always easy? (Romance 101 X JOY)",
-      "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
+      "duration_ms": 233456,
+      "name": "A midsummer night's sweetness",
+      "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
     },
     {
       "added_at": "2023-07-17 06:18:36",
@@ -631,22 +635,18 @@
     {
       "added_at": "2023-07-17 06:18:36",
       "album": {
-        "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
-        "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
+        "name": "Why isn't love always easy? (Romance 101 X JOY)",
+        "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
       },
       "artists": [
         {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
-        },
-        {
-          "name": "Raina",
-          "url": "https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h"
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
         }
       ],
-      "duration_ms": 233456,
-      "name": "A midsummer night's sweetness",
-      "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
+      "duration_ms": 221040,
+      "name": "Why isn't love always easy? (Romance 101 X JOY)",
+      "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
     },
     {
       "added_at": "2023-07-17 06:18:36",

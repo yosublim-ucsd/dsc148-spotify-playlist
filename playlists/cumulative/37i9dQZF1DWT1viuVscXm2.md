@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana.
 
-239 songs - 13 hr 58 min
+240 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [Cumbia Despechada \(feat\. Gino Mella\)](https://open.spotify.com/track/0i38plpKu7S0NCIh8PfcFM) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Cumbia Despechada](https://open.spotify.com/album/6LW0dk5JXVmNLHOCIzoim2) | 2:44 | 2023-01-13 | 2023-03-11 |
 | [Cumbia Vieja](https://open.spotify.com/track/2rzFgjG5cRCTsQ83cKdmJK) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Cumbia Vieja](https://open.spotify.com/album/0M0ITbLB8ipsQOjw7Qkz3o) | 2:45 | 2022-08-26 | 2022-10-29 |
 | [CUMBIA, CUMBIA, CUMBIA](https://open.spotify.com/track/3suelWfLweuFrb1Fbgsg94) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7) | [CUMBIA, CUMBIA, CUMBIA](https://open.spotify.com/album/6xfbKv5OeSyeGxh12mGkHb) | 2:51 | 2023-01-13 | 2023-03-11 |
+| [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 | 2023-08-04 |  |
 | [Curame el Corazón](https://open.spotify.com/track/3QDnzNNZKMdfVbuwqXAC42) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ), [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Letras al Corazón](https://open.spotify.com/album/5GIM2zhvWzyjkx1SO6UMMs) | 4:07 | 2021-12-24 | 2022-01-08 |
-| [Cuéntaselo](https://open.spotify.com/track/3DAZJ0L6bR5QRMsxLExvEh) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Cuéntaselo](https://open.spotify.com/album/4uTQXTiKvrzX17kuzlM0aM) | 3:11 | 2023-05-12 |  |
+| [Cuéntaselo](https://open.spotify.com/track/3DAZJ0L6bR5QRMsxLExvEh) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Cuéntaselo](https://open.spotify.com/album/4uTQXTiKvrzX17kuzlM0aM) | 3:11 | 2023-05-12 | 2023-08-05 |
 | [Cómo le Gusta](https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Cómo le Gusta](https://open.spotify.com/album/67V8P2PQIobKRhkNjSboUd) | 3:10 | 2022-07-15 | 2022-12-03 |
 | [Cómo No Amarte](https://open.spotify.com/track/3I7RZ8jbuzNTLTFal2kEbb) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [En La Cima](https://open.spotify.com/album/7grjj6Q3ZmcOEjeu0veFi9) | 4:24 | 2022-12-23 | 2023-03-25 |
 | [Cómo Olvidarte](https://open.spotify.com/track/5DcQjboiW4TJ4jhwHS6FrO) | [Pablo Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Dunguita](https://open.spotify.com/artist/6tgy6fQk4b1XwrSoHvEqBo), [Pollo González](https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV) | [Cómo Olvidarte](https://open.spotify.com/album/0y2Bzf65Y7PVczvoMhR66G) | 2:51 | 2021-12-24 | 2022-05-10 |

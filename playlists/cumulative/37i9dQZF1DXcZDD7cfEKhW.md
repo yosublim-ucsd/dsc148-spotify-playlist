@@ -2,7 +2,7 @@
 
 ### [Pop Remix](https://open.spotify.com/playlist/37i9dQZF1DXcZDD7cfEKhW)
 
-> Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Kylie Minogue
+> Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Aqua
 
 441 songs - 23 hr 42 min
 

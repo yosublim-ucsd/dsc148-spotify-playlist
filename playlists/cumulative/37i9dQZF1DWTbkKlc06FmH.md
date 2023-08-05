@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-448 songs - 1 day 3 hr 4 min
+449 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Lovers In Tokyo](https://open.spotify.com/track/4C1t6lql5m1t790X8UJ2CH) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Lovers In Tokyo](https://open.spotify.com/album/3VnDBO2UsZnofhJ65hE7yC) | 3:46 | 2023-01-12 | 2023-02-08 |
 | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/track/0dPBmyhOEonUNrfqywYioK) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/album/7lXiHtM1UrVjszxehfzoyI) | 3:55 | 2022-12-06 | 2023-01-11 |
 | [MAJIC](https://open.spotify.com/track/07pGTcfzbu0jtG6aoAfKhM) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [INORI](https://open.spotify.com/album/3jDrLQ2fCCjBgF3IC5wP0D) | 4:01 | 2023-04-04 | 2023-04-19 |
+| [Make Up Your Mind](https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Make Up Your Mind](https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80) | 2:52 | 2023-08-03 |  |
 | [Marshmallow](https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Marshmallow](https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx) | 3:02 | 2023-06-15 |  |
 | [Mayonaka no Door\~Stay with Me \- 2023 Mix](https://open.spotify.com/track/3cSIP8SktGigy9EUL3QAAe) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [POCKET PARK \(2023 Mix\)](https://open.spotify.com/album/6ZogsaUTY6mwjzg0503GvU) | 5:10 | 2023-06-20 |  |
 | [Maze](https://open.spotify.com/track/7dO0DWNctendV8W3XbRBux) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Time Won't Stop](https://open.spotify.com/album/0rQDHxRhpolHbzQYcB510w) | 5:08 | 2022-12-20 | 2023-02-22 |

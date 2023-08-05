@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Damares
 
-167 songs - 14 hr 0 min
+168 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Ele Veio](https://open.spotify.com/track/2VvkkHWKhEb8aNd5JdbgST) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Ele Veio](https://open.spotify.com/album/2pbZJUXRQArl3v9CyxEaMX) | 6:25 | 2023-03-03 | 2023-06-03 |
 | [Ele É](https://open.spotify.com/track/6cgDuihbqggLhQ7P7IqP8J) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Ele É](https://open.spotify.com/album/6qEYPG5MpIFzDKnFHj6ZZZ) | 6:35 | 2022-10-28 | 2023-02-04 |
 | [Enquanto a Igreja Ora](https://open.spotify.com/track/7zr5HXsViII0gR1Iwcr0ed) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Enquanto a Igreja Ora](https://open.spotify.com/album/2casb8zplapBFUHPOmTq3q) | 3:21 | 2023-07-07 |  |
+| [Entra no Fogo](https://open.spotify.com/track/2b7TmLYYCG505jb3lCt7Rx) | [Bereia Music](https://open.spotify.com/artist/2uylz2eDUc2XW6eFWoR3N4), [Tarcísio Galldino](https://open.spotify.com/artist/6niwEMdTSjiZU4qSWeWxhU), [Cláudio Louvor](https://open.spotify.com/artist/3Wg4ajGJdUSMzp01od9X4S) | [Entra no Fogo](https://open.spotify.com/album/69Vu7Fi13FBhoIxIUWELUR) | 3:50 | 2023-08-04 |  |
 | [Esconderijo do Altíssimo](https://open.spotify.com/track/5mwTKuWkJs9ZzrwioLbCyO) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz) | [Esconderijo do Altíssimo](https://open.spotify.com/album/2P6IvWGRjWLuP6rk5We0pL) | 4:45 | 2022-09-09 | 2022-12-24 |
 | [Escritor](https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Escritor](https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd) | 4:49 | 2022-09-09 |  |
 | [Espírito Santo](https://open.spotify.com/track/35aohQYftq3TH3ogAZu8hw) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Espírito Santo](https://open.spotify.com/album/3ez7jPJBZfCvhUY1ULAnmB) | 4:47 | 2023-04-21 |  |
@@ -108,7 +109,7 @@
 | [O Leão](https://open.spotify.com/track/2XzfX9mvl3eg8UM5VhYAJX) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [O Leão](https://open.spotify.com/album/64Nuz4DuJpracX5ddk9PqD) | 4:27 | 2022-09-09 | 2023-07-04 |
 | [O Leão](https://open.spotify.com/track/3xMzTie4gkSwKbI7YhBi9d) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 4:27 | 2023-06-23 |  |
 | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ) | 6:42 | 2022-11-04 |  |
-| [O Menor \(Ao Vivo\)](https://open.spotify.com/track/27sYTbQbEEqhgEFKuDyxlj) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc), [Polyana Martins](https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x) | [O Menor \(Ao Vivo\)](https://open.spotify.com/album/6giUIvYzvLaogQc2jvomCi) | 5:22 | 2023-06-23 |  |
+| [O Menor \(Ao Vivo\)](https://open.spotify.com/track/27sYTbQbEEqhgEFKuDyxlj) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc), [Polyana Martins](https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x) | [O Menor \(Ao Vivo\)](https://open.spotify.com/album/6giUIvYzvLaogQc2jvomCi) | 5:22 | 2023-06-23 | 2023-08-05 |
 | [O Mínimo de Mim](https://open.spotify.com/track/6zbMyzItlZIQbSwYbyk0MN) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [O Mínimo de Mim](https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe) | 4:08 | 2022-09-09 |  |
 | [O Noivo Virá](https://open.spotify.com/track/4H5tuVx6j0UqcWVAaJt9qu) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Noivo Virá](https://open.spotify.com/album/6W6VSlerbFI3dvGgiOX7pE) | 6:29 | 2022-09-09 | 2023-07-04 |
 | [O Noivo Virá](https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:29 | 2023-06-23 |  |

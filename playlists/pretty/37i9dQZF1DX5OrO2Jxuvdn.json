@@ -1,12 +1,12 @@
 {
   "description": "Lainey Wilson is taking over with her favorite workout tracks to keep up with her New Year's resolution. \ud83c\udf51",
-  "num_followers": 96064,
+  "num_followers": 96069,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTdlNmJjY2NhODg3YzA0MTRiYWY3Mzc2OGM5NGRmZTlhYmUyMDU3",
+  "snapshot_id": "MCwxMGY3YTFjOTdjNmZjMDBjNTI0YmZiZmUxYmRkZDU4YzBhZWU1ZDk3",
   "tracks": [
     {
       "added_at": "2023-01-09 22:47:08",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "Love, Heartbreak, & Everything in Between",
-        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 198208,
-      "name": "Somebody Like That",
-      "url": "https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
         "name": "Teenage Dixie",
         "url": "https://open.spotify.com/album/34Pt5YlloNLomVuV97GbAY"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 167266,
       "name": "Me On You",
       "url": "https://open.spotify.com/track/1wwjfgCUXaupR7q3tv6ZXN"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "Love, Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 198208,
+      "name": "Somebody Like That",
+      "url": "https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "Like I Love Country Music",
-        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 234340,
-      "name": "Like I Love Country Music",
-      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 190640,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "Like I Love Country Music",
+        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 234340,
+      "name": "Like I Love Country Music",
+      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "My Kind Of Livin'",
-        "url": "https://open.spotify.com/album/4ovUdHrbzwtbtKMyU997Hl"
-      },
-      "artists": [
-        {
-          "name": "Craig Morgan",
-          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
-        }
-      ],
-      "duration_ms": 230373,
-      "name": "Redneck Yacht Club",
-      "url": "https://open.spotify.com/track/4etE2X6t7GmyiuYLIdI8H5"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
         "name": "Night Train",
         "url": "https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
+        "name": "My Kind Of Livin'",
+        "url": "https://open.spotify.com/album/4ovUdHrbzwtbtKMyU997Hl"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "duration_ms": 230373,
+      "name": "Redneck Yacht Club",
+      "url": "https://open.spotify.com/track/4etE2X6t7GmyiuYLIdI8H5"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
         "name": "The Road And The Radio",
         "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
       },
@@ -1255,6 +1255,22 @@
       "duration_ms": 206586,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Blue Tacoma",
+      "url": "https://open.spotify.com/track/5PBx0zFfehUMyv5H4YXVAU"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1287,22 +1303,6 @@
       "duration_ms": 209426,
       "name": "Take A Back Road",
       "url": "https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Blue Tacoma",
-      "url": "https://open.spotify.com/track/5PBx0zFfehUMyv5H4YXVAU"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "Tullahoma",
-        "url": "https://open.spotify.com/album/2jGU6wUOYlyscEVAh6dtg5"
-      },
-      "artists": [
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        }
-      ],
-      "duration_ms": 205426,
-      "name": "Ridin\u2019 Roads",
-      "url": "https://open.spotify.com/track/2VPmBOuy7ZAOFSzKwW2IEt"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
         "name": "Pawn Shop",
         "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 216800,
       "name": "It Ain't My Fault",
       "url": "https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "Tullahoma",
+        "url": "https://open.spotify.com/album/2jGU6wUOYlyscEVAh6dtg5"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "duration_ms": 205426,
+      "name": "Ridin\u2019 Roads",
+      "url": "https://open.spotify.com/track/2VPmBOuy7ZAOFSzKwW2IEt"
     },
     {
       "added_at": "2023-01-09 22:47:08",

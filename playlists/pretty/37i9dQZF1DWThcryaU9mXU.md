@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,152 likes - 90 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,211 likes - 90 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 28 | [Gonna Leave You](https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Complete Vanguard Recordings](https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD) | 8:56 |
 | 29 | [Teardrops](https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Good Luck Man](https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs) | 7:08 |
 | 30 | [Love That Burns](https://open.spotify.com/track/39xwaEbjsgAEsh5yN4X90k) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful \(Deluxe\)](https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh) | 5:04 |
-| 31 | [By the Water](https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:39 |
-| 32 | [Long Distance](https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:33 |
+| 31 | [Long Distance](https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:33 |
+| 32 | [By the Water](https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:39 |
 | 33 | [You Shook Me](https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 4:15 |
 | 34 | [That's Why I'm Crying](https://open.spotify.com/track/2oaHiYkuDjqbfMPZERPlKH) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Open Road](https://open.spotify.com/album/6rCfNyYGANioIYQ7LTF2IV) | 5:04 |
 | 35 | [Juice Head Baby](https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6) | [Eddie "Cleanhead" Vinson](https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58) | [Kidney Stew \(The Definitive Black & Blue Sessions\)](https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G) | 4:35 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 62 | [Love Is Gone](https://open.spotify.com/track/6mn9a2i93IcbCF9oY8eQPo) | [Deb Ryder](https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3) | [Memphis Moonlight](https://open.spotify.com/album/590d9qiOtgIds5a3u8UHxP) | 4:48 |
 | 63 | [Friendless Blues](https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7) | [Lonnie Johnson](https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM) | [The Essential Blue Archive: Why Should I Cry](https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4) | 2:59 |
 | 64 | [One More Night](https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB) | [Lonesome Sundown](https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ) | [Been Gone Too Long](https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO) | 4:15 |
-| 65 | [No More Lonely Nights](https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Best Of The Vanguard Years](https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3) | 5:19 |
-| 66 | [35 Long Years](https://open.spotify.com/track/0Ui5GujF5zj6Bdf9Wh9KE1) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR) | [I'm A Mad Man](https://open.spotify.com/album/7g2pXcODGYP7XSeFVbrWQp) | 5:59 |
+| 65 | [35 Long Years](https://open.spotify.com/track/0Ui5GujF5zj6Bdf9Wh9KE1) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR) | [I'm A Mad Man](https://open.spotify.com/album/7g2pXcODGYP7XSeFVbrWQp) | 5:59 |
+| 66 | [No More Lonely Nights](https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Best Of The Vanguard Years](https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3) | 5:19 |
 | 67 | [Drown in My Own Tears](https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO) | [Joe Barr](https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs), [Breezy Rodio](https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o) | [Soul for the Heart](https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4) | 4:35 |
 | 68 | [Trouble In Mind](https://open.spotify.com/track/6BCPs3UOkxbeTpI7cYsOkk) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Woman Across The River](https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs) | 3:43 |
 | 69 | [Mistreated so Bad](https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Pickin' the Blues](https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW) | 3:25 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 84 | [Down On My Knees](https://open.spotify.com/track/3soWDvvrdUZeeniNWxwPji) | [King Leo](https://open.spotify.com/artist/24Y1QM5HxIVWItCw16bw1C) | [Down On My Knees](https://open.spotify.com/album/4MVKaN7r9Wlxr0KyXP9RAa) | 3:33 |
 | 85 | [Hard Living Alone](https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Marshall Texas Is My Home](https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb) | 3:04 |
 | 86 | [Hold That Train](https://open.spotify.com/track/0YnoAn9FBUopgdwEOTsGlE) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [My Kind Of Blues](https://open.spotify.com/album/6nnI1qK92ewOpEerMB9Lhw) | 3:59 |
-| 87 | [Trouble](https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Motel Mississippi](https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx) | 4:11 |
-| 88 | [Since My Baby Gone](https://open.spotify.com/track/3usW1XSJR0B6t14znEAGJ9) | [The Big Three Trio](https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY) | [Just The Big Three Trio](https://open.spotify.com/album/7f1fwQkkUFI7nNeKLEINED) | 3:00 |
-| 89 | [Slow Burning Love](https://open.spotify.com/track/7gHgR64ZEMcUSh5Nrg26dn) | [Oscar LaDell](https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB), [Chris Armour](https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r) | [Right Kinda Wrong](https://open.spotify.com/album/4lWlaDuS0L3q2qw5TMm81J) | 3:11 |
+| 87 | [Slow Burning Love](https://open.spotify.com/track/7gHgR64ZEMcUSh5Nrg26dn) | [Oscar LaDell](https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB), [Chris Armour](https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r) | [Right Kinda Wrong](https://open.spotify.com/album/4lWlaDuS0L3q2qw5TMm81J) | 3:11 |
+| 88 | [Trouble](https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Motel Mississippi](https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx) | 4:11 |
+| 89 | [Since My Baby Gone](https://open.spotify.com/track/3usW1XSJR0B6t14znEAGJ9) | [The Big Three Trio](https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY) | [Just The Big Three Trio](https://open.spotify.com/album/7f1fwQkkUFI7nNeKLEINED) | 3:00 |
 | 90 | [Someone Broke This Heart Of Mine](https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:14 |
 
-Snapshot ID: `MCwxZWUzZDdlNzllNTcwYjdhNmZjZDI3OWY4YTY3MTJjNmZhNmE5ZDRh`
+Snapshot ID: `MCw0MWU4MDFmMjM0NDJlMmE4OTk0MmYyNzM5Zjk5ZjQ5YWRhZjQwYTFm`

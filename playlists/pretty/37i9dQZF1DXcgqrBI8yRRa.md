@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > Girls just wanna have funds
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,687 likes - 45 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,708 likes - 45 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 39 | [Diamonds](https://open.spotify.com/track/5tlZjXxSeaaJEd4aYrHkHg) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Diamonds](https://open.spotify.com/album/7C9G1DbVHXdx7ndn2eNHeD) | 1:49 |
 | 40 | [Soft Life](https://open.spotify.com/track/6hmNM4b5zHtuJAx6u6DCwe) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Soft Life](https://open.spotify.com/album/6nCucOPAL5ANvo0fGAJ6KG) | 2:34 |
 | 41 | [Imma Boss](https://open.spotify.com/track/3HBzvCsx8PGO91KkzA6qrk) | [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r) | [Nadia Naked](https://open.spotify.com/album/4RTVuOqSQqFP5mtCnImdnD) | 2:37 |
-| 42 | [Pounds & Dollars](https://open.spotify.com/track/43o9i6vgfaTD5LDKlcIpav) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [African Baddie](https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413) | 3:24 |
+| 42 | [Pounds & Dollars](https://open.spotify.com/track/1MGDBkEAXEIXojBu5bZYhQ) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [African Baddie](https://open.spotify.com/album/3Hq0h20QXGyrQWfdURFUPw) | 3:24 |
 | 43 | [Diamonds](https://open.spotify.com/track/0aBZ8AFkFpfdCl1wDHORNC) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Babyblues](https://open.spotify.com/album/4TmR0aYCOQ9M0ZRM8q8riP) | 3:44 |
 | 44 | [Plenty \(Too Trendy\)](https://open.spotify.com/track/2FjZhlWpuCAnAnTJOfxulV) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Plenty \(Too Trendy\)](https://open.spotify.com/album/6XSJg5zvbDjPydgMetheYE) | 2:47 |
 | 45 | [Business](https://open.spotify.com/track/7eQvy46qkWjEYrlJnlns0D) | [Liza Monet](https://open.spotify.com/artist/2pm7A6x2MssiqbvAox6zXX), [Bilzo](https://open.spotify.com/artist/4uInwINPrpm4RoIL6iyYVy) | [Mother](https://open.spotify.com/album/1LNWHMAB5ouDyaU8sPm0Sv) | 2:54 |
 
-Snapshot ID: `MCwyZjI1MzY1ODkyYjg5OTE3MGQ2OTZhYWQxNzZkOWM0MDBiMDc1M2Jh`
+Snapshot ID: `MCw4N2YyNDNiNjkwMzI4NzViZmFhY2JmZjIzNWE1ODNiZTQ3MWExMjIz`

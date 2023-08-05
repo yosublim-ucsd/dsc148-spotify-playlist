@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16?si=2da142e40d034893\">Passion<a> ",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg?si=sdYGjXO7RDqe-1HVZ_JEgg\">Caleb and Kelsey<a> ",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 354140,
       "name": "Completely Abandoned - Live",
       "url": "https://open.spotify.com/track/0WbABN4mypl8z5roDZMQeV"
@@ -1766,6 +1766,24 @@
       "duration_ms": 268656,
       "name": "Eden",
       "url": "https://open.spotify.com/track/4A8WlAKXU1e3LiZPKmR9b1"
+    },
+    {
+      "album": {
+        "name": "Worship Medleys",
+        "url": "https://open.spotify.com/album/7N1ho46uf68qsA1yaGsP7M"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218592,
+      "name": "Every Worship Song Ever",
+      "url": "https://open.spotify.com/track/587PUyOpjizhIflg4G1nDH"
     },
     {
       "album": {
@@ -2576,7 +2594,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 217435,
       "name": "He Wears A Crown",
       "url": "https://open.spotify.com/track/5lNo4SMJW33l7Izhu6CY9b"
@@ -4948,8 +4966,8 @@
       },
       "artists": [
         {
-          "name": "C3 NYC",
-          "url": "https://open.spotify.com/artist/6tVUFgMhjG96KGcJSr3BdJ"
+          "name": "FOUNT MUSIC",
+          "url": "https://open.spotify.com/artist/1jBGDhxjFrSFJXWES1brxD"
         }
       ],
       "date_added": "2023-01-06",
@@ -5562,7 +5580,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 625955,
       "name": "Open (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI"
@@ -5822,6 +5840,24 @@
       "duration_ms": 281893,
       "name": "Precious Blood",
       "url": "https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM"
+    },
+    {
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/6LCS3ZjvahueX23HgteLv3"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305756,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/2hDuQ4ottXOthqDd3GtYn3"
     },
     {
       "album": {
@@ -8290,6 +8326,28 @@
       "duration_ms": 376935,
       "name": "Where Would I Be",
       "url": "https://open.spotify.com/track/7HrtYjaUEAlkjNfbq6nmc0"
+    },
+    {
+      "album": {
+        "name": "Who Else (Live)",
+        "url": "https://open.spotify.com/album/3CqhQB1z0nVAmVHlqFSClB"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Claire Smith",
+          "url": "https://open.spotify.com/artist/2e2bviyMnMs4Dq8iFbCO7s"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290894,
+      "name": "Who Else - Live",
+      "url": "https://open.spotify.com/track/7gNM9aohgou9HSYbm7QU7H"
     },
     {
       "album": {

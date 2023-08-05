@@ -2,9 +2,9 @@
 
 ### [New Latin Albums](https://open.spotify.com/playlist/37i9dQZF1DWVxf0LotrLLG)
 
-> Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Gonzy
+> Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Grupo Frontera & Grupo Firme
 
-492 songs - 1 day 1 hr 56 min
+495 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [AHORA QUÉ](https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:51 | 2023-01-20 | 2023-05-13 |
 | [Ahora Sí](https://open.spotify.com/track/405u49KksnIilGsDmA1crv) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Lo Que No Te Dije](https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315) | 2:40 | 2023-05-12 | 2023-07-29 |
 | [AL BORDE](https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [511](https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X) | 2:28 | 2023-04-14 | 2023-07-08 |
-| [Alba](https://open.spotify.com/track/7p0lbeNlfphIkeUmnZocYR) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:36 | 2023-05-16 |  |
+| [Alba](https://open.spotify.com/track/7p0lbeNlfphIkeUmnZocYR) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:36 | 2023-05-16 | 2023-08-05 |
 | [Alba](https://open.spotify.com/track/0DeOmugi0ammG7xfm6ibZe) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Fake News + Alba](https://open.spotify.com/album/60uot0fUnoMNytJoNw9ToC) | 4:36 | 2023-05-12 | 2023-05-17 |
 | [Aleros/Pompeii](https://open.spotify.com/track/2KSyKlJ3SWPFflplhYhPTl) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:00 | 2023-03-03 | 2023-05-27 |
 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 | 2023-02-03 | 2023-05-20 |
@@ -152,8 +152,9 @@
 | [Déjame Llorarte](https://open.spotify.com/track/1OFhbeqPjDD3jR9tGYj6UT) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Jesús Navarro](https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW) | [A Ciegas](https://open.spotify.com/album/6iLktFdW6hFXyDKh7RSDuA) | 3:09 | 2023-05-19 | 2023-05-27 |
 | [Ear Candy](https://open.spotify.com/track/5ON80qE04mljMqEZ7K4is5) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [alivio](https://open.spotify.com/album/2IDSJ1Xw2yNJPkHdWbUvTI) | 2:36 | 2023-06-30 |  |
 | [Easy](https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:28 | 2023-04-28 | 2023-07-22 |
+| [EL AMOR DE SU VIDA](https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:45 | 2023-08-04 |  |
 | [El Amor Después del Amor \- EADDA9223](https://open.spotify.com/track/47JxXxjwFwLLiWDAZr1l90) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 4:25 | 2023-06-02 |  |
-| [El Camino](https://open.spotify.com/track/33AyfzyJha5GueYGAdnqBu) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:11 | 2023-05-12 |  |
+| [El Camino](https://open.spotify.com/track/33AyfzyJha5GueYGAdnqBu) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:11 | 2023-05-12 | 2023-08-05 |
 | [El Drogadito](https://open.spotify.com/track/1GPYWbUkHA2ZG7te2SrwDk) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Shrt Lyfe](https://open.spotify.com/artist/4gO0CVUzBlzhSRPwxajfbF) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 1:45 | 2023-01-27 | 2023-05-13 |
 | [eL eSpEctAdOr :\)](https://open.spotify.com/track/2qexZENRp84W9QifGz5hAD) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [PA' TI :\):](https://open.spotify.com/album/5MxOhrhmC4wRQooF0t8leC) | 3:32 | 2023-07-28 |  |
 | [El Gran Teatro](https://open.spotify.com/track/2n9rHWOVp9Dyy64MNPH3Sf) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Nueve](https://open.spotify.com/album/7EnM4Hxe911FnoxbHlfADy) | 3:53 | 2023-02-10 | 2023-05-20 |
@@ -166,6 +167,7 @@
 | [El Rata Güera \(En Vivo\)](https://open.spotify.com/track/47KpZS0JzglRFY7C9nRKMR) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:19 | 2023-01-27 | 2023-05-20 |
 | [EL TONTO](https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:07 | 2023-04-14 | 2023-07-08 |
 | [Empieza por Mi Boca](https://open.spotify.com/track/2q9FdfTWq0oq4bQLn9Tyen) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Sincerándome](https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7) | 3:37 | 2023-02-17 | 2023-05-20 |
+| [EN ALTAVOZ](https://open.spotify.com/track/6L2wWlVVD6R2bczNdnSqKr) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:46 | 2023-08-04 |  |
 | [En Otra Vida](https://open.spotify.com/track/2oWM4XRTXpgWniW874YcAq) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Décimo Cuarto](https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2) | 3:16 | 2023-05-26 |  |
 | [Endlessly](https://open.spotify.com/track/0wzCQjc8JRa39ej1TFkAFt) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:35 | 2023-03-03 | 2023-06-17 |
 | [Erótica](https://open.spotify.com/track/3rq5eDUHiQ9rRWNYPubyIg) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n) | [Six Jewels 23](https://open.spotify.com/album/0kjnkyDDsDFsmk63fg4K6l) | 2:24 | 2023-05-26 |  |
@@ -206,7 +208,7 @@
 | [Ilegal](https://open.spotify.com/track/4gQs4crNBFcmEoRDbNGsQQ) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Barrio Colombia](https://open.spotify.com/album/2jFyPbCmroFsMUDiOqb8Xr) | 2:50 | 2023-06-30 |  |
 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 | 2023-07-21 |  |
 | [In Between Thoughts…A New World](https://open.spotify.com/track/3mLBXESj9x8BYd1X6GrsBr) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 4:15 | 2023-04-21 | 2023-07-15 |
-| [Incendio de Amor/Carmelita](https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:47 | 2023-05-12 |  |
+| [Incendio de Amor/Carmelita](https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:47 | 2023-05-12 | 2023-08-05 |
 | [Incondicional](https://open.spotify.com/track/6yDaJbmsIlvHgAyNtt1oOX) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:32 | 2023-04-14 | 2023-07-08 |
 | [Influencer](https://open.spotify.com/track/7qEPiZyQmliBHQI4PHYbIc) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [XXX](https://open.spotify.com/album/5hEiUWJ6S4X1Lm2JYkuahP) | 2:23 | 2023-07-28 |  |
 | [Inténtalo](https://open.spotify.com/track/2wKCkLD4ZqSA4S7k3MZPLN) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 2:43 | 2023-03-17 | 2023-06-24 |
@@ -237,6 +239,7 @@
 | [LALALAND](https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:56 | 2023-04-28 | 2023-07-22 |
 | [Las de Octubre](https://open.spotify.com/track/34SjSaS44EzxtbAxWmR6TC) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [KITSUNE](https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8) | 2:45 | 2023-01-17 | 2023-04-29 |
 | [Las estrellas / Si tu me love me](https://open.spotify.com/track/6GlVwkm84Gygt5G6yLsDnv) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [@dannocean2](https://open.spotify.com/album/1VTX5vGTNse3upEj6e6I3h) | 5:09 | 2023-01-17 | 2023-04-29 |
+| [LAS FLORES](https://open.spotify.com/track/12uSaxjNUs5PJjMDgjdtqk) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:46 | 2023-08-04 |  |
 | [Las Ganas](https://open.spotify.com/track/0rIzfRdpzaZDc1UHgLDauw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 4:17 | 2023-04-14 | 2023-07-08 |
 | [Las Hazañas de Mi Vida](https://open.spotify.com/track/7gUcVowWzzVpgemedRbJLI) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Golpe De Guerra](https://open.spotify.com/artist/0QPszxtOMuPoAcAU4yyt2V) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:47 | 2023-01-27 | 2023-05-20 |
 | [Le Pido a DIOS](https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:45 | 2023-01-17 | 2023-04-29 |

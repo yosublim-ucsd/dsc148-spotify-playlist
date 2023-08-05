@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: <a href="https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD?si=a88783211a78482b"> Teni </a>
 
-282 songs - 15 hr 29 min
+283 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Baby Baby](https://open.spotify.com/track/6MmK3bPN7ftP8q66pFwhUu) | [Diane Dddd](https://open.spotify.com/artist/62MufOQctTd5rxW46i0ehY), [Joochar](https://open.spotify.com/artist/56bmNSFswGkNea9CSLhFgp) | [Baby Baby](https://open.spotify.com/album/1rmVOqMkrFHav8QZd2qdzU) | 4:00 | 2022-03-08 | 2022-04-06 |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2021-10-15 |  |
 | [Baddie](https://open.spotify.com/track/1BwTp4CSDdNem0pRSL3gvY) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Baddie](https://open.spotify.com/album/7JVsYOXWbbVA1z0eV7fucY) | 2:45 | 2022-11-02 | 2022-12-01 |
-| [Baddie](https://open.spotify.com/track/2Zw2XPLkBPGGN9uZpZT2r0) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [African Baddie](https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413) | 2:45 | 2023-01-05 |  |
+| [Baddie](https://open.spotify.com/track/2Zw2XPLkBPGGN9uZpZT2r0) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [African Baddie](https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413) | 2:45 | 2023-01-05 | 2023-08-05 |
+| [Baddie](https://open.spotify.com/track/5AM21uaiIxLO8UG6VhMTbe) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [African Baddie](https://open.spotify.com/album/3Hq0h20QXGyrQWfdURFUPw) | 2:45 | 2023-08-02 |  |
 | [Balance](https://open.spotify.com/track/2GWkmTjlEtBN6n6POjqLWP) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [TBH \(To Be Honest\)](https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r) | 3:10 | 2022-07-05 | 2022-12-01 |
 | [Beautifully](https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Beautifully](https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx) | 2:49 | 2021-10-15 | 2022-03-08 |
 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 | 2023-02-01 |  |

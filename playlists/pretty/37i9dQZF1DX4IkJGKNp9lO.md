@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,139 likes - 65 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,147 likes - 65 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 25 | [Jag Går Upp Och Håller Käften](https://open.spotify.com/track/0aozr0Hc6LefOhDj818RDI) | [Coca Carola](https://open.spotify.com/artist/3SZ1ctTCbqXxdQ8atMJpVh) | [Feber](https://open.spotify.com/album/0zgmxxpsQDiLBcWLKTZMld) | 3:27 |
 | 26 | [Punkrockarflicka](https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Versace Style](https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f) | 2:08 |
 | 27 | [Troll Och Häxor](https://open.spotify.com/track/6ly3rSnZYQqHP6qCVbMuuZ) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Le Som En Fotomodell](https://open.spotify.com/album/1uL0v8dyKzZGeg1gT5QbjV) | 2:10 |
-| 28 | [En slemmig torsk](https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 1:49 |
-| 29 | [Spriten Räddade Mig Från Sporten](https://open.spotify.com/track/4U2fgDPZ2C4qkrfz88ViSF) | [Räserbajs](https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X) | [Noppriga Tights Och Moonboots](https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn) | 3:24 |
+| 28 | [Spriten Räddade Mig Från Sporten](https://open.spotify.com/track/4U2fgDPZ2C4qkrfz88ViSF) | [Räserbajs](https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X) | [Noppriga Tights Och Moonboots](https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn) | 3:24 |
+| 29 | [En slemmig torsk](https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 1:49 |
 | 30 | [Herrarna I Sandlådan](https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 4:10 |
 | 31 | [Betongbarn](https://open.spotify.com/track/7kLPU9teUWCfCymYN5LAxU) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kaos & Skrål 85\-87](https://open.spotify.com/album/5JtGOYBzL27gSHV9XNoJjq) | 2:51 |
 | 32 | [Livet Är För Kort För Sorgliga Sånger](https://open.spotify.com/track/6kbvbAKoFDtOjbxfTPTFGp) | [Gatans Lag](https://open.spotify.com/artist/1DbBWYISy3xIJBHlenLGj2) | [Från Fest Till Arrest](https://open.spotify.com/album/1qhDJcBNvhcdyWABmvD35a) | 3:15 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 55 | [Simpel Matematik](https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [\[emo\]](https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP) | 3:12 |
 | 56 | [Leva loppan](https://open.spotify.com/track/3a5FtkugQkAfqH1A8Psuwd) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Pengarna eller livet](https://open.spotify.com/album/5AkRYj8nWPwjcZVoP5MKdD) | 3:01 |
 | 57 | [Kom och dansa lite](https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alderland](https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG) | 3:00 |
-| 58 | [Som En Doft Av Napalm](https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc) | [Slutstation Tjernobyl](https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC) | [Vi Är Alla Stjärnor](https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn) | 2:25 |
-| 59 | [Fabriken](https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd) | [Kardborrebandet](https://open.spotify.com/artist/6CaozjJFhs3wLYvch7B0At) | [Välkommen till fabriken](https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S) | 2:26 |
+| 58 | [Fabriken](https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd) | [Kardborrebandet](https://open.spotify.com/artist/6CaozjJFhs3wLYvch7B0At) | [Välkommen till fabriken](https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S) | 2:26 |
+| 59 | [Som En Doft Av Napalm](https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc) | [Slutstation Tjernobyl](https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC) | [Vi Är Alla Stjärnor](https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn) | 2:25 |
 | 60 | [Dom bränner bilar](https://open.spotify.com/track/5yVfBRMPGnNDFZiUJWX0bN) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Ond saga](https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X) | 2:20 |
 | 61 | [Jag Vill Ha En Slav](https://open.spotify.com/track/4xO1DQ3opSAtufO7oNP0C4) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj) | 2:32 |
 | 62 | [Gravöl](https://open.spotify.com/track/3FHqXZWwfSRnUCleK2U0eI) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/32VvPLYDMKpWrko4eTSA9k) | 3:06 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 64 | [Mitt Sista Andetag](https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa) | [Trevolt](https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr) | [I All Hast](https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B) | 2:47 |
 | 65 | [Grabbarna på stan](https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Grabbarna på Stan](https://open.spotify.com/artist/6MoD7VNBYbyiu8HmOFiG4L) | [Grabbarna på Stan](https://open.spotify.com/album/2z09iMiqlIO4Jr3aWxfr4D) | 3:34 |
 
-Snapshot ID: `MCw1MWEzNGU5M2MyYmMyZmQxOTc2ZDQxYzNjMDU2MzRiMTM5YzI4ZTg3`
+Snapshot ID: `MCxjZjk1YzQxMTMxOTY3NjA1YzcwMWE0MjNlMTIyNjlhMmU4MTdlMjc5`

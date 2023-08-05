@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 17302,
+  "num_followers": 17314,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWIzNjQxOGM0OGZkOGE4ZTA3ZjJlNDlkNTRhYWMzMDIxZjcwYmI1",
+  "snapshot_id": "MCwyZjNlNzgwZTgyZTQwMjFkNGYyNDkxNDlhYjBmOTUxN2U0ZThkNzk5",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Woman; Thou Art Loosed!",
-        "url": "https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL"
-      },
-      "artists": [
-        {
-          "name": "T.D. Jakes",
-          "url": "https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "Give Thanks - Medley",
-      "url": "https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "All Sons & Daughters",
         "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 335652,
       "name": "We Give You Thanks",
       "url": "https://open.spotify.com/track/7ophliTSArPbWKiydO5TRl"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Woman; Thou Art Loosed!",
+        "url": "https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL"
+      },
+      "artists": [
+        {
+          "name": "T.D. Jakes",
+          "url": "https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Give Thanks - Medley",
+      "url": "https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL"
     },
     {
       "added_at": "2022-11-23 15:01:23",

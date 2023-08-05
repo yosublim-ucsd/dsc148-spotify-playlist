@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: Silent Planet
 
-724 songs - 1 day 21 hr 28 min
+725 songs - 1 day 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,7 @@
 | [In the Night](https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [In the Night](https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7) | 4:43 | 2022-07-13 | 2022-07-23 |
 | [In The Void](https://open.spotify.com/track/2OanznSyGiNf4hHoNUETh3) | [My Favourite Nemesis](https://open.spotify.com/artist/3YKCy7kEFDbG1ZGq6qNKjM) | [In The Void](https://open.spotify.com/album/4Y47Q5AwzYWSqHiE9TwEsQ) | 3:09 | 2022-06-17 | 2022-07-29 |
 | [In Your Head](https://open.spotify.com/track/5xp2T1ghPN6uNOfeoqD0uY) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Life Is Pain](https://open.spotify.com/album/16L3AoU7WMBz2rvS9kzIvV) | 3:33 | 2021-12-17 | 2022-07-23 |
-| [Inhumane](https://open.spotify.com/track/36K5KSqFJOCN9YLmSTkXrG) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Inhumane](https://open.spotify.com/album/19g3sBJ1wP4MsOasNoXbca) | 3:59 | 2023-05-26 |  |
+| [Inhumane](https://open.spotify.com/track/36K5KSqFJOCN9YLmSTkXrG) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Inhumane](https://open.spotify.com/album/19g3sBJ1wP4MsOasNoXbca) | 3:59 | 2023-05-26 | 2023-08-05 |
 | [Innocent Blood \(feat\. Jason Evans\)](https://open.spotify.com/track/6tjKpMR5jdN2WZL13Y65vA) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m), [Jason Evans](https://open.spotify.com/artist/2fEKFTw6F4cCFae5fkw2JL) | [Innocent Blood \(feat\. Jason Evans\)](https://open.spotify.com/album/0W55655OGizdrkUanACsoO) | 3:50 | 2022-07-13 | 2022-07-23 |
 | [Intergalactic Casanova](https://open.spotify.com/track/6lte7l161HTKi4ZLFFGj6x) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Intergalactic Casanova](https://open.spotify.com/album/2vOfczZPhxfUiTydB6hyQr) | 4:03 | 2021-12-17 | 2022-01-15 |
 | [Into Oblivion](https://open.spotify.com/track/1ZlTDTGu86Bxf0RQX2RjMz) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Curse Of Existence](https://open.spotify.com/album/7GiQ5guVJwb7hScDnhfsAW) | 4:15 | 2022-09-02 | 2023-01-06 |
@@ -449,6 +449,7 @@
 | [Nigh to Silence](https://open.spotify.com/track/3si5YKMfvQtTBgLFDChRsi) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Nigh to Silence](https://open.spotify.com/album/76tQE4Ts2FfKBxW8v8CISH) | 5:04 | 2022-01-21 | 2022-07-23 |
 | [Nighthawk](https://open.spotify.com/track/1t1Hn5Zo6PwuIHCYxa4Agl) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Love Language](https://open.spotify.com/album/4tgzmgqcGcWyIwJra8EXNE) | 3:54 | 2022-05-06 | 2022-08-20 |
 | [Nightmare](https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Nightmare](https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc) | 3:07 | 2023-02-10 |  |
+| [Nightmare](https://open.spotify.com/track/3I0D4tybrEm75F1wEJh0zy) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Nightmare](https://open.spotify.com/album/0HawtydKGwrtka6Y96wzvJ) | 4:28 | 2023-08-04 |  |
 | [Nightmare](https://open.spotify.com/track/16COWH18tMTErphM5E58XH) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Nightmare](https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5) | 3:48 | 2022-07-13 | 2022-07-23 |
 | [Nihilus](https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Nihilus](https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T) | 3:34 | 2022-07-13 | 2022-07-23 |
 | [No Dignity](https://open.spotify.com/track/3lN5zEux9kS6wuAOynFQlO) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [No Dignity](https://open.spotify.com/album/0d1OWLprMSKHi4aeeIhpEZ) | 3:29 | 2022-07-13 | 2022-07-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 197528,
+  "num_followers": 197561,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWEzMzFhOWY4NDdkYjc4Nzg2Yjk1OGI3ODZjZGI3ZDUxMWY3Zjgw",
+  "snapshot_id": "MCwzN2IxZGUwOTE3NDM0Y2Y3MTM5NGNhMzA2YTRkMzZhNTAwYmMxYWVl",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "It's Our Time",
-        "url": "https://open.spotify.com/album/1HP1KymMq8MzxzjqLgyjaZ"
-      },
-      "artists": [
-        {
-          "name": "The Light the Heat",
-          "url": "https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR"
-        }
-      ],
-      "duration_ms": 221979,
-      "name": "It's Our Time",
-      "url": "https://open.spotify.com/track/71p9FBPJZtc77fs4AxUX6T"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Dosis",
         "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 250754,
       "name": "Amor De Telenovela",
       "url": "https://open.spotify.com/track/0LzGLoA82RIcGUEfbGQe47"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "It's Our Time",
+        "url": "https://open.spotify.com/album/1HP1KymMq8MzxzjqLgyjaZ"
+      },
+      "artists": [
+        {
+          "name": "The Light the Heat",
+          "url": "https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR"
+        }
+      ],
+      "duration_ms": 221979,
+      "name": "It's Our Time",
+      "url": "https://open.spotify.com/track/71p9FBPJZtc77fs4AxUX6T"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "As for Me and My House",
+        "url": "https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2"
+      },
+      "artists": [
+        {
+          "name": "John Waller",
+          "url": "https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "The Marriage Prayer",
+      "url": "https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 214693,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "As for Me and My House",
-        "url": "https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2"
-      },
-      "artists": [
-        {
-          "name": "John Waller",
-          "url": "https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "The Marriage Prayer",
-      "url": "https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Every Falling Tear",
         "url": "https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 246461,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Enough Already",
+        "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 191794,
+      "name": "Another Song About Love",
+      "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Adam & Eve'n",
         "url": "https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 125284,
       "name": "Adam & Eve'n",
       "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Enough Already",
-        "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 191794,
-      "name": "Another Song About Love",
-      "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Colton Dixon",
+        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 200538,
+      "name": "Can't Quit You",
+      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Till I Found You",
         "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
       },
@@ -1375,18 +1391,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Colton Dixon",
-        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
+        "name": "Easy Never Needed You",
+        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
       },
       "artists": [
         {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
         }
       ],
-      "duration_ms": 200538,
-      "name": "Can't Quit You",
-      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
+      "duration_ms": 244693,
+      "name": "Feel The Waters",
+      "url": "https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1403,22 +1419,6 @@
       "duration_ms": 132000,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Easy Never Needed You",
-        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
-      },
-      "artists": [
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "Feel The Waters",
-      "url": "https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Oh How I Love You",
-        "url": "https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr"
-      },
-      "artists": [
-        {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
-        }
-      ],
-      "duration_ms": 233050,
-      "name": "Oh How I Love You (R&B Version)",
-      "url": "https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 207986,
       "name": "If Only",
       "url": "https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Oh How I Love You",
+        "url": "https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "duration_ms": 233050,
+      "name": "Oh How I Love You (R&B Version)",
+      "url": "https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c"
     },
     {
       "added_at": "2023-01-31 10:01:12",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Virl\u00e1n Garc\u00eda & Panter B\u00e9lico en portada.",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Lenin Ram\u00edrez & Banda MS en portada.",
   "name": "Banda 2023",
   "tracks": [
     {
@@ -311,6 +311,28 @@
     },
     {
       "album": {
+        "name": "Apenas es Martes",
+        "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216633,
+      "name": "Apenas es Martes",
+      "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
+    },
+    {
+      "album": {
         "name": "Aplaca Tus Berrinches",
         "url": "https://open.spotify.com/album/7pb7D979yuDEsK1g5tWgKj"
       },
@@ -373,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/50qG3psl4Jm5CxyfwNrLop"
+      },
+      "artists": [
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136320,
+      "name": "Aqu\u00ed En Mi Coraz\u00f3n T\u00fa Mandas",
+      "url": "https://open.spotify.com/track/1uu9o9tf7eLW7mCQMPwZ0h"
+    },
+    {
+      "album": {
         "name": "Puras Pa' Pistear (En Vivo)",
         "url": "https://open.spotify.com/album/4h7bSgipyXsQLnNgrSyR6N"
       },
@@ -384,7 +424,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 229333,
       "name": "Aqu\u00ed No Es (En Vivo)",
       "url": "https://open.spotify.com/track/0gZfDl5FgtHVhwDSjhJxB5"
@@ -410,6 +450,24 @@
       "duration_ms": 161733,
       "name": "Bayo 17",
       "url": "https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM"
+    },
+    {
+      "album": {
+        "name": "Belleza Pura",
+        "url": "https://open.spotify.com/album/2F47NaaD3GScaHWEVVRbS5"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204453,
+      "name": "Belleza Pura",
+      "url": "https://open.spotify.com/track/1xJMMiVYP5QtvFIEEXP0Vt"
     },
     {
       "album": {
@@ -708,6 +766,24 @@
       "duration_ms": 227030,
       "name": "Como Duele Equivocarse",
       "url": "https://open.spotify.com/track/0W2FM4wRdTXS7ewX1Iw8II"
+    },
+    {
+      "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/50qG3psl4Jm5CxyfwNrLop"
+      },
+      "artists": [
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197213,
+      "name": "Como Esos Amantes",
+      "url": "https://open.spotify.com/track/2grAlpt4rm5MxnNw0U6OLc"
     },
     {
       "album": {
@@ -1038,7 +1114,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 178189,
       "name": "Dos Gotas De Agua",
       "url": "https://open.spotify.com/track/1pQFw81rRvhmkxkC9ntDeq"
@@ -1176,7 +1252,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 232913,
       "name": "El Borracho (En Vivo)",
       "url": "https://open.spotify.com/track/1evaAZr2Y7AB8tMwVnPuVO"
@@ -1350,6 +1426,28 @@
       "duration_ms": 211266,
       "name": "El Paciente",
       "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
+    },
+    {
+      "album": {
+        "name": "El Patrocinador",
+        "url": "https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206960,
+      "name": "El Patrocinador",
+      "url": "https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS"
     },
     {
       "album": {
@@ -1549,6 +1647,28 @@
     },
     {
       "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/2H0L8qCkkKasqEVdVEbhKs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208413,
+      "name": "Entre Botellas",
+      "url": "https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS"
+    },
+    {
+      "album": {
         "name": "Equipo RR",
         "url": "https://open.spotify.com/album/7HQuRjZy8385A0Yfn7D9H5"
       },
@@ -1658,7 +1778,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 253053,
       "name": "Esta Vez Soy Yo",
       "url": "https://open.spotify.com/track/6D9q9JuF13LSpuXE2U4Yar"
@@ -1912,7 +2032,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 178500,
       "name": "Hoy Me Puse A Tomar",
       "url": "https://open.spotify.com/track/4jSkQnOKZ55MSpejX7yBfZ"
@@ -2082,7 +2202,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 202026,
       "name": "La Contrase\u00f1a De Tu Cuerpo",
       "url": "https://open.spotify.com/track/0JGxubIP9h6x5JDYUzyrTH"
@@ -2170,6 +2290,28 @@
       "duration_ms": 150527,
       "name": "La Patrona",
       "url": "https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T"
+    },
+    {
+      "album": {
+        "name": "La Pelinegra",
+        "url": "https://open.spotify.com/album/2YwIrnPUIEDYtFgp99HNNO"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155560,
+      "name": "La Pelinegra",
+      "url": "https://open.spotify.com/track/5bWomDwuyuF5pfnBZtYNP0"
     },
     {
       "album": {
@@ -2348,7 +2490,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 174760,
       "name": "Lo Que No Es Pa' Uno",
       "url": "https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74"
@@ -2727,6 +2869,28 @@
     },
     {
       "album": {
+        "name": "Mis Canciones De Amor",
+        "url": "https://open.spotify.com/album/6EOLWVMRhAtT26zdpFNCI4"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Andy Gonzalez",
+          "url": "https://open.spotify.com/artist/60jdBH3rhXmo7em7oy6kyL"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186856,
+      "name": "Mis Canciones De Amor",
+      "url": "https://open.spotify.com/track/3cZ0U0Hk5wvgy1IdV1h8st"
+    },
+    {
+      "album": {
         "name": "Modo Crudo (Versi\u00f3n Banda)",
         "url": "https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k"
       },
@@ -3072,7 +3236,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 171976,
       "name": "No S\u00e9 Qu\u00e9 Hacer",
       "url": "https://open.spotify.com/track/3deqAF6BY2oTiJgylyElNX"
@@ -3218,6 +3382,28 @@
       "duration_ms": 237480,
       "name": "Pa' la Sed",
       "url": "https://open.spotify.com/track/6snKIrvddCrgOiYlHx8yua"
+    },
+    {
+      "album": {
+        "name": "Pa' Olvidarme de tus Besos",
+        "url": "https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187448,
+      "name": "Pa' Olvidarme de tus Besos",
+      "url": "https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN"
     },
     {
       "album": {
@@ -4346,7 +4532,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 220746,
       "name": "Te Va A Ir Bien",
       "url": "https://open.spotify.com/track/7nHD3IwYISHWeX946ZBUhp"

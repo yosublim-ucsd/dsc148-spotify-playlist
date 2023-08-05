@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! En portada Diana Burco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,449 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,456 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Usted Ya Perdió](https://open.spotify.com/track/4QSapki0YhY3b1Wc1E49Ic) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t) | [Usted Ya Perdió](https://open.spotify.com/album/2sNQVKaUadzfu2fm6AI3HQ) | 3:00 |
+| 1 | [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 |
 | 2 | [Oasis](https://open.spotify.com/track/5mC7zQfn6mVLP8fjg7jOZy) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr) | [Cambio](https://open.spotify.com/album/2yjNaUVGxVBT7ZWp9EkGDF) | 3:56 |
 | 3 | [Y Volviste a Decir Te Amo](https://open.spotify.com/track/4FcNsNaqbJ9SC1lZyojqRw) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Y Volviste a Decir Te Amo](https://open.spotify.com/album/1zuAyb93adWHd6mp1Vy3HG) | 3:46 |
 | 4 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 11 | [Lo Que Me Harías En Otra Parte](https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [A Contraluz](https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN) | 2:40 |
 | 12 | [Lento](https://open.spotify.com/track/1UT81mWIvNdng0hb2qvHlL) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Lento](https://open.spotify.com/album/6kxkdZth2jAn69eCMbjpL2) | 2:55 |
 | 13 | [A Fuego](https://open.spotify.com/track/2OBDbcbEoulxcvV7VIJVLu) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [A Fuego](https://open.spotify.com/album/3rMdauQMPRGqfX7GeNIlRO) | 3:08 |
-| 14 | [Cobarde](https://open.spotify.com/track/1TCKFV4RdnrifdkLlkZrgi) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i) | [Río Abajo](https://open.spotify.com/album/4VhTCEsjEYiXcI84mSERsJ) | 3:09 |
+| 14 | [Usted Ya Perdió](https://open.spotify.com/track/4QSapki0YhY3b1Wc1E49Ic) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t) | [Usted Ya Perdió](https://open.spotify.com/album/2sNQVKaUadzfu2fm6AI3HQ) | 3:00 |
 | 15 | [Así De Simple](https://open.spotify.com/track/0uwFYmzl08pS4XOmNRnTWo) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Así De Simple](https://open.spotify.com/album/0SOdrZudNfMThST5GBTzGT) | 3:09 |
 | 16 | [Échale Fuego](https://open.spotify.com/track/0GGFWgHZe4v1dXfHMypHwd) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [Échale Fuego](https://open.spotify.com/album/2UGtJRRI2WWkxibKaGqMAO) | 3:00 |
 | 17 | [La América Que Se Olvida](https://open.spotify.com/track/0AGZs1EHZGQWsgECcEXPyr) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [La América Que Se Olvida](https://open.spotify.com/album/6ORkGUSMv5j55oFy90JxzV) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 74 | [El Favorcito](https://open.spotify.com/track/4nHJp4ynAQQZgSlurkpBen) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Canciones Crudas](https://open.spotify.com/album/047ARD5KCqUWxg11bIll8Q) | 3:28 |
 | 75 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 |
 
-Snapshot ID: `MCwyMGI0NzJhOGJmM2NlNjdjN2I3MmM3OTFlY2JhYmIzY2YxODQ0NDQ3`
+Snapshot ID: `MCw5ZTU2NjQ5YWFkMmZhNmMwZmViNmUxYzhhMmRlNzEyYTcwZjE1NjM0`

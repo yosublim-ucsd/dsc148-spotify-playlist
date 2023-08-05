@@ -13981,6 +13981,28 @@
     },
     {
       "album": {
+        "name": "\u865a\u50cf\u306eCarousel",
+        "url": "https://open.spotify.com/album/4HnTbIJinqxIvnHeIBaJv6"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        },
+        {
+          "name": "Reol",
+          "url": "https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228840,
+      "name": "\u865a\u50cf\u306eCarousel",
+      "url": "https://open.spotify.com/track/2FCkgW3vOc3IvpOCd0LJMT"
+    },
+    {
+      "album": {
         "name": "\u86cd\u306f\u3044\u306a\u304b\u3063\u305f",
         "url": "https://open.spotify.com/album/5yusmis1jlcSuQGgtTBgzH"
       },

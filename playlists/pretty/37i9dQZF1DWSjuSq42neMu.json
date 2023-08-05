@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 657228,
+  "num_followers": 657570,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODhmNGMyYzk5NGQ2YTRiODc1Y2MyMzM5Njc2N2FiMTNjODM0Mjcy",
+  "snapshot_id": "MCwzNWFkN2VmZDFiZmEyMWM5ZmVhMjgxNTViNTU3YjE5NzkzN2UzZmI2",
   "tracks": [
     {
       "added_at": "2023-07-12 08:44:48",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-07-12 08:44:48",
       "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 186426,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
+    },
+    {
+      "added_at": "2023-07-12 08:44:48",
+      "album": {
         "name": "NASTU",
         "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 168000,
       "name": "Mi Luz (ft. Rels B)",
       "url": "https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq"
-    },
-    {
-      "added_at": "2023-07-12 08:44:48",
-      "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 186426,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
     },
     {
       "added_at": "2023-07-12 08:44:48",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-07-12 08:44:48",
       "album": {
+        "name": "12x3",
+        "url": "https://open.spotify.com/album/147xADbDjtokOLVyNfg6Pp"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "12x3",
+      "url": "https://open.spotify.com/track/5LHY5MPg9gXJwXrClz9aOx"
+    },
+    {
+      "added_at": "2023-07-12 08:44:48",
+      "album": {
         "name": "Copas",
         "url": "https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 237388,
       "name": "Copas",
       "url": "https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh"
-    },
-    {
-      "added_at": "2023-07-12 08:44:48",
-      "album": {
-        "name": "12x3",
-        "url": "https://open.spotify.com/album/147xADbDjtokOLVyNfg6Pp"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "12x3",
-      "url": "https://open.spotify.com/track/5LHY5MPg9gXJwXrClz9aOx"
     },
     {
       "added_at": "2023-07-12 08:44:48",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2023-07-12 08:44:48",
       "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 211130,
-      "name": "Polvo",
-      "url": "https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5"
-    },
-    {
-      "added_at": "2023-07-12 08:44:48",
-      "album": {
         "name": "Club Diecis\u00e9is",
         "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
       },
@@ -1863,6 +1843,26 @@
     {
       "added_at": "2023-07-12 08:44:48",
       "album": {
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 211130,
+      "name": "Polvo",
+      "url": "https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5"
+    },
+    {
+      "added_at": "2023-07-12 08:44:48",
+      "album": {
         "name": "Fing\u00edas",
         "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
       },
@@ -1875,6 +1875,42 @@
       "duration_ms": 225373,
       "name": "Fing\u00edas",
       "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
+    },
+    {
+      "added_at": "2023-07-12 08:44:48",
+      "album": {
+        "name": "Infiel (Remix)",
+        "url": "https://open.spotify.com/album/0WHbGKLr25jT5mXcs2nHKf"
+      },
+      "artists": [
+        {
+          "name": "Eix",
+          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 297760,
+      "name": "Infiel - Remix",
+      "url": "https://open.spotify.com/track/5Xe78U9cUwnWOuWbgYvAKZ"
     },
     {
       "added_at": "2023-07-12 08:44:48",
@@ -1915,42 +1951,6 @@
       "duration_ms": 203666,
       "name": "Qu\u00e9 M\u00e1s Pues",
       "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
-    },
-    {
-      "added_at": "2023-07-12 08:44:48",
-      "album": {
-        "name": "Infiel (Remix)",
-        "url": "https://open.spotify.com/album/0WHbGKLr25jT5mXcs2nHKf"
-      },
-      "artists": [
-        {
-          "name": "Eix",
-          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "KEVVO",
-          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 297760,
-      "name": "Infiel - Remix",
-      "url": "https://open.spotify.com/track/5Xe78U9cUwnWOuWbgYvAKZ"
     },
     {
       "added_at": "2023-07-12 08:44:48",

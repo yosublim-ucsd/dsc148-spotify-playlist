@@ -2,9 +2,9 @@
 
 ### [Jasmine](https://open.spotify.com/playlist/37i9dQZF1DX5IOhx43PGIa)
 
-> Illuminating Asian artists everywhere & celebrating South Asian Heritage Month! Cover: Rhea Raj.
+> Illuminating Asian artists everywhere\. Cover: Mitski.
 
-503 songs - 1 day 2 hr 3 min
+505 songs - 1 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Breathe](https://open.spotify.com/track/6KHGSUYKkKS959jRJ1KD8D) | [Takkin](https://open.spotify.com/artist/6YJXZoTvzi4NK03J19R73d) | [Breathe](https://open.spotify.com/album/2tQdlqHpf2UoAv6gfxQB11) | 3:03 | 2022-07-22 | 2022-07-27 |
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2022-09-23 | 2022-10-08 |
 | [BTSTU \- Edit](https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe) | 3:29 | 2023-04-14 |  |
+| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-08-04 |  |
 | [butterflies \(feat\. Rexx Life Raj\)](https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 2:49 | 2023-05-26 |  |
 | [Butterfly](https://open.spotify.com/track/4chq9VXft5AQy5ytIjh9jE) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Butterfly](https://open.spotify.com/album/59aMdKZVNkLZzYHkg9YIwU) | 3:32 | 2022-05-27 | 2022-07-29 |
 | [Butterfly](https://open.spotify.com/track/43Ch2eVId5xoG1PIGt0tr3) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Butterfly](https://open.spotify.com/album/7bxkAjxvdedCBCL1DSb5Hv) | 2:53 | 2022-10-28 | 2023-02-08 |
@@ -355,13 +356,14 @@
 | [Puzzle](https://open.spotify.com/track/55pSVqJsuWGmktWi3W81W1) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Puzzle](https://open.spotify.com/album/5M036X9ie02v6htGvb6aJN) | 2:58 | 2022-05-27 | 2022-07-29 |
 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 | 2022-05-27 | 2022-06-25 |
 | [Ready For Love](https://open.spotify.com/track/0K7XBpcCaoEFnWRWbeuG3C) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Ready For Love](https://open.spotify.com/album/5B1cDRRu36L97uXUjJ32XK) | 2:42 | 2022-07-22 | 2022-09-17 |
+| [Realest \(with Eminem\)](https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB) | [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Realest \(with Eminem\)](https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P) | 3:37 | 2023-08-04 |  |
 | [Regressa](https://open.spotify.com/track/33TpZOsFaBV09pXm15vBq6) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Regressa](https://open.spotify.com/album/13tIJgBaVDaP0wnPolXpN0) | 1:39 | 2023-04-14 | 2023-05-12 |
 | [Regressa](https://open.spotify.com/track/1dlOr60VqwO8DIGn9TLeeu) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [STAR ANISE](https://open.spotify.com/album/3ZH3NAs9F36n7ZjWBQ9peo) | 1:39 | 2023-05-05 | 2023-07-01 |
 | [Reminisce \(feat\. Yuna\)](https://open.spotify.com/track/0tT9RlzcD5Of5w05TPQKxk) | [PARADISE RISING](https://open.spotify.com/artist/0bGLIWZrNjcM3mIwPqxBNo), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [semilucent 2](https://open.spotify.com/album/4cUc4EWmcbzamsCXOlJ8ez) | 3:22 | 2022-05-27 | 2022-07-29 |
 | [Right Before Our Eyes](https://open.spotify.com/track/5xmQy57y7FuyUQxpeNlUbT) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Right Before Our Eyes](https://open.spotify.com/album/0485X59JRJJIQSRiH22WGd) | 3:04 | 2023-05-19 |  |
 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 | 2022-06-10 | 2022-08-27 |
 | [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 | 2022-05-27 | 2022-06-16 |
-| [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 | 2022-07-08 |  |
+| [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 | 2022-07-08 | 2023-08-05 |
 | [Ritual](https://open.spotify.com/track/4sozcKEMSVGXx8bq5yhM6O) | [Jason Kwan](https://open.spotify.com/artist/6wy50ZiJ5BfTmEusgYQhX3) | [Ritual](https://open.spotify.com/album/5T61mmXOkCEUgUH7WAuCn7) | 3:02 | 2022-09-23 | 2022-10-08 |
 | [Rocksta](https://open.spotify.com/track/5R06bSYKRELA1caseE2BAX) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Rocksta](https://open.spotify.com/album/05O0yLKns392cA0eim0gyy) | 3:33 | 2022-05-27 | 2022-07-27 |
 | [Role Model](https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Role Model](https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6) | 2:11 | 2023-05-05 |  |
@@ -459,7 +461,7 @@
 | [traveling](https://open.spotify.com/track/6OxxzC0HsX7zK3ZO3q79H6) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [DEEP RIVER](https://open.spotify.com/album/5xcIRLlQWJBqN8fpmlskGr) | 5:13 | 2022-09-23 | 2022-10-08 |
 | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/track/3NR2iPVXDninKefAV2uGpz) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH) | 2:31 | 2023-06-09 |  |
 | [trust \(feat\. RINI\)](https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [trust \(feat\. RINI\)](https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh) | 3:17 | 2022-07-08 | 2023-05-27 |
-| [Trust Yourself](https://open.spotify.com/track/0Slju470ZWMOTxfN3wHIxm) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Trust Yourself](https://open.spotify.com/album/7wlBNw7Wyq6xKJavMaiIw4) | 2:53 | 2023-03-04 |  |
+| [Trust Yourself](https://open.spotify.com/track/0Slju470ZWMOTxfN3wHIxm) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Trust Yourself](https://open.spotify.com/album/7wlBNw7Wyq6xKJavMaiIw4) | 2:53 | 2023-03-04 | 2023-08-05 |
 | [Turbo](https://open.spotify.com/track/6muijR8MRpGebvqYGirdnH) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Turbo](https://open.spotify.com/album/3ba4FMtjRWo1fOlBv6XEPh) | 3:42 | 2023-04-14 |  |
 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 | 2022-05-27 | 2022-08-27 |
 | [u & i](https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [u & i](https://open.spotify.com/album/3zXkOuXhjixpnmlavumXDh) | 3:03 | 2022-10-07 | 2023-07-15 |

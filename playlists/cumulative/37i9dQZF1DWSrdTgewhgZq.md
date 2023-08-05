@@ -4,7 +4,7 @@
 
 > Only the best Hip\-hop, only non\-stop hits\. Travis Scott on Cover
 
-197 songs - 10 hr 41 min
+198 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-05-13 |  |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2023-01-06 | 2023-06-17 |
 | [Cut U Off](https://open.spotify.com/track/2YIIpDEKJv6OUc7u9tVT7I) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Cut U Off](https://open.spotify.com/album/7HKtVhwqCYZFUk7DUXWjw4) | 3:24 | 2023-06-09 |  |
-| [damn Right](https://open.spotify.com/track/01ukVTKa6DhejzNulpoG2t) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast](https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb) | 2:44 | 2023-01-25 |  |
+| [damn Right](https://open.spotify.com/track/01ukVTKa6DhejzNulpoG2t) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast](https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb) | 2:44 | 2023-01-25 | 2023-08-05 |
 | [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:47 | 2023-01-25 |  |
 | [DEAD RIGHT NOW](https://open.spotify.com/track/3grVoZ10bm2jUGpo7BxpuF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:41 | 2023-01-25 |  |
 | [Diamonds](https://open.spotify.com/track/4D3hcHpsFsiQFBNIKYgjui) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Diamonds](https://open.spotify.com/album/0IEZx9NrnUcoIEQCBvNxDE) | 3:31 | 2023-02-16 | 2023-06-17 |
@@ -86,6 +86,7 @@
 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 | 2022-07-01 |  |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-12-24 | 2022-07-29 |
 | [Hurricane](https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:03 | 2022-07-01 | 2022-10-27 |
+| [Hype Me Up](https://open.spotify.com/track/5CzbXW5uNehVSgeozqkQzx) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hype Me Up](https://open.spotify.com/album/4rXP4oMmequey8Q600Gs6i) | 4:02 | 2023-08-04 |  |
 | [I Can't Lie \(with Kodak Black\)](https://open.spotify.com/track/3VLsdzHOFM9pyn79QTjiGJ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [I Can't Lie \(with Kodak Black\) \[Versions\]](https://open.spotify.com/album/61ZFEiyOrBAMzrYGd9HMnR) | 3:06 | 2023-06-02 | 2023-06-17 |
 | [I Dance \(feat\. Duki & Cuco\)](https://open.spotify.com/track/4C9ySJUmAXiaroo91BeFDH) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 4:05 | 2022-10-04 |  |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-28 |  |

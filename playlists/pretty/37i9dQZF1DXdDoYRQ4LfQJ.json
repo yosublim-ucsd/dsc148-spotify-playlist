@@ -1,12 +1,12 @@
 {
   "description": "The hottest corridos in the US! Bien Al Tiro con Fuerza Regida",
-  "num_followers": 216728,
+  "num_followers": 216899,
   "original_name": "Al Tiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTcyMDIzZjBhMjUyOTU0YjMwNGU1OWNhNTFkYTlmZmM0M2UzMGFk",
+  "snapshot_id": "MCxhNWM2YjlkNjUwNGE0MWNjMmIyM2ZjOWRmZWM2ZWMyMzY3YzZkOWNk",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Pacas De Billetes",
-        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 188074,
-      "name": "Pacas De Billetes",
-      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Ando Enfocado",
         "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 184106,
       "name": "Ando Enfocado",
       "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Pacas De Billetes",
+        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 188074,
+      "name": "Pacas De Billetes",
+      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -495,8 +495,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Como Es Arriba Es Abajo",
-        "url": "https://open.spotify.com/album/5AEvjmTHKQsk1uQr2MCreb"
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
       },
       "artists": [
         {
@@ -504,13 +504,13 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         }
       ],
-      "duration_ms": 165351,
-      "name": "Como Es Arriba Es Abajo",
-      "url": "https://open.spotify.com/track/0Dn0h4YdPvM4v0HNdgnyeP"
+      "duration_ms": 182133,
+      "name": "En Corto",
+      "url": "https://open.spotify.com/track/1gCkdtayMomPBKi09qXs1C"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -663,8 +663,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
+        "name": "Como Es Arriba Es Abajo",
+        "url": "https://open.spotify.com/album/5AEvjmTHKQsk1uQr2MCreb"
       },
       "artists": [
         {
@@ -672,13 +672,13 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
         }
       ],
-      "duration_ms": 182133,
-      "name": "En Corto",
-      "url": "https://open.spotify.com/track/1gCkdtayMomPBKi09qXs1C"
+      "duration_ms": 165351,
+      "name": "Como Es Arriba Es Abajo",
+      "url": "https://open.spotify.com/track/0Dn0h4YdPvM4v0HNdgnyeP"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Me Met\u00ed En El Ruedo",
+      "url": "https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Por Clave El Caiman",
         "url": "https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 158626,
       "name": "Por Clave Caiman",
       "url": "https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. 2",
-        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Me Met\u00ed En El Ruedo",
-      "url": "https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. 3",
+        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 162624,
+      "name": "Mi Momento",
+      "url": "https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Soy Buen Amigo",
         "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
       },
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. 3",
-        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 162624,
-      "name": "Mi Momento",
-      "url": "https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Belico El Asunto (En Vivo)",
         "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Carteles",
-        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 125818,
-      "name": "El B\u00e9lico",
-      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "B\u00e9lico y Cholo",
         "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 202218,
       "name": "B\u00e9lico y Cholo",
       "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Carteles",
+        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 125818,
+      "name": "El B\u00e9lico",
+      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1215,34 +1215,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "D\u00e9jenme Hacer Dinero",
-        "url": "https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 193918,
-      "name": "D\u00e9jenme Hacer Dinero",
-      "url": "https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
@@ -1271,6 +1243,34 @@
       "duration_ms": 137323,
       "name": "El Circo",
       "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "D\u00e9jenme Hacer Dinero",
+        "url": "https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 193918,
+      "name": "D\u00e9jenme Hacer Dinero",
+      "url": "https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 168425,
-      "name": "En El Camino",
-      "url": "https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS"
+      "duration_ms": 209920,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 209920,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
+      "duration_ms": 168425,
+      "name": "En El Camino",
+      "url": "https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1825,26 +1825,6 @@
       "url": "https://open.spotify.com/track/5STfIC4lCW6Q3jYbr6L77n"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Tan Solo Morro",
-        "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        },
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "Tan Solo Morro",
-      "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
-    },
-    {
       "added_at": "2023-07-21 14:20:25",
       "album": {
         "name": "La Belikiza",
@@ -1863,6 +1843,26 @@
       "duration_ms": 129921,
       "name": "La Belikiza",
       "url": "https://open.spotify.com/track/5tSt4evQmEStMoVBsq7mzT"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Tan Solo Morro",
+        "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        },
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Tan Solo Morro",
+      "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
     }
   ],
   "unique_name": "Al Tiro",

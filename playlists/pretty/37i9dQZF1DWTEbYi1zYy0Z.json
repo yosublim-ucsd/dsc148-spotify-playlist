@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Jonathan Butler",
-  "num_followers": 52214,
+  "num_followers": 52255,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODNmNTM1MTE4NzMxMTMwMDhhOTk4YTJiZTYzNmU0OGFjOGIzNWEw",
+  "snapshot_id": "MCwxZjQyYjI1NTk2N2ZmMWE4Y2NjYTNiZTBlMmJhYjkwMGY3MGYwNzE2",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/6WG2FanAGtFE6rsB3IvCAV"
     },
     {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Uptop",
+        "url": "https://open.spotify.com/album/0e9CbmyR2qGr4k1vGQYtSv"
+      },
+      "artists": [
+        {
+          "name": "Adam Hawley",
+          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
+        }
+      ],
+      "duration_ms": 260996,
+      "name": "Uptop",
+      "url": "https://open.spotify.com/track/2dVePyjsLCrWmu6ICDm8cF"
+    },
+    {
       "added_at": "2023-07-07 04:01:00",
       "album": {
         "name": "Love Nwantiti",
@@ -71,6 +87,22 @@
       "duration_ms": 151305,
       "name": "Love Nwantiti",
       "url": "https://open.spotify.com/track/06lydkzsIHhHmDZCgZKCDJ"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "This Time Around (Radio Version)",
+        "url": "https://open.spotify.com/album/0H21NRwSaH33O0jiXZNwTC"
+      },
+      "artists": [
+        {
+          "name": "Four80East",
+          "url": "https://open.spotify.com/artist/2xiHxT5QkkxHVhljrRGbW9"
+        }
+      ],
+      "duration_ms": 264189,
+      "name": "This Time Around (Radio Version)",
+      "url": "https://open.spotify.com/track/3gLRVrB27WFfu0EnpiO6UG"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -699,42 +731,6 @@
       "duration_ms": 269129,
       "name": "Summer In Blue",
       "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
-    },
-    {
-      "added_at": "2022-04-08 04:02:00",
-      "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA"
-      },
-      "artists": [
-        {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
-        },
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 274096,
-      "name": "Busta Move",
-      "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Foolish Heart",
-        "url": "https://open.spotify.com/album/6HPS4UYCNF4snOQHcCTLlj"
-      },
-      "artists": [
-        {
-          "name": "Johnny James Dr J",
-          "url": "https://open.spotify.com/artist/7u6nxhjlzbZs2q7tJlP0SJ"
-        }
-      ],
-      "duration_ms": 217151,
-      "name": "Foolish Heart",
-      "url": "https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq"
     },
     {
       "added_at": "2022-05-13 04:02:00",

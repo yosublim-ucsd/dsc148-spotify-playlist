@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Luca Malina, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,115 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,137 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Blumen auf meiner Haut](https://open.spotify.com/track/56TP62SmsPdbGDcRmkP1ze) | [Anton Verzani](https://open.spotify.com/artist/0EdR71Cjo7i162DzwAmaBc) | [Blumen auf meiner Haut](https://open.spotify.com/album/6WmNK68Ew5OhWx8Z07RffV) | 3:22 |
 | 80 | [Toxisch](https://open.spotify.com/track/0xXg49Q95WwUIVc3TC9eK7) | [Die Krux](https://open.spotify.com/artist/2SLzDQT4gRA9vDbUB2BxMp) | [Toxisch](https://open.spotify.com/album/5Bg0G5KWlxCY4JMVj6HPyT) | 3:18 |
 
-Snapshot ID: `MCwwNjg5ODE4MzM0YmJkNDFkNjBiODY4ZWY1NmE0MjMyMGExNjM3Y2Zl`
+Snapshot ID: `MCxhNzYxOTZlMmIzMzI2ZGM4NzE0MTg1MDUzYjc5YmQwNjc3ZDg4Mzgx`

@@ -4,11 +4,12 @@
 
 > This is Ice Spice\. The essential tracks, all in one playlist.
 
-23 songs - 50 min 44 sec
+24 songs - 52 min 58 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Actin A Smoochie](https://open.spotify.com/track/614PNsaI816SVsGQm4omXJ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:13 | 2023-06-07 |  |
+| [Actin A Smoochie](https://open.spotify.com/track/0QdB2tkxPG1qMgAMwv6mRP) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:13 | 2023-08-04 |  |
+| [Actin A Smoochie](https://open.spotify.com/track/614PNsaI816SVsGQm4omXJ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:13 | 2023-06-07 | 2023-08-05 |
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-06-24 |  |
 | [Be a Lady](https://open.spotify.com/track/4nQPTDWfelAXJN1VyXmksI) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Be a Lady](https://open.spotify.com/album/2O2f6deLC6CypQx1yPowXy) | 1:21 | 2023-06-07 |  |
 | [Bikini Bottom](https://open.spotify.com/track/3ylgJvzFdjbcXNcxj9mXku) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 1:46 | 2023-06-07 |  |

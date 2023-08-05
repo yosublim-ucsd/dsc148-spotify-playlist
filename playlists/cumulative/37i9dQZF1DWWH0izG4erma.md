@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS! Cover: Chris Stapleton
 
-278 songs - 16 hr 2 min
+279 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Long Haired Country Boy \(feat\. The Rockin' CJB\)](https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [The Rockin' CJB](https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 4:17 | 2022-07-22 |  |
 | [Long Haired Country Boy \(feat\. The Rockin' CJB\)](https://open.spotify.com/track/5u1gJ956WPF41Xqhf72d22) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [The Rockin' CJB](https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV) | [Ain't Nothin' to It \- EP](https://open.spotify.com/album/6CiDKNAEO6KGYkgKnGZCGO) | 4:17 | 2021-11-01 | 2022-07-29 |
 | [Long Nights](https://open.spotify.com/track/1zoYCUSLQkVR1MkkUJMnoI) | [CJ Solar](https://open.spotify.com/artist/2Tb4A6BOZgEeR7c6nyDlYy) | [The Future's Neon](https://open.spotify.com/album/42Tb9duEfbuP9U3vBq5rkJ) | 3:32 | 2022-08-05 | 2022-11-19 |
+| [Looking Back Now](https://open.spotify.com/track/37imLguIvWwDJNT6RGO2Qi) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Looking Back Now](https://open.spotify.com/album/47MPMs9cQemgI2ek85Rbqd) | 3:29 | 2023-08-04 |  |
 | [LOSER](https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [LOSER](https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq) | 3:14 | 2022-08-05 |  |
 | [Lowdown & Lonesome](https://open.spotify.com/track/3MDC1gVjBJJdThcWMCgLhp) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Lowdown & Lonesome](https://open.spotify.com/album/7CwnSqmzKopo0pmwYCPSwz) | 4:23 | 2021-11-01 | 2022-01-22 |
 | [Magic Man \(Carl Version\)\(feat\. Ann Wilson\)](https://open.spotify.com/track/0n3A8c5erSAdbaSeJUOGfr) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Magic Man \(Carl Version\)\(feat\. Ann Wilson\)](https://open.spotify.com/album/3bp79MeMoUE5gmHNuZQRNG) | 5:02 | 2023-06-16 |  |
@@ -201,7 +202,7 @@
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/04YKO5t4AZrsqKfGhhUb2j) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 3:06 | 2022-10-01 |  |
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 | 2022-07-22 | 2022-10-03 |
 | [Right or Wrong](https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [For the Birds](https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx) | 4:14 | 2022-01-28 | 2023-01-21 |
-| [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 3:53 | 2023-01-02 |  |
+| [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 3:53 | 2023-01-02 | 2023-08-05 |
 | [Rose Gold](https://open.spotify.com/track/4nNmIoO7YIm8EuoY8pUrXE) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Rose Gold](https://open.spotify.com/album/7hC8aKFF9Fc72zsjmFILxh) | 5:29 | 2021-11-01 | 2022-07-29 |
 | [Same Damn Kid](https://open.spotify.com/track/0Ckrx7eY7gK1S0FLaxLRjW) | [Dax Perrier](https://open.spotify.com/artist/30nXzFhj1YZvHzj4GCRhsv) | [Same Damn Kid](https://open.spotify.com/album/0W62sukAxREi5Dnif6C2Xt) | 3:39 | 2023-06-02 |  |
 | [She Says](https://open.spotify.com/track/1gMN8njDgOlHq8xtGVKQXK) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Pecos & the Rooftops](https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH) | 4:06 | 2023-06-23 |  |

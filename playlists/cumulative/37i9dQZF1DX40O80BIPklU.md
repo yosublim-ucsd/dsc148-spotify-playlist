@@ -4,7 +4,7 @@
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Trueno y Cypress Hill en portada.
 
-218 songs - 12 hr 29 min
+219 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 | 2022-01-11 |  |
 | [Mujer](https://open.spotify.com/track/1pCgmKc1xoCpFnhm3JnmRq) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp), [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [Mujer](https://open.spotify.com/album/5r0bfpYeKKhKKDXfGfhuwV) | 3:05 | 2023-06-16 |  |
 | [Mundo De Papel](https://open.spotify.com/track/5XZwPDh81lZP85iMkxZ9VO) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mundo De Papel](https://open.spotify.com/album/4m0KAB42QxgsFT3RJ2QkvR) | 3:42 | 2021-12-30 | 2022-03-08 |
+| [Más de Ti](https://open.spotify.com/track/7fRwxP1bj8ktaWxxK3p4pb) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Soler The Lion](https://open.spotify.com/artist/4psgvAd92BNyBOwv3Am4cg) | [Más de Ti](https://open.spotify.com/album/72ct55HUoVEWCeWpogQHeT) | 3:04 | 2023-08-04 |  |
 | [NEVADA](https://open.spotify.com/track/0bHuCyPRZc5Pfx1Dm982ws) | [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [Drama Theme](https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8) | [NEVADA](https://open.spotify.com/album/4BCGrlLcmFBeY0JN7nTx7E) | 2:06 | 2023-03-31 | 2023-07-18 |
 | [Niple](https://open.spotify.com/track/7jeleRcyCUp5pusaGcioka) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Niple](https://open.spotify.com/album/34Ya8APZthEj4tO9SxeQEb) | 3:04 | 2021-12-30 | 2022-03-11 |
 | [Niñx](https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Niñx](https://open.spotify.com/album/7456v3Q9ZExGfIl5r6H8N4) | 3:06 | 2023-05-19 | 2023-07-29 |
@@ -177,7 +178,7 @@
 | [Real \(Freestyle\)](https://open.spotify.com/track/2mUlvUlYYj5lyN21pdLQRG) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Real \(Freestyle\)](https://open.spotify.com/album/0MnDifOrRyGobTPpzBAzPm) | 1:45 | 2021-12-30 | 2022-11-25 |
 | [Relojito](https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Relojito](https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu) | 2:24 | 2021-12-30 | 2022-02-15 |
 | [REPRE$ENT](https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e) | [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx), [Don\-J HH](https://open.spotify.com/artist/4YVudw8OX0HYki0EFNipv3), [Der Enyel](https://open.spotify.com/artist/64lfjA638IlbxVaKfZVQgC) | [REPRE$ENT](https://open.spotify.com/album/4o7fWPGfSBfKVe7R3ZWdnA) | 4:05 | 2023-07-14 |  |
-| [Requisito 420](https://open.spotify.com/track/5gBstAsizJCElj5GZiYaXO) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Requisito 420](https://open.spotify.com/album/0qUMeOVnDA8pRLJsulFYTG) | 3:22 | 2022-04-21 |  |
+| [Requisito 420](https://open.spotify.com/track/5gBstAsizJCElj5GZiYaXO) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Requisito 420](https://open.spotify.com/album/0qUMeOVnDA8pRLJsulFYTG) | 3:22 | 2022-04-21 | 2023-08-05 |
 | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/album/6E6r7xDLowTTFD0K8LzRUj) | 8:39 | 2022-03-04 | 2023-03-04 |
 | [Se Fue la Luz](https://open.spotify.com/track/3GnCAwwqk86N0zNP0FMOUU) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Se Fue la Luz](https://open.spotify.com/album/5OJeUsenPzsO2TYTZ18kKK) | 3:45 | 2022-11-11 | 2023-07-29 |
 | [Se Me Olvidó](https://open.spotify.com/track/6mDaKsBN1KHIBfeNXJwhZk) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Se Me Olvidó](https://open.spotify.com/album/6sbeex4HisXrm68OJuUR2g) | 3:40 | 2022-12-07 |  |

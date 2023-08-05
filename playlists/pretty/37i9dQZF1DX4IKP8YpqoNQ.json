@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 24605,
+  "num_followers": 24622,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWEzZTEyNDRlMjBkNmNiNzQ3MmRlZGRjZDM5YTA3ZWUxZDEwMmRh",
+  "snapshot_id": "MCw1ZGM2YzI5YmY4ZDAwMGUyOTIwZDBlNzdiZWMzYjJhMWViMGExMTMx",
   "tracks": [
     {
       "added_at": "2023-05-15 07:15:38",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 330493,
-      "name": "On & On - Live",
-      "url": "https://open.spotify.com/track/4QT4TDuorhuBn6ycdQN4sQ"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 308720,
       "name": "Ordinary People - Live from Spotify Milan",
       "url": "https://open.spotify.com/track/2UGuZUEnJMAcpYd5Xf4R5K"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 330493,
+      "name": "On & On - Live",
+      "url": "https://open.spotify.com/track/4QT4TDuorhuBn6ycdQN4sQ"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "River - Live at SXSW 2015",
-      "url": "https://open.spotify.com/track/2ko4juHbeDhU02oRxzwKEc"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963",
         "url": "https://open.spotify.com/album/3nTXqOEHr6AfTb1WSaB4Pm"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 326266,
       "name": "Bring It on Home to Me - Live at the Harlem Square Club, Miami, FL - January 1963",
       "url": "https://open.spotify.com/track/3lYM0ZNXLG2276Wcoj0pyz"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "River - Live at SXSW 2015",
+      "url": "https://open.spotify.com/track/2ko4juHbeDhU02oRxzwKEc"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 180551,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 366960,
       "name": "Street Life - Live",
       "url": "https://open.spotify.com/track/0SkV3827yvx2i40J2dhYYv"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 180551,
-      "name": "I Like That",
-      "url": "https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Ex-Factor (BBC 1Xtra Live Lounge Recording)",
-        "url": "https://open.spotify.com/album/1rBjxPuibrLyILDyfIQUiu"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Lawson",
-          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
-        }
-      ],
-      "duration_ms": 253183,
-      "name": "Ex-Factor - BBC 1Xtra Live Lounge Recording",
-      "url": "https://open.spotify.com/track/1Dhl63qchF6ZJ2BKIFvW3L"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Life on Planet Groove",
         "url": "https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 225893,
       "name": "I Got You (I Feel Good)",
       "url": "https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Ex-Factor (BBC 1Xtra Live Lounge Recording)",
+        "url": "https://open.spotify.com/album/1rBjxPuibrLyILDyfIQUiu"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Lawson",
+          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
+        }
+      ],
+      "duration_ms": 253183,
+      "name": "Ex-Factor - BBC 1Xtra Live Lounge Recording",
+      "url": "https://open.spotify.com/track/1Dhl63qchF6ZJ2BKIFvW3L"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Weekend in London (Live)",
-        "url": "https://open.spotify.com/album/0cMVOOJ8JydjzNx5hFnxbD"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 374800,
-      "name": "The Ghetto - Live",
-      "url": "https://open.spotify.com/track/1ZTKGGmBDAadBT2jDrcpPM"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/13FOULXj0WhEf5Zn4ETHS0"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 191611,
       "name": "The World (Is Going Up in Flames) - Live From Spotify House SXSW '16",
       "url": "https://open.spotify.com/track/3bQo8cXqDZ2F9QWEaLindv"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Weekend in London (Live)",
+        "url": "https://open.spotify.com/album/0cMVOOJ8JydjzNx5hFnxbD"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 374800,
+      "name": "The Ghetto - Live",
+      "url": "https://open.spotify.com/track/1ZTKGGmBDAadBT2jDrcpPM"
     },
     {
       "added_at": "2023-05-15 07:15:38",

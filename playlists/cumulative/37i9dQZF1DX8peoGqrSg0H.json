@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Patrickananda",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PROXIE",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -244,6 +244,24 @@
       "duration_ms": 223278,
       "name": "Boys Like You",
       "url": "https://open.spotify.com/track/1VyRhsi6GfBusI1Vb061s4"
+    },
+    {
+      "album": {
+        "name": "Calling you",
+        "url": "https://open.spotify.com/album/4A694nZvddyi49tWXPDikN"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121707,
+      "name": "Calling you",
+      "url": "https://open.spotify.com/track/1KhFybufpQCSAf8FmUsMt2"
     },
     {
       "album": {
@@ -740,7 +758,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 170285,
       "name": "LaLaLook",
       "url": "https://open.spotify.com/track/2j5fCX90N2VKYmX9PnMI1T"
@@ -1239,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Data Storage",
+        "url": "https://open.spotify.com/album/2mQYy1FYHUEuQSrJPO6BDI"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231939,
+      "name": "STOP!",
+      "url": "https://open.spotify.com/track/6M2KvQJwWr8U7N9OfObbFP"
+    },
+    {
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/55TxK1Pst6fFWplVbRKuTQ"
       },
@@ -1330,6 +1366,24 @@
       "duration_ms": 194307,
       "name": "U can't hurt me no more",
       "url": "https://open.spotify.com/track/7MF3ugIgl06Fi8CX5NKA4m"
+    },
+    {
+      "album": {
+        "name": "UMM UMM",
+        "url": "https://open.spotify.com/album/1arBxJSSZSdEPZKIYKAH9O"
+      },
+      "artists": [
+        {
+          "name": "LYKN",
+          "url": "https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187346,
+      "name": "UMM UMM",
+      "url": "https://open.spotify.com/track/2DZDnHMcGd71AuKP4b8OM2"
     },
     {
       "album": {
@@ -2270,6 +2324,24 @@
       "duration_ms": 197319,
       "name": "\u0e09\u0e31\u0e19\u0e08\u0e30\u0e09\u0e32\u0e1b\u0e40\u0e18\u0e2d - Curse",
       "url": "https://open.spotify.com/track/6uu05FXHuqfMNI9Ti6pts2"
+    },
+    {
+      "album": {
+        "name": "Data Storage",
+        "url": "https://open.spotify.com/album/2mQYy1FYHUEuQSrJPO6BDI"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165200,
+      "name": "\u0e0a\u0e19 (Crush)",
+      "url": "https://open.spotify.com/track/1DTRZvmzt6JcspTCeIBJeC"
     },
     {
       "album": {
@@ -3940,7 +4012,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 244615,
       "name": "\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32\u0e41\u0e17\u0e19\u0e09\u0e31\u0e19\u0e17\u0e35 (Promise Me)",
       "url": "https://open.spotify.com/track/4IM1mTEuO6YnyYHNioh7tg"
@@ -5304,7 +5376,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 244728,
       "name": "\u0e40\u0e08\u0e47\u0e1a\u0e2d\u0e22\u0e39\u0e48 (Hurting)",
       "url": "https://open.spotify.com/track/7uCXHh5cdN7H0yY0NmJ7di"
@@ -6346,7 +6418,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 248372,
       "name": "\u0e43\u0e08\u0e40\u0e1b\u0e34\u0e14\u0e43\u0e08 (LOVE MODE)",
       "url": "https://open.spotify.com/track/4jXtIU0Bp44DDqeKapCQMP"

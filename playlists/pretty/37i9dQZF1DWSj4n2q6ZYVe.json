@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 389419,
+  "num_followers": 389890,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWVhZTU3MjNhYjU2M2ZhMTk5ZDVhZGY4Y2VlNGU3YzgwZmIwYmI1",
+  "snapshot_id": "MCxiNzkzZThkMDAxNmY1MWM2MjcwN2ZjZjIwNmI5NmY1NjUzMzg5ZmU0",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -355,26 +355,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Tongue N' Cheek (Dirtee Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC"
+        "name": "Some Things",
+        "url": "https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h"
       },
       "artists": [
         {
-          "name": "Dizzee Rascal",
-          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Chrom3",
-          "url": "https://open.spotify.com/artist/5afDPnkidHjc6e43K9bSKn"
+          "name": "Lasgo",
+          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
         }
       ],
-      "duration_ms": 204093,
-      "name": "Dance Wiv Me - Radio Edit",
-      "url": "https://open.spotify.com/track/6pTg4H8juKV9iSzrcVUbM3"
+      "duration_ms": 220973,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -399,18 +391,26 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Some Things",
-        "url": "https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h"
+        "name": "Tongue N' Cheek (Dirtee Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC"
       },
       "artists": [
         {
-          "name": "Lasgo",
-          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
+          "name": "Dizzee Rascal",
+          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Chrom3",
+          "url": "https://open.spotify.com/artist/5afDPnkidHjc6e43K9bSKn"
         }
       ],
-      "duration_ms": 220973,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf"
+      "duration_ms": 204093,
+      "name": "Dance Wiv Me - Radio Edit",
+      "url": "https://open.spotify.com/track/6pTg4H8juKV9iSzrcVUbM3"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -503,6 +503,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 295400,
+      "name": "Little L",
+      "url": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Tongue N' Cheek (Dirtee Deluxe Edition)",
         "url": "https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 177573,
       "name": "Bonkers",
       "url": "https://open.spotify.com/track/6ddQ5KCkvCggk3j6KdA0zL"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 295400,
-      "name": "Little L",
-      "url": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -627,6 +627,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "You Give Me Something",
+      "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/5pUMfEOBMzcpVweXk3kYL9"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 197124,
       "name": "Everytime We Touch",
       "url": "https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "You Give Me Something",
-      "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -771,6 +771,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "Aerodynamic",
+      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Music & You",
         "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
       },
@@ -827,38 +843,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
       },
       "artists": [
         {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 212546,
-      "name": "Aerodynamic",
-      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
-      },
-      "artists": [
-        {
-          "name": "The Supermen Lovers",
-          "url": "https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA"
-        },
-        {
-          "name": "Mani Hoffman",
-          "url": "https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Starlight - Radio Edit",
-      "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
+      "duration_ms": 224493,
+      "name": "Love Foolosophy - Radio Edit",
+      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -879,18 +875,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
       },
       "artists": [
         {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+          "name": "The Supermen Lovers",
+          "url": "https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA"
+        },
+        {
+          "name": "Mani Hoffman",
+          "url": "https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw"
         }
       ],
-      "duration_ms": 224493,
-      "name": "Love Foolosophy - Radio Edit",
-      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
+      "duration_ms": 234400,
+      "name": "Starlight - Radio Edit",
+      "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "5 Years of mau5",
+        "url": "https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Rob Swire",
+          "url": "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
+        }
+      ],
+      "duration_ms": 328733,
+      "name": "Ghosts 'n' Stuff - Extended Mix",
+      "url": "https://open.spotify.com/track/0KR5i46RXvDy8YzOZRvTAI"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Pop Life",
         "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
       },
@@ -1631,26 +1651,6 @@
       "duration_ms": 171360,
       "name": "Call on Me - Radio Mix",
       "url": "https://open.spotify.com/track/25F37dHEAbzandtlTRIcV2"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "5 Years of mau5",
-        "url": "https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Rob Swire",
-          "url": "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
-        }
-      ],
-      "duration_ms": 328733,
-      "name": "Ghosts 'n' Stuff - Extended Mix",
-      "url": "https://open.spotify.com/track/0KR5i46RXvDy8YzOZRvTAI"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Vicious Delicious",
-        "url": "https://open.spotify.com/album/3W2rs8vCNzvB5BmAoCjART"
+        "name": "Strobe",
+        "url": "https://open.spotify.com/album/1lY0EO48aNsIU2Q92uC1dd"
       },
       "artists": [
         {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         }
       ],
-      "duration_ms": 440266,
-      "name": "Becoming Insane",
-      "url": "https://open.spotify.com/track/1Nukcy7xk7AbS7MtkaiOe3"
+      "duration_ms": 212066,
+      "name": "Strobe - Radio Edit",
+      "url": "https://open.spotify.com/track/0ubZ5nFWwxKoYJ7hk6TaRm"
     }
   ],
   "unique_name": "Dance Hits 2000s",

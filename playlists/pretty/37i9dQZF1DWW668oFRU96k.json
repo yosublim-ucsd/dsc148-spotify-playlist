@@ -1,12 +1,12 @@
 {
   "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Guetta x Bebe Rexha",
-  "num_followers": 194993,
+  "num_followers": 195022,
   "original_name": "Electro Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGY3MmYwNDIzZjlkMDE2NGJmM2YwZTFkZWJkYzMyNDExNTRjYTJm",
+  "snapshot_id": "MCwwYzE1MWM0ZjI2ZDMxZjM3ODAyOThjYzY4MWE3OWM2ZmM1OGYyNzc5",
   "tracks": [
     {
       "added_at": "2023-08-03 16:00:00",
@@ -171,6 +171,26 @@
       "duration_ms": 159677,
       "name": "Moonlight (feat. Antrex)",
       "url": "https://open.spotify.com/track/08VzBbaIZe2jbB7nqPJWgK"
+    },
+    {
+      "added_at": "2023-08-03 16:00:00",
+      "album": {
+        "name": "AFTER THE END ft. Yuna",
+        "url": "https://open.spotify.com/album/17iAVZo5SYPXSplTNhMWnl"
+      },
+      "artists": [
+        {
+          "name": "clear eyes",
+          "url": "https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "AFTER THE END ft. Yuna",
+      "url": "https://open.spotify.com/track/0mRBk0W4P9QV59jBGfbpSH"
     },
     {
       "added_at": "2023-08-03 16:00:00",

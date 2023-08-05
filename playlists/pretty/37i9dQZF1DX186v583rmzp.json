@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 7968227,
+  "num_followers": 7971254,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDBmMjQ3YjI4YzJhZDgzY2JjZGE1YWU2YTc3ZjU1NTkxYjUyMDAz",
+  "snapshot_id": "MCw2NWZhM2I4MmFmOTBlN2I3MjMwY2ExNDI1ZGQ4OTA0YmE4ZjY0NDJk",
   "tracks": [
     {
       "added_at": "2023-07-13 12:12:17",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-07-13 12:12:17",
       "album": {
-        "name": "Bootlegs And B-Sides",
-        "url": "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Das EFX",
-          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Check Yo Self - Remix",
-      "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
-    },
-    {
-      "added_at": "2023-07-13 12:12:17",
-      "album": {
         "name": "No Way Out (2014 Remaster)",
         "url": "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 306560,
       "name": "I'll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster",
       "url": "https://open.spotify.com/track/1yy2DlSDtEt90d54rPDPXz"
+    },
+    {
+      "added_at": "2023-07-13 12:12:17",
+      "album": {
+        "name": "Bootlegs And B-Sides",
+        "url": "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Das EFX",
+          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Check Yo Self - Remix",
+      "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
     },
     {
       "added_at": "2023-07-13 12:12:17",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-07-13 12:12:17",
       "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
-    },
-    {
-      "added_at": "2023-07-13 12:12:17",
-      "album": {
         "name": "Full Clip: A Decade Of Gang Starr",
         "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 217440,
       "name": "Full Clip",
       "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
+    },
+    {
+      "added_at": "2023-07-13 12:12:17",
+      "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "added_at": "2023-07-13 12:12:17",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-07-13 12:12:17",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
-      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
-    },
-    {
-      "added_at": "2023-07-13 12:12:17",
-      "album": {
         "name": "Return of the Boom Bap",
         "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 258506,
       "name": "Sound of da Police",
       "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
+    },
+    {
+      "added_at": "2023-07-13 12:12:17",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
+      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
     },
     {
       "added_at": "2023-07-13 12:12:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,247 likes - 70 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,300 likes - 70 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 37 | [Kind Words](https://open.spotify.com/track/7wDBk2wRzyJsx97QVbeVCq) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through the Year \- A Little Wild Childhood](https://open.spotify.com/album/5o4FHVHGV736Qz4O9W7LUp) | 4:03 |
 | 38 | [Farmer's Market](https://open.spotify.com/track/2ajPDldJr8RicylhXAwbnh) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 2:37 |
 | 39 | [All the Pretty Little Horses](https://open.spotify.com/track/55h7xXk2Y4yT5SnDZo5jnK) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Tumble Bee](https://open.spotify.com/album/1fadoiabDmHdq0A2RIL7oT) | 2:16 |
-| 40 | [Summer Days](https://open.spotify.com/track/0ETcX26w2dtcPeL4gL7o4P) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:20 |
-| 41 | [Bought Me a Cat](https://open.spotify.com/track/3SbOjVO4kaVgh3JxGaTMaB) | [Susie Tallman](https://open.spotify.com/artist/3Sz0QcctlhJ47VT4T6Jlm7) | [Animal Songs](https://open.spotify.com/album/0wjCa0rFSpQXadjEK2MIjs) | 2:36 |
-| 42 | [Jellyman Kelly](https://open.spotify.com/track/1njKyn7dVZiZ7vVU4IA6gA) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P), [The Sesame Street Kids](https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G) | [Sesame Street: Songs From The Street, Vol\. 2](https://open.spotify.com/album/1bIKI6ajT4EeP9249GhTI1) | 2:00 |
+| 40 | [Bought Me a Cat](https://open.spotify.com/track/3SbOjVO4kaVgh3JxGaTMaB) | [Susie Tallman](https://open.spotify.com/artist/3Sz0QcctlhJ47VT4T6Jlm7) | [Animal Songs](https://open.spotify.com/album/0wjCa0rFSpQXadjEK2MIjs) | 2:36 |
+| 41 | [Jellyman Kelly](https://open.spotify.com/track/1njKyn7dVZiZ7vVU4IA6gA) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P), [The Sesame Street Kids](https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G) | [Sesame Street: Songs From The Street, Vol\. 2](https://open.spotify.com/album/1bIKI6ajT4EeP9249GhTI1) | 2:00 |
+| 42 | [Summer Days](https://open.spotify.com/track/0ETcX26w2dtcPeL4gL7o4P) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:20 |
 | 43 | [Awesome Blossom](https://open.spotify.com/track/73LhvPZug2UePzRWjXriCV) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Easy Breezy!](https://open.spotify.com/album/6eresS8fJq05Eg8bpztUv2) | 2:39 |
 | 44 | [Baby Beluga \- 40th Anniversary Version](https://open.spotify.com/track/40oUxbmsYW6a62kmuJgsEv) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Baby Beluga \(40th Anniversary Version\)](https://open.spotify.com/album/3rJ1zQgh9ngMK5Oby68n36) | 3:28 |
 | 45 | [Glue](https://open.spotify.com/track/1OnQCrHqov2hDGd0WFh6VV) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Glue](https://open.spotify.com/album/0CrN2sQKKHa2IvNJybDCID) | 2:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 69 | [The Knowing \- From the Ani DiFranco Children's Book: The Knowing](https://open.spotify.com/track/72BkZqFQXtHrd1Ixd2J5kV) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [The Knowing \(From the Ani DiFranco Children's Book: The Knowing\)](https://open.spotify.com/album/5PVaE6TIUj8YbRns0b4m7T) | 5:11 |
 | 70 | [All I Need Is Your Smile](https://open.spotify.com/track/7jax7ShpqTK4khC0Ixzeyk) | [Sonia De Los Santos](https://open.spotify.com/artist/4aNmQzHcg0vTqPSauw4CKr) | [All I Need Is Your Smile](https://open.spotify.com/album/0fNZ0lr45AD8IZJBdnxSTF) | 2:23 |
 
-Snapshot ID: `MCw5YzMzYWMzODNhYmM1YWRiNTQxNDk4MGZhNjg3ZGViYmFhYzBmOTA4`
+Snapshot ID: `MCwyZGJlYmE1MjYxZGZmYTAxODNlNmZmMDQ0OTg0NGFlNGExODBmN2Y1`

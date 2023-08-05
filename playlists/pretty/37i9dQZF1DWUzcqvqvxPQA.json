@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25839,
+  "num_followers": 25848,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTYyODU5MjYwMGQwMGMzODJkYWVlODk0NTJjYmZkZTM2YTkyNzY5",
+  "snapshot_id": "MCwzOGNkMGI0MDEwZjczZDQ5MTdjOTNkZTI1ZGIxYjFkMjViN2MzZDk1",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "HARD CUTS: Songs from the H A R D L O V E Sessions",
-        "url": "https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 246933,
-      "name": "WALKING ON WATER",
-      "url": "https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "QUIET",
         "url": "https://open.spotify.com/album/4QIY6fw4N0X4hg4r2R77ti"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 174590,
       "name": "QUIET",
       "url": "https://open.spotify.com/track/7tTojNH9f7n2MeAO5HaqAS"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "HARD CUTS: Songs from the H A R D L O V E Sessions",
+        "url": "https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 246933,
+      "name": "WALKING ON WATER",
+      "url": "https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -323,18 +323,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Out of Body",
-        "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
+        "name": "EVERYTHING EVERYTHING",
+        "url": "https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs"
       },
       "artists": [
         {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
-      "duration_ms": 255173,
-      "name": "Hang On",
-      "url": "https://open.spotify.com/track/7iUNwLdjPrcteXLNq1fBlZ"
+      "duration_ms": 200079,
+      "name": "EVERYTHING EVERYTHING",
+      "url": "https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "EVERYTHING EVERYTHING",
-        "url": "https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs"
+        "name": "Out of Body",
+        "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 200079,
-      "name": "EVERYTHING EVERYTHING",
-      "url": "https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby"
+      "duration_ms": 255173,
+      "name": "Hang On",
+      "url": "https://open.spotify.com/track/7iUNwLdjPrcteXLNq1fBlZ"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "bye, sad girl.",
+        "url": "https://open.spotify.com/album/2Lr9QDoRTlW8CKp4q3A6JJ"
+      },
+      "artists": [
+        {
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "i don't know if we can be friends",
+      "url": "https://open.spotify.com/track/5ldNf0PbjXkxadKws2Rgkt"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "The Divine Storm",
         "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 214000,
       "name": "He Still Does (Miracles)",
       "url": "https://open.spotify.com/track/6TcXTbYh4mHq994p3oOibU"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "bye, sad girl.",
-        "url": "https://open.spotify.com/album/2Lr9QDoRTlW8CKp4q3A6JJ"
-      },
-      "artists": [
-        {
-          "name": "Hollyn",
-          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "i don't know if we can be friends",
-      "url": "https://open.spotify.com/track/5ldNf0PbjXkxadKws2Rgkt"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Till I Found You",
-        "url": "https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/46jicEgCHc3Zxh4TKaRuCN"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 228564,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/6O8Q77DLdXZTdciVeU2Aak"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/0OFlp2bVcZjixngoIGzwBW"
+      },
+      "artists": [
+        {
+          "name": "Tori Harper",
+          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "Stand Firm",
+      "url": "https://open.spotify.com/track/2S4vZbC5zdTd7tURXvpVnd"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "City Lights (feat. Mitch Wong)",
         "url": "https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 181446,
       "name": "Paid For It",
       "url": "https://open.spotify.com/track/012SkEI8fzg3pKAKNygn5c"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/0OFlp2bVcZjixngoIGzwBW"
-      },
-      "artists": [
-        {
-          "name": "Tori Harper",
-          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "Stand Firm",
-      "url": "https://open.spotify.com/track/2S4vZbC5zdTd7tURXvpVnd"
     },
     {
       "added_at": "2020-08-13 14:39:00",

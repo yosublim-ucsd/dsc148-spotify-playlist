@@ -1,13 +1,29 @@
 {
   "description": "The best of modern blues rock. Cover: The Cold Stares",
-  "num_followers": 174583,
+  "num_followers": 174724,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTMzYTQ1MmE2MGY4YWMyYjlmOTc2NTA1NTJiNWEwNTUwM2UyMDY4",
+  "snapshot_id": "MCxhNjllNDE1MTc2ZGE2N2UzNWYxNTRiODUwMzRlNzBkNTQ2OGZlZGIw",
   "tracks": [
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Scorned",
+        "url": "https://open.spotify.com/album/60cemT3NwtIGHYLL7oXtyt"
+      },
+      "artists": [
+        {
+          "name": "Kira Mac",
+          "url": "https://open.spotify.com/artist/3lirMsQjPC6sce67MHTXwg"
+        }
+      ],
+      "duration_ms": 188065,
+      "name": "Scorned",
+      "url": "https://open.spotify.com/track/05rjMEQQcTDM0Vzr7bs8gW"
+    },
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 187390,
       "name": "Cross The Line",
       "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/5b96aKOHRQ9J7vtX6r1P4E"
+      },
+      "artists": [
+        {
+          "name": "Ferris & Sylvester",
+          "url": "https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Dark Side",
+      "url": "https://open.spotify.com/track/0mQyWnVZ09hgVRITJMACgJ"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/0xmvgqYiUs1GApjTeBvu6s"
     },
     {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Hands On Fire",
+        "url": "https://open.spotify.com/album/2iY6WfZ1el0SXzOQhwIVhN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Scott",
+          "url": "https://open.spotify.com/artist/5XhU9rfYBQBDGxujJiB3LJ"
+        }
+      ],
+      "duration_ms": 275193,
+      "name": "Hands On Fire",
+      "url": "https://open.spotify.com/track/1KxQQ5FlMtvlUxJ2bVisNV"
+    },
+    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "Trouble Is Good",
@@ -55,22 +103,6 @@
       "duration_ms": 272076,
       "name": "Easy To Leave",
       "url": "https://open.spotify.com/track/05axZYhIeoRSCY1raNZYYi"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Scorned",
-        "url": "https://open.spotify.com/album/60cemT3NwtIGHYLL7oXtyt"
-      },
-      "artists": [
-        {
-          "name": "Kira Mac",
-          "url": "https://open.spotify.com/artist/3lirMsQjPC6sce67MHTXwg"
-        }
-      ],
-      "duration_ms": 188065,
-      "name": "Scorned",
-      "url": "https://open.spotify.com/track/05rjMEQQcTDM0Vzr7bs8gW"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -2097,22 +2129,6 @@
       "url": "https://open.spotify.com/track/7u4iSaTwibK4RlptP5mdnY"
     },
     {
-      "added_at": "2021-12-07 16:39:32",
-      "album": {
-        "name": "Superhuman",
-        "url": "https://open.spotify.com/album/1B25jVWUCH41IhBo6iz5WK"
-      },
-      "artists": [
-        {
-          "name": "Ferris & Sylvester",
-          "url": "https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf"
-        }
-      ],
-      "duration_ms": 245226,
-      "name": "Superhuman",
-      "url": "https://open.spotify.com/track/5IT0dXkBnNZ1cefzaSWDWx"
-    },
-    {
       "added_at": "2021-11-19 05:02:00",
       "album": {
         "name": "Sand Castles",
@@ -2287,22 +2303,6 @@
       "duration_ms": 207870,
       "name": "Get Your Head Right",
       "url": "https://open.spotify.com/track/0iPRmHlbc2egmnpS1GEz4I"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/52kgNqpBJ9HaXsB1EeZ8G7"
-      },
-      "artists": [
-        {
-          "name": "Katie O'Malley",
-          "url": "https://open.spotify.com/artist/6okmBH0CynrW1oDQCaGjSQ"
-        }
-      ],
-      "duration_ms": 254208,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/3VIwNFzZScES4Mp1DLLE3X"
     },
     {
       "added_at": "2022-04-15 04:02:00",

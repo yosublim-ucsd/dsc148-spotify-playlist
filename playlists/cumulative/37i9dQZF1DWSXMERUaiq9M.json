@@ -192,7 +192,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 310323,
       "name": "AZADI - Calling Marian Remix",
       "url": "https://open.spotify.com/track/3wFG8hklVZctDRJRqjiCMd"
@@ -834,7 +834,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 357580,
       "name": "Ghzelian",
       "url": "https://open.spotify.com/track/33dQ1rm0MBUvoRRWJngBpw"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 377419,
       "name": "I Am Machine",
       "url": "https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90"
@@ -1988,7 +1988,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 140444,
       "name": "Promises",
       "url": "https://open.spotify.com/track/3z1fidS7QtOfR2Y7EIqP2L"
@@ -2629,6 +2629,24 @@
     },
     {
       "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "album": {
         "name": "Walking Alone",
         "url": "https://open.spotify.com/album/4vVG1aL4wDWz1dpJTMTNfD"
       },
@@ -2698,7 +2716,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 330666,
       "name": "Wild",
       "url": "https://open.spotify.com/track/5Z1OpvU8xkJl3Sc2et5No6"

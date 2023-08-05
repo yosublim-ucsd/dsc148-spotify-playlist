@@ -1,12 +1,12 @@
 {
   "description": "Fresh and recent tracks from the world of Prog Metal. Cover: Periphery",
-  "num_followers": 509335,
+  "num_followers": 509483,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWVlZWZiOGE2ZjQzNmRhZmQ5YzZiYjk2MmViNjQxMjYwMDlhYzc4",
+  "snapshot_id": "MCwyZjQ5NWQ5ZjAwM2FiZWM1MTIyMjUxZmVlMTE0NjM2YzhmZmFiNmQy",
   "tracks": [
     {
       "added_at": "2023-07-21 04:01:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "The Simulation",
-        "url": "https://open.spotify.com/album/5tpmUSORZay61ssi3WaKWv"
-      },
-      "artists": [
-        {
-          "name": "Born Of Osiris",
-          "url": "https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt"
-        }
-      ],
-      "duration_ms": 206750,
-      "name": "The Accursed",
-      "url": "https://open.spotify.com/track/258LZZ51Mxg6xr8Q7IMcUN"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "False Providence (feat. Mick Gordon)",
         "url": "https://open.spotify.com/album/7hMm40HVdj5nViNO7PruJf"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Clairvoyant",
-        "url": "https://open.spotify.com/album/4GbvTCSu1Kehnr9Xq334u7"
+        "name": "The Simulation",
+        "url": "https://open.spotify.com/album/5tpmUSORZay61ssi3WaKWv"
       },
       "artists": [
         {
-          "name": "The Contortionist",
-          "url": "https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS"
+          "name": "Born Of Osiris",
+          "url": "https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt"
         }
       ],
-      "duration_ms": 457226,
-      "name": "Clairvoyant",
-      "url": "https://open.spotify.com/track/0Ey64fhfqXKfdDohWzPZJm"
+      "duration_ms": 206750,
+      "name": "The Accursed",
+      "url": "https://open.spotify.com/track/258LZZ51Mxg6xr8Q7IMcUN"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1011,6 +995,22 @@
       "duration_ms": 223600,
       "name": "Weighted",
       "url": "https://open.spotify.com/track/7dcbDhMbfJevMqO0D7Hhwt"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Clairvoyant",
+        "url": "https://open.spotify.com/album/4GbvTCSu1Kehnr9Xq334u7"
+      },
+      "artists": [
+        {
+          "name": "The Contortionist",
+          "url": "https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS"
+        }
+      ],
+      "duration_ms": 457226,
+      "name": "Clairvoyant",
+      "url": "https://open.spotify.com/track/0Ey64fhfqXKfdDohWzPZJm"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "Lifelike",
+        "url": "https://open.spotify.com/album/6aWem45BzsHX6FMZabt6BO"
+      },
+      "artists": [
+        {
+          "name": "Gravemind",
+          "url": "https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH"
+        }
+      ],
+      "duration_ms": 240202,
+      "name": "Lifelike",
+      "url": "https://open.spotify.com/track/6U3d3PYg1hRR5vmkrtguIV"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "Redeemer",
         "url": "https://open.spotify.com/album/1eZGxI9LWYt3VdvEUUCPBa"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 164571,
       "name": "holywater",
       "url": "https://open.spotify.com/track/1C8xKYntDnAzvzwcSLnU7W"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Lifelike",
-        "url": "https://open.spotify.com/album/6aWem45BzsHX6FMZabt6BO"
-      },
-      "artists": [
-        {
-          "name": "Gravemind",
-          "url": "https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH"
-        }
-      ],
-      "duration_ms": 240202,
-      "name": "Lifelike",
-      "url": "https://open.spotify.com/track/6U3d3PYg1hRR5vmkrtguIV"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "PORTALS",
-        "url": "https://open.spotify.com/album/2hF7dY29EsfBvXe65PYPBd"
-      },
-      "artists": [
-        {
-          "name": "TesseracT",
-          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
-        }
-      ],
-      "duration_ms": 393882,
-      "name": "Eden - P O R T A L S",
-      "url": "https://open.spotify.com/track/62duewknNqt9fZhBoYAanE"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Escapades",
         "url": "https://open.spotify.com/album/3Q5EIihNcRQbuEFA2vGDGo"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 221080,
       "name": "Fountainhead",
       "url": "https://open.spotify.com/track/6keB6agTeQshuQUVQYeLgL"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/2hF7dY29EsfBvXe65PYPBd"
+      },
+      "artists": [
+        {
+          "name": "TesseracT",
+          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
+        }
+      ],
+      "duration_ms": 393882,
+      "name": "Eden - P O R T A L S",
+      "url": "https://open.spotify.com/track/62duewknNqt9fZhBoYAanE"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Red Letter",
-        "url": "https://open.spotify.com/album/1NCLqFsHz3CArDSzA3V2T1"
-      },
-      "artists": [
-        {
-          "name": "Arch Echo",
-          "url": "https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh"
-        }
-      ],
-      "duration_ms": 290250,
-      "name": "Red Letter",
-      "url": "https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Apple of Discord",
         "url": "https://open.spotify.com/album/71AN4Bro8X57lLN90tfelX"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 246750,
       "name": "The Rat & The Snake",
       "url": "https://open.spotify.com/track/6I1HQ1fAggIDm17CXJo6aq"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Red Letter",
+        "url": "https://open.spotify.com/album/1NCLqFsHz3CArDSzA3V2T1"
+      },
+      "artists": [
+        {
+          "name": "Arch Echo",
+          "url": "https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh"
+        }
+      ],
+      "duration_ms": 290250,
+      "name": "Red Letter",
+      "url": "https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1543,18 +1543,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "The Last One",
-        "url": "https://open.spotify.com/album/1KB3bEnTt6nYHo1U47M5k3"
+        "name": "Smoke of Their Torment",
+        "url": "https://open.spotify.com/album/5zWcZCDJFhDoO9QpZ55FwY"
       },
       "artists": [
         {
-          "name": "Circles",
-          "url": "https://open.spotify.com/artist/64j43wsW2L0NunoKT5wbKd"
+          "name": "REFORMED",
+          "url": "https://open.spotify.com/artist/1b36TEx0Pvv72Mn1WBwKfF"
+        },
+        {
+          "name": "Victor Borba",
+          "url": "https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF"
         }
       ],
-      "duration_ms": 288598,
-      "name": "Dream Sequence",
-      "url": "https://open.spotify.com/track/0mt1FiWCI9rLterUfFdLIf"
+      "duration_ms": 258526,
+      "name": "Smoke of Their Torment",
+      "url": "https://open.spotify.com/track/14hM03ZVjzGqiHAo4TMrak"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1575,6 +1579,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "The Last One",
+        "url": "https://open.spotify.com/album/1KB3bEnTt6nYHo1U47M5k3"
+      },
+      "artists": [
+        {
+          "name": "Circles",
+          "url": "https://open.spotify.com/artist/64j43wsW2L0NunoKT5wbKd"
+        }
+      ],
+      "duration_ms": 288598,
+      "name": "Dream Sequence",
+      "url": "https://open.spotify.com/track/0mt1FiWCI9rLterUfFdLIf"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "I'd Rather Be Asleep",
         "url": "https://open.spotify.com/album/7l6W4a5eEiIsUHUojAimkp"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 196200,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/3RH9ske33VIz7R576PYMtT"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Smoke of Their Torment",
-        "url": "https://open.spotify.com/album/5zWcZCDJFhDoO9QpZ55FwY"
-      },
-      "artists": [
-        {
-          "name": "REFORMED",
-          "url": "https://open.spotify.com/artist/1b36TEx0Pvv72Mn1WBwKfF"
-        },
-        {
-          "name": "Victor Borba",
-          "url": "https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF"
-        }
-      ],
-      "duration_ms": 258526,
-      "name": "Smoke of Their Torment",
-      "url": "https://open.spotify.com/track/14hM03ZVjzGqiHAo4TMrak"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "I'd Rather Be Asleep",
-        "url": "https://open.spotify.com/album/7l6W4a5eEiIsUHUojAimkp"
-      },
-      "artists": [
-        {
-          "name": "Red Handed Denial",
-          "url": "https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "White Water",
-      "url": "https://open.spotify.com/track/4lALBBj0EvYHn6T5rlYqYT"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "bioMACHiNA",
         "url": "https://open.spotify.com/album/4azxoq5UXg4huDqHWo9SL1"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 210548,
       "name": "SACRiFiCE",
       "url": "https://open.spotify.com/track/4LGOYMMj4ksSVaR28vX7zq"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "I'd Rather Be Asleep",
+        "url": "https://open.spotify.com/album/7l6W4a5eEiIsUHUojAimkp"
+      },
+      "artists": [
+        {
+          "name": "Red Handed Denial",
+          "url": "https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "White Water",
+      "url": "https://open.spotify.com/track/4lALBBj0EvYHn6T5rlYqYT"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/6j55OYKRegHBCRIJ9ncveq"
-      },
-      "artists": [
-        {
-          "name": "Their Dogs Were Astronauts",
-          "url": "https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h"
-        }
-      ],
-      "duration_ms": 298909,
-      "name": "Calypso",
-      "url": "https://open.spotify.com/track/4e9TXq9fmYkoeNuoczOxbm"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Heirloom",
         "url": "https://open.spotify.com/album/7lPuo8764m0CLuTltqj1U1"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 262153,
       "name": "Heirloom",
       "url": "https://open.spotify.com/track/30a1OAy25aiX9vdYxy42om"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/6j55OYKRegHBCRIJ9ncveq"
+      },
+      "artists": [
+        {
+          "name": "Their Dogs Were Astronauts",
+          "url": "https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h"
+        }
+      ],
+      "duration_ms": 298909,
+      "name": "Calypso",
+      "url": "https://open.spotify.com/track/4e9TXq9fmYkoeNuoczOxbm"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Loathing Light",
-        "url": "https://open.spotify.com/album/6XZzx7Yx0MWI7pCl2ptI06"
-      },
-      "artists": [
-        {
-          "name": "ONI",
-          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
-        }
-      ],
-      "duration_ms": 207579,
-      "name": "Against My Sins",
-      "url": "https://open.spotify.com/track/4MRwYzMlCH8wSNL9fP3nMW"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/2pF7TT6tSoOpkct2Jfsqi1"
       },
@@ -2055,6 +2039,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "Loathing Light",
+        "url": "https://open.spotify.com/album/6XZzx7Yx0MWI7pCl2ptI06"
+      },
+      "artists": [
+        {
+          "name": "ONI",
+          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
+        }
+      ],
+      "duration_ms": 207579,
+      "name": "Against My Sins",
+      "url": "https://open.spotify.com/track/4MRwYzMlCH8wSNL9fP3nMW"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "Curses",
         "url": "https://open.spotify.com/album/57CxAIvyxBKolsqkFuQjAH"
       },
@@ -2067,22 +2067,6 @@
       "duration_ms": 208954,
       "name": "Curses",
       "url": "https://open.spotify.com/track/0Wjm38BazYve8BfoWX34Im"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Figsaw",
-        "url": "https://open.spotify.com/album/7BQKf5qe0W4WmCswOGzlBJ"
-      },
-      "artists": [
-        {
-          "name": "Berried Alive",
-          "url": "https://open.spotify.com/artist/0gZTdTYGI2ABqOENQ31u5e"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Figsaw",
-      "url": "https://open.spotify.com/track/1fvEJUZbVrv9moDDRtVcpV"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -2103,6 +2087,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "Figsaw",
+        "url": "https://open.spotify.com/album/7BQKf5qe0W4WmCswOGzlBJ"
+      },
+      "artists": [
+        {
+          "name": "Berried Alive",
+          "url": "https://open.spotify.com/artist/0gZTdTYGI2ABqOENQ31u5e"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Figsaw",
+      "url": "https://open.spotify.com/track/1fvEJUZbVrv9moDDRtVcpV"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "Hearts of Stone",
         "url": "https://open.spotify.com/album/430mmVkaExWzKspMSq1FjO"
       },
@@ -2115,6 +2115,30 @@
       "duration_ms": 236253,
       "name": "Hearts of Stone",
       "url": "https://open.spotify.com/track/67K49HkE65iIqHQy2FFUE2"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Secrets (feat. Iggy Pop and Randy Blythe)",
+        "url": "https://open.spotify.com/album/6hgQD9yLIqccvdaMtbOiMk"
+      },
+      "artists": [
+        {
+          "name": "ONI",
+          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "Randy Blythe",
+          "url": "https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB"
+        }
+      ],
+      "duration_ms": 287475,
+      "name": "Secrets (feat. Iggy Pop and Randy Blythe)",
+      "url": "https://open.spotify.com/track/0IWO0eDIpFbKUZ8qWch8Y4"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -2155,22 +2179,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/6bq18INP2zRlSt4lSpVHeE"
-      },
-      "artists": [
-        {
-          "name": "Hollow Front",
-          "url": "https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe"
-        }
-      ],
-      "duration_ms": 270106,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/0MChNtMWR0NK9szOwxKC0u"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "The Testament",
         "url": "https://open.spotify.com/album/6teXtF5T7zmF49lqjnwtW8"
       },
@@ -2187,26 +2195,18 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Secrets (feat. Iggy Pop and Randy Blythe)",
-        "url": "https://open.spotify.com/album/6hgQD9yLIqccvdaMtbOiMk"
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/6bq18INP2zRlSt4lSpVHeE"
       },
       "artists": [
         {
-          "name": "ONI",
-          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        },
-        {
-          "name": "Randy Blythe",
-          "url": "https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB"
+          "name": "Hollow Front",
+          "url": "https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe"
         }
       ],
-      "duration_ms": 287475,
-      "name": "Secrets (feat. Iggy Pop and Randy Blythe)",
-      "url": "https://open.spotify.com/track/0IWO0eDIpFbKUZ8qWch8Y4"
+      "duration_ms": 270106,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/0MChNtMWR0NK9szOwxKC0u"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "Arcus",
+        "url": "https://open.spotify.com/album/5pVn4oUe0UzrcS1p2irbax"
+      },
+      "artists": [
+        {
+          "name": "Thessa",
+          "url": "https://open.spotify.com/artist/7AmcyOXvn35ZkuUWSIn8eu"
+        }
+      ],
+      "duration_ms": 283008,
+      "name": "Rigel",
+      "url": "https://open.spotify.com/track/2v94YzlQ7jNn2IHcGHw7L6"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/2KasnGDYJUuOPdcejZ1KNt"
       },
@@ -2307,22 +2323,6 @@
       "duration_ms": 216880,
       "name": "Divine",
       "url": "https://open.spotify.com/track/6gS9achslm44dxhxsIq574"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Arcus",
-        "url": "https://open.spotify.com/album/5pVn4oUe0UzrcS1p2irbax"
-      },
-      "artists": [
-        {
-          "name": "Thessa",
-          "url": "https://open.spotify.com/artist/7AmcyOXvn35ZkuUWSIn8eu"
-        }
-      ],
-      "duration_ms": 283008,
-      "name": "Rigel",
-      "url": "https://open.spotify.com/track/2v94YzlQ7jNn2IHcGHw7L6"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -2651,22 +2651,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/56Y1RzDhZwZof924rnCI2X"
-      },
-      "artists": [
-        {
-          "name": "Seventh Wonder",
-          "url": "https://open.spotify.com/artist/30nUQaYp91iDcRyhr1oNn0"
-        }
-      ],
-      "duration_ms": 282493,
-      "name": "Warriors",
-      "url": "https://open.spotify.com/track/5XhMWeK5yDNcXOMww3BdHH"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "The Violent Sound",
         "url": "https://open.spotify.com/album/6cF98YylF72OIcuAXAaOPA"
       },
@@ -2679,6 +2663,22 @@
       "duration_ms": 295263,
       "name": "The Violent Sound",
       "url": "https://open.spotify.com/track/4M4qmW8VwCgmmgj17xq62v"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/56Y1RzDhZwZof924rnCI2X"
+      },
+      "artists": [
+        {
+          "name": "Seventh Wonder",
+          "url": "https://open.spotify.com/artist/30nUQaYp91iDcRyhr1oNn0"
+        }
+      ],
+      "duration_ms": 282493,
+      "name": "Warriors",
+      "url": "https://open.spotify.com/track/5XhMWeK5yDNcXOMww3BdHH"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -2767,6 +2767,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/4hjXaFtOphEj4cPQHQNkvN"
+      },
+      "artists": [
+        {
+          "name": "Seventh Wonder",
+          "url": "https://open.spotify.com/artist/30nUQaYp91iDcRyhr1oNn0"
+        }
+      ],
+      "duration_ms": 379026,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5gPgYuWtSFOu1tyazRrKKK"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "Demeter",
         "url": "https://open.spotify.com/album/74KBiQFdncb3dTMJSvN9bp"
       },
@@ -2815,22 +2831,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/4hjXaFtOphEj4cPQHQNkvN"
-      },
-      "artists": [
-        {
-          "name": "Seventh Wonder",
-          "url": "https://open.spotify.com/artist/30nUQaYp91iDcRyhr1oNn0"
-        }
-      ],
-      "duration_ms": 379026,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5gPgYuWtSFOu1tyazRrKKK"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Pendulum",
         "url": "https://open.spotify.com/album/3atT3fDVkxsThexLnxNjfM"
       },
@@ -2843,22 +2843,6 @@
       "duration_ms": 232594,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/4HMh3kHGNPE9pSZwR0Jr1M"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Satellites (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Blind Lead the Blind (Single Edit) - Instrumental",
-      "url": "https://open.spotify.com/track/0us13tL2Pzfm3YO6W0CCMc"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -2879,6 +2863,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "Satellites (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Blind Lead the Blind (Single Edit) - Instrumental",
+      "url": "https://open.spotify.com/track/0us13tL2Pzfm3YO6W0CCMc"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "Cloudburst",
         "url": "https://open.spotify.com/album/0uTemOj24WSMxUs4R6Ab4x"
       },
@@ -2895,22 +2895,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Dead and Gone",
-        "url": "https://open.spotify.com/album/5OJSteJeFevGYUd1GfDb7W"
-      },
-      "artists": [
-        {
-          "name": "RVNT",
-          "url": "https://open.spotify.com/artist/22KUYijKLi9NjqQvslLNAK"
-        }
-      ],
-      "duration_ms": 177568,
-      "name": "Dead and Gone",
-      "url": "https://open.spotify.com/track/1u2WRDMqPg36u9T8Rt3uqo"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Amarna, Pt. 1",
         "url": "https://open.spotify.com/album/1LPdLI78lK9xttgvopL1P5"
       },
@@ -2923,6 +2907,22 @@
       "duration_ms": 259432,
       "name": "The Quartz Grave",
       "url": "https://open.spotify.com/track/6XHpv3Ll4amR9EwrMeYm50"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Dead and Gone",
+        "url": "https://open.spotify.com/album/5OJSteJeFevGYUd1GfDb7W"
+      },
+      "artists": [
+        {
+          "name": "RVNT",
+          "url": "https://open.spotify.com/artist/22KUYijKLi9NjqQvslLNAK"
+        }
+      ],
+      "duration_ms": 177568,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/1u2WRDMqPg36u9T8Rt3uqo"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -3027,22 +3027,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Skylla",
-        "url": "https://open.spotify.com/album/2mmTwMMc5IPDfAziKQoYwQ"
-      },
-      "artists": [
-        {
-          "name": "Confusing Paradise",
-          "url": "https://open.spotify.com/artist/0oGmw2T01mqZSJbFQcigp0"
-        }
-      ],
-      "duration_ms": 258214,
-      "name": "Skylla",
-      "url": "https://open.spotify.com/track/5rsJEHEMaEerw1uNH1FksB"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Scarred",
         "url": "https://open.spotify.com/album/1pv6XP8EoAgNWFxj9IRuCh"
       },
@@ -3059,18 +3043,18 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Lost Not Forgotten Archives: The Making of Falling Into Infinity (1997)",
-        "url": "https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX"
+        "name": "Skylla",
+        "url": "https://open.spotify.com/album/2mmTwMMc5IPDfAziKQoYwQ"
       },
       "artists": [
         {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+          "name": "Confusing Paradise",
+          "url": "https://open.spotify.com/artist/0oGmw2T01mqZSJbFQcigp0"
         }
       ],
-      "duration_ms": 104367,
-      "name": "Peruvian Skies (Basic Tracks)",
-      "url": "https://open.spotify.com/track/7lXJWraADeGngycPUcBngY"
+      "duration_ms": 258214,
+      "name": "Skylla",
+      "url": "https://open.spotify.com/track/5rsJEHEMaEerw1uNH1FksB"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -3123,6 +3107,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "Lost Not Forgotten Archives: The Making of Falling Into Infinity (1997)",
+        "url": "https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 104367,
+      "name": "Peruvian Skies (Basic Tracks)",
+      "url": "https://open.spotify.com/track/7lXJWraADeGngycPUcBngY"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "The Perpetual Dream",
         "url": "https://open.spotify.com/album/6fPm9g2DHRc1uC9eVEbgtb"
       },
@@ -3171,22 +3171,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Departure to the Front Lines (From \"Naruto\")",
-        "url": "https://open.spotify.com/album/01hJZ8jwF7xxCZLpc55Eis"
-      },
-      "artists": [
-        {
-          "name": "Gabriele Motta",
-          "url": "https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ"
-        }
-      ],
-      "duration_ms": 130735,
-      "name": "Departure to the Front Lines - From \"Naruto\"",
-      "url": "https://open.spotify.com/track/2amtzNnkwdG4fQimgmsLw4"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Towards The Sun",
         "url": "https://open.spotify.com/album/2ZNCXlSWQMQOGVeiybemmX"
       },
@@ -3219,22 +3203,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Phantom",
-        "url": "https://open.spotify.com/album/5ysXmRSsCy63K3R92aqu1P"
-      },
-      "artists": [
-        {
-          "name": "Rogue",
-          "url": "https://open.spotify.com/artist/0dOZLZTANQlLMsenyYc1O6"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "Jackal",
-      "url": "https://open.spotify.com/track/5jcMCQL05OcFszOrag5En1"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Different Kinds of Losses",
         "url": "https://open.spotify.com/album/0MvqWh7ClKxsWSndsSpEni"
       },
@@ -3247,6 +3215,38 @@
       "duration_ms": 364895,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/6suhC134iU9dsegUGIngx6"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Departure to the Front Lines (From \"Naruto\")",
+        "url": "https://open.spotify.com/album/01hJZ8jwF7xxCZLpc55Eis"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Motta",
+          "url": "https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ"
+        }
+      ],
+      "duration_ms": 130735,
+      "name": "Departure to the Front Lines - From \"Naruto\"",
+      "url": "https://open.spotify.com/track/2amtzNnkwdG4fQimgmsLw4"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/5ysXmRSsCy63K3R92aqu1P"
+      },
+      "artists": [
+        {
+          "name": "Rogue",
+          "url": "https://open.spotify.com/artist/0dOZLZTANQlLMsenyYc1O6"
+        }
+      ],
+      "duration_ms": 210967,
+      "name": "Jackal",
+      "url": "https://open.spotify.com/track/5jcMCQL05OcFszOrag5En1"
     },
     {
       "added_at": "2023-07-21 04:01:00",

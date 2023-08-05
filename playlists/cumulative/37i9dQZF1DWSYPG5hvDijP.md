@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-126 songs - 6 hr 52 min
+127 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Broken Dreams](https://open.spotify.com/track/5qoxoGIbLCLSMJXpxr5COw) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:17 | 2023-03-29 | 2023-04-17 |
 | [Bt Ho Gayi](https://open.spotify.com/track/1boqva32nCghdoWiKLm5rX) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:40 | 2023-03-29 | 2023-04-17 |
 | [Bura / Bhala](https://open.spotify.com/track/38RAyq4LnGYflc2W7hXuGa) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Akash Shravan](https://open.spotify.com/artist/4jFzbVrYw3ARhalxPjFfU0) | [Bura / Bhala](https://open.spotify.com/album/3Weyfjbzr8k74d0eBPH5dS) | 3:03 | 2023-03-29 | 2023-04-17 |
-| [Burey Din](https://open.spotify.com/track/6St0M4ePah3MzAmdgIi4Vf) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Burey Din](https://open.spotify.com/album/0w4hFThSG9OBgac9g50zgS) | 2:26 | 2023-04-01 |  |
+| [Burey Din](https://open.spotify.com/track/6St0M4ePah3MzAmdgIi4Vf) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Burey Din](https://open.spotify.com/album/0w4hFThSG9OBgac9g50zgS) | 2:26 | 2023-04-01 | 2023-08-05 |
 | [Cadillac](https://open.spotify.com/track/4xCFv3QBK1dgEaSBdv3oSQ) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [G\-Deep](https://open.spotify.com/artist/04TBxwAscXweXCGgYdQ3zE) | [Storm Shadow](https://open.spotify.com/album/2t7PoBOHJGERxRqaqBpX9B) | 3:29 | 2023-03-29 | 2023-04-17 |
 | [Chhod Dala](https://open.spotify.com/track/5jv5MBWejIF8DX9huv5tKv) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Chhod Dala](https://open.spotify.com/album/4so9xrFmNkNW58CfxtjkbT) | 3:56 | 2023-04-24 |  |
 | [Choke Slam](https://open.spotify.com/track/49ci49d2SaiwpcvZVMfbnM) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Apocalypse](https://open.spotify.com/album/5s9DfBDESB5DWNXPbQBKwB) | 2:15 | 2023-04-24 | 2023-06-02 |
@@ -56,6 +56,7 @@
 | [Flex Kar](https://open.spotify.com/track/6Xt4fng2W4XDW2CWzGa0Nn) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:41 | 2023-03-29 | 2023-04-17 |
 | [Freestyle](https://open.spotify.com/track/2lgj77f4BMnqYVTKvfvbPm) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV) | [Freestyle](https://open.spotify.com/album/7cR3BLC3bVzXHYGUtXFhJn) | 2:07 | 2023-06-19 |  |
 | [FUKA SARI RAAT](https://open.spotify.com/track/1zGYGFRRFQdgTPE6aCzIqQ) | [Thoratt](https://open.spotify.com/artist/7tzOyhYENH5JN2loiiUhvW), [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V), [MEMAX](https://open.spotify.com/artist/244S5iHPahvRSus18nJVxu) | [FUKA SARI RAAT](https://open.spotify.com/album/4obb7ExNOKh59K8JQ3pOy8) | 4:21 | 2023-03-29 |  |
+| [Gang](https://open.spotify.com/track/7t7osq9vb9bQG5iN5J9WHx) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Stunnah Beatz](https://open.spotify.com/artist/0qtrkagnaYxnByLorZ1dzl) | [Gang](https://open.spotify.com/album/5Gn8zttLWDIDP1sRjij8np) | 2:50 | 2023-08-04 |  |
 | [GANGNUM](https://open.spotify.com/track/5jjF4AbQaA7mTZyGjK5aLo) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:50 | 2023-03-29 | 2023-04-17 |
 | [GHAM](https://open.spotify.com/track/3k1WE3i06G4xQb7ZrOWF15) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [A$AD](https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL) | [GHAM](https://open.spotify.com/album/2ERqJtsLSUW44zqdAs4ixM) | 3:03 | 2023-04-04 | 2023-07-21 |
 | [Glacier Gang](https://open.spotify.com/track/4oPPeiS1itm0FKJxRzEG8m) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 2:13 | 2023-04-01 | 2023-06-02 |
@@ -74,7 +75,7 @@
 | [ICE](https://open.spotify.com/track/6gjarl3YlvQtnvGCZQ4IRK) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:48 | 2023-03-29 | 2023-04-17 |
 | [Industry Galat](https://open.spotify.com/track/6MaMlGQWYcgDgooYJVOmSq) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2) | [Industry Galat](https://open.spotify.com/album/4jM5gTMAaDkaFtgGyOcnmP) | 3:08 | 2023-03-29 |  |
 | [Iran](https://open.spotify.com/track/2sAvvxcPYW5qJmFWCTSoFv) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [God Is Watching Through Birds](https://open.spotify.com/album/0ZH2sDBTe5f6u2selUJX9P) | 2:35 | 2023-06-23 |  |
-| [It's Aight](https://open.spotify.com/track/0m6q4ExjPAlpICPMN0Mnd3) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Prophet Joegus](https://open.spotify.com/artist/5PsSnCWLBoL7bdXFk02Q2a) | [A Message from the Moon](https://open.spotify.com/album/4LpX3ETuKXYM2z29WySuP8) | 3:21 | 2023-06-01 |  |
+| [It's Aight](https://open.spotify.com/track/0m6q4ExjPAlpICPMN0Mnd3) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Prophet Joegus](https://open.spotify.com/artist/5PsSnCWLBoL7bdXFk02Q2a) | [A Message from the Moon](https://open.spotify.com/album/4LpX3ETuKXYM2z29WySuP8) | 3:21 | 2023-06-01 | 2023-08-05 |
 | [Jhoot](https://open.spotify.com/track/74hAMFrOY3TwKRa25QoWAB) | [Void](https://open.spotify.com/artist/3rPEiLwMVfd4Vg3BlRbuJK), [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr), [Exult Yowl](https://open.spotify.com/artist/6szIEcaQzaFdMn8e1UQzwU) | [Lonely December](https://open.spotify.com/album/6XxG32SXPyQLwhYeH1KKZf) | 3:51 | 2023-03-29 | 2023-04-17 |
 | [Judgement](https://open.spotify.com/track/4XoECpd0nkk9OSLUIEOi1i) | [Gopi Longia](https://open.spotify.com/artist/11xVQwDq4SMw5791vgJNRE) | [Judgement](https://open.spotify.com/album/3e1XAJm7FEvTMaaJ5SiksX) | 5:14 | 2023-03-29 | 2023-04-25 |
 | [Kaha Tak](https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:33 | 2023-03-29 |  |

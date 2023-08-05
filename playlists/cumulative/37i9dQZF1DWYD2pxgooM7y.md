@@ -4,7 +4,7 @@
 
 > Summertime sadness everyday
 
-428 songs - 23 hr 49 min
+429 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [i think i wanna text u](https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [vaultboy EP](https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L) | 3:16 | 2022-01-19 | 2022-07-29 |
 | [I Want My Bubble Tea](https://open.spotify.com/track/4dBQ4jy7RTR5fKS2a1h5me) | [The Ann & Ben Show](https://open.spotify.com/artist/3bFPiEQGWfoQ3qVmlldINL), [Annette Lee](https://open.spotify.com/artist/7DOJeU8k34aMTZl014gcEC), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [I Want My Bubble Tea](https://open.spotify.com/album/7cQMDSy9eP8bfX3LfDdZCJ) | 3:24 | 2021-10-14 | 2022-05-29 |
 | [Illusion](https://open.spotify.com/track/72DF0SmTCpsSOgcn76sW5W) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [What We Call Life](https://open.spotify.com/album/6Ifae2tRjg49lTQ9390iOD) | 3:14 | 2022-04-01 | 2022-04-17 |
+| [In My Feelings](https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:37 | 2022-09-15 |  |
 | [In My Feelings](https://open.spotify.com/track/0bAkKNCQfWkexHFn7fIKns) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/2o9McLtDM7mbODV7yZF2mc) | 3:37 | 2022-04-01 | 2022-04-16 |
 | [In the Air Tonight](https://open.spotify.com/track/5PJ7hsxWicywZjmZhD7rRs) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Covers, Vol\. 1](https://open.spotify.com/album/6L2xypqDhRk8gI33dTWJIE) | 2:53 | 2022-04-01 | 2022-04-20 |
 | [INFERNO](https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [INFERNO](https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab) | 2:13 | 2021-10-14 | 2022-07-25 |
@@ -227,7 +228,7 @@
 | [Love Back](https://open.spotify.com/track/7weX6syqklVQocpVVmDNwI) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Love Back](https://open.spotify.com/album/4WVPdkba5QybMBD8szrRwB) | 3:05 | 2021-10-14 | 2022-07-29 |
 | [Love In The Air](https://open.spotify.com/track/3zA9tWUFQNvSh5jsm0UW6l) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND Summer Mini Album 'Sunny Summer'](https://open.spotify.com/album/65HAyK45TFC2MJSufJwzji) | 3:40 | 2022-04-01 | 2022-04-12 |
 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 | 2021-10-14 | 2022-07-29 |
-| [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-10-14 |  |
+| [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-10-14 | 2023-08-05 |
 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:20 | 2022-04-01 |  |
 | [More Than Friends](https://open.spotify.com/track/2kr5nyCU90SbIs7Wy0SHwn) | [Airliftz](https://open.spotify.com/artist/4O2Gfcx2x2dIrFdFrrf0PY), [Marcc](https://open.spotify.com/artist/52aeB3zlE24eRbNgyx2cLX) | [More Than Friends](https://open.spotify.com/album/2X2jGvSFDibeyrJP7Jrkpm) | 2:56 | 2021-10-14 | 2022-07-02 |
 | [Morning Light](https://open.spotify.com/track/5xfwbfvRCaMstC6DsZk2h9) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Morning Light](https://open.spotify.com/album/3dEtQs6f7Yho6aDn1LYNyV) | 3:27 | 2021-10-14 | 2022-07-28 |

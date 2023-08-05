@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Adolescent's Orquestra
 
-237 songs - 17 hr 54 min
+238 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [El Breve Espacio En Que No Está \- 80 Aniversario](https://open.spotify.com/track/1zfxsKycKs9Fgk9xJy57bR) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Breve Espacio En Que No Está \(80 Aniversario\)](https://open.spotify.com/album/08H66qqmYkvqLMbBT8Tj3V) | 4:45 | 2023-05-19 | 2023-06-12 |
 | [El Callejón](https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI) | [Jorge Carmona](https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX), [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2) | [El Callejón](https://open.spotify.com/album/0UwpMqSIC8OLScazUEkLaW) | 4:16 | 2023-07-21 |  |
 | [El Combo del Mundo](https://open.spotify.com/track/7papz71lGIeD4yHPraTfD7) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [El Combo del Mundo](https://open.spotify.com/album/0cZr0vIcUNsPWDnRKhf2s5) | 4:19 | 2022-01-01 | 2022-07-27 |
-| [El Dinero](https://open.spotify.com/track/0CEcTqeL5BC0V7gzmwytn3) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [From Miami a La Habana](https://open.spotify.com/album/1tNsdZEoSb3YrilndEMSmn) | 4:23 | 2022-05-20 |  |
+| [El Dinero](https://open.spotify.com/track/0CEcTqeL5BC0V7gzmwytn3) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [From Miami a La Habana](https://open.spotify.com/album/1tNsdZEoSb3YrilndEMSmn) | 4:23 | 2022-05-20 | 2023-08-05 |
 | [El Dinero](https://open.spotify.com/track/0hUFHcJHCPsvq9F2ClNKxt) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [From Miami a La Habana](https://open.spotify.com/album/2xqB7zwRnJHhV4A0Sw5yMi) | 4:23 | 2022-05-20 | 2022-07-03 |
 | [El Dolor del Amor](https://open.spotify.com/track/3gk0FtOab0jeNSGKqVUYCH) | [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa), [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [El Dolor del Amor](https://open.spotify.com/album/3VaVRs5KYljDjd2FoAtv6e) | 4:42 | 2022-01-21 | 2022-02-09 |
 | [El Gran Varon](https://open.spotify.com/track/1N3G6QQfF0579fHoFQmMzi) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/7LXE7sKQkfDtOJJX3bFwdm) | 6:54 | 2022-01-01 | 2022-07-29 |
@@ -208,6 +208,7 @@
 | [Te Voy a Hacer Feliz](https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [De Costa a Costa](https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN) | 5:09 | 2022-05-20 |  |
 | [Tengo Ganas](https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Historia De Un Sonero](https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4) | 4:26 | 2022-01-01 |  |
 | [Tengo Que Colgar](https://open.spotify.com/track/6W9gmfyZ94oeAaBK3IjAqx) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [Hot Salsa 2017 \[19 Salsa Latin Hits \(Salsa Romántica, Urbana, para Bailar\)\]](https://open.spotify.com/album/4UfiwSxgoLBp2FDEZjHCve) | 3:40 | 2022-01-01 | 2022-07-22 |
+| [The Reason \- Latin Version](https://open.spotify.com/track/1ON345iq5mxx518u3U4pyn) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Metamorfosis](https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6) | 3:11 | 2023-08-04 |  |
 | [Todavía](https://open.spotify.com/track/4e8sb5gR73rQVgdARJ59Dm) | [Nacho Acero](https://open.spotify.com/artist/2y3xMb1SrZezuoNZ5LTrxR) | [Todavía](https://open.spotify.com/album/7lYHc37Okae8cZn20LaBlc) | 4:18 | 2022-01-21 | 2022-04-22 |
 | [Todavía Te Espero](https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Todavía Te Espero](https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3) | 3:12 | 2022-04-29 |  |
 | [Trancao'](https://open.spotify.com/track/3FihPkBwuowuSxyfiGFwhI) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Trancao'](https://open.spotify.com/album/1cZfXzRZQtT2tQTAZP9Uw2) | 3:54 | 2022-01-01 | 2022-07-26 |

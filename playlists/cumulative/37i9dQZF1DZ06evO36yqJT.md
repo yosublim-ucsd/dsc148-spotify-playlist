@@ -4,11 +4,12 @@
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-57 songs - 4 hr 21 min
+58 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [911 \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/4wBRXLzV3rKXm1CWqrY8nv) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth of Kirk Franklin \(Live at Lakewood Church, Houston, TX \- June 16, 2000\)](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 4:41 | 2023-05-12 |  |
+| [911 \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/4wBRXLzV3rKXm1CWqrY8nv) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth of Kirk Franklin \(Live at Lakewood Church, Houston, TX \- June 16, 2000\)](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 4:41 | 2023-05-12 | 2023-08-05 |
+| [911 \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/4z3IFdq3JshRr3NIeWCiJk) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 4:41 | 2023-08-04 |  |
 | [All of the Glory \- Radio Edit](https://open.spotify.com/track/3vT51y9jySDGf4xGKx6XHE) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [All of the Glory \(Radio Edit\)](https://open.spotify.com/album/3IgDiA4bnDEceIX5QdFXra) | 3:56 | 2023-05-13 |  |
 | [Amazing Grace](https://open.spotify.com/track/5c993xB4UZFWaTZ8mTBWLl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 4:12 | 2023-05-12 |  |
 | [Another Days Journey](https://open.spotify.com/track/3fyzeuKbcxC2iBST96BD59) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 3:06 | 2023-05-30 | 2023-06-03 |

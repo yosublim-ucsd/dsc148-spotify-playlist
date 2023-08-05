@@ -2,9 +2,9 @@
 
 ### [el under](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> Nuevo rock alternativo argentino\. <br/>📷 Marina Fages
+> Nuevo rock alternativo argentino\. <br/>📷 Mujer Cebra
 
-165 songs - 9 hr 22 min
+166 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Amarnos](https://open.spotify.com/track/6JMeRwLmGHjdelPQYF55mN) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Amarnos](https://open.spotify.com/album/5j7KJx5cEJAelHynrW7L0z) | 3:25 | 2023-03-31 | 2023-04-07 |
 | [Anita](https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Anita](https://open.spotify.com/album/0zKPQqcqkPWWdNwcE6ZCVy) | 2:51 | 2023-05-19 |  |
 | [Antes de que Olvide](https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:53 | 2023-05-26 |  |
+| [AVE MARÍA](https://open.spotify.com/track/5d7RuDDWI7TcCNWJMsaUqN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [LA SANTÍSIMA TRINIDAD](https://open.spotify.com/album/42YySIet0Gr5dtERZBsFt0) | 1:58 | 2023-08-04 |  |
 | [Baldío](https://open.spotify.com/track/4F2YFSAvXUBeJpCVGn8meh) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl) | [Baldío](https://open.spotify.com/album/2zoYwEvAMNb9SrEh9zMs6M) | 4:34 | 2023-03-23 |  |
 | [Batalla Naval](https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Batalla Naval](https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh) | 3:23 | 2023-03-23 |  |
 | [Baño de Sangre](https://open.spotify.com/track/1MjJ5ZFLo0qtZyeBPr7Nfj) | [Erich Larsson](https://open.spotify.com/artist/0iD5zEeQslF2KjFvLReU2l) | [Adorno](https://open.spotify.com/album/7JUOpq60jz3lRHQ7p7SROj) | 2:40 | 2022-03-25 | 2023-03-25 |
@@ -36,7 +37,7 @@
 | [Chinos Ojos Rojos](https://open.spotify.com/track/0C1Xz2aSk4jzCaJExG2Ijm) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/1QU6CvjNhR3S31mCnP5D4T) | 4:15 | 2023-06-30 |  |
 | [Chinos Ojos Rojos](https://open.spotify.com/track/3cb28GOgdp8DlKXTsGdQVy) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/6AloR8KVFPXviE8zR0BACr) | 4:15 | 2023-06-30 | 2023-07-04 |
 | [Cicuta](https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Cicuta](https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7) | 2:29 | 2022-03-25 | 2023-03-25 |
-| [ciudad de las luces](https://open.spotify.com/track/5vuHb4k2CXKmdyqAF2gpp5) | [montegrande](https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT) | [ciudad de las luces](https://open.spotify.com/album/5I86K6IwOWfxvHY8r25YTV) | 2:44 | 2023-05-19 |  |
+| [ciudad de las luces](https://open.spotify.com/track/5vuHb4k2CXKmdyqAF2gpp5) | [Ying Yaang's](https://open.spotify.com/artist/2OuDDouyhn0ab4Uu5Re6o5) | [ciudad de las luces](https://open.spotify.com/album/5I86K6IwOWfxvHY8r25YTV) | 2:44 | 2023-05-19 |  |
 | [Claromecó](https://open.spotify.com/track/1Sv6fjRxFq9Vx93D0FxPD5) | [Pulover](https://open.spotify.com/artist/3oiKILA5Jzvvg085NwhxId) | [Vapor Americano](https://open.spotify.com/album/0hSAgVRDqV2lz0njQgUjOj) | 2:19 | 2022-03-25 | 2023-03-25 |
 | [Close Talker](https://open.spotify.com/track/6X985dxEsIehhwnOoocLGB) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Suck This Tangerine](https://open.spotify.com/album/6JIUBuVVmxP23DasePvHDa) | 3:17 | 2022-03-25 | 2023-03-25 |
 | [Close Talker](https://open.spotify.com/track/6Xz6yDLA9s5U0odqQJyr1w) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Close Talker](https://open.spotify.com/album/7KNPZWmHzgoPK0dEs9Hpoy) | 3:17 | 2022-03-25 | 2023-02-08 |
@@ -89,7 +90,7 @@
 | [La Bruma](https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [La Bruma](https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp) | 2:53 | 2023-03-23 |  |
 | [La Flecha Envenenada](https://open.spotify.com/track/2ANlv74UURH4GHpOhTHdPI) | [Bubis Vayins](https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG) | [La Flecha Envenenada](https://open.spotify.com/album/5qwYpjPon7xKnmffXeInfx) | 4:08 | 2023-04-07 | 2023-05-13 |
 | [La Luz](https://open.spotify.com/track/3G1dfxviHmp2qnoVZKaEvb) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [La Luz](https://open.spotify.com/album/0iy5ocoHHTcPmUA9xML1Zq) | 2:35 | 2023-05-12 | 2023-06-05 |
-| [La Luz](https://open.spotify.com/track/6htVnNXldV7pX7hiyAdXwr) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Rompe Paga](https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB) | 2:35 | 2023-06-02 |  |
+| [La Luz](https://open.spotify.com/track/6htVnNXldV7pX7hiyAdXwr) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Rompe Paga](https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB) | 2:35 | 2023-06-02 | 2023-08-05 |
 | [La Otra Ciudad](https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:18 | 2022-03-25 | 2023-03-25 |
 | [La Otra Ciudad](https://open.spotify.com/track/4fycTqg8GHP5434ND7kKvq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/5QTe4ln96FBIbCgR0rSjdf) | 4:18 | 2022-03-25 | 2022-07-29 |
 | [Las Flores Violentas](https://open.spotify.com/track/1OMzTxGLi5eYtHIe36kGC5) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj) | [Las Flores Violentas](https://open.spotify.com/album/3Pwm5izC0NugLdgi5BLzIJ) | 3:12 | 2022-03-25 | 2023-03-25 |

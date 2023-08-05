@@ -4,7 +4,7 @@
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-101 songs - 5 hr 51 min
+103 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,11 +16,12 @@
 | [Argumento \(Spotify Singles\)](https://open.spotify.com/track/2BBFcUCDTas0y6vV3LZ3c0) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Argumento \(Spotify Singles\)](https://open.spotify.com/album/5IjrQ0JHuQlMo6YLruSAAG) | 3:23 | 2023-04-28 |  |
 | [As Rosas Não Falam](https://open.spotify.com/track/0MMe6HyOCDo6GYBZZCwkyt) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:54 | 2023-04-28 |  |
 | [Atraco](https://open.spotify.com/track/6iSEEpOeVU0VdXdpq8O6CM) | [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ), [Mari Tavares](https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR) | [Pagode Novo](https://open.spotify.com/album/0s8D5BFXXSI6sxJuszFphf) | 3:25 | 2023-04-28 |  |
+| [Até Depois do Fim](https://open.spotify.com/track/2r8pQbeeV4JBluUo1mlvoo) | [Cleverson Luiz](https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd) | [Até Depois do Fim](https://open.spotify.com/album/6NNBd6rbQFlqBbIReMBUHr) | 3:30 | 2023-08-04 |  |
 | [Balanço Zona Sul](https://open.spotify.com/track/3IcF9Ix8invTlg7kdsDfcv) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Baterista: Wilson Das Neves](https://open.spotify.com/album/7LC9GOB8XtVE5p2IVMi2oZ) | 2:14 | 2023-07-28 |  |
 | [Beijo Sem \- Ao Vivo](https://open.spotify.com/track/07JmyvYMNUs4WnZs1SYEuG) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Pedro Baby](https://open.spotify.com/artist/7pMsZBaVjKibhLkNM9r4p0) | [Melhor Assim](https://open.spotify.com/album/4DWkJyeCTzLFHRbZ4U4d4m) | 3:34 | 2023-04-28 |  |
 | [Cabide](https://open.spotify.com/track/6Uhnj8W9qflWLavYUfHkPJ) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Menino do Rio](https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO) | 2:33 | 2023-04-28 |  |
 | [Cara valente](https://open.spotify.com/track/0JmNkza8Oax92TF7lJV8GZ) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita \- Portugal](https://open.spotify.com/album/3uditAAn9mrSsl7ZW7a9ks) | 4:42 | 2023-04-28 |  |
-| [Carinhoso](https://open.spotify.com/track/5VLsvYg9dlDHXNwlX6r9QO) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW), [Pixinguinha](https://open.spotify.com/artist/0pMRwfwerzk1N0cUov351R) | [A Enluarada Elizeth](https://open.spotify.com/album/73tYzmMaMZRaowHFuhk3gm) | 2:34 | 2023-04-28 |  |
+| [Carinhoso](https://open.spotify.com/track/5VLsvYg9dlDHXNwlX6r9QO) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW), [Pixinguinha](https://open.spotify.com/artist/0pMRwfwerzk1N0cUov351R) | [A Enluarada Elizeth](https://open.spotify.com/album/73tYzmMaMZRaowHFuhk3gm) | 2:34 | 2023-04-28 | 2023-08-05 |
 | [Chega de Saudade](https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Beth](https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO) | 3:28 | 2023-04-28 |  |
 | [Coisa de Louco](https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Ninguém Proíbe o Amor](https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq) | 3:54 | 2023-04-28 |  |
 | [Com que roupa?](https://open.spotify.com/track/7FAJEzjsbMLnRiwTZiXcOg) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Quanta \(Deluxe Edition\)](https://open.spotify.com/album/5CKqspEMfjrXmtfkOgVJnH) | 4:06 | 2023-04-28 |  |
@@ -42,7 +43,7 @@
 | [Espiral de Ilusão](https://open.spotify.com/track/0uai6AmklcjcLR5gITivtI) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y) | 3:40 | 2023-04-28 |  |
 | [Eu Sambo Mesmo](https://open.spotify.com/track/5fIW9kqsEfbHjPEj8ualrF) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Braseiro](https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x) | 3:19 | 2023-04-28 |  |
 | [Eu Vim da Bahia](https://open.spotify.com/track/2rBViBV2IvjhQqPH6xExki) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV) | 3:06 | 2023-04-28 |  |
-| [Eu Vivo a Sorrir](https://open.spotify.com/track/4AugFl3WRWhFEhbOrQWdkC) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [O Micróbio do Samba \(Jewel Case Version\)](https://open.spotify.com/album/0ybpx0wxg13NQfJkDFVad4) | 4:40 | 2023-07-28 |  |
+| [Eu Vivo a Sorrir](https://open.spotify.com/track/4AugFl3WRWhFEhbOrQWdkC) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [O Micróbio do Samba \(Jewel Case Version\)](https://open.spotify.com/album/0ybpx0wxg13NQfJkDFVad4) | 4:40 | 2023-07-28 | 2023-08-05 |
 | [Exagero](https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Beba\-Me Ao Vivo](https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM) | 3:50 | 2023-07-28 |  |
 | [Expressão do Teu Olhar](https://open.spotify.com/track/1wnTbrv4oZNYAIEg1KXToa) | [Candeia](https://open.spotify.com/artist/3pXm8H2lDUNFkmQMiJbx6F) | [Quatro Grandes Do Samba](https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2) | 3:34 | 2023-04-28 |  |
 | [Figa De Guiné](https://open.spotify.com/track/1oekqvXHit1f8Rirv9uSH7) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Sol de Verão 2021](https://open.spotify.com/album/19nZbz3qRHOvixEPSMR3WH) | 2:19 | 2023-04-28 |  |
@@ -53,6 +54,7 @@
 | [Indício de Amor](https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL) | [Telê](https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1) | [Indício de Amor](https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn) | 3:28 | 2023-07-28 |  |
 | [Lenda das Sereias, Rainha do Mar \- Ao Vivo](https://open.spotify.com/track/1ymzRzXjkmIgI8K5LQHsfe) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Marisa Monte MM \(Ao Vivo\)](https://open.spotify.com/album/0ClnK9rwAeCZkW5Kda2dzv) | 4:10 | 2023-04-28 |  |
 | [LONGE LONGE DE MIM](https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [NEKTAR](https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg) | 3:26 | 2023-07-28 |  |
+| [Lua de São Jorge](https://open.spotify.com/track/0B5NMQDTeq7P6ti4CO9edA) | [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Xande Canta Caetano](https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV) | 3:01 | 2023-08-04 |  |
 | [Lá Vem Você](https://open.spotify.com/track/1NLv2AywCBibMUaGLKj5B4) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y) | 3:40 | 2023-04-28 |  |
 | [Macieira](https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX) | [Telê](https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1) | [Macieira](https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ) | 3:23 | 2023-07-28 |  |
 | [Malandro \- Ao Vivo](https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Carioca da Gema \(Ao Vivo\)](https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5) | 4:16 | 2023-07-28 |  |

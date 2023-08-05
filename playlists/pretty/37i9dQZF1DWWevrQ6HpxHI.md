@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 
 > Over 5 hours of classic heaters 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,273 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,516 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 | 99 | [Bullit](https://open.spotify.com/track/0HFmNBn8c5oHCkg8oEjEEA) | [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Bullit](https://open.spotify.com/album/5yIGnF3aTgLLVVtnG9b8Qw) | 3:15 |
 | 100 | [Where Are Ü Now \(with Justin Bieber\)](https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f) | [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Skrillex and Diplo present Jack Ü](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd) | 4:10 |
 
-Snapshot ID: `MCxmZDU0M2QzMzE0ZTA0ZTFiMGY0MzFhNGRhNDAzOGMzNjZlYzM4Nzc1`
+Snapshot ID: `MCw5MDdkNTA4NmQwYmIyOGM3NmU1ZGE5MzQxZjA1ZDFlN2UwMzU2YmVj`

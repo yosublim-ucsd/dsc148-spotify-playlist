@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Nic D & Connor Price
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,574 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,746 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 57 | [Carry On](https://open.spotify.com/track/0GEQmn1fPbeQOHVT6YDgFR) | [Jon Wiilde](https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT) | [Carry On](https://open.spotify.com/album/3emv6G7Uouh1i9TjWA15Ue) | 3:57 |
 | 58 | [tangled cables](https://open.spotify.com/track/6NUBZgZzZNag4j0v9Tt4qS) | [Supachefm](https://open.spotify.com/artist/4xwoyhYU2OMu6i79blLJR1), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [tangled cables](https://open.spotify.com/album/61RjORGnbFzvIOE1m7sCtC) | 3:19 |
 | 59 | [Just Be You](https://open.spotify.com/track/0baJ0dpMNqtQMKYYFpvtAY) | [callmestevieray](https://open.spotify.com/artist/2rwCl3cifvJKvL61qdXjML) | [Just Be You](https://open.spotify.com/album/5hiWu3iJHqGv1bNDaGwarc) | 3:06 |
-| 60 | [Fruits of My Labor](https://open.spotify.com/track/3nif7UigG93eWI29DHG8G4) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Before the Garden 5](https://open.spotify.com/album/2KNW2FurKlJh9gSt268xcx) | 3:18 |
+| 60 | [Fruits of My Labor](https://open.spotify.com/track/4D4oC9bZ2kNtxXZT8OiBK2) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Before the Garden 5](https://open.spotify.com/album/2MN6ut5SRkSkqYaCwTo9FA) | 3:12 |
 | 61 | [five year plan](https://open.spotify.com/track/7906VnRknBNK6Eb8ABcUgq) | [Ori Rose](https://open.spotify.com/artist/3MWVJObrsu2HA6XGO1sTdn) | [five year plan](https://open.spotify.com/album/4saAmbd9zLQIETX9UkkntL) | 2:27 |
 | 62 | [Reckless](https://open.spotify.com/track/3UJS9aEUbtYO8kMl1IK1r3) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Subluxe](https://open.spotify.com/album/2UvJlbWPpItxxSrlQGrXAt) | 3:57 |
 | 63 | [Eyes On You](https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 99 | [DITTO](https://open.spotify.com/track/3MrZcAFdNmtPVbob9QYvs4) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [BELIEVE IN ME, WHO BELIEVES IN YOU](https://open.spotify.com/album/1eLp5qe0nJkOb3rzqnbme0) | 2:30 |
 | 100 | [stupid i miss u](https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [stupid i miss u](https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA) | 2:20 |
 
-Snapshot ID: `MCxhYTMzOGJkZTVjOTk1NDFlZjliM2MzYzdiYTNiOTMwM2QzNTc0MDdi`
+Snapshot ID: `MCw0NjkzMzlmOWE2M2EyYTY1ZTJjY2ExZTM1NzdmYTZmZjY1ZDVkOTk1`

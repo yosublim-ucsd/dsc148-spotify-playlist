@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 
 > Our editors’ picks for the best of Hip\-Hop in Canada in 2022\. Cover: Drake \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,936 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,954 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 | 59 | [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:01 |
 | 60 | [Hard In The Paint](https://open.spotify.com/track/2WWxxvg8mD2L4vK0oRZaGw) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6) | [Hard In The Paint](https://open.spotify.com/album/2Z2HdCtaln12Dl9SUs6Dgq) | 1:48 |
 | 61 | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/track/7ACW7VpgoKmfM1sKo15UhX) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 4:39 |
-| 62 | [Vince Carter](https://open.spotify.com/track/7FcxQ0Vo80VLmj2bbI4PDu) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Vince Carter](https://open.spotify.com/album/27Ov0gmzsleAzK9hH2VEUm) | 3:29 |
+| 62 | [Vince Carter](https://open.spotify.com/track/2QiOWQ06XZHH1DADLoxL46) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Crazy Life of Sin](https://open.spotify.com/album/6yVI793K5iV8YvM1251KhV) | 3:29 |
 | 63 | [Das U](https://open.spotify.com/track/5d4T6L8Td6bL6iWKhNxe7g) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Das U](https://open.spotify.com/album/1gUvkLRrJ6Q80Va3fpdFVS) | 2:15 |
 | 64 | [Million Dollars Worth of Game \(feat\. 42 Dugg\)](https://open.spotify.com/track/6C0vyXq2uzFRTTLcE4whhl) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Dope Don't Sell Itself](https://open.spotify.com/album/5IGnGTSdX9jMvEMostmUfu) | 2:38 |
 | 65 | [Dwayne Carter Flow](https://open.spotify.com/track/5cPvON926WlX4q6PBD2oYM) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [All Time High](https://open.spotify.com/album/7t47lS4m3CZi7DMWF8r9JN) | 2:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 | 74 | [sophisticated](https://open.spotify.com/track/6p7Fm6TupbX3NU4fsJx5wG) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [sophisticated](https://open.spotify.com/album/1W9TZkECRCF5b1bYbdJxeS) | 2:59 |
 | 75 | [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 |
 
-Snapshot ID: `MCxiMTZjMmI1MmZkMjE4OTgzMDI0NzQzNjM5YjkwMWUwNzMyNzc3ZDA0`
+Snapshot ID: `MCxiMjQ3NzMwNGNiNGQxYTdmNDcwOWJlNDhkZDRiNDkzNWYxZmMzY2Mz`

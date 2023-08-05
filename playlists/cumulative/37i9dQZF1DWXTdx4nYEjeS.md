@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-965 songs - 2 day 10 hr 49 min
+966 songs - 2 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -729,6 +729,7 @@
 | [Quando Quando](https://open.spotify.com/track/6YLwfk0gctZoQAC39YXiAy) | [Daniel Maza](https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7), [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Quando Quando](https://open.spotify.com/album/1zXhMd6e6BB9zkm3SYdTa8) | 5:55 | 2022-03-24 | 2022-04-14 |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/0YhkCXDzIkVcv1ToW5BSbt) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Sole](https://open.spotify.com/album/5gPAkqdpxaPRc5ZvigqNok) | 3:13 | 2022-02-18 | 2022-04-18 |
 | [Que no y quemó](https://open.spotify.com/track/7DDubrKJQoblQZ4d2HHusk) | [La Skandalosa Tripulación](https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G), [Jaff](https://open.spotify.com/artist/1f7HGPEqtFLyYvQkUsqz6c) | [Que no y quemó](https://open.spotify.com/album/63o1jRlXK5dXLqktB6FSGR) | 3:45 | 2022-04-13 | 2022-04-20 |
+| [Que Pase la Ola](https://open.spotify.com/track/03wUlbs51Jf7DWmHFdBvU4) | [Edu Schmidt](https://open.spotify.com/artist/7kNLKJ3eUza4CwbzgNes9W) | [Coso](https://open.spotify.com/album/6zcQ5UfYjk4vhTjVWfiskb) | 2:04 | 2023-08-04 |  |
 | [Que Salga \(Sol y Luna\)](https://open.spotify.com/track/7Jq8Eowvbl5oDejxWVx3BR) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Que Salga \(Sol y Luna\)](https://open.spotify.com/album/6WrQKpD82yaHqAtqcUyITA) | 3:01 | 2022-03-28 | 2022-03-31 |
 | [Querida Amiga](https://open.spotify.com/track/4QOAWEwpQQLTh7lcjZPQ3k) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 2:14 | 2022-04-01 | 2022-04-08 |
 | [Quiero Conocerte](https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 2:00 | 2022-03-24 | 2022-04-01 |
@@ -924,7 +925,7 @@
 | [Vento Sardo](https://open.spotify.com/track/1NbWJcul8xK4AtYzTBLCnm) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Portas](https://open.spotify.com/album/3l2TdM4HyHoifHzpfzhvaT) | 4:15 | 2022-04-01 | 2022-04-21 |
 | [Vení Mirá](https://open.spotify.com/track/1eaVLscCKBbqFQWlJM4UVb) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Vivo en el Sillón](https://open.spotify.com/album/7iOslvqM5fW1vfARRkojrO) | 3:44 | 2022-04-01 | 2022-04-07 |
 | [Veredas Opuestas](https://open.spotify.com/track/0vMWJPVfHgXCHdEKZuWm2I) | [Cerro Dublín](https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7) | [Cerro Dublín](https://open.spotify.com/album/5rLCOjWrccuxzkmsPHYWyb) | 2:39 | 2022-04-01 | 2022-04-20 |
-| [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 | 2021-12-24 |  |
+| [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 | 2021-12-24 | 2023-08-05 |
 | [Verte Reír](https://open.spotify.com/track/6StWP4Tvs8Ci6QOCIDefYk) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 4:26 | 2022-01-07 | 2022-07-04 |
 | [Viaje](https://open.spotify.com/track/3BW824tqfWRLv9UC51wwkK) | [Ignacio Agulles](https://open.spotify.com/artist/5OGiIDhzkSxIfmnqVQPVJx) | [Habitar Tu Cosmos](https://open.spotify.com/album/6JVkhlRUkXy1Bpx4YHeSui) | 4:18 | 2022-03-24 | 2022-04-19 |
 | [VIAJERXS](https://open.spotify.com/track/5w9yYfOEV9Eo4ptiMzzuUq) | [Miranda Myndlis](https://open.spotify.com/artist/0PgWnms78CLlPRS1smSAnh) | [VIAJERXS](https://open.spotify.com/album/4STKa7im5mdCeAZqwlnk5s) | 3:46 | 2022-03-28 | 2022-04-19 |

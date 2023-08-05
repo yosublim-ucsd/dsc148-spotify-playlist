@@ -1,12 +1,12 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 139875,
+  "num_followers": 139931,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGQxOWI4MGYyN2U1YjExZGQ2NTA0NzA4YzA2ZWNhYzBiYWQ1ODFm",
+  "snapshot_id": "MCwzOGY4NTBjNDI1OTE2MzJmN2UzN2JiZTUzMGVlMmYzOWJkNTY2YmI3",
   "tracks": [
     {
       "added_at": "2022-10-27 05:38:58",
@@ -583,22 +583,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "My God Has a Telephone",
-        "url": "https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk"
+        "name": "Bathing Beach",
+        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
       "artists": [
         {
-          "name": "The Flying Stars Of Brooklyn NY",
-          "url": "https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
         }
       ],
-      "duration_ms": 175492,
-      "name": "My God Has A Telephone",
-      "url": "https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx"
+      "duration_ms": 273106,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -659,18 +655,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Bathing Beach",
-        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+        "name": "My God Has a Telephone",
+        "url": "https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk"
       },
       "artists": [
         {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+          "name": "The Flying Stars Of Brooklyn NY",
+          "url": "https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
       ],
-      "duration_ms": 273106,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
+      "duration_ms": 175492,
+      "name": "My God Has A Telephone",
+      "url": "https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "Everything Now",
         "url": "https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr"
       },
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "Minimum",
-      "url": "https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Landmark",
         "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 246480,
-      "name": "So Young",
-      "url": "https://open.spotify.com/track/4SNtyKNyYJ8ERT7YLlnFBr"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 324773,
       "name": "Smoke Signals",
       "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 246480,
+      "name": "So Young",
+      "url": "https://open.spotify.com/track/4SNtyKNyYJ8ERT7YLlnFBr"
     },
     {
       "added_at": "2022-10-27 05:38:58",

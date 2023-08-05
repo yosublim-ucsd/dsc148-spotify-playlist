@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-313 songs - 15 hr 33 min
+315 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Daydream](https://open.spotify.com/track/0RAubp6u1ePTYC6SgXoWcY) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [Daydream](https://open.spotify.com/album/6EkjU24XAGODFqayayfIIE) | 2:31 | 2023-04-06 | 2023-07-14 |
 | [Daydreaming](https://open.spotify.com/track/3YLOJL7XiGnWHK8bUySote) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Lucent](https://open.spotify.com/album/3VICx82chKr8SCGA4AsyRg) | 3:20 | 2023-04-06 |  |
 | [Deine Augen](https://open.spotify.com/track/7HU4jsNv2xqKQ1V18iHKhL) | [Celine Brandt](https://open.spotify.com/artist/7JshNZgXnBP253y6KE0aQR) | [Deine Augen](https://open.spotify.com/album/08PSdUzYoeDr2y8w534lp1) | 3:02 | 2023-04-06 |  |
+| [Demure](https://open.spotify.com/track/1uMNi0Sg9Sq0qrHS5kJWcy) | [Caleb Huber](https://open.spotify.com/artist/3gEu2oKuCuCY3HcbVLHlNW) | [Demure](https://open.spotify.com/album/48Uw5LB9ItbGl2poSXzq5q) | 2:02 | 2023-08-04 |  |
 | [Den Stunden](https://open.spotify.com/track/35LhUm0ea09JIDpsfETxms) | [Sanja Göransson](https://open.spotify.com/artist/1bMBJo82A2IeRahsh3JsQn) | [Den Stunden](https://open.spotify.com/album/0ZH9BfyjNXAzSSUPVtrINQ) | 3:44 | 2023-04-06 |  |
 | [Depth](https://open.spotify.com/track/01HoaDNqU6ZrXYj0GIDQjv) | [Conde Arona](https://open.spotify.com/artist/6hmmRGYolxHWDk3H2GeBUU) | [Depth](https://open.spotify.com/album/0BsO1Kfgqwjr1XZcVKJymI) | 2:56 | 2023-04-06 |  |
 | [Desear](https://open.spotify.com/track/4a20vranOH3ic2txQ463jc) | [Julia Alvarez](https://open.spotify.com/artist/1G10mtuBoefYi1F0aNfa6G) | [In Dreams](https://open.spotify.com/album/3dbqdpVgDrnCWuqHD2KRXm) | 3:07 | 2023-07-13 |  |
@@ -111,6 +112,7 @@
 | [Feathers](https://open.spotify.com/track/5zafrD1Ovmh2XiuoX3IuUa) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Feathers](https://open.spotify.com/album/68btKDvVJKuKLW9IiRuv6V) | 3:12 | 2023-04-06 |  |
 | [Feathers](https://open.spotify.com/track/5HZAPlw5Ff3ORJrPUdYJb9) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Feathers](https://open.spotify.com/album/2gkSH8Qh6khQjmlZpRxeUw) | 1:43 | 2023-04-06 | 2023-04-12 |
 | [Feathers](https://open.spotify.com/track/5xxYVFRpVThMwcYtFSfIkr) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Feathers](https://open.spotify.com/album/1t7Bu6Wutbjdp28mBbkSsc) | 1:43 | 2023-04-06 | 2023-07-29 |
+| [Feelstora](https://open.spotify.com/track/03XAiZp5HVuwqxafhc2LCC) | [Apech](https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf) | [Feelstora](https://open.spotify.com/album/7aHse6DPzmFYPAe4Om6MFW) | 3:26 | 2023-08-04 |  |
 | [Felidae](https://open.spotify.com/track/7H5oDBhgS4ZKeHGUgD0jpo) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [Felidae](https://open.spotify.com/album/4P3ktQbRMauYGxulDJd2ai) | 3:07 | 2023-04-06 |  |
 | [Feuilleter](https://open.spotify.com/track/3ns1BYQtxuSyxk6SlTU0d8) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Feuilleter](https://open.spotify.com/album/4ASoerHbEoOQBDYKoFO4CQ) | 2:50 | 2023-04-06 |  |
 | [Filaments In The Dark](https://open.spotify.com/track/6ydoT7msnxWSz7jhMxC539) | [Into A Dream](https://open.spotify.com/artist/4V3QwXoUMFmSF1aJ934nbS) | [The Silent Mind](https://open.spotify.com/album/40YwLU6A5En5HNNUk27z8H) | 3:21 | 2023-04-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Lori McKenna",
-  "num_followers": 190998,
+  "num_followers": 191068,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTA4OWJjZjFhYjRjMTE4YjdkNmQ1Nzk1NTRiNmJlZjk1YmQzM2Vl",
+  "snapshot_id": "MCw5N2RiNjdiOGEyMTBhYmFkYTRjNTgxNGZiMjk5ODhjYWVjZWY1YTdj",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 273693,
-      "name": "Do I Look Worried",
-      "url": "https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Car Wheels On A Gravel Road",
         "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 284560,
       "name": "Car Wheels On A Gravel Road",
       "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 273693,
+      "name": "Do I Look Worried",
+      "url": "https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Give the People What They Want",
-        "url": "https://open.spotify.com/album/3f8j4GaxidCnaDhlD72V0O"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Stranger to My Happiness",
-      "url": "https://open.spotify.com/track/1ajv5XuWMbe35X13ACtyv9"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Utah",
         "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 329880,
       "name": "California (Cast Iron Soul) - Cabin Mix",
       "url": "https://open.spotify.com/track/2uzX5gPLKBe29EZQ8qZrfm"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Give the People What They Want",
+        "url": "https://open.spotify.com/album/3f8j4GaxidCnaDhlD72V0O"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Stranger to My Happiness",
+      "url": "https://open.spotify.com/track/1ajv5XuWMbe35X13ACtyv9"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Folk Singer Vol. 1",
-        "url": "https://open.spotify.com/album/6OjyU4DWN0AIgLeSSV1rrq"
-      },
-      "artists": [
-        {
-          "name": "Willie Watson",
-          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
-        }
-      ],
-      "duration_ms": 215406,
-      "name": "Keep It Clean",
-      "url": "https://open.spotify.com/track/60M98E0CkJgJUApaHdgEaO"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Triage",
         "url": "https://open.spotify.com/album/0DiHlymiDZO7XeIFCC7iMY"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Folk Singer Vol. 1",
+        "url": "https://open.spotify.com/album/6OjyU4DWN0AIgLeSSV1rrq"
+      },
+      "artists": [
+        {
+          "name": "Willie Watson",
+          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
+        }
+      ],
+      "duration_ms": 215406,
+      "name": "Keep It Clean",
+      "url": "https://open.spotify.com/track/60M98E0CkJgJUApaHdgEaO"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Rifles and Rosary Beads",
         "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
@@ -1627,6 +1627,22 @@
       "duration_ms": 170480,
       "name": "Brothers",
       "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "The River & The Thread (Deluxe)",
+        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 160120,
+      "name": "Tell Heaven",
+      "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1663,58 +1679,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The River & The Thread (Deluxe)",
-        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
+        "name": "The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/56PXLjwRAZTqpZjM07FeR5"
       },
       "artists": [
         {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
         }
       ],
-      "duration_ms": 160120,
-      "name": "Tell Heaven",
-      "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Shine a Light: Field Recordings from the Great American Railroad",
-        "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
-      },
-      "artists": [
-        {
-          "name": "Billy Bragg",
-          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
-        },
-        {
-          "name": "Joe Henry",
-          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
-        }
-      ],
-      "duration_ms": 214949,
-      "name": "The Midnight Special",
-      "url": "https://open.spotify.com/track/0JIUcjcQTRTmxl0jIP9fHW"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "In My Soul",
-        "url": "https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk"
-      },
-      "artists": [
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        },
-        {
-          "name": "The Robert Cray Band",
-          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
-        }
-      ],
-      "duration_ms": 365440,
-      "name": "You're Everything",
-      "url": "https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6"
+      "duration_ms": 227826,
+      "name": "Night Still Comes",
+      "url": "https://open.spotify.com/track/0l5TOyEd5RswsWnqOaOX0X"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1739,18 +1715,42 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/56PXLjwRAZTqpZjM07FeR5"
+        "name": "In My Soul",
+        "url": "https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk"
       },
       "artists": [
         {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        },
+        {
+          "name": "The Robert Cray Band",
+          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
         }
       ],
-      "duration_ms": 227826,
-      "name": "Night Still Comes",
-      "url": "https://open.spotify.com/track/0l5TOyEd5RswsWnqOaOX0X"
+      "duration_ms": 365440,
+      "name": "You're Everything",
+      "url": "https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Shine a Light: Field Recordings from the Great American Railroad",
+        "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
+      },
+      "artists": [
+        {
+          "name": "Billy Bragg",
+          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
+        },
+        {
+          "name": "Joe Henry",
+          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
+        }
+      ],
+      "duration_ms": 214949,
+      "name": "The Midnight Special",
+      "url": "https://open.spotify.com/track/0JIUcjcQTRTmxl0jIP9fHW"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        },
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 149422,
-      "name": "I Have Met My Love Today - Recorded at RCA Studio a, Nashville",
-      "url": "https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Long in the Tooth",
         "url": "https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 186152,
       "name": "Hard to Be an Outlaw (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 149422,
+      "name": "I Have Met My Love Today - Recorded at RCA Studio a, Nashville",
+      "url": "https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2059,8 +2059,8 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Live At Budokan",
-        "url": "https://open.spotify.com/album/1rXXez3sVB1qPY8sOoR9yk"
+        "name": "God's Problem Child",
+        "url": "https://open.spotify.com/album/1wzKjL078JEEv3weMFOGa7"
       },
       "artists": [
         {
@@ -2068,9 +2068,9 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 224093,
-      "name": "Angel Flying Too Close to the Ground - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
-      "url": "https://open.spotify.com/track/4jyPhUEzdA1P9oIUOsWJ1z"
+      "duration_ms": 201960,
+      "name": "A Woman's Love",
+      "url": "https://open.spotify.com/track/4IkhRQizRckM60amLGAQhg"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The Lonely, The Lonesome & The Gone",
-        "url": "https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP"
-      },
-      "artists": [
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        }
-      ],
-      "duration_ms": 341293,
-      "name": "All The Trouble",
-      "url": "https://open.spotify.com/track/5X1yXxosU8i4nJIwDcvRFd"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Look Again to the Wind: Johnny Cash's Bitter Tears Revisited",
         "url": "https://open.spotify.com/album/3Fdn9X7bYegjL6UNzXZdCs"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 178706,
       "name": "Custer",
       "url": "https://open.spotify.com/track/68j5e8Xaucfb3WNbROEvc0"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "The Lonely, The Lonesome & The Gone",
+        "url": "https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "duration_ms": 341293,
+      "name": "All The Trouble",
+      "url": "https://open.spotify.com/track/5X1yXxosU8i4nJIwDcvRFd"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2211,8 +2211,8 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "God's Problem Child",
-        "url": "https://open.spotify.com/album/1wzKjL078JEEv3weMFOGa7"
+        "name": "Live At Budokan",
+        "url": "https://open.spotify.com/album/1rXXez3sVB1qPY8sOoR9yk"
       },
       "artists": [
         {
@@ -2220,9 +2220,9 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 201960,
-      "name": "A Woman's Love",
-      "url": "https://open.spotify.com/track/4IkhRQizRckM60amLGAQhg"
+      "duration_ms": 224093,
+      "name": "Angel Flying Too Close to the Ground - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
+      "url": "https://open.spotify.com/track/4jyPhUEzdA1P9oIUOsWJ1z"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2451,6 +2451,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Black Roses",
+        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
+      },
+      "artists": [
+        {
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "No Later than Soon",
+      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Dumplin' Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO"
       },
@@ -2487,22 +2503,6 @@
       "duration_ms": 150080,
       "name": "I'm Dying for Someone to Live For",
       "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Black Roses",
-        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
-      },
-      "artists": [
-        {
-          "name": "Jim Lauderdale",
-          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "No Later than Soon",
-      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2587,18 +2587,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Pure & Simple",
-        "url": "https://open.spotify.com/album/09xuqHRVpQp8AI5Pz9Oq9M"
+        "name": "Wynonna & The Big Noise",
+        "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        },
+        {
+          "name": "Derek Trucks",
+          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
         }
       ],
-      "duration_ms": 163040,
-      "name": "Pure and Simple",
-      "url": "https://open.spotify.com/track/7szyzZ3J9ortisMHATOXCp"
+      "duration_ms": 251826,
+      "name": "Keeps Me Alive",
+      "url": "https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2619,22 +2623,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Wynonna & The Big Noise",
-        "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
+        "name": "Pure & Simple",
+        "url": "https://open.spotify.com/album/09xuqHRVpQp8AI5Pz9Oq9M"
       },
       "artists": [
         {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        },
-        {
-          "name": "Derek Trucks",
-          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 251826,
-      "name": "Keeps Me Alive",
-      "url": "https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv"
+      "duration_ms": 163040,
+      "name": "Pure and Simple",
+      "url": "https://open.spotify.com/track/7szyzZ3J9ortisMHATOXCp"
     },
     {
       "added_at": "2023-07-21 04:00:00",

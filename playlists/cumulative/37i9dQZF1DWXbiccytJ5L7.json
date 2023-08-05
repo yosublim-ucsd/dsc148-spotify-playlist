@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "Crocodile Hunter",
+        "url": "https://open.spotify.com/album/2zVNTo9y6TcUqlCqnljvpe"
+      },
+      "artists": [
+        {
+          "name": "Bezz Believe",
+          "url": "https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138039,
+      "name": "Crocodile Hunter",
+      "url": "https://open.spotify.com/track/3DLobnxKerFxxuKCK5VAIG"
+    },
+    {
+      "album": {
         "name": "Diesel Gang",
         "url": "https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb"
       },

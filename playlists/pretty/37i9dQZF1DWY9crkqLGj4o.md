@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,159 likes - 70 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,360 likes - 70 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 16 | [Jó](https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 5:11 |
 | 17 | [Ressuscita\-me](https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 5:43 |
 | 18 | [Meu Barquinho](https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt) | [Giselli Cristina](https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B) | [Meu Barquinho](https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0) | 4:47 |
-| 19 | [Deus e Eu \- Ao Vivo](https://open.spotify.com/track/5ia3xk0HqOkLrUE2JJSbxP) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Leandro Borges ao Vivo: Parte 2](https://open.spotify.com/album/4ULGr8T3tW0EowY8zjwFHQ) | 4:03 |
-| 20 | [Deus é Deus](https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Nada Além da Graça](https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV) | 4:31 |
+| 19 | [Deus é Deus](https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Nada Além da Graça](https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV) | 4:31 |
+| 20 | [Deus e Eu \- Ao Vivo](https://open.spotify.com/track/5ia3xk0HqOkLrUE2JJSbxP) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Leandro Borges ao Vivo: Parte 2](https://open.spotify.com/album/4ULGr8T3tW0EowY8zjwFHQ) | 4:03 |
 | 21 | [Vitorioso És \- Ao Vivo](https://open.spotify.com/track/0wFSztnpnNA6dEL5tsOPZb) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Vitorioso És \(Ao Vivo\)](https://open.spotify.com/album/0PdIF199ZNM4lCTCtcNNv3) | 5:54 |
 | 22 | [Enche\-me \- Ao Vivo](https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Enche\-me \(Ao Vivo\)](https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk) | 7:30 |
 | 23 | [Acalma o Meu Coração](https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:21 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 69 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
 | 70 | [Alfa e Ômega](https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Alfa e Ômega](https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo) | 6:04 |
 
-Snapshot ID: `MCxhMGFhODI5OTc2YzM4NjliMThmNTg5NzdlNGM3NGY0NzE4ZGYxNTAx`
+Snapshot ID: `MCxjMjMwMThlZmJiNjc4YWQyNWYyNmI0YTM5NDBiNTg1YjZiOTA3NTYy`

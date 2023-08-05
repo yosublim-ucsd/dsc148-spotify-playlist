@@ -1,44 +1,28 @@
 {
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Tone Stith",
-  "num_followers": 2348435,
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Destin Conrad",
+  "num_followers": 2348709,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWZlNDVlNGI5MzBkNzA0MzY2MzFjZjhhY2NiYjA2MzIzYjMyN2Rk",
+  "snapshot_id": "MCw5YzIxZjg5YjE5NTUwNTI3ZTM2YWM2NDUyNDdlMzY0ZTJjNzdjNjQ0",
   "tracks": [
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Be My Summer",
-        "url": "https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C"
+        "name": "OUTTA CONTROL",
+        "url": "https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 186540,
-      "name": "Be My Summer",
-      "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
-    },
-    {
-      "added_at": "2023-06-30 04:00:44",
-      "album": {
-        "name": "Mad At Fire",
-        "url": "https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 231532,
-      "name": "Mad At Fire",
-      "url": "https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII"
+      "duration_ms": 207000,
+      "name": "OUTTA CONTROL",
+      "url": "https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3"
     },
     {
       "added_at": "2023-06-30 04:00:44",
@@ -73,28 +57,36 @@
       "url": "https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL"
     },
     {
-      "added_at": "2023-07-14 04:54:12",
+      "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Back To Love [Feat. SiR & Alex Isley]",
-        "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
+        "name": "Be My Summer",
+        "url": "https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C"
       },
       "artists": [
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 201773,
-      "name": "Back To Love [Feat. SiR & Alex Isley]",
-      "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
+      "duration_ms": 186540,
+      "name": "Be My Summer",
+      "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
+    },
+    {
+      "added_at": "2023-06-30 04:00:44",
+      "album": {
+        "name": "Mad At Fire",
+        "url": "https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 231532,
+      "name": "Mad At Fire",
+      "url": "https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -153,6 +145,26 @@
       "url": "https://open.spotify.com/track/4XISoF3yQFtnmzf7hI56Me"
     },
     {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "MUSTARD (WITH 6LACK)",
+        "url": "https://open.spotify.com/album/4alOM8XlyGXSsr3IIlshl8"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 201464,
+      "name": "MUSTARD (WITH 6LACK)",
+      "url": "https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX"
+    },
+    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "R e s e n t m e n t",
@@ -203,6 +215,74 @@
       "duration_ms": 238917,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Echoes (feat. Tony Duardo, Manana & Lusanda)",
+        "url": "https://open.spotify.com/album/6GPfETz7e4MYd3kU4CtLIK"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        },
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        },
+        {
+          "name": "Lusanda",
+          "url": "https://open.spotify.com/artist/7CSAqTFm0mlnIQOCtzi6NV"
+        }
+      ],
+      "duration_ms": 245041,
+      "name": "Echoes (feat. Tony Duardo, Manana & Lusanda)",
+      "url": "https://open.spotify.com/track/7msMFkuYQdBaJhiav2UrM1"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Keep Me In Love",
+        "url": "https://open.spotify.com/album/7ETOuFfahxfhuMlKPYbFPt"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "duration_ms": 156034,
+      "name": "Keep Me In Love",
+      "url": "https://open.spotify.com/track/7j8mf8Qrvmhjl8Yr13iFr7"
+    },
+    {
+      "added_at": "2023-07-14 04:54:12",
+      "album": {
+        "name": "Back To Love [Feat. SiR & Alex Isley]",
+        "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "Back To Love [Feat. SiR & Alex Isley]",
+      "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -347,6 +427,26 @@
       "duration_ms": 175495,
       "name": "Luv Songs (Unruly)",
       "url": "https://open.spotify.com/track/0puWG0IhM981IsC1hd2640"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Ready For It (feat. Eric Bellinger)",
+        "url": "https://open.spotify.com/album/42fWXOdXkh3M5872YHc9zS"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 147394,
+      "name": "Ready For It (feat. Eric Bellinger)",
+      "url": "https://open.spotify.com/track/3TZaeEmGv6HsdARIAwvdIs"
     },
     {
       "added_at": "2023-06-30 04:00:44",
@@ -593,6 +693,22 @@
       "url": "https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG"
     },
     {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "When It Comes To You",
+        "url": "https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 168075,
+      "name": "When It Comes To You",
+      "url": "https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm"
+    },
+    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "My Phone Can Die",
@@ -635,26 +751,6 @@
       "duration_ms": 171052,
       "name": "Can't Fake What You Feel",
       "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
-    },
-    {
-      "added_at": "2023-07-14 04:54:12",
-      "album": {
-        "name": "Marching Band (feat. Masego)",
-        "url": "https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt"
-      },
-      "artists": [
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 284386,
-      "name": "Marching Band (feat. Masego)",
-      "url": "https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1355,22 +1451,6 @@
       "duration_ms": 147096,
       "name": "Crash & Burn",
       "url": "https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "B4L",
-      "url": "https://open.spotify.com/track/5WsGpThlS3yoMHbSwHNmx1"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -2631,22 +2711,6 @@
       "duration_ms": 232340,
       "name": "Where's This Going?",
       "url": "https://open.spotify.com/track/4F9djVRlkypOycFnPbvFDX"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Euphonyus",
-        "url": "https://open.spotify.com/album/0MhLJ2lpLg30mIwHsC5Uo3"
-      },
-      "artists": [
-        {
-          "name": "Phony Ppl",
-          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
-        }
-      ],
-      "duration_ms": 250599,
-      "name": "been away.",
-      "url": "https://open.spotify.com/track/11iSQ6pus3eE5bzyU8491F"
     },
     {
       "added_at": "2022-11-25 05:00:00",

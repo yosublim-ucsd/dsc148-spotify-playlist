@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Top English songs from Asia\. Cover\- Taba Chake
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,230 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,254 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,18 +41,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 31 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
 | 32 | [Making Faces](https://open.spotify.com/track/6jen6M7ea0yuXA6C4x7zpd) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Making Faces](https://open.spotify.com/album/0Uv9TA5qhuzvBpYafclE4E) | 3:12 |
 | 33 | [Pause](https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Pause](https://open.spotify.com/album/3vKSAwLbfwXygEiGH1vpvs) | 2:51 |
-| 34 | [sushi song](https://open.spotify.com/track/5scUVb02Ea6aph7XAb2I7X) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [sushi song](https://open.spotify.com/album/1qByDrxTPVZoultbc0HNyp) | 2:34 |
-| 35 | [Stay with Me](https://open.spotify.com/track/1DK3RXk38erunCpFE68PQp) | [The Fur.​](https://open.spotify.com/artist/0neVDcSdi4GMgFduUudWve) | [Serene Reminder](https://open.spotify.com/album/2TB1J2Q397wIpztQvyH5D1) | 3:28 |
-| 36 | [BLOOM](https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [BLOOM](https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf) | 3:01 |
+| 34 | [Stay with Me](https://open.spotify.com/track/1DK3RXk38erunCpFE68PQp) | [The Fur.​](https://open.spotify.com/artist/0neVDcSdi4GMgFduUudWve) | [Serene Reminder](https://open.spotify.com/album/2TB1J2Q397wIpztQvyH5D1) | 3:28 |
+| 35 | [BLOOM](https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [BLOOM](https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf) | 3:01 |
+| 36 | [sushi song](https://open.spotify.com/track/5scUVb02Ea6aph7XAb2I7X) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [sushi song](https://open.spotify.com/album/1qByDrxTPVZoultbc0HNyp) | 2:34 |
 | 37 | [Find You](https://open.spotify.com/track/0fxrvyjyQ8Eht15dSh6wa5) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn) | [Deja Vu](https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC) | 4:44 |
 | 38 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 |
 | 39 | [Walk Away](https://open.spotify.com/track/1gY0QBMjHNX8z8b324VQI9) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Walk Away](https://open.spotify.com/album/0wBxQTwnPhw1HgGkaI4Op0) | 4:32 |
 | 40 | [Tangerine Dream](https://open.spotify.com/track/0l466Sdh5FNmn8kSYzSO0E) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Room247](https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD) | 3:49 |
-| 41 | [Caught Up](https://open.spotify.com/track/7nVOpausgMrJCk0DXZSTs0) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P) | [Caught Up](https://open.spotify.com/album/5cDE0asojLGw60slwj5BED) | 3:27 |
+| 41 | [so beautiful, with you](https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [so beautiful, with you](https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf) | 3:38 |
 | 42 | [TATTOO](https://open.spotify.com/track/1LAUJwiUaYOQnwx1u8Q8fQ) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [We Were So Young](https://open.spotify.com/album/6GYty2L58da7ERYD04QGLc) | 3:01 |
 | 43 | [Bloom \(feat\. Raveena\)](https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [The Way That Lovers Do \(Deluxe\)](https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N) | 3:41 |
-| 44 | [so beautiful, with you](https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [so beautiful, with you](https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf) | 3:38 |
-| 45 | [Cool Kids](https://open.spotify.com/track/4EARhoKrvwopHfqiEd4xSo) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/2nFDQjOYZqRB7THcM5eEqs) | 2:52 |
+| 44 | [Cool Kids](https://open.spotify.com/track/4EARhoKrvwopHfqiEd4xSo) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/2nFDQjOYZqRB7THcM5eEqs) | 2:52 |
+| 45 | [Caught Up](https://open.spotify.com/track/7nVOpausgMrJCk0DXZSTs0) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P) | [Caught Up](https://open.spotify.com/album/5cDE0asojLGw60slwj5BED) | 3:27 |
 | 46 | [Love Is Love](https://open.spotify.com/track/6WOsXP6xYpm6KI1oHGiFo0) | [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm), [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn) | [Mismatched: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 2:52 |
 | 47 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 |
 | 48 | [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 61 | [Castle In The Sky](https://open.spotify.com/track/7IXkNPrfMWjigapPfs1BoL) | [Niranjan Menon](https://open.spotify.com/artist/3U14e8ytLENdFrJLKArp7d), [Artemis Fall](https://open.spotify.com/artist/2MTUquJfZa080O7BQoDBgu), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Castle In The Sky](https://open.spotify.com/album/4JYNyfvDS7So6b0HmnAZ2i) | 4:48 |
 | 62 | [Spiced Lemonade](https://open.spotify.com/track/7AEZgaAQ0SnJQ5Odw5cBux) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Spiced Lemonade](https://open.spotify.com/album/2C1hH70PnKis3oD8Uaq8pR) | 3:18 |
 | 63 | [Foolish Once Again](https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Foolish Once Again](https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV) | 4:03 |
-| 64 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 |
-| 65 | [Ashes](https://open.spotify.com/track/23il79F7rw8gQmcCNYFQsD) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Ashes](https://open.spotify.com/album/2Zws1XUEWAueEOFJX4jHPA) | 4:04 |
+| 64 | [Ashes](https://open.spotify.com/track/23il79F7rw8gQmcCNYFQsD) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Ashes](https://open.spotify.com/album/2Zws1XUEWAueEOFJX4jHPA) | 4:04 |
+| 65 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 |
 | 66 | [Run Away Fade Away](https://open.spotify.com/track/30KmgCXlmMo7G02ddJpmzW) | [Ribhavv](https://open.spotify.com/artist/01nF5O4sTf8RDuec39ZPnp) | [Run Away Fade Away](https://open.spotify.com/album/5ITni3RafLU4NmygkabTYM) | 2:58 |
 | 67 | [Spare My Heart](https://open.spotify.com/track/5jjnLuRNoiLsk2Ew7of6rI) | [Imcha Imchen](https://open.spotify.com/artist/279G7M1MozdYogR2qrcMtA) | [Spare My Heart](https://open.spotify.com/album/4yF6GYnhCa6GZvLBujpp0D) | 2:43 |
 | 68 | [Dancing Cus It's Raining](https://open.spotify.com/track/7667IhlsYqSQnXf3PH8p6O) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 3:14 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 72 | [On My Own](https://open.spotify.com/track/12jHntVUvHSFiXiLW1eaVy) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [On My Own](https://open.spotify.com/album/3IpkOKy7xlKRyJ8TNZGOz0) | 2:36 |
 | 73 | [Have You Been Told](https://open.spotify.com/track/5Lz6NqjGEBDNsDDxnygkUJ) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [Have You Been Told](https://open.spotify.com/album/5pHcP8GHanM9jb6k9sDris) | 3:01 |
 | 74 | [Bad for Me](https://open.spotify.com/track/4h5YzicLLdtt8NSRU8cRmF) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Bad for Me](https://open.spotify.com/album/6I3uThRU2DxXUG7HlQJn2a) | 3:23 |
-| 75 | [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 |
+| 75 | [Vibe Killer](https://open.spotify.com/track/2jf4UKl4hCH13KqOSK3Lsr) | [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS) | [Digitalover](https://open.spotify.com/album/0noKqaCAONqoI6SxBE0xwK) | 2:42 |
 
-Snapshot ID: `MCxjZDliMzUyMjU1MGIyM2E4OGZmZDk1Nzc1NjljNDM5OTc4MWI1NTUy`
+Snapshot ID: `MCwyNGNkMDIzOTZhM2ZlYjc4YTc1Yzg3YmNkN2IzZDI4ZmE3Yzk4Y2Ji`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Adekunle Gold",
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Ciara",
   "name": "Channel-X",
   "tracks": [
     {
@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd"
+    },
+    {
+      "album": {
         "name": "Angles (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/1j97eqxFc3mF43hZ60NmnS"
       },
@@ -704,6 +722,28 @@
       "duration_ms": 197427,
       "name": "Bag Of You",
       "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
+    },
+    {
+      "album": {
+        "name": "Balance (feat. Skillibeng)",
+        "url": "https://open.spotify.com/album/75liolcLZGv2M5gobKgFWk"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203816,
+      "name": "Balance (feat. Skillibeng)",
+      "url": "https://open.spotify.com/track/6DWsAyAZdQe478O3vQyvmK"
     },
     {
       "album": {
@@ -2411,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Don't Say Love (R&B Version)",
+        "url": "https://open.spotify.com/album/0suvINTZqdzzV37L4XR3tS"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180131,
+      "name": "Don't Say Love - R&B Version",
+      "url": "https://open.spotify.com/track/01FKgn2t3o8adgrrfkN0HQ"
+    },
+    {
+      "album": {
         "name": "Dope",
         "url": "https://open.spotify.com/album/0dbPpCxqmGEw1wQ5SH7q9O"
       },
@@ -2542,6 +2600,36 @@
       "duration_ms": 154347,
       "name": "Drunk AF",
       "url": "https://open.spotify.com/track/4YMByiGyuFyc7nfwGKvDvA"
+    },
+    {
+      "album": {
+        "name": "Echoes (feat. Tony Duardo, Manana & Lusanda)",
+        "url": "https://open.spotify.com/album/6GPfETz7e4MYd3kU4CtLIK"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        },
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        },
+        {
+          "name": "Lusanda",
+          "url": "https://open.spotify.com/artist/7CSAqTFm0mlnIQOCtzi6NV"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245041,
+      "name": "Echoes (feat. Tony Duardo, Manana & Lusanda)",
+      "url": "https://open.spotify.com/track/7msMFkuYQdBaJhiav2UrM1"
     },
     {
       "album": {
@@ -3553,6 +3641,32 @@
     },
     {
       "album": {
+        "name": "Good Good",
+        "url": "https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247100,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
+    },
+    {
+      "album": {
         "name": "Gotta Move On (feat. Bryson Tiller)",
         "url": "https://open.spotify.com/album/0JZyDPMrhPEnsuJEbVymJJ"
       },
@@ -3598,6 +3712,24 @@
       "duration_ms": 214692,
       "name": "Gravity (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
+    },
+    {
+      "album": {
+        "name": "GRL GVNG",
+        "url": "https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188093,
+      "name": "GRL GVNG",
+      "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
     },
     {
       "album": {
@@ -3953,6 +4085,28 @@
     },
     {
       "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184914,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -4056,6 +4210,28 @@
       "duration_ms": 189740,
       "name": "How Soon",
       "url": "https://open.spotify.com/track/3GWvVMl4jh3Ix2xC3DpfWP"
+    },
+    {
+      "album": {
+        "name": "How We Roll",
+        "url": "https://open.spotify.com/album/6QK3O5sAs6NJ8n3h8UssuZ"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199512,
+      "name": "How We Roll",
+      "url": "https://open.spotify.com/track/7Fdhp8np9nZhsghO2VIPvJ"
     },
     {
       "album": {
@@ -5346,6 +5522,24 @@
       "duration_ms": 214153,
       "name": "Make U Go",
       "url": "https://open.spotify.com/track/5V6TcpbAtz5Q0HC0G6XJhF"
+    },
+    {
+      "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172892,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
     },
     {
       "album": {
@@ -8732,10 +8926,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 193797,
       "name": "Touchin\u2019",
       "url": "https://open.spotify.com/track/0EQbPoOAtAqlfzL30WLRA8"
+    },
+    {
+      "album": {
+        "name": "3 Words, 8 Letters",
+        "url": "https://open.spotify.com/album/5tFzkSSvccurLq2MFFQDvz"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193797,
+      "name": "Touchin\u2019",
+      "url": "https://open.spotify.com/track/5R9BiGgE7oNfIIKwbbuYgz"
     },
     {
       "album": {
@@ -8790,10 +9002,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 195394,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/0vnfEjGbBLa9uvzBuxWlaq"
+    },
+    {
+      "album": {
+        "name": "3 Words, 8 Letters",
+        "url": "https://open.spotify.com/album/3cwHtC44GniubdYWBVmHm0"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195394,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/6ClO1Nbpgac7ZP9hjprhdm"
     },
     {
       "album": {

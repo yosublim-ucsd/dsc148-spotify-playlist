@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,863 likes - 191 songs - 10 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,963 likes - 191 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 129 | [What If](https://open.spotify.com/track/6V2J1bvchhoi64ycvaxmDj) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:25 |
 | 130 | [WASTED ON ME](https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [WASTED ON ME](https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g) | 3:02 |
 | 131 | [Food for the Soul](https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Food for the Soul](https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw) | 3:30 |
-| 132 | [Danielle \(Smile on My Face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 |
+| 132 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 |
 | 133 | [Nothing Is Easy](https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Nothing Is Easy EP](https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW) | 3:11 |
 | 134 | [calling for you](https://open.spotify.com/track/0KLFyFkEaW9TQy23BTb9do) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [calling for you](https://open.spotify.com/album/3kIX1b8sDyu4Ter3BtXs9w) | 2:21 |
 | 135 | [Say It To Me](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Say It To Me](https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW) | 4:02 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 190 | [Liana](https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Sunblind](https://open.spotify.com/album/4EN8YMJK0uaD5yfkhg6aNS) | 4:24 |
 | 191 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 |
 
-Snapshot ID: `MCwyYjczMWE4NGVkOWU2MzdiNTZlNzZlM2M4MjhjMGZhMTA3ODBiYWVh`
+Snapshot ID: `MCxlNzMwZTEzM2M1N2RjOTgyOWExNWQ2YmVhMDk0NTdkN2Y5MmVlZTQ1`

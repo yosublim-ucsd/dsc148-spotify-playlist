@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the music of Bartok, Hungary's greatest composer.",
-  "num_followers": 17790,
+  "num_followers": 17796,
   "original_name": "This Is Bart\u00f3k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODU4NzVhYTQ3NTM4YWI1NzU3MzkzOWUyYjU5Y2Q1ZDIxYzg2NGFj",
+  "snapshot_id": "MCw3ZmI5OTg3MTE2YmNlMThmOWM4YjZmYmIzZmNiY2VmMjBlN2JiNmI2",
   "tracks": [
     {
       "added_at": "2022-07-01 04:02:00",
@@ -579,6 +579,30 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
+        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Belgian Radio and Television Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
+        },
+        {
+          "name": "Alexander Rahbari",
+          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
+        }
+      ],
+      "duration_ms": 453000,
+      "name": "Music for Strings, Percussion and Celesta, BB 114: III. Adagio",
+      "url": "https://open.spotify.com/track/6NEwZwRUI1gGoY2VtPQeeD"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Prokofiev & Bart\u00f3k: Piano Concertos",
         "url": "https://open.spotify.com/album/1iF9gU2gIbIvWZLUeAqILU"
       },
@@ -607,54 +631,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
-        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Belgian Radio and Television Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
-        },
-        {
-          "name": "Alexander Rahbari",
-          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
-        }
-      ],
-      "duration_ms": 604000,
-      "name": "Concerto for Orchestra, BB 123: V. Finale: Presto",
-      "url": "https://open.spotify.com/track/20vieBZvEjywy4WzTx4jvq"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
-        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Belgian Radio and Television Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
-        },
-        {
-          "name": "Alexander Rahbari",
-          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
-        }
-      ],
-      "duration_ms": 453000,
-      "name": "Music for Strings, Percussion and Celesta, BB 114: III. Adagio",
-      "url": "https://open.spotify.com/track/6NEwZwRUI1gGoY2VtPQeeD"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Ditta P\u00e1sztory-Bart\u00f3k plays Bart\u00f3k",
         "url": "https://open.spotify.com/album/1ITpLV3vxbpw4sM4UIrBsy"
       },
@@ -679,8 +655,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: Complete Works for Piano Solo, Vol. 2 \u2013 The Romantic Bart\u00f3k",
-        "url": "https://open.spotify.com/album/2NYDZNpORZUw9Jon6Z1TYH"
+        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
+        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
       },
       "artists": [
         {
@@ -688,13 +664,17 @@
           "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
         },
         {
-          "name": "Andreas Bach",
-          "url": "https://open.spotify.com/artist/3mie871VjIKR2EV34P1lhj"
+          "name": "Belgian Radio and Television Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
+        },
+        {
+          "name": "Alexander Rahbari",
+          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
         }
       ],
-      "duration_ms": 673800,
-      "name": "4 Piano Pieces, Sz. 22: No. 4. Scherzo",
-      "url": "https://open.spotify.com/track/0tlHSq6tvEB7ohg0aaL58d"
+      "duration_ms": 604000,
+      "name": "Concerto for Orchestra, BB 123: V. Finale: Presto",
+      "url": "https://open.spotify.com/track/20vieBZvEjywy4WzTx4jvq"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -719,6 +699,26 @@
       "duration_ms": 278280,
       "name": "Rhapsody No. 1, BB 94a: Prima Parte 'Lassu': Moderato",
       "url": "https://open.spotify.com/track/2GZVPfkqcQD5W0Xb3gNpG6"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bart\u00f3k: Complete Works for Piano Solo, Vol. 2 \u2013 The Romantic Bart\u00f3k",
+        "url": "https://open.spotify.com/album/2NYDZNpORZUw9Jon6Z1TYH"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Andreas Bach",
+          "url": "https://open.spotify.com/artist/3mie871VjIKR2EV34P1lhj"
+        }
+      ],
+      "duration_ms": 673800,
+      "name": "4 Piano Pieces, Sz. 22: No. 4. Scherzo",
+      "url": "https://open.spotify.com/track/0tlHSq6tvEB7ohg0aaL58d"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -819,30 +819,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
-        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Belgian Radio and Television Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
-        },
-        {
-          "name": "Alexander Rahbari",
-          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
-        }
-      ],
-      "duration_ms": 652000,
-      "name": "Concerto for Orchestra, BB 123: I. Introduzione: Andante non troppo - Allegro vivace",
-      "url": "https://open.spotify.com/track/7KnuT7nqwqj3JjgqZ4EFil"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bart\u00f3k: The Wooden Prince & Hungarian Pictues",
         "url": "https://open.spotify.com/album/2JaxfQRodVKk7ZBm0Dro3x"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 298826,
       "name": "The Wooden Prince, Op. 13, BB 74, Sz. 60: Opening - Orchestrated 1917",
       "url": "https://open.spotify.com/track/3jIDcvr0AhkwFd2GLDB4iB"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
+        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Belgian Radio and Television Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
+        },
+        {
+          "name": "Alexander Rahbari",
+          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
+        }
+      ],
+      "duration_ms": 652000,
+      "name": "Concerto for Orchestra, BB 123: I. Introduzione: Andante non troppo - Allegro vivace",
+      "url": "https://open.spotify.com/track/7KnuT7nqwqj3JjgqZ4EFil"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -967,30 +967,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bartok: Miraculous Mandarin (The) (Complete Ballet) / Hungarian Pictures / Dance Suite",
-        "url": "https://open.spotify.com/album/4b2Zzk0foPXsLJfsgH9Osk"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Bournemouth Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
-        },
-        {
-          "name": "Marin Alsop",
-          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Dance Suite, BB 86b: I. Moderato",
-      "url": "https://open.spotify.com/track/169brumljYWVi8tdxHBi21"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bart\u00f3k: Bluebeard's Castle, Op. 11, Sz. 48",
         "url": "https://open.spotify.com/album/36dGchtqt2hLKTS2oeNHPx"
       },
@@ -1019,6 +995,30 @@
       "duration_ms": 236706,
       "name": "Bluebeard's Castle, Op. 11, Sz. 48: Meg\u00e9rkezt\u00fcnk",
       "url": "https://open.spotify.com/track/2QctBFpr15dzz45dZtqgmk"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bartok: Miraculous Mandarin (The) (Complete Ballet) / Hungarian Pictures / Dance Suite",
+        "url": "https://open.spotify.com/album/4b2Zzk0foPXsLJfsgH9Osk"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Dance Suite, BB 86b: I. Moderato",
+      "url": "https://open.spotify.com/track/169brumljYWVi8tdxHBi21"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bart\u00f3k: Works for Violin and Piano, Vol. 2",
+        "url": "https://open.spotify.com/album/4MNzfvklS2GO6cCuG7OfPI"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "James Ehnes",
+          "url": "https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8"
+        }
+      ],
+      "duration_ms": 433626,
+      "name": "Sonata for Solo Violin, BB 124, Sz. 117: III. Melodia. Adagio",
+      "url": "https://open.spotify.com/track/4Vq0SIJFvdmHirrC9fv4Vb"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Bartok: Concertos",
         "url": "https://open.spotify.com/album/5wcok340bwuCkcVjriLZpo"
       },
@@ -1099,8 +1119,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: Works for Violin and Piano, Vol. 2",
-        "url": "https://open.spotify.com/album/4MNzfvklS2GO6cCuG7OfPI"
+        "name": "Bart\u00f3k: Mikrokosmos Selections",
+        "url": "https://open.spotify.com/album/6D2ejPr7Ovv7VJxuKUgx5t"
       },
       "artists": [
         {
@@ -1108,13 +1128,13 @@
           "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
         },
         {
-          "name": "James Ehnes",
-          "url": "https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8"
+          "name": "Georges Solchany",
+          "url": "https://open.spotify.com/artist/16U37rLAVgm1h8e0Q0pE0d"
         }
       ],
-      "duration_ms": 433626,
-      "name": "Sonata for Solo Violin, BB 124, Sz. 117: III. Melodia. Adagio",
-      "url": "https://open.spotify.com/track/4Vq0SIJFvdmHirrC9fv4Vb"
+      "duration_ms": 454880,
+      "name": "Bart\u00f3k: Mikrokosmos, Sz. 107, Book I: Nos. 1 - 23",
+      "url": "https://open.spotify.com/track/20KYbSayqXrYzGCTsGGlwi"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1143,8 +1163,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: Mikrokosmos Selections",
-        "url": "https://open.spotify.com/album/6D2ejPr7Ovv7VJxuKUgx5t"
+        "name": "Bart\u00f3k: Piano Works",
+        "url": "https://open.spotify.com/album/3LRCqap0DfYVNr4RH6ZWM6"
       },
       "artists": [
         {
@@ -1152,13 +1172,13 @@
           "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
         },
         {
-          "name": "Georges Solchany",
-          "url": "https://open.spotify.com/artist/16U37rLAVgm1h8e0Q0pE0d"
+          "name": "Alain Plan\u00e8s",
+          "url": "https://open.spotify.com/artist/2T5bM1nb5fZVw5Bm851HNh"
         }
       ],
-      "duration_ms": 454880,
-      "name": "Bart\u00f3k: Mikrokosmos, Sz. 107, Book I: Nos. 1 - 23",
-      "url": "https://open.spotify.com/track/20KYbSayqXrYzGCTsGGlwi"
+      "duration_ms": 257306,
+      "name": "Dance Suite, Sz 77: VI. Finale. Allegro",
+      "url": "https://open.spotify.com/track/74Jby8fyKAnjN3rAuiifwi"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1187,26 +1207,6 @@
       "duration_ms": 172133,
       "name": "A csodalatos mandarin (The Miraculous Mandarin), Op. 19, BB 82: The three tramps leap out, seize the Mandarin and tear him away from the girl",
       "url": "https://open.spotify.com/track/5V2TPmELr4IwCKPoWyhCMk"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bart\u00f3k: Piano Works",
-        "url": "https://open.spotify.com/album/3LRCqap0DfYVNr4RH6ZWM6"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Alain Plan\u00e8s",
-          "url": "https://open.spotify.com/artist/2T5bM1nb5fZVw5Bm851HNh"
-        }
-      ],
-      "duration_ms": 257306,
-      "name": "Dance Suite, Sz 77: VI. Finale. Allegro",
-      "url": "https://open.spotify.com/track/74Jby8fyKAnjN3rAuiifwi"
     },
     {
       "added_at": "2022-07-01 04:02:00",

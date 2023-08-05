@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 495871,
+  "num_followers": 496446,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTY2ZjBkNDk5OWM2MzEzZjhkNzA2MWIwZWM1NjRjYWM1M2NkOTk1",
+  "snapshot_id": "MCwxOTMwNDAwMjRkNjZhMTBlY2M2NmJjNTYxZDllZDhkY2U4ZDUyNWM4",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Dance Dance (feat. Alessandra)",
-        "url": "https://open.spotify.com/album/0ZG7ELXwpcPfZTZlbBW5TN"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/5g1AQDQ0LUBpgZBmmuH88c"
-        }
-      ],
-      "duration_ms": 151065,
-      "name": "Dance Dance (feat. Alessandra)",
-      "url": "https://open.spotify.com/track/2UzWIjVXtv8PLa5JRKPYSb"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Sick Boy",
         "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 180120,
       "name": "Hope",
       "url": "https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Dance Dance (feat. Alessandra)",
+        "url": "https://open.spotify.com/album/0ZG7ELXwpcPfZTZlbBW5TN"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/5g1AQDQ0LUBpgZBmmuH88c"
+        }
+      ],
+      "duration_ms": 151065,
+      "name": "Dance Dance (feat. Alessandra)",
+      "url": "https://open.spotify.com/track/2UzWIjVXtv8PLa5JRKPYSb"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Goodbye (feat. Lyse) [Radio Edit]",
-        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
-      },
-      "artists": [
-        {
-          "name": "Feder",
-          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
-        },
-        {
-          "name": "Lyse",
-          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
-        }
-      ],
-      "duration_ms": 201938,
-      "name": "Goodbye (feat. Lyse) - Radio Edit",
-      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "A Moment Apart",
         "url": "https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 236470,
       "name": "Line Of Sight",
       "url": "https://open.spotify.com/track/2WWfjbHALIb3e7FMcj9mr4"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Goodbye (feat. Lyse) [Radio Edit]",
+        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
+      },
+      "artists": [
+        {
+          "name": "Feder",
+          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
+        },
+        {
+          "name": "Lyse",
+          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "Goodbye (feat. Lyse) - Radio Edit",
+      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 187126,
-      "name": "Heatwave (feat. Akon)",
-      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 201680,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 187126,
+      "name": "Heatwave (feat. Akon)",
+      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Music Is My Best Friend",
+        "url": "https://open.spotify.com/album/6Y9pKRKhOZ3t1ILhEFDXuZ"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 166213,
+      "name": "Bad Ideas",
+      "url": "https://open.spotify.com/track/0uNU2DnGjyjzqeaK3z5rSi"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "This Mixtape is Fire.",
         "url": "https://open.spotify.com/album/5yscEifoZw3M3abIVCr8ed"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 178333,
       "name": "Coming Over (feat. James Hersey)",
       "url": "https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Music Is My Best Friend",
-        "url": "https://open.spotify.com/album/6Y9pKRKhOZ3t1ILhEFDXuZ"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 166213,
-      "name": "Bad Ideas",
-      "url": "https://open.spotify.com/track/0uNU2DnGjyjzqeaK3z5rSi"
     },
     {
       "added_at": "2023-07-14 04:00:00",

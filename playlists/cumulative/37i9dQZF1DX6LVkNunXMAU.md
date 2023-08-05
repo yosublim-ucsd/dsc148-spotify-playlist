@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Francisca Valenzuela & Ximena Sariñana.
 
-238 songs - 13 hr 1 min
+240 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Enero](https://open.spotify.com/track/1IUVBjVaK08NIpU0OjRZrF) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [atte\. Celli](https://open.spotify.com/album/3DupetZzSGjEyXBpZno7v3) | 3:08 | 2022-05-20 | 2023-04-15 |
 | [Entrar a la luna](https://open.spotify.com/track/1DJCk36SjR5rGighWlHjjX) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [La Santa Patrona de los Corazones Negros](https://open.spotify.com/album/2ajge8g0wBGDtctb0y59IR) | 2:51 | 2023-04-07 | 2023-06-24 |
 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 | 2023-05-26 |  |
+| [Eres](https://open.spotify.com/track/4HWZ7WUCJHXKwtvInX8Ofx) | [Karen Franjola](https://open.spotify.com/artist/3PH36TxbnnpSN9b51PJn5z), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Eres](https://open.spotify.com/album/2tU4jiKu6yWCq3fnzQyPwD) | 3:01 | 2023-08-04 |  |
 | [Es Tan Bonita](https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Es Tan Bonita](https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY) | 2:39 | 2023-04-14 | 2023-06-24 |
 | [febrero](https://open.spotify.com/track/04Iw1lILPMZ2Olx9uaxuS2) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [febrero](https://open.spotify.com/album/2IFtyFe4JwkDAeNskiNKbo) | 3:16 | 2023-06-23 |  |
 | [Foto](https://open.spotify.com/track/0XZw6eCsnkMNG7JLJ6LN9g) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm) | [Foto](https://open.spotify.com/album/7i5y1TOAfdGoj59JLwtliw) | 3:40 | 2023-06-16 | 2023-06-24 |
@@ -112,7 +113,7 @@
 | [Isla](https://open.spotify.com/track/3B32feO30ttYUIIFe0RD0l) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Isla](https://open.spotify.com/album/4vT2DYTDbxcsY6uHohDshb) | 3:42 | 2022-05-20 | 2023-04-15 |
 | [Jugando a los Sims](https://open.spotify.com/track/7ayopKtCQTOEDpRB5xpU6I) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Cómo decirte, mi amor](https://open.spotify.com/album/5iwpXxPIQS2wGBhUZpbwTY) | 2:39 | 2022-05-20 | 2023-04-15 |
 | [Kilómetros](https://open.spotify.com/track/6fAToGuBw5lPlWvzdzGyYx) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Kilómetros](https://open.spotify.com/album/4yitWO4wI8bRLSSIZ74E0L) | 3:32 | 2022-05-20 | 2023-04-15 |
-| [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-15 |  |
+| [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-15 | 2023-08-05 |
 | [La Fiesta](https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc) | [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM), [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [La Fiesta](https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J) | 3:12 | 2023-05-26 |  |
 | [La Guarida](https://open.spotify.com/track/38KbBBtuDmA6dga52LXz7i) | [Julian Mourin](https://open.spotify.com/artist/5jHALTUJMAFsdqdbxzXWEw) | [La Guarida](https://open.spotify.com/album/6M6ZD7z8NcEzYQdBKjbBVV) | 3:10 | 2022-11-11 | 2023-06-01 |
 | [La Luna](https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [La Luna](https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd) | 2:52 | 2022-07-15 | 2023-06-24 |
@@ -180,6 +181,7 @@
 | [perdido en la ciudad](https://open.spotify.com/track/3np1HLiIzBjFodBf13Irzu) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [perdido en la ciudad](https://open.spotify.com/album/2ImmCGnDWWuZX4EsD7hLp4) | 2:33 | 2023-05-19 | 2023-06-24 |
 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 | 2022-05-20 | 2023-04-15 |
 | [Plegarias](https://open.spotify.com/track/3i3rDwcISs2Vzy32zr1Yay) | [Elegía al Atardecer](https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7) | [Reflejos](https://open.spotify.com/album/0XoGRPzSCkLn7MOnJn1Ngy) | 3:56 | 2023-05-19 | 2023-06-24 |
+| [poco a poquito](https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [poco a poquito](https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b) | 2:48 | 2023-08-04 |  |
 | [Por el Bien de los Dos](https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 2:39 | 2023-06-23 |  |
 | [Porque](https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Quemarropa](https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9) | 3:00 | 2023-07-14 |  |
 | [Postre](https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Postre](https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK) | 3:00 | 2022-11-11 | 2023-04-15 |
@@ -224,7 +226,7 @@
 | [Un besito](https://open.spotify.com/track/3Mgj1UCxUVjQ7YpSNEh0f3) | [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn) | [Un besito](https://open.spotify.com/album/6a7Gm9RqJp1fNypiMAfL5y) | 2:58 | 2023-05-19 |  |
 | [Un Café](https://open.spotify.com/track/3b1Hvw1zcIKPMtO8hw2Cpc) | [Mila Magal](https://open.spotify.com/artist/6aVKvI8vXjzhp9FICkwRWV) | [Un Café](https://open.spotify.com/album/0WkFkZMYw79SJMLPzoL3AG) | 3:35 | 2022-05-20 | 2023-07-08 |
 | [Un Espejismo](https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Un Espejismo](https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis) | 3:34 | 2023-04-07 |  |
-| [Un Nuevo Ritmo](https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Un Nuevo Ritmo](https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2) | 3:33 | 2022-11-11 |  |
+| [Un Nuevo Ritmo](https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Un Nuevo Ritmo](https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2) | 3:33 | 2022-11-11 | 2023-08-05 |
 | [Un Poco Menos Idiota](https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Un Poco Menos Idiota](https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI) | 3:45 | 2022-05-20 | 2022-07-16 |
 | [Un X100To](https://open.spotify.com/track/2naMMO1A4AemGXF7GG37YY) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Un X100To](https://open.spotify.com/album/2G3ew7Ddh2Yrbi9W19fN7r) | 3:34 | 2023-06-23 |  |
 | [Un1Berso](https://open.spotify.com/track/3i6r5ngWgDrvjyt4SaelaG) | [Lorenzo](https://open.spotify.com/artist/1XwazivwhckyJVCfOZSKuX), [Calina Manyü](https://open.spotify.com/artist/2X0kv7hHOBMxnHBoqD4YXa) | [Un1Berso](https://open.spotify.com/album/5Oc993tbcauXPDE4a12xLl) | 3:38 | 2022-05-20 | 2023-07-08 |

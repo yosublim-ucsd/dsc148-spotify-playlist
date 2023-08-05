@@ -93,6 +93,32 @@
     },
     {
       "album": {
+        "name": "Admirin' You (feat. Preston Pablo)",
+        "url": "https://open.spotify.com/album/2rSFhbKldPsvtXI5IuseAF"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        },
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214750,
+      "name": "Admirin' You (feat. Preston Pablo)",
+      "url": "https://open.spotify.com/track/6NJ8Z5GDoHe47R6gGX6sLq"
+    },
+    {
+      "album": {
         "name": "Get Wet",
         "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
       },
@@ -654,6 +680,28 @@
       "duration_ms": 158389,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/6re2wfSQbSFqQDeTxImshl"
+    },
+    {
+      "album": {
+        "name": "Don't Look Down (feat. BANKS)",
+        "url": "https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205423,
+      "name": "Don't Look Down (feat. BANKS)",
+      "url": "https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu"
     },
     {
       "album": {
@@ -1473,6 +1521,28 @@
     },
     {
       "album": {
+        "name": "Jhalak",
+        "url": "https://open.spotify.com/album/48m2dHU0kszrZiNZwwlzcN"
+      },
+      "artists": [
+        {
+          "name": "F1rstman",
+          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+        },
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153521,
+      "name": "Jhalak",
+      "url": "https://open.spotify.com/track/4jySosSV8hElpCyfZ2mV6K"
+    },
+    {
+      "album": {
         "name": "Jhootha",
         "url": "https://open.spotify.com/album/6CfPxegjXJ540ABIQDT4Y5"
       },
@@ -1978,6 +2048,24 @@
       "duration_ms": 76595,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/03AbZgjtzQaHFmp4UveeyX"
+    },
+    {
+      "album": {
+        "name": "Mirchi Anthem",
+        "url": "https://open.spotify.com/album/78UwNMNUqcvuJ4Ji2RBM8m"
+      },
+      "artists": [
+        {
+          "name": "F1rstman",
+          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172950,
+      "name": "Mirchi Anthem",
+      "url": "https://open.spotify.com/track/7vJHyiAJMDZwUmbDWRsIKI"
     },
     {
       "album": {
@@ -3150,6 +3238,28 @@
       "duration_ms": 194558,
       "name": "Wanna Know",
       "url": "https://open.spotify.com/track/4hwVI0H2gbg9DHuq2t9eWu"
+    },
+    {
+      "album": {
+        "name": "Want It All (feat. Evalyn)",
+        "url": "https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Want It All (feat. Evalyn)",
+      "url": "https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c"
     },
     {
       "album": {

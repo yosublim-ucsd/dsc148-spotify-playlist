@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055,296 likes - 315 songs - 13 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,651 likes - 315 songs - 13 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -324,4 +324,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 314 | [Perfectly Flawed](https://open.spotify.com/track/6AdGVOupLKxDJTByA1Fs1j) | [Aiden Riedel](https://open.spotify.com/artist/77j4VlHhrvqU37GkYjwmp1) | [Perfectly Flawed](https://open.spotify.com/album/0K5ub7KMLtzFk4zM2nFiAp) | 2:47 |
 | 315 | [Amaryllis](https://open.spotify.com/track/2WaBWRReKqvbWBi2ATw5QE) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Amaryllis](https://open.spotify.com/album/63RlPJTM1SC2knHQtbspf2) | 2:21 |
 
-Snapshot ID: `MCxmNGUxZTFlNTA4YjM0MDdkNWQ3MWE0MjQwNzAyNDM1MjZjNWQ5NDlm`
+Snapshot ID: `MCw3ZTQwNGI2NmRkOGI5NTFkMDYzOTQzMzI4ODUzZjZkNjBjZDRmMjcw`

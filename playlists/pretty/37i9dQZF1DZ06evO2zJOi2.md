@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 
 > This is Morgan Wallen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,644 likes - 28 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,232 likes - 28 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 | 27 | [Turn You Down \(HARDY feat\. Morgan Wallen, Zakk Wylde\)](https://open.spotify.com/track/3X0773BLlMv6RMq0wkZZAk) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 2:34 |
 | 28 | [He Went To Jared \(HARDY feat\. Morgan Wallen\)](https://open.spotify.com/track/65IHmBagtQrYRcJd8a47zv) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 3:33 |
 
-Snapshot ID: `MjgxODQ1MTMsMDAwMDAwMDA1Y2RlZjMwYmY3NjU0ODk1NGIzNjI3YzI3ODE3OTM4Yg==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDA1OGE2MWQ3ZDhkOGQyNGVjZjhhZWQwZGUxYTk2N2E3Yw==`

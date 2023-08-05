@@ -4,7 +4,7 @@
 
 > Dembow dominicano to el día\. Foto: Chimbala
 
-390 songs - 21 hr 19 min
+391 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,8 @@
 | [Tecnobow \(feat\. Diplo\)](https://open.spotify.com/track/1roaN9AUTbYfiSDcpxdjr9) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Tecnobow \(feat\. Diplo\)](https://open.spotify.com/album/1NXHBXc274I6ssiCV4tAUJ) | 3:48 | 2021-12-10 | 2022-07-29 |
 | [Telacuti](https://open.spotify.com/track/2uqPGoloSaqglIsJ6J1NIQ) | [Lo Blanquito](https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp) | [Sin "S"](https://open.spotify.com/album/0PbaFcLAnfpzvkXeVEZZHu) | 3:07 | 2021-12-10 |  |
 | [Tembeleke](https://open.spotify.com/track/3xULsKQSIkr16oORbAnKxu) | [Crazy Design](https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV), [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk) | [Tembeleke](https://open.spotify.com/album/2im1MJ93yLX0OTE7LKBczH) | 3:16 | 2021-12-10 |  |
-| [Teteo \- Remix](https://open.spotify.com/track/6wB8FE4JA5UTaKEwZzY7It) | [El Fecho RD](https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e), [You R](https://open.spotify.com/artist/2HPjwOl5k2CHqjHyjtsdDe) | [Teteo \(Remix\)](https://open.spotify.com/album/4YC5fSphrnUQPkROV7phry) | 3:23 | 2023-05-26 |  |
+| [Teteo \- Remix](https://open.spotify.com/track/2HUfQvg3qXcaXyjvTpStXJ) | [El Fecho RD](https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e), [You R](https://open.spotify.com/artist/2HPjwOl5k2CHqjHyjtsdDe) | [Teteo \(remix\)](https://open.spotify.com/album/2ydFlxeWI7OZdNgbEMJDWE) | 3:23 | 2023-05-26 |  |
+| [Teteo \- Remix](https://open.spotify.com/track/6wB8FE4JA5UTaKEwZzY7It) | [El Fecho RD](https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e), [You R](https://open.spotify.com/artist/2HPjwOl5k2CHqjHyjtsdDe) | [Teteo \(Remix\)](https://open.spotify.com/album/4YC5fSphrnUQPkROV7phry) | 3:23 | 2023-05-26 | 2023-08-05 |
 | [Teto](https://open.spotify.com/track/7AUXNWnHbSTUFR1PvV2xtm) | [Mago Music](https://open.spotify.com/artist/27EohGwYb4NJtGAJFL7gRu), [Lcda](https://open.spotify.com/artist/0S3mW9SwKS69ObgzEynMvB) | [Teto](https://open.spotify.com/album/6mjKy4uoyKROF0m34H0ZPu) | 2:49 | 2022-01-04 | 2022-07-05 |
 | [Tiempo](https://open.spotify.com/track/4tElm6iIhqYyS1G1CNdD4G) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Tiempo](https://open.spotify.com/album/6Q600rdy08nCJuabWw7qeR) | 3:15 | 2021-12-10 | 2023-07-20 |
 | [Tirando Paquetico](https://open.spotify.com/track/0ooZuYAlfScKXknRfYHeTP) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Exitos del Dembow](https://open.spotify.com/album/58UaKpvZpeuefnHUhIrap0) | 3:29 | 2021-12-10 | 2022-07-25 |

@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 165873,
+  "num_followers": 166071,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjdkMWI5MmRhMTkyMTA3NjVlMDdiNzRmYzk2YzdjOTVhNWEzMmRi",
+  "snapshot_id": "MCw2ZmJjMGNmNmIyNjljMzc0MjE2NDcwOWIyOTIxYTQyZDIxYjE4M2Ey",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:21",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Only You Can Do It",
+        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
+      },
+      "artists": [
+        {
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+        }
+      ],
+      "duration_ms": 140347,
+      "name": "Only You Can Do It",
+      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Relying",
         "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 224030,
       "name": "Relying",
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Only You Can Do It",
-        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
-      },
-      "artists": [
-        {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
-        }
-      ],
-      "duration_ms": 140347,
-      "name": "Only You Can Do It",
-      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "How Far",
-        "url": "https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy"
+        "name": "Don't Ever Let Me Go",
+        "url": "https://open.spotify.com/album/1uUGt8Msil3gO0zLN8bi3H"
       },
       "artists": [
         {
-          "name": "Tasha Layton",
-          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
         }
       ],
-      "duration_ms": 157463,
-      "name": "Help Me Let Go",
-      "url": "https://open.spotify.com/track/1hbvXOQPUpodXhZ51ipfcZ"
+      "duration_ms": 174626,
+      "name": "Don't Ever Let Me Go",
+      "url": "https://open.spotify.com/track/435gxdlRxZktZoVE1AmH6Q"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Don't Ever Let Me Go",
-        "url": "https://open.spotify.com/album/1uUGt8Msil3gO0zLN8bi3H"
+        "name": "How Far",
+        "url": "https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy"
       },
       "artists": [
         {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
         }
       ],
-      "duration_ms": 174626,
-      "name": "Don't Ever Let Me Go",
-      "url": "https://open.spotify.com/track/435gxdlRxZktZoVE1AmH6Q"
+      "duration_ms": 157463,
+      "name": "Help Me Let Go",
+      "url": "https://open.spotify.com/track/1hbvXOQPUpodXhZ51ipfcZ"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Searching For",
-        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
-      },
-      "artists": [
-        {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
-        }
-      ],
-      "duration_ms": 255118,
-      "name": "Searching For",
-      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 213333,
       "name": "Jump",
       "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Searching For",
+        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "duration_ms": 255118,
+      "name": "Searching For",
+      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "I Will Follow You (Live)",
-        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
-      },
-      "artists": [
-        {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
-        }
-      ],
-      "duration_ms": 231123,
-      "name": "I Will Follow You - Live",
-      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Known, Seen, Loved",
         "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 188138,
       "name": "Known, Seen, Loved",
       "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "I Will Follow You (Live)",
+        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
+      },
+      "artists": [
+        {
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+        }
+      ],
+      "duration_ms": 231123,
+      "name": "I Will Follow You - Live",
+      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "whisper",
-        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
-      },
-      "artists": [
-        {
-          "name": "Sam Bowman",
-          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "whisper",
-      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Come and Be My Love",
         "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 162580,
       "name": "Come and Be My Love",
       "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "whisper",
+        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
+      },
+      "artists": [
+        {
+          "name": "Sam Bowman",
+          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "whisper",
+      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
     },
     {
       "added_at": "2023-02-07 17:43:21",

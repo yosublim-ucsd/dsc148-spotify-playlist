@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Martin Kartenjer
 
-121 songs - 6 hr 55 min
+123 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Koothu](https://open.spotify.com/track/6tP9H2YghB2KaNdWZwlVTp) | [Siennor](https://open.spotify.com/artist/7llcZ59fwsSv4nEx3mgu31) | [Agappor](https://open.spotify.com/album/6AV0XvOWE51QL7LozwDy2T) | 1:48 | 2023-04-28 |  |
 | [Lalala Cindrella](https://open.spotify.com/track/03tXg4jq1WCOvYLlb0GOq4) | [Chandar Karunakaran](https://open.spotify.com/artist/0n7QXUrwDAmArjWNgyrBmO), [Avinash Sivan](https://open.spotify.com/artist/5wCbzqnV8mRtQPNya06r1h) | [Enakkena Oru Ulagam](https://open.spotify.com/album/4MGM3Vn0QSI4VZUIVmqjiv) | 3:47 | 2023-03-21 | 2023-07-25 |
 | [Love Meter](https://open.spotify.com/track/6IGhRREqgIPISI2PYWWoMT) | [NIlan Ratnarajah](https://open.spotify.com/artist/71omujW4dIU5qSEcDJWGYF), [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB) | [Love Meter](https://open.spotify.com/album/2Wkg54aEEoT0aYJqzYXc4X) | 3:13 | 2023-03-21 | 2023-07-27 |
+| [Maarambari](https://open.spotify.com/track/4xPz0QQczOI5mllfIhamHP) | [Shanker](https://open.spotify.com/artist/1fblT0Y2Eq5zyTHBUJ29eM), [Tikx Kooda](https://open.spotify.com/artist/550h9wiTpYT12T8Zyihl69), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Maarambari](https://open.spotify.com/album/3av6K5LWeEqxsbeXHxjLxd) | 3:19 | 2023-08-04 |  |
 | [Malarum Vazhvey](https://open.spotify.com/track/1VM7VykzWXMDRbFgOl6BUH) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Malarum Vazhvey](https://open.spotify.com/album/3GJjZW1ty3XpsK1FuWoBTn) | 2:54 | 2023-03-21 | 2023-07-25 |
 | [Manidha](https://open.spotify.com/track/1KbhAS7n23D0C9ddIuCRoV) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Kalyani Nair](https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds), [Gana Balamurugan](https://open.spotify.com/artist/2tLTofyDbjGDLJ5yqiffic) | [Manidha](https://open.spotify.com/album/1QJmiNyPqkAEjLOn8c5WXB) | 3:48 | 2023-06-30 |  |
 | [Manjakizhange](https://open.spotify.com/track/5V8lgBdrbPb9Nt4fM2g4Kx) | [Adityan](https://open.spotify.com/artist/3oE6w5AkzIXRIR860NKYjc) | [Manjakizhange](https://open.spotify.com/album/4oV39FxFImDWG0xgyXnC9H) | 4:11 | 2023-07-31 |  |
@@ -120,6 +121,7 @@
 | [Theendum Dhooram \- Unplugged](https://open.spotify.com/track/0bp4VHhD7BmOaIDSAhRhSA) | [Ritchie Godson Paul](https://open.spotify.com/artist/5jhGaixWICC5S0iZfD48pd) | [Theendum Dhooram \(Unplugged\)](https://open.spotify.com/album/66k08a6WrDYlmZ5HDqYQmt) | 3:26 | 2023-04-06 |  |
 | [Theera](https://open.spotify.com/track/2lQ49y0CZ9jhfINsc7NuZO) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Theera](https://open.spotify.com/album/0pXbIwIirbseVMHcbLyKtp) | 4:02 | 2023-07-17 |  |
 | [Tholayure Naane](https://open.spotify.com/track/0D0ZSPvk2MBrs1eZHvoKUH) | [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V), [Melvin Miranda](https://open.spotify.com/artist/3MExCdgEfpNZSuyTNpSOoM), [Ramya Thayaparan](https://open.spotify.com/artist/6KYB4Y0VbDZctjudPJW64n) | [Tholayure Naane](https://open.spotify.com/album/0p0gT8n4fce9bX7mvElJpN) | 3:07 | 2023-03-21 |  |
+| [Un Kaadhalaal \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/track/5jXXPxjxHz3jElEhThuf4h) | [Santhosh Balaji](https://open.spotify.com/artist/3DvjtASVI8Czc44WMEn3js), [Amina Rafiq](https://open.spotify.com/artist/5MeaQZAAyaP41gzU4FOGMu), [Aravind Karneeswaran](https://open.spotify.com/artist/6WhCmwXKt1znjtpjt9Xcvi), [Ziya Hadhijath](https://open.spotify.com/artist/1sxG5QLaWGQgod5F65vloL) | [Un Kaadhalaal \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/album/1hVP6zvpF7uwYodfGhy3os) | 3:44 | 2023-08-04 |  |
 | [Vaa Poola](https://open.spotify.com/track/6dv0QIadLzgOYN2KY3ScAt) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Vaa Poola](https://open.spotify.com/album/5zmj9MOy7GegpfEyoivwcv) | 2:35 | 2023-05-08 | 2023-07-25 |
 | [Vaanam Ellaye](https://open.spotify.com/track/5jNV9LJs8MeaN8d5sO4Fes) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Vaanam Ellaye](https://open.spotify.com/album/6ehc5mD4YXCrWpJYNpnXFy) | 3:30 | 2023-04-03 | 2023-06-24 |
 | [Vachi Seiyapora](https://open.spotify.com/track/7zP9oosuNW34MudwwLLDdF) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Vachi Seiyapora](https://open.spotify.com/album/3CpQGDhtO10nxGLJUXOXLo) | 3:56 | 2023-07-26 |  |

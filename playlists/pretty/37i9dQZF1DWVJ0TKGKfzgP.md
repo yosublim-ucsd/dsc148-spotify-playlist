@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 
 > The best and finest '80s Funk\. Cover: Bootsy Collins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,714 likes - 100 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,853 likes - 100 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 95 | [Circles](https://open.spotify.com/track/3lORVP4o5ZD7sFOw9jiwTM) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [The Best Of](https://open.spotify.com/album/09lMrdTs6hdLCzIm1oOy8S) | 4:55 |
 | 96 | [Deeper Shade Of Soul](https://open.spotify.com/track/4KRMoo8vKWavy5f6dFpFmS) | [Urban Dance Squad](https://open.spotify.com/artist/0Vo614yFlepUdpdbkggrmC) | [Mental Floss For The Globe / Hollywood Live 1990](https://open.spotify.com/album/5rUUFXK642ZrYTSocjVIcB) | 4:32 |
 | 97 | [She Can't Love You](https://open.spotify.com/track/3CX1FiiXSbvKjsXRYwApAP) | [Chemise](https://open.spotify.com/artist/38yRIy4CLmtrEEedZzjNoS) | [She Can't Love You](https://open.spotify.com/album/7dL0O0sGYCCXxI7FUo1sC5) | 5:25 |
-| 98 | [Heaven of My Life \- Full Length Album Mix](https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Miracles \(Original Album and Rare Tracks\)](https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r) | 5:38 |
+| 98 | [Heaven of My Life \- Full Length Album Mix](https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Miracles](https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r) | 5:38 |
 | 99 | [Walkin' The Line](https://open.spotify.com/track/32ZRHR67bss5cpB7Dw2kYb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Best Of ..Movin' & Changin'](https://open.spotify.com/album/70mFuD9TrIvjUoZN45R4M0) | 5:45 |
 | 100 | [Baby Love](https://open.spotify.com/track/6TyPeZdVWsgnCqHS6azkv5) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [Live and Let Live](https://open.spotify.com/album/59mwpuFNItrOg2gAbmdKEJ) | 5:53 |
 
-Snapshot ID: `MCw5Y2YzNDAwNDQ0ZWFkOWE2MDFkODFmMGQ4ZjQ3MTE5N2Q3MjNmNDY3`
+Snapshot ID: `MCw5YjYyM2FmYmEyZjNjYjA0NzFmZjU4OWUyZGYxNGE4OWVhNDc1NGEz`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 32198,
+  "num_followers": 32217,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDNiZWYyM2Y4MTAwZjU1NTNhYjliMTczOWYzMGU1ODM4NTQ4OWIw",
+  "snapshot_id": "MCw0M2NiNTQxMzYxMjdjMzllYzI1NDNiMmQyZWFhMGFmN2JlZTgyZjQy",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -291,26 +291,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Lyric Pieces",
-        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 123040,
-      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 2, Waltz",
-      "url": "https://open.spotify.com/track/33dThKUU3l6iWmefKLfe0I"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Music for String Orchestra",
         "url": "https://open.spotify.com/album/7c910A4HfOMLizy0El6vjc"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 259586,
       "name": "Lyric Suite, Op. 54: III. Notturno (Nocturne)",
       "url": "https://open.spotify.com/track/7hLWyQulxeNhDZq4t9n2QG"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Lyric Pieces",
+        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 123040,
+      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 2, Waltz",
+      "url": "https://open.spotify.com/track/33dThKUU3l6iWmefKLfe0I"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -399,30 +399,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Complete Music with Orchestra",
-        "url": "https://open.spotify.com/album/6Wg6lJX2OA5kF0oEIN0EUK"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Gothenburg Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
-        },
-        {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Holberg Suite, Op. 40: II. Sarabande (Andante)",
-      "url": "https://open.spotify.com/track/4S72MXacL9WLiliNLxEtnd"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Piano Concerto / Chopin: Piano Concerto No.2",
         "url": "https://open.spotify.com/album/2bTPenOgCU40rKBhyembmt"
       },
@@ -447,6 +423,30 @@
       "duration_ms": 754160,
       "name": "Piano Concerto in A minor, Op. 16: 1. Allegro molto moderato",
       "url": "https://open.spotify.com/track/4HliprEFTBVNsf8spybkm2"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Complete Music with Orchestra",
+        "url": "https://open.spotify.com/album/6Wg6lJX2OA5kF0oEIN0EUK"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Holberg Suite, Op. 40: II. Sarabande (Andante)",
+      "url": "https://open.spotify.com/track/4S72MXacL9WLiliNLxEtnd"
     },
     {
       "added_at": "2022-09-30 04:01:00",

@@ -4,11 +4,11 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Mih, Amabbi
 
-146 songs - 6 hr 26 min
+147 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [18K](https://open.spotify.com/track/2OnR3EE6hnr3mkQb8VrdrJ) | [Razza](https://open.spotify.com/artist/4YloRSGWAe8uoTJANaYpNL), [Lil Tec](https://open.spotify.com/artist/62ZZ5XZHCUg0O6QMPzEAQQ) | [18K](https://open.spotify.com/album/5b85c5VRv1qghJcBUFyHBI) | 2:22 | 2022-03-18 |  |
+| [18K](https://open.spotify.com/track/2OnR3EE6hnr3mkQb8VrdrJ) | [Razza](https://open.spotify.com/artist/4YloRSGWAe8uoTJANaYpNL), [Lil Tec](https://open.spotify.com/artist/62ZZ5XZHCUg0O6QMPzEAQQ) | [18K](https://open.spotify.com/album/5b85c5VRv1qghJcBUFyHBI) | 2:22 | 2022-03-18 | 2023-08-05 |
 | [A Firma é Forte](https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [A Firma é Forte](https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk) | 2:43 | 2022-03-18 |  |
 | [A Trança](https://open.spotify.com/track/0qyvAoh5RL05BlUbGTnYBm) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [A Trança](https://open.spotify.com/album/2I9FyslpABgSZQ7zKizUGb) | 2:27 | 2023-07-21 |  |
 | [Alone](https://open.spotify.com/track/0ekFR7W6o4VPUHsDjn4ZU4) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo), [Eaedaddy](https://open.spotify.com/artist/3s8GYKFrXLsyx3WN6mdwh8) | [Alone](https://open.spotify.com/album/4MVU8BmR5lk8lxmH1RBMyu) | 2:42 | 2022-03-18 | 2022-11-12 |
@@ -122,6 +122,7 @@
 | [Pussy Gang](https://open.spotify.com/track/2uXXWRuYv6A70mj0cq3qhI) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Pussy Gang](https://open.spotify.com/album/67ZypIXlENQDTdK8b61b8M) | 2:43 | 2022-03-18 | 2023-07-01 |
 | [Qual Teu Preço](https://open.spotify.com/track/5DkIcaWxMPhmKRHwotewgI) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Qual Teu Preço](https://open.spotify.com/album/40AYtqXg2H4S0Q37slXaBK) | 2:35 | 2022-09-23 |  |
 | [Quatro Paredes](https://open.spotify.com/track/21ASd2aAIQClF0qoOGX7KX) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Quatro Paredes](https://open.spotify.com/album/0NN1rT8qJ500FoBN7xV9Aw) | 3:44 | 2022-03-18 | 2023-05-06 |
+| [Que Se Vá](https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:24 | 2023-08-04 |  |
 | [Quero Ver Pegar](https://open.spotify.com/track/4lwzCs6SGC97ha4OvW4TU1) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Quero Ver Pegar](https://open.spotify.com/album/2KCX9iuSV51vkp3vMnPQYY) | 2:10 | 2022-09-30 | 2023-03-11 |
 | [quero ver tu me parar](https://open.spotify.com/track/6VtFkGRtUpYey0aPGn3qYO) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f) | [quero ver tu me parar](https://open.spotify.com/album/5itZBBrRvXtgX0IrRBcLS3) | 2:05 | 2023-01-13 | 2023-03-25 |
 | [Refém](https://open.spotify.com/track/1SYjTbInhgWNGjUHpLjRwe) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Eva Grão](https://open.spotify.com/album/6rS7VkbmlppFB4c3Sq0M8F) | 3:26 | 2022-03-18 | 2022-11-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 
 > スタジオジブリ作品の軌跡がここに。All of the essentials from Hayao Miyazaki's "Studio Ghibli" films, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 958,300 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,961 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 59 | [Flying with the Turtles](https://open.spotify.com/track/6lJXBbJkwvhQPX7niNLPuo) | [Laurent Perez Del Mar](https://open.spotify.com/artist/0LLuMNGk0hEVjPuEBNaNO1) | [The Red Turtle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41YFARi0dgf2zmF4eB11RD) | 2:23 |
 | 60 | [Ponyo on the Cliff by the Sea \- from 'Ponyo on the Cliff by the Sea'](https://open.spotify.com/track/1ZH2eyqwewJj7wAAyzjeky) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 3:16 |
 
-Snapshot ID: `MCw2YjA2Y2UwNjYyN2UwZGFiZjE5NThjM2UxMTFiNDk5MTIxMzAxNGUy`
+Snapshot ID: `MCxiOWUzMmE2ZGQ1ZmVmZDUyOGQ5YTkxY2ZhMGQ4MTUwMzQxMmRiODZl`

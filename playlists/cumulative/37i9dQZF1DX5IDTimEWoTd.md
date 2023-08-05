@@ -4,7 +4,7 @@
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-250 songs - 14 hr 44 min
+252 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Cherry](https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:19 | 2020-01-24 |  |
 | [Cherry Wine \- Live](https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:00 | 2019-07-29\* | 2021-05-04 |
 | [Collide](https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All The World Now](https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn) | 4:09 | 2019-07-29\* | 2021-05-28 |
+| [Congratulations \(feat\. Bilal\)](https://open.spotify.com/track/1OubIZ0ARYCUq5kceYUQiO) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 4:16 | 2023-08-04 |  |
 | [Dancing When I Die](https://open.spotify.com/track/6epGSSmdGkjcBmLDKXLbMl) | [Heather Janssen](https://open.spotify.com/artist/0MlsoNIUS9y5LyqqSrvHTb) | [Dancing When I Die](https://open.spotify.com/album/52tSoyle8C6WuY7LmqaFpq) | 2:42 | 2020-07-24 | 2022-07-29 |
 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2022-02-04 |  |
 | [dna](https://open.spotify.com/track/2McTSCNNzxgDtAqiuibhPI) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx](https://open.spotify.com/album/20tgAhlplT42WnAAC8Xndk) | 2:57 | 2021-10-10 |  |
@@ -166,7 +167,7 @@
 | [Oh What A Love](https://open.spotify.com/track/5Z8O4RFAmjA13jrOYIgyXA) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Oh What A Love](https://open.spotify.com/album/5JO8VbjPy4ZGpL1qYC9gPv) | 3:55 | 2020-12-25 | 2022-07-29 |
 | [On Your Way Home](https://open.spotify.com/track/4sFhD0PjpNgV8M8yIzt7C2) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 2:45 | 2021-05-22 | 2022-11-13 |
 | [One Call Away](https://open.spotify.com/track/2uEJanMvnA1dXgX1ASnPQm) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away](https://open.spotify.com/album/2xxwxdvN2zjplMH7gsy2QM) | 3:12 | 2019-07-29\* | 2020-04-23 |
-| [ONE IN A MILLION](https://open.spotify.com/track/2XkDm5m2vPowecEAAR5gmb) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:14 | 2022-07-28 |  |
+| [ONE IN A MILLION](https://open.spotify.com/track/2XkDm5m2vPowecEAAR5gmb) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:14 | 2022-07-28 | 2023-08-05 |
 | [One Man Band](https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:06 | 2022-02-11 |  |
 | [One More Time Around](https://open.spotify.com/track/3DyhwZyBFedvnt68fMi6vf) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Karis](https://open.spotify.com/artist/1U9tVmBqCyiaP2gDSVwDIX), [Ray Lorraine](https://open.spotify.com/artist/4lf5sycK82JMzmkebi1Kic) | [One More Time Around](https://open.spotify.com/album/1reyQmIGDNOUhJiVd78sZZ) | 3:25 | 2019-10-18 | 2022-07-29 |
 | [Paperweight by Joshua Radin and Schuyler Fisk](https://open.spotify.com/track/7IjL4IoQZMk1dOI4MH1T0i) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Paperweight by Joshua Radin and Schuyler Fisk](https://open.spotify.com/album/1llgroOoPNwILl0RNnHoh7) | 3:24 | 2019-07-29\* | 2019-08-16 |
@@ -178,7 +179,7 @@
 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2020-04-23 |  |
 | [Quedate Conmigo](https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:40 | 2023-04-28 | 2023-05-15 |
 | [Quietly Yours](https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W) | 3:54 | 2022-07-18 | 2022-11-20 |
-| [Quietly Yours](https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv) | 3:54 | 2022-12-05 |  |
+| [Quietly Yours](https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv) | 3:54 | 2022-12-05 | 2023-08-05 |
 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 | 2019-10-04 |  |
 | [Real Estate](https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Real Estate](https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI) | 3:36 | 2019-07-29\* | 2021-09-25 |
 | [Richest Man](https://open.spotify.com/track/4n27tJxtkJZzO3suIcec7F) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Richest Man](https://open.spotify.com/album/72u9K4DIF5swbFvBnvwXMc) | 3:26 | 2021-11-14 | 2021-11-14 |
@@ -250,6 +251,7 @@
 | [Who Would Have Thought](https://open.spotify.com/track/1ws2DVEGJD2d12aDm4zqic) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Who Would Have Thought](https://open.spotify.com/album/5PaiwfRbaB0igbVr3nf1Mh) | 4:04 | 2020-06-19 | 2022-07-29 |
 | [willow](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:34 | 2021-09-25 |  |
 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 | 2022-09-15 |  |
+| [Work Song](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:49 | 2023-08-04 |  |
 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 | 2019-07-29\* |  |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2019-07-29\* |  |
 | [You](https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [You](https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4) | 3:14 | 2022-01-15 | 2023-03-04 |

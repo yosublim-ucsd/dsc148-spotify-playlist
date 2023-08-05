@@ -4,7 +4,7 @@
 
 > Music to reduce insomnia and help you relax.
 
-362 songs - 17 hr 57 min
+364 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Fairy Lullaby](https://open.spotify.com/track/6NbR1XHxKXog2lWMWFHw2c) | [STRIATUMS](https://open.spotify.com/artist/0dR1oYqupK4QCBlp1xmLJy) | [Inner Dimension](https://open.spotify.com/album/5fsahxvJhOsvHr7i2mDF3P) | 2:24 | 2021-11-10 | 2023-06-10 |
 | [Falling Slowly](https://open.spotify.com/track/24V8enhnywr1fyy2msnQfu) | [Xiliah Roth](https://open.spotify.com/artist/47PP7w0Qi4HaeIQgWPEW25) | [Yiello](https://open.spotify.com/album/2KpkJdTYL35sdjvEPnasY4) | 4:12 | 2023-07-13 |  |
 | [Feathers](https://open.spotify.com/track/5zafrD1Ovmh2XiuoX3IuUa) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Feathers](https://open.spotify.com/album/68btKDvVJKuKLW9IiRuv6V) | 3:12 | 2022-09-13 |  |
+| [Feelstora](https://open.spotify.com/track/03XAiZp5HVuwqxafhc2LCC) | [Apech](https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf) | [Feelstora](https://open.spotify.com/album/7aHse6DPzmFYPAe4Om6MFW) | 3:26 | 2023-08-04 |  |
 | [Find Me](https://open.spotify.com/track/6jDM7dC4rmCFaB6J1huffu) | [Leyton Miller](https://open.spotify.com/artist/1Ne3d3mvmU8z83OHnVFSxu) | [Find Me](https://open.spotify.com/album/5ix4GEUCC9ITQRBN5tTeLI) | 3:21 | 2021-11-10 | 2023-02-18 |
 | [Finding Z](https://open.spotify.com/track/6wxi3k13LLevWzehEbQCaN) | [Robin Laureli](https://open.spotify.com/artist/30nCX93T9DmENsEgm1tetr) | [Finding Z](https://open.spotify.com/album/52Q1HU0Kr1n2gxElmS2zNA) | 3:37 | 2021-11-10 | 2023-06-10 |
 | [Floating Rocks](https://open.spotify.com/track/5dfAYR9ljONPCU8OABdBZq) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Floating Rocks](https://open.spotify.com/album/3EEdcHizMnPGeTIxZgH5I6) | 3:17 | 2021-11-10 | 2023-02-18 |
@@ -159,7 +160,7 @@
 | [Grandmas Tune](https://open.spotify.com/track/2xwPqQD4nQEiEOh5dXi3H3) | [Aurelin](https://open.spotify.com/artist/4WxaQLOx5d0XXzj20fTd4X) | [Lights Out](https://open.spotify.com/album/7EP8MpkvPc78L7h0xefccS) | 2:45 | 2021-11-10 |  |
 | [Hibernation](https://open.spotify.com/track/3td70QAqqhGc6NLnXIbG4o) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Hibernation](https://open.spotify.com/album/130XxDY9DAdC2uhyB9AGaT) | 3:29 | 2021-11-10 |  |
 | [Hidden Lotus](https://open.spotify.com/track/2GT3QE7CaEISpaRl9GmgXG) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Hidden Lotus](https://open.spotify.com/album/5TMotCnHIeHXI5gz2Tfugq) | 2:55 | 2022-03-08 |  |
-| [Hopeful](https://open.spotify.com/track/6OTCHM8icoVQmWYdULItOz) | [Unwritten Skies](https://open.spotify.com/artist/19f60nUZGFKTsf9mhvQbtl) | [Hopeful](https://open.spotify.com/album/1u7Xlr1lUkCBPyiE2U6Z7n) | 2:42 | 2021-11-10 |  |
+| [Hopeful](https://open.spotify.com/track/6OTCHM8icoVQmWYdULItOz) | [Unwritten Skies](https://open.spotify.com/artist/19f60nUZGFKTsf9mhvQbtl) | [Hopeful](https://open.spotify.com/album/1u7Xlr1lUkCBPyiE2U6Z7n) | 2:42 | 2021-11-10 | 2023-08-05 |
 | [Hovering](https://open.spotify.com/track/0EkOXlinAFTDIVPbbaRDJL) | [Judithe Abelsen](https://open.spotify.com/artist/2n4kqHsrCGaOvVa90vBlXK) | [Hovering](https://open.spotify.com/album/35SmQGb0UyASjv0LwScAsM) | 3:45 | 2021-11-10 |  |
 | [Huayna Potosi](https://open.spotify.com/track/2PWHrFAlSGROVbJEE4ZEEV) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Huayna Potosi](https://open.spotify.com/album/047WHL1HMDdjZOnSp3JOxP) | 3:41 | 2022-07-22 |  |
 | [Hush](https://open.spotify.com/track/13CYT9XLC54qtyg0U8aqb7) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Hush](https://open.spotify.com/album/7B4bF2l6xVB640JDVyu4jP) | 3:10 | 2021-11-10 |  |
@@ -308,6 +309,7 @@
 | [Stillness](https://open.spotify.com/track/6cn3ydXeMViI9FKbvU5yC6) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Stillness](https://open.spotify.com/album/1tFhGEgEpA4bkmdYp2zYQ3) | 2:30 | 2021-11-10 |  |
 | [Stimmung](https://open.spotify.com/track/6mmma8gbZNJcTkG40Nr2vx) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Stimmung](https://open.spotify.com/album/03M9YKu5qpJzxxPKx076fA) | 2:18 | 2021-11-10 | 2022-08-24 |
 | [Stories](https://open.spotify.com/track/0ETgVH10Y5yiljMWO5kNtV) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Stories](https://open.spotify.com/album/6rxRh7wYIckgED89wMQwE5) | 2:52 | 2021-11-10 |  |
+| [Straight Ahead](https://open.spotify.com/track/15SPWU4M4H0yhK5Nto68Kb) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Frictionless](https://open.spotify.com/album/0MUMMXAt41woVXxQ5BssVh) | 2:56 | 2023-08-04 |  |
 | [Sueno](https://open.spotify.com/track/6ZUPb0L9JcZM1e7c1nGCIx) | [Roland Mercier](https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa) | [Sueno](https://open.spotify.com/album/6y6lWnmpKOMXvYJgNcXKvs) | 2:43 | 2021-11-10 | 2023-02-18 |
 | [Suivez\-moi](https://open.spotify.com/track/1iUWhhQqt3vCxrMCZluokP) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Suivez\-moi](https://open.spotify.com/album/56Ic0KB997WaLyYWoDRu09) | 3:20 | 2021-11-10 |  |
 | [Sunday Morning](https://open.spotify.com/track/44CGw5yimT0uwQnurWo2gz) | [Ella Watson](https://open.spotify.com/artist/6JWxnRLmLn5kIc1IDLMaja) | [Sunday Morning](https://open.spotify.com/album/7xv22kXgcqKHocBfCkaVry) | 2:26 | 2021-11-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 61940,
+  "num_followers": 62020,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmMyNGY4MzIyMDhjNTIzYTQxMjQ3OTIxNGVmNjI3ZWIyMjdjOWRi",
+  "snapshot_id": "MCwzYWZmYzAzZWIzMGI3N2M1MTI0MDQ1ODZiMWNjZjZkNmRiNGNmODk0",
   "tracks": [
     {
       "added_at": "2023-07-21 15:55:32",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "Yonder Wall",
-      "url": "https://open.spotify.com/track/2vKadnRjDi4F56pHspv9u1"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Martin Scorsese Presents The Blues: Keb' Mo'",
         "url": "https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 195226,
       "name": "Perpetual Blues Machine",
       "url": "https://open.spotify.com/track/2CgFNet99tzGTEIxYrYbuN"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "Yonder Wall",
+      "url": "https://open.spotify.com/track/2vKadnRjDi4F56pHspv9u1"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
+        "name": "The King of Chicago Blues Piano",
+        "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
+      },
+      "artists": [
+        {
+          "name": "Big Maceo",
+          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/77j9SlhRd4MBGU998c7dnw"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
         "name": "All Blues's Up: Songs of Led Zeppelin",
         "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
       },
@@ -691,34 +707,22 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "The King of Chicago Blues Piano",
-        "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
+        "name": "Sun Records Originals: Mystery Train",
+        "url": "https://open.spotify.com/album/6ah1LPcA93TpiesTgaLUsy"
       },
       "artists": [
         {
-          "name": "Big Maceo",
-          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/77j9SlhRd4MBGU998c7dnw"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
-        "name": "Presenting Arthur \"Big Boy\" Crudup",
-        "url": "https://open.spotify.com/album/5XXzD0S8cAExlk8AQkBERQ"
-      },
-      "artists": [
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        },
         {
-          "name": "Arthur \"Big Boy\" Crudup",
-          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+          "name": "The Blue Flames",
+          "url": "https://open.spotify.com/artist/6v2b0J4pJj4uQhyL9Onz2A"
         }
       ],
-      "duration_ms": 144613,
-      "name": "That's All Right",
-      "url": "https://open.spotify.com/track/4ejf5eNPwEMjmN92vgArBz"
+      "duration_ms": 144400,
+      "name": "Mystery Train - Remastered 2022",
+      "url": "https://open.spotify.com/track/5lgo86IFpVmZkP2tllm5eX"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -739,22 +743,18 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Sun Records Originals: Mystery Train",
-        "url": "https://open.spotify.com/album/6ah1LPcA93TpiesTgaLUsy"
+        "name": "Presenting Arthur \"Big Boy\" Crudup",
+        "url": "https://open.spotify.com/album/5XXzD0S8cAExlk8AQkBERQ"
       },
       "artists": [
         {
-          "name": "Little Junior Parker",
-          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
-        },
-        {
-          "name": "The Blue Flames",
-          "url": "https://open.spotify.com/artist/6v2b0J4pJj4uQhyL9Onz2A"
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
         }
       ],
-      "duration_ms": 144400,
-      "name": "Mystery Train - Remastered 2022",
-      "url": "https://open.spotify.com/track/5lgo86IFpVmZkP2tllm5eX"
+      "duration_ms": 144613,
+      "name": "That's All Right",
+      "url": "https://open.spotify.com/track/4ejf5eNPwEMjmN92vgArBz"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "For Blind Willie",
-        "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
-      },
-      "artists": [
-        {
-          "name": "Bror Gunnar Jansson",
-          "url": "https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q"
-        }
-      ],
-      "duration_ms": 361970,
-      "name": "Lord I Just Can't Keep from Crying",
-      "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Country Blues Guitar",
         "url": "https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 225640,
       "name": "Walking Blues",
       "url": "https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "For Blind Willie",
+        "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
+      },
+      "artists": [
+        {
+          "name": "Bror Gunnar Jansson",
+          "url": "https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q"
+        }
+      ],
+      "duration_ms": 361970,
+      "name": "Lord I Just Can't Keep from Crying",
+      "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -863,22 +863,18 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Philadelphia Mississippi",
-        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
+        "name": "Brownie McGhee and Sonny Terry Sing",
+        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
         }
       ],
-      "duration_ms": 185640,
-      "name": "Guitar Man (feat. Christone \"Kingfish\" Ingram)",
-      "url": "https://open.spotify.com/track/6Ldi3GEqxgHp3GZq7eKTYY"
+      "duration_ms": 184000,
+      "name": "Better Day",
+      "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -899,18 +895,22 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Brownie McGhee and Sonny Terry Sing",
-        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
+        "name": "Philadelphia Mississippi",
+        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
       },
       "artists": [
         {
-          "name": "Sonny Terry and Brownie McGhee",
-          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Better Day",
-      "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
+      "duration_ms": 185640,
+      "name": "Guitar Man (feat. Christone \"Kingfish\" Ingram)",
+      "url": "https://open.spotify.com/track/6Ldi3GEqxgHp3GZq7eKTYY"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 233226,
-      "name": "Keep Sinking",
-      "url": "https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Dust My Broom",
         "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 298293,
       "name": "Outside (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+      },
+      "artists": [
+        {
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+        }
+      ],
+      "duration_ms": 233226,
+      "name": "Keep Sinking",
+      "url": "https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 360480,
-      "name": "Blue River Rising",
-      "url": "https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Too Wet to Plow",
         "url": "https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Forever On My Mind",
-        "url": "https://open.spotify.com/album/4wwt3VrchcH3YD3VSjd1B9"
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
       },
       "artists": [
         {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
         }
       ],
-      "duration_ms": 351960,
-      "name": "Death Letter",
-      "url": "https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv"
+      "duration_ms": 360480,
+      "name": "Blue River Rising",
+      "url": "https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1171,6 +1155,22 @@
       "duration_ms": 181040,
       "name": "Cross Creek Road",
       "url": "https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Forever On My Mind",
+        "url": "https://open.spotify.com/album/4wwt3VrchcH3YD3VSjd1B9"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 351960,
+      "name": "Death Letter",
+      "url": "https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
+        "name": "Wasted Time",
+        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
+      },
+      "artists": [
+        {
+          "name": "Shannon McNally",
+          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
+        }
+      ],
+      "duration_ms": 138040,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
         "name": "The Best Of Delta Records",
         "url": "https://open.spotify.com/album/6qF7UpIdnbVMPukKa9rpee"
       },
@@ -1679,22 +1695,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Wasted Time",
-        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
-      },
-      "artists": [
-        {
-          "name": "Shannon McNally",
-          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
-        }
-      ],
-      "duration_ms": 138040,
-      "name": "Wasted Time",
-      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Candy Man Blues: Essential Recordings",
         "url": "https://open.spotify.com/album/5QrttrAFJuldYaHVPPrv0L"
       },
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "Tough Times",
-      "url": "https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "High Flying Bird",
         "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 159360,
       "name": "Blues Chase up a Rabbit",
       "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "Tough Times",
+      "url": "https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Wild Country",
-        "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
-      },
-      "artists": [
-        {
-          "name": "Carmel",
-          "url": "https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo"
-        }
-      ],
-      "duration_ms": 358133,
-      "name": "Wild Country 2021",
-      "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Traveling Medicine Man",
         "url": "https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l"
       },
@@ -1895,6 +1879,22 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
+        "name": "Wild Country",
+        "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
+      },
+      "artists": [
+        {
+          "name": "Carmel",
+          "url": "https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo"
+        }
+      ],
+      "duration_ms": 358133,
+      "name": "Wild Country 2021",
+      "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
         "name": "Empire State Express",
         "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
       },
@@ -1907,26 +1907,6 @@
       "duration_ms": 270706,
       "name": "Empire State Express",
       "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        },
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 188306,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1947,6 +1927,26 @@
       "duration_ms": 247630,
       "name": "Another Weary Soul",
       "url": "https://open.spotify.com/track/7MyvG8lmIMQw0nKFTpCI3x"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        },
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK"
     },
     {
       "added_at": "2023-07-21 15:55:32",

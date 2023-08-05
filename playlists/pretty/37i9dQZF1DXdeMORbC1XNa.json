@@ -1,12 +1,12 @@
 {
   "description": "The African & West Indian diaspora united. Cover: J Hus",
-  "num_followers": 294839,
+  "num_followers": 294936,
   "original_name": "Afro Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmNiODE2YTZkOWUwNDE2OWE2OGY2YTNmMzA1NzM0N2YzNjdiNzU2",
+  "snapshot_id": "MCxjNjVmYWM5ZjE0MDRkMDZiYWJiNDkyODI3YTc1MjFmYTAwMjI0Yzcx",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
-      },
-      "artists": [
-        {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "22",
-      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "INTOXYCATED (feat. Dave)",
         "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 212000,
       "name": "INTOXYCATED (feat. Dave)",
       "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "22",
+      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "PRAY",
-        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "PRAY",
-      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 213991,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
     },
     {
       "added_at": "2023-08-03 23:00:00",

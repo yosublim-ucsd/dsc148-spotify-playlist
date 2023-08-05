@@ -1749,6 +1749,28 @@
     },
     {
       "album": {
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/2V75e6FEFox27TlO3hcX5U"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152015,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/4YmOaFeMM8jRE7FEXixlAM"
+    },
+    {
+      "album": {
         "name": "Candy Shop",
         "url": "https://open.spotify.com/album/6wPYHAowFfbzP2KQf2vh4r"
       },
@@ -8090,7 +8112,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 259775,
       "name": "Rollin' in my Ride",
       "url": "https://open.spotify.com/track/1mV5ZTsAdpUhYyRxDNNPR0"

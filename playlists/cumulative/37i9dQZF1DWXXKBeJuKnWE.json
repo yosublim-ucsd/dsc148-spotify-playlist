@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "CREEP HEAT",
+        "url": "https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5"
+      },
+      "artists": [
+        {
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205962,
+      "name": "CREEP HEAT",
+      "url": "https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ"
+    },
+    {
+      "album": {
         "name": "Scoring The End Of The World",
         "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
       },
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 186052,
       "name": "Fail You",
       "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
@@ -1567,6 +1585,28 @@
     },
     {
       "album": {
+        "name": "Hate Me (feat. Loveless)",
+        "url": "https://open.spotify.com/album/77saHZy6WPP1JjEVPr4e74"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        },
+        {
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221200,
+      "name": "Hate Me (feat. Loveless)",
+      "url": "https://open.spotify.com/track/70RYhIYRYeL1YNJcAIBjjm"
+    },
+    {
+      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
       },
@@ -1940,7 +1980,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 205368,
       "name": "LosT",
       "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
@@ -2493,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "Private Skool",
+        "url": "https://open.spotify.com/album/5M8UCAJ3vOVj9hkIxE2qd9"
+      },
+      "artists": [
+        {
+          "name": "We Are PIGS",
+          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209696,
+      "name": "Private Skool",
+      "url": "https://open.spotify.com/track/07F0JkIN0DdgeZtrFj4Wmj"
+    },
+    {
+      "album": {
         "name": "Pump It",
         "url": "https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds"
       },
@@ -2952,7 +3010,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 163567,
       "name": "START AGAIN",
       "url": "https://open.spotify.com/track/4XLk8KXgCCnXf5cCXnAyUh"

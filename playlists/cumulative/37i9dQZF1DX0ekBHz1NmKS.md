@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-734 songs - 1 day 14 hr 49 min
+736 songs - 1 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Andas](https://open.spotify.com/track/6six34mEJ75TVaPcKeeHrC) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Andas](https://open.spotify.com/album/3pdIAffaj2U6tXnXLGA70Y) | 3:30 | 2021-12-16 | 2022-03-11 |
 | [Andas in andas ut](https://open.spotify.com/track/7tHkIqI9XU8qCfLHIzl0pp) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Andas in andas ut](https://open.spotify.com/album/4Hy5SVsOUpO5ggDl3xOyen) | 2:36 | 2023-04-20 |  |
 | [Android](https://open.spotify.com/track/1z1dLKCC2BOANrXAkSZnEJ) | [Yony x Malla](https://open.spotify.com/artist/6eeNVSWhipIRmCDMal0zRT) | [Android](https://open.spotify.com/album/4innCzukRuQ8dcH5WCUDYi) | 1:40 | 2023-04-20 | 2023-05-09 |
-| [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-07-28 |  |
+| [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-07-28 | 2023-08-05 |
 | [Aniara](https://open.spotify.com/track/2etg8kht5wOz5BBWNCW7pv) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 4:49 | 2022-05-30 | 2023-03-25 |
 | [Ansvar \(feat\. Eye N'I\)](https://open.spotify.com/track/04s4HwrYbwCVFGLpUOqQlu) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Eye N'I](https://open.spotify.com/artist/5NnyV6RNHKNEqZcS4tZl4Y) | [Ansvar \(feat\. Eye N'I\)](https://open.spotify.com/album/4eJhP9tP0wiyjV9KPO9sNc) | 2:55 | 2022-06-30 | 2022-11-18 |
 | [Aska](https://open.spotify.com/track/1cahT3TKkFmggbAoL6sRQO) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Aska](https://open.spotify.com/album/0hDiIyy8derMbYJ9N4Eghx) | 3:54 | 2022-01-13 | 2022-07-29 |
@@ -342,7 +342,7 @@
 | [Jealous](https://open.spotify.com/track/2kxHarGEadxB7kVJXo8bwT) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Jealous](https://open.spotify.com/album/34mio8hxaosvK9PV8xt1Ko) | 2:43 | 2021-12-16 | 2022-03-11 |
 | [Josefin](https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Josefin](https://open.spotify.com/album/482RW3Fc6VeLEsGTHh0cII) | 3:41 | 2021-12-16 | 2022-03-11 |
 | [Julia](https://open.spotify.com/track/4x92YZy4mfx7cDmEok90kx) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Julia](https://open.spotify.com/album/0JRRrUZE1e1CIPIyePoJJg) | 3:09 | 2023-03-16 |  |
-| [June/July](https://open.spotify.com/track/62FGkTkd3MCVK4Snz3u5VY) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [June/July](https://open.spotify.com/album/2poLiQEtSevIkb5tEFOhgl) | 3:25 | 2023-06-01 |  |
+| [June/July](https://open.spotify.com/track/62FGkTkd3MCVK4Snz3u5VY) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [June/July](https://open.spotify.com/album/2poLiQEtSevIkb5tEFOhgl) | 3:25 | 2023-06-01 | 2023-08-05 |
 | [Jungle](https://open.spotify.com/track/2sFo4HAjQfBBaV22QRg75a) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Jungle](https://open.spotify.com/album/3weoFCQUyngxOP2Okdrfhc) | 2:40 | 2021-12-16 | 2022-03-11 |
 | [Just A Girl](https://open.spotify.com/track/4F2qj7XKsBZWgyyrchAPJO) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Just A Girl](https://open.spotify.com/album/7uW7dVCInNpUeXtLfk2JZz) | 3:43 | 2022-01-13 | 2022-09-16 |
 | [Karlavagnen](https://open.spotify.com/track/7rZ3Gqfwh5SuM5tvHK1eAq) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Karlavagnen](https://open.spotify.com/album/1sqRHRlSZ1rJQwTeGP5en5) | 3:10 | 2022-04-28 |  |
@@ -369,6 +369,7 @@
 | [Lean On](https://open.spotify.com/track/6d9FN6JpZp0UpOtTntQs3T) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Lean On](https://open.spotify.com/album/06En50z6PjL5SLMTjVGOpl) | 2:35 | 2022-09-29 | 2022-10-13 |
 | [Lean On](https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [BACKYARD](https://open.spotify.com/album/2NKtdIm9jwON5zlOKn70L4) | 2:35 | 2022-10-27 | 2023-02-13 |
 | [Leave Me Alone](https://open.spotify.com/track/4wJpnZTJ1WiEC8n9kUzlHT) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Among Heads](https://open.spotify.com/album/1Jkh2XEpMKKDsrCVH94e9y) | 3:18 | 2022-04-01 | 2022-04-21 |
+| [LESS](https://open.spotify.com/track/08p0RXW7VhUlAVNmjfRsk9) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [LESS](https://open.spotify.com/album/5W7XuGuj82QHTEBds6DO6X) | 3:13 | 2023-08-03 |  |
 | [Let Me Know](https://open.spotify.com/track/4hHZaxhMwNwRmRcpOJKwYr) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Happiness Before Love](https://open.spotify.com/album/0QO4oVr3XwrE6Jxx8SB39x) | 3:28 | 2022-05-20 | 2022-07-25 |
 | [Let You Go](https://open.spotify.com/track/6DS1xAYtMbwfMx0b8IlYIk) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Let You Go](https://open.spotify.com/album/4MevvS4iJ8wJpgp4Y7aAY0) | 2:22 | 2022-03-10 | 2022-05-07 |
 | [Lika bra](https://open.spotify.com/track/2AuOnLQFk1LCiSWuxbQona) | [råsa](https://open.spotify.com/artist/7xt4XwzlemR8yD2e3M26Wj) | [Lika bra](https://open.spotify.com/album/2uZdMOYOd3qwAzuNS0hKur) | 2:59 | 2021-12-16 | 2022-03-10 |
@@ -617,6 +618,7 @@
 | [Svikare](https://open.spotify.com/track/0djxbv8PpRoOwWZzf8iw6Q) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Svikare](https://open.spotify.com/album/2o6z5Nj3RGx9uL6sAE8Shb) | 2:41 | 2023-01-19 | 2023-02-12 |
 | [Svår](https://open.spotify.com/track/57tokFFxMm6U2oUVyrIVkl) | [Nina Bring](https://open.spotify.com/artist/6jzQtWmDttXXZbdmLrOd2j) | [Svår](https://open.spotify.com/album/71B5YM1pJ7ZgMXX82ZgD06) | 3:16 | 2022-01-13 | 2022-04-01 |
 | [Sweet Jackie](https://open.spotify.com/track/1S4LYxSNKv8NGGl5Jnledy) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Sweet Jackie](https://open.spotify.com/album/5BUAq7X644KHxL5cGWIUVH) | 2:46 | 2021-12-16 | 2022-03-11 |
+| [Sweet Tea](https://open.spotify.com/track/2cxtkjiJYEiGD4hcZsjBWr) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Sweet Tea](https://open.spotify.com/album/7KgXqySqEbM0qbJuyhfrXp) | 4:07 | 2023-08-03 |  |
 | [Swishers](https://open.spotify.com/track/7zIwP1iP2CdyEeP3PB8ie9) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Swishers](https://open.spotify.com/album/0pOCk5fpyULfYKqDbpCOtC) | 3:24 | 2021-12-16 | 2022-01-06 |
 | [Symfoni](https://open.spotify.com/track/38MnFblJDWzj85GVosVhVX) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F), [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Symfoni](https://open.spotify.com/album/2dYBO9CDVhABuAuX8lynWI) | 2:58 | 2023-03-23 |  |
 | [Synd om dig](https://open.spotify.com/track/0CbWynA3BNPIwapjEdqXu5) | [Malin Christin](https://open.spotify.com/artist/7yf7WsRvoRDq5va1SKGgBa) | [Synd om dig](https://open.spotify.com/album/3k2w8Li8JZC47hql6XnLSs) | 2:58 | 2022-02-26 | 2022-07-24 |

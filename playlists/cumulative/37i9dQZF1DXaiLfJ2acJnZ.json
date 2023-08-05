@@ -608,7 +608,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 214768,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 190045,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0p44iWv9aQIxAhozDpfBW6"
@@ -1680,7 +1680,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 171913,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 171228,
       "name": "Grow",
       "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 165423,
       "name": "Hold On Me",
       "url": "https://open.spotify.com/track/5oNHxV8Ls8wlnQbi5BGOk0"
@@ -2546,7 +2546,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 242229,
       "name": "if you called me today, i would come back tomorrow",
       "url": "https://open.spotify.com/track/0ZhcTOA3jY10bgme6qpptW"
@@ -3040,6 +3040,24 @@
       "duration_ms": 196949,
       "name": "marie",
       "url": "https://open.spotify.com/track/7eQYeUxaTediJTUl8oMRar"
+    },
+    {
+      "album": {
+        "name": "Maybe Next Time",
+        "url": "https://open.spotify.com/album/6oGzvyilFapjThmlJPJKiW"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188373,
+      "name": "Maybe Next Time",
+      "url": "https://open.spotify.com/track/3NZDpFKjCApF6WkI5g6iFg"
     },
     {
       "album": {
@@ -4411,6 +4429,24 @@
     },
     {
       "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199591,
+      "name": "Step Dad",
+      "url": "https://open.spotify.com/track/4h1d5zG9QEDxLfm418gWS6"
+    },
+    {
+      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -4599,6 +4635,28 @@
     },
     {
       "album": {
+        "name": "Superbloodmoon (feat. d4vd)",
+        "url": "https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151792,
+      "name": "Superbloodmoon (feat. d4vd)",
+      "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
+    },
+    {
+      "album": {
         "name": "Sweet Life",
         "url": "https://open.spotify.com/album/3s289YkKKdjRNJdTayT8iT"
       },
@@ -4704,6 +4762,24 @@
       "duration_ms": 208197,
       "name": "The Sun\u2019s Gonna Rise",
       "url": "https://open.spotify.com/track/21RwRFSFMOuDcaIqy3aiIH"
+    },
+    {
+      "album": {
+        "name": "Matters of the Heart",
+        "url": "https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw"
+      },
+      "artists": [
+        {
+          "name": "RuthAnne",
+          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175492,
+      "name": "The Vow",
+      "url": "https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8"
     },
     {
       "album": {

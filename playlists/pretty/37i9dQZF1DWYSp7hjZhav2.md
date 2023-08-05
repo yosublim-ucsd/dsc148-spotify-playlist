@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,748 likes - 85 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,920 likes - 85 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 70 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 |
 | 71 | [Origin](https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Shall Ocin](https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Origin](https://open.spotify.com/album/5Z6mUYSbLGMoRyLq8JAuj1) | 7:40 |
 | 72 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 |
-| 73 | [Danielle \(Smile on My Face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 |
+| 73 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 |
 | 74 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 |
 | 75 | [Impossible \- &ME Remix](https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Impossible \(&ME Remix\)](https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o) | 9:15 |
 | 76 | [Gamma](https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Gamma](https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C) | 6:21 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 84 | [All Night \(Garage Version\)](https://open.spotify.com/track/0pp5J5USoRAqy8gpkLQjPB) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [All Night](https://open.spotify.com/album/3NxVZjPxy8UgDGC3DT541A) | 6:16 |
 | 85 | [Equilibrium](https://open.spotify.com/track/5LxPUORcjvRUK3D6X45n7A) | [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY) | [Manifesto](https://open.spotify.com/album/3irdHO4M4coANVu3Le5ceN) | 3:36 |
 
-Snapshot ID: `MCxlYjllMzBlMWIyYWFkZDFmYmUwMWQzMTM4MWQ3NjU5NzAyOWIwMzUw`
+Snapshot ID: `MCxiMmIwMDA5ZTg5NzQ1Y2RkMGM2Y2Q0NDMzMzExNjg2ZTBiM2M0YTNl`

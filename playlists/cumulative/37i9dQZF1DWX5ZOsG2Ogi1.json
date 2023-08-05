@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "\u00a1Perreo del bueno! Cover: Wisin y Jowell & Randy",
+  "description": "\u00a1Perreo del bueno! Cover: Sech",
   "name": "Puro Perreo",
   "tracks": [
     {
@@ -470,7 +470,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 200328,
       "name": "Anda Sola",
       "url": "https://open.spotify.com/track/2wyw4eQ2SfIYfm1vxCgYI0"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 229493,
       "name": "BANDIDA",
       "url": "https://open.spotify.com/track/3iecNdnfVdLoGCoBG2wmaT"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 204136,
       "name": "Como \u00d1engo (feat. Jota Rosa)",
       "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
@@ -6042,7 +6042,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 202600,
       "name": "Noche de Teteo",
       "url": "https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN"
@@ -6934,6 +6934,24 @@
       "duration_ms": 246510,
       "name": "Pichaera",
       "url": "https://open.spotify.com/track/3cByks7G0z4nIpcir5awmb"
+    },
+    {
+      "album": {
+        "name": "Piedritas En Los Dientes",
+        "url": "https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156544,
+      "name": "Piedritas En Los Dientes",
+      "url": "https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL"
     },
     {
       "album": {
@@ -9232,7 +9250,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 254457,
       "name": "TORO",
       "url": "https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt"

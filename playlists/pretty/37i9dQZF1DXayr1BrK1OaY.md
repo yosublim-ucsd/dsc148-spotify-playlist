@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,763 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,947 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 29 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 |
 | 30 | [Lose You](https://open.spotify.com/track/00I5NjPGm836J2MQmYxhs9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:10 |
 | 31 | [Keep On Dancing](https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Keep On Dancing](https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi) | 3:05 |
-| 32 | [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 4:21 |
-| 33 | [Apricots](https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 4:06 |
+| 32 | [Apricots](https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 4:06 |
+| 33 | [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 4:21 |
 | 34 | [Another Life \(feat\. FLETCHER & Josh Golden\)](https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Another Life](https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr) | 2:42 |
 | 35 | [Satisfied \- Edit](https://open.spotify.com/track/378c4bnvmnfAoMTSIOveDX) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Silver Linings](https://open.spotify.com/album/0JPGUlvwYA8enb1XhaUIbh) | 3:43 |
 | 36 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 67 | [Always](https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 7:28 |
 | 68 | [Black Mascara.](https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Black Mascara.](https://open.spotify.com/album/08Yy2hYrWdfYD6SsWLlixb) | 4:01 |
 | 69 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
-| 70 | [You've Done Enough](https://open.spotify.com/track/3zPfyVThoCzQ6IB5CSGDTz) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [You’ve Done Enough](https://open.spotify.com/album/3MpEvpOsGV9iKzHWwUcjbk) | 3:33 |
-| 71 | [Release](https://open.spotify.com/track/4HCN49YHfv7RCYC9d6dtXt) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Release](https://open.spotify.com/album/0vtn1Mo8J2bj33ujRVXxpC) | 3:13 |
-| 72 | [I Can Make It](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [I Can Make It](https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat) | 4:09 |
+| 70 | [I Can Make It](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [I Can Make It](https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat) | 4:09 |
+| 71 | [You've Done Enough](https://open.spotify.com/track/3zPfyVThoCzQ6IB5CSGDTz) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [You’ve Done Enough](https://open.spotify.com/album/3MpEvpOsGV9iKzHWwUcjbk) | 3:33 |
+| 72 | [Release](https://open.spotify.com/track/4HCN49YHfv7RCYC9d6dtXt) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Release](https://open.spotify.com/album/0vtn1Mo8J2bj33ujRVXxpC) | 3:13 |
 | 73 | [I Want You \(feat\. Braev\)](https://open.spotify.com/track/31kN6sakkWj7SxVjm0d0gd) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [I Want You \(feat\. Braev\)](https://open.spotify.com/album/2PBu4Kc89jFrsNZqt4ISSx) | 4:18 |
 | 74 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
 | 75 | [This Ain't Real](https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh) | [MENTIS](https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3) | [This Ain't Real](https://open.spotify.com/album/0FQaYrRMEl63jQsjfxeU2D) | 2:45 |
 
-Snapshot ID: `MCwwZWI3ODgwNjE0MDk3YjBkODk4NzFkNTU3NTU0ZjVjYjUyYjZkODQ0`
+Snapshot ID: `MCw0NWI1OTU1NzAxYjdkMzQ1ODQ3YTMzN2E0OGYyNjQ0OTFiYWMzNzAw`

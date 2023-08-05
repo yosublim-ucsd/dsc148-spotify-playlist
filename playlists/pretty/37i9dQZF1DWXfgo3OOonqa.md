@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > 100 LIVE @ Way Out West 2023: Dizzy, Jelassi, Mohelá m.fl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,182 likes - 85 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,215 likes - 85 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 84 | [ROM & BACARDI](https://open.spotify.com/track/2VCd1yhoWXyUmHcpQGMjqe) | [Boogie dinero](https://open.spotify.com/artist/5sOVX1TzQHg85L624KEOIH), [Jamkid](https://open.spotify.com/artist/1AXqKV1nhx3eMcHzD5pNVx) | [ROM & BACARDI](https://open.spotify.com/album/6CaEhxaKnqtw6YzmGkCCH8) | 3:04 |
 | 85 | [Tapper](https://open.spotify.com/track/3YkDAb7Fryws1ozTxq82zR) | [4yye](https://open.spotify.com/artist/5mJaAw5lTHiVY6mxfCtz2X) | [Tapper](https://open.spotify.com/album/0F2poHl0Dbbpx2nDqRi530) | 2:50 |
 
-Snapshot ID: `MCxhN2U1MjY0MmMzYTQ4ODcxMmFlZWExMTRhNzFiNTAzMGM1NjIyNGZi`
+Snapshot ID: `MCw1YjQ1MDJlMDhkNDYxNzA2NjIyODg0ZmYzOGM4MTlkMmUwMjVmYmEw`

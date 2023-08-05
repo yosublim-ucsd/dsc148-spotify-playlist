@@ -2,7 +2,7 @@
 
 ### [R&B Favourites](https://open.spotify.com/playlist/37i9dQZF1DX7FY5ma9162x)
 
-> The tracks you can put on repeat all day\. Cover: Daniel Caesar
+> The tracks you can put on repeat all day\. Cover: Snoh Aalegra
 
 562 songs - 1 day 7 hr 14 min
 

@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Sam Smith
 
-404 songs - 23 hr 10 min
+405 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Ocean Eyes \(Acoustic\)](https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Ocean Eyes \(Acoustic\)](https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj) | 3:36 | 2021-12-17 | 2022-12-30 |
 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 | 2021-12-17 |  |
 | [One More Try](https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [One More Try](https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO) | 5:56 | 2022-12-02 |  |
+| [One Of Us](https://open.spotify.com/track/5CqrCMMhS8QzBfzks0vel8) | [Goodwerks](https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Broken Glass, Vol\. 5](https://open.spotify.com/album/1GNtlaf1suRPWz351bNiVc) | 3:34 | 2023-08-04 |  |
 | [Only Wanna Be With You \- Pokémon 25 Version](https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Only Wanna Be With You \(Pokémon 25 Version\)](https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4) | 4:01 | 2021-12-17 |  |
 | [Ordinary World](https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 3:20 | 2023-02-24 |  |
 | [Ordinary World](https://open.spotify.com/track/7rOOz79ZvG4xaoJfX8ytE1) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Ordinary World](https://open.spotify.com/album/3IVrrKC9pZbbJjEFOifAEi) | 3:20 | 2022-12-16 | 2023-02-28 |

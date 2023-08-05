@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Akanksha Sethi
 
-249 songs - 14 hr 42 min
+250 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,8 +191,9 @@
 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 | 2022-01-10 | 2023-01-11 |
 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 | 2023-07-21 |  |
 | [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 | 2022-06-10 | 2023-07-04 |
-| [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 | 2022-02-24 |  |
+| [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 | 2022-02-24 | 2023-08-05 |
 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 | 2022-01-10 | 2022-10-19 |
+| [Ratiya](https://open.spotify.com/track/1NxUTUf4rQqtnux7QA9hoc) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Ratiya](https://open.spotify.com/album/0xzWmdxI68bqPem3BL3nHQ) | 2:45 | 2023-08-04 |  |
 | [Rehnuma](https://open.spotify.com/track/4l9YKebWc0WGhcNbtJFeRe) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Rehnuma](https://open.spotify.com/album/5ZG20aDD6ZyqeFHyDzufeO) | 3:13 | 2022-01-18 | 2023-03-29 |
 | [Return](https://open.spotify.com/track/23uK4NXI8s7Qgo6rXwlBSP) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [Return](https://open.spotify.com/album/2d0cmKKkMSbVSPkKbCStfe) | 3:49 | 2022-01-10 | 2022-02-01 |
 | [Rijhaaun](https://open.spotify.com/track/4yguCbiNZVvdJGRMm122Q3) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Rijhaaun](https://open.spotify.com/album/4iS93adsqTSTkngmcYb6lr) | 4:30 | 2023-03-28 |  |

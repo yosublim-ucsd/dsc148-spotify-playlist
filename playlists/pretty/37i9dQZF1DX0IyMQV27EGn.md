@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,656 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,750 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 42 | [Get Free](https://open.spotify.com/track/1gYOBTHkk0Fv6hU8eow6sZ) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Get Free](https://open.spotify.com/album/3VQvjeHddEgwcWWlPpYUIe) | 3:14 |
 | 43 | [Dark River](https://open.spotify.com/track/34Kfv0tlD4bbv3f1Hvau79) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl) | 3:24 |
 | 44 | [Banshee](https://open.spotify.com/track/3GmYxpXRc62mj4SuJ4WEsl) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Banshee](https://open.spotify.com/album/3dWQ2TtlpW3crGadeOldHe) | 3:46 |
-| 45 | [Not Gonna Let You Walk Away](https://open.spotify.com/track/0UyCF0hctdZJomjdzDibPB) | [LOLO](https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA) | [In Loving Memory of When I Gave a Shit](https://open.spotify.com/album/5o32Ftd7SS0EKIQlFwubH4) | 2:44 |
-| 46 | [I Can't Get You off My Mind](https://open.spotify.com/track/5qPXqpZVru4pCLQxgbWroq) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Beats & Bruises](https://open.spotify.com/album/260d1HkI8y9xuirJ3OIKvP) | 3:55 |
+| 45 | [I Can't Get You off My Mind](https://open.spotify.com/track/5qPXqpZVru4pCLQxgbWroq) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Beats & Bruises](https://open.spotify.com/album/260d1HkI8y9xuirJ3OIKvP) | 3:55 |
+| 46 | [Not Gonna Let You Walk Away](https://open.spotify.com/track/0UyCF0hctdZJomjdzDibPB) | [LOLO](https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA) | [In Loving Memory of When I Gave a Shit](https://open.spotify.com/album/5o32Ftd7SS0EKIQlFwubH4) | 2:44 |
 | 47 | [Beside Myself](https://open.spotify.com/track/4qVLEVLK2bbNHBKBuE8JZ3) | [Hesta Prynn](https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV) | [We Could Fall In Love](https://open.spotify.com/album/0IGGMUU4aXkCm0TYIsPiUh) | 3:55 |
 | 48 | [Let You Let Me Down](https://open.spotify.com/track/7KK4Fhe0GpGIQk2QqWWYaG) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Lighter](https://open.spotify.com/album/73zETkOw0tap79gXPZGS7a) | 3:07 |
 | 49 | [Let Me Love You Like A Woman](https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 3:20 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 62 | [It's All Okay](https://open.spotify.com/track/6S7kSzXe4dtiQSqqmkM0dD) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [By The Horns](https://open.spotify.com/album/3ZeDSF0GVS6jGFIrxsyjHE) | 3:54 |
 | 63 | [Hurricane](https://open.spotify.com/track/7GaoWajJQTbulUBl9c9qWF) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Park](https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C) | 2:38 |
 | 64 | [Don't Let Our Love Go Cold](https://open.spotify.com/track/1SuW6XhW5LpaynRzivaFnK) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [Don't Let Our Love Go Cold](https://open.spotify.com/album/1Q4b0inFzXAsg9rTS4hDih) | 3:39 |
-| 65 | [Listen Up](https://open.spotify.com/track/1vtkAVGkmMckxrlbLEHhTx) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 3:10 |
-| 66 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
+| 65 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
+| 66 | [Listen Up](https://open.spotify.com/track/1vtkAVGkmMckxrlbLEHhTx) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 3:10 |
 | 67 | [Pain of Love](https://open.spotify.com/track/3MtBYMhHTNhD4xICSFAikb) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Old Souls, Young Bodies](https://open.spotify.com/album/3rImHlWa9YsEUcdan3toc7) | 3:31 |
 | 68 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/215q7Y9u8n0dqzeQYGjki7) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/1IuiGzv0eSL11hUcqytCdP) | 3:02 |
 | 69 | [Hopeless Romantic](https://open.spotify.com/track/4rxll3CP6XklLuoki7A26P) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 3:30 |
 | 70 | [Ghost](https://open.spotify.com/track/6UGhHbDZ76PqGR2C9pdWbb) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Human Again](https://open.spotify.com/album/3oFP50clZCAQy3bpI4vyNM) | 4:01 |
 
-Snapshot ID: `MCwwYjg3NTg3OWRmMGRjNTkzNzU1MWE1MmE1ZmIzZDI2MzE1NmIxNDRm`
+Snapshot ID: `MCw4NzY4NjdmNjkxOWE3NTNhZjQ1MWQ2YzdhNmI0YmMxZWE4ZGI3NTE0`

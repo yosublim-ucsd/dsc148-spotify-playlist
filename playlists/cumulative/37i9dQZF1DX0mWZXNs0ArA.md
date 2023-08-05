@@ -4,7 +4,7 @@
 
 > 150%
 
-249 songs - 11 hr 2 min
+250 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Faster \(Sped Up\)](https://open.spotify.com/track/1tlPauwjMeBY5ZiQA5wLH3) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [Faster \(Sped Up\)](https://open.spotify.com/album/6MYpoQeEO6l8yxd15w6Rce) | 2:26 | 2022-06-24 |  |
 | [Faster \- Sped Up](https://open.spotify.com/track/1MShtYPzkiw12vVAooL4zy) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [A.O Ultra](https://open.spotify.com/album/5X2NqD0hP43ZuYEIcXcW1L) | 2:26 | 2022-06-09 | 2022-07-29 |
 | [Favorite Song \- Sped Up](https://open.spotify.com/track/4YtTVZsCukz30wcv9TpXek) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song \(Versions\)](https://open.spotify.com/album/3Fo8uA7Pf9tbFEpfDoG3O8) | 2:40 | 2023-02-24 |  |
+| [Feather \- Sped Up](https://open.spotify.com/track/2WkrEyLzATbOK8U3xt8Ggq) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Feather \(Sped Up\)](https://open.spotify.com/album/0TCgFAC92fkbHe2lJkwZRF) | 2:33 | 2023-08-04 |  |
 | [feel u \- sped up](https://open.spotify.com/track/6lcm3HM9F3eeqtEDswd2or) | [okayceci](https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P) | [feel u \- sped up](https://open.spotify.com/album/4t3cv2G1SKlcXqAqxSxHSB) | 2:14 | 2023-03-17 | 2023-04-04 |
 | [Figured Out \- Sped Up Version](https://open.spotify.com/track/3Cs1Ms5CIbPckzaRujcch2) | [Kieran Ivy](https://open.spotify.com/artist/0wzHzFNLOLex8psv09KqNK) | [Figured Out Imma Liar \(Sped Up Version\)](https://open.spotify.com/album/7yOL8iWPVouANjlitUuoln) | 2:14 | 2022-12-07 | 2022-12-14 |
 | [Flip A Switch\. \- Sped Up](https://open.spotify.com/track/0KGheDVtZf0HJNW44w792d) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Flip A Switch\. \(Sped Up\)](https://open.spotify.com/album/1JG0F1lN0d4lN6lj6nVgxD) | 3:05 | 2023-04-07 |  |

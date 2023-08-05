@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 
 > Theme songs from TV/ movie series of "Crayon Shinchan"! クレヨンしんちゃんのテレビアニメ主題歌、映画シリーズ歴代主題歌などを辿る公式プレイリスト！©臼井儀人／双葉社・シンエイ・テレビ朝日・ADK 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,789 likes - 30 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,065 likes - 30 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』まもなく公開](https://open.spotify.com/track/2kKVUTLDGmE8l8Vn9tdQLq) | [クレヨンしんちゃん](https://open.spotify.com/artist/3VMX5c6MzmRUzs2ek9l6vN) | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』まもなく公開](https://open.spotify.com/album/20D0DFc7SZvfqyFG3h1Eu3) | 0:27 |
+| 1 | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』大ヒット上映中](https://open.spotify.com/track/07ez3b5FLN4HmXOeRkBnjO) | [クレヨンしんちゃん](https://open.spotify.com/artist/3VMX5c6MzmRUzs2ek9l6vN) | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』大ヒット上映中](https://open.spotify.com/album/3UBd09f4vBZnKGaB2O4Zpu) | 0:35 |
 | 2 | [Future is Yours](https://open.spotify.com/track/2HPLnsjFWrBe3X2DcUEAVb) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Future is Yours](https://open.spotify.com/album/0ydm0gjxuNauzHArr4Hztt) | 4:26 |
 | 3 | [陽はまた昇るから](https://open.spotify.com/track/1dRpScsBwVPG7c57gx5dSY) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/2UFCuaFyUfOuudIuzQRNeB) | 4:26 |
 | 4 | [はしりがき](https://open.spotify.com/track/4rVpueOWFM9jUjZSWt1eNu) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [はしりがき](https://open.spotify.com/album/6SLw3pRwmLgrLywI5TEfdY) | 3:10 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 | 29 | [Cry Baby](https://open.spotify.com/track/2xYjRSPVcNyF40XIqQKB4e) | [SEAMO](https://open.spotify.com/artist/1txC4MvuCHFRrtRiy4cwnR) | [perfect seamo](https://open.spotify.com/album/245SebGanlsvp4qhnXgJY0) | 5:16 |
 | 30 | [オメデトウ](https://open.spotify.com/track/4Oc33k0BCjHdR3xoRodYMD) | [Mihimaru GT](https://open.spotify.com/artist/29PeG6G6C986jnRPBECm4D) | [mihimaballads](https://open.spotify.com/album/0ZaTSzme8kRUUokVJFfzQP) | 5:24 |
 
-Snapshot ID: `MCxiODQyM2FjMTYwMGZhNWNjZjZjMmIwMjU5NTYxNWE3N2YzOGI2M2I3`
+Snapshot ID: `MCwyZTQ3YTk2NjU4OTcxYTUxNzIwZWNlZmJhNDkxZjllNDQ4NTA5ZTc4`

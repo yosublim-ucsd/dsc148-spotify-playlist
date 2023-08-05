@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
-  "num_followers": 209926,
+  "num_followers": 210066,
   "original_name": "Perrea en tu Cuarto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzE0YTM1YmM4ZTljNTkyYTNhOTNjZDA5ODQ1ZDkzMjMzZGJmOTU5",
+  "snapshot_id": "MCw3NjEyZGRlMjU2ZjFiM2Y0MjFkN2M4M2NmN2I1NTgyNzcyNTJlYzAx",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Diablo, Qu\u00e9 Chimba",
-        "url": "https://open.spotify.com/album/1BZibC0fiDXBFq0lrP82Yy"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 232222,
-      "name": "Diablo, Qu\u00e9 Chimba",
-      "url": "https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 218800,
       "name": "Marte",
       "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Diablo, Qu\u00e9 Chimba",
+        "url": "https://open.spotify.com/album/1BZibC0fiDXBFq0lrP82Yy"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 232222,
+      "name": "Diablo, Qu\u00e9 Chimba",
+      "url": "https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Ay, DiOs M\u00edo!",
         "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
       },
@@ -883,26 +867,6 @@
       "duration_ms": 189653,
       "name": "Ay, DiOs M\u00edo!",
       "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Sin Pijama",
-      "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -931,6 +895,42 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "Sin Pijama",
+      "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "El Amor En Los Tiempos Del Perreo",
         "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
       },
@@ -943,6 +943,26 @@
       "duration_ms": 211998,
       "name": "Tan Bonita",
       "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Traductor",
+      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -967,26 +987,6 @@
       "duration_ms": 233519,
       "name": "Mayor Que Usted",
       "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Traductor",
-      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 217546,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Copas",
         "url": "https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 237388,
       "name": "Copas",
       "url": "https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 217546,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "No Bailes Sola",
-        "url": "https://open.spotify.com/album/2fDBlYHy3clr2Q3JRq89Rd"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "No Bailes Sola",
-      "url": "https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Pichaera",
         "url": "https://open.spotify.com/album/20uPsnEFa0sfIWOycOvwL6"
       },
@@ -1743,18 +1723,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Pol\u00e9mica",
-        "url": "https://open.spotify.com/album/6tRi3uL84txRiFisTNc2e8"
+        "name": "No Bailes Sola",
+        "url": "https://open.spotify.com/album/2fDBlYHy3clr2Q3JRq89Rd"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 151718,
-      "name": "Pol\u00e9mica",
-      "url": "https://open.spotify.com/track/6dtILMYAezM9EChiT0RsCN"
+      "duration_ms": 180866,
+      "name": "No Bailes Sola",
+      "url": "https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1771,6 +1755,22 @@
       "duration_ms": 182093,
       "name": "Negro",
       "url": "https://open.spotify.com/track/2hsA9YWuF3C9Gosi4dpjJN"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Pol\u00e9mica",
+        "url": "https://open.spotify.com/album/6tRi3uL84txRiFisTNc2e8"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 151718,
+      "name": "Pol\u00e9mica",
+      "url": "https://open.spotify.com/track/6dtILMYAezM9EChiT0RsCN"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "1 of 1",
-        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 200494,
-      "name": "Fabuloso",
-      "url": "https://open.spotify.com/track/3cg2Y9mIiYNdcPTLKaQgK3"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
       },
@@ -1987,6 +1967,26 @@
       "duration_ms": 166929,
       "name": "UNA M\u00c1S",
       "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "1 of 1",
+        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 200494,
+      "name": "Fabuloso",
+      "url": "https://open.spotify.com/track/3cg2Y9mIiYNdcPTLKaQgK3"
     },
     {
       "added_at": "2023-07-28 06:00:00",

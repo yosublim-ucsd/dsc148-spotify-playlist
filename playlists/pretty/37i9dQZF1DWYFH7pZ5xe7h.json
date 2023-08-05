@@ -1,12 +1,12 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 43452,
+  "num_followers": 43478,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjI1MzBhNWVhYzY4NjQ0NjViYzllNWE2MzdkYjk4NWQzN2U4MzA5",
+  "snapshot_id": "MCwwYjJjODI5YzA0MGRiOTVhYjQ2ZTRjZGYxODJkMDUxMWE5N2QwZjIy",
   "tracks": [
     {
       "added_at": "2022-06-27 09:16:34",
@@ -511,30 +511,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 1",
-        "url": "https://open.spotify.com/album/1h3x1CJQPdNJRgBK2MTRnM"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 1155933,
-      "name": "Symphony No. 1 in D Major \"Titan\": IV. St\u00fcrmisch Bewegt",
-      "url": "https://open.spotify.com/track/5JBo2pA0UXFoYzQQnQZfZ2"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Symphony No.10",
         "url": "https://open.spotify.com/album/4jiU4En8NZgwPX3aIZjRsB"
       },
@@ -555,6 +531,30 @@
       "duration_ms": 240586,
       "name": "Symphony No. 10 in F sharp (unfinished) - Ed. Deryck Cooke: 3. Purgatorio",
       "url": "https://open.spotify.com/track/10QeQRM2VBCUETSVu2rSEz"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 1",
+        "url": "https://open.spotify.com/album/1h3x1CJQPdNJRgBK2MTRnM"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 1155933,
+      "name": "Symphony No. 1 in D Major \"Titan\": IV. St\u00fcrmisch Bewegt",
+      "url": "https://open.spotify.com/track/5JBo2pA0UXFoYzQQnQZfZ2"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -827,30 +827,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 3 in D Minor",
-        "url": "https://open.spotify.com/album/71fpVhVaGMhR99T89QumK4"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Esa-Pekka Salonen",
-          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
-        },
-        {
-          "name": "Los Angeles Philharmonic",
-          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
-        }
-      ],
-      "duration_ms": 150626,
-      "name": "Symphony No. 3 in D Minor: Part 1, I. Langsam. Schwer",
-      "url": "https://open.spotify.com/track/5ZLCdjQJJk7ohvAogTpYOC"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler - Vol. 1",
         "url": "https://open.spotify.com/album/5X45NadglUgmWarRxRjrS7"
       },
@@ -879,6 +855,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Mahler: Symphony No. 3 in D Minor",
+        "url": "https://open.spotify.com/album/71fpVhVaGMhR99T89QumK4"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        }
+      ],
+      "duration_ms": 150626,
+      "name": "Symphony No. 3 in D Minor: Part 1, I. Langsam. Schwer",
+      "url": "https://open.spotify.com/track/5ZLCdjQJJk7ohvAogTpYOC"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler: Totenfeier, Lieder eines fahrenden Gesellen",
         "url": "https://open.spotify.com/album/5sxVMd8ztG4IBJRCy2ex8l"
       },
@@ -899,30 +899,6 @@
       "duration_ms": 1352400,
       "name": "Totenfeier",
       "url": "https://open.spotify.com/track/20qzS0mm8lSIFdq4y3gSHi"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "David Zinman Conducts Mahler Symphonies",
-        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        },
-        {
-          "name": "Tonhalle-Orchester Z\u00fcrich",
-          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
-        }
-      ],
-      "duration_ms": 1324586,
-      "name": "I. Allegro maestoso",
-      "url": "https://open.spotify.com/track/2pEDMuA7Fmr92lCAKYo7hb"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -955,6 +931,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "David Zinman Conducts Mahler Symphonies",
+        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        },
+        {
+          "name": "Tonhalle-Orchester Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
+        }
+      ],
+      "duration_ms": 1324586,
+      "name": "I. Allegro maestoso",
+      "url": "https://open.spotify.com/track/2pEDMuA7Fmr92lCAKYo7hb"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler: Symphony No.10",
         "url": "https://open.spotify.com/album/4jiU4En8NZgwPX3aIZjRsB"
       },
@@ -979,30 +979,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Lieder",
-        "url": "https://open.spotify.com/album/19GdtV83xdWPPx8PxkYeZg"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Bernarda Fink",
-          "url": "https://open.spotify.com/artist/1Lq2OVm5zTJ4hDGWn2T0D0"
-        },
-        {
-          "name": "Anthony Spiri",
-          "url": "https://open.spotify.com/artist/1ioDARCClIPWV5ythKSaHM"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Winterlied",
-      "url": "https://open.spotify.com/track/74RyXlypy4lkNesWXoDpbo"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler Symphony No. 5",
         "url": "https://open.spotify.com/album/1o4kfpiFIgWxQ0ZLi7GIKL"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 940372,
       "name": "Symphony No. 5 In C Sharp Minor: 5. Rondo-Finale (Allegro)",
       "url": "https://open.spotify.com/track/6CkYMdE7d2b2WAuKIzaXLk"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Lieder",
+        "url": "https://open.spotify.com/album/19GdtV83xdWPPx8PxkYeZg"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Bernarda Fink",
+          "url": "https://open.spotify.com/artist/1Lq2OVm5zTJ4hDGWn2T0D0"
+        },
+        {
+          "name": "Anthony Spiri",
+          "url": "https://open.spotify.com/artist/1ioDARCClIPWV5ythKSaHM"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Winterlied",
+      "url": "https://open.spotify.com/track/74RyXlypy4lkNesWXoDpbo"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1423,30 +1423,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 3 & 8 Lieder aus \"Des Knaben Wunderhorn\"",
-        "url": "https://open.spotify.com/album/1790OLoc0o98MSQapnWY52"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
-        }
-      ],
-      "duration_ms": 627306,
-      "name": "Mahler: Symphony No. 3 in D Minor: II. Tempo di menuetto. Sehr m\u00e4ssig",
-      "url": "https://open.spotify.com/track/2rXA32fOuctoPtFk5DngwZ"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler, G.: Symphony No. 7",
         "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
       },
@@ -1491,6 +1467,30 @@
       "duration_ms": 1773213,
       "name": "Symphony No. 9 in D Major: I. Andante comodo - Live From Walt Disney Concert Hall, Los Angeles / 2012",
       "url": "https://open.spotify.com/track/483VMfYNqtUAxcEWXRVvDn"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 3 & 8 Lieder aus \"Des Knaben Wunderhorn\"",
+        "url": "https://open.spotify.com/album/1790OLoc0o98MSQapnWY52"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        }
+      ],
+      "duration_ms": 627306,
+      "name": "Mahler: Symphony No. 3 in D Minor: II. Tempo di menuetto. Sehr m\u00e4ssig",
+      "url": "https://open.spotify.com/track/2rXA32fOuctoPtFk5DngwZ"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1907,34 +1907,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Des Knaben Wunderhorn; Adagio from Symphony No.10",
-        "url": "https://open.spotify.com/album/3zDmMuKVskRiIBL3da9izQ"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        },
-        {
-          "name": "Cleveland Orchestra",
-          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        }
-      ],
-      "duration_ms": 172906,
-      "name": "Songs From \"Des Knaben Wunderhorn\": Trost im Ungl\u00fcck - Live From Severance Hall, Cleveland / 2010",
-      "url": "https://open.spotify.com/track/5EuMyXy4CU3Ap10UfaZFdL"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler, G.: Symphony No. 4",
         "url": "https://open.spotify.com/album/7bTMelFIt5w2yTuOVX19MJ"
       },
@@ -1959,6 +1931,34 @@
       "duration_ms": 994466,
       "name": "Symphony No. 4 in G Major: I. Bedachtig, nicht eilen",
       "url": "https://open.spotify.com/track/6pDRSOe1X4qreChmYZXd3q"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Des Knaben Wunderhorn; Adagio from Symphony No.10",
+        "url": "https://open.spotify.com/album/3zDmMuKVskRiIBL3da9izQ"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "duration_ms": 172906,
+      "name": "Songs From \"Des Knaben Wunderhorn\": Trost im Ungl\u00fcck - Live From Severance Hall, Cleveland / 2010",
+      "url": "https://open.spotify.com/track/5EuMyXy4CU3Ap10UfaZFdL"
     }
   ],
   "unique_name": "This Is Mahler",

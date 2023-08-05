@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Kita Alexander & Morgan Evans
 
-415 songs - 22 hr 45 min
+416 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [All We'll Ever Be](https://open.spotify.com/track/2xbI4Uh1ExxhHJQbklARMs) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [All We'll Ever Be](https://open.spotify.com/album/4uF4locIHfXWMzS5moNdjs) | 3:13 | 2022-11-17 | 2023-03-03 |
 | [Along The Way](https://open.spotify.com/track/23ZMim7wzLtHQW6bO0E2YK) | [Ella Powell](https://open.spotify.com/artist/1FvZtQAyRZTO5uSrazRJNe) | [Along The Way](https://open.spotify.com/album/2AjS8t5O4Q6hQUaAtLmgdt) | 3:18 | 2022-06-23 | 2022-09-09 |
 | [Always A Girl](https://open.spotify.com/track/4F8U3Cw66IbVQs4Y0MkTUo) | [Will Day](https://open.spotify.com/artist/6eUZAV9XRJh0Tzn7EGYJcw) | [Always A Girl](https://open.spotify.com/album/3KEV0EgwXWn3koQyFTMRh7) | 3:08 | 2023-01-19 | 2023-05-05 |
+| [Always Gonna Be](https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Always Gonna Be](https://open.spotify.com/album/1WI5hRCxaEOSMUtKxO5fKa) | 2:52 | 2023-08-03 |  |
 | [American Dream Truck](https://open.spotify.com/track/152TIXJ0UwKuf7j6nL0HFa) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [The Country And The Coast Side A](https://open.spotify.com/album/1ElweYFwJ8U3meh38gMa8R) | 3:33 | 2021-12-30 | 2022-03-18 |
 | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf) | 3:20 | 2023-03-09 | 2023-06-09 |
 | [Another One More Time](https://open.spotify.com/track/5hFeerouDWGm7W3w1rZZSU) | [Hurricane Fall](https://open.spotify.com/artist/2PKMFahF0XfzJ3nYQiXcA8) | [Another One More Time](https://open.spotify.com/album/7djskwMLcIadqH9Q5m0wXT) | 3:16 | 2021-12-30 | 2022-03-25 |

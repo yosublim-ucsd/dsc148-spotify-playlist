@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos del Regional Mexicano de ayer y hoy para acompa\u00f1arte en la troca.",
-  "num_followers": 506577,
+  "num_followers": 506788,
   "original_name": "La Troca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGM4NzI5ODAwOWEzMjk5MWE0MTMyMzhhNDcyZjViODdhMThiN2M2",
+  "snapshot_id": "MCxiZjMyNWQ2ZmUzNjJiMzJlZGMwZjEzOTEyNDMzMGYzNDUwNWNhNjQ3",
   "tracks": [
     {
       "added_at": "2023-07-07 16:00:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "Uno Mas Uno Igual A Zero",
-        "url": "https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL"
-      },
-      "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 159683,
-      "name": "Uno mas Uno Igual a Zero",
-      "url": "https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
         "name": "Me Volvi A Acordar De Ti",
         "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 195895,
       "name": "Cabron Yo Puedo",
       "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
+        "name": "Uno Mas Uno Igual A Zero",
+        "url": "https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 159683,
+      "name": "Uno mas Uno Igual a Zero",
+      "url": "https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "De Hoy En Adelante, Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Fuentes De Ortiz",
-      "url": "https://open.spotify.com/track/3pPzYqVcgUvaPBwUpjc90j"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
         "name": "No Me Pidas Perd\u00f3n",
         "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 190773,
       "name": "Ha\u0301blame De Ti",
       "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
+        "name": "De Hoy En Adelante, Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Fuentes De Ortiz",
+      "url": "https://open.spotify.com/track/3pPzYqVcgUvaPBwUpjc90j"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+        "name": "Un Suspir\u00f3",
+        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
         }
       ],
-      "duration_ms": 217600,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
+      "duration_ms": 184411,
+      "name": "Un Suspir\u00f3",
+      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "Un Suspir\u00f3",
-        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
       },
       "artists": [
         {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 184411,
-      "name": "Un Suspir\u00f3",
-      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
+      "duration_ms": 217600,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
+        "name": "Tucanes De Oro ... Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Secuestro De Amor",
+      "url": "https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
         "name": "Solita (En Vivo)",
         "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 215984,
       "name": "Solita (En Vivo)",
       "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Secuestro De Amor",
-      "url": "https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 137323,
+      "name": "El Circo",
+      "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
         "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
         "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 258355,
       "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
       "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 137323,
-      "name": "El Circo",
-      "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
+        "name": "La Gritera",
+        "url": "https://open.spotify.com/album/1SG347OQS3AuoDcH3y07Z4"
+      },
+      "artists": [
+        {
+          "name": "Los Inquietos Del Norte",
+          "url": "https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya"
+        }
+      ],
+      "duration_ms": 146466,
+      "name": "Mi Amigo el de Arriba",
+      "url": "https://open.spotify.com/track/2ThDyuLg8XDB0UtEEOLe7t"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 183373,
       "name": "No Hay Novedad",
       "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
-        "name": "La Gritera",
-        "url": "https://open.spotify.com/album/1SG347OQS3AuoDcH3y07Z4"
-      },
-      "artists": [
-        {
-          "name": "Los Inquietos Del Norte",
-          "url": "https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya"
-        }
-      ],
-      "duration_ms": 146466,
-      "name": "Mi Amigo el de Arriba",
-      "url": "https://open.spotify.com/track/2ThDyuLg8XDB0UtEEOLe7t"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
+        "name": "Se Me Solt\u00f3 El Hocico",
+        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Se Me Solt\u00f3 El Hocico",
+      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
         "name": "Me Haces Tan Bien",
         "url": "https://open.spotify.com/album/6vibWAte3CQY0K6EUxiPAv"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 168576,
       "name": "Me Haces Tan Bien",
       "url": "https://open.spotify.com/track/5mJ3ce2hMDnpGSuELoKUoL"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
-        "name": "Se Me Solt\u00f3 El Hocico",
-        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Se Me Solt\u00f3 El Hocico",
-      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -1967,6 +1967,26 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 243173,
+      "name": "Basta Ya - Banda",
+      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
         "name": "A M\u00ed Me Gustas T\u00fa",
         "url": "https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy"
       },
@@ -1987,26 +2007,6 @@
       "duration_ms": 186400,
       "name": "A M\u00ed Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 243173,
-      "name": "Basta Ya - Banda",
-      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
+        "name": "Los Locos Del Corrido",
+        "url": "https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes De Durango",
+          "url": "https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd"
+        }
+      ],
+      "duration_ms": 154586,
+      "name": "El Enamorado",
+      "url": "https://open.spotify.com/track/0CcFhIRRW468bAlAwD9FFs"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
         "name": "Los Mejores Corridos De",
         "url": "https://open.spotify.com/album/67hj85XV3QKcgKW48hJM4x"
       },
@@ -2079,22 +2095,6 @@
       "duration_ms": 211706,
       "name": "La Hummer Y El Camaro",
       "url": "https://open.spotify.com/track/6bRkTmvWjUr6aCXrKGIaG5"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
-        "name": "Los Locos Del Corrido",
-        "url": "https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes De Durango",
-          "url": "https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd"
-        }
-      ],
-      "duration_ms": 154586,
-      "name": "El Enamorado",
-      "url": "https://open.spotify.com/track/0CcFhIRRW468bAlAwD9FFs"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "Los Huracanes del Norte - 40 Aniversario",
-        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 201038,
-      "name": "El Gato De Chihuahua",
-      "url": "https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
         "name": "Mil Gracias Por Existir",
         "url": "https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 225541,
       "name": "Mil Gracias Por Existir",
       "url": "https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
+        "name": "Los Huracanes del Norte - 40 Aniversario",
+        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 201038,
+      "name": "El Gato De Chihuahua",
+      "url": "https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT"
     },
     {
       "added_at": "2023-07-07 16:00:00",

@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-258 songs - 15 hr 29 min
+259 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [How Does It Feel \- Acoustic](https://open.spotify.com/track/6JQsHhEwXjM4quc6Uuhe39) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [How Does It Feel \(Acoustic\)](https://open.spotify.com/album/7ET76dxz9GkF5UNrptpkP1) | 2:13 | 2023-07-06 |  |
 | [How I'm Feeling Now](https://open.spotify.com/track/5AGS8VxsLyHQOWz0ZTuwIN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:46 | 2023-05-23 |  |
 | [How I'm Feeling Now](https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [How I'm Feeling Now](https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj) | 3:46 | 2023-03-16 | 2023-05-24 |
-| [I Ain’t Worried \- Acoustic](https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \- Acoustic \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG) | 2:29 | 2022-10-20 |  |
+| [I Ain’t Worried \- Acoustic](https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \- Acoustic \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG) | 2:29 | 2022-10-20 | 2023-08-05 |
 | [I Believe in a Thing Called Love](https://open.spotify.com/track/7kcAK7HvIuHHDHJoGXlSPv) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:04 | 2023-05-02 | 2023-06-02 |
 | [I Can't Give Everything Away](https://open.spotify.com/track/5uLtfWEqn5ngoWySZkI9ii) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [I Can't Give Everything Away](https://open.spotify.com/album/58NC5JxuV17ealBQ1lZ0tj) | 3:55 | 2023-01-10 | 2023-02-22 |
 | [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 | 2023-04-13 | 2023-04-26 |
@@ -227,6 +227,7 @@
 | [Unload the Gun](https://open.spotify.com/track/3P6c5Xx54qDFw8xniwrUMX) | [Mimi Gilbert](https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P) | [Unload the Gun](https://open.spotify.com/album/46M9ISurJraSAaxTobY1ev) | 4:28 | 2023-02-21 |  |
 | [Until I'm Home](https://open.spotify.com/track/0r2jtynP0VVDA6ihok4jdm) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48), [Sammy Copley](https://open.spotify.com/artist/2Ss8myJnkg66YWeaVqtOmN) | [Until I'm Home](https://open.spotify.com/album/1ibWnIPLdicsuk6aYewHVJ) | 4:05 | 2023-05-02 |  |
 | [Valentine's Day](https://open.spotify.com/track/5EANCDPSkMlnHBU4Eu0Zb7) | [gb](https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6) | [Valentine's Day](https://open.spotify.com/album/7qt6DCMXltOD6WoCQHAObN) | 2:26 | 2023-02-09 | 2023-02-22 |
+| [Visiting Hours](https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:35 | 2023-08-03 |  |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2022-10-20 | 2023-08-04 |
 | [walk my life](https://open.spotify.com/track/1uWghGURCsFNleZaOtJwxU) | [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl) | [satellite flying alone](https://open.spotify.com/album/0P58MPy2TkOPZapZ8Z1wMF) | 3:54 | 2023-02-23 | 2023-03-01 |
 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 | 2022-12-13 | 2023-04-29 |

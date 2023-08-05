@@ -4,13 +4,13 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Johnny Sky
 
-315 songs - 19 hr 34 min
+316 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15,500 Noches](https://open.spotify.com/track/0X6sRADYbUDYutAulPllKN) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy), [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx), [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu), [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 4:31 | 2022-09-02 | 2022-09-10 |
 | [50/50](https://open.spotify.com/track/6OMRRYsSxvwAfFxkFfzn4L) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [50/50](https://open.spotify.com/album/7pqN4Gjy61BPFqpbJ8Vqjf) | 3:46 | 2022-03-04 | 2022-09-03 |
-| [7 Pecados](https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [7 Pecados](https://open.spotify.com/album/176s0aCeKMzCKl51vXul3X) | 3:24 | 2023-05-05 |  |
+| [7 Pecados](https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [7 Pecados](https://open.spotify.com/album/176s0aCeKMzCKl51vXul3X) | 3:24 | 2023-05-05 | 2023-08-05 |
 | [Abrete](https://open.spotify.com/track/2JT09i9gxPolHFrliKbxsD) | [Chiko Swagg](https://open.spotify.com/artist/0zz9lzzQBgwxEDsYHy0H2n), [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Abrete](https://open.spotify.com/album/06PuNPUtn9QmMWuSgmMAz5) | 4:14 | 2022-08-19 | 2022-09-03 |
 | [Adicta](https://open.spotify.com/track/0TrltbGlB8TyzKnYLWGaM8) | [Dama](https://open.spotify.com/artist/5YvnPJFWHBBV8SkjvzGWHT), [Mayinbito](https://open.spotify.com/artist/6FdgIggKvVgdMenO8cnnBA) | [Adicta](https://open.spotify.com/album/5VfoZy7Ge4Le12RDRRZVt5) | 3:31 | 2023-02-03 | 2023-05-27 |
 | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ) | 3:29 | 2022-03-04 | 2022-07-29 |
@@ -217,6 +217,7 @@
 | [Otra Vez](https://open.spotify.com/track/5iB0npbmkMygzGFcksUEeb) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Otra Vez](https://open.spotify.com/album/6yfkiTPQnP5t0iBxWPKZDw) | 3:41 | 2022-12-09 | 2023-04-22 |
 | [Pa Que Tu Me Llamas](https://open.spotify.com/track/0927bjIAHt0dnGFI48sRyn) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Pa Que Tu Me Llamas](https://open.spotify.com/album/68BpJtPQwgegYqEp57knQ3) | 3:55 | 2022-06-24 | 2022-09-03 |
 | [Perdidos \- Bachata](https://open.spotify.com/track/44ayrb3kbN6jwX9WWdoTcV) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hasta El Fin](https://open.spotify.com/album/4iHyju83xno9hKLGfdPs02) | 4:27 | 2022-03-04 | 2022-09-03 |
+| [Perdon](https://open.spotify.com/track/200Xoixz9vIdfvUoB9Lq6I) | [Ronny Dae](https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId) | [Perdon](https://open.spotify.com/album/3ExPJyqjXscTQvzo0UC96u) | 3:13 | 2023-08-04 |  |
 | [Perdon \- Bachata Version](https://open.spotify.com/track/2b6c7ZxpZBsDdg347FvXj3) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS), [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [Bachata Union](https://open.spotify.com/album/35uUrVpaYFHrFTSYZ4F0Sf) | 3:57 | 2022-03-04 | 2022-07-29 |
 | [Perfume](https://open.spotify.com/track/2UxCHjxmGN6X4oiBfWKM0c) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot \(Extended Version\)](https://open.spotify.com/album/75DDvdNMm1S83v3iefTbtu) | 3:12 | 2022-05-20 | 2022-09-03 |
 | [Perro](https://open.spotify.com/track/74o96bZLSIZFIG12H7ZwUm) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:33 | 2022-09-02 | 2022-09-10 |

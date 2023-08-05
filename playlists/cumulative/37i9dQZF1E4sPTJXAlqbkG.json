@@ -38,10 +38,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 178564,
       "name": "2am",
       "url": "https://open.spotify.com/track/2XN2zvwwACt33w7gxmthfF"
+    },
+    {
+      "album": {
+        "name": "Love Scars: The 5 Stages Of Emotions (Deluxe)",
+        "url": "https://open.spotify.com/album/2RhpPh3aaviygDMbFUa3HG"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186480,
+      "name": "2AM In Houston",
+      "url": "https://open.spotify.com/track/3DO8VmYTmu1HRnxqwboVOI"
     },
     {
       "album": {
@@ -387,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Between Us",
+        "url": "https://open.spotify.com/album/0cECqdSGxfMgQQbJU2drHW"
+      },
+      "artists": [
+        {
+          "name": "Jayla Darden",
+          "url": "https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135600,
+      "name": "Between Us",
+      "url": "https://open.spotify.com/track/7k4uhEqbQptzZVynCbXY37"
+    },
+    {
+      "album": {
         "name": "The Noise",
         "url": "https://open.spotify.com/album/7MFQQxd6QWb4K7AQ3Q4rvh"
       },
@@ -528,7 +564,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 216234,
       "name": "Childs Play (feat. Chance the Rapper)",
       "url": "https://open.spotify.com/track/7GPstnufSTScEaw9dMxO9H"
@@ -756,7 +792,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 203640,
       "name": "Dope Love",
       "url": "https://open.spotify.com/track/2GvbEi474ERilha4hoMPre"
@@ -1340,7 +1376,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 202945,
       "name": "I'm Good",
       "url": "https://open.spotify.com/track/283tKnbdYdj5Jd3Hg2HfIV"
@@ -1500,7 +1536,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 182080,
       "name": "Just me & you",
       "url": "https://open.spotify.com/track/49Lmm7h7aLUrkuaSsXjUtO"
@@ -1908,7 +1944,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-03",
+      "date_removed": null,
       "duration_ms": 213214,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
@@ -2024,7 +2060,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 195909,
       "name": "One Night Only",
       "url": "https://open.spotify.com/track/74fQgHleHZ4V7Gm1XYcGkj"
@@ -2042,7 +2078,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 207413,
       "name": "Over",
       "url": "https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM"
@@ -2150,7 +2186,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-03",
+      "date_removed": null,
       "duration_ms": 212977,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5AK7FJz1kqXEskDM3wFIQ2"
@@ -2280,7 +2316,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 209986,
       "name": "Proud Family (Remix)",
       "url": "https://open.spotify.com/track/6tH9pSzSipqYRQZVkJNLyC"
@@ -2472,7 +2508,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 237786,
       "name": "Say It",
       "url": "https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU"
@@ -2792,7 +2828,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 177445,
       "name": "Still Your Best",
       "url": "https://open.spotify.com/track/6qvtoU0gbkaOcTx6mnVDgV"
@@ -2880,7 +2916,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-31",
+      "date_removed": null,
       "duration_ms": 282993,
       "name": "TALK TO ME NICE",
       "url": "https://open.spotify.com/track/5SQvh2DpXwrwrIPf2v5tc4"
@@ -2898,7 +2934,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 123080,
       "name": "TBH",
       "url": "https://open.spotify.com/track/236P5yLtfnHgTMxevc0q6F"
@@ -3228,7 +3264,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 202425,
       "name": "Wanna Be (feat. PARTYNEXTDOOR & London On Da Track)",
       "url": "https://open.spotify.com/track/2DxHdJYeBvbiceEszdrGtr"
@@ -3286,7 +3322,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 114160,
       "name": "Welcome to the Party",
       "url": "https://open.spotify.com/track/5MtMp3OeL7oOeF0WWY4TFT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,256 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,321 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 72 | [Sammram](https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821) | [Ikupu Ume](https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP) | [Sammram](https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz) | 3:26 |
 | 73 | [Dreamstate](https://open.spotify.com/track/61HSo5TNO6zcd1zjsjO4o5) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Dreamstate](https://open.spotify.com/album/37DwKVq9tG6vzYVhORPRmL) | 2:43 |
 | 74 | [Soft Meadow](https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Soft Meadow](https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8) | 3:13 |
-| 75 | [mOther World](https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe) | [Mike Molloy](https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r) | [mOther World](https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un) | 2:04 |
-| 76 | [Expanded Reality](https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O) | [Axial Flow](https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL) | [Expanded Reality](https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN) | 2:42 |
+| 75 | [Calm Waves](https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Calm Waves](https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj) | 2:46 |
+| 76 | [mOther World](https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe) | [Mike Molloy](https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r) | [mOther World](https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un) | 2:04 |
 | 77 | [Moonlit](https://open.spotify.com/track/1QHE6Ou7sUHXSS9y7eKVR8) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Moonlit](https://open.spotify.com/album/39mlZc7KmKoHZ8jiGancz3) | 2:38 |
-| 78 | [Calm Waves](https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Calm Waves](https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj) | 2:46 |
+| 78 | [Expanded Reality](https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O) | [Axial Flow](https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL) | [Expanded Reality](https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN) | 2:42 |
 | 79 | [Blissful](https://open.spotify.com/track/2b5wdM050xUWmFDGygyqe8) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Blissful](https://open.spotify.com/album/7GCBYS9ubuzTUDiXu0ioWN) | 2:44 |
 | 80 | [Tokyo Drifting](https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf) | 3:23 |
 
-Snapshot ID: `MCwxOTJjYmFkYjQ5ZTU5YWQ2OGVmODc0ODZhZmQ0OGM1ZjYzZDdkYjlm`
+Snapshot ID: `MCw1OWVmODk1OTAzZjliNzRmMjhiNDA4NDc1MzRkYzFkZTZlNzhmYTRj`

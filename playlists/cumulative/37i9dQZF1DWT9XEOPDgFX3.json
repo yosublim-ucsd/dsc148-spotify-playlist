@@ -2487,6 +2487,28 @@
     },
     {
       "album": {
+        "name": "Halfway (Acoustic) feat. Hotel Fiction",
+        "url": "https://open.spotify.com/album/3LkMO7M2naqTPwNIEOvuFr"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        },
+        {
+          "name": "Hotel Fiction",
+          "url": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242526,
+      "name": "Halfway (Acoustic) feat. Hotel Fiction",
+      "url": "https://open.spotify.com/track/66YHDx66wNm8bjuvWHeQOo"
+    },
+    {
+      "album": {
         "name": "Hannah",
         "url": "https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ"
       },
@@ -5750,7 +5772,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 271869,
       "name": "tap",
       "url": "https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa"

@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 25796,
+  "num_followers": 25880,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmQ3ODgwNjk0MmM4MWViYWI0NWZlMWM5ZWM5OGEzNzlkZWE5YzRl",
+  "snapshot_id": "MCxlM2M4OTg3MjAyOTQ2ZGUzNzNkZGQ5ODVhZGY1OTk3YzE4Njk4ODI3",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -671,26 +671,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 270400,
-      "name": "ODIO",
-      "url": "https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "GPS (feat. French Montana)",
         "url": "https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 216306,
       "name": "GPS (feat. French Montana)",
       "url": "https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 270400,
+      "name": "ODIO",
+      "url": "https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Wake Me",
-        "url": "https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 174335,
-      "name": "Wake Me",
-      "url": "https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 158267,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Wake Me",
+        "url": "https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 174335,
+      "name": "Wake Me",
+      "url": "https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Por Si Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "duration_ms": 187046,
+      "name": "S\u00e1banas An\u00f3nimas",
+      "url": "https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Pa Mi",
         "url": "https://open.spotify.com/album/5sP1lpFKLvJuO5egElrW9K"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 228231,
       "name": "Pa Mi",
       "url": "https://open.spotify.com/track/5m8hIduzkrvf191VO9CQu4"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Por Si Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        }
-      ],
-      "duration_ms": 187046,
-      "name": "S\u00e1banas An\u00f3nimas",
-      "url": "https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1867,34 +1867,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Mi Llamada",
-        "url": "https://open.spotify.com/album/6hGMmjLQGdQpnGPIk2UGO2"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Lenny Tav\u00e1res",
-          "url": "https://open.spotify.com/artist/3fjQrf2I2ARKPtokE52RlM"
-        }
-      ],
-      "duration_ms": 255080,
-      "name": "Mi Llamada",
-      "url": "https://open.spotify.com/track/7KOjAgKGwAlmzSqnDHvkfE"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "CON OTRA",
         "url": "https://open.spotify.com/album/52PuSx5sskih9PSdXE254e"
       },
@@ -1927,18 +1899,30 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "P\u00e1lida",
-        "url": "https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI"
+        "name": "Mi Llamada",
+        "url": "https://open.spotify.com/album/6hGMmjLQGdQpnGPIk2UGO2"
       },
       "artists": [
         {
-          "name": "Robert Tiamo",
-          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Lenny Tav\u00e1res",
+          "url": "https://open.spotify.com/artist/3fjQrf2I2ARKPtokE52RlM"
         }
       ],
-      "duration_ms": 214000,
-      "name": "P\u00e1lida",
-      "url": "https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ"
+      "duration_ms": 255080,
+      "name": "Mi Llamada",
+      "url": "https://open.spotify.com/track/7KOjAgKGwAlmzSqnDHvkfE"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1959,6 +1943,22 @@
       "duration_ms": 165332,
       "name": "L\u00e1grimas",
       "url": "https://open.spotify.com/track/6lqAPHFWOM0m6n6yHJxryB"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "P\u00e1lida",
+        "url": "https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI"
+      },
+      "artists": [
+        {
+          "name": "Robert Tiamo",
+          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "P\u00e1lida",
+      "url": "https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ"
     },
     {
       "added_at": "2022-12-09 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,604 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,661 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 15 | [Willin'](https://open.spotify.com/track/7HblJM23la7H8kXeBwlkzN) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 3:02 |
 | 16 | [This Ol' Cowboy](https://open.spotify.com/track/0diAR6QUxrDiEBjRZSfweR) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Greatest Hits](https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w) | 3:39 |
 | 17 | [Good Year For The Roses](https://open.spotify.com/track/4RZCoFsZHw9XvDZdv2jtkK) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Almost Blue](https://open.spotify.com/album/6Y234kkXewBp0CjanUQW3w) | 3:08 |
-| 18 | [Cinderella](https://open.spotify.com/track/6nwlPs3mgpHYUJJ0ETPIXP) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Firefall](https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o) | 3:36 |
+| 18 | [You're Only Lonely](https://open.spotify.com/track/0qzEkwri1hE0rgxVqdOBAf) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [You're Only Lonely](https://open.spotify.com/album/1JoT6VQQ8H5CUtPLEYw7o0) | 3:48 |
 | 19 | [Witchy Woman \- 2013 Remaster](https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:10 |
-| 20 | [You're Only Lonely](https://open.spotify.com/track/0qzEkwri1hE0rgxVqdOBAf) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [You're Only Lonely](https://open.spotify.com/album/1JoT6VQQ8H5CUtPLEYw7o0) | 3:48 |
+| 20 | [Cinderella](https://open.spotify.com/track/6nwlPs3mgpHYUJJ0ETPIXP) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Firefall](https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o) | 3:36 |
 | 21 | [Return of the Grievous Angel \- 2006 Remaster](https://open.spotify.com/track/7vOYp7KJ8gVmVbcatSVf9J) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 4:26 |
 | 22 | [Cadillac Ranch](https://open.spotify.com/track/7ny63lhhFA36LKmtu4IxiW) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Road Trip Blues Rock](https://open.spotify.com/album/5WHwosaLhR8vDOBMWZFFcQ) | 3:42 |
 | 23 | [Just Can't Be](https://open.spotify.com/track/0Ov9Hh2ygoGCkwTXMRYRcp) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Flying Burrito Brothers](https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1) | 4:58 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 43 | [Love Reunited](https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63) | [The Desert Rose Band](https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u) | [The Desert Rose Band](https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih) | 2:57 |
 | 44 | [White Line Fever](https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Flying Burrito Brothers](https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1) | 3:16 |
 | 45 | [Listen to a Country Song](https://open.spotify.com/track/5YEgs7DjcGk9pYP6l0u85h) | [Loggins & Messina](https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9) | [Sittin' In](https://open.spotify.com/album/1EtuN2j0AKVwsiqrddMtco) | 2:49 |
-| 46 | [Make A Little Magic \- 2001 Remaster](https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Best Of](https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG) | 3:55 |
-| 47 | [Step on Out](https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE) | [Chris Hillman](https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs) | [Slippin Away](https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y) | 3:15 |
+| 46 | [Step on Out](https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE) | [Chris Hillman](https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs) | [Slippin Away](https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y) | 3:15 |
+| 47 | [Make A Little Magic \- 2001 Remaster](https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Best Of](https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG) | 3:55 |
 | 48 | [Ten More Miles to Louisiana](https://open.spotify.com/track/1E252QgKGNYBXfwaiXZtZy) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Black & White](https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ) | 2:24 |
 | 49 | [Rebecca \- Remastered](https://open.spotify.com/track/6JivFldqJ4qjT7kYhygGTl) | [Longbranch/Pennywhistle](https://open.spotify.com/artist/7bK26KSS2vRPxiT2UDeYSF) | [Longbranch/Pennywhistle \(Remastered\)](https://open.spotify.com/album/6z5JQxMPg26VbiNjK0ktjp) | 2:48 |
 | 50 | [Down Along The Cove](https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU) | [Johnny Jenkins](https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27) | [Ton\-Ton Macoute!](https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum) | 3:25 |
 
-Snapshot ID: `MCw2ZGU4ZjM2Y2ExMmFiYzk0ZDRmYzA1NzU1NGVhODVlOTZhNjk1ZmQ5`
+Snapshot ID: `MCw4YWZkN2MzOWJkY2EyYWU5YzM1OGEzM2M1NTA3MzdhNzM2M2U2Njhm`

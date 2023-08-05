@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: YOÚN
 
-140 songs - 7 hr 10 min
+142 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Bahamas](https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z) | [Jota SF](https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib) | [Éramos](https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i) | 3:38 | 2022-11-18 |  |
 | [Bem Calma](https://open.spotify.com/track/6c3b87lxij2i7A4uFpcd1t) | [Shamilla](https://open.spotify.com/artist/5jZSvXknZbgk0gdObdTnh2), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Bem Calma](https://open.spotify.com/album/3yWAlfv8Jyw8ddRiLqWECS) | 3:00 | 2022-11-18 | 2023-01-14 |
 | [Bem Longe](https://open.spotify.com/track/2vshespmRvtcximTIzQvB2) | [Thiene](https://open.spotify.com/artist/2Jh7MhQqgXwm1wagSuBoZS) | [Bem Longe](https://open.spotify.com/album/3B9sABomz6c9CwXBFXhW6a) | 3:09 | 2023-01-20 | 2023-06-03 |
-| [Brigas Demais](https://open.spotify.com/track/210u8GSVwq7anEWu0e6wzL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 4:08 | 2023-03-24 |  |
+| [Brigas Demais](https://open.spotify.com/track/210u8GSVwq7anEWu0e6wzL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 4:08 | 2023-03-24 | 2023-08-05 |
 | [Caos](https://open.spotify.com/track/4VhNzb4En46y2hHNYDl92c) | [Annick](https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE), [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Caos](https://open.spotify.com/album/5rTyg8j1ZT8hJFcWbO63sD) | 3:00 | 2023-04-07 | 2023-06-24 |
 | [Casual](https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [Casual](https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu) | 3:30 | 2022-11-18 |  |
 | [Ceder](https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [Ceder](https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS) | 3:17 | 2022-11-18 |  |
@@ -52,7 +52,8 @@
 | [Fuder e Dormir Juntin](https://open.spotify.com/track/5SbtLc9nK4o1Y2QSMQG4JE) | [Medulla](https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN) | [Fuder e Dormir Juntin](https://open.spotify.com/album/53nXJdbxsoLg0BpJbOn3uA) | 3:00 | 2023-03-17 |  |
 | [Garota Nota 100](https://open.spotify.com/track/7eA6fYJFYjGLrqpMYhRTAo) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Garota Nota 100](https://open.spotify.com/album/40x6HLtvlgqwUmp9O4mzKi) | 3:15 | 2023-01-20 | 2023-03-25 |
 | [Gosto de Você](https://open.spotify.com/track/75YFJjfgVCM46P6UUfGhDx) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Gosto de Você](https://open.spotify.com/album/4AL19qe0DttWN5gcCxsKrw) | 2:50 | 2022-11-18 |  |
-| [incenso](https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [incenso](https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D) | 2:23 | 2023-01-27 |  |
+| [Imaturos](https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Imaturos](https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr) | 3:32 | 2023-08-04 |  |
+| [incenso](https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [incenso](https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D) | 2:23 | 2023-01-27 | 2023-08-05 |
 | [incomum](https://open.spotify.com/track/0h6oF0wN1AWD1waKl979Jp) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [jovemCARLOS](https://open.spotify.com/album/0YAr9017bY6ojo4GGk7ijC) | 3:37 | 2023-04-07 | 2023-04-18 |
 | [incomum](https://open.spotify.com/track/70zl4IbecZee4V3YubNt4J) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [incomum](https://open.spotify.com/album/2jpFAKZ13KRb8EqChWMBON) | 3:37 | 2022-11-18 | 2023-04-09 |
 | [Incrível](https://open.spotify.com/track/21tUE1e9Z0St05vcAAD8zq) | [Theus Costa](https://open.spotify.com/artist/4qNZfaBcaNA2Q2a9danTGP), [Quézia Lima](https://open.spotify.com/artist/4ItRsVQGClDa3B2r5bgoeP) | [Incrível](https://open.spotify.com/album/1xS3qTC20EJQkCjjMnG7Rg) | 2:02 | 2023-04-28 | 2023-07-22 |
@@ -142,6 +143,7 @@
 | [Troco](https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Troco](https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V) | 2:39 | 2022-12-01 |  |
 | [Tudo Que Restou](https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA), [UGOTZ](https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625) | [Tudo Que Restou](https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK) | 3:18 | 2022-11-18 |  |
 | [Uma Chance](https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO) | [Crod](https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j) | [Uma Chance Pra Ficar Tudo bem](https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3) | 2:34 | 2022-11-18 |  |
+| [Uma Vida é Pouco Pra Te Amar](https://open.spotify.com/track/6QWAEJf3F8sX0P8jVMpFsr) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 3:32 | 2023-08-04 |  |
 | [Ventilador](https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM) | [Nagy](https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv) | [Ventilador](https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs) | 2:59 | 2022-11-18 |  |
 | [Versão Beta](https://open.spotify.com/track/4zFUgRg9wz4ASTEwP7iLGw) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [PNDA](https://open.spotify.com/artist/6DYuSFwiyWFr9HE1BBOYWI) | [Versão Beta](https://open.spotify.com/album/1I8UNZ5kbxS30jr20UUDrL) | 2:13 | 2023-07-21 |  |
 | [Vestido Vermelho](https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm) | [Vestido Vermelho](https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss) | 2:50 | 2022-11-18 |  |

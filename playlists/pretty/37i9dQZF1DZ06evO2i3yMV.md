@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,542 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,546 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 19 | [Love That Never \- IMANU Remix](https://open.spotify.com/track/7dqyP8Zvv23kyRygun9V57) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Oasis Nocturno \(Remixed\)](https://open.spotify.com/album/6cC6x6bk3lsebSLz2CzGCP) | 3:34 |
 | 20 | [I Wish I Could \(feat\. Selah Sue\)](https://open.spotify.com/track/6bfoNQLQk8pU1hcd0esCii) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:26 |
 | 21 | [The Beginning](https://open.spotify.com/track/0eVOAnzGXpbboig0AtjvrA) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 1:41 |
-| 22 | [Up and Out](https://open.spotify.com/track/2URXBdx9353u9BxBHQoD7K) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 4:40 |
-| 23 | [Go With It](https://open.spotify.com/track/5dFhRQKsHnAiyg9wXKtJDz) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Half Shadows](https://open.spotify.com/album/048Y5hrjEH1z26wzWqModK) | 4:23 |
+| 22 | [Go With It](https://open.spotify.com/track/5dFhRQKsHnAiyg9wXKtJDz) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Half Shadows](https://open.spotify.com/album/048Y5hrjEH1z26wzWqModK) | 4:23 |
+| 23 | [Up and Out](https://open.spotify.com/track/2URXBdx9353u9BxBHQoD7K) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 4:40 |
 | 24 | [Don't Call Me \(feat\. Yuna\)](https://open.spotify.com/track/0Dy8xi4hjZHaZij3I4pyWP) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 3:37 |
 | 25 | [Death by Disco](https://open.spotify.com/track/4QRs1M6DYXbNkHHWlhvYvk) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 3:57 |
 | 26 | [Put It Down](https://open.spotify.com/track/0xGgaX21ytUiJu1nIgdYpa) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [KRANE](https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:03 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 43 | [House of Dal](https://open.spotify.com/track/4psFTXt6MSnrYTAiOYiwGg) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 4:26 |
 | 44 | [Dusty Stars](https://open.spotify.com/track/6zkKeA1t9mEJ0TopG3gqIw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:11 |
 | 45 | [Day Job](https://open.spotify.com/track/15Mo2tdzulBWzaG6Yv37Tq) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 4:35 |
-| 46 | [Heart on the Ground](https://open.spotify.com/track/4pSs3nGm22r5f43E5qKzoW) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kiya Lacey](https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:31 |
+| 46 | [I'm Waiting](https://open.spotify.com/track/7tbm1Ca9FlGnxSF9XamZUI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:10 |
 | 47 | [For My Eternal, Oh Dream My Treasure](https://open.spotify.com/track/0hlXa1QoFPuMaTKjWccv98) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 2:49 |
 | 48 | [Drive](https://open.spotify.com/track/6Rspcj5SfbODT0JVlPxmca) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Arama](https://open.spotify.com/artist/3bRj518241KTJEkmDDgv57) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:14 |
 | 49 | [Stigmatizing Sex](https://open.spotify.com/track/02bnahS6YFurzZoNoRdXUj) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 2:58 |
-| 50 | [I'm Waiting](https://open.spotify.com/track/7tbm1Ca9FlGnxSF9XamZUI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:10 |
+| 50 | [Heart on the Ground](https://open.spotify.com/track/4pSs3nGm22r5f43E5qKzoW) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kiya Lacey](https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:31 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDBmNWU0NDI5MmVhMWY3ODQ3ZDg3MDM0MTQ0MzNhYmQ2NA==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDBlMTc5Yjk4YmUxOGYzNmQ1OTZkNWE3ZDlhMjE2OWE0OQ==`

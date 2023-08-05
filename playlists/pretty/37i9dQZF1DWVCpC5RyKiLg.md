@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,636 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,828 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 74 | [Pesquisa no Google \(feat\. Henrique & Diego\) \- Ao Vivo](https://open.spotify.com/track/7pSXU2BrcwQt5mbRPKEO4k) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [Pesquisa no Google \(feat\. Henrique & Diego\) \[Ao Vivo\]](https://open.spotify.com/album/4GhQyISpTeElMOHFUVSqKR) | 2:49 |
 | 75 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
 
-Snapshot ID: `MCxmY2IzZjY3MDEzYTJkZjc5NzM2ZmY1ZjE3Yzg3MjNjOTA5ZDdiYjcy`
+Snapshot ID: `MCwwYmYyOTNiNjdlNzI0ZDYyOWRhM2NkNTg5ZDdhNTliYWFjMDZmMTYy`

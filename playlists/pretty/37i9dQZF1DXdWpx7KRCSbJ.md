@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,509 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,511 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 30 | [Dona Maria](https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Dona Maria](https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur) | 3:07 |
 | 31 | [Tô Com Moral No Céu! \- Ao Vivo](https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Intensamente Hoje!](https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh) | 2:50 |
 | 32 | [Agora é Tudo Meu](https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Agora é Tudo Meu](https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g) | 2:51 |
-| 33 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 |
-| 34 | [Cheia de Manias \- Ao Vivo](https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr) | [Raça Negra](https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Raça Negra e Amigos II \(Ao Vivo\)](https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw) | 4:37 |
+| 33 | [Cheia de Manias \- Ao Vivo](https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr) | [Raça Negra](https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Raça Negra e Amigos II \(Ao Vivo\)](https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw) | 4:37 |
+| 34 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 |
 | 35 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 |
 | 36 | [TOMA](https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [TOMA](https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3) | 2:09 |
 | 37 | [Aí Eu Bebo \- Ao Vivo](https://open.spotify.com/track/6lK3nCiigk34SGqEjpQoqO) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Aí Eu Bebo \(ao Vivo\)](https://open.spotify.com/album/6xWyByyXTcL2MUSi0mKewj) | 2:53 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 59 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
 | 60 | [Inquilina \- Ao Vivo](https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Xperience Na Praia \(ao Vivo\)](https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5) | 4:05 |
 | 61 | [O Bebê](https://open.spotify.com/track/15YEYgT0kDso9gwOcJFAmV) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [O Bebê](https://open.spotify.com/album/7J4vpR8Rl5sB7GqBIk8A8h) | 2:58 |
-| 62 | [Um Brinde \(feat\. Marília Mendonça & Maiara & Maraisa\)](https://open.spotify.com/track/6aIrHPvM3l16MeS7iOQRYO) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Um Brinde \(feat\. Marília Mendonça & Maiara & Maraisa\)](https://open.spotify.com/album/5teU2mGfU2Qe5Lqj0skN5i) | 2:58 |
-| 63 | [E Essa Boca Aí? \- Ao Vivo](https://open.spotify.com/track/6vve9WKW5I7fQzkU8dNsUE) | [Bruninho & Davi](https://open.spotify.com/artist/5exy2LREZrJ6aRzj1SwXQX) | [Bruninho & Davi ao Vivo no Ibirapuera \(Deluxe\)](https://open.spotify.com/album/0N5TZp53t8eSWzmeHqr1tA) | 3:01 |
+| 62 | [E Essa Boca Aí? \- Ao Vivo](https://open.spotify.com/track/6vve9WKW5I7fQzkU8dNsUE) | [Bruninho & Davi](https://open.spotify.com/artist/5exy2LREZrJ6aRzj1SwXQX) | [Bruninho & Davi ao Vivo no Ibirapuera \(Deluxe\)](https://open.spotify.com/album/0N5TZp53t8eSWzmeHqr1tA) | 3:01 |
+| 63 | [Um Brinde \(feat\. Marília Mendonça & Maiara & Maraisa\)](https://open.spotify.com/track/6aIrHPvM3l16MeS7iOQRYO) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Um Brinde \(feat\. Marília Mendonça & Maiara & Maraisa\)](https://open.spotify.com/album/5teU2mGfU2Qe5Lqj0skN5i) | 2:58 |
 | 64 | [Devagarinho](https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Devagarinho](https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr) | 2:17 |
 | 65 | [Coladinha em Mim \- Ao Vivo](https://open.spotify.com/track/2lN3l0jHCjVulwdPX6NvUn) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Coladinha em Mim \(Ao Vivo\)](https://open.spotify.com/album/5PxAPT3Nvu4ChOHzBrj0CA) | 2:50 |
 | 66 | [A Distância Tá Maltratando](https://open.spotify.com/track/5TE7Y9ycqyglDqKPEriXdR) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [A Distância Tá Maltratando](https://open.spotify.com/album/7G059SfagKnzI5dOXhOyzN) | 2:47 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 69 | [Sapequinha](https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Sapequinha](https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja) | 2:14 |
 | 70 | [Tudo Ok](https://open.spotify.com/track/4HUZBG98TYbxSR9V1V2DWS) | [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV), [Mila](https://open.spotify.com/artist/606eWexxNhc6Mj0RuCxMA9), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Tudo Ok](https://open.spotify.com/album/33h1DnrztGgynGDWwzQEiA) | 2:58 |
 
-Snapshot ID: `MCw5Y2M4ODQzNzUwNDUwNGI4YzExMmRlYzc4MDU2OGU2N2ExMmRkMmI4`
+Snapshot ID: `MCxiYzk0OTRkMGE5ZDhiMTUyOGYxZTBmMjdjODBmZWIzNmFkNzJlYTVm`

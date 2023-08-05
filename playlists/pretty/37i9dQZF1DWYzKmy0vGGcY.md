@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,028 likes - 125 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,253 likes - 125 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 45 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [How Sweet It Is To Be Loved By You](https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw) | 2:57 |
 | 46 | [Green Green Grass Of Home](https://open.spotify.com/track/5BFWQXNGPYadZxNKxY1UfU) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Green, Green Grass Of Home](https://open.spotify.com/album/15QRC2FhT659a5YJIS0Nff) | 3:04 |
 | 47 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay](https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr) | 2:46 |
-| 48 | [I'll Never Fall in Love Again](https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [I'll Never Fall in Love Again](https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW) | 2:54 |
-| 49 | [Wichita Lineman \- Remastered 2001](https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Wichita Lineman \(Remastered\)](https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE) | 3:06 |
+| 48 | [Wichita Lineman \- Remastered 2001](https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Wichita Lineman \(Remastered\)](https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE) | 3:06 |
+| 49 | [I'll Never Fall in Love Again](https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [I'll Never Fall in Love Again](https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW) | 2:54 |
 | 50 | [Words](https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Horizontal \(Deluxe Version\)](https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05) | 3:18 |
 | 51 | [Leaving on a Jet Plane](https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Album 1700](https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ) | 3:27 |
 | 52 | [Scarborough Fair / Canticle](https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 3:10 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 95 | [Angel Baby](https://open.spotify.com/track/1HzfcOcxJeGmxgf5a6MK0W) | [Rosie & The Originals](https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf) | [Presenting Rosie & the Originals](https://open.spotify.com/album/76X16nVTLk9S8FrLrAP8ff) | 3:47 |
 | 96 | [More Than I Can Say](https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Bobby Vee](https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV) | 2:29 |
 | 97 | [You'll Never Walk Alone](https://open.spotify.com/track/3nxEmpFc1R0kiDrULNkSaf) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [Oldies 60's](https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH) | 2:40 |
-| 98 | [Wishin' And Hopin'](https://open.spotify.com/track/1UBcwKIAUHo7BYAvae6yeA) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Stay Awhile / I Only Want To Be With You](https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St) | 2:56 |
-| 99 | [You've Really Got A Hold On Me](https://open.spotify.com/track/1vG906bxMqUVufJoLSF4rV) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Ooo Baby Baby: The Anthlogy](https://open.spotify.com/album/7iNG3yfard0TYDWKTFC6qr) | 3:11 |
+| 98 | [You've Really Got A Hold On Me](https://open.spotify.com/track/1vG906bxMqUVufJoLSF4rV) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Ooo Baby Baby: The Anthlogy](https://open.spotify.com/album/7iNG3yfard0TYDWKTFC6qr) | 3:11 |
+| 99 | [Wishin' And Hopin'](https://open.spotify.com/track/1UBcwKIAUHo7BYAvae6yeA) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Stay Awhile / I Only Want To Be With You](https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St) | 2:56 |
 | 100 | [What the World Needs Now Is Love](https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Close to You](https://open.spotify.com/album/3CL1hC6obi44Z6dZqhrDUA) | 3:10 |
 | 101 | [Forever](https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Playboy](https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic) | 2:21 |
 | 102 | [Harbor Lights](https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Reflections](https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F) | 3:14 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 104 | [Mr\. Lonely](https://open.spotify.com/track/6x8xIapc9xcZlJ9HpCkrm9) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [16 Most Requested Songs](https://open.spotify.com/album/3bi87ndwfdokCp0Km4fxoJ) | 2:40 |
 | 105 | [The Tracks Of My Tears](https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The Definitive Collection](https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW) | 2:54 |
 | 106 | [Caroline, No \- Mono](https://open.spotify.com/track/5RSQKtG1KNwrzFMEePpjt6) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 |
-| 107 | [Anyone Who Had a Heart](https://open.spotify.com/track/2BQZvZsA9SRafvWEBSQnri) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Anyone Who Had a Heart](https://open.spotify.com/album/6wdZ2YwGsOGmhlrmlglpsc) | 3:04 |
-| 108 | [Honey \(I Miss You\)](https://open.spotify.com/track/7eErg4xYy85zjy10xsZop6) | [Gary Puckett & The Union Gap](https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ) | [Gary Puckett & The Union Gap Featuring "Young Girl"](https://open.spotify.com/album/3Q83WkHiw4oRcmjuRbHJ8M) | 4:12 |
+| 107 | [Honey \(I Miss You\)](https://open.spotify.com/track/7eErg4xYy85zjy10xsZop6) | [Gary Puckett & The Union Gap](https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ) | [Gary Puckett & The Union Gap Featuring "Young Girl"](https://open.spotify.com/album/3Q83WkHiw4oRcmjuRbHJ8M) | 4:12 |
+| 108 | [Anyone Who Had a Heart](https://open.spotify.com/track/2BQZvZsA9SRafvWEBSQnri) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Anyone Who Had a Heart](https://open.spotify.com/album/6wdZ2YwGsOGmhlrmlglpsc) | 3:04 |
 | 109 | [Make It Easy On Yourself](https://open.spotify.com/track/5DNmWyeY9sildeeHnmIImG) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [Take It Easy With The Walker Brothers](https://open.spotify.com/album/5093E69Qt7j5Pv49zaEbhr) | 3:13 |
 | 110 | [If I Can Dream \- Stereo Mix](https://open.spotify.com/track/1UFC110Pt7YQsgeDbmllyx) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 3:09 |
 | 111 | [For Your Precious Love](https://open.spotify.com/track/4HiOvJ1lASRijDaaqtZQ9N) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [For Your Precious Love...](https://open.spotify.com/album/2PHrZGSFqrXwJ4RM5svp4T) | 2:45 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 124 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:58 |
 | 125 | [All I Could Do Was Cry](https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:55 |
 
-Snapshot ID: `MCwxOTI1MjRmODQxYjJmODI1MWUxYmUxNTVjZmM0MjA4ZjViMTAwYjcw`
+Snapshot ID: `MCxiMDBjNDE5ZDg5MWIyNzE3ODc5NjMxY2UyOGU5MmJhMjIzMDMzOGNm`

@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 13216,
+  "num_followers": 13222,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDRiMTQzYzQxOWQxZjhkODI4NTQ5MDdmZTBhMmU3ZWNjN2VjMmFj",
+  "snapshot_id": "MCxmOGVlNWQwN2UzOGU3MWU1NzBiYTk2YmQ0ZDUzYjNkZjI2NTkwNjQ2",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Full Album RED PLANET",
-        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "Galaxy \uc6b0\uc8fc\ub97c \uc904\uac8c",
-      "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry - The 3rd Album",
         "url": "https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 232333,
       "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry",
       "url": "https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "Galaxy \uc6b0\uc8fc\ub97c \uc904\uac8c",
+      "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Playful Kiss OST",
-        "url": "https://open.spotify.com/album/4cBlP0W14X5Jfe8kQw4xGB"
+        "name": "INFINITIZE",
+        "url": "https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D"
       },
       "artists": [
         {
-          "name": "G.NA",
-          "url": "https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA"
+          "name": "INFINITE",
+          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
         }
       ],
-      "duration_ms": 237322,
-      "name": "Will You Kiss Me",
-      "url": "https://open.spotify.com/track/45qSSH075SHoIV9cSn2wZK"
+      "duration_ms": 202520,
+      "name": "The Chaser",
+      "url": "https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s"
     }
   ],
   "unique_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",

@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Light Of Purpose",
+        "url": "https://open.spotify.com/album/7fPup8POfEeT6xK3nnamVH"
+      },
+      "artists": [
+        {
+          "name": "Strangewoods",
+          "url": "https://open.spotify.com/artist/0KwJGZ4wFqLaQ5fGoC19cH"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163814,
+      "name": "Light Of Purpose",
+      "url": "https://open.spotify.com/track/3ZKiF3zKAwMC0Ftjxd7tpT"
+    },
+    {
+      "album": {
         "name": "Little Swallow",
         "url": "https://open.spotify.com/album/4JNFQHbtSsuqD9UtiNiGnN"
       },

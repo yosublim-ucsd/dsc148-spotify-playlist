@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 286894,
+  "num_followers": 287316,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Yzk4MGJmMjRhOTIwYmM0ZjA0ZjUzNWU5MzQyNThmODczMDk3N2Qw",
+  "snapshot_id": "MCxhZmI2MDJmMjM4ZmEzY2I2MTQ1NGY2OGNlMTYwOWZhOTZlYWYyZjg0",
   "tracks": [
     {
       "added_at": "2021-09-17 08:34:50",
@@ -451,22 +451,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O"
-      },
-      "artists": [
-        {
-          "name": "Aly-Us",
-          "url": "https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Follow Me - Club Mix",
-      "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "Energique",
         "url": "https://open.spotify.com/album/00kOiUJakqkClL8Zthwa5W"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 319493,
       "name": "I'm Gonna Get You - Original Flavour Mix",
       "url": "https://open.spotify.com/track/4EzZPB8OujNAeND6C2SduJ"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O"
+      },
+      "artists": [
+        {
+          "name": "Aly-Us",
+          "url": "https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Follow Me - Club Mix",
+      "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -551,22 +551,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Don\u2019t Stop Movin\u2019",
-        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
-      },
-      "artists": [
-        {
-          "name": "Livin' Joy",
-          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
-        }
-      ],
-      "duration_ms": 319866,
-      "name": "Don't Stop Movin'",
-      "url": "https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "Pasilda (Extended Versions)",
         "url": "https://open.spotify.com/album/7qCEf8CrHVD4C5uyPsTFT2"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 426000,
       "name": "Pasilda - Knee Deep Club Mix",
       "url": "https://open.spotify.com/track/2vhLsN2p6FHPPm4LfEBB3N"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Don\u2019t Stop Movin\u2019",
+        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
+      },
+      "artists": [
+        {
+          "name": "Livin' Joy",
+          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
+        }
+      ],
+      "duration_ms": 319866,
+      "name": "Don't Stop Movin'",
+      "url": "https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc"
     },
     {
       "added_at": "2021-09-17 08:34:50",

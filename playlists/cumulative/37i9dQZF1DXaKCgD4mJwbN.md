@@ -4,7 +4,7 @@
 
 > Puras rolitas pa' destapar un bote y empinar el codo.
 
-291 songs - 15 hr 44 min
+292 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Mi Amuleto Eres Tú](https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0) | [Vagon Chicano](https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k) | [Mi Amuleto Eres Tu](https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp) | 3:30 | 2022-01-19 | 2022-04-02 |
 | [Mi Cómplice](https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 3:09 | 2023-04-28 |  |
 | [Mi Enemigo El Amor](https://open.spotify.com/track/3YLZE6B8KTT0kYHL3ovVwA) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/6ZNWvaqKZSS9JLSmkC2Iop) | 3:52 | 2022-01-07 | 2022-07-29 |
-| [Mi Enemigo El Amor](https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:54 | 2022-04-18 |  |
+| [Mi Enemigo El Amor](https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:54 | 2022-04-18 | 2023-08-05 |
 | [Mi Mayor Anhelo](https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo](https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp) | 3:29 | 2022-04-18 |  |
 | [Mi Mayor Anhelo](https://open.spotify.com/track/5pXWFyfjPHb7ZIgdq1rkEc) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [45 Éxitos \(Versiones Originales\)](https://open.spotify.com/album/2zimj5t0E2S9NV55WD9zXz) | 3:31 | 2022-01-07 | 2022-07-29 |
 | [Mi Pasado y Mi Presente](https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Plan B](https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx) | 3:40 | 2022-01-07 | 2022-06-09 |
@@ -278,6 +278,7 @@
 | [Una Raya Más al Tigre](https://open.spotify.com/track/3fzC9A2azykZmtSHuXt0kg) | [Banda Elemental de Mazatlán Sinaloa](https://open.spotify.com/artist/0amZxQw9VoE1GcLXsqPnjz), [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Una Raya Más al Tigre](https://open.spotify.com/album/1hZdcTNXS48yGctGfpQPpB) | 2:19 | 2022-08-31 | 2023-04-11 |
 | [Una Vez Más](https://open.spotify.com/track/5iCcDXbsM7Sj0kP7h9g60b) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Perdoname Mi Amor](https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n) | 2:39 | 2023-06-23 | 2023-08-04 |
 | [Uno mas Uno Igual a Zero](https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Uno Mas Uno Igual A Zero](https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL) | 2:39 | 2023-03-17 | 2023-06-24 |
+| [Vamos Aclarando Muchas Cosas \- En Vivo](https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Vamos Aclarando Muchas Cosas \(En Vivo\)](https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ) | 3:10 | 2023-06-23 |  |
 | [Vamos Aclarando Muchas Cosas \- En Vivo](https://open.spotify.com/track/5gZOpqxK3J5b5BSjzG1PkM) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Vamos Aclarando Muchas Cosas \(En Vivo\)](https://open.spotify.com/album/7tcgJJT6XQ22P9V6JII4G4) | 3:10 | 2022-12-02 | 2023-08-02 |
 | [Vamos Para Arriba](https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vamos Para Arriba](https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37) | 2:52 | 2022-12-02 |  |
 | [Vida Ventajosa](https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:36 | 2022-01-07 |  |

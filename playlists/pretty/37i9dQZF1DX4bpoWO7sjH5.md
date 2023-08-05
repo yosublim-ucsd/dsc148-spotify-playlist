@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,836 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,834 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 |
-| 2 | [La Tierra Canta](https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Generacion Radical](https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT) | 6:46 |
-| 3 | [Perfume a Tus Pies](https://open.spotify.com/track/5cS1TaKqN5z5brcTnG2Ory) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Glorioso Rey](https://open.spotify.com/album/0gGh9W1G0gVNvn6oINKeB2) | 5:10 |
+| 2 | [Perfume a Tus Pies](https://open.spotify.com/track/5cS1TaKqN5z5brcTnG2Ory) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Glorioso Rey](https://open.spotify.com/album/0gGh9W1G0gVNvn6oINKeB2) | 5:10 |
+| 3 | [La Tierra Canta](https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Generacion Radical](https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT) | 6:46 |
 | 4 | [El Nombre De Jesús](https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK) | 4:30 |
 | 5 | [No Me Soltarás](https://open.spotify.com/track/48lwAoNI4cQZ9YOizzTPL8) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Con El Corazón En La Mano](https://open.spotify.com/album/3PB8k8AGcSP5rIAQNuZKYV) | 5:01 |
 | 6 | [10.000 Razones](https://open.spotify.com/track/3tovofu1VVmE3fXKKmTapY) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Himnos](https://open.spotify.com/album/5kjjUMt0GGhCEl9uiVB6c0) | 4:50 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 92 | [A Son De Plena](https://open.spotify.com/track/6nVFWi33swDnsDljPodGlB) | [Lourdes Toledo](https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3) | [Un Le Lo Lai Diferente](https://open.spotify.com/album/7osJw3KtfYRtw2eItlqC4h) | 3:45 |
 | 93 | [Llegó Navidad](https://open.spotify.com/track/6u5Uau6qr8FIIPHKyWJ763) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [En Navidad](https://open.spotify.com/album/0ugGqIg0MlPul2TpV30jlp) | 4:06 |
 | 94 | [Navidad Perfecta](https://open.spotify.com/track/5uH67hbBevDIwon4GjIJiQ) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Nació en Mi Corazón](https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18) | 3:35 |
-| 95 | [Santa la Noche](https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ) | 3:56 |
-| 96 | [Vístete](https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO) | [René González](https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF) | [Pa'que Mi Pueblo Cante](https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR) | 3:29 |
+| 95 | [Vístete](https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO) | [René González](https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF) | [Pa'que Mi Pueblo Cante](https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR) | 3:29 |
+| 96 | [Santa la Noche](https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ) | 3:56 |
 | 97 | [Noche de paz](https://open.spotify.com/track/4KECWIRk40HKi3cqPxZnq0) | [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [Noche de paz](https://open.spotify.com/album/5xYN99mczSnd6XFrb3J7ku) | 3:06 |
 | 98 | [Pesebre](https://open.spotify.com/track/6egrj5EiSLFQZC515SD4EV) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Pesebre](https://open.spotify.com/album/3n832SITcEq5y3IALMeeLP) | 5:37 |
 | 99 | [Cristianos Vayamos](https://open.spotify.com/track/321LOsaE5tmtwz7ogO5j8c) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Cristianos Vayamos](https://open.spotify.com/album/6KWNNHIcSlSWKoa2ECuYXj) | 3:47 |
-| 100 | [Noche de Paz](https://open.spotify.com/track/7yrj2HSUr4JxqKO6SpiAGn) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Noche de Paz](https://open.spotify.com/album/7qEzUr4aVYEMV7IPgqnSmj) | 4:46 |
+| 100 | [Navidad](https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA) | [Riosquad](https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS) | [Navidad](https://open.spotify.com/album/6KD92Cj7oDS4DtjUoZZLRw) | 3:48 |
 
-Snapshot ID: `MCwwMDFjOTBlYjA1ODc4ZGFjYzQ2MTBiNThiOGEzMmE2YzgxYmQ0Nzhl`
+Snapshot ID: `MCxmZTU4YzA5ZDBhZWNjNWYwZTBkN2ZjOGMyMTc5NWZmZTJkYjQ2MTIy`

@@ -536,7 +536,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 324333,
       "name": "Cynnes",
       "url": "https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9"
@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 344823,
       "name": "Hot Hot",
       "url": "https://open.spotify.com/track/6qdClrMJKkYPNhWFvI38RF"
@@ -1352,6 +1352,32 @@
       "duration_ms": 297151,
       "name": "I Feel For You - Star B Extended Remix",
       "url": "https://open.spotify.com/track/3279i3oQ3on1bb17kYLzxZ"
+    },
+    {
+      "album": {
+        "name": "I Go, I Go (2023 Remix)",
+        "url": "https://open.spotify.com/album/6M67279fCIj8PvY681mzFY"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "Kaktus Einarsson",
+          "url": "https://open.spotify.com/artist/6JNguRWD1fs6lOR6IXQlp3"
+        },
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319750,
+      "name": "I Go, I Go - 2023 Remix",
+      "url": "https://open.spotify.com/track/4oXWuhki3unHr22FK2H0HA"
     },
     {
       "album": {
@@ -1558,7 +1584,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 303750,
       "name": "Klambu",
       "url": "https://open.spotify.com/track/1OBT0ifVntCsgSLLOsFVMR"
@@ -1656,7 +1682,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 235121,
       "name": "Life Window",
       "url": "https://open.spotify.com/track/2KM0Fxre2A4V97Yq8W0AQS"
@@ -1696,6 +1722,28 @@
       "duration_ms": 273844,
       "name": "Lost Island",
       "url": "https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr"
+    },
+    {
+      "album": {
+        "name": "Love Like We're Dying",
+        "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
+      },
+      "artists": [
+        {
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183876,
+      "name": "Love Like We're Dying",
+      "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
     },
     {
       "album": {
@@ -2217,6 +2265,28 @@
     },
     {
       "album": {
+        "name": "Popcorn",
+        "url": "https://open.spotify.com/album/3L5VwkKntEHm372s2CJLox"
+      },
+      "artists": [
+        {
+          "name": "Physical Therapy",
+          "url": "https://open.spotify.com/artist/4HXE6NXjfAUDX8TXyoIfuO"
+        },
+        {
+          "name": "Complete Walkthru",
+          "url": "https://open.spotify.com/artist/2s8btw6kQu63S9VHO6th6T"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556501,
+      "name": "Popcorn",
+      "url": "https://open.spotify.com/track/67gLrsXIU6SFl2IwTP4Mx2"
+    },
+    {
+      "album": {
         "name": "Proud (Dance System Remix)",
         "url": "https://open.spotify.com/album/0jhQ97Dc7WvwGHXkvtkVFJ"
       },
@@ -2565,6 +2635,24 @@
     },
     {
       "album": {
+        "name": "Two Step",
+        "url": "https://open.spotify.com/album/1UCSGGE8qdOQDeGFD3QOCH"
+      },
+      "artists": [
+        {
+          "name": "Gino Da Koda",
+          "url": "https://open.spotify.com/artist/5SrJ82HkTygElZBXS67jnw"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "Space Invader",
+      "url": "https://open.spotify.com/track/6Qog1jVmV4qSXWGIa0nNDS"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/6BFk8Svj77M4Emx9whLg5l"
       },
@@ -2656,6 +2744,28 @@
       "duration_ms": 346750,
       "name": "Stone Cold - Original Mix",
       "url": "https://open.spotify.com/track/7Gc1mNsFVxbthvVJ2paiGF"
+    },
+    {
+      "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/3kwGggozvjLAKSR4CMcEBX"
+      },
+      "artists": [
+        {
+          "name": "Greta Levska",
+          "url": "https://open.spotify.com/artist/3r3NacwYbrrmf9zuuj1n35"
+        },
+        {
+          "name": "Dachshund",
+          "url": "https://open.spotify.com/artist/0UusOWDKVBRFrZoKJdVuWv"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395826,
+      "name": "Streets - Dachshund Remix",
+      "url": "https://open.spotify.com/track/0GuvoyTI5hWlSm2W32d92q"
     },
     {
       "album": {
@@ -2838,7 +2948,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 383401,
       "name": "The Freaks Come Out - Hooligan Mix",
       "url": "https://open.spotify.com/track/6SOcHlaGY4FlcfRdWh2dGz"
@@ -2896,6 +3006,24 @@
       "duration_ms": 311071,
       "name": "ticket to childhood",
       "url": "https://open.spotify.com/track/3nSIvZpvO6kU87bmSGwZVV"
+    },
+    {
+      "album": {
+        "name": "To The Ground",
+        "url": "https://open.spotify.com/album/4l0QIUrwO3MFuK61GeP7ru"
+      },
+      "artists": [
+        {
+          "name": "Flashmob",
+          "url": "https://open.spotify.com/artist/7xo0kZGwplHhSh8ORbToS8"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180057,
+      "name": "To The Ground",
+      "url": "https://open.spotify.com/track/2wEW81bVSkvqqNHDnSPPl9"
     },
     {
       "album": {
@@ -3250,7 +3378,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 205217,
       "name": "What If",
       "url": "https://open.spotify.com/track/6V2J1bvchhoi64ycvaxmDj"

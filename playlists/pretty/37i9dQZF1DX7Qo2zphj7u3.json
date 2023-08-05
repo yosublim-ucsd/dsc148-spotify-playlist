@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos rom\u00e1nticos, de hoy y de siempre. Foto: Ricardo Montaner & Carlos Rivera",
-  "num_followers": 2026994,
+  "num_followers": 2027116,
   "original_name": "Hits Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGEwZWJmZmZhYmQwMmFjZDc0Mzc3Yjk3ZDljMDVjNDgyYWZlZmY4",
+  "snapshot_id": "MCwzYjM5ZjM1MDViOWY0ZjlmMzRkOWZlMWJlZWFiYjIwZmZjMmUyMzcw",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -823,18 +823,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
+        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro? (Deluxe)",
+        "url": "https://open.spotify.com/album/6BVBG97h9uAFn1eOwckiwH"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Mario Domm",
+          "url": "https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl"
         }
       ],
-      "duration_ms": 307866,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+      "duration_ms": 225796,
+      "name": "Llorar (feat. Mario Domm)",
+      "url": "https://open.spotify.com/track/7KffKVdLO4P8e4Yx8gDYgw"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -871,22 +875,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro? (Deluxe)",
-        "url": "https://open.spotify.com/album/6BVBG97h9uAFn1eOwckiwH"
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Mario Domm",
-          "url": "https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 225796,
-      "name": "Llorar (feat. Mario Domm)",
-      "url": "https://open.spotify.com/track/7KffKVdLO4P8e4Yx8gDYgw"
+      "duration_ms": 307866,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Gavil\u00e1n o Paloma",
-      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Todo Historias",
         "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 281226,
       "name": "Otra Como Tu",
       "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Gavil\u00e1n o Paloma",
+      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Guerra (+ Sessions Recorded at Abbey Road)",
+        "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Me Muero",
+      "url": "https://open.spotify.com/track/4dpTz2Tgczw9lDdBAT0fvT"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 221946,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Guerra (+ Sessions Recorded at Abbey Road)",
-        "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Me Muero",
-      "url": "https://open.spotify.com/track/4dpTz2Tgczw9lDdBAT0fvT"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+        "name": "Tiempo de oto\u00f1o",
+        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
       },
       "artists": [
         {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
         }
       ],
-      "duration_ms": 218760,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+      "duration_ms": 275066,
+      "name": "Me llamas",
+      "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Tiempo de oto\u00f1o",
-        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
         }
       ],
-      "duration_ms": 275066,
-      "name": "Me llamas",
-      "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
+      "duration_ms": 218760,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Laundry Service",
-        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "Underneath Your Clothes",
-      "url": "https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Siempre En Mi Mente",
         "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 205866,
       "name": "Siempre en Mi Mente",
       "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Underneath Your Clothes",
+      "url": "https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Al Fin Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "Me Cambiaste la Vida",
+      "url": "https://open.spotify.com/track/1OCre5vxYq2Vk1wfFsTWE1"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Hecho En M\u00e9xico",
         "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 192973,
       "name": "Me Duele Amarte",
       "url": "https://open.spotify.com/track/2VLcpwzuZVSZQUCQDQRM8n"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Al Fin Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "Me Cambiaste la Vida",
-      "url": "https://open.spotify.com/track/1OCre5vxYq2Vk1wfFsTWE1"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1979,18 +1979,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 173560,
-      "name": "Tu Pirata Soy Yo",
-      "url": "https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt"
+      "duration_ms": 196466,
+      "name": "Deja vu",
+      "url": "https://open.spotify.com/track/5clmffOxeckeJ2e3GMy6UZ"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -2007,6 +2011,22 @@
       "duration_ms": 308133,
       "name": "Detalles (Detalhes)",
       "url": "https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "Tu Pirata Soy Yo",
+      "url": "https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -2039,26 +2059,6 @@
       "duration_ms": 236453,
       "name": "Yo no te pido la luna (Non voglio mica la luna)",
       "url": "https://open.spotify.com/track/09uE7kHv2ESkvtInKugpGM"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Deja vu",
-      "url": "https://open.spotify.com/track/5clmffOxeckeJ2e3GMy6UZ"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Al Fin Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "Por Eso Te Amo",
+      "url": "https://open.spotify.com/track/16izvdwIKjq3t6Ufc1cjBj"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Hab\u00edtame Siempre (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 220066,
       "name": "Te Perdiste Mi Amor (feat. Prince Royce)",
       "url": "https://open.spotify.com/track/1Q8NiatGDc6YgefNwT7Jgu"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Al Fin Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "Por Eso Te Amo",
-      "url": "https://open.spotify.com/track/16izvdwIKjq3t6Ufc1cjBj"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -3835,6 +3835,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Legados Bachata",
+        "url": "https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "16",
         "url": "https://open.spotify.com/album/4ASPtup2BFkcOmOLuvIx19"
       },
@@ -3867,22 +3883,6 @@
       "duration_ms": 193706,
       "name": "Jam\u00e1s",
       "url": "https://open.spotify.com/track/2AL3PHnY0cdOiCvpHjvIQi"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Legados Bachata",
-        "url": "https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5"
     },
     {
       "added_at": "2023-07-28 04:00:00",

@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Lainey Wilson
+> Today's top country hits\. Cover: Brett Young
 
-659 songs - 1 day 11 hr 31 min
+661 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 | 2023-01-06 | 2023-02-18 |
 | [GIRL](https://open.spotify.com/track/3y5B5ebFMzEEFqCPOesAXR) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 4:10 | 2019-10-26 | 2019-10-29 |
 | [GIRL](https://open.spotify.com/track/0u3zalSKQIUJ0foEGILmxe) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/2gTENOPxvxQmQswzVQ8v1u) | 4:10 | 2019-05-26\* | 2019-11-09 |
-| [Girl In Mine](https://open.spotify.com/track/2DPqR0kuZVjrOF5oxIRYPy) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Girl In Mine](https://open.spotify.com/album/6R75pGKkSGEsUArsphBZ9W) | 2:35 | 2023-01-27 |  |
+| [Girl In Mine](https://open.spotify.com/track/2DPqR0kuZVjrOF5oxIRYPy) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Girl In Mine](https://open.spotify.com/album/6R75pGKkSGEsUArsphBZ9W) | 2:35 | 2023-01-27 | 2023-08-05 |
 | [Girl On Fire](https://open.spotify.com/track/3DUVwg2lfRKphwNtYE7S85) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Girl On Fire](https://open.spotify.com/album/1a9TtIPjYqfXrFMhAq8xBM) | 2:53 | 2022-08-26 | 2023-01-14 |
 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/5nra2uQhiaYKKpemgiDNC3) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [GIVE HEAVEN SOME HELL](https://open.spotify.com/album/0GAm85q4EIBAVs27M5hh0J) | 3:37 | 2020-09-05 | 2020-11-22 |
 | [Giving Up On That](https://open.spotify.com/track/2Iu5OBDudGv5B0qfKKKbGm) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Giving Up On That](https://open.spotify.com/album/38V4J5JSybT2xPJ3pGtibK) | 3:31 | 2023-03-17 |  |
@@ -246,6 +246,7 @@
 | [Heart Shut \(feat\. Tenille Townes\)](https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Six Strings](https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk) | 3:21 | 2021-03-31 | 2021-07-31 |
 | [Heart's In Your Head](https://open.spotify.com/track/712aP3QwYnSpuCYHScgbGn) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Heart's In Your Head](https://open.spotify.com/album/5ymEWtBYleaSuToTcWmasf) | 3:07 | 2021-05-15 | 2021-09-25 |
 | [Heartache Medication](https://open.spotify.com/track/6ZvAXIWw3rw8WR0Xlmifri) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Heartache Medication](https://open.spotify.com/album/0JzXywsekILWEm0mBPKKhC) | 3:29 | 2019-09-29 | 2020-02-08 |
+| [Heartbroken \- Jessie Version](https://open.spotify.com/track/60bbiP93CSxmLibuwvxay9) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:17 | 2023-08-04 |  |
 | [HEARTFIRST](https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [HEARTFIRST](https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s) | 3:07 | 2022-04-08 | 2022-11-12 |
 | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/track/4uNV7GyGEBZzPDdetEEvhS) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/album/1qfAEnjx3OGSAYvFWsbnWa) | 2:52 | 2020-02-01 | 2020-02-08 |
 | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/track/0rFQ5cKYJ9WtHSKp9sxVYt) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/album/4YEes0AZtUChqtLBwaQLzh) | 2:49 | 2019-08-31 | 2020-06-14 |
@@ -304,6 +305,7 @@
 | [If You Have To](https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL) | 3:19 | 2022-05-13 | 2022-08-13 |
 | [In Between](https://open.spotify.com/track/4bZsLI9lZgSu3MN99kDbic) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/3OTNvYUGlsb091nCxTMRON) | 3:41 | 2019-05-26\* | 2020-06-29 |
 | [In My Veins](https://open.spotify.com/track/3sAmWiJrwZkF8FSgpiM8QA) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Getting Good](https://open.spotify.com/album/4dKNidNDeT9LaPwjzrKv6c) | 2:46 | 2020-03-06 | 2020-03-14 |
+| [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-08-04 |  |
 | [It All Comes Out in the Wash](https://open.spotify.com/track/5QZFaimQx9Hgv0hZQp9hpp) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [It All Comes Out in the Wash](https://open.spotify.com/album/2RaCnBxNkh1efVm5m7lQv6) | 3:34 | 2019-07-20 | 2019-11-29 |
 | [It Matters To Her](https://open.spotify.com/track/4aSRUXfKuBbmje0eXNukuL) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Same Truck](https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU) | 2:51 | 2022-12-02 | 2023-06-17 |
 | [It's About Time \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7eQEnXy5vNjPv6aXVl6N26) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [It's About Time \(feat\. Florida Georgia Line\)](https://open.spotify.com/album/7jRBumiTmJgZKt36JXoNyb) | 2:55 | 2020-11-22 | 2021-04-30 |
@@ -354,7 +356,7 @@
 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 | 2022-06-03 | 2022-09-03 |
 | [Love That About You](https://open.spotify.com/track/6eKhWSDPM9cDicwsBCvUwB) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Love That About You](https://open.spotify.com/album/35nqtUdzuwfzYRLPE6odU4) | 2:37 | 2019-05-26\* | 2019-06-15 |
 | [Love You a Little Bit](https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/3SPnI205DIMN5yosDIT0v1) | 3:30 | 2023-01-06 | 2023-02-17 |
-| [Love You a Little Bit](https://open.spotify.com/track/0isqpzdmr2hsKb50uBSCdo) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/5bWiVnH44bQQ4zeN0ozz5W) | 3:30 | 2023-02-10 |  |
+| [Love You a Little Bit](https://open.spotify.com/track/0isqpzdmr2hsKb50uBSCdo) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/5bWiVnH44bQQ4zeN0ozz5W) | 3:30 | 2023-02-10 | 2023-08-05 |
 | [Love You Again](https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love You Again](https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p) | 2:53 | 2023-06-09 |  |
 | [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 | 2023-02-10 | 2023-05-13 |
 | [Love You Like I Used To](https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Love You Like I Used To](https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq) | 3:06 | 2020-02-12 | 2021-01-23 |

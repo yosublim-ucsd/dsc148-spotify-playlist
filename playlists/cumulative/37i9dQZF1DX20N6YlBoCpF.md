@@ -4,7 +4,7 @@
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq?si=Z1m7gk8jQWuLa1Uov\_3KNQ">VAN WEST</a>
 
-454 songs - 1 day 1 hr 46 min
+455 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Boerejol in Afrikaans](https://open.spotify.com/track/4Sx5kZAfCgc9nJQl55uXv7) | [Anton Fitchat](https://open.spotify.com/artist/243yC1bqCC4nSPMA5Zxs95) | [Boerejol in Afrikaans](https://open.spotify.com/album/6GTLxO2WBe85knjDWdj3BS) | 3:30 | 2023-06-29 | 2023-07-21 |
 | [Boeremeisie](https://open.spotify.com/track/2jfNsXSHjMm0XQlE5RR6p1) | [Zander van Wyk](https://open.spotify.com/artist/1IvM3qTeipluXahp3qVbRt) | [Boeremeisie](https://open.spotify.com/album/3mGCOx0NJRHAGVCdoy2tiU) | 3:51 | 2023-03-30 | 2023-06-23 |
 | [Boerenooi](https://open.spotify.com/track/6wkvjsw6zfFdWLwcEH12E8) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Hardwerkende Man](https://open.spotify.com/album/5joOuKhuwIZvrZjUpMXHpK) | 3:29 | 2022-12-27 | 2023-01-02 |
-| [Bokke](https://open.spotify.com/track/5toM4ksSArlIpZROh2Ca9Y) | [Die Boeries](https://open.spotify.com/artist/0Xr9UsuVuJ3Uye9rIS0aO7) | [Bokke](https://open.spotify.com/album/54PjeSbxx8bwpbyr4k6GUe) | 3:03 | 2023-08-03 |  |
+| [Bokke](https://open.spotify.com/track/5toM4ksSArlIpZROh2Ca9Y) | [Die Boeries](https://open.spotify.com/artist/0Xr9UsuVuJ3Uye9rIS0aO7) | [Bokke](https://open.spotify.com/album/54PjeSbxx8bwpbyr4k6GUe) | 3:03 | 2023-08-03 | 2023-08-05 |
+| [Bokke](https://open.spotify.com/track/6KMGaq5XfHUdoskkERbMNA) | [Die Boeries](https://open.spotify.com/artist/0Xr9UsuVuJ3Uye9rIS0aO7) | [Bokke](https://open.spotify.com/album/3YdUdSCwvif0Begq1wn2qm) | 3:03 | 2023-08-03 |  |
 | [Bokke](https://open.spotify.com/track/4yu5rGWvXcv6Yih8NC3iL7) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Bokke](https://open.spotify.com/album/1H5nFZEkb4hE2FYqWdUz18) | 3:52 | 2023-07-13 |  |
 | [Bokswyn](https://open.spotify.com/track/4ZdEKnyBbsxJf0FRd3rTb5) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Bokswyn](https://open.spotify.com/album/0AUEv3KyWp0AGzlxq0sjud) | 3:09 | 2022-08-18 | 2022-11-25 |
 | [Bosveld Vakansie](https://open.spotify.com/track/6LHiWLGfFYRV9iUCrcC2Gf) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Sing Hoop Weerklink](https://open.spotify.com/album/38dU50ugb1c3kWmrdJqUg8) | 3:32 | 2022-11-10 | 2023-02-24 |

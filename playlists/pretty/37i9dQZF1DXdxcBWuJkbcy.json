@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6904754,
+  "num_followers": 6905044,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjkzMTgzYzdiZGU5ZTIzMjU4YzQwMzhjMDQ4MjEyNTRlZGJiZjk5",
+  "snapshot_id": "MCw2NDI0Y2VkYjIzMTllMmYzZDQ0OWRhZDE0NjI0OWQ0YzU1MmNiZDMy",
   "tracks": [
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Sunglasses At Night",
+        "url": "https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Sunglasses At Night",
+      "url": "https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Miracle (with Ellie Goulding) [David Guetta Remix]",
         "url": "https://open.spotify.com/album/1xF21BZXLDXHuwNfkPojiJ"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 247896,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Sunglasses At Night",
-        "url": "https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Sunglasses At Night",
-      "url": "https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "HOSANNA",
+          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Miracle (with Ellie Goulding) [Hardwell Remix]",
         "url": "https://open.spotify.com/album/3LswMGIQwIQpJztiYx37xs"
       },
@@ -1403,46 +1423,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Never Let You Go",
-        "url": "https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 178809,
-      "name": "Never Let You Go",
-      "url": "https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "One By One",
-        "url": "https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "HOSANNA",
-          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "One By One",
-      "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Lavender Haze (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV"
       },
@@ -1463,6 +1443,26 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 178809,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt"
       },
@@ -1475,26 +1475,6 @@
       "duration_ms": 179528,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Cha Cha Cha (Alan Walker Remix)",
-        "url": "https://open.spotify.com/album/130t4RQBSL7wRJC2JGTFNP"
-      },
-      "artists": [
-        {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 148645,
-      "name": "Cha Cha Cha - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/7wnrrEdwxQWZsDjW7rGZZc"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1519,6 +1499,26 @@
       "duration_ms": 248594,
       "name": "Hold Me Closer - Joel Corry Remix",
       "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Cha Cha Cha (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/130t4RQBSL7wRJC2JGTFNP"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 148645,
+      "name": "Cha Cha Cha - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/7wnrrEdwxQWZsDjW7rGZZc"
     },
     {
       "added_at": "2023-08-03 22:00:00",

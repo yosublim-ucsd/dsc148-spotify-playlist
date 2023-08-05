@@ -1,12 +1,12 @@
 {
   "description": "Timeless Salsa from your favorite legends. Cover: Willie Col\u00f3n",
-  "num_followers": 1217991,
+  "num_followers": 1218607,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmU4MmI1NDJlMGFlYjYyNTI1YjViMDA2YTZmN2VkZTQyZTZiM2Fj",
+  "snapshot_id": "MCw2MjhhYzJkMjIzNjBiNzNmMTE2MzQ5NjI4MjE4YTIyMDdjYzQyMjFi",
   "tracks": [
     {
       "added_at": "2023-04-06 22:36:25",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-04-06 22:36:25",
       "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 351813,
+      "name": "Esa Mujer - En Vivo",
+      "url": "https://open.spotify.com/track/5gnYYnQTU1GsYlSTQw9Lvm"
+    },
+    {
+      "added_at": "2023-04-06 22:36:25",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 284653,
       "name": "Micaela",
       "url": "https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy"
-    },
-    {
-      "added_at": "2023-04-06 22:36:25",
-      "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 351813,
-      "name": "Esa Mujer - En Vivo",
-      "url": "https://open.spotify.com/track/5gnYYnQTU1GsYlSTQw9Lvm"
     },
     {
       "added_at": "2023-04-06 22:36:25",

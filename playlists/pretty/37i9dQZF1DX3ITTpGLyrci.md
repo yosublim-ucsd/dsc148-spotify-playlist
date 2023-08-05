@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 
 > Get the drinks on ice, this one is on us
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,717 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,801 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 | 99 | [Ain't Me Without You](https://open.spotify.com/track/2sYjsgw4R4wJhThhSGlSZS) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [Ain't Me Without You](https://open.spotify.com/album/57Y1Qva1WV0As9PPcgjl1x) | 3:50 |
 | 100 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 |
 
-Snapshot ID: `MCw0N2JjNTU0NTE0NWM1Mjg5OTU5NDRjNTU1MTRmM2M1ZjlkOTY4ZjVl`
+Snapshot ID: `MCxjYTU5ZjUzOGU5MTNhODdjNWMzZDgzMzMzMWIyZDIwZTA1Yjg0NTFm`

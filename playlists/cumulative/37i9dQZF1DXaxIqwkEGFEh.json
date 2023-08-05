@@ -1867,6 +1867,36 @@
     },
     {
       "album": {
+        "name": "Bent",
+        "url": "https://open.spotify.com/album/1lzWtPTZrL3ZE1oagDJgvL"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170267,
+      "name": "Bent",
+      "url": "https://open.spotify.com/track/6ulEymrJ2Azx1uo3YHSE5w"
+    },
+    {
+      "album": {
         "name": "Benz Truck",
         "url": "https://open.spotify.com/album/4U6veERIAILg0hKBck8R2x"
       },
@@ -3466,7 +3496,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 119774,
       "name": "Come Here",
       "url": "https://open.spotify.com/track/08hnByemmJ10PDwbQ72HmO"
@@ -4991,6 +5021,28 @@
     },
     {
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/6swRWFCjGxpLBvdD5t25JV"
       },
@@ -5130,7 +5182,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 133464,
       "name": "FIRST 48 GANG",
       "url": "https://open.spotify.com/track/1pYMHLKLyPUcyi45pYPL0b"
@@ -5454,7 +5506,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 138831,
       "name": "FREE ALL THE LIFERS",
       "url": "https://open.spotify.com/track/6YepRSEszLQ8qURJHpNQkK"
@@ -5476,7 +5528,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 123221,
       "name": "FREE G",
       "url": "https://open.spotify.com/track/1TOkedmZ1nxlkobskfeXdR"
@@ -6700,7 +6752,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 156765,
       "name": "Had To Ask (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/51swI5WeqofTGcTHXXmP5v"
@@ -6798,7 +6850,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 175410,
       "name": "Hard Headed",
       "url": "https://open.spotify.com/track/5O6Ec9WvYxysLcESvDmz9N"
@@ -7725,6 +7777,24 @@
     },
     {
       "album": {
+        "name": "I Don\u2019t Apologize",
+        "url": "https://open.spotify.com/album/5mpppdbrSd1cxkeFowxina"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199143,
+      "name": "I Don\u2019t Apologize",
+      "url": "https://open.spotify.com/track/6FOw3r7U8CfnIbCxJn8H0W"
+    },
+    {
+      "album": {
         "name": "I Guess",
         "url": "https://open.spotify.com/album/1RapYeJvvR8PmD4VCpFhIb"
       },
@@ -8411,6 +8481,24 @@
     },
     {
       "album": {
+        "name": "Sincerely Mad",
+        "url": "https://open.spotify.com/album/4wfGo9Fh83xeR6vJ6qMEpj"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151327,
+      "name": "Jack N Jill",
+      "url": "https://open.spotify.com/track/0sKXknOnpKgxiSuOHbK54D"
+    },
+    {
+      "album": {
         "name": "Jay & Twan 1",
         "url": "https://open.spotify.com/album/4oTxLAf3ejQmyhdV02VrXR"
       },
@@ -8634,7 +8722,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 204707,
       "name": "Just Wanna Party",
       "url": "https://open.spotify.com/track/63qiHmjEcBmMcOpuTtjP3l"
@@ -9948,6 +10036,32 @@
       "duration_ms": 159116,
       "name": "Make No Sense (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/53ysMUPpl1Sq6FwWy0GGtA"
+    },
+    {
+      "album": {
+        "name": "Mama (with Skilla Baby & Tay B)",
+        "url": "https://open.spotify.com/album/1XwVNB9mqxR00Wbj34mnn3"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174250,
+      "name": "Mama (with Skilla Baby & Tay B)",
+      "url": "https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF"
     },
     {
       "album": {
@@ -12138,7 +12252,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 152314,
       "name": "On Da Floor (feat. EST Gee)",
       "url": "https://open.spotify.com/track/553LUljSpbLoJvYHZkEMCG"
@@ -12962,6 +13076,24 @@
       "duration_ms": 206331,
       "name": "PIMP C (feat. EST Gee)",
       "url": "https://open.spotify.com/track/6QLiAGfN2h7ahupaqyDwIW"
+    },
+    {
+      "album": {
+        "name": "Who Is Fatt",
+        "url": "https://open.spotify.com/album/3qsgJ7DqZ9dqgblDMea5KR"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110079,
+      "name": "Pimp Problems",
+      "url": "https://open.spotify.com/track/2sQNGOxvrF4WrS8KZykAci"
     },
     {
       "album": {
@@ -17248,6 +17380,24 @@
       "duration_ms": 194751,
       "name": "The One",
       "url": "https://open.spotify.com/track/42p3DhJW9tC9YRvMsSd8VT"
+    },
+    {
+      "album": {
+        "name": "I Showed U So",
+        "url": "https://open.spotify.com/album/4GVyz2cTtsOtCX5Jk1zeaU"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134715,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/3V0A5gVJFGy4Hmo3MJ59uD"
     },
     {
       "album": {

@@ -4,13 +4,14 @@
 
 > Sit back and relax to the smooth sound of blues piano.
 
-77 songs - 4 hr 21 min
+79 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A True Blue Time](https://open.spotify.com/track/6Muua7JpWkTaH2jicQXrNT) | [Teres](https://open.spotify.com/artist/1h9MPFKFUMiWJewgZEeScp) | [Blues Piano & Chill](https://open.spotify.com/album/6t5oDLfuvPGNSiHsFNJifI) | 2:17 | 2021-12-03 |  |
 | [After Hours](https://open.spotify.com/track/73rUGMFKD8azs5WMmaokgT) | [Lluís Coloma](https://open.spotify.com/artist/0Hf2pumFziW2zckaLCVy0n) | [Rockin' My Blues in Chicago](https://open.spotify.com/album/0I2FcCjZmrBkzZ68go1yAD) | 3:55 | 2021-12-03 |  |
 | [Amazing Grace](https://open.spotify.com/track/3Xc6lFGNhHb31BJpj0bGy4) | [The Reverend](https://open.spotify.com/artist/0tZbykhCR3hUa19XhTOsoG) | [Amazing Grace](https://open.spotify.com/album/2UMQn9XEV8y75UJ5pjrbDI) | 2:30 | 2022-10-14 |  |
+| [At My Fingertips](https://open.spotify.com/track/3YqeyD0ZeU0ki11NvHJPv8) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [I'll Tell You Like It Is](https://open.spotify.com/album/5kDSHCVtmVSIVSTqJTksBu) | 3:54 | 2023-08-04 |  |
 | [Back Alley Blues](https://open.spotify.com/track/0YPkT8etYJykLRJIOUza6y) | [Peter Calandra](https://open.spotify.com/artist/3PtLe7U5nAWhiPJ8jKp6VB) | [Back Alley Blues](https://open.spotify.com/album/0G2mdy68fvOMjNszsGLuA8) | 6:33 | 2021-12-03 |  |
 | [Bad Habits Blues](https://open.spotify.com/track/5hiCKMtoJ3zKU6VGDVP2By) | [Christian Rannenberg](https://open.spotify.com/artist/0FXwEMAkZkvmLPeIl57OtB) | [Blues](https://open.spotify.com/album/7neO63jZj32xSLnSSa25Z5) | 5:27 | 2021-12-03 |  |
 | [Bebe Blues \(Gray Wolf, Pianobebe\)](https://open.spotify.com/track/4TSXaLjKgwnRSDBzCEXcsY) | [Lupus et Musica](https://open.spotify.com/artist/6ECZEPupzJvln5hYliPb9G) | [Bebe Blues \(Gray Wolf, Pianobebe\)](https://open.spotify.com/album/5s6BXkAo2sebBYSqx5x5hb) | 3:29 | 2021-12-03 | 2023-06-13 |
@@ -41,6 +42,7 @@
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/4pwfhJMOpGRd3hABNPd1n2) | [Joshua Ware](https://open.spotify.com/artist/6FMxrKi6qjCJnoY4rMNIHT) | [Midnight Solo Sessions](https://open.spotify.com/album/5G2e2LCTC6MFixt6amtciV) | 2:20 | 2022-01-21 |  |
 | [Harper Street Blues](https://open.spotify.com/track/6gvGs82KUQSdH7Rp7AWTGj) | [Neil Dunker](https://open.spotify.com/artist/0tJbegEI1Xa3pUnlGhwph8) | [Harper Street Blues](https://open.spotify.com/album/65XVY3REOEASfhR6WhvAiW) | 1:47 | 2023-04-28 |  |
 | [I Got It Bad](https://open.spotify.com/track/2O2ZgsGlwexJ4mlMQYphlZ) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ) | [Green's Blues](https://open.spotify.com/album/2nBRs9PNx08q96K4LI5T6V) | 5:55 | 2023-06-12 |  |
+| [I'll Tell You Like It Is](https://open.spotify.com/track/5Y4RLpAh2AjP2bMXoE4Drh) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [I'll Tell You Like It Is](https://open.spotify.com/album/5kDSHCVtmVSIVSTqJTksBu) | 4:11 | 2023-08-04 |  |
 | [Imagine](https://open.spotify.com/track/3byWT4cNKt09Heqaa4sZ9o) | [Late Night Boy](https://open.spotify.com/artist/0FnVrn8XCkh7WoV9yn1wCX) | [Imagine](https://open.spotify.com/album/1xn3RlEzSXSXSMd6LdL2N9) | 3:00 | 2023-06-12 |  |
 | [In Effigy](https://open.spotify.com/track/53aweR2cvoXfE4zwffiDnt) | [Kevin G\. Pace](https://open.spotify.com/artist/2xiNCnt5ncRZ90Gmvluky7) | [Piano Major Blues \(Playing Major Blues Scales & Songs on the Piano for Moderate Level Pianists\)](https://open.spotify.com/album/6UhMk0Z2lwzbXpEnKmlPlh) | 1:46 | 2021-12-03 | 2023-06-13 |
 | [In the Mid\-City](https://open.spotify.com/track/4KIpLlCHvnONpgZ7vtHpKe) | [Relaxing Piano Crew](https://open.spotify.com/artist/09zTbBto6vE4LzVjQluIz2) | [Blues in the City: New Orleans](https://open.spotify.com/album/0OzaSE2OhXaLa3CDKhbuhp) | 2:11 | 2021-12-03 |  |

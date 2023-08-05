@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-128 songs - 7 hr 51 min
+129 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Basement Fonk](https://open.spotify.com/track/4KRcIBZEAen2jCt6OJEEoG) | [Azmito](https://open.spotify.com/artist/2pVNUjcGJobjpBLq4mGoMZ), [Nicofasho](https://open.spotify.com/artist/4tWV1lOUGf5jTcgqNjDZQi), [Vade One](https://open.spotify.com/artist/4rPB8o4SyEa6cNCIzUBvU7), [Reality Jonez](https://open.spotify.com/artist/3SEejxoiTuKUGci1ardEAl) | [Basement Fonk](https://open.spotify.com/album/76SkVpRwhBm3hpg9rzzV6u) | 3:36 | 2021-10-29 |  |
 | [BHAD NUWZ](https://open.spotify.com/track/63WAs3ozlAFSOinuYsM2eO) | [Meter Mobb](https://open.spotify.com/artist/46BNHwKFXtqbecdsfVbIU6) | [BHAD NUWZ](https://open.spotify.com/album/1sIVO1RBkeMR7g21gtxRag) | 3:33 | 2022-07-01 |  |
 | [Blue](https://open.spotify.com/track/2uXcCHlMq7Yh4sOlO2fcKl) | [Skunkhour](https://open.spotify.com/artist/6zKENpFrMgdaWF87sfnmWF) | [Blue](https://open.spotify.com/album/1BIUv1KClJRa3lIJ4E1DEX) | 4:02 | 2022-09-23 |  |
-| [Body, Mind & Soul](https://open.spotify.com/track/3gnwOISx8zFb04hcaWh1YR) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Body, Mind & Soul](https://open.spotify.com/album/7pAQp1KNUBToUb6QWezL0v) | 4:10 | 2021-07-26 |  |
+| [Body, Mind & Soul](https://open.spotify.com/track/3gnwOISx8zFb04hcaWh1YR) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Body, Mind & Soul](https://open.spotify.com/album/7pAQp1KNUBToUb6QWezL0v) | 4:10 | 2021-07-26 | 2023-08-05 |
 | [Call It a Trend](https://open.spotify.com/track/2yCeAOeZOz1XaHYQeYD1mL) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 3:04 | 2022-09-23 | 2022-10-29 |
 | [Call It Off](https://open.spotify.com/track/4hICLdEON5p8wJB9Mz6Qss) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso), [Video Nights](https://open.spotify.com/artist/25lQA9QzH1WbgK4aBcKZd4) | [Call It Off](https://open.spotify.com/album/13xSjcoiBHNOAnYkJQ4AR1) | 3:42 | 2023-03-10 |  |
 | [Caught In The Fire](https://open.spotify.com/track/6p2aqe1losjYYviUrj5hEF) | [Date Night](https://open.spotify.com/artist/2Yb3Wq5bwK9HNXvrLKsnVC), [Dion Isaiah](https://open.spotify.com/artist/3voFDI6eBJt7uGs6c91sws) | [Caught In The Fire](https://open.spotify.com/album/7EUjWQ1i8jshFgeznSp4fw) | 3:07 | 2021-08-13 |  |
@@ -53,6 +53,7 @@
 | [Eight\-Nine](https://open.spotify.com/track/4UWWVgwWdWZHJrUoqcwuau) | [Buscrates](https://open.spotify.com/artist/2xVtLMwf4oZwJT5d1J5289), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Blasting Off](https://open.spotify.com/album/6qhy2z57y0aWZ9zdDdTvxW) | 3:16 | 2021-07-26 | 2023-04-30 |
 | [Every Word \- Radio Edit](https://open.spotify.com/track/145kUDDfoiTzNGVPvem4Xm) | [Darryl Jordan](https://open.spotify.com/artist/07rLy29kxUhgrXwXL8p7jt), [Giman](https://open.spotify.com/artist/75nakAajlHkjK1yMhNPoB1), [Chic\_Ago](https://open.spotify.com/artist/2O0TP0gKFhi1L3T6m2BJXG) | [Every Word](https://open.spotify.com/album/0liZQlGjXRohYLNk5jkquK) | 4:06 | 2021-07-26 |  |
 | [Fantasize](https://open.spotify.com/track/3WjC4OFDrnX7AVyZTsVLne) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP), [Reality Jonez](https://open.spotify.com/artist/3SEejxoiTuKUGci1ardEAl) | [Bulletproof](https://open.spotify.com/album/20NMgSbJeB86aLT9Znv66E) | 3:19 | 2021-07-26 |  |
+| [Fantasy](https://open.spotify.com/track/2K5cF4TM3vH1eaX0eqXfzZ) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Three O Five](https://open.spotify.com/album/3qDqVrsNkV0tVSUxzjqs5f) | 4:04 | 2023-08-04 |  |
 | [Fool For You](https://open.spotify.com/track/0urYHfuvFbdwOA1SYX4yvJ) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Fool For You](https://open.spotify.com/album/7nNMfOWUpvnIpGDMXb0Z0L) | 2:55 | 2021-07-26 | 2022-10-14 |
 | [Fool For You](https://open.spotify.com/track/4cFn7EyvJU4x0xJ34R2d6d) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Fool For You](https://open.spotify.com/album/3eHSZLaNryhqzy0d5dUaOH) | 2:55 | 2021-07-26 |  |
 | [Forever Blue](https://open.spotify.com/track/6UmDgEOlz63QgZFPn0Xn9K) | [Starletta](https://open.spotify.com/artist/72ULrMZm9TVx0SDrpq16Fi) | [Forever Blue](https://open.spotify.com/album/1GzikQt3Pwt8jzx1SO9Wwt) | 3:34 | 2022-09-30 |  |

@@ -2,7 +2,7 @@
 
 ### [Mozart for Babies](https://open.spotify.com/playlist/37i9dQZF1DWX7suNVq3K4h)
 
-> 
+> Relaxing Mozart to soothe you and your baby.
 
 101 songs - 10 hr 45 min
 

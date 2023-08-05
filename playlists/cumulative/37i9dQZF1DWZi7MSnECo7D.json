@@ -679,6 +679,28 @@
     },
     {
       "album": {
+        "name": "Arrepio",
+        "url": "https://open.spotify.com/album/0oumTpSlSc8wsYzeUKD8d8"
+      },
+      "artists": [
+        {
+          "name": "Clara Ribeiro",
+          "url": "https://open.spotify.com/artist/0PiQOK3GdjNdhHVxYc7SiG"
+        },
+        {
+          "name": "Chediak",
+          "url": "https://open.spotify.com/artist/0FALK05ICiGAQ1QZGkLnsK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143559,
+      "name": "Arrepio",
+      "url": "https://open.spotify.com/track/5MyoYQSUZwEJFl8xrwuQS5"
+    },
+    {
+      "album": {
         "name": "zera",
         "url": "https://open.spotify.com/album/5hKzinFoIFHtvIK8EeWUVU"
       },
@@ -924,7 +946,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 179845,
       "name": "Bateria Social",
       "url": "https://open.spotify.com/track/1wicDKdH62DL55tNHK9PhA"
@@ -1276,6 +1298,28 @@
       "duration_ms": 218823,
       "name": "Calor",
       "url": "https://open.spotify.com/track/6hQq4cuiZ95v2ruBNODR6q"
+    },
+    {
+      "album": {
+        "name": "Camar\u00e1 Station",
+        "url": "https://open.spotify.com/album/6GvEAAEut6TqOuzZtIVkSU"
+      },
+      "artists": [
+        {
+          "name": "mellina",
+          "url": "https://open.spotify.com/artist/7nGtXBuI7PJa8Rcy4aL9SY"
+        },
+        {
+          "name": "Jeza da Pedra",
+          "url": "https://open.spotify.com/artist/3KdQCcpvEY8tdcLpJnSWeh"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139166,
+      "name": "Camar\u00e1 Station",
+      "url": "https://open.spotify.com/track/20WqfPX5U5kBIo3uMQRtVR"
     },
     {
       "album": {
@@ -2170,7 +2214,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 175000,
       "name": "Dias da Juventude",
       "url": "https://open.spotify.com/track/64h7945jIYmp90J9OTNMHN"
@@ -2510,6 +2554,24 @@
       "duration_ms": 171648,
       "name": "enterro dos ossos",
       "url": "https://open.spotify.com/track/2y1IMBalLAnBfljmc5E8iB"
+    },
+    {
+      "album": {
+        "name": "Entre na \u00c1gua",
+        "url": "https://open.spotify.com/album/4W1nKR7GeHJhuaW6ZHhH2U"
+      },
+      "artists": [
+        {
+          "name": "A Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176437,
+      "name": "Entre na \u00c1gua",
+      "url": "https://open.spotify.com/track/6RA2QfzU3X9OgcXlD8HmDm"
     },
     {
       "album": {
@@ -3176,7 +3238,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 226304,
       "name": "Fico F\u00e1cil",
       "url": "https://open.spotify.com/track/00bjJ0NXskaG10iTwoa1bs"
@@ -5399,6 +5461,28 @@
     },
     {
       "album": {
+        "name": "O \u00daltimo Girassol",
+        "url": "https://open.spotify.com/album/0z6HPQVrWSTeCXAAIDhLjq"
+      },
+      "artists": [
+        {
+          "name": "Walfredo em Busca da Simbiose",
+          "url": "https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl"
+        },
+        {
+          "name": "saudade",
+          "url": "https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199893,
+      "name": "O \u00daltimo Girassol",
+      "url": "https://open.spotify.com/track/3MRw4AVPeLDlLDWAY5SfFo"
+    },
+    {
+      "album": {
         "name": "o temporal",
         "url": "https://open.spotify.com/album/1zefWkoUkHufnXq7sQLUeC"
       },
@@ -6030,7 +6114,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 234000,
       "name": "QUADRADO",
       "url": "https://open.spotify.com/track/3R4NYUYZGQK0eypfM2oCVn"
@@ -6124,6 +6208,28 @@
       "duration_ms": 146696,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/4Wbupcobm9ryFXY5M3Hwoa"
+    },
+    {
+      "album": {
+        "name": "Quem Ser\u00e1?",
+        "url": "https://open.spotify.com/album/1ANOn0G6F1e2PyXyDgkjNS"
+      },
+      "artists": [
+        {
+          "name": "Colibri",
+          "url": "https://open.spotify.com/artist/3R9wxOS0XWvgNBJZxtXi4y"
+        },
+        {
+          "name": "VANDAL",
+          "url": "https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376363,
+      "name": "Quem Ser\u00e1?",
+      "url": "https://open.spotify.com/track/00BK2exmvdM76fULBDrAvf"
     },
     {
       "album": {
@@ -6338,7 +6444,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 261480,
       "name": "Rev\u00e9s De Tudo",
       "url": "https://open.spotify.com/track/5gXCL3ne8NsLNKuiyN3jRm"
@@ -6821,6 +6927,24 @@
     },
     {
       "album": {
+        "name": "baby blue",
+        "url": "https://open.spotify.com/album/4VIztqWKHJRt41fyVPRcTa"
+      },
+      "artists": [
+        {
+          "name": "Julia Branco",
+          "url": "https://open.spotify.com/artist/7023uToWKoLCvKPgpuv8uo"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229812,
+      "name": "Sil\u00eancio",
+      "url": "https://open.spotify.com/track/3ykxdOBOiBB8Q92zI0EbCc"
+    },
+    {
+      "album": {
         "name": "Sincericida",
         "url": "https://open.spotify.com/album/0KwUxIStU1TBZonBCMoKGl"
       },
@@ -6872,7 +6996,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 248308,
       "name": "SOFRER DE AMOR",
       "url": "https://open.spotify.com/track/5KcMiPpmgsI4EEomWEXpKX"

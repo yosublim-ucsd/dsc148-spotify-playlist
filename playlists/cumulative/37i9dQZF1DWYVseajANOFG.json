@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Yemil",
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Sech",
   "name": "Flow Panam\u00e1",
   "tracks": [
     {
@@ -207,6 +207,44 @@
     },
     {
       "album": {
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/0QR1ZeHQzUpFUkSCvYTPGF"
+      },
+      "artists": [
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        },
+        {
+          "name": "Andiex",
+          "url": "https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY"
+        },
+        {
+          "name": "Kbchappo",
+          "url": "https://open.spotify.com/artist/3w75nGmfOt1fpCAOPo2sRi"
+        },
+        {
+          "name": "At' Fat",
+          "url": "https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7"
+        },
+        {
+          "name": "wvltz",
+          "url": "https://open.spotify.com/artist/51j7RrvstwtgEjcwRAU3pq"
+        },
+        {
+          "name": "Kendrickhz",
+          "url": "https://open.spotify.com/artist/7HJs9YB7qXF225G40CIltZ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222815,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/750qz7e8SNDOEaOe3rRVXY"
+    },
+    {
+      "album": {
         "name": "BAE",
         "url": "https://open.spotify.com/album/4lw790j8llTFMQNfmPcqyz"
       },
@@ -252,6 +290,24 @@
       "duration_ms": 208360,
       "name": "Bajo Presi\u00f3n",
       "url": "https://open.spotify.com/track/6ySk8C9ebTPQcABtSNJ1QM"
+    },
+    {
+      "album": {
+        "name": "BANDI",
+        "url": "https://open.spotify.com/album/4WXrffhOGlMv9m2Lw3fhXu"
+      },
+      "artists": [
+        {
+          "name": "Sir Boss",
+          "url": "https://open.spotify.com/artist/5IOGZkPuWHakMDPdNhyRlm"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "BANDI",
+      "url": "https://open.spotify.com/track/6V0Lm0vkyfLmvc2ynz1hFr"
     },
     {
       "album": {
@@ -2338,7 +2394,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 154261,
       "name": "Mil Razones",
       "url": "https://open.spotify.com/track/5NZhelLEwoxLpR1fasqp44"
@@ -2910,7 +2966,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 170547,
       "name": "Parchecito",
       "url": "https://open.spotify.com/track/1vtQmGJc9k7kszA9VvKzsS"
@@ -2957,6 +3013,24 @@
     },
     {
       "album": {
+        "name": "Piedritas En Los Dientes",
+        "url": "https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156544,
+      "name": "Piedritas En Los Dientes",
+      "url": "https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL"
+    },
+    {
+      "album": {
         "name": "PIJAMAS",
         "url": "https://open.spotify.com/album/75z60ScguDyIuNDoxvyciJ"
       },
@@ -2998,7 +3072,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 229564,
       "name": "Pikachu",
       "url": "https://open.spotify.com/track/0TBmV2OHslJmjVw6XlDkQH"
@@ -3271,6 +3345,24 @@
     },
     {
       "album": {
+        "name": "Ronaldo Naz\u00e1rio",
+        "url": "https://open.spotify.com/album/2qfsNsNi8lyJ6FNeRMxKgi"
+      },
+      "artists": [
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170633,
+      "name": "Ronaldo Naz\u00e1rio",
+      "url": "https://open.spotify.com/track/4EMTyrQGUFpsjiQSEw5NuZ"
+    },
+    {
+      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
       },
@@ -3434,7 +3526,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 187423,
       "name": "Sexo Terrorista",
       "url": "https://open.spotify.com/track/3k7VVjgXsjS7tu8mR30J2k"
@@ -4072,7 +4164,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 166000,
       "name": "UNA NOCHE LOCA (feat. Moncas)",
       "url": "https://open.spotify.com/track/68YsZuwlEtR8cBS0NsJmf1"
@@ -4248,6 +4340,28 @@
       "duration_ms": 199148,
       "name": "Ya Ni Se",
       "url": "https://open.spotify.com/track/270ZMuPkTL02DYyG2ntJv2"
+    },
+    {
+      "album": {
+        "name": "YA NO M\u00c1S",
+        "url": "https://open.spotify.com/album/5oaWjb5ruVgJILEe92eW2I"
+      },
+      "artists": [
+        {
+          "name": "Farah",
+          "url": "https://open.spotify.com/artist/499MeLMskp0GHYO1587gZK"
+        },
+        {
+          "name": "Mole",
+          "url": "https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "YA NO M\u00c1S",
+      "url": "https://open.spotify.com/track/4POhXYdSOIE4idFgMzt4Rd"
     },
     {
       "album": {

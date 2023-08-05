@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world\. Cover: Mareux
 
-165 songs - 10 hr 54 min
+166 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Aether](https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Aether](https://open.spotify.com/album/1wI6LtwwxH0RU5eX2agIxe) | 3:26 | 2020-12-21 |  |
 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 | 2023-02-09 |  |
 | [After the Rain](https://open.spotify.com/track/5PJX4rUiIHjDoUi3C8jeZm) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Moondust](https://open.spotify.com/album/3FfcJSLi3vTvOEAjYgO7hB) | 3:00 | 2020-12-21 | 2023-02-10 |
-| [Against the Law](https://open.spotify.com/track/7FNtKxDAV3vcApMdwC7acS) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Dead City](https://open.spotify.com/album/1t0vPQTn7dQ4N4H54eP2Dd) | 4:56 | 2020-12-21 |  |
+| [Against the Law](https://open.spotify.com/track/7FNtKxDAV3vcApMdwC7acS) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Dead City](https://open.spotify.com/album/1t0vPQTn7dQ4N4H54eP2Dd) | 4:56 | 2020-12-21 | 2023-08-05 |
 | [Allude](https://open.spotify.com/track/39GNrhMrtompGnn05genwA) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Allude](https://open.spotify.com/album/0kgsQdGtnR0WPxkdHF5Gpi) | 5:51 | 2020-12-21 |  |
 | [Always Then](https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Always Then](https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC) | 4:11 | 2023-01-06 |  |
 | [American Nightmare](https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [American Nightmare](https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT) | 3:09 | 2023-03-17 | 2023-07-22 |
@@ -39,6 +39,7 @@
 | [Cuts You Up](https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 5:27 | 2023-02-09 |  |
 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 | 2023-02-09 |  |
 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 | 2023-02-09 |  |
+| [Darkness](https://open.spotify.com/track/0Fjao3dmzO8S17aLXO1QvV) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Darkness](https://open.spotify.com/album/1G66EjFlNMcXL4sudDiYEF) | 4:17 | 2023-07-21 |  |
 | [Darkness](https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Darkness](https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702) | 4:17 | 2020-12-21 | 2023-07-22 |
 | [Death and Ashes](https://open.spotify.com/track/1IyPd065NkGaOL5Qe7XI9c) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Mandy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60f6ypxsKLEemkp4216Ood) | 4:38 | 2020-12-21 | 2023-02-10 |
 | [Descontrol](https://open.spotify.com/track/3NpKSELdAoaqvLzxfyv8mI) | [Rey Rata](https://open.spotify.com/artist/0DiBgHVIgP7uCL4ivSIFsA) | [Descontrol](https://open.spotify.com/album/1Vc3ArKvzOwNzd9udwgFFw) | 3:42 | 2023-04-28 |  |

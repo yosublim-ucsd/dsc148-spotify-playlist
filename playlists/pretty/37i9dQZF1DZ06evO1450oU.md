@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1450oU.md) - [plain]
 
 > This is Salt Creek\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54 likes - 20 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 54 likes - 20 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,6 +27,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1450oU.md) - [plain]
 | 17 | [EVERYONEISTHESAME](https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:06 |
 | 18 | [Destroy](https://open.spotify.com/track/5GMsUTlHVuuKF08zW6zQ5g) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Occult Box \(Deluxe Edition\)](https://open.spotify.com/album/1gBL6rEeGLUM1anvgGuisF) | 5:20 |
 | 19 | [Taste the Floor](https://open.spotify.com/track/5ADgaERFsjbfkM9awGxQTX) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 4:14 |
-| 20 | [High Horse](https://open.spotify.com/track/4CyAFi6gxc7h3gpkdP86Rd) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:31 |
+| 20 | [Songbird](https://open.spotify.com/track/26ZZWBfaEeI3mQXrwK7bAx) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 2:52 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDA1YjVlOTE0NmY5YWQwNmY5NDJmZDIxZDgzOTRiMzhmNw==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDBjMDA4ZGI5NzdjMjRhMDVjOGZhODg2MDg0NzYyMTE1MA==`

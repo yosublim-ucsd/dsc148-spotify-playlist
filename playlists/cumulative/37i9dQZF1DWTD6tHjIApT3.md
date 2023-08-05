@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: milet
 
-1,578 songs - 4 day 6 hr 26 min
+1,579 songs - 4 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [intersolid](https://open.spotify.com/track/21gAd3WVNMqP0mSaM04CdZ) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [intersolid](https://open.spotify.com/album/31BTiDOOBfmQldZdl6vQgz) | 3:54 | 2022-05-31 | 2022-07-29 |
 | [Interview](https://open.spotify.com/track/5BWn5PRAZMrynehQkByaCU) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 2:52 | 2022-08-18 | 2022-08-24 |
 | [Into the land of Mystery](https://open.spotify.com/track/0Hdp8qkgSCBTldSvIEgFLb) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:01 | 2022-08-18 | 2022-08-24 |
+| [Invisible](https://open.spotify.com/track/40Onjo61BBN1liYTk3qMKa) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [JiLL\-Decoy association 10 \-Double\-](https://open.spotify.com/album/1gyUhmViC36wfc04CICOb2) | 3:29 | 2023-08-03 |  |
 | [ira](https://open.spotify.com/track/7AwHsYxLFMFrrpU7ykqfWJ) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [ira](https://open.spotify.com/album/71VtyqcUwda8LRXpHzr44W) | 3:02 | 2022-10-27 | 2022-11-09 |
 | [ISOGA♡PEACH](https://open.spotify.com/track/2rUXvoihe7UXWbHogW3xNs) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [gokigen](https://open.spotify.com/album/4vNzwzawCSP3840t0wVEdE) | 2:53 | 2022-05-31 | 2022-08-18 |
 | [It Might Be Painful, But I Still Love It.](https://open.spotify.com/track/3v6m03G0wyCYUWXLrzRUPg) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Under Mentality](https://open.spotify.com/album/5EczjrV57LAp8bSNka5Wg7) | 3:23 | 2023-07-06 |  |
@@ -745,7 +746,7 @@
 | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/track/63pfEg9b672lMq3ToiKCwp) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/album/4PuC95zmLCAs0BKSDMgwBu) | 3:14 | 2023-02-14 | 2023-02-16 |
 | [Stuck on you](https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [Stuck on you](https://open.spotify.com/album/2YC2JrNogGItC3W9NTZ04h) | 3:05 | 2022-11-22 | 2022-11-24 |
 | [Stuck Wit U](https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Stuck Wit U](https://open.spotify.com/album/29vqF5DQuNIzcYM0tept6C) | 3:33 | 2023-05-11 | 2023-05-17 |
-| [sugar](https://open.spotify.com/track/3mG5g11Zf4U2BRidQZSHaj) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [sugar](https://open.spotify.com/album/43ifcO1K5HZsufvpomPkh5) | 3:47 | 2023-07-27 | 2023-08-02 |
+| [sugar](https://open.spotify.com/track/3mG5g11Zf4U2BRidQZSHaj) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [sugar](https://open.spotify.com/album/43ifcO1K5HZsufvpomPkh5) | 3:47 | 2023-07-27 |  |
 | [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/track/754uqLwH2sy5PlVSjluNRB) | [Tomoko Ikeda × TENDRE](https://open.spotify.com/artist/2OFTI9ZTwbhY8cT0k7HU2P) | [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/album/0feblWhwtVCFblpekmrmjJ) | 5:01 | 2022-08-02 | 2023-05-31 |
 | [suitcase](https://open.spotify.com/track/22Mu9Hru4V2M8o3PqTnDxU) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [suitcase](https://open.spotify.com/album/0VTiDNmwC9dKN6JPzvyahk) | 3:48 | 2022-05-29 | 2022-07-19 |
 | [Suki](https://open.spotify.com/track/4EwFfgL6ljn9ihPw82uENo) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Suki](https://open.spotify.com/album/4FSCl70qEsQocSVjyuvE6v) | 2:52 | 2022-07-28 | 2022-09-09 |
@@ -1008,7 +1009,7 @@
 | [はなむけの歌](https://open.spotify.com/track/3mZVSIHse4wetcIUc21ukK) | [Anri Kumaki](https://open.spotify.com/artist/03r5Qp1stBSmYxUSF7T7vc) | [はなむけの歌](https://open.spotify.com/album/2GiA5qyValMUHvMvDDa5Y2) | 4:29 | 2022-06-07 | 2022-06-27 |
 | [ひかりのはなし](https://open.spotify.com/track/3yxCQpvmHOd2OOLmcghJEA) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [ひかりのはなし](https://open.spotify.com/album/6IFxKWApysHfpQIYN524xw) | 5:53 | 2022-07-26 | 2022-08-03 |
 | [ひかりの国](https://open.spotify.com/track/5fH0ynHoRCXR7VIYCflBPC) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ひかりの国](https://open.spotify.com/album/15RcfQBTOcXLC1t5X9bn3r) | 5:16 | 2022-06-07 | 2022-07-06 |
-| [ひこうき雲 \- 2022 mix](https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:25 | 2022-10-04 |  |
+| [ひこうき雲 \- 2022 mix](https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:25 | 2022-10-04 | 2023-08-05 |
 | [ひとりじゃないから](https://open.spotify.com/track/60wJcpxSTj2uG90ym05f48) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [ひとりじゃないから](https://open.spotify.com/album/00CjrzTKlfuDIeDyzxtV4u) | 3:34 | 2022-05-29 | 2022-07-27 |
 | [ひるねの国](https://open.spotify.com/track/7x0x7RjQ0xQEKsfds73MGW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [ひるねの国](https://open.spotify.com/album/42FD62QpX9fh4PUcKjSRXM) | 3:06 | 2023-05-16 | 2023-05-18 |
 | [ふうらい](https://open.spotify.com/track/4oEvF0PQaGrsRUrLODHNIx) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [ふうらい](https://open.spotify.com/album/7gAtFAU2BNh9ofR9YBSz5q) | 3:48 | 2022-11-10 | 2022-11-16 |
@@ -1045,7 +1046,7 @@
 | [アンバームーン](https://open.spotify.com/track/2VToJNakkBmwEvZxKS692u) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK) | [アンバームーン](https://open.spotify.com/album/6lZOqqJmvpxyCB3UAbZiXW) | 3:22 | 2022-07-19 | 2022-07-27 |
 | [イツメン。](https://open.spotify.com/track/6S1fhXHt8tzOhdERyq3Qqa) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [イツメン。](https://open.spotify.com/album/08bOlAZpzJnBoKAsHRvh6H) | 3:00 | 2022-11-03 | 2022-11-30 |
 | [インタビュー](https://open.spotify.com/track/28plgD4ChGKy9DD6CJw9Iu) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 2:52 | 2022-08-18 | 2022-08-20 |
-| [インヴィジブル](https://open.spotify.com/track/6ksS1nSsN8pxw0UESJBLaI) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [ジルデコ10～double～](https://open.spotify.com/album/55gwZycrolQtJwI9cvROSP) | 3:29 | 2023-08-03 |  |
+| [インヴィジブル](https://open.spotify.com/track/6ksS1nSsN8pxw0UESJBLaI) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [ジルデコ10～double～](https://open.spotify.com/album/55gwZycrolQtJwI9cvROSP) | 3:29 | 2023-08-03 | 2023-08-05 |
 | [ウェンズデイ・レイン \- あの頃mix](https://open.spotify.com/track/6MwNToZmV4Ui5Ta4wL2en2) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [ウェンズデイ・レイン \(あの頃mix\)](https://open.spotify.com/album/2dwqDeF8P3Y2mgXJ8V4mwP) | 4:20 | 2023-01-05 | 2023-01-11 |
 | [ウソモホント](https://open.spotify.com/track/5yJx1isPYlOMNrNINuboSJ) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [ウソモホント](https://open.spotify.com/album/7wgsf5mKeBiWEqaEqVUcGQ) | 3:43 | 2022-10-25 | 2022-10-27 |
 | [エイリアンズ](https://open.spotify.com/track/2mp2qzdtGo0OnCTHWFUILF) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [App standard](https://open.spotify.com/album/5XvH9nAEquyxKHg7zKKBDr) | 4:46 | 2022-07-12 | 2022-07-14 |

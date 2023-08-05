@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-541 songs - 23 hr 0 min
+542 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [count](https://open.spotify.com/track/6zJzxdGpwLkQWaFIOlayf8) | [mr\_slace](https://open.spotify.com/artist/2XQmmMkdTIZ7diR6B3tduO) | [count](https://open.spotify.com/album/3dHo7XQTUOsk1dE49pVSxh) | 2:06 | 2021-11-10 | 2022-07-01 |
 | [Cozy Cabin](https://open.spotify.com/track/2bQr2fVvAnyq5Wg7l1xkhW) | [Fiber Zone](https://open.spotify.com/artist/4sDZLaSAdjXRiSOZkLMBlA) | [Cozy Cabin](https://open.spotify.com/album/3T3BtxzWbTK7oO7KQ72JE9) | 2:08 | 2023-03-23 |  |
 | [Creation](https://open.spotify.com/track/3wTo5rcassS8R6L1EzKSCF) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Creation](https://open.spotify.com/album/7Dv1BGiYX6n1zGjK8DmZ5j) | 2:00 | 2021-11-10 |  |
-| [Creative Waves](https://open.spotify.com/track/3sWTzfo52MU2OXp0MkOsDn) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Creative Waves](https://open.spotify.com/album/6vRILbTFu1ArfbdVdrRzDB) | 3:16 | 2022-05-20 |  |
+| [Creative Waves](https://open.spotify.com/track/3sWTzfo52MU2OXp0MkOsDn) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Creative Waves](https://open.spotify.com/album/6vRILbTFu1ArfbdVdrRzDB) | 3:16 | 2022-05-20 | 2023-08-05 |
 | [crispy snacks](https://open.spotify.com/track/7lYOXFgCFNd5rvBkU2LZQZ) | [cudlz](https://open.spotify.com/artist/4heHOS8ybxsPh3TBtw9gf0) | [crispy snacks](https://open.spotify.com/album/4nvHX1HwzfGFXQxSXVeGMA) | 2:21 | 2021-11-10 | 2022-07-22 |
 | [Croix Coast](https://open.spotify.com/track/0jcpgo5z47py0nTtl77Hi5) | [Bluet](https://open.spotify.com/artist/5embwI2sWarwmiyd82DNtI) | [Croix Coast](https://open.spotify.com/album/6gRyaztUc8C29WRQ4kWwuA) | 3:11 | 2022-09-16 |  |
 | [Crystal Clear Water](https://open.spotify.com/track/1BMd4TcCW38UQnBePJXNoY) | [Dennis Duzhmer](https://open.spotify.com/artist/6RA3xcEXEOH5i5EW8hC7cv) | [Crystal Clear Water](https://open.spotify.com/album/6GrpYe9yKzBVXAsnQbewUt) | 2:07 | 2021-11-10 | 2022-01-22 |
@@ -180,6 +180,7 @@
 | [Fun Fact](https://open.spotify.com/track/4bCQBQwCFZ9fGIzbBe8aie) | [Dozed Again](https://open.spotify.com/artist/3vOFXxcfuGSZQKpj6Ueinf) | [Fun Fact](https://open.spotify.com/album/2x7mmLM0rn4USeYDSGaEMX) | 2:01 | 2023-01-13 |  |
 | [Furrow](https://open.spotify.com/track/6e51C5E6jH2RDjvf7LDiwW) | [NueBoo](https://open.spotify.com/artist/4m8Hq8mE0p2ajbjQBDOLDk), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [Furrow](https://open.spotify.com/album/5zXNpTsOBSmpR8QX7KisG2) | 2:18 | 2023-05-05 |  |
 | [Future Love](https://open.spotify.com/track/4exS0JoS1YgAaqdINA6FGS) | [420am](https://open.spotify.com/artist/2KPFkiMzNAp6jiKak35U6m) | [Future Love](https://open.spotify.com/album/2SGR9Rhs2ooZtY7Tx7LeV1) | 2:28 | 2022-10-28 |  |
+| [garden gnomes](https://open.spotify.com/track/5wmwBWwC0JRC6AIpKvqZW5) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [garden gnomes](https://open.spotify.com/album/3qtLuyrhyW7G8GXJI9Xly3) | 2:51 | 2023-08-04 |  |
 | [gardening notebook](https://open.spotify.com/track/6aMVqYKx96gZ88Q4wYT4eN) | [feline empire](https://open.spotify.com/artist/7pNrcc1Bgzb1i88M8TnIVX) | [gardening notebook](https://open.spotify.com/album/4skOFMUf6dKMN9QNaj9sKF) | 1:58 | 2022-01-21 | 2023-07-29 |
 | [gather around](https://open.spotify.com/track/3FrRr3UM1bdurTy0bxdU3f) | [Starzero](https://open.spotify.com/artist/2WmS1I4SYqnO6zLSXMpIlj) | [gather around](https://open.spotify.com/album/3DmutGlmDC8W3Ie9PLQiZ4) | 2:35 | 2021-11-10 | 2022-07-22 |
 | [Ghost](https://open.spotify.com/track/0lWKcKgQO4BN6z7LPS7ONH) | [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm), [Summit One](https://open.spotify.com/artist/4LjrwGL6ImaewVOcW6kJ42) | [Ghost](https://open.spotify.com/album/0I5nixTUAakGkdaqkiNOwW) | 2:30 | 2022-10-28 |  |
@@ -515,7 +516,7 @@
 | [Underground Sound](https://open.spotify.com/track/6qmAVLvlEvJdXtyEmHZ37M) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Underground Sound](https://open.spotify.com/album/4em4imooU76fZnibhNhuB8) | 2:17 | 2023-03-31 |  |
 | [unity](https://open.spotify.com/track/3Jg02v8nQp88GN1TqiAtKT) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [power to flow](https://open.spotify.com/album/5C8StkM3ZYGtkDAEqmV5ll) | 3:24 | 2022-05-20 |  |
 | [Until Dawn](https://open.spotify.com/track/64qL1d3aSX0QMZRWf29zy4) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Until Dawn](https://open.spotify.com/album/7akmB3n9nOEkHn48cTZWkI) | 2:26 | 2021-11-10 |  |
-| [Vacation](https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n) | [Hanawal](https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs) | [Vacation](https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv) | 3:15 | 2022-05-20 |  |
+| [Vacation](https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n) | [Hanawal](https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs) | [Vacation](https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv) | 3:15 | 2022-05-20 | 2023-08-05 |
 | [Vacay lets gooo](https://open.spotify.com/track/2xCtE1orl0wVEhSI1fDMDY) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [Vacay lets gooo](https://open.spotify.com/album/5xUrXJ3vZ3biL78DOEabhH) | 2:01 | 2022-05-20 | 2023-07-14 |
 | [Vegetable Potion](https://open.spotify.com/track/5IaPHmM1d2l7WH2PXrkSor) | [Bring Your Vest](https://open.spotify.com/artist/3cCwLIIuTQy9USf5NyVKH3) | [Vegetable Potion](https://open.spotify.com/album/0e2Cyivw8FxGN1GCqbl3hU) | 2:03 | 2021-11-10 | 2022-08-20 |
 | [Venice](https://open.spotify.com/track/1FO9LieasI7ttaaDzijInm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 3:24 | 2022-01-21 |  |
@@ -541,7 +542,7 @@
 | [Wiktoria](https://open.spotify.com/track/6gJrUDsoPO8WnLRJkJxY9c) | [Flite Crew](https://open.spotify.com/artist/4VglloPs1MLbkV0TAyGZzP) | [Wiktoria](https://open.spotify.com/album/7hXi2g38I1GwsArIAy8iHE) | 2:54 | 2022-04-05 | 2022-07-01 |
 | [Winders](https://open.spotify.com/track/5kzCtOR9QZrH9s0sGgimQL) | [Inue](https://open.spotify.com/artist/2zD22BN6MTdYyJ1vETMZ2k) | [Mother](https://open.spotify.com/album/0463JilwEzOU63LM4NLvDh) | 2:59 | 2023-03-17 |  |
 | [Window in Time](https://open.spotify.com/track/45M34uxWB4RGb9Nh16luLs) | [MC Baptiste](https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL) | [Window in Time](https://open.spotify.com/album/59rKbmjCHpwkGniq34qANA) | 3:07 | 2022-10-07 |  |
-| [Winds & Shadows](https://open.spotify.com/track/04BL0Jfx1yLRPpSjMKmG4f) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Peaceful Yoga Rhythms](https://open.spotify.com/album/1Nh8BT4uBroLsLi0l5THgw) | 4:46 | 2022-11-25 |  |
+| [Winds & Shadows](https://open.spotify.com/track/04BL0Jfx1yLRPpSjMKmG4f) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Peaceful Yoga Rhythms](https://open.spotify.com/album/1Nh8BT4uBroLsLi0l5THgw) | 4:46 | 2022-11-25 | 2023-08-05 |
 | [Years Go By](https://open.spotify.com/track/5ypcyyCy6uXaeKrbdpmaY8) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [Years Go By](https://open.spotify.com/album/6AnT3tJePFHQAlIFAdpvD5) | 1:57 | 2021-11-10 | 2022-07-01 |
 | [your pillow](https://open.spotify.com/track/5bM9yqaHGpWYLKTJznFZFU) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [your pillow / geodesis](https://open.spotify.com/album/5V6MjlAOq8akXPb7vifrXe) | 2:19 | 2022-05-10 | 2023-01-13 |
 | [Youth](https://open.spotify.com/track/0w1Bmnum1Fk0Unjy5Ok2ov) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Youth](https://open.spotify.com/album/1qOuL7TsLLRCTDMFXCCnGm) | 2:24 | 2022-09-02 |  |

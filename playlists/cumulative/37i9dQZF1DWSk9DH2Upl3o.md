@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-152 songs - 14 hr 29 min
+153 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Ghost In The Machine](https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Ghost In The Machine](https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV) | 6:19 | 2022-07-08 |  |
 | [Green River \(Single Edit\)](https://open.spotify.com/track/1bPxp5gqRJdhMzQQ8kPJWV) | [Tommy Kaelin](https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p) | [Green River \(Single Edit\)](https://open.spotify.com/album/2MYhnWrZZvtBK0DkQ3suxO) | 4:08 | 2022-09-23 | 2023-07-15 |
 | [Growing Your Hands Back](https://open.spotify.com/track/2iQeEYuZvG1j0wVeNJbZtD) | [ALO](https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj) | [Silver Saturdays](https://open.spotify.com/album/3IbrPiWeBaAf3d1S9RX7Oh) | 4:45 | 2023-03-03 |  |
+| [Hell Yeah Everyday \(Live from The Compound Long Beach\)](https://open.spotify.com/track/1mRbV4rJY6tZdYF8KAvU6L) | [Manuel the Band](https://open.spotify.com/artist/53QeCVwCAOdxJ3p7BG4ZUn) | [Hell Yeah Everyday \(Live from The Compound Long Beach\)](https://open.spotify.com/album/18E8ovQ9opDnN1wqBIDG8N) | 3:48 | 2023-08-04 |  |
 | [Hiccup](https://open.spotify.com/track/4GXPo6bO1KpGJ0AGZbq75o) | [Umphrey's McGee](https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o) | [Asking For A Friend](https://open.spotify.com/album/6SLMJC96T8b2uADVaiYfOf) | 3:06 | 2022-07-01 |  |
 | [High In The 90’s](https://open.spotify.com/track/77vlcd4Sot8FC2k5HaFppl) | [Stone Wheels](https://open.spotify.com/artist/73F831It0zfAR0efIa12dq) | [High In The 90’s](https://open.spotify.com/album/3U5PdbP4s7RCU9tEbZrrx4) | 4:30 | 2023-06-23 |  |
 | [Hot Damn](https://open.spotify.com/track/4yFararsjQ0deuaZVH8CGb) | [ALO](https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj) | [Hot Damn](https://open.spotify.com/album/2DeHT9aqcZ7KSWvx6sEDVN) | 4:17 | 2023-01-20 | 2023-03-18 |
@@ -101,7 +102,7 @@
 | [One More Time](https://open.spotify.com/track/4Kzi9HfJf8MbpvGIAZXSl6) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [One More Time](https://open.spotify.com/album/2oW4uG3cuWhOAgJwuw6gZO) | 3:04 | 2023-07-07 |  |
 | [One Turn](https://open.spotify.com/track/5wotgIhvk6lJfNCqnUJO6d) | [Mungion](https://open.spotify.com/artist/4qIgyXFMEaFl3HmABtjNfK) | [One Turn](https://open.spotify.com/album/2Axf1fjKFzOqHoesPAKB1t) | 4:57 | 2023-05-05 |  |
 | [Opelika Yella](https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Out of Line](https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg) | 5:39 | 2022-06-23 |  |
-| [Outer Boroughs](https://open.spotify.com/track/5EzcAEZEjRBT6BplnklT1Y) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH) | [Outer Boroughs](https://open.spotify.com/album/1D31I5VNHglxOfY2QKQCok) | 7:28 | 2022-11-11 |  |
+| [Outer Boroughs](https://open.spotify.com/track/5EzcAEZEjRBT6BplnklT1Y) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH) | [Outer Boroughs](https://open.spotify.com/album/1D31I5VNHglxOfY2QKQCok) | 7:28 | 2022-11-11 | 2023-08-05 |
 | [Playing With My Emotions](https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 4:10 | 2022-07-01 |  |
 | [Polski Polski](https://open.spotify.com/track/3e0wD9Fsuifkj4xkLGjIdx) | [David Henriksson & Daze Delight](https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV) | [Polski Polski](https://open.spotify.com/album/6UDH5Y5wh9M2b99aarli40) | 5:16 | 2023-02-24 | 2023-04-22 |
 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 | 2022-09-23 |  |

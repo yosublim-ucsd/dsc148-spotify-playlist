@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,007 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,994 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 36 | [till christmas day](https://open.spotify.com/track/608gfFTFTlOFklDgQk0yos) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [till christmas day](https://open.spotify.com/album/5c3DibcwuIB94jNACIGEcr) | 2:49 |
 | 37 | [Every Holiday](https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Every Holiday](https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B) | 3:44 |
 | 38 | [This Christmas](https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [This Christmas](https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW) | 3:39 |
-| 39 | [A Little Love \- From The John Lewis & Waitrose Christmas Advert 2020](https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [A Little Love \(From The John Lewis & Waitrose Christmas Advert 2020\)](https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4) | 2:58 |
-| 40 | [Snow Song](https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:56 |
+| 39 | [Snow Song](https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:56 |
+| 40 | [A Little Love \- From The John Lewis & Waitrose Christmas Advert 2020](https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [A Little Love \(From The John Lewis & Waitrose Christmas Advert 2020\)](https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4) | 2:58 |
 | 41 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/6KktzUnQSJZC3iZSwj812R) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/5P6ipsN2cYH8Bp2DokqkHf) | 2:59 |
 | 42 | [Christmas Treat](https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 3:11 |
 | 43 | [Linus n' Lucy \(Theme from Peanuts\)](https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Linus n' Lucy \(Theme from Peanuts\)](https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc) | 2:52 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 70 | [Mama It's Christmas](https://open.spotify.com/track/2r3zWJ1sWux8Fix5MODSGI) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:56 |
 | 71 | [LIFE ON EARTH \- with Preservation Hall Jazz Band](https://open.spotify.com/track/7h9AzoDlI59MOEsg7a3GBZ) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [LIFE ON EARTH \(with Preservation Hall Jazz Band\)](https://open.spotify.com/album/0oBz5ydRtqLZliiATbtZ9w) | 6:20 |
 | 72 | [Christmas Is Going To The Dogs](https://open.spotify.com/track/01UBQgNn1jCFAnnvNJSjv0) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Useless Trinkets\-B Sides, Soundtracks, Rarieties and Unreleased 1996\-2006](https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt) | 2:57 |
-| 73 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
-| 74 | [Last Christmas](https://open.spotify.com/track/08qJ93wbDYK6kWCRh4eTCj) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [2019](https://open.spotify.com/album/27tiEUoVBcG4VlFGoZd0IC) | 2:41 |
+| 73 | [Last Christmas](https://open.spotify.com/track/08qJ93wbDYK6kWCRh4eTCj) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [2019](https://open.spotify.com/album/27tiEUoVBcG4VlFGoZd0IC) | 2:41 |
+| 74 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
 | 75 | [Joy To The World](https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 4:20 |
 
-Snapshot ID: `MCw3OWI4M2NhODFhMjI5MGMyODU5MjJhODM0ZjA3MTcyZmRlZDQyODc2`
+Snapshot ID: `MCxhNjdjMDg0NmFkNDI1M2MwOTcyMTdjODk3YWUxMTE1NzZkYjM0Y2Fi`

@@ -2,9 +2,9 @@
 
 ### [Nu\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWZgauS5j6pMv)
 
-> The best of today's funk\. Cover: Cory Wong
+> The best of today's funk\. Cover: Jafunk
 
-337 songs - 19 hr 54 min
+338 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Floatin'](https://open.spotify.com/track/3pskfPInvz8nsloyEzUnFL) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Floatin'](https://open.spotify.com/album/6Na5fZHOLE34XND8URABMC) | 3:08 | 2020-11-20 | 2022-04-09 |
 | [Fly Like An Eagle \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5hGbVwHALNW6aqlY6HmSDb) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Fly Like an Eagle \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2FRv54YdknVaD2A2B3reLU) | 2:58 | 2022-07-01 | 2023-05-27 |
 | [Follow The Light](https://open.spotify.com/track/3FqvCSW4LXjdJJPxpna5AH) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Follow The Light](https://open.spotify.com/album/3gSUJYYXpZfYi94w9XOHNv) | 4:04 | 2021-08-28 | 2022-08-13 |
-| [Fool For You](https://open.spotify.com/track/3quWT2PJG1tbS1Q7T5yLKK) | [Apollo Theo](https://open.spotify.com/artist/4gdIEqgsdPdiAyNyArsLRz), [Jaz Lund](https://open.spotify.com/artist/76wFPyb3pS7rjiDOJOeS7P) | [Fool For You](https://open.spotify.com/album/6rc9d2SLCNCHqAsmqyfYq4) | 2:12 | 2022-11-25 |  |
+| [Fool For You](https://open.spotify.com/track/3quWT2PJG1tbS1Q7T5yLKK) | [Apollo Theo](https://open.spotify.com/artist/4gdIEqgsdPdiAyNyArsLRz), [Jaz Lund](https://open.spotify.com/artist/76wFPyb3pS7rjiDOJOeS7P) | [Fool For You](https://open.spotify.com/album/6rc9d2SLCNCHqAsmqyfYq4) | 2:12 | 2022-11-25 | 2023-08-05 |
 | [Fool For You](https://open.spotify.com/track/0urYHfuvFbdwOA1SYX4yvJ) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Fool For You](https://open.spotify.com/album/7nNMfOWUpvnIpGDMXb0Z0L) | 2:55 | 2020-11-20 | 2022-04-09 |
 | [Found My Groove](https://open.spotify.com/track/0NAQlpeVEX2kbAf6YoDHCK) | [The Burroughs](https://open.spotify.com/artist/61xHHZBWUMoheAPbd28E3r) | [Found My Groove](https://open.spotify.com/album/1QvSqMm0YILjS1bs2gxaCu) | 3:13 | 2023-03-17 |  |
 | [Free the Night](https://open.spotify.com/track/3nIf1Wj3T9FXeeZkQOnXgW) | [Patric Pleasure](https://open.spotify.com/artist/1S5UyTmyOEpVluYNaC8d5M) | [Free the Night](https://open.spotify.com/album/1Eb5kr5hzaSVZ84GwU8kng) | 3:20 | 2021-07-16 | 2022-09-24 |
@@ -225,6 +225,7 @@
 | [New Guru](https://open.spotify.com/track/1iDxNtb7jleE8GqD4m81dA) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 3:24 | 2022-12-09 |  |
 | [New Guru](https://open.spotify.com/track/7MV4NBFotO3y7Bpo9S6I2Y) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [New Guru](https://open.spotify.com/album/3GcUSJfHkUDGlrN94sC5CF) | 3:24 | 2022-12-09 | 2023-01-01 |
 | [Nickel & Dime](https://open.spotify.com/track/60Cert2E9OwA9rnl67Y2vj) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Nickel & Dime](https://open.spotify.com/album/7nX4K9FAGdDGu662bdl8oI) | 2:39 | 2023-05-26 | 2023-07-29 |
+| [Nightlife](https://open.spotify.com/track/2HhwgxfCPDqxmpzKB0FlTL) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [Nightlife](https://open.spotify.com/album/3fJnk9OEpO346UKBj1dvyu) | 3:17 | 2023-08-04 |  |
 | [No Apologies](https://open.spotify.com/track/34xXBHLrnUS2QzE6J5Et8G) | [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX) | [No Apologies](https://open.spotify.com/album/3lmXNWYkfVeHb6hDQlzRf3) | 2:38 | 2021-05-21 | 2022-01-29 |
 | [No ID](https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [No ID](https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd) | 3:11 | 2022-01-28 | 2022-12-03 |
 | [Nothing But Love](https://open.spotify.com/track/2QkKo7MwMQESbx2Fzcgf9t) | [Cosmo Klein](https://open.spotify.com/artist/4tzTHSSGpobu0p7I6lfJeJ), [The Campers](https://open.spotify.com/artist/7fDWXRCDvxkDLCbEKJJNYd) | [Nothing But Love](https://open.spotify.com/album/2HdYVxvkpLihAd3nja44TN) | 3:16 | 2023-05-23 |  |

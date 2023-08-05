@@ -1,12 +1,12 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 145774,
+  "num_followers": 145893,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjE3NzdkMjRjNWMxNDQ3OGQ0NTUzYmIxNzAzNTMzMGUxNzE1N2Mx",
+  "snapshot_id": "MCwwZWI5ZTUxYTJlYjUxZTYwNjY1NTBiYjQ2YjBkNzY3OGZkOGU0NWMw",
   "tracks": [
     {
       "added_at": "2023-07-27 12:00:43",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-07-27 12:00:43",
       "album": {
-        "name": "The Girl From Ipanema - The Bossa Nova Years",
-        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 321826,
-      "name": "The Girl From Ipanema",
-      "url": "https://open.spotify.com/track/3898C4AbdbptwYet6547e5"
-    },
-    {
-      "added_at": "2023-07-27 12:00:43",
-      "album": {
         "name": "Epitaph",
         "url": "https://open.spotify.com/album/6Dx95qiRnig7JG4UoZtyFA"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 236910,
       "name": "Long Live the (D)Evil",
       "url": "https://open.spotify.com/track/7LSQYhyOhooiBpDva8AJaC"
+    },
+    {
+      "added_at": "2023-07-27 12:00:43",
+      "album": {
+        "name": "The Girl From Ipanema - The Bossa Nova Years",
+        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 321826,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/3898C4AbdbptwYet6547e5"
     },
     {
       "added_at": "2023-07-27 12:00:43",

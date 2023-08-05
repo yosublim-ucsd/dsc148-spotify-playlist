@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover- Samira Koppikar",
+  "description": "Naye Indie gaano ka khazana! Cover- Aditya Rikhari",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 214873,
       "name": "1990\u2019s Kareeb",
       "url": "https://open.spotify.com/track/5Hijy2I5Z36spnjZrF0Fmj"
@@ -174,7 +174,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 153214,
       "name": "Aao Zara",
       "url": "https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf"
@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Baadal",
+        "url": "https://open.spotify.com/album/6vbTqEOFjaiDJy6WdcpZkt"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254123,
+      "name": "Baadal",
+      "url": "https://open.spotify.com/track/4NliS6MtHE2VJC3Pu495nv"
+    },
+    {
+      "album": {
         "name": "Baarish Aayi Hai",
         "url": "https://open.spotify.com/album/6a851oa8UJOEXLIf9sKPNc"
       },
@@ -410,7 +428,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 198000,
       "name": "Barse More Naina",
       "url": "https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON"
@@ -502,6 +520,24 @@
       "duration_ms": 282000,
       "name": "Bhaari Nasha",
       "url": "https://open.spotify.com/track/2JaOVizNC906Fn9YEZq34I"
+    },
+    {
+      "album": {
+        "name": "Bin Tere",
+        "url": "https://open.spotify.com/album/4vTudmkF2X0nlMCcXMUixp"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206729,
+      "name": "Bin Tere",
+      "url": "https://open.spotify.com/track/3HmkI0yLP6fE6wPrjjTnWJ"
     },
     {
       "album": {
@@ -888,10 +924,46 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 165436,
       "name": "Gulabi",
       "url": "https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx"
+    },
+    {
+      "album": {
+        "name": "Akela",
+        "url": "https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw"
+      },
+      "artists": [
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210282,
+      "name": "Gunjaayish Hai",
+      "url": "https://open.spotify.com/track/3ibAyrfDw0S3kTZ8MfxCFm"
+    },
+    {
+      "album": {
+        "name": "Guzarish",
+        "url": "https://open.spotify.com/album/6xRVOiJUIWwWFuUoUfAkQV"
+      },
+      "artists": [
+        {
+          "name": "citimall",
+          "url": "https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Guzarish",
+      "url": "https://open.spotify.com/track/4dE5eNG3DVTvIZMy4pY4Jr"
     },
     {
       "album": {
@@ -1102,6 +1174,24 @@
       "duration_ms": 189999,
       "name": "Jahaan Pe Dil Hai",
       "url": "https://open.spotify.com/track/3YgM9XcsDUmCzOQIrsBWxS"
+    },
+    {
+      "album": {
+        "name": "Jannat",
+        "url": "https://open.spotify.com/album/4Bx8C5p2ElDIYTokkN7Ghz"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153191,
+      "name": "Jannat",
+      "url": "https://open.spotify.com/track/0qJO8QgG5C8mUyPA827c8R"
     },
     {
       "album": {
@@ -1672,7 +1762,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 201968,
       "name": "Listen",
       "url": "https://open.spotify.com/track/4heuLQuyeST64cfOXQpxL9"
@@ -1719,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Manwa Bhaagey",
+        "url": "https://open.spotify.com/album/13X5ctGRnJaAvO3WyXsoF6"
+      },
+      "artists": [
+        {
+          "name": "Vasuda Sharma",
+          "url": "https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257200,
+      "name": "Manwa Bhaagey",
+      "url": "https://open.spotify.com/track/5sVlW4pj3NDIYKNftGwRlZ"
+    },
+    {
+      "album": {
         "name": "Marham",
         "url": "https://open.spotify.com/album/6k1zkKFbiA2M9DEA0vdHsp"
       },
@@ -1752,7 +1860,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 109090,
       "name": "Maze / Haze",
       "url": "https://open.spotify.com/track/5wrBB8f4odV2bsjd8uIvoP"
@@ -2329,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "Sandesa",
+        "url": "https://open.spotify.com/album/4ReEpnPrFF5NyZQGlpGgJa"
+      },
+      "artists": [
+        {
+          "name": "Avanti Patel",
+          "url": "https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223304,
+      "name": "Sandesa",
+      "url": "https://open.spotify.com/track/6By28l3OmPVa2tFFgQD0zt"
+    },
+    {
+      "album": {
         "name": "Sang Baarishon Ke",
         "url": "https://open.spotify.com/album/1sCNpq0xg4Z1CYoWTsLLj2"
       },
@@ -2540,7 +2666,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 162461,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/5F41lXOja3WJvPzUNFp0hf"
@@ -2646,7 +2772,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 204736,
       "name": "Tu Bataa",
       "url": "https://open.spotify.com/track/4tXOXLvzUcoLGpgxsRHezj"
@@ -2908,6 +3034,28 @@
       "duration_ms": 156665,
       "name": "Yaad",
       "url": "https://open.spotify.com/track/4P0LkIqpdn3v9udP5yWRl9"
+    },
+    {
+      "album": {
+        "name": "Yaari Ke Dhaage",
+        "url": "https://open.spotify.com/album/0fRZWJiJsvrMnGEWhN7WfU"
+      },
+      "artists": [
+        {
+          "name": "Ishaan Nigam",
+          "url": "https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2"
+        },
+        {
+          "name": "Brite Roy",
+          "url": "https://open.spotify.com/artist/7rxPUpZCGnK9I2SHVhTw1Y"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "Yaari Ke Dhaage",
+      "url": "https://open.spotify.com/track/1F79kSzDvRgQFOge5CMvl0"
     },
     {
       "album": {

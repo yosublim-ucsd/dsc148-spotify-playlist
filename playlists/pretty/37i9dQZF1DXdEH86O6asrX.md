@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 
 > ¡Disfruta de las mejores bandas sonoras del siglo XXI!
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,853 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,866 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 23 | [Goodnight Moon](https://open.spotify.com/track/5jQPDVjgSGnNYl8G3H3qul) | [Shivaree](https://open.spotify.com/artist/34xAiSyQG6nlH0eZNLjbLW) | [Kill Bill Vol\. 2 Original Soundtrack](https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs) | 4:03 |
 | 24 | [Ice Dance](https://open.spotify.com/track/6HH8ZoDIe5qw8EYTTHVZh7) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Edward Scissorhands](https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf) | 1:44 |
 | 25 | [Carol of the Bells](https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI) | [Mykola Dmytrovych Leontovych](https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 1:25 |
-| 26 | [Journey Through the Past](https://open.spotify.com/track/73uAQw29X3mrO1taWZaOvm) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Inherent Vice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LIMxY8oQG9c70DWKe0iHN) | 2:21 |
-| 27 | [Down To The River To Pray](https://open.spotify.com/track/79x6uDDP9EAT5c35zOZhXv) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [O Brother, Where Art Thou? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ) | 2:55 |
+| 26 | [Down To The River To Pray](https://open.spotify.com/track/79x6uDDP9EAT5c35zOZhXv) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [O Brother, Where Art Thou? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ) | 2:55 |
+| 27 | [Journey Through the Past](https://open.spotify.com/track/73uAQw29X3mrO1taWZaOvm) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Inherent Vice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LIMxY8oQG9c70DWKe0iHN) | 2:21 |
 | 28 | [Dry the Rain](https://open.spotify.com/track/7ItpUlCUwTRyiXZ0YclPQ7) | [The Beta Band](https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa) | [The Three E.P.'s](https://open.spotify.com/album/6w7XFtdCQf871KU40Ot1Ra) | 6:06 |
 | 29 | [Heroes And Villains \- Remastered 2001](https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 |
 | 30 | [Garbage Truck](https://open.spotify.com/track/4YbslGpDoOgJgH8wqSdfaP) | [Sex Bob\-Omb](https://open.spotify.com/artist/0epidpyARaIPmKpFUwcgnJ) | [Scott Pilgrim vs\. the World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3q1e0dxZARuaHxZkLzgErK) | 1:43 |
 | 31 | [Hush \- 1998 Remix](https://open.spotify.com/track/4sTUkIe8cha0RCcTKvfc2J) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deepest Purple \(30th Anniversary Edition\)](https://open.spotify.com/album/4OjTMhCfhJHdUDdIT1wi6D) | 4:13 |
-| 32 | [Fare Thee Well \(Dink's Song\)](https://open.spotify.com/track/0YOOXnCJihgyluizqhAcrz) | [Oscar Isaac](https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy), [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Inside Llewyn Davis: Original Soundtrack Recording](https://open.spotify.com/album/1HlwBBTjItwW2VN4OG1rin) | 3:00 |
-| 33 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 |
+| 32 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 |
+| 33 | [Fare Thee Well \(Dink's Song\)](https://open.spotify.com/track/0YOOXnCJihgyluizqhAcrz) | [Oscar Isaac](https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy), [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Inside Llewyn Davis: Original Soundtrack Recording](https://open.spotify.com/album/1HlwBBTjItwW2VN4OG1rin) | 3:00 |
 | 34 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/5xQskDSiHQeoebxoprn3HL) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dr\. Seuss' The Grinch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ) | 1:48 |
 | 35 | [I’m So Humble](https://open.spotify.com/track/39F08AoluLGQ9F1J2bO4Pn) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Popstar: Never Stop Never Stopping](https://open.spotify.com/album/07fcZXkBS0y4Y80GT60PZq) | 2:32 |
 | 36 | [Christmas Time Is Here](https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 49 | [Main Title "Somewhere in My Memory" \(From "Home Alone"\) \- Voice](https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 4:53 |
 | 50 | [The Kiss](https://open.spotify.com/track/1s7bN2otnn6E4oLgTvRgzE) | [Nicholas Hooper](https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50) | [Harry Potter And The Order Of The Phoenix \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5TEFNL3l7ELSJCq8tq4PNy) | 1:56 |
 
-Snapshot ID: `MCwxODIyYjVkMzcxYzUzMDUzZjJmOTQ3OTZlNDA2MGY3ZTFiMWUyNmI0`
+Snapshot ID: `MCwxYjZiMzM0MmY5YjczNDA3NzcyMzRkMTVlMDIyNjc3MjM4YzNjZTkw`

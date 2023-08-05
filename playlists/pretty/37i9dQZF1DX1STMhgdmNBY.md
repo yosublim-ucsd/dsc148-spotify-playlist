@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,711 likes - 70 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,792 likes - 70 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 51 | [Trouble In Mind](https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk) | [Big Walter Horton](https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX) | [Big Walter Horton w/ Carey Bell](https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5) | 4:38 |
 | 52 | [Drivin' Wheel \- Single Version](https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:37 |
 | 53 | [Riding Out The Storm](https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Riding Out The Storm](https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC) | 4:38 |
-| 54 | [A Few Good Years](https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 4:47 |
-| 55 | [Dr\. Feelgood \(Love Is Serious Business\)](https://open.spotify.com/track/7d38lTzElTueMVLNQ0nihe) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Soul Queen](https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb) | 3:18 |
+| 54 | [Dr\. Feelgood \(Love Is Serious Business\)](https://open.spotify.com/track/7d38lTzElTueMVLNQ0nihe) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Soul Queen](https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb) | 3:18 |
+| 55 | [A Few Good Years](https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 4:47 |
 | 56 | [Gambler's Blues](https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 5:41 |
 | 57 | [Sittin' And Cryin' The Blues](https://open.spotify.com/track/4vl2dLCKiTjkPGFRGchtuL) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY), [Memphis Slim](https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia) | [Willie's Blues](https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV) | 3:23 |
 | 58 | [I Don't Know What You've Got](https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Mike Farris](https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 4:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 69 | [I'm Slippin' In](https://open.spotify.com/track/6P7KVBsfow2UkcFgc7Et51) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:52 |
 | 70 | [A Touch Of The Blues \- Single Version](https://open.spotify.com/track/4IxspXe4ihU15PKgeUQqfo) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [That's It! / Duke Recordings Vol\. III](https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB) | 3:19 |
 
-Snapshot ID: `MCwxYTI1ZTYzNGRhZjgwN2E4NDNjMjE0MzhiOTAwMWY3Nzk4ZWNiMDFh`
+Snapshot ID: `MCw5YWI3OTkyNDA2MDVkMzhkNDIyNThkOWVjNTY4ZDE4YTI3NzRkNjQw`

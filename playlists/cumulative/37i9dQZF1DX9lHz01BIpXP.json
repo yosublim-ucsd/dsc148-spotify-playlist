@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "Awe",
+        "url": "https://open.spotify.com/album/0VtgAxF8js5FxEPMNNQeba"
+      },
+      "artists": [
+        {
+          "name": "Young Midi",
+          "url": "https://open.spotify.com/artist/4NQRYP8Shjn1eA4Ic0iTk4"
+        },
+        {
+          "name": "Buzzi Lee",
+          "url": "https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112500,
+      "name": "Awe",
+      "url": "https://open.spotify.com/track/07pekB0VlTJg0tpb8qvTcH"
+    },
+    {
+      "album": {
         "name": "Awe My Ma Se Kind",
         "url": "https://open.spotify.com/album/40nAWEdpwiLQLdzqWTQB17"
       },
@@ -130,6 +152,28 @@
       "duration_ms": 185379,
       "name": "Benni McCarthy",
       "url": "https://open.spotify.com/track/3Lyk4X2mZp1BbmzTG9sqmg"
+    },
+    {
+      "album": {
+        "name": "Big Fish",
+        "url": "https://open.spotify.com/album/4VdJbhqCsOMd85sHF9x11k"
+      },
+      "artists": [
+        {
+          "name": "Die Twaalf",
+          "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
+        },
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187431,
+      "name": "Big Fish",
+      "url": "https://open.spotify.com/track/7dq3upkgbcExbqQW5CCm2F"
     },
     {
       "album": {
@@ -294,7 +338,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 187480,
       "name": "Cerebellum",
       "url": "https://open.spotify.com/track/0RITqRIAaeqTkH69haD3SN"
@@ -584,7 +628,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 230626,
       "name": "Forever Or Never",
       "url": "https://open.spotify.com/track/2vQlEG2lcO9xcw5t1Gzgtv"
@@ -843,6 +887,28 @@
     },
     {
       "album": {
+        "name": "JMHWB",
+        "url": "https://open.spotify.com/album/1T6tnYZ1l4htYjHyQ8aNWO"
+      },
+      "artists": [
+        {
+          "name": "Cream Machine",
+          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
+        },
+        {
+          "name": "Stuwi W",
+          "url": "https://open.spotify.com/artist/1I6vji9IXigkijAeej9pQO"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227691,
+      "name": "JMHWB",
+      "url": "https://open.spotify.com/track/2iVtx13izbsfNMdDjmK7Th"
+    },
+    {
+      "album": {
         "name": "Jou Mase",
         "url": "https://open.spotify.com/album/4scKcqaWvc2circ9KE6cS8"
       },
@@ -1062,7 +1128,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 222750,
       "name": "Meisies & Partytjies",
       "url": "https://open.spotify.com/track/1psMgy1yY92I0iEDmiEtmT"

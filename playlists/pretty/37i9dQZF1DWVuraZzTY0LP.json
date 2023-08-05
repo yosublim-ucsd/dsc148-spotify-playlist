@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 324854,
+  "num_followers": 324928,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjVmZGVlODFkYWIyMWNlYzEwM2E4MzliNTdkYzdkYzJkODIwMmJk",
+  "snapshot_id": "MCxjNmIwNTBjZWI5ZGY1NzlmNWViZWM2ZTJjNzczMGVlY2Y3NmVlODc4",
   "tracks": [
     {
       "added_at": "2023-07-28 07:24:22",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-07-28 07:24:22",
       "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
-    },
-    {
-      "added_at": "2023-07-28 07:24:22",
-      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
+    },
+    {
+      "added_at": "2023-07-28 07:24:22",
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
     },
     {
       "added_at": "2023-07-28 07:24:22",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-07-28 07:24:22",
       "album": {
-        "name": "Br\u00fajula",
-        "url": "https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 252661,
-      "name": "Br\u00fajula",
-      "url": "https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo"
-    },
-    {
-      "added_at": "2023-07-28 07:24:22",
-      "album": {
         "name": "Nada Te Lastima",
         "url": "https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 248750,
       "name": "Nada Te Lastima",
       "url": "https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d"
+    },
+    {
+      "added_at": "2023-07-28 07:24:22",
+      "album": {
+        "name": "Br\u00fajula",
+        "url": "https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 252661,
+      "name": "Br\u00fajula",
+      "url": "https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo"
     },
     {
       "added_at": "2023-07-28 07:24:22",

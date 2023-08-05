@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Tion Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,179 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,244 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 34 | [Body](https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Body](https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ) | 3:03 |
 | 35 | [Zoo York \(feat\. Fivio Foreign & Pop Smoke\)](https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [State of Emergency](https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw) | 3:34 |
 | 36 | [Don't Like.1](https://open.spotify.com/track/3YqJ0iaDWM0aqEDQExd2j3) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [G.O.O.D.](https://open.spotify.com/album/4YXvNse2P5iuKtCPh91o8q) | 4:43 |
-| 37 | [City of Gods](https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods](https://open.spotify.com/album/0Nzff60OICCUBrtr980elH) | 4:16 |
-| 38 | [AP \- Music from the film Boogie](https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [AP \(Music from the film Boogie\)](https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI) | 2:51 |
+| 37 | [AP \- Music from the film Boogie](https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [AP \(Music from the film Boogie\)](https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI) | 2:51 |
+| 38 | [City of Gods](https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods](https://open.spotify.com/album/0Nzff60OICCUBrtr980elH) | 4:16 |
 | 39 | [I Dunno \(feat\. Dutchavelli & Stormzy\)](https://open.spotify.com/track/3B0WbRucJ6ZIla2G9IVt2E) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [I Dunno \(feat\. Dutchavelli & Stormzy\)](https://open.spotify.com/album/4HFf49hM2U0n27vIms1OjU) | 2:58 |
 | 40 | [One Up](https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 2:40 |
 | 41 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [Demons \(feat\. Fivio Foreign & Sosa Geek\)](https://open.spotify.com/track/05aZ9sAU1YXndHv0FMi9iW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Sosa Geek](https://open.spotify.com/artist/2UyyBkpzN5w3hzZBZGvRZb) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:24 |
 | 50 | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/track/1xqRKo0SDFDO5Jy8yEVD0X) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/album/752RRPgpiIBjptbb1BqoRI) | 3:11 |
 
-Snapshot ID: `MCwwYTRmYTIxY2NiMzI5NjYzYTg4ZTc3YjM5MzRiNTE1ZWRkZTIxZjYx`
+Snapshot ID: `MCxiNTAzMmNlOThiY2IyODE3YWNkMDUxMjg4MGI4MzAwMmUzNGU0MDU0`

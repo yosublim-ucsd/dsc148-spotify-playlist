@@ -487,6 +487,32 @@
     },
     {
       "album": {
+        "name": "Barbie (Score from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Andrew Wyatt",
+          "url": "https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm"
+        },
+        {
+          "name": "Molly Lewis",
+          "url": "https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142163,
+      "name": "Meeting Ruth",
+      "url": "https://open.spotify.com/track/6mKHm67aAI4azpDooIf3qO"
+    },
+    {
+      "album": {
         "name": "Barbie The Album",
         "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
       },

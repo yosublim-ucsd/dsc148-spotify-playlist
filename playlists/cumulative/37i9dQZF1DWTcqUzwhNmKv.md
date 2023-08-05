@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> From Ashes To New on top of the biggest Metal playlist.
+> Falling In Reverse on top of the biggest Metal playlist.
 
-479 songs - 1 day 8 hr 12 min
+480 songs - 1 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [Wake The Dead](https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/50NFxpSSYkfxIIrd6RX7Lu) | 3:07 | 2023-06-02 |  |
 | [Wake Up Dead](https://open.spotify.com/track/4cj9oqXwEDaXOADJw9clMc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake Up Dead](https://open.spotify.com/album/6P0dS26zzxkYkxDFiLSrre) | 3:43 | 2022-04-01 | 2022-05-13 |
 | [Wargod](https://open.spotify.com/track/7zMtpoUdT3TsOHQvaQAqQI) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Wargod](https://open.spotify.com/album/2RfmZMdglQ9FC6yDrRu4Cr) | 4:38 | 2023-04-28 | 2023-05-20 |
+| [Warpaint](https://open.spotify.com/track/0GzWj8bo5qMuBplDjOdLxH) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Warpaint](https://open.spotify.com/album/2MTwOiCBBadJ9gqhw5dyie) | 3:28 | 2023-08-04 |  |
 | [Waste Of Myself](https://open.spotify.com/track/05EAMJGwvxDcqcGxhT4t9R) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [The Aggression Sessions](https://open.spotify.com/album/3mPX3GO24FWBfxy1NqMkhl) | 3:21 | 2023-04-14 |  |
 | [Wasted Space](https://open.spotify.com/track/2swqb0ij8Xpksi4A7tqE6i) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Wasted Space](https://open.spotify.com/album/6kldsD8IODEdYNlNAXPCed) | 3:26 | 2023-03-17 |  |
 | [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 | 2023-02-03 |  |
@@ -476,7 +477,7 @@
 | [Without Me](https://open.spotify.com/track/1d46ed3h4U9ws3YsvUOMon) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Without Me](https://open.spotify.com/album/1ipW5HgZMdwxXFDNdTDePU) | 3:43 | 2022-09-09 | 2022-11-08 |
 | [Worst Is On Its Way](https://open.spotify.com/track/1XYckecySdxfsF2ibuqtPR) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:03 | 2022-08-05 | 2022-11-26 |
 | [Worst Is On Its Way \[Feat\. Danny Brown & Meechy Darko\] \- HEALTH Remix](https://open.spotify.com/track/6m5bseSyKNEasHC6y49fgX) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6) | [Worst Is On Its Way \(HEALTH Remix\)](https://open.spotify.com/album/7d5mOgDZ2kKE9x2hJR2Qcv) | 4:31 | 2022-11-25 | 2023-02-18 |
-| [WOULDYOUWAITFORME](https://open.spotify.com/track/5mWNiGLS2S3rYqETHT9Pb1) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [WOULDYOUWAITFORME?](https://open.spotify.com/album/5ARVJpCjJYtlBKUJcNQV9o) | 3:27 | 2023-06-30 |  |
+| [WOULDYOUWAITFORME](https://open.spotify.com/track/5mWNiGLS2S3rYqETHT9Pb1) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [WOULDYOUWAITFORME?](https://open.spotify.com/album/5ARVJpCjJYtlBKUJcNQV9o) | 3:27 | 2023-06-30 | 2023-08-05 |
 | [Yen](https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Yen](https://open.spotify.com/album/0FkAhmbHolBUJvWsGjzvTQ) | 4:43 | 2022-08-05 | 2022-10-07 |
 | [Yen](https://open.spotify.com/track/5ih5d9WJSI7Hxz0KIPJPY2) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:43 | 2022-09-30 | 2022-10-15 |
 | [You Made Me Want To Live](https://open.spotify.com/track/2HsP2DbYLAjDItQUP2RQ88) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Doom Crew Inc.](https://open.spotify.com/album/5j7daAyvVHbB4oNhJvsTX4) | 4:31 | 2021-12-20 | 2022-04-15 |

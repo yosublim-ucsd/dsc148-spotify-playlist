@@ -1,12 +1,12 @@
 {
   "description": "Rock for the road. Cover: The Strokes",
-  "num_followers": 28440,
+  "num_followers": 28512,
   "original_name": "Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDhkZTU4NzIyNzk3NDE0YTI5MmMzYzI2MTM0YWYwM2MwY2Y4MTU0",
+  "snapshot_id": "MCxmOWVjMjk2ZjkyMjFmNmM4YzgxOWY1ZWRhZjI3ODhjOWQyMDNiYTRk",
   "tracks": [
     {
       "added_at": "2021-07-01 23:15:26",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "American Idiot",
-      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
         "name": "August And Everything After",
         "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 272293,
       "name": "Mr. Jones",
       "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Say It Ain't So",
-      "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 193653,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Say It Ain't So",
+      "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -263,22 +263,6 @@
       "duration_ms": 240213,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 159226,
-      "name": "Buddy Holly",
-      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -343,6 +327,22 @@
       "duration_ms": 318226,
       "name": "Jeremy",
       "url": "https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 159226,
+      "name": "Buddy Holly",
+      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -729,6 +729,22 @@
       "url": "https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw"
     },
     {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "Highly Evolved",
+        "url": "https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG"
+      },
+      "artists": [
+        {
+          "name": "The Vines",
+          "url": "https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD"
+        }
+      ],
+      "duration_ms": 126573,
+      "name": "Get Free",
+      "url": "https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx"
+    },
+    {
       "added_at": "2022-06-30 18:55:35",
       "album": {
         "name": "Nimrod",
@@ -747,22 +763,6 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "Highly Evolved",
-        "url": "https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG"
-      },
-      "artists": [
-        {
-          "name": "The Vines",
-          "url": "https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD"
-        }
-      ],
-      "duration_ms": 126573,
-      "name": "Get Free",
-      "url": "https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
         "name": "Electriclarryland",
         "url": "https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 297266,
       "name": "Pepper",
       "url": "https://open.spotify.com/track/1ng36571Iyov4HBxUClySn"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
-        "name": "Whatever People Say I Am, That's What I'm Not",
-        "url": "https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 173680,
-      "name": "I Bet You Look Good On The Dancefloor",
-      "url": "https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i"
     },
     {
       "added_at": "2022-06-30 18:55:35",
@@ -807,6 +791,22 @@
       "duration_ms": 174026,
       "name": "Little Sister",
       "url": "https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "I Bet You Look Good On The Dancefloor",
+      "url": "https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i"
     },
     {
       "added_at": "2022-06-30 18:55:35",

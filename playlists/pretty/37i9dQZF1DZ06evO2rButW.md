@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,597 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,790 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 40 | [El Diablo](https://open.spotify.com/track/65mQeg46PBoOzslgpynyzF) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:03 |
 | 41 | [Placer Hollywood](https://open.spotify.com/track/6A4bRnkCUD8DzcV3z2aHtn) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:39 |
 | 42 | [Amigos Simplemente](https://open.spotify.com/track/1koHbG9KKSn7p8jyJueSp4) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:02 |
-| 43 | [Quédate Esta Noche](https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:50 |
-| 44 | [Que Se Sepa Nuestro Amor](https://open.spotify.com/track/62ODSzQJBgvz647ZaP9iym) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Se Sepa Nuestro Amor](https://open.spotify.com/album/4x4PysnRPmxowKVz2RKGjr) | 2:59 |
+| 43 | [Que Se Sepa Nuestro Amor](https://open.spotify.com/track/62ODSzQJBgvz647ZaP9iym) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Se Sepa Nuestro Amor](https://open.spotify.com/album/4x4PysnRPmxowKVz2RKGjr) | 2:59 |
+| 44 | [Quédate Esta Noche](https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:50 |
 | 45 | [Tantas Veces](https://open.spotify.com/track/1FV8DteSCiDnZDEQlQZMh3) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Dios Los Cría](https://open.spotify.com/album/1K9AuVjYM9zMHR3wrLJuRK) | 3:19 |
 | 46 | [Palabras Tristes](https://open.spotify.com/track/1UX1kt5jsniuhSpjIJTFGI) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Así Te Quiero Yo](https://open.spotify.com/album/3gpg9uMXT5gX6AJkeDH4Ok) | 3:51 |
 | 47 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/3bazgu5pF9cKUSLv1QukL7) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 49 | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD) | 2:49 |
 | 50 | [Plata Ta Tá](https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Plata Ta Tá](https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS) | 4:15 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDA2ODI0ODM0OGU3YmU3NzQ2YTA0MDY2MWQxMDIyM2Y5MQ==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDAyOTJiNTgzNDg1YjIzMDNlZTYzZTdhNjliNDExMDVmOQ==`

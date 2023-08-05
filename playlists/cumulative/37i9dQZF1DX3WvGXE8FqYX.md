@@ -4,7 +4,7 @@
 
 > Celebrating all the great women of pop music\. Cover: Kelly Clarkson
 
-532 songs - 1 day 7 hr 59 min
+533 songs - 1 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Miento](https://open.spotify.com/track/5QCMN6OiDlzUU5SUmFlv6n) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Miento](https://open.spotify.com/album/6qwfIS2U7opeY2DeNVPglv) | 3:04 | 2019-06-22 | 2022-04-10 |
 | [Might Not Like Me](https://open.spotify.com/track/2xRViWc1s1vEguSrtHbdun) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Might Not Like Me](https://open.spotify.com/album/0lvq07hUML50I2zHp1zrua) | 3:52 | 2019-05-26\* | 2022-02-25 |
 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 | 2019-05-26\* | 2019-08-29 |
+| [mine](https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [mine / me](https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8) | 3:11 | 2023-08-04 |  |
 | [Mirror](https://open.spotify.com/track/0hCiUcA4R1IQ1aJTyUkJbb) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Emotional Education](https://open.spotify.com/album/1hmaSfia4BoTi6fmndmQ2r) | 3:38 | 2019-08-29 | 2022-04-16 |
 | [Miss Independent](https://open.spotify.com/track/0spLdf4QyLsUWalfu8RO16) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Thankful](https://open.spotify.com/album/7pkkMNC7stv9VyAepasZN3) | 3:34 | 2021-03-06 | 2022-04-19 |
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-25 |  |
@@ -389,7 +390,7 @@
 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 | 2021-03-02 | 2023-08-03 |
 | [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 | 2022-04-01 | 2022-07-16 |
 | [Roar](https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:43 | 2021-03-01 | 2022-04-21 |
-| [rock hudson](https://open.spotify.com/track/45hEUx8ywENLrB13nEfntt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 3:22 | 2023-06-23 |  |
+| [rock hudson](https://open.spotify.com/track/45hEUx8ywENLrB13nEfntt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 3:22 | 2023-06-23 | 2023-08-05 |
 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/album/3meZFplbMmji648oWUNEfQ) | 4:11 | 2019-06-21 | 2019-06-26 |
 | [Rolling in the Deep](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:48 | 2022-07-15 | 2022-10-25 |
 | [Rolling in the Deep](https://open.spotify.com/track/5xPazRvyrkVootu8pM9vUG) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Rolling In The Deep](https://open.spotify.com/album/6cw6QU9pF7FyQtSyJjzMua) | 3:48 | 2021-03-06 | 2022-04-17 |

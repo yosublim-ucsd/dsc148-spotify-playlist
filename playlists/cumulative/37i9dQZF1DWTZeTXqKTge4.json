@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: GreenWoodz",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Lost",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 203333,
       "name": "CAM\u00c9L\u00c9ON",
       "url": "https://open.spotify.com/track/4eGyyIrOWWGlBbdt0xZTMI"
@@ -5449,6 +5449,24 @@
     },
     {
       "album": {
+        "name": "H\u00c9RITAGE",
+        "url": "https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144893,
+      "name": "MIKE TANGO LIMA",
+      "url": "https://open.spotify.com/track/38bvFbzotkGZLkBNi5LYD0"
+    },
+    {
+      "album": {
         "name": "Mission Nocturne",
         "url": "https://open.spotify.com/album/3tKvDoCb5VgKj7lQZO50Bc"
       },
@@ -5630,6 +5648,24 @@
       "duration_ms": 159375,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/2Y9DqcZ43ybo06qJoElOR5"
+    },
+    {
+      "album": {
+        "name": "Montego Bay",
+        "url": "https://open.spotify.com/album/2WR2QlAGCRC5sJuJhZEUHS"
+      },
+      "artists": [
+        {
+          "name": "Nikki-B",
+          "url": "https://open.spotify.com/artist/0W4nncV2qo2VMYhhx1GBA0"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182256,
+      "name": "Montego Bay",
+      "url": "https://open.spotify.com/track/7u3hvzsMpRgV3o8PHSFMS0"
     },
     {
       "album": {
@@ -6622,7 +6658,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 210296,
       "name": "Pont Champlain",
       "url": "https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC"

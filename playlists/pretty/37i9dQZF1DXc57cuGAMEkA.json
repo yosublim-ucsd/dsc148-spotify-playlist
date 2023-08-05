@@ -1,12 +1,12 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Doja Cat,\nback number, Bebe Rexha & David Guetta, back number and more! cover: Doja Cat",
-  "num_followers": 92783,
+  "num_followers": 92833,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTRiOTlhNTExM2I0Y2RjZTgyNGZmZGNhOTNmZTNmODY1M2UzMTcw",
+  "snapshot_id": "MCxkMTE5NjYxOTM3ZTc5MWFiOWY2NGZhYjA3MGQ4Njk3M2M1YTZlYTBi",
   "tracks": [
     {
       "added_at": "2023-08-03 15:00:00",
@@ -96,7 +96,7 @@
       "added_at": "2023-08-03 15:00:00",
       "album": {
         "name": "XXL",
-        "url": "https://open.spotify.com/album/4K0wKLFE0LxcQAmcmVvd0X"
+        "url": "https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf"
       },
       "artists": [
         {
@@ -106,7 +106,7 @@
       ],
       "duration_ms": 206706,
       "name": "XXL",
-      "url": "https://open.spotify.com/track/7AftUxnj6ngHrWiT29xwKK"
+      "url": "https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -228,17 +228,33 @@
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
       "duration_ms": 247100,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 172892,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -290,14 +306,6 @@
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Ezekiel \"Slashmouth\" Miller",
-          "url": "https://open.spotify.com/artist/3oFDmAWLkcObKnmOeaGpSa"
-        },
-        {
-          "name": "Mike Strange",
-          "url": "https://open.spotify.com/artist/3aMlmfmaVX2q34LRfIgB3O"
         }
       ],
       "duration_ms": 217470,
@@ -367,6 +375,30 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
+        "name": "Do It Like That (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/5KSss6H6yvZIpYG2MNpVR7"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 139441,
+      "name": "Do It Like That (Alan Walker Remix)",
+      "url": "https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
         "name": "KILL MY DOUBT",
         "url": "https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik"
       },
@@ -379,6 +411,26 @@
       "duration_ms": 198887,
       "name": "CAKE",
       "url": "https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. Demi Lovato)",
+        "url": "https://open.spotify.com/album/2VVf6P029Bw2sRXV721xui"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. Demi Lovato)",
+      "url": "https://open.spotify.com/track/5zYrD1r49ex3WJk6iVIhfw"
     },
     {
       "added_at": "2023-08-03 15:31:51",
@@ -399,8 +451,8 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Them Belly Full (But We Hungry) (Feat. Rema & Skip Marley)",
-        "url": "https://open.spotify.com/album/4PrIjUOhymWHG83mEzDj1R"
+        "name": "Africa Unite",
+        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
       },
       "artists": [
         {
@@ -416,14 +468,14 @@
           "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
         }
       ],
-      "duration_ms": 190589,
-      "name": "Them Belly Full (But We Hungry) (Feat. Rema and Skip Marley)",
-      "url": "https://open.spotify.com/track/7fbQLuKMYfGpqK9f0OuQjg"
+      "duration_ms": 190051,
+      "name": "Them Belly Full (But We Hungry)",
+      "url": "https://open.spotify.com/track/73YF1vuiOiJ1h7RR9QJfns"
     },
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Mu\u00f1ekita (with El Alfa & JT from City Girls)",
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
         "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
       },
       "artists": [
@@ -441,7 +493,7 @@
         }
       ],
       "duration_ms": 219642,
-      "name": "Mu\u00f1ekita (with El Alfa & JT from City Girls)",
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
     },
     {
@@ -611,6 +663,22 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
+        "name": "Always Gonna Be",
+        "url": "https://open.spotify.com/album/1WI5hRCxaEOSMUtKxO5fKa"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 172213,
+      "name": "Always Gonna Be",
+      "url": "https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
         "name": "Evicted",
         "url": "https://open.spotify.com/album/2Exf1TaOG1wElBCKNDzWdz"
       },
@@ -660,7 +728,7 @@
       "added_at": "2023-08-03 15:00:00",
       "album": {
         "name": "I Don't Want to Go That Way",
-        "url": "https://open.spotify.com/album/5FWtDMA4uVbsh00QTdLeJ0"
+        "url": "https://open.spotify.com/album/2FMlVRoAFvcKhFneYl4taT"
       },
       "artists": [
         {
@@ -670,7 +738,7 @@
       ],
       "duration_ms": 324000,
       "name": "I Don't Want to Go That Way",
-      "url": "https://open.spotify.com/track/6iEeLs6QqMVFMjG1eg1W6d"
+      "url": "https://open.spotify.com/track/0tpvtMPtvWDgLDVXY3JDKR"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -911,6 +979,42 @@
       "duration_ms": 159299,
       "name": "Bad Gyalz",
       "url": "https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "\u865a\u50cf\u306eCarousel",
+        "url": "https://open.spotify.com/album/4HnTbIJinqxIvnHeIBaJv6"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        },
+        {
+          "name": "Reol",
+          "url": "https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "\u865a\u50cf\u306eCarousel",
+      "url": "https://open.spotify.com/track/2FCkgW3vOc3IvpOCd0LJMT"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "Peanut Butter & Tears",
+        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Peanut Butter & Tears",
+      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1156,7 +1260,7 @@
       "added_at": "2023-08-03 15:00:00",
       "album": {
         "name": "Shambles",
-        "url": "https://open.spotify.com/album/38xpJSGkXHCndHFDHlQxBB"
+        "url": "https://open.spotify.com/album/4hhkj6li1ULllYOZJHFt7w"
       },
       "artists": [
         {
@@ -1166,7 +1270,7 @@
       ],
       "duration_ms": 202000,
       "name": "Shambles",
-      "url": "https://open.spotify.com/track/02uymGtd5fO1zlWqY0RK1b"
+      "url": "https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1263,8 +1367,8 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u30b8\u30eb\u30c7\u30b310\uff5edouble\uff5e",
-        "url": "https://open.spotify.com/album/55gwZycrolQtJwI9cvROSP"
+        "name": "JiLL-Decoy association 10 -Double-",
+        "url": "https://open.spotify.com/album/1gyUhmViC36wfc04CICOb2"
       },
       "artists": [
         {
@@ -1273,8 +1377,8 @@
         }
       ],
       "duration_ms": 209206,
-      "name": "\u30a4\u30f3\u30f4\u30a3\u30b8\u30d6\u30eb",
-      "url": "https://open.spotify.com/track/6ksS1nSsN8pxw0UESJBLaI"
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/40Onjo61BBN1liYTk3qMKa"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1296,7 +1400,7 @@
       "added_at": "2023-08-03 15:00:00",
       "album": {
         "name": "Looking in the Same Direction",
-        "url": "https://open.spotify.com/album/58YNDEVDlJwLBnZCUCy1Mv"
+        "url": "https://open.spotify.com/album/0dnnSN7ZOeMC3O3UutSPHU"
       },
       "artists": [
         {
@@ -1306,7 +1410,7 @@
       ],
       "duration_ms": 244500,
       "name": "Looking in the Same Direction",
-      "url": "https://open.spotify.com/track/57qvXY4KW4rambl2zbKRPk"
+      "url": "https://open.spotify.com/track/3223tV7OEezdOyG2CxXKzi"
     }
   ],
   "unique_name": "New Music Friday Japan",

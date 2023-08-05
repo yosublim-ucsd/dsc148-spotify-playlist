@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-156 songs - 8 hr 53 min
+157 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Divine](https://open.spotify.com/track/66wXImRKuhTGpZ69DvZg7B) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Divine](https://open.spotify.com/album/6OrR8pnQUICQns5IRJVPay) | 4:05 | 2022-09-13 | 2023-04-06 |
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2021-12-22 |  |
 | [Dynasty](https://open.spotify.com/track/5Ie3qzaZXpR7MLeCN5k2ph) | [Reflowed](https://open.spotify.com/artist/2kYcrynI6pCgHgYdFE4oMK) | [Dynasty](https://open.spotify.com/album/1UnntuIvY26T6Wj7F82W4C) | 3:16 | 2022-07-08 |  |
-| [Emotional Healing](https://open.spotify.com/track/73r7Bj4SU8ZLdjMbtDlkjy) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [Emotional Healing](https://open.spotify.com/album/4oigpI299VEBlzpSkSzHN8) | 2:31 | 2022-10-14 |  |
+| [Emotional Healing](https://open.spotify.com/track/73r7Bj4SU8ZLdjMbtDlkjy) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [Emotional Healing](https://open.spotify.com/album/4oigpI299VEBlzpSkSzHN8) | 2:31 | 2022-10-14 | 2023-08-05 |
 | [Emotional Music \(Chakra Balancing\)](https://open.spotify.com/track/4nOyZYW1lFwMeiwF23sB3O) | [Reiki Music](https://open.spotify.com/artist/1MKdS4gCWclRAcVydpTv9T) | [Reiki Music \- Vital Energy Nature Zen Music for Reiki, Qi Gong, Tai Chi, Yoga and Mindfulness Meditation](https://open.spotify.com/album/5JEA9dSY3SccUqniOKsqjz) | 6:42 | 2021-12-22 | 2022-09-15 |
 | [Enhanced Focus](https://open.spotify.com/track/6J0xbhP0rn31Gq2ck22oUw) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Enhanced Focus](https://open.spotify.com/album/5LaaldAHQVLAbqWXpYDdrw) | 3:12 | 2023-03-30 |  |
 | [Existence](https://open.spotify.com/track/0XvtR02UN3jOUIN8NMED4z) | [Yoo Woon](https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml) | [Existence](https://open.spotify.com/album/3KubEtZHJo0xxl1WJzESVN) | 2:39 | 2022-12-09 |  |
@@ -121,6 +121,7 @@
 | [Serena´s Meditation](https://open.spotify.com/track/0wGvryNQ0SOv7VMnHLs1Nn) | [Remittere](https://open.spotify.com/artist/0sMzImNlIr3ougEsBQ59xm) | [Serena´s Meditation](https://open.spotify.com/album/6lF4ne4DEfrpldVN0hEEbT) | 2:30 | 2022-12-20 |  |
 | [Serene Lake](https://open.spotify.com/track/5j7x0N6j0TH6Tq6RuiKtnj) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Serene Lake](https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo) | 2:36 | 2022-12-02 |  |
 | [Shaasvat](https://open.spotify.com/track/3simwgVNK0SqFOdQ7JjL0J) | [Mishika](https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr) | [Shaasvat](https://open.spotify.com/album/4CDm3GVljjGXaJr0k0pFzk) | 3:25 | 2021-12-22 |  |
+| [Silent Solution](https://open.spotify.com/track/1ckaT9aUOZbUStGwWLVzQF) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Silent Solution](https://open.spotify.com/album/26PXA4uPCpyhdh6lg3zXJO) | 2:24 | 2023-08-04 |  |
 | [Sleep Will Come](https://open.spotify.com/track/2VcLfRb7hy51r3t3yv63cH) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Sleep Will Come](https://open.spotify.com/album/2xc4v5uB9IPgdh345J4oIh) | 2:53 | 2022-09-30 | 2023-04-14 |
 | [Slow](https://open.spotify.com/track/4C18P7OaNo271fYNnbpoVR) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Slow](https://open.spotify.com/album/1wNUZDyBD23Omaly7HaOql) | 2:40 | 2021-12-22 |  |
 | [So Far From Earth](https://open.spotify.com/track/4LUjaGIUsdxaWz5CFtj0u9) | [Jupiter Breeze](https://open.spotify.com/artist/5kMqqN0tglnYIi4eXGmL0A) | [Jupiter Two](https://open.spotify.com/album/5aAUw2eurzQtThb2g4dDvr) | 3:09 | 2021-12-22 |  |

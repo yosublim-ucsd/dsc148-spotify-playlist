@@ -2,9 +2,9 @@
 
 ### [Pop Colombia](https://open.spotify.com/playlist/37i9dQZF1DX9cp1suxagma)
 
-> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Valentina Rico
+> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: TIMØ
 
-132 songs - 7 hr 6 min
+133 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Punto Y Aparte](https://open.spotify.com/track/6RiV6DnCbfc0b2KbNvumdP) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Punto Y Aparte](https://open.spotify.com/album/36TBAPNsVzBMiu84mlyEPT) | 3:30 | 2023-02-17 |  |
 | [Que me quiera](https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap.1 \- Que me quiera / Lokita](https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1) | 2:34 | 2023-06-23 |  |
 | [Qué Fácil \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:23 | 2023-07-25 |  |
+| [Quédate](https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Quédate](https://open.spotify.com/album/2YCoLtzdiW3YAiYzEiADm0) | 3:26 | 2023-08-04 |  |
 | [Quédate Aquí](https://open.spotify.com/track/40BHOcBhBU6InTXea4VRAK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Quédate Aquí](https://open.spotify.com/album/49FMV0pdlfmElBcTeGg8UX) | 3:03 | 2023-02-17 |  |
 | [Reina Leona](https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Reina Leona](https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE) | 3:07 | 2023-06-23 |  |
 | [Roca](https://open.spotify.com/track/2zujvi2Jef8V014b9ev3Ll) | [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6) | [¿Qué Pasó en el 20XX?](https://open.spotify.com/album/6llY3eFZ4NYFQORYhLXXOX) | 3:24 | 2023-05-26 |  |
@@ -135,7 +136,7 @@
 | [Vida](https://open.spotify.com/track/3vyUFpEdEAWqfBSRGUKL7z) | [Nina Rodriguez](https://open.spotify.com/artist/2DJELwDLewsLp12JjJUwI6) | [Vida](https://open.spotify.com/album/0LJJXNz6QEpPs0R8gykGjP) | 3:08 | 2023-02-17 | 2023-06-24 |
 | [Vivir Bailando](https://open.spotify.com/track/7gL0eIncXB5ELO8BFMR3Uv) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vivir Bailando](https://open.spotify.com/album/6uSCXro7r0QMTSgMLnSAbP) | 3:34 | 2023-02-17 |  |
 | [Volver a Verte \(feat\. Cali y El Dandee\)](https://open.spotify.com/track/0LGhVLgkwlP2FIXSwrdRFg) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Agustín](https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW) | 2:49 | 2023-02-17 | 2023-05-20 |
-| [Vuelve](https://open.spotify.com/track/6WSAPEkvEfcEUgSTAo1D3S) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Vuelve](https://open.spotify.com/album/05ZaKm4eYlGXsesyzD1fZK) | 3:44 | 2023-02-17 |  |
+| [Vuelve](https://open.spotify.com/track/6WSAPEkvEfcEUgSTAo1D3S) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Vuelve](https://open.spotify.com/album/05ZaKm4eYlGXsesyzD1fZK) | 3:44 | 2023-02-17 | 2023-08-05 |
 | [Ya Para Qué](https://open.spotify.com/track/7HCZWKJmHITV7Pt5YTQDcL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Ya Para Qué](https://open.spotify.com/album/0w3QTlwt8mDWQfHW9c4CIz) | 3:26 | 2023-02-17 |  |
 | [Yo Primero](https://open.spotify.com/track/3I4rvoB4ih3URCTdIpWmFt) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Yo Primero](https://open.spotify.com/album/1QLxtuYX7Ojojm8I5zmLmI) | 2:45 | 2023-03-17 | 2023-05-27 |
 | [¿Cómo Es Que Tú?](https://open.spotify.com/track/4xzoXEyNlodC0yT0i62got) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Es Que Tú?](https://open.spotify.com/album/6AXc9vXxu4vgTrMaeb3jo5) | 2:40 | 2023-02-17 | 2023-03-10 |

@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "AQUARIUS",
+        "url": "https://open.spotify.com/album/0bzEqzgIeug1z49RboQE8i"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235235,
+      "name": "AQUARIUS",
+      "url": "https://open.spotify.com/track/0Ttmsrh12z26jzhu0LkEar"
+    },
+    {
+      "album": {
         "name": "Aquatic",
         "url": "https://open.spotify.com/album/5HIH48lr519Cw3pTNsro9A"
       },
@@ -2974,7 +2992,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 186494,
       "name": "Don't Take Your Love",
       "url": "https://open.spotify.com/track/1d4srFfqCqXT5EpesRXAkT"
@@ -3647,6 +3665,28 @@
     },
     {
       "album": {
+        "name": "Fallback Queen (feat. Vory)",
+        "url": "https://open.spotify.com/album/2qYeK1QWdV9oMmYSzWzy6v"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "Fallback Queen (feat. Vory)",
+      "url": "https://open.spotify.com/track/3w7AzChjtAtjLvVQll2Mjf"
+    },
+    {
+      "album": {
         "name": "Famous (Lost to LA)",
         "url": "https://open.spotify.com/album/7j0IT1ckuBJcBT01axVkNA"
       },
@@ -3926,7 +3966,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 223925,
       "name": "First Thing Smokin'",
       "url": "https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT"
@@ -6654,8 +6694,8 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
-      "duration_ms": 166138,
+      "date_removed": null,
+      "duration_ms": 165310,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/4BMhR515OiK2TII7qzQujj"
     },
@@ -8280,7 +8320,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 250363,
       "name": "Obstacles",
       "url": "https://open.spotify.com/track/0PAgY9mzcKL57culmZlMuL"
@@ -8390,6 +8430,24 @@
       "duration_ms": 128250,
       "name": "okokok",
       "url": "https://open.spotify.com/track/0BbbCmi42gfdKbr9mKNRx8"
+    },
+    {
+      "album": {
+        "name": "Old Friends",
+        "url": "https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7"
     },
     {
       "album": {
@@ -9774,6 +9832,24 @@
       "duration_ms": 156363,
       "name": "Regrets Pt II",
       "url": "https://open.spotify.com/track/72MmoEuk9caU2tTBsSqR28"
+    },
+    {
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/5eQBOtnmxFfItlGAyxtO3c"
+      },
+      "artists": [
+        {
+          "name": "John Concepcion",
+          "url": "https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163033,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/1225xjUATJN7lZKxLBHGAk"
     },
     {
       "album": {
@@ -12062,7 +12138,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 222456,
       "name": "THE GLADE",
       "url": "https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG"
@@ -13654,7 +13730,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 189814,
       "name": "YaYa - Radio Edit",
       "url": "https://open.spotify.com/track/0t4TG5MPTq2fNFQD5vLDor"

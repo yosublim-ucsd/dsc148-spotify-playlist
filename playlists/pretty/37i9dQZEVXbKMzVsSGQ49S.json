@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 40937,
+  "num_followers": 40953,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQ0NDI3ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQ0NTEzNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
       "album": {
         "name": "Sk\u00edna",
         "url": "https://open.spotify.com/album/7lctUyqUeXZTWDBgEO2Dv0"
@@ -29,7 +29,59 @@
       "url": "https://open.spotify.com/track/3M9CDeth4DHI7TWkdoMuDv"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "R\u00fantarinn",
+        "url": "https://open.spotify.com/album/7dAouJRa4H5nHOrx4tOf5x"
+      },
+      "artists": [
+        {
+          "name": "Steindi Jr.",
+          "url": "https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE"
+        }
+      ],
+      "duration_ms": 165812,
+      "name": "R\u00fantarinn",
+      "url": "https://open.spotify.com/track/2cHBypBYR5pXwBRA3jCxwb"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "Elska",
+        "url": "https://open.spotify.com/album/3ff0TMuz5cPCFrVSDDfOMz"
+      },
+      "artists": [
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        },
+        {
+          "name": "Lil Binni",
+          "url": "https://open.spotify.com/artist/5A08BH6Y4ogPpBz71JO0e3"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Elska",
+      "url": "https://open.spotify.com/track/3u3uS54VRFbCJThLdTZN8k"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "\u00de\u00fasund hj\u00f6rtu",
+        "url": "https://open.spotify.com/album/6L8M38fTvGHKZvuZkWKi83"
+      },
+      "artists": [
+        {
+          "name": "Emmsj\u00e9 Gauti",
+          "url": "https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ"
+        }
+      ],
+      "duration_ms": 220783,
+      "name": "\u00de\u00fasund hj\u00f6rtu",
+      "url": "https://open.spotify.com/track/1W6mzbheNeBCNWv2KjcaVe"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -49,7 +101,7 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -69,23 +121,7 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "\u00de\u00fasund hj\u00f6rtu",
-        "url": "https://open.spotify.com/album/6L8M38fTvGHKZvuZkWKi83"
-      },
-      "artists": [
-        {
-          "name": "Emmsj\u00e9 Gauti",
-          "url": "https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ"
-        }
-      ],
-      "duration_ms": 220783,
-      "name": "\u00de\u00fasund hj\u00f6rtu",
-      "url": "https://open.spotify.com/track/1W6mzbheNeBCNWv2KjcaVe"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
       "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
@@ -109,7 +145,7 @@
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
       "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
@@ -125,167 +161,7 @@
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "MELTDOWN (feat. Drake)",
-      "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 251249,
-      "name": "MY EYES",
-      "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 108901,
-      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
-      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "Cha Cha Cha",
-        "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
-      },
-      "artists": [
-        {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
-        }
-      ],
-      "duration_ms": 175161,
-      "name": "Cha Cha Cha",
-      "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "Bakka ekki \u00fat",
-        "url": "https://open.spotify.com/album/6HBuFlNsfd3hYJRe0dOfxA"
-      },
-      "artists": [
-        {
-          "name": "Aron Can",
-          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
-        },
-        {
-          "name": "Birnir",
-          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        }
-      ],
-      "duration_ms": 163546,
-      "name": "Bakka ekki \u00fat",
-      "url": "https://open.spotify.com/track/0EgIa9cIW52lXHIYbkUFR9"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 211582,
-      "name": "I KNOW ?",
-      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 353754,
-      "name": "TELEKINESIS (feat. SZA & Future)",
-      "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "R\u00falletta",
-        "url": "https://open.spotify.com/album/1IGqRqlhhFraZuFv2zeSzg"
-      },
-      "artists": [
-        {
-          "name": "ICEGUYS",
-          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
-        }
-      ],
-      "duration_ms": 219519,
-      "name": "R\u00falletta",
-      "url": "https://open.spotify.com/track/2MCc0WbH4L39evnT4lXd8B"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
       "album": {
         "name": "\u00cd Dalinn",
         "url": "https://open.spotify.com/album/2VM3aFcpV3ZXfElaNMmMYX"
@@ -313,7 +189,75 @@
       "url": "https://open.spotify.com/track/00bwkIr9LCVypQSBvVX2H0"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "MELTDOWN (feat. Drake)",
+      "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 251249,
+      "name": "MY EYES",
+      "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "Cha Cha Cha",
+        "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        }
+      ],
+      "duration_ms": 175161,
+      "name": "Cha Cha Cha",
+      "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
       "album": {
         "name": "600",
         "url": "https://open.spotify.com/album/7a0DRJSPe93FoF4GkxrN8d"
@@ -333,7 +277,27 @@
       "url": "https://open.spotify.com/track/2EBBCNkrmPM4IagcLa5ysg"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "Bakka ekki \u00fat",
+        "url": "https://open.spotify.com/album/6HBuFlNsfd3hYJRe0dOfxA"
+      },
+      "artists": [
+        {
+          "name": "Aron Can",
+          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
+        },
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "duration_ms": 163546,
+      "name": "Bakka ekki \u00fat",
+      "url": "https://open.spotify.com/track/0EgIa9cIW52lXHIYbkUFR9"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
       "album": {
         "name": "PBT",
         "url": "https://open.spotify.com/album/54k1WInO5C6f6uptXssZgP"
@@ -353,7 +317,159 @@
       "url": "https://open.spotify.com/track/1afjBOUNpoF8m4lmj6DV8U"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "R\u00falletta",
+        "url": "https://open.spotify.com/album/1IGqRqlhhFraZuFv2zeSzg"
+      },
+      "artists": [
+        {
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+        }
+      ],
+      "duration_ms": 219519,
+      "name": "R\u00falletta",
+      "url": "https://open.spotify.com/track/2MCc0WbH4L39evnT4lXd8B"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 108901,
+      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
+      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 353754,
+      "name": "TELEKINESIS (feat. SZA & Future)",
+      "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 211582,
+      "name": "I KNOW ?",
+      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "Krumla",
+        "url": "https://open.spotify.com/album/6hsyX5ypUgZ5FogcntKnHd"
+      },
+      "artists": [
+        {
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+        }
+      ],
+      "duration_ms": 195464,
+      "name": "Krumla",
+      "url": "https://open.spotify.com/track/1ahTtx2UIz4Kj59aMbcwSh"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 152415,
+      "name": "Litlar stj\u00f6rnur",
+      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "I\u2019m Just Ken (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        }
+      ],
+      "duration_ms": 222633,
+      "name": "I\u2019m Just Ken (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "PBT",
+        "url": "https://open.spotify.com/album/54k1WInO5C6f6uptXssZgP"
+      },
+      "artists": [
+        {
+          "name": "PATRi!K",
+          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
+        }
+      ],
+      "duration_ms": 159983,
+      "name": "ALLAR STELPURNAR",
+      "url": "https://open.spotify.com/track/25AXEJUUBxjB4dPTbML2Tl"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -377,183 +493,7 @@
       "url": "https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 184888,
-      "name": "THANK GOD",
-      "url": "https://open.spotify.com/track/1PH2MDbcBAU094DlgTIND1"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 222085,
-      "name": "HYAENA",
-      "url": "https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "Krumla",
-        "url": "https://open.spotify.com/album/6hsyX5ypUgZ5FogcntKnHd"
-      },
-      "artists": [
-        {
-          "name": "ICEGUYS",
-          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
-        }
-      ],
-      "duration_ms": 195464,
-      "name": "Krumla",
-      "url": "https://open.spotify.com/track/1ahTtx2UIz4Kj59aMbcwSh"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 152415,
-      "name": "Litlar stj\u00f6rnur",
-      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "K-POP",
-        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 185220,
-      "name": "K-POP",
-      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 133050,
-      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
-      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "I\u2019m Just Ken (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5"
-      },
-      "artists": [
-        {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        }
-      ],
-      "duration_ms": 222633,
-      "name": "I\u2019m Just Ken (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "Popular (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
-      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "vampire",
-        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
       "album": {
         "name": "Endalausar N\u00e6tzur",
         "url": "https://open.spotify.com/album/2c2ilMaTTOjG2A8NkznWGO"
@@ -577,123 +517,31 @@
       "url": "https://open.spotify.com/track/3L5sSQBC1nuD8xVW7W8nxQ"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+        "name": "Popular (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 255412,
-      "name": "MODERN JAM (feat. Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 99613,
-      "name": "\u00d3skasteinar",
-      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
+      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "PBT",
-        "url": "https://open.spotify.com/album/54k1WInO5C6f6uptXssZgP"
-      },
-      "artists": [
-        {
-          "name": "PATRi!K",
-          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
-        }
-      ],
-      "duration_ms": 159983,
-      "name": "ALLAR STELPURNAR",
-      "url": "https://open.spotify.com/track/25AXEJUUBxjB4dPTbML2Tl"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "PBT",
-        "url": "https://open.spotify.com/album/54k1WInO5C6f6uptXssZgP"
-      },
-      "artists": [
-        {
-          "name": "PATRi!K",
-          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "Gugguvaktin",
-      "url": "https://open.spotify.com/track/2zfg7lTRn6KKwt6LCdhSIg"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 150883,
-      "name": "Sofa urtub\u00f6rn",
-      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "prettyboitjokko",
-        "url": "https://open.spotify.com/album/1Xbk0KZIk6gqEWuPglEVZm"
-      },
-      "artists": [
-        {
-          "name": "PATRi!K",
-          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
-        }
-      ],
-      "duration_ms": 173402,
-      "name": "prettyboitjokko",
-      "url": "https://open.spotify.com/track/0DQMOUDb0DKv13raO9L6Sg"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 204447,
-      "name": "SIRENS",
-      "url": "https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
       "album": {
         "name": "\u00deorparinn",
         "url": "https://open.spotify.com/album/5R8Y13mL4mkCp9GZlfv9rX"
@@ -713,7 +561,7 @@
       "url": "https://open.spotify.com/track/7b52kRhGxENOtAK08Zz87M"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -724,12 +572,216 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 197137,
-      "name": "Lj\u00f3s",
-      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
+      "duration_ms": 133050,
+      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
+      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "\u00c9g Fer \u00c1 \u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0 (feat. Sverrir Bergmann)",
+        "url": "https://open.spotify.com/album/799KkJwCISSvQYUJmxeeit"
+      },
+      "artists": [
+        {
+          "name": "FM95BL\u00d6",
+          "url": "https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh"
+        },
+        {
+          "name": "Sverrir Bergmann",
+          "url": "https://open.spotify.com/artist/6vZQqLEETz3r5dQFKnatlp"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "\u00c9g Fer \u00c1 \u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0 (feat. Sverrir Bergmann)",
+      "url": "https://open.spotify.com/track/1a6CncFFqHUL5jTZo2uo6f"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "PBT",
+        "url": "https://open.spotify.com/album/54k1WInO5C6f6uptXssZgP"
+      },
+      "artists": [
+        {
+          "name": "PATRi!K",
+          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "Gugguvaktin",
+      "url": "https://open.spotify.com/track/2zfg7lTRn6KKwt6LCdhSIg"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "K-POP",
+        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 185220,
+      "name": "K-POP",
+      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99613,
+      "name": "\u00d3skasteinar",
+      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 184888,
+      "name": "THANK GOD",
+      "url": "https://open.spotify.com/track/1PH2MDbcBAU094DlgTIND1"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "prettyboitjokko",
+        "url": "https://open.spotify.com/album/1Xbk0KZIk6gqEWuPglEVZm"
+      },
+      "artists": [
+        {
+          "name": "PATRi!K",
+          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
+        }
+      ],
+      "duration_ms": 173402,
+      "name": "prettyboitjokko",
+      "url": "https://open.spotify.com/track/0DQMOUDb0DKv13raO9L6Sg"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 222085,
+      "name": "HYAENA",
+      "url": "https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "F\u00f6studagsl\u00f6gin",
+        "url": "https://open.spotify.com/album/7tlwi8KaUrAqemzLec1r4W"
+      },
+      "artists": [
+        {
+          "name": "Halld\u00f3r Gunnar",
+          "url": "https://open.spotify.com/artist/15mE2JovaBOHOVgd2rkLC2"
+        },
+        {
+          "name": "Sverrir Bergmann",
+          "url": "https://open.spotify.com/artist/6vZQqLEETz3r5dQFKnatlp"
+        }
+      ],
+      "duration_ms": 269815,
+      "name": "\u00dear sem hjarta\u00f0 sl\u00e6r (\u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0arlag 2012)",
+      "url": "https://open.spotify.com/track/2lWTuFXXVJJ6VEBbXQqLkF"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 150883,
+      "name": "Sofa urtub\u00f6rn",
+      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "\u00cd dalnum - Eyjal\u00f6gin s\u00edvins\u00e6lu",
+        "url": "https://open.spotify.com/album/2ZnUg7a2Ku1bu5gE9c5iPU"
+      },
+      "artists": [
+        {
+          "name": "Bergsveinn",
+          "url": "https://open.spotify.com/artist/5iZQPGKEVJj1aEBbYxpAKX"
+        },
+        {
+          "name": "Magni",
+          "url": "https://open.spotify.com/artist/4TtHWUNqH65KPY075VxsmD"
+        },
+        {
+          "name": "Hreimur",
+          "url": "https://open.spotify.com/artist/3JqhkiwnK1tNP7CZj4vAKQ"
+        },
+        {
+          "name": "Grettisk\u00f3rinn",
+          "url": "https://open.spotify.com/artist/1sBsS0m5sZyZNur46MQw36"
+        }
+      ],
+      "duration_ms": 233499,
+      "name": "L\u00edfi\u00f0 er yndislegt",
+      "url": "https://open.spotify.com/track/3kfClySQg8DNqklz946TQM"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
       "album": {
         "name": "Vinn Vi\u00f0 \u00dea\u00f0",
         "url": "https://open.spotify.com/album/4hdv2UMj4Zxt29oCKXIkaB"
@@ -753,51 +805,7 @@
       "url": "https://open.spotify.com/track/0yecDQdx8NxpvcswRJM6uh"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 258842,
-      "name": "CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee)",
-      "url": "https://open.spotify.com/track/4GL9GMX9t7Qkprvf1YighZ"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 366592,
-      "name": "SKITZO (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -808,12 +816,32 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 175403,
-      "name": "B\u00edum b\u00edum bambal\u00f3",
-      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
+      "duration_ms": 197137,
+      "name": "Lj\u00f3s",
+      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 255412,
+      "name": "MODERN JAM (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -824,12 +852,52 @@
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 127991,
-      "name": "GOD'S COUNTRY",
-      "url": "https://open.spotify.com/track/04WxWo7XeVyx22xEsrWRUb"
+      "duration_ms": 204447,
+      "name": "SIRENS",
+      "url": "https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "\u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0 B\u00ed\u00f0ur",
+        "url": "https://open.spotify.com/album/5HzxYpy7gEc938iqOHfsQs"
+      },
+      "artists": [
+        {
+          "name": "FM95BL\u00d6",
+          "url": "https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh"
+        }
+      ],
+      "duration_ms": 205220,
+      "name": "\u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0 B\u00ed\u00f0ur",
+      "url": "https://open.spotify.com/track/7GOpB2lDCnBxd3yUEaOaXb"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
+      "album": {
+        "name": "Segir ekki neitt",
+        "url": "https://open.spotify.com/album/1rB7LCX78vQQ5yl97QeSEy"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        },
+        {
+          "name": "Sverrir Bergmann",
+          "url": "https://open.spotify.com/artist/6vZQqLEETz3r5dQFKnatlp"
+        },
+        {
+          "name": "Albatross",
+          "url": "https://open.spotify.com/artist/4lCNVlc7c5rZSqJZ9A8UTn"
+        }
+      ],
+      "duration_ms": 236966,
+      "name": "\u00c1stin \u00e1 s\u00e9r sta\u00f0",
+      "url": "https://open.spotify.com/track/0rKRoNSGc9JlfR5Jpta1NP"
+    },
+    {
+      "added_at": "2023-08-04 10:00:56",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -845,67 +913,23 @@
       "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 274137,
-      "name": "DELRESTO (ECHOES) (feat. Beyonc\u00e9)",
-      "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
+      "duration_ms": 175403,
+      "name": "B\u00edum b\u00edum bambal\u00f3",
+      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
     },
     {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 314836,
-      "name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
-      "url": "https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "Triple Cross",
-        "url": "https://open.spotify.com/album/6qwNzBVxfZiNL0RPd1GyQN"
-      },
-      "artists": [
-        {
-          "name": "C Glizzy",
-          "url": "https://open.spotify.com/artist/1LIKKLJwDi6oI8J67h8l32"
-        }
-      ],
-      "duration_ms": 123820,
-      "name": "Triple Cross",
-      "url": "https://open.spotify.com/track/2GhB6rXqqjyq9HAmFm5DId"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
+      "added_at": "2023-08-04 10:00:56",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -919,22 +943,6 @@
       "duration_ms": 132446,
       "name": "G\u00f3\u00f0a n\u00f3tt",
       "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
-    },
-    {
-      "added_at": "2023-08-03 09:54:39",
-      "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 200600,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     }
   ],
   "unique_name": "Top 50 - Iceland",

@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-270 songs - 14 hr 22 min
+271 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Hourglass](https://open.spotify.com/track/65MkFWA6FFrNfc33xuMy2N) | [Pathfinder](https://open.spotify.com/artist/4teMSBnvZUn588FGFbu3qE) | [Hourglass](https://open.spotify.com/album/12LBbLeQwB7FHwGSqiWr03) | 3:27 | 2021-12-17 |  |
 | [Imagine Peace \- Meditation](https://open.spotify.com/track/2i3FV4l3oX8SG4hn1zJ1QK) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL) | [Imagine Peace \(Delta Waves\)](https://open.spotify.com/album/42FfOOiJgnOqDWWgUUoD8P) | 6:14 | 2022-10-14 |  |
 | [Impulser](https://open.spotify.com/track/6gdtCejkpEErLHR45XmaGj) | [Maja Balder](https://open.spotify.com/artist/2HxNtfNbAA1Pxjx9BHu1GB) | [Impulser](https://open.spotify.com/album/1Xg3GRD8PQLbxO6d5BjIjm) | 3:28 | 2021-12-17 |  |
+| [In Healing Waters](https://open.spotify.com/track/5nirpJb97FMXMHIcYzRVRV) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [In Healing Waters](https://open.spotify.com/album/2mdcgrJzxsNPUz7VS7tniD) | 3:22 | 2023-08-04 |  |
 | [In the Ocean](https://open.spotify.com/track/0kGK2sxMjCE5QO3trAAiiV) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [In the Ocean](https://open.spotify.com/album/74Q6lC88iLKTQb5jblUMjs) | 2:23 | 2021-12-17 |  |
 | [In Your Dreams](https://open.spotify.com/track/6RBnMISN2wQqniaEuLwZI5) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [In Your Dreams](https://open.spotify.com/album/0tOCqBrsy2pOqq3ivlEATG) | 2:54 | 2021-12-17 |  |
 | [Infinity](https://open.spotify.com/track/6qUR6VDQU5uuEJSC7Eb43B) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Infinity](https://open.spotify.com/album/4QUjVEksjTc8yFquXuoBxx) | 2:40 | 2021-12-17 |  |

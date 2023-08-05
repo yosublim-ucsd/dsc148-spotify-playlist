@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today\. Cover: Hazlett
+> The best in folk & acoustic today\. Cover: Tyler Childers
 
-423 songs - 1 day 2 hr 16 min
+426 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Be Yourself](https://open.spotify.com/track/6P0actEG7h74NHvxqRB321) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [FEVER / SKY](https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip) | 3:22 | 2023-04-07 |  |
 | [Bedrock](https://open.spotify.com/track/0jd9hK7zbDbhZKy1jF7NZT) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Bedrock](https://open.spotify.com/album/1KtMUdFR4h9gvdIn2NWKcf) | 3:30 | 2022-01-21 | 2022-02-05 |
 | [Bedrock](https://open.spotify.com/track/5gzS0JyrF7IHZzMH4rNpoK) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:30 | 2022-02-04 | 2022-10-15 |
-| [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 | 2022-03-11 |  |
+| [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 | 2022-03-11 | 2023-08-05 |
 | [Believer](https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 4:23 | 2023-05-05 |  |
 | [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-01-13 | 2023-05-10 |
 | [Best Day Of My Life](https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:26 | 2022-11-04 | 2022-12-10 |
@@ -208,6 +208,8 @@
 | [In My Room](https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq) | 2:57 | 2023-01-27 |  |
 | [In the Game](https://open.spotify.com/track/7wrMbVhD2bRf7alS3RLT0N) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Susan O'Neill](https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua) | [In the Game](https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8) | 4:03 | 2021-12-10 | 2022-04-23 |
 | [In The Pines](https://open.spotify.com/track/4gOHmHKTn63012ROseKHvR) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [In The Pines](https://open.spotify.com/album/4J4zam9BmBnrGSzrI7SrMp) | 3:37 | 2022-06-10 | 2022-09-10 |
+| [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-08-04 |  |
+| [It Takes Me Back](https://open.spotify.com/track/5zOUWxeymlEE9pvADC5gXj) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [It Takes Me Back](https://open.spotify.com/album/3eMrnuF05ttxW40eTvjJDp) | 3:41 | 2023-08-04 |  |
 | [It's A New Life](https://open.spotify.com/track/3ku06NWgtn63zs0yGSjQoe) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [New Girl](https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK) | 4:25 | 2022-06-10 | 2022-09-03 |
 | [It's Called: Freefall](https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR) | 2:38 | 2022-08-05 | 2022-10-22 |
 | [It's Called: Freefall](https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs) | 2:38 | 2022-09-30 | 2023-05-13 |
@@ -268,7 +270,7 @@
 | [On Your Way \- Acoustic](https://open.spotify.com/track/6WsDkYODeOVH7iOBDuXWVZ) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect \(Deluxe\)](https://open.spotify.com/album/15utleqV2llYGHYuD72rs8) | 3:08 | 2022-09-16 |  |
 | [Once There Was No Sun](https://open.spotify.com/track/1jWlS2LrM3fGvtgPSBbp4f) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Once There Was No Sun](https://open.spotify.com/album/51d0vKPmP92IL87nxXJDha) | 4:21 | 2022-07-22 | 2023-01-14 |
 | [Orlando](https://open.spotify.com/track/5eqNWg31aG8wKNbpJxCpCg) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Orlando](https://open.spotify.com/album/2bUlcn67avN5E46GifoXYl) | 4:35 | 2022-11-18 | 2023-03-04 |
-| [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 | 2022-08-19 |  |
+| [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 | 2022-08-19 | 2023-08-05 |
 | [Paralyzed](https://open.spotify.com/track/7dZ723CDAVUmHtJRdghndW) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Break Me Open](https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc) | 3:02 | 2022-04-29 | 2022-07-09 |
 | [Part Time Lovers](https://open.spotify.com/track/5PSnffyT93zHiE23tRsL0O) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Part Time Lovers](https://open.spotify.com/album/0wcyQMBIXTuUJz3FokoVwp) | 3:10 | 2023-01-06 |  |
 | [Patience](https://open.spotify.com/track/2wFnukjdbUj5DWoNxZd718) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Patience](https://open.spotify.com/album/4WZgcOXBMQQ2VRj5a6VDDP) | 3:58 | 2023-03-24 | 2023-06-24 |
@@ -315,6 +317,7 @@
 | [Shine](https://open.spotify.com/track/7x09NsSBkAuGJ3QMnSV4xh) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Harry Styles](https://open.spotify.com/album/1NbETIrvXZF63xpXeYDoKb) | 3:31 | 2022-11-04 | 2022-11-13 |
 | [Show Me the Way](https://open.spotify.com/track/71uPeJAESy4ZYB7bN207SU) | [Calder Allen](https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD) | [The Game](https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv) | 4:05 | 2022-06-17 | 2023-05-13 |
 | [Sick of This Feeling](https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [A River Running to Your Heart](https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX) | 3:33 | 2023-04-21 |  |
+| [Signal Sender](https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Signal Sender](https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy) | 3:20 | 2023-08-04 |  |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2023-01-13 | 2023-07-22 |
 | [Sing Me a Song](https://open.spotify.com/track/0LmMZe0g80Z60zoTqR3cai) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6), [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Sing Me a Song](https://open.spotify.com/album/5qccHZQbxaKW0rlUz8N37y) | 2:39 | 2022-07-22 | 2022-12-03 |
 | [Sing Me A Song](https://open.spotify.com/track/3TYkPCb5o4AAn3djdvF4mw) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6), [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Sing Me A Song](https://open.spotify.com/album/1n3ABnjNSFZF5eX6ocFZks) | 2:39 | 2022-04-22 | 2022-07-29 |
@@ -371,7 +374,7 @@
 | [This Is A Photograph](https://open.spotify.com/track/6R3eECv1wptTUHATHSogu7) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/1OKW5mdYIJ2gqDMIHCzpRE) | 3:30 | 2022-03-04 | 2022-05-14 |
 | [This Is Going To Be The Year](https://open.spotify.com/track/4ijH0M7n6oM4ZARKcInAyv) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [This Is Going To Be The Year](https://open.spotify.com/album/5lcSCem101LKn2rIxoODBU) | 4:12 | 2023-01-06 |  |
 | [Through The Echoes](https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Through The Echoes / Lose It](https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC) | 3:41 | 2022-05-20 | 2022-10-28 |
-| [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 | 2022-09-30 |  |
+| [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 | 2022-09-30 | 2023-08-05 |
 | [Thunder](https://open.spotify.com/track/1t0k03T37lLIGo3THvV0hF) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Thunder](https://open.spotify.com/album/6xgRWh88KbRnp2E3nzcCQD) | 3:38 | 2023-03-10 |  |
 | [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 | 2022-07-08 |  |
 | [Tick Tock](https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:39 | 2022-04-01 | 2022-08-06 |

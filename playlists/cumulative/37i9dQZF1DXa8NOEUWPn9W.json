@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 178604,
       "name": "Bass Go Boom",
       "url": "https://open.spotify.com/track/6iRBFQQpLU9BSRnUBBmPQh"
@@ -3730,7 +3730,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 158399,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT"
@@ -3880,7 +3880,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 180517,
       "name": "Faster",
       "url": "https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I"
@@ -4096,7 +4096,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-01",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Fell In Luv",
       "url": "https://open.spotify.com/track/5G7DvsOLvNE5HTVmJJyo6K"
@@ -4530,7 +4530,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 147401,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
@@ -5066,7 +5066,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 167097,
       "name": "Gotta Let You Go",
       "url": "https://open.spotify.com/track/7Ikf5qsW8GxJq0ZfpZUHsX"
@@ -5819,6 +5819,28 @@
     },
     {
       "album": {
+        "name": "I Want Your Soul (Mau P Remix)",
+        "url": "https://open.spotify.com/album/0TmEMpGtt0nhpowS8B8qj3"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210826,
+      "name": "I Want Your Soul - Mau P Remix",
+      "url": "https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT"
+    },
+    {
+      "album": {
         "name": "Belters Only",
         "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
       },
@@ -6558,7 +6580,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 163500,
       "name": "La Samba",
       "url": "https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU"
@@ -7558,6 +7580,24 @@
       "duration_ms": 236343,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2ThAIW2RkK0BwkBVNr7PN8"
+    },
+    {
+      "album": {
+        "name": "Love Me Right",
+        "url": "https://open.spotify.com/album/2KHcUTy2K9ZJnrpXrGKf16"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188671,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/3SfytvcxqoQWgITH0r9QY0"
     },
     {
       "album": {
@@ -11259,6 +11299,32 @@
     },
     {
       "album": {
+        "name": "Stop Time",
+        "url": "https://open.spotify.com/album/2R0m33i4wSKTVCJAysYNT4"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193075,
+      "name": "Stop Time",
+      "url": "https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ"
+    },
+    {
+      "album": {
         "name": "Strangers (Do You Remember) [feat. Yas Cepeda & EURI]",
         "url": "https://open.spotify.com/album/07q9L0C9VnsMoiS4V0TZxc"
       },
@@ -11882,6 +11948,32 @@
       "duration_ms": 192960,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/5UkoWcFsdWn8NtSAh73Vli"
+    },
+    {
+      "album": {
+        "name": "The Boy Is Mine",
+        "url": "https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc"
+      },
+      "artists": [
+        {
+          "name": "James Mac",
+          "url": "https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB"
+        },
+        {
+          "name": "Vall",
+          "url": "https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD"
+        },
+        {
+          "name": "Rosalie",
+          "url": "https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201713,
+      "name": "The Boy Is Mine",
+      "url": "https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF"
     },
     {
       "album": {
@@ -12788,7 +12880,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-31",
+      "date_removed": null,
       "duration_ms": 243555,
       "name": "Very Last Drop",
       "url": "https://open.spotify.com/track/6F9RXfCiIo9TK06dWtSaEQ"

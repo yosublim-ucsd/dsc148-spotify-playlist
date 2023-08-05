@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,385 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,441 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 19 | [Praha](https://open.spotify.com/track/4PKcsaOmKOrfVXCJCqDOIK) | [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B), [TM404](https://open.spotify.com/artist/14mCD4JJYKhPl2nLqrjkZ7) | [In The Afterworld](https://open.spotify.com/album/02iBaExXa9p10DT4JlwSU0) | 4:59 |
 | 20 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
 | 21 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 |
-| 22 | [Don't Know What You Are Thinking](https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa) | [Serge Geyzel](https://open.spotify.com/artist/3cuKKSsrO12TKYfvBAKjiy) | [As Fallen Leaves](https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3) | 4:59 |
-| 23 | [Hoss It](https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U) | [96 Back](https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz) | [Crass](https://open.spotify.com/album/0TX1wCyAQw51W6ihMaBceU) | 5:57 |
+| 22 | [Hoss It](https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U) | [96 Back](https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz) | [Crass](https://open.spotify.com/album/0TX1wCyAQw51W6ihMaBceU) | 5:57 |
+| 23 | [Don't Know What You Are Thinking](https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa) | [Serge Geyzel](https://open.spotify.com/artist/3cuKKSsrO12TKYfvBAKjiy) | [As Fallen Leaves](https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3) | 4:59 |
 | 24 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 |
 | 25 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 |
 | 26 | [Eden Portal](https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Eden Portal](https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2) | 6:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 49 | [Opak](https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Opak](https://open.spotify.com/album/4vnp9u6zjv2U8pp40jpiBz) | 5:37 |
 | 50 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 |
 
-Snapshot ID: `MCwwZjI2YTkwODNiYzUyZjM3MjNmZmQzYzdkN2ZiNjYwZTRiNzc0NzAw`
+Snapshot ID: `MCw2OTFmMmEyNTBiOGUzYWFmMmZjZTMyNGU0YmQ0YjRkNzUzZTFmNjRk`

@@ -351,6 +351,28 @@
     },
     {
       "album": {
+        "name": "Brindis",
+        "url": "https://open.spotify.com/album/4D7iZ7xXU4GQM8s8pCC9W4"
+      },
+      "artists": [
+        {
+          "name": "Los Lamas",
+          "url": "https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n"
+        },
+        {
+          "name": "Sergio Torres",
+          "url": "https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236981,
+      "name": "Brindis",
+      "url": "https://open.spotify.com/track/7GFsruIOvW7kE3iw48zAHi"
+    },
+    {
+      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/52O7lz8Y4dnFUxHEPQFGCD"
       },
@@ -762,7 +784,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 175545,
       "name": "Dile",
       "url": "https://open.spotify.com/track/48y0Ey2l6p9ECS98Euj7jr"
@@ -1268,7 +1290,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 218830,
       "name": "Entre el Odio y el Amor",
       "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
@@ -2093,6 +2115,28 @@
     },
     {
       "album": {
+        "name": "Mueve / Cumbia Caliente / No Me Mires",
+        "url": "https://open.spotify.com/album/2Z3LRXJFNMMnepvkk4hsbX"
+      },
+      "artists": [
+        {
+          "name": "Siempre Verde",
+          "url": "https://open.spotify.com/artist/4eyu1IhLo2RUlDwJLtodxl"
+        },
+        {
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277263,
+      "name": "Mueve / Cumbia Caliente / No Me Mires",
+      "url": "https://open.spotify.com/track/2sWxnXLNEy02jEocDcstw7"
+    },
+    {
+      "album": {
         "name": "Mujer Que Mal Me Pagas",
         "url": "https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6"
       },
@@ -2108,6 +2152,28 @@
       "duration_ms": 218720,
       "name": "Mujer Que Mal Me Pagas",
       "url": "https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV"
+    },
+    {
+      "album": {
+        "name": "Muri\u00f3 la flor / El reloj / Arrepentida",
+        "url": "https://open.spotify.com/album/3LidPiOzidYA5kDFlKXMyK"
+      },
+      "artists": [
+        {
+          "name": "El Combo 10",
+          "url": "https://open.spotify.com/artist/5eHmtjAF9bKZWmaP3GFQyf"
+        },
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233493,
+      "name": "Muri\u00f3 la flor / El reloj / Arrepentida",
+      "url": "https://open.spotify.com/track/5Mj0hzzwRWj8dMPpfkhiA3"
     },
     {
       "album": {
@@ -2278,7 +2344,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 263836,
       "name": "No Puedo Olvidarla",
       "url": "https://open.spotify.com/track/0UMJUEcsyYcFWOH6ojKnM9"
@@ -2550,7 +2616,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 457826,
       "name": "Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo",
       "url": "https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3"
@@ -2680,7 +2746,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-01",
+      "date_removed": null,
       "duration_ms": 220995,
       "name": "Porqu\u00e9 Les Mientes",
       "url": "https://open.spotify.com/track/3jh7wZ6QGEVu5i5HM6xbk3"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos del Trap Latino. Foto: Eladio Carrion.",
+  "description": "\u00c9xitos del Trap Latino. Foto: Young Miko.",
   "name": "TRAPPERZ",
   "tracks": [
     {
@@ -5343,6 +5343,32 @@
     },
     {
       "album": {
+        "name": "NO PARA",
+        "url": "https://open.spotify.com/album/2Yir8cApTfiPzWE4HwMRq5"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+        },
+        {
+          "name": "SPONSOR DIOS",
+          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159306,
+      "name": "NO PARA",
+      "url": "https://open.spotify.com/track/1d5YgbhNxmvqdzf1aqcYDO"
+    },
+    {
+      "album": {
         "name": "El Rey De Los Trenches",
         "url": "https://open.spotify.com/album/0XnkIuet2kdHwNFMdKA9RX"
       },
@@ -5788,10 +5814,44 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 186111,
       "name": "Pa' gan\u00e1",
       "url": "https://open.spotify.com/track/5gJ3lOJPUrbX5MsQxUAgaK"
+    },
+    {
+      "album": {
+        "name": "Pacto (Remix) [feat. Bryant Myers & Dei V]",
+        "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346000,
+      "name": "Pacto (feat. Bryant Myers & Dei V) - Remix",
+      "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
     },
     {
       "album": {
@@ -5818,7 +5878,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 284021,
       "name": "Pacto (feat. Luar La L)",
       "url": "https://open.spotify.com/track/2whW1Q8KTOODkGDakLZa6V"
@@ -6870,7 +6930,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 160024,
       "name": "Shupano (feat. Young Cister, Bryartz & Shisosa)",
       "url": "https://open.spotify.com/track/2CIx7kjDwTdNNyMuC7sDFM"
@@ -8076,6 +8136,24 @@
       "duration_ms": 213060,
       "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
       "url": "https://open.spotify.com/track/48MsdL5Med93EyIwINl5qY"
+    },
+    {
+      "album": {
+        "name": "wiggy",
+        "url": "https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146559,
+      "name": "wiggy",
+      "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
     },
     {
       "album": {

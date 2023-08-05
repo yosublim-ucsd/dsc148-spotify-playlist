@@ -363,6 +363,32 @@
     },
     {
       "album": {
+        "name": "A Golden Cello Decade, 1878-1888: Dvo\u0159\u00e1k, R. Strauss, Bruch, Le Beau",
+        "url": "https://open.spotify.com/album/5bUW6KrQYTN3OIK5fA9QXe"
+      },
+      "artists": [
+        {
+          "name": "Luise Adolpha Le Beau",
+          "url": "https://open.spotify.com/artist/15KzHD78uVagBwSRELfIDX"
+        },
+        {
+          "name": "Steven Isserlis",
+          "url": "https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1"
+        },
+        {
+          "name": "Connie Shih",
+          "url": "https://open.spotify.com/artist/4uya3b8m8TBafBavneZk3D"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270560,
+      "name": "Cello Sonata in D Major, Op. 17: II. Andante tranquillo",
+      "url": "https://open.spotify.com/track/4OOTZjgz2fAusb6S1Qch2G"
+    },
+    {
+      "album": {
         "name": "Chopin: Piano Sonata No. 2, Nocturnes, Barcarolle & Scherzo",
         "url": "https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9"
       },

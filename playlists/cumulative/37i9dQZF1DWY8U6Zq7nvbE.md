@@ -4,7 +4,7 @@
 
 > The best from the world of acoustic songs and pop covers right now.
 
-397 songs - 21 hr 31 min
+398 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 | 2021-03-11 |  |
 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 | 2021-03-11 | 2022-07-29 |
 | [If I Can't Have You](https://open.spotify.com/track/2QaTtQ3bvllhg2Ot5CpgtC) | [Emmie Reins](https://open.spotify.com/artist/0VmhvPRTiSbS9ndW7wjuDb) | [If I Can't Have You](https://open.spotify.com/album/4SDJD7TxUqwR7yvqkJ6VLF) | 3:29 | 2021-03-11 | 2022-11-26 |
-| [If I Wasn't Me](https://open.spotify.com/track/3Xb3Ryh1vF9i4CKtMNphoD) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [If I Wasn't Me](https://open.spotify.com/album/6rg7brnp2fmvI9mi1V7Uyz) | 2:53 | 2023-03-31 |  |
+| [If I Wasn't Me](https://open.spotify.com/track/3Xb3Ryh1vF9i4CKtMNphoD) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [If I Wasn't Me](https://open.spotify.com/album/6rg7brnp2fmvI9mi1V7Uyz) | 2:53 | 2023-03-31 | 2023-08-05 |
 | [If I'm Being Honest](https://open.spotify.com/track/4JizrXo9waLOAqSJoA6MsA) | [Tim Schou](https://open.spotify.com/artist/5XThsmRraC5gvRpetD2S1q) | [If I'm Being Honest](https://open.spotify.com/album/1xtPhACexlKPMpTO8YTMxc) | 3:51 | 2021-03-11 | 2023-01-05 |
 | [If We Ever Broke Up](https://open.spotify.com/track/5krUQJ8Luu2P44Qpqaa33S) | [New Years Project](https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu) | [If We Ever Broke Up](https://open.spotify.com/album/17eugw7y0jcABlG8x6EDEa) | 2:21 | 2023-05-12 | 2023-06-28 |
 | [If You Knew Better](https://open.spotify.com/track/0yWmKkenmsSXb7CIK40IOn) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [If You Knew Better](https://open.spotify.com/album/3nW8vls0RsII5CHzvfzhWI) | 2:25 | 2021-03-11 | 2022-10-01 |
@@ -344,6 +344,7 @@
 | [Sure Thing](https://open.spotify.com/track/0b8ZH4B3FM4HHDabjfZFTL) | [since always](https://open.spotify.com/artist/0Yht4tZIX0zd3RSrvDaZuV), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Sure Thing](https://open.spotify.com/album/4gEJtympDfHPCd0I1Aft8c) | 3:59 | 2023-05-12 |  |
 | [Sure Thing \- Acoustic](https://open.spotify.com/track/0NjllBNctm9XrsGOYF87jS) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Sure Thing \- Acoustic](https://open.spotify.com/album/5Jq4l0j3Bfb88zE0PjGwdD) | 3:01 | 2023-02-17 |  |
 | [Sweet Nothing](https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Sweet Nothing](https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G) | 3:21 | 2022-12-09 |  |
+| [Take It With Me](https://open.spotify.com/track/5B0FqWcBm3TKdZVn6DcYnZ) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [All We Grow \(Ten Year Anniversary Edition\)](https://open.spotify.com/album/5zOLes5VjZqy44W30zE6VJ) | 4:59 | 2023-06-22 |  |
 | [Take me to church \- Acoustic](https://open.spotify.com/track/0aennjtfg2FjQnKDlwezNO) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Take Me To Church \(Acoustic\)](https://open.spotify.com/album/1YY1bunCgmyMCVtEsaGNvP) | 3:51 | 2022-12-16 |  |
 | [Tattoo \- Acoustic](https://open.spotify.com/track/35HBeoqP9gs2JPgeOrtM5e) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Tattoo](https://open.spotify.com/album/43JIZ6tIFBkfrgA0TgungY) | 2:51 | 2023-06-08 | 2023-06-10 |
 | [THATS WHAT I WANT \- Piano Acoustic](https://open.spotify.com/track/4p95kpslEQ0PhjaeHPmqoD) | [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0) | [THATS WHAT I WANT \(Piano Acoustic\)](https://open.spotify.com/album/4uqUIxdqSwWRtnHGZBPcrj) | 2:56 | 2022-11-11 |  |

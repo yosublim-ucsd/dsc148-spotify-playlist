@@ -4,7 +4,7 @@
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-59 songs - 2 hr 46 min
+60 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Conceited](https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:26 | 2023-04-08 |  |
 | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/track/53acd3PVcgGCux58YABBr5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5) | 3:15 | 2023-02-16 | 2023-04-09 |
 | [Do It Better](https://open.spotify.com/track/4Mi8MBOHohcIuFCKaAePjk) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:37 | 2023-03-26 | 2023-04-09 |
-| [Eat It Up](https://open.spotify.com/track/2zeHX4bX8RxeaLDgdn90RA) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Eat It Up](https://open.spotify.com/album/2DwPROREroAzr1bDDO4up8) | 2:32 | 2022-10-28 |  |
+| [Eat It Up](https://open.spotify.com/track/2zeHX4bX8RxeaLDgdn90RA) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Eat It Up](https://open.spotify.com/album/2DwPROREroAzr1bDDO4up8) | 2:32 | 2022-10-28 | 2023-08-05 |
 | [Einstein](https://open.spotify.com/track/33HNQd77Qvq7luKaQSmuYJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Einstein](https://open.spotify.com/album/0UpTiCfVOb3k3tUwMWB6uF) | 2:15 | 2023-03-17 |  |
 | [Element \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/track/206CWNlXy1wLw3nchSDWJA) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Element \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/album/2J48yzicpveqFUaKRWWkq1) | 3:36 | 2022-10-28 |  |
 | [F'd Up \(feat\. Flo Milli\)](https://open.spotify.com/track/1tV2tvirWkLkBhj2y2j5ZU) | [Savannah Cristina](https://open.spotify.com/artist/7EsWLpczyTXU6zyfWt7ZkN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [F'd Up \(feat\. Flo Milli\)](https://open.spotify.com/album/6D0Sma90a30imii8y1y0kN) | 3:09 | 2022-10-28 |  |
@@ -64,6 +64,7 @@
 | [Simon Say \(feat\. Flo Milli\)](https://open.spotify.com/track/2kzEf3Bg7S43YuSFPI3462) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Simon Say \(feat\. Flo Milli\)](https://open.spotify.com/album/3rNyJVQPRgctJUoonHIfNf) | 2:56 | 2022-10-28 |  |
 | [Take It Up \- Remix](https://open.spotify.com/track/0HpuGk2nD5BBw7QE7NnsMx) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Take It Up Remix](https://open.spotify.com/album/5nAc94a7Z9NbtzcEk88H1n) | 2:25 | 2023-07-15 |  |
 | [To The Money \(feat\. Flo Milli & 8AE\)](https://open.spotify.com/track/5YSWtx5drmDZHP2weqJtAG) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [8AE](https://open.spotify.com/artist/1HX4A36aOWZMFx5eRHKIz1) | [To The Money \(feat\. Flo Milli & 8AE\)](https://open.spotify.com/album/2efMCGuPSpEgLoSPsg5a5e) | 2:54 | 2022-10-28 |  |
+| [Toot It Up](https://open.spotify.com/track/654vCNETmkVbg5vpD38OUj) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [4EVER SOSSA](https://open.spotify.com/album/7DB5LVm0cNsq3fJp6JGWeM) | 2:49 | 2023-08-04 |  |
 | [Toot It Up \(with Flo Milli\)](https://open.spotify.com/track/3WKralGDklxTjxcMkGKx2g) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Toot It Up \(with Flo Milli\)](https://open.spotify.com/album/26TdIHP2CgrCBAfcwbexhP) | 2:49 | 2022-10-28 | 2023-08-04 |
 | [We Not Humping \- Remix](https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [We Not Humping \(Remix\)](https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk) | 2:23 | 2022-10-28 |  |
 | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/track/59COzThWJAOeIM6SBItYZI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/album/1F0Q3jnivsGYle3Kl36aSJ) | 2:26 | 2023-06-17 |  |

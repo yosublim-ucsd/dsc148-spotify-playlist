@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,887 likes - 64 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,923 likes - 64 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 11 | [Milk And Water](https://open.spotify.com/track/4Bo2E1DybKQL2radivMQFA) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 3:10 |
 | 12 | [Boogie In "G"](https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [Rock Me Daddy, Vol\. 1](https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD) | 2:34 |
 | 13 | [Evil Woman](https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 4:21 |
-| 14 | [Junco Partner](https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Junco Partner](https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV) | 5:10 |
-| 15 | [Boogie Woogie Country Girl](https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:57 |
+| 14 | [Boogie Woogie Country Girl](https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:57 |
+| 15 | [Junco Partner](https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Junco Partner](https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV) | 5:10 |
 | 16 | [Mess Around](https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:40 |
 | 17 | [Country Girl](https://open.spotify.com/track/51cYl5SvZURtIKvPx3xSRu) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55), [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng), [Calvin "fuzz" Jones](https://open.spotify.com/artist/5zQ0mnqRSt39lqzodnSIMb) | [Eye to Eye](https://open.spotify.com/album/4qeeoJt7NRA6hPXYrIMguD) | 4:48 |
 | 18 | [Moon Blues](https://open.spotify.com/track/5WZhJc7JFZFxflEjxitzwy) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Sweet Giant of the Blues](https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw) | 4:26 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 39 | [Long Way Home](https://open.spotify.com/track/2psY6edqjF6QMnC8v1Aitj) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [New Shade of Blue](https://open.spotify.com/album/7LCPGWetHUe8llQPpRacoh) | 4:22 |
 | 40 | [Tipitina](https://open.spotify.com/track/7acA74x4jbKVKBljh5Qt3L) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD), [Tips Record Club](https://open.spotify.com/artist/1atEsju621zKFKigm91GCl) | [Fess at Home](https://open.spotify.com/album/1r6jk6qVIYqPlTzvOXMPUE) | 3:51 |
 | 41 | [If I Hadn't Been High](https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 4:06 |
-| 42 | [Things Have Changed](https://open.spotify.com/track/5fY1xBMbBUwN1ejbK647Yi) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The King of Chicago Blues Piano](https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z) | 3:00 |
-| 43 | [Train](https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C) | [Victor Wainwright](https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9) | [Victor Wainwright and the Train](https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p) | 3:35 |
-| 44 | [Honky Tonk](https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV) | [Tuts Washington](https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI) | [New Orleans Piano Professor](https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy) | 3:22 |
+| 42 | [Train](https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C) | [Victor Wainwright](https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9) | [Victor Wainwright and the Train](https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p) | 3:35 |
+| 43 | [Honky Tonk](https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV) | [Tuts Washington](https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI) | [New Orleans Piano Professor](https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy) | 3:22 |
+| 44 | [Things Have Changed](https://open.spotify.com/track/5fY1xBMbBUwN1ejbK647Yi) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The King of Chicago Blues Piano](https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z) | 3:00 |
 | 45 | [Pink Champagne](https://open.spotify.com/track/4NIC2PekIelrjo4DBbGhXG) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/artist/61zdmia3oH5vUieNIqI7iI) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 3:00 |
 | 46 | [Make Me a Pallet on the Floor](https://open.spotify.com/track/14AxqPeIqpVySnvgLf6ZKv) | [Jimmy Yancey](https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD), [Mama Yancey](https://open.spotify.com/artist/43jwl4inLITN5Xu7D7XcFu) | [Chicago Piano Volume 1](https://open.spotify.com/album/0YXh5wJhimZePRjFK0NSvC) | 4:34 |
 | 47 | [The Blues Ain't Nothing](https://open.spotify.com/track/0kxvYuAulT8gtAJQMnM52H) | [Julian Fauth](https://open.spotify.com/artist/1q89DTds6UuLXJ9SINH3wr), [Curley Bridges](https://open.spotify.com/artist/734B42JrhaNf5z7J5MvIus) | [Blues Piano\-Rama](https://open.spotify.com/album/1kVLClgeJAWwohZHPbqLGx) | 5:46 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 63 | [Me and My Gin](https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz) | [Jimmie Gordon](https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l) | [This Is the Blues! Vol\. 7 \(Mono Version\)](https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3) | 3:12 |
 | 64 | [I'll Be Right Some Day](https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:26 |
 
-Snapshot ID: `MCw2MmU2ZDQ2OWZmNjAxNTA3ZWUxNjRmOGJjYTViNDk3ODZkMGNkZWJh`
+Snapshot ID: `MCxlYWI3ZmFlMjVmNzBiNmFmMjAyNDVhNmI2ZDFmNmY4NzkwZTI1NzBl`

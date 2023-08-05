@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-23",
-  "description": "The sweetest bops. Cover: (G)I-DLE",
+  "description": "The sweetest bops. Cover: ITZY",
   "name": "SUGAR",
   "tracks": [
     {
@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "KILL MY DOUBT",
+        "url": "https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198887,
+      "name": "CAKE",
+      "url": "https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6"
+    },
+    {
+      "album": {
         "name": "Cardboard Box",
         "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
       },
@@ -453,6 +471,28 @@
     },
     {
       "album": {
+        "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. Demi Lovato)",
+        "url": "https://open.spotify.com/album/2VVf6P029Bw2sRXV721xui"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185538,
+      "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. Demi Lovato)",
+      "url": "https://open.spotify.com/track/5zYrD1r49ex3WJk6iVIhfw"
+    },
+    {
+      "album": {
         "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
         "url": "https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh"
       },
@@ -468,7 +508,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 174173,
       "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
       "url": "https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR"
@@ -793,6 +833,24 @@
     },
     {
       "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146769,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q"
+    },
+    {
+      "album": {
         "name": "Nicole",
         "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
       },
@@ -1090,6 +1148,28 @@
       "duration_ms": 180320,
       "name": "MOONLIGHT SUNRISE",
       "url": "https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w"
+    },
+    {
+      "album": {
+        "name": "Mr Right (with Meghan Trainor)",
+        "url": "https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167035,
+      "name": "Mr Right (with Meghan Trainor)",
+      "url": "https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp"
     },
     {
       "album": {
@@ -1666,7 +1746,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 182148,
       "name": "UNFORGIVEN (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"

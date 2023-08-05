@@ -2851,6 +2851,28 @@
     },
     {
       "album": {
+        "name": "Dream Sequence",
+        "url": "https://open.spotify.com/album/2M3r10nJAuWXUoUkZAmvqM"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "The Glitch Mob",
+          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215111,
+      "name": "Dream Sequence",
+      "url": "https://open.spotify.com/track/1YrVLt1ET4GzwS3HfOcxWw"
+    },
+    {
+      "album": {
         "name": "IT'S NOT A PHASE",
         "url": "https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w"
       },
@@ -5925,6 +5947,32 @@
     },
     {
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/4nDapjSoCGVjrUHJP85pLp"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Ravenscoon",
+          "url": "https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ"
+        },
+        {
+          "name": "Jessy Covets",
+          "url": "https://open.spotify.com/artist/0e35qB87R4rgIfDysLHzAV"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240428,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/75eUZ1Em0I86W4RbBL8EZV"
+    },
+    {
+      "album": {
         "name": "Let That Go",
         "url": "https://open.spotify.com/album/2RhXo1ZwnnqUWAuxWgnLyP"
       },
@@ -6773,6 +6821,24 @@
     },
     {
       "album": {
+        "name": "Muscaria / Everglade March (VIP)",
+        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169462,
+      "name": "Muscaria",
+      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
+    },
+    {
+      "album": {
         "name": "My Heart Has Teeth (feat. Skylar Grey) [From \u201cResident Evil\u201d]",
         "url": "https://open.spotify.com/album/6jkxA0LypeL8VGXLtZkkAG"
       },
@@ -7066,6 +7132,32 @@
       "duration_ms": 201550,
       "name": "No Blood Left To Bleed (feat. Micah Martin)",
       "url": "https://open.spotify.com/track/2uTcs2JuGoHO8qW0ZzUmaC"
+    },
+    {
+      "album": {
+        "name": "NO FEAR",
+        "url": "https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D"
+      },
+      "artists": [
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "NO FEAR",
+      "url": "https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc"
     },
     {
       "album": {
@@ -7954,6 +8046,24 @@
       "duration_ms": 207272,
       "name": "Picture",
       "url": "https://open.spotify.com/track/1sAyfWbmgrT7HganHgLSYQ"
+    },
+    {
+      "album": {
+        "name": "Play With You",
+        "url": "https://open.spotify.com/album/55rXKa79HyEaM9gYapnZiy"
+      },
+      "artists": [
+        {
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145886,
+      "name": "Play With You",
+      "url": "https://open.spotify.com/track/6DU55Vc6ZIGYgGC9t5g56t"
     },
     {
       "album": {
@@ -9080,6 +9190,32 @@
       "duration_ms": 245828,
       "name": "See You Go",
       "url": "https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf"
+    },
+    {
+      "album": {
+        "name": "Senses",
+        "url": "https://open.spotify.com/album/528AOUAXpxheUivis06m99"
+      },
+      "artists": [
+        {
+          "name": "Fransis Derelle",
+          "url": "https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn"
+        },
+        {
+          "name": "Stryer",
+          "url": "https://open.spotify.com/artist/0bF1Nk4mVQlhDlvXq5P0ac"
+        },
+        {
+          "name": "Elle Vee",
+          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Senses",
+      "url": "https://open.spotify.com/track/5GhdLDTh0BslJx45SmXtWx"
     },
     {
       "album": {

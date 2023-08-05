@@ -1,12 +1,12 @@
 {
   "description": "Fourth quarter, two minutes left .. get locked in",
-  "num_followers": 2874309,
+  "num_followers": 2875796,
   "original_name": "Locked In",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWFiNjk5Yjg5MWRhNWJmZTYxMDU4MTE2MmUyMjY2M2ZjMDZjMjA5",
+  "snapshot_id": "MCxjZDI1Mzg1YTExMzI2MmJmYjA5YjBhMWE5NTM4NzUwN2IzMDRjZGVj",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:17",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-06-30 04:00:17",
       "album": {
-        "name": "MVP (feat. G-Eazy)",
-        "url": "https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        }
-      ],
-      "duration_ms": 173948,
-      "name": "MVP (feat. G-Eazy)",
-      "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
-    },
-    {
-      "added_at": "2023-06-30 04:00:17",
-      "album": {
         "name": "Hot Boy (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/54h4yyqWQl5z0jKkiS07is"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 169893,
       "name": "Hot Boy (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/31yydnZnSeCwkRPY7tlgQJ"
+    },
+    {
+      "added_at": "2023-06-30 04:00:17",
+      "album": {
+        "name": "MVP (feat. G-Eazy)",
+        "url": "https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "duration_ms": 173948,
+      "name": "MVP (feat. G-Eazy)",
+      "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
     },
     {
       "added_at": "2023-06-30 04:00:17",

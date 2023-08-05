@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 127714,
       "name": "An Apopse Figo",
       "url": "https://open.spotify.com/track/09u3uU5KzkdsoUTDeBF10J"
@@ -12759,6 +12759,24 @@
     },
     {
       "album": {
+        "name": "Ksenyxtas",
+        "url": "https://open.spotify.com/album/32N9Qk2Qf7sAZ7XgDXjWxU"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197009,
+      "name": "Ksenyxtas",
+      "url": "https://open.spotify.com/track/4VE60PUy9yPmnd0FpOdyK9"
+    },
+    {
+      "album": {
         "name": "Gango",
         "url": "https://open.spotify.com/album/7Gbpb5cU5ursdUvTNHkV8k"
       },
@@ -19545,6 +19563,32 @@
     },
     {
       "album": {
+        "name": "Popular (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
+      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
+    },
+    {
+      "album": {
         "name": "Bad Boy (Summer Hits)",
         "url": "https://open.spotify.com/album/21rySo430y5dVWknVK0JAB"
       },
@@ -24564,7 +24608,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 248742,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2yUdHd6sojgZk2lZtSQBbn"

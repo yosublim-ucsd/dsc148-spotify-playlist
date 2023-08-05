@@ -4,7 +4,7 @@
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:6W1NclX9rP93bkhQEOQtm4">Frank Leen</a>
 
-99 songs - 4 hr 58 min
+100 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Chardonnay](https://open.spotify.com/track/2V0fdohnsYJyiLWHyByJRj) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Chardonnay](https://open.spotify.com/album/716XoQ3W64WJxMH8L7Bney) | 2:40 | 2023-07-31 |  |
 | [Chcę Być Jak Oliwka Brazil](https://open.spotify.com/track/76jCSzHssCZuaQ1rEyi8Df) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs) | [Chcę Być Jak Oliwka Brazil](https://open.spotify.com/album/6baYZ2q3O6NqAjB6FZ0lhX) | 2:13 | 2022-08-26 |  |
 | [Chemistry](https://open.spotify.com/track/7yw4MSh68mhXs1bIlWkE2G) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu) | [Chemistry](https://open.spotify.com/album/6LcvpXRe8CBUuQW1oBPJsX) | 3:36 | 2022-08-26 |  |
-| [chrypki głos nie od fajek](https://open.spotify.com/track/3FaXFUfn2zJMuXchw902IW) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [chrypki głos nie od fajek](https://open.spotify.com/album/5s0PHctq0QWrUbWx2YcXq3) | 3:15 | 2023-05-16 |  |
+| [chrypki głos nie od fajek](https://open.spotify.com/track/3FaXFUfn2zJMuXchw902IW) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [chrypki głos nie od fajek](https://open.spotify.com/album/5s0PHctq0QWrUbWx2YcXq3) | 3:15 | 2023-05-16 | 2023-08-05 |
 | [Ciche disco](https://open.spotify.com/track/07vsyFjAX1hQ10QMb2uL2X) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Ciche disco](https://open.spotify.com/album/4VdqVX60n0ADhEluC8bYtM) | 3:24 | 2022-08-26 | 2023-02-07 |
 | [Ciche Dni](https://open.spotify.com/track/3tRwIV2mOrh67QVVpZ26vW) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Ciche Dni](https://open.spotify.com/album/46niKxhrL48xktldiaVjzK) | 3:03 | 2023-02-06 | 2023-03-14 |
 | [Cień](https://open.spotify.com/track/3pGMwn9bZhaFNFOp8efhZ7) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm), [Piotr Rogucki](https://open.spotify.com/artist/6gG1FOW5CoylM7858JYboD) | [Polska Floryda](https://open.spotify.com/album/76Tg6vW5sCt2x6vLawvHsc) | 3:45 | 2022-08-26 |  |
@@ -45,6 +45,7 @@
 | [kraksa](https://open.spotify.com/track/5NHrQlml5DG2JIYsIS1pMY) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [\[moja ciemność\]²](https://open.spotify.com/album/2Lw0wggQKFlULJY32KpPMa) | 2:52 | 2023-02-06 |  |
 | [Kruszysz](https://open.spotify.com/track/5c3QbtxY4DBPT7FET6PE2A) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Kruszysz](https://open.spotify.com/album/2KnwvbHPgEEajYjNwwHPxv) | 3:54 | 2023-03-13 | 2023-05-17 |
 | [lasagne](https://open.spotify.com/track/4m8FboPgdXTNQXqRyM1SFG) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [lasagne](https://open.spotify.com/album/7lv4amDxtRi58RC6YzhAPa) | 2:43 | 2022-09-23 | 2023-02-07 |
+| [Latawce](https://open.spotify.com/track/10b1ej4W3KuY3W9RkIg0j0) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [SecretiveSuicide](https://open.spotify.com/artist/16VLZykOWwmhqR60Y5n2z9) | [Latawce](https://open.spotify.com/album/7yjZ8ljy2Rzh27HKTyJ8w8) | 2:42 | 2023-08-04 |  |
 | [Look At Us](https://open.spotify.com/track/2kXwpba2ljo1FQRvJtQUNz) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Look At Us](https://open.spotify.com/album/3DLL0NgNCyqtSm4mjhi62x) | 2:33 | 2022-08-26 | 2022-09-24 |
 | [Mam Już Dość](https://open.spotify.com/track/2PRPX3pHeEaY2BL5C8yu37) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [Filip Leon](https://open.spotify.com/artist/3iBwYiThZoCMOWt0Vc69gv) | [Mam Już Dość](https://open.spotify.com/album/5ppmozRB4JkpmsEu5KHMVk) | 2:21 | 2023-04-14 |  |
 | [mam kogoś lepszego \- Skytech Remix](https://open.spotify.com/track/5jrgxqv21VtnVURWPAWoaS) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [moja ciemność \(deluxe edition\)](https://open.spotify.com/album/5JDuoSUawI1hto3pkbvyVS) | 2:49 | 2022-08-26 | 2023-02-07 |

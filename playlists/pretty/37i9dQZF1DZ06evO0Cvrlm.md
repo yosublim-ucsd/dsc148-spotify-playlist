@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,345 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,476 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 10 | [Amazing](https://open.spotify.com/track/0hsrqeudoR9Kymm7RNiVoq) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 4:25 |
 | 11 | [Jesus to a Child](https://open.spotify.com/track/2SzCxX6M6vDwdEwnHDiTaY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 6:51 |
 | 12 | [Don't Let the Sun Go Down on Me](https://open.spotify.com/track/0q90594hk25yo0xZmBTqCd) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:46 |
-| 13 | [One More Try \- Remastered](https://open.spotify.com/track/5932kbyNt445gDTT2chRUS) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:50 |
+| 13 | [Kissing a Fool \- Remastered](https://open.spotify.com/track/1sEGwuvScFU2uNzlI7Aepy) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 4:40 |
 | 14 | [Killer / Papa Was a Rollin' Stone](https://open.spotify.com/track/3EMwCbvaeyWVZb3ae0roHt) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 4:15 |
 | 15 | [Too Funky \- Single Edit](https://open.spotify.com/track/4fW718TtzWhIfGMc6owKzZ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 3:50 |
 | 16 | [A Different Corner](https://open.spotify.com/track/6khoye7kysa6cLGY0AO9dO) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 4:03 |
-| 17 | [Kissing a Fool \- Remastered](https://open.spotify.com/track/1sEGwuvScFU2uNzlI7Aepy) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 4:40 |
+| 17 | [One More Try \- Remastered](https://open.spotify.com/track/5932kbyNt445gDTT2chRUS) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:50 |
 | 18 | [Miss Sarajevo](https://open.spotify.com/track/6x5pI6n5feaWcP8jCdTk3E) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 5:10 |
 | 19 | [Spinning the Wheel](https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 6:21 |
 | 20 | [Outside](https://open.spotify.com/track/6CTM0aon2TESJvdeacsqh9) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 4:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 49 | [Through \- Live](https://open.spotify.com/track/6B8vO1gto58lY9cPVNLRee) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 5:09 |
 | 50 | [Round Here](https://open.spotify.com/track/0CXKSzlIQfmQI3I7oQj9kv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 5:55 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDA4NTI2NGY4Njc2YjhhMGQ0YWNmYzg3Y2IwZDViZDAyMQ==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDBlM2I4MzJkMTEyMDVkZTdjZWZmMTJiZDZkNjIyNzY1ZA==`

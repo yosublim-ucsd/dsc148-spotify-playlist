@@ -1,44 +1,28 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Saint Harison",
-  "num_followers": 39262,
+  "description": "R&B of the moment by the artists of the future. Cover: Zae France",
+  "num_followers": 39309,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzI4NGEyMzcwYzQ4Y2Q0ZTI3NWQxMjMxYWQwZjFjNmU4Y2UwYTU2",
+  "snapshot_id": "MCxjOWZiZjhkNGU3MGQwODQ3YTYwYmM3NDJjODcxODQ2ZDRjYzQyYmVm",
   "tracks": [
     {
-      "added_at": "2023-05-05 05:18:45",
+      "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "lost a friend",
-        "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
+        "name": "Give It Up",
+        "url": "https://open.spotify.com/album/12WuhKgwN4VUQVkIgzbT1G"
       },
       "artists": [
         {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+          "name": "Zae France",
+          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
         }
       ],
-      "duration_ms": 174637,
-      "name": "ego talkin'",
-      "url": "https://open.spotify.com/track/0QcS4DBl3Dhfv0F0nARK3M"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Risk",
-        "url": "https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo"
-      },
-      "artists": [
-        {
-          "name": "Idman",
-          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Beach",
-      "url": "https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc"
+      "duration_ms": 141055,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/1VYUd9fdOaOCL47pkGd57z"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -57,20 +41,36 @@
       "url": "https://open.spotify.com/track/2Q2VlgK3KJcuZJUCyX5miq"
     },
     {
-      "added_at": "2023-07-28 04:01:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Give It Up",
-        "url": "https://open.spotify.com/album/12WuhKgwN4VUQVkIgzbT1G"
+        "name": "OUTTA CONTROL",
+        "url": "https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi"
       },
       "artists": [
         {
-          "name": "Zae France",
-          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 141055,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/1VYUd9fdOaOCL47pkGd57z"
+      "duration_ms": 207000,
+      "name": "OUTTA CONTROL",
+      "url": "https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "6.9.4.2",
+        "url": "https://open.spotify.com/album/5o1xMeUQ9cLNq9rX5ftrrx"
+      },
+      "artists": [
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        }
+      ],
+      "duration_ms": 140288,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/7cIjKWHZvMaDFmSUaUdN7W"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -89,20 +89,40 @@
       "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "6.9.4.2",
-        "url": "https://open.spotify.com/album/5o1xMeUQ9cLNq9rX5ftrrx"
+        "name": "MUSTARD (WITH 6LACK)",
+        "url": "https://open.spotify.com/album/4alOM8XlyGXSsr3IIlshl8"
       },
       "artists": [
         {
-          "name": "AMARIA BB",
-          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 140288,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/7cIjKWHZvMaDFmSUaUdN7W"
+      "duration_ms": 201464,
+      "name": "MUSTARD (WITH 6LACK)",
+      "url": "https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo"
+      },
+      "artists": [
+        {
+          "name": "Idman",
+          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Beach",
+      "url": "https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -221,6 +241,22 @@
       "url": "https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq"
     },
     {
+      "added_at": "2023-05-05 05:18:45",
+      "album": {
+        "name": "lost a friend",
+        "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 174637,
+      "name": "ego talkin'",
+      "url": "https://open.spotify.com/track/0QcS4DBl3Dhfv0F0nARK3M"
+    },
+    {
       "added_at": "2023-06-16 05:54:28",
       "album": {
         "name": "Don't Get Too Cozy",
@@ -235,6 +271,22 @@
       "duration_ms": 175495,
       "name": "Luv Songs (Unruly)",
       "url": "https://open.spotify.com/track/0puWG0IhM981IsC1hd2640"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Repercussions",
+        "url": "https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 180714,
+      "name": "Repercussions",
+      "url": "https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -255,6 +307,22 @@
       "duration_ms": 167355,
       "name": "Anticipate",
       "url": "https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/5vNTlYU1zn1rWoAwrpQxso"
+      },
+      "artists": [
+        {
+          "name": "King Sis",
+          "url": "https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "save yourself",
+      "url": "https://open.spotify.com/track/1h2WWba7PtW9uTapvlvtwL"
     },
     {
       "added_at": "2023-07-23 08:57:12",
@@ -1015,8 +1083,8 @@
     {
       "added_at": "2023-03-31 04:08:51",
       "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/5je4RRaGpRma4N5fK9xhpY"
+        "name": "LOVERS WAVE VOL. 1",
+        "url": "https://open.spotify.com/album/7sxvlwZt8v20dIbwxBVj1B"
       },
       "artists": [
         {
@@ -1026,7 +1094,7 @@
       ],
       "duration_ms": 108588,
       "name": "Care",
-      "url": "https://open.spotify.com/track/6tv0ml6tExtwYWCiJfhvmN"
+      "url": "https://open.spotify.com/track/1SGEUpFPiZJZLGPrEkxD0R"
     },
     {
       "added_at": "2022-12-02 05:00:00",

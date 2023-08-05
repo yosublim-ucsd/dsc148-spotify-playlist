@@ -4,14 +4,14 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-115 songs - 6 hr 28 min
+116 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [29 Gold Stars](https://open.spotify.com/track/054GuU4u3vY4b5bkU8K9eH) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [Demons](https://open.spotify.com/album/6QxlINdqOdpp8FfWJrnzOj) | 2:25 | 2021-02-12 |  |
 | [29 Gold Stars](https://open.spotify.com/track/6YTnk0HV9upkntv86skGcR) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [29 Gold Stars](https://open.spotify.com/album/5cz2W08tqtvSdTBR96IN9b) | 2:25 | 2021-02-12 | 2022-07-29 |
 | [Ain't Nobody \(Pain\)](https://open.spotify.com/track/6tS0Y2R790LQSSoepR6wlW) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Ain't Nobody \(Pain\)](https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW) | 3:27 | 2023-07-28 |  |
-| [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 | 2021-02-12 |  |
+| [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 | 2021-02-12 | 2023-08-05 |
 | [All of It, Again](https://open.spotify.com/track/0OdzIwQTj4BRGaQ7yfvJ6i) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [All of It, Again](https://open.spotify.com/album/5VQjDyJ416TBS2g8ESxZAI) | 4:03 | 2021-04-23 |  |
 | [Beautiful Women](https://open.spotify.com/track/2udaizsOJPOvmZf7q8qL7u) | [Alexander Wren](https://open.spotify.com/artist/6f6oMcKG2GzGjfejpsD7e7) | [To Whom It May Concern,](https://open.spotify.com/album/15FWLsNkClkSb0DLGO7H27) | 2:53 | 2023-05-19 |  |
 | [Big Boy](https://open.spotify.com/track/3n8HMjq9XEllt8kyD1JGBy) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Choke Cherry Tree](https://open.spotify.com/album/2H6mfUMvRacDoPtgbcbqkR) | 3:03 | 2021-02-12 |  |
@@ -83,6 +83,7 @@
 | [Never Give Up](https://open.spotify.com/track/1LwyCWyGUsiZCBCaSNRfn1) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead \(Deluxe\)](https://open.spotify.com/album/76BB70ASc22gc7NcRTGSQl) | 1:06 | 2021-02-12 | 2023-07-29 |
 | [Nobody's Wrong](https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Nobody's Wrong](https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp) | 3:55 | 2022-03-11 |  |
 | [Nothing but a Cliché](https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [The Difference Between Me & You](https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G) | 4:01 | 2021-02-12 |  |
+| [Oh My My](https://open.spotify.com/track/3f8WNNyHJMxYBCTAoRTPle) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Oh My My](https://open.spotify.com/album/3cntJ1GcTKQC7F8OqMuFY8) | 3:39 | 2023-08-04 |  |
 | [One Thing \(2020\)](https://open.spotify.com/track/3UN865e2RbOp2e5MEaKyH1) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/0yGqO8T0PFlvvOEB67SVw8) | 4:06 | 2022-08-31 |  |
 | [One Thing \(2020\)](https://open.spotify.com/track/5AU6psoPKvjkfgISTSrbCS) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/12etpmMvVYThaqygVi0UKE) | 4:06 | 2021-02-12 | 2023-04-30 |
 | [Pearl Cadillac \(feat\. Andra Day\)](https://open.spotify.com/track/5fcisGWiGPqr3hkPy0h1mr) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Pearl Cadillac \(feat\. Andra Day\)](https://open.spotify.com/album/5uVl49FsC9vFHCxNT2zoiJ) | 3:30 | 2021-02-12 |  |

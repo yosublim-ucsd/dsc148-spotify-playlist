@@ -113,6 +113,28 @@
     },
     {
       "album": {
+        "name": "Bahagia Pada Waktunya",
+        "url": "https://open.spotify.com/album/5CAgKCqYH22qUh3q1G7ITV"
+      },
+      "artists": [
+        {
+          "name": "Aldo Jm",
+          "url": "https://open.spotify.com/artist/5xSJF52xAPQzfWiueorurd"
+        },
+        {
+          "name": "Rara Salsabila",
+          "url": "https://open.spotify.com/artist/1GBLYFM6sriYtTwtd4s4Ls"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349961,
+      "name": "Bahagia Pada Waktunya",
+      "url": "https://open.spotify.com/track/4VdPv2wNafmltiIUQ2Ozju"
+    },
+    {
+      "album": {
         "name": "PUSAKARYA",
         "url": "https://open.spotify.com/album/3bFsqB0xYs8nAkcw2R1vwq"
       },

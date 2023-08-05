@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: MOONY(\ubb34\ub2c8)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 449207,
+  "num_followers": 449340,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTVlMjljMjAwNTJjYjJjODVlMGRmM2Q1ZGMxYWU0NWUwZGI5MjQz",
+  "snapshot_id": "MCxiMzgyZjEyZDA4ODc5ODJkZTRiN2EzYzczYTk5YzcxMmI5Y2ZhNzk2",
   "tracks": [
     {
       "added_at": "2023-08-01 04:46:36",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-08-01 04:46:36",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Today's Mood",
-      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
-    },
-    {
-      "added_at": "2023-08-01 04:46:36",
-      "album": {
         "name": "friend to lover",
         "url": "https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 187946,
       "name": "friend to lover",
       "url": "https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062"
+    },
+    {
+      "added_at": "2023-08-01 04:46:36",
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
       "added_at": "2023-08-01 04:46:36",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-08-01 04:46:36",
       "album": {
-        "name": "pony",
-        "url": "https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "pony",
-      "url": "https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V"
-    },
-    {
-      "added_at": "2023-08-01 04:46:36",
-      "album": {
         "name": "3108",
         "url": "https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 178266,
       "name": "3108",
       "url": "https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK"
+    },
+    {
+      "added_at": "2023-08-01 04:46:36",
+      "album": {
+        "name": "pony",
+        "url": "https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "pony",
+      "url": "https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V"
     },
     {
       "added_at": "2023-08-01 04:46:36",
@@ -635,38 +635,6 @@
     {
       "added_at": "2023-08-01 04:46:36",
       "album": {
-        "name": "Answer",
-        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
-      },
-      "artists": [
-        {
-          "name": "homezone",
-          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
-    },
-    {
-      "added_at": "2023-08-01 04:46:36",
-      "album": {
-        "name": "Jannabi\u2019s small pieces ll : GRIPPIN\u2019THEGREEN",
-        "url": "https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "GRIPPIN\u2019THEGREEN",
-      "url": "https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk"
-    },
-    {
-      "added_at": "2023-08-01 04:46:36",
-      "album": {
         "name": "1",
         "url": "https://open.spotify.com/album/1uBSQRIdCFLgfaipqfVXp2"
       },
@@ -679,6 +647,22 @@
       "duration_ms": 223400,
       "name": "No One Told Me Why",
       "url": "https://open.spotify.com/track/5toMPAVWtyrI1R6THYKhiE"
+    },
+    {
+      "added_at": "2023-08-01 04:46:36",
+      "album": {
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
     },
     {
       "added_at": "2023-08-01 04:46:36",
@@ -731,6 +715,22 @@
     {
       "added_at": "2023-08-01 04:46:36",
       "album": {
+        "name": "Jannabi\u2019s small pieces ll : GRIPPIN\u2019THEGREEN",
+        "url": "https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "GRIPPIN\u2019THEGREEN",
+      "url": "https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk"
+    },
+    {
+      "added_at": "2023-08-01 04:46:36",
+      "album": {
         "name": "Calibrate",
         "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-08-01 04:46:36",
       "album": {
-        "name": "Orange, You\u2019re Not a Joke to Me!",
-        "url": "https://open.spotify.com/album/1dmR4oRQ2rGx8uOVN0Ml6o"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 220069,
-      "name": "Orange, You\u2019re Not a Joke to Me!",
-      "url": "https://open.spotify.com/track/6eAVfkbRov3Md8RmQJrZb9"
-    },
-    {
-      "added_at": "2023-08-01 04:46:36",
-      "album": {
         "name": "Summer",
         "url": "https://open.spotify.com/album/3CuJaVDNEUI9zxc94tD2K0"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2023-08-01 04:46:36",
       "album": {
+        "name": "Orange, You\u2019re Not a Joke to Me!",
+        "url": "https://open.spotify.com/album/1dmR4oRQ2rGx8uOVN0Ml6o"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 220069,
+      "name": "Orange, You\u2019re Not a Joke to Me!",
+      "url": "https://open.spotify.com/track/6eAVfkbRov3Md8RmQJrZb9"
+    },
+    {
+      "added_at": "2023-08-01 04:46:36",
+      "album": {
         "name": "Do You Think Of Me? (4.4)",
         "url": "https://open.spotify.com/album/3w43kNVamjK9eqQ2BJdB7V"
       },
@@ -807,6 +807,26 @@
       "duration_ms": 196293,
       "name": "Do You Think Of Me?",
       "url": "https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh"
+    },
+    {
+      "added_at": "2023-08-01 04:46:36",
+      "album": {
+        "name": "- x - = +",
+        "url": "https://open.spotify.com/album/29UkENf2I78Np78nSQoKY7"
+      },
+      "artists": [
+        {
+          "name": "UNE",
+          "url": "https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS"
+        },
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
+        }
+      ],
+      "duration_ms": 181946,
+      "name": "- x - = + (feat. CHOILB)",
+      "url": "https://open.spotify.com/track/4LX2qcAZ2fYIYIBovSSM9U"
     },
     {
       "added_at": "2023-08-01 04:46:36",
@@ -843,26 +863,6 @@
       "duration_ms": 222999,
       "name": "I Know Where The Rainbow has Fallen",
       "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
-    },
-    {
-      "added_at": "2023-08-01 04:46:36",
-      "album": {
-        "name": "- x - = +",
-        "url": "https://open.spotify.com/album/29UkENf2I78Np78nSQoKY7"
-      },
-      "artists": [
-        {
-          "name": "UNE",
-          "url": "https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS"
-        },
-        {
-          "name": "CHOILB",
-          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
-        }
-      ],
-      "duration_ms": 181946,
-      "name": "- x - = + (feat. CHOILB)",
-      "url": "https://open.spotify.com/track/4LX2qcAZ2fYIYIBovSSM9U"
     }
   ],
   "unique_name": "In The K-Indie",

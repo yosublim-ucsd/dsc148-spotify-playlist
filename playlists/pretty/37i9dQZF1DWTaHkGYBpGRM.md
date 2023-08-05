@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 
 > Long distance is hard, but true love knows no boundaries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,675 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,097 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 74 | [Stay With Me](https://open.spotify.com/track/3fxc2GDtIjDprOyMFABWDs) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Mission Bell](https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS) | 3:13 |
 | 75 | [And Counting…](https://open.spotify.com/track/2BzzOaMznrmLxrfAfXjgBJ) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Siberia](https://open.spotify.com/album/0JsiuNPYQLyK6luX5jLuRE) | 4:42 |
 
-Snapshot ID: `MCw2YWY2YTMyZDVjZTU4ZDQ4OTczZmMwYmRkZDgyZjA0NGIwOTQ1NDQ1`
+Snapshot ID: `MCwzMTkxNjU2M2NhZjg3Yjk5MGVjYzNjNzg0ZDQ0MTFmZWI3ZDJmZmE5`

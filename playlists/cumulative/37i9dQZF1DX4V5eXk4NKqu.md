@@ -2,7 +2,7 @@
 
 ### [Ultimate Latin Indie](https://open.spotify.com/playlist/37i9dQZF1DX4V5eXk4NKqu)
 
-> The best Latin Indie tracks right now, featuring Isla de Caras.
+> The best Latin Indie tracks right now, featuring Elsa y Elmar & Conociendo Rusia.
 
 259 songs - 14 hr 53 min
 

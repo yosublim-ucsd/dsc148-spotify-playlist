@@ -1,12 +1,12 @@
 {
   "description": "the pearls of an oyster",
-  "num_followers": 123078,
+  "num_followers": 123084,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjBlYzYxYmM2MDU2NGE5YWJkZGQwYTIzNWNlY2YyZTJhMzZiNjBm",
+  "snapshot_id": "MCxlNmY5MWE4Y2YzNGJjYWFhOTJiMjUxZWRjZGVmMThmYTJlMDMwYjM4",
   "tracks": [
     {
       "added_at": "2023-08-03 22:00:00",
@@ -339,6 +339,22 @@
       "duration_ms": 177939,
       "name": "WE KNOW",
       "url": "https://open.spotify.com/track/4cMbQIEO1PS6xWYZX8aBEF"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Keep Me In Love",
+        "url": "https://open.spotify.com/album/7ETOuFfahxfhuMlKPYbFPt"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "duration_ms": 156034,
+      "name": "Keep Me In Love",
+      "url": "https://open.spotify.com/track/7j8mf8Qrvmhjl8Yr13iFr7"
     },
     {
       "added_at": "2023-08-03 22:00:00",

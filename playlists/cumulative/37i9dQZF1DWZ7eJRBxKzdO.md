@@ -4,7 +4,7 @@
 
 > The summer needs dance hits 😎☀️
 
-302 songs - 15 hr 13 min
+303 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Believe Me](https://open.spotify.com/track/44xO8889yUQHn70P73NILS) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Believe Me](https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E) | 3:08 | 2022-05-02 | 2023-03-02 |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-05-02 | 2023-04-07 |
 | [Belong \- Deepend Edit](https://open.spotify.com/track/68SRPSGrGrjiQmnRWxWoMa) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Belong](https://open.spotify.com/album/5aQSWYVasZG6bAdkjvyn78) | 2:40 | 2022-05-02 | 2022-07-29 |
-| [Better Times](https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Better Times](https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T) | 3:19 | 2023-07-13 |  |
+| [Better Times](https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Better Times](https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T) | 3:19 | 2023-07-13 | 2023-08-05 |
 | [Big \(feat\. Gunna\)](https://open.spotify.com/track/2aUzzdnKuHcAG8vLqoiAFi) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Bang](https://open.spotify.com/album/4xeVBTBwaVNQhUdIRC4G9s) | 2:36 | 2022-05-02 | 2022-07-27 |
 | [Boom](https://open.spotify.com/track/0YwlHzRYRU2LV2gtWklmD5) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Boom](https://open.spotify.com/album/7h9ximIgOSTQFoIlAD2UpI) | 2:19 | 2022-05-02 | 2022-07-29 |
 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 | 2022-07-28 | 2023-04-07 |
@@ -94,6 +94,7 @@
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-15 |  |
 | [El Incomprendido](https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:27 | 2022-06-10 | 2023-03-02 |
 | [Electric Love](https://open.spotify.com/track/02RIHCcIRIrFgRYzUizHlJ) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [Electric Love](https://open.spotify.com/album/0REnSVgLIRN89uekm2TwJl) | 2:24 | 2023-05-15 | 2023-07-18 |
+| [Emorio](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Emorio](https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9) | 2:43 | 2023-08-04 |  |
 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 | 2023-07-13 |  |
 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 | 2023-04-27 |  |
 | [Euphoria](https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Euphoria](https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB) | 2:38 | 2023-04-12 | 2023-07-07 |

@@ -4,7 +4,7 @@
 
 > Our editors’ picks for the best of Hip\-Hop in Canada in 2022\. Cover: Drake \#SpotifyWrapped
 
-183 songs - 9 hr 34 min
+184 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 | 2021-12-09 | 2022-12-01 |
 | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW) | 2:57 | 2021-12-09 | 2022-12-01 |
 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 | 2022-11-30 |  |
-| [Vince Carter](https://open.spotify.com/track/7FcxQ0Vo80VLmj2bbI4PDu) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Vince Carter](https://open.spotify.com/album/27Ov0gmzsleAzK9hH2VEUm) | 3:29 | 2022-11-30 |  |
+| [Vince Carter](https://open.spotify.com/track/2QiOWQ06XZHH1DADLoxL46) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Crazy Life of Sin](https://open.spotify.com/album/6yVI793K5iV8YvM1251KhV) | 3:29 | 2022-12-02 |  |
+| [Vince Carter](https://open.spotify.com/track/7FcxQ0Vo80VLmj2bbI4PDu) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Vince Carter](https://open.spotify.com/album/27Ov0gmzsleAzK9hH2VEUm) | 3:29 | 2022-11-30 | 2023-08-05 |
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2021-12-09 | 2022-12-01 |
 | [WATERBOYZ \(with JID & J\. Cole\)](https://open.spotify.com/track/1KyXCd04yHni5pMGFwgzuE) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 5:03 | 2022-11-30 |  |
 | [Wave Gods](https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Magic](https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT) | 3:10 | 2022-11-30 |  |

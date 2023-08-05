@@ -4,7 +4,7 @@
 
 > The K\-Pop idols who started it all from 90's \- 10's\. \(90년대부터 2010년대까지 케이팝 아이돌 필수곡들을 즐겨보세요!\)
 
-181 songs - 11 hr 7 min
+183 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Dreams Come True](https://open.spotify.com/track/6whFRgwg7je2SYzpSfansM) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [SHOO\. EUGENE\. SEA \- The 2nd Album](https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl) | 4:05 | 2021-09-09 |  |
 | [Eternal Love](https://open.spotify.com/track/5Z9XEChtLbIozP1JQlEjFP) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [White](https://open.spotify.com/album/3R230pIzgmAoN9wP5M5DLi) | 4:09 | 2021-09-09 |  |
 | [Every End of the Day](https://open.spotify.com/track/5m2tbM2w8mG76uwFgla2iF) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Spring of Twenty](https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb) | 4:02 | 2021-09-09 |  |
+| [Familiar Face](https://open.spotify.com/track/7ox3wrRvfAhYJ20H23KkhZ) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [It's Raining](https://open.spotify.com/album/45ngiRidCweoSOwjcSsj0A) | 4:09 | 2021-09-09 |  |
 | [Fiction](https://open.spotify.com/track/69QlYqNJeZG14R4an2aoJv) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Fiction And Fact](https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s) | 3:54 | 2021-09-09 |  |
 | [Fogetten Love](https://open.spotify.com/track/4EpwZakcikSrgDCqcLXAok) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Click\-B 1st](https://open.spotify.com/album/1wD0a0lKZALago4fMCkoSA) | 4:01 | 2021-09-09 |  |
 | [Friday Night](https://open.spotify.com/track/7uTLsCiOqNGDgz6TewUMrM) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/0HxQ33W72bcEwuJgbMscvK) | 3:33 | 2021-09-09 | 2023-02-02 |
@@ -76,6 +77,7 @@
 | [History](https://open.spotify.com/track/5dpeWuKckXE4j1QPBc8rXl) | [EXO\-K](https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I) | [Mama \(The 1st Mini Album\)](https://open.spotify.com/album/5gjyCvsEEqcsYD7LqAK6kP) | 3:29 | 2021-09-09 | 2022-07-29 |
 | [Hoot](https://open.spotify.com/track/1uLBl4JvBl7bwSRkxmggkS) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Hoot \- The 3rd Mini Album](https://open.spotify.com/album/2qEugS42uGnquWJnufwjyg) | 3:19 | 2021-09-09 |  |
 | [Hope](https://open.spotify.com/track/0LW6E8rEAltX9Svci5M3Z1) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Resurrection \- The 3rd Album](https://open.spotify.com/album/0yJ02boB03UsjObzoXJ5O4) | 4:20 | 2021-09-09 |  |
+| [How to Run From the Sun \(Gtr.Remix\)](https://open.spotify.com/track/67A5HpruURs2HzdC9wAN7F) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [RAIN 2](https://open.spotify.com/album/0COc1yDwr8FL4dCcUQ6DWk) | 3:51 | 2021-09-09 |  |
 | [HUG](https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Hug](https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf) | 3:48 | 2021-09-09 |  |
 | [Hwanyoungmoon](https://open.spotify.com/track/0WI4YqBDb79uzP6w0wTYfP) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Challenge](https://open.spotify.com/album/04DpX5uY7gpPlWoWbrU1iP) | 4:03 | 2021-09-09 |  |
 | [I Am The Best](https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [I Am The Best](https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK) | 3:28 | 2021-09-09 |  |
@@ -185,9 +187,9 @@
 | [죽어도 못 보내](https://open.spotify.com/track/17IZCetcl6DzlIR1RnIGAn) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [죽어도 못 보내 Never Let You Go](https://open.spotify.com/album/1yPk5kh013RNIOyqM5Rt4L) | 3:15 | 2021-09-09 | 2022-07-29 |
 | [죽어도 못 보내](https://open.spotify.com/track/6bX31xvB4HeeUOMorR77oV) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [죽어도 못 보내 Never Let You Go](https://open.spotify.com/album/37Mz6EoieVepZzvLDL87I0) | 3:15 | 2021-09-09 |  |
 | [죽어도 못 보내](https://open.spotify.com/track/6PHctRrk4oCNORizN1TEbe) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [잘못했어](https://open.spotify.com/album/099crDGIwr2zDPjOqcInOP) | 3:15 | 2021-09-09 |  |
-| [지운 얼굴 \(Familiar Face\)](https://open.spotify.com/track/59CYOWfGI9HEtxv4b4sTvx) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [It's Raining](https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ) | 4:09 | 2021-09-09 |  |
+| [지운 얼굴 \(Familiar Face\)](https://open.spotify.com/track/59CYOWfGI9HEtxv4b4sTvx) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [It's Raining](https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ) | 4:09 | 2021-09-09 | 2023-08-05 |
 | [촛불하나 One Candle](https://open.spotify.com/track/6A1uiSNxlOU8sndZRh9oZB) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 3](https://open.spotify.com/album/0D2zCQSe7KW2PEcwadf9RY) | 3:31 | 2021-09-09 |  |
-| [태양을 피하는 방법 How to Run From the Sun \(Gtr.Remix\)](https://open.spotify.com/track/2ESHlCrJsHzgx8XL1MCkFo) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [RAIN 2](https://open.spotify.com/album/7gjMBUCENFdEPZwSlVW1gE) | 3:51 | 2021-09-09 |  |
+| [태양을 피하는 방법 How to Run From the Sun \(Gtr.Remix\)](https://open.spotify.com/track/2ESHlCrJsHzgx8XL1MCkFo) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [RAIN 2](https://open.spotify.com/album/7gjMBUCENFdEPZwSlVW1gE) | 3:51 | 2021-09-09 | 2023-08-05 |
 | [파도](https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:11 | 2021-09-09 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

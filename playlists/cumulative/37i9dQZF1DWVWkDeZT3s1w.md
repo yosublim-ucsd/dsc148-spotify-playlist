@@ -4,12 +4,13 @@
 
 > Grandes relatos de toque reflexivo y visión consciente\. Cancerbero en portada.
 
-80 songs - 5 hr 10 min
+82 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [104](https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku) | [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [104](https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy) | 3:08 | 2023-04-14 |  |
-| [A Dónde se Fue la Conciencia](https://open.spotify.com/track/4A6PTcjJV25kngEkLFPVDp) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:36 | 2023-04-14 |  |
+| [A Dónde se Fue la Conciencia](https://open.spotify.com/track/2ZCqgI8n7N2DCtQeMYWEdG) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Mucho Rap](https://open.spotify.com/album/0X1aokGClrfT42f3ThnLjJ) | 3:36 | 2023-07-21 |  |
+| [A Dónde se Fue la Conciencia](https://open.spotify.com/track/4A6PTcjJV25kngEkLFPVDp) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:36 | 2023-04-14 | 2023-08-05 |
 | [A Veces](https://open.spotify.com/track/65gSO7jf5gVDJnaBR1oPJp) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Inedito](https://open.spotify.com/album/17nz7wHFEn8AwMecfph3Q9) | 2:47 | 2023-04-14 |  |
 | [Adentro](https://open.spotify.com/track/5NOtC9vnvCuEy6IaNflffX) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [MultiViral](https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng) | 4:52 | 2023-04-14 |  |
 | [Afirmativo](https://open.spotify.com/track/51wBfbujPBrOsovd65uysU) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Señor Marrano](https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG) | [Umami](https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m) | 3:10 | 2023-04-14 |  |
@@ -24,7 +25,8 @@
 | [Chico Problemático](https://open.spotify.com/track/40lYti7pxLGRqpwIxRui95) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Poesia Difusa](https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG) | 5:16 | 2023-04-14 |  |
 | [Chismecito](https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y), [La Negra MeXa](https://open.spotify.com/artist/0wF1oTllq50PkLfPBjiQDh) | [Chismecito](https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2) | 3:37 | 2023-04-14 |  |
 | [Cinismo](https://open.spotify.com/track/7MkRllZkWyzhJdngE7Twqn) | [Dante](https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX) | [Cinismo](https://open.spotify.com/album/4Txc6DkgtPrb6egjusUk3M) | 2:26 | 2023-04-14 |  |
-| [Cuando Vayas Conmigo](https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 4:19 | 2023-04-14 |  |
+| [Cuando Vayas Conmigo](https://open.spotify.com/track/071HnPbONTJFt910856pf5) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Rap Epico](https://open.spotify.com/album/2fSq489Gg9Z4HfIUESHuBX) | 4:19 | 2023-07-21 |  |
+| [Cuando Vayas Conmigo](https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 4:19 | 2023-04-14 | 2023-08-05 |
 | [Cuarto De Siglo](https://open.spotify.com/track/3eTgegtLXfjpr0IY2E2AKg) | [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX), [Zaheed Santana](https://open.spotify.com/artist/4U6A7XTrz6J9D7FKHvkCMQ), [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Cuarto De Siglo](https://open.spotify.com/album/22VXblIBThalOjB8xPsXWJ) | 4:04 | 2023-07-21 |  |
 | [De Mi Muerte](https://open.spotify.com/track/14OCjeksnltHj3ttKoiwtz) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 3:41 | 2023-04-14 |  |
 | [De Pie](https://open.spotify.com/track/5ZMaPmxqbpSrNtVAW9Y0ny) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [De Pie](https://open.spotify.com/album/2TvpFp1QIvnAlPpejVMcVY) | 4:28 | 2023-04-14 |  |

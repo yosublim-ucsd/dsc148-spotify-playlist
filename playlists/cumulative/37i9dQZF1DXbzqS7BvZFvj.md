@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Travis Scott
 
-258 songs - 13 hr 23 min
+259 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Ma Boy](https://open.spotify.com/track/1kn9JsBWIw6qREhDWw0lKb) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [Ma Boy](https://open.spotify.com/album/0UqZZstwaKzBuNLXPZANxa) | 2:46 | 2023-03-16 | 2023-06-23 |
 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 | 2023-03-16 | 2023-03-31 |
 | [Make My Day \(with David Guetta\)](https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:15 | 2023-06-22 |  |
+| [Make Up Your Mind](https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Make Up Your Mind](https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80) | 2:52 | 2023-08-03 |  |
 | [Mbappe \- Remix](https://open.spotify.com/track/21ocGfx68UnoPH89sXkhzu) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Mbappe \(Remix\)](https://open.spotify.com/album/1AJXKqkuN7bzSGBWcpiE2h) | 3:57 | 2023-03-16 | 2023-05-26 |
 | [Me & You](https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Me & You](https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42) | 3:07 | 2023-03-16 | 2023-05-26 |
 | [MILLIONS](https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:52 | 2023-07-28 |  |
@@ -189,7 +190,7 @@
 | [Radioactive](https://open.spotify.com/track/79vX1IZRXami6H0rIkED9T) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Radioactive](https://open.spotify.com/album/047ykT34pfdijw5HeU02cy) | 3:04 | 2023-03-16 | 2023-03-31 |
 | [Raining \(feat\. Yung Bleu & Murda Beatz\)](https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Raining](https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo) | 3:42 | 2023-03-16 | 2023-03-25 |
 | [RATATA](https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:06 | 2023-03-16 | 2023-07-29 |
-| [Realest \(with Eminem\)](https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB) | [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Ezekiel "Slashmouth" Miller](https://open.spotify.com/artist/3oFDmAWLkcObKnmOeaGpSa), [Mike Strange](https://open.spotify.com/artist/3aMlmfmaVX2q34LRfIgB3O) | [Realest \(with Eminem\)](https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P) | 3:37 | 2023-08-03 |  |
+| [Realest \(with Eminem\)](https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB) | [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Realest \(with Eminem\)](https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P) | 3:37 | 2023-08-03 |  |
 | [Realism VS Idealism](https://open.spotify.com/track/7qMjBggnUBWYnyCAcECkHh) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [YIN YANG TAPES: Spring Season \(1989\-1990\)](https://open.spotify.com/album/16PcU977zDCfmFY5crNgBB) | 2:38 | 2023-05-04 | 2023-06-16 |
 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 | 2023-03-16 | 2023-06-23 |
 | [Rich Problems](https://open.spotify.com/track/5wCqSOUqA8orGqTVqei04h) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Rich Problems](https://open.spotify.com/album/3umyqwAkITHw17JJjODAcv) | 3:54 | 2023-06-15 | 2023-07-01 |

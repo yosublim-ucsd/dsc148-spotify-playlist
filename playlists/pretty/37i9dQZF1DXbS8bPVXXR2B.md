@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,345 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,466 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 38 | [You Could Be More As You Are](https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY) | [Saâda Bonaire](https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg) | [Saâda Bonaire](https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8) | 5:56 |
 | 39 | [Voices Inside My Head](https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 3:53 |
 | 40 | [I Zimbra \- 2005 Remaster](https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 3:08 |
-| 41 | [Enjoy Your Life](https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [I Want to Feel Your Love](https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk) | 6:18 |
-| 42 | [Keep It Up](https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz) | [Milton Wright](https://open.spotify.com/artist/4eG9wzNICW94sPzkTP5MYt) | [Friends and Buddies](https://open.spotify.com/album/1JbsHszs163wrSgCpJUpxa) | 4:12 |
+| 41 | [Keep It Up](https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz) | [Milton Wright](https://open.spotify.com/artist/4eG9wzNICW94sPzkTP5MYt) | [Friends and Buddies](https://open.spotify.com/album/1JbsHszs163wrSgCpJUpxa) | 4:12 |
+| 42 | [Enjoy Your Life](https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [I Want to Feel Your Love](https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk) | 6:18 |
 | 43 | [Aaj Shanibar](https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA) | [Rupa](https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh) | [Disco Jazz](https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt) | 7:59 |
 | 44 | [Why I Came to California](https://open.spotify.com/track/6jZXAOHmvseRsqxYCbexTJ) | [Leon Ware](https://open.spotify.com/artist/3DwcX6M6GF3KGWbVmfNp8G) | [Leon Ware](https://open.spotify.com/album/4kMmUIUc2k7H3t7DimHhqE) | 4:10 |
 | 45 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
@@ -92,14 +92,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 82 | [Groovin' You \- 12" Version](https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [Groovin' You \(Expanded Edition\)](https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9) | 6:16 |
 | 83 | [You're a Melody \- Extended Disco Version](https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX) | [Aged In Harmony](https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL) | [You're a Melody](https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt) | 4:19 |
 | 84 | [Haven't You Heard \- 12" Version](https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 7:18 |
-| 85 | [Kiss Me Again \- Mix Edit](https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ) | [Dinosaur](https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu) | [Kiss Me Again](https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK) | 3:01 |
-| 86 | [Stop Your Life \- Original Album](https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz) | [Ago](https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx) | [For You \(LP\)](https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n) | 4:38 |
+| 85 | [Stop Your Life \- Original Album](https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz) | [Ago](https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx) | [For You \(LP\)](https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n) | 4:38 |
+| 86 | [Kiss Me Again \- Mix Edit](https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ) | [Dinosaur](https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu) | [Kiss Me Again](https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK) | 3:01 |
 | 87 | [Hold Tight \- Full Length Album Mix](https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Magical Night \(Greatest Hits Special Price\)](https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f) | 4:28 |
 | 88 | [Agb'oju L'ogun \- Original 12" Version](https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV) | [Shina Williams & His African Percussionists](https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe) | [Agb'oju L'ogun](https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk) | 11:42 |
 | 89 | [Today Is the Day \- Linkwood Chop](https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan) | [Frazelle](https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn) | [Watchin Out](https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf) | 5:20 |
 | 90 | [Classy Lady \- Remastered Version](https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Paradise \(Remastered\)](https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3) | 5:31 |
-| 91 | [On the Beat \- Full Length Mix](https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o) | [The B\. B\. & Q\. Band](https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb) | [The Brooklyn, Bronx & Queens Band](https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy) | 5:57 |
-| 92 | [Brothers on the Slide \- Brooklyn Mix](https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP) | [Patchworks](https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo) | [Early Recordings](https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs) | 5:30 |
+| 91 | [Brothers on the Slide \- Brooklyn Mix](https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP) | [Patchworks](https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo) | [Early Recordings](https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs) | 5:30 |
+| 92 | [On the Beat \- Full Length Mix](https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o) | [The B\. B\. & Q\. Band](https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb) | [The Brooklyn, Bronx & Queens Band](https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy) | 5:57 |
 | 93 | [Disco Fantasy](https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE) | [Rahaan](https://open.spotify.com/artist/1LxBgL2B6o2WASVrFPx0Iu) | [Chicago Service](https://open.spotify.com/album/098htENdjaFFSWNegkNoWe) | 5:28 |
 | 94 | [When You Wake up Tomorrow](https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Chance](https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB) | 6:46 |
 | 95 | [Family \- Stereo Version](https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX) | [Hubert Laws](https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv) | [Family](https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW) | 7:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Saturday Jam](https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD) | [Benedek](https://open.spotify.com/artist/0VGUa1xtVL7g1srvyzbY7t), [K\-Maxx](https://open.spotify.com/artist/5RSuS2evjc9IGjLJUt1iZR), [Sasac](https://open.spotify.com/artist/0ZfeJXXkQPkG21bGk3NTLt), [Turquoise Summers](https://open.spotify.com/artist/3m8JJr3ASeNiSHK85P4o4z), [Buscrates 16 Bit Ensemble](https://open.spotify.com/artist/2w04ct5AHBWI3AxA6PbuEb), [East Liberty Quarters](https://open.spotify.com/artist/4vJ4MIyanwJLkDECKh0Dik), [Henning](https://open.spotify.com/artist/5ppN1E00CZsVGCmTlAOtQO), [TONI CLARKE](https://open.spotify.com/artist/6vyhMj9yU8TGz3VfHfzNsB) | [Raw Silk Vol\. 1](https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D) | 4:11 |
 | 100 | [Dancing in Outer Space](https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH) | [Atmosfear](https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF) | [Dancing in Outer Space](https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r) | 9:37 |
 
-Snapshot ID: `MCw3YzU0ZDM0MDgwZmZhMzY0NjQ1YjE5ODYwNDY3YzdjZGVmNGY4MTdm`
+Snapshot ID: `MCw4ZGExODEwZTg3ODJmZmQ5NzNlODljNWRlMmIyM2NjMjBjYzY4YzRh`

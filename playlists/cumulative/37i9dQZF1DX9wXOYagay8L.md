@@ -4,7 +4,7 @@
 
 > Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby?si=pSICZ7dxTvWRYkxwudL77Q">The Joy</a>
 
-428 songs - 1 day 6 hr 42 min
+429 songs - 1 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Ilanga](https://open.spotify.com/track/2HmBIq2pmNSjCmNNeZMJjM) | [Buhlebendalo](https://open.spotify.com/artist/1Nu3lDd06uk8y73zM6r6MW), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Deeply Rooted](https://open.spotify.com/album/4lOWybiZPn6y3T47b6b8JZ) | 3:45 | 2021-12-28 | 2022-02-18 |
 | [Imali](https://open.spotify.com/track/2sSGjEvNGSBS6I0TLI0jrq) | [Mandz Not Hot](https://open.spotify.com/artist/6xXFCjnXMs9UCiyNcegZlw), [S.eemah\_x](https://open.spotify.com/artist/0aNCy4QYgTmEt8dos9toPF), [Zwano](https://open.spotify.com/artist/0mDqFvO5UCoFlUdTIKx9tq) | [Imali](https://open.spotify.com/album/2k6F7Etup6B2g3MobHeQSz) | 4:02 | 2023-02-10 | 2023-02-24 |
 | [Imali](https://open.spotify.com/track/7GX1WWRjoDGeYTOLASuEnq) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM) | [Imali](https://open.spotify.com/album/7sHBHQnKV7WTD0XHTg7Hue) | 4:18 | 2022-06-30 | 2022-09-10 |
-| [Imali](https://open.spotify.com/track/0POdzGSgOhsL9oPX4ERj6q) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/3UkDRVrOBRrMvoMsb0EGim) | 2:42 | 2023-08-03 |  |
+| [Imali](https://open.spotify.com/track/0POdzGSgOhsL9oPX4ERj6q) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/3UkDRVrOBRrMvoMsb0EGim) | 2:42 | 2023-08-03 | 2023-08-05 |
+| [Imali](https://open.spotify.com/track/3Z9lmDapyI88AyHZ8utTf1) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/1bgbyxRaOGJaHu4Qze6rle) | 2:42 | 2023-08-03 |  |
 | [iMali](https://open.spotify.com/track/2l9I09sKsMmOFqufJJZooe) | [Zamoh Cofi](https://open.spotify.com/artist/31BGgielHC0uRLARr7eymC), [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v) | [iMali](https://open.spotify.com/album/6Yxx6c9bvMzuBMV1ZUTs5C) | 4:48 | 2022-03-31 | 2022-04-09 |
 | [Imbalela](https://open.spotify.com/track/2xZ9hz4W0y2NVK2kc3PucV) | [Joliza](https://open.spotify.com/artist/7e5deS367zGIFdnHNX5Qbp) | [Bhacasoul Experience](https://open.spotify.com/album/3iH3Z4Q82tp4GCIfeOWZ5D) | 3:51 | 2023-05-05 | 2023-05-26 |
 | [Imbokodo](https://open.spotify.com/track/3tNLaDHmT2yRnPLaA0i5Ge) | [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew), [Isaiah Everest](https://open.spotify.com/artist/19wJ1doMIEHc1HcKAO0T6O) | [Imbokodo](https://open.spotify.com/album/3oiZf1koktAcsGHgXxTof4) | 5:21 | 2022-03-24 | 2022-04-01 |

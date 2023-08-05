@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Slow J.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,497 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,543 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 29 | [Ride \(feat\. Bárbara Bandeira\)](https://open.spotify.com/track/0GNgrdn3uuVzssBxJzdpcF) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x), [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ) | [19.2k](https://open.spotify.com/album/4R91ZYsYt4fDohOjgHzM2K) | 3:13 |
 | 30 | [Ar](https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Gota D'Espaço](https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ) | 3:56 |
 | 31 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
-| 32 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
+| 32 | [Sola](https://open.spotify.com/track/2WhXmta31SYoJm7xMCmMWN) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5) | [Sola](https://open.spotify.com/album/5d7DGxDhoMuCwSuLpremAd) | 3:14 |
 | 33 | [Farda](https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Farda](https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs) | 3:09 |
 | 34 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 |
-| 35 | [Sola](https://open.spotify.com/track/2WhXmta31SYoJm7xMCmMWN) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5) | [Sola](https://open.spotify.com/album/5d7DGxDhoMuCwSuLpremAd) | 3:14 |
+| 35 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
 | 36 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 37 | [VOLTA](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [VOLTA](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 |
 | 38 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 |
@@ -58,17 +58,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 48 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
 | 49 | [Efeito](https://open.spotify.com/track/6OEb5eXS7WyHw0SNqXXIYz) | [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Efeito](https://open.spotify.com/album/6e0F9bKM9LJSk5X15PFNKO) | 2:31 |
 | 50 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
-| 51 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
-| 52 | [Linda](https://open.spotify.com/track/6efl1kQkelA67zwWlFINd0) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Linda](https://open.spotify.com/album/3CU34m1I3EBP0Tq7lOIlTH) | 2:32 |
+| 51 | [Linda](https://open.spotify.com/track/6efl1kQkelA67zwWlFINd0) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Linda](https://open.spotify.com/album/3CU34m1I3EBP0Tq7lOIlTH) | 2:32 |
+| 52 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
 | 53 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
 | 54 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 |
 | 55 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
 | 56 | [Silêncio](https://open.spotify.com/track/4h6Umf1vvnvtdk7T6swi8K) | [Gil Semedo](https://open.spotify.com/artist/09vnXoFkZgz4LpDF0xWULu), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Silêncio](https://open.spotify.com/album/6eE9QWNodTwpLZTJ1SuYK8) | 2:16 |
 | 57 | [Situation](https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y) | [Situation](https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R) | 4:05 |
 | 58 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
-| 59 | [Não Me Leves a Mal](https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Não Me Leves a Mal](https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP) | 4:00 |
-| 60 | [Low Battery](https://open.spotify.com/track/1ifKnE1zRakLFvAZXhHip4) | [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [Low Battery](https://open.spotify.com/album/7MAZwo9FGDXWR98xQk8hov) | 2:33 |
-| 61 | [Fazer\-te sonhar](https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Fazer\-te sonhar](https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK) | 3:48 |
+| 59 | [Low Battery](https://open.spotify.com/track/1ifKnE1zRakLFvAZXhHip4) | [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [Low Battery](https://open.spotify.com/album/7MAZwo9FGDXWR98xQk8hov) | 2:33 |
+| 60 | [Fazer\-te sonhar](https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Fazer\-te sonhar](https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK) | 3:48 |
+| 61 | [Não Me Leves a Mal](https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Não Me Leves a Mal](https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP) | 4:00 |
 | 62 | [Musa](https://open.spotify.com/track/5bNmKRaW9AISMPNeDoz0B3) | [GBrïsido](https://open.spotify.com/artist/3QmMiG6180GqdDrl35xqRy) | [Musa](https://open.spotify.com/album/3LP4aTOzSQ1ZVVVZ7hV7ck) | 3:32 |
 | 63 | [Backstage](https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:16 |
 | 64 | [Crime Scene](https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Crime Scene](https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7) | 2:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 69 | [100 Maneiras](https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8) | [xtussy](https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI) | [100 Maneiras](https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD) | 4:00 |
 | 70 | [Alter Ego](https://open.spotify.com/track/1bxBGvKAVZ3VM0MZvCaMiL) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Alter Ego](https://open.spotify.com/album/3ljjAqXl7v44JEnRpYjhMY) | 2:21 |
 
-Snapshot ID: `MCwyOWMzMzRmOGMxYzRmOTc4NjIzYTA1ODhhODRlYTdjNGRhNjFmYzEz`
+Snapshot ID: `MCw1OWY2NDZmODQ0M2Y4OTI2MjY3OWQxNjMxOTM1OGU2Y2IxZTdlNzRh`

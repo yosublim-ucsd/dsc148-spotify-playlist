@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby?si=pSICZ7dxTvWRYkxwudL77Q">The Joy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,724 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,842 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 2 | [Ka Valungu](https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT) | [Tebza De DJ](https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez), [DJ Nomza The King](https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie) | [Ka Valungu](https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU) | 5:00 |
 | 3 | [Sayona](https://open.spotify.com/track/05A1KzxTLvShctiD0Bsydd) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Ukhamba](https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP) | 3:47 |
 | 4 | [ZOJIKI IZINTO](https://open.spotify.com/track/2up5Dd9llCPQT87KNaJ975) | [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN), [Fezeka Dlamini](https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7) | [ZOJIKI IZINTO](https://open.spotify.com/album/5s9e6m4cbXxrrtTry3EAyo) | 4:18 |
-| 5 | [Imali](https://open.spotify.com/track/0POdzGSgOhsL9oPX4ERj6q) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/3UkDRVrOBRrMvoMsb0EGim) | 2:42 |
+| 5 | [Imali](https://open.spotify.com/track/3Z9lmDapyI88AyHZ8utTf1) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/1bgbyxRaOGJaHu4Qze6rle) | 2:42 |
 | 6 | [Malume \(Nta Swi Byela Mani Revisit\)](https://open.spotify.com/track/0Wa6EyiyMpByx1vmufeSc0) | [Elvirgo](https://open.spotify.com/artist/1gj73tTSgIEMqveg9QsO4c), [Chicco](https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f), [TallexQ](https://open.spotify.com/artist/7dlrsjt50VftIVkYahlIio) | [Malume \(Nta Swi Byela Mani Revisit\)](https://open.spotify.com/album/6lmPvjVFVe9K1Q3NMTNHkz) | 4:33 |
 | 7 | [Umbayimbayi](https://open.spotify.com/track/7cICJP7hsjo6e7JZgvNLiO) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Umbayimbayi](https://open.spotify.com/album/3ozczTzDSjr8zjBpCsN7BW) | 3:50 |
 | 8 | [Impi Yothando](https://open.spotify.com/track/4K5GlpP2WdwYgZAjDiTbZ5) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Impi Yothando](https://open.spotify.com/album/2qkOyi4KcUglFyXnlYGZPD) | 4:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 49 | [Senatla](https://open.spotify.com/track/4RyrENkwf8yYHYoPZD7ZqJ) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw) | [Senatla](https://open.spotify.com/album/0fnc3yAtMbL3WHBDAnFC2W) | 2:41 |
 | 50 | [Angsakhoni](https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh) | [Angsakhoni](https://open.spotify.com/album/5BqRwQhNm7LwO4n9NcjzjO) | 4:56 |
 
-Snapshot ID: `MCw5OGY1MTRhYTRiNzdiZDk5NzYyZWM0ZTIzOTJjYTFlMzZiNjJmODcx`
+Snapshot ID: `MCw2ZDRhZmUzZDU0MDk3YTk5OTVkYmJhOGU5YWIyZGNhNWJmOThhNmJk`

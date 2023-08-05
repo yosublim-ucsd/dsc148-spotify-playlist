@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,880 likes - 70 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,894 likes - 70 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 19 | [Dear Ko \(To Ko the Regt\)](https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 3:11 |
 | 20 | [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 |
 | 21 | [The Unquestioned Answer](https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 6:30 |
-| 22 | [Forest Trails](https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Forest Trails](https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY) | 5:46 |
-| 23 | [Cabaraú](https://open.spotify.com/track/0DbDPy9K2mLuIBE6ai2XaU) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Cabaraú](https://open.spotify.com/album/4yxOkUTHo8ZBU5LI6Ltmt1) | 6:32 |
+| 22 | [Cabaraú](https://open.spotify.com/track/0DbDPy9K2mLuIBE6ai2XaU) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Cabaraú](https://open.spotify.com/album/4yxOkUTHo8ZBU5LI6Ltmt1) | 6:32 |
+| 23 | [Forest Trails](https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Forest Trails](https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY) | 5:46 |
 | 24 | [Water Memory 1](https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 7:28 |
 | 25 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 |
 | 26 | [Ultramarine](https://open.spotify.com/track/121tcNEsqszGVrJjViZFQR) | [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Cobalt Blue](https://open.spotify.com/album/5YjTUXG87pwWU4CtbdcA1i) | 4:34 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 33 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 |
 | 34 | [Water Soaked In Forever](https://open.spotify.com/track/2Wu0k9sazKppf4ihMI1Vfh) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Beautiful You](https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m) | 6:10 |
 | 35 | [Palace Posy](https://open.spotify.com/track/2nJB27OfeX9Z5ROl3uZngi) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 4:05 |
-| 36 | [I've Got What I Need](https://open.spotify.com/track/0ImUE2UGVyi9E35qqwjlZQ) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [SUNDAYS](https://open.spotify.com/album/4WRizgwOwSZzABpVHBMriq) | 4:54 |
-| 37 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
+| 36 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
+| 37 | [I've Got What I Need](https://open.spotify.com/track/0ImUE2UGVyi9E35qqwjlZQ) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [SUNDAYS](https://open.spotify.com/album/4WRizgwOwSZzABpVHBMriq) | 4:54 |
 | 38 | [Caracas Night September 11, 1975](https://open.spotify.com/track/7dUACqKWi92PQti04r4cLO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 2:07 |
 | 39 | [Omprovo](https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 2:40 |
 | 40 | [ME](https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we), [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Comme Un Seul Narcisse](https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4) | 4:21 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 69 | [Ba\-benzélé](https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 6:17 |
 | 70 | [entropy & kindness](https://open.spotify.com/track/5CJwBWeHLCSAKtLaMTrnfO) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG), [Lara Sarkissian](https://open.spotify.com/artist/6ctLrB5PwqC8earV2J39qW) | [entropy & kindness](https://open.spotify.com/album/2ol7vC6iwa2AkKD5RuUMAX) | 4:21 |
 
-Snapshot ID: `MCw1MDRhYjkzYTg2MDI4MmI1MjBhY2E1MmRiNjAyZTEyZDllZTU2Yzlh`
+Snapshot ID: `MCw2ZmQwNWVmMzJmZGYzNjJjNjUwY2YyZTM2NmIwOTFiMjhiOTU2MmYx`

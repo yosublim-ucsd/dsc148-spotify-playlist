@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq?si=Z1m7gk8jQWuLa1Uov\_3KNQ">VAN WEST</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,712 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,763 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 9 | [Hey Jy](https://open.spotify.com/track/0xjkqCaJ1EbdcFUz9rnoCI) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Hey Jy](https://open.spotify.com/album/3c1a2CHREGxoqHBU8ml7nC) | 3:20 |
 | 10 | [Jou Oë Vertel Die Storie](https://open.spotify.com/track/5Bb6mEpK2rMxKVzh1WwpVy) | [Willem van der Ryst](https://open.spotify.com/artist/0cybbvrpFJAkzdexUvXHH1) | [Jou Oë Vertel Die Storie](https://open.spotify.com/album/5uNFYx1OFleLqmoGcybgrl) | 3:29 |
 | 11 | [Wat nou?](https://open.spotify.com/track/736z0fpLePveyPW7cdzCDJ) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Wat nou?](https://open.spotify.com/album/1Jj5WCIH5SQXLKTfJ3VLwM) | 2:38 |
-| 12 | [Bokke](https://open.spotify.com/track/5toM4ksSArlIpZROh2Ca9Y) | [Die Boeries](https://open.spotify.com/artist/0Xr9UsuVuJ3Uye9rIS0aO7) | [Bokke](https://open.spotify.com/album/54PjeSbxx8bwpbyr4k6GUe) | 3:03 |
+| 12 | [Bokke](https://open.spotify.com/track/6KMGaq5XfHUdoskkERbMNA) | [Die Boeries](https://open.spotify.com/artist/0Xr9UsuVuJ3Uye9rIS0aO7) | [Bokke](https://open.spotify.com/album/3YdUdSCwvif0Begq1wn2qm) | 3:03 |
 | 13 | [Jonk & Danig](https://open.spotify.com/track/3bCe2UoqMw71ywaWjMH3np) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Jonk & Danig](https://open.spotify.com/album/0vt8Hl0FYF1ajrgrUY1hvF) | 3:10 |
 | 14 | [Moeg](https://open.spotify.com/track/0t9uLw0ZL63rJPSQTBH94z) | [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Moeg](https://open.spotify.com/album/1IZOC8YN6GFWgRdsZGrtVr) | 3:56 |
 | 15 | [Stockholm Sindroom](https://open.spotify.com/track/3rSBfEao6GYdf9UwzY4bPX) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Stockholm Sindroom](https://open.spotify.com/album/57ijDsuH6BoMrIRI76cGD7) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Sêra Sê Ja!](https://open.spotify.com/track/2FxVzofHY8UuSUoSC6SS6x) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Sêra Sê Ja!](https://open.spotify.com/album/1Hky0XfrgZQSSyDBx3LB2V) | 3:24 |
 | 50 | [Klein Botteltjie Groot Gif](https://open.spotify.com/track/5GXXuXipaXZpZxdfieXzSg) | [Anzélle](https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs) | [Klein Botteltjie Groot Gif](https://open.spotify.com/album/2DwrLebY1DbcGMT8QfGeOD) | 3:29 |
 
-Snapshot ID: `MCw5ODFjNTIzNGExMGE0Mjg1Y2Y2YmVhMDgxZTI3YzBhZjI1YzAyNTRj`
+Snapshot ID: `MCxiMTgyZjkxZjBjNWM1MjZlM2M1YTQ2MDQ0OWU0MTViZDg1NTY0Zjlj`

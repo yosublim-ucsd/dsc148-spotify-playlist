@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 33431,
+  "num_followers": 33532,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjFjZGI1NzQxNmE2NjRiNTY1MzhlYzhhNGFhMmZiYzljMjZkZDdk",
+  "snapshot_id": "MCwzNmQ5MTM0Zjc5MThlM2EyMjIxNDlkOWMzOGRmMGYyZGFiNzRmNTQ1",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Mandar All Day 001",
-        "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
-      },
-      "artists": [
-        {
-          "name": "Leo Pol",
-          "url": "https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz"
-        }
-      ],
-      "duration_ms": 278110,
-      "name": "Chantal",
-      "url": "https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Mars 500",
         "url": "https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Mandar All Day 001",
+        "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
+      },
+      "artists": [
+        {
+          "name": "Leo Pol",
+          "url": "https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz"
+        }
+      ],
+      "duration_ms": 278110,
+      "name": "Chantal",
+      "url": "https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/0RHvIL5YrBdDp5RmSbAwZg"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 231213,
       "name": "Rap-O Clap-O - 2013 - Remaster",
       "url": "https://open.spotify.com/track/3zjPJnExupCwiukKM27m9q"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Walking Away",
+        "url": "https://open.spotify.com/album/2WJYEyGr2q6xUt0jyDuJq1"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        }
+      ],
+      "duration_ms": 181426,
+      "name": "Walking Away",
+      "url": "https://open.spotify.com/track/5vhNn6ZfEXbFMw0qR6Grpn"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -735,38 +751,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Walking Away",
-        "url": "https://open.spotify.com/album/2WJYEyGr2q6xUt0jyDuJq1"
-      },
-      "artists": [
-        {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
-        }
-      ],
-      "duration_ms": 181426,
-      "name": "Walking Away",
-      "url": "https://open.spotify.com/track/5vhNn6ZfEXbFMw0qR6Grpn"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Scented Trip",
-        "url": "https://open.spotify.com/album/12Z1TMLUbMqeeivrEijzha"
-      },
-      "artists": [
-        {
-          "name": "Patrick Holland",
-          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
-        }
-      ],
-      "duration_ms": 380149,
-      "name": "Morning Shift",
-      "url": "https://open.spotify.com/track/3zleqNZf1vJabDXJKfAE9G"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Raw Cuts #3",
         "url": "https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 414359,
       "name": "Raw Cuts #3",
       "url": "https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Scented Trip",
+        "url": "https://open.spotify.com/album/12Z1TMLUbMqeeivrEijzha"
+      },
+      "artists": [
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        }
+      ],
+      "duration_ms": 380149,
+      "name": "Morning Shift",
+      "url": "https://open.spotify.com/track/3zleqNZf1vJabDXJKfAE9G"
     },
     {
       "added_at": "2023-07-28 04:01:00",

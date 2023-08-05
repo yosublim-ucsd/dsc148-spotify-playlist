@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,513 likes - 34 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,516 likes - 34 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,16 +31,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 | 21 | [Turquoise Hexagon Sun](https://open.spotify.com/track/7F3MjS1b1xHeaeXyBTvCE0) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 5:07 |
 | 22 | [Chromakey Dreamcoat](https://open.spotify.com/track/6ebsOJuLxaE2ArKhm1DMqP) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 5:47 |
 | 23 | [White Cyclosa](https://open.spotify.com/track/7F2r3g9H42ZawwrOJJrDMz) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 3:13 |
-| 24 | [The Smallest Weird Number](https://open.spotify.com/track/4EI8Hj2EeAUdvNMnY52PMj) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 1:17 |
-| 25 | [Everything You Do Is A Balloon](https://open.spotify.com/track/2IBgNoMfGUTBEM3HGAKwrR) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/7khd4wP2FmUO6uPVSQ9r8y) | 6:59 |
+| 24 | [Everything You Do Is A Balloon](https://open.spotify.com/track/2IBgNoMfGUTBEM3HGAKwrR) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/7khd4wP2FmUO6uPVSQ9r8y) | 6:59 |
+| 25 | [The Smallest Weird Number](https://open.spotify.com/track/4EI8Hj2EeAUdvNMnY52PMj) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 1:17 |
 | 26 | [Iced Cooly](https://open.spotify.com/track/10A5AbphZ1ibW6h4XaKokE) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/46YfeDd8YhuAcywdxZkRqf) | 2:22 |
 | 27 | [Cold Earth](https://open.spotify.com/track/3D37FsVAqvQFAddR3JcJ3e) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 3:42 |
-| 28 | [Music Is Math](https://open.spotify.com/track/3MF9cjIlg3R9osw3SgRmEb) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 5:21 |
-| 29 | [Kid For Today](https://open.spotify.com/track/5jRkJXPo4SiPaTCNzn01X8) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:23 |
+| 28 | [Kid For Today](https://open.spotify.com/track/5jRkJXPo4SiPaTCNzn01X8) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:23 |
+| 29 | [Music Is Math](https://open.spotify.com/track/3MF9cjIlg3R9osw3SgRmEb) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 5:21 |
 | 30 | [Left Side Drive](https://open.spotify.com/track/3NrNukjXkShrtZSrA89Gc4) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/7DcHbfXY5HpmU2ltqCxc8c) | 5:20 |
 | 31 | [Telepath](https://open.spotify.com/track/6Z8bGnzoSNxuKEz70dJu6b) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 1:32 |
-| 32 | [In The Annexe](https://open.spotify.com/track/46VGk02ZLerhw2SdV953zV) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 1:22 |
-| 33 | [Amo Bishop Roden \[Chosen by Warp co\-founder Steve Beckett\]](https://open.spotify.com/track/7rthWzg7LMuXANxC0gaVKL) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:13 |
+| 32 | [Amo Bishop Roden \[Chosen by Warp co\-founder Steve Beckett\]](https://open.spotify.com/track/7rthWzg7LMuXANxC0gaVKL) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:13 |
+| 33 | [In The Annexe](https://open.spotify.com/track/46VGk02ZLerhw2SdV953zV) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 1:22 |
 | 34 | [Sixtyniner](https://open.spotify.com/track/77DwUe5ydUuDfSiurT0VCX) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/46YfeDd8YhuAcywdxZkRqf) | 5:17 |
 
-Snapshot ID: `MjgxODQ1MTMsMDAwMDAwMDA3ZmZmYmU5MWU0YWI0Y2Q3NTdhMzcwM2VhNmY1YjIwMQ==`
+Snapshot ID: `MjgxODYwODIsMDAwMDAwMDBlM2RhNTc0MTcxOGEwMzQ5YjZkZmJhZGY0ZWEzYTBiZg==`

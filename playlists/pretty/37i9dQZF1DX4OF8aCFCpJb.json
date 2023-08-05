@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 67638,
+  "num_followers": 67653,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGZlOTQxNzBkZWYzYzU3ODhiMzc5ZjM2MzFjMTI1Mjc2MWM3MjYy",
+  "snapshot_id": "MCw0ZTkwMTQyYzc1MzY1MjI0NDM1MWExMjlmODE0ZDBkOGQwZDljZTAx",
   "tracks": [
     {
       "added_at": "2023-07-13 22:00:00",
@@ -163,22 +163,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "N\u00e4r solen g\u00e5r ner",
-        "url": "https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h"
+        "name": "V\u00e5r betong",
+        "url": "https://open.spotify.com/album/5W1UoUi2OhzcnwIIBW2Ail"
       },
       "artists": [
         {
-          "name": "AKI",
-          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
-        },
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+          "name": "Jacco",
+          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
         }
       ],
-      "duration_ms": 221773,
-      "name": "N\u00e4r solen g\u00e5r ner - Kap10 Reggae Remix",
-      "url": "https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA"
+      "duration_ms": 224466,
+      "name": "V\u00e5r betong",
+      "url": "https://open.spotify.com/track/5iLYWyAMSGqpL7NASZbR4w"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -235,6 +231,26 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "N\u00e4r solen g\u00e5r ner",
+        "url": "https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h"
+      },
+      "artists": [
+        {
+          "name": "AKI",
+          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
+        },
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 221773,
+      "name": "N\u00e4r solen g\u00e5r ner - Kap10 Reggae Remix",
+      "url": "https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 260399,
       "name": "You Are My Angel",
       "url": "https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "V\u00e5r betong",
-        "url": "https://open.spotify.com/album/5W1UoUi2OhzcnwIIBW2Ail"
-      },
-      "artists": [
-        {
-          "name": "Jacco",
-          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "V\u00e5r betong",
-      "url": "https://open.spotify.com/track/5iLYWyAMSGqpL7NASZbR4w"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 275800,
-      "name": "Ugly Girls",
-      "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "D\u00f6md att bli bed\u00f6md",
         "url": "https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B"
       },
@@ -423,18 +407,34 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Dancehall",
-        "url": "https://open.spotify.com/album/2Cf4aLjmsn8561yq7otet9"
+        "name": "Som Salomos S\u00e5ng",
+        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
       },
       "artists": [
         {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+          "name": "Governor Andy",
+          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
         }
       ],
-      "duration_ms": 198805,
-      "name": "Som Bob Marley",
-      "url": "https://open.spotify.com/track/22FAGmEc3gyW5W8XAyJYA0"
+      "duration_ms": 223840,
+      "name": "Bonus P\u00e5 Kortet",
+      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 275800,
+      "name": "Ugly Girls",
+      "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Som Salomos S\u00e5ng",
-        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
+        "name": "Dancehall",
+        "url": "https://open.spotify.com/album/2Cf4aLjmsn8561yq7otet9"
       },
       "artists": [
         {
-          "name": "Governor Andy",
-          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
         }
       ],
-      "duration_ms": 223840,
-      "name": "Bonus P\u00e5 Kortet",
-      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
+      "duration_ms": 198805,
+      "name": "Som Bob Marley",
+      "url": "https://open.spotify.com/track/22FAGmEc3gyW5W8XAyJYA0"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
+        "url": "https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg"
+      },
+      "artists": [
+        {
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "Snapphaneklanen",
+      "url": "https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Blacka Rasta",
         "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 213019,
       "name": "\u00d6ver Min D\u00f6da",
       "url": "https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
-        "url": "https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "Snapphaneklanen",
-      "url": "https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -687,6 +687,26 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Mellan Raderna",
+        "url": "https://open.spotify.com/album/0itr0pWTs26zlZQUWVWeQE"
+      },
+      "artists": [
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        },
+        {
+          "name": "AKI",
+          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
+        }
+      ],
+      "duration_ms": 191120,
+      "name": "Full fokus",
+      "url": "https://open.spotify.com/track/4Kvy2rVGgYbjtQZTpZZCEb"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "G\u00f6r Det \u00c4nd\u00e5",
         "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 253977,
       "name": "Under samma himmel",
       "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Mellan Raderna",
-        "url": "https://open.spotify.com/album/0itr0pWTs26zlZQUWVWeQE"
-      },
-      "artists": [
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        },
-        {
-          "name": "AKI",
-          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
-        }
-      ],
-      "duration_ms": 191120,
-      "name": "Full fokus",
-      "url": "https://open.spotify.com/track/4Kvy2rVGgYbjtQZTpZZCEb"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -779,18 +779,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Resa Sig Opp",
-        "url": "https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma"
+        "name": "ANITYA",
+        "url": "https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4"
       },
       "artists": [
         {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        },
+        {
+          "name": "Partillo",
+          "url": "https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u"
         }
       ],
-      "duration_ms": 245720,
-      "name": "Du Vill S\u00e5 Du Kan",
-      "url": "https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM"
+      "duration_ms": 205011,
+      "name": "Make Sense",
+      "url": "https://open.spotify.com/track/0oCQ94meSvw1BbpAkeYSgn"
     },
     {
       "added_at": "2023-07-13 22:00:00",

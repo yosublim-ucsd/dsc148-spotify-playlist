@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-304 songs - 17 hr 38 min
+305 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Take It Easy \- Original](https://open.spotify.com/track/5StNWVFBLz4XBXtmf6Rxrs) | [Carola Jasmins](https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo) | [Electro Carousel Club Night\. Selected by Dr Cat](https://open.spotify.com/album/3cgtKzqc2HN4PkTXotrnCj) | 3:20 | 2022-11-07 |  |
 | [Take You Right Back](https://open.spotify.com/track/56O8jHWDc5Y2oBUKByKA1M) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Take You Right Back](https://open.spotify.com/album/0EHomYzyqS2xlUCWT1hTvz) | 2:51 | 2022-06-17 |  |
 | [Taking You with Me](https://open.spotify.com/track/7Hr6qjeI4F1f52j09STzyG) | [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Taking You with Me](https://open.spotify.com/album/4AUmtmKPvKPUjTe93Gy0oj) | 3:19 | 2021-05-28 |  |
+| [The Beat Goes On \- Future Swing Mix](https://open.spotify.com/track/2izKXaS7nITbsTWS51X2aD) | [Bbop](https://open.spotify.com/artist/2lCZNuPKVZbPkvAxpGnsII), [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [The Beat Goes On \(Future Swing Mix\)](https://open.spotify.com/album/6hfS8LlDXKpphG1mgiZ3sM) | 2:08 | 2023-08-04 |  |
 | [The Cat Came Back \- Bdd Remix Edit](https://open.spotify.com/track/6ptpOr9mCnqingjjObKd12) | [Luca Lento](https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh) | [The Cat Came Back](https://open.spotify.com/album/3NMJ7yVpUcwwE5alueef9V) | 2:53 | 2020-10-30 | 2022-07-20 |
 | [The Cat Came Back \- Bdd Remix Edit](https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX) | [Luca Lento](https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh), [Bdd](https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY) | [The Cat Came Back](https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx) | 2:53 | 2020-10-30 |  |
 | [The Cat Is High](https://open.spotify.com/track/2hPkSkAHAGxdp3O4HvRoOz) | [Minimatic](https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV) | [The Cat Is High](https://open.spotify.com/album/7IRE6AehmCMTOBsEYKJJIq) | 4:00 | 2023-03-10 |  |

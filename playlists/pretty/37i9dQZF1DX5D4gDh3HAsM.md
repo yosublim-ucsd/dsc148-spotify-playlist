@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,699 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,680 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 35 | [Shake Hands with Santa Claus \- Mono Recording](https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Breaking It Up!](https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX) | 2:25 |
 | 36 | [Home For The Holidays](https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 3:34 |
 | 37 | [Christmas Time Is Here](https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:20 |
-| 38 | [Here Comes Santa Claus](https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht) | [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) | [Christmas With The Puppini Sisters](https://open.spotify.com/album/3u6OeK5MR1dNsK7UQId0W0) | 3:01 |
+| 38 | [It's Christmas](https://open.spotify.com/track/2zs2Ck470VmBFTwUp4NFdv) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:14 |
 | 39 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag) | 4:16 |
-| 40 | [It's Christmas](https://open.spotify.com/track/2zs2Ck470VmBFTwUp4NFdv) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:14 |
+| 40 | [Here Comes Santa Claus](https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht) | [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) | [Christmas With The Puppini Sisters](https://open.spotify.com/album/3u6OeK5MR1dNsK7UQId0W0) | 3:01 |
 | 41 | [A Nightingale Sang In Berkeley Square \(duet with Gloria Estefan\)](https://open.spotify.com/track/3MO6GyDQQ8WGVAJ2uHorbP) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined](https://open.spotify.com/album/0rXnrMJWA2eVoKaEyXQare) | 4:59 |
 | 42 | [We Wish You The Merriest](https://open.spotify.com/track/64BOvPBfvWbBPIGKTFWIpG) | [John Tesh](https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r) | [Big Band Christmas](https://open.spotify.com/album/2qm9Aa5cwAnIg3KnMcDJdN) | 2:13 |
 | 43 | [The Christmas Waltz](https://open.spotify.com/track/7J0cerYwEoX1inloapkWBz) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [Simply Christmas \(Deluxe Edition\)](https://open.spotify.com/album/3nMeVjYypmshXLIWEcrvGN) | 3:02 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 47 | [Little Jack Frost Get Lost](https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:34 |
 | 48 | [Show Me The Magic](https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Show Me The Magic](https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq) | 2:30 |
 | 49 | [Have a Holly Jolly Christmas](https://open.spotify.com/track/2Lb9nBoZ8V5GNtMOgcaF8o) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 4:03 |
-| 50 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/7DESENONjlQosUbxToDKOy) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:06 |
+| 50 | [Winter Wonderland](https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 2:52 |
 
-Snapshot ID: `MCw0OWMyYTJlMTQ2MGU2ZWJhMGU2MzU3MzViM2QyZWNiYmE5MmY5MTBl`
+Snapshot ID: `MCwyMDMyMTMwNzRkNWU2ZGI4Y2Y1NzI4ODVjMzQ3NDk5MDA1NGUyN2Y4`

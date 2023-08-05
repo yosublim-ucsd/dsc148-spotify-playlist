@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 136583,
+  "num_followers": 136646,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTEyNTAxNDJkMzI3Njg1NTdjZGU5NGZjOWRmNTMzNDcwODg5YTdm",
+  "snapshot_id": "MCw2ZGZjYjI4MTViZTEwZjk0YjdiMTMyOWJkOGViMzBlNDQxMTUyZjlm",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Classic Western Swing",
-        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 148733,
-      "name": "Roly-Poly",
-      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Look What Thoughts Will Do",
         "url": "https://open.spotify.com/album/082Lg7YaKtzsScelrtfwdx"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 173933,
       "name": "If You've Got the Money I've Got the Time",
       "url": "https://open.spotify.com/track/3N0jGYbGjlfxAPPOQ3m1x5"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Classic Western Swing",
+        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 148733,
+      "name": "Roly-Poly",
+      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Together Again",
-        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV"
       },
       "artists": [
         {
-          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
-          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
+          "name": "Tex Ritter",
+          "url": "https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G"
         }
       ],
-      "duration_ms": 140280,
-      "name": "Ida Red",
-      "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
+      "duration_ms": 185533,
+      "name": "Deck Of Cards",
+      "url": "https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV"
+        "name": "Together Again",
+        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
       },
       "artists": [
         {
-          "name": "Tex Ritter",
-          "url": "https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G"
+          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
+          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
         }
       ],
-      "duration_ms": 185533,
-      "name": "Deck Of Cards",
-      "url": "https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0"
+      "duration_ms": 140280,
+      "name": "Ida Red",
+      "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Country Hoedown",
-        "url": "https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee King",
-          "url": "https://open.spotify.com/artist/43GB9K58iB2fIEFVt5ZSp2"
-        }
-      ],
-      "duration_ms": 176573,
-      "name": "Slowpoke",
-      "url": "https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Merle Travis Story",
         "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 135933,
       "name": "Divorce Me C.O.D.",
       "url": "https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Country Hoedown",
+        "url": "https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee King",
+          "url": "https://open.spotify.com/artist/43GB9K58iB2fIEFVt5ZSp2"
+        }
+      ],
+      "duration_ms": 176573,
+      "name": "Slowpoke",
+      "url": "https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM"
     },
     {
       "added_at": "2023-01-02 21:50:32",

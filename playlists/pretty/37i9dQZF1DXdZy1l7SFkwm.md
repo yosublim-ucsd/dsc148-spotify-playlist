@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 
 > El aderezo que te falta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,596 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,608 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 | 67 | [A Mi Manera](https://open.spotify.com/track/1R0GOPjljIJ997WnDXWW88) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS) | 3:51 |
 | 68 | [Boliviana](https://open.spotify.com/track/0c3dYyhdKUFd2zUSL4tdvz) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Buenos Hermanos](https://open.spotify.com/album/2U4d397MrGSUt8c289VZVT) | 3:47 |
 | 69 | [De Noite Na Cama](https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:17 |
-| 70 | [Piensa en Mi](https://open.spotify.com/track/4XpEUhAR4n6F85VRx2AoTq) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:27 |
-| 71 | [Bang! Bang!](https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Wanted Dead Or Alive \(Bang Bang Push Push Push\)](https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H) | 4:06 |
+| 70 | [Bang! Bang!](https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Wanted Dead Or Alive \(Bang Bang Push Push Push\)](https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H) | 4:06 |
+| 71 | [Piensa en Mi](https://open.spotify.com/track/4XpEUhAR4n6F85VRx2AoTq) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:27 |
 | 72 | [Elsa](https://open.spotify.com/track/5NKsz3ZklHNHbCVxMHiFU7) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf), [Enrique Delgado](https://open.spotify.com/artist/0FY3Ky0gOI9CatbVuQ5Anx) | [Para Todo el Mundo, Vol\. 2](https://open.spotify.com/album/3SQO9WCqdtEMUclk7oMIT2) | 3:40 |
 | 73 | [Silencio](https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU) | 4:38 |
 | 74 | [O Morro \(Não Tem Vez\)](https://open.spotify.com/track/5jMc7pAGFQ5lRqfaM7AsU5) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 | 99 | [No Me Den Candela](https://open.spotify.com/track/1NKjjz8SHggPHXF6DnlabU) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Guisando: Doing A Job](https://open.spotify.com/album/5cIig3BrjPvDMpMRZR7a9G) | 7:09 |
 | 100 | [Hei! Man](https://open.spotify.com/track/1dUK0GBjMRmEdi1NKMr3WE) | [Ave Sangria](https://open.spotify.com/artist/1q3J12DzCpwW0EwLrKlXvC) | [Ave Sangria](https://open.spotify.com/album/2Kds5PBWka7pcAIay7qp6w) | 2:54 |
 
-Snapshot ID: `MCwyM2JmZDUwMTkyMjA2ZjgzNmE3Mzg5ZGFjYTk3ZjhjMTUwZDIyYWYy`
+Snapshot ID: `MCw5YjFmYzcxYWViNjk0ZGJmZmRlYWM4ZTU5MWRjMjc2N2M2ZjhlNjA5`

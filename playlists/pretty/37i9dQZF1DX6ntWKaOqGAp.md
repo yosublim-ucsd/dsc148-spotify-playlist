@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: サンボマスター
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,863 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,959 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Little Sparrow](https://open.spotify.com/track/3E8afOCrmBwpaWJa088oiK) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Little Sparrow](https://open.spotify.com/album/5GxWPcPEess2AWA8YswjHE) | 3:11 |
 | 100 | [のらりつらり](https://open.spotify.com/track/5dLM5ldUXKicvwLz3b1CdV) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [のらりつらり](https://open.spotify.com/album/55M8zj4SdtQwVUxDqn7d6h) | 3:25 |
 
-Snapshot ID: `MCwwNmFlZThjOGJjM2E2NzIwNjg4YWNjZjliMzBkZTk0ODM5ZjU1ZTFk`
+Snapshot ID: `MCwyMDk5ZTZmZjY5OGUxNWQ2ZDIyMjNkMWY0MzY1M2ZjOWViZjAzM2M4`

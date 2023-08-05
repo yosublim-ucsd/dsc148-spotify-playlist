@@ -1,12 +1,12 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 175476,
+  "num_followers": 175634,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGVmNjU0YTNmNTJjZDliODJkYWMwYzdhNjQ3NDdhZTAzMGQ5NTM5",
+  "snapshot_id": "MCxkM2EzMjg2MzcxMzBlMjNmM2UxYWMwNWFkZTVhNTZhYzlhZmYyY2Qw",
   "tracks": [
     {
       "added_at": "2022-08-05 10:31:40",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "No Burden",
-        "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 163292,
-      "name": "I Don't Wanna Be Funny Anymore",
-      "url": "https://open.spotify.com/track/7fmqJC1yi3tyys0l72F9Ya"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Designer",
         "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 299440,
       "name": "The Barrel",
       "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "No Burden",
+        "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 163292,
+      "name": "I Don't Wanna Be Funny Anymore",
+      "url": "https://open.spotify.com/track/7fmqJC1yi3tyys0l72F9Ya"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Clean",
-        "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 194009,
-      "name": "Your Dog",
-      "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
-    },
-    {
       "added_at": "2023-02-03 00:30:16",
       "album": {
         "name": "Cub",
@@ -671,6 +655,22 @@
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 194009,
+      "name": "Your Dog",
+      "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Once Twice Melody",
-        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Once Twice Melody",
-      "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 166053,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Once Twice Melody",
+        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Once Twice Melody",
+      "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -1077,20 +1077,20 @@
       "url": "https://open.spotify.com/track/6kGLWfGeZQ9RZHcGis9KN6"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
+      "added_at": "2023-07-28 13:45:12",
       "album": {
-        "name": "Somewhere In-Between",
-        "url": "https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju"
+        "name": "Shell",
+        "url": "https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL"
       },
       "artists": [
         {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
         }
       ],
-      "duration_ms": 161880,
-      "name": "Intertwined",
-      "url": "https://open.spotify.com/track/5fML9iqXgkXu7hUOYlE1aB"
+      "duration_ms": 140145,
+      "name": "Shell",
+      "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Somewhere In-Between",
+        "url": "https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "Intertwined",
+      "url": "https://open.spotify.com/track/5fML9iqXgkXu7hUOYlE1aB"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "Up Granville",
         "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 230747,
       "name": "Up Granville",
       "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
-    },
-    {
-      "added_at": "2023-05-18 14:23:33",
-      "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 197779,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1155,6 +1155,22 @@
       "duration_ms": 166133,
       "name": "All My Little Words",
       "url": "https://open.spotify.com/track/3KvTZQPpzPw9UKxaGlJkBs"
+    },
+    {
+      "added_at": "2023-05-18 14:23:33",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 197779,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1189,38 +1205,6 @@
       "url": "https://open.spotify.com/track/1kEF6o2puIB1U9aYgqh4xc"
     },
     {
-      "added_at": "2023-01-20 16:59:50",
-      "album": {
-        "name": "I'll Be Waiting (Sad At Christmas)",
-        "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 200968,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/6P2ZBHJZfp2yltmlk2M2gD"
-    },
-    {
-      "added_at": "2023-07-28 13:45:12",
-      "album": {
-        "name": "Shell",
-        "url": "https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        }
-      ],
-      "duration_ms": 140145,
-      "name": "Shell",
-      "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Woman on the Internet",
@@ -1235,6 +1219,22 @@
       "duration_ms": 220208,
       "name": "More Like You",
       "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
+    },
+    {
+      "added_at": "2023-01-20 16:59:50",
+      "album": {
+        "name": "I'll Be Waiting (Sad At Christmas)",
+        "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 200968,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/6P2ZBHJZfp2yltmlk2M2gD"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Look Out!",
-        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Look Out!",
-      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "This Is Really Going To Hurt",
         "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 209493,
       "name": "Everyone's A Winner",
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Look Out!",
+        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Look Out!",
+      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
     },
     {
       "added_at": "2022-08-05 10:31:40",

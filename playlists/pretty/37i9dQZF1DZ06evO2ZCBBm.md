@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,151 likes - 43 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,170 likes - 43 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,20 +30,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 20 | [Paralyzed](https://open.spotify.com/track/7I106tELU6iawFLUJcBUx5) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:13 |
 | 21 | [On My Own](https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:43 |
 | 22 | [Take It Away](https://open.spotify.com/track/2PzjnmkdMr6eOkFwQgqmyC) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:37 |
-| 23 | [Pinky Swear](https://open.spotify.com/track/1mNrTiHrV8DthnCiWLW8G9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:13 |
+| 23 | [Numb](https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:54 |
 | 24 | [Paradise Lost, a poem by John Milton](https://open.spotify.com/track/0brRAViWRg60fyrCynTPxl) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:47 |
 | 25 | [Hospital](https://open.spotify.com/track/6PSRgNVdVo7PeiDzOzzDsD) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 2:56 |
 | 26 | [Let It Bleed](https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:10 |
-| 27 | [Numb](https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:54 |
+| 27 | [Pinky Swear](https://open.spotify.com/track/1mNrTiHrV8DthnCiWLW8G9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:13 |
 | 28 | [Empty With You](https://open.spotify.com/track/7caJcFZTtLzy0ZSol1AXKH) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 3:23 |
 | 29 | [Liar Liar \(Burn in Hell\)](https://open.spotify.com/track/68A7cJ9HuOOwrilOhwOW5D) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 2:52 |
 | 30 | [Listening](https://open.spotify.com/track/528rajP3OyhornDwrsQrt4) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 2:46 |
 | 31 | [Headspace](https://open.spotify.com/track/0YZ2K1bacl9wXyoCMSJH35) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:35 |
-| 32 | [Cathedral Bell](https://open.spotify.com/track/55P8hiMTFfvmTXWlB16seg) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 3:04 |
-| 33 | [Choke Me](https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Shallow Believer](https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU) | 2:00 |
+| 32 | [The Lighthouse](https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:51 |
+| 33 | [Earthquake](https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:29 |
 | 34 | [I'm a Fake](https://open.spotify.com/track/5li1sKlA0UhTk2rY0JIVUv) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 4:06 |
-| 35 | [Earthquake](https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:29 |
-| 36 | [The Lighthouse](https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:51 |
+| 35 | [Choke Me](https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Shallow Believer](https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU) | 2:00 |
+| 36 | [Cathedral Bell](https://open.spotify.com/track/55P8hiMTFfvmTXWlB16seg) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 3:04 |
 | 37 | [Revolution](https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 4:04 |
 | 38 | [River Stay](https://open.spotify.com/track/2PDjw1dzFPDBBUV1uXZ4KV) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 3:04 |
 | 39 | [Over and Over Again](https://open.spotify.com/track/4tLJlbnRoUz8BOfy2Xcsgk) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Canyon](https://open.spotify.com/album/2hqtN1MEtZFZTQZ4XwjoMe) | 5:14 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 42 | [Slit Your Own Throat](https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Shallow Believer](https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU) | 3:04 |
 | 43 | [Bloody Nose](https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 3:04 |
 
-Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDAxODg4YTg3OTQ0M2Q3OWU5YmM5YzY2ZDhkYzY1MzlkMQ==`
+Snapshot ID: `MjgxODYwODEsMDAwMDAwMDA2NzZiZmMxYzMxZmRmNjY2NzVjYjljZTBlYTc4Njk3ZQ==`

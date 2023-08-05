@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-583 songs - 1 day 5 hr 15 min
+584 songs - 1 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Motion](https://open.spotify.com/track/1YGVpvE7hKdqNArudG04Ll) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Motion](https://open.spotify.com/album/0XrwWR8YPTfrboiAS3Dp8O) | 3:07 | 2022-12-29 | 2023-03-07 |
 | [Motion](https://open.spotify.com/track/7GRfEf5BG1OCSMpeVotldQ) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Motion](https://open.spotify.com/album/3NkinGi0Fv1BPYhh06hzjU) | 3:07 | 2022-03-25 | 2022-10-13 |
 | [Mr Parachute \(feat\. Jocelyn Alice\) \- TRU Concept Remix](https://open.spotify.com/track/3f9rzSN7BSdLahaxF671PX) | [Marshall](https://open.spotify.com/artist/6nrEtBorzQn3FbVHWJAMNS), [Jocelyn Alice](https://open.spotify.com/artist/7iymigONRODGl6XJIprcuF), [TRU Concept](https://open.spotify.com/artist/0i8byW08EV6y7Dv9gDPUCF) | [Mr Parachute \(feat\. Jocelyn Alice\) \[TRU Concept Remix\]](https://open.spotify.com/album/0RguWGhusbB3EHK8zNYxdm) | 3:11 | 2022-03-25 | 2022-04-19 |
+| [My Bad](https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [My Bad](https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b) | 2:27 | 2023-08-04 |  |
 | [My Blood](https://open.spotify.com/track/6KKrLedoFW1nZWjj9WKvj9) | [Danny Avila](https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH) | [My Blood](https://open.spotify.com/album/2umFkJlIPZMBiNFDxA1dn9) | 2:49 | 2022-03-25 | 2022-04-20 |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2022-07-08 |  |
 | [My Head & My Heart \- Jonas Blue Remix](https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [My Head & My Heart \(Jonas Blue Remix\)](https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe) | 2:59 | 2021-12-17 | 2023-03-04 |
@@ -536,7 +537,7 @@
 | [U Up? \- Yvvan Back Remix](https://open.spotify.com/track/4k0N6lfEVZxyR4f6an1PXh) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Stondon Massey](https://open.spotify.com/artist/0f5OmOrnXOokDq55o3osxg), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [U Up? \(Remixes\)](https://open.spotify.com/album/09U2ePVOCb5b4yKzq9iH82) | 3:41 | 2022-03-25 | 2022-04-15 |
 | [U&U \(feat\. Rêve & Tim North\)](https://open.spotify.com/track/2YnpF6En8tjNmkFDU4yK6y) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx), [Tim North](https://open.spotify.com/artist/0aF4uopelh675gJDvtpCnU) | [U&U \(feat\. Rêve & Tim North\)](https://open.spotify.com/album/5ts3rjdEq3io8zCNMtvC5g) | 2:02 | 2022-04-08 | 2022-04-15 |
 | [U&U \(with Tim North\)](https://open.spotify.com/track/4RLVg2FjMpGkvmBCabD9jN) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Tim North](https://open.spotify.com/artist/0aF4uopelh675gJDvtpCnU) | [U&U \(with Tim North\)](https://open.spotify.com/album/3PLEE1n1ip9lG9Enwmahr3) | 2:00 | 2022-03-25 | 2022-04-21 |
-| [uhoh](https://open.spotify.com/track/04w6RjedkvhojBqAFyxI70) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:50 | 2023-07-28 |  |
+| [uhoh](https://open.spotify.com/track/04w6RjedkvhojBqAFyxI70) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:50 | 2023-07-28 | 2023-08-05 |
 | [Unconditional](https://open.spotify.com/track/3rI7logAQK4NlhdWWRNwf6) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Unconditional](https://open.spotify.com/album/4FNKXpTgL0M2Tnkw5p5Q8M) | 2:15 | 2021-12-17 | 2022-06-28 |
 | [Under The Sun](https://open.spotify.com/track/5VdP74vn6CXqtUE5sT74Tw) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Kidda](https://open.spotify.com/artist/3Ahrh4hh6fik3NRP4eglaR) | [Under The Sun](https://open.spotify.com/album/1yetKJDTEFbto7yOSxkTtz) | 3:21 | 2022-03-25 | 2022-04-18 |
 | [Unstoppable \- R3HAB Remix](https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Unstoppable \(R3HAB Remix\)](https://open.spotify.com/album/3qWCIK0fqmaaSTLoqoWsaz) | 2:42 | 2022-07-28 |  |

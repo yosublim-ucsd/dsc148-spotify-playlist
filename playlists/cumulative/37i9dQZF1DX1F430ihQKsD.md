@@ -2,7 +2,7 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: MUNYA
+> La scène musicale montréalaise au premier plan\. Photo: Jesse Mac Cormack, Gabrielle Shonk
 
 340 songs - 19 hr 34 min
 

@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-598 songs - 1 day 8 hr 43 min
+600 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [In Search of Wonder](https://open.spotify.com/track/3BLMQuMGnw4MZr4CtcdNFf) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Departure Lounge](https://open.spotify.com/album/1L14xBM4jEKPRItVqzj0ok) | 4:16 | 2019-07-31 | 2019-09-11 |
 | [In the Beginning of Time](https://open.spotify.com/track/5I9kd3U6qhnuO3WWX5Le8l) | [Of Water](https://open.spotify.com/artist/0vrr0Uu8SDXaogmsFovyC2) | [In the Beginning of Time](https://open.spotify.com/album/5U2pbbuxFkngsYbbuIlzk5) | 3:11 | 2021-07-30 | 2023-07-14 |
 | [In the Clouds](https://open.spotify.com/track/2AvDzQfRf5Bx8PX0qRWLRc) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [In the Clouds](https://open.spotify.com/album/0RB032f7b6bwNGrfdW81E5) | 2:56 | 2019-06-19\* | 2023-04-22 |
+| [In The Distance](https://open.spotify.com/track/6ukp0t9T7Fsw5h2Rz8HDTV) | [Flovia](https://open.spotify.com/artist/58GDPnhEfG4yAXQxMavQEH) | [In The Distance](https://open.spotify.com/album/0zYONFZfELjoeOIvVLokLA) | 1:59 | 2023-08-04 |  |
 | [In This Moment](https://open.spotify.com/track/7FORBAxm1qwuwbYo7Rtz42) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [In This Moment](https://open.spotify.com/album/6CqN9SzLRLdrB04loADnZF) | 2:38 | 2019-06-27 | 2022-04-02 |
 | [In This Together](https://open.spotify.com/track/5U2WQ74Tyc2OHKCK2KvGi5) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [In This Together](https://open.spotify.com/album/7Kec4vxn9UtMjWU9T78PGG) | 2:10 | 2019-05-26\* | 2020-08-07 |
 | [Infinite Sustain](https://open.spotify.com/track/5AciiCKJKTLKRrAPSrKQy5) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Infinite Sustain](https://open.spotify.com/album/4bLXZwh88rBBy6bgFFBhVg) | 2:29 | 2019-12-31 |  |
@@ -559,6 +560,7 @@
 | [Venice](https://open.spotify.com/track/3S1BKVF9Q3lhJ1jOcpkz4G) | [PLVCES](https://open.spotify.com/artist/04cixKonVUpFouuri2mSzC) | [Plvces](https://open.spotify.com/album/1FLOo1YhOnUHHyEezqyNEP) | 3:16 | 2019-06-19\* | 2019-08-13 |
 | [Ventura](https://open.spotify.com/track/3aIidfKAjMwaRTgvY9d0BG) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Ventura](https://open.spotify.com/album/3WvMUxQ71TR6ocUelhSYHE) | 4:41 | 2019-06-19\* | 2019-12-11 |
 | [Victory Laps](https://open.spotify.com/track/34Dgd9lC0X0AQwq4L3RbvY) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Victory Laps](https://open.spotify.com/album/2wj2jQOnVCYyIAcEJg3x4L) | 2:14 | 2023-03-03 |  |
+| [Vision](https://open.spotify.com/track/4KrmMB7E2oUAebO5TKQWMz) | [William Reed](https://open.spotify.com/artist/62TYFSmuHJr3QblYwgJq76) | [Vision](https://open.spotify.com/album/7wTDVeoZnpEROsnP8caQ5F) | 2:08 | 2023-08-04 |  |
 | [Wait Until Spring](https://open.spotify.com/track/4FQ1Wm24y1jm4iKbrfRQfW) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Wait Until Spring](https://open.spotify.com/album/6HrenLgTHjgBKCVzRkvEe7) | 3:09 | 2019-06-27 | 2021-05-18 |
 | [Waiting](https://open.spotify.com/track/2l6cdCbfZ4l9LZMKjepbS2) | [Catherine Holm](https://open.spotify.com/artist/4L8nmO7kqdX1K9ydfCfbh7) | [Waiting](https://open.spotify.com/album/2DVdfvJAKnG2Xa5KPoWh2X) | 1:49 | 2019-06-19\* | 2021-09-14 |
 | [Waiting](https://open.spotify.com/track/45RDZot29LxXjoTpdayF7w) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Waiting](https://open.spotify.com/album/675hM4Bn9eSwtq1EHiXquT) | 2:10 | 2019-06-27 |  |

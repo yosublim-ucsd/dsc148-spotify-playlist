@@ -1,12 +1,12 @@
 {
   "description": "rolitas para abrazar la tristeza \ud83d\ude14",
-  "num_followers": 69091,
+  "num_followers": 69088,
   "original_name": "domingo de baj\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWQ4MzZmNjFkMTFiYTU0OTgyZjE4ZjEyYTE4Mjc3MjBhNDI0MjVl",
+  "snapshot_id": "MCxhNDM2MGE2Y2VhN2I4NTk2ZWJkYjAxYTI4MzkxNjdiYTQxZjA1NGQ5",
   "tracks": [
     {
       "added_at": "2023-03-31 20:08:47",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-03-31 20:08:47",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 245964,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
-    },
-    {
-      "added_at": "2023-03-31 20:08:47",
-      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
+    },
+    {
+      "added_at": "2023-03-31 20:08:47",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
     },
     {
       "added_at": "2023-03-31 20:08:47",

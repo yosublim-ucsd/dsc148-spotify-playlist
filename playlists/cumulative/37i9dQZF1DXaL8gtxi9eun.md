@@ -2,14 +2,15 @@
 
 ### [Fresh Arabic Pop](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> Stay up to date with the freshest Arabic Pop Songs\. Cover: <a href="https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX?si=UPffg\_DeSkSwTVHDIh5Vxg"> Mohamed Hamaki </a>
+> Stay up to date with the freshest Arabic Pop Songs\. Cover: <a href="https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL?si=TWV5d8oLRaKd6IBp85IsSQ"> Noel Kharman </a>
 
-215 songs - 13 hr 5 min
+219 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:00](https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [00:00](https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD) | 3:58 | 2022-10-24 | 2023-05-18 |
 | [10 Oloub](https://open.spotify.com/track/2M4RHWLlXJbvfGrS9owX38) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [10 Oloub](https://open.spotify.com/album/7dEBbH37LFkUQupc4pcTiN) | 3:29 | 2022-05-04 | 2023-01-12 |
+| [100 Marra](https://open.spotify.com/track/1H67bN6ZcTEE0W51qTRz3T) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [100 Marra](https://open.spotify.com/album/69cehckqHuh188vST0MmTZ) | 2:33 | 2023-08-04 |  |
 | [3 Daqat](https://open.spotify.com/track/0uxTfF35vomzEtb7sHlP1N) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [3 Daqat](https://open.spotify.com/album/0HPhK1zDjjNqcIqu8PzzW6) | 4:35 | 2023-05-17 | 2023-07-12 |
 | [3 Sneen](https://open.spotify.com/track/6ZddaoTZy0vqf4vTmqUbJs) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [3 Sneen](https://open.spotify.com/album/6IOqUxSF8Il0r0aXFTt4rt) | 3:01 | 2022-05-04 | 2022-06-19 |
 | [3asal Ya Nas](https://open.spotify.com/track/6N7OyyrRQRMiVaUzDh9RiP) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3asal Ya Nas](https://open.spotify.com/album/4PukzqTnEoXMAd2VwEooNb) | 3:04 | 2022-12-31 | 2023-05-31 |
@@ -61,7 +62,7 @@
 | [Diplomacy](https://open.spotify.com/track/6lUgUYvwmJSzXBR1drpxKh) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Diplomacy](https://open.spotify.com/album/3Wvg3cSabfpRxclOh26mDL) | 3:22 | 2022-05-04 | 2023-04-02 |
 | [Diplomacy](https://open.spotify.com/track/6xDtL9ZKpRX9HXGwmIB34k) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Diplomacy](https://open.spotify.com/album/5Ad8EqhfY3Xqd0hOalAWzj) | 3:22 | 2023-02-15 | 2023-05-18 |
 | [Ebn Nas](https://open.spotify.com/track/1sLwnaIL9PbN9Yph20LGLH) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Ebn Nas](https://open.spotify.com/album/7MAkAuUFAz87CMf0p6rXMv) | 3:19 | 2022-05-04 | 2022-07-15 |
-| [Eftahli Albak](https://open.spotify.com/track/67gTcM9RkrJRyjvxNKWlxZ) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Eftahli Albak](https://open.spotify.com/album/0vg1yWxtXpaFXGDFPbr3BX) | 3:13 | 2023-05-25 |  |
+| [Eftahli Albak](https://open.spotify.com/track/67gTcM9RkrJRyjvxNKWlxZ) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Eftahli Albak](https://open.spotify.com/album/0vg1yWxtXpaFXGDFPbr3BX) | 3:13 | 2023-05-25 | 2023-08-05 |
 | [Ehtirami](https://open.spotify.com/track/6G7ZvwAVPFyBLwYtBZeIk8) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Ehtirami](https://open.spotify.com/album/3yvKVLjqfhqsPoUliqRAkW) | 3:49 | 2023-05-17 | 2023-05-26 |
 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 | 2022-05-04 | 2023-05-18 |
 | [El Hob Dayaani](https://open.spotify.com/track/1d8a7PXLEjkTtEuz5hWuv2) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [El Hob Dayaani](https://open.spotify.com/album/4GQkyZMC7NjgtfMwdIkWrs) | 3:10 | 2022-05-04 | 2022-07-12 |
@@ -100,7 +101,7 @@
 | [Helween](https://open.spotify.com/track/5WWolYQgJB3fCwRiLxiPHQ) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo), [Rodge](https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG) | [Helween](https://open.spotify.com/album/4LgGKDj1hfjBMni5QrwUfV) | 4:01 | 2022-05-04 | 2022-11-08 |
 | [Hetta Tanya](https://open.spotify.com/track/5zn9ZT7dKnRX5fnYvb3loq) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Hetta Tanya](https://open.spotify.com/album/18REYwJulzZfAYpdvUXHtR) | 3:19 | 2022-05-04 | 2022-10-25 |
 | [Heya](https://open.spotify.com/track/1FRiynLmE6uEsDayYZflEU) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Heya](https://open.spotify.com/album/24O4GnTk1ns6Ok5g2fwv2v) | 3:59 | 2022-06-09 | 2022-12-30 |
-| [Hollela](https://open.spotify.com/track/1yIoskiVCvPljSNe1MWyMY) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Hollela](https://open.spotify.com/album/0iUnUZiFg6uHCNkgQXa21g) | 3:51 | 2023-07-11 |  |
+| [Hollela](https://open.spotify.com/track/1yIoskiVCvPljSNe1MWyMY) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Hollela](https://open.spotify.com/album/0iUnUZiFg6uHCNkgQXa21g) | 3:51 | 2023-07-11 | 2023-08-05 |
 | [Howa Da Habiby](https://open.spotify.com/track/61ym3imFxyXoTOoZz4loqA) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Howa Da Habiby](https://open.spotify.com/album/2zZbs6y0BLlwQzRo19mdj1) | 2:53 | 2022-05-04 | 2022-07-15 |
 | [Howa Nafs El Shouk](https://open.spotify.com/track/6T2rewl8ekzcdP5KQGW5K1) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Howa Nafs El Shouk](https://open.spotify.com/album/6wWHzbMgBnZoZAPsGUlAiM) | 5:17 | 2022-05-04 | 2022-07-14 |
 | [Jayeb Khbari](https://open.spotify.com/track/7g6MW822UoLSQCFrSXUZCI) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Jayeb Khbari](https://open.spotify.com/album/0RFcMf8UFXmaltJ8mk2oV6) | 3:08 | 2023-07-11 |  |
@@ -163,6 +164,7 @@
 | [Tole' El Nahar](https://open.spotify.com/track/2EstObS1EdvkKEF6Z9O1He) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Tole' El Nahar](https://open.spotify.com/album/4hHQf6eAsefx9tRCOpsvEc) | 4:04 | 2022-10-24 | 2023-05-31 |
 | [WAJAHNI](https://open.spotify.com/track/74ej9D4v1lsgepeEetuB0J) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [WAJAHNI](https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV) | 3:26 | 2023-06-23 |  |
 | [Wala Bghiti](https://open.spotify.com/track/6MrdoWkAdnnlyVCd2qdriE) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8), [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Wala Bghiti](https://open.spotify.com/album/5pEvTUwO8EC0f3rxubqbKC) | 3:54 | 2023-05-30 |  |
+| [Wayyak](https://open.spotify.com/track/1zQBbLzIE77m5kjm7BPYet) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Mouthakerti](https://open.spotify.com/album/4bS80nF6fc85gq8MBsWLGW) | 3:28 | 2023-08-04 |  |
 | [Welaane](https://open.spotify.com/track/3yI0oj88v89SblbqDJyCvK) | [Diana Karazon](https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE) | [Welaane](https://open.spotify.com/album/6QA0ySWUCTZCgdovGFfBUP) | 3:52 | 2023-07-14 |  |
 | [Wenta Be3eed \- From "Bhabak" Movie](https://open.spotify.com/track/3mxLJoqjVyRSUnAqv6cG65) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [بحبك](https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2) | 3:46 | 2023-02-15 | 2023-05-18 |
 | [Wenta Be3eed \- From "Bhabak" Movie](https://open.spotify.com/track/73NkK8DgV8Cgba60Cz4WKc) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Wenta Be3eed \(From "Bhabak" Movie\)](https://open.spotify.com/album/4UukvPx3Zgpy1jtro3FHPH) | 3:46 | 2022-07-10 | 2023-02-16 |
@@ -188,12 +190,14 @@
 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 | 2023-05-17 | 2023-07-12 |
 | [اعدائك كترت](https://open.spotify.com/track/0CFfVxPKnJfh7bIxzgOyO0) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [اعدائك كترت](https://open.spotify.com/album/5FTpX2Ws71TQRQyec4CbqY) | 3:27 | 2022-09-22 | 2023-05-31 |
 | [الحب](https://open.spotify.com/track/0EM7yBpi3yoA5Vf6HVScgP) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [الحب](https://open.spotify.com/album/4FDzVLy4DtsuetAHROxJFm) | 3:24 | 2023-07-11 |  |
-| [الفين باب](https://open.spotify.com/track/3quHorw9IRJWtWaZKpl6I1) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [الفين باب](https://open.spotify.com/album/2dDhZcyv8bmPbpbJlX4QSh) | 4:45 | 2023-05-17 |  |
+| [الحب الأبدي](https://open.spotify.com/track/7usxVbBzZDS5cizMcCzC0Z) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj), [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [الحب الأبدي](https://open.spotify.com/album/62HLjL7THRp3y0913hTOq0) | 4:37 | 2023-08-04 |  |
+| [الفين باب](https://open.spotify.com/track/3quHorw9IRJWtWaZKpl6I1) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [الفين باب](https://open.spotify.com/album/2dDhZcyv8bmPbpbJlX4QSh) | 4:45 | 2023-05-17 | 2023-08-05 |
 | [الوتر الحساس](https://open.spotify.com/track/63Gl4Wqr98iJnWoNGFOQjr) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 4:21 | 2023-05-17 | 2023-07-12 |
 | [بأمارة مين](https://open.spotify.com/track/0SbObewB36qKLWcaxMntej) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بأمارة مين](https://open.spotify.com/album/4yDWyAMP63GXX3SUjjV0Xd) | 3:15 | 2022-10-20 | 2023-07-12 |
 | [باشا باشا](https://open.spotify.com/track/5u6I8MExcbewu6VcSnI1Sc) | [ِEmad Basha](https://open.spotify.com/artist/4oYGyyjjeg3AJofnWGjqR6) | [باشا باشا](https://open.spotify.com/album/3s2sywrjEFwOK8xewRebzc) | 4:09 | 2022-05-04 | 2023-05-18 |
 | [بتوحشيني](https://open.spotify.com/track/5JAf3OAFDSrQ3MHonCo69E) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [بتوحشيني](https://open.spotify.com/album/55mOWoEYw3i3WAMF23O5rg) | 3:53 | 2022-05-04 | 2022-07-15 |
 | [بديت اطيب](https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [بديت اطيب](https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq) | 4:36 | 2023-05-17 | 2023-07-25 |
+| [حبيت المقابلة](https://open.spotify.com/track/2oURHU9AZsHV37S3GPtNc6) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [حبيت المقابلة](https://open.spotify.com/album/0iddA66uS6i7Rb1tv1sJ7E) | 3:05 | 2023-08-04 |  |
 | [حكايتنا كملت](https://open.spotify.com/track/61y67cugb9V3cJPhS7IY91) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [حكايتنا كملت](https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv) | 4:54 | 2023-07-11 |  |
 | [زلزال](https://open.spotify.com/track/0FO3XVNhGNq86mZ1uEhYvK) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣ \- الجزء الثاني](https://open.spotify.com/album/0HpjLJZITkQQsW0HqiOVIB) | 4:16 | 2023-07-11 |  |
 | [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/track/6AZzs7g85UpFDJUTKwLzgo) | [Memaar Al Morshedy](https://open.spotify.com/artist/6YNhk9uSHg8MTtdwNjhh6d) | [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/album/7g0oVx8s5TOZKU4hIwmpsG) | 2:04 | 2022-05-04 | 2022-07-29 |
@@ -208,7 +212,7 @@
 | [كلمة سلام](https://open.spotify.com/track/6Uf9GESDYUb6PaFKb0X6b7) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [كلمة سلام](https://open.spotify.com/album/0i5uZH5qa0vmNWlzFymn9c) | 3:52 | 2023-05-17 | 2023-06-09 |
 | [كلها غيرانة](https://open.spotify.com/track/1lMG528rnjzks0oJEDmL5J) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [كلها غيرانة](https://open.spotify.com/album/3rfKqkKlOZcPAYqZN4rfkM) | 3:36 | 2023-01-10 | 2023-07-12 |
 | [لحظة بعادك](https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [لحظة بعادك](https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd) | 3:41 | 2023-05-17 | 2023-07-21 |
-| [لمون نعناع](https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [لمون نعناع](https://open.spotify.com/album/5IJllrLdWkmEYDJ6N4tw1Y) | 3:26 | 2023-07-20 |  |
+| [لمون نعناع](https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [لمون نعناع](https://open.spotify.com/album/5IJllrLdWkmEYDJ6N4tw1Y) | 3:26 | 2023-07-20 | 2023-08-05 |
 | [ليه طله](https://open.spotify.com/track/0VFtgOhZaR1btlkiOXgqM0) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [عشأنجي](https://open.spotify.com/album/0aAeot09E8YZwHc7rsg90Y) | 3:13 | 2023-01-10 | 2023-07-12 |
 | [مش هتغير عشان حد](https://open.spotify.com/track/7a4X1BSy2tvhkPIQlHjI4s) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [مش هتغير عشان حد](https://open.spotify.com/album/5ANgOtkPz7JYyJ0h6F96pR) | 2:53 | 2023-07-25 |  |
 | [معايا هتبدع](https://open.spotify.com/track/3aJ2ThvzAgQiOsFAdtRopt) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/3uLR3lR7rHwoN2drz0k8B2) | 3:16 | 2022-12-23 | 2023-01-14 |

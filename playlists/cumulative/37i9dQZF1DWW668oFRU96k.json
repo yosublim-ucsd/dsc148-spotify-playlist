@@ -197,6 +197,28 @@
     },
     {
       "album": {
+        "name": "AFTER THE END ft. Yuna",
+        "url": "https://open.spotify.com/album/17iAVZo5SYPXSplTNhMWnl"
+      },
+      "artists": [
+        {
+          "name": "clear eyes",
+          "url": "https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "AFTER THE END ft. Yuna",
+      "url": "https://open.spotify.com/track/0mRBk0W4P9QV59jBGfbpSH"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/11ZZHbKeaw32nDGhpXQSdl"
       },

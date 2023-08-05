@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Emma Hoet
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,284 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,416 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Septembre](https://open.spotify.com/track/5doB18k5d74YdrF74Dybvf) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Septembre](https://open.spotify.com/album/03TAOcjBtygRXgMPDAMBy6) | 3:24 |
 | 50 | [corazón caramelo](https://open.spotify.com/track/7l6IETTWscYOYcqjgy27yj) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [corazón caramelo](https://open.spotify.com/album/1LHcIXM8IPz3TuTXlhinSd) | 2:37 |
 
-Snapshot ID: `MCw5Zjk4YTBhY2U0MGQ0ZjZiNTJkOGFjNzY3MWU5NzRhOGVjZGU4Y2Rk`
+Snapshot ID: `MCw3ZjdmMWE4MDU5YzU3ZTI1MWZmYWZjMTY1ZDgyZDAzOGNiN2I5ZDdh`

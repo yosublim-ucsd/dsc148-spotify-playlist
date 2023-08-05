@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-652 songs - 1 day 15 hr 59 min
+653 songs - 1 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Forever Young \- From NBC's Parenthood](https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Forever Young \(From NBC's Parenthood\)](https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN) | 4:21 | 2021-10-20 |  |
 | [Forever Young \- Live at Benaroya Hall, Seattle, WA \- November 2010](https://open.spotify.com/track/4o8k0A5ZB6WybwgCnn77ox) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Seattle Symphony Orchestra](https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb) | [Live At Benaroya Hall with The Seattle Symphony](https://open.spotify.com/album/7jKJ68WplsoCCnbpKUXiV8) | 4:46 | 2021-10-20 |  |
 | [Fortunate Son](https://open.spotify.com/track/4B1oEy7m2dl1osmBE6L3AE) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Recycled Recipes](https://open.spotify.com/album/6NW3ZLjyJM0McaliJS9hwk) | 2:40 | 2021-10-20 | 2022-07-29 |
-| [Fortunate Son](https://open.spotify.com/track/63vZ8WlRIufZiJMMnWUCZh) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Recycled Recipes](https://open.spotify.com/album/7xzscnekPsgqItXZXo0COb) | 2:40 | 2022-06-10 |  |
+| [Fortunate Son](https://open.spotify.com/track/63vZ8WlRIufZiJMMnWUCZh) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Recycled Recipes](https://open.spotify.com/album/7xzscnekPsgqItXZXo0COb) | 2:40 | 2022-06-10 | 2023-08-05 |
 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 | 2021-10-20 |  |
 | [Friday I'm in Love](https://open.spotify.com/track/1Le9GcRkDzdcuPnF95PLZB) | [Janet Devlin](https://open.spotify.com/artist/2GDNbg4B7fHn1PqHlEdtd1) | [Running With Scissors](https://open.spotify.com/album/2dPBthzu1FhTgAlqp6WWL3) | 3:07 | 2021-10-20 | 2022-07-29 |
 | [Friday I'm In Love](https://open.spotify.com/track/1L8L3B8BY9SzcJUC8TCSi4) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Stuff Like That There](https://open.spotify.com/album/00vIbcUe4eGeNezbmT3525) | 3:11 | 2022-06-10 |  |
@@ -612,6 +612,7 @@
 | [Why Georgia \- RAWsession](https://open.spotify.com/track/1ZyNC4ePk2gAtRWBNVmd6B) | [Jess Delgado](https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5) | [RAWsession \- 5.25.10](https://open.spotify.com/album/1VjkHEj9MtBnoA3MTH4feP) | 4:26 | 2022-06-10 |  |
 | [Wichita Lineman](https://open.spotify.com/track/5MbBh3SOR5DQOgmKgIXCTb) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Wichita Lineman](https://open.spotify.com/album/34y6ahezJ2avjLIAZ91ST7) | 3:14 | 2022-06-10 | 2022-07-27 |
 | [Wicked Game](https://open.spotify.com/track/7aVUPpEb9j2sSmgb4AdFWD) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Gun Shy](https://open.spotify.com/album/49s4gydDx5gPMsr7a7qoh6) | 4:11 | 2022-06-10 |  |
+| [Wicked Game \(Electric Deluxe Session\)](https://open.spotify.com/track/69UihJzTCLwaNHvJZcinB8) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Wicked Game \(Electric Deluxe Session\)](https://open.spotify.com/album/5mF4WnKgIDfL1LpuBunkWn) | 4:46 | 2023-08-04 |  |
 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 | 2022-06-10 |  |
 | [Wicked Game \- Live at Killkenny Arts Festival, Ireland/2011](https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 4:31 | 2021-10-20 |  |
 | [Wild Horses](https://open.spotify.com/track/1P3JfNdQLDlQUFmo0r5QyK) | [Charlotte Martin](https://open.spotify.com/artist/5Cmht6FxXbw5GtPOCrzjNM) | [On Your Shore](https://open.spotify.com/album/4azwQskqRbcF2yUske9S7q) | 5:31 | 2021-10-20 | 2022-07-29 |

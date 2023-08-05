@@ -4,7 +4,7 @@
 
 > Hear all of LE SSERAFIM's biggest and best hits in one playlist.
 
-25 songs - 1 hr 13 min
+26 songs - 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Choices](https://open.spotify.com/track/0THn1agoZT9wJXkITUz6dJ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Choices](https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI) | 3:21 | 2023-05-01 |  |
 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-05-01 |  |
 | [Eve, Psyche & the Bluebeard’s wife \(English Ver.\)](https://open.spotify.com/track/1xaLyNaaZC3i5tmaDAWP76) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Eve, Psyche & the Bluebeard’s wife \(English Ver.\)](https://open.spotify.com/album/1FoKSB8Kc39zc9exXYtNu8) | 3:06 | 2023-07-13 |  |
+| [Eve, Psyche & the Bluebeard’s wife \(feat\. Demi Lovato\)](https://open.spotify.com/track/5zYrD1r49ex3WJk6iVIhfw) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Eve, Psyche & the Bluebeard’s wife \(feat\. Demi Lovato\)](https://open.spotify.com/album/2VVf6P029Bw2sRXV721xui) | 3:05 | 2023-08-04 |  |
 | [Eve, Psyche & the Bluebeard’s wife \(feat\. UPSAHL\)](https://open.spotify.com/track/2KsiPmkW27MalI0SqC64eI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Eve, Psyche & the Bluebeard’s wife \(feat\. UPSAHL\)](https://open.spotify.com/album/3Nu8JF8Jxcn4hVm5wrL7SB) | 3:06 | 2023-07-14 |  |
 | [Eve, Psyche & the Bluebeard’s wife \(Rina Sawayama Remix\)](https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eve, Psyche & the Bluebeard’s wife \(Rina Sawayama Remix\)](https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh) | 2:54 | 2023-07-28 |  |
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2023-05-01 |  |

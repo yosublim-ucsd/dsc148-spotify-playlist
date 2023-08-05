@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: Zamilska
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,278 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,275 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 31 | [Spina](https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O) | [Spina](https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd) | 3:33 |
 | 32 | [Dokąd biegnę](https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Straty](https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb) | 3:14 |
 | 33 | [Stukamy się browarami](https://open.spotify.com/track/4BxOstnrSY1OmAguUtpljj) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc) | [Stukamy się browarami](https://open.spotify.com/album/2VLLvagKSj1zD2Bok6F32w) | 3:25 |
-| 34 | [twój zapach](https://open.spotify.com/track/0irIpENIile1obCEpugDL1) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [twój zapach](https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K) | 3:00 |
-| 35 | [Suka jak Ja](https://open.spotify.com/track/7j8UcJ1pQBWHiGadelcYH5) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B) | 3:10 |
+| 34 | [Suka jak Ja](https://open.spotify.com/track/7j8UcJ1pQBWHiGadelcYH5) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B) | 3:10 |
+| 35 | [twój zapach](https://open.spotify.com/track/0irIpENIile1obCEpugDL1) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [twój zapach](https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K) | 3:00 |
 | 36 | [The Moon](https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g) | [Youth Novels](https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D), [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [The Moon](https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU) | 4:44 |
 | 37 | [Tamto Lato](https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:12 |
 | 38 | [Miło Cię Poznać](https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Miło Cię Poznać](https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri) | 3:31 |
@@ -50,16 +50,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 40 | [Dolce Vita](https://open.spotify.com/track/2IfNpjacG5irElu8VbHU9r) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O), [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [Dolce Vita](https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ) | 3:54 |
 | 41 | [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc) | [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z) | 2:38 |
 | 42 | [Nie chcę tu wracać już](https://open.spotify.com/track/4VXuZpGJlLgh9UCqQtBbGU) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH), [Bart Gałązka](https://open.spotify.com/artist/1Uem85RHws6LkjjfsX285A) | [Nie chcę tu wracać już](https://open.spotify.com/album/2gUbKgJjAhfDkV5WGNHQCd) | 4:10 |
-| 43 | [Monsters](https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa) | [Mona Lizak](https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb) | [Maski](https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK) | 4:14 |
-| 44 | [Stamina](https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 4:22 |
+| 43 | [Stamina](https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 4:22 |
+| 44 | [Monsters](https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa) | [Mona Lizak](https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb) | [Maski](https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK) | 4:14 |
 | 45 | [Bolt](https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Bolt](https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62) | 3:36 |
 | 46 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 |
 | 47 | [Chłopaki z BMW](https://open.spotify.com/track/6Jg1PUaCjb51scgO15pFBw) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Chłopaki z BMW](https://open.spotify.com/album/3ARUpHzL4WHh3WnxUUKUIi) | 2:50 |
 | 48 | [priorytetem](https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [psychodynamiczne](https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9) | 3:10 |
 | 49 | [Jakoś To Przetrwamy](https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:27 |
-| 50 | [Przed siebie](https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7) | [Oskar Kucmann](https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK) | [Przed siebie](https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi) | 3:03 |
-| 51 | [Glitterball](https://open.spotify.com/track/6J5TokKxTZPXCGzRRVEc4x) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Glitterball](https://open.spotify.com/album/0SB81B0hf9QUkm1klnP2si) | 5:06 |
-| 52 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 |
+| 50 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 |
+| 51 | [Przed siebie](https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7) | [Oskar Kucmann](https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK) | [Przed siebie](https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi) | 3:03 |
+| 52 | [Glitterball](https://open.spotify.com/track/6J5TokKxTZPXCGzRRVEc4x) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Glitterball](https://open.spotify.com/album/0SB81B0hf9QUkm1klnP2si) | 5:06 |
 | 53 | [Przypadki](https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Przypadki](https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG) | 3:10 |
 | 54 | [BSoD \(Bluescreen\)](https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BSoD \(Bluescreen\)](https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag) | 2:59 |
 | 55 | [POKUSSA](https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Pokussa Na Parkiecie](https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv) | 2:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 59 | [Ulubione miejsce](https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Ulubione miejsce](https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf) | 2:55 |
 | 60 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 |
 
-Snapshot ID: `MCxlMDY2NzczYjBlYzIzNGY4OTAwMGU3Nzg2MTVkMzNkNDE5MGYzNTU5`
+Snapshot ID: `MCxhZDE4ZWYwNzM0MjQyNmQ2MzU1MWQ5ZmQ2ODgxZWQ3NWZiNDJiNjc5`

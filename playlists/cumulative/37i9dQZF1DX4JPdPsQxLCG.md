@@ -4,7 +4,7 @@
 
 > Classic tunes for the open road.
 
-337 songs - 22 hr 13 min
+338 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Make You a Believer](https://open.spotify.com/track/3x2TPDl0jQthHTKTgWxz21) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Racine](https://open.spotify.com/album/7pMdUFxJHQTtSLfZMtY0SL) | 4:43 | 2022-05-02 | 2022-07-29 |
 | [Mama](https://open.spotify.com/track/6q9aea43X2EpPGCT5QFDat) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [The Union](https://open.spotify.com/album/2he1XlHeLAuHY8UUVrbiAa) | 3:01 | 2022-05-02 | 2023-05-19 |
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 | 2023-05-18 |  |
+| [Mercy Mercy](https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Mercy Mercy](https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB) | 2:58 | 2023-08-04 |  |
 | [Midnight Rain](https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [Wide Mouth Mason](https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E) | 3:47 | 2022-05-02 | 2022-07-28 |
 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy) | 3:55 | 2022-09-10 | 2022-09-15 |
 | [Money City Maniacs](https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Navy Blues](https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6) | 3:53 | 2022-05-02 | 2023-06-02 |
@@ -234,7 +235,7 @@
 | [Rockin' in the Free World](https://open.spotify.com/track/4Y7fEQ4PAzhlLnLviRw2P4) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Freedom](https://open.spotify.com/album/3uOOKcr91I3Br0Rtmu4zdT) | 4:41 | 2022-05-02 | 2022-07-29 |
 | [Rockstar](https://open.spotify.com/track/6n9yCXvLhnYMgJIiIcMu7D) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons \(Special Edition\)](https://open.spotify.com/album/69ny9Y7VrjVP7JNK0xhYke) | 4:12 | 2023-05-18 |  |
 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 | 2022-05-02 |  |
-| [S.O.S\. \(Sawed Off Shotgun\)](https://open.spotify.com/track/3NyovXfcpc8PDWWKH7xEDs) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Young Beauties and Fools](https://open.spotify.com/album/7bauAaXGIb5m0O5zliJKwE) | 3:15 | 2023-05-18 |  |
+| [S.O.S\. \(Sawed Off Shotgun\)](https://open.spotify.com/track/3NyovXfcpc8PDWWKH7xEDs) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Young Beauties and Fools](https://open.spotify.com/album/7bauAaXGIb5m0O5zliJKwE) | 3:15 | 2023-05-18 | 2023-08-05 |
 | [Seasons in the Sun](https://open.spotify.com/track/6AhUX0ObPgTnS5GGFrRidN) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:25 | 2022-09-13 | 2022-11-13 |
 | [Seasons in the Sun](https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Seasons In The Sun \(Expanded Edition\)](https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J) | 3:28 | 2022-05-02 |  |
 | [Share the Land](https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Share The Land](https://open.spotify.com/album/3zlRX163Z3F9H0MWPmtiBV) | 3:55 | 2022-05-02 | 2023-05-19 |

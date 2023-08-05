@@ -2,9 +2,9 @@
 
 ### [Latin Pop Today](https://open.spotify.com/playlist/37i9dQZF1DX1QnNyJOBQBv)
 
-> The hottest Latin pop tracks right now\. Cover: Ramon Vega & Christian Nodal
+> The hottest Latin pop tracks right now\. Cover: Danna Paola
 
-343 songs - 17 hr 52 min
+345 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Guerrero.mp3](https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Guerrero.mp3](https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E) | 3:58 | 2023-06-16 | 2023-07-15 |
 | [Hablando De Love](https://open.spotify.com/track/74aGIoQo8pokxzylUTw603) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hablando De Love](https://open.spotify.com/album/45Uc1E3MBmk84QvHES0Zn5) | 2:36 | 2022-03-22 | 2022-05-07 |
 | [Hasta Los Dientes](https://open.spotify.com/track/2U0jWXrxJUzWVlLsHttAXJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:08 | 2022-04-08 | 2022-05-28 |
-| [Hasta Por La Mañana](https://open.spotify.com/track/2XTcif4p4qS5oXWtcnBzhK) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Hasta Por La Mañana](https://open.spotify.com/album/268Ka9r2r5AQInpvhNQgcQ) | 2:51 | 2023-07-14 |  |
+| [Hasta Por La Mañana](https://open.spotify.com/track/2XTcif4p4qS5oXWtcnBzhK) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Hasta Por La Mañana](https://open.spotify.com/album/268Ka9r2r5AQInpvhNQgcQ) | 2:51 | 2023-07-14 | 2023-08-05 |
 | [Imagina](https://open.spotify.com/track/45nbChzfUPP8GO4rMthTNv) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Imagina](https://open.spotify.com/album/1yN7RC8f5hMASKpgvEHRDC) | 3:44 | 2022-05-06 | 2022-07-09 |
 | [Infieles](https://open.spotify.com/track/2bta5uOxojY072yAOSniu3) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Infieles](https://open.spotify.com/album/4DARi06HF0mOTbnibgzXWd) | 3:31 | 2023-02-17 | 2023-03-25 |
 | [Instagram](https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Instagram](https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH) | 2:42 | 2022-04-15 | 2022-06-16 |
@@ -229,7 +229,7 @@
 | [NEGRO MATE](https://open.spotify.com/track/2OsclrHyXnqYmKm6ji1vij) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 2:51 | 2021-12-16 | 2022-09-24 |
 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 | 2022-09-09 | 2023-01-14 |
 | [No Puede Ser \- con Eladio Carrion](https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [No Puede Ser \(con Eladio Carrion\)](https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP) | 3:11 | 2022-01-14 | 2022-09-22 |
-| [No Se Acaba Hasta Que Acabe](https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88) | 3:06 | 2023-02-17 |  |
+| [No Se Acaba Hasta Que Acabe](https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88) | 3:06 | 2023-02-17 | 2023-08-05 |
 | [No Te Bastó, Mi Corazón](https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [No Te Bastó, Mi Corazón](https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54) | 3:04 | 2022-04-15 | 2022-10-27 |
 | [No Te Olvido](https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Te Olvido](https://open.spotify.com/album/1veQ29kfzujZr8HSu7BuRX) | 3:05 | 2021-12-16 | 2022-01-29 |
 | [NO voy a llorar :'\)](https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [NO voy a llorar :'\)](https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT) | 2:58 | 2023-03-10 | 2023-04-29 |
@@ -300,6 +300,7 @@
 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 | 2022-09-06 | 2022-10-27 |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2021-12-16 | 2022-02-12 |
 | [Solita y SueltAAA](https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:35 | 2023-07-21 |  |
+| [Soltando A Pedazos](https://open.spotify.com/track/54Hpm4MoCvzmlO6yvD2wj0) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Soltando A Pedazos](https://open.spotify.com/album/5KsQBvqPKCWGC15MCPOaJy) | 2:44 | 2023-08-04 |  |
 | [Somos Nada](https://open.spotify.com/track/4PjP5gxDF09ceeiOPx4POn) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Somos Nada](https://open.spotify.com/album/5m1jCoLncBreQFQOaUK3Zl) | 3:06 | 2021-12-16 | 2022-01-29 |
 | [Soy capaz](https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Soy capaz](https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT) | 3:25 | 2021-12-16 | 2022-01-15 |
 | [Sueltas](https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Sueltas](https://open.spotify.com/album/7owbqoUvVQBJYuoEto3IMe) | 2:43 | 2023-03-17 | 2023-05-20 |
@@ -310,6 +311,7 @@
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-09-09 | 2023-01-28 |
 | [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 | 2023-03-03 | 2023-04-29 |
 | [Te Olvido](https://open.spotify.com/track/1ycIhjQ4fQp2WqNFpSDEcX) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Te Olvido](https://open.spotify.com/album/670aQBkW0Vvjz8GFVOVRJT) | 3:31 | 2021-12-16 | 2022-05-11 |
+| [Tenemos que hablar](https://open.spotify.com/track/5xFwioXLRFwel6y4Z3dHwI) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Tenemos que hablar](https://open.spotify.com/album/6SppbUoXhxk8dUHPLbRmMU) | 3:10 | 2023-08-04 |  |
 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 | 2022-05-10 | 2023-02-18 |
 | [tensión](https://open.spotify.com/track/2nO0Wk3YrbisjXcCDJkR5T) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [tensión](https://open.spotify.com/album/0hnC4bP1PMMt18ZPdMftFX) | 3:07 | 2022-06-15 | 2022-08-06 |
 | [Toda la Vida](https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:10 | 2022-05-23 | 2022-08-06 |

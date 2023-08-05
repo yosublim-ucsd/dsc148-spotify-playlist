@@ -2,9 +2,9 @@
 
 ### [Top Christian Rock](https://open.spotify.com/playlist/37i9dQZF1DX0N57moxx9BL)
 
-> Listen to the recent hits of Christian Rock\.  Cover:  <a href="https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr?si=e5058065479e4f97">Thousand Foot Krutch</a> and <a href="https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk?si=0da24d47e12746eb">Adelitas Way</a>
+> Listen to the recent hits of Christian Rock\.  Cover:  <a href="https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk?si=gnYOdOZxT\_\-mL\-QVsbRxKQ">Red</a>
 
-153 songs - 10 hr 5 min
+156 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [ANOTHER PLACE](https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [EXILE](https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3) | 4:16 | 2022-10-29 |  |
 | [Ashes to Ashes](https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [The Final Battle](https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy) | 3:53 | 2022-10-29 |  |
 | [Attack](https://open.spotify.com/track/48HyHfhq5gUI11xucqR6cE) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Attack](https://open.spotify.com/album/7sXChGm9M5qwsrKYb7t2yJ) | 3:12 | 2023-07-07 |  |
-| [Awakening](https://open.spotify.com/track/7FR48bbJ4rMj6VbcMj1S0O) | [Relesser](https://open.spotify.com/artist/2mUGKlvJrS87MDsEFAXIBE) | [Release](https://open.spotify.com/album/3ES159pwFUduOUXzDaxwv3) | 3:21 | 2021-05-28 |  |
+| [Awakening](https://open.spotify.com/track/7FR48bbJ4rMj6VbcMj1S0O) | [Relesser](https://open.spotify.com/artist/2mUGKlvJrS87MDsEFAXIBE) | [Release](https://open.spotify.com/album/3ES159pwFUduOUXzDaxwv3) | 3:21 | 2021-05-28 | 2023-08-05 |
 | [Balconies](https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo) | [Paper Route](https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID) | [Real Emotion](https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL) | 4:14 | 2021-05-28 |  |
 | [Be Somebody](https://open.spotify.com/track/33MnSYLvtOrbj5zwfioEiH) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [The End Is Where We Begin](https://open.spotify.com/album/6YJYFQ1Zz9I49YQknK4wIn) | 3:42 | 2022-03-11 |  |
 | [Be Somebody](https://open.spotify.com/track/3NRhy4mzDwQc6IgPwyQM1x) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [The End Is Where We Begin](https://open.spotify.com/album/4fSovBNtliN1OY3CXNDS16) | 3:42 | 2021-05-28 | 2022-07-29 |
@@ -37,6 +37,7 @@
 | [Cold Winter Sun](https://open.spotify.com/track/3HUHIjnMOD22APRvYFlc6f) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Outlive](https://open.spotify.com/album/7kZFUYmtCKFdPvBIGzw6ow) | 3:25 | 2021-05-28 | 2022-07-29 |
 | [Cold Winter Sun](https://open.spotify.com/track/3x0jpqonkfTOPXtoVP4vmb) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Outlive](https://open.spotify.com/album/3qumSCBx2jU1GB8aIfXhrn) | 3:25 | 2022-03-11 |  |
 | [Coming Clean](https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8) | [Attalus](https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ) | [Into the Sea](https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr) | 4:05 | 2021-05-28 |  |
+| [Count 'Em](https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Count 'Em](https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd) | 3:47 | 2023-08-04 |  |
 | [Counterfeit](https://open.spotify.com/track/02KS93L0i9PxtP17FAfDCN) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eclipse](https://open.spotify.com/album/6L8gLKCluioceYP7WNmcol) | 2:52 | 2021-05-28 | 2022-03-12 |
 | [Courtesy Call](https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [The End Is Where We Begin](https://open.spotify.com/album/6YJYFQ1Zz9I49YQknK4wIn) | 3:56 | 2022-03-11 |  |
 | [Courtesy Call](https://open.spotify.com/track/4oNgvj3zUCsyAp0BuMkyxH) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [The End Is Where We Begin](https://open.spotify.com/album/0XOUeOsnNh9rTDB0ONO7O9) | 3:56 | 2021-05-28 | 2022-07-29 |
@@ -127,10 +128,11 @@
 | [Stones](https://open.spotify.com/track/0mdx5qbiXWMkAUdL2HroPx) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Stones](https://open.spotify.com/album/1G6CJehs2AyISaaYgXGMfN) | 3:11 | 2021-05-28 | 2022-07-29 |
 | [Stones](https://open.spotify.com/track/42H7odYYQQwdWpy3tnjMka) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Stones](https://open.spotify.com/album/3Ncre0QjJsoutiGoT2LwBv) | 3:11 | 2022-03-11 |  |
 | [Strong Enough to Live \(Acoustic\)](https://open.spotify.com/track/0YQBnvW2XtRrygrgn4sYbl) | [Late Night Savior](https://open.spotify.com/artist/4yMIEw1F5ALRIv7bZz0jid), [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Strong Enough to Live](https://open.spotify.com/album/5iaVtM0KucT2XDISJjmRTP) | 3:40 | 2022-01-14 |  |
+| [Surrogates](https://open.spotify.com/track/35SrlqVrYmRxAB4g54ow9z) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Surrogates](https://open.spotify.com/album/6g3FEJFGxNUOCJpaeaLMfS) | 3:00 | 2023-08-04 |  |
 | [Surviving The Game](https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 3:58 | 2022-03-11 |  |
 | [Surviving The Wasteland](https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Surviving The Wasteland](https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx) | 3:18 | 2023-02-17 |  |
 | [Tell Me](https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ) | [As We Ascend](https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1) | [Farewell to Midnight](https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH) | 3:34 | 2021-05-28 |  |
-| [The Antihero](https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [The Antihero](https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW) | 4:08 | 2022-01-14 |  |
+| [The Antihero](https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [The Antihero](https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW) | 4:08 | 2022-01-14 | 2023-08-05 |
 | [The Cave](https://open.spotify.com/track/4rf3psGLD1Ol5sn7Z2VI9F) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [The Cave](https://open.spotify.com/album/4MDSWuaSkuJrIz6XE68q14) | 3:36 | 2023-07-28 |  |
 | [The Executioner](https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [The Executioner](https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT) | 4:07 | 2023-02-17 |  |
 | [The Fire Itself](https://open.spotify.com/track/0qrjqzcP1kbhtKD2HfODmy) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [The Fire Itself](https://open.spotify.com/album/5Oo7UOjikKgfz36UDS1RAW) | 3:39 | 2022-01-14 | 2023-02-18 |
@@ -156,7 +158,8 @@
 | [What Are You Waiting For](https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S) | [Futur](https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9) | [What Are You Waiting For](https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9) | 3:19 | 2021-05-28 |  |
 | [What Else You Got?](https://open.spotify.com/track/2d1feQVlJUOJBMhbxltBRO) | [The Protest](https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA) | [Legacy](https://open.spotify.com/album/0oCKybhWiSlHxy9V2YQlvk) | 2:46 | 2021-05-28 |  |
 | [What I've Become](https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [What I've Become](https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh) | 3:24 | 2021-05-28 |  |
-| [When Angels & Serpents Dance \- 2022 Remixed & Remastered](https://open.spotify.com/track/0J9gierW99wkbmJqZVD6T3) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/6aMuZClWGBnBfYeNr36peJ) | 3:14 | 2022-10-29 |  |
+| [When Angels & Serpents Dance \- 2022 Remixed & Remastered](https://open.spotify.com/track/0J9gierW99wkbmJqZVD6T3) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/6aMuZClWGBnBfYeNr36peJ) | 3:14 | 2022-10-29 | 2023-08-05 |
+| [When Angels & Serpents Dance \- 2022 Remixed & Remastered](https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 3:14 | 2023-08-04 |  |
 | [Wild Ones](https://open.spotify.com/track/5TDFpV2PIoU0leXEBq3zv2) | [Crusoe](https://open.spotify.com/artist/6ON5hdOJnGooX4VqLtObIl) | [Wild Ones](https://open.spotify.com/album/7mjkYaoqV3XIh6q6TBGvUv) | 3:02 | 2021-05-28 | 2022-10-30 |
 | [Words of Fire](https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Words of Fire](https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H) | 4:11 | 2022-10-29 |  |
 | [You Are](https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [You Are](https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51) | 3:31 | 2022-01-14 |  |

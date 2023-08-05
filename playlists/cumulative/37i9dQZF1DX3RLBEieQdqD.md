@@ -2,9 +2,9 @@
 
 ### [Ranchenato](https://open.spotify.com/playlist/37i9dQZF1DX3RLBEieQdqD)
 
-> ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Jessi Uribe & Yeison Jiménez
+> ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Grupo Frontera
 
-119 songs - 7 hr 1 min
+120 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Dos Botellas](https://open.spotify.com/track/1BYJUQib7hGpWjJu4VmiM6) | [Lucas Arnau](https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Dos Botellas](https://open.spotify.com/album/0QusQFkYfRnPt2leEkHVlI) | 2:44 | 2022-08-18 | 2023-02-04 |
 | [Dulce Pecado](https://open.spotify.com/track/6dESHIzqYPl9TXwjNvpWY7) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Dulce Pecado](https://open.spotify.com/album/4uKTBb1RCAHdxo5kGeT3q3) | 2:55 | 2023-02-03 |  |
 | [Dulce Pecado](https://open.spotify.com/track/7al6OaakdGoXtEGRy05lgu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 2:55 | 2022-08-18 | 2023-02-25 |
+| [EL AMOR DE SU VIDA](https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:45 | 2023-08-04 |  |
 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 4:35 | 2022-08-18 |  |
 | [El Desmadre](https://open.spotify.com/track/1UW2EbzKVV5Vubsmp5NA0j) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [El Desmadre](https://open.spotify.com/album/7EA4LPbqYNO4h7K0xhfA8c) | 2:51 | 2022-08-18 |  |
 | [El DM](https://open.spotify.com/track/4jVs3F4YeYMc4mi33rItRt) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [El DM](https://open.spotify.com/album/6tjkmYe7q6QVEPwLMWpuus) | 3:04 | 2023-02-03 | 2023-04-15 |
@@ -63,7 +64,7 @@
 | [Guaro \- Remix](https://open.spotify.com/track/3PmqejsYxlhII2zo7zXtQ8) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM), [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX), [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv), [Juan Pablo Navarrete](https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi) | [Guaro \(Remix\)](https://open.spotify.com/album/68DJWrVtz96h4wibetOKzS) | 3:42 | 2022-08-18 |  |
 | [La Conquista](https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Conquista](https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY) | 3:06 | 2022-08-18 |  |
 | [La Culpa](https://open.spotify.com/track/5G4ZDg8qtObwMXt0F8Sw4A) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Culpa](https://open.spotify.com/album/6Kq8jaRneZMqYi3YkMvKqb) | 2:37 | 2022-08-18 |  |
-| [La Peor](https://open.spotify.com/track/7ug5WK1GBbyaoUsV5Fi3Rj) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [La Peor](https://open.spotify.com/album/2wQN91Z2EyMWawFD1HIzGs) | 3:30 | 2022-08-18 |  |
+| [La Peor](https://open.spotify.com/track/7ug5WK1GBbyaoUsV5Fi3Rj) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [La Peor](https://open.spotify.com/album/2wQN91Z2EyMWawFD1HIzGs) | 3:30 | 2022-08-18 | 2023-08-05 |
 | [La Perdí](https://open.spotify.com/track/1KGM6EITxeU7UulAYCxF7L) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [La Perdí](https://open.spotify.com/album/18RSFe7GgCnKtnZKwiAUwO) | 2:50 | 2023-02-03 |  |
 | [La Soltería](https://open.spotify.com/track/4i7LiTgRjxjlf8PMwRpxEy) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [La Soltería](https://open.spotify.com/album/7vxm6yeIcA63WUGy39KwAT) | 3:23 | 2022-08-18 |  |
 | [Le Hace Falta Un Beso \(feat\. Pipe Bueno\) \- Versión Ranchera](https://open.spotify.com/track/2zGN2Pjf8FRZb3xYM0PkF3) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Le Hace Falta Un Beso \(feat\. Pipe Bueno\) \[Versión Ranchera\]](https://open.spotify.com/album/6Xg3KAks81uVX1lzsvg4gu) | 2:51 | 2022-08-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 43902,
+  "num_followers": 43906,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzRjZDhiNzA2MTgyZTEyZDE1ZTQ0NjJiMzczYWY0YzFjNTU1MTA2",
+  "snapshot_id": "MCwyZGVjODhmZWRkZmNkYzRmNDNmOTQyMGQ0ODY1ZDZiODFjMzlkZjJm",
   "tracks": [
     {
       "added_at": "2023-08-03 15:00:00",
@@ -427,22 +427,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 185422,
-      "name": "The Joker And The Queen (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+      "duration_ms": 246693,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -463,18 +459,22 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Middle Ground",
-        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Middle Ground",
-      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp"
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 246693,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf"
+      "duration_ms": 219800,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "strobo",
-        "url": "https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy"
+        "name": "anatomy",
+        "url": "https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg"
       },
       "artists": [
         {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
         }
       ],
-      "duration_ms": 203787,
-      "name": "napori",
-      "url": "https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae"
+      "duration_ms": 182073,
+      "name": "anatomy",
+      "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "anatomy",
-        "url": "https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg"
+        "name": "strobo",
+        "url": "https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy"
       },
       "artists": [
         {
-          "name": "kenzie",
-          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 182073,
-      "name": "anatomy",
-      "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
+      "duration_ms": 203787,
+      "name": "napori",
+      "url": "https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae"
     },
     {
       "added_at": "2023-08-03 15:00:00",

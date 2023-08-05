@@ -1,12 +1,12 @@
 {
   "description": "S\u00ed, \u00a1ya estamos viejos!",
-  "num_followers": 1166900,
+  "num_followers": 1167502,
   "original_name": "Los 2000 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmU5NzJkNmVjZDM5MzVlYWY3ODAwNDMzYjdiYjlhZDIwNzVmNWIw",
+  "snapshot_id": "MCw4ZDk2MjVjNjg1NjhkY2U5YmRkYmExMmFlZTU0MGNiMDJhZWRiNmNj",
   "tracks": [
     {
       "added_at": "2023-01-23 18:49:38",
@@ -927,6 +927,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "Esta Es Mi Vida",
+        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Espacio sideral",
+      "url": "https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "Sin Bandera",
         "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 185826,
       "name": "El Loco",
       "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Esta Es Mi Vida",
-        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Espacio sideral",
-      "url": "https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 194320,
+      "name": "Te necesito",
+      "url": "https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 239706,
       "name": "Me equivoqu\u00e9",
       "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 194320,
-      "name": "Te necesito",
-      "url": "https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Sin Bandera",
-        "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "Kil\u00f3metros",
-      "url": "https://open.spotify.com/track/0AcFsf9FGjL1Al2RBQ1Crq"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 285066,
       "name": "Y T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Sin Bandera",
+        "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "Kil\u00f3metros",
+      "url": "https://open.spotify.com/track/0AcFsf9FGjL1Al2RBQ1Crq"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Lu",
-        "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
-      },
-      "artists": [
-        {
-          "name": "LU",
-          "url": "https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Por Besarte",
-      "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Infame",
         "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 225706,
       "name": "Putita",
       "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Lu",
+        "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
+      },
+      "artists": [
+        {
+          "name": "LU",
+          "url": "https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Por Besarte",
+      "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "SINO",
-        "url": "https://open.spotify.com/album/4yLlkceQbuq64zdFnxdCYB"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "Quiero Ver",
-      "url": "https://open.spotify.com/track/7s41ZGjQB5Ur8T0fQlk5uM"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Paulina",
         "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 224640,
       "name": "Yo No Soy Esa Mujer",
       "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "SINO",
+        "url": "https://open.spotify.com/album/4yLlkceQbuq64zdFnxdCYB"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Quiero Ver",
+      "url": "https://open.spotify.com/track/7s41ZGjQB5Ur8T0fQlk5uM"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
+        "name": "Fuerza Natural",
+        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
       },
       "artists": [
         {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Suavemente",
-      "url": "https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f"
+      "duration_ms": 234760,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Fuerza Natural",
-        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 234760,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
+      "duration_ms": 267000,
+      "name": "Suavemente",
+      "url": "https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1503,6 +1503,22 @@
       "duration_ms": 241160,
       "name": "Est\u00e9s Donde Est\u00e9s",
       "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Esta Es Mi Vida",
+        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Llegaste t\u00fa",
+      "url": "https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1535,22 +1551,6 @@
       "duration_ms": 183533,
       "name": "El Eco de Tu Voz",
       "url": "https://open.spotify.com/track/4u8snuKA78YNkJujLeh7Ht"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Esta Es Mi Vida",
-        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Llegaste t\u00fa",
-      "url": "https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni"
     },
     {
       "added_at": "2020-11-17 04:03:12",

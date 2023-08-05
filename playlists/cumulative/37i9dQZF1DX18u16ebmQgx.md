@@ -4,11 +4,12 @@
 
 > ¡Brillando baldosa! Foto: Grupo Niche
 
-97 songs - 7 hr 18 min
+98 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Amantes \- Versión Salsa](https://open.spotify.com/track/30UA08ePK3varU1cNX2Owt) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Amantes \(Versión Salsa\)](https://open.spotify.com/album/1H1HjzU8EqJNAdSJgAVAmN) | 4:04 | 2022-06-24 | 2022-11-29 |
+| [Antioqueña](https://open.spotify.com/track/0q9gWhv4K5GKzkJW80PYgS) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [Antioqueña](https://open.spotify.com/album/6XC3sy2ZJvlDj6ezJLx8eb) | 4:29 | 2023-08-04 |  |
 | [Ayúdame Inspiración](https://open.spotify.com/track/4t3ZKcUdZkASycS1nixIgL) | [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Cuba Linda](https://open.spotify.com/album/5XhWe2O6ZHYu33IE67buw7) | 4:07 | 2022-06-24 |  |
 | [Barranquillero Arrebatao](https://open.spotify.com/track/1sRY0Zez8RbxqsxzEWjNLg) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Grandes Exitos de Salsa, Vol\. 2](https://open.spotify.com/album/2htqg9e6AGwnIoVc0kceDU) | 4:20 | 2022-06-24 |  |
 | [Barranquillero Arrebatao](https://open.spotify.com/track/4DnMkFF2QuciJ2oYI3Ha09) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [La Salsa, Identidad de un Pueblo \- Vol\. 9 Expresión del Sabor](https://open.spotify.com/album/5OsHlVbctGsSNQK4oqydIW) | 4:20 | 2022-06-24 | 2022-11-13 |
@@ -46,7 +47,7 @@
 | [Gotas De Lluvia](https://open.spotify.com/track/3wBuU391TaEr9NEPkN1e1j) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:54 | 2022-06-24 |  |
 | [Hagamos Lo Que Diga el Corazón \- Versión Sinfónica](https://open.spotify.com/track/4hylk17Bo5u7qK7FfjNz7v) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Orquesta Sinfónica Nacional de Colombia](https://open.spotify.com/artist/7sUl9zCp7EkwUAnAEaH26W) | [Hagamos Lo Que Diga el Corazón \(Versión Sinfónica\)](https://open.spotify.com/album/4oQHXfUffQUYqRgb6zc4A2) | 5:38 | 2023-03-10 |  |
 | [Herencia Taína](https://open.spotify.com/track/629c9wMP8VDhq3VhUeaIiD) | [Marea Brava Orquesta](https://open.spotify.com/artist/6CnhNwAiuTppiZo7xLRqzG) | [Pa' Ti y Pa' Mi](https://open.spotify.com/album/23xGV7gv77nP015aIbmvEk) | 4:36 | 2022-06-24 |  |
-| [Juan](https://open.spotify.com/track/4cou0fuQJ6O64pgPp5liuR) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [Si Tú Quieres Salsa Lado B](https://open.spotify.com/album/7CcqaYJ0cit9w1z66pXcbn) | 3:51 | 2022-06-24 |  |
+| [Juan](https://open.spotify.com/track/4cou0fuQJ6O64pgPp5liuR) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [Si Tú Quieres Salsa Lado B](https://open.spotify.com/album/7CcqaYJ0cit9w1z66pXcbn) | 3:51 | 2022-06-24 | 2023-08-05 |
 | [La Flor de los Lindos Campos](https://open.spotify.com/track/5jrB7AWwtAdW1mGae1mFNN) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [La Flor de los Lindos Campos](https://open.spotify.com/album/2BUtJVFArByIESwG092wHR) | 3:53 | 2022-06-24 |  |
 | [La Gente Pide](https://open.spotify.com/track/2FG1vENJylGnBFapXAWi57) | [La Gente Pide](https://open.spotify.com/artist/0SBZ8cqWJimTrGqpL4ecDr) | [Justa Calma](https://open.spotify.com/album/0DRfIvaLRYHJmlo2b555M9) | 4:13 | 2022-06-24 |  |
 | [La Noche](https://open.spotify.com/track/5PZSJ82pbleLjUcxbSBp6R) | [El Sonero de América](https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ) | [35 Años de Exitos](https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja) | 4:23 | 2023-03-24 | 2023-07-29 |

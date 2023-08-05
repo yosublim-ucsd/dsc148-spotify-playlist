@@ -1365,6 +1365,28 @@
     },
     {
       "album": {
+        "name": "BATIDA DE FUNK",
+        "url": "https://open.spotify.com/album/219SHZSr9CjzSbuC6tTC70"
+      },
+      "artists": [
+        {
+          "name": "2KE",
+          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85054,
+      "name": "BATIDA DE FUNK",
+      "url": "https://open.spotify.com/track/5cqTrRH9KD2vf8pi0mruHZ"
+    },
+    {
+      "album": {
         "name": "Be Free",
         "url": "https://open.spotify.com/album/1XWmso7QfG25h0xhu3eShw"
       },

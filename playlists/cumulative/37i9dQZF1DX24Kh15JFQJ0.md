@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-217 songs - 12 hr 46 min
+218 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Grass Is Green Enough Right Here](https://open.spotify.com/track/2tQFUEceD3I2SHKzT6u9Z4) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Grass Is Green Enough Right Here](https://open.spotify.com/album/2eNC9W2afhPJOYIp6qgFTm) | 2:26 | 2023-01-06 |  |
 | [Grits](https://open.spotify.com/track/2ZgZwqFtcaKLYEayrYxL4N) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj), [The Gatlin Brothers](https://open.spotify.com/artist/5gk8WuURY14x0kfrlktz7X), [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt), [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u), [Dean Miller](https://open.spotify.com/artist/2lyuVVWLKysEfl3IsWJpvZ) | [Grits](https://open.spotify.com/album/5RGYpGBUySZlP9XX4Q4H8n) | 3:07 | 2023-04-07 |  |
 | [Have We Forgotten](https://open.spotify.com/track/5kJWyyYDsmZGvPq5kTqwJG) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Have We Forgotten](https://open.spotify.com/album/06G018rLOJH3CHgWu1m3ew) | 4:05 | 2023-06-30 |  |
+| [Healing Hands Of Time](https://open.spotify.com/track/34sj5y5j85TPf4Q46QAJUD) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Sweet Memories: The Music Of Ray Price & The Cherokee Cowboys](https://open.spotify.com/album/7d5S3zwO2vZn64PbtLZQ9r) | 2:55 | 2023-08-04 |  |
 | [Heartbreak Song](https://open.spotify.com/track/3q3hcw8QF3feQOpd3xKdMy) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Heartbreak Song](https://open.spotify.com/album/6el7S7Ebsgh69AimpDPesJ) | 3:59 | 2022-07-29 |  |
 | [Hearts in the Sand](https://open.spotify.com/track/3C91xtXZGNY4mM2DcbzlRt) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [The Rest of It's Mine](https://open.spotify.com/album/6b5WQURAJNRYKYYKbtMenX) | 3:56 | 2022-07-22 |  |
 | [Her Loving Man](https://open.spotify.com/track/2VqE5LvdZ5S8CBrxubpakU) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [12th of June](https://open.spotify.com/album/0p13hRQZ6VwBqXuoYzFtBR) | 5:22 | 2022-05-16 |  |

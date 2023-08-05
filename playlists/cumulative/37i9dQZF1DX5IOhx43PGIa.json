@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illuminating Asian artists everywhere & celebrating South Asian Heritage Month! Cover: Rhea Raj.",
+  "description": "Illuminating Asian artists everywhere. Cover: Mitski.",
   "name": "Jasmine",
   "tracks": [
     {
@@ -1144,6 +1144,24 @@
       "duration_ms": 209493,
       "name": "BTSTU - Edit",
       "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
+    },
+    {
+      "album": {
+        "name": "Bug Like an Angel",
+        "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "Bug Like an Angel",
+      "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
     },
     {
       "album": {
@@ -6827,6 +6845,28 @@
     },
     {
       "album": {
+        "name": "Realest (with Eminem)",
+        "url": "https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P"
+      },
+      "artists": [
+        {
+          "name": "Ez Mil",
+          "url": "https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217470,
+      "name": "Realest (with Eminem)",
+      "url": "https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB"
+    },
+    {
+      "album": {
         "name": "Regressa",
         "url": "https://open.spotify.com/album/13tIJgBaVDaP0wnPolXpN0"
       },
@@ -6962,7 +7002,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 218048,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
@@ -8874,7 +8914,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 173454,
       "name": "Trust Yourself",
       "url": "https://open.spotify.com/track/0Slju470ZWMOTxfN3wHIxm"

@@ -1,12 +1,12 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 83564,
+  "num_followers": 83688,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzNmNDY4YTRiOTllYWFlY2VkMWU1ZTBjZWVlOTViMzc5NTFmNmQ2",
+  "snapshot_id": "MCxjYzM2ODQ2N2YzOGU1ZWVjYjM1MjUyZTVjM2Q4M2I1YzJlZjM4OTkz",
   "tracks": [
     {
       "added_at": "2023-06-21 11:26:10",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2023-06-21 11:26:10",
       "album": {
-        "name": "Lee Konitz with Warne Marsh",
-        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        },
-        {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
-        }
-      ],
-      "duration_ms": 285666,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
-    },
-    {
-      "added_at": "2023-06-21 11:26:10",
-      "album": {
         "name": "Pres and Teddy",
         "url": "https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 410666,
       "name": "Love Me Or Leave Me",
       "url": "https://open.spotify.com/track/03zs6lKk7xwsdIusCnwXL9"
+    },
+    {
+      "added_at": "2023-06-21 11:26:10",
+      "album": {
+        "name": "Lee Konitz with Warne Marsh",
+        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        },
+        {
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+        }
+      ],
+      "duration_ms": 285666,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
     },
     {
       "added_at": "2023-06-21 11:26:10",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-06-21 11:26:10",
       "album": {
+        "name": "The Jazz Giants '56",
+        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 602173,
+      "name": "I Didn't Know What Time It Was",
+      "url": "https://open.spotify.com/track/1lAoG1TBej7gYJQ3UHUxjT"
+    },
+    {
+      "added_at": "2023-06-21 11:26:10",
+      "album": {
         "name": "Gettin' Together!",
         "url": "https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 245906,
       "name": "I Cover The Waterfront",
       "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
-    },
-    {
-      "added_at": "2023-06-21 11:26:10",
-      "album": {
-        "name": "Cliff Craft",
-        "url": "https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a"
-      },
-      "artists": [
-        {
-          "name": "Cliff Jordan",
-          "url": "https://open.spotify.com/artist/6nJj8JTUBrIp9BtIwbdvij"
-        }
-      ],
-      "duration_ms": 406066,
-      "name": "Sophisticated Lady",
-      "url": "https://open.spotify.com/track/0VfMAOS8d2Tbaxuozgy8qJ"
     },
     {
       "added_at": "2023-06-21 11:26:10",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-06-21 11:26:10",
       "album": {
+        "name": "Cliff Craft",
+        "url": "https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a"
+      },
+      "artists": [
+        {
+          "name": "Cliff Jordan",
+          "url": "https://open.spotify.com/artist/6nJj8JTUBrIp9BtIwbdvij"
+        }
+      ],
+      "duration_ms": 406066,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/0VfMAOS8d2Tbaxuozgy8qJ"
+    },
+    {
+      "added_at": "2023-06-21 11:26:10",
+      "album": {
         "name": "We Get Requests",
         "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2023-06-21 11:26:10",
       "album": {
-        "name": "The Jazz Giants '56",
-        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 602173,
-      "name": "I Didn't Know What Time It Was",
-      "url": "https://open.spotify.com/track/1lAoG1TBej7gYJQ3UHUxjT"
-    },
-    {
-      "added_at": "2023-06-21 11:26:10",
-      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -1327,22 +1327,6 @@
       "duration_ms": 297533,
       "name": "I Can't Get Started - Instrumental",
       "url": "https://open.spotify.com/track/5OJw2p5rD4DwtGOCC438De"
-    },
-    {
-      "added_at": "2023-06-21 11:26:10",
-      "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Stella By Starlight - Remaster/2004",
-      "url": "https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj"
     },
     {
       "added_at": "2023-06-21 11:26:10",
@@ -1375,6 +1359,22 @@
       "duration_ms": 508933,
       "name": "Lover Come Back To Me",
       "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
+    },
+    {
+      "added_at": "2023-06-21 11:26:10",
+      "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Stella By Starlight - Remaster/2004",
+      "url": "https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj"
     },
     {
       "added_at": "2023-06-21 11:26:10",

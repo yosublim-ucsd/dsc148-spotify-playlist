@@ -4615,6 +4615,24 @@
     },
     {
       "album": {
+        "name": "Always Gonna Be",
+        "url": "https://open.spotify.com/album/1WI5hRCxaEOSMUtKxO5fKa"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172213,
+      "name": "Always Gonna Be",
+      "url": "https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk"
+    },
+    {
+      "album": {
         "name": "am i stupid?",
         "url": "https://open.spotify.com/album/1rADFgudc7i6sKnypoDOk7"
       },
@@ -35184,12 +35202,12 @@
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
       "date_added": "2023-08-03",
@@ -48215,6 +48233,24 @@
     },
     {
       "album": {
+        "name": "Keep Me In Love",
+        "url": "https://open.spotify.com/album/7ETOuFfahxfhuMlKPYbFPt"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156034,
+      "name": "Keep Me In Love",
+      "url": "https://open.spotify.com/track/7j8mf8Qrvmhjl8Yr13iFr7"
+    },
+    {
+      "album": {
         "name": "Keep Me In Mind",
         "url": "https://open.spotify.com/album/6x0kCfPCAFkiIlWkP6RGzH"
       },
@@ -55073,6 +55109,24 @@
     },
     {
       "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172892,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
+    },
+    {
+      "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/6IRDjrVHne26GK3dXKXmJp"
       },
@@ -57076,7 +57130,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 174545,
       "name": "Miss Tight Hole",
       "url": "https://open.spotify.com/track/1uIavHFs7uL05f5DQNCXHi"
@@ -59039,7 +59093,7 @@
     },
     {
       "album": {
-        "name": "Mu\u00f1ekita (with El Alfa & JT from City Girls)",
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
         "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
       },
       "artists": [
@@ -59060,7 +59114,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219642,
-      "name": "Mu\u00f1ekita (with El Alfa & JT from City Girls)",
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
     },
     {
@@ -59450,7 +59504,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 186534,
       "name": "My Love, My Town",
       "url": "https://open.spotify.com/track/0LLEj5V2aElrxpIv5wWTDi"
@@ -88159,6 +88213,32 @@
     },
     {
       "album": {
+        "name": "Africa Unite",
+        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190051,
+      "name": "Them Belly Full (But We Hungry)",
+      "url": "https://open.spotify.com/track/73YF1vuiOiJ1h7RR9QJfns"
+    },
+    {
+      "album": {
         "name": "Them Belly Full (But We Hungry) (Feat. Rema & Skip Marley)",
         "url": "https://open.spotify.com/album/4PrIjUOhymWHG83mEzDj1R"
       },
@@ -88178,7 +88258,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 190589,
       "name": "Them Belly Full (But We Hungry) (Feat. Rema and Skip Marley)",
       "url": "https://open.spotify.com/track/7fbQLuKMYfGpqK9f0OuQjg"
@@ -99412,6 +99492,24 @@
     {
       "album": {
         "name": "XXL",
+        "url": "https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206706,
+      "name": "XXL",
+      "url": "https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0"
+    },
+    {
+      "album": {
+        "name": "XXL",
         "url": "https://open.spotify.com/album/4K0wKLFE0LxcQAmcmVvd0X"
       },
       "artists": [
@@ -99422,7 +99520,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-05",
       "duration_ms": 206706,
       "name": "XXL",
       "url": "https://open.spotify.com/track/7AftUxnj6ngHrWiT29xwKK"

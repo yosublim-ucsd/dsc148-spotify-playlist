@@ -1,28 +1,32 @@
 {
   "description": "Django and beyond.",
-  "num_followers": 271287,
+  "num_followers": 271320,
   "original_name": "Hot Club Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTM2OTU4ZDlmMTFjNzQ3NjFkYmYzOTgyNmY2ZGE1MjM0MmI2ZTA2",
+  "snapshot_id": "MCxiZTVlNGYwYmQ4NjRlZTQ4OGI2YTlkMTA4ZDBhMDcyOGFmNmVkOWQw",
   "tracks": [
     {
-      "added_at": "2022-08-19 04:02:00",
+      "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "The Good Life",
-        "url": "https://open.spotify.com/album/6pTKBoSyVVTCW97iRXXBAo"
+        "name": "French Connection, Vol. 2",
+        "url": "https://open.spotify.com/album/03aOf3MFWIlm1dSnE01Rlr"
       },
       "artists": [
         {
-          "name": "Gustav Lundgren Trio",
-          "url": "https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie"
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+        },
+        {
+          "name": "Antoine Boyer",
+          "url": "https://open.spotify.com/artist/2UKlumP0ZZDFcnuOSeNxHP"
         }
       ],
-      "duration_ms": 195961,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/7rnnwvPsGUdQQsZPeFHb6H"
+      "duration_ms": 206109,
+      "name": "Someday My Prince Will Come",
+      "url": "https://open.spotify.com/track/3jvxbohfMCNSV9K8rvVThF"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -101,6 +105,22 @@
       "url": "https://open.spotify.com/track/1nT6CxquFZxHDDIgMTgS0W"
     },
     {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/6pTKBoSyVVTCW97iRXXBAo"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren Trio",
+          "url": "https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie"
+        }
+      ],
+      "duration_ms": 195961,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/7rnnwvPsGUdQQsZPeFHb6H"
+    },
+    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Guitar Heroes - Live",
@@ -115,22 +135,6 @@
       "duration_ms": 298792,
       "name": "In A Sentimental Mood - Clair De Lune - Live",
       "url": "https://open.spotify.com/track/2aHCjx6UZv5duyrfICha0w"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Bekledim de gelmedin",
-        "url": "https://open.spotify.com/album/0Y2J7JR4uwh6RmyXzJD9An"
-      },
-      "artists": [
-        {
-          "name": "Gustav Lundgren Trio",
-          "url": "https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie"
-        }
-      ],
-      "duration_ms": 162511,
-      "name": "Bekledim de gelmedin",
-      "url": "https://open.spotify.com/track/2wqjrl5ROiMhGlL5f4suz3"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -441,26 +445,6 @@
       "url": "https://open.spotify.com/track/2STxETUMvTtf1B0wx5xLkf"
     },
     {
-      "added_at": "2021-03-26 05:01:00",
-      "album": {
-        "name": "Django's Tiger",
-        "url": "https://open.spotify.com/album/5XGhKJPYf1xr5x0p8IqV1U"
-      },
-      "artists": [
-        {
-          "name": "Gustav Lundgren",
-          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
-        },
-        {
-          "name": "Edouard Pennes",
-          "url": "https://open.spotify.com/artist/6cgVqekLIRoFfthxvXDEkm"
-        }
-      ],
-      "duration_ms": 132624,
-      "name": "Django's Tiger",
-      "url": "https://open.spotify.com/track/0QTyHwOsBjUPZ2A10ofvRN"
-    },
-    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "Unholy Hymns",
@@ -707,6 +691,22 @@
       "duration_ms": 211893,
       "name": "Vette",
       "url": "https://open.spotify.com/track/0aqTTdQrufrkfAPcxshXLi"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Bekledim de gelmedin",
+        "url": "https://open.spotify.com/album/0Y2J7JR4uwh6RmyXzJD9An"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren Trio",
+          "url": "https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie"
+        }
+      ],
+      "duration_ms": 162511,
+      "name": "Bekledim de gelmedin",
+      "url": "https://open.spotify.com/track/2wqjrl5ROiMhGlL5f4suz3"
     },
     {
       "added_at": "2021-02-04 20:47:19",

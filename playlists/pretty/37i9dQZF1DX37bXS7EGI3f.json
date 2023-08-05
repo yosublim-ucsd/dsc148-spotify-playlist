@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 740976,
+  "num_followers": 741124,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGE1YWM2ZGEzZWI0MTIwMTMyY2U3MDE1MDBhMmNjMWVmMzZhZTRi",
+  "snapshot_id": "MCw5NzdhOGMzN2YyNDU0NThkOWY5MDUzMGJkMzcwMmI3YTU0MWUxMTM0",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Love Reign O'er Me",
-        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
-      },
-      "artists": [
-        {
-          "name": "Edge Of Paradise",
-          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Love Reign O'er Me",
-      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Modern Primitive",
         "url": "https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 299076,
       "name": "Beneath (feat. Paolo Ribaldini)",
       "url": "https://open.spotify.com/track/0OjnAYGA3uGCN5XbD53dA5"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Love Reign O'er Me",
+        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
+      },
+      "artists": [
+        {
+          "name": "Edge Of Paradise",
+          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 240106,
+      "name": "Love Reign O'er Me",
+      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Juokse Sin\u00e4 Humma",
-        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 196636,
-      "name": "Juokse Sin\u00e4 Humma",
-      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Krigsherren",
         "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 209440,
       "name": "Krigsherren",
       "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Juokse Sin\u00e4 Humma",
+        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 196636,
+      "name": "Juokse Sin\u00e4 Humma",
+      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Summer Wine",
-        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 245444,
-      "name": "Summer Wine",
-      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Not All Those Who Wander Are Lost",
         "url": "https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 286525,
       "name": "Not All Those Who Wander Are Lost",
       "url": "https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Summer Wine",
+        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 245444,
+      "name": "Summer Wine",
+      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Hanging Tree",
-        "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
-      },
-      "artists": [
-        {
-          "name": "Elvenking",
-          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "The Hanging Tree",
-      "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Dragonwings",
         "url": "https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 243529,
       "name": "Dragonwings",
       "url": "https://open.spotify.com/track/4LNkBt5ErMrbXHeCPoDhzZ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Hanging Tree",
+        "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
+      },
+      "artists": [
+        {
+          "name": "Elvenking",
+          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "The Hanging Tree",
+      "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "After Forever (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE"
+      },
+      "artists": [
+        {
+          "name": "After Forever",
+          "url": "https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Experience",
         "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 314414,
       "name": "Experience",
       "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
-    },
-    {
-      "added_at": "2023-07-17 22:14:26",
-      "album": {
-        "name": "Ritter Tod und Teufel (Knightfall)",
-        "url": "https://open.spotify.com/album/0vim1HOPOljUal09szUN1p"
-      },
-      "artists": [
-        {
-          "name": "Serenity",
-          "url": "https://open.spotify.com/artist/3cdasOCLRe8dKjzjowtzNW"
-        }
-      ],
-      "duration_ms": 258737,
-      "name": "Ritter Tod und Teufel (Knightfall)",
-      "url": "https://open.spotify.com/track/6ioDj88eu8eqFuNuGv00tv"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1297,20 +1297,20 @@
       "url": "https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-07-17 22:14:26",
       "album": {
-        "name": "After Forever (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE"
+        "name": "Ritter Tod und Teufel (Knightfall)",
+        "url": "https://open.spotify.com/album/0vim1HOPOljUal09szUN1p"
       },
       "artists": [
         {
-          "name": "After Forever",
-          "url": "https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp"
+          "name": "Serenity",
+          "url": "https://open.spotify.com/artist/3cdasOCLRe8dKjzjowtzNW"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D"
+      "duration_ms": 258737,
+      "name": "Ritter Tod und Teufel (Knightfall)",
+      "url": "https://open.spotify.com/track/6ioDj88eu8eqFuNuGv00tv"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Here We Stand",
-        "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
+        "name": "Over the Horizon Radar",
+        "url": "https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss"
       },
       "artists": [
         {
-          "name": "In Victory",
-          "url": "https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3"
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
         }
       ],
-      "duration_ms": 248026,
-      "name": "Here We Stand",
-      "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
+      "duration_ms": 323990,
+      "name": "Over the Horizon Radar",
+      "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
     }
   ],
   "unique_name": "Epic & Melodic",

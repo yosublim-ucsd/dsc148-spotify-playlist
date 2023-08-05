@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Fito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,991 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,183 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 35 | [Mala Vida](https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX) | [Mano Negra](https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2) | [Patchanka](https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ) | 2:54 |
 | 36 | [Me equivocaría otra vez](https://open.spotify.com/track/5SMdW9cbM4wTMMPI8Ck08a) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 5:06 |
 | 37 | [Dame Tu Veneno](https://open.spotify.com/track/5tBRXTAnUXtmuofuXlE6sE) | [Tocando Techo](https://open.spotify.com/artist/4ZoykgIxJOeaS1uoADIHqo) | [Dame Tu Veneno](https://open.spotify.com/album/6t1xgcxgGf89fhhBn22blN) | 3:36 |
-| 38 | [Mucho mejor \(feat\. Coque Malla\)](https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
-| 39 | [Chica de ayer](https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [Nacha Pop](https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP) | 3:28 |
+| 38 | [Chica de ayer](https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [Nacha Pop](https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP) | 3:28 |
+| 39 | [Mucho mejor \(feat\. Coque Malla\)](https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
 | 40 | [A San Fernando un Ratito a Pie y Otro Caminando](https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 3:47 |
 | 41 | [Salir](https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Canciones Prohibidas](https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG) | 5:18 |
 | 42 | [Buscando en la basura](https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Negociando gasolina](https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR) | 3:28 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 69 | [Insurrección \(con Manolo García\)](https://open.spotify.com/track/5JD2HODIglXaNJopWb248t) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:47 |
 | 70 | [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 |
 | 71 | [Maneras de Vivir \(Single Estudio\)](https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB) | [Leño](https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ) | [Maneras De Vivir](https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s) | 4:12 |
-| 72 | [Rumbapop](https://open.spotify.com/track/1sLotMFghANlkVzI4ln2uW) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Rumbapop](https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu) | 2:38 |
-| 73 | [Por verte sonreír](https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Mira](https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18) | 6:40 |
+| 72 | [Por verte sonreír](https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Mira](https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18) | 6:40 |
+| 73 | [Rumbapop](https://open.spotify.com/track/1sLotMFghANlkVzI4ln2uW) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Rumbapop](https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu) | 2:38 |
 | 74 | [Flojos de pantalón](https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Jugar Al Gua](https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0) | 4:22 |
 | 75 | [Todo Tiene Su Fin](https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:56 |
 
-Snapshot ID: `MCwxMjc1NGMwZTcwMDI3MmJjY2Q2NjY0NmJkYjhjMjhhNDNlYjE4YmEz`
+Snapshot ID: `MCxkYzM2MzRjNzM1Y2ZlNGZjODFhNmNjOWU2ZWQ2N2E1ZWI5OTNiNDM1`

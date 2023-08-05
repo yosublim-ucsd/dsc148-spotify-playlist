@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,420 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,444 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 34 | [Go DJ](https://open.spotify.com/track/1iD60ApOiYKOb32UCaYWP1) | [Lil' Max$o](https://open.spotify.com/artist/7kXeApbOgTQGEeF76m6qQP) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:22 |
 | 35 | [Dance Party in the House](https://open.spotify.com/track/6ZSMbNa2ZSmLR7LlC5Bz0m) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap \(In the House\)](https://open.spotify.com/album/2waS7cb3Rnkr2oZLO6l0Wf) | 3:18 |
 | 36 | [Bored is a Bad Word](https://open.spotify.com/track/6l8PVMHkToebBTlJacW6Fa) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Underground Playground](https://open.spotify.com/album/41kgd9xgfuYAmKasunl4Sa) | 3:43 |
-| 37 | [Joy to the World](https://open.spotify.com/track/63myJHXOKprgF5Kdze08XA) | [Roots Radics](https://open.spotify.com/artist/2tm55XgrmiuDC0RBTE9AQT) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 2:37 |
-| 38 | [Rise](https://open.spotify.com/track/00Nx5kFUJBcdGa0GNPH8Lx) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Tower to Tower 2](https://open.spotify.com/album/0FT8XvXuscoSlxZb5138Fq) | 3:03 |
+| 37 | [Rise](https://open.spotify.com/track/00Nx5kFUJBcdGa0GNPH8Lx) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Tower to Tower 2](https://open.spotify.com/album/0FT8XvXuscoSlxZb5138Fq) | 3:03 |
+| 38 | [Joy to the World](https://open.spotify.com/track/63myJHXOKprgF5Kdze08XA) | [Roots Radics](https://open.spotify.com/artist/2tm55XgrmiuDC0RBTE9AQT) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 2:37 |
 | 39 | [Shake Ya Tailfeather](https://open.spotify.com/track/2t3ZxwOLtpRYxctPbXRRns) | [Giggle Club](https://open.spotify.com/artist/0VXTiAhwelyAgBsxbbinnf) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:58 |
 | 40 | [Black and White](https://open.spotify.com/track/5nni7e0KD2XviqyGPPBFCU) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 3:19 |
 | 41 | [Man Stop](https://open.spotify.com/track/12Llj63CAU32PYzOc40h8Z) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Da Boss Baby EP](https://open.spotify.com/album/1x5OIHJhieOQhkqjUoulQ8) | 1:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 49 | [Boomerang](https://open.spotify.com/track/6c3ipL19bLPHrpoj5kKawy) | [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rita Rosa](https://open.spotify.com/artist/3ZRSW9hN8aC1KiRGb4Bb0k), [Verny Varela](https://open.spotify.com/artist/63vWZsC4Qd6AAdeqWfVwdk) | [Hola, Amigo: Songs of Friendship](https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza) | 3:10 |
 | 50 | [Girls vs\. Boys](https://open.spotify.com/track/1JIICzNjNibNpB3HeefvFm) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 7](https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6) | 3:31 |
 
-Snapshot ID: `MCwxODA5ZWE1ZTUyOTQwMjU2NjY5NjBhNTgzYjM2ZDhkYmU1ODEyMzQ3`
+Snapshot ID: `MCwwMmI2ZjdlMGU5OWNhMzc0N2I1ZTFlMjk3MTA5MWQ3NDNlMjVjMzAz`

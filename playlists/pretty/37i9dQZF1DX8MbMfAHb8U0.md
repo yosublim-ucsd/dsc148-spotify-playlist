@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,456 likes - 99 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,798 likes - 99 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 | 64 | [You Will Rise](https://open.spotify.com/track/6k4ZH5yi5mIBXiFK8xJoGJ) | [Sweetback](https://open.spotify.com/artist/7fJy3VGVUCNVGrVrI1nv6x) | [Sweetback](https://open.spotify.com/album/5wXxlFmq45ESegHGhtguqZ) | 6:29 |
 | 65 | [Comin' from Where I'm From \- Radio Mix](https://open.spotify.com/track/6UeROtzgj12WLgZx3033G6) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:00 |
 | 66 | [Words \(feat\. India.Arie\)](https://open.spotify.com/track/65dfwNFY4AL54FvoHwfhpd) | [Anthony David](https://open.spotify.com/artist/6ktPQsThz35JwdtDsvi51S), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [The Red Clay Chronicles](https://open.spotify.com/album/3yucUphnc3goDlVYWNIZx1) | 4:02 |
-| 67 | [Nakamarra \(feat\. Q\-Tip\)](https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ) | 4:35 |
+| 67 | [Nakamarra](https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo) | 4:35 |
 | 68 | [Really Love](https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:44 |
 | 69 | [So Fine](https://open.spotify.com/track/2cIcOEMjo8uqi4eXjiJpdr) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:32 |
 | 70 | [Funky For You](https://open.spotify.com/track/3aoSjb0bYD2pR2h7R4UzAj) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Like Water For Chocolate](https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub) | 5:56 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 | 98 | [Love Jones](https://open.spotify.com/track/0eYwyhS1SsHswOZG23V0Qr) | [Chico DeBarge](https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx) | [Long Time No See](https://open.spotify.com/album/0AHbQKIEj4X5ghszLRhnLL) | 4:43 |
 | 99 | [No Us, No Them](https://open.spotify.com/track/1JP1HHD3E0ovkSkh4UmQGV) | [Bernhoft](https://open.spotify.com/artist/7hJnLLfzUy0oDOtNZF8wUm), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Islander](https://open.spotify.com/album/6HEzdx1DBhs4ACcWde55vG) | 5:41 |
 
-Snapshot ID: `MCwyM2U1ZmI3NjZlNjIzYjYyNWIzZWVhNmJhZGJkZTZkYmFiODIwMmQ3`
+Snapshot ID: `MCxkOWE0ZDRkMzQxNDY0ZWI3YTYyMzYzMTI4YmJiNzY3NTQ1N2NlMmFh`

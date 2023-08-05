@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 
 > 80s rock to fuel your ride\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,007 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,327 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 | 45 | [Heavy Metal](https://open.spotify.com/track/1XxUDJp9zsjd6tBSvE3la4) | [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N) | [Standing Hampton](https://open.spotify.com/album/5EuL5NWA7SbMENWt8C16wn) | 3:50 |
 | 46 | [I Wanna Be Somebody](https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:43 |
 | 47 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
-| 48 | [I Surrender](https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex) | 4:01 |
+| 48 | [Just Like Paradise](https://open.spotify.com/track/5ZY7Gug850kv4heJcWZGHM) | [David Lee Roth](https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3) | [Skyscraper](https://open.spotify.com/album/2mYFKWSxCYhLHSXsjLDmp4) | 4:03 |
 | 49 | [Shake Me](https://open.spotify.com/track/1Qjpl8Kav6rrO92ZuG0OK8) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY) | 3:42 |
-| 50 | [Just Like Paradise](https://open.spotify.com/track/5ZY7Gug850kv4heJcWZGHM) | [David Lee Roth](https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3) | [Skyscraper](https://open.spotify.com/album/2mYFKWSxCYhLHSXsjLDmp4) | 4:03 |
+| 50 | [I Surrender](https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex) | 4:01 |
 
-Snapshot ID: `MCwxMzE4MmY1MjY1ZmI1MWY4MjMyYjYyOGVlY2ExYTQ0NjNjMWY5NjRm`
+Snapshot ID: `MCwwMjQzMTllYmQwYzE3YWE2MDZkYmM0NDNhNGQwY2VmY2QwNDJhZTU0`

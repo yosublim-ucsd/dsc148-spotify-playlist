@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-315 songs - 17 hr 35 min
+317 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Betty \(Fake It Till You Make It\)](https://open.spotify.com/track/6ZR1ndajXwoCrjmVmmkgBF) | [Lateshift](https://open.spotify.com/artist/1DCmLEfKCHDUG4ZplWUaQN) | [Betty \(Fake It Till You Make It\)](https://open.spotify.com/album/0eev2GV1vEAVZQfRHMleRT) | 2:06 | 2022-06-24 | 2022-07-02 |
 | [BIG](https://open.spotify.com/track/24qAxp2l2C4xiTtKaJxcJ4) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [BIG](https://open.spotify.com/album/17kpttFeNeWB1qafVfJQA6) | 3:36 | 2022-10-14 | 2022-10-26 |
 | [BIG](https://open.spotify.com/track/2m4Bk1tHjFEmtGStZBx8rF) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [BIG!](https://open.spotify.com/album/4xrzNkHJXlkvwYyVipesug) | 3:36 | 2022-10-14 |  |
+| [Blindside](https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Blindside](https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ) | 3:31 | 2023-08-04 |  |
 | [Blink of an Eye](https://open.spotify.com/track/2uyfgIj0vJT3HiLogBQZi6) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Birds That Flew and Ships That Sailed](https://open.spotify.com/album/0LkHp8NkBfr8dwIpklV4U0) | 4:33 | 2022-04-08 | 2023-05-27 |
 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 | 2022-08-05 |  |
 | [Blue](https://open.spotify.com/track/3XtKluN0ce1EjiAax8HFw8) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life \- EP](https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i) | 5:36 | 2021-08-05 | 2022-01-19 |
@@ -145,7 +146,8 @@
 | [How Do I Lose You](https://open.spotify.com/track/3WfYixI3jzbnSsWQcpNfiV) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [How Do I Lose You](https://open.spotify.com/album/7zbQTjsJtXUEGBPemTgmiO) | 3:02 | 2022-08-12 | 2022-08-20 |
 | [Hurting Me](https://open.spotify.com/track/6ALXif8NHKiuF3R8y6G3Ol) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Hurting Me](https://open.spotify.com/album/4I7zCvns4CQ7r3MxCLKqVC) | 2:20 | 2022-08-05 | 2022-08-10 |
 | [Hurts \(But It Goes Away\)](https://open.spotify.com/track/0ZjKlvWb93Ey2OyQki02nT) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Hurts \(But It Goes Away\)](https://open.spotify.com/album/6KwEKCAiphHNsXw4PAZ4yC) | 3:14 | 2022-04-22 | 2023-04-22 |
-| [Hyperfixations](https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Hyperfixations](https://open.spotify.com/album/6JmO57rWensoCLLngSqju1) | 3:15 | 2023-03-24 |  |
+| [Hyperfixations](https://open.spotify.com/track/0SbasC0l8MIf8EEIsC4gIi) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Comedy & Tragedy: Act 1](https://open.spotify.com/album/0miTgAlKXFn0IGE0axbSOh) | 3:15 | 2023-03-24 |  |
+| [Hyperfixations](https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Hyperfixations](https://open.spotify.com/album/6JmO57rWensoCLLngSqju1) | 3:15 | 2023-03-24 | 2023-08-05 |
 | [Hypotheticals](https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:50 | 2022-01-19 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/5r04VZJXvaRaLAc2pafWIk) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [District Line EP](https://open.spotify.com/album/6tBsQaqp6iittmjD9ALSPi) | 3:28 | 2021-10-26 | 2022-01-20 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-01-28 | 2022-10-28 |
@@ -197,7 +199,7 @@
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-04-28 |  |
 | [Meltdown](https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown](https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q) | 2:33 | 2023-04-28 | 2023-06-18 |
 | [Mirror Girl](https://open.spotify.com/track/02MfV88yWVP3VYiC5dehEA) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Mirror Girl](https://open.spotify.com/album/26gKunuZOUnRvVOEHNjWPi) | 2:58 | 2022-06-03 | 2022-07-25 |
-| [Mirror Girl](https://open.spotify.com/track/1arPneL5ZtuFrd4Q6kWv7y) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Mirror Girl](https://open.spotify.com/album/4LCE6P8B7vv0XzwBgrVN4j) | 2:58 | 2022-06-10 |  |
+| [Mirror Girl](https://open.spotify.com/track/1arPneL5ZtuFrd4Q6kWv7y) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Mirror Girl](https://open.spotify.com/album/4LCE6P8B7vv0XzwBgrVN4j) | 2:58 | 2022-06-10 | 2023-08-05 |
 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 | 2022-03-18 | 2023-05-06 |
 | [Natural Blues \- Moby's West Side Highway Remix](https://open.spotify.com/track/3GaCSIfcHDhfpLPgCCDF61) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Reprise \- Remixes](https://open.spotify.com/album/1ebgTtKt8c9dMZADohgv7v) | 5:30 | 2022-05-20 | 2023-04-22 |
 | [Never on the Day You Leave](https://open.spotify.com/track/3TQbr3G3U5wlwEJejmqC1F) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:40 | 2021-08-05 | 2022-01-19 |

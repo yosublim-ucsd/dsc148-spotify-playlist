@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 
 > Sintetizadores fluorescentes para acompañar tu trayecto nocturno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,656 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,871 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 37 | [Pulse VI](https://open.spotify.com/track/63t4RxrpfUdVYJhr5Y91Yi) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu) | 5:27 |
 | 38 | [Dale Calma](https://open.spotify.com/track/6DaMajLwEFY23c27AjSS13) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Presente](https://open.spotify.com/album/1MmBRu3POeoXYmp8eLezX5) | 3:33 |
 | 39 | [Zone 1 to 6000](https://open.spotify.com/track/4dKYEhGEEpTZFOXBAhDOcA) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Weighing of the Heart](https://open.spotify.com/album/1wv2yreeNsyBNnvlhOhvjO) | 3:25 |
-| 40 | [EME](https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd), [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [EME](https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T) | 3:11 |
-| 41 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 |
+| 40 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 |
+| 41 | [EME](https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd), [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [EME](https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T) | 3:11 |
 | 42 | [Crepuscule](https://open.spotify.com/track/4tjegaa9lSrtvVMq0PdiOR) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Alpha](https://open.spotify.com/album/0mXPAfu4L20ZfUPNLgXjEw) | 4:40 |
 | 43 | [About Work The Dancefloor \- Edit](https://open.spotify.com/track/1b6HCRWWbvFUZ5RG3bg7s6) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills](https://open.spotify.com/album/26FuPLPN5Vyznv9yFxKOTM) | 3:14 |
 | 44 | [2 Hearts](https://open.spotify.com/track/4AhBiNbY1ufi7ScAcHwnBQ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [I Love You, Dude](https://open.spotify.com/album/40FCwDLlSKNZZ8tT3jWH5r) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 49 | [This World Couldn’t See Us](https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [This World Couldn’t See Us](https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz) | 3:39 |
 | 50 | [Los Vampiros](https://open.spotify.com/track/5VB2MeRshgRRsW7S1KgF9I) | [Dënver](https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo), [\( Me Llamo \) Sebastián](https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ) | [Sangre Cita](https://open.spotify.com/album/4E9LzQNoHtvUo6LpEsWjVN) | 4:25 |
 
-Snapshot ID: `MCxkMjI3ZjhkYTdlZGY3ZjU4NTM1OWZmNTNhMTEzZWU4MmI0OTU5ZTI5`
+Snapshot ID: `MCxkOTI5OTRhMTcxOTI3YzM1ZGY2ZTUwM2U3MTNhMjkyMzQzNTFmNWU1`
