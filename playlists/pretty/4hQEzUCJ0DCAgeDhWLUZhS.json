@@ -1,13 +1,29 @@
 {
   "description": "GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: All Time Low",
-  "num_followers": 1639,
+  "num_followers": 1638,
   "original_name": "Plugged In",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTcyMCwxMjY5NGQ5ZDlmNTNhMjUyZmFlNjJlNjcwZDE1YWJmYWZiY2VjNDRm",
+  "snapshot_id": "MTcyMSwzNmM4YWNhN2EwYTE5Y2EyNjY2OTMyNzgxNWU3OWRiMmY3YTZmZDQz",
   "tracks": [
+    {
+      "added_at": "2023-08-04 06:20:57",
+      "album": {
+        "name": "Take Me Away (Freaky Friday)",
+        "url": "https://open.spotify.com/album/3mj6oGLr6QrKKKu3sii05Y"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 187715,
+      "name": "Take Me Away (Freaky Friday Cover)",
+      "url": "https://open.spotify.com/track/6DgOgEPyxAAK28bkn1wfax"
+    },
     {
       "added_at": "2023-07-20 23:09:09",
       "album": {

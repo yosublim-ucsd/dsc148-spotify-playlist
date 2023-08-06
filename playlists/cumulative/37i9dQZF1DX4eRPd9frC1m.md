@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-278 songs - 15 hr 20 min
+279 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [MEGAZORD](https://open.spotify.com/track/4Iz3e22hTN8B2koCpPuoUD) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [Chrishira Perrier](https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2) | [Bangers\[7\].Zip](https://open.spotify.com/album/5YueSKmEPBLy809CKxv4bV) | 2:43 | 2023-02-24 |  |
 | [Mercy](https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Mercy](https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e) | 3:10 | 2022-08-05 |  |
 | [MIND OF A GENIUS](https://open.spotify.com/track/3NVYXqjBYy5caVac5RRNxj) | [Türküm](https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY) | [ANTI\-SOBER](https://open.spotify.com/album/0CC64NUfD1WQSdXyqvX7hL) | 2:20 | 2021-11-19 | 2022-01-08 |
+| [Mind Pluck](https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [Mind Pluck](https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz) | 4:30 | 2023-08-04 |  |
 | [Misery](https://open.spotify.com/track/3KHKpb11TVJ3ReHLpIFZyR) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy), [BRVMES](https://open.spotify.com/artist/13OXgp0fFDhWRPSXnN8yLT), [TINYKVT](https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T) | [Misery](https://open.spotify.com/album/1icb2pGEfE8Tj35TvmOsUy) | 3:25 | 2021-11-19 | 2022-01-08 |
 | [Mitosis](https://open.spotify.com/track/1F1yF2KSilU2YLOMuYYf71) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [Mitosis](https://open.spotify.com/album/41alHDUXIm46q49d1uO1fq) | 3:43 | 2022-01-07 | 2022-07-29 |
 | [Money Talk](https://open.spotify.com/track/0r0v060GKpseOx3zxy0d2b) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [Que Fieri](https://open.spotify.com/artist/1GbIkmv5H1Ok9Vo2UbDLuE) | [Money Talk / Faded](https://open.spotify.com/album/0PMxD7wxF9YFIhdrFUcyOj) | 3:15 | 2021-11-19 | 2022-01-08 |
@@ -271,7 +272,7 @@
 | [Underside](https://open.spotify.com/track/3uYVpgs8C0PFVV8DD4QCX6) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Hypogeal](https://open.spotify.com/album/7ze94wo3XfJSPTKDM5nchQ) | 2:09 | 2021-11-19 | 2022-01-08 |
 | [Undo \- AWAY Remix](https://open.spotify.com/track/49v7kRlVxnwrrJzCRxeRXl) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [NOVA \(The Remixes, Vol\. 1\)](https://open.spotify.com/album/6jqYfL2en7nuHT7fYfBJQE) | 3:32 | 2021-11-19 | 2023-07-15 |
 | [Ur Body](https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Ur Body](https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi) | 3:36 | 2022-03-25 | 2023-03-30 |
-| [Valley Of Violence](https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Valley Of Violence](https://open.spotify.com/album/3fblenkjskYmPpOOAm58My) | 3:58 | 2022-01-07 |  |
+| [Valley Of Violence](https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Valley Of Violence](https://open.spotify.com/album/3fblenkjskYmPpOOAm58My) | 3:58 | 2022-01-07 | 2023-08-06 |
 | [Vibe Check](https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Vibe Check](https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ) | 2:49 | 2021-11-19 |  |
 | [Voices](https://open.spotify.com/track/18nlBFTGNLAXhLfWoETAj9) | [ZÍA](https://open.spotify.com/artist/0sjnUg1Bv9J3WQ3inGpQRq) | [Voices](https://open.spotify.com/album/65LsQV7JR47jM58qvqrSfc) | 3:31 | 2021-11-19 | 2022-01-08 |
 | [VSOP](https://open.spotify.com/track/6ghSZLNbLKVwmSgD9b9y1Y) | [BLVCKLIST](https://open.spotify.com/artist/7vu9ZhIxgYWTSSdqBsFNXf), [Lox Chatterbox](https://open.spotify.com/artist/3SFVIUlipGj3RpWCKe9s73), [Blvkstn](https://open.spotify.com/artist/70hTQzJxZt0JLvFzQVITHe), [Navii](https://open.spotify.com/artist/7rYrupDve9b3EXzS3VObTB) | [VSOP](https://open.spotify.com/album/5EG1X734YgkEsrUnJWOtS5) | 3:17 | 2021-11-19 | 2022-01-08 |

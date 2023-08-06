@@ -4,7 +4,7 @@
 
 > ¡A levantar polvadera!
 
-245 songs - 13 hr 59 min
+246 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Los Viejitos](https://open.spotify.com/track/6ud1Szdym1QRhURpEyr55A) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Underground](https://open.spotify.com/album/0yqvCREwt1onIiLGPdXSea) | 3:48 | 2022-04-08 | 2022-07-28 |
 | [Lucesita](https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y) | [Guizador Norteño de Zirahuén Mich.](https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP) | [Los Únicos del Huapango Michoacano](https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr) | 2:28 | 2022-04-08 |  |
 | [Macarena](https://open.spotify.com/track/3c30EjdSPP1VuuY1ElSrru) | [Identidad](https://open.spotify.com/artist/27C7ZMfb3rHz90wbayV6ka) | [Los Saxofones Alegres](https://open.spotify.com/album/6pNhPyCej3dPwZcEs9L9w3) | 2:59 | 2022-04-08 | 2022-07-29 |
-| [Macarena](https://open.spotify.com/track/6wHtHL2V5CSqIudRKlD7iU) | [Identidad](https://open.spotify.com/artist/27C7ZMfb3rHz90wbayV6ka) | [Los Saxofones Alegres](https://open.spotify.com/album/1ZTsiWVHSH0dUmU7zUZBzB) | 2:59 | 2022-04-08 |  |
+| [Macarena](https://open.spotify.com/track/6wHtHL2V5CSqIudRKlD7iU) | [Identidad](https://open.spotify.com/artist/27C7ZMfb3rHz90wbayV6ka) | [Los Saxofones Alegres](https://open.spotify.com/album/1ZTsiWVHSH0dUmU7zUZBzB) | 2:59 | 2022-04-08 | 2023-08-06 |
 | [Mary Lee](https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 3:10 | 2022-04-08 |  |
 | [Me Aceptaste \- En Vivo](https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [JJ Araujo](https://open.spotify.com/artist/5rAqb7XfoTzLR3r8m5Tm7o) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:08 | 2023-02-24 |  |
 | [Mi Burrita](https://open.spotify.com/track/0X8AZfBvCPS2LDInUuOJXy) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Yo Pongo las Reglas](https://open.spotify.com/album/3Sux4OcMDKm8LLFeAuGJL1) | 3:40 | 2022-04-08 | 2022-07-28 |
@@ -196,7 +196,8 @@
 | [No Bailes De Caballito / Mambo Lupita \- Medley](https://open.spotify.com/track/6epL6q0D2Rei2ek1au5uc9) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Puro Cumbión Bien Loco](https://open.spotify.com/album/7m5Ldielk5zsiPv9gTCQ0J) | 4:24 | 2022-04-08 |  |
 | [No Hay Problema](https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Te Sigo Amando](https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4) | 3:35 | 2022-04-08 |  |
 | [No Se Va](https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va](https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F) | 3:14 | 2022-07-04 | 2022-10-07 |
-| [No Se Va \- EN VIVO](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(EN VIVO\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 | 2022-07-04 |  |
+| [NO SE VA \- EN VIVO](https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 3:13 | 2023-04-21 |  |
+| [No Se Va \- EN VIVO](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(EN VIVO\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 | 2022-07-04 | 2023-08-06 |
 | [No Se Va \- En Vivo](https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A) | 3:14 | 2022-07-04 | 2022-12-24 |
 | [Ojala y te animes](https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:28 | 2022-08-01 |  |
 | [Ojalá Te Animes](https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:00 | 2022-04-08 |  |
@@ -206,7 +207,7 @@
 | [Pasito Duranguense](https://open.spotify.com/track/3rHsX3TLPYixr7eGzRlZqI) | [Montez de Durango](https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc) | [El Sube Y Baja](https://open.spotify.com/album/5JRg9iBzGz8l7c8z1u6m3C) | 3:20 | 2022-04-08 |  |
 | [Pelotero A La Bola](https://open.spotify.com/track/3djM8QkIOjpzynd5MfaGMA) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [15 Exitos \- Mi Banda El Mexicano](https://open.spotify.com/album/4n4egdncbKUB4aZuU9ibla) | 2:49 | 2022-04-08 | 2022-07-29 |
 | [Pelotero A La Bola](https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [16 Enormes Éxitos](https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w) | 2:51 | 2022-04-08 |  |
-| [Pequeña de Ojos Brujos](https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u) | [Hermanos Romero](https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ) | [Se Les Peló Baltazar](https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX) | 3:05 | 2022-04-08 | 2023-07-31 |
+| [Pequeña de Ojos Brujos](https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u) | [Hermanos Romero](https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ) | [Se Les Peló Baltazar](https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX) | 3:05 | 2022-04-08 |  |
 | [Pequeña Y Frágil](https://open.spotify.com/track/2cHrDsiIllNZSiyW1UpId3) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [30 Del Recuerdo](https://open.spotify.com/album/2FCWjC0B8cNanuciJ7ZtBY) | 2:38 | 2022-04-08 |  |
 | [Popurri De Cumbias \(En Vivo\)](https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [En Vivo Desde Hacienda Heights](https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl) | 8:42 | 2022-04-27 | 2023-02-25 |
 | [Popurri De Sones Barbaro .\. Son Del Toro / Huitzuqueño / Los Colorados / Las Guacayas](https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Puros Popurris De Sones](https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ) | 3:19 | 2022-04-08 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-235 songs - 14 hr 55 min
+237 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB) | 3:14 | 2021-08-20 |  |
 | [Full Circle](https://open.spotify.com/track/11PKEBCjw8OCK5YUo9vm0H) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Full Circle](https://open.spotify.com/album/3NbMetTUDydMRSTJzAG7MU) | 3:22 | 2021-08-20 |  |
 | [Gasoline](https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 2:33 | 2022-01-24 |  |
+| [Generation Psycho](https://open.spotify.com/track/77UBXLVoE90TpVmUKsgjGx) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Generation Psycho](https://open.spotify.com/album/6env54gj95TlpdQEMDXRKk) | 3:49 | 2023-08-04 |  |
 | [Go To War](https://open.spotify.com/track/1mU8A0bKStnhYuS043o6Je) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Go To War](https://open.spotify.com/album/3iN7zyUi2NQuc2BSJLhbd4) | 4:05 | 2021-08-20 |  |
 | [Goldtooth](https://open.spotify.com/track/6GH69Wp5PZUMFHO70RXNme) | [Nothingface](https://open.spotify.com/artist/7v4hyXy0IQiJaKeVTTQX1E) | [An Audio Guide to Everyday Atrocity](https://open.spotify.com/album/2cQcgbRwlsR28UocitcdxF) | 4:21 | 2022-03-08 | 2023-01-04 |
 | [Gone](https://open.spotify.com/track/6Aslruh5oCnzDKWTALrHOZ) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [VENA](https://open.spotify.com/album/0GC8hjVn9Jz5oEq9gFj9KV) | 4:12 | 2023-07-25 |  |
@@ -215,6 +216,7 @@
 | [Uncomfortable](https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:40 | 2021-08-20 |  |
 | [Undead](https://open.spotify.com/track/5wBLDkxVvclanSitx5jq8e) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Swan Songs](https://open.spotify.com/album/2UYxjXHKm1JDT6JA7OSeR6) | 4:25 | 2021-08-20 |  |
 | [Unstoppable](https://open.spotify.com/track/294Abb02j2OpQSHFRGNPSc) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Unstoppable](https://open.spotify.com/album/5KQP4GU3vUJvcqDDnsxcGC) | 3:07 | 2021-11-12 | 2023-01-04 |
+| [Unstoppable \(feat\. Cory Marks\)](https://open.spotify.com/track/3MWCJZybLRQ0skDYnSP1Ze) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Unstoppable \(feat\. Cory Marks\)](https://open.spotify.com/album/6cAguc6Xmqh9KmaLiTiFRp) | 3:06 | 2023-08-04 |  |
 | [Until We Break \(feat\. Matty Mullins of Memphis Mayfire\)](https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Until We Break \(feat\. Matty Mullins of Memphis May Fire\)](https://open.spotify.com/album/5RcDVFgqW9VHShesfquQER) | 3:34 | 2022-10-07 |  |
 | [Voodoo Doll](https://open.spotify.com/track/0tDP41DuqqoBv9MNcHdoHW) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Voodoo Doll](https://open.spotify.com/album/4tCEwMi6DenPYV1j8sUOlv) | 3:58 | 2023-01-03 |  |
 | [Wait For Me \(feat\. Trevor McNevan of Thousand Foot Krutch\)](https://open.spotify.com/track/5CGfdX7fVUbDVHZSIk7loe) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Quarantine Chronicles Vol\. 3](https://open.spotify.com/album/6IYKwZgZd6FhTpnbnWZJ3C) | 3:09 | 2021-10-15 | 2023-01-04 |

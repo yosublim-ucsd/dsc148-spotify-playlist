@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 466830,
+  "num_followers": 467723,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2EzM2MzMWEwMDk1YTgyMjgwNWEyYWEzNTAxYjlmNzIyZWNmZGJi",
+  "snapshot_id": "MCwzYjZjNjE5NWI3MTBkMjc5NTE5NTllMDk2ODkxMTQyODM0NTU5YTYw",
   "tracks": [
     {
       "added_at": "2023-07-28 08:50:38",
@@ -355,6 +355,26 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
+        "name": "mietfrei",
+        "url": "https://open.spotify.com/album/3MWijTaxJrKLKeY1VmcwyH"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        }
+      ],
+      "duration_ms": 141026,
+      "name": "mietfrei",
+      "url": "https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
         "name": "Anders",
         "url": "https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 155020,
       "name": "Anders",
       "url": "https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
-        "name": "mietfrei",
-        "url": "https://open.spotify.com/album/3MWijTaxJrKLKeY1VmcwyH"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "SIRA",
-          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
-        }
-      ],
-      "duration_ms": 141026,
-      "name": "mietfrei",
-      "url": "https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -487,6 +487,30 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
+        "name": "2022 war film gewesen",
+        "url": "https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Endzone",
+          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+        }
+      ],
+      "duration_ms": 137847,
+      "name": "Party Sahne",
+      "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
         "name": "Bicep",
         "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
       },
@@ -567,30 +591,6 @@
       "duration_ms": 137837,
       "name": "Zelten auf Kies",
       "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
-        "name": "2022 war film gewesen",
-        "url": "https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "Endzone",
-          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
-        },
-        {
-          "name": "Ericson",
-          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
-        }
-      ],
-      "duration_ms": 137847,
-      "name": "Party Sahne",
-      "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -751,6 +751,26 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 210869,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
         "name": "LEBENSLANG (HBz Remix)",
         "url": "https://open.spotify.com/album/6tk8ZgyU3O0JpBIpqphJpq"
       },
@@ -775,26 +795,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
-      },
-      "artists": [
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "t-low",
-          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
-        }
-      ],
-      "duration_ms": 152826,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "Marea (we\u2019ve lost dancing)",
         "url": "https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9"
       },
@@ -815,6 +815,26 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "duration_ms": 152826,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
         "name": "Dunes",
         "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 184752,
       "name": "Typa Girl",
       "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 210869,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
+        "name": "Cooler Than Me",
+        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
         "name": "Sleepless",
         "url": "https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 165263,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
-        "name": "Cooler Than Me",
-        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
-      },
-      "artists": [
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Cooler Than Me",
-      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Airwaves",
-        "url": "https://open.spotify.com/album/4ZylcATH7a5JkgNNGXxwhJ"
-      },
-      "artists": [
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 178932,
-      "name": "Airwaves",
-      "url": "https://open.spotify.com/track/5CqkgDH8QZjSqqI3HmYxDD"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "LiEBE AUF DER R\u00dcCKBANK",
         "url": "https://open.spotify.com/album/5LVK2zDPtnyTP7Xd5NrwEB"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
+        "name": "Airwaves",
+        "url": "https://open.spotify.com/album/4ZylcATH7a5JkgNNGXxwhJ"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "duration_ms": 178932,
+      "name": "Airwaves",
+      "url": "https://open.spotify.com/track/5CqkgDH8QZjSqqI3HmYxDD"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
         "name": "HERZINFUCKED",
         "url": "https://open.spotify.com/album/4wJVpq8vt31kB9wySZY0WB"
       },
@@ -1111,30 +1111,6 @@
       "duration_ms": 165476,
       "name": "Auf & Ab",
       "url": "https://open.spotify.com/track/2sFsvaMRe8PKo5AFdBE9qC"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
-        "name": "In Liebe, Ion",
-        "url": "https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE"
-      },
-      "artists": [
-        {
-          "name": "Ion Miles",
-          "url": "https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl"
-        },
-        {
-          "name": "SIRA",
-          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
-        },
-        {
-          "name": "BHZ",
-          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "Powerade",
-      "url": "https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1167,6 +1143,30 @@
       "duration_ms": 138181,
       "name": "TABU RMX",
       "url": "https://open.spotify.com/track/7DsflyKZZAMXFUzZtho9mr"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "In Liebe, Ion",
+        "url": "https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE"
+      },
+      "artists": [
+        {
+          "name": "Ion Miles",
+          "url": "https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl"
+        },
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        },
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Powerade",
+      "url": "https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Bei Nacht",
-        "url": "https://open.spotify.com/album/7nYEQwOK9T1EupUwsqVba5"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 156882,
-      "name": "Bei Nacht",
-      "url": "https://open.spotify.com/track/2hEV30dObDzShJ3MbR9mGQ"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "Broker",
         "url": "https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 150877,
       "name": "Broker",
       "url": "https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "Bei Nacht",
+        "url": "https://open.spotify.com/album/7nYEQwOK9T1EupUwsqVba5"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 156882,
+      "name": "Bei Nacht",
+      "url": "https://open.spotify.com/track/2hEV30dObDzShJ3MbR9mGQ"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Dorfkinder",
-        "url": "https://open.spotify.com/album/1R8ny1P0qJBCTqHeoRwZLV"
-      },
-      "artists": [
-        {
-          "name": "Finnel",
-          "url": "https://open.spotify.com/artist/7C0CBOwkkOMnkehrvdMLrU"
-        }
-      ],
-      "duration_ms": 147844,
-      "name": "Dorfkinder",
-      "url": "https://open.spotify.com/track/6TJJfeL9UUi0xNnYvte2av"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "EWIGKEIT (REMIX)",
         "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
       },
@@ -1387,26 +1371,18 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "2022 war film gewesen",
-        "url": "https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ"
+        "name": "Dorfkinder",
+        "url": "https://open.spotify.com/album/1R8ny1P0qJBCTqHeoRwZLV"
       },
       "artists": [
         {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "Domiziana",
-          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
-        },
-        {
-          "name": "Replay Okay",
-          "url": "https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC"
+          "name": "Finnel",
+          "url": "https://open.spotify.com/artist/7C0CBOwkkOMnkehrvdMLrU"
         }
       ],
-      "duration_ms": 151632,
-      "name": "Tour de Berlin",
-      "url": "https://open.spotify.com/track/6bTtaSmqjMD6TggNfoR4N5"
+      "duration_ms": 147844,
+      "name": "Dorfkinder",
+      "url": "https://open.spotify.com/track/6TJJfeL9UUi0xNnYvte2av"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1431,6 +1407,30 @@
       "duration_ms": 210093,
       "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
       "url": "https://open.spotify.com/track/63rbP24OzfaQCJjsHWZXnY"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "2022 war film gewesen",
+        "url": "https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        },
+        {
+          "name": "Replay Okay",
+          "url": "https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC"
+        }
+      ],
+      "duration_ms": 151632,
+      "name": "Tour de Berlin",
+      "url": "https://open.spotify.com/track/6bTtaSmqjMD6TggNfoR4N5"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1679,18 +1679,22 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Jet Plane",
-        "url": "https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV"
+        "name": "Einmal um die Welt 2k23",
+        "url": "https://open.spotify.com/album/3a42tIOr7yy7FOBgrXT48a"
       },
       "artists": [
         {
-          "name": "Gusted",
-          "url": "https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ"
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "NIKSTER",
+          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
         }
       ],
-      "duration_ms": 182409,
-      "name": "Jet Plane",
-      "url": "https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j"
+      "duration_ms": 135551,
+      "name": "Einmal um die Welt 2k23",
+      "url": "https://open.spotify.com/track/5HSZBIy10tdHp6OuNwEEaU"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1715,22 +1719,18 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Einmal um die Welt 2k23",
-        "url": "https://open.spotify.com/album/3a42tIOr7yy7FOBgrXT48a"
+        "name": "Jet Plane",
+        "url": "https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV"
       },
       "artists": [
         {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "NIKSTER",
-          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
+          "name": "Gusted",
+          "url": "https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ"
         }
       ],
-      "duration_ms": 135551,
-      "name": "Einmal um die Welt 2k23",
-      "url": "https://open.spotify.com/track/5HSZBIy10tdHp6OuNwEEaU"
+      "duration_ms": 182409,
+      "name": "Jet Plane",
+      "url": "https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j"
     },
     {
       "added_at": "2023-07-28 08:50:38",

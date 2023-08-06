@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,635 likes - 131 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,731 likes - 131 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 93 | [The Hot City Symphony, Pt\. 1: Vambo](https://open.spotify.com/track/4gj2I26rXVXPwecklLODp9) | [The Sensational Alex Harvey Band](https://open.spotify.com/artist/7wug9iQ1abMCrKk87LlJce) | [The Impossible Dream \(Remastered 2002\)](https://open.spotify.com/album/04nw8UHJN4CmQX06dtuwHc) | 5:03 |
 | 94 | [Rough Kids](https://open.spotify.com/track/6YFEfaiIMGFAJsJHbLSLUF) | [Kilburn & The High Roads](https://open.spotify.com/artist/3I97dteSoWkFBMy7C2TGSH) | [Handsome \(Bonus Track Edition\)](https://open.spotify.com/album/3UB63Gv6n5Aj5keynEbLCv) | 2:26 |
 | 95 | [Shake Some Action](https://open.spotify.com/track/3GqP6bUY1XHVlThBoQQk0z) | [Flamin' Groovies](https://open.spotify.com/artist/3yesh1QeNXucaDFw8ZPKxd) | [Groovies Greatest Grooves](https://open.spotify.com/album/1hSEfZ3n3kCisvO9RDerhg) | 4:33 |
-| 96 | [At Home At Work At Play](https://open.spotify.com/track/7jpt4P7GjVGFFgI3bqLThp) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Propaganda](https://open.spotify.com/album/1rlCSXl4oodSDQRUYDUgiP) | 3:05 |
+| 96 | [At Home At Work At Play](https://open.spotify.com/track/0WtuSuOI7b3sOJTkvECga9) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Propaganda](https://open.spotify.com/album/3bOrSzGgJnjGOa9kOybRCs) | 3:05 |
 | 97 | [Creature Feature](https://open.spotify.com/track/7cDsnWV6zw2iUYFPXZe7Yo) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [The Second Album + The First Rehearsal Tapes](https://open.spotify.com/album/6X3IumYsTS91vfxDVxRd04) | 3:37 |
 | 98 | [30 Seconds over Tokyo \- Live](https://open.spotify.com/track/6QcyL1MCeM7pEPEkzRjVn8) | [Rocket From The Tombs](https://open.spotify.com/artist/5gjODPcOiAmqb2iPzt4cbo) | [The Day the Earth Met the Rocket from the Tombs \(Live\)](https://open.spotify.com/album/7M1dzy2aeWYS74YpYHfWxK) | 6:41 |
 | 99 | [Little Johnny Jewel \- Parts 1 & 2](https://open.spotify.com/track/3K4B7jg72g1mwltdOljDU3) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Marquee Moon / Adventure / Live at the Waldorf: The Complete Elektra Recordings Plus Liner Notes](https://open.spotify.com/album/2tdeBxBeTVOl95UqS5vV9P) | 7:06 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 130 | [She's About a Mover](https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [Walking the Streets](https://open.spotify.com/album/17MHW0ENg57rfMGXYtNkvV) | 2:25 |
 | 131 | [I Can't Control Myself \(Rerecorded\)](https://open.spotify.com/track/2ISCW0bzi9Zsv6eKCqXVZq) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [This Is the Troggs \(Rerecorded\)](https://open.spotify.com/album/2Co201A4jYUYrDtrmReNJD) | 3:06 |
 
-Snapshot ID: `MCxjMWM3YzgyYzU2MTQ1YTVjN2MwOTE5M2MxNzA4YTMwOWY4ZjQ5ZThk`
+Snapshot ID: `MCxhMDZkMDRkNzhhOTEzMDQ0M2I1YzQzN2NmZDZjOWJlY2I4MGRlOTEz`

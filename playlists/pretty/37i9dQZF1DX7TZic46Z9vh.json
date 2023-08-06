@@ -1,12 +1,12 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 39736,
+  "num_followers": 39749,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2M3MDJjMjMyMDBlY2VhZDAxZTk1ZDQwYWM2ZDc2ZTRkMTVjNzdh",
+  "snapshot_id": "MCxhMjg2ZTJiNzUyN2Q4MDdiZDI2ZWI3MjRhNzVjYWIzZTQwNmUzYzcz",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Los Nuggetz - 60's Punk, Pop and Psychedelic From Latin America",
-        "url": "https://open.spotify.com/album/3Wmj1OJev6LrgjS9SIPBk7"
-      },
-      "artists": [
-        {
-          "name": "Los Monjes",
-          "url": "https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO"
-        }
-      ],
-      "duration_ms": 113266,
-      "name": "Pobre Nina",
-      "url": "https://open.spotify.com/track/7B9yavzlfIDl1rxyiicNQY"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Regreso al Origen",
         "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 192893,
       "name": "Nada Nos Detendr\u00e1",
       "url": "https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Los Nuggetz - 60's Punk, Pop and Psychedelic From Latin America",
+        "url": "https://open.spotify.com/album/3Wmj1OJev6LrgjS9SIPBk7"
+      },
+      "artists": [
+        {
+          "name": "Los Monjes",
+          "url": "https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO"
+        }
+      ],
+      "duration_ms": 113266,
+      "name": "Pobre Nina",
+      "url": "https://open.spotify.com/track/7B9yavzlfIDl1rxyiicNQY"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -671,38 +671,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Regreso al Origen",
-        "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ciruela",
-          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "Regreso al Origen",
-      "url": "https://open.spotify.com/track/27T3luqWg01rUHNaO6RB5X"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "Volumen I",
-        "url": "https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk"
-      },
-      "artists": [
-        {
-          "name": "Nahuatl",
-          "url": "https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K"
-        }
-      ],
-      "duration_ms": 281773,
-      "name": "Tiempo Perdido",
-      "url": "https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Pebbles Vol. 12, Mexico Pt. 1, Originals Artifacts From The Psychedelic Era",
         "url": "https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy"
       },
@@ -731,6 +699,38 @@
       "duration_ms": 163386,
       "name": "Mony Mony",
       "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Regreso al Origen",
+        "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ciruela",
+          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "Regreso al Origen",
+      "url": "https://open.spotify.com/track/27T3luqWg01rUHNaO6RB5X"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Volumen I",
+        "url": "https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk"
+      },
+      "artists": [
+        {
+          "name": "Nahuatl",
+          "url": "https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K"
+        }
+      ],
+      "duration_ms": 281773,
+      "name": "Tiempo Perdido",
+      "url": "https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Slitherama: Teen Trash From Psychedelic Tokyo '66 - '69 (Volume 3)",
-        "url": "https://open.spotify.com/album/3sV1mS552317G9XyVhkQOb"
-      },
-      "artists": [
-        {
-          "name": "The Spiders",
-          "url": "https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL"
-        }
-      ],
-      "duration_ms": 154720,
-      "name": "Boom! Boom! Boom!",
-      "url": "https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Rock en Av\u00e1ndaro Valle de Bravo",
         "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 169665,
       "name": "Libertad",
       "url": "https://open.spotify.com/track/3oCXeYBiZODvdaXHranRHd"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Slitherama: Teen Trash From Psychedelic Tokyo '66 - '69 (Volume 3)",
+        "url": "https://open.spotify.com/album/3sV1mS552317G9XyVhkQOb"
+      },
+      "artists": [
+        {
+          "name": "The Spiders",
+          "url": "https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL"
+        }
+      ],
+      "duration_ms": 154720,
+      "name": "Boom! Boom! Boom!",
+      "url": "https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I"
     },
     {
       "added_at": "2021-09-06 15:34:44",

@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Walker & Royce, Glass Petals & Elohim
 
-538 songs - 1 day 5 hr 48 min
+539 songs - 1 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Double Dip](https://open.spotify.com/track/2qLM9dbsAbjCE9N3fPagG2) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Double Dip](https://open.spotify.com/album/5FID5KjP1a0xptUHQZkIVL) | 3:18 | 2022-03-04 | 2022-04-16 |
 | [Down With Me](https://open.spotify.com/track/1poa3266sVq4mnVbgocKda) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Down With Me](https://open.spotify.com/album/3j95Z60Qiu2cyDQaRQWmu5) | 3:12 | 2023-02-17 | 2023-07-05 |
 | [Dream](https://open.spotify.com/track/1xrsU12VcEATEYMc8XE1az) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Dream](https://open.spotify.com/album/1VfAbxMuBV7L54UYLLsnFm) | 2:39 | 2023-05-12 |  |
+| [Dream Sequence](https://open.spotify.com/track/1YrVLt1ET4GzwS3HfOcxWw) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Dream Sequence](https://open.spotify.com/album/2M3r10nJAuWXUoUkZAmvqM) | 3:35 | 2023-08-04 |  |
 | [Dreaming](https://open.spotify.com/track/5Gz4ahf3fZ8j21qGGfGjot) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Dreaming](https://open.spotify.com/album/3ZGP2USBTJxXBiRxSiCWnB) | 2:16 | 2022-05-06 | 2022-09-24 |
 | [Dreamstate](https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [IT'S NOT A PHASE](https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w) | 3:12 | 2023-07-21 |  |
 | [DRENCH](https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [DRENCH](https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H) | 3:17 | 2023-06-09 |  |
@@ -377,7 +378,7 @@
 | [Perfect](https://open.spotify.com/track/2TxDyUw7JRuUNfbQmcn0Cs) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Perfect](https://open.spotify.com/album/3tqNGEZdCA5ZyLxquLoxBY) | 3:06 | 2022-03-18 | 2022-06-25 |
 | [Permanence](https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Permanence](https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg) | 3:51 | 2022-01-14 | 2022-06-11 |
 | [Play By My Rules](https://open.spotify.com/track/01xowIJrmShI6X9Q1WXqAd) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Play By My Rules](https://open.spotify.com/album/1FBavf0FlcPMSm1OaByO2p) | 3:37 | 2022-01-14 | 2022-04-16 |
-| [Play It Cool](https://open.spotify.com/track/4Uhgyf8VL7qfcSmZf6tpc5) | [TWINNS](https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg) | [Play It Cool](https://open.spotify.com/album/2pRWNnWyBn07lBcIersFhK) | 2:33 | 2023-06-23 |  |
+| [Play It Cool](https://open.spotify.com/track/4Uhgyf8VL7qfcSmZf6tpc5) | [TWINNS](https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg) | [Play It Cool](https://open.spotify.com/album/2pRWNnWyBn07lBcIersFhK) | 2:33 | 2023-06-23 | 2023-08-06 |
 | [Polite \(feat\. Malokyo\)](https://open.spotify.com/track/0ymIxPq8P10uANAKQVCwCp) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [Malokyo](https://open.spotify.com/artist/3xLrKqOIgw2kuEdaB1eWs6) | [Polite \(feat\. Malokyo\)](https://open.spotify.com/album/5rLswFt7tvu4Zh4rq2Yndt) | 3:19 | 2022-01-28 | 2022-05-07 |
 | [Pop Like](https://open.spotify.com/track/6lG6sIWzNkntKpBSBxat4V) | [KARBON](https://open.spotify.com/artist/3KQWdNzEwAMedviqUBAodQ) | [6am EP](https://open.spotify.com/album/5gllxDkktUWrcUZK0ORhmh) | 3:31 | 2022-12-16 | 2023-03-02 |
 | [Post\-Rave Heist](https://open.spotify.com/track/7fvxVumQ30aRR1RDmkiuI6) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd), [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [Post\-Rave Heist](https://open.spotify.com/album/30HXtVrHxww4WwnRgHQf5m) | 3:12 | 2023-02-24 | 2023-07-24 |

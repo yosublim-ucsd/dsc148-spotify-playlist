@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: The Maine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,122,080 likes - 125 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,122,093 likes - 125 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 124 | [All My Friends](https://open.spotify.com/track/3FplTtfLhflB1ZqdnubwgV) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [All My Friends](https://open.spotify.com/album/1qap7O2XBmzsAMkjYyEp0b) | 2:46 |
 | 125 | [9beat](https://open.spotify.com/track/6K5TU8mqCOObdraAQ7e8u0) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/1B7NRlfSFzUwUpEVSyUPTe) | 4:06 |
 
-Snapshot ID: `MCwwNTgxNTAzZmVjYTAxMjVjZGE4NjJkZDM4NjY4NDY4YmViN2U5MzY2`
+Snapshot ID: `MCxhOTQ0MDg0MGVhYWQ4NGQ2YjNmZTExOTliMjUwODY2NmEzNTgzNTg1`

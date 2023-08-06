@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans\. Cover: Wynton Marsalis
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,598 likes - 61 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,603 likes - 61 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Potato Head Blues](https://open.spotify.com/track/4lpYtp1nD9q15DCqHRFkfH) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Wycliffe Gordon](https://open.spotify.com/artist/3XpQZYLkyv9lwvnjL81dXg), [Vincent Gardner](https://open.spotify.com/artist/0BzZzkzd6WHLXAcVtbdYUM), [Victor Goines](https://open.spotify.com/artist/7zdAb4j79OsvWoxJFA7I7W), [Walter Blanding](https://open.spotify.com/artist/2CSZMV16BjcsK0LttyHTky), [Don Vappie](https://open.spotify.com/artist/2Dy0ULpN8JQny2uA6OBomZ), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Carlos Henriquez](https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI), [Ali Jackson](https://open.spotify.com/artist/5tFHD1Y400oLuqNwWYICkD) | [Louis Armstrong's Hot Fives and Hot Sevens](https://open.spotify.com/album/0PAhGSrWrytYbN2Vdkps22) | 4:48 |
+| 1 | [Potato Head Blues](https://open.spotify.com/track/4lpYtp1nD9q15DCqHRFkfH) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Louis Armstrong's Hot Fives and Hot Sevens](https://open.spotify.com/album/0PAhGSrWrytYbN2Vdkps22) | 4:48 |
 | 2 | [Six Feet Down](https://open.spotify.com/track/5KXn73ZV6VFCoOpdQCpXB0) | [Tuba Skinny](https://open.spotify.com/artist/75vVPF9akWZ5RWAcpxBMU5) | [Magnolia Stroll](https://open.spotify.com/album/21LfD4XS0jCKseccGHcNKK) | 2:57 |
 | 3 | [Shreveport Stomp](https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Atlantic Jazz: New Orleans](https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV) | 3:00 |
 | 4 | [Rosetta](https://open.spotify.com/track/1F6G1ewad31utaep702loo) | [Willie Humphrey](https://open.spotify.com/artist/1f2eTArDk6ozYuU1WiThYT), [Brian O'Connell](https://open.spotify.com/artist/5wt1TGwGYlTiTMs7MiIZ9u), [Les Muscutt](https://open.spotify.com/artist/4Tc3iSDuGy7MYV0ztG9mE7), [Frank Fields](https://open.spotify.com/artist/1SJJ0uLObOdsO8AKkWqBrW), [Ernie Elly](https://open.spotify.com/artist/55C95qwaJr1WvCRkFriDQ7) | [Two Clarinets on the Porch](https://open.spotify.com/album/5JCa8sHMS5xgVNrXaMRVTE) | 3:50 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 60 | [Walking Through New Orleans](https://open.spotify.com/track/3O9fAfK086HTifzfJRrzUK) | [Pete Fountain](https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd) | [Mr\. New Orleans](https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH) | 2:49 |
 | 61 | [Bill Bailey](https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa) | [Albert Burbank](https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk), [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans](https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ) | 2:31 |
 
-Snapshot ID: `MCw0ODVmM2RlZTc1YzAyMmZiZjgzZDA2ZWU4MjNlNDU5NDAwNzMzY2Y0`
+Snapshot ID: `MCw4YzE0NmI1N2U0NWJlYjhlNTE1MDY1ZGZlZGIzNmQyNmY5MDVkNDEz`

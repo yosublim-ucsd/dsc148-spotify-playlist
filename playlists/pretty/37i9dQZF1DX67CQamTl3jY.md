@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67CQamTl3jY.md) - [plain]
 
 > <a href="http://www.grammy.com/">第65回グラミー賞</a>\(2023年\)受賞作品を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,121 likes - 38 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,115 likes - 38 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67CQamTl3jY.md) - [plain]
 | 37 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
 | 38 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 |
 
-Snapshot ID: `MCxiMTVmMjQwNjllOWFmMDk0ZmRiZmUwOTM3NzIzMjcwNjEyYjc4N2U1`
+Snapshot ID: `MCwyNzEyZmUwMDNjNTc0ZGFhNzQxNzFkOTY0YmE1MDI5YjQ2NWI2OWVh`

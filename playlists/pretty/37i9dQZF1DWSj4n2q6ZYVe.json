@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 389890,
+  "num_followers": 390348,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzkzZThkMDAxNmY1MWM2MjcwN2ZjZjIwNmI5NmY1NjUzMzg5ZmU0",
+  "snapshot_id": "MCwyNWVhZTU3MjNhYjU2M2ZhMTk5ZDVhZGY4Y2VlNGU3YzgwZmIwYmI1",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "5 Years of mau5",
+        "url": "https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Rob Swire",
+          "url": "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
+        }
+      ],
+      "duration_ms": 328733,
+      "name": "Ghosts 'n' Stuff - Extended Mix",
+      "url": "https://open.spotify.com/track/0KR5i46RXvDy8YzOZRvTAI"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Musique, Vol. 1",
         "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 223560,
       "name": "God Is a Girl",
       "url": "https://open.spotify.com/track/5LArYFxcsMkArh2RFC5dyn"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "5 Years of mau5",
-        "url": "https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Rob Swire",
-          "url": "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
-        }
-      ],
-      "duration_ms": 328733,
-      "name": "Ghosts 'n' Stuff - Extended Mix",
-      "url": "https://open.spotify.com/track/0KR5i46RXvDy8YzOZRvTAI"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Strobe",
+        "url": "https://open.spotify.com/album/1lY0EO48aNsIU2Q92uC1dd"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Strobe - Radio Edit",
+      "url": "https://open.spotify.com/track/0ubZ5nFWwxKoYJ7hk6TaRm"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Bad Romance Remixes",
         "url": "https://open.spotify.com/album/4d8Ltw4bT71vjo052hlzhY"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 263066,
       "name": "Bad Romance - Skrillex Remix",
       "url": "https://open.spotify.com/track/3ipLg66ktOi3Ag0p26ZBbp"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Strobe",
-        "url": "https://open.spotify.com/album/1lY0EO48aNsIU2Q92uC1dd"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Strobe - Radio Edit",
-      "url": "https://open.spotify.com/track/0ubZ5nFWwxKoYJ7hk6TaRm"
     }
   ],
   "unique_name": "Dance Hits 2000s",

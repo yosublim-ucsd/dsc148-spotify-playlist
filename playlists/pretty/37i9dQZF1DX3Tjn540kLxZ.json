@@ -1,12 +1,12 @@
 {
   "description": "all-day bops you can always rely on \u25e1\u0308\n",
-  "num_followers": 170209,
+  "num_followers": 170275,
   "original_name": "free refills",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGNkYzYzYzI3YWNiZDVjZjI1MjBiN2IyY2UyN2U1MGM5ZjYyYjYw",
+  "snapshot_id": "MCxiZjg0NTg1NDMxZDRmMDhmNzY1ZDlmNzBmZGQ1Y2JmMjlmZTQxMjc1",
   "tracks": [
     {
       "added_at": "2023-01-18 17:37:10",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Channel Orange In Your Living Room",
-        "url": "https://open.spotify.com/album/66JX3vC2VqYoDKXGMuokvd"
-      },
-      "artists": [
-        {
-          "name": "Charlie Burg",
-          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Channel Orange In Your Living Room",
-      "url": "https://open.spotify.com/track/27AJf1VXuh3h6QsqQBOLxf"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "Coming of Age",
         "url": "https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 248000,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Channel Orange In Your Living Room",
+        "url": "https://open.spotify.com/album/66JX3vC2VqYoDKXGMuokvd"
+      },
+      "artists": [
+        {
+          "name": "Charlie Burg",
+          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Channel Orange In Your Living Room",
+      "url": "https://open.spotify.com/track/27AJf1VXuh3h6QsqQBOLxf"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/2W4TrsCzGcCCij6bo7O61m"
     },
     {
-      "added_at": "2023-01-18 17:37:10",
-      "album": {
-        "name": "Soul Smile",
-        "url": "https://open.spotify.com/album/0sRQ2kEsxMeeJ5v9cNUn2N"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "Soul Smile",
-      "url": "https://open.spotify.com/track/2OjiYv6QfrMqQ8uQWrRknk"
-    },
-    {
       "added_at": "2023-01-04 23:35:04",
       "album": {
         "name": "Blondshell",
@@ -983,6 +967,22 @@
       "duration_ms": 216852,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/428djqRa5cPXovbZIYQOIO"
+    },
+    {
+      "added_at": "2023-01-18 17:37:10",
+      "album": {
+        "name": "Soul Smile",
+        "url": "https://open.spotify.com/album/0sRQ2kEsxMeeJ5v9cNUn2N"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "duration_ms": 249266,
+      "name": "Soul Smile",
+      "url": "https://open.spotify.com/track/2OjiYv6QfrMqQ8uQWrRknk"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Clay Pigeon",
-        "url": "https://open.spotify.com/album/1ACZGErPeFAM92avUZMvZZ"
-      },
-      "artists": [
-        {
-          "name": "binki",
-          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
-        }
-      ],
-      "duration_ms": 149665,
-      "name": "Clay Pigeon",
-      "url": "https://open.spotify.com/track/1yZyPhdJF5L60qDUeuwojc"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 287440,
       "name": "How Can I Make It Ok?",
       "url": "https://open.spotify.com/track/4g0yqS7sBgZGA3VWBOj1Kk"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Clay Pigeon",
+        "url": "https://open.spotify.com/album/1ACZGErPeFAM92avUZMvZZ"
+      },
+      "artists": [
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        }
+      ],
+      "duration_ms": 149665,
+      "name": "Clay Pigeon",
+      "url": "https://open.spotify.com/track/1yZyPhdJF5L60qDUeuwojc"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "i run like this",
-        "url": "https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc"
-      },
-      "artists": [
-        {
-          "name": "Vanillaroma",
-          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "buzzkill bummer",
-      "url": "https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "WHY NOT",
         "url": "https://open.spotify.com/album/1RoIk52mQZdGkPd0AFw3Kz"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 180578,
       "name": "Everything You Want",
       "url": "https://open.spotify.com/track/6siRNZnRBTnuDIHBNCCeZ9"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "i run like this",
+        "url": "https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc"
+      },
+      "artists": [
+        {
+          "name": "Vanillaroma",
+          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
+        }
+      ],
+      "duration_ms": 182250,
+      "name": "buzzkill bummer",
+      "url": "https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Lala",
-        "url": "https://open.spotify.com/album/5UTSNFVplH0puzFLbvBOzM"
-      },
-      "artists": [
-        {
-          "name": "Life in Sweatpants",
-          "url": "https://open.spotify.com/artist/1gz7b6h7Jmh8Ixn8byJmCQ"
-        }
-      ],
-      "duration_ms": 174362,
-      "name": "Lala",
-      "url": "https://open.spotify.com/track/2d7PaI8n3uJv6K4lZtWXLm"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "Cocoa Beach",
         "url": "https://open.spotify.com/album/0UVF9tUiKk0RqzUEr3M3WN"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 238161,
       "name": "Cocoa Beach",
       "url": "https://open.spotify.com/track/1uEuKU2y2rjjjLXgZbReh1"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Lala",
+        "url": "https://open.spotify.com/album/5UTSNFVplH0puzFLbvBOzM"
+      },
+      "artists": [
+        {
+          "name": "Life in Sweatpants",
+          "url": "https://open.spotify.com/artist/1gz7b6h7Jmh8Ixn8byJmCQ"
+        }
+      ],
+      "duration_ms": 174362,
+      "name": "Lala",
+      "url": "https://open.spotify.com/track/2d7PaI8n3uJv6K4lZtWXLm"
     },
     {
       "added_at": "2023-01-04 23:35:04",

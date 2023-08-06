@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-287 songs - 15 hr 34 min
+288 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Maa Rassi \- Remix](https://open.spotify.com/track/0SqSNC2KY3B7bixZ8gOJKP) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Méditerranée](https://open.spotify.com/album/1HJzInrgb53YvdUXMbfiSt) | 2:43 | 2022-10-10 | 2022-10-28 |
 | [MAAK](https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAAK](https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y) | 3:24 | 2022-02-11 | 2023-05-26 |
 | [Magic](https://open.spotify.com/track/1BPkouQsD4GyYIQc0pJ76I) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/0T6B119moSdRIZ2641ukTV) | 3:04 | 2022-03-20 | 2022-05-06 |
-| [Magic](https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA) | 3:04 | 2022-07-25 |  |
+| [Magic](https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA) | 3:04 | 2022-07-25 | 2023-08-06 |
 | [Magic](https://open.spotify.com/track/7ckHoMRErhCP9QMqGRPnLv) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/7A52XPHtuD0dvuwMzV52qN) | 3:04 | 2022-05-06 | 2022-07-29 |
 | [Magnifique](https://open.spotify.com/track/0CBFjd1RU3ao8BqWMEiUy5) | [Klass\-A](https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ), [Comoriano](https://open.spotify.com/artist/4lAuN82ZeMgrNRReNybKOT), [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF), [Ljasos](https://open.spotify.com/artist/18Zp1qI0chLfqQPq6i3yTJ) | [Magnifique](https://open.spotify.com/album/59iV1eX9oRXELm1zEO8nKB) | 4:01 | 2022-07-21 | 2023-05-09 |
 | [Mahmouma](https://open.spotify.com/track/6ihD584TA3v6QFUywtf6UP) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [Mahmouma](https://open.spotify.com/album/1sQ0PkcBKrbrr1NdmQwNiG) | 3:03 | 2022-02-24 | 2022-05-20 |
@@ -194,6 +194,7 @@
 | [Moulat Taj \- Delali](https://open.spotify.com/track/6MGvR6zRaMnBi4sejIANew) | [Atif Zinachi](https://open.spotify.com/artist/29R5LaRZ6ceDKec9pYJU8o) | [Moulat Taj \(Delali\)](https://open.spotify.com/album/3EYxGv2x4HKpr1vpugqB9y) | 3:03 | 2022-08-09 | 2022-09-03 |
 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 | 2023-06-27 |  |
 | [Mrta7](https://open.spotify.com/track/0bxd1G6TBQaxnKptoRw4OX) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW), [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [ASL](https://open.spotify.com/album/5ssgImQoCEOMysDTkyAkxi) | 3:10 | 2023-05-08 | 2023-06-09 |
+| [Mtitti](https://open.spotify.com/track/6k1nMH5vxZPIG6UFtlZqdV) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mtitti](https://open.spotify.com/album/2iNdSLozlzr9Q9HW8AHRNf) | 3:53 | 2023-08-05 |  |
 | [Mujer Cobra](https://open.spotify.com/track/7ksDUL9YnwbZB1gEE5eEMO) | [Rita L'Oujdia](https://open.spotify.com/artist/0bSpJFvBMj4Qo5ziwNVs7w) | [Mujer Cobra](https://open.spotify.com/album/0EZKWJVmkVgp2xQgqBoaGg) | 3:06 | 2023-01-14 | 2023-01-20 |
 | [MUSTAHIL](https://open.spotify.com/track/79dYolBgVt3BjSR7OacQNI) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [MUSTAHIL](https://open.spotify.com/album/255KMUYYIGcjX5AO61BCbF) | 4:00 | 2022-05-04 | 2022-07-26 |
 | [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 | 2023-05-25 |  |

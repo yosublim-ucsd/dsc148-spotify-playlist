@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Grupo Frontera & Grupo Firme
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,969 likes - 200 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,005 likes - 200 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 61 | [KYLIE](https://open.spotify.com/track/6QTAThyNzVIF7So0LVIjSZ) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 2:00 |
 | 62 | [EL MAR](https://open.spotify.com/track/4vMkJrF4sWijILPyBYsMrJ) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [CRISMOLAVISION](https://open.spotify.com/artist/71HXixL2Y1cpqt7QaaTHfM) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 2:36 |
 | 63 | [LUNA AZUL EN TOKYO](https://open.spotify.com/track/08vNqL9YzqkeCC6O2mbytK) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 2:37 |
-| 64 | [Extrañándote](https://open.spotify.com/track/0ELfGFiH4qwVP3u6KWJVGj) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mustang 65'](https://open.spotify.com/album/42EHvFRsQtspIer2baInn7) | 3:05 |
-| 65 | [Run](https://open.spotify.com/track/76poUArBkxrtsBzqXcaAnc) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/42EHvFRsQtspIer2baInn7) | 2:43 |
-| 66 | [Millo](https://open.spotify.com/track/4DVYDRzWGNWtr90hmN8FBA) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/42EHvFRsQtspIer2baInn7) | 2:09 |
+| 64 | [Extrañándote](https://open.spotify.com/track/4HDL7W0SdqvQKpGc6cwbOW) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Extrañándote](https://open.spotify.com/album/25WDjxsVCQIiVn09wjzjdO) | 3:05 |
+| 65 | [Run](https://open.spotify.com/track/3tTJkSgyRkQfKvf5CblNPZ) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq) | 2:43 |
+| 66 | [Millo](https://open.spotify.com/track/0kMB2UQtjSJl60RogKOunE) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq) | 2:09 |
 | 67 | [SI TE PEGAS](https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:03 |
 | 68 | [CUKI](https://open.spotify.com/track/3tYDYSZU2Wn7zudbFEJeko) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 2:45 |
 | 69 | [PONTE NASTY](https://open.spotify.com/track/1cNJ9ODOJF8b6AjhzoYdkv) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 4:02 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 199 | [Mi Barrio](https://open.spotify.com/track/4pS2RiGbEKQbrkeH21QuMe) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:19 |
 | 200 | [Desespero](https://open.spotify.com/track/1Dlzq86mlvJEkaGoS9c7MN) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:14 |
 
-Snapshot ID: `MCw1ZGI0ODEwN2JkMzUxNjdjOGUwNWQzZTE0YWQ0MWU2NjFhNjUxZjVh`
+Snapshot ID: `MCxiOTg1Mjg1MTliZmUzN2M3YmM2MWUwZTk4YTU0MDVjODlmMmFkMDNl`

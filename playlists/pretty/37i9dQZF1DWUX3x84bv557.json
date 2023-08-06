@@ -1,12 +1,12 @@
 {
   "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: Amina",
-  "num_followers": 156335,
+  "num_followers": 156371,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjRlNjVhNTQyMTljOGY1OTU4YmY0ODMyNTNkNzBkYzRiMDc2MTFj",
+  "snapshot_id": "MCwwNGZlZjE5MjhmZDRkZTExNTQ1MmZmYzExMmNlMjI4ODNjY2Y0YTk5",
   "tracks": [
     {
       "added_at": "2023-08-03 22:00:00",
@@ -91,6 +91,22 @@
       "duration_ms": 154383,
       "name": "Hou Me Los Van Dichtbij",
       "url": "https://open.spotify.com/track/7bG8a7JbcBftmxVtFMyz9Y"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Samen Niets Doen",
+        "url": "https://open.spotify.com/album/0RXtdtgH5L4SE5H6FVcA27"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "Samen Niets Doen",
+      "url": "https://open.spotify.com/track/2JdAWHy81J3bfqhpVSBpqE"
     },
     {
       "added_at": "2023-08-03 22:00:00",

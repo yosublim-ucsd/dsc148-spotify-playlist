@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 
 > Las partes aburridas del día pueden ser divertidas con música\. ¡En Inglés y Español!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,354 likes - 50 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,355 likes - 50 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 4 | [Bate Con La Cucharita](https://open.spotify.com/track/7H3ELsx12mCquQRYs4v7YP) | [Canticuénticos](https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr) | [Algo Que Decirte](https://open.spotify.com/album/2wXtS4ELgf5cab27G8Yqqf) | 2:45 |
 | 5 | [Let's Get Ready!](https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:05 |
 | 6 | [Drivin' in My Car](https://open.spotify.com/track/0oFzsGRIzjGaHfTZTSCBlW) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Ralph's World](https://open.spotify.com/album/5wKoYzvE2R6xGvbw5tkWQa) | 2:49 |
-| 7 | [Tres Pecesitos](https://open.spotify.com/track/7depgXySK1EO7lIjnbFPav) | [Muñequitas Elizabeth](https://open.spotify.com/artist/1SyPH4ZiGzMG2nBSdX0VwS) | [20 Éxitos 20 Aniversario](https://open.spotify.com/album/5yMrbHsMkW16azJB96x3tB) | 1:07 |
-| 8 | [La Merienda \- Remasterizado](https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:43 |
+| 7 | [La Merienda \- Remasterizado](https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:43 |
+| 8 | [Tres Pecesitos](https://open.spotify.com/track/7depgXySK1EO7lIjnbFPav) | [Muñequitas Elizabeth](https://open.spotify.com/artist/1SyPH4ZiGzMG2nBSdX0VwS) | [20 Éxitos 20 Aniversario](https://open.spotify.com/album/5yMrbHsMkW16azJB96x3tB) | 1:07 |
 | 9 | [Baile del marinero](https://open.spotify.com/track/4MCWEpke2vLhcS96ZK88oo) | [Duo Tiempo de Sol](https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA) | [20 Grandes Éxitos](https://open.spotify.com/album/0y5nHLqrkcPducSd8QRISi) | 2:34 |
 | 10 | [The Clean\-Up Song](https://open.spotify.com/track/41ROjX8HcFz3LVLMkIzzQJ) | [Jody Abboud & The New Song Kids Choir](https://open.spotify.com/artist/2VmyOyiSWOcoTzn78iGo6c) | [The Clean\-Up Song](https://open.spotify.com/album/6JzKt88LOjhyqUVnIx5V2S) | 1:30 |
 | 11 | [Limpieza](https://open.spotify.com/track/3yG4U2GnmSH04Li8aXGFiE) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Juguemos a cantar con Barney](https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL) | 0:34 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 31 | [Nice 'N' Clean](https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:49 |
 | 32 | [Getting Dressed Is the Best](https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 3:20 |
 | 33 | [Good Morning](https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff) | [Love to Sing](https://open.spotify.com/artist/5dz42IMRAYRfEn0igXDjoz) | [With You](https://open.spotify.com/album/12Bh0hHZUqDxCYy11xCxBv) | 2:11 |
-| 34 | [Aguita Y Jabon](https://open.spotify.com/track/6xAuZbX2PrnuqNqZnloKal) | [Cantando con Adriana](https://open.spotify.com/artist/1nbn5tCrTiPWwDUqhgzMGk) | [Bailaré junto a ti](https://open.spotify.com/album/6IvaryN7xqFwBQQLdWJrFh) | 1:41 |
-| 35 | [Please and Thank You Song](https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO) | [Heidi Butkus](https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au) | [Music for Classroom Management](https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1) | 0:43 |
+| 34 | [Please and Thank You Song](https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO) | [Heidi Butkus](https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au) | [Music for Classroom Management](https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1) | 0:43 |
+| 35 | [Aguita Y Jabon](https://open.spotify.com/track/6xAuZbX2PrnuqNqZnloKal) | [Cantando con Adriana](https://open.spotify.com/artist/1nbn5tCrTiPWwDUqhgzMGk) | [Bailaré junto a ti](https://open.spotify.com/album/6IvaryN7xqFwBQQLdWJrFh) | 1:41 |
 | 36 | [Fixin' My Hair](https://open.spotify.com/track/34AjttGzdQFz3rXmQakgR7) | [The Sesame Street Follicles](https://open.spotify.com/artist/6fFWIeOC1k2cboPOFDEDaQ), [Sesame Street's Kevin](https://open.spotify.com/artist/2ONAq9vAVfLxNm2HOmA8lv), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Splish Splash \- Bath Time Fun](https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw) | 1:32 |
 | 37 | [Kids Just Love to Brush](https://open.spotify.com/track/6mb6WxUM7Fxh7GeCQalkW9) | [Sesame Street's Bicuspids](https://open.spotify.com/artist/32xzvYpAc8iQSohhQ81QXF), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Splish Splash \- Bath Time Fun](https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw) | 2:51 |
 | 38 | [Cover Your Sneeze](https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 1:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 49 | [Wash The Dishes](https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ) | [Nat Hussey](https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA) | [Papa Goose](https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j) | 1:29 |
 | 50 | [La Canción del Baño](https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc) | [HooplaKidz En Español](https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu) | [Las Mejores Canciones para Niños](https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b) | 2:09 |
 
-Snapshot ID: `MCw0MWNjZjg3MzhmNTA5NmFkOTdmY2JlYjRmNzkyMmJlNjhjMWFjNzU4`
+Snapshot ID: `MCwwZWU3OTNjNTdmNmMyN2YzMTQ2N2Q4NThmYTg4MzE5Yzc1MjViODAx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Ease into the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,255 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,262 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 99 | [Blueberry Puff](https://open.spotify.com/track/7JFL55nA4gZfq5ofsjY487) | [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Blueberry Puff](https://open.spotify.com/album/3WEtT7fr3NxpqTJnClikAc) | 2:40 |
 | 100 | [Say No More \- Gary B Balearic Remix](https://open.spotify.com/track/6wtq2JZGRRKInQCDkUf5Ir) | [Marga Sol](https://open.spotify.com/artist/4y7BFiVRM23Sw8fUPcfXRI), [Darles Flow](https://open.spotify.com/artist/4hdHzR9Eg6nQ0wYhyCU9Np), [M\-Sol MUSIC](https://open.spotify.com/artist/1odWkvK9dQ8DtQzbLCtoSz), [Gary B](https://open.spotify.com/artist/3j6HqaYmvmWOTF1MH7YTYk) | [Say No More \(Gary B Balearic Remix\)](https://open.spotify.com/album/7kCB3l0xJYiUZpxoz8Nopn) | 3:20 |
 
-Snapshot ID: `MCw4MjVjOGE0MzU0NzIxOTE2NzBkMTVhM2U4Y2E5ZmJjOWIwODhiOWE2`
+Snapshot ID: `MCw3NzJiNjRiMGZmMjI4ZmQwOTliODMxYWEzNzg0N2U3YjQyNzUyNjFm`

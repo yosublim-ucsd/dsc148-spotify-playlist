@@ -4,7 +4,7 @@
 
 > The best French indie tracks right now\. Cover: Emma Hoet
 
-375 songs - 20 hr 34 min
+376 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Friends \(feat\. Tim Ayre\)](https://open.spotify.com/track/0i4XXy3wOWpDHmFIO0jyTC) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [Friends \(feat\. Tim Ayre\)](https://open.spotify.com/album/1XYpFKvCy2bL6XyuhAJKVl) | 3:19 | 2023-03-09 |  |
 | [Fun And Games](https://open.spotify.com/track/5sotg0jgud6MzdGzmeFdeY) | [Please](https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku) | [Fun And Games](https://open.spotify.com/album/0TARB7CV4PQJKl6ceVpyfG) | 4:05 | 2022-06-23 | 2022-09-02 |
 | [Gala](https://open.spotify.com/track/0PvDUG18CCUqrVTyK2aGkw) | [Degree](https://open.spotify.com/artist/1WsU8n1hX7sjHqGryYXp1w) | [Gala](https://open.spotify.com/album/2etNcKMymdsTiXy1YbtQrd) | 2:53 | 2023-02-02 | 2023-06-23 |
-| [Game Boys](https://open.spotify.com/track/1VV9YClgWlPzsyL6GLoAF3) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB) | [Moody Moon](https://open.spotify.com/album/3ONCT6yDKlvu0ismhJTOZx) | 2:53 | 2023-04-13 |  |
+| [Game Boys](https://open.spotify.com/track/1VV9YClgWlPzsyL6GLoAF3) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB) | [Moody Moon](https://open.spotify.com/album/3ONCT6yDKlvu0ismhJTOZx) | 2:53 | 2023-04-13 | 2023-08-06 |
+| [Game Boys](https://open.spotify.com/track/3QNhfuJkl6IWxnojizLG55) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB), [Diane Sagnier](https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay), [Rocket Mike](https://open.spotify.com/artist/18ssEKS9fXX1nbMg7mAzaU), [Leo Hellden](https://open.spotify.com/artist/2xuVdExl3fVXV8NjGOaSpL) | [Moody Moon](https://open.spotify.com/album/5KwugNWAlyYhFCGx2obkTY) | 2:53 | 2023-08-03 |  |
 | [Get to Me](https://open.spotify.com/track/7GsKP7AgvqfNNJw74MhSLF) | [Aprile](https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P), [Leo Fifty Five](https://open.spotify.com/artist/1ytH8uFCe1l9mxfqUUnYMF) | [Get to Me](https://open.spotify.com/album/2RHAob0QwrdOaEw0ZVGHdp) | 3:08 | 2021-12-16 | 2022-01-21 |
 | [Ghost story](https://open.spotify.com/track/1rYLirLvSfSo5jbbl7wHE5) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Ghost story](https://open.spotify.com/album/0NH6qv94SMwDOCyMoO9V6P) | 2:30 | 2023-02-23 | 2023-03-10 |
 | [Grande Vitesse](https://open.spotify.com/track/6NYeUwjXuC87QmqS6ymZe2) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [Grande Vitesse](https://open.spotify.com/album/2Xe7EhztOvwHzuUWvl6Xlk) | 3:21 | 2022-11-10 | 2022-12-02 |

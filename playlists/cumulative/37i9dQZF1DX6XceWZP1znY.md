@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-797 songs - 2 day 4 hr 23 min
+798 songs - 2 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [My Song My Days](https://open.spotify.com/track/6720Nm1PzXNnaspxfDjF2T) | [SOLIDEMO](https://open.spotify.com/artist/7ccOn9dXuj9TGDZJSLZYP2), [桜men](https://open.spotify.com/artist/09nL8Bc0RxxQ43ckGEqgqN) | [My Song My Days](https://open.spotify.com/album/6INNU3w8qiQ75rRffXHpui) | 4:36 | 2022-06-07 | 2022-07-21 |
 | [NAMELY](https://open.spotify.com/track/0ZfWNX0kP9ofAjmTkpVSzJ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [NAMELY](https://open.spotify.com/album/37U1o22d174FbOHy59LsbK) | 4:07 | 2022-06-07 | 2022-07-27 |
 | [NEVER SAY GOODBYE](https://open.spotify.com/track/1NVQvAvYhYUluRrRQpdCjg) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Mummy\-D](https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX) | [NEVER SAY GOODBYE](https://open.spotify.com/album/0f9ojxk4DzroHLGAU5iUA3) | 4:50 | 2022-11-22 | 2023-07-16 |
+| [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 | 2023-08-04 |  |
 | [New Page](https://open.spotify.com/track/2gApWgkuisXedOcS9Tligs) | [INTERSECTION](https://open.spotify.com/artist/5yzLjgtXt52UUcOO0y88ma) | [New Page](https://open.spotify.com/album/3IqJDQ3RL9oV6a91m9FCZE) | 4:30 | 2022-06-07 | 2023-07-25 |
 | [ninelie](https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 4:21 | 2022-06-07 | 2022-12-24 |
 | [ninelie](https://open.spotify.com/track/6kQ9Os7x5LJ2jLHb8VWKaa) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [Daydream](https://open.spotify.com/album/0rzOTrywE0mNybhErlmD5e) | 4:21 | 2022-06-07 | 2022-06-28 |
@@ -466,7 +467,7 @@
 | [はじまりのセツナ](https://open.spotify.com/track/5cLBqoblPJague9WgPK5Xp) | [蝋梅学園中等部1年3組](https://open.spotify.com/artist/4JgeSyef7j8JHY6FFplB9t) | [はじまりのセツナ](https://open.spotify.com/album/3dmJ8rMXBC2jo62TIVswJQ) | 3:49 | 2022-06-07 | 2022-07-02 |
 | [はなれない距離](https://open.spotify.com/track/0pFaJy4xKLLb7QeAGUhEDF) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [はなれない距離](https://open.spotify.com/album/0kA9ILc9xJDnoJl3HXiRnH) | 3:41 | 2022-06-07 | 2022-06-28 |
 | [はるのとなり](https://open.spotify.com/track/1GbqvMmDMQjTQoxUTCsgxD) | [佐々木恵梨](https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf) | [はるのとなり \(TVアニメ『ゆるキャン△ SEASON2』EDテーマ\)](https://open.spotify.com/album/7z7MVGlrWdChbo0vxA5O1f) | 3:37 | 2022-06-07 | 2022-07-29 |
-| [ばかじゃないのに](https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ばかじゃないのに](https://open.spotify.com/album/6XY8TrEZf0R3xnm6kouGzT) | 4:16 | 2022-06-07 |  |
+| [ばかじゃないのに](https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ばかじゃないのに](https://open.spotify.com/album/6XY8TrEZf0R3xnm6kouGzT) | 4:16 | 2022-06-07 | 2023-08-06 |
 | [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 | 2022-10-06 |  |
 | [ひまわりの約束](https://open.spotify.com/track/0ahIxSoD9PgkuzauT2DANN) | [Lia](https://open.spotify.com/artist/1Z0sSjjlCFNG4WvU0DUG8t) | [REVIVESII \-Lia Sings beautiful anime songs\-](https://open.spotify.com/album/7Fxv81VGYL0rGZb7Ztx3AS) | 5:03 | 2022-06-07 | 2022-07-20 |
 | [またね](https://open.spotify.com/track/4f8MEWsOIymj4AIZs9VasU) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [またね](https://open.spotify.com/album/6cWyNSjyVH0Miq8FZ9ltEJ) | 3:59 | 2023-04-10 | 2023-04-14 |

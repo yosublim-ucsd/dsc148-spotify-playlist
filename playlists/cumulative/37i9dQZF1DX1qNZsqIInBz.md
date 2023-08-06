@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-162 songs - 7 hr 16 min
+163 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Frequency](https://open.spotify.com/track/5IgpVvg68WGQQPVto0hyZF) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Frequency](https://open.spotify.com/album/5J9yN6EzsaAa2SeW91H4c9) | 2:30 | 2022-10-10 |  |
 | [Frontier](https://open.spotify.com/track/5EE2ubLj0U3kZRkZr7vjbJ) | [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T), [SxDJI](https://open.spotify.com/artist/6TpYb8Z1yUegbmuRcJhiC1) | [Frontier](https://open.spotify.com/album/6UU1uLU30SJsZjl7WCMcbP) | 3:47 | 2023-05-05 |  |
 | [Galaxy](https://open.spotify.com/track/7vbKIia4KB5vWcWpPypPBr) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Strange](https://open.spotify.com/album/4QTBGcS5DSCe6N3RTNixsN) | 2:56 | 2022-10-10 |  |
-| [GET AWAY II](https://open.spotify.com/track/4QOhfu7ZdD8PEXRhFjOIT1) | [MXRGX](https://open.spotify.com/artist/6gbsXeoeYTUXGlYlxcKAMP), [NERONUS](https://open.spotify.com/artist/2J5FeaNi5K4F9xml5lWD0L) | [GET AWAY II](https://open.spotify.com/album/3dhZY3fzWK7RNaj0BktV4F) | 3:12 | 2022-10-10 |  |
+| [GET AWAY II](https://open.spotify.com/track/3aI4COsiNptuCDITxvTRCq) | [MXRGX](https://open.spotify.com/artist/6gbsXeoeYTUXGlYlxcKAMP), [NERONUS](https://open.spotify.com/artist/2J5FeaNi5K4F9xml5lWD0L) | [GET AWAY II](https://open.spotify.com/album/7I7F1c3tOML8rUpki5pVfZ) | 3:12 | 2023-03-10 |  |
+| [GET AWAY II](https://open.spotify.com/track/4QOhfu7ZdD8PEXRhFjOIT1) | [MXRGX](https://open.spotify.com/artist/6gbsXeoeYTUXGlYlxcKAMP), [NERONUS](https://open.spotify.com/artist/2J5FeaNi5K4F9xml5lWD0L) | [GET AWAY II](https://open.spotify.com/album/3dhZY3fzWK7RNaj0BktV4F) | 3:12 | 2022-10-10 | 2023-08-06 |
 | [Ghost of the Night](https://open.spotify.com/track/5kdJUmz4AmmSbHdFyIo4e8) | [OXWAVE](https://open.spotify.com/artist/7B2UfSm1zprogJ0TulxZp9) | [Ghost of the Night](https://open.spotify.com/album/5CXl9Cy4HeliJs461GoBGp) | 3:12 | 2022-10-10 | 2022-11-19 |
 | [Glass](https://open.spotify.com/track/4Jgmr12s2lBkg1pP1tJZgr) | [SPVRROW](https://open.spotify.com/artist/1LP8kdjz6NUjAiA4lGMgJF), [YUSHEE](https://open.spotify.com/artist/79YDNnhemgMLv7ho55aLhi) | [Godlike](https://open.spotify.com/album/7fWxqA4vjA7lzAJDDBf1tv) | 2:23 | 2022-11-18 |  |
 | [Glass](https://open.spotify.com/track/5GGg5AYqHzwQqAEiCYdD9T) | [SPVRROW](https://open.spotify.com/artist/1LP8kdjz6NUjAiA4lGMgJF), [YUSHEE](https://open.spotify.com/artist/79YDNnhemgMLv7ho55aLhi) | [Godlike](https://open.spotify.com/album/62Tjmg675DC2B0Bphvh1x6) | 2:23 | 2022-11-18 | 2023-02-12 |

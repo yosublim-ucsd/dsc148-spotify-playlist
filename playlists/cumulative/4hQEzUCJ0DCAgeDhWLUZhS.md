@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: All Time Low
 
-386 songs - 23 hr 0 min
+387 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Sugar Shack](https://open.spotify.com/track/2znRvlKPf9UWTLM6H3N0JQ) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Sugar Shack](https://open.spotify.com/album/0TUHKmsD9J2d0vVepO3jqP) | 3:58 | 2020-10-10\* | 2021-02-25 |
 | [Surrounded By Spies](https://open.spotify.com/track/5LXezNuUE2SRJhoqiwTs3P) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Surrounded By Spies](https://open.spotify.com/album/1oXC9xTnpHTqZ4zupV54Md) | 5:14 | 2021-11-12 |  |
 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 | 2023-03-13 |  |
+| [Take Me Away \(Freaky Friday Cover\)](https://open.spotify.com/track/6DgOgEPyxAAK28bkn1wfax) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Take Me Away \(Freaky Friday\)](https://open.spotify.com/album/3mj6oGLr6QrKKKu3sii05Y) | 3:07 | 2023-08-04 |  |
 | [Tear Down Those Names](https://open.spotify.com/track/4Lv7rmfqali1QauyCqBPUa) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [Tear Down Those Names](https://open.spotify.com/album/1lGKcjy727WZ4KEoJb6nB6) | 4:01 | 2021-07-10 |  |
 | [Teenage Seance](https://open.spotify.com/track/3e9s7jHAy2m1EDYVklVD9D) | [Regionals](https://open.spotify.com/artist/0qy3ehXiSt9DNvvFu3Sf9k) | [Teenage Seance](https://open.spotify.com/album/014VB7XdeRPXraQ2ZHX0jC) | 4:11 | 2020-10-10\* | 2021-05-13 |
 | [Tell Me I’m Alive](https://open.spotify.com/track/1H4BiYE8G4XuaKpVxvtJ4n) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:35 | 2023-03-17 |  |

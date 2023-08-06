@@ -5477,6 +5477,24 @@
     },
     {
       "album": {
+        "name": "Devuelvete (Guaracha)",
+        "url": "https://open.spotify.com/album/1UH60K9xF2k5EQi3evqjLB"
+      },
+      "artists": [
+        {
+          "name": "Deejay Ghost",
+          "url": "https://open.spotify.com/artist/4N8sMKcWQVo6bHBit1GsWL"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262153,
+      "name": "Devuelvete (Guaracha)",
+      "url": "https://open.spotify.com/track/1SODbO76xvYjobGXyvQA15"
+    },
+    {
+      "album": {
         "name": "Diablote (Filtrado)",
         "url": "https://open.spotify.com/album/3c4QAaLckSiNtPED6C56NV"
       },
@@ -5718,7 +5736,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 122455,
       "name": "DISCULPE OFICIAL",
       "url": "https://open.spotify.com/track/4Ngtr8wWqF8wNanDkG5OhG"
@@ -10906,10 +10924,28 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 184940,
       "name": "LALA (IA)",
       "url": "https://open.spotify.com/track/3Iv4yuvsn6KfICDx7XW1z2"
+    },
+    {
+      "album": {
+        "name": "LALA V2",
+        "url": "https://open.spotify.com/album/3N3Xr64TRNYI9MomaZG0bL"
+      },
+      "artists": [
+        {
+          "name": "YourfanBT",
+          "url": "https://open.spotify.com/artist/7ngnbtfXr7evOoRUnyteF1"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184940,
+      "name": "LALA V2",
+      "url": "https://open.spotify.com/track/4MYWo2jwIoU25ZdUeM9faU"
     },
     {
       "album": {
@@ -12646,7 +12682,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 176713,
       "name": "Me Fui",
       "url": "https://open.spotify.com/track/2OkUvEoWFbrfMdizByk8Ej"
@@ -22502,7 +22538,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 92093,
       "name": "T\u00e1 OK",
       "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. La Adictiva & Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,801 likes - 74 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,957 likes - 74 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 73 | [El Niño De La Amapola](https://open.spotify.com/track/76sWBFlOhZeChOSdrAfpCd) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [El Niño De La Amapola](https://open.spotify.com/album/1rygGMDNJ46kjKiwRzGC9Y) | 3:34 |
 | 74 | [En El Calorón](https://open.spotify.com/track/6N7TWCgpK7kRfpnyQ6yt5B) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [En El Calorón](https://open.spotify.com/album/7gPpeOQQNtZn90O5YvA7Ai) | 2:39 |
 
-Snapshot ID: `MCxmYTk0NGMzNzNlOTc2OWFmNjA1N2FlYTgwOWZlNGUxNmU5N2Q2MTUx`
+Snapshot ID: `MCwwNTQ3M2Y0OGMzMzA2ZGU4MTkyOTA4NDliOWE5ZmM4ZmZmOWI1NTlk`

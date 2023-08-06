@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 202631,
       "name": "Crei",
       "url": "https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz"
@@ -666,6 +666,24 @@
       "duration_ms": 206236,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/1ml853VvNJ960JkbfHSvyN"
+    },
+    {
+      "album": {
+        "name": "Dos Coronas a Mi Madre",
+        "url": "https://open.spotify.com/album/2jebo7aeg5sh5sSjXJ935y"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157484,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/03HOauAbdksUhAZq9IZLSM"
     },
     {
       "album": {
@@ -1238,7 +1256,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-27",
+      "date_removed": null,
       "duration_ms": 190563,
       "name": "Un Engano Mas",
       "url": "https://open.spotify.com/track/2RLWRcdjOcOP1eirhJMl6C"
@@ -1260,7 +1278,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 208480,
       "name": "Vamos A Olvidarnos De Ella",
       "url": "https://open.spotify.com/track/3epFeTILO3xEEfk7lSrsVe"

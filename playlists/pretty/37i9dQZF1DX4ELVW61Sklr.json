@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.",
-  "num_followers": 168048,
+  "num_followers": 168046,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzZmNjNiODUxMDRjZWU5Y2NjOWFmYmEwMmQwYzZlODhmZTYyYjNh",
+  "snapshot_id": "MCw1YzgzOTEzMjdmMTg3ZTc5OTlhZjVjNTJhMmNlNmNhYThmMjgyMGZj",
   "tracks": [
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1053,38 +1053,6 @@
       "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Christmas With Babyface",
-        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Star Bright",
-        "url": "https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Williams",
-          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
-        }
-      ],
-      "duration_ms": 232840,
-      "name": "What Child Is This?",
-      "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "This Christmas",
@@ -1103,6 +1071,38 @@
       "duration_ms": 242563,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/721Z5ii3hik988t1ixcDJc"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Star Bright",
+        "url": "https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Williams",
+          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
+        }
+      ],
+      "duration_ms": 232840,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Best Of/20th Century - Christmas",
-        "url": "https://open.spotify.com/album/3emp7PCTnvQmvhUkM5AjAy"
+        "name": "Merry Christmas from Andra Day",
+        "url": "https://open.spotify.com/album/3RqB9JuiNZwQmt9qXhvxnT"
       },
       "artists": [
         {
-          "name": "New Edition",
-          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
         }
       ],
-      "duration_ms": 249760,
-      "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE"
+      "duration_ms": 194053,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/72yb1EUhIV5gBGx04UA5vV"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Merry Christmas from Andra Day",
-        "url": "https://open.spotify.com/album/3RqB9JuiNZwQmt9qXhvxnT"
+        "name": "Best Of/20th Century - Christmas",
+        "url": "https://open.spotify.com/album/3emp7PCTnvQmvhUkM5AjAy"
       },
       "artists": [
         {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
         }
       ],
-      "duration_ms": 194053,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/72yb1EUhIV5gBGx04UA5vV"
+      "duration_ms": 249760,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1265,6 +1265,22 @@
       "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
     },
     {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 276960,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Spotify Singles - Holiday",
@@ -1285,22 +1301,6 @@
       "url": "https://open.spotify.com/track/28cTgrTZZChH8qO2fvm6my"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Christmas With Babyface",
-        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 276960,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Still Home For The Holidays",
@@ -1319,22 +1319,18 @@
     {
       "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "Save The World Remix Suite",
-        "url": "https://open.spotify.com/album/4QrE2ziKN8rbMQGBYQo8f9"
+        "name": "Def The Halls",
+        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Salaam Remi",
-          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 299829,
-      "name": "I Want To Come Home For Christmas - SaLaAM ReMi Remix",
-      "url": "https://open.spotify.com/track/14Gq8jrY24pCzdCSLcn5V2"
+      "duration_ms": 214183,
+      "name": "Wrap Me Up",
+      "url": "https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw"
     }
   ],
   "unique_name": "R&B Christmas",

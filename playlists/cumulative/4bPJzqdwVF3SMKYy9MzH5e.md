@@ -4,7 +4,7 @@
 
 > 
 
-1,792 songs - 4 day 1 hr 5 min
+1,793 songs - 4 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1029,6 +1029,7 @@
 | [Mister Glassman](https://open.spotify.com/track/4OstQRfGKat6SWR7FB1zvd) | [Scotty Sire](https://open.spotify.com/artist/24vm5FBjvLpwUiVNcYc8qy) | [Mister Glassman](https://open.spotify.com/album/4gyHikZn318K504xmub8Dl) | 3:41 | 2021-08-05 |  |
 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 | 2021-08-05 |  |
 | [Modelo](https://open.spotify.com/track/4RsWA8YFk3Yp8aVV9loOlL) | [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0), [83HADES](https://open.spotify.com/artist/1lhFyyRRWH7llPdQGIhXYD) | [Cowboy Cutie](https://open.spotify.com/album/3CB1tDD5XL93u8GGMevSr1) | 2:15 | 2021-08-05 |  |
+| [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 | 2023-08-05 |  |
 | [Molly](https://open.spotify.com/track/1kTZ1aERsOBTrihsDdGFNn) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [Tighter](https://open.spotify.com/album/1R7cyLXrVT4Y7PnXNk7NQl) | 1:44 | 2021-08-05 |  |
 | [Moment](https://open.spotify.com/track/1zFuZul9pNIgbNCzhQxG8U) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Moment](https://open.spotify.com/album/0EeN9DAkiJa5YmMFOmfdWB) | 1:49 | 2023-04-26 |  |
 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 | 2021-08-05 |  |

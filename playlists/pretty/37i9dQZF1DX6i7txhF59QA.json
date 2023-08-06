@@ -1,12 +1,12 @@
 {
   "description": "Let's party with cheerful Korean trot medley. Cover: \bNa Hoon-a(\ub098\ud6c8\uc544) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 20310,
+  "num_followers": 20318,
   "original_name": "K-Trot Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWQwNDcyZWM5MjQ4ZDM2M2Y3ZDJlZWY2NWY2ODE5NTllMTUyZjY2",
+  "snapshot_id": "MCwzZDI0YmQ3MzA0MTY0NzM5OTgxNDJiMjdmNzE5MGJmZTZhZGY0YWY2",
   "tracks": [
     {
       "added_at": "2023-07-24 00:44:12",
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/73Bihnu9ymiWuNTNtZLg9Z"
         }
       ],
-      "duration_ms": 227480,
-      "name": "\uc548\ub3d9\uc5ed\uc5d0\uc11c",
-      "url": "https://open.spotify.com/track/2REiV8Cx6JsVkMFiTUP4on"
+      "duration_ms": 209106,
+      "name": "\ubcf4\ub9bf\uace0\uac1c",
+      "url": "https://open.spotify.com/track/2RYQrS3fDdnincR9K6mNgp"
     },
     {
       "added_at": "2023-07-24 00:44:12",
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/73Bihnu9ymiWuNTNtZLg9Z"
         }
       ],
-      "duration_ms": 209106,
-      "name": "\ubcf4\ub9bf\uace0\uac1c",
-      "url": "https://open.spotify.com/track/2RYQrS3fDdnincR9K6mNgp"
+      "duration_ms": 227480,
+      "name": "\uc548\ub3d9\uc5ed\uc5d0\uc11c",
+      "url": "https://open.spotify.com/track/2REiV8Cx6JsVkMFiTUP4on"
     },
     {
       "added_at": "2023-07-24 00:44:12",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-07-24 00:44:12",
       "album": {
+        "name": "Love call center PART12",
+        "url": "https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/3zC2aZKFM0syGLz92BMaeL"
+    },
+    {
+      "added_at": "2023-07-24 00:44:12",
+      "album": {
         "name": "\ub85c\uafb8\uac70!!!",
         "url": "https://open.spotify.com/album/4jKdrKP3d7a6fR9nJBQMAv"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 146093,
       "name": "\uccab \ucc28",
       "url": "https://open.spotify.com/track/45o2Iqkg0wDSVH7g686EUF"
-    },
-    {
-      "added_at": "2023-07-24 00:44:12",
-      "album": {
-        "name": "\ud55c\uc794\ud574",
-        "url": "https://open.spotify.com/album/0tYyIhabxVv2VMT5H3dP4q"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\uad70",
-          "url": "https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC"
-        }
-      ],
-      "duration_ms": 199353,
-      "name": "\ud55c\uc794\ud574",
-      "url": "https://open.spotify.com/track/3RzXaAgfDWmPb3QsJY3uzW"
     },
     {
       "added_at": "2023-07-24 00:44:12",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-07-24 00:44:12",
       "album": {
-        "name": "Love call center PART12",
-        "url": "https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H"
+        "name": "\ud55c\uc794\ud574",
+        "url": "https://open.spotify.com/album/0tYyIhabxVv2VMT5H3dP4q"
       },
       "artists": [
         {
-          "name": "Kim Heejae",
-          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+          "name": "\ubc15\uad70",
+          "url": "https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC"
         }
       ],
-      "duration_ms": 188693,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/3zC2aZKFM0syGLz92BMaeL"
+      "duration_ms": 199353,
+      "name": "\ud55c\uc794\ud574",
+      "url": "https://open.spotify.com/track/3RzXaAgfDWmPb3QsJY3uzW"
     },
     {
       "added_at": "2023-07-24 00:44:12",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-07-24 00:44:12",
       "album": {
+        "name": "\uc624\uc2b9\uadfc Special `\ub0b4 \ub098\uc774\uac00 \uc5b4\ub54c\uc11c`",
+        "url": "https://open.spotify.com/album/2n8pyK5h9IB3lmg5W6r6Be"
+      },
+      "artists": [
+        {
+          "name": "\uc624\uc2b9\uadfc",
+          "url": "https://open.spotify.com/artist/1AklxrEk7i9wiWijLX9pjg"
+        }
+      ],
+      "duration_ms": 157323,
+      "name": "\ucc98\ub140 \ubc43\uc0ac\uacf5",
+      "url": "https://open.spotify.com/track/0w6llwKhP9t8brMqqOlQBw"
+    },
+    {
+      "added_at": "2023-07-24 00:44:12",
+      "album": {
         "name": "\uc6b0\ub9ac\u5bb6",
         "url": "https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w"
       },
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2023-07-24 00:44:12",
       "album": {
-        "name": "\uc624\uc2b9\uadfc Special `\ub0b4 \ub098\uc774\uac00 \uc5b4\ub54c\uc11c`",
-        "url": "https://open.spotify.com/album/2n8pyK5h9IB3lmg5W6r6Be"
+        "name": "\uccab\ubc88\uc9f8 \uc774\uc57c\uae30",
+        "url": "https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo"
       },
       "artists": [
         {
-          "name": "\uc624\uc2b9\uadfc",
-          "url": "https://open.spotify.com/artist/1AklxrEk7i9wiWijLX9pjg"
+          "name": "YOYOMI",
+          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
         }
       ],
-      "duration_ms": 157323,
-      "name": "\ucc98\ub140 \ubc43\uc0ac\uacf5",
-      "url": "https://open.spotify.com/track/0w6llwKhP9t8brMqqOlQBw"
+      "duration_ms": 194487,
+      "name": "\ud558\ud2b8\ubfc5\ubfc5",
+      "url": "https://open.spotify.com/track/3xV3HFBSTVhqgI0UmXYJ4e"
     },
     {
       "added_at": "2023-07-24 00:44:12",
@@ -1403,22 +1419,6 @@
       "duration_ms": 378040,
       "name": "Tralalala",
       "url": "https://open.spotify.com/track/4p46qIOHJXGNpgNtL75Tvz"
-    },
-    {
-      "added_at": "2023-07-24 00:44:12",
-      "album": {
-        "name": "\uccab\ubc88\uc9f8 \uc774\uc57c\uae30",
-        "url": "https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo"
-      },
-      "artists": [
-        {
-          "name": "YOYOMI",
-          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
-        }
-      ],
-      "duration_ms": 194487,
-      "name": "\ud558\ud2b8\ubfc5\ubfc5",
-      "url": "https://open.spotify.com/track/3xV3HFBSTVhqgI0UmXYJ4e"
     },
     {
       "added_at": "2023-07-24 00:44:12",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-07-24 00:44:12",
       "album": {
-        "name": "addiction",
-        "url": "https://open.spotify.com/album/4Fo8bAywFUH3tok8W2r9B9"
-      },
-      "artists": [
-        {
-          "name": "KIM JAE HYUNG",
-          "url": "https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH"
-        }
-      ],
-      "duration_ms": 210536,
-      "name": "addiction",
-      "url": "https://open.spotify.com/track/3T21MLVwNG6Qf2KvqStsck"
-    },
-    {
-      "added_at": "2023-07-24 00:44:12",
-      "album": {
         "name": "Taste of life",
         "url": "https://open.spotify.com/album/4IGv48d0xSWpKmO8Db0Srm"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 181040,
       "name": "Taste of life",
       "url": "https://open.spotify.com/track/48F26fZUkzsKahAn97EviB"
+    },
+    {
+      "added_at": "2023-07-24 00:44:12",
+      "album": {
+        "name": "addiction",
+        "url": "https://open.spotify.com/album/4Fo8bAywFUH3tok8W2r9B9"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HYUNG",
+          "url": "https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH"
+        }
+      ],
+      "duration_ms": 210536,
+      "name": "addiction",
+      "url": "https://open.spotify.com/track/3T21MLVwNG6Qf2KvqStsck"
     },
     {
       "added_at": "2023-07-24 00:44:12",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-07-24 00:44:12",
       "album": {
+        "name": "\uccab\ubc88\uc9f8 \uc774\uc57c\uae30",
+        "url": "https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo"
+      },
+      "artists": [
+        {
+          "name": "YOYOMI",
+          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
+        }
+      ],
+      "duration_ms": 218688,
+      "name": "\uc774 \uc624\ube60 \ubb50\uc57c",
+      "url": "https://open.spotify.com/track/2trWoBXnXzsovpZiemRdwD"
+    },
+    {
+      "added_at": "2023-07-24 00:44:12",
+      "album": {
         "name": "on your side",
         "url": "https://open.spotify.com/album/1zGuwf2nqVE4C3DqMxgVD5"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 154680,
       "name": "Turn",
       "url": "https://open.spotify.com/track/7nx7ExJ2PUYEBZ05atB5aq"
-    },
-    {
-      "added_at": "2023-07-24 00:44:12",
-      "album": {
-        "name": "\uccab\ubc88\uc9f8 \uc774\uc57c\uae30",
-        "url": "https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo"
-      },
-      "artists": [
-        {
-          "name": "YOYOMI",
-          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
-        }
-      ],
-      "duration_ms": 218688,
-      "name": "\uc774 \uc624\ube60 \ubb50\uc57c",
-      "url": "https://open.spotify.com/track/2trWoBXnXzsovpZiemRdwD"
     },
     {
       "added_at": "2023-07-24 00:44:12",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-07-24 00:44:12",
       "album": {
-        "name": "Love call center PART13",
-        "url": "https://open.spotify.com/album/4yKuRJirB0B52jwjVYoJ17"
-      },
-      "artists": [
-        {
-          "name": "Jang Minho",
-          "url": "https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v"
-        }
-      ],
-      "duration_ms": 206786,
-      "name": "Barefooted youth",
-      "url": "https://open.spotify.com/track/2quEJ0O0lsvl46cyvCiiaJ"
-    },
-    {
-      "added_at": "2023-07-24 00:44:12",
-      "album": {
         "name": "Music source of Mr.Trot Trot Aid Best",
         "url": "https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 190160,
       "name": "I happened to see her",
       "url": "https://open.spotify.com/track/2dJWB9GmhYlQGSr2gbuH8q"
+    },
+    {
+      "added_at": "2023-07-24 00:44:12",
+      "album": {
+        "name": "Love call center PART13",
+        "url": "https://open.spotify.com/album/4yKuRJirB0B52jwjVYoJ17"
+      },
+      "artists": [
+        {
+          "name": "Jang Minho",
+          "url": "https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v"
+        }
+      ],
+      "duration_ms": 206786,
+      "name": "Barefooted youth",
+      "url": "https://open.spotify.com/track/2quEJ0O0lsvl46cyvCiiaJ"
     }
   ],
   "unique_name": "K-Trot Stars",

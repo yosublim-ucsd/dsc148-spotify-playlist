@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world\. Cover: Mareux
 
-166 songs - 10 hr 58 min
+168 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bichota \(Post\-Punk\)](https://open.spotify.com/track/3o8tpXm59d9a8wulsGLZ3y) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Bichota \(Post\-Punk\)](https://open.spotify.com/album/0u9yvtJJdXmqMOOa53VuUD) | 3:01 | 2023-04-03 |  |
 | [Biessensoŭnasć](https://open.spotify.com/track/2R1Yk6vm11P3pLIrtBR4eM) | [Nürnberg](https://open.spotify.com/artist/2IkTGThCeQAPGMru4uXzs4) | [Skryvaj](https://open.spotify.com/album/4v7LVUKXfXJwsomhfHaefk) | 2:56 | 2023-02-09 |  |
 | [Black Cathedral](https://open.spotify.com/track/6SQHBJhkZJHoul8PJ8EHXC) | [This Cold Night](https://open.spotify.com/artist/3pIO4LI39vyMYT9cou1B7j) | [While I Disappear](https://open.spotify.com/album/4efXao3lMzP4AWTn94pFL5) | 2:55 | 2023-02-09 |  |
+| [Boys](https://open.spotify.com/track/3mIijo7WcIfMLx1PJPHbit) | [Social Order](https://open.spotify.com/artist/7J3iqTNIMXafmNKtwfRQ48) | [Boys](https://open.spotify.com/album/3f5a36R6YXw7ykuAKkcxkU) | 3:04 | 2023-08-05 |  |
 | [Breaking the Dream](https://open.spotify.com/track/3yWuyh35Khby1Vp9aQJNjn) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Breaking the Dream](https://open.spotify.com/album/1AR7tlqXFciqzjzqDOv6Af) | 3:30 | 2020-12-21 | 2023-02-10 |
 | [cabin](https://open.spotify.com/track/6yYnE5DDbv0e6TlzlSDJgX) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3SnEK6pCU5qFtnLXSbZT6i) | 3:20 | 2020-12-21 |  |
 | [Chez Toi](https://open.spotify.com/track/69VjPausWbwW7f2ytRdULI) | [La Bande\-Son Imaginaire](https://open.spotify.com/artist/0U2KuJLptIL0uYTheNq4k7) | [Chez Toi](https://open.spotify.com/album/7en4PuHhcFXFYrYJ2xflY2) | 4:41 | 2023-07-04 |  |
@@ -54,7 +55,7 @@
 | [Elements](https://open.spotify.com/track/38PAyLYynfJ8Mk4lEjSHSd) | [Jasper De Ceuster](https://open.spotify.com/artist/4E653XDFNhfX7sIlJWCiwb) | [Elements](https://open.spotify.com/album/4w2s1OoJMVJ6Ute1V4sue9) | 4:52 | 2020-12-21 |  |
 | [Estrés](https://open.spotify.com/track/3LuEubnZA02nAjYPZYOKMW) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Morro](https://open.spotify.com/album/2bGPirzXyUp4MrYozkRDeE) | 2:44 | 2023-03-17 | 2023-03-25 |
 | [Eviction](https://open.spotify.com/track/1KsDx0jzpXVr97vvSKzNfz) | [Linea Aspera](https://open.spotify.com/artist/7ovuEJn78rNJmBBnLqc1NU) | [Linea Aspera](https://open.spotify.com/album/6YbyDgrqvbMeNRRhyismmZ) | 4:03 | 2023-01-06 | 2023-02-10 |
-| [Fahrenheit](https://open.spotify.com/track/29J0OTJNBsJlbLGjVagx6I) | [Neon Nox](https://open.spotify.com/artist/4hePFF9hQhzhZ1ZHELHYa5) | [Syndicate Shadow](https://open.spotify.com/album/016dMPf9Jjpu8unSQMl4by) | 5:23 | 2020-12-21 |  |
+| [Fahrenheit](https://open.spotify.com/track/29J0OTJNBsJlbLGjVagx6I) | [Neon Nox](https://open.spotify.com/artist/4hePFF9hQhzhZ1ZHELHYa5) | [Syndicate Shadow](https://open.spotify.com/album/016dMPf9Jjpu8unSQMl4by) | 5:23 | 2020-12-21 | 2023-08-06 |
 | [Fantasmas](https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Ceremony](https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711) | 3:10 | 2023-01-06 |  |
 | [Fate](https://open.spotify.com/track/53Zvj4xbSFKwSJeXjyocHK) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/6G1kayusfMD3mcRXtPty2k) | 4:17 | 2023-02-09 |  |
 | [Future Club](https://open.spotify.com/track/20ztml2STRF7Sq1UaBB6ox) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [Dangerous Days](https://open.spotify.com/album/0GzBfwarPFhAdfLNHfgaRT) | 4:49 | 2020-12-21 |  |
@@ -103,6 +104,7 @@
 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2020-12-21 |  |
 | [No Me Quedo Quieto](https://open.spotify.com/track/5a6CjjQM0CGprOWWrqMi7j) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Cómo Escapar de Nuestra Sombra](https://open.spotify.com/album/33wH7GK3ypW6C9nSpE6HGX) | 3:27 | 2023-01-06 |  |
 | [Nochnoe Randevu](https://open.spotify.com/track/3uf2do7Q44YhIP2DldU45I) | [Chernikovskaya Hata](https://open.spotify.com/artist/1atThEZZ9Dxt9F6r7Ay4HV) | [Nochnoe Randevu](https://open.spotify.com/album/5bVGp87NmKBmZ7qtubjiKV) | 3:28 | 2020-12-21 | 2023-06-30 |
+| [nothing but evil](https://open.spotify.com/track/45lvbsupGAERB6DR8EDJ1m) | [Astrophysics](https://open.spotify.com/artist/5ho2IoSxmjGkX2eFOLY64T) | [nothing but evil](https://open.spotify.com/album/7FaPSxIF2I4xVploe4mGIu) | 4:09 | 2023-08-05 |  |
 | [Odyssey Point](https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Odyssey Point](https://open.spotify.com/album/5IVdG5UgyB1oXQGrMa8F56) | 4:17 | 2020-12-21 | 2023-04-09 |
 | [Pain](https://open.spotify.com/track/13HYthybjhM3iyWcfl8VcN) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/0U0KLShCpe3rWkcfOLJl9Y) | 7:19 | 2023-01-06 |  |
 | [Paradise](https://open.spotify.com/track/4nQWhotmcrNRfOuu8EfmjF) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Paradise](https://open.spotify.com/album/2IjroX0bM8miBvBTqDRsKJ) | 5:35 | 2020-12-21 |  |
@@ -140,7 +142,7 @@
 | [The Style Is Death](https://open.spotify.com/track/3BMBp3Ope7onUWMUCyZ2ok) | [Forever Grey](https://open.spotify.com/artist/3HSpbkijRqVAa1bn0hyEfz) | [Alabaster Chamber](https://open.spotify.com/album/4vkFkFOTEusDOuy70rDrkL) | 3:57 | 2023-02-09 |  |
 | [Thin Flesh](https://open.spotify.com/track/1P1u2H8BTKaKTRhsQAwFH4) | [Traitrs](https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X) | [Butcher's Coin](https://open.spotify.com/album/5zif8VwNMkLGO0lUvnBHFf) | 3:38 | 2023-02-09 |  |
 | [This World Couldn’t See Us](https://open.spotify.com/track/6NPo6ZHIVtsT5DWXZPGpRG) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [DREAMER](https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M) | 3:39 | 2023-05-22 |  |
-| [Two Point Zero](https://open.spotify.com/track/7DWKtErNxf4Wb8BD54lDUQ) | [Cloudland Canyon](https://open.spotify.com/artist/6s5ScpNzol9psValU4HLHu) | [Two Point Zero](https://open.spotify.com/album/0YngPsT3JJV3ImRut0Z4vd) | 4:43 | 2023-07-04 |  |
+| [Two Point Zero](https://open.spotify.com/track/7DWKtErNxf4Wb8BD54lDUQ) | [Cloudland Canyon](https://open.spotify.com/artist/6s5ScpNzol9psValU4HLHu) | [Two Point Zero](https://open.spotify.com/album/0YngPsT3JJV3ImRut0Z4vd) | 4:43 | 2023-07-04 | 2023-08-06 |
 | [Vengeance](https://open.spotify.com/track/0Bp3HwFfDlGzo7N5mePMxf) | [Cloud Battalion](https://open.spotify.com/artist/256QPBkvY5iLmc3mhwzoTO) | [Storm City](https://open.spotify.com/album/6rR86ssesqXKVIIVJMBz3q) | 4:24 | 2020-12-21 | 2023-02-10 |
 | [Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Vertigo](https://open.spotify.com/album/58NrvyTDNC3JMpyKyX60uI) | 3:30 | 2022-02-18 |  |
 | [We Need](https://open.spotify.com/track/2iQ5UVxkcCfGZ6vLd4q8t1) | [Ssleeping Desiress](https://open.spotify.com/artist/4fDRRcMe3Ci8lhq01OaVlI) | [Ssleeping Desiress](https://open.spotify.com/album/157P582dPYLDWK3tbHBe8f) | 4:13 | 2023-02-09 | 2023-03-08 |
@@ -169,7 +171,7 @@
 | [Самый грустный](https://open.spotify.com/track/3bUB37EbTWCFWkehLo52jB) | [ssshhhiiittt!](https://open.spotify.com/artist/0RfocEzLe78RexLTeU1K2p) | [Remastered](https://open.spotify.com/album/5x2CauBdy2DH8NZ46nWvjV) | 3:53 | 2020-12-21 | 2023-06-14 |
 | [Страшно](https://open.spotify.com/track/5vbX1g08j9hGzW93CAIeQo) | [Shortparis](https://open.spotify.com/artist/61j4FFbKlzdYihMtpM1hZD) | [Так закалялась сталь](https://open.spotify.com/album/4RSGIq9Yu5i70lfXJQ19px) | 4:49 | 2020-12-21 | 2023-02-10 |
 | [Судно \(Борис Рижий\)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 2:21 | 2020-12-21 |  |
-| [Тайна](https://open.spotify.com/track/7DJYUVyrJsNrMD0Do9r2k9) | [Увула](https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9) | [Нам остается лишь ждать](https://open.spotify.com/album/2yU6jXlKENHSyVG2bI33UZ) | 3:01 | 2020-12-21 |  |
+| [Тайна](https://open.spotify.com/track/7DJYUVyrJsNrMD0Do9r2k9) | [Увула](https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9) | [Нам остается лишь ждать](https://open.spotify.com/album/2yU6jXlKENHSyVG2bI33UZ) | 3:01 | 2020-12-21 | 2023-08-06 |
 | [Танцевать](https://open.spotify.com/track/782VcXkRqyevFaJlcoIIEz) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 3:22 | 2020-12-21 |  |
 | [Твоего балкона свет](https://open.spotify.com/track/5kx5F2WMHTe5u5jN6Xpty2) | [Перемотка](https://open.spotify.com/artist/3AwNBhYb8tZmJ5m0VIKHp2) | [Твоего балкона свет](https://open.spotify.com/album/2dUC5GPRIaRt3IaHFN16DW) | 4:12 | 2020-12-21 | 2023-02-10 |
 | [Тебя Нет Рядом](https://open.spotify.com/track/2RgnOTU4RYx7VNXXLAUJCJ) | [Vollny](https://open.spotify.com/artist/7JicwePFjrTsQusfRCaM1P) | [I](https://open.spotify.com/album/53wzm4ZmFim5ZvBYdpD87P) | 4:02 | 2020-12-21 |  |

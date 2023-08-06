@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,445 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,566 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 33 | [Sick of This](https://open.spotify.com/track/3XKAwOCIYtttde7vLMD5Jo) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/5xG0QYLqbR4dTJknfhYtlu) | 3:53 |
 | 34 | [emerald](https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [in.the.forest.we.are.wizards](https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS) | 2:34 |
 | 35 | [Seymour \(with Dawn Golden\)](https://open.spotify.com/track/3tpr337B8DsgKo7JR2eYAS) | [Drevm](https://open.spotify.com/artist/4pHeEHS66wGubk4WCJ5BZG), [Dawn Golden](https://open.spotify.com/artist/6MzxeKydmXufvX7HYPknFW) | [Seymour \(with Dawn Golden\)](https://open.spotify.com/album/7BccR0AIrdXUozgZTAX6gE) | 1:53 |
-| 36 | [Driftwood](https://open.spotify.com/track/7JVfIv0ymBzxJNGuWpHbWZ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Corals](https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4) | 2:04 |
-| 37 | [Anything Like Her \(feat\. Tiffi\)](https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [Snow Rose](https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9) | 3:11 |
-| 38 | [Louie's Lullaby](https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Pause](https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP) | 2:51 |
-| 39 | [Home Soon](https://open.spotify.com/track/0plIIWDys4UBGmura01RpY) | [yuzu blur](https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R) | [Home Soon](https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k) | 2:24 |
-| 40 | [Hold on, Pt\. 2](https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0) | [Ok2222](https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX) | [Lonely](https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3) | 1:24 |
-| 41 | [memories of you](https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:36 |
+| 36 | [FALLING DOWN](https://open.spotify.com/track/0LDiwy2wlju7HSVPgNwNQZ) | [Formalite](https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw), [paydak](https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx) | [FALLING DOWN](https://open.spotify.com/album/1G5TUWRlTTdycaPgZ8YNM9) | 1:36 |
+| 37 | [Driftwood](https://open.spotify.com/track/7JVfIv0ymBzxJNGuWpHbWZ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Corals](https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4) | 2:04 |
+| 38 | [Anything Like Her \(feat\. Tiffi\)](https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [Snow Rose](https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9) | 3:11 |
+| 39 | [Louie's Lullaby](https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Pause](https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP) | 2:51 |
+| 40 | [Home Soon](https://open.spotify.com/track/0plIIWDys4UBGmura01RpY) | [yuzu blur](https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R) | [Home Soon](https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k) | 2:24 |
+| 41 | [Hold on, Pt\. 2](https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0) | [Ok2222](https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX) | [Lonely](https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3) | 1:24 |
 | 42 | [Memories Fade](https://open.spotify.com/track/40rSlnWWx2p4r9lLOwNn96) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Memories](https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7) | 2:27 |
-| 43 | [Wretched](https://open.spotify.com/track/1tYnTQPrqLBwCXLgn5QYos) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Good Grief](https://open.spotify.com/album/6mmGwyBRmigoSW0l5NH8P8) | 2:10 |
-| 44 | [Woozy](https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Adomania](https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D) | 1:30 |
-| 45 | [Timeless](https://open.spotify.com/track/0ggWXuDQjK8EoQAFWQkJHX) | [Floreyyyy](https://open.spotify.com/artist/2fMMmMEc0ZPVLNggWnomXv) | [Timeless](https://open.spotify.com/album/6myBiEX4iPLOWQpGOVqXZm) | 2:28 |
-| 46 | [Distant](https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:24 |
-| 47 | [can't tell](https://open.spotify.com/track/2vf6pbQcLYnbZfNkmZ57La) | [loftii](https://open.spotify.com/artist/7flbszy9aVOQeWiV4MomSB), [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [leaving us](https://open.spotify.com/album/6byIGSY3mMn5JxSfUE1qcC) | 2:49 |
-| 48 | [Behind](https://open.spotify.com/track/4MKnTSEJuUFKvf4LcKMsw6) | [Sensi Sye](https://open.spotify.com/artist/0vDAUcrogFgvsMAXkjHZEQ) | [Behind](https://open.spotify.com/album/0pUE8rJ1nTr1JIVhOTXEaD) | 2:53 |
-| 49 | [FALLING DOWN](https://open.spotify.com/track/0LDiwy2wlju7HSVPgNwNQZ) | [Formalite](https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw), [paydak](https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx) | [FALLING DOWN](https://open.spotify.com/album/1G5TUWRlTTdycaPgZ8YNM9) | 1:36 |
+| 43 | [memories of you](https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:36 |
+| 44 | [Wretched](https://open.spotify.com/track/1tYnTQPrqLBwCXLgn5QYos) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Good Grief](https://open.spotify.com/album/6mmGwyBRmigoSW0l5NH8P8) | 2:10 |
+| 45 | [Woozy](https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Adomania](https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D) | 1:30 |
+| 46 | [Timeless](https://open.spotify.com/track/0ggWXuDQjK8EoQAFWQkJHX) | [Floreyyyy](https://open.spotify.com/artist/2fMMmMEc0ZPVLNggWnomXv) | [Timeless](https://open.spotify.com/album/6myBiEX4iPLOWQpGOVqXZm) | 2:28 |
+| 47 | [Distant](https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:24 |
+| 48 | [can't tell](https://open.spotify.com/track/2vf6pbQcLYnbZfNkmZ57La) | [loftii](https://open.spotify.com/artist/7flbszy9aVOQeWiV4MomSB), [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [leaving us](https://open.spotify.com/album/6byIGSY3mMn5JxSfUE1qcC) | 2:49 |
+| 49 | [Behind](https://open.spotify.com/track/4MKnTSEJuUFKvf4LcKMsw6) | [Sensi Sye](https://open.spotify.com/artist/0vDAUcrogFgvsMAXkjHZEQ) | [Behind](https://open.spotify.com/album/0pUE8rJ1nTr1JIVhOTXEaD) | 2:53 |
 | 50 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 |
 
-Snapshot ID: `MCw1YWVmMGY2NDNmNDgyMjQxZjI4YzM0MmU5ZTU2YWIyZWMwOTgzOWIz`
+Snapshot ID: `MCwyNGVmNGI2MzkzNWUxMDQ2YzY0MDU3ZDM2YjZkOGMyNDEyN2E1YWVm`

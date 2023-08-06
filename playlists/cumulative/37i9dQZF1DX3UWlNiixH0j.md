@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: CHAI
 
-687 songs - 1 day 19 hr 0 min
+688 songs - 1 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Dakishimete](https://open.spotify.com/track/1lXpaSGR5OHptN17bUUkNq) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [Surprisingly Alright](https://open.spotify.com/album/38MsFMu4SR0MX9ZAjVKKhA) | 2:43 | 2023-05-23 | 2023-06-14 |
 | [Damn!](https://open.spotify.com/track/7f8eO8Gd4FNZZemvweT31N) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Damn!](https://open.spotify.com/album/58iLEcJ5gjmwjPH4T8Ahy9) | 2:41 | 2023-02-28 | 2023-03-25 |
 | [Dance like a monkey feat\. 森](https://open.spotify.com/track/3661hmTa7nvZVDAwMDXrps) | [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc), [森](https://open.spotify.com/artist/1WogYMR7JvF1zRKLEjrp0I) | [Dance like a monkey feat\. 森](https://open.spotify.com/album/6o0QkzbPh2a7UsmOuEm7EP) | 3:00 | 2023-06-13 | 2023-07-22 |
-| [Dancer in the Dark](https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [Dancer in the Dark](https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh) | 2:55 | 2023-06-15 |  |
+| [Dancer in the Dark](https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [Dancer in the Dark](https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh) | 2:55 | 2023-06-15 | 2023-08-06 |
 | [Dancing](https://open.spotify.com/track/4Aj3dm1ryaip9mVQRbJDXh) | [Gateballers](https://open.spotify.com/artist/2b7HKmpiq0Y0mguaajJkMU) | [未来からきた人](https://open.spotify.com/album/7JjAs2x4QWKXm96SvIreSJ) | 3:12 | 2023-01-17 | 2023-03-08 |
 | [Dark Ballet](https://open.spotify.com/track/5Vn3NnDFgIizhVeXj1go61) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Dark Ballet](https://open.spotify.com/album/6KlAn04BDkqs7QbNl0UcU6) | 3:47 | 2023-06-20 | 2023-07-07 |
 | [Darling Dear](https://open.spotify.com/track/5S2eRGQVvX8DgcZJWr6szm) | [The Lamb](https://open.spotify.com/artist/6Df2pJCe7Ud1Q7kWvf68cx) | [Darling Dear](https://open.spotify.com/album/3uq3EylPq0MO2AURJsPuyR) | 3:51 | 2023-01-12 | 2023-01-18 |
@@ -383,6 +383,7 @@
 | [Superior](https://open.spotify.com/track/4XJud2E6edl441erVAdBgh) | [Lillies and Remains](https://open.spotify.com/artist/6002lb7vby2t0KYnGJYKg0) | [SUPERIOR](https://open.spotify.com/album/6fOqerz5ZX2SJ2VuMp7mub) | 3:54 | 2023-07-11 | 2023-07-29 |
 | [Supremacy](https://open.spotify.com/track/1mwaixNVz7ifI0VwzSmGfw) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/4cU0lQpW1s0HXysHPklbYi) | 3:14 | 2023-07-25 | 2023-07-27 |
 | [Supremacy](https://open.spotify.com/track/5YdQ2ekqb2i17sCZELI3VC) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/7dVYDyMKuta1QkHwOJpjze) | 3:14 | 2023-07-25 |  |
+| [SURF'S UP](https://open.spotify.com/track/7jIpZOpsPbGJ2HGJgaFksy) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [SURF'S UP](https://open.spotify.com/album/2hlpQtydkLGcojGw5yJibr) | 3:36 | 2023-08-03 |  |
 | [SWAG](https://open.spotify.com/track/3lWuQtvl0C3pTcStluTtgj) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs), [MORI](https://open.spotify.com/artist/2VZ62GjyleNEM6B8j0Ea1I) | [SWAG](https://open.spotify.com/album/6dKzXsTmOV2WNWOWajmaM4) | 2:59 | 2023-07-04 | 2023-07-19 |
 | [SWAG](https://open.spotify.com/track/32HRX6Iu36uiraswJkIbiv) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs), [森](https://open.spotify.com/artist/1WogYMR7JvF1zRKLEjrp0I) | [SWAG](https://open.spotify.com/album/0veFcBGgU77H4LKxGCL1TZ) | 2:59 | 2023-07-04 | 2023-07-06 |
 | [Sway](https://open.spotify.com/track/50Opxhj5GxjF47Fc5SXoZl) | [petalhead](https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW) | [Sway](https://open.spotify.com/album/3ZYTXFJA0ju3dk4PErgh5O) | 4:26 | 2023-02-07 | 2023-03-22 |
@@ -603,7 +604,7 @@
 | [忘れたい](https://open.spotify.com/track/6iPgeH5Zk0sV2Fdh4cxcWf) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [忘れたい](https://open.spotify.com/album/2z3WbukYp2wJGxKXzU1u2k) | 3:22 | 2023-04-11 | 2023-07-21 |
 | [急げ!!!](https://open.spotify.com/track/0CRf9ovluQV67yFMoVivTY) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [BORN IN ASIA](https://open.spotify.com/album/1hxqiqdMhB96Aq0uzgazNM) | 2:06 | 2023-03-14 | 2023-03-16 |
 | [恋するシーサイド](https://open.spotify.com/track/0al7KwZp5wowqSxcF1G7V5) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ), [お茶の間天国](https://open.spotify.com/artist/4CiBaomluFQBPUA9L0Sg9B) | [恋するシーサイド](https://open.spotify.com/album/0dVZvTD3E8jqySSUJfdh3X) | 4:36 | 2023-02-07 | 2023-02-22 |
-| [恋のジャーナル](https://open.spotify.com/track/7ue4j1Jq6f1xdgH5LXIxW6) | [THE 2](https://open.spotify.com/artist/668YZEv91Ux6vBKFwc3NLk) | [恋のジャーナル](https://open.spotify.com/album/1oRp7okGGR1nfSNBirPdwX) | 3:40 | 2023-06-02 | 2023-08-02 |
+| [恋のジャーナル](https://open.spotify.com/track/7ue4j1Jq6f1xdgH5LXIxW6) | [THE 2](https://open.spotify.com/artist/668YZEv91Ux6vBKFwc3NLk) | [恋のジャーナル](https://open.spotify.com/album/1oRp7okGGR1nfSNBirPdwX) | 3:40 | 2023-06-02 |  |
 | [悪魔くん](https://open.spotify.com/track/1dfN1UyFFMMnUf1nb0glwG) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [悪魔くん](https://open.spotify.com/album/5kSNrVSQsOCifIzOQkNzuB) | 2:42 | 2023-03-30 | 2023-04-28 |
 | [悪魔くん](https://open.spotify.com/track/5J3XK7QsuVn5bnyQz9kWsC) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ロンリーメイビー](https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E) | 2:42 | 2023-05-16 | 2023-07-07 |
 | [惑星数珠つなぎ](https://open.spotify.com/track/4pGBhMzvWVCb4QU4EfjNJ5) | [カラコルムの山々](https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix) | [惑星数珠つなぎ](https://open.spotify.com/album/2ylCmkp17XjprjJSMoQvcE) | 4:27 | 2023-02-14 | 2023-03-15 |
@@ -663,7 +664,7 @@
 | [聖者](https://open.spotify.com/track/0pc65xApWsiCYFHay3uEEJ) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [戀愛大全](https://open.spotify.com/album/7vquQAWbCFooOeeSrKDQky) | 3:26 | 2023-03-30 | 2023-04-03 |
 | [聞いてたの? \- feat\. 三浦透子](https://open.spotify.com/track/3Int9nkk2ARU62kcM2jwis) | [Keach Arimoto](https://open.spotify.com/artist/2cwNtDJKPSK4Q3nP2Q6Tjo), [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [「0110」](https://open.spotify.com/album/3nteWD6tjiRcJB0uxbtray) | 2:45 | 2023-04-04 | 2023-04-12 |
 | [花とゆめ](https://open.spotify.com/track/5ZPTwZpHD9po7ScVYi7KO4) | [Gateballers](https://open.spotify.com/artist/2b7HKmpiq0Y0mguaajJkMU) | [花とゆめ](https://open.spotify.com/album/1AKJxdnugSCoTIHMypgUHL) | 3:51 | 2023-07-11 | 2023-08-02 |
-| [花向](https://open.spotify.com/track/6KITCkP5y0gBxlUhVO3N2O) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [MOROHA V](https://open.spotify.com/album/1qZqRsyhgGRO8dmdrBolDC) | 5:39 | 2023-06-08 |  |
+| [花向](https://open.spotify.com/track/6KITCkP5y0gBxlUhVO3N2O) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [MOROHA V](https://open.spotify.com/album/1qZqRsyhgGRO8dmdrBolDC) | 5:39 | 2023-06-08 | 2023-08-06 |
 | [花降る時の彼方](https://open.spotify.com/track/3B5gmn2BdUzNFzzw2aAoPs) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [花降る時の彼方](https://open.spotify.com/album/7amC6JkIzmrsCfFec2w6gx) | 6:04 | 2023-03-14 | 2023-06-14 |
 | [虫](https://open.spotify.com/track/03fWcvMJUrIBGgiGpM5Z9z) | [Tocago](https://open.spotify.com/artist/5WYxT3w8PntFhAJC48Y7oc) | [虫](https://open.spotify.com/album/58XOr4Fe8QQrHNdwCub48d) | 3:03 | 2023-07-04 | 2023-07-12 |
 | [街の終わり](https://open.spotify.com/track/7fD09NyzrkqscB07BQJAwS) | [Nag Ar Juna](https://open.spotify.com/artist/0XCIw94rGkUZr24KGUi5Vu) | [街の終わり](https://open.spotify.com/album/2uJY0lqrnhLdQZD7odrXRT) | 4:22 | 2023-03-09 | 2023-03-29 |

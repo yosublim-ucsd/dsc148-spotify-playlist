@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Davi Sacer, Simone
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,575 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,817 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 31 | [Agnus Dei](https://open.spotify.com/track/2QVfl2xU1BrElsOsO3IvSx) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [No Infinito Deste Amor](https://open.spotify.com/album/12MGw5CX1KkoSkDNDi1vVY) | 9:40 |
 | 32 | [Nunca Pare de Lutar](https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 7:56 |
 | 33 | [Abraça\-Me](https://open.spotify.com/track/05fZNpkAeHQoQNFB7tFVMa) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Adoração](https://open.spotify.com/album/6VefFSAIlIhtQppFh78rpC) | 4:49 |
-| 34 | [Com Muito Louvor](https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Cassiane \- Gospel Collection Ao Vivo](https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE) | 6:22 |
-| 35 | [Adorador por Excelência](https://open.spotify.com/track/6CEXs4A3QhmQ4LLBXl096K) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Excelência](https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW) | 5:33 |
+| 34 | [Adorador por Excelência](https://open.spotify.com/track/6CEXs4A3QhmQ4LLBXl096K) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Excelência](https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW) | 5:33 |
+| 35 | [Com Muito Louvor](https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Cassiane \- Gospel Collection Ao Vivo](https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE) | 6:22 |
 | 36 | [Te Agradeço \- Ao Vivo](https://open.spotify.com/track/7FXEHVZMXO2brLAFsbqX1z) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Diante do Trono \(Ao Vivo\)](https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS) | 5:04 |
 | 37 | [Mais Alto \- Acústico](https://open.spotify.com/track/6qQBEy6IctIb8cm3Q4SG9E) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Acústico](https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To) | 4:33 |
 | 38 | [sublime \- Ao Vivo](https://open.spotify.com/track/4PoMOFwptVBWUVs1KzYXBm) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Principio \(Ao Vivo\)](https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c) | 4:27 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 60 | [Abra os Meus Olhos](https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Eu Tenho a Promessa](https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw) | 5:36 |
 | 61 | [Tua Unção](https://open.spotify.com/track/13wblL6thQD5NHLa29j1X4) | [Ministério Nova Jerusalém](https://open.spotify.com/artist/6Eikwdu8Tl78UPdJezEX9g), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Aba Pai](https://open.spotify.com/album/4DzXvPORyD3JtESzeteFBq) | 8:03 |
 | 62 | [Autor da Minha Fé \(feat\. Paulo Cézar\)](https://open.spotify.com/track/3Nf2lSDsZY6YHctnDVX7rc) | [Grupo Logos](https://open.spotify.com/artist/41XTLrYfIdtr8frsp8Em5C), [Paulo Cézar](https://open.spotify.com/artist/59tkQh4975FMO2hfRLVfc7) | [Autor da Minha Fé](https://open.spotify.com/album/4V2xVSZcqaYna4EmoCU9uY) | 4:50 |
-| 63 | [Que Se Abram Os Céus](https://open.spotify.com/track/2uUeFEF4hmM0rjFfvA4nxF) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Que Se Abram Os Céus](https://open.spotify.com/album/3ev4KNHiwlz1s9afOb6mne) | 5:07 |
-| 64 | [Descansarei \- Ao Vivo](https://open.spotify.com/track/44PXCOuQXQIq40BiTBjVW6) | [Ronaldo Medeiros](https://open.spotify.com/artist/6RMUphSh8PJC2llQHlFARe) | [Promessas](https://open.spotify.com/album/58uhE9XLy6EojFpJ6UQKA2) | 6:27 |
+| 63 | [Descansarei \- Ao Vivo](https://open.spotify.com/track/44PXCOuQXQIq40BiTBjVW6) | [Ronaldo Medeiros](https://open.spotify.com/artist/6RMUphSh8PJC2llQHlFARe) | [Promessas](https://open.spotify.com/album/58uhE9XLy6EojFpJ6UQKA2) | 6:27 |
+| 64 | [Que Se Abram Os Céus](https://open.spotify.com/track/2uUeFEF4hmM0rjFfvA4nxF) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Que Se Abram Os Céus](https://open.spotify.com/album/3ev4KNHiwlz1s9afOb6mne) | 5:07 |
 | 65 | [Ele É Exaltado \- Ao Vivo](https://open.spotify.com/track/0MVjVxZHphWNA5uAx2kwjY) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Momentos de Louvor, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Vmp2BRhyXdhjSbtMFxzIl) | 3:30 |
 | 66 | [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/3PpOOzUCXzf5tanLKIjokX) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Ao vivo Maracanãzinho, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/2iTh7vLrv3NM0F4HDaSkLA) | 8:07 |
 | 67 | [Pra Você](https://open.spotify.com/track/2JJstgu72jt2qlB9Bw384J) | [Novo Som](https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl) | [Para Sempre, Vol\. 1](https://open.spotify.com/album/0kMruzcinTCWD5bRkfTDzj) | 4:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 69 | [Me Rendo](https://open.spotify.com/track/2XyR41aQULwd1ZZxh1ajxY) | [Hillsong Global Project](https://open.spotify.com/artist/15QEMU8TfJ3jEJjV5dRfCi), [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Global Project Português](https://open.spotify.com/album/6TXjIiTV3QPLymgQj3ABtv) | 6:10 |
 | 70 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
 
-Snapshot ID: `MCxkMzU1Y2YzYzljY2RjODc4ZGFkOGRkYjJjNGIzYmM4MzFiYTU1YTgx`
+Snapshot ID: `MCxiMWQzZDYxNjEzOGIyZTk2Y2M2YWEzYTdjNDc4MzlkMTJjNzZkZDNm`

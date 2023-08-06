@@ -4,7 +4,7 @@
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: Amina
 
-280 songs - 13 hr 30 min
+281 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Rood Licht](https://open.spotify.com/track/26zU9nsY6hlPUAjb4PsRsb) | [ZWIJMEL](https://open.spotify.com/artist/7swrz956hjUaa1XUSXMdkd) | [Rood Licht](https://open.spotify.com/album/4rbf6xcKq8hya8XBAw9PWi) | 3:09 | 2023-03-16 | 2023-05-19 |
 | [Rotterdam](https://open.spotify.com/track/156a5itNldVPstH3WoFnFq) | [Huize Lucas](https://open.spotify.com/artist/5V8b23P7NLOVaB04lfb79b) | [Rotterdam](https://open.spotify.com/album/5RIOlXdqpsDkJNl2WLdgPC) | 3:07 | 2023-06-22 |  |
 | [Ruggengraat](https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ruggengraat](https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V) | 2:34 | 2023-05-18 |  |
+| [Samen Niets Doen](https://open.spotify.com/track/2JdAWHy81J3bfqhpVSBpqE) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Samen Niets Doen](https://open.spotify.com/album/0RXtdtgH5L4SE5H6FVcA27) | 2:46 | 2023-08-03 |  |
 | [SANGRIA](https://open.spotify.com/track/1rB3PaSergrJ8AFHjrcBtG) | [TOMMY](https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM) | [SANGRIA](https://open.spotify.com/album/0OwpIDXfSxvw0yDalHmR45) | 2:14 | 2023-07-20 |  |
 | [Sexy](https://open.spotify.com/track/3ep4UFsL9NFPrTSReiJAWn) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Sexy](https://open.spotify.com/album/6F47aUJVE7SBwQ4KDJaOek) | 2:12 | 2023-04-20 |  |
 | [Signalen](https://open.spotify.com/track/3sXuzqUTUbLQqAcCYvNu1B) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Signalen](https://open.spotify.com/album/3vBChoujwlS8ncQ1yU01Pe) | 3:19 | 2023-05-18 | 2023-06-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Numcha",
-  "num_followers": 75232,
+  "num_followers": 75295,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjYzYzFmYWIwZjQ4OGRmYTY5MjhlMDRjNDMyNmRkY2JkMjg2NTQy",
+  "snapshot_id": "MCwyNjcwZDBlYTBlYTYwZDcyZmU0MzM2MTAyNjZiNzVhMzNhYWQ5OWQ5",
   "tracks": [
     {
       "added_at": "2023-08-03 17:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-08-03 17:00:00",
       "album": {
-        "name": "\u0e23\u0e1a\u0e01\u0e27\u0e19",
-        "url": "https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
-        }
-      ],
-      "duration_ms": 221688,
-      "name": "\u0e23\u0e1a\u0e01\u0e27\u0e19",
-      "url": "https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy"
-    },
-    {
-      "added_at": "2023-08-03 17:00:00",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 265000,
       "name": "for lovers who hesitate",
       "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
+    },
+    {
+      "added_at": "2023-08-03 17:00:00",
+      "album": {
+        "name": "\u0e23\u0e1a\u0e01\u0e27\u0e19",
+        "url": "https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+        }
+      ],
+      "duration_ms": 221688,
+      "name": "\u0e23\u0e1a\u0e01\u0e27\u0e19",
+      "url": "https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy"
     },
     {
       "added_at": "2023-08-03 17:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-08-03 17:00:00",
       "album": {
-        "name": "\u0e16\u0e49\u0e32\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b",
-        "url": "https://open.spotify.com/album/77lLAs7qgkQPHcMhXi1WIk"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
-        }
-      ],
-      "duration_ms": 290909,
-      "name": "\u0e16\u0e49\u0e32\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b",
-      "url": "https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9"
-    },
-    {
-      "added_at": "2023-08-03 17:00:00",
-      "album": {
         "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 11",
         "url": "https://open.spotify.com/album/460wwJJ7kVYYue0MfHTsVD"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 143181,
       "name": "friends",
       "url": "https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P"
+    },
+    {
+      "added_at": "2023-08-03 17:00:00",
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b",
+        "url": "https://open.spotify.com/album/77lLAs7qgkQPHcMhXi1WIk"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+        }
+      ],
+      "duration_ms": 290909,
+      "name": "\u0e16\u0e49\u0e32\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b",
+      "url": "https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9"
     },
     {
       "added_at": "2023-08-03 17:00:00",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2023-08-03 17:00:00",
       "album": {
-        "name": "sharp knife",
-        "url": "https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI"
+        "name": "Tsuki (\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c)",
+        "url": "https://open.spotify.com/album/4rEDnBmCvEm0YksuClGr1x"
       },
       "artists": [
         {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "KIRE",
-          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
         }
       ],
-      "duration_ms": 170204,
-      "name": "sharp knife",
-      "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
+      "duration_ms": 216986,
+      "name": "Tsuki - \u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/5ykMYZvOASxQrj756r9UXx"
     },
     {
       "added_at": "2023-08-03 17:00:00",
@@ -1295,22 +1291,6 @@
       "duration_ms": 285852,
       "name": "Masalah Masa Depan",
       "url": "https://open.spotify.com/track/34dTSIA1q3JMg59gMwQeOb"
-    },
-    {
-      "added_at": "2023-08-03 17:00:00",
-      "album": {
-        "name": "Tsuki (\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c)",
-        "url": "https://open.spotify.com/album/4rEDnBmCvEm0YksuClGr1x"
-      },
-      "artists": [
-        {
-          "name": "LANDOKMAI",
-          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
-        }
-      ],
-      "duration_ms": 216986,
-      "name": "Tsuki - \u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
-      "url": "https://open.spotify.com/track/5ykMYZvOASxQrj756r9UXx"
     },
     {
       "added_at": "2023-08-03 17:00:00",
@@ -1343,6 +1323,26 @@
       "duration_ms": 274000,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/2PJpocUzoJDp8cG7Uq5XPA"
+    },
+    {
+      "added_at": "2023-08-03 17:00:00",
+      "album": {
+        "name": "sharp knife",
+        "url": "https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        }
+      ],
+      "duration_ms": 170204,
+      "name": "sharp knife",
+      "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
     },
     {
       "added_at": "2023-08-03 17:00:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-08-03 17:00:00",
       "album": {
-        "name": "sulky baby",
-        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
+        "name": "Kenaniah",
+        "url": "https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7"
       },
       "artists": [
         {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+          "name": "Kenaniah",
+          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
         }
       ],
-      "duration_ms": 278998,
-      "name": "sulky baby",
-      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
+      "duration_ms": 280769,
+      "name": "Totoo",
+      "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
     },
     {
       "added_at": "2023-08-03 17:00:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-08-03 17:00:00",
       "album": {
-        "name": "Kenaniah",
-        "url": "https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7"
+        "name": "sulky baby",
+        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
       },
       "artists": [
         {
-          "name": "Kenaniah",
-          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
         }
       ],
-      "duration_ms": 280769,
-      "name": "Totoo",
-      "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
+      "duration_ms": 278998,
+      "name": "sulky baby",
+      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
     },
     {
       "added_at": "2023-08-03 17:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-08-03 17:00:00",
       "album": {
-        "name": "CUTIE",
-        "url": "https://open.spotify.com/album/58NklkNH8BSsUiah3F4Yzh"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 145219,
-      "name": "CUTIE",
-      "url": "https://open.spotify.com/track/6N0A2eAfev8XaMlrS16mkC"
-    },
-    {
-      "added_at": "2023-08-03 17:00:00",
-      "album": {
         "name": "\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e01\u0e31\u0e19 (You?)",
         "url": "https://open.spotify.com/album/2hlF4yvrAXDUGPaL1P2qFa"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2023-08-03 17:00:00",
       "album": {
+        "name": "CUTIE",
+        "url": "https://open.spotify.com/album/58NklkNH8BSsUiah3F4Yzh"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 145219,
+      "name": "CUTIE",
+      "url": "https://open.spotify.com/track/6N0A2eAfev8XaMlrS16mkC"
+    },
+    {
+      "added_at": "2023-08-03 17:00:00",
+      "album": {
         "name": "SANCTUARY",
         "url": "https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 198095,
       "name": "SANCTUARY",
       "url": "https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL"
+    },
+    {
+      "added_at": "2023-08-03 17:00:00",
+      "album": {
+        "name": "berkelana dalam ruang dan mimpi",
+        "url": "https://open.spotify.com/album/4cI5XslTmp76Nnx8iEmIV4"
+      },
+      "artists": [
+        {
+          "name": "The Jansen",
+          "url": "https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ"
+        }
+      ],
+      "duration_ms": 156619,
+      "name": "berkelana dalam ruang dan mimpi",
+      "url": "https://open.spotify.com/track/1uRvTVCs8SOT3x20MPzgWV"
     },
     {
       "added_at": "2023-08-03 17:00:00",
@@ -1615,38 +1631,6 @@
     {
       "added_at": "2023-08-03 17:00:00",
       "album": {
-        "name": "berkelana dalam ruang dan mimpi",
-        "url": "https://open.spotify.com/album/4cI5XslTmp76Nnx8iEmIV4"
-      },
-      "artists": [
-        {
-          "name": "The Jansen",
-          "url": "https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ"
-        }
-      ],
-      "duration_ms": 156619,
-      "name": "berkelana dalam ruang dan mimpi",
-      "url": "https://open.spotify.com/track/1uRvTVCs8SOT3x20MPzgWV"
-    },
-    {
-      "added_at": "2023-08-03 17:00:00",
-      "album": {
-        "name": "\u7406\u60f3\u72c0\u614b",
-        "url": "https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY"
-      },
-      "artists": [
-        {
-          "name": "Cosmos People",
-          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
-        }
-      ],
-      "duration_ms": 241317,
-      "name": "\u4f60\u7684\u6a23\u5b50",
-      "url": "https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz"
-    },
-    {
-      "added_at": "2023-08-03 17:00:00",
-      "album": {
         "name": "Rock Bottom Blues (feat. James Reid)",
         "url": "https://open.spotify.com/album/7pd0Md4wVcAysaxgmNeKPV"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 140769,
       "name": "Rock Bottom Blues (feat. James Reid)",
       "url": "https://open.spotify.com/track/0WVmVKdoKnDr3xSpZLZjWC"
+    },
+    {
+      "added_at": "2023-08-03 17:00:00",
+      "album": {
+        "name": "\u7406\u60f3\u72c0\u614b",
+        "url": "https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY"
+      },
+      "artists": [
+        {
+          "name": "Cosmos People",
+          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
+        }
+      ],
+      "duration_ms": 241317,
+      "name": "\u4f60\u7684\u6a23\u5b50",
+      "url": "https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz"
     },
     {
       "added_at": "2023-08-03 17:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJer66eoqCP.md) - [plain]
 
 > Listen to the soundtracks of Disney+'s original drama Call It Love\. \(디즈니+ 오리지널 드라마 사랑이라 말해요의 사운드 트랙들을 즐겨보세요!\) You can also listen to 15 songs personally selected by actor Kim Young\-kwang\. \(김영광 배우가 직접 선정한 15곡도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,747 likes - 28 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,793 likes - 28 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJer66eoqCP.md) - [plain]
 | 3 | [Message from Lee Sungkyoung](https://open.spotify.com/track/0Df8aUDPh5KkKI63Vqn97l) | [Lee Sungkyoung](https://open.spotify.com/artist/1Wb9XdKikumNOEgLPwFtq9) | [Call It Love Audio Liner](https://open.spotify.com/album/5BshmR87OmG5rqw9n2o2EL) | 0:46 |
 | 4 | [Flower](https://open.spotify.com/track/5lTjMLVQbceA8dOa7z1gvT) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Call It Love, Part 2 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/3By4oNGxWYD3dQKmaaGLef) | 3:38 |
 | 5 | [Message from Sung Jun](https://open.spotify.com/track/5vmqkgdwkme8Hw3A9zzCbj) | [Sung Jun](https://open.spotify.com/artist/4TA1EI7YIzmJtcYIQewq7T) | [Call It Love Audio Liner](https://open.spotify.com/album/5BshmR87OmG5rqw9n2o2EL) | 0:35 |
-| 6 | [What Can I Do](https://open.spotify.com/track/5dfhtNngJw3RT9SGJpvRrS) | [Hyunji](https://open.spotify.com/artist/29F389PdjBjNMGoTti1GxX) | [Call It Love, Part 2 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/3By4oNGxWYD3dQKmaaGLef) | 3:55 |
+| 6 | [What Can I Do](https://open.spotify.com/track/5dfhtNngJw3RT9SGJpvRrS) | [Hyunji](https://open.spotify.com/artist/217Bgl8C5FrkhSkbrYavSh) | [Call It Love, Part 2 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/3By4oNGxWYD3dQKmaaGLef) | 3:55 |
 | 7 | [Message from Ahn Heeyeon](https://open.spotify.com/track/4jjZb6OnOkx7k0f3kHAzCl) | [Ahn Heeyeon](https://open.spotify.com/artist/5j5f5eerN2nZjlOidzcHJU) | [Call It Love Audio Liner](https://open.spotify.com/album/5BshmR87OmG5rqw9n2o2EL) | 0:46 |
 | 8 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 |
 | 9 | [Message from Kim Yewon](https://open.spotify.com/track/2d7v8v5tB6VA9lmKa9TBkd) | [Kim Yewon](https://open.spotify.com/artist/2mxGQrnsNy5Rot4OGpID4n) | [Call It Love Audio Liner](https://open.spotify.com/album/5BshmR87OmG5rqw9n2o2EL) | 0:47 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJer66eoqCP.md) - [plain]
 | 27 | [Tell Me That You Love Me](https://open.spotify.com/track/0n3pKT2HiMJGxoAYgyezBV) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/6O0z01p8PGCUr7QQQLk1g9) | 3:14 |
 | 28 | [If You Still Wanted to Be Loved](https://open.spotify.com/track/6aCBO28IURluAFDCvIAFtY) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [If You Still Wanted to Be Loved](https://open.spotify.com/album/6BVQYVkF35Tk93rYX8mefs) | 3:01 |
 
-Snapshot ID: `MCxlMGRmOGY0YzA1ZjJmYmEwODQ5NzdkOTBkMjlmZDk3MWVjZGRhNjdi`
+Snapshot ID: `MCw5MzgxZTNkNTkyOWIxOTk3ODllODFjNzRkOTg0YmZiZjQ2Y2EzYmFi`

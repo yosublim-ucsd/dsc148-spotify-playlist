@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Residente y Ricky Martin en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,430 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,431 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 14 | [En Abril](https://open.spotify.com/track/1nyP1aYcgxrpCPXg09DP0W) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo) | [En Abril](https://open.spotify.com/album/4oyJfVyRMFrXc6DPFlDoiB) | 3:21 |
 | 15 | [terminamos en el peor de los casos](https://open.spotify.com/track/37xvZNGDMf58uZ2YWEGIgF) | [Deser](https://open.spotify.com/artist/5QREXPJFppI5PzfpVb8Rny) | [terminamos en el peor de los casos](https://open.spotify.com/album/2CH684PROXeIxC0iYdHdAE) | 2:18 |
 | 16 | [Katana](https://open.spotify.com/track/1B2V8pcudf3f22pTe1cem7) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Nygmv](https://open.spotify.com/artist/02dkVBLEo2pwrEuJFOYhrL) | [Katana](https://open.spotify.com/album/2YzXFwdsJ9QJpsC7dj0zFw) | 2:47 |
-| 17 | [Corridos Prohibidos](https://open.spotify.com/track/3MDF1F1duEFpI3zGj7lRMa) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Mexicanos Bravos](https://open.spotify.com/album/16wHA51T97ptp4kIVLSPdW) | 4:17 |
+| 17 | [Corridos Prohibidos](https://open.spotify.com/track/3MDF1F1duEFpI3zGj7lRMa) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [Someone Sm1](https://open.spotify.com/artist/3WyJImKjA4PH3EXWIWBokJ) | [Mexicanos Bravos](https://open.spotify.com/album/16wHA51T97ptp4kIVLSPdW) | 4:17 |
 | 18 | [La Gracia De Dios](https://open.spotify.com/track/08mntOthYaS6L1TClH3oYR) | [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Polakan](https://open.spotify.com/artist/66Q0sKoITOwDGz49FOVlBa), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [La Gracia De Dios](https://open.spotify.com/album/08s0FhULMFKmc0lhgeo2Jv) | 4:30 |
 | 19 | [El Trono Del Rap](https://open.spotify.com/track/3sxlEWTe3Dr5Kx9rQlUwCP) | [Marto](https://open.spotify.com/artist/4LRWJYTQRWcOO913St1duY) | [El Trono Del Rap](https://open.spotify.com/album/4vuNCESTNZ72yd6bYZgcDL) | 2:51 |
 | 20 | [Quién Mató al Alcalde?](https://open.spotify.com/track/0XpoiS2ctPWAmQ2JCM5ZTa) | [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2) | [Quién Mató al Alcalde?](https://open.spotify.com/album/3hVJhCpEprcHgzqBa1iIRr) | 6:11 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 65 | [No Te Vayas](https://open.spotify.com/track/4BjwreWm0U4DdwqYk6hJH2) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [No Te Vayas](https://open.spotify.com/album/3vhqf5YeiGZyCuXkKzWE5b) | 4:36 |
 | 66 | [Tiempo Al Tiempo](https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz) | [Fukin Keno](https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q) | [Tiempo Al Tiempo](https://open.spotify.com/album/7mPEIFAx8WFig83SEqY5z5) | 2:24 |
 | 67 | [Demonio en los Angeles](https://open.spotify.com/track/3iSPHQH1Pp7GkVCDA3GVFc) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [Demonio en los Angeles](https://open.spotify.com/album/2zaCZCgrlP8Yn9Y3GKeEiQ) | 3:38 |
-| 68 | [Traición](https://open.spotify.com/track/1UQcvldvEi9KucOk1hucfc) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/42EHvFRsQtspIer2baInn7) | 3:11 |
+| 68 | [Traición](https://open.spotify.com/track/4BflgJLizU9pNVTjhGrOHD) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq) | 3:11 |
 | 69 | [BÉLICO](https://open.spotify.com/track/2m0rgXMm37XwkwjDM5QLBv) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [BÉLICO](https://open.spotify.com/album/4o8vodKZQFyHtS6sYuiFtd) | 3:48 |
 | 70 | [De Otoños a Veranos](https://open.spotify.com/track/3e1fa3MKcRqHLGYfOgKhfj) | [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa), [Geko Rbn](https://open.spotify.com/artist/254RDNVCkvWlxpBwOFW9d4) | [De Otoños a Veranos](https://open.spotify.com/album/4W9GN167UUJtyissgZa0rG) | 3:13 |
 | 71 | [Pa 2 Componente 1](https://open.spotify.com/track/4i86dzTV62NUbpJECoLhGW) | [El Shick](https://open.spotify.com/artist/2H2Xg5FjQEIeEEPh8lDRae) | [Pa 2 Componente 1](https://open.spotify.com/album/3leOMsf16yMtzibLeljC9C) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 99 | [No Cambio](https://open.spotify.com/track/5cF32ZWheUhlMgCGDAYcZC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [No Cambio](https://open.spotify.com/album/4yzxeUB4e227zOwfs0El0V) | 3:43 |
 | 100 | [Ahi voy](https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Ahi voy](https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4) | 3:45 |
 
-Snapshot ID: `MCw5NjhlODhjNzYxZDhiN2E0Y2VhNjlmMzE4MzcyN2FlMTk0YWJiNDFm`
+Snapshot ID: `MCxhZWQxYzZiNGE2ZjY5NzExYjgzNThhYzE4NGVhODY5MmI2Mzg4YjMx`

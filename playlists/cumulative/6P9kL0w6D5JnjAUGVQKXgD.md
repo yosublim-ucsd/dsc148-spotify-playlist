@@ -4,7 +4,7 @@
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-1,508 songs - 3 day 7 hr 47 min
+1,509 songs - 3 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,6 +654,7 @@
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2021-07-15 | 2021-08-04 |
 | [In My Arms](https://open.spotify.com/track/2mdwMr3FpQ333pFs0brbST) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Leroy Moreno](https://open.spotify.com/artist/63d2Z7jnnWG0s05tFhig0o) | [In My Arms](https://open.spotify.com/album/4oYUVL7RBWNHXxViSqOJ8b) | 3:48 | 2022-12-28 | 2023-01-10 |
 | [In My Arms](https://open.spotify.com/track/3q1bGsHtUK0Ss4V3JV32GY) | [Freaky DJs](https://open.spotify.com/artist/2tZINeGiB74TsojN6RF0b0), [Skuado](https://open.spotify.com/artist/5j1ayJ4We8dDOPMEnQ0XqP), [Don Philips](https://open.spotify.com/artist/0DAXtx6L29mER3bS7erBL6) | [In My Arms](https://open.spotify.com/album/6foo7gjlDwMa4kqo67Ter5) | 2:52 | 2022-07-29 | 2022-11-01 |
+| [In My Dreams](https://open.spotify.com/track/0wH9VWjkAJjCAjtJTgTwvc) | [AISKA](https://open.spotify.com/artist/6ZA8fsdjN3o5ZUGs9avvwI) | [In My Dreams](https://open.spotify.com/album/7iizq5o4MOu0qwr84AMFuX) | 3:12 | 2023-08-04 |  |
 | [In My Head](https://open.spotify.com/track/3rUpqifr6adnhVk3gaSEYv) | [Vaneck](https://open.spotify.com/artist/72KzFKH6PKwRg3RPdKJCuE) | [In My Head](https://open.spotify.com/album/0edFinu9vXAg7Nmcj77lOj) | 3:03 | 2020-05-26 | 2023-03-12 |
 | [In My Mind](https://open.spotify.com/track/7uoxJCPiqiEa3fvOQQQbyn) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In My Mind](https://open.spotify.com/album/412mL0hMStgwl1ukZjLxR8) | 2:55 | 2021-08-08 | 2021-12-14 |
 | [In My Mind](https://open.spotify.com/track/2HvMyC2NoRJceu6Lgbn4lS) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [In My Mind](https://open.spotify.com/album/4y4EvmcpXydAbrbmSPrVjJ) | 2:59 | 2020-05-26 | 2023-05-28 |
@@ -1090,7 +1091,7 @@
 | [Rollerblade](https://open.spotify.com/track/1hz0SWhLPWKqpGiEBnWFpm) | [Trial & Error](https://open.spotify.com/artist/6W4qhJWqjWK8x6oo4oKMwK), [HENDRICK LANE](https://open.spotify.com/artist/0eJYjGNZFypo9g9QH5JaGL) | [Rollerblade](https://open.spotify.com/album/0xewukHzbfXN0oIR9GUJoi) | 2:50 | 2019-09-29\* | 2023-06-13 |
 | [Rollercoaster](https://open.spotify.com/track/636kRUoh1D1ZJifHip4RtS) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Rollercoaster](https://open.spotify.com/album/4lC9pLz0vfNZQe7xcpqjKg) | 2:59 | 2021-09-29 | 2021-09-30 |
 | [Rooftops](https://open.spotify.com/track/6pbhkfdG5RvTJaC3VKPaJn) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Joytime II](https://open.spotify.com/album/0xi4cOWPUHjctyYU8ypCOB) | 2:57 | 2020-05-26 | 2023-03-10 |
-| [Roses \(feat\. ROZES\)](https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Bouquet](https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF) | 3:45 | 2023-05-30 |  |
+| [Roses \(feat\. ROZES\)](https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Bouquet](https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF) | 3:45 | 2023-05-30 | 2023-08-06 |
 | [Roses \(Imanbek Remix\)](https://open.spotify.com/track/7mS2ZgalsI18LW6EnqFA0v) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/3wZL4Pxagph7pND4IPpXlt) | 2:56 | 2020-05-27 | 2023-05-24 |
 | [Rule The World \(feat\. ILIRA\)](https://open.spotify.com/track/3yvHcaY61FpeSiLiHiIST4) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Rule The World \(feat\. ILIRA\)](https://open.spotify.com/album/3SRrcJb9UQxc6vZm7cZ2Ww) | 2:50 | 2020-12-10 | 2020-12-17 |
 | [Rumors](https://open.spotify.com/track/0ibEbPyMI2JbYgzFYNJlwh) | [TYMEN](https://open.spotify.com/artist/38dICdGB6bl9UKmQx3lt2R), [MYXE](https://open.spotify.com/artist/3og6e24muubWOaYriWZsPc) | [Rumors](https://open.spotify.com/album/6LyEg0JrkaYHXqhyeg96bl) | 3:05 | 2023-01-11 | 2023-03-09 |

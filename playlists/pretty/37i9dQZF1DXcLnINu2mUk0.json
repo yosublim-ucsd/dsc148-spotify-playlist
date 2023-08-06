@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Slow J.",
-  "num_followers": 36543,
+  "num_followers": 36587,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWY2NDZmODQ0M2Y4OTI2MjY3OWQxNjMxOTM1OGU2Y2IxZTdlNzRh",
+  "snapshot_id": "MCwyOWMzMzRmOGMxYzRmOTc4NjIzYTA1ODhhODRlYTdjNGRhNjFmYzEz",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -955,6 +955,26 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Filhos",
+        "url": "https://open.spotify.com/album/16xD2hWPUrnrUrWmzBweXQ"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 210337,
+      "name": "Filhos",
+      "url": "https://open.spotify.com/track/7Cyj6YPYU9ax1Ze7GpQXT4"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Madruga",
         "url": "https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA"
       },
@@ -1047,34 +1067,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Low Battery",
-        "url": "https://open.spotify.com/album/7MAZwo9FGDXWR98xQk8hov"
+        "name": "Jura",
+        "url": "https://open.spotify.com/album/7ckkZsKrcK4fegh5MhbDif"
       },
       "artists": [
         {
-          "name": "dage",
-          "url": "https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k"
+          "name": "Jimmy P",
+          "url": "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Low Battery",
-      "url": "https://open.spotify.com/track/1ifKnE1zRakLFvAZXhHip4"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Fazer-te sonhar",
-        "url": "https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK"
-      },
-      "artists": [
-        {
-          "name": "Westy",
-          "url": "https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Fazer-te sonhar",
-      "url": "https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ"
+      "duration_ms": 172300,
+      "name": "Jura",
+      "url": "https://open.spotify.com/track/23GXQ3JzXWx72SM6eZP1B8"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1095,18 +1099,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Musa",
-        "url": "https://open.spotify.com/album/3LP4aTOzSQ1ZVVVZ7hV7ck"
+        "name": "Low Battery",
+        "url": "https://open.spotify.com/album/7MAZwo9FGDXWR98xQk8hov"
       },
       "artists": [
         {
-          "name": "GBr\u00efsido",
-          "url": "https://open.spotify.com/artist/3QmMiG6180GqdDrl35xqRy"
+          "name": "dage",
+          "url": "https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k"
         }
       ],
-      "duration_ms": 212020,
-      "name": "Musa",
-      "url": "https://open.spotify.com/track/5bNmKRaW9AISMPNeDoz0B3"
+      "duration_ms": 153600,
+      "name": "Low Battery",
+      "url": "https://open.spotify.com/track/1ifKnE1zRakLFvAZXhHip4"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1123,6 +1127,38 @@
       "duration_ms": 256144,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Fazer-te sonhar",
+        "url": "https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK"
+      },
+      "artists": [
+        {
+          "name": "Westy",
+          "url": "https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Fazer-te sonhar",
+      "url": "https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Musa",
+        "url": "https://open.spotify.com/album/3LP4aTOzSQ1ZVVVZ7hV7ck"
+      },
+      "artists": [
+        {
+          "name": "GBr\u00efsido",
+          "url": "https://open.spotify.com/artist/3QmMiG6180GqdDrl35xqRy"
+        }
+      ],
+      "duration_ms": 212020,
+      "name": "Musa",
+      "url": "https://open.spotify.com/track/5bNmKRaW9AISMPNeDoz0B3"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1191,22 +1227,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Conex\u00f5es",
-        "url": "https://open.spotify.com/album/2Lb5TGDth1OKpJEFhKdWCB"
-      },
-      "artists": [
-        {
-          "name": "Burrz",
-          "url": "https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Conex\u00f5es",
-      "url": "https://open.spotify.com/track/3LcW8h5WoAF2FEMxd9S1zO"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "100 Maneiras",
         "url": "https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD"
       },
@@ -1219,22 +1239,6 @@
       "duration_ms": 240000,
       "name": "100 Maneiras",
       "url": "https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Alter Ego",
-        "url": "https://open.spotify.com/album/3ljjAqXl7v44JEnRpYjhMY"
-      },
-      "artists": [
-        {
-          "name": "DIGGA",
-          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
-        }
-      ],
-      "duration_ms": 141461,
-      "name": "Alter Ego",
-      "url": "https://open.spotify.com/track/1bxBGvKAVZ3VM0MZvCaMiL"
     }
   ],
   "unique_name": "Seda",

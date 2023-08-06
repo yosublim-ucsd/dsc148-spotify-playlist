@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,870 likes - 75 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,931 likes - 75 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 57 | [Self Esteem \(feat\. NLE Choppa\) \- DJ Smallz 732 Jersey Club Remix](https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(feat\. NLE Choppa\) \[DJ Smallz 732 Jersey Club Remix\]](https://open.spotify.com/album/465P41bUBc9FVsLIGWkToC) | 1:29 |
 | 58 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 |
 | 59 | [Steal Her Man Challenge \- Jersey Club Remix](https://open.spotify.com/track/190zaR6qDDMlnKYuALGGV3) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki) | [Steal Her Man Challenge \(Jersey Club Remix\)](https://open.spotify.com/album/5VmcZn4uKZQWv8TdRHrVN5) | 1:44 |
-| 60 | [Back It Up](https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy) | [DJ LILMAN](https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi) | [I Said It's Lilman](https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H) | 2:36 |
-| 61 | [Put Cha Back In It](https://open.spotify.com/track/5PYxnArK4wlkX5qYENV5Ac) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Vibrate EP](https://open.spotify.com/album/4Z7nLkNRHfL3RRAqECtTEe) | 2:08 |
+| 60 | [Put Cha Back In It](https://open.spotify.com/track/5PYxnArK4wlkX5qYENV5Ac) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Vibrate EP](https://open.spotify.com/album/4Z7nLkNRHfL3RRAqECtTEe) | 2:08 |
+| 61 | [Back It Up](https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy) | [DJ LILMAN](https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi) | [I Said It's Lilman](https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H) | 2:36 |
 | 62 | [Vacation](https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 2:25 |
 | 63 | [\#miles \(DJ Sliink Remix\)](https://open.spotify.com/track/4OWGtEwXCFTopkKyEZv0ur) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [\#miles \(DJ Sliink Remix\)](https://open.spotify.com/album/6edZ2TEStQvGjvtTuv20mK) | 3:16 |
 | 64 | [Birthday](https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Kajun Waters](https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY) | [Birthday](https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs) | 2:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 74 | [Nobody's Perfect \- Original Mix](https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A) | [DJ Tray](https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg) | [New Jersey Club EP](https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4) | 1:38 |
 | 75 | [Can You Bounce? \- Remix](https://open.spotify.com/track/0NEFhpfDe0ObM1mg1J7paV) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [DJ Blizz](https://open.spotify.com/artist/76fhX39W3Z3NnXvTphr3qh) | [Can You Bounce? \(Remix\)](https://open.spotify.com/album/73COd8PD1PZMDlOvVjVNW1) | 2:06 |
 
-Snapshot ID: `MCwzYzVlNjcxYmM3MDM0MDhlMGNkNGVmMDVmZTdhZTY5YzY5ZThmNjkw`
+Snapshot ID: `MCw2ZDJlZmM3NzcwYWFiNDM2MDlmYzBlMGUwZjFjNDE3YjM0N2FiZmMw`

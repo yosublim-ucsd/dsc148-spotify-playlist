@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Keyon Harrold
 
-1,018 songs - 3 day 10 hr 8 min
+1,019 songs - 3 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -929,7 +929,8 @@
 | [Uncertainties](https://open.spotify.com/track/0UpbT3Joops0jxblkZVhZL) | [Tristan De Liege](https://open.spotify.com/artist/56WzaWPSOfPePuPdfHBYr5), [Jamal](https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3) | [Uncertainties](https://open.spotify.com/album/0cEakLOQxGGg8ndHljx89z) | 5:01 | 2023-08-04 |  |
 | [unctuous](https://open.spotify.com/track/3PVxmlVKqh1yEvqEZGTMSn) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Cotton Mom](https://open.spotify.com/artist/0QXN6MEnGMEdXASrbZH7WI), [Alexander Gustavo](https://open.spotify.com/artist/5FEtj6DpRBnz1C7HrL94Jq), [Gino West](https://open.spotify.com/artist/3EBzXSPpNX3D2n1MtTF2WG) | [unctuous](https://open.spotify.com/album/2oS9491jYB24kr5DCEZOTJ) | 2:17 | 2022-10-14 | 2022-10-22 |
 | [Unforgotten, Unforgiven](https://open.spotify.com/track/1VzXzBWxpNqegHMDJ9p725) | [Scrimshire](https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL), [Nat Birchall](https://open.spotify.com/artist/2W5gU4Vi0nwisoXPARdvIy) | [Unforgotten, Unforgiven](https://open.spotify.com/album/460zqovjeV6O8x1rI9VADH) | 4:36 | 2023-03-17 | 2023-06-17 |
-| [Unified Dakotas](https://open.spotify.com/track/1M2dpOarQIzq02DOSZrfCK) | [High Pulp](https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Unified Dakotas](https://open.spotify.com/album/6LLfji7DxAWp6fcxEjEJDo) | 5:04 | 2023-06-30 |  |
+| [Unified Dakotas](https://open.spotify.com/track/1M2dpOarQIzq02DOSZrfCK) | [High Pulp](https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Unified Dakotas](https://open.spotify.com/album/6LLfji7DxAWp6fcxEjEJDo) | 5:04 | 2023-06-30 | 2023-08-06 |
+| [Unified Dakotas](https://open.spotify.com/track/7Gh8n2R5XatjTztKjN4WYB) | [High Pulp](https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Days In The Desert](https://open.spotify.com/album/026ZtHxTuX1iu6mjlOjmG9) | 5:04 | 2023-06-30 |  |
 | [Unrest II](https://open.spotify.com/track/5n2ungarkfmrpDS5VhKja6) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Unrest](https://open.spotify.com/album/6QaENtltIJqJg14EvwvtfO) | 4:08 | 2022-02-10 | 2022-06-04 |
 | [Until We Meet Again](https://open.spotify.com/track/68wbJgYGDJe6SRWha5ty4b) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Until We Meet Again](https://open.spotify.com/album/47yp8Kucrpg1bW8BPlp4j5) | 4:44 | 2023-05-26 | 2023-06-17 |
 | [Up and Up](https://open.spotify.com/track/6Lduosf81XUhbksNEy50a9) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Julian Lambert](https://open.spotify.com/artist/2S5uDAF0lONQPR1pzv6AZ8), [Jay Verma](https://open.spotify.com/artist/1L4uyjYgL11xq4oQ6e4OQB), [Jeremy Stein](https://open.spotify.com/artist/5fxI50NPqtkfu1T0xwfrGR) | [Up and Up](https://open.spotify.com/album/7c9EaipAkFIul2gOBuv9Ea) | 2:47 | 2023-02-17 | 2023-05-27 |

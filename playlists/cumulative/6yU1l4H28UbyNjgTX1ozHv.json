@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 237552,
       "name": "Is This Love - Acoustic",
       "url": "https://open.spotify.com/track/2tEQ3siZZLl82xeX5IOZaJ"
@@ -2229,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "Red Light Spells Danger (Acoustic)",
+        "url": "https://open.spotify.com/album/3TJh3GxrITxGojFz17roD0"
+      },
+      "artists": [
+        {
+          "name": "Callum J Wright",
+          "url": "https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169933,
+      "name": "Red Light Spells Danger - Acoustic",
+      "url": "https://open.spotify.com/track/5ozBnh2wvJ6FOgIiXsjDSc"
+    },
+    {
+      "album": {
         "name": "Respect (Acoustic)",
         "url": "https://open.spotify.com/album/2V4GPW1tBQjSXYycFOYnHI"
       },
@@ -2688,6 +2706,24 @@
       "duration_ms": 174574,
       "name": "There She Goes - Acoustic",
       "url": "https://open.spotify.com/track/3nDEkIX8lfi4rg62XaDM0O"
+    },
+    {
+      "album": {
+        "name": "This Will Be (An Everlasting Love) [Acoustic]",
+        "url": "https://open.spotify.com/album/4IVsduaa3eklnbjrxehKvp"
+      },
+      "artists": [
+        {
+          "name": "Mateo Oxley",
+          "url": "https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139617,
+      "name": "This Will Be (An Everlasting Love) - Acoustic",
+      "url": "https://open.spotify.com/track/585mlT2Qwq7urXcnPg7dOk"
     },
     {
       "album": {

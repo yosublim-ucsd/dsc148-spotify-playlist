@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44480,
+  "num_followers": 44482,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjMwOSxmZmQ1NDVkNzVlNjk2NDA4NTNlMjFlNzBiMjBhMjUzZmMyNTZiMTE0",
+  "snapshot_id": "NjMxMSxkZWU4NDg3M2EzNDJkODI3NjY5NDI1NDlmODg1NDNmZDczN2U5MzZk",
   "tracks": [
+    {
+      "added_at": "2023-08-04 16:02:11",
+      "album": {
+        "name": "HARIK\u0112N",
+        "url": "https://open.spotify.com/album/1b7O6M1X2z1ZGv3KbwKw2e"
+      },
+      "artists": [
+        {
+          "name": "shnd\u014d",
+          "url": "https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH"
+        }
+      ],
+      "duration_ms": 160140,
+      "name": "HARIK\u0112N",
+      "url": "https://open.spotify.com/track/3rC44MszjGBcK7gYRHWFDh"
+    },
+    {
+      "added_at": "2023-08-04 16:01:51",
+      "album": {
+        "name": "Shuffle",
+        "url": "https://open.spotify.com/album/6Lpng8mqEyiEc7QeIUS7fR"
+      },
+      "artists": [
+        {
+          "name": "BRKLYN",
+          "url": "https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw"
+        }
+      ],
+      "duration_ms": 126240,
+      "name": "Shuffle",
+      "url": "https://open.spotify.com/track/0HSoyafgVY6nPKNVwzGdZ8"
+    },
     {
       "added_at": "2023-08-03 18:05:05",
       "album": {

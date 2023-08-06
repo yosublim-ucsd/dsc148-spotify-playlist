@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-137 songs - 8 hr 20 min
+138 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [FInally](https://open.spotify.com/track/2owWE178Z5yaQcJUzNgf5U) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Unlimited \(The Tape\)](https://open.spotify.com/album/15HPzfbTwAjT3ZaQXrpPnP) | 3:42 | 2022-09-10 | 2022-10-21 |
 | [For You \(with Sarkodie\)](https://open.spotify.com/track/3KVKxXqDAszAvmmVYR9rIv) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Melody](https://open.spotify.com/album/3oXVoYCkJbjZE632mfnSG7) | 3:30 | 2021-12-28 | 2022-11-13 |
 | [Forever \(feat\. Kranium\)](https://open.spotify.com/track/58ohyE1Axw6TJoIFqF90SV) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:33 | 2022-11-13 | 2022-12-21 |
+| [Freaky & Naughty](https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Freaky & Naughty](https://open.spotify.com/album/4vjPY3edDk05mtDoQO41oo) | 2:46 | 2023-08-05 |  |
 | [Gimme Way](https://open.spotify.com/track/1BStYBM0nrVUhvg9IsLuKn) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [Gimme Way](https://open.spotify.com/album/6i77ZpMzy0E0jQzjs9zHg0) | 3:35 | 2022-01-03 | 2022-01-13 |
 | [Give It to Me \(feat\. Mugeez\)](https://open.spotify.com/track/6gWrC3vfJmWANgwuoHbYDF) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 4:34 | 2021-12-28 | 2022-10-13 |
 | [Glory](https://open.spotify.com/track/5KLFqxmGAZKj3HpGzExiZR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Yung L](https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:21 | 2021-12-28 |  |

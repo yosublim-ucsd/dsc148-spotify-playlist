@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Grupo Firme & Junior H.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,472 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,741 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 25 | [Miren Ahora](https://open.spotify.com/track/0UEuLtC9FLdm3jHNlvWLzI) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Miguel Vega](https://open.spotify.com/artist/4E3sBdaLm9laUIwDCYCxxE) | [Miren Ahora](https://open.spotify.com/album/5YhlVdjEzeB5wQq71QzIQS) | 3:01 |
 | 26 | [Un Día Regresaré](https://open.spotify.com/track/0oWJrub46Ib2L4VuM2iWmC) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Un Día Regresaré](https://open.spotify.com/album/6VNm7GUhcXaQcYmDA8NaTL) | 2:51 |
 | 27 | [El Águila Blanca \- En Vivo](https://open.spotify.com/track/2Ap5NNEnnKOBA9NCgrNgQb) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [El Águila Blanca \(En Vivo\)](https://open.spotify.com/album/4hxaDEqUSzsUxC5FuknjIG) | 2:35 |
-| 28 | [Corridos Prohibidos](https://open.spotify.com/track/3MDF1F1duEFpI3zGj7lRMa) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Mexicanos Bravos](https://open.spotify.com/album/16wHA51T97ptp4kIVLSPdW) | 4:17 |
+| 28 | [Corridos Prohibidos](https://open.spotify.com/track/3MDF1F1duEFpI3zGj7lRMa) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [Someone Sm1](https://open.spotify.com/artist/3WyJImKjA4PH3EXWIWBokJ) | [Mexicanos Bravos](https://open.spotify.com/album/16wHA51T97ptp4kIVLSPdW) | 4:17 |
 | 29 | [Ingrata \- Remix](https://open.spotify.com/track/1f9r70gc2Isaqht4VCSWN8) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Ingrata \(Remix\)](https://open.spotify.com/album/0JH6GOLHQ7YgPgxvogMrHV) | 3:16 |
 | 30 | [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 |
 | 31 | [Lo Obvio](https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Lo Obvio](https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi) | 2:20 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 48 | [Te Lo Dije](https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 3:29 |
 | 49 | [Te Lo Agradezco](https://open.spotify.com/track/0NnbCdowqhKtgtNEQ9oeBX) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Te Lo Agradezco](https://open.spotify.com/album/4b54nXTn2X4aRFgUnCaMGE) | 3:03 |
 
-Snapshot ID: `MCwwZjllNGQ5YzUyM2UzYjYyYThmMzA0ZWQ3ODMyOWZhMzFkYmY5ODQz`
+Snapshot ID: `MCxkM2I0MzcwOWJlMTI0NGZmMjc4M2VmZmZkM2E5NTdlOWM3OWQxNTQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,914 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,927 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Napoletano RMX \(feat\. SLF\)](https://open.spotify.com/track/3FDmJlbAtx6u7m0REfhTxQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS) | [Napoletano RMX \(feat\. SLF\)](https://open.spotify.com/album/2vwJ8mtsNwTYCZHxIKHTDl) | 2:56 |
 | 50 | [UH HUH](https://open.spotify.com/track/0t4DzDuSm0zorMX2TQXimW) | [Mudrigo](https://open.spotify.com/artist/301jinGFu9ZVQZTPXMwRoM) | [UH HUH](https://open.spotify.com/album/6YN9F3UhYbxS5rqTC3TXAE) | 1:50 |
 
-Snapshot ID: `MCw5MzFiZWNiNjVkNDIxYmMyMmVlYjE1ODU0MWFmMmY1ZjM5MDFhY2Q1`
+Snapshot ID: `MCwwZGZkMjYxNWRhMWQxMTQ2ZDMzM2I4ZGQxN2M4ZjhjOTY1YjZlODQ0`

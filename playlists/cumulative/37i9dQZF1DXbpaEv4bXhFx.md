@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-211 songs - 12 hr 54 min
+212 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Airplane Mode](https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Track 03](https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg) | 2:51 | 2023-05-05 |  |
 | [alarm](https://open.spotify.com/track/3rLJg6e2JKJBaQL1LTBHJO) | [saeneok](https://open.spotify.com/artist/0HFyqg6Dwupd1p9SbNDEzL) | [tinge](https://open.spotify.com/album/6PzWM3WP8bBlBlY1a90vjT) | 6:12 | 2022-07-04 | 2022-07-09 |
 | [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 | 2022-08-19 | 2022-09-17 |
-| [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 | 2022-06-20 |  |
+| [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 | 2022-06-20 | 2023-08-06 |
 | [All the lies](https://open.spotify.com/track/7kJIOZI4WdcD8oOXCSjtBf) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [The Quest for Anxiety](https://open.spotify.com/album/1Jdr1Jz2MlBSrxavzxjEmy) | 4:35 | 2022-07-13 | 2022-07-19 |
 | [Alone At Night \(feat\. ByulHa\)](https://open.spotify.com/track/53OitzmAKmu0m9pdOurszx) | [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [ByulHa](https://open.spotify.com/artist/0206jPAMaD9eYyqADY140j) | [Alone At Night](https://open.spotify.com/album/5OloxqiMnBSs2kcthpVrFE) | 3:40 | 2022-07-04 | 2022-07-29 |
 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 | 2022-06-20 |  |
@@ -60,6 +60,7 @@
 | [Everything](https://open.spotify.com/track/58oHUm7jyaVlcRnB9Z75ZC) | [kennytheking](https://open.spotify.com/artist/4693A2I2TyU25cJJLJXgYS) | [Everything](https://open.spotify.com/album/6NQwGZ8CGt28dy5EcyNRn0) | 5:00 | 2022-06-20 | 2022-07-23 |
 | [Excuse](https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:07 | 2022-06-20 | 2022-07-23 |
 | [Fall In Love Again](https://open.spotify.com/track/333vTrsVRIgeUpCS1nAxID) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Fall In Love Again](https://open.spotify.com/album/5F9CBxc3gEtHAsqGJjpaBz) | 3:38 | 2022-06-20 | 2022-07-29 |
+| [Fall in Love Again](https://open.spotify.com/track/623MRGJs27mi0ne71LEqGa) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Fall in Love Again](https://open.spotify.com/album/7kzTCmJ9VqRDAsoLAwaFvd) | 3:38 | 2023-07-17 |  |
 | [Fall in Love Again](https://open.spotify.com/track/3HjKfAEeG40jBKIuUlJlGK) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Fall in Love Again](https://open.spotify.com/album/6udqW4k67GIeTy0M7alLZX) | 3:38 | 2022-07-22 | 2023-07-02 |
 | [Far Away](https://open.spotify.com/track/4bI1kJbK5zlDcVeQMZHKqF) | [BOYHOOD](https://open.spotify.com/artist/2r8smtQqQ7z4M9guHnawaM) | [Far Away](https://open.spotify.com/album/6dWlDMgIjef6cuGCWrVaQF) | 3:44 | 2022-06-20 | 2022-07-27 |
 | [Fine](https://open.spotify.com/track/4QaqH8QPjz88z79Vo8tpEc) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Fine](https://open.spotify.com/album/2KKDysbROKOvoGMokZADLZ) | 4:11 | 2022-06-20 | 2022-07-28 |

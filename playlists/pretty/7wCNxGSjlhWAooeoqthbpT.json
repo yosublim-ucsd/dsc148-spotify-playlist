@@ -1,12 +1,12 @@
 {
   "description": "Check your vibe with Epic Records.",
-  "num_followers": 7888,
+  "num_followers": 7886,
   "original_name": "EPIC VIBES",
   "owner": {
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MjIzNyw3MDk5NjI2MWUzNjBmNzQwNDViMGNmMTEwNWYzMmNiOGRlNWQwOTZm",
+  "snapshot_id": "MjI0NCw4YjM5M2FhMDkxZjAyZjJjNjc1OGIxNzI2MmVhZWUxNjc4MWI4NGUy",
   "tracks": [
     {
       "added_at": "2023-07-28 15:02:50",
@@ -169,6 +169,22 @@
       "url": "https://open.spotify.com/track/2STycksffJuqHGlJkoGbWl"
     },
     {
+      "added_at": "2023-08-04 15:30:24",
+      "album": {
+        "name": "Stranger Phase",
+        "url": "https://open.spotify.com/album/44y4ca25dl9Pdjk9RZsAuG"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 175759,
+      "name": "Stranger Phase",
+      "url": "https://open.spotify.com/track/05vuFinB7jU69klIBP8UyD"
+    },
+    {
       "added_at": "2023-07-14 13:11:28",
       "album": {
         "name": "Maybe It's Me...",
@@ -183,6 +199,26 @@
       "duration_ms": 226765,
       "name": "Famous",
       "url": "https://open.spotify.com/track/5GwRqgaU2hHhl7WPD22jUw"
+    },
+    {
+      "added_at": "2023-08-04 15:29:44",
+      "album": {
+        "name": "Heart Full of Rage 2",
+        "url": "https://open.spotify.com/album/1paIukF9TxaYwBpYbyFdOt"
+      },
+      "artists": [
+        {
+          "name": "Tyla Yaweh",
+          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 160007,
+      "name": "City Of Dreams (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/2nLKcpdoIX6oFo5npWHVF4"
     },
     {
       "added_at": "2023-07-14 13:12:39",
@@ -203,22 +239,6 @@
       "duration_ms": 193600,
       "name": "Militerian (feat. Naira Marley)",
       "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
-    },
-    {
-      "added_at": "2023-07-07 14:44:21",
-      "album": {
-        "name": "SUMMER VIBES",
-        "url": "https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2"
-      },
-      "artists": [
-        {
-          "name": "Tyla Yaweh",
-          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
-        }
-      ],
-      "duration_ms": 146587,
-      "name": "SUMMER VIBES",
-      "url": "https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC"
     },
     {
       "added_at": "2023-06-02 15:58:15",
@@ -483,22 +503,6 @@
       "duration_ms": 187275,
       "name": "Been Thinking",
       "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
-    },
-    {
-      "added_at": "2023-04-28 04:30:17",
-      "album": {
-        "name": "Kills Me",
-        "url": "https://open.spotify.com/album/1We5M24aUK1pQKN5hGCoGr"
-      },
-      "artists": [
-        {
-          "name": "Bahari",
-          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
-        }
-      ],
-      "duration_ms": 188129,
-      "name": "Kills Me",
-      "url": "https://open.spotify.com/track/2IZZrIXBfMqWtbhNZUfLrz"
     },
     {
       "added_at": "2023-03-17 15:40:16",

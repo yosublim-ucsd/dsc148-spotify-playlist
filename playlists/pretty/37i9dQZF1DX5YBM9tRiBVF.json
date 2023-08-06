@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume!  On the cover this month: <a href=\"spotify:artist:1RQ3ZwCNI7KniEKIN5kkio\">MATTN</a> ",
-  "num_followers": 5369,
+  "num_followers": 5378,
   "original_name": "EQUAL Belgium ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzRmYmYxODAyZTg0MGZlNzUwODkwMzIyNWZhYjA3ZDg4NzNlNTli",
+  "snapshot_id": "MCxjMzk0M2EyODk3ZTU1NDExOTAxNjJhOWY1MjQ0MTQ2NGM0NzlmNDU5",
   "tracks": [
     {
       "added_at": "2023-08-01 22:00:00",
@@ -27,6 +27,26 @@
       "duration_ms": 135737,
       "name": "Bitch Is Fire",
       "url": "https://open.spotify.com/track/2IlBUNjLmdnh4gXAMm7riS"
+    },
+    {
+      "added_at": "2023-08-01 22:00:00",
+      "album": {
+        "name": "Port\u00e9s par les ondes",
+        "url": "https://open.spotify.com/album/2jEuEdcKtyi3sd4PBqFLJQ"
+      },
+      "artists": [
+        {
+          "name": "CLELIA",
+          "url": "https://open.spotify.com/artist/5LJ4MsRE3dUFRhPzo9NqDt"
+        },
+        {
+          "name": "Palaster",
+          "url": "https://open.spotify.com/artist/7uWI34JyJuk0bePBI8NZxC"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Port\u00e9s par les ondes",
+      "url": "https://open.spotify.com/track/7oL4Qda0vsg27yd8B09DGK"
     },
     {
       "added_at": "2023-08-01 22:00:00",
@@ -447,26 +467,6 @@
       "duration_ms": 118579,
       "name": "When You're Drunk",
       "url": "https://open.spotify.com/track/2yAm0Enl8tBpeXX7F0Ix4Z"
-    },
-    {
-      "added_at": "2023-08-01 22:00:00",
-      "album": {
-        "name": "Port\u00e9s par les ondes",
-        "url": "https://open.spotify.com/album/2jEuEdcKtyi3sd4PBqFLJQ"
-      },
-      "artists": [
-        {
-          "name": "CLELIA",
-          "url": "https://open.spotify.com/artist/5LJ4MsRE3dUFRhPzo9NqDt"
-        },
-        {
-          "name": "Palaster",
-          "url": "https://open.spotify.com/artist/7uWI34JyJuk0bePBI8NZxC"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Port\u00e9s par les ondes",
-      "url": "https://open.spotify.com/track/7oL4Qda0vsg27yd8B09DGK"
     },
     {
       "added_at": "2023-08-01 22:00:00",

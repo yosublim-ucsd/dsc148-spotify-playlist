@@ -4,7 +4,7 @@
 
 > Eagles at their best\. Explore their deep catalog as a band and as solo artists.
 
-70 songs - 5 hr 16 min
+71 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [After the Thrill Is Gone \- 2013 Remaster](https://open.spotify.com/track/73gx888k1raTwjFeuqIV5D) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 3:56 | 2022-07-15 |  |
 | [Already Gone \- 2013 Remaster](https://open.spotify.com/track/0CKxrnF9KplS21LTjkkqsW) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 4:15 | 2022-07-15 |  |
 | [Bitter Creek \- 2013 Remaster](https://open.spotify.com/track/2h3bBo0QAPd3jbbAiqCdYZ) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 5:01 | 2022-07-15 |  |
-| [Bramble Rose](https://open.spotify.com/track/19pTbi9xqbInEHxpTIIhBN) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Cass County \(Deluxe\)](https://open.spotify.com/album/4vM5KEIIw02lUaOUwYloJp) | 4:30 | 2022-07-15 |  |
+| [Bramble Rose](https://open.spotify.com/track/19pTbi9xqbInEHxpTIIhBN) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Cass County \(Deluxe\)](https://open.spotify.com/album/4vM5KEIIw02lUaOUwYloJp) | 4:30 | 2022-07-15 | 2023-08-06 |
+| [Bramble Rose](https://open.spotify.com/track/5jrzQx2i7TGqYGWpNmkH8n) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Cass County \(Deluxe\)](https://open.spotify.com/album/3qsw8b2cxvBthq1OQIKBB3) | 4:30 | 2022-07-15 |  |
 | [Busy Being Fabulous](https://open.spotify.com/track/5wOGGVXcqG8HQnAO6FV3Ew) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Long Road out of Eden](https://open.spotify.com/album/2cWtnFvM7BmyQG1ojQDcCT) | 4:20 | 2022-07-15 |  |
 | [County Fair](https://open.spotify.com/track/4xbMohp9CBKxfLhnjsV9l2) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [So What \(Reissue\)](https://open.spotify.com/album/2ZRni2AFuPtW6z5jBUD3Vf) | 6:50 | 2022-07-15 |  |
 | [Desperado \- 2013 Remaster](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:33 | 2022-07-15 |  |

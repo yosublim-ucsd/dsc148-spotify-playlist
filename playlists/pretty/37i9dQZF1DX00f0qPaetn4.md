@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00f0qPaetn4.md) - [plain]
 
 > Celebrating South Asian Heritage Month with Irfan's favorite South Asian tracks that accompany him on his travels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592 likes - 35 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 598 likes - 35 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00f0qPaetn4.md) - [plain]
 | 34 | [Peace Of Mind](https://open.spotify.com/track/3oMU1p4h2mL2YG6TbRzXOi) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [Notes from Therapy](https://open.spotify.com/album/0FMVEUTTvMBM0Hyo8oldqX) | 3:06 |
 | 35 | [Rang](https://open.spotify.com/track/6IDdsMYRvj3ljsP7jj9wlK) | [Abi Sampa](https://open.spotify.com/artist/38AgJlwpYZlFsqztzBfopz), [Rushil](https://open.spotify.com/artist/1gHxomNGjRJHDAl7INHnxE) | [Rang](https://open.spotify.com/album/4wwAoOOKJI0UAVzezwbW68) | 4:12 |
 
-Snapshot ID: `MCxkMmI1ZDIwYWU4N2E0YjJmOGIyZjc5Zjk4N2QwYTc2YTY3NzU2ZDMz`
+Snapshot ID: `MCxkNGFmNjEyZWIyYWIzZDkwMGJlYTYzODBmY2ZhMTBjMzY3MTZkYTdh`

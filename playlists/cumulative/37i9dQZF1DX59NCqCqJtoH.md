@@ -4,7 +4,7 @@
 
 > We hear you.
 
-610 songs - 1 day 6 hr 9 min
+612 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Broken](https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt) | 3:20 | 2021-04-02 | 2023-02-02 |
 | [Bromance](https://open.spotify.com/track/4PlvsQWAgHjSscntux5SQj) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [Bromance](https://open.spotify.com/album/0zKoq6ocLENqItdg0VxMnG) | 2:02 | 2021-04-02 | 2022-04-19 |
 | [Brown Eyes and Backwoods](https://open.spotify.com/track/4k6eepbiT86WaOgcOqMuSb) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Brown Eyes and Backwoods](https://open.spotify.com/album/6zVkK6T2AXSsZhoFJaddhG) | 2:58 | 2022-01-21 | 2022-07-29 |
-| [Brown Eyes and Backwoods](https://open.spotify.com/track/5Q8ILM1zVZWyGjIxAs8jdn) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t) | 2:58 | 2023-06-02 |  |
+| [Brown Eyes and Backwoods](https://open.spotify.com/track/5Q8ILM1zVZWyGjIxAs8jdn) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t) | 2:58 | 2023-06-02 | 2023-08-06 |
 | [Bubble](https://open.spotify.com/track/2ohheZzavZxvs6Gm3o8EUS) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Bubble](https://open.spotify.com/album/2lkx1nUXlyvRiKtZoHEyeN) | 2:37 | 2021-04-02 | 2022-04-21 |
 | [Burger King Bathroom](https://open.spotify.com/track/4eGwQiJNa2zboopOEOvXjf) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Burger King Bathroom](https://open.spotify.com/album/7g2HX2akwRHItjsTjQ6CtU) | 2:28 | 2021-04-02 | 2022-07-28 |
 | [Butterfly's Repose](https://open.spotify.com/track/36c2NifUp0GDnoOQT5unhR) | [Zabawa](https://open.spotify.com/artist/4n9AMW1w0pXszeQcKFo13r) | [Butterfly's Repose](https://open.spotify.com/album/4TwVv7Kou1ehIMonPLZBAR) | 5:09 | 2021-04-02 | 2022-04-19 |
@@ -470,7 +470,7 @@
 | [Sick of Losing Soulmates](https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Sick of Losing Soulmates](https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2) | 4:27 | 2021-04-02 |  |
 | [Sick of This](https://open.spotify.com/track/5JtkrEGCt433sr2wEGSVsR) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/57V7Q54bacsS1tJYnHxmDT) | 3:53 | 2021-04-02 | 2022-04-14 |
 | [Silhouette](https://open.spotify.com/track/0xIxUesRUXMlX1zYitECjs) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Silhouette](https://open.spotify.com/album/7EWk2u29tK8b6EMv5fVbhl) | 2:59 | 2021-04-02 | 2022-04-21 |
-| [silhouette](https://open.spotify.com/track/5jCv6lP0L05g8GcRTYLCIE) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [silhouette](https://open.spotify.com/album/3oIahIvFl1nQjfzoJrdP7Y) | 4:14 | 2023-06-23 |  |
+| [silhouette](https://open.spotify.com/track/5jCv6lP0L05g8GcRTYLCIE) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [silhouette](https://open.spotify.com/album/3oIahIvFl1nQjfzoJrdP7Y) | 4:14 | 2023-06-23 | 2023-08-06 |
 | [Silly Girl](https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz) | 3:18 | 2022-07-15 |  |
 | [Silly Girl](https://open.spotify.com/track/3RGVYzHQWQOlHYphHMAaaj) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/5N83DElmMbgJiPV6u7qEyn) | 3:18 | 2021-04-02 | 2022-07-24 |
 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 | 2022-03-24 | 2022-10-15 |
@@ -509,6 +509,7 @@
 | [Supalonely \(Lownely\)](https://open.spotify.com/track/0hVZCUZKWsWFU6i5zlRZZr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Supalonely \(Lownely\)](https://open.spotify.com/album/7lkrgPpSZTMcgNi2yHdQ7E) | 3:19 | 2021-04-02 | 2022-04-09 |
 | [Surf](https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:30 | 2021-04-02 | 2023-03-22 |
 | [Sweater Weather](https://open.spotify.com/track/6QOv3k9RU5QA8L4obUvozE) | [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [Sølace](https://open.spotify.com/artist/62AlnDIQccDoQ5FPZRrSL3), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [Sweater Weather](https://open.spotify.com/album/6onCvrUXBkLWAHCaJMxdnC) | 3:21 | 2021-04-02 | 2022-07-13 |
+| [Take Me Back](https://open.spotify.com/track/0RxJW4CqKIM1v0DN3z32zG) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Take Me Back](https://open.spotify.com/album/21RRWWtERAfAwBFv9rzktq) | 3:20 | 2023-08-04 |  |
 | [tattletale](https://open.spotify.com/track/1oG97U59L8fVYrVByMCtNI) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Downers Grove](https://open.spotify.com/album/5OMHXvYoClLQUmFwqBav71) | 3:19 | 2023-04-28 | 2023-06-03 |
 | [Tears, 2016](https://open.spotify.com/track/1BisD4JGmDWFPbSJz25j3V) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Nothing Gold Can Stay](https://open.spotify.com/album/4bdojHk9PdqHImi61mEaHJ) | 5:04 | 2021-04-02 | 2022-07-29 |
 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 | 2023-07-21 |  |
@@ -551,6 +552,7 @@
 | [Town I Called My Home](https://open.spotify.com/track/0omwXDRLUssZ7fgl9vkL4m) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Town I Called My Home](https://open.spotify.com/album/0I0oknA0jgSUFwYDrcZNhz) | 2:19 | 2021-04-02 | 2022-07-21 |
 | [Trashfire](https://open.spotify.com/track/1s3QzfNw4sIhpw7H2bDYll) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 2:51 | 2021-11-19 | 2022-10-08 |
 | [Trashfire](https://open.spotify.com/track/6qS66tgZSJABlsorG6vOiZ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 2:51 | 2023-04-26 | 2023-07-15 |
+| [Trauma](https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Trauma](https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56) | 2:43 | 2023-08-04 |  |
 | [Try to Be Better \(Again\)](https://open.spotify.com/track/6uPSExSu4Xt7HrtJRR1a2P) | [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Try to Be Better \(Again\)](https://open.spotify.com/album/2GzjYLr24EEgwYvm2UKAT0) | 2:20 | 2021-04-02 | 2022-06-01 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 | 2023-04-27 |
 | [two queens in a king sized bed](https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG) | 3:10 | 2021-04-02 | 2022-04-14 |

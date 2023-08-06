@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 101024,
+  "num_followers": 101155,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTc3MzYxZjJhNzQ1NjYxZjY0NDc3YTU2NTY3ZjQ0MzM2NWE1MWNi",
+  "snapshot_id": "MCxhMzdhNDc2MjY0YmZiOGYzM2I1MTE2MmQ1NDMxNDY4Yzk5YzExYTY2",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "D\u00e9epalma Ibiza 2023 - 10th Anniversary",
-        "url": "https://open.spotify.com/album/6oqOdRBJ8KZFcAJusUNKWs"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 377849,
-      "name": "Starz - Original Mix",
-      "url": "https://open.spotify.com/track/2aMJ48BAhYKxwsVBNd0kgR"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "The Return of The Durutti Column",
         "url": "https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 178280,
       "name": "Sketch for Summer",
       "url": "https://open.spotify.com/track/2oeLt7N1amHZiev27FvKE2"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "D\u00e9epalma Ibiza 2023 - 10th Anniversary",
+        "url": "https://open.spotify.com/album/6oqOdRBJ8KZFcAJusUNKWs"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 377849,
+      "name": "Starz - Original Mix",
+      "url": "https://open.spotify.com/track/2aMJ48BAhYKxwsVBNd0kgR"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Time out of Mind",
         "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 224840,
       "name": "Paz",
       "url": "https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Estaci\u00f3n Esperanza",
-        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        },
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 316721,
-      "name": "Estaci\u00f3n Esperanza",
-      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Essential Levitation - 20 Years of Ibiza Chillout Music",
         "url": "https://open.spotify.com/album/2m18LIEu3yRDXpe2C9lGQG"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 441160,
       "name": "More Than Ever People - Late Night Mix",
       "url": "https://open.spotify.com/track/2ESCeu4Z0WXGl6zezMQTvX"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Estaci\u00f3n Esperanza",
+        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 316721,
+      "name": "Estaci\u00f3n Esperanza",
+      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Intimate Fantasy - EP",
+        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 493000,
+      "name": "Intimate Fantasy",
+      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Soleil Kr\u00e9yol",
         "url": "https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 167493,
       "name": "Pa L\u00e9",
       "url": "https://open.spotify.com/track/2nK0JwkBzP8wb6BTwsL6yv"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Intimate Fantasy - EP",
-        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 493000,
-      "name": "Intimate Fantasy",
-      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "KOKOROKO",
-        "url": "https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 424080,
-      "name": "Abusey Junction",
-      "url": "https://open.spotify.com/track/67SCL8j8laOVYkPiv4Ei8q"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Keep Smiling [Remastered] (Remastered Version)",
         "url": "https://open.spotify.com/album/04bsO604edaafFrGyDcaFy"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 512080,
       "name": "Fly Away / Walking in the Sunshine - 2008 Remaster",
       "url": "https://open.spotify.com/track/39HnpKxGPzP3EUlXvs4VBQ"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "KOKOROKO",
+        "url": "https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 424080,
+      "name": "Abusey Junction",
+      "url": "https://open.spotify.com/track/67SCL8j8laOVYkPiv4Ei8q"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "A Journey to You",
-        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
-      },
-      "artists": [
-        {
-          "name": "Melodiesinfonie",
-          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "AO Longo Do Rio",
-      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Wandering",
         "url": "https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 347250,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/2MYPFXScWdR3PQihBQxu7x"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "A Journey to You",
+        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
+      },
+      "artists": [
+        {
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "AO Longo Do Rio",
+      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1303,38 +1303,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
-        "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
-      },
-      "artists": [
-        {
-          "name": "Azymuth",
-          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "V\u00f4o sobre o horizonte",
-      "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Tiefer",
-        "url": "https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14"
-      },
-      "artists": [
-        {
-          "name": "Boozoo Bajou",
-          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
-        }
-      ],
-      "duration_ms": 214014,
-      "name": "Tiefer - Edit",
-      "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Your Love (feat. BLAME)",
         "url": "https://open.spotify.com/album/4Lb00Y6Y4KatxxnPEtoZY9"
       },
@@ -1355,6 +1323,38 @@
       "duration_ms": 190140,
       "name": "Your Love (feat. BLAME)",
       "url": "https://open.spotify.com/track/7kYSY3ekAqu7uqSEYEHu0x"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Tiefer",
+        "url": "https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14"
+      },
+      "artists": [
+        {
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
+        }
+      ],
+      "duration_ms": 214014,
+      "name": "Tiefer - Edit",
+      "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
+        "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
+      },
+      "artists": [
+        {
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "V\u00f4o sobre o horizonte",
+      "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "When We On",
+        "url": "https://open.spotify.com/album/7GhRdXt7AoyDIo9i9laYzM"
+      },
+      "artists": [
+        {
+          "name": "Crazy P",
+          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+        }
+      ],
+      "duration_ms": 326809,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/4vcPegtrtRJPUXrnfxqvg9"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Pina Colada (And Other Early Tunes)",
         "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 222680,
       "name": "Camino Del Sol",
       "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "When We On",
-        "url": "https://open.spotify.com/album/7GhRdXt7AoyDIo9i9laYzM"
-      },
-      "artists": [
-        {
-          "name": "Crazy P",
-          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
-        }
-      ],
-      "duration_ms": 326809,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/4vcPegtrtRJPUXrnfxqvg9"
     },
     {
       "added_at": "2023-07-14 11:01:37",

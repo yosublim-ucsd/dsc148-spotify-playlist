@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,870 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,873 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 | 16 | [Hold My Mule \- Live](https://open.spotify.com/track/0JjsI172ped2hF5v27o28J) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Live..\. In Chicago](https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF) | 8:41 |
 | 17 | [Tear Your Kingdom Down](https://open.spotify.com/track/0MelBn72SNNZaCCZ53bkRG) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Platinum Gospel\-Shirley Caesar](https://open.spotify.com/album/6CTsw7O3GJuvg0ihRAEOHP) | 3:37 |
 | 18 | [Prayer Changes Things](https://open.spotify.com/track/67wseMeCcgKzn4mhQOPBUC) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Fill This House](https://open.spotify.com/album/3QW28gwaC0BM3w55bVMMfd) | 4:59 |
-| 19 | [Steal Away to Jesus](https://open.spotify.com/track/4F9ziNIqiyoj7AcFOjScXZ) | [Michelle Williams](https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Heart to Yours](https://open.spotify.com/album/2AKIOgc7sL3yzA7AElE1SS) | 3:27 |
-| 20 | [God Will Take Care of You](https://open.spotify.com/track/3L5ustG2wgnfwvNdwKrc5H) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 1:58 |
-| 21 | [911 \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/4z3IFdq3JshRr3NIeWCiJk) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 4:41 |
+| 19 | [911 \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/4z3IFdq3JshRr3NIeWCiJk) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 4:41 |
+| 20 | [Steal Away to Jesus](https://open.spotify.com/track/4F9ziNIqiyoj7AcFOjScXZ) | [Michelle Williams](https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Heart to Yours](https://open.spotify.com/album/2AKIOgc7sL3yzA7AElE1SS) | 3:27 |
+| 21 | [God Will Take Care of You](https://open.spotify.com/track/3L5ustG2wgnfwvNdwKrc5H) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 1:58 |
 | 22 | [I Believe](https://open.spotify.com/track/2L3XGrMU8stZ2BdxOQ2kxj) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Golden Gospel Classics](https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5) | 3:15 |
 | 23 | [Go](https://open.spotify.com/track/69m7r5zILyhcRYxvLDTcsl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:52 |
 | 24 | [What A Friend We Have In Jesus \(You Are My Friend\) \[Ult Version\]](https://open.spotify.com/track/3CGcWCtTzdXBjPzdq0PMr9) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Ultimate Collection](https://open.spotify.com/album/6N3Dudfv0riTx67MKti6Gg) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 | 49 | [Lord Do Something for Me](https://open.spotify.com/track/7A0ZOMn3Dfygl3Vy4dHJrO) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Best of Shirley Caesar With the Caravans](https://open.spotify.com/album/1215964Ip4LoprUC8ZwQ65) | 1:45 |
 | 50 | [Little Boy](https://open.spotify.com/track/0uaDlJYEuwdoaVxwsextnK) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Platinum Gospel\-Shirley Caesar](https://open.spotify.com/album/6CTsw7O3GJuvg0ihRAEOHP) | 2:18 |
 
-Snapshot ID: `MjgxODYwODEsMDAwMDAwMDBhNjRlNGYwYjA5ZDRmNjE0NjZhZmQ3ZmU4MGNjOTQ4ZA==`
+Snapshot ID: `MjgxODczODgsMDAwMDAwMDBkOTYxNzkwYjI3MzdiNzhjNzJlMWEwMmM3ZjBhMTg2Yg==`

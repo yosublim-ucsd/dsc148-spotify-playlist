@@ -4,7 +4,7 @@
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-39 songs - 1 hr 41 min
+40 songs - 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Hear My Cry](https://open.spotify.com/track/60ElfiVjf4AlzIq2BC5z1X) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Hear My Cry](https://open.spotify.com/album/0JMoNRUAl0DJe7PP2d2eRz) | 3:19 | 2022-10-28 |  |
 | [I Look Good](https://open.spotify.com/track/09zTVXUcPZvWhIERXChXep) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [I Look Good](https://open.spotify.com/album/1IoA8ma8z6shw1ZAre9rab) | 1:53 | 2022-10-28 | 2023-01-14 |
 | [I Look Good](https://open.spotify.com/track/1qk4oqAEOI0cN8D1J9ato9) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 1:53 | 2023-01-14 |  |
+| [In Da Club](https://open.spotify.com/track/5N5d0rCeSPKPG8FLlGeR6Q) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Da Club](https://open.spotify.com/album/3evYwYBBhiBBELqgILVM0G) | 2:33 | 2023-08-05 |  |
 | [In Person \(With OG Parker feat\. Tyga\)](https://open.spotify.com/track/0GYi1PEjtCPfXHPGnvs5ON) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:10 | 2022-10-28 |  |
 | [Maneuver \(feat\. Flo Milli\)](https://open.spotify.com/track/4bWGHob6LSJ6XV2NtEo5Zi) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 3:21 | 2022-10-28 |  |
 | [MilTroit \(feat\. Lakeyah\)](https://open.spotify.com/track/1K3LqqgTfHKyQfY0EMbnQF) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Half Tee Half Beast](https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp) | 2:24 | 2022-10-28 |  |

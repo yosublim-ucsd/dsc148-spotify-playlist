@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 373837,
+  "num_followers": 373873,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWY1YjRjZDNkOGFiODkxMzk1MDVkYzQwNWFkZTZkMjg0OWYzZTQ3",
+  "snapshot_id": "MCxkZjdkY2MxNzg4YTBlNzEyOWEzOWNlNmI4NmI1NzM2OWI3MWJkODc3",
   "tracks": [
     {
       "added_at": "2023-08-03 15:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
+        "name": "ATARI",
+        "url": "https://open.spotify.com/album/1iaWRy44XLfPXxr3kqbtxr"
       },
       "artists": [
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
         }
       ],
-      "duration_ms": 184281,
-      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
+      "duration_ms": 207615,
+      "name": "ATARI",
+      "url": "https://open.spotify.com/track/21gjq7cgnOscRURiGhOGPP"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "ATARI",
-        "url": "https://open.spotify.com/album/1iaWRy44XLfPXxr3kqbtxr"
+        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
       },
       "artists": [
         {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 207615,
-      "name": "ATARI",
-      "url": "https://open.spotify.com/track/21gjq7cgnOscRURiGhOGPP"
+      "duration_ms": 184281,
+      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
-        "url": "https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1"
+        "name": "Losing Game",
+        "url": "https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ"
       },
       "artists": [
         {
-          "name": "\u4e2d\u6751\u4f73\u7a42",
-          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
         }
       ],
-      "duration_ms": 150903,
-      "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi"
+      "duration_ms": 151836,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
+        "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "duration_ms": 150903,
+      "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
         "name": "Bee and The Whales",
         "url": "https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 207624,
       "name": "\u6b7b\u3093\u3067\u304f\u308c",
       "url": "https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
-        "name": "Losing Game",
-        "url": "https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ"
-      },
-      "artists": [
-        {
-          "name": "Gen Neo",
-          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
-        }
-      ],
-      "duration_ms": 151836,
-      "name": "Losing Game",
-      "url": "https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u81ea\u7531",
-        "url": "https://open.spotify.com/album/4ncVqlgrw7CKMnRTuRidM1"
-      },
-      "artists": [
-        {
-          "name": "tofubeats",
-          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
-        }
-      ],
-      "duration_ms": 236386,
-      "name": "\u81ea\u7531",
-      "url": "https://open.spotify.com/track/7z0FfMMoJGsL6hgsoR0U6M"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
         "name": "Pacific Line",
         "url": "https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 251922,
       "name": "Pacific Line",
       "url": "https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "\u81ea\u7531",
+        "url": "https://open.spotify.com/album/4ncVqlgrw7CKMnRTuRidM1"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 236386,
+      "name": "\u81ea\u7531",
+      "url": "https://open.spotify.com/track/7z0FfMMoJGsL6hgsoR0U6M"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Kimochy Season",
-        "url": "https://open.spotify.com/album/2jg0b7paauECp2dSraJqul"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 198673,
-      "name": "Kimochy",
-      "url": "https://open.spotify.com/track/7CkReQlOUnEHp9LP6tVfCF"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
         "name": "Late summer waves",
         "url": "https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 155242,
       "name": "Late summer waves",
       "url": "https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "Kimochy Season",
+        "url": "https://open.spotify.com/album/2jg0b7paauECp2dSraJqul"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 198673,
+      "name": "Kimochy",
+      "url": "https://open.spotify.com/track/7CkReQlOUnEHp9LP6tVfCF"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u02d6\u5d50\u208a\u02da\u02d1\u0f04",
-        "url": "https://open.spotify.com/album/0sBf3Y2OJkD3K1Gkx96Hl0"
+        "name": "Departure : My New Me",
+        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
       },
       "artists": [
         {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
         }
       ],
-      "duration_ms": 200754,
-      "name": "\u02d6\u5d50\u208a\u02da\u02d1\u0f04",
-      "url": "https://open.spotify.com/track/3wMYas4SVVxlBd7tgSeh2O"
+      "duration_ms": 222320,
+      "name": "Trickster",
+      "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Departure : My New Me",
-        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
+        "name": "\u02d6\u5d50\u208a\u02da\u02d1\u0f04",
+        "url": "https://open.spotify.com/album/0sBf3Y2OJkD3K1Gkx96Hl0"
       },
       "artists": [
         {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
         }
       ],
-      "duration_ms": 222320,
-      "name": "Trickster",
-      "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
+      "duration_ms": 200754,
+      "name": "\u02d6\u5d50\u208a\u02da\u02d1\u0f04",
+      "url": "https://open.spotify.com/track/3wMYas4SVVxlBd7tgSeh2O"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u307e\u305f\u306d",
-        "url": "https://open.spotify.com/album/4ZAqpzyaWQ5nJG9YgSDVsv"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 216730,
-      "name": "\u307e\u305f\u306d",
-      "url": "https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
         "name": "ANGRY ANGRY",
         "url": "https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 136866,
       "name": "ANGRY ANGRY",
       "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "NIGHT TAPE",
+        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
+      },
+      "artists": [
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "NIGHT TAPE",
-        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
+        "name": "\u307e\u305f\u306d",
+        "url": "https://open.spotify.com/album/4ZAqpzyaWQ5nJG9YgSDVsv"
       },
       "artists": [
         {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 266900,
-      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
-      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
+      "duration_ms": 216730,
+      "name": "\u307e\u305f\u306d",
+      "url": "https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "39 Minutes",
-        "url": "https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf"
-      },
-      "artists": [
-        {
-          "name": "kiki vivi lily",
-          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "39 Minutes",
-      "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
         "name": "How You Feel",
         "url": "https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX"
       },
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
+        "name": "39 Minutes",
+        "url": "https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf"
+      },
+      "artists": [
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "39 Minutes",
+      "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
         "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
         "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
       },
@@ -1547,26 +1547,6 @@
       "duration_ms": 203554,
       "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
       "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
-        "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/6bfo9YaG53xHfQoYhw5mgQ"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
-        }
-      ],
-      "duration_ms": 255853,
-      "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/4f3emoZ35w869TmpnIxcI3"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1607,6 +1587,26 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
+        "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/6bfo9YaG53xHfQoYhw5mgQ"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 255853,
+      "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/4f3emoZ35w869TmpnIxcI3"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
         "name": "Wrecked",
         "url": "https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1"
       },
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
+        "name": "The Lover",
+        "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
+      },
+      "artists": [
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        }
+      ],
+      "duration_ms": 174473,
+      "name": "Like A Seraph",
+      "url": "https://open.spotify.com/track/4KISFq8uuKx0TPW5LEr08s"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/6dxnxwVjewZUp8K967BUaq"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 247849,
       "name": "Mother",
       "url": "https://open.spotify.com/track/7IY2Ro6XnoIAtr5bLuoCJD"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
-        "name": "The Lover",
-        "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
-      },
-      "artists": [
-        {
-          "name": "haruno",
-          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
-        }
-      ],
-      "duration_ms": 174473,
-      "name": "Like A Seraph",
-      "url": "https://open.spotify.com/track/4KISFq8uuKx0TPW5LEr08s"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1739,18 +1739,22 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/23aneMwJR1EVtAodadsvWj"
+        "name": "BE THE GROOVE",
+        "url": "https://open.spotify.com/album/1MJdzLW8rQadytAc39Lmnb"
       },
       "artists": [
         {
-          "name": "chilldspot",
-          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Mori Zentaro",
+          "url": "https://open.spotify.com/artist/69U5ZWuR3MzAL9DwN65ETD"
         }
       ],
-      "duration_ms": 191826,
-      "name": "Girl in the Mirror",
-      "url": "https://open.spotify.com/track/1y0TECYCFAJGMtZByaSviJ"
+      "duration_ms": 164800,
+      "name": "BE THE GROOVE",
+      "url": "https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1771,22 +1775,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "BE THE GROOVE",
-        "url": "https://open.spotify.com/album/1MJdzLW8rQadytAc39Lmnb"
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/23aneMwJR1EVtAodadsvWj"
       },
       "artists": [
         {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        },
-        {
-          "name": "Mori Zentaro",
-          "url": "https://open.spotify.com/artist/69U5ZWuR3MzAL9DwN65ETD"
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
         }
       ],
-      "duration_ms": 164800,
-      "name": "BE THE GROOVE",
-      "url": "https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3"
+      "duration_ms": 191826,
+      "name": "Girl in the Mirror",
+      "url": "https://open.spotify.com/track/1y0TECYCFAJGMtZByaSviJ"
     }
   ],
   "unique_name": "Tokyo Rising",

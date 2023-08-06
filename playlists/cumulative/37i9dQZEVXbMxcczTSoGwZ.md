@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,519 songs - 3 day 10 hr 19 min
+1,521 songs - 3 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1062,7 +1062,7 @@
 | [Prinsessa](https://open.spotify.com/track/5M82WKRazfFn7dMfX5RLrf) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tyttö](https://open.spotify.com/album/7fCpSWCoEwh83KPqqebAdX) | 2:55 | 2021-06-20 | 2021-06-21 |
 | [Promise](https://open.spotify.com/track/0LeK6Ol47og0WdGwKegNUL) | [Voyager](https://open.spotify.com/artist/16fltNcwTM5V9rnxIlcha4) | [Promise](https://open.spotify.com/album/1C7B9slsGeLEDgzbrJcHkg) | 3:03 | 2023-05-14 | 2023-05-20 |
 | [Puhu mulle](https://open.spotify.com/track/0FbGsPwaLqqO4KV3w4Jxs1) | [Aurora](https://open.spotify.com/artist/6B7tHfJGL5rnIxNQLN8Hp0) | [Puhu mulle](https://open.spotify.com/album/1VL1MjeWKzFNTElPYbmLEn) | 3:11 | 2021-09-19 | 2021-09-20 |
-| [Puhu pahaa](https://open.spotify.com/track/2IyeoicUQBeF4YetQTPLtq) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Puhu pahaa](https://open.spotify.com/album/3g7uT2PjCsbLGKMRkPSqpS) | 2:55 | 2023-07-15 |  |
+| [Puhu pahaa](https://open.spotify.com/track/2IyeoicUQBeF4YetQTPLtq) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Puhu pahaa](https://open.spotify.com/album/3g7uT2PjCsbLGKMRkPSqpS) | 2:55 | 2023-07-15 | 2023-08-06 |
 | [Pulkka](https://open.spotify.com/track/7d6Iy0XKcNFPxZfTWPFZbe) | [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP) | [Totuuksia popmusiikista](https://open.spotify.com/album/4hdTqUTms7IPrUtqqTJCru) | 3:22 | 2021-12-12 | 2022-03-03 |
 | [Pupu](https://open.spotify.com/track/18QAweMMhuFOajnlWTSSMD) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Pieni kuolema](https://open.spotify.com/album/0GYlIx9ArwU0WsDCiD4Ikd) | 3:55 | 2022-09-10 | 2022-09-15 |
 | [Pure mua \(Vain elämää kausi 13\)](https://open.spotify.com/track/2ze4RpT5UyaPcY9Wrg83e9) | [Pete Parkkonen](https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn) | [Pure mua \(Vain elämää kausi 13\)](https://open.spotify.com/album/04EFvfHmSKvazi8suK4zbi) | 3:20 | 2022-11-06 | 2022-11-15 |
@@ -1191,6 +1191,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-12-25 | 2022-12-28 |
 | [SloMo](https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo](https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d) | 2:56 | 2022-05-15 | 2022-05-22 |
 | [SloMo \- Eurovision's Dancebreak Edit](https://open.spotify.com/track/00rUx6vPpy0XbJer8BcoRn) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo \(Eurovision's Dancebreak Edit\)](https://open.spotify.com/album/3nrVP8ljurMTI2cEv6ItJA) | 3:00 | 2022-05-17 | 2022-05-19 |
+| [Smash Baby \(feat\. JVG\)](https://open.spotify.com/track/43aRo9Yxlj97ZlEOwCGJXk) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Smash Baby \(feat\. JVG\)](https://open.spotify.com/album/70f1d91RA2xKzbbHStUhsF) | 2:21 | 2023-08-05 |  |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-05-16 | 2022-07-31 |
 | [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-07-30 | 2022-10-23 |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-22 | 2022-10-30 |
@@ -1263,6 +1264,7 @@
 | [Syssymmäl](https://open.spotify.com/track/2dDs5Nb5A4EfyMT8UP0oaT) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Vamos](https://open.spotify.com/album/0xEeVRcyrSklVZuoqxOL0U) | 3:24 | 2022-01-08 | 2022-01-22 |
 | [Sytytä mut](https://open.spotify.com/track/2e32lfak95bG3TO45zuZ9R) | [Antti Ketonen](https://open.spotify.com/artist/5YxFBIX6yyncauK1DmRPY7) | [Sytytä mut](https://open.spotify.com/album/4Fnloz1OsPol1GrVwxpaAT) | 3:27 | 2022-01-15 | 2022-01-17 |
 | [Sä](https://open.spotify.com/track/1Er0WMLrT8aMgAZVgXnT6Z) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Sä](https://open.spotify.com/album/0QflDKUFzaVYXxvo1CDnvT) | 3:11 | 2022-02-12 | 2022-04-03 |
+| [sä <3 mä](https://open.spotify.com/track/3ZIOH68auFCiZeIBk9XD6k) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [sä <3 mä](https://open.spotify.com/album/3qpEun7B3bjIMyUuHQIttz) | 2:27 | 2023-08-05 |  |
 | [Sä et tiedä elämästä mitään](https://open.spotify.com/track/18Z2QO5J3eefzsoOalTAie) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Sä et tiedä elämästä mitään](https://open.spotify.com/album/7rceripfQUz8jTG1M5HzVw) | 4:03 | 2022-09-03 | 2022-09-07 |
 | [Sä saat mut](https://open.spotify.com/track/5V41JH0QetavUfAJZPEn0k) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sä saat mut](https://open.spotify.com/album/2Km5KMkJp67WM2xDWe6Ul1) | 2:20 | 2023-02-04 | 2023-02-06 |
 | [Sä teit musta mut](https://open.spotify.com/track/56suLP4UEWhR0bIKS75uMF) | [Roope Salminen](https://open.spotify.com/artist/0fUotQ9XbnLcg1a0OAHAxC) | [Sä teit musta mut](https://open.spotify.com/album/4ddwMTrNloFPB2v1s9YB2F) | 2:58 | 2022-02-12 | 2022-02-17 |
@@ -1486,7 +1488,7 @@
 | [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 | 2021-04-13 | 2021-04-14 |
 | [X5](https://open.spotify.com/track/2voS2ghfo7mF7Qz9rBvHGr) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [X5](https://open.spotify.com/album/4HJYxwQ9dHmExq2pGaFpQ2) | 2:12 | 2022-10-22 | 2022-10-30 |
 | [XO \(feat\. Madboiali\)](https://open.spotify.com/track/1VR6Sq6M2H5DC36tHFwLxr) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Madboiali](https://open.spotify.com/artist/62cLJcsS4nppVmLCqIHAFU) | [Normijäbä](https://open.spotify.com/album/713iVJyNiCxGSH36slmQzD) | 2:14 | 2023-04-22 | 2023-05-15 |
-| [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2023-07-21 |  |
+| [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2023-07-21 | 2023-08-06 |
 | [Yhdet Suomelle](https://open.spotify.com/track/0ctThLIEQOFxhnxIXVwxIx) | [Klamydia](https://open.spotify.com/artist/2BFdLtG6ivaiRqPFTgV1in) | [Hiljainen pöytä läheltä orkesteria](https://open.spotify.com/album/0d2yzaknr0AWomNyHyEszQ) | 3:27 | 2021-05-23 | 2021-05-24 |
 | [Yhen elämän juttu \- Vain elämää kausi 12](https://open.spotify.com/track/5sTXDiG3jFWQeWTW46qYuM) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg), [Kaihon Karavaani](https://open.spotify.com/artist/2icF1lA4YEFleB4QOjEYpA) | [Yhen elämän juttu \(Vain elämää kausi 12\)](https://open.spotify.com/album/0Fg4EzPyWMxIiw754evrqF) | 4:18 | 2021-10-11 | 2021-10-16 |
 | [Yks pullo](https://open.spotify.com/track/244HqAdMLdMTElPUxvT9RT) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Yks pullo / Aino](https://open.spotify.com/album/0yP3Ba2bzMxPObLUixaG6d) | 2:59 | 2023-01-21 | 2023-02-06 |

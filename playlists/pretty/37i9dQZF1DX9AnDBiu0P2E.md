@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AnDBiu0P2E.md) - [plain]
 
 > feel the wind in your hair with these rock favorites, new and old.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,461 likes - 57 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,593 likes - 57 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AnDBiu0P2E.md) - [plain]
 | 56 | [Sister Golden Hair](https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Hearts](https://open.spotify.com/album/6Ef4yClroC8pMGktYOUd5n) | 3:19 |
 | 57 | [Jolene](https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene \(Expanded Edition\)](https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg) | 2:41 |
 
-Snapshot ID: `MCxlOTMxZDE5OGNlYjJiOTkwZDNiOGNhZmFjNjFhZjA0N2ZkYTA5NDFk`
+Snapshot ID: `MCwyYjU3YjY4ODA2Yzk1YjE0ODIzNTU0YjE0MDJjNmNjMDBmOWU2NmYz`

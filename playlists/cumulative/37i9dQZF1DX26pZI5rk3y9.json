@@ -434,7 +434,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 203599,
       "name": "Cassanova Kirk Daniel",
       "url": "https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3"
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 239904,
       "name": "Flood of 2019",
       "url": "https://open.spotify.com/track/0boDuN7zeEa1sWvsD7w2Hq"
@@ -2311,6 +2311,24 @@
     },
     {
       "album": {
+        "name": "Rockabye Motel",
+        "url": "https://open.spotify.com/album/1tGugHW3RhB2c3J52Knvdy"
+      },
+      "artists": [
+        {
+          "name": "Blue Water Highway",
+          "url": "https://open.spotify.com/artist/5N5nkgCu7UG5KqNpRPiUd7"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343800,
+      "name": "Rockabye Motel",
+      "url": "https://open.spotify.com/track/6MpXCmx5j9qGFM0ka5JqZU"
+    },
+    {
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
       },
@@ -2582,6 +2600,24 @@
       "duration_ms": 225333,
       "name": "Spread Your Love",
       "url": "https://open.spotify.com/track/1gq5tbU9FTm90duAZtDZUv"
+    },
+    {
+      "album": {
+        "name": "Still Truckin",
+        "url": "https://open.spotify.com/album/2XiBPrUsv0DXZKPbiQVUms"
+      },
+      "artists": [
+        {
+          "name": "Marc A Ridge",
+          "url": "https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310056,
+      "name": "Still Truckin",
+      "url": "https://open.spotify.com/track/3gaibZyINf67LeyXmckAvK"
     },
     {
       "album": {
@@ -2884,7 +2920,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 223500,
       "name": "Wayward Son",
       "url": "https://open.spotify.com/track/5KhgT9qpjluyfl2xS2LJ6Q"
@@ -3018,6 +3054,24 @@
       "duration_ms": 170666,
       "name": "Who Drank My Beer While I Was In The Rear - Remastered",
       "url": "https://open.spotify.com/track/5J6Pe8az9hdBuOGairgVYH"
+    },
+    {
+      "album": {
+        "name": "Wild Flying Dove",
+        "url": "https://open.spotify.com/album/7CbEruTsoJilsvpQjqoqCI"
+      },
+      "artists": [
+        {
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361005,
+      "name": "Wild Flying Dove",
+      "url": "https://open.spotify.com/track/3mmISWDyxShlW9qizsyIKP"
     },
     {
       "album": {

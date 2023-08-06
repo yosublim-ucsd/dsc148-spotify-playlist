@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Mc Soffia",
-  "num_followers": 38755,
+  "num_followers": 38781,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGY1MGFmNGUzODllOWZlYTZlZThmNTBjNmE5MDZhYzBlNGVhNzcz",
+  "snapshot_id": "MCw5YmQxNTU2ZjNmODEyZTQ4MDliMzU0OTk5MWMyYTgzNzJmMTQ1OTA4",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 144686,
+      "name": "Que Se V\u00e1",
+      "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3mp2ekGulGPeycSW8kugCr"
       },
@@ -371,6 +387,26 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Marcos Beatman",
+          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
+        }
+      ],
+      "duration_ms": 196165,
+      "name": "Rotina",
+      "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Tropa do Mant\u00e9m",
         "url": "https://open.spotify.com/album/68wHxRNVAr8OqV9ZiyoCDQ"
       },
@@ -391,26 +427,6 @@
       "duration_ms": 164000,
       "name": "Tropa do Mant\u00e9m",
       "url": "https://open.spotify.com/track/4DbUD96eZfP9zVca7vgqgD"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Marcos Beatman",
-          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
-        }
-      ],
-      "duration_ms": 196165,
-      "name": "Rotina",
-      "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -443,74 +459,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Levado - Spotify Singles",
-        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Rennan Guerra",
-          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
-        },
-        {
-          "name": "Patrick Laplan",
-          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
-        }
-      ],
-      "duration_ms": 175922,
-      "name": "Levado - Spotify Singles",
-      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Faixa Rosa",
-        "url": "https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "BocaDosBeats",
-          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
-        }
-      ],
-      "duration_ms": 182923,
-      "name": "Faixa Rosa",
-      "url": "https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Tipo Anitta",
-        "url": "https://open.spotify.com/album/5S4qD4KDpgGAmsLPiGKpiC"
-      },
-      "artists": [
-        {
-          "name": "Btrem",
-          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        }
-      ],
-      "duration_ms": 151232,
-      "name": "Tipo Anitta",
-      "url": "https://open.spotify.com/track/5msSmXkhf6SCzxsInUsplR"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Oompa Loompa",
         "url": "https://open.spotify.com/album/47ZG3gfqIRftdUgcuo6k6M"
       },
@@ -539,6 +487,74 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Faixa Rosa",
+        "url": "https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "BocaDosBeats",
+          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
+        }
+      ],
+      "duration_ms": 182923,
+      "name": "Faixa Rosa",
+      "url": "https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Levado - Spotify Singles",
+        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Rennan Guerra",
+          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
+        },
+        {
+          "name": "Patrick Laplan",
+          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
+        }
+      ],
+      "duration_ms": 175922,
+      "name": "Levado - Spotify Singles",
+      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Tipo Anitta",
+        "url": "https://open.spotify.com/album/5S4qD4KDpgGAmsLPiGKpiC"
+      },
+      "artists": [
+        {
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        }
+      ],
+      "duration_ms": 151232,
+      "name": "Tipo Anitta",
+      "url": "https://open.spotify.com/track/5msSmXkhf6SCzxsInUsplR"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Hino Delas",
         "url": "https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd"
       },
@@ -563,30 +579,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Postura de Braba",
-        "url": "https://open.spotify.com/album/3HzyX6tFFie2A0U0vYKb0z"
-      },
-      "artists": [
-        {
-          "name": "Kloe",
-          "url": "https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 128086,
-      "name": "Postura de Braba",
-      "url": "https://open.spotify.com/track/5HfQbACsPDEKVkjhJYqYKe"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "44",
         "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
       },
@@ -607,54 +599,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Baby Hair",
-        "url": "https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo"
-      },
-      "artists": [
-        {
-          "name": "Pretta Poder",
-          "url": "https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt"
-        },
-        {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        },
-        {
-          "name": "SoudCrime",
-          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
-        }
-      ],
-      "duration_ms": 153393,
-      "name": "Baby Hair",
-      "url": "https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        },
-        {
-          "name": "Kash",
-          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
-        }
-      ],
-      "duration_ms": 224841,
-      "name": "N.I.N.A",
-      "url": "https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Glossy",
         "url": "https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp"
       },
@@ -671,62 +615,26 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Aquecimento",
-        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
+        "name": "Postura de Braba",
+        "url": "https://open.spotify.com/album/3HzyX6tFFie2A0U0vYKb0z"
       },
       "artists": [
         {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+          "name": "Kloe",
+          "url": "https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5"
         },
         {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 123444,
-      "name": "Aquecimento",
-      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "DE CRIA PRA CRIA",
-        "url": "https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad"
-      },
-      "artists": [
-        {
-          "name": "ABRONCA",
-          "url": "https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd"
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
         },
         {
-          "name": "Lastra",
-          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
         }
       ],
-      "duration_ms": 140264,
-      "name": "DE CRIA PRA CRIA / MC Marcelly",
-      "url": "https://open.spotify.com/track/6ytgQdqiWF2QDH9lA24knH"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "Seu Particular",
-      "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
+      "duration_ms": 128086,
+      "name": "Postura de Braba",
+      "url": "https://open.spotify.com/track/5HfQbACsPDEKVkjhJYqYKe"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -759,6 +667,70 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Baby Hair",
+        "url": "https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo"
+      },
+      "artists": [
+        {
+          "name": "Pretta Poder",
+          "url": "https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "SoudCrime",
+          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
+        }
+      ],
+      "duration_ms": 153393,
+      "name": "Baby Hair",
+      "url": "https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Aquecimento",
+        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
+      },
+      "artists": [
+        {
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 123444,
+      "name": "Aquecimento",
+      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "Seu Particular",
+      "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Ashley Banks",
         "url": "https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY"
       },
@@ -771,6 +743,50 @@
       "duration_ms": 208264,
       "name": "Ashley Banks",
       "url": "https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        },
+        {
+          "name": "Kash",
+          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
+        }
+      ],
+      "duration_ms": 224841,
+      "name": "N.I.N.A",
+      "url": "https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "DE CRIA PRA CRIA",
+        "url": "https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad"
+      },
+      "artists": [
+        {
+          "name": "ABRONCA",
+          "url": "https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd"
+        },
+        {
+          "name": "Lastra",
+          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
+        }
+      ],
+      "duration_ms": 140264,
+      "name": "DE CRIA PRA CRIA / MC Marcelly",
+      "url": "https://open.spotify.com/track/6ytgQdqiWF2QDH9lA24knH"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -807,6 +823,26 @@
       "duration_ms": 254756,
       "name": "Preta Patr\u00edcia",
       "url": "https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Tukikis",
+        "url": "https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+        }
+      ],
+      "duration_ms": 174083,
+      "name": "Tukikis",
+      "url": "https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -871,6 +907,30 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Betty Boop",
+        "url": "https://open.spotify.com/album/3Mp7oY9PZbzT8UEQjDUlBK"
+      },
+      "artists": [
+        {
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "HERvolution",
+          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
+        }
+      ],
+      "duration_ms": 110421,
+      "name": "Betty Boop",
+      "url": "https://open.spotify.com/track/46gDGTjG68eRcC9S0EpILt"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Sugar Mama",
         "url": "https://open.spotify.com/album/5XStrLbjNWcEC61FXPeKfu"
       },
@@ -931,6 +991,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Tua Bitch",
+        "url": "https://open.spotify.com/album/3kGPprFPCsh8G82UfU5nDY"
+      },
+      "artists": [
+        {
+          "name": "Dona Nyna",
+          "url": "https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ"
+        }
+      ],
+      "duration_ms": 193411,
+      "name": "TUA BITCH",
+      "url": "https://open.spotify.com/track/72BAYk9CRm5tPSFmc33djL"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Vai Ficar (Live at Soho Sessions)",
         "url": "https://open.spotify.com/album/1Mo043KD2TGELiE4D0cAfd"
       },
@@ -951,66 +1027,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Tukikis",
-        "url": "https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n"
-      },
-      "artists": [
-        {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
-        },
-        {
-          "name": "MDN Beatz",
-          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
-        }
-      ],
-      "duration_ms": 174083,
-      "name": "Tukikis",
-      "url": "https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Betty Boop",
-        "url": "https://open.spotify.com/album/3Mp7oY9PZbzT8UEQjDUlBK"
-      },
-      "artists": [
-        {
-          "name": "MC Taya",
-          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "HERvolution",
-          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
-        }
-      ],
-      "duration_ms": 110421,
-      "name": "Betty Boop",
-      "url": "https://open.spotify.com/track/46gDGTjG68eRcC9S0EpILt"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Tua Bitch",
-        "url": "https://open.spotify.com/album/3kGPprFPCsh8G82UfU5nDY"
-      },
-      "artists": [
-        {
-          "name": "Dona Nyna",
-          "url": "https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ"
-        }
-      ],
-      "duration_ms": 193411,
-      "name": "TUA BITCH",
-      "url": "https://open.spotify.com/track/72BAYk9CRm5tPSFmc33djL"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Who Cares?",
         "url": "https://open.spotify.com/album/5RSm9jbk6T7IiTzJWqsjtn"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 114285,
       "name": "Who Cares?",
       "url": "https://open.spotify.com/track/2KgRLOrzPKSy4ur5DPqzt3"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "AFRODHIT",
-        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 144686,
-      "name": "Que Se V\u00e1",
-      "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
     },
     {
       "added_at": "2023-08-04 03:01:00",

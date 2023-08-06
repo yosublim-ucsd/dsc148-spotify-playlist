@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, updated monthly by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,139 likes - 69 songs - 4 hr 9 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,140 likes - 69 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 31 | [isitluv](https://open.spotify.com/track/2To7k5CWffVqCQhbhlZKzO) | [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Waiting 4 Life](https://open.spotify.com/album/5EWskri4Ymtm74wjH5aRPJ) | 3:57 |
 | 32 | [Double Tap](https://open.spotify.com/track/0wLcWLY6JuNIuqJZxOu1Z7) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Double Tap](https://open.spotify.com/album/31cA2G8w5XuCbSLU8ccPiu) | 3:10 |
 | 33 | [Kiero K Me Kieras](https://open.spotify.com/track/1ahEs6Mn7tP8SGN1WXuvbF) | [SoFTT](https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2) | [Kiero K Me Kieras](https://open.spotify.com/album/7a94blel8vrcVTyeWH77Dy) | 3:43 |
-| 34 | [Kodek](https://open.spotify.com/track/1heVHvWk8pSxpyXQgj5y7M) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Kodek](https://open.spotify.com/album/4w48yDok6G3U1fxEI0ebKB) | 3:38 |
+| 34 | [Kodek](https://open.spotify.com/track/1heVHvWk8pSxpyXQgj5y7M) | [Quinze Quinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Kodek](https://open.spotify.com/album/4w48yDok6G3U1fxEI0ebKB) | 3:38 |
 | 35 | [Bubblin](https://open.spotify.com/track/5c0Et1ZProF52Qv8XCfoLn) | [Julio Bashmore](https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG) | [Bubblin](https://open.spotify.com/album/49ivLg7YgNFucuL3ZWJyZi) | 4:05 |
 | 36 | [Mindfields \- René LaVice Remix](https://open.spotify.com/track/3aNWf9VCqyU3CZjP7dQ31u) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [René LaVice](https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v) | [Mindfields \(René LaVice Remix\)](https://open.spotify.com/album/6M4rMYK8fV0m81MEmZz5jG) | 3:57 |
 | 37 | [Set The Roof](https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Set The Roof](https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty) | 4:28 |

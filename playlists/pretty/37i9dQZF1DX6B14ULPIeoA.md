@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 
 > Con mucha dulzura y sabor para un momento de relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,044 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,087 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,15 +88,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 78 | [Aguanta Corazón](https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX) | [M.O.Y.A.](https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf) | [Aguanta Corazón](https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1) | 3:12 |
 | 79 | [Y Todo Para Que](https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [Y Todo Para Que](https://open.spotify.com/album/4NZRI46AsgksuR6cCX2vFc) | 2:32 |
 | 80 | [Una Vez Mas](https://open.spotify.com/track/7vXR4H9LE6bXMtwpb4iz46) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Una Vez Mas](https://open.spotify.com/album/3J0EfavosSEhLq5BeZgtqw) | 3:50 |
-| 81 | [Cucurrucucú paloma](https://open.spotify.com/track/6JFqN2RNAlaHkskkf1wUtE) | [Alexandra Gravas](https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Songbook 3 El Amor Es Vida](https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT) | 5:02 |
+| 81 | [El Paciente](https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [El Paciente](https://open.spotify.com/album/5GKOP1rqWR2TguIbRR4qYo) | 3:32 |
 | 82 | [Tragos Amargos](https://open.spotify.com/track/1jhaFZpN6grqcweo0kUElQ) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Tragos Amargos](https://open.spotify.com/album/4rTSPDvuo9XFaNn0SioHJl) | 2:45 |
 | 83 | [La Puerta Negra](https://open.spotify.com/track/4gw8Ug5ZPHrquojcWPtDP7) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [La Puerta Negra](https://open.spotify.com/album/73yWEfBEFLueOketILhoIg) | 2:27 |
-| 84 | [El Paciente](https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [El Paciente](https://open.spotify.com/album/5GKOP1rqWR2TguIbRR4qYo) | 3:32 |
+| 84 | [Cucurrucucú paloma](https://open.spotify.com/track/6JFqN2RNAlaHkskkf1wUtE) | [Alexandra Gravas](https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Songbook 3 El Amor Es Vida](https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT) | 5:02 |
 | 85 | [Un Rinconcito En El Cielo](https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK) | [M.O.Y.A.](https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf) | [Un Rinconcito En El Cielo](https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0) | 4:11 |
 | 86 | [La barca](https://open.spotify.com/track/2bKWGYLXfunIGqkSbVartz) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 3:03 |
 | 87 | [Tristango](https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Tristango](https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC) | 3:19 |
-| 88 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/4YCBA1jE6wEbZNttfHHeTS) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Pero Te Vas A Arrepentir](https://open.spotify.com/album/3n9BU9XWfMvoFoEjLD63Jp) | 4:26 |
-| 89 | [Cruz de olvido](https://open.spotify.com/track/2COQMXlLtvjXFl2sWPmn0o) | [Juan Zaizar](https://open.spotify.com/artist/73jxdVvynjIPx5Frtin9j1) | [Exitos de Juan Zaizar](https://open.spotify.com/album/5L5AW3heSexIq7mmccsi65) | 3:24 |
+| 88 | [Cruz de olvido](https://open.spotify.com/track/2COQMXlLtvjXFl2sWPmn0o) | [Juan Zaizar](https://open.spotify.com/artist/73jxdVvynjIPx5Frtin9j1) | [Exitos de Juan Zaizar](https://open.spotify.com/album/5L5AW3heSexIq7mmccsi65) | 3:24 |
+| 89 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/4YCBA1jE6wEbZNttfHHeTS) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Pero Te Vas A Arrepentir](https://open.spotify.com/album/3n9BU9XWfMvoFoEjLD63Jp) | 4:26 |
 | 90 | [Brisas](https://open.spotify.com/track/2fnzfTG0Cg1nkI0tboLzzx) | [Gerardo Paz](https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik) | [Chacra](https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx) | 2:07 |
 | 91 | [Si Nos Dejan](https://open.spotify.com/track/1Ph7ahP8j4viFmpXB4Krgj) | [Mariachi Premier](https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea) | [Recuerdos De Mi Tierra](https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe) | 2:29 |
 | 92 | [Me Muero Sin Tus Besos](https://open.spotify.com/track/5A1XB9lNEvGHWNu1hkOpKT) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 99 | [Duele](https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Duele](https://open.spotify.com/album/7J3hUdS1aHBvb2DQASIUhP) | 4:09 |
 | 100 | [Historia de un Amor](https://open.spotify.com/track/5d28IWEPL407fmx8TBHnrd) | [Fer González](https://open.spotify.com/artist/2D7rQgCTVUgJYwfFNK8f3P), [Adolfo Josafat Esquivel Martínez](https://open.spotify.com/artist/2no9PK9rt2pLRAUZagftpQ), [Armando Esquivel Martínez](https://open.spotify.com/artist/3Dr6YcK9ut2OzBAwDvF5po), [Juan Pablo Esquivel Martínez](https://open.spotify.com/artist/75NZOeqBctbXUDmSXohW0s), [Armando Jiménez Martínez](https://open.spotify.com/artist/54DjpA29Mltg7vDE8oBweE), [Jorge Jiménez Martínez](https://open.spotify.com/artist/6T08P1MBwQTcTP8ckrcmaG), [Rafael Guzman Navarro](https://open.spotify.com/artist/30RzId9OwIRGNH89Bx7xnb), [Arnulfo Muñoz Guzmán](https://open.spotify.com/artist/70F8fUluhWibIB0VuLVhrC), [Carlos Campos Iván](https://open.spotify.com/artist/0njnrM9b7uj4Rudd8lTT7w) | [Mariachi: Mi Nombre Es México](https://open.spotify.com/album/6kdd6Z3nAvWbxPZVpZlBgV) | 3:20 |
 
-Snapshot ID: `MCw0MTc3MDNkOWJiOTNjYjgxZGM1ZTYwMzVlNmE2Y2I5MmU5YTBmOWIw`
+Snapshot ID: `MCw5YThlZWUzZjgyMjkzZWRiMDllOGZkZTc3Y2NjOTQ3MWQ5ZDU4ZmQz`

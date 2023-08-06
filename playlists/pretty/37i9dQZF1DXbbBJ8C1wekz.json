@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 118677,
+  "num_followers": 118727,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWYxYTUyY2EzM2FlMDA0OWUxYzgxN2Y2NDA3ZWNhNTFjN2M3YTc4",
+  "snapshot_id": "MCxjNjRmNmE1NTc1N2EzZmVkZGUwYjc4ZDVlMjRiNmFhOTZjNDZkMjFj",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -119,6 +119,50 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 229894,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "M\u00e1quina do Tempo",
+      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -147,50 +191,6 @@
       "duration_ms": 206451,
       "name": "Sal e Pimenta",
       "url": "https://open.spotify.com/track/41PSYvvRRloahcTUdYBchA"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "M\u00e1quina do Tempo",
-      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Dior",
-        "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 229894,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Glockada",
+        "url": "https://open.spotify.com/album/0if1rCePNP4OueF2hIbPcF"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        }
+      ],
+      "duration_ms": 121678,
+      "name": "Glockada",
+      "url": "https://open.spotify.com/track/4f3e6HRUIu5Ub2mcwu8god"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Ca\u00e7ando Tesouro",
         "url": "https://open.spotify.com/album/17NmjYO2JSc0E4bLFhBMQA"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 224262,
       "name": "Ca\u00e7ando Tesouro",
       "url": "https://open.spotify.com/track/4RC7vpeUYzx6kChixUpTNs"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Glockada",
-        "url": "https://open.spotify.com/album/0if1rCePNP4OueF2hIbPcF"
-      },
-      "artists": [
-        {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
-        }
-      ],
-      "duration_ms": 121678,
-      "name": "Glockada",
-      "url": "https://open.spotify.com/track/4f3e6HRUIu5Ub2mcwu8god"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -951,6 +951,50 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "POC POC",
+        "url": "https://open.spotify.com/album/5JBShduEBqPGoydz7DD1l3"
+      },
+      "artists": [
+        {
+          "name": "Recayd Mob",
+          "url": "https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "J\u00e9 Santiago",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        },
+        {
+          "name": "N.A.N.A.",
+          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
+        },
+        {
+          "name": "BONE",
+          "url": "https://open.spotify.com/artist/3YZaqF0u6XGhg6MoZBWN58"
+        },
+        {
+          "name": "The Boy",
+          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
+        }
+      ],
+      "duration_ms": 223732,
+      "name": "POC POC",
+      "url": "https://open.spotify.com/track/1IIoQ4SDLTA1I0KU5mHlgl"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Menino Ney",
         "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
       },
@@ -995,50 +1039,6 @@
       "duration_ms": 170181,
       "name": "Meu Corre",
       "url": "https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "POC POC",
-        "url": "https://open.spotify.com/album/5JBShduEBqPGoydz7DD1l3"
-      },
-      "artists": [
-        {
-          "name": "Recayd Mob",
-          "url": "https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71"
-        },
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        },
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        },
-        {
-          "name": "J\u00e9 Santiago",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
-        },
-        {
-          "name": "MC Igu",
-          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
-        },
-        {
-          "name": "N.A.N.A.",
-          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
-        },
-        {
-          "name": "BONE",
-          "url": "https://open.spotify.com/artist/3YZaqF0u6XGhg6MoZBWN58"
-        },
-        {
-          "name": "The Boy",
-          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
-        }
-      ],
-      "duration_ms": 223732,
-      "name": "POC POC",
-      "url": "https://open.spotify.com/track/1IIoQ4SDLTA1I0KU5mHlgl"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1551,6 +1551,34 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Xeque-Mate (feat. Paiva Prod)",
+        "url": "https://open.spotify.com/album/5z6BDql4k4zPWOAUjI73Ns"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Xeque-Mate (feat. Paiva Prod)",
+      "url": "https://open.spotify.com/track/3grsMTKtSZt93yuC76W2U9"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Fiquei Rico Cedo",
         "url": "https://open.spotify.com/album/4PlhyAkvqUyaxsmbFtRyNS"
       },
@@ -1587,34 +1615,6 @@
       "duration_ms": 228661,
       "name": "Fiquei Rico Cedo",
       "url": "https://open.spotify.com/track/6tfEPfl4xxKUj4fAKsUd7w"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Xeque-Mate (feat. Paiva Prod)",
-        "url": "https://open.spotify.com/album/5z6BDql4k4zPWOAUjI73Ns"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Xeque-Mate (feat. Paiva Prod)",
-      "url": "https://open.spotify.com/track/3grsMTKtSZt93yuC76W2U9"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Apoteose",
-        "url": "https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ"
-      },
-      "artists": [
-        {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        }
-      ],
-      "duration_ms": 176888,
-      "name": "Probleminha",
-      "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Esculpido a Machado",
         "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 145365,
       "name": "Pedro Bala",
       "url": "https://open.spotify.com/track/2Dh5R6Jhlhu6C9FtgV1XQF"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Apoteose",
+        "url": "https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ"
+      },
+      "artists": [
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        }
+      ],
+      "duration_ms": 176888,
+      "name": "Probleminha",
+      "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "O Bagulho \u00c9 Trap",
-        "url": "https://open.spotify.com/album/7sRNPfZfQ9RB3DtMffLPo3"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9 Santiago",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
-        }
-      ],
-      "duration_ms": 192537,
-      "name": "Di\u00f1ero",
-      "url": "https://open.spotify.com/track/5qEEAaLmldzSSFQjj6eJb3"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Oh Shit",
         "url": "https://open.spotify.com/album/36iSgsN8rz5MpQSXOvBlyU"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 232311,
       "name": "Oh Shit",
       "url": "https://open.spotify.com/track/58RYmMg7AdRMJIGkLZQEx9"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "O Bagulho \u00c9 Trap",
+        "url": "https://open.spotify.com/album/7sRNPfZfQ9RB3DtMffLPo3"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9 Santiago",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        }
+      ],
+      "duration_ms": 192537,
+      "name": "Di\u00f1ero",
+      "url": "https://open.spotify.com/track/5qEEAaLmldzSSFQjj6eJb3"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -2163,26 +2163,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "NU",
-        "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 191376,
-      "name": "V\u00edrgula",
-      "url": "https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Ouro Ros\u00e9",
         "url": "https://open.spotify.com/album/3hRlp9PlDxPTJd5c1X3lJL"
       },
@@ -2219,6 +2199,26 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "NU",
+        "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 191376,
+      "name": "V\u00edrgula",
+      "url": "https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Disfarce",
         "url": "https://open.spotify.com/album/6tMKjaduCP1Xts8Norkiy6"
       },
@@ -2231,6 +2231,22 @@
       "duration_ms": 176000,
       "name": "Disfarce",
       "url": "https://open.spotify.com/track/4Rx0VjnR16gkAuA322epk4"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Flutuo",
+        "url": "https://open.spotify.com/album/3893W2jIaByc6Xk0lziixq"
+      },
+      "artists": [
+        {
+          "name": "Leozin",
+          "url": "https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Flutuo",
+      "url": "https://open.spotify.com/track/3VpRIboJg2oXebe8LNto7O"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -2251,22 +2267,6 @@
       "duration_ms": 181846,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/2JfnRptu8DCHHaykkjUhwD"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Flutuo",
-        "url": "https://open.spotify.com/album/3893W2jIaByc6Xk0lziixq"
-      },
-      "artists": [
-        {
-          "name": "Leozin",
-          "url": "https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Flutuo",
-      "url": "https://open.spotify.com/track/3VpRIboJg2oXebe8LNto7O"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -2311,34 +2311,18 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Eu Pe\u00e7o Paz",
-        "url": "https://open.spotify.com/album/5ghalgVjIzcEQfZiKbFkPk"
+        "name": "Aquela",
+        "url": "https://open.spotify.com/album/7nfk0v1E5ioLL9cSlABxqs"
       },
       "artists": [
         {
-          "name": "MC Marks",
-          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+          "name": "ANAJU",
+          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
         }
       ],
-      "duration_ms": 314032,
-      "name": "Eu Pe\u00e7o Paz",
-      "url": "https://open.spotify.com/track/57zgzNUat2Z3OPLQREeEOe"
+      "duration_ms": 121288,
+      "name": "Aquela",
+      "url": "https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3"
     }
   ],
   "unique_name": "Trap Classe",

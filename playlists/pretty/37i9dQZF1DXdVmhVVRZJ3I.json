@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria.",
-  "num_followers": 275916,
+  "num_followers": 275992,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmVlZjJkOGRiYWNjN2RkMTE1ZDEzNjAxZjRjZjQ5M2U1OGQwYTEx",
+  "snapshot_id": "MCw5OWVkMjY0YmIwZjFkY2ExYzBiNTY5YmE0YTZlODYxZjBkYjU2MmE3",
   "tracks": [
     {
       "added_at": "2023-07-28 16:29:31",
@@ -495,26 +495,6 @@
     {
       "added_at": "2023-07-28 16:29:31",
       "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "The Wall",
-      "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
-    },
-    {
-      "added_at": "2023-07-28 16:29:31",
-      "album": {
         "name": "Esta Vida (VINNE Remix)",
         "url": "https://open.spotify.com/album/3tRAT5guWju2w4NquyECo8"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 173333,
       "name": "Esta Vida - VINNE Remix",
       "url": "https://open.spotify.com/track/3ClKsM5f06HfEpzNhmQeY0"
+    },
+    {
+      "added_at": "2023-07-28 16:29:31",
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "The Wall",
+      "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
     },
     {
       "added_at": "2023-07-28 16:29:31",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-07-28 16:29:31",
       "album": {
-        "name": "Terremoto EP",
-        "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
-      },
-      "artists": [
-        {
-          "name": "Chemical Surf",
-          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
-        },
-        {
-          "name": "Ghabe",
-          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
-        }
-      ],
-      "duration_ms": 165519,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
-    },
-    {
-      "added_at": "2023-07-28 16:29:31",
-      "album": {
         "name": "Tomorrow (feat. 433)",
         "url": "https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 165000,
       "name": "Tomorrow (feat. 433)",
       "url": "https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7"
+    },
+    {
+      "added_at": "2023-07-28 16:29:31",
+      "album": {
+        "name": "Terremoto EP",
+        "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        },
+        {
+          "name": "Ghabe",
+          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
+        }
+      ],
+      "duration_ms": 165519,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
     },
     {
       "added_at": "2023-07-28 16:29:31",

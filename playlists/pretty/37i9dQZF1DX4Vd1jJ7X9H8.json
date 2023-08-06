@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 269334,
+  "num_followers": 269577,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzliN2M1OGM0MjdhMmY5Y2RhMWJkNTI4MzczNGQzNWEwY2E0OWM4",
+  "snapshot_id": "MCxjMWJkNTI3ZWYzYmJlMjIyMWY0MWYyMzhlMzk0NmVjYjE4Mzg4N2Fk",
   "tracks": [
     {
       "added_at": "2023-08-02 00:04:03",
@@ -457,6 +457,22 @@
       "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
     },
     {
+      "added_at": "2023-08-02 15:48:06",
+      "album": {
+        "name": "The Loveliest Time",
+        "url": "https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 256528,
+      "name": "Kollage",
+      "url": "https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO"
+    },
+    {
       "added_at": "2023-05-04 21:27:18",
       "album": {
         "name": "Think About Things",
@@ -519,22 +535,6 @@
       "duration_ms": 171696,
       "name": "Electric U",
       "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
-    },
-    {
-      "added_at": "2023-08-02 15:48:06",
-      "album": {
-        "name": "The Loveliest Time",
-        "url": "https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 256528,
-      "name": "Kollage",
-      "url": "https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO"
     },
     {
       "added_at": "2023-07-18 16:14:01",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC"
     },
     {
+      "added_at": "2023-06-23 14:31:14",
+      "album": {
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
+    },
+    {
       "added_at": "2023-07-28 17:22:16",
       "album": {
         "name": "Heartquake",
@@ -707,22 +723,6 @@
       "duration_ms": 218373,
       "name": "Heartquake",
       "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
-    },
-    {
-      "added_at": "2023-06-23 14:31:14",
-      "album": {
-        "name": "Ordinary Love",
-        "url": "https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -873,6 +873,22 @@
       "url": "https://open.spotify.com/track/5ICUko5tff4xEdS4DdnODT"
     },
     {
+      "added_at": "2023-06-29 14:20:09",
+      "album": {
+        "name": "Elliot - EP",
+        "url": "https://open.spotify.com/album/4AFujnAenTwa4R07Fwyysp"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 236335,
+      "name": "Montreal",
+      "url": "https://open.spotify.com/track/5maosvba9QkQP14u6vtxog"
+    },
+    {
       "added_at": "2023-05-04 21:27:18",
       "album": {
         "name": "Everything Eventually Ends",
@@ -891,22 +907,6 @@
       "duration_ms": 177280,
       "name": "Everything Eventually Ends",
       "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
-    },
-    {
-      "added_at": "2023-06-29 14:20:09",
-      "album": {
-        "name": "Elliot - EP",
-        "url": "https://open.spotify.com/album/4AFujnAenTwa4R07Fwyysp"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 236335,
-      "name": "Montreal",
-      "url": "https://open.spotify.com/track/5maosvba9QkQP14u6vtxog"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "\u00bfT\u00e9o?",
         "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 170125,
       "name": "Uno Dos",
       "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1185,6 +1185,22 @@
       "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
     },
     {
+      "added_at": "2023-06-29 14:20:09",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 222242,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB"
+    },
+    {
       "added_at": "2023-05-04 21:27:18",
       "album": {
         "name": "Heybb!",
@@ -1221,22 +1237,6 @@
       "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
     },
     {
-      "added_at": "2023-06-29 14:20:09",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 222242,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB"
-    },
-    {
       "added_at": "2023-05-04 21:27:18",
       "album": {
         "name": "elated!",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/5llzZfuUMShvnGzWL7x07d"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "duration_ms": 132903,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/3RZwiJMiAeiSObHO25qGK1"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "CooCool",
         "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 271112,
       "name": "CooCool",
       "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/5llzZfuUMShvnGzWL7x07d"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 132903,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/3RZwiJMiAeiSObHO25qGK1"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1323,6 +1323,22 @@
       "duration_ms": 207186,
       "name": "Down The Road",
       "url": "https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "House Hues",
+        "url": "https://open.spotify.com/album/79qwBOBC6B5V6T2HDVrhx2"
+      },
+      "artists": [
+        {
+          "name": "IAMNOBODI",
+          "url": "https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn"
+        }
+      ],
+      "duration_ms": 98461,
+      "name": "Separated",
+      "url": "https://open.spotify.com/track/57VfoS1TXAp5Mx7l12MDNa"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "House Hues",
-        "url": "https://open.spotify.com/album/79qwBOBC6B5V6T2HDVrhx2"
-      },
-      "artists": [
-        {
-          "name": "IAMNOBODI",
-          "url": "https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn"
-        }
-      ],
-      "duration_ms": 98461,
-      "name": "Separated",
-      "url": "https://open.spotify.com/track/57VfoS1TXAp5Mx7l12MDNa"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Life Is Yours",
         "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
       },
@@ -1409,22 +1409,6 @@
       "url": "https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG"
     },
     {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Sonic Poems",
-        "url": "https://open.spotify.com/album/61LDldyfICKlRKjauyeWdn"
-      },
-      "artists": [
-        {
-          "name": "Lewis OfMan",
-          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
-        }
-      ],
-      "duration_ms": 185213,
-      "name": "Attitude",
-      "url": "https://open.spotify.com/track/3OT9zVVg5JFjXfGmn2TNrL"
-    },
-    {
       "added_at": "2023-07-28 17:22:16",
       "album": {
         "name": "Paralyzed",
@@ -1439,6 +1423,22 @@
       "duration_ms": 227504,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/2XPLNZZ7CTnOzq54kZ6M6F"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Sonic Poems",
+        "url": "https://open.spotify.com/album/61LDldyfICKlRKjauyeWdn"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        }
+      ],
+      "duration_ms": 185213,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/3OT9zVVg5JFjXfGmn2TNrL"
     },
     {
       "added_at": "2023-07-28 17:22:16",
@@ -1565,22 +1565,6 @@
       "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
     },
     {
-      "added_at": "2023-05-26 15:33:25",
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/64c2dTgv8xt5r7gESPYyql"
-      },
-      "artists": [
-        {
-          "name": "DLG.",
-          "url": "https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP"
-        }
-      ],
-      "duration_ms": 228545,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/6iP5RyT5UYri2lBXF5HXPv"
-    },
-    {
       "added_at": "2023-06-23 14:31:14",
       "album": {
         "name": "Blutooth / enough 4 u",
@@ -1601,6 +1585,22 @@
       "url": "https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK"
     },
     {
+      "added_at": "2023-05-26 15:33:25",
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/64c2dTgv8xt5r7gESPYyql"
+      },
+      "artists": [
+        {
+          "name": "DLG.",
+          "url": "https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP"
+        }
+      ],
+      "duration_ms": 228545,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/6iP5RyT5UYri2lBXF5HXPv"
+    },
+    {
       "added_at": "2023-05-04 21:27:18",
       "album": {
         "name": "What Box?",
@@ -1615,38 +1615,6 @@
       "duration_ms": 184826,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "The Virgins",
-        "url": "https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj"
-      },
-      "artists": [
-        {
-          "name": "The Virgins",
-          "url": "https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru"
-        }
-      ],
-      "duration_ms": 180120,
-      "name": "Rich Girls",
-      "url": "https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Move Me",
-        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Move Me",
-      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1667,6 +1635,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "The Virgins",
+        "url": "https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj"
+      },
+      "artists": [
+        {
+          "name": "The Virgins",
+          "url": "https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "Rich Girls",
+      "url": "https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "Too Much (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 215397,
       "name": "Too Much (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Move Me",
+        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Into the Ether",
-        "url": "https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 191061,
-      "name": "Raining in LA",
-      "url": "https://open.spotify.com/track/2ZnMtfCwbUgVWIWfmEBHCv"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "God's Plan",
         "url": "https://open.spotify.com/album/2YP2BYZ4kgJ7W5vlOUs6B5"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 156706,
       "name": "Best Thing",
       "url": "https://open.spotify.com/track/1nBVHNr7KSYHNj6BdhlNx3"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Into the Ether",
+        "url": "https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 191061,
+      "name": "Raining in LA",
+      "url": "https://open.spotify.com/track/2ZnMtfCwbUgVWIWfmEBHCv"
     },
     {
       "added_at": "2023-05-04 21:27:18",

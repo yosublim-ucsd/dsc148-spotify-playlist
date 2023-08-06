@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,786 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,788 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 | 11 | [Summertime \- Live](https://open.spotify.com/track/17m83WZGqAfGpnNUbpCDqF) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Spirit Rising \(Live\)](https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038) | 4:04 |
 | 12 | [Salala](https://open.spotify.com/track/1AwNQDoTIfpJ2GxwRvyPUN) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 3:24 |
 | 13 | [Ponto De Mutação \(feat\. Angélique Kidjo\)](https://open.spotify.com/track/7sa4rCcv09YGHO0zxirayB) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Quanto Mais Curtido Melhor](https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX) | 4:15 |
-| 14 | [Shekere](https://open.spotify.com/track/5SQPU5uLfvdznF43W5guwW) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Woman Of Steel](https://open.spotify.com/album/7y9bUCH7reYKiVEUs8FUV4) | 3:06 |
-| 15 | [Toda Fé](https://open.spotify.com/track/3xV19rax2PyYyVETsVF5yx) | [Gilmar Gomes](https://open.spotify.com/artist/2WYBgInncdBPxLsQAdr0QH), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT) | [Toda Fé](https://open.spotify.com/album/6vnLNyaf690RoQr6C2TKbg) | 4:18 |
+| 14 | [Toda Fé](https://open.spotify.com/track/3xV19rax2PyYyVETsVF5yx) | [Gilmar Gomes](https://open.spotify.com/artist/2WYBgInncdBPxLsQAdr0QH), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT) | [Toda Fé](https://open.spotify.com/album/6vnLNyaf690RoQr6C2TKbg) | 4:18 |
+| 15 | [Shekere](https://open.spotify.com/track/5SQPU5uLfvdznF43W5guwW) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Woman Of Steel](https://open.spotify.com/album/7y9bUCH7reYKiVEUs8FUV4) | 3:06 |
 | 16 | [Naima](https://open.spotify.com/track/55srfvDH9udEULKjkDKgUP) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Fifa](https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm) | 4:32 |
 | 17 | [Keep Rising \- The Woman King](https://open.spotify.com/track/7iWpBQjJWsJJfm3g8GFi7I) | [Jessy Wilson](https://open.spotify.com/artist/16mVBCP9OKYqPuGlzS61uP), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Keep Rising \(The Woman King\)](https://open.spotify.com/album/1ekbLXEL0o8JQT9yX8piWJ) | 3:14 |
 | 18 | [Sedjedo](https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 | 49 | [Zelie](https://open.spotify.com/track/786PWkpZ8OMdwgk5Nx3xnf) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [OYO \(Deluxe Edition\)](https://open.spotify.com/album/6UcZyvaymagvEIKf1xSwU3) | 2:03 |
 | 50 | [Redemption Song](https://open.spotify.com/track/4ADxDfrGrTw6D1slX8wUVS) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oh Happy Day](https://open.spotify.com/album/5JpbIBWZZOq79iipDBRtaq) | 3:35 |
 
-Snapshot ID: `MjgxODYwODEsMDAwMDAwMDA3ZjNjNDA2ZTNlMGMxY2UyYmMwYTI0MzBiNzFiZmRkMQ==`
+Snapshot ID: `MjgxODczODgsMDAwMDAwMDA2MjE2YjA3ZGUyOGU3MzJiZmQzYzI3NWNlZjM0YmMwZg==`

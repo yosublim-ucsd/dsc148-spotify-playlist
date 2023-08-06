@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Jenna Raine
 
-1,742 songs - 3 day 16 hr 26 min
+1,743 songs - 3 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,7 +625,7 @@
 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 | 2022-01-07 | 2022-08-20 |
 | [Guerrilla](https://open.spotify.com/track/6y57l1NHNuc1dNz7Cel3Oo) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Guerrilla / Sexy Villain](https://open.spotify.com/album/46zy76PQmEBa9szqYIIKfd) | 2:44 | 2021-09-10 | 2022-01-08 |
 | [gutter](https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [gutter](https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2) | 2:07 | 2023-03-17 | 2023-04-23 |
-| [h4msterb0y](https://open.spotify.com/track/6KGPqS4xegcAszjtMF40ra) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [h4msterb0y](https://open.spotify.com/album/3uy3LkqdF1axtXTw3QEexR) | 2:48 | 2023-06-30 |  |
+| [h4msterb0y](https://open.spotify.com/track/6KGPqS4xegcAszjtMF40ra) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [h4msterb0y](https://open.spotify.com/album/3uy3LkqdF1axtXTw3QEexR) | 2:48 | 2023-06-30 | 2023-08-06 |
 | [Hammock](https://open.spotify.com/track/300h0POzz1RLKUlmQiquFa) | [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Hammock](https://open.spotify.com/album/7tqXm8Z4HCK3kydrFJRF0v) | 2:16 | 2022-09-09 | 2022-09-18 |
 | [Hang My Head](https://open.spotify.com/track/2Qm5gg9NZIrtURqpIalMyy) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [Hang My Head](https://open.spotify.com/album/66Jgk4cIkmqjVjwO4VxIin) | 3:26 | 2021-08-19 | 2021-08-20 |
 | [Happening Again](https://open.spotify.com/track/0AHKkQET4CwFDD2TXQi7Tc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Happening Again](https://open.spotify.com/album/1a5EdAP8QdSVwIhYYiF2G4) | 2:53 | 2022-10-28 | 2023-02-16 |
@@ -1591,6 +1591,7 @@
 | [Touch](https://open.spotify.com/track/2a7kFbxMwmmZWDvH0JbZFU) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [You Do You](https://open.spotify.com/album/6Tk1TJLX2NJUJ03cjxTykN) | 2:57 | 2020-04-23 | 2021-01-23 |
 | [Touch](https://open.spotify.com/track/0XYvHhtD8ONs8Kqzx7D1On) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Touch](https://open.spotify.com/album/6LtLFeeMJ8mKUfXXIytQ3g) | 3:38 | 2019-05-26\* | 2019-08-13 |
 | [Tough \(The Girls Song\)](https://open.spotify.com/track/4g7ENhoox2hASK5tYih22Q) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Tough \(The Girls Song\)](https://open.spotify.com/album/1nFfsjm5sNquzvitmGvyTb) | 3:02 | 2023-06-09 | 2023-07-01 |
+| [Trauma](https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Trauma](https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56) | 2:43 | 2023-08-04 |  |
 | [Treading Water](https://open.spotify.com/track/0Ed0auEaK9ATsnzFsUZ5AZ) | [Little Monarch](https://open.spotify.com/artist/1zeHZCkBteZhJHsRI9qv29) | [Treading Water](https://open.spotify.com/album/3NkCc8osMfZB59KQhm7nLS) | 3:56 | 2019-05-26\* | 2019-08-13 |
 | [Treat Me](https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Treat Me](https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP) | 2:29 | 2022-04-08 | 2022-05-07 |
 | [Treehouse](https://open.spotify.com/track/2H9f4gzQxCzTf8mHtNnpBd) | [More Giraffes](https://open.spotify.com/artist/1SKIyebAAhyPaaFp4x1Vp0) | [Treehouse](https://open.spotify.com/album/3pxdWDr2Mt6v16blV8DNwm) | 2:52 | 2019-09-06 | 2020-03-16 |

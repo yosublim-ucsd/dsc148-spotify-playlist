@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: P!nk
 
-1,393 songs - 3 day 4 hr 33 min
+1,394 songs - 3 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 | 2022-04-06 | 2022-05-05 |
 | [Cud](https://open.spotify.com/track/4vmXjFgX0Q8zSylt7abQ3y) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d) | [Motherlode](https://open.spotify.com/album/3CwpZuAAKevuwxptURDanW) | 3:21 | 2023-07-05 | 2023-08-03 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2023-02-01 | 2023-03-02 |
+| [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 | 2023-08-02 |  |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-05-03 | 2023-07-06 |
 | [Cute Boy](https://open.spotify.com/track/7DS5SpsWS7rtKeAfe9rbfn) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG), [Sagi Kariv](https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a), [Forever Tel Aviv](https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q) | [Cute Boy](https://open.spotify.com/album/3oOsxujiwXlaed2q2h71Fv) | 3:05 | 2022-10-04 | 2023-01-05 |
 | [Czy masz jak ja?](https://open.spotify.com/track/4ggEwdFC2VoR2BXgR3qGwW) | [Karolina Stanisławczyk](https://open.spotify.com/artist/3vgdTroZ4H9ynPQTheek1t) | [Czy masz jak ja?](https://open.spotify.com/album/3e4uOHJWH3HIo6Q0OzlAvZ) | 2:45 | 2021-12-11 | 2022-01-06 |
@@ -865,7 +866,7 @@
 | [PANDA](https://open.spotify.com/track/5DwW0Y7LWmVRMTMxYw3vCA) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [PANDA](https://open.spotify.com/album/5Wpjc38AogK8fEcj07Yh5E) | 2:22 | 2022-06-01 | 2022-07-07 |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-04-06 | 2022-05-05 |
 | [Pao Sto Nisi](https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pao Sto Nisi](https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD) | 2:58 | 2023-07-05 |  |
-| [Pap](https://open.spotify.com/track/64nGCCBJ8Gyb8Vqyavyk1B) | [Reanny](https://open.spotify.com/artist/5tWcufVAXq2gkxkfo8vWYd), [NOELL3](https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB), [Dani Deaux](https://open.spotify.com/artist/7kCYdycnUmRJJX8cllnq9H) | [A Goddess, WBU?](https://open.spotify.com/album/5Lrtc2ig97nGmvZ92T6lgQ) | 2:23 | 2023-08-02 |  |
+| [Pap](https://open.spotify.com/track/64nGCCBJ8Gyb8Vqyavyk1B) | [Reanny](https://open.spotify.com/artist/5tWcufVAXq2gkxkfo8vWYd), [NOELL3](https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB), [Dani Deaux](https://open.spotify.com/artist/7kCYdycnUmRJJX8cllnq9H) | [A Goddess, WBU?](https://open.spotify.com/album/5Lrtc2ig97nGmvZ92T6lgQ) | 2:23 | 2023-08-02 | 2023-08-06 |
 | [Paracas Cavernas](https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Paracas Cavernas](https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk) | 4:28 | 2023-03-01 | 2023-04-06 |
 | [Paradise](https://open.spotify.com/track/1AnKPJBNBvgezzKso7NmWy) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Paradise](https://open.spotify.com/album/7x4Q3tWaIU7qfqVlnJEgM8) | 2:36 | 2022-09-07 | 2022-10-05 |
 | [Paralizado](https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Paralizado](https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa) | 3:07 | 2022-09-07 | 2022-10-05 |

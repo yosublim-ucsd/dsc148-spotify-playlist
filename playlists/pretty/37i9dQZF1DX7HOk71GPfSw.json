@@ -1,13 +1,29 @@
 {
   "description": "Cover: A. G. Cook",
-  "num_followers": 413643,
+  "num_followers": 413794,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWEzYTJjMDFkMDhkNjEzMTAzMTAwNzI4ZWMyOWJkMTBhMWEzODg4",
+  "snapshot_id": "MCw2YzgwN2Y0MmZmM2YxYjhhOTNiY2VjOTQ3MTEzYTU4N2MwMmM5MjE0",
   "tracks": [
+    {
+      "added_at": "2023-08-05 11:58:21",
+      "album": {
+        "name": "whiplash / cliche",
+        "url": "https://open.spotify.com/album/6xE5ALjPamqaG7iPIx4dGX"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 167244,
+      "name": "whiplash",
+      "url": "https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd"
+    },
     {
       "added_at": "2023-07-28 14:33:00",
       "album": {
@@ -23,6 +39,42 @@
       "duration_ms": 184840,
       "name": "Beautiful (2023 Edit)",
       "url": "https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Locals (Girls like us) [with gabby start]",
+        "url": "https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        },
+        {
+          "name": "gabby start",
+          "url": "https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9"
+        }
+      ],
+      "duration_ms": 258084,
+      "name": "Locals (Girls like us) [with gabby start]",
+      "url": "https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L"
+    },
+    {
+      "added_at": "2023-07-28 14:33:00",
+      "album": {
+        "name": "American Terrorist",
+        "url": "https://open.spotify.com/album/5eHaILhsj8cjHNb8PNOnMU"
+      },
+      "artists": [
+        {
+          "name": "Thoom",
+          "url": "https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5"
+        }
+      ],
+      "duration_ms": 158686,
+      "name": "American Terrorist",
+      "url": "https://open.spotify.com/track/0CUkBj6wxcdUaB0K94frjT"
     },
     {
       "added_at": "2023-07-28 14:33:00",
@@ -49,26 +101,6 @@
       "url": "https://open.spotify.com/track/00lqKT7IuN6RrDrlyO8imU"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Locals (Girls like us) [with gabby start]",
-        "url": "https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        },
-        {
-          "name": "gabby start",
-          "url": "https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9"
-        }
-      ],
-      "duration_ms": 258084,
-      "name": "Locals (Girls like us) [with gabby start]",
-      "url": "https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "Personal Protocol",
@@ -83,6 +115,38 @@
       "duration_ms": 123196,
       "name": "COOL_DNB_SONG",
       "url": "https://open.spotify.com/track/6qplf0LC8lwZdWL7Ij0hlu"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Estrogen",
+        "url": "https://open.spotify.com/album/0qPh5Xy3MnB213BYGmKCwE"
+      },
+      "artists": [
+        {
+          "name": "Knife Girl",
+          "url": "https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L"
+        }
+      ],
+      "duration_ms": 218285,
+      "name": "Estrogen",
+      "url": "https://open.spotify.com/track/2ysmGZWE33tgH9uWUse085"
+    },
+    {
+      "added_at": "2023-08-05 11:58:21",
+      "album": {
+        "name": "halo",
+        "url": "https://open.spotify.com/album/0tnFLnIqnt052ZMWWiif9M"
+      },
+      "artists": [
+        {
+          "name": "adore",
+          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
+        }
+      ],
+      "duration_ms": 183783,
+      "name": "halo",
+      "url": "https://open.spotify.com/track/3S98DaraI3lEwWBCVaEDnn"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -117,6 +181,22 @@
       "url": "https://open.spotify.com/track/4QgiWkurJSR5fJDn7MYhN9"
     },
     {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Drugs",
+        "url": "https://open.spotify.com/album/72qaQJS17narCyYEW3uIzV"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 224380,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/1Ri9aSg1W3e412PUVvVz0I"
+    },
+    {
       "added_at": "2023-07-28 14:33:00",
       "album": {
         "name": "molecule",
@@ -137,52 +217,44 @@
       "url": "https://open.spotify.com/track/2l2TH1JBclFldTIvs8Usi7"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-08-05 11:58:21",
       "album": {
-        "name": "Estrogen",
-        "url": "https://open.spotify.com/album/0qPh5Xy3MnB213BYGmKCwE"
+        "name": "Partywithyourfriends",
+        "url": "https://open.spotify.com/album/7J54oUwxuTNphowJkVFsqy"
       },
       "artists": [
         {
-          "name": "Knife Girl",
-          "url": "https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L"
+          "name": "Caleb Peters",
+          "url": "https://open.spotify.com/artist/1AaJS5oq6oQMUjd1mpO1t3"
         }
       ],
-      "duration_ms": 218285,
-      "name": "Estrogen",
-      "url": "https://open.spotify.com/track/2ysmGZWE33tgH9uWUse085"
+      "duration_ms": 150909,
+      "name": "Partywithyourfriends",
+      "url": "https://open.spotify.com/track/1mvlbPabXKWjWuQhHQbDD8"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-08-05 11:58:21",
       "album": {
-        "name": "Drugs",
-        "url": "https://open.spotify.com/album/72qaQJS17narCyYEW3uIzV"
+        "name": "time trial",
+        "url": "https://open.spotify.com/album/6122TuApkY2KGQoygdmhDj"
       },
       "artists": [
         {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 224380,
-      "name": "Drugs",
-      "url": "https://open.spotify.com/track/1Ri9aSg1W3e412PUVvVz0I"
-    },
-    {
-      "added_at": "2023-07-28 14:33:00",
-      "album": {
-        "name": "American Terrorist",
-        "url": "https://open.spotify.com/album/5eHaILhsj8cjHNb8PNOnMU"
-      },
-      "artists": [
+          "name": "kimj",
+          "url": "https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw"
+        },
         {
-          "name": "Thoom",
-          "url": "https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5"
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
         }
       ],
-      "duration_ms": 158686,
-      "name": "American Terrorist",
-      "url": "https://open.spotify.com/track/0CUkBj6wxcdUaB0K94frjT"
+      "duration_ms": 172307,
+      "name": "ceres",
+      "url": "https://open.spotify.com/track/7B5jghhgMLovjAKakSb94O"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -249,6 +321,26 @@
       "url": "https://open.spotify.com/track/0ttcGyKnQi73CkBc6qn6Uu"
     },
     {
+      "added_at": "2023-08-05 11:58:21",
+      "album": {
+        "name": "Octopus Baby",
+        "url": "https://open.spotify.com/album/74PJrZYo93kZmUsJxCoH95"
+      },
+      "artists": [
+        {
+          "name": "plastic pet",
+          "url": "https://open.spotify.com/artist/5LhRO5xKEb5FKQfQY0nke6"
+        },
+        {
+          "name": "Aiden Marceron",
+          "url": "https://open.spotify.com/artist/7fEzFVP0ArPjriuTGCJIxf"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Octopus Baby",
+      "url": "https://open.spotify.com/track/0mKLcMI7TXwZ4K0RpHJto7"
+    },
+    {
       "added_at": "2023-07-21 15:27:51",
       "album": {
         "name": "luv at the door",
@@ -279,6 +371,46 @@
       "duration_ms": 137440,
       "name": "Dumbest Girl Alive",
       "url": "https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH"
+    },
+    {
+      "added_at": "2023-06-30 07:33:00",
+      "album": {
+        "name": "sippin' drank",
+        "url": "https://open.spotify.com/album/3tCmrlzxUvLHfah3AS0nv5"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "Wenext",
+          "url": "https://open.spotify.com/artist/3GshitkWGkouULcfjdh9hw"
+        }
+      ],
+      "duration_ms": 147918,
+      "name": "sippin' drank",
+      "url": "https://open.spotify.com/track/5z3eSt81RdTY4e9ZFozrb5"
+    },
+    {
+      "added_at": "2023-08-05 11:58:21",
+      "album": {
+        "name": "Whatsername",
+        "url": "https://open.spotify.com/album/2RY35Nrcr5Q0taKn6dcwbQ"
+      },
+      "artists": [
+        {
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
+        },
+        {
+          "name": "NoTrust",
+          "url": "https://open.spotify.com/artist/0r3DnVZSyBB3P5UbYom47D"
+        }
+      ],
+      "duration_ms": 226616,
+      "name": "Whatsername",
+      "url": "https://open.spotify.com/track/4RAzZIVzqlF1kyOeXW3A4k"
     },
     {
       "added_at": "2023-07-28 14:33:00",
@@ -337,6 +469,22 @@
       "url": "https://open.spotify.com/track/0tKTLYPrzgAyTLtSI7rIt9"
     },
     {
+      "added_at": "2023-08-05 11:58:21",
+      "album": {
+        "name": "PROTECTION CHARM",
+        "url": "https://open.spotify.com/album/72s2UUBqry4E113Txcp5o8"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angeles",
+          "url": "https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "PROTECTION CHARM",
+      "url": "https://open.spotify.com/track/5TTQ10ijO4jwCOfeCxmBmm"
+    },
+    {
       "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "I like u (Dorian Electra Remix)",
@@ -387,26 +535,6 @@
       "duration_ms": 203922,
       "name": "breathe ~_~",
       "url": "https://open.spotify.com/track/3fjr07n0jCIeWmD8qvB03e"
-    },
-    {
-      "added_at": "2023-06-30 07:33:00",
-      "album": {
-        "name": "sippin' drank",
-        "url": "https://open.spotify.com/album/3tCmrlzxUvLHfah3AS0nv5"
-      },
-      "artists": [
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        },
-        {
-          "name": "Wenext",
-          "url": "https://open.spotify.com/artist/3GshitkWGkouULcfjdh9hw"
-        }
-      ],
-      "duration_ms": 147918,
-      "name": "sippin' drank",
-      "url": "https://open.spotify.com/track/5z3eSt81RdTY4e9ZFozrb5"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1623,122 +1751,6 @@
       "duration_ms": 189850,
       "name": "Crimson",
       "url": "https://open.spotify.com/track/5wbJcabQPxly1VtLaJw8xb"
-    },
-    {
-      "added_at": "2023-05-19 12:30:59",
-      "album": {
-        "name": "NOTHING LEFT\\\\\\",
-        "url": "https://open.spotify.com/album/283qeb43YBQdLBVMAUtu8f"
-      },
-      "artists": [
-        {
-          "name": "Zaram",
-          "url": "https://open.spotify.com/artist/4PpjSdoBcpPXn59h9exd0b"
-        },
-        {
-          "name": "Nosgov",
-          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
-        }
-      ],
-      "duration_ms": 111000,
-      "name": "NOTHING LEFT\\\\\\",
-      "url": "https://open.spotify.com/track/208z04AQA3GNNZYJZuOgBZ"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Highland Cow Plushies",
-        "url": "https://open.spotify.com/album/2ytjY6Nfmr62q5RUTpFZWs"
-      },
-      "artists": [
-        {
-          "name": "Glitch Gum",
-          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
-        }
-      ],
-      "duration_ms": 155840,
-      "name": "Highland Cow Plushies",
-      "url": "https://open.spotify.com/track/3eUwn1MamssECHjvZYOw7C"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "stuck. run.",
-        "url": "https://open.spotify.com/album/29rgPdffcUCuKzL8Lr2kqL"
-      },
-      "artists": [
-        {
-          "name": "HARRY WAS HERE",
-          "url": "https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP"
-        }
-      ],
-      "duration_ms": 121542,
-      "name": "run.",
-      "url": "https://open.spotify.com/track/1X79enT3K3iwV07pijn836"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "stalemate",
-        "url": "https://open.spotify.com/album/5LOMbBrt4rGcnA817IOR02"
-      },
-      "artists": [
-        {
-          "name": "Musa",
-          "url": "https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "stalemate",
-      "url": "https://open.spotify.com/track/2VxcmtI9Pni94K3wBeJkDJ"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Codependent",
-        "url": "https://open.spotify.com/album/1ZhfgXezmD1aUFrUjt6hnl"
-      },
-      "artists": [
-        {
-          "name": "Glitch Gum",
-          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
-        }
-      ],
-      "duration_ms": 169704,
-      "name": "Codependent",
-      "url": "https://open.spotify.com/track/6XwlCj9JMf0JRXku4x9hxt"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "brainfreeze",
-        "url": "https://open.spotify.com/album/5MDmvBCWLgiKxbP27Iixjp"
-      },
-      "artists": [
-        {
-          "name": "torr",
-          "url": "https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m"
-        }
-      ],
-      "duration_ms": 112722,
-      "name": "brainfreeze",
-      "url": "https://open.spotify.com/track/3xrgxsAR0xNqSgSsQHHfWe"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "i feel like a dog",
-        "url": "https://open.spotify.com/album/0owUk0b5tnYYVcvQz6zTo5"
-      },
-      "artists": [
-        {
-          "name": "meat computer",
-          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
-        }
-      ],
-      "duration_ms": 85076,
-      "name": "i feel like a dog",
-      "url": "https://open.spotify.com/track/5fMzsDRT8cHtZ1R9aLiYAZ"
     }
   ],
   "unique_name": "hyperpop",

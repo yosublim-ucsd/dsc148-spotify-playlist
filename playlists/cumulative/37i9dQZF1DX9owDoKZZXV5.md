@@ -4,14 +4,15 @@
 
 > Welcome to the Hope World! 💜
 
-28 songs - 1 hr 18 min
+29 songs - 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [= \(Equal Sign\)](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 1:54 | 2022-07-15 |  |
 | [A Song Make to You Smile](https://open.spotify.com/track/5blZcMwtCrPa7bp7lMBiTt) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Hareem](https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20) | [The Project](https://open.spotify.com/album/5ccCV9iNxUARYLfWDzALWn) | 3:09 | 2023-07-20 |  |
 | [Airplane](https://open.spotify.com/track/2jk6oBuLiCZJTDWhlJEzIw) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 3:17 | 2022-07-09 |  |
-| [Animal \(feat\. 정호석 Of 방탄소년단\)](https://open.spotify.com/track/40oks8fZ9XdDeJyuI44yCf) | [JO KWON](https://open.spotify.com/artist/1hJ6EZjb0pnvPeBdzulrUr) | [I'm Da One](https://open.spotify.com/album/0dsK6yub3rsqQLYaO7TDqf) | 3:22 | 2023-05-25 |  |
+| [Animal](https://open.spotify.com/track/6idjdo9ya87si2JI5OdbXc) | [JO KWON](https://open.spotify.com/artist/1hJ6EZjb0pnvPeBdzulrUr), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [I'm Da One](https://open.spotify.com/album/3Ds62hZPPPtvWgLDQLo5lD) | 3:22 | 2023-07-20 |  |
+| [Animal \(feat\. 정호석 Of 방탄소년단\)](https://open.spotify.com/track/40oks8fZ9XdDeJyuI44yCf) | [JO KWON](https://open.spotify.com/artist/1hJ6EZjb0pnvPeBdzulrUr) | [I'm Da One](https://open.spotify.com/album/0dsK6yub3rsqQLYaO7TDqf) | 3:22 | 2023-05-25 | 2023-08-06 |
 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-15 |  |
 | [Base Line](https://open.spotify.com/track/3eSCPt6StovDAIps2XhZ2Z) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 1:29 | 2022-07-09 |  |
 | [Blue Side](https://open.spotify.com/track/1nwdfbj4UyRMpa9L98a4Yi) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Blue Side](https://open.spotify.com/album/1PwHmb34vUnPLJp3vSLKed) | 3:18 | 2023-05-20 |  |

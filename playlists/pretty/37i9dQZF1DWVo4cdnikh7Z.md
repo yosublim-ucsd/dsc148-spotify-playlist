@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Jailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,630 likes - 54 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,269 likes - 54 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 11 | [Rathamaarey](https://open.spotify.com/track/0NAUzrHSWZwDCFsAT5fBV4) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 4:12 |
 | 12 | [Jawan Prevue Theme](https://open.spotify.com/track/29Lsdm869Qk82RS5he08R4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Jawan Prevue Theme](https://open.spotify.com/album/2bE8aLgWEZkHvTRhosPwmC) | 2:07 |
 | 13 | [Naamadhan Raja \- From "Lucky Man"](https://open.spotify.com/track/0MiHiYzNAU6fkYdJoAXrlt) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU) | [Naamadhan Raja \(From "Lucky Man"\)](https://open.spotify.com/album/4o2MdH8AUqk8H3qWUfTy0S) | 3:55 |
-| 14 | [Kekkutha \(Boat Fight Song\)](https://open.spotify.com/track/4qbTgqlPEPYv6sMCOpcwjV) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Prashanth Mohanasundaram](https://open.spotify.com/artist/7yi4LUXW1RzywCmSphVLcI) | [Maaveeran](https://open.spotify.com/album/4raAEtLCQP5cIWpkAJlxmG) | 2:27 |
+| 14 | [Kekkutha \(Boat Fight Song\)](https://open.spotify.com/track/2iUQCrWugPAS4jsMX6GsN2) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Prashanth Mohanasundaram](https://open.spotify.com/artist/7yi4LUXW1RzywCmSphVLcI), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Maaveeran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18IiryUOWnQBk58WpYTLnd) | 2:27 |
 | 15 | [French Kuthu](https://open.spotify.com/track/7pKo8F4MS6XRC63XlU72Qj) | [ofRO,Gana Muthu](https://open.spotify.com/artist/5LTgrp8cYZxxhBCZQLL5Lw) | [DD Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15jO3bBmBGQs51Q2TmQshe) | 3:50 |
 | 16 | [Hi Nanna Glimpse Music \(TAMIL\)](https://open.spotify.com/track/4tVQqB4xnIueaZPrb6SvZh) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Hi Nanna Glimpse Music \(TAMIL\)](https://open.spotify.com/album/6PbP0IXgQcRYckQvAhfrNS) | 1:20 |
 | 17 | [Eer Uravugal \(From "LGM"\)](https://open.spotify.com/track/0depHQU3XmxAEB4qbEEcF4) | [Ramesh Thamilmani](https://open.spotify.com/artist/1DPRhvqBKE7SL5QJJmK08W), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Nithyashree Venkataramanan](https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP) | [Eer Uravugal \(From "LGM"\)](https://open.spotify.com/album/1x5iKnTmef1g4K5NNCfqZM) | 4:03 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 53 | [Vaa Vaathi \(Dhanush Reprise Version\)](https://open.spotify.com/track/43bgjI3ZddPJsu3JvNmYui) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Vaathi](https://open.spotify.com/album/4cp0WC1sFQfAKOnw0VjfMB) | 3:43 |
 | 54 | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/track/4lCJO8QeKIkU2um1z5NBb9) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl) | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/album/7mKc9SHsbYiAoDODfFqqZo) | 2:48 |
 
-Snapshot ID: `MCw2YTM1NmQzNDViNTYzOGE1YzUxMzZkZTNmYWI3MmVjM2ViYmM5Y2Y4`
+Snapshot ID: `MCw0YjczMmJhOGYyOTc1OGJiMDJlYThhNWY0Mzc4ZDMyMTRiODVkYjI4`

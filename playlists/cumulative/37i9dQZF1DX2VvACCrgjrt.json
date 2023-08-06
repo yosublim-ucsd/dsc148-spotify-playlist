@@ -2872,7 +2872,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 190560,
       "name": "Drop The Mic",
       "url": "https://open.spotify.com/track/1evrJzFWcnE3aVVgrv9VV8"
@@ -3192,6 +3192,32 @@
       "duration_ms": 161250,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/2rERUk5OXyi7VClesHrjHO"
+    },
+    {
+      "album": {
+        "name": "Find My Way",
+        "url": "https://open.spotify.com/album/1hpiUpq67G7Y2aj5K9YCfX"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Leone (IT)",
+          "url": "https://open.spotify.com/artist/6zPCGqSL5ALIAZ8bbRU0b7"
+        },
+        {
+          "name": "Haas",
+          "url": "https://open.spotify.com/artist/4IPYJLyaOR6FkoiLtHcUIu"
+        },
+        {
+          "name": "Kris Kiss",
+          "url": "https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230551,
+      "name": "Find My Way",
+      "url": "https://open.spotify.com/track/1xRbnHh3GidD6vzuOrTQeT"
     },
     {
       "album": {

@@ -34619,6 +34619,28 @@
     },
     {
       "album": {
+        "name": "Lilac",
+        "url": "https://open.spotify.com/album/0PMzylqRDMWeRmlw4mTfmc"
+      },
+      "artists": [
+        {
+          "name": "Monma",
+          "url": "https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym"
+        },
+        {
+          "name": "Oh, My.",
+          "url": "https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Lilac",
+      "url": "https://open.spotify.com/track/7LaS9QWfFdYjdOQ7tlZPR8"
+    },
+    {
+      "album": {
         "name": "The Crucible",
         "url": "https://open.spotify.com/album/7CqhUdzJZzxFwvaogHVdv2"
       },
@@ -47086,7 +47108,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 126710,
       "name": "Pearl",
       "url": "https://open.spotify.com/track/6eL9kDAfdx6s9oa16tXwz3"

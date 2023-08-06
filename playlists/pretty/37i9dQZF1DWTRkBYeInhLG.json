@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 436906,
+  "num_followers": 437134,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmVhODAxODk0NDUxZDBkZjg0NTIzNDQwN2I2N2E2YTY4NjRkOGU1",
+  "snapshot_id": "MCxhMGM4YmFlYmVhYzc4MWU1ZmFjYmQ0YzUxZGJiMjQ1YWIyMDEzMTBh",
   "tracks": [
     {
       "added_at": "2023-08-02 06:18:47",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
+        "name": "Walk The Talk",
+        "url": "https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 207937,
+      "name": "Kenangan Manis",
+      "url": "https://open.spotify.com/track/1tS1dRfxIV9FzqdYTbJgMn"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
         "name": "Tempat Aku Pulang",
         "url": "https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 325946,
       "name": "Waktu Yang Salah",
       "url": "https://open.spotify.com/track/4qgIQcskrvj6nlypTvBm5k"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
-        "name": "Walk The Talk",
-        "url": "https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 207937,
-      "name": "Kenangan Manis",
-      "url": "https://open.spotify.com/track/1tS1dRfxIV9FzqdYTbJgMn"
     },
     {
       "added_at": "2023-08-02 06:18:47",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
-        "name": "Konspirasi Alam Semesta",
-        "url": "https://open.spotify.com/album/5pJVObCUAQ0mcEgV3Rrtji"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        }
-      ],
-      "duration_ms": 213236,
-      "name": "Garis Terdepan",
-      "url": "https://open.spotify.com/track/7vbZI0mSwt6rpsnAoAAUns"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
         "name": "Kereta Kencan",
         "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
+        "name": "Konspirasi Alam Semesta",
+        "url": "https://open.spotify.com/album/5pJVObCUAQ0mcEgV3Rrtji"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        }
+      ],
+      "duration_ms": 213236,
+      "name": "Garis Terdepan",
+      "url": "https://open.spotify.com/track/7vbZI0mSwt6rpsnAoAAUns"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
         "name": "Ego & Fungsi Otak",
         "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
       },
@@ -791,8 +791,8 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
-        "name": "Tulus",
-        "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
+        "name": "Labirin",
+        "url": "https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr"
       },
       "artists": [
         {
@@ -800,25 +800,9 @@
           "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
         }
       ],
-      "duration_ms": 222893,
-      "name": "Teman Hidup",
-      "url": "https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
-        "name": "Tempat Aku Pulang",
-        "url": "https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        }
-      ],
-      "duration_ms": 263746,
-      "name": "April",
-      "url": "https://open.spotify.com/track/3IesVVqYxCsRCsz5OCmC7q"
+      "duration_ms": 182656,
+      "name": "Labirin",
+      "url": "https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8"
     },
     {
       "added_at": "2023-08-02 06:18:47",
@@ -835,6 +819,22 @@
       "duration_ms": 279998,
       "name": "Siapkah Kau 'Tuk Jatuh Cinta Lagi",
       "url": "https://open.spotify.com/track/1uF0XYWWeoWEWipY855GxT"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
+        "name": "RAN For Your Life",
+        "url": "https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "Pandangan Pertama",
+      "url": "https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR"
     },
     {
       "added_at": "2023-08-02 06:18:47",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
+        "name": "Tempat Aku Pulang",
+        "url": "https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        }
+      ],
+      "duration_ms": 263746,
+      "name": "April",
+      "url": "https://open.spotify.com/track/3IesVVqYxCsRCsz5OCmC7q"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 186933,
       "name": "Jikalau",
       "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
-        "name": "RAN For Your Life",
-        "url": "https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8"
-      },
-      "artists": [
-        {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
-        }
-      ],
-      "duration_ms": 300693,
-      "name": "Pandangan Pertama",
-      "url": "https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR"
     },
     {
       "added_at": "2023-08-02 06:18:47",
@@ -935,8 +935,8 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
-        "name": "Labirin",
-        "url": "https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr"
+        "name": "Tulus",
+        "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
       },
       "artists": [
         {
@@ -944,25 +944,9 @@
           "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
         }
       ],
-      "duration_ms": 182656,
-      "name": "Labirin",
-      "url": "https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
-        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
-      },
-      "artists": [
-        {
-          "name": "Banda Neira",
-          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
-        }
-      ],
-      "duration_ms": 393072,
-      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
+      "duration_ms": 222893,
+      "name": "Teman Hidup",
+      "url": "https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ"
     },
     {
       "added_at": "2023-08-02 06:18:47",
@@ -979,6 +963,22 @@
       "duration_ms": 249503,
       "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
       "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
+        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
+      },
+      "artists": [
+        {
+          "name": "Banda Neira",
+          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
+        }
+      ],
+      "duration_ms": 393072,
+      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
     },
     {
       "added_at": "2023-08-02 06:18:47",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
-        "name": "Peace, Love And Respect",
-        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
-      },
-      "artists": [
-        {
-          "name": "Gigi",
-          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "11 Januari",
-      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
         "name": "Kedua",
         "url": "https://open.spotify.com/album/4pvGf4ImdWsNYSLIci5SP7"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 241631,
       "name": "Tentang Rindu",
       "url": "https://open.spotify.com/track/0Xu6oMOzyXykITJNfC2dsq"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
+        "name": "Peace, Love And Respect",
+        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
+      },
+      "artists": [
+        {
+          "name": "Gigi",
+          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "11 Januari",
+      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
     },
     {
       "added_at": "2023-08-02 06:18:47",

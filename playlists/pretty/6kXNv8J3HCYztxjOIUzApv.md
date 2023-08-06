@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 
 > Rock out while you work out! Follow for updates!
 
-[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 59,007 likes - 162 songs - 10 hr 21 min
+[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 59,002 likes - 164 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,5 +170,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 | 160 | [I Hate Everything About You](https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace](https://open.spotify.com/album/13topfW33NjnACjnRiZBX7) | 3:51 |
 | 161 | [Evil World Machine \- Extended](https://open.spotify.com/track/2p5Ky0BG9HqB3PoVrxoP5l) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd) | [Evil World Machine \(Extended\)](https://open.spotify.com/album/6ok2I9TtRAY9gaHJNUIQpI) | 6:10 |
 | 162 | [Roses](https://open.spotify.com/track/3q3faMChxzP9nSgVt7TUs8) | [TEMPT](https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk) | [Roses](https://open.spotify.com/album/1lc7xhA7TwSwxO7TLoJqRP) | 3:21 |
+| 163 | [Unstoppable \(feat\. Cory Marks\)](https://open.spotify.com/track/3MWCJZybLRQ0skDYnSP1Ze) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Unstoppable \(feat\. Cory Marks\)](https://open.spotify.com/album/6cAguc6Xmqh9KmaLiTiFRp) | 3:06 |
+| 164 | [Generation Psycho](https://open.spotify.com/track/77UBXLVoE90TpVmUKsgjGx) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Generation Psycho](https://open.spotify.com/album/6env54gj95TlpdQEMDXRKk) | 3:49 |
 
-Snapshot ID: `MjAyMSw1NjRlMTM3MWQ3MTlmOWFlY2ZmYjQ3OWUxOGEwNzRmOTRmMGVkMzg1`
+Snapshot ID: `MjAyMyxhNTRjNzllYmJhM2EyZjhhOGIwNjk0MjgyZGFlODFjNzgzZDNhMjE3`

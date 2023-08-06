@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 34215,
+  "num_followers": 34253,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWQxMTlhZDI2ZTQ4YjE1MzZiNWMwNGY1NjE3MDBjZGE0YmRhNGMx",
+  "snapshot_id": "MCwzNzIwZDdiYTE4NDBlMDBhZTlmN2EyMDBhMzk2YjQxYzNkZTgyYjVh",
   "tracks": [
     {
       "added_at": "2023-07-27 22:01:00",
@@ -91,42 +91,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 144375,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Who You",
-        "url": "https://open.spotify.com/album/4vwgBge6JFZbVCT6Y9OXbn"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 205325,
-      "name": "Who You",
-      "url": "https://open.spotify.com/track/3xPD3JXD8Uni1xcDKo5KJb"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Tell Me How",
         "url": "https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv"
       },
@@ -151,18 +115,38 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Sunday Monday",
-        "url": "https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq"
+        "name": "Who You",
+        "url": "https://open.spotify.com/album/4vwgBge6JFZbVCT6Y9OXbn"
       },
       "artists": [
         {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
         }
       ],
-      "duration_ms": 147096,
-      "name": "Sunday Monday",
-      "url": "https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx"
+      "duration_ms": 205325,
+      "name": "Who You",
+      "url": "https://open.spotify.com/track/3xPD3JXD8Uni1xcDKo5KJb"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 144375,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -179,6 +163,22 @@
       "duration_ms": 210000,
       "name": "King",
       "url": "https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Sunday Monday",
+        "url": "https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq"
+      },
+      "artists": [
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Sunday Monday",
+      "url": "https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 239021,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "LIFTED",
         "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 183460,
       "name": "Lights Go Down (with SIDEPIECE)",
       "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 239021,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul"
-      },
-      "artists": [
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        },
-        {
-          "name": "Eloi El",
-          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
-        }
-      ],
-      "duration_ms": 139010,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Where did you go",
         "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 168000,
       "name": "Where did you go",
       "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul"
+      },
+      "artists": [
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Eloi El",
+          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
+        }
+      ],
+      "duration_ms": 139010,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -759,6 +759,26 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Never Give Up On You",
+        "url": "https://open.spotify.com/album/5SxcIZ1qmurQOKL7Io5xCa"
+      },
+      "artists": [
+        {
+          "name": "Ryan Shepherd",
+          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
+        },
+        {
+          "name": "Georgi Kay",
+          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
+        }
+      ],
+      "duration_ms": 216538,
+      "name": "Never Give Up On You",
+      "url": "https://open.spotify.com/track/2gsB29hjEctVqLCtg7HsQS"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Bloom (nowifi Remix)",
         "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
       },
@@ -783,22 +803,18 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Never Give Up On You",
-        "url": "https://open.spotify.com/album/5SxcIZ1qmurQOKL7Io5xCa"
+        "name": "The Sea",
+        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
       },
       "artists": [
         {
-          "name": "Ryan Shepherd",
-          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
-        },
-        {
-          "name": "Georgi Kay",
-          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
         }
       ],
-      "duration_ms": 216538,
-      "name": "Never Give Up On You",
-      "url": "https://open.spotify.com/track/2gsB29hjEctVqLCtg7HsQS"
+      "duration_ms": 190720,
+      "name": "The Sea",
+      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -819,22 +835,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "The Sea",
-        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "The Sea",
-      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/2MlZjUB8aDVyhWPwEXn99T"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 141371,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Botanica",
+        "url": "https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81"
+      },
+      "artists": [
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 187377,
+      "name": "Botanica",
+      "url": "https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -871,42 +887,6 @@
       "duration_ms": 169048,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Botanica",
-        "url": "https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81"
-      },
-      "artists": [
-        {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
-        }
-      ],
-      "duration_ms": 187377,
-      "name": "Botanica",
-      "url": "https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "My Darling",
-        "url": "https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq"
-      },
-      "artists": [
-        {
-          "name": "Junerule",
-          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
-        },
-        {
-          "name": "AUGUSTKID",
-          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -951,26 +931,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq"
       },
       "artists": [
         {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+          "name": "Junerule",
+          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
         },
         {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+          "name": "AUGUSTKID",
+          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
         }
       ],
-      "duration_ms": 127021,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
+      "duration_ms": 174193,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -995,6 +971,30 @@
       "duration_ms": 178909,
       "name": "Madness",
       "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 127021,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X"
+      },
+      "artists": [
+        {
+          "name": "W\u00e4nderlost",
+          "url": "https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb"
+        },
+        {
+          "name": "MEDEIA",
+          "url": "https://open.spotify.com/artist/0uR3roDczoaOss4Ro7D30s"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Free Falling Love",
         "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
       },
@@ -1159,22 +1179,18 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Take Me",
-        "url": "https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X"
+        "name": "Waiting All My Life",
+        "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
       },
       "artists": [
         {
-          "name": "W\u00e4nderlost",
-          "url": "https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb"
-        },
-        {
-          "name": "MEDEIA",
-          "url": "https://open.spotify.com/artist/0uR3roDczoaOss4Ro7D30s"
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
         }
       ],
-      "duration_ms": 136800,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs"
+      "duration_ms": 193548,
+      "name": "Waiting All My Life",
+      "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1203,18 +1219,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Waiting All My Life",
-        "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
+        "name": "Escaping",
+        "url": "https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn"
       },
       "artists": [
         {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+          "name": "Bellestar",
+          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
+        },
+        {
+          "name": "Urban Love",
+          "url": "https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7"
         }
       ],
-      "duration_ms": 193548,
-      "name": "Waiting All My Life",
-      "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
+      "duration_ms": 164000,
+      "name": "Escaping",
+      "url": "https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1235,26 +1255,6 @@
       "duration_ms": 161463,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/3UPFrg3idbxRnMHx7zhvlA"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Escaping",
-        "url": "https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn"
-      },
-      "artists": [
-        {
-          "name": "Bellestar",
-          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
-        },
-        {
-          "name": "Urban Love",
-          "url": "https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Escaping",
-      "url": "https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR"
     },
     {
       "added_at": "2023-07-27 22:01:00",

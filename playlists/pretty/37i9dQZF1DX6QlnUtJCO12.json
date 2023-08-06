@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 38670,
+  "num_followers": 38726,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjI2MjA3YmQ3NTM2OGQzMWYzYWZlZWVhOTNiYjJmMzI2NDUxYmE3",
+  "snapshot_id": "MCxkYWRhOTdhZjM3MTU3NTY5MGExZjQ4M2U0MDQxOWU1YzI3MDkwYmY3",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -327,22 +327,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "The Calypso Way",
-        "url": "https://open.spotify.com/album/3qLnHdkHnsJlg3YRA9xeWR"
-      },
-      "artists": [
-        {
-          "name": "Wilmoth Houdini",
-          "url": "https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Poor but Ambitious",
-      "url": "https://open.spotify.com/track/1yKL15Ahp2TD4SN0n2Jfhf"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypso Legends - Mighty Panther / Macbeth the Great (1953 - 1956)",
         "url": "https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 149093,
       "name": "Mister Give Me de Rent",
       "url": "https://open.spotify.com/track/0TYdFe0dwxgZUOeBkeddxD"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "The Calypso Way",
+        "url": "https://open.spotify.com/album/3qLnHdkHnsJlg3YRA9xeWR"
+      },
+      "artists": [
+        {
+          "name": "Wilmoth Houdini",
+          "url": "https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Poor but Ambitious",
+      "url": "https://open.spotify.com/track/1yKL15Ahp2TD4SN0n2Jfhf"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -375,22 +375,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypsonians (1930 - 1960), Vol.1",
-        "url": "https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo"
-      },
-      "artists": [
-        {
-          "name": "The Tiger",
-          "url": "https://open.spotify.com/artist/6FiS31AoA7Y5WJhDu282C8"
-        }
-      ],
-      "duration_ms": 179773,
-      "name": "Money Is King",
-      "url": "https://open.spotify.com/track/4QV64XiqdMv1034h8Csp2X"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Muriel's Treasure, Vol. 3: Vintage Calypso from the 1950s & 1960s",
         "url": "https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 174325,
       "name": "Bamboo Dance",
       "url": "https://open.spotify.com/track/2HExVDuofulaTYOEKqBo4c"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypsonians (1930 - 1960), Vol.1",
+        "url": "https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo"
+      },
+      "artists": [
+        {
+          "name": "The Tiger",
+          "url": "https://open.spotify.com/artist/6FiS31AoA7Y5WJhDu282C8"
+        }
+      ],
+      "duration_ms": 179773,
+      "name": "Money Is King",
+      "url": "https://open.spotify.com/track/4QV64XiqdMv1034h8Csp2X"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD"
         }
       ],
-      "duration_ms": 317720,
-      "name": "Illegitimate Children",
-      "url": "https://open.spotify.com/track/3VAJsSxUc0n4HKwndXZb87"
+      "duration_ms": 403800,
+      "name": "Move Yuh Foot",
+      "url": "https://open.spotify.com/track/5q2F1S4m2b85HpJOOl2KDQ"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD"
         }
       ],
-      "duration_ms": 403800,
-      "name": "Move Yuh Foot",
-      "url": "https://open.spotify.com/track/5q2F1S4m2b85HpJOOl2KDQ"
+      "duration_ms": 317720,
+      "name": "Illegitimate Children",
+      "url": "https://open.spotify.com/track/3VAJsSxUc0n4HKwndXZb87"
     },
     {
       "added_at": "2021-04-23 15:05:50",

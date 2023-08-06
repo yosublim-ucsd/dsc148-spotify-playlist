@@ -1,12 +1,12 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 211544,
+  "num_followers": 211892,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmY3OTBiZDFjZjQ4MWY3MTkwNDMyZmIwMzZlYmNmNzlkZjA0Y2Jj",
+  "snapshot_id": "MCw2MTFlNjdkYmIyY2QwNWM1OWVjYzdlZjk5NGI0NGU2ZjhiNDg4Zjc1",
   "tracks": [
     {
       "added_at": "2022-10-12 15:41:51",
@@ -517,26 +517,6 @@
       "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
     },
     {
-      "added_at": "2022-10-12 15:41:51",
-      "album": {
-        "name": "We Love The Sun (Edit)",
-        "url": "https://open.spotify.com/album/06gDDBE93L3Wrbm4ALVVCt"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Jo.Ke",
-          "url": "https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7"
-        }
-      ],
-      "duration_ms": 256995,
-      "name": "Who Loves The Sun feat. Jo.Ke - Edit",
-      "url": "https://open.spotify.com/track/5ObMLQkrprMky3fuOCnFmW"
-    },
-    {
       "added_at": "2023-01-04 00:26:00",
       "album": {
         "name": "Les Gout",
@@ -559,6 +539,26 @@
       "duration_ms": 344000,
       "name": "Les Gout",
       "url": "https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3"
+    },
+    {
+      "added_at": "2022-10-12 15:41:51",
+      "album": {
+        "name": "We Love The Sun (Edit)",
+        "url": "https://open.spotify.com/album/06gDDBE93L3Wrbm4ALVVCt"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Jo.Ke",
+          "url": "https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7"
+        }
+      ],
+      "duration_ms": 256995,
+      "name": "Who Loves The Sun feat. Jo.Ke - Edit",
+      "url": "https://open.spotify.com/track/5ObMLQkrprMky3fuOCnFmW"
     },
     {
       "added_at": "2022-10-12 15:41:51",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-10-12 15:41:51",
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae"
-      },
-      "artists": [
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 157910,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1"
-    },
-    {
-      "added_at": "2022-10-12 15:41:51",
-      "album": {
         "name": "Soul Sacrifice",
         "url": "https://open.spotify.com/album/4l96ykvJ6wobEk9uyCDg5a"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 232211,
       "name": "Soul Sacrifice",
       "url": "https://open.spotify.com/track/4vEHTE0TocuaKZqiSq0UIS"
+    },
+    {
+      "added_at": "2022-10-12 15:41:51",
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 157910,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1"
     },
     {
       "added_at": "2022-10-12 15:41:51",

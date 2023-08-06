@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Nicky Jam, Maluma & The Chainsmokers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,734,625 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,734,669 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 49 | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a) | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv) | 3:25 |
 | 50 | [Encadenados](https://open.spotify.com/track/7E2tioPhEkj7BjmIqsa5LM) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Encadenados](https://open.spotify.com/album/4ctyfYDZy5hm3oaiwBYvJo) | 7:24 |
 
-Snapshot ID: `MCxmZjQ0MTE3NGJjMDIxNDNlMWMyZTRiOGEwZDhiM2VjN2JlNmZkNmI2`
+Snapshot ID: `MCxhYWQ1YzkxMGE4OThkNzNjY2UxZDllNTViOGUwYjNiM2Q5NmVjZjVi`

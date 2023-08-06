@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu?si=3\-MXJaS0SAu1k0Q7du85NQ">Festizie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,526 likes - 90 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,589 likes - 90 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 89 | [Hallelujah](https://open.spotify.com/track/5gxwpljatAEHLcSZp8s8pL) | [Jaycee Manny](https://open.spotify.com/artist/7G7e40XZe3ApXZyrqjlhlA) | [Hallelujah](https://open.spotify.com/album/1CgQ0Q18Qcv7qc1DgxnrCO) | 2:45 |
 | 90 | [Faithful](https://open.spotify.com/track/5Qho7jkzBtLRMMQJ6BiGfP) | [Raphael Homb](https://open.spotify.com/artist/6fOmeY3Wlej90vLEtEyDjG), [Wimeikit](https://open.spotify.com/artist/2tttNrmoTPumuRf2aHSnfj) | [Faithful](https://open.spotify.com/album/0busJxgn0qKjn4ezY8fBIN) | 3:30 |
 
-Snapshot ID: `MCxlNjg5MWM5YjU4OTQxZWM0NTRmMDczZWM4YTgxYThiYTg5OWI5ZjY3`
+Snapshot ID: `MCxkYzIxMmIzNDU1YTU0MDQ3MjFjYjVkMDY5NTI5NTUzMWViNDJhY2M0`

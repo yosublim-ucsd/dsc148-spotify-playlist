@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-724 songs - 1 day 12 hr 27 min
+725 songs - 1 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Aynen Öyle](https://open.spotify.com/track/2AwLtOEK3qqZlYTPdBFhke) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Aynen Öyle](https://open.spotify.com/album/1Lp0ckfAeugrkLWr3zde68) | 2:33 | 2021-09-10 | 2022-01-23 |
 | [Ağlattın](https://open.spotify.com/track/0MH7sKCOu2bk8RSbC6GAP7) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağlattın](https://open.spotify.com/album/4sruFA5F7yG1sYAs5lcI9z) | 3:00 | 2022-02-12 | 2022-04-13 |
 | [Ağlaya Ağlaya](https://open.spotify.com/track/6TnN1PLNMaIBvnUB8mdVT1) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Ağlaya Ağlaya](https://open.spotify.com/album/7fm45WtDtRH4ucgurU9BW0) | 3:24 | 2022-11-08 | 2023-03-18 |
-| [AĞZI BOZUK](https://open.spotify.com/track/2Y2D4vvx4SMOYfQaxSZEQz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [AĞZI BOZUK](https://open.spotify.com/album/3v13HnGtldjB9MeHt9nwEN) | 2:06 | 2023-07-29 |  |
+| [AĞZI BOZUK](https://open.spotify.com/track/2Y2D4vvx4SMOYfQaxSZEQz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [AĞZI BOZUK](https://open.spotify.com/album/3v13HnGtldjB9MeHt9nwEN) | 2:06 | 2023-07-29 | 2023-08-06 |
 | [Aşk Olsun](https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Aşk Olsun](https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7) | 2:21 | 2023-06-10 |  |
 | [Aşk Sadece Anlayana](https://open.spotify.com/track/62nygHWpn3wLwnZmJ8keVs) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Aşk Sadece Anlayana](https://open.spotify.com/album/77Mq4lxs2TAQi4goqZgEaK) | 2:01 | 2022-05-14 | 2022-12-04 |
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/3UPrUZ9mJWEPjXzgF7GS8f) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Yaşım Çocuk](https://open.spotify.com/album/6xXxBbSVqa27Wsk04DacTb) | 3:43 | 2022-01-10 | 2022-02-03 |
@@ -293,6 +293,7 @@
 | [Gönder Gelsin](https://open.spotify.com/track/00qZC0FlaCP0BiefyKDqnt) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gönder Gelsin](https://open.spotify.com/album/2sSQdOlLIFPJPxXJPtTJgR) | 2:47 | 2021-06-24 | 2021-07-04 |
 | [GÖNDER GELSİN](https://open.spotify.com/track/6zUeLNZHEzENd8ts4V9yj2) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:06 | 2022-03-20 | 2022-08-06 |
 | [Göremediğin](https://open.spotify.com/track/2ZDj6yB2AnATAciTurevZd) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Berk Erdemanar](https://open.spotify.com/artist/6JDTOIram8oMZVaF3GZPyw), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Paradoks](https://open.spotify.com/album/4H5WUnotu7FGuDVhQhophq) | 3:37 | 2022-05-14 | 2022-05-21 |
+| [Görmem Böylesini](https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Görmem Böylesini](https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0) | 3:12 | 2023-08-05 |  |
 | [Görmezden](https://open.spotify.com/track/64u38QYMmNcnkfXWrSIB9P) | [Kerem Keskin](https://open.spotify.com/artist/3arLmUZFNojh7xyCLwrzAb) | [Görmezden](https://open.spotify.com/album/5sOuVlv4DQWuRIx6Ne1MVB) | 2:49 | 2023-05-30 | 2023-06-06 |
 | [GÖRÜN NE HALİNİZ VARSA](https://open.spotify.com/track/0GpwiBOL0bNvkouVvUoBZf) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:05 | 2022-03-20 | 2022-03-26 |
 | [Gözler](https://open.spotify.com/track/3Hvn1ASL6A9m921Y99Hdm4) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Gözler](https://open.spotify.com/album/3cXZMVNUyIrwOPIJZ94Ic1) | 2:24 | 2022-04-12 | 2022-06-05 |

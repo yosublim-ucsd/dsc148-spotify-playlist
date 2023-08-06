@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 
 > Pop hits in the making! Cover: Tones And I
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,615 likes - 81 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,671 likes - 81 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 | 80 | [Flight Risk](https://open.spotify.com/track/368mOZ4hV8aacFU4XN0vLe) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Flight Risk](https://open.spotify.com/album/1y6mVjHSk1LgscbN30ghnV) | 3:19 |
 | 81 | [Atmosphere](https://open.spotify.com/track/5RLXorPT049PXrZhVUS7RK) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Atmosphere](https://open.spotify.com/album/03fvTmdZAQc5UO9ddnLf82) | 3:14 |
 
-Snapshot ID: `MCxlMzU4ZjRhZTk1MjllYzFjYjA0YmIyNjVkYzUyMTE3MzEwMDYxOGFl`
+Snapshot ID: `MCxjZTkxNjIzOWYyZWU3ZmMyNjIwNTJkNmE1YWViOWYxMDk4OWJmYjYy`

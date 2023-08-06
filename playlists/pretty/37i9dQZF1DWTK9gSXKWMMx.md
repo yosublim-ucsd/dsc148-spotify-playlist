@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTK9gSXKWMMx.md) - [plain]
 
 > Sit back and relax to the smooth sound of blues piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,710 likes - 52 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,734 likes - 52 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTK9gSXKWMMx.md) - [plain]
 | 51 | [Chris' Blues](https://open.spotify.com/track/10jhOfCNVBAsuuiTmhipzq) | [Christian Rannenberg](https://open.spotify.com/artist/0FXwEMAkZkvmLPeIl57OtB) | [Blues](https://open.spotify.com/album/7neO63jZj32xSLnSSa25Z5) | 4:35 |
 | 52 | [Blues for Bess](https://open.spotify.com/track/5bthPT5YTO4dwGN7ED7P4n) | [Simon Armitage](https://open.spotify.com/artist/25D5tU7Ij8L6xJZLKf8dL8) | [Blues for Bess](https://open.spotify.com/album/45yeznjSg2byHkZ5ibBP98) | 1:46 |
 
-Snapshot ID: `MCwyNTZhNDU3Mzg5YmY1ZTBjNWRmMmJhNjg3YTA4NzgyODM1MWVhNjdj`
+Snapshot ID: `MCwzNDg4MGY0MGFkMjdjMWYxYmI0YTFlNjNhMTllNTUwOGZiMDU5MmM3`

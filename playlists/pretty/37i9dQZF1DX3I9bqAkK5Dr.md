@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,425 likes - 76 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,451 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vellake](https://open.spotify.com/track/2cDyQDAoP0cPQXzaviXu2f) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vellake](https://open.spotify.com/album/5wJ35PHDoH8sL0C74s4fQL) | 3:37 |
 | 2 | [Raane Raava](https://open.spotify.com/track/02sEnHsPSSlyxdRzxpqOJg) | [Siddharth Tanuku](https://open.spotify.com/artist/6CEaNdvNoW4WAOQU8Y616N), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Sindhuja Tanuku](https://open.spotify.com/artist/6MFgsuRbk8fELevIMJWFQr) | [Raane Raava](https://open.spotify.com/album/56HGf8gQ64AIT8I1pEKwIX) | 3:47 |
 | 3 | [Saagave Manasa](https://open.spotify.com/track/59sZ0SlnVdZGHR6psqE8HW) | [Indosoul by Karthick Iyer](https://open.spotify.com/artist/04czw5AgY218VUkgCtwRv9), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB), [Maalavika Sundar](https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP) | [Saagave Manasa](https://open.spotify.com/album/4X1Mxr9lLfdiRyFEo4GIKw) | 4:27 |
-| 4 | [FLYHIGH](https://open.spotify.com/track/0U0iKIRF1TlNbl12VulMN5) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [FLYHIGH](https://open.spotify.com/album/5ZId7XjlQ5Wh8PpgfVLrVR) | 3:55 |
-| 5 | [Alai Balai](https://open.spotify.com/track/6FrKmVd9tp2vygYXxcvHjV) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Alai Balai](https://open.spotify.com/album/1sdhNmeEMpP95ZuespP4VO) | 3:14 |
-| 6 | [Kalala Padava](https://open.spotify.com/track/1q0M9c2P3f5xu400hEevBd) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kalala Padava](https://open.spotify.com/album/12O4dafDq4b4mv9YuBcp2Z) | 4:00 |
-| 7 | [Pada Pada](https://open.spotify.com/track/3k9ea76NrDYX68bBIaETcU) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Pada Pada](https://open.spotify.com/album/0Z2Rpy6uXsEn36qSl1LJnl) | 4:03 |
+| 4 | [Alai Balai](https://open.spotify.com/track/6FrKmVd9tp2vygYXxcvHjV) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Alai Balai](https://open.spotify.com/album/1sdhNmeEMpP95ZuespP4VO) | 3:14 |
+| 5 | [Kalala Padava](https://open.spotify.com/track/1q0M9c2P3f5xu400hEevBd) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kalala Padava](https://open.spotify.com/album/12O4dafDq4b4mv9YuBcp2Z) | 4:00 |
+| 6 | [Pada Pada](https://open.spotify.com/track/3k9ea76NrDYX68bBIaETcU) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Pada Pada](https://open.spotify.com/album/0Z2Rpy6uXsEn36qSl1LJnl) | 4:03 |
+| 7 | [Ramaya](https://open.spotify.com/track/6N7vDEn2IwTeWCDsgwxNOt) | [Vijay Bhaskar L.](https://open.spotify.com/artist/1rglCx3pLWu1PjPAEwzXMb), [Saurav Mishra](https://open.spotify.com/artist/6wsMHexQk4I53uIXIb5QOx), [Chahat Kakkar](https://open.spotify.com/artist/7vPrkJCMTYLVCfgEhrOSGO) | [Ramaya](https://open.spotify.com/album/0ThcLdv1zgkPsPf0VYVemw) | 3:35 |
 | 8 | [O Mayya](https://open.spotify.com/track/1H9R0AWj5cxVdRA6JGx2ZI) | [Sai Madhav Rella](https://open.spotify.com/artist/7J2eKWSknBCCkwQEK5rDpw) | [O Mayya](https://open.spotify.com/album/5jXOvuqz6iFThLiUxMdbdx) | 4:14 |
 | 9 | [Naku Breakup Ayyindoch](https://open.spotify.com/track/0aZ4bfNEBJPj43i7kzFaBV) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Naku Breakup Ayyindoch](https://open.spotify.com/album/0NC6F3B8BYECN2xB7skKqL) | 3:52 |
 | 10 | [Vellakala Nannodilesi](https://open.spotify.com/track/0BJdy36Fup5Oo3Dol5MUBl) | [Kaushal Jha](https://open.spotify.com/artist/2V64YsR5g08RiV1A0QdhJZ) | [Vellakala Nannodilesi](https://open.spotify.com/album/5tGRfbxjBAFQMK6FNT0AC9) | 4:23 |
@@ -80,9 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 70 | [Nanu Kalchesave](https://open.spotify.com/track/31tVd72hvyazi3YM3RPa4m) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Nanu Kalchesave](https://open.spotify.com/album/1WBJy6c9vvTefmDmsf3Af0) | 1:43 |
 | 71 | [Yenduko Manasu](https://open.spotify.com/track/0GDSYW0LaOvYZvsAGGLMDv) | [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO), [Bharath Gundi](https://open.spotify.com/artist/3iO5DnfZzC2LYxT1vndPxr), [Muralidhar Gidijala](https://open.spotify.com/artist/6lddttOlEDnsODN9Wo2e2R) | [Yenduko Manasu](https://open.spotify.com/album/5umJOE9WhS2PxPkv2iljb9) | 3:06 |
 | 72 | [Daawath](https://open.spotify.com/track/3Bv6Jghbq72NqEqWnkqUOj) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Daawath](https://open.spotify.com/album/2RGBGad3aW0SxVDuMZf4tV) | 4:05 |
-| 73 | [Khadhhar](https://open.spotify.com/track/6BlFOA7vsaG83IMAbEgkEY) | [MC Hari](https://open.spotify.com/artist/5fAyRRV9ivuTIRFVpwzxF8) | [Khadhhar](https://open.spotify.com/album/74QC2sAPIRHcHwr6zg8b3z) | 2:43 |
-| 74 | [Laire Lallaire](https://open.spotify.com/track/3OZDBy9vENUlhWE5xSXa1s) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Laire Lallaire](https://open.spotify.com/album/7bYUu8JrwhW9GwCvNcwhoe) | 3:47 |
-| 75 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
-| 76 | [Neetho](https://open.spotify.com/track/1Y0S1FwDVaIYI9l9ekESgS) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Neetho](https://open.spotify.com/album/3y6i5WWXLRBlVAoUGO3SmF) | 4:25 |
+| 73 | [Laire Lallaire](https://open.spotify.com/track/3OZDBy9vENUlhWE5xSXa1s) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Laire Lallaire](https://open.spotify.com/album/7bYUu8JrwhW9GwCvNcwhoe) | 3:47 |
+| 74 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
+| 75 | [Neetho](https://open.spotify.com/track/1Y0S1FwDVaIYI9l9ekESgS) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Neetho](https://open.spotify.com/album/3y6i5WWXLRBlVAoUGO3SmF) | 4:25 |
 
-Snapshot ID: `MCxmNmZjZDUyNTM1MGU1NDZlNDRjOThjZTU1M2E3MjhlYzZlMzI2ODMz`
+Snapshot ID: `MCwxMzI0ZDJhMzFkZGJmMzRmMmFlNTBjOWRmOThjMmIxMjBmNWU1YmYy`

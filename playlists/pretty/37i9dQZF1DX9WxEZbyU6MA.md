@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 
 > Relax to the calming sounds of choral music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,798 likes - 86 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,887 likes - 86 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 | 57 | [Maidan 2014 / Cycle I: III\. Give Rest, O Christ, to Thy Servant](https://open.spotify.com/track/6tgo3fdEHQajqus7UdvA5J) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Kiev Chamber Choir](https://open.spotify.com/artist/0dGQQCxO2lPSsWaUjCDpxh), [Mykola Hobdych](https://open.spotify.com/artist/4DSpdI6IODyLdw0Wg4bUXe) | [Silvestrov: Maidan 2014 / Cycle I: III\. Give Rest, O Christ, to Thy Servant](https://open.spotify.com/album/3qwfb2pPjyCNKHohg1Lgam) | 2:04 |
 | 58 | [26.9](https://open.spotify.com/track/74Bg9EeK0eKTWi32RCQPPV) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU), [Budapest Scoring Orchestra and Choir](https://open.spotify.com/artist/3NZvimFMfoIm2D6SLCT8PJ), [Jung Eun Hye](https://open.spotify.com/artist/616kilzy3c6aaHmiEoSrp1) | [psalms](https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX) | 3:37 |
 | 59 | [Õhtul](https://open.spotify.com/track/0lvDVkvqrmEAxNd1572ijE) | [Kammerkoor Head Ööd Vend](https://open.spotify.com/artist/5x3KCI4E95AIg3ENC5fCr4) | [Õhtul](https://open.spotify.com/album/22GvWZknKQ3UYoCS4XxJjh) | 3:41 |
-| 60 | [Lamentations II for Holy Saturday "Sabbato Sancto": Lectio III No\. 8\. Jerusalem, Jerusalem](https://open.spotify.com/track/52IYZ6g7TqDi1CbCrnsAnw) | [Giovanni Pierluigi da Palestrina](https://open.spotify.com/artist/0BS8IrFmvK1tXenMULjwem), [Cinquecento](https://open.spotify.com/artist/0WzsNxW54WxMkTUJxr5Lfy) | [Palestrina: Lamentations for Easter II](https://open.spotify.com/album/3zb1znYmggVocgN6VzMfrb) | 2:12 |
+| 60 | [Lamentations II for Holy Saturday "Sabbato Sancto": Lectio III: No\. 8, Jerusalem, Jerusalem](https://open.spotify.com/track/52IYZ6g7TqDi1CbCrnsAnw) | [Giovanni Pierluigi da Palestrina](https://open.spotify.com/artist/0BS8IrFmvK1tXenMULjwem), [Cinquecento](https://open.spotify.com/artist/0WzsNxW54WxMkTUJxr5Lfy) | [Palestrina: Lamentations for Easter II](https://open.spotify.com/album/3zb1znYmggVocgN6VzMfrb) | 2:12 |
 | 61 | [Requiem \- Herbert Howells: III\. Requiem Aeternam \(I\)](https://open.spotify.com/track/6uM2elLuQMKe47EV5yjJKT) | [Dale Warland Singers](https://open.spotify.com/artist/7lsn4vl91HSqb5byRmFu8I) | [Cathedral Classics](https://open.spotify.com/album/135IgSQrW28WnU4NgQMt3w) | 3:23 |
 | 62 | [Stars](https://open.spotify.com/track/5ut7RavktHdSciT8HhaeDm) | [Ēriks Ešenvalds](https://open.spotify.com/artist/1luoTtYQjMoJPSzl9YCO1B), [Sara Teasdale](https://open.spotify.com/artist/2CPfBsROBY8zy1fATtLpvg), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Lux](https://open.spotify.com/album/0sqRF0UZjwVg7ecgSwr7Wh) | 4:04 |
 | 63 | [I Would Live in Your Love](https://open.spotify.com/track/266IIxPc9AX4HsiU7OrtHY) | [Nathan Jones](https://open.spotify.com/artist/0sdJ3vuR3VaC0NY6u0LVD0), [Westminster Choir](https://open.spotify.com/artist/7bOkvwxa2SjdbvMvNawSMZ), [Joe Miller](https://open.spotify.com/artist/5FXCFxtSYwkVbkdKkChuit) | [Flower of Beauty](https://open.spotify.com/album/35lSLSGdTIXCil5dJrw0aB) | 4:55 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 | 85 | [Os justi](https://open.spotify.com/track/5y41AyXVAt68eHyY2Z75sP) | [Anton Bruckner](https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [A Choral Tapestry](https://open.spotify.com/album/7GYUPGkWZHeYqC6bZUT68x) | 4:42 |
 | 86 | [Allá se me ponga el sol à 4](https://open.spotify.com/track/7A14bdlIw9CU10VMdXe8Rg) | [Juan Ponce](https://open.spotify.com/artist/6VmMKWrL3Ppmv49NFd0QH5), [Huelgas Ensemble](https://open.spotify.com/artist/5NuE7LNgb3YPD3WLZQHNQM), [Paul Van Nevel](https://open.spotify.com/artist/15bifbRTaFHRiZszGsA7G1) | [Allá se me ponga el sol à 4](https://open.spotify.com/album/63GCQSLn5ST8LSG0P2yDG4) | 2:55 |
 
-Snapshot ID: `MCw4YjJkOTA3N2FlNmQ0YTNhZGU3NjE4YTk0OTA5ZDc2YjVmZThmMmY1`
+Snapshot ID: `MCxhMzVjZDg4NWRkMTk3ZDI2NWMyOWMzNDQ3OGVjNThiYjYwMzRkOGEz`

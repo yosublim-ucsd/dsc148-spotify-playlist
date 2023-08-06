@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: Layto
 
-262 songs - 13 hr 46 min
+263 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Perfect](https://open.spotify.com/track/3h4NC7LmDnz05P5rv1DGRK) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Perfect](https://open.spotify.com/album/5rYoX9kP81D7w11FdjQSxe) | 2:26 | 2022-04-15 | 2023-04-22 |
 | [Pigs In The Sky VIP \(feat\. Arrested Youth\)](https://open.spotify.com/track/0fgtqm5zqLoIaE83j6pqnx) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Pigs In The Sky VIP \(feat\. Arrested Youth\)](https://open.spotify.com/album/3TxzGU4KN7sChVz9P9T42s) | 3:40 | 2021-09-24 | 2022-04-09 |
 | [Portraits](https://open.spotify.com/track/1n2POqjfHTnCt3bxaa1vCX) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Portraits](https://open.spotify.com/album/28cCm9j1feLv2jdqCdLmby) | 3:42 | 2023-04-21 | 2023-05-11 |
-| [Portraits](https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr) | 3:42 | 2023-04-28 |  |
+| [Portraits](https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr) | 3:42 | 2023-04-28 | 2023-08-06 |
 | [Post Punk \(feat\. Iggy Pop\)](https://open.spotify.com/track/1LfZVlZg1JMxOS1W1fmWOK) | [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj), [Hyper](https://open.spotify.com/artist/6DFJfhZxwWe1yKQvRDJmdl), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Punk \(feat\. Iggy Pop\)](https://open.spotify.com/album/6sl0F7alKr5VWHTpdSRXZS) | 4:35 | 2022-04-08 | 2022-06-04 |
 | [Pressure](https://open.spotify.com/track/2wjUXJaPHgzBaCMnSzOjwH) | [Rosenfeld](https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg) | [Pressure](https://open.spotify.com/album/6HileZpU7Zc2ybr3fLX8Xg) | 2:18 | 2023-04-21 |  |
 | [PROTOTYPE](https://open.spotify.com/track/1MMjfMrkY5MX7N21ELPYIZ) | [Big X](https://open.spotify.com/artist/0OCVpOnm94jD2iVVeefUeu) | [PROTOTYPE](https://open.spotify.com/album/1YgvkeqTsb9gk84EHjd4b7) | 3:17 | 2021-09-17 | 2022-03-05 |
@@ -244,6 +244,7 @@
 | [THERAPY!](https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic) | 2:13 | 2022-10-14 |  |
 | [THERAPY!](https://open.spotify.com/track/6lzW55cVEYSovFmM4EcSS6) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/6lmFyx2YERrRXaGBnMw8bL) | 2:13 | 2022-06-17 | 2022-10-14 |
 | [Thru Hell](https://open.spotify.com/track/7EOPcTwakd3c9yR5U2uS1M) | [Sage Charmaine](https://open.spotify.com/artist/7Gm2KFPebqb5rGV3XrLqGn), [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [Thru Hell](https://open.spotify.com/album/7426IdOV2Kvtv6Kb5K2D1L) | 3:24 | 2021-07-16 | 2022-07-17 |
+| [Ticking Away](https://open.spotify.com/track/4bdzlt280luOgFi0ZlkTvR) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Ticking Away](https://open.spotify.com/album/2CNm7QxoOSkqawLMnoepZB) | 3:25 | 2023-08-05 |  |
 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 | 2021-07-30 | 2023-07-18 |
 | [Tokyo](https://open.spotify.com/track/37UEu9sWDiGp1GpufYw2Tc) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Christo Bowman](https://open.spotify.com/artist/6KSZuZigeTureDNedWHZxz) | [Heart Eater](https://open.spotify.com/album/0kRUwtTUfl40ftsYlxJg8V) | 3:20 | 2022-06-13 | 2022-07-29 |
 | [Too Bizarre \(with Swae Lee & Siiickbrain\)](https://open.spotify.com/track/5YRcIZnrTmdXgZJwmT0LJS) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Too Bizarre \(with Swae Lee & Siiickbrain\)](https://open.spotify.com/album/0c7bLm2cqhAWQ4BhovOUdm) | 2:38 | 2021-05-14 | 2023-04-09 |

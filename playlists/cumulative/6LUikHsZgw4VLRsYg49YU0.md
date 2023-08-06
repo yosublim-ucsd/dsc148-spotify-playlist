@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime\. Listen to this year’s nominees for best OP &amp; ED song at the 2022 Anime Trending Awards and vote for your favorite <a href="https://anitrendz.net/news/2023/01/01/vote\-now\-for\-your\-anime\-of\-the\-year\-2022/?ref=socfb//">HERE</a>.
 
-161 songs - 9 hr 35 min
+162 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-04-03 |  |
 | [yurukuru\*love\(TV Size\)](https://open.spotify.com/track/4Gsy3Af9H0uHQcpOO9VvGd) | [相沢 智\(CV:高橋李依\)](https://open.spotify.com/artist/7irrLhnxYR8qs4dHY6I8TI), [群堂みすず\(CV:日高里菜\)](https://open.spotify.com/artist/4vd1PZjB3QigIWcuIuta9q), [キャロル・オールストン\(CV:天城サリー\)](https://open.spotify.com/artist/5kAddo3uymgOgZR5aNaGp3) | [トモちゃんは女の子! オリジナルサウンドトラック](https://open.spotify.com/album/23MmEjzwSZkjJydj6d1ZYL) | 1:33 | 2023-01-27 |  |
 | [βios](https://open.spotify.com/track/30XxVjgbzt3BhaZIRIriaE) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [GUILTY CROWN COMPLETE SOUNDTRACK](https://open.spotify.com/album/0GYWaav81pYQVP3QcOdVv1) | 4:33 | 2022-12-09 |  |
+| [きときと \- 四本足の踊り \- 「おおかみこどもの雨と雪」より](https://open.spotify.com/track/6wIVbWJHu7vwlYXgjnRFt5) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N), [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [STUDIO CHIZU Music Journey Vol\. 1 \- Cinematic Orchestra 2022](https://open.spotify.com/album/5smAOm1KBol1RqR9QJttcw) | 3:26 | 2023-08-04 |  |
 | [この夢が醒めるまで](https://open.spotify.com/track/7i6gJOOf0oDDYW9xOyVjmN) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yoshida Brothers](https://open.spotify.com/artist/1C08PKH51P2fcJMrPOFRwI) | [この夢が醒めるまで](https://open.spotify.com/album/34JbQD8aevlVqawJdBkzHb) | 4:13 | 2023-01-13 |  |
 | [なにが悪い](https://open.spotify.com/track/5r8hIaf0VCNptCt8SRtxD9) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [なにが悪い](https://open.spotify.com/album/7u1WUpovfbZSSDM8edRqmb) | 3:47 | 2023-01-13 |  |
 | [はじまりのセツナ](https://open.spotify.com/track/5cLBqoblPJague9WgPK5Xp) | [蝋梅学園中等部1年3組](https://open.spotify.com/artist/4JgeSyef7j8JHY6FFplB9t) | [はじまりのセツナ](https://open.spotify.com/album/3dmJ8rMXBC2jo62TIVswJQ) | 3:49 | 2022-12-09 |  |

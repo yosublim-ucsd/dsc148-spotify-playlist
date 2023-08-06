@@ -1384,10 +1384,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 205373,
       "name": "I Feel You",
       "url": "https://open.spotify.com/track/1gdTztk1x8HCDlxcSR8vp3"
+    },
+    {
+      "album": {
+        "name": "REBOOT",
+        "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205373,
+      "name": "I Feel You",
+      "url": "https://open.spotify.com/track/4VDY2adUsc1up1nitWztVg"
     },
     {
       "album": {
@@ -2357,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "The Wonder Years",
+        "url": "https://open.spotify.com/album/3svp0TRDC5MMUAPNMimAi1"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2UuKZDzjZ7cVMOvpmuAMYj"
+    },
+    {
+      "album": {
         "name": "So Hot",
         "url": "https://open.spotify.com/album/31FkCs7l3VVYbapFtIjfYe"
       },
@@ -2368,7 +2404,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 217120,
       "name": "Tell Me - Rap Version",
       "url": "https://open.spotify.com/track/0j4amgyatouEP4Ox3qDrYk"
@@ -2772,7 +2808,7 @@
     {
       "album": {
         "name": "Why So Lonely",
-        "url": "https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx"
+        "url": "https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U"
       },
       "artists": [
         {
@@ -2783,6 +2819,24 @@
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206706,
+      "name": "Why So Lonely",
+      "url": "https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX"
+    },
+    {
+      "album": {
+        "name": "Why So Lonely",
+        "url": "https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
       "duration_ms": 206706,
       "name": "Why So Lonely",
       "url": "https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4"
@@ -3023,7 +3077,7 @@
     },
     {
       "album": {
-        "name": "\ubcf4\ud1b5\ub0a0 An Ordinary Day",
+        "name": "An Ordinary Day",
         "url": "https://open.spotify.com/album/1mI5TmP9QFFdqql5rBi1As"
       },
       "artists": [
@@ -3203,7 +3257,7 @@
     },
     {
       "album": {
-        "name": "\uc8fd\uc5b4\ub3c4 \ubabb \ubcf4\ub0b4 Never Let You Go",
+        "name": "Never Let You Go",
         "url": "https://open.spotify.com/album/37Mz6EoieVepZzvLDL87I0"
       },
       "artists": [
@@ -3222,7 +3276,7 @@
     {
       "album": {
         "name": "\uc798\ubabb\ud588\uc5b4",
-        "url": "https://open.spotify.com/album/099crDGIwr2zDPjOqcInOP"
+        "url": "https://open.spotify.com/album/1uo769ES4151A4n9tu9uly"
       },
       "artists": [
         {
@@ -3233,6 +3287,24 @@
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 195906,
+      "name": "\uc8fd\uc5b4\ub3c4 \ubabb \ubcf4\ub0b4",
+      "url": "https://open.spotify.com/track/0QqKvFZeDz117QeOJiZqpl"
+    },
+    {
+      "album": {
+        "name": "\uc798\ubabb\ud588\uc5b4",
+        "url": "https://open.spotify.com/album/099crDGIwr2zDPjOqcInOP"
+      },
+      "artists": [
+        {
+          "name": "2AM",
+          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
       "duration_ms": 195906,
       "name": "\uc8fd\uc5b4\ub3c4 \ubabb \ubcf4\ub0b4",
       "url": "https://open.spotify.com/track/6PHctRrk4oCNORizN1TEbe"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 
 > Salute's got the juice
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,858 likes - 90 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,872 likes - 90 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 34 | [Wax](https://open.spotify.com/track/180haH4wvnFeoccfbPCY8w) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Wax](https://open.spotify.com/album/2b1onoouCLKHNpESqAUGFW) | 4:18 |
 | 35 | [Brown Eyes](https://open.spotify.com/track/3xml6i6LH5X83htaBFM3Zr) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 2:31 |
 | 36 | [Best of Me](https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Best of Me](https://open.spotify.com/album/4nNPzcNhJRIV2einl7IK4n) | 4:22 |
-| 37 | [Bad Enough \(feat\. Talie\)](https://open.spotify.com/track/0nk166os6HWD30xQcMbXj3) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Talie](https://open.spotify.com/artist/6Hsg2j7sgEBijFFDDbf7zX) | [Bad Enough](https://open.spotify.com/album/5JFjuOEq7OszjOOQ8AYQsK) | 4:02 |
+| 37 | [Bad Enough \(feat\. Talie\)](https://open.spotify.com/track/0nk166os6HWD30xQcMbXj3) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Talie](https://open.spotify.com/artist/2YiFKLErr8Xi3Agiio8sSZ) | [Bad Enough](https://open.spotify.com/album/5JFjuOEq7OszjOOQ8AYQsK) | 4:02 |
 | 38 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 |
 | 39 | [Love Me Back](https://open.spotify.com/track/7o1K0RtnM5cdvZrmgnta98) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Love Me Back](https://open.spotify.com/album/4W0FcfxQA688pFBQHfjcqY) | 3:15 |
 | 40 | [Run Away With You](https://open.spotify.com/track/17lNneB8PxBx8rttZDywXU) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Shield](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr) | 4:12 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 89 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 |
 | 90 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 |
 
-Snapshot ID: `MCw5NWFmMTVlNDE1NTFkZjVhODE0NzYzNTU0MjI3N2RlMTgyMTNmZjFj`
+Snapshot ID: `MCw2ZDRlN2E2ODE1NGIwMWU2Y2Y5M2E5YzdmMzYyZmMxYjBmYjUzMGEz`

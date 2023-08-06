@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: P!nk",
-  "num_followers": 916147,
+  "num_followers": 916100,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTUzYzY0NzNhNjc3NmQzODliMzIyODdmODQxNmNhNzY5MDA0Y2Rk",
+  "snapshot_id": "MCxlN2JlY2EyMDZhZjNiZWQ3ZmNlMTM1MTM5NWMzNmJhMWVlYTc1NGQx",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 175833,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Feel It (Club Edit)",
         "url": "https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 124462,
       "name": "Feel It - Club Edit",
       "url": "https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 175833,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "Piango In Discoteca",
         "url": "https://open.spotify.com/album/1anbRiJBO8gwQigkTZrtQD"
       },
@@ -287,18 +303,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+        "name": "Udh Di Phiran",
+        "url": "https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Sunanda Sharma",
+          "url": "https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY"
+        },
+        {
+          "name": "Bilal Saeed",
+          "url": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
         }
       ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+      "duration_ms": 221538,
+      "name": "Udh Di Phiran",
+      "url": "https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -331,26 +351,6 @@
       "duration_ms": 114004,
       "name": "Can I Shower At Yours",
       "url": "https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Udh Di Phiran",
-        "url": "https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e"
-      },
-      "artists": [
-        {
-          "name": "Sunanda Sharma",
-          "url": "https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY"
-        },
-        {
-          "name": "Bilal Saeed",
-          "url": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Udh Di Phiran",
-      "url": "https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Little Magic",
-        "url": "https://open.spotify.com/album/3IzP355xSCEj7E9cbD74dO"
-      },
-      "artists": [
-        {
-          "name": "Gigi\u708e\u660e\u71b9",
-          "url": "https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA"
-        }
-      ],
-      "duration_ms": 178325,
-      "name": "Little Magic",
-      "url": "https://open.spotify.com/track/19ZYJzZ3M2MWKOg81xfI73"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "L\u00c1 L\u00c1",
         "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 164095,
       "name": "L\u00c1 L\u00c1",
       "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Little Magic",
+        "url": "https://open.spotify.com/album/3IzP355xSCEj7E9cbD74dO"
+      },
+      "artists": [
+        {
+          "name": "Gigi\u708e\u660e\u71b9",
+          "url": "https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA"
+        }
+      ],
+      "duration_ms": 178325,
+      "name": "Little Magic",
+      "url": "https://open.spotify.com/track/19ZYJzZ3M2MWKOg81xfI73"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Been You",
+        "url": "https://open.spotify.com/album/2MgHTw0DyWDasWLtFtjuuP"
+      },
+      "artists": [
+        {
+          "name": "Y ARA",
+          "url": "https://open.spotify.com/artist/1bPRfjxbCnpHxgGnU59Ml6"
+        }
+      ],
+      "duration_ms": 209833,
+      "name": "Been You",
+      "url": "https://open.spotify.com/track/6ZdBAy2SQtDt9oHH9bfGrx"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "Not Enough",
         "url": "https://open.spotify.com/album/1Hnn5WMNMYM7DBE1U9fdIR"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 161259,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/5XHgv7lChS8EvqzwoTG4gB"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Been You",
-        "url": "https://open.spotify.com/album/2MgHTw0DyWDasWLtFtjuuP"
-      },
-      "artists": [
-        {
-          "name": "Y ARA",
-          "url": "https://open.spotify.com/artist/1bPRfjxbCnpHxgGnU59Ml6"
-        }
-      ],
-      "duration_ms": 209833,
-      "name": "Been You",
-      "url": "https://open.spotify.com/track/6ZdBAy2SQtDt9oHH9bfGrx"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Funkari",
-        "url": "https://open.spotify.com/album/7e7NCY6IHKBuyureY3Jges"
+        "name": "\u041d\u0430 \u0442\u0443\u0441\u0456",
+        "url": "https://open.spotify.com/album/0DL3Ezm71ane1ngMyUxLxG"
       },
       "artists": [
         {
-          "name": "Aima Baig",
-          "url": "https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA"
+          "name": "Gunna Chorna",
+          "url": "https://open.spotify.com/artist/6svqgn8444V7khZxeHQ0c1"
         }
       ],
-      "duration_ms": 173524,
-      "name": "Funkari",
-      "url": "https://open.spotify.com/track/6iB96FNcb4t3d72Fhc58u2"
+      "duration_ms": 124750,
+      "name": "\u041d\u0430 \u0442\u0443\u0441\u0456",
+      "url": "https://open.spotify.com/track/7uYrEOHgq2ZHgLkmSvZ9cp"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -951,34 +951,18 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "\u041d\u0430 \u0442\u0443\u0441\u0456",
-        "url": "https://open.spotify.com/album/0DL3Ezm71ane1ngMyUxLxG"
+        "name": "Funkari",
+        "url": "https://open.spotify.com/album/7e7NCY6IHKBuyureY3Jges"
       },
       "artists": [
         {
-          "name": "Gunna Chorna",
-          "url": "https://open.spotify.com/artist/6svqgn8444V7khZxeHQ0c1"
+          "name": "Aima Baig",
+          "url": "https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA"
         }
       ],
-      "duration_ms": 124750,
-      "name": "\u041d\u0430 \u0442\u0443\u0441\u0456",
-      "url": "https://open.spotify.com/track/7uYrEOHgq2ZHgLkmSvZ9cp"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "come around",
-        "url": "https://open.spotify.com/album/3JYJhlexDFk0pM5pESRgKc"
-      },
-      "artists": [
-        {
-          "name": "wadfah",
-          "url": "https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "come around",
-      "url": "https://open.spotify.com/track/5aS72tjLvmMreeR0khCjcE"
+      "duration_ms": 173524,
+      "name": "Funkari",
+      "url": "https://open.spotify.com/track/6iB96FNcb4t3d72Fhc58u2"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -995,6 +979,22 @@
       "duration_ms": 129565,
       "name": "za wcze\u015bnie",
       "url": "https://open.spotify.com/track/7y5c3BLzKZNDxMuz57fBO0"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/3JYJhlexDFk0pM5pESRgKc"
+      },
+      "artists": [
+        {
+          "name": "wadfah",
+          "url": "https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo"
+        }
+      ],
+      "duration_ms": 182535,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/5aS72tjLvmMreeR0khCjcE"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Cumbiecitas Elegantes",
+        "url": "https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq"
+      },
+      "artists": [
+        {
+          "name": "Diana Burco",
+          "url": "https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 167629,
+      "name": "Cumbiecitas Elegantes",
+      "url": "https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "Barkha",
         "url": "https://open.spotify.com/album/0t8oQvb7XfGFYWX0Biu8eP"
       },
@@ -1083,22 +1103,6 @@
       "duration_ms": 261631,
       "name": "Barkha",
       "url": "https://open.spotify.com/track/1bkU3lIlioHhMGQoeZASbv"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "What's The Holy (Nobel) Today?",
-        "url": "https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK"
-      },
-      "artists": [
-        {
-          "name": "Voice of Baceprot",
-          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
-        }
-      ],
-      "duration_ms": 226712,
-      "name": "What's The Holy (Nobel) Today?",
-      "url": "https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1119,22 +1123,34 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Port\u00e9s par les ondes",
-        "url": "https://open.spotify.com/album/2jEuEdcKtyi3sd4PBqFLJQ"
+        "name": "Autodeadma (Solo Version)",
+        "url": "https://open.spotify.com/album/5FsAARRcSyeb62vQ8EDwXH"
       },
       "artists": [
         {
-          "name": "CLELIA",
-          "url": "https://open.spotify.com/artist/5LJ4MsRE3dUFRhPzo9NqDt"
-        },
-        {
-          "name": "Palaster",
-          "url": "https://open.spotify.com/artist/7uWI34JyJuk0bePBI8NZxC"
+          "name": "Maymay Entrata",
+          "url": "https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI"
         }
       ],
-      "duration_ms": 192613,
-      "name": "Port\u00e9s par les ondes",
-      "url": "https://open.spotify.com/track/7oL4Qda0vsg27yd8B09DGK"
+      "duration_ms": 192452,
+      "name": "Autodeadma - Solo Version",
+      "url": "https://open.spotify.com/track/0jBT10y68IpZhHIFz9MAx7"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "What's The Holy (Nobel) Today?",
+        "url": "https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK"
+      },
+      "artists": [
+        {
+          "name": "Voice of Baceprot",
+          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
+        }
+      ],
+      "duration_ms": 226712,
+      "name": "What's The Holy (Nobel) Today?",
+      "url": "https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1189,6 +1205,42 @@
       "url": "https://open.spotify.com/track/12Qde9rce6A18RW6JuUfQC"
     },
     {
+      "added_at": "2023-08-02 14:04:23",
+      "album": {
+        "name": "\u05de\u05e8\u05e7\u05d5\u05e8\u05d9",
+        "url": "https://open.spotify.com/album/10hYe8TMsKOiw2ICrpVmex"
+      },
+      "artists": [
+        {
+          "name": "J.Lamotta",
+          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
+        }
+      ],
+      "duration_ms": 203859,
+      "name": "\u05de\u05e8\u05e7\u05d5\u05e8\u05d9",
+      "url": "https://open.spotify.com/track/3WL2ABZitGrbfWyfqwnVlO"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Port\u00e9s par les ondes",
+        "url": "https://open.spotify.com/album/2jEuEdcKtyi3sd4PBqFLJQ"
+      },
+      "artists": [
+        {
+          "name": "CLELIA",
+          "url": "https://open.spotify.com/artist/5LJ4MsRE3dUFRhPzo9NqDt"
+        },
+        {
+          "name": "Palaster",
+          "url": "https://open.spotify.com/artist/7uWI34JyJuk0bePBI8NZxC"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Port\u00e9s par les ondes",
+      "url": "https://open.spotify.com/track/7oL4Qda0vsg27yd8B09DGK"
+    },
+    {
       "added_at": "2023-08-02 04:00:00",
       "album": {
         "name": "Work-life Island",
@@ -1221,38 +1273,6 @@
       "url": "https://open.spotify.com/track/0Bm96DapZQH5f05Er9nBJQ"
     },
     {
-      "added_at": "2023-08-02 14:04:23",
-      "album": {
-        "name": "\u05de\u05e8\u05e7\u05d5\u05e8\u05d9",
-        "url": "https://open.spotify.com/album/10hYe8TMsKOiw2ICrpVmex"
-      },
-      "artists": [
-        {
-          "name": "J.Lamotta",
-          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
-        }
-      ],
-      "duration_ms": 203859,
-      "name": "\u05de\u05e8\u05e7\u05d5\u05e8\u05d9",
-      "url": "https://open.spotify.com/track/3WL2ABZitGrbfWyfqwnVlO"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Autodeadma (Solo Version)",
-        "url": "https://open.spotify.com/album/5FsAARRcSyeb62vQ8EDwXH"
-      },
-      "artists": [
-        {
-          "name": "Maymay Entrata",
-          "url": "https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Autodeadma - Solo Version",
-      "url": "https://open.spotify.com/track/0jBT10y68IpZhHIFz9MAx7"
-    },
-    {
       "added_at": "2023-08-02 04:00:00",
       "album": {
         "name": "Sur",
@@ -1267,30 +1287,6 @@
       "duration_ms": 220081,
       "name": "Sur",
       "url": "https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "A Goddess, WBU?",
-        "url": "https://open.spotify.com/album/5Lrtc2ig97nGmvZ92T6lgQ"
-      },
-      "artists": [
-        {
-          "name": "Reanny",
-          "url": "https://open.spotify.com/artist/5tWcufVAXq2gkxkfo8vWYd"
-        },
-        {
-          "name": "NOELL3",
-          "url": "https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB"
-        },
-        {
-          "name": "Dani Deaux",
-          "url": "https://open.spotify.com/artist/7kCYdycnUmRJJX8cllnq9H"
-        }
-      ],
-      "duration_ms": 143506,
-      "name": "Pap",
-      "url": "https://open.spotify.com/track/64nGCCBJ8Gyb8Vqyavyk1B"
     }
   ],
   "unique_name": "EQUAL Global",

@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Senndy",
-  "num_followers": 119137,
+  "num_followers": 119227,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2RhNDc1MDlhM2JjNzE1OWMzMzU4OGVhY2JmNWNlMjdjMzYwNTIz",
+  "snapshot_id": "MCw5NTg5ZDEwMjQwYjI1YjI1MzQ2NjIxNGYyZDA0MmIyODdjODIzNGFi",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -727,6 +727,46 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "EVDC DELUXE",
+        "url": "https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4"
+      },
+      "artists": [
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "duration_ms": 159298,
+      "name": "Vandame",
+      "url": "https://open.spotify.com/track/33pxk7eQUhrZI2tiuMd4zZ"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Dama de Vermelho",
+        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "Dama de Vermelho",
+      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Assault (Carro Forte)",
         "url": "https://open.spotify.com/album/4K5XemHceyhOJtQVVVtQqO"
       },
@@ -763,26 +803,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Dama de Vermelho",
-        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
-      },
-      "artists": [
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Gree Cassua",
-          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
-        }
-      ],
-      "duration_ms": 162585,
-      "name": "Dama de Vermelho",
-      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Posturad\u00e3o",
         "url": "https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 162782,
       "name": "Posturad\u00e3o",
       "url": "https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "EVDC DELUXE",
-        "url": "https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4"
-      },
-      "artists": [
-        {
-          "name": "Ryu, the Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        }
-      ],
-      "duration_ms": 159298,
-      "name": "Vandame",
-      "url": "https://open.spotify.com/track/33pxk7eQUhrZI2tiuMd4zZ"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -911,6 +911,34 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        }
+      ],
+      "duration_ms": 307692,
+      "name": "Vida Cara",
+      "url": "https://open.spotify.com/track/0XHJ2LfnrETLopLCt6xBY6"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Mimo Caro",
         "url": "https://open.spotify.com/album/48rbpMh7icB1q0eDGPXzcB"
       },
@@ -951,34 +979,6 @@
       "duration_ms": 180000,
       "name": "No Love",
       "url": "https://open.spotify.com/track/6ExnOUWNlAtsJCsqsa2GDB"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "DomLaike",
-          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        }
-      ],
-      "duration_ms": 307692,
-      "name": "Vida Cara",
-      "url": "https://open.spotify.com/track/0XHJ2LfnrETLopLCt6xBY6"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1099,6 +1099,38 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
+        },
+        {
+          "name": "Buccy",
+          "url": "https://open.spotify.com/artist/0j4YvpvQYySHXXpVgqyPqT"
+        }
+      ],
+      "duration_ms": 293009,
+      "name": "X6",
+      "url": "https://open.spotify.com/track/7qE3yPi9s1SdhSVEuOfFw4"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Ela Julgava Meus Erros",
         "url": "https://open.spotify.com/album/195A1RValgeQdDMR5psuih"
       },
@@ -1115,6 +1147,38 @@
       "duration_ms": 184468,
       "name": "Ela Julgava Meus Erros",
       "url": "https://open.spotify.com/track/1j6q2KjkdxE2XLIUEddmaN"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Mente F\u00e9rtil",
+        "url": "https://open.spotify.com/album/1ORG4DDnxW6cph0AaQ23X0"
+      },
+      "artists": [
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "Mente F\u00e9rtil",
+      "url": "https://open.spotify.com/track/3pFxWxw0K7BmeMxBVnVHpj"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1155,70 +1219,6 @@
       "duration_ms": 161221,
       "name": "Playboy Preto",
       "url": "https://open.spotify.com/track/6h78CkYMNpGolZwhjBz3i9"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "TkN",
-          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
-        },
-        {
-          "name": "Buccy",
-          "url": "https://open.spotify.com/artist/0j4YvpvQYySHXXpVgqyPqT"
-        }
-      ],
-      "duration_ms": 293009,
-      "name": "X6",
-      "url": "https://open.spotify.com/track/7qE3yPi9s1SdhSVEuOfFw4"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Mente F\u00e9rtil",
-        "url": "https://open.spotify.com/album/1ORG4DDnxW6cph0AaQ23X0"
-      },
-      "artists": [
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "Dj Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "Mente F\u00e9rtil",
-      "url": "https://open.spotify.com/track/3pFxWxw0K7BmeMxBVnVHpj"
     },
     {
       "added_at": "2023-08-04 03:01:00",

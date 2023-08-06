@@ -1,12 +1,12 @@
 {
   "description": "Los mejores del Trap de todos los tiempos! \ud83d\udc10 Cover: Noriel",
-  "num_followers": 22,
+  "num_followers": 35,
   "original_name": "Latin Trap GOATs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDNlNTlhYmMxMmYzMGM3MTNmZTk4OWU0Njg3ODIwY2UzNDM3MGEw",
+  "snapshot_id": "MCwyMmFkNzQ0MzA4OTI1YzJmN2UxNjEwMmM0NDRhOWRmNDg5NDZlNTcx",
   "tracks": [
     {
       "added_at": "2023-08-02 22:03:02",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-08-02 22:03:02",
       "album": {
+        "name": "GIVENCHY",
+        "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 182610,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
+    },
+    {
+      "added_at": "2023-08-02 22:03:02",
+      "album": {
         "name": "Me Ama Me Odia",
         "url": "https://open.spotify.com/album/3FAdUgqDYeqcvlpBTbGczq"
       },
@@ -507,22 +523,6 @@
     {
       "added_at": "2023-08-02 22:03:02",
       "album": {
-        "name": "GIVENCHY",
-        "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 182610,
-      "name": "GIVENCHY",
-      "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
-    },
-    {
-      "added_at": "2023-08-02 22:03:02",
-      "album": {
         "name": "Sensualidad",
         "url": "https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 297485,
       "name": "Sensualidad",
       "url": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw"
-    },
-    {
-      "added_at": "2023-08-02 22:03:02",
-      "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 125124,
-      "name": "El Hokage",
-      "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
     },
     {
       "added_at": "2023-08-02 22:03:02",
@@ -619,6 +603,22 @@
       "duration_ms": 415792,
       "name": "Ella Y Yo (feat. Farruko, Ozuna, Arcangel, Anuel AA, Bryant Myers, Kevin Roldan, \u00d1engo Flow, Alexis La Bestia & \u00d1ejo) - Remix",
       "url": "https://open.spotify.com/track/0O8XuLi337OtgoXUgKORQ5"
+    },
+    {
+      "added_at": "2023-08-02 22:03:02",
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 125124,
+      "name": "El Hokage",
+      "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
     },
     {
       "added_at": "2023-08-02 22:03:02",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-08-02 22:03:02",
       "album": {
-        "name": "Sr. Santos",
-        "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 184145,
-      "name": "La Ruta",
-      "url": "https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4"
-    },
-    {
-      "added_at": "2023-08-02 22:03:02",
-      "album": {
         "name": "Real For Life",
         "url": "https://open.spotify.com/album/5Y3WjlGpIvICp5QvSi1udA"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 281734,
       "name": "Esclava",
       "url": "https://open.spotify.com/track/6aEB2VcMRyT33R6l2wFHJf"
+    },
+    {
+      "added_at": "2023-08-02 22:03:02",
+      "album": {
+        "name": "Sr. Santos",
+        "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 184145,
+      "name": "La Ruta",
+      "url": "https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4"
     },
     {
       "added_at": "2023-08-02 22:03:02",
@@ -871,22 +871,34 @@
     {
       "added_at": "2023-08-02 22:03:02",
       "album": {
-        "name": "Mula",
-        "url": "https://open.spotify.com/album/6F2BMX9keqKrROQbpqVNnQ"
+        "name": "Tu Me Enamoraste (Remix)",
+        "url": "https://open.spotify.com/album/4uA0PdlRCnd0zpodu1K5qM"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
         },
         {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+          "name": "Anuel",
+          "url": "https://open.spotify.com/artist/6CIUdwl1brQZzk33fgmE1g"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
         }
       ],
-      "duration_ms": 308571,
-      "name": "Mula",
-      "url": "https://open.spotify.com/track/69rcDQoTgcU1qI396vTcxC"
+      "duration_ms": 341134,
+      "name": "Tu Me Enamoraste - Remix",
+      "url": "https://open.spotify.com/track/7b6QP0Pz2sqyW7yyXodpm6"
     }
   ],
   "unique_name": "Latin Trap GOATs",

@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 475752,
+  "num_followers": 475930,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTYzN2E5NjdmNTc2OTQyZjY5NmNiYzI2NjU3OTI2ZWNiZTNiNmQ5",
+  "snapshot_id": "MCw5MTM5MzY3NzcwOTZlZjQ3NDk0NjIyZjhhNjYzYjQ2NTZlMjhiZmUw",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -315,18 +315,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Royal Blood",
-        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        },
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
         }
       ],
-      "duration_ms": 183602,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
+      "duration_ms": 193714,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -347,22 +351,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Come Together",
-        "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
       },
       "artists": [
         {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        },
-        {
-          "name": "Junkie XL",
-          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 193714,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
+      "duration_ms": 183602,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 160543,
-      "name": "Eagle Birds",
-      "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Sound & Color",
         "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 232546,
       "name": "Don't Wanna Fight",
       "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 160543,
+      "name": "Eagle Birds",
+      "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "-!- (Deluxe)",
-        "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
-      },
-      "artists": [
-        {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
-        }
-      ],
-      "duration_ms": 224306,
-      "name": ".CoDA.",
-      "url": "https://open.spotify.com/track/1PlzMAYlt0Qziq9Q1AOcv7"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Run On",
         "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 212705,
       "name": "Run On",
       "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "-!- (Deluxe)",
+        "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "duration_ms": 224306,
+      "name": ".CoDA.",
+      "url": "https://open.spotify.com/track/1PlzMAYlt0Qziq9Q1AOcv7"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 162880,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Ruthless",
         "url": "https://open.spotify.com/album/4A9EmspHpAoSVjzYm2U9WM"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 187890,
       "name": "The Rush",
       "url": "https://open.spotify.com/track/2w1PqXuQG6Fjum7259GzO8"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 162880,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Young Blood",
-        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Phosphene Dream",
         "url": "https://open.spotify.com/album/3FEcbSaWwrVFglM8lD9RRZ"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 218560,
       "name": "Entrance Song",
       "url": "https://open.spotify.com/track/0Bm4fjn2AeXeA1x12hoySt"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Young Blood",
+        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Kentucky (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/70l38e3JDxBKLO2Jo0LgEp"
+        "name": "Slomosa",
+        "url": "https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS"
       },
       "artists": [
         {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+          "name": "Slomosa",
+          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
         }
       ],
-      "duration_ms": 241000,
-      "name": "Soul Machine",
-      "url": "https://open.spotify.com/track/6VhKqO2krkpQ9TEJSpZlbG"
+      "duration_ms": 167389,
+      "name": "Kevin",
+      "url": "https://open.spotify.com/track/3bTJRzsVHaL4JOmmNX4Cm3"
     }
   ],
   "unique_name": "Dirty Rock",

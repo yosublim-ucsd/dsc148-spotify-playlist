@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-191 songs - 16 hr 14 min
+192 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [DJ Lover \- Original Mix](https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Welcome EP](https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh) | 6:47 | 2022-07-01 | 2023-03-25 |
 | [Don't Look Back](https://open.spotify.com/track/3h1plqqVGhOLV0TbBYnQKW) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Riveron](https://open.spotify.com/artist/3qzu7R3PzRDAHC2NsrcRLL) | [Don't Look Back](https://open.spotify.com/album/0lStU7LtwbnoZXXyI3oL68) | 3:13 | 2023-03-10 | 2023-04-28 |
 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 | 2022-09-09 |  |
+| [Dusty Showbiz](https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Dusty Showbiz](https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb) | 2:58 | 2023-08-04 |  |
 | [Encoding](https://open.spotify.com/track/2fnS9uEeunmh1NwlkmSGqb) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu) | [Encoding EP](https://open.spotify.com/album/7m526KE380DYpcaItIMVad) | 6:03 | 2022-06-03 | 2022-07-29 |
 | [Energy](https://open.spotify.com/track/3h2DNWJn3GLNVhBQKpgxpK) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [YM006](https://open.spotify.com/album/0UtLUMq1i1r8nwbYNTkO3V) | 6:31 | 2022-06-03 | 2022-07-22 |
 | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY) | 3:12 | 2023-07-14 |  |
@@ -181,7 +182,7 @@
 | [Tonight](https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X) | [Latmun](https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0) | [Tonight EP](https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y) | 5:52 | 2022-06-24 | 2023-03-29 |
 | [Trigger Technology](https://open.spotify.com/track/29e8sjYkArwTiNxKNEgvpX) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Trigger Technology](https://open.spotify.com/album/61Hv14MDmklquNTnwh55wo) | 3:34 | 2022-06-03 | 2022-06-11 |
 | [TRiiiBAILE](https://open.spotify.com/track/6hdJvYTJ27MdcsDSE2XaVv) | [Cour T.](https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o) | [TRiiiBAILE](https://open.spotify.com/album/7imJNCJSuQwx37G2mTQFEE) | 5:32 | 2023-07-07 | 2023-07-22 |
-| [Trip](https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Trip](https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B) | 3:43 | 2022-09-16 |  |
+| [Trip](https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Trip](https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B) | 3:43 | 2022-09-16 | 2023-08-06 |
 | [Troll](https://open.spotify.com/track/2QLlGPzBYeixEyqJKqzqj9) | [Dimmish](https://open.spotify.com/artist/3BPvVhOECwv7HSHVZaq3BG) | [Lunar EP](https://open.spotify.com/album/3u0oUHmJjfBn9pmbsulv3L) | 7:42 | 2022-06-03 | 2022-07-27 |
 | [Tunnel](https://open.spotify.com/track/0zi1coACnVRJskyFHyLQje) | [DJOKO](https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv) | [Ride On EP & Mancini Remix](https://open.spotify.com/album/4wZKnCELfrXj676lyK8GAl) | 5:53 | 2022-06-03 | 2022-07-27 |
 | [Untitled A](https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [Untitled](https://open.spotify.com/album/1KemAxEMdpdvlJQNLXIRIy) | 5:48 | 2022-10-12 | 2023-04-12 |

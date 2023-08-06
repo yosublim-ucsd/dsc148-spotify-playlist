@@ -1,12 +1,12 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple!",
-  "num_followers": 120534,
+  "num_followers": 120651,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODI5YTdhN2RiNmE1ZjM3NWEzMmNlMjA3ZWYzZWY3MGE2MzkzMWU4",
+  "snapshot_id": "MCw5ZDVjZmY5ZjBhMmVlZWRlOWMyN2UwNWU2ODk5OWEwZDI0YmFkYTRi",
   "tracks": [
     {
       "added_at": "2022-01-24 23:45:18",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
+        "name": "Patrick Droney",
+        "url": "https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 227292,
+      "name": "Brooklyn",
+      "url": "https://open.spotify.com/track/0gvGXQK14CIGLssQhruY8E"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
         "name": "Reasonable Doubt",
         "url": "https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 183493,
       "name": "Piazza, New York Catcher",
       "url": "https://open.spotify.com/track/12eefUObewFbvXYQ3bN7E4"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Patrick Droney",
-        "url": "https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 227292,
-      "name": "Brooklyn",
-      "url": "https://open.spotify.com/track/0gvGXQK14CIGLssQhruY8E"
     },
     {
       "added_at": "2022-01-24 23:45:18",

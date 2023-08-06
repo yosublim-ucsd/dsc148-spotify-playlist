@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Ilegales",
-  "num_followers": 255660,
+  "num_followers": 255696,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjYwYjdhYzU0MWZkY2VjZjA4NDM2YzIwZmVkNzc5NDY4ZmVjYzdj",
+  "snapshot_id": "MCxlOWUwOTM0NmQyYjZmZWJmZDkwNWFiZmVlYTc5ZWZhOGNjMTYxYzNl",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Ay, Ay, Ay",
+        "url": "https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 208347,
+      "name": "Ay, Ay, Ay",
+      "url": "https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Amigos (con Maria Becerra) [Bachata]",
         "url": "https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 202702,
       "name": "Amigos (con Maria Becerra) - Bachata",
       "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Ay, Ay, Ay",
-        "url": "https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 208347,
-      "name": "Ay, Ay, Ay",
-      "url": "https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Nubes",
-        "url": "https://open.spotify.com/album/7lEjVKtnPigIjjCVNrGd3J"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 238205,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/7EBDeDKSY5QS185IpakRNe"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Esta Canci\u00f3n",
         "url": "https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Nubes",
+        "url": "https://open.spotify.com/album/7lEjVKtnPigIjjCVNrGd3J"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 238205,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/7EBDeDKSY5QS185IpakRNe"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "FOREVER KING",
         "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 203821,
       "name": "Carcelero",
       "url": "https://open.spotify.com/track/4BgbRqOMBkEzTXuhHyaLjC"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -675,6 +659,22 @@
       "duration_ms": 180525,
       "name": "CRIMINAL",
       "url": "https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 189668,
-      "name": "El Merengue",
-      "url": "https://open.spotify.com/track/6lpGP2JvV7grJ8LBZ5obQS"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Noche Primavera",
         "url": "https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 199277,
       "name": "Noche Primavera",
       "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 189668,
+      "name": "El Merengue",
+      "url": "https://open.spotify.com/track/6lpGP2JvV7grJ8LBZ5obQS"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 168184,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Si Tu La Ves",
         "url": "https://open.spotify.com/album/4YViEFHtIfrWhgV6JTDUNN"
       },
@@ -815,38 +831,6 @@
       "duration_ms": 193523,
       "name": "Si Tu La Ves",
       "url": "https://open.spotify.com/track/04v1ifU5ICftn7GKzaFpl9"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 169207,
-      "name": "El Que Ama Sufre",
-      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx"
-      },
-      "artists": [
-        {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
-        }
-      ],
-      "duration_ms": 168184,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -871,18 +855,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Desde Otro Malec\u00f3n",
-        "url": "https://open.spotify.com/album/7CHIw4LSHWgQbwWZC5rZpO"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
       "artists": [
         {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 189418,
-      "name": "Desde Otro Malec\u00f3n",
-      "url": "https://open.spotify.com/track/4Kg76Sd4J3tqCN5rHfRb53"
+      "duration_ms": 169207,
+      "name": "El Que Ama Sufre",
+      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -899,6 +883,22 @@
       "duration_ms": 271030,
       "name": "La Historia - Escalona Nunca Se Hab\u00eda Grabado As\u00ed",
       "url": "https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Desde Otro Malec\u00f3n",
+        "url": "https://open.spotify.com/album/7CHIw4LSHWgQbwWZC5rZpO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 189418,
+      "name": "Desde Otro Malec\u00f3n",
+      "url": "https://open.spotify.com/track/4Kg76Sd4J3tqCN5rHfRb53"
     },
     {
       "added_at": "2023-08-04 04:00:00",

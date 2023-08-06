@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 崎山蒼志
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,661 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,686 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [kyou Izonshite](https://open.spotify.com/track/7rZisqzXQlYYfBZcU4iRj8) | [AVAM](https://open.spotify.com/artist/6QYNfAOyqSzJ06hoKdfWLe) | [Boku no Sekai ha Ao de Somatteiku](https://open.spotify.com/album/0gAHEksPGmsx8eqGutJKSO) | 3:26 |
 | 50 | [Canvas](https://open.spotify.com/track/1HasPp7AYTmRj9lHHfO3AT) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Canvas](https://open.spotify.com/album/1DHLCK0JwwKeNxdy9fWtp0) | 3:05 |
 
-Snapshot ID: `MCwxZTlmNTVkYzRmN2VhMjIyMmYxMGE3MmQwNWIxMzBkNTUyZjE4ODM4`
+Snapshot ID: `MCw1ODdiNjY1MjQxZDY5OTVhM2Q2OWVkOTJmODIxYmUwZDAzNmZjMzNk`

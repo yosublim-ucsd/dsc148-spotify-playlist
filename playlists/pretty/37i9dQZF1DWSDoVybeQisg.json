@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1109268,
+  "num_followers": 1109583,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmNmZmRjZWJiYjExMGUzZTJmMDA1OTI2NWY5NTg5ODA0NjAzYTlh",
+  "snapshot_id": "MCxjYWFlMThjMDVkYTA1ODUzNjczYjMxM2Q2YTFhN2EyN2E3MzZlZDE3",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Happy Trails",
-        "url": "https://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r"
-      },
-      "artists": [
-        {
-          "name": "Quicksilver Messenger Service",
-          "url": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "Who Do You Love - Pt. 1",
-      "url": "https://open.spotify.com/track/14hykKy6TC9y6chiptCtje"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Gris Gris",
         "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 180600,
       "name": "Mama Roux",
       "url": "https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Happy Trails",
+        "url": "https://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r"
+      },
+      "artists": [
+        {
+          "name": "Quicksilver Messenger Service",
+          "url": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "Who Do You Love - Pt. 1",
+      "url": "https://open.spotify.com/track/14hykKy6TC9y6chiptCtje"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Forever Changes (2015 Remaster)",
-        "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
-      },
-      "artists": [
-        {
-          "name": "Love",
-          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
-        }
-      ],
-      "duration_ms": 284319,
-      "name": "The Red Telephone - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3URRBJKRfCnlit1jVoncUD"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Incense & Peppermints",
         "url": "https://open.spotify.com/album/5hGwwc1svsrzpCUlnP84F5"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 169800,
       "name": "Incense And Peppermints",
       "url": "https://open.spotify.com/track/20MBLB1TCm3tQK3XZlHXTK"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Forever Changes (2015 Remaster)",
+        "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
+      },
+      "artists": [
+        {
+          "name": "Love",
+          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
+        }
+      ],
+      "duration_ms": 284319,
+      "name": "The Red Telephone - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3URRBJKRfCnlit1jVoncUD"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1007,26 +1007,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Cactology \"The Cactus Collection\"",
-        "url": "https://open.spotify.com/album/17c5c9QwjWsNg0N7zX7EBQ"
+        "name": "Incense And Peppermints",
+        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
       },
       "artists": [
         {
-          "name": "Cactus",
-          "url": "https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj"
-        },
-        {
-          "name": "Gene Paul",
-          "url": "https://open.spotify.com/artist/1q8e6StM7uuBBH7YWqjVto"
-        },
-        {
-          "name": "Jackson Howe",
-          "url": "https://open.spotify.com/artist/1RJRMqWL8u5u1xSjjWG9tA"
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Evil - Single Version",
-      "url": "https://open.spotify.com/track/1MlsQwhm6MU3PYMHNIc2YS"
+      "duration_ms": 184453,
+      "name": "Rainy Day Mushroom Pillow",
+      "url": "https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1047,18 +1039,26 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Incense And Peppermints",
-        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
+        "name": "Cactology \"The Cactus Collection\"",
+        "url": "https://open.spotify.com/album/17c5c9QwjWsNg0N7zX7EBQ"
       },
       "artists": [
         {
-          "name": "Strawberry Alarm Clock",
-          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+          "name": "Cactus",
+          "url": "https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj"
+        },
+        {
+          "name": "Gene Paul",
+          "url": "https://open.spotify.com/artist/1q8e6StM7uuBBH7YWqjVto"
+        },
+        {
+          "name": "Jackson Howe",
+          "url": "https://open.spotify.com/artist/1RJRMqWL8u5u1xSjjWG9tA"
         }
       ],
-      "duration_ms": 184453,
-      "name": "Rainy Day Mushroom Pillow",
-      "url": "https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm"
+      "duration_ms": 196800,
+      "name": "Evil - Single Version",
+      "url": "https://open.spotify.com/track/1MlsQwhm6MU3PYMHNIc2YS"
     },
     {
       "added_at": "2023-01-18 16:20:47",

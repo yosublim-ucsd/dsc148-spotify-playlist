@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Mentissa au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,167,311 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,167,882 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [Dernière](https://open.spotify.com/track/4dEIdPutdmGRP2zxIXCB4S) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Les autres c’est nous](https://open.spotify.com/album/07WjNDav7akW13k90qeqGw) | 3:23 |
 | 50 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 
-Snapshot ID: `MCw3ZmE2YTBkMTQxYzEzN2Y0YmI3YWRjZTc5ZWZkNDA3YTNiYjdiMjM4`
+Snapshot ID: `MCxiMTcwZDdmYWJhNTEyYzUyMjg3NGI5M2IyODU2ZGQ2ZmZkYjVmODRh`

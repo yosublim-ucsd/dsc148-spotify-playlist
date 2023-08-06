@@ -1,12 +1,12 @@
 {
   "description": "Ist nur einmal im Jahr!",
-  "num_followers": 345152,
+  "num_followers": 345600,
   "original_name": "Malle Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmZiZTMyZDUxNmZjNzYzNDcwOTZhYzk3YWY5Mzk1ZGI5YjdjYTJm",
+  "snapshot_id": "MCxlZTk1NmUzYzNhMmRlMzI0NWFiYTk3YWE5NThmNDM2ZGRkNmE2N2Vi",
   "tracks": [
     {
       "added_at": "2023-07-28 08:47:25",
@@ -219,30 +219,6 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
-        "name": "Mein kleines Herz (Bam Bam)",
-        "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
-      },
-      "artists": [
-        {
-          "name": "Darius & Finlay",
-          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
-        },
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        },
-        {
-          "name": "Shaun Baker",
-          "url": "https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj"
-        }
-      ],
-      "duration_ms": 150090,
-      "name": "Mein kleines Herz (Bam Bam)",
-      "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
         "name": "Fliesentisch Romantik 2",
         "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
@@ -263,6 +239,30 @@
       "duration_ms": 150413,
       "name": "Easy Peasy",
       "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
+        "name": "Mein kleines Herz (Bam Bam)",
+        "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
+      },
+      "artists": [
+        {
+          "name": "Darius & Finlay",
+          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
+        },
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Shaun Baker",
+          "url": "https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj"
+        }
+      ],
+      "duration_ms": 150090,
+      "name": "Mein kleines Herz (Bam Bam)",
+      "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
+        "name": "Reim (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 220373,
+      "name": "Verdammt, ich lieb Dich - 2020 Remastered",
+      "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
         "name": "MDMA",
         "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 198160,
       "name": "PECH & SCHWEFEL",
       "url": "https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
-        "name": "Reim (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
-      },
-      "artists": [
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 220373,
-      "name": "Verdammt, ich lieb Dich - 2020 Remastered",
-      "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
-        "name": "Dorfdisko",
-        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 206944,
-      "name": "Abfahrt",
-      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 144533,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
+        "name": "Dorfdisko",
+        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 206944,
+      "name": "Abfahrt",
+      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
+        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 204283,
+      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
         "name": "Knicklicht",
         "url": "https://open.spotify.com/album/1TqfTWxuO8ciwXwoUB5GgE"
       },
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
-        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
+        "name": "Bring mich nach Hause",
+        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
       },
       "artists": [
         {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
         }
       ],
-      "duration_ms": 204283,
-      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
+      "duration_ms": 149160,
+      "name": "Bring mich nach Hause",
+      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -1051,22 +1067,6 @@
       "duration_ms": 188000,
       "name": "Ciao 3 Tage Blau",
       "url": "https://open.spotify.com/track/3AZ24YPWIpb82PaduK1FZS"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
-        "name": "Bring mich nach Hause",
-        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
-      },
-      "artists": [
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Bring mich nach Hause",
-      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -1139,22 +1139,22 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
-        "name": "Anna-Lena",
-        "url": "https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d"
+        "name": "Ich bleib hier",
+        "url": "https://open.spotify.com/album/2whxURNncAj78xYqErLbFP"
       },
       "artists": [
         {
-          "name": "Honk!",
-          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
         },
         {
-          "name": "Deejay Matze",
-          "url": "https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4"
+          "name": "M\u00fctze Katze",
+          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
         }
       ],
-      "duration_ms": 180741,
-      "name": "Anna-Lena",
-      "url": "https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE"
+      "duration_ms": 162947,
+      "name": "Ich bleib hier",
+      "url": "https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -1179,6 +1179,26 @@
       "duration_ms": 168895,
       "name": "Mannschaftsfahrt",
       "url": "https://open.spotify.com/track/4VDJ1wK7eszdBpWGvDV3Tc"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
+        "name": "Anna-Lena",
+        "url": "https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d"
+      },
+      "artists": [
+        {
+          "name": "Honk!",
+          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
+        },
+        {
+          "name": "Deejay Matze",
+          "url": "https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4"
+        }
+      ],
+      "duration_ms": 180741,
+      "name": "Anna-Lena",
+      "url": "https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -1219,26 +1239,6 @@
       "duration_ms": 203900,
       "name": "Ich liebe das Leben - Stereoact #Remix",
       "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
-        "name": "Ich bleib hier",
-        "url": "https://open.spotify.com/album/2whxURNncAj78xYqErLbFP"
-      },
-      "artists": [
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        },
-        {
-          "name": "M\u00fctze Katze",
-          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
-        }
-      ],
-      "duration_ms": 162947,
-      "name": "Ich bleib hier",
-      "url": "https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj"
     },
     {
       "added_at": "2023-07-28 08:47:25",

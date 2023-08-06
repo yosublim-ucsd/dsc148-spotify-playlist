@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Doja Cat, Cordae and more\. Cover: Kalan FrFr & Tyga
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,777 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,833 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 40 | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/track/3w7AzChjtAtjLvVQll2Mjf) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/album/2qYeK1QWdV9oMmYSzWzy6v) | 3:20 |
 | 41 | [Got It No Mo](https://open.spotify.com/track/0Zdtrfv5sofAp92eo1LC4s) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [Got It No Mo](https://open.spotify.com/album/3pbZejTl2ASbbNVVyIgLo4) | 2:35 |
 | 42 | [Murder She Wrote / Bam Bam](https://open.spotify.com/track/0pbz9oXY5HOZY50qeTZEyf) | [Troy Ave](https://open.spotify.com/artist/3cvKNz7BwIY404XtZ5tpUW) | [Murder She Wrote / Bam Bam](https://open.spotify.com/album/0gpP2pwMJw0h04AtViQr7g) | 2:40 |
-| 43 | [My Set Pt\. III](https://open.spotify.com/track/0S6KnryNmhW3xW4WtvA8H3) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [My Set Pt\. III](https://open.spotify.com/album/3Q6KOCVQyPJYWZaGnVraN1) | 2:06 |
+| 43 | [MY SET PT\. III](https://open.spotify.com/track/0S6KnryNmhW3xW4WtvA8H3) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [My Set Pt\. III](https://open.spotify.com/album/3Q6KOCVQyPJYWZaGnVraN1) | 2:06 |
 | 44 | [Quite Frankly \(with Luh Tyler & Trapland Pat\)](https://open.spotify.com/track/6jSC6HQdTrDMobpRciFYvq) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ) | [Bars Mitzvah](https://open.spotify.com/album/77iWKhQsnPv2ceYGWZ4TMS) | 3:00 |
 | 45 | [Quiet Game](https://open.spotify.com/track/3Nmp0PGSfvF2dR8qybvpiM) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Quiet Game](https://open.spotify.com/album/1gMaaw4Ez9jhmbHXslog2v) | 2:05 |
 | 46 | [Fool 4 You](https://open.spotify.com/track/6qQhLYKaYohYoGs2i1JBGz) | [Legend Yae](https://open.spotify.com/artist/41JFOCSk00m4hv4RigJViZ) | [Fool 4 You](https://open.spotify.com/album/0194BlF0J1SvPhK374guGI) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Got Yo Wingz](https://open.spotify.com/track/6EqyEmLrxlmEB1iBxRVMjZ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Got Yo Wingz](https://open.spotify.com/album/4jdQt9s1NisPjtryGLSzqa) | 2:35 |
 | 50 | [Motion](https://open.spotify.com/track/43xk74ljarl0Ac73TxxXFm) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Motion](https://open.spotify.com/album/1qxKTielQitxvspLsPgHuR) | 2:49 |
 
-Snapshot ID: `MCxjMzFjYTZkYzI1NWJjZmQxMDFkY2JlY2ZmYzZiZjFjNGIwOTNiMTkx`
+Snapshot ID: `MCxmNzg2YmY1MjEwNWNmOTJjZDg4NTIzMjljYmE3MTQ4MDI3OTZhYzc0`

@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 19133,
+  "num_followers": 19141,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDAxNGY4ZDUxOTA3MzlmNDJjYzllMGRmZmIyZmE4Yzg3MjQ5NGMy",
+  "snapshot_id": "MCxiZWViNDI5ZDY2ZThmMjRkNzRmMmE3Yjg3ZDRjMzUxNjUyMTg5ZGE3",
   "tracks": [
     {
       "added_at": "2023-07-14 03:00:00",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Trinchera, Vol. 1",
-        "url": "https://open.spotify.com/album/2iid4MS5HmrfRpJwHAt31G"
+        "name": "La Patria Digna",
+        "url": "https://open.spotify.com/album/7ql7ekqJjXUoW4RYItZZiy"
       },
       "artists": [
         {
-          "name": "Duratierra",
-          "url": "https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3"
+          "name": "Tamara Castro",
+          "url": "https://open.spotify.com/artist/6qZ4SF1cQH0Uhf5GMnAY2T"
         }
       ],
-      "duration_ms": 198945,
-      "name": "Trinchera",
-      "url": "https://open.spotify.com/track/6SwzfwoDWstfVc0Gy2BAaa"
+      "duration_ms": 154920,
+      "name": "Endechas",
+      "url": "https://open.spotify.com/track/4JXMKuZaDOpsp8d5OpOZgA"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "La Patria Digna",
-        "url": "https://open.spotify.com/album/7ql7ekqJjXUoW4RYItZZiy"
+        "name": "Trinchera, Vol. 1",
+        "url": "https://open.spotify.com/album/2iid4MS5HmrfRpJwHAt31G"
       },
       "artists": [
         {
-          "name": "Tamara Castro",
-          "url": "https://open.spotify.com/artist/6qZ4SF1cQH0Uhf5GMnAY2T"
+          "name": "Duratierra",
+          "url": "https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3"
         }
       ],
-      "duration_ms": 154920,
-      "name": "Endechas",
-      "url": "https://open.spotify.com/track/4JXMKuZaDOpsp8d5OpOZgA"
+      "duration_ms": 198945,
+      "name": "Trinchera",
+      "url": "https://open.spotify.com/track/6SwzfwoDWstfVc0Gy2BAaa"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "La Madrugada",
-        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
-      },
-      "artists": [
-        {
-          "name": "Luciana Jury",
-          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
-        }
-      ],
-      "duration_ms": 245804,
-      "name": "En Tu Pelo",
-      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "Como Un P\u00e1jaro Libre (Slidepack)",
         "url": "https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 196253,
       "name": "Do\u00f1a Ubenza",
       "url": "https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "La Madrugada",
+        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
+      },
+      "artists": [
+        {
+          "name": "Luciana Jury",
+          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
+        }
+      ],
+      "duration_ms": 245804,
+      "name": "En Tu Pelo",
+      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
+        "name": "Tierra, Tan S\u00f3lo",
+        "url": "https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar"
+      },
+      "artists": [
+        {
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        },
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Tierra, Tan S\u00f3lo",
+      "url": "https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
         "name": "Pasionarias",
         "url": "https://open.spotify.com/album/0H7GZSBLHQkseN2awfxZ2m"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 110291,
       "name": "El T\u00edmido (feat. Nahuel Pennisi)",
       "url": "https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "Tierra, Tan S\u00f3lo",
-        "url": "https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar"
-      },
-      "artists": [
-        {
-          "name": "La Bruja Salguero",
-          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
-        },
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Tierra, Tan S\u00f3lo",
-      "url": "https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1279,18 +1279,22 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Sigo So\u00f1ando",
-        "url": "https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA"
+        "name": "Humanas Voces",
+        "url": "https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac"
       },
       "artists": [
         {
-          "name": "Marit\u00e9 Berbel",
-          "url": "https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU"
+          "name": "Liliana Vitale",
+          "url": "https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF"
+        },
+        {
+          "name": "Veronica Condomi",
+          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
         }
       ],
-      "duration_ms": 170293,
-      "name": "Mate Con Cedr\u00f3n",
-      "url": "https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG"
+      "duration_ms": 189906,
+      "name": "La Estrella Azul",
+      "url": "https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y"
     }
   ],
   "unique_name": "Mujeres del Folklore",

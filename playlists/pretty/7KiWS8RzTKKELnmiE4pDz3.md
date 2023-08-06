@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 213 songs - 9 hr 48 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 216 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,5 +221,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 211 | [4GSELLER!](https://open.spotify.com/track/1kUqWeF4LWFS2yKXUPxOr8) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [4GSELLER!](https://open.spotify.com/album/3hkPn4MduPqqldE5adcmHA) | 2:33 |
 | 212 | [Nine Nine](https://open.spotify.com/track/6dIcZXPPB4shRDs0Wp7LGG) | [cwthegoat](https://open.spotify.com/artist/65AQe4TnExHTN7oLAuIMQu) | [Nine Nine](https://open.spotify.com/album/4ozndrtOgBu4ixCdF8PcWm) | 2:33 |
 | 213 | [Die Trying](https://open.spotify.com/track/4qNYl4NkngYRqf6DtTyD9I) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PRE5L](https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4) | 2:33 |
+| 214 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
+| 215 | [DELRESTO \(ECHOES\) \(feat\. Beyoncé\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 |
+| 216 | [MODERN JAM \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:15 |
 
-Snapshot ID: `NzA3MyxiNDMyODBlZjExODNhNThiOWExNDA1OGQyOGJhMTc2MGYxZGFiODIx`
+Snapshot ID: `NzA3NiwyNDM1MTI3YTFlMzUwNDJmODlmZjBiYThlYWM4Y2I5NDNiZjBjOWFm`

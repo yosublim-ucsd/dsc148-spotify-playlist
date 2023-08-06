@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6456\)
+## Playlists \(6457\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -931,6 +931,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [COBRAH's track IDs](/playlists/pretty/37i9dQZF1DWYoioDxgMsjZ.md)
 - [CODE GEASS SERIES \-コードギアスシリーズ\-](/playlists/pretty/37i9dQZF1DX05YNpFuDzLK.md)
 - [CODING FOCUS](/playlists/pretty/15ngsvOmlTkARCg7ipoNvG.md)
+- [COUNTER//CULTURE: KennyHoopla](/playlists/pretty/37i9dQZF1DX9Qt5e1zZYbU.md)
 - [COUNTER//CULTURE: PVRIS](/playlists/pretty/37i9dQZF1DXaPYCwLnB6q1.md)
 - [COUNTER//CULTURE: Teezo Touchdown](/playlists/pretty/37i9dQZF1DX6sLOMujY5ZJ.md)
 - [COUNTER//CULTURE: Turnstile](/playlists/pretty/37i9dQZF1DX9n1dvGkpvfI.md)

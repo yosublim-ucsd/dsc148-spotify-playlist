@@ -1,13 +1,113 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Dying Wish",
-  "num_followers": 7903,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Crosses",
+  "num_followers": 7905,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "Mjc2OSxjNmQyZjczNmYyZjdhZjQ4YWViNzMyOTU0ZTFhNTA0MzgzOTdlOWIy",
+  "snapshot_id": "Mjc3OCw2OGExMGRkOTZkZjVhZTU5YjI3MTVjNzJmM2FiYThkYTIxMzM2MTgy",
   "tracks": [
+    {
+      "added_at": "2023-08-04 19:38:45",
+      "album": {
+        "name": "Burn Your Bible",
+        "url": "https://open.spotify.com/album/3GKwZOSfukp9D84KEdY38i"
+      },
+      "artists": [
+        {
+          "name": "Twin Temple",
+          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
+        }
+      ],
+      "duration_ms": 215456,
+      "name": "Burn Your Bible",
+      "url": "https://open.spotify.com/track/74OhwbALx4m1WD6CfqD5nt"
+    },
+    {
+      "added_at": "2023-08-04 19:38:55",
+      "album": {
+        "name": "Invisible Hand",
+        "url": "https://open.spotify.com/album/0tdKFj9MZ2g1oPb2VoEepz"
+      },
+      "artists": [
+        {
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+        }
+      ],
+      "duration_ms": 234134,
+      "name": "Invisible Hand",
+      "url": "https://open.spotify.com/track/5BblwbftnIDV0Je620kSKs"
+    },
+    {
+      "added_at": "2023-08-04 19:39:04",
+      "album": {
+        "name": "Noah",
+        "url": "https://open.spotify.com/album/4PyTSqcMOE1DXi4pLu1T0F"
+      },
+      "artists": [
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/7nNIk5X6AanHDEhYKekymO"
+    },
+    {
+      "added_at": "2023-08-04 19:39:13",
+      "album": {
+        "name": "Summerslam",
+        "url": "https://open.spotify.com/album/1UKV7T6J2gqHgHNxmTrJiN"
+      },
+      "artists": [
+        {
+          "name": "Jobber",
+          "url": "https://open.spotify.com/artist/6Qfu29KtPFPfCedfmgpTh9"
+        }
+      ],
+      "duration_ms": 302471,
+      "name": "Summerslam",
+      "url": "https://open.spotify.com/track/21ReFyyiE5xQbVX6CUgUha"
+    },
+    {
+      "added_at": "2023-08-04 19:39:24",
+      "album": {
+        "name": "Entity And Form",
+        "url": "https://open.spotify.com/album/1VaOivoPULe3f9DoHd70I8"
+      },
+      "artists": [
+        {
+          "name": "Worn",
+          "url": "https://open.spotify.com/artist/7qeRubP1L77fa3cgspFV78"
+        }
+      ],
+      "duration_ms": 135226,
+      "name": "Entity And Form",
+      "url": "https://open.spotify.com/track/1J9oZNqDkw1qTb5tfd3wCF"
+    },
+    {
+      "added_at": "2023-08-04 19:39:35",
+      "album": {
+        "name": "Desolation's Flower",
+        "url": "https://open.spotify.com/album/3AmTVBNLadBMNE4OlVro6S"
+      },
+      "artists": [
+        {
+          "name": "Ragana",
+          "url": "https://open.spotify.com/artist/3SwRHVTRoAEOkggZnCSFzt"
+        }
+      ],
+      "duration_ms": 509826,
+      "name": "Desolation's Flower",
+      "url": "https://open.spotify.com/track/7gX1NBorrOZqpLYBlRIW3F"
+    },
     {
       "added_at": "2023-07-28 19:57:14",
       "album": {

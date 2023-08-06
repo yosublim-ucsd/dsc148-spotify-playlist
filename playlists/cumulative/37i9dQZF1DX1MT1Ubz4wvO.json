@@ -22281,6 +22281,24 @@
     },
     {
       "album": {
+        "name": "Prototype God",
+        "url": "https://open.spotify.com/album/2enu0Pk9hnOLR1qmBlr2HJ"
+      },
+      "artists": [
+        {
+          "name": "Strike Master",
+          "url": "https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281214,
+      "name": "Prototype God",
+      "url": "https://open.spotify.com/track/2zZAx7Wdqgrv7mD0mZnTUM"
+    },
+    {
+      "album": {
         "name": "Provenza",
         "url": "https://open.spotify.com/album/67ihyeAL1wwakz5tBP2rLo"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 319987,
+  "num_followers": 320196,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGI2NWZkYzQxZmEzMTIyNjhjNTg4ZjlkZjI2MTVkOWU1ZDk4ZGYy",
+  "snapshot_id": "MCxkMjI0MWQ0NGE0MjMyMTQ0NTNmMzg5OTUyYzUzMTA2Y2FjMzBiZDI5",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:02",
@@ -91,18 +91,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Peace Be Still",
-        "url": "https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt"
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
       },
       "artists": [
         {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
         }
       ],
-      "duration_ms": 320173,
-      "name": "Peace Be Still",
-      "url": "https://open.spotify.com/track/4epvekncJds5DpsOOjBT9B"
+      "duration_ms": 242432,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -127,18 +127,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
+        "name": "Peace Be Still",
+        "url": "https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt"
       },
       "artists": [
         {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
         }
       ],
-      "duration_ms": 242432,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA"
+      "duration_ms": 320173,
+      "name": "Peace Be Still",
+      "url": "https://open.spotify.com/track/4epvekncJds5DpsOOjBT9B"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -347,6 +347,26 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        },
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "duration_ms": 175463,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/0KukPaDC7s9OVAaTu9rPaJ"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Forever Amen",
         "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 266826,
       "name": "Christ The Lord Is with Me (with Amanda Cook & Wonder Grace Gretzinger)",
       "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        },
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 175463,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/0KukPaDC7s9OVAaTu9rPaJ"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "It's a Wonderful Life",
-        "url": "https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz"
-      },
-      "artists": [
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 249321,
-      "name": "It's a Wonderful Life",
-      "url": "https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Songs from Home",
         "url": "https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 307062,
       "name": "Jesus My Beloved",
       "url": "https://open.spotify.com/track/4EsYYFhkGUz9kxjQzMx1D3"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "It's a Wonderful Life",
+        "url": "https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz"
+      },
+      "artists": [
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 249321,
+      "name": "It's a Wonderful Life",
+      "url": "https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "All Of My Best Friends (Acoustic)",
-        "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 293160,
-      "name": "Lord Send Revival - Acoustic",
-      "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Be My Shalom",
         "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 146400,
       "name": "Holy, Holy, Holy",
       "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "All Of My Best Friends (Acoustic)",
+        "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 293160,
+      "name": "Lord Send Revival - Acoustic",
+      "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
     },
     {
       "added_at": "2023-02-07 17:43:02",

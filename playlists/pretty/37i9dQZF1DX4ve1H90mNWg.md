@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. <br/> Cover:  <a href="https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1?si=p9UUD7S\-TvabLVShoGN47A">Jastin Martin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,495 likes - 63 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,517 likes - 63 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 31 | [OFF THE PORCH \(feat\. BigXthaPlug & Maxo Kream\)](https://open.spotify.com/track/7Am9RFay6kI4ZBjipOG4GX) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [TEXAS BOY](https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH) | 3:50 |
 | 32 | [Luckily I’m Having \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/5ugcpEprRXs0HnZ1iMFXed) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:14 |
 | 33 | [Pappadeaux Platter](https://open.spotify.com/track/2eP7YDwUqXemRLIRBCUPWX) | [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Bigger in Texas](https://open.spotify.com/album/2OQ10CiT7RBD3iuQugkBLF) | 3:39 |
-| 34 | [Have To Ask My Lawyer](https://open.spotify.com/track/0yhXcB0iKiT9Da2vYqZlIX) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Have To Ask My Lawyer](https://open.spotify.com/album/47ydvVEJK9HRMW31Td47WL) | 2:37 |
+| 34 | [Have To Ask My Lawyer](https://open.spotify.com/track/0yhXcB0iKiT9Da2vYqZlIX) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Have To Ask My Lawyer](https://open.spotify.com/album/47ydvVEJK9HRMW31Td47WL) | 2:37 |
 | 35 | [Stick Em Up](https://open.spotify.com/track/0ePtVaqb25AXuM2U0z40lZ) | [Trapboy Freddy](https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN) | [Stick Em Up](https://open.spotify.com/album/2IiY0VwkL8TQMRHwvY2Dx3) | 2:46 |
 | 36 | [Underground Legends](https://open.spotify.com/track/2x4HMvgnuakc5jBOp6m509) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Underground Legends](https://open.spotify.com/album/0tAc3eRGwVuNO2VgJqSMM7) | 2:34 |
 | 37 | [Kendrick, Clae & Cole](https://open.spotify.com/track/2BD0jcjePv4l4gV7REcXv5) | [Marqus Clae](https://open.spotify.com/artist/6CMbYeF5Lb3RZjnig0rSBT) | [Kendrick, Clae & Cole](https://open.spotify.com/album/2to434EtJZs2LaWC8hjif5) | 2:14 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 62 | [How Far Will I Go](https://open.spotify.com/track/4ncYcTdHKitoQD0Tl9QGdh) | [BBY KODIE](https://open.spotify.com/artist/7Mkl8rsG7ZMoh0SZPuVZUW), [StarTheOnly1](https://open.spotify.com/artist/26w6ju9nUgkrOeyoUpGcQu) | [No Time to Cry, Vol\. 3](https://open.spotify.com/album/3uA0kcmIcIailGhrhr9cQv) | 4:16 |
 | 63 | [Put You On](https://open.spotify.com/track/2ww9GlMlxUJm18MmeEMpIN) | [Delishia J](https://open.spotify.com/artist/09crxlMyW5sgP5fnp1q94P) | [Monday Morning](https://open.spotify.com/album/1yDOQ6RP1g3Z0k7wS0V2Qe) | 3:50 |
 
-Snapshot ID: `MCwwYzk2NGY0OWZkOTU3ZWJiNmQ4NTViMDNkMTg4ZDhmMTQ2NTA3Y2I0`
+Snapshot ID: `MCxmOTI2ZGE5NzVlOTJhZjU0YjFiMDdiYmIzNWM5NjE1ZGNmNjYxOTAx`

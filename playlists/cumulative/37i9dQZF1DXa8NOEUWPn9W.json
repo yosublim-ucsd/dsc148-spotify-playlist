@@ -3905,6 +3905,28 @@
     },
     {
       "album": {
+        "name": "Feel It Deep Inside",
+        "url": "https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG"
+      },
+      "artists": [
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153825,
+      "name": "Feel It Deep Inside",
+      "url": "https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9"
+    },
+    {
+      "album": {
         "name": "Feel Like Makin' Love (feat. Roberta Flack)",
         "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
       },
@@ -9589,6 +9611,28 @@
     },
     {
       "album": {
+        "name": "Pleasure Peak",
+        "url": "https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "Pleasure Peak",
+      "url": "https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d"
+    },
+    {
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6"
       },
@@ -11970,7 +12014,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 201713,
       "name": "The Boy Is Mine",
       "url": "https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF"
@@ -12880,7 +12924,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 243555,
       "name": "Very Last Drop",
       "url": "https://open.spotify.com/track/6F9RXfCiIo9TK06dWtSaEQ"

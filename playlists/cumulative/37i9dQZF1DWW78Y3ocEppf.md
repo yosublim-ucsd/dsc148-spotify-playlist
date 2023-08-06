@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: Dee Gatti
 
-537 songs - 1 day 4 hr 15 min
+538 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Closure \(feat\. H.E.R.\)](https://open.spotify.com/track/4QZlnnZzr2ikWn4jdiyFfk) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:03 | 2022-07-01 | 2023-01-28 |
 | [Cocaina](https://open.spotify.com/track/5ZIFTynXkVLyMtB0nGsrGZ) | [Young Deji](https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX) | [Acceptance](https://open.spotify.com/album/4UQeISwHr20Fxmz6UiMT6E) | 2:39 | 2023-04-28 | 2023-05-20 |
 | [Come First](https://open.spotify.com/track/0j6q1acgHc1gNkTiepU5LV) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Come First](https://open.spotify.com/album/7LWDRZYElyvnUydfYQ8poL) | 3:28 | 2022-08-05 | 2022-10-01 |
+| [Come See Me \- Pt\. 2](https://open.spotify.com/track/1KqT67yoCwR71L3kp777Gk) | [Teenear](https://open.spotify.com/artist/05F7ymnYcv8JdwxtDnmFO0), [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Come See Me \(Pt\. 2\)](https://open.spotify.com/album/4Y9NqP8D2qLqmnv584hzyM) | 3:00 | 2023-07-28 |  |
 | [Comeback.](https://open.spotify.com/track/4i1sWZe3erL8QVRCdwMoxT) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Comeback.](https://open.spotify.com/album/0YPxsm4lh9nFvkGYNSYXsa) | 3:03 | 2021-12-15 | 2022-07-02 |
 | [Coming Down \(with Ari Lennox\)](https://open.spotify.com/track/3p2HpO3ZgvFs97L15hGZOn) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:36 | 2022-04-04 | 2022-07-29 |
 | [COMPLEX OF KILLING A MAN](https://open.spotify.com/track/6ihpg1nZjVS5N7rLIWeEXn) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [COMPLEX OF KILLING A MAN](https://open.spotify.com/album/0kroCqy4KxlRc6gRT9PneG) | 3:11 | 2022-06-10 | 2022-07-22 |
@@ -407,7 +408,7 @@
 | [Same Mistakes](https://open.spotify.com/track/7drQynmcfwZhnAe31RoXgi) | [Ajiona Alexus](https://open.spotify.com/artist/2LST6cTV6yrNH5CWy5kTNK) | [Same Mistakes](https://open.spotify.com/album/20LbAUSSlWkdfTfoHKNf27) | 3:06 | 2021-12-15 | 2022-04-18 |
 | [Same Space? \- Remix](https://open.spotify.com/track/1sVEcxx3au6WWt8WcQO4N9) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Same Space? \(Remix\)](https://open.spotify.com/album/5KTLZx1qToHWZJJp83C3H6) | 4:08 | 2021-12-15 | 2022-07-29 |
 | [Satisfied](https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Satisfied](https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn) | 2:38 | 2022-11-04 |  |
-| [Scorpio Moon](https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Scorpio Moon](https://open.spotify.com/album/2NpMbftxDxTwKI2CAVz6gv) | 2:57 | 2023-03-24 |  |
+| [Scorpio Moon](https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Scorpio Moon](https://open.spotify.com/album/2NpMbftxDxTwKI2CAVz6gv) | 2:57 | 2023-03-24 | 2023-08-06 |
 | [SCORPIO MOON \- A COLORS SHOW](https://open.spotify.com/track/6D1FytV3a4tYR6O8Q2w83z) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [SCORPIO MOON \- A COLORS SHOW](https://open.spotify.com/album/1rqrKsQxo2QEjN4IwW0bbc) | 2:55 | 2022-10-07 | 2023-03-25 |
 | [Second Chances\. \(ft\. 6LACK\)](https://open.spotify.com/track/6t5MVzUCfeK1ASDMkKadxW) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [KIKI](https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh) | 3:12 | 2022-02-04 | 2022-04-04 |
 | [See Through](https://open.spotify.com/track/14ILAhTQBNHj5FUs8W6P04) | [Masati](https://open.spotify.com/artist/6Ca21SJ709vzZufDLMQakl) | [See Through](https://open.spotify.com/album/6OkDwxwu7ISJ4yXsRUwU4W) | 3:22 | 2021-12-15 | 2022-04-21 |

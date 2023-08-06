@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 158806,
+  "num_followers": 159194,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmFkN2YxMjQ0NTY4MmQ2NDBjOGFmNjUyYjI2NzQxNDIwMjRmNTkw",
+  "snapshot_id": "MCxlMjdjNTA5YjM1MjNhODg5MDMwYmUxMmZhYjAxOTU2MTgxOWRiNzMz",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -111,6 +111,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 260320,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Isaac Chambers & Dub Princess",
         "url": "https://open.spotify.com/album/56Wz4bSbtZnnB5bdYroHvW"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 336000,
       "name": "Move On",
       "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Chan Chan",
-        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 260320,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -693,6 +693,22 @@
       "url": "https://open.spotify.com/track/5cymR1aelP1UGn0wSsLLcq"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Apolinar",
+        "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
+      },
+      "artists": [
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Temazcal",
+      "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
+    },
+    {
       "added_at": "2023-06-01 16:52:29",
       "album": {
         "name": "RAMA",
@@ -711,22 +727,6 @@
       "duration_ms": 307882,
       "name": "Rama",
       "url": "https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Apolinar",
-        "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Temazcal",
-      "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -917,20 +917,24 @@
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
-      "added_at": "2023-02-02 00:29:46",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+        "name": "Sano",
+        "url": "https://open.spotify.com/album/4XxbqdjpU5IDVYxHpILsRk"
       },
       "artists": [
         {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "LUVI TORRES",
+          "url": "https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ"
         }
       ],
-      "duration_ms": 178573,
-      "name": "satsuma",
-      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
+      "duration_ms": 200786,
+      "name": "Sano",
+      "url": "https://open.spotify.com/track/65x71PXeGjlMy5ooVPDVEU"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -953,24 +957,36 @@
       "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2023-02-02 00:29:46",
       "album": {
-        "name": "Sano",
-        "url": "https://open.spotify.com/album/4XxbqdjpU5IDVYxHpILsRk"
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
       },
       "artists": [
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "LUVI TORRES",
-          "url": "https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ"
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
         }
       ],
-      "duration_ms": 200786,
-      "name": "Sano",
-      "url": "https://open.spotify.com/track/65x71PXeGjlMy5ooVPDVEU"
+      "duration_ms": 178573,
+      "name": "satsuma",
+      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Sonido Amazonico",
+        "url": "https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1"
+      },
+      "artists": [
+        {
+          "name": "Chicha Libre",
+          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
+        }
+      ],
+      "duration_ms": 257333,
+      "name": "Sonido Amazonico",
+      "url": "https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Sonido Amazonico",
-        "url": "https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1"
-      },
-      "artists": [
-        {
-          "name": "Chicha Libre",
-          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
-        }
-      ],
-      "duration_ms": 257333,
-      "name": "Sonido Amazonico",
-      "url": "https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
         "url": "https://open.spotify.com/album/7lwzhzgV4j0WKksieLPrAs"
       },
@@ -1029,26 +1029,6 @@
       "url": "https://open.spotify.com/track/2hT92797LxyO6oZsQ6zaC9"
     },
     {
-      "added_at": "2023-05-09 00:18:41",
-      "album": {
-        "name": "Poco a Poco (Remix)",
-        "url": "https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW"
-      },
-      "artists": [
-        {
-          "name": "Ilse Hendrix",
-          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 177099,
-      "name": "Poco a Poco - Remix",
-      "url": "https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Tropical Gypsy",
@@ -1063,26 +1043,6 @@
       "duration_ms": 181926,
       "name": "Tropical Gypsy",
       "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
-    },
-    {
-      "added_at": "2023-03-31 18:14:20",
-      "album": {
-        "name": "Dubby Sunday",
-        "url": "https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Israel Arteaga",
-          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
-        }
-      ],
-      "duration_ms": 348662,
-      "name": "Dubby Sunday",
-      "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1107,6 +1067,46 @@
       "duration_ms": 254033,
       "name": "Caf\u00e9 Com Leite - Boog\u00e1t Remix",
       "url": "https://open.spotify.com/track/5MuqsRxbN6bEgl7zYxKMw3"
+    },
+    {
+      "added_at": "2023-05-09 00:18:41",
+      "album": {
+        "name": "Poco a Poco (Remix)",
+        "url": "https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW"
+      },
+      "artists": [
+        {
+          "name": "Ilse Hendrix",
+          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 177099,
+      "name": "Poco a Poco - Remix",
+      "url": "https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT"
+    },
+    {
+      "added_at": "2023-03-31 18:14:20",
+      "album": {
+        "name": "Dubby Sunday",
+        "url": "https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+        }
+      ],
+      "duration_ms": 348662,
+      "name": "Dubby Sunday",
+      "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
     },
     {
       "added_at": "2022-06-15 04:26:09",

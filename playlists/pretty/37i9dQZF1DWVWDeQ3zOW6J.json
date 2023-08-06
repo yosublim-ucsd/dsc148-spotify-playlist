@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 36598,
+  "num_followers": 36625,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDZmNmY2YmM1ZGU5OGUwYzgyNDNlYWE3MGNmMzE4MmM3YTZkYTFh",
+  "snapshot_id": "MCw5YWRjMTBiOGVlOWYzYmNlYzM3ZTk2ZGNlNDNlNWIxMWRlNTU1OWU3",
   "tracks": [
     {
       "added_at": "2023-02-13 22:55:50",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "El Maestro",
-        "url": "https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 502920,
-      "name": "El Fais\u00e1n",
-      "url": "https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
         "name": "Aqui Estoy Yo, Vol. 1",
         "url": "https://open.spotify.com/album/00kLg7atNIIaRc63s93Dry"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 207817,
       "name": "Brujeria",
       "url": "https://open.spotify.com/track/6RVNMkVUHijxWQnGOOeOa1"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "El Maestro",
+        "url": "https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 502920,
+      "name": "El Fais\u00e1n",
+      "url": "https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -1003,38 +1003,6 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Para los Rumberos",
-        "url": "https://open.spotify.com/album/0NO0lAOqHxaM5wCdSZ8x8P"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 181093,
-      "name": "Salsa Y Sabor",
-      "url": "https://open.spotify.com/track/6PK9NhUfcPQL5vfkg44dYE"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
-        "name": "Apollo Sound 9",
-        "url": "https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
-        }
-      ],
-      "duration_ms": 442622,
-      "name": "Marejada Feliz",
-      "url": "https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
         "name": "La Verdad de Joe Arroyo",
         "url": "https://open.spotify.com/album/74zkwPCMHbyZhPnLE0fSE3"
       },
@@ -1055,22 +1023,54 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/15w229yWe9GblGtWjJC753"
+        "name": "Apollo Sound 9",
+        "url": "https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT"
       },
       "artists": [
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Pete \"El Conde\" Rodriguez",
-          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
         }
       ],
-      "duration_ms": 246720,
-      "name": "La Esencia Del Guaguanc\u00f3",
-      "url": "https://open.spotify.com/track/09ivtKa1GxucyzH3qFMBOL"
+      "duration_ms": 442622,
+      "name": "Marejada Feliz",
+      "url": "https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "Para los Rumberos",
+        "url": "https://open.spotify.com/album/0NO0lAOqHxaM5wCdSZ8x8P"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 181093,
+      "name": "Salsa Y Sabor",
+      "url": "https://open.spotify.com/track/6PK9NhUfcPQL5vfkg44dYE"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "La Quiniela del D\u00eda",
+        "url": "https://open.spotify.com/album/6rFq3pKoKjFSkxigEd7Smw"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        },
+        {
+          "name": "Cortijo Y Su Combo",
+          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
+        }
+      ],
+      "duration_ms": 304320,
+      "name": "Agua Que Va A Caer",
+      "url": "https://open.spotify.com/track/417oy2mvDKzeiDFdTORBSJ"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -1095,22 +1095,18 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "La Quiniela del D\u00eda",
-        "url": "https://open.spotify.com/album/6rFq3pKoKjFSkxigEd7Smw"
+        "name": "Az\u00facar pa' Ti",
+        "url": "https://open.spotify.com/album/7ABnsWLl8iiyVqkpR9ZRGT"
       },
       "artists": [
         {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        },
-        {
-          "name": "Cortijo Y Su Combo",
-          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 304320,
-      "name": "Agua Que Va A Caer",
-      "url": "https://open.spotify.com/track/417oy2mvDKzeiDFdTORBSJ"
+      "duration_ms": 569240,
+      "name": "Az\u00facar",
+      "url": "https://open.spotify.com/track/4j0CkYOhOdPyWjfpEL1sWM"
     }
   ],
   "unique_name": "Cocina con Salsa",

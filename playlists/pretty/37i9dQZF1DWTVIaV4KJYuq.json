@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 685069,
+  "num_followers": 685212,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YThmY2I4NmMxZjA1ODVkZDk3OGU5MWE4MDNjYTA4ZmUwYzU3ZDI0",
+  "snapshot_id": "MCw3NGE3YTJhMzA2OWU2OGJjNjA1MTQwNTQzMGQ2NjhhNDE1NjhiOTY1",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 191813,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju"
+      "duration_ms": 196772,
+      "name": "I Can't Make You Love Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 196772,
-      "name": "I Can't Make You Love Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+      "duration_ms": 191813,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Into The Mystic",
+        "url": "https://open.spotify.com/album/6v01VtaOOLotmKhVpje5CX"
+      },
+      "artists": [
+        {
+          "name": "Andy Kong",
+          "url": "https://open.spotify.com/artist/0Qrp8cpHBz47dbOyPfzzhP"
+        }
+      ],
+      "duration_ms": 168354,
+      "name": "Into The Mystic",
+      "url": "https://open.spotify.com/track/2pYFL5jaZhhPSAy0sYQ2oj"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 308756,
       "name": "Love and Happiness",
       "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Home Again / It's Too Late",
-        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Into The Mystic",
-        "url": "https://open.spotify.com/album/6v01VtaOOLotmKhVpje5CX"
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
       },
       "artists": [
         {
-          "name": "Andy Kong",
-          "url": "https://open.spotify.com/artist/0Qrp8cpHBz47dbOyPfzzhP"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 168354,
-      "name": "Into The Mystic",
-      "url": "https://open.spotify.com/track/2pYFL5jaZhhPSAy0sYQ2oj"
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1831,18 +1831,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "You'll Never Walk Alone",
-        "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1q9zrdj7DWcEjLbnHNbc3M"
       },
       "artists": [
         {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+          "name": "Teddy Geiger",
+          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
+        },
+        {
+          "name": "teddy<3",
+          "url": "https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW"
         }
       ],
-      "duration_ms": 118476,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
+      "duration_ms": 241193,
+      "name": "Brass in Pocket",
+      "url": "https://open.spotify.com/track/1WWjk9bvVsFDcMgpG3hG7t"
     }
   ],
   "unique_name": "Classic Covers",

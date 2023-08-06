@@ -4,14 +4,14 @@
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-45 songs - 2 hr 8 min
+46 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Auf einem Baum ein Kuckuck saß](https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Kinderlieder \- umgedacht & neu gemacht](https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8) | 2:20 | 2023-06-28 |  |
 | [Blüht ein Blümlein](https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW) | [KIDDINX Music](https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8) | [Frühlingslieder \(Omas schönste\)](https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz) | 1:35 | 2023-06-28 |  |
 | [Boom Schakkalakka](https://open.spotify.com/track/0K1YxwGmBvJrD4vQErPniv) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Boom Schakkalakka](https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq) | 3:19 | 2023-06-28 |  |
-| [Das Farbenlied](https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Lern\- und Spaßlieder](https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL) | 3:06 | 2023-06-28 |  |
+| [Das Farbenlied](https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Lern\- und Spaßlieder](https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL) | 3:06 | 2023-06-28 | 2023-08-06 |
 | [Das kleine Kaninchen](https://open.spotify.com/track/7pcgrkYOwcGbCF6Ej2Cfyg) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Tierische Kinderlieder zum Mitsingen und Mitmachen](https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz) | 2:46 | 2023-06-28 |  |
 | [Das Lied Vom Sommer](https://open.spotify.com/track/0BOKpBh5fifQRTzXkIkzaE) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 1:56 | 2023-06-28 |  |
 | [Das Sommertier](https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Das Sommertier](https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz) | 2:27 | 2023-06-28 |  |
@@ -41,6 +41,7 @@
 | [Rumspringen](https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ) | [Bernd Begemann](https://open.spotify.com/artist/4OY3MNylZg1nxCpFILirnH), [Belinda](https://open.spotify.com/artist/6tfFPvA0Pw2jbDrhVoNHxY) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 2:29 | 2023-06-28 |  |
 | [Schokoladeneis](https://open.spotify.com/track/1mERxFZxRWNOXbryNKlIRW) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Tanzfieber!](https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2) | 3:27 | 2023-06-28 |  |
 | [Sommerkinder](https://open.spotify.com/track/1KZwH2Xz20o8ixlFbc5dw1) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Sommerkinder](https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH) | 2:56 | 2023-06-28 |  |
+| [Sommertag](https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Sommertag](https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf) | 2:08 | 2023-08-04 |  |
 | [Sonnenkäferlied](https://open.spotify.com/track/0JO4ZvcJ1kGE84TH8C9YOV) | [Kalle Klang](https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM), [Die Flohtöne](https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm), [Sing Kinderlieder](https://open.spotify.com/artist/0FaGQhzs7L0uIuUdjolB1n) | [Sing mit mir Kinderlieder 4](https://open.spotify.com/album/5SgiKSIJZIr6nhEoYNEIIY) | 2:23 | 2023-06-28 |  |
 | [Summ, summ, summ](https://open.spotify.com/track/0DLD4cVr5pGVY5dTzfo8QE) | [Kalle Klang](https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM), [Die Flohtöne](https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm), [Sing Kinderlieder](https://open.spotify.com/artist/0FaGQhzs7L0uIuUdjolB1n) | [Sing mit mir Kinderlieder](https://open.spotify.com/album/4gDvWioaiyrWrSmAWxLf6t) | 2:16 | 2023-06-28 |  |
 | [Unter dem Meer](https://open.spotify.com/track/1TGdhVJgT8iWOPu9QjyXzF) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 3](https://open.spotify.com/album/5VZGaclaVcOskXydrnfbRd) | 3:07 | 2023-06-28 |  |

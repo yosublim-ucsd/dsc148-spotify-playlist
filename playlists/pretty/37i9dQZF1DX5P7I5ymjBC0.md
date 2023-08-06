@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Where Sitar meets Guitar\. Cover \- Shakti
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,268 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,312 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 33 | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Aastha Mandle](https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA) | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4) | 6:20 |
 | 34 | [Natkhat Nadiya](https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Songs Of The River \- Ganga](https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn) | 5:39 |
 | 35 | [Raghupati](https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Raghupati](https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW) | 5:04 |
-| 36 | [Kinaray](https://open.spotify.com/track/3chvS4B3KaT7wCyoVLO88I) | [Mekaal Hassan Band](https://open.spotify.com/artist/0XSTzPae7xbdt1ZH0fbpZR) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 4:21 |
-| 37 | [Rang Na](https://open.spotify.com/track/1FZTOS0J00x7DOZSPy7O4r) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW), [Harshit Chauhan](https://open.spotify.com/artist/3gxPqYrwdyntStcjSNp6wg) | [Rang Na](https://open.spotify.com/album/3eSpfU1vDX4HTPrguHSQjT) | 4:14 |
+| 36 | [Rang Na](https://open.spotify.com/track/1FZTOS0J00x7DOZSPy7O4r) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW), [Harshit Chauhan](https://open.spotify.com/artist/3gxPqYrwdyntStcjSNp6wg) | [Rang Na](https://open.spotify.com/album/3eSpfU1vDX4HTPrguHSQjT) | 4:14 |
+| 37 | [Kinaray](https://open.spotify.com/track/3chvS4B3KaT7wCyoVLO88I) | [Mekaal Hassan Band](https://open.spotify.com/artist/0XSTzPae7xbdt1ZH0fbpZR) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 4:21 |
 | 38 | [Seekho Na](https://open.spotify.com/track/0hFEqnYMbPJab6KjdKETkx) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Ab Ke Sawan](https://open.spotify.com/album/2VQ9C15delsfFKIqbQwscv) | 5:55 |
 | 39 | [Ithlati](https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Mann Bheetar](https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz) | 6:27 |
 | 40 | [Purvayi](https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp) | 5:10 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 47 | [Ras Ke Bhare](https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Ras Ke Bhare](https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9) | 3:53 |
 | 48 | [Thaare Bina](https://open.spotify.com/track/4qPEj1futdyovzkDQkbBcz) | [Prashanth Srinivas](https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu), [Swaroop Khan](https://open.spotify.com/artist/5hT3CHUnrkUFsgGAvEPSQC), [Sukanya Purkayastha](https://open.spotify.com/artist/4MxomN78tgwq8HCasnFIIH) | [Thaare Bina](https://open.spotify.com/album/3yPCdVh7cFYiy8heF8s1eC) | 5:23 |
 | 49 | [Yatra](https://open.spotify.com/track/7FYVWjUfB9spZUV8gMAVHP) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ), [Barry Phillips](https://open.spotify.com/artist/1brcPh4P7zt4AU7MELrnqI) | [Rang](https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV) | 6:22 |
-| 50 | [Longing](https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Night Song](https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs) | 5:35 |
+| 50 | [Krishna Murari](https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644) | [Hrishikesh Datar](https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08), [Shilpa Puntambekar](https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho), [Savani Kulkarni](https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T) | [Krishna Murari](https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp) | 3:45 |
 
-Snapshot ID: `MCxkMDc2OGJiNjU1OWNiZDI2YzMwMzFiNDA0NWU5MDA2YzVlM2JlOGEz`
+Snapshot ID: `MCxhZWRjZTk4NGNlMzA2MjU3MTU2ZDdhYWFlMjdlYzMxOTRjYTczMjJh`

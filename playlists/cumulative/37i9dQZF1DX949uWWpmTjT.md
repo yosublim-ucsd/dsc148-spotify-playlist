@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-681 songs - 1 day 21 hr 9 min
+682 songs - 1 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Morning Break](https://open.spotify.com/track/1IXLCaoZZxsjIC1ke4dm6E) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Morning Break](https://open.spotify.com/album/00e4qwtnnNFvjW6aNurKFa) | 3:23 | 2023-03-16 |  |
 | [Morning Dew](https://open.spotify.com/track/0RV9OLeD2CyK9fudrSW5Wt) | [Kupiers & Winter](https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g) | [Morning Dew](https://open.spotify.com/album/5hHXDIsxBFgX6NjBgbMPJY) | 3:40 | 2023-03-30 |  |
 | [Morristown Blue](https://open.spotify.com/track/2yfDEMRiDN5lvCYJiRvefD) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Morristown Blue](https://open.spotify.com/album/3mvq8WFbWietlyrYBceJPw) | 3:49 | 2023-03-23 |  |
+| [Mountains, Trees and Seas](https://open.spotify.com/track/6h52zNa8ChwfY3SuQb1NzD) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Mountains, Trees and Seas](https://open.spotify.com/album/16xRAk41n6Qpmz0kput949) | 5:06 | 2023-08-03 |  |
 | [Muddy Trail](https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Muddy Trail](https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J) | 3:40 | 2023-01-05 |  |
 | [Mulled Wine](https://open.spotify.com/track/0vmKw0Rn07BRuhBBfOqIPq) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Mulled Wine](https://open.spotify.com/album/4CkQOAKGVlc6mjXHRwsKbK) | 3:27 | 2023-04-20 |  |
 | [My first kiss](https://open.spotify.com/track/30VQy0OHXjam8lKkpsZF4Z) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [My first kiss](https://open.spotify.com/album/1Qhe73UDyVrdfpi6j3Ymnw) | 3:24 | 2023-03-09 |  |
@@ -577,7 +578,7 @@
 | [The Days of Wine and Roses](https://open.spotify.com/track/4mummEvXDYUwKdTiMV55UI) | [Sentimental Mood Trio](https://open.spotify.com/artist/3P5GWV6ACWtiwq71Y5KYcD) | [The Days of Wine and Roses](https://open.spotify.com/album/5wLINKGGSQJ4A1hxCHS5z2) | 5:19 | 2023-06-15 |  |
 | [the first time I saw you](https://open.spotify.com/track/2mxkWAgoZBU1lRmxp8KEBt) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [the first time I saw you](https://open.spotify.com/album/1L8MHKjTmFHlcwinpZgWZn) | 2:55 | 2023-04-14 |  |
 | [The Flow of Your Way](https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 3:26 | 2022-11-10 |  |
-| [The Itsy Bitsy Spider](https://open.spotify.com/track/7vUTrdcsrbu8SrA8NYorom) | [Ben Paterson](https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG) | [Jazz Lullaby](https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7) | 2:53 | 2023-06-15 |  |
+| [The Itsy Bitsy Spider](https://open.spotify.com/track/7vUTrdcsrbu8SrA8NYorom) | [Ben Paterson](https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG) | [Jazz Lullaby](https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7) | 2:53 | 2023-06-15 | 2023-08-06 |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2022-11-10 |  |
 | [The Light Over Chesapeake Bay](https://open.spotify.com/track/1O8ViqXWjVY5e6vOuR2xd8) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [The Light Over Chesapeake Bay](https://open.spotify.com/album/7BB0MZIPtkhhHUMIVWYBeh) | 4:44 | 2023-06-15 |  |
 | [The Meadows](https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [The Meadows](https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6) | 3:15 | 2023-02-16 |  |

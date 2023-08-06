@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "30 Anos Na Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15qEQ0gH57j9rh4CfV1aPu"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281173,
+      "name": "Sonda-Me - Ao Vivo",
+      "url": "https://open.spotify.com/track/05LEhK6vQi7SbdWguMm8Ti"
+    },
+    {
+      "album": {
         "name": "Aline Barros - Gospel Collection Ao Vivo",
         "url": "https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx"
       },

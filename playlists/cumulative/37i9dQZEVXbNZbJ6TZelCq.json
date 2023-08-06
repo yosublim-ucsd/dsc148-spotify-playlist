@@ -898,7 +898,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 172192,
       "name": "Aia e",
       "url": "https://open.spotify.com/track/4DtQZIcQCsZx89Ur1ouilo"
@@ -4219,6 +4219,24 @@
     },
     {
       "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/5EdywpzXePN2J6F5ZsECOH"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188388,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/05zxU4ZY8mMfJJsiVH1Sjg"
+    },
+    {
+      "album": {
         "name": "PARTYPACKZ+",
         "url": "https://open.spotify.com/album/2guawWgUALy3GEau1LBk5g"
       },
@@ -4444,7 +4462,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 198000,
       "name": "COLENTINA TEI",
       "url": "https://open.spotify.com/track/2ItmiFI3ydREqmCdsZjQqK"
@@ -10276,7 +10294,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "IN LIPSA TA",
       "url": "https://open.spotify.com/track/60sy8u1IoawaNCSKG0g7t9"
@@ -15292,7 +15310,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 133875,
       "name": "Obsesia",
       "url": "https://open.spotify.com/track/2ix7hMK7NMeHAFVsm5dlfK"
@@ -16866,7 +16884,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 206666,
       "name": "PRAF 2",
       "url": "https://open.spotify.com/track/7C7fxYADplhQoLZ72qAPqL"
@@ -19314,7 +19332,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 166285,
       "name": "SHOTGUN",
       "url": "https://open.spotify.com/track/0EIUssA2gv881GM16RzSQy"
@@ -21414,7 +21432,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
@@ -22110,7 +22128,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
@@ -23612,7 +23630,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 139354,
       "name": "VREM",
       "url": "https://open.spotify.com/track/6mBitYebZxZUyW8UgyI8TP"

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Residente",
-  "num_followers": 482984,
+  "num_followers": 483064,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGJkNjE3ZjIwMmZmNTk0N2M1MGI4NjVkM2YyOGRjNDgwMGUxZjQ4",
+  "snapshot_id": "MCw3OWQ3ZGY1MTA3YzU0MjUxZmJmOTA2YjQ3ZTMyOGVhOTgwMDE0MTZh",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -108,7 +108,7 @@
       "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Mustang 65'",
-        "url": "https://open.spotify.com/album/42EHvFRsQtspIer2baInn7"
+        "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
       },
       "artists": [
         {
@@ -118,7 +118,7 @@
       ],
       "duration_ms": 130000,
       "name": "Mustang 65'",
-      "url": "https://open.spotify.com/track/4AukEZfhVeIzapCkwjJXGA"
+      "url": "https://open.spotify.com/track/3vVnKrR31NraqoVTMIm0Cp"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "LYKE MIKE",
+        "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 187897,
+      "name": "M\u00cdRENME AHORA",
+      "url": "https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Sr. Santos",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
@@ -391,22 +407,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "LYKE MIKE",
-        "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 187897,
-      "name": "M\u00cdRENME AHORA",
-      "url": "https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "El R",
         "url": "https://open.spotify.com/album/2wNUVU8fYpulfUQEVHZcmX"
       },
@@ -419,42 +419,6 @@
       "duration_ms": 362071,
       "name": "El R",
       "url": "https://open.spotify.com/track/5jtKmeD6iq49e04qF1T4yW"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Inmortales",
-        "url": "https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV"
-      },
-      "artists": [
-        {
-          "name": "Bardero$",
-          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
-        }
-      ],
-      "duration_ms": 190017,
-      "name": "Aquella Noche",
-      "url": "https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 201535,
-      "name": "Si Salimos",
-      "url": "https://open.spotify.com/track/7GfQEUSuqYGeY2L0BfVOXM"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -483,6 +447,42 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 201535,
+      "name": "Si Salimos",
+      "url": "https://open.spotify.com/track/7GfQEUSuqYGeY2L0BfVOXM"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Inmortales",
+        "url": "https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        }
+      ],
+      "duration_ms": 190017,
+      "name": "Aquella Noche",
+      "url": "https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
         "url": "https://open.spotify.com/album/4rEAYu2WaOofCf9KpyFKO7"
       },
@@ -503,26 +503,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "X5",
-        "url": "https://open.spotify.com/album/1R8bJ89ssIjfaf2nojNyXf"
+        "name": "Sr. Santos",
+        "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
       "artists": [
         {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
-          "name": "Galee Galee",
-          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         },
         {
-          "name": "Piero 47",
-          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         }
       ],
-      "duration_ms": 195555,
-      "name": "X5",
-      "url": "https://open.spotify.com/track/5Ocr2jOr3Qs5ncv4Fduvzk"
+      "duration_ms": 208845,
+      "name": "Bottas",
+      "url": "https://open.spotify.com/track/5G5Xl4HHGJM6MrMAUIb538"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -559,26 +559,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Sr. Santos",
-        "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
+        "name": "X5",
+        "url": "https://open.spotify.com/album/1R8bJ89ssIjfaf2nojNyXf"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
         },
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
         },
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
         }
       ],
-      "duration_ms": 208845,
-      "name": "Bottas",
-      "url": "https://open.spotify.com/track/5G5Xl4HHGJM6MrMAUIb538"
+      "duration_ms": 195555,
+      "name": "X5",
+      "url": "https://open.spotify.com/track/5Ocr2jOr3Qs5ncv4Fduvzk"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1047,6 +1047,30 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Feria en el Sobre",
+        "url": "https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 194100,
+      "name": "Feria en el Sobre",
+      "url": "https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "MAMA",
         "url": "https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO"
       },
@@ -1147,46 +1171,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "obst\u00e1culo",
-        "url": "https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 135704,
-      "name": "obst\u00e1culo",
-      "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Lolita Ayala",
-          "url": "https://open.spotify.com/artist/3vclShttQzqMIebjvfYfKr"
-        }
-      ],
-      "duration_ms": 108266,
-      "name": "Tocando Tierra",
-      "url": "https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Cuando Todo Acaba",
         "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
       },
@@ -1219,6 +1203,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Lolita Ayala",
+          "url": "https://open.spotify.com/artist/3vclShttQzqMIebjvfYfKr"
+        }
+      ],
+      "duration_ms": 108266,
+      "name": "Tocando Tierra",
+      "url": "https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Morena 420",
         "url": "https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC"
       },
@@ -1239,18 +1243,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Eternamente",
-        "url": "https://open.spotify.com/album/6eHJ3AnPmuxpS519h43UCG"
+        "name": "obst\u00e1culo",
+        "url": "https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 243200,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/71tUVS9wwekoX9qg494zq9"
+      "duration_ms": 135704,
+      "name": "obst\u00e1culo",
+      "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1311,30 +1319,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Gangsta Grillz: Mvrda Gvng",
-        "url": "https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos"
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/6eHJ3AnPmuxpS519h43UCG"
       },
       "artists": [
         {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 231100,
-      "name": "Milano Town (with DJ Drama, Shiva & Murda Beatz)",
-      "url": "https://open.spotify.com/track/5DQeBcULJsfMgppYOw28Ps"
+      "duration_ms": 243200,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/71tUVS9wwekoX9qg494zq9"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1375,6 +1371,34 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Gangsta Grillz: Mvrda Gvng",
+        "url": "https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 231100,
+      "name": "Milano Town (with DJ Drama, Shiva & Murda Beatz)",
+      "url": "https://open.spotify.com/track/5DQeBcULJsfMgppYOw28Ps"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Ni Miedo Ni Piedad",
         "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
       },
@@ -1387,22 +1411,6 @@
       "duration_ms": 278181,
       "name": "Ni Miedo Ni Piedad",
       "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Afuera Que Tengan Miedo",
-        "url": "https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Afuera Que Tengan Miedo",
-      "url": "https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1423,22 +1431,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Jaguar",
-        "url": "https://open.spotify.com/album/5DxjVYkGm326bIHaFv6nvX"
+        "name": "Afuera Que Tengan Miedo",
+        "url": "https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51"
       },
       "artists": [
         {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 195313,
-      "name": "Jaguar",
-      "url": "https://open.spotify.com/track/3k3Hm3PBmnE7bNCExKOxFm"
+      "duration_ms": 163000,
+      "name": "Afuera Que Tengan Miedo",
+      "url": "https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1459,6 +1463,26 @@
       "duration_ms": 225923,
       "name": "No Puedo Olvidarte",
       "url": "https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Jaguar",
+        "url": "https://open.spotify.com/album/5DxjVYkGm326bIHaFv6nvX"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "duration_ms": 195313,
+      "name": "Jaguar",
+      "url": "https://open.spotify.com/track/3k3Hm3PBmnE7bNCExKOxFm"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1663,26 +1687,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Ahi voy",
-        "url": "https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4"
-      },
-      "artists": [
-        {
-          "name": "El Pinche Mara",
-          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-        },
-        {
-          "name": "Royal Religion",
-          "url": "https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX"
-        }
-      ],
-      "duration_ms": 225621,
-      "name": "Ahi voy",
-      "url": "https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "La Mision 3",
         "url": "https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6"
       },
@@ -1703,6 +1707,26 @@
       "duration_ms": 282598,
       "name": "La Mision 3",
       "url": "https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Ahi voy",
+        "url": "https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Royal Religion",
+          "url": "https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX"
+        }
+      ],
+      "duration_ms": 225621,
+      "name": "Ahi voy",
+      "url": "https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1815,38 +1839,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/4jXbZdlo97CFzoRodQlB9t"
+        "name": "Stripper X",
+        "url": "https://open.spotify.com/album/5O3Z3LXXRc6QmdDerBMgaM"
       },
       "artists": [
         {
-          "name": "Badguychapo",
-          "url": "https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl"
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
         },
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 224004,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/2wapNEqqu0aiD73B0uSXZA"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "NUDE",
-        "url": "https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 175718,
-      "name": "NUDE",
-      "url": "https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L"
+      "duration_ms": 160426,
+      "name": "Stripper X",
+      "url": "https://open.spotify.com/track/5UlAeEQEgkT8oVauCfbunJ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1895,6 +1903,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/4jXbZdlo97CFzoRodQlB9t"
+      },
+      "artists": [
+        {
+          "name": "Badguychapo",
+          "url": "https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 224004,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/2wapNEqqu0aiD73B0uSXZA"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Bebi Demasiado",
         "url": "https://open.spotify.com/album/1g8IVrqLI8ZwCvBSp0UoCZ"
       },
@@ -1911,22 +1939,34 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Stripper X",
-        "url": "https://open.spotify.com/album/5O3Z3LXXRc6QmdDerBMgaM"
+        "name": "Gucci En Mis Pies",
+        "url": "https://open.spotify.com/album/2BsIAX7gf3766JS3tdH0ys"
       },
       "artists": [
         {
-          "name": "lil joujou",
-          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
         }
       ],
-      "duration_ms": 160426,
-      "name": "Stripper X",
-      "url": "https://open.spotify.com/track/5UlAeEQEgkT8oVauCfbunJ"
+      "duration_ms": 231000,
+      "name": "Gucci En Mis Pies",
+      "url": "https://open.spotify.com/track/4RhKIBupRs3ID7Svb8kiwX"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "NUDE",
+        "url": "https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 175718,
+      "name": "NUDE",
+      "url": "https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1951,22 +1991,6 @@
       "duration_ms": 176010,
       "name": "Tu Vaquero Espacial",
       "url": "https://open.spotify.com/track/4Aoateww5S7sAtrdpy1a6b"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Gucci En Mis Pies",
-        "url": "https://open.spotify.com/album/2BsIAX7gf3766JS3tdH0ys"
-      },
-      "artists": [
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Gucci En Mis Pies",
-      "url": "https://open.spotify.com/track/4RhKIBupRs3ID7Svb8kiwX"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2035,22 +2059,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "No Ten\u00edamos Nada, Pero \u00c9ramos Felices",
-        "url": "https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 266306,
-      "name": "Diana",
-      "url": "https://open.spotify.com/track/75e2FoLDDTQdOtEpoN26cA"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "\u00bfQu\u00e9 Hay Que Hacer?",
         "url": "https://open.spotify.com/album/79tcHrJgNxrDK0io6YfZ76"
       },
@@ -2063,26 +2071,6 @@
       "duration_ms": 155897,
       "name": "\u00bfQu\u00e9 Hay Que Hacer?",
       "url": "https://open.spotify.com/track/2tiXLneyqVcxCKqvu68ttD"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "LQRA Session #14",
-        "url": "https://open.spotify.com/album/4ySdVWAQMgIcytZ2lMbyji"
-      },
-      "artists": [
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "LQRA Session #14",
-      "url": "https://open.spotify.com/track/3aizSWR2gxLPgkp7Y2aBI7"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2103,6 +2091,26 @@
       "duration_ms": 140130,
       "name": "PUFF",
       "url": "https://open.spotify.com/track/0A6nNAq5m3IqEAgTss3SM8"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "LQRA Session #14",
+        "url": "https://open.spotify.com/album/4ySdVWAQMgIcytZ2lMbyji"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "LQRA Session #14",
+      "url": "https://open.spotify.com/track/3aizSWR2gxLPgkp7Y2aBI7"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2163,26 +2171,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Holy Shit (Remix)",
-        "url": "https://open.spotify.com/album/0IzxukhRLKI3fU3HIaSIC1"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 207887,
-      "name": "Holy Shit - Remix",
-      "url": "https://open.spotify.com/track/1OzhsvZSKTMUZRjo4al9cA"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "La Gracia De Dios",
         "url": "https://open.spotify.com/album/08s0FhULMFKmc0lhgeo2Jv"
       },
@@ -2211,6 +2199,26 @@
       "duration_ms": 270897,
       "name": "La Gracia De Dios",
       "url": "https://open.spotify.com/track/08mntOthYaS6L1TClH3oYR"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Holy Shit (Remix)",
+        "url": "https://open.spotify.com/album/0IzxukhRLKI3fU3HIaSIC1"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 207887,
+      "name": "Holy Shit - Remix",
+      "url": "https://open.spotify.com/track/1OzhsvZSKTMUZRjo4al9cA"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2247,6 +2255,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "FXCK Remix",
+        "url": "https://open.spotify.com/album/4k6SCubTn9rspGzZeQjLss"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 245446,
+      "name": "Fxck Remix",
+      "url": "https://open.spotify.com/track/2Jll95vwNEnHnFkfg9bteA"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Ya Ni Se",
         "url": "https://open.spotify.com/album/6KOEiapvapKQuuAIS17mtO"
       },
@@ -2267,26 +2295,6 @@
       "duration_ms": 218231,
       "name": "Ya Ni Se",
       "url": "https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "FXCK Remix",
-        "url": "https://open.spotify.com/album/4k6SCubTn9rspGzZeQjLss"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 245446,
-      "name": "Fxck Remix",
-      "url": "https://open.spotify.com/track/2Jll95vwNEnHnFkfg9bteA"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2607,26 +2615,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "\u00bfC\u00f3mo la Ves?",
-        "url": "https://open.spotify.com/album/6pJJqdr623TQUPapMVXJOE"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Maniako",
-          "url": "https://open.spotify.com/artist/4XVWGb0bUVdiBhmWbSKSF3"
-        }
-      ],
-      "duration_ms": 243692,
-      "name": "\u00bfC\u00f3mo la Ves?",
-      "url": "https://open.spotify.com/track/342NXTpdRNBSXqDzwr8scg"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Cuando Todo Acaba",
         "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
       },
@@ -2643,6 +2631,26 @@
       "duration_ms": 175208,
       "name": "Seguimos Controlando",
       "url": "https://open.spotify.com/track/3E1WD6DTUTgIn5Tfpgg6Zz"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "\u00bfC\u00f3mo la Ves?",
+        "url": "https://open.spotify.com/album/6pJJqdr623TQUPapMVXJOE"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Maniako",
+          "url": "https://open.spotify.com/artist/4XVWGb0bUVdiBhmWbSKSF3"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "\u00bfC\u00f3mo la Ves?",
+      "url": "https://open.spotify.com/track/342NXTpdRNBSXqDzwr8scg"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2767,6 +2775,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Sin Drama",
+        "url": "https://open.spotify.com/album/7gsfgYpAf2qlXGrQjtq28b"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        }
+      ],
+      "duration_ms": 241655,
+      "name": "Sin Drama",
+      "url": "https://open.spotify.com/track/6yi3uBliwfNqJUqnilf3d6"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Drug Dealer",
         "url": "https://open.spotify.com/album/0V11CgvmJjeZLsIaQTsQki"
       },
@@ -2799,26 +2827,6 @@
       "duration_ms": 179999,
       "name": "WYS",
       "url": "https://open.spotify.com/track/1InUVYG8swCemrFK6ErUj4"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Sin Drama",
-        "url": "https://open.spotify.com/album/7gsfgYpAf2qlXGrQjtq28b"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        }
-      ],
-      "duration_ms": 241655,
-      "name": "Sin Drama",
-      "url": "https://open.spotify.com/track/6yi3uBliwfNqJUqnilf3d6"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2939,6 +2947,30 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "No Boss",
+        "url": "https://open.spotify.com/album/15nxcV0yqMGcL56vfPDyQJ"
+      },
+      "artists": [
+        {
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Ael",
+          "url": "https://open.spotify.com/artist/3QMm6BBmdbYnKsKm07FU7o"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "No Boss",
+      "url": "https://open.spotify.com/track/3X0Ugwq4bxaPeq9GORDY6x"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/5m4PdMMeRstbV80iHCmwqf"
       },
@@ -2959,70 +2991,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Las Guaguas Van",
-        "url": "https://open.spotify.com/album/2U81Oho8uXTqZyxNy17UTw"
+        "name": "Rap Real",
+        "url": "https://open.spotify.com/album/1JJUAAKZTXMCiL4xVExIr1"
       },
       "artists": [
         {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        },
-        {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        },
-        {
-          "name": "Chucky73",
-          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
-        },
-        {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
-        },
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        },
-        {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
         }
       ],
-      "duration_ms": 491200,
-      "name": "Las Guaguas Van",
-      "url": "https://open.spotify.com/track/76SUe8d76nFlVIMbcG3Dx6"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/2YtJX0cvKYb15qco5fmkBn"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 208205,
-      "name": "Desahogo",
-      "url": "https://open.spotify.com/track/1ILgMB4ggj3jEUGgeFRs9K"
+      "duration_ms": 254642,
+      "name": "Rap Real",
+      "url": "https://open.spotify.com/track/0KQ8p68z7SxYLZVkqxGST0"
     }
   ],
   "unique_name": "Mucho Rap",

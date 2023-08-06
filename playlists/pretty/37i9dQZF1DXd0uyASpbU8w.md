@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5?si=7x4G3Ka2QJyO\_hOjb90eWA">Doja Cat</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,327 likes - 71 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,361 likes - 71 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 11 | [City Of Dreams \(feat\. Chris Brown\)](https://open.spotify.com/track/2nLKcpdoIX6oFo5npWHVF4) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heart Full of Rage 2](https://open.spotify.com/album/1paIukF9TxaYwBpYbyFdOt) | 2:40 |
 | 12 | [Ray Of Solar](https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Ray Of Solar](https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb) | 4:01 |
 | 13 | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/album/4alOM8XlyGXSsr3IIlshl8) | 3:21 |
-| 14 | [Waya](https://open.spotify.com/track/1Lns0UTuRt98pcYQvNW3MP) | [Benny Chill](https://open.spotify.com/artist/1uJg0HEhieOSn2XW4nSSF1), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Waya](https://open.spotify.com/album/5sNak7LY72ggfl933MsTxC) | 4:59 |
+| 14 | [Waya](https://open.spotify.com/track/1Lns0UTuRt98pcYQvNW3MP) | [Benny Chill](https://open.spotify.com/artist/1uJg0HEhieOSn2XW4nSSF1), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Mustbedubz](https://open.spotify.com/artist/5mgakxehZfMH23hQRLcy9p) | [Waya](https://open.spotify.com/album/5sNak7LY72ggfl933MsTxC) | 4:59 |
 | 15 | [Ntabez'kude](https://open.spotify.com/track/1zzsxya4fENlmev5fSjSkM) | [Nobantu Vilakazi](https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q), [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2), [Zwayetoven](https://open.spotify.com/artist/3iw79FjeZRNqeD8JkREr3j) | [Ntabez'kude](https://open.spotify.com/album/0dp0vOV96LQUdzpZtj7ZSe) | 7:33 |
 | 16 | [Ncono Majita \(Sghubu Sa Yummy\)](https://open.spotify.com/track/5rKYkAZQ2Td1QTWBQs30Ql) | [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Uncle Vinny](https://open.spotify.com/artist/2W7nPPpIexiZtYUFruBXBD), [FAKE LOVE](https://open.spotify.com/artist/6q1scEOnZSOfbc4tvhgOgC) | [Ncono Majita \(Sghubu Sa Yummy\)](https://open.spotify.com/album/3GwuvPHakwEEMTAN8bPzun) | 6:04 |
 | 17 | [Talk 2 Me \(feat\. BGRZ\)](https://open.spotify.com/track/00pWq1F4xyqPWPeo0hiUu8) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [Talk 2 Me \(feat\. BGRZ\)](https://open.spotify.com/album/11JX0v0Diz3q0FUpB12Q1b) | 2:53 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 70 | [Leave This Town](https://open.spotify.com/track/2UJNr5PUzkDpqqLriIJpqK) | [Broke 'n Free](https://open.spotify.com/artist/29zjs2vtld5vxaDuu2VnF5) | [Leave This Town](https://open.spotify.com/album/5JK1A5Cwstbtxyr8kppd96) | 3:21 |
 | 71 | [Last Stand](https://open.spotify.com/track/6Q8CVI78we0VBcoNWjvHCZ) | [Kenny Hughes](https://open.spotify.com/artist/6Y0yxjU9WEv7qauNd39OYL) | [Last Stand](https://open.spotify.com/album/0WP7arJEFFalCREptv9VS0) | 4:49 |
 
-Snapshot ID: `MCw2ZTZjOTc2MWQzZDNkNjcwOTA1MDMyZjM2NzM3ZjBmZGQyOTIwNzk0`
+Snapshot ID: `MCxmOTRlZjkzZDQxOGYxOTgzMzVkZDYyODdkNjdiZDVhOGUxMDY5Mjlk`

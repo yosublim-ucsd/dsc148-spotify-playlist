@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 30058,
+  "num_followers": 30069,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2U2YTllZDZmNzAwYzUxNTExMTdiMzBhZGM5NjcyZGYyN2E1Yzg3",
+  "snapshot_id": "MCw3MWJhODcyYjE3ZTVmMWFhZjhmMGJjOWViOWIwOTI0MGJhNjk2NWVj",
   "tracks": [
     {
       "added_at": "2023-08-04 12:54:04",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-08-04 12:54:04",
       "album": {
-        "name": "outside of your lifetime",
-        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
+        "name": "Under the Lilac Sky",
+        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
       },
       "artists": [
         {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 121000,
-      "name": "Withdrawal",
-      "url": "https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6"
+      "duration_ms": 240000,
+      "name": "My People Have Deep Roots",
+      "url": "https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0"
     },
     {
       "added_at": "2023-08-04 12:54:04",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-08-04 12:54:04",
       "album": {
+        "name": "outside of your lifetime",
+        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
+      },
+      "artists": [
+        {
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Withdrawal",
+      "url": "https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6"
+    },
+    {
+      "added_at": "2023-08-04 12:54:04",
+      "album": {
         "name": "is this nature escape",
         "url": "https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 212848,
       "name": "is this nature escape",
       "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
-    },
-    {
-      "added_at": "2023-08-04 12:54:04",
-      "album": {
-        "name": "Under the Lilac Sky",
-        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "My People Have Deep Roots",
-      "url": "https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0"
     },
     {
       "added_at": "2023-08-04 12:54:04",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-08-04 12:54:04",
       "album": {
-        "name": "Possessed (Original Score)",
-        "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
-      },
-      "artists": [
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        }
-      ],
-      "duration_ms": 387268,
-      "name": "Hyphae",
-      "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
-    },
-    {
-      "added_at": "2023-08-04 12:54:04",
-      "album": {
         "name": "The Flower And The Vessel",
         "url": "https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 478488,
       "name": "Moderato Cantabile",
       "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
+    },
+    {
+      "added_at": "2023-08-04 12:54:04",
+      "album": {
+        "name": "Possessed (Original Score)",
+        "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "duration_ms": 387268,
+      "name": "Hyphae",
+      "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
     },
     {
       "added_at": "2023-08-04 12:54:04",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-08-04 12:54:04",
       "album": {
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
+    },
+    {
+      "added_at": "2023-08-04 12:54:04",
+      "album": {
         "name": "The Spring of Dreams",
         "url": "https://open.spotify.com/album/5RByB1SOfHYoRaG2HHa8xT"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 302303,
       "name": "The Space of Love",
       "url": "https://open.spotify.com/track/6ObHLa9Rmr2aAGiZeKgWLR"
-    },
-    {
-      "added_at": "2023-08-04 12:54:04",
-      "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2023-08-04 12:54:04",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-08-04 12:54:04",
       "album": {
-        "name": "Eyes Set Against The Sun",
-        "url": "https://open.spotify.com/album/4IsaWRJswfh4mhXd4LBheN"
-      },
-      "artists": [
-        {
-          "name": "Mira Calix",
-          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
-        }
-      ],
-      "duration_ms": 78373,
-      "name": "A Cereus Night",
-      "url": "https://open.spotify.com/track/2xYxy6oYLHpa89b2E5bzxU"
-    },
-    {
-      "added_at": "2023-08-04 12:54:04",
-      "album": {
         "name": "Keep the Ocean Inside",
         "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 291026,
       "name": "Divining (naming of the Lost)",
       "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
+    },
+    {
+      "added_at": "2023-08-04 12:54:04",
+      "album": {
+        "name": "Eyes Set Against The Sun",
+        "url": "https://open.spotify.com/album/4IsaWRJswfh4mhXd4LBheN"
+      },
+      "artists": [
+        {
+          "name": "Mira Calix",
+          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
+        }
+      ],
+      "duration_ms": 78373,
+      "name": "A Cereus Night",
+      "url": "https://open.spotify.com/track/2xYxy6oYLHpa89b2E5bzxU"
     },
     {
       "added_at": "2023-08-04 12:54:04",
@@ -1391,22 +1391,18 @@
     {
       "added_at": "2023-08-04 12:54:04",
       "album": {
-        "name": "One Life : four remixes",
-        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
+        "name": "Sketch for Winter IX: Perlita",
+        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
       },
       "artists": [
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        },
-        {
-          "name": "Kelly Moran",
-          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
         }
       ],
-      "duration_ms": 296681,
-      "name": "Lost At Sea - Kelly Moran remix",
-      "url": "https://open.spotify.com/track/0My0fhq5AZ4AyndjDAL1YY"
+      "duration_ms": 266057,
+      "name": "Light in Phases",
+      "url": "https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin"
     },
     {
       "added_at": "2023-08-04 12:54:04",
@@ -1427,18 +1423,22 @@
     {
       "added_at": "2023-08-04 12:54:04",
       "album": {
-        "name": "Sketch for Winter IX: Perlita",
-        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
+        "name": "One Life : four remixes",
+        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
       "artists": [
         {
-          "name": "Carmen Villain",
-          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        },
+        {
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
         }
       ],
-      "duration_ms": 266057,
-      "name": "Light in Phases",
-      "url": "https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin"
+      "duration_ms": 296681,
+      "name": "Lost At Sea - Kelly Moran remix",
+      "url": "https://open.spotify.com/track/0My0fhq5AZ4AyndjDAL1YY"
     },
     {
       "added_at": "2023-08-04 12:54:04",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-08-04 12:54:04",
       "album": {
-        "name": "Anomi",
-        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
-      },
-      "artists": [
-        {
-          "name": "Sonja Tofik",
-          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Night Changes Many Thoughts",
-      "url": "https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU"
-    },
-    {
-      "added_at": "2023-08-04 12:54:04",
-      "album": {
         "name": "Epistasis",
         "url": "https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 571000,
       "name": "Epistasis",
       "url": "https://open.spotify.com/track/5aSDp6NmeEfxGg353TLPrO"
+    },
+    {
+      "added_at": "2023-08-04 12:54:04",
+      "album": {
+        "name": "Anomi",
+        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
+      },
+      "artists": [
+        {
+          "name": "Sonja Tofik",
+          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Night Changes Many Thoughts",
+      "url": "https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU"
     },
     {
       "added_at": "2023-08-04 12:54:04",

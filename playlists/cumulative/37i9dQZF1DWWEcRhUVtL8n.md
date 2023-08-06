@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Bennett Coast
 
-1,635 songs - 3 day 14 hr 15 min
+1,636 songs - 3 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1122,6 +1122,7 @@
 | [Peace Sounds](https://open.spotify.com/track/6ivjbk2DjrWrXamYSRWLcf) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Peace Sounds](https://open.spotify.com/album/5PgUA3B3q8OSS4QG9zEFQv) | 3:54 | 2022-06-03 | 2022-06-15 |
 | [Peaceful In My Mind](https://open.spotify.com/track/6pQcqaoZlGKF3zvglt6tvc) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Peaceful In My Mind](https://open.spotify.com/album/3qr8WlrGBQMrzpRL6ERL4B) | 2:49 | 2021-11-12 | 2022-09-17 |
 | [Peachi](https://open.spotify.com/track/4ZyxpYxjhjl3Eh0EQ2ssv1) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Peachi](https://open.spotify.com/album/0QKRu2MTcmHm3Kkq0WH9MG) | 2:55 | 2021-09-24 | 2022-04-09 |
+| [Peanut Butter & Tears](https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Peanut Butter & Tears](https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I) | 3:45 | 2023-08-04 |  |
 | [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [People Watching](https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw) | 2:38 | 2021-07-19 | 2023-01-24 |
 | [People, I've been sad](https://open.spotify.com/track/0KywIrJ4Xir4tS6q61aY1W) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [People, I've been sad](https://open.spotify.com/album/4RV4rhoQAX4KH7HME6AMnA) | 4:20 | 2021-02-24 | 2021-05-23 |
 | [Peppermint](https://open.spotify.com/track/3ctqg4MEmlXWYFmVOS3scN) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Peppermint](https://open.spotify.com/album/60pOtoZi07EpHXeae4G9tp) | 3:18 | 2022-04-29 | 2022-07-01 |
@@ -1520,7 +1521,7 @@
 | [Trying To Find Us](https://open.spotify.com/track/1K2tarXuo0RtA1VeeRkiuT) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [Trying To Find Us](https://open.spotify.com/album/1J9ubeevJRYrJgNDwkTpjA) | 2:32 | 2022-08-05 | 2022-08-20 |
 | [TV \(feat\. Pom Pom Squad\)](https://open.spotify.com/track/2dy5gd8IRckEx4iweoU6UR) | [Tyzo Bloom](https://open.spotify.com/artist/38fu1DhmEN33ALaBa7jGhI), [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [TV \(feat\. Pom Pom Squad\)](https://open.spotify.com/album/52NRgpwnqxUH7IPZ2Qebuu) | 4:06 | 2020-10-13\* | 2021-05-20 |
 | [tv kween](https://open.spotify.com/track/3Hb1ruUFpy5n5h8Tzh7niL) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [tv kween](https://open.spotify.com/album/04gJiOpEYDhcjqaDFQmOvZ) | 3:39 | 2021-02-22 | 2021-06-03 |
-| [Twin Flame](https://open.spotify.com/track/5mcV609IhNtRv4piyKSbWs) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Twin Flame](https://open.spotify.com/album/50YpMaIj4BoYL08Nu4wdiA) | 3:03 | 2023-06-09 |  |
+| [Twin Flame](https://open.spotify.com/track/5mcV609IhNtRv4piyKSbWs) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Twin Flame](https://open.spotify.com/album/50YpMaIj4BoYL08Nu4wdiA) | 3:03 | 2023-06-09 | 2023-08-06 |
 | [UGLY](https://open.spotify.com/track/4se5MOrdbpU4nJUOrcf5td) | [Celeste Allison](https://open.spotify.com/artist/0w2MWipQo91kgrOdu5GjlB) | [UGLY](https://open.spotify.com/album/4Ea6zC1w8jWvmnMJvSxWmK) | 3:42 | 2022-02-25 | 2022-07-29 |
 | [Ugly Ending](https://open.spotify.com/track/3r9yXRs067jbw1GkWpQVlC) | [Best Frenz](https://open.spotify.com/artist/2gUtWSZwLhDitFVAezHsfv), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [Jason Suwito](https://open.spotify.com/artist/74QeguyCOML1X9s4dXU2Dz) | [Ugly Ending](https://open.spotify.com/album/185zeWoF6jsptjvg2Ui1RG) | 3:58 | 2021-02-23 | 2021-05-26 |
 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-07 |  |

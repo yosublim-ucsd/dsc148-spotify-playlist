@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,028 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,596 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 12 | [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/track/7dDnis2a3lqOXHYuSrdcVL) | [KMJ](https://open.spotify.com/artist/0yuBErKkIfxbvwd7eXaBEI) | [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/album/3FdDZifanuNd6ju9m1zw5V) | 3:02 |
 | 13 | [EASY PEAZY](https://open.spotify.com/track/1e6ZXuLRtWnXhwvJftJYuB) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6), [Lestmor](https://open.spotify.com/artist/3udoTlgIpeC1VAFeR8BcPK) | [EASY PEAZY](https://open.spotify.com/album/2gcyMDMKwpT4kpZ1HhITH8) | 2:49 |
 | 14 | [NIGHT PHONK](https://open.spotify.com/track/0ze8n8jr6UP7n09NKxWCWn) | [COWBELL DYNASTY](https://open.spotify.com/artist/0uwj2FxW7u0FCZRlB4j37p) | [NIGHT PHONK](https://open.spotify.com/album/0AcaL7E1MdTZsMCwRK4MQz) | 1:22 |
-| 15 | [GET AWAY II](https://open.spotify.com/track/4QOhfu7ZdD8PEXRhFjOIT1) | [MXRGX](https://open.spotify.com/artist/6gbsXeoeYTUXGlYlxcKAMP), [NERONUS](https://open.spotify.com/artist/2J5FeaNi5K4F9xml5lWD0L) | [GET AWAY II](https://open.spotify.com/album/3dhZY3fzWK7RNaj0BktV4F) | 3:12 |
+| 15 | [GET AWAY II](https://open.spotify.com/track/3aI4COsiNptuCDITxvTRCq) | [MXRGX](https://open.spotify.com/artist/6gbsXeoeYTUXGlYlxcKAMP), [NERONUS](https://open.spotify.com/artist/2J5FeaNi5K4F9xml5lWD0L) | [GET AWAY II](https://open.spotify.com/album/7I7F1c3tOML8rUpki5pVfZ) | 3:12 |
 | 16 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 |
 | 17 | [Lunar](https://open.spotify.com/track/2OQ38YnV9PdxugWt8PHdSV) | [TTM](https://open.spotify.com/artist/4lYmoxpTYZxC4uPmmK8XrE) | [Lunar](https://open.spotify.com/album/1z58kSS94g0DKLVZzMtwEM) | 2:41 |
 | 18 | [make em suffer](https://open.spotify.com/track/5Q4a8tCHipcpbRbaR7AIx6) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [make em suffer](https://open.spotify.com/album/53qXD6YpXIWJYtvwl0UTlu) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 99 | [Spacewave](https://open.spotify.com/track/2WzK3sBkdRm0VvfSKJjXCu) | [Confirmbackup](https://open.spotify.com/artist/6Da2INMo1oIn9flRNiIZqk) | [Spacewave](https://open.spotify.com/album/5BWydJ3ORPcf5Z7cCmFuyJ) | 3:26 |
 | 100 | [This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI) | [my!lane](https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or) | [Sakura's Shadows](https://open.spotify.com/album/2Ve9vOvILPIDomVfrFr4bH) | 2:43 |
 
-Snapshot ID: `MCxhOWE5ZjM4Njk1Y2EyMTFiNDkzZGM0YzNlNDk1NjUyMTRkMzU5ODZi`
+Snapshot ID: `MCw0MzFjNWJmOWEyNWVkODg2NmJmYzdmYTJjYjcyZjc2ZGZhZDUxMzAy`

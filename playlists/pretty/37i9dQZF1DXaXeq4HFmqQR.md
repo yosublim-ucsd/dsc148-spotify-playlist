@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Paz Court.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,463 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,465 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 4 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
 | 5 | [Agarra](https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Agarra](https://open.spotify.com/album/36zOI4pViRyY786coy335g) | 3:01 |
 | 6 | [Poema](https://open.spotify.com/track/13BzFGCNdtII1pH4xSNkjh) | [Sarazul](https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0) | [Mercurio 52](https://open.spotify.com/album/5NnVjmKQbdlDzMQ0xXoOMo) | 1:03 |
-| 7 | [Niña](https://open.spotify.com/track/0pTBI1E5iFu247EtUA4Uu5) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 4:23 |
-| 8 | [Lo Que No Hablas](https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Lo Que No Hablas](https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE) | 3:28 |
+| 7 | [Lo Que No Hablas](https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Lo Que No Hablas](https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE) | 3:28 |
+| 8 | [Niña](https://open.spotify.com/track/0pTBI1E5iFu247EtUA4Uu5) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 4:23 |
 | 9 | [Horas contigo](https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 2:39 |
 | 10 | [Nabundearé](https://open.spotify.com/track/53qZjbmjh3d3nbzxEzKOkF) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/76XYjBKZrBuAj50Vyxpiur) | 2:55 |
 | 11 | [Amarte así](https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Amarte así](https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub) | 3:35 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 19 | [Picante](https://open.spotify.com/track/2Ll8wLJonJArsorf8oj2gI) | [22RUZZ](https://open.spotify.com/artist/53IGsPIDPEJbw5PbHdGgaO) | [22](https://open.spotify.com/album/2yb8vQapyQHxDj4t5JlaCw) | 2:02 |
 | 20 | [Si me dejas](https://open.spotify.com/track/4pCGMLMhgZlyseZ8Au5Nh1) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n), [Franz Mesko](https://open.spotify.com/artist/6tfDJJX5alHOFNYcxzHL66) | [La Niña Rayo](https://open.spotify.com/album/14VjpVYVi3CGHvJYuOrHWL) | 4:46 |
 | 21 | [La isla de Lesbos](https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [La isla de Lesbos](https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO) | 3:09 |
-| 22 | [Purga](https://open.spotify.com/track/0N40SPBpzzLUEbLhyWa3xA) | [Dania Neko](https://open.spotify.com/artist/6ehVh5kPMBixAL8VovNYeE) | [Depura](https://open.spotify.com/album/3vjJyFUnFaBtNwKxJkWmoI) | 1:38 |
-| 23 | [Cm no me va a doler?](https://open.spotify.com/track/6qM4WikwmfjWPDGwfA83tX) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Crónicas de un cora roto](https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2) | 3:32 |
+| 22 | [Cm no me va a doler?](https://open.spotify.com/track/6qM4WikwmfjWPDGwfA83tX) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Crónicas de un cora roto](https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2) | 3:32 |
+| 23 | [Purga](https://open.spotify.com/track/0N40SPBpzzLUEbLhyWa3xA) | [Dania Neko](https://open.spotify.com/artist/6ehVh5kPMBixAL8VovNYeE) | [Depura](https://open.spotify.com/album/3vjJyFUnFaBtNwKxJkWmoI) | 1:38 |
 | 24 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:19 |
 | 25 | [Mi Poder](https://open.spotify.com/track/3aOGGk2vLVaaB9hd22ELsW) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Mi Poder](https://open.spotify.com/album/565UI9ZusNFHOzmlLbCQhV) | 4:20 |
 | 26 | [Manzano](https://open.spotify.com/track/3NOf0QLsXrP9Urv50nkA5L) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Manzano](https://open.spotify.com/album/5NwWXF2UL3jwK5WY5aZrdi) | 3:12 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 41 | [Cielo](https://open.spotify.com/track/0L5c13t2CV26l6rDGOGVnI) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh), [Dj Efe](https://open.spotify.com/artist/4XdZAAWHiuwSW2gpTVWx4U) | [Cielo](https://open.spotify.com/album/6G7uBMlfcqqklEKiCki1ev) | 4:34 |
 | 42 | [Ritmo](https://open.spotify.com/track/6OnDDDF6rvkDcYlG3ZDLxV) | [Fran Ri](https://open.spotify.com/artist/2XOpsJ8j0Bk6hwQkaLxL5N), [NEKKI](https://open.spotify.com/artist/15QBk1448CF1yi0sRWffl8) | [Ritmo](https://open.spotify.com/album/2qQh3tdTsOhONQLwHKtzHP) | 3:01 |
 | 43 | [No más me dio](https://open.spotify.com/track/3bms00eq58V702DSRk7spN) | [Celeste Shaw](https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Gracias Por Lo Malo](https://open.spotify.com/album/7yQwWyQY21QDDr3Btezdzf) | 3:13 |
-| 44 | [Y Desaparezco](https://open.spotify.com/track/4VCqd7HlmBylZg9IuBNwuB) | [Valü](https://open.spotify.com/artist/6TCcFwuoh0WrNqwmipKXH1) | [Y Desaparezco](https://open.spotify.com/album/4CnVbor1eGuSxaFlQUKBr8) | 3:23 |
-| 45 | [Negra yo soy](https://open.spotify.com/track/1ZnD15I1GJjIMRcbNzKOIs) | [NEKKI](https://open.spotify.com/artist/15QBk1448CF1yi0sRWffl8), [Bibie Clarel](https://open.spotify.com/artist/7gETaFkd7xN3tvmXsqApIW), [Yinesiya](https://open.spotify.com/artist/3bOpEEWctyiWvEQK6PRqNB) | [Negra yo soy](https://open.spotify.com/album/38cTodODEGLlw1Il6vbDO4) | 4:06 |
+| 44 | [Negra yo soy](https://open.spotify.com/track/1ZnD15I1GJjIMRcbNzKOIs) | [NEKKI](https://open.spotify.com/artist/15QBk1448CF1yi0sRWffl8), [Bibie Clarel](https://open.spotify.com/artist/7gETaFkd7xN3tvmXsqApIW), [Yinesiya](https://open.spotify.com/artist/3bOpEEWctyiWvEQK6PRqNB) | [Negra yo soy](https://open.spotify.com/album/38cTodODEGLlw1Il6vbDO4) | 4:06 |
+| 45 | [Y Desaparezco](https://open.spotify.com/track/4VCqd7HlmBylZg9IuBNwuB) | [Valü](https://open.spotify.com/artist/6TCcFwuoh0WrNqwmipKXH1) | [Y Desaparezco](https://open.spotify.com/album/4CnVbor1eGuSxaFlQUKBr8) | 3:23 |
 | 46 | [Están Sacrificando](https://open.spotify.com/track/3U9RFMsbcCuX19x7C4YJnv) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Están Sacrificando](https://open.spotify.com/album/51UToZhC87oVvvwaK1edAX) | 3:08 |
 | 47 | [Amores](https://open.spotify.com/track/4cJX9kGnbP7teehHWiYECy) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Hay un fuego](https://open.spotify.com/album/63ZcAWqpRxNFHsFfxyE67V) | 3:56 |
 | 48 | [Para que más](https://open.spotify.com/track/2zXUr2usxiKNdaV8uyMh6k) | [Luta Cruz](https://open.spotify.com/artist/6Fzbkrh3lrfCZYK8xzZLm7) | [Primera Mujer](https://open.spotify.com/album/5Y4PCUyOZ643BqblohiBjE) | 3:37 |
-| 49 | [Temores](https://open.spotify.com/track/7L2dPSItNwM0gJIovdNWWS) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/5xiXFDgbaJhenJSuP5Rx2N) | 4:14 |
-| 50 | [Margarita](https://open.spotify.com/track/0mEj8Bj8CQnmNDzdxGhntx) | [CATAROH](https://open.spotify.com/artist/7G090Dm7RJ1lb7riAprrxq) | [Inamable](https://open.spotify.com/album/0wUXGXAL8piK9uq27upBt3) | 2:52 |
+| 49 | [Margarita](https://open.spotify.com/track/0mEj8Bj8CQnmNDzdxGhntx) | [CATAROH](https://open.spotify.com/artist/7G090Dm7RJ1lb7riAprrxq) | [Inamable](https://open.spotify.com/album/0wUXGXAL8piK9uq27upBt3) | 2:52 |
+| 50 | [Temores](https://open.spotify.com/track/7L2dPSItNwM0gJIovdNWWS) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/5xiXFDgbaJhenJSuP5Rx2N) | 4:14 |
 
-Snapshot ID: `MCw1MTQwZjEwMTE3YzkyNzBjZjY5YzY0MmIzOTEwZTczYjNkYzdhMWZm`
+Snapshot ID: `MCxkNGYzN2I2NzYwYTAyNDU4ZWRiYzEyNDllMWI1OTQwMDk5M2FlZDA1`

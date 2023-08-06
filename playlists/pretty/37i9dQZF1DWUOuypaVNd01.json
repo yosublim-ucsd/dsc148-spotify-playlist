@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk",
-  "num_followers": 31688,
+  "num_followers": 31703,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDRjYWJiZDE4ODI0NGEzYTQxNTI2NWQzYjczOGYyNGE3OWUwMzU3",
+  "snapshot_id": "MCxmMjVhMDU3YWY3MTE1ZjdkNjNlNmMzMDEwZDYwOWY5MmE1NGViYTBk",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -607,8 +607,8 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Rock Danger Worldwide/Chile",
-        "url": "https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o"
+        "name": "Rock Danger, Vol. 1",
+        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
       },
       "artists": [
         {
@@ -620,25 +620,13 @@
           "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
-        },
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
         }
       ],
-      "duration_ms": 192223,
-      "name": "Diz Quem Ta na Pista",
-      "url": "https://open.spotify.com/track/3KzDrMpWiFJ1F9deXPWfCI"
+      "duration_ms": 178005,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -767,8 +755,8 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Rock Danger, Vol. 1",
-        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
+        "name": "Rock Danger Worldwide/Chile",
+        "url": "https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o"
       },
       "artists": [
         {
@@ -780,13 +768,25 @@
           "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
         }
       ],
-      "duration_ms": 178005,
-      "name": "Dia de Baile",
-      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
+      "duration_ms": 192223,
+      "name": "Diz Quem Ta na Pista",
+      "url": "https://open.spotify.com/track/3KzDrMpWiFJ1F9deXPWfCI"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Runner (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Hy0svsjfcaf93LGtJyfxy"
-      },
-      "artists": [
-        {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
-        {
-          "name": "Showlivre",
-          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
-        }
-      ],
-      "duration_ms": 132884,
-      "name": "Runner - Ao Vivo",
-      "url": "https://open.spotify.com/track/4fZ2tJlUm4mzGWK8xRZxX9"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Eu Ainda",
         "url": "https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 188229,
       "name": "Eu Ainda",
       "url": "https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Runner (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Hy0svsjfcaf93LGtJyfxy"
+      },
+      "artists": [
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "Showlivre",
+          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
+        }
+      ],
+      "duration_ms": 132884,
+      "name": "Runner - Ao Vivo",
+      "url": "https://open.spotify.com/track/4fZ2tJlUm4mzGWK8xRZxX9"
     },
     {
       "added_at": "2023-08-04 03:01:00",

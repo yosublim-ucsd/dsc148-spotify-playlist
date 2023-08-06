@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist for hot new updates\. Cover: Ramon Vega, Christian Nodal
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,410 likes - 59 songs - 3 hr 14 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,408 likes - 59 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: This is LAST",
-  "num_followers": 6985,
+  "num_followers": 7015,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTYzYTNkNDMxNTFiMjIwM2UxYjA3ZWRhYjdkMzA3M2Q2MWI4MzQz",
+  "snapshot_id": "MCxiNTU5YWM3MjAxNjg5NzdkMDljM2Q2YmNkMDk4OWU4NDI0YTc2MmVi",
   "tracks": [
     {
       "added_at": "2023-08-03 15:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
+        "name": "\u30ea\u30ab",
+        "url": "https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE"
+      },
+      "artists": [
+        {
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+        }
+      ],
+      "duration_ms": 216366,
+      "name": "\u30ea\u30ab",
+      "url": "https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
         "name": "\u6843\u6e90\u90f7",
         "url": "https://open.spotify.com/album/7JN2dM1jZOPxwdonfULaU3"
       },
@@ -843,6 +859,22 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
+        "name": "\u304e\u3085\u3063\u3068\u3057\u3066\u3001",
+        "url": "https://open.spotify.com/album/4LzD5Xdc0hq088OeuA0JCH"
+      },
+      "artists": [
+        {
+          "name": "YUTORI-SEDAI",
+          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
+        }
+      ],
+      "duration_ms": 201140,
+      "name": "\u304e\u3085\u3063\u3068\u3057\u3066\u3001",
+      "url": "https://open.spotify.com/track/7EgrXPzuIqfr4a3soz8Dwk"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
         "name": "\u30e9\u30f4\u30a3\u30f3\u30b0",
         "url": "https://open.spotify.com/album/2pwuHsLpBLEzyH0LutULfq"
       },
@@ -859,18 +891,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u304e\u3085\u3063\u3068\u3057\u3066\u3001",
-        "url": "https://open.spotify.com/album/4LzD5Xdc0hq088OeuA0JCH"
+        "name": "\u672a\u604b",
+        "url": "https://open.spotify.com/album/4QhL2RqwlVwJy8S8hQJ7LA"
       },
       "artists": [
         {
-          "name": "YUTORI-SEDAI",
-          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
+          "name": "606\u53f7\u5ba4",
+          "url": "https://open.spotify.com/artist/50CaItPFaCPzuA8juPqWfI"
         }
       ],
-      "duration_ms": 201140,
-      "name": "\u304e\u3085\u3063\u3068\u3057\u3066\u3001",
-      "url": "https://open.spotify.com/track/7EgrXPzuIqfr4a3soz8Dwk"
+      "duration_ms": 173266,
+      "name": "\u672a\u604b",
+      "url": "https://open.spotify.com/track/7di9SUFpG3DttWIodKMhJ0"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -907,38 +939,6 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u672a\u604b",
-        "url": "https://open.spotify.com/album/4QhL2RqwlVwJy8S8hQJ7LA"
-      },
-      "artists": [
-        {
-          "name": "606\u53f7\u5ba4",
-          "url": "https://open.spotify.com/artist/50CaItPFaCPzuA8juPqWfI"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "\u672a\u604b",
-      "url": "https://open.spotify.com/track/7di9SUFpG3DttWIodKMhJ0"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
-        "name": "\u30ea\u30ab",
-        "url": "https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE"
-      },
-      "artists": [
-        {
-          "name": "SIX LOUNGE",
-          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
-        }
-      ],
-      "duration_ms": 216366,
-      "name": "\u30ea\u30ab",
-      "url": "https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
         "name": "Aoiharu",
         "url": "https://open.spotify.com/album/3iKkkzM6MXkAYSvYLWTVxN"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 178473,
       "name": "Aoiharu",
       "url": "https://open.spotify.com/track/3VSNqUnc1KhmPmlZXsbN40"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
-        "name": "\u304d\u304b\u3044\u306b\u304a\u307e\u304b\u305b",
-        "url": "https://open.spotify.com/album/1gR91YmF2tqpExx7B2bAeK"
-      },
-      "artists": [
-        {
-          "name": "\u5bb6\u4e3b",
-          "url": "https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "\u304d\u304b\u3044\u306b\u304a\u307e\u304b\u305b",
-      "url": "https://open.spotify.com/track/60nxFrHUdwZQNOKG4CbiyG"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 196231,
       "name": "\u590f\u306e\u5922\u306f",
       "url": "https://open.spotify.com/track/7x6kyQTNiScCMXbEQlqF1u"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "\u304d\u304b\u3044\u306b\u304a\u307e\u304b\u305b",
+        "url": "https://open.spotify.com/album/1gR91YmF2tqpExx7B2bAeK"
+      },
+      "artists": [
+        {
+          "name": "\u5bb6\u4e3b",
+          "url": "https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "\u304d\u304b\u3044\u306b\u304a\u307e\u304b\u305b",
+      "url": "https://open.spotify.com/track/60nxFrHUdwZQNOKG4CbiyG"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u6d6a\u6f2b",
-        "url": "https://open.spotify.com/album/0KEpY0QseuNMCJSvOrSaoZ"
-      },
-      "artists": [
-        {
-          "name": "PEDRO",
-          "url": "https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "\u611f\u50b7\u8b33\u6b4c",
-      "url": "https://open.spotify.com/track/3TLvVHq7a7fKlerM0SLnFd"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
         "name": "\u5b63\u7bc0\u3059\u3089\u8ffd\u3044\u629c\u3044\u3066",
         "url": "https://open.spotify.com/album/1gAHpVKkoX5GPmKHwOsx7f"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 193329,
       "name": "\u5b63\u7bc0\u3059\u3089\u8ffd\u3044\u629c\u3044\u3066",
       "url": "https://open.spotify.com/track/4P0Gq52E5FmBp4IAcJa2eh"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/0KEpY0QseuNMCJSvOrSaoZ"
+      },
+      "artists": [
+        {
+          "name": "PEDRO",
+          "url": "https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "\u611f\u50b7\u8b33\u6b4c",
+      "url": "https://open.spotify.com/track/3TLvVHq7a7fKlerM0SLnFd"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u306a\u3093\u3066\u3063\u305f\u3063\u3051\u30bf\u30a4\u30c8\u30eb",
-        "url": "https://open.spotify.com/album/3I2d15qzktWcG6itZBZPuE"
-      },
-      "artists": [
-        {
-          "name": "\u5c11\u5e74\u30ad\u30c3\u30ba\u30dc\u30a6\u30a4",
-          "url": "https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "\u306a\u3093\u3066\u3063\u305f\u3063\u3051\u30bf\u30a4\u30c8\u30eb",
-      "url": "https://open.spotify.com/track/20rrZeWHRaGY8iGx4WDJgU"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
         "name": "HEDONIST",
         "url": "https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 175959,
       "name": "hedonist.",
       "url": "https://open.spotify.com/track/1ilxwybAc0Sd3Gwc4oRKgi"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "\u306a\u3093\u3066\u3063\u305f\u3063\u3051\u30bf\u30a4\u30c8\u30eb",
+        "url": "https://open.spotify.com/album/3I2d15qzktWcG6itZBZPuE"
+      },
+      "artists": [
+        {
+          "name": "\u5c11\u5e74\u30ad\u30c3\u30ba\u30dc\u30a6\u30a4",
+          "url": "https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5"
+        }
+      ],
+      "duration_ms": 165733,
+      "name": "\u306a\u3093\u3066\u3063\u305f\u3063\u3051\u30bf\u30a4\u30c8\u30eb",
+      "url": "https://open.spotify.com/track/20rrZeWHRaGY8iGx4WDJgU"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Dancer in the Dark",
-        "url": "https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh"
+        "name": "\u604b\u306e\u30b8\u30e3\u30fc\u30ca\u30eb",
+        "url": "https://open.spotify.com/album/1oRp7okGGR1nfSNBirPdwX"
       },
       "artists": [
         {
-          "name": "age",
-          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
+          "name": "THE 2",
+          "url": "https://open.spotify.com/artist/668YZEv91Ux6vBKFwc3NLk"
         }
       ],
-      "duration_ms": 175532,
-      "name": "Dancer in the Dark",
-      "url": "https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI"
+      "duration_ms": 220545,
+      "name": "\u604b\u306e\u30b8\u30e3\u30fc\u30ca\u30eb",
+      "url": "https://open.spotify.com/track/7ue4j1Jq6f1xdgH5LXIxW6"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u604b\u306e\u30b8\u30e3\u30fc\u30ca\u30eb",
-        "url": "https://open.spotify.com/album/1oRp7okGGR1nfSNBirPdwX"
+        "name": "Dancer in the Dark",
+        "url": "https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh"
       },
       "artists": [
         {
-          "name": "THE 2",
-          "url": "https://open.spotify.com/artist/668YZEv91Ux6vBKFwc3NLk"
+          "name": "age",
+          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
         }
       ],
-      "duration_ms": 220545,
-      "name": "\u604b\u306e\u30b8\u30e3\u30fc\u30ca\u30eb",
-      "url": "https://open.spotify.com/track/7ue4j1Jq6f1xdgH5LXIxW6"
+      "duration_ms": 175532,
+      "name": "Dancer in the Dark",
+      "url": "https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u30b5\u30a4\u30c0\u30fc",
-        "url": "https://open.spotify.com/album/0GM5iHC2vIGJ5lLT9aweY1"
-      },
-      "artists": [
-        {
-          "name": "Bray me",
-          "url": "https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h"
-        }
-      ],
-      "duration_ms": 226145,
-      "name": "\u30b5\u30a4\u30c0\u30fc",
-      "url": "https://open.spotify.com/track/1IQlJLwD6QA5N4yIbDeIxt"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
         "name": "FICTION",
         "url": "https://open.spotify.com/album/2uCfgTfS5gVxOD1YFiebuE"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 248378,
       "name": "MUSICA",
       "url": "https://open.spotify.com/track/0QxcEG4UlDINiBqHp5rVTa"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "\u30b5\u30a4\u30c0\u30fc",
+        "url": "https://open.spotify.com/album/0GM5iHC2vIGJ5lLT9aweY1"
+      },
+      "artists": [
+        {
+          "name": "Bray me",
+          "url": "https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h"
+        }
+      ],
+      "duration_ms": 226145,
+      "name": "\u30b5\u30a4\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/1IQlJLwD6QA5N4yIbDeIxt"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/1CuGJcwvmYfj7yFWTurt13"
+      },
+      "artists": [
+        {
+          "name": "Monthly Mu & New Caledonia",
+          "url": "https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN"
+        }
+      ],
+      "duration_ms": 234375,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/7fqFrsnOKSqgv5pGLhaHk0"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
         "name": "19\u6b73/\u30b7\u30c3\u30c8\u30fb\u30d0\u30a4\u30a2\u30b9\u30fb\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
         "url": "https://open.spotify.com/album/5Sntp3QM3VhnDAJDD56eki"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 195904,
       "name": "19\u6b73",
       "url": "https://open.spotify.com/track/4PGO1WN2PBktU8BamRo80z"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
-        "name": "\u304f\u308b\u304f\u308b",
-        "url": "https://open.spotify.com/album/2IIFKW947pqijY5q6J21Lq"
-      },
-      "artists": [
-        {
-          "name": "Set Free",
-          "url": "https://open.spotify.com/artist/36vcyceqhQLnHVZgchCasA"
-        }
-      ],
-      "duration_ms": 222711,
-      "name": "\u304f\u308b\u304f\u308b",
-      "url": "https://open.spotify.com/track/3EALix0agClnyHbuqyIMWk"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/1CuGJcwvmYfj7yFWTurt13"
+        "name": "\u304f\u308b\u304f\u308b",
+        "url": "https://open.spotify.com/album/2IIFKW947pqijY5q6J21Lq"
       },
       "artists": [
         {
-          "name": "Monthly Mu & New Caledonia",
-          "url": "https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN"
+          "name": "Set Free",
+          "url": "https://open.spotify.com/artist/36vcyceqhQLnHVZgchCasA"
         }
       ],
-      "duration_ms": 234375,
-      "name": "Rollin'",
-      "url": "https://open.spotify.com/track/7fqFrsnOKSqgv5pGLhaHk0"
+      "duration_ms": 222711,
+      "name": "\u304f\u308b\u304f\u308b",
+      "url": "https://open.spotify.com/track/3EALix0agClnyHbuqyIMWk"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "HEART",
-        "url": "https://open.spotify.com/album/0u1S82PGHIoNsvHTLuy0Nz"
-      },
-      "artists": [
-        {
-          "name": "the shes gone",
-          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "\u30e0\u30b9\u30af\u306e\u9999\u308a",
-      "url": "https://open.spotify.com/track/6PHpLWetTcMeqMvdd3p2Uv"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
         "name": "\u76f4\u611fway",
         "url": "https://open.spotify.com/album/1rADCXSslYaBD3wMzqZ7ph"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 268535,
       "name": "\u76f4\u611fway",
       "url": "https://open.spotify.com/track/1xtF0TQdneGOGeRIhmcr1v"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "HEART",
+        "url": "https://open.spotify.com/album/0u1S82PGHIoNsvHTLuy0Nz"
+      },
+      "artists": [
+        {
+          "name": "the shes gone",
+          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "\u30e0\u30b9\u30af\u306e\u9999\u308a",
+      "url": "https://open.spotify.com/track/6PHpLWetTcMeqMvdd3p2Uv"
     },
     {
       "added_at": "2023-08-03 15:00:00",

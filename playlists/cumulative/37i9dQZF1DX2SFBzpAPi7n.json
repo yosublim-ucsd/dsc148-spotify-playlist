@@ -7953,6 +7953,24 @@
     },
     {
       "album": {
+        "name": "Verse 2",
+        "url": "https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN"
+      },
+      "artists": [
+        {
+          "name": "JJ Project",
+          "url": "https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235068,
+      "name": "Tomorrow, Today",
+      "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
+    },
+    {
+      "album": {
         "name": "Traffic light",
         "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
       },
@@ -9260,24 +9278,6 @@
       "duration_ms": 225640,
       "name": "\ub0b4 \uc778\uc0dd\uc740 \uc601\ud654\uac00 \uc544\ub2c8\ub2c8\uae50 Even if it's not a movie",
       "url": "https://open.spotify.com/track/3iNKeoWEHeOiggDyDUoQ1Z"
-    },
-    {
-      "album": {
-        "name": "Verse 2",
-        "url": "https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN"
-      },
-      "artists": [
-        {
-          "name": "JJ Project",
-          "url": "https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW"
-        }
-      ],
-      "date_added": "2022-04-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235068,
-      "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
-      "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
     },
     {
       "album": {

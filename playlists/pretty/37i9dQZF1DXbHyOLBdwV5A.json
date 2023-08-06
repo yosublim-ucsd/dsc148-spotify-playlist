@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 109189,
+  "num_followers": 109337,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTMyZWEyNDE0OWNlYzNkYWVmOTQ4ZDJmODFlMmM4MzU2N2FiNmVl",
+  "snapshot_id": "MCw1YjhjOWVmMGQ5Mzk5NTI4ZWM1NjI3OWViN2Q0NmMzODU0OWI1YTc5",
   "tracks": [
     {
       "added_at": "2023-08-04 17:54:32",
@@ -315,18 +315,22 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "A Sertaneja de Jesus",
-        "url": "https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg"
+        "name": "Controle (Remix)",
+        "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
       },
       "artists": [
         {
-          "name": "Carina Garay",
-          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         }
       ],
-      "duration_ms": 158733,
-      "name": "A Sertaneja de Jesus",
-      "url": "https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55"
+      "duration_ms": 159640,
+      "name": "Controle (Remix)",
+      "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -399,22 +403,18 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "Controle (Remix)",
-        "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
+        "name": "A Sertaneja de Jesus",
+        "url": "https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg"
       },
       "artists": [
         {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+          "name": "Carina Garay",
+          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
         }
       ],
-      "duration_ms": 159640,
-      "name": "Controle (Remix)",
-      "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
+      "duration_ms": 158733,
+      "name": "A Sertaneja de Jesus",
+      "url": "https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -607,30 +607,6 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "Onde Eu Quero Habitar",
-        "url": "https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
-        },
-        {
-          "name": "Guilherme Galdino",
-          "url": "https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA"
-        }
-      ],
-      "duration_ms": 242990,
-      "name": "Onde Eu Quero Habitar",
-      "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
-    },
-    {
-      "added_at": "2023-08-04 17:54:32",
-      "album": {
         "name": "Like Water",
         "url": "https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 161219,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
+    },
+    {
+      "added_at": "2023-08-04 17:54:32",
+      "album": {
+        "name": "Onde Eu Quero Habitar",
+        "url": "https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        },
+        {
+          "name": "Guilherme Galdino",
+          "url": "https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA"
+        }
+      ],
+      "duration_ms": 242990,
+      "name": "Onde Eu Quero Habitar",
+      "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -763,26 +763,30 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
-        "url": "https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il"
+        "name": "Encontrei o Meu Lugar (Remix)",
+        "url": "https://open.spotify.com/album/4hgCaDOMhntpliryE9N84R"
       },
       "artists": [
         {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
         },
         {
-          "name": "VITOHRIA SOUNDS",
-          "url": "https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN"
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
         },
         {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+          "name": "Jhonas Serra",
+          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+        },
+        {
+          "name": "Gabriell J\u00fanior",
+          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
         }
       ],
-      "duration_ms": 195140,
-      "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
-      "url": "https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm"
+      "duration_ms": 165967,
+      "name": "Encontrei o Meu Lugar - Remix",
+      "url": "https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -831,30 +835,6 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
-        "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
-      },
-      "artists": [
-        {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        },
-        {
-          "name": "Felson",
-          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
-        },
-        {
-          "name": "Izaac Santos",
-          "url": "https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip"
-        }
-      ],
-      "duration_ms": 161169,
-      "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
-      "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
-    },
-    {
-      "added_at": "2023-08-04 17:54:32",
-      "album": {
         "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
         "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
       },
@@ -875,6 +855,30 @@
       "duration_ms": 215625,
       "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
       "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
+    },
+    {
+      "added_at": "2023-08-04 17:54:32",
+      "album": {
+        "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
+        "url": "https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "VITOHRIA SOUNDS",
+          "url": "https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN"
+        },
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        }
+      ],
+      "duration_ms": 195140,
+      "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
+      "url": "https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -915,6 +919,30 @@
       "duration_ms": 209998,
       "name": "Tudo Vai Ficar Bem",
       "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
+    },
+    {
+      "added_at": "2023-08-04 17:54:32",
+      "album": {
+        "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
+        "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
+      },
+      "artists": [
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        },
+        {
+          "name": "Felson",
+          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
+        },
+        {
+          "name": "Izaac Santos",
+          "url": "https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip"
+        }
+      ],
+      "duration_ms": 161169,
+      "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
+      "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -983,34 +1011,6 @@
       "duration_ms": 147840,
       "name": "N\u00e3o Sou Merecedor",
       "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
-    },
-    {
-      "added_at": "2023-08-04 17:54:32",
-      "album": {
-        "name": "Encontrei o Meu Lugar (Remix)",
-        "url": "https://open.spotify.com/album/4hgCaDOMhntpliryE9N84R"
-      },
-      "artists": [
-        {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        },
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
-        },
-        {
-          "name": "Gabriell J\u00fanior",
-          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
-        }
-      ],
-      "duration_ms": 165967,
-      "name": "Encontrei o Meu Lugar - Remix",
-      "url": "https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
+        "name": "Tomado",
+        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "Tomado",
+      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
+    },
+    {
+      "added_at": "2023-08-04 17:54:32",
+      "album": {
         "name": "Dono da Minha Vida (Remix)",
         "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 205714,
       "name": "Dono da Minha Vida - Remix",
       "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
-    },
-    {
-      "added_at": "2023-08-04 17:54:32",
-      "album": {
-        "name": "Tomado",
-        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "Tomado",
-      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
     },
     {
       "added_at": "2023-08-04 17:54:32",

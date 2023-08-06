@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Job Kurian
 
-101 songs - 7 hr 6 min
+103 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Athiru Kaakkum](https://open.spotify.com/track/6kwkD4YCRU4pH1NeY1vqt6) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Athiru Kaakkum](https://open.spotify.com/album/4UCDnO9iM4ANbFUG4OV9LW) | 3:42 | 2022-12-22 |  |
 | [Be Free](https://open.spotify.com/track/25iXD24rJ3QByQl58vG5hB) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN) | [Kuthu Fire](https://open.spotify.com/album/1t6ey57jKPumpSusx0mMKn) | 3:27 | 2022-12-22 |  |
 | [Bliss Adiche Dishqum Aayie \- From "Olam"](https://open.spotify.com/track/2V98irSeShcB8yZRqvXR9Q) | [Arun Thomas](https://open.spotify.com/artist/2a6BrIDvpkTMf00YJrRRuR), [Nauf Bava](https://open.spotify.com/artist/3MQZvamCrsH4LLsWy0AfMm) | [Bliss Adiche Dishqum Aayie \(From "Olam"\)](https://open.spotify.com/album/4L9rh1Cfjg6m2Lx7csfrJl) | 2:36 | 2023-06-29 | 2023-07-28 |
+| [Bloom in Green](https://open.spotify.com/track/6UhEBIm3jqq7l07WP1ckbA) | [Sekhar Menon](https://open.spotify.com/artist/1cpwQb4p8o8eFSWCfzGlYw), [Kavitha Mohan](https://open.spotify.com/artist/1R9gEh4Lzw6a5p4Ab569n6) | [Co Creation Project: Kappa Originals x Bloom In Green '22](https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL) | 4:20 | 2023-08-05 |  |
 | [Chayapattu](https://open.spotify.com/track/4y7DF2YwXJPcYpX9mFl8pW) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn) | 2:29 | 2022-06-23 |  |
 | [Chekele](https://open.spotify.com/track/0qQbAdaUAXz3niHgqKL6Xj) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:01 | 2022-11-21 |  |
 | [Chekele](https://open.spotify.com/track/0hVxx4yyDgx6kkhXEpLqeT) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Archana Mohan Iyer](https://open.spotify.com/artist/28aw8AhOzmnkmx07DqMkFX) | [Chekele](https://open.spotify.com/album/7Ma2OjPf1ZUR2cAsEVYT18) | 3:27 | 2022-07-28 | 2023-07-28 |
@@ -33,6 +34,7 @@
 | [Ettam Pattu](https://open.spotify.com/track/1Qdtb5KTgYNN5U6eeuw2jA) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:49 | 2023-07-27 |  |
 | [Fish Rock](https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Fish Rock](https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv) | 4:19 | 2022-12-22 |  |
 | [FLYHIGH](https://open.spotify.com/track/7ityoGyYiTmp1kx67xKpFa) | [Arjun Vijay](https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB) | [FLYHIGH \- Malayalam](https://open.spotify.com/album/2RcxDrHSWRep3bFlpkXd2D) | 3:55 | 2023-07-01 | 2023-07-28 |
+| [Green Bean](https://open.spotify.com/track/4Fy7zmLbPiGDYhmp6ziHwi) | [Jatayu](https://open.spotify.com/artist/4FRg3iQY9IQNzFiEs29WtK) | [Co Creation Project: Kappa Originals x Bloom In Green '22](https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL) | 2:31 | 2023-08-05 |  |
 | [GVQ](https://open.spotify.com/track/5ujiob8B2fy0UiLvJWr1cK) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 4:50 | 2022-12-22 |  |
 | [I.O.Y.A \(Ayyo Vayye\)](https://open.spotify.com/track/2hs0eVQRkBiGw8nLPN2rIu) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [I.O.Y.A \(Ayyo Vayye\)](https://open.spotify.com/album/3oKCeBPVdQrbrIU28yml2n) | 3:45 | 2023-07-28 |  |
 | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/track/1Nbpz9rxSKE5updGyb6BWk) | [Anuj Sekhar](https://open.spotify.com/artist/2YP3KghNwinD6VZLZuhcnO) | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/album/1wtxX4unoVitQl19pXC00o) | 2:01 | 2023-05-19 | 2023-07-28 |

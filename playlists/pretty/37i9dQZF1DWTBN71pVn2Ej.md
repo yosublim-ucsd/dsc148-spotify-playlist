@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,767 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,827 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 49 | [Nothing's Stopping Me Now](https://open.spotify.com/track/4UjQm1Qfdjh4NXdisHSuve) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Nothing's Stopping Me Now](https://open.spotify.com/album/7KwlS3OCShHi4ArDNFyyRf) | 3:06 |
 | 50 | [California King](https://open.spotify.com/track/05d9myj33Qg4GWtm6MXA51) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [California King](https://open.spotify.com/album/6z7dribXEkoMdaZb8nds54) | 3:53 |
 
-Snapshot ID: `MCxmZmRmNWZkZDVhMmIxNTNkOTA1MmRjNmJjNWE5ODU0YjhhNDRhMTdi`
+Snapshot ID: `MCw1OWQyZDE0ZTZiZTllNmZiZTM0N2E2MzViOTI2OGFhODNkOWJhOWVi`

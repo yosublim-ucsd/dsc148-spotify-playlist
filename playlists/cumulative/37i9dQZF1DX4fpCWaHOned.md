@@ -4,7 +4,7 @@
 
 > You're on top of the world\. Don't forget it.
 
-446 songs - 1 day 0 hr 49 min
+447 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2022-11-04 | 2023-04-20 |
 | [Castles](https://open.spotify.com/track/23zzZpPotrX7adSotiOvtP) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Castles](https://open.spotify.com/album/7jWoG1j20gL7p51DFyhPXb) | 3:31 | 2019-07-29\* | 2021-10-16 |
 | [Cheap Thrills](https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:31 | 2019-08-26 | 2019-08-27 |
+| [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 | 2023-08-05 |  |
 | [Classic](https://open.spotify.com/track/2Dz8KeCYs9awlwUJStJlmh) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/6hcPm6dCD58O5UI6xv019r) | 2:55 | 2019-07-29\* | 2022-07-29 |
 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 | 2022-07-21 |  |
 | [Clean](https://open.spotify.com/track/2Tl6yt61BEQXygpltqvgzD) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Clean](https://open.spotify.com/album/5xejOlpqzh52bjKenQKcTq) | 3:00 | 2019-11-26 | 2021-10-16 |
@@ -305,7 +306,7 @@
 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:02 | 2020-10-24 | 2023-03-11 |
 | [Raise Your Glass](https://open.spotify.com/track/12lZTPlXwUtrQuhEty6098) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/6Ozsat2gzIj9uXd6JMwYXz) | 3:23 | 2019-08-26 | 2021-05-26 |
 | [Raising Hell \(feat\. Big Freedia\)](https://open.spotify.com/track/3Ex5RFJRUdpHcDOLXJOVLy) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Raising Hell \(feat\. Big Freedia\)](https://open.spotify.com/album/4goVotvvq8GkK7OBbZclid) | 2:49 | 2019-11-02 | 2022-04-21 |
-| [Really Don't Care](https://open.spotify.com/track/5vTPxzm4h2bY9rYyVrGEU5) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:21 | 2019-10-25 |  |
+| [Really Don't Care](https://open.spotify.com/track/5vTPxzm4h2bY9rYyVrGEU5) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:21 | 2019-10-25 | 2023-08-06 |
 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2021-07-31 |  |
 | [Respect](https://open.spotify.com/track/1LI7vkkJ5EKLl6MpZBWZF2) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Queen of Soul \- The Best of Aretha Franklin](https://open.spotify.com/album/6OxXVtZwExAmdrUIG2afFf) | 2:27 | 2019-08-26 | 2019-08-27 |
 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 | 2022-03-25 | 2023-02-04 |

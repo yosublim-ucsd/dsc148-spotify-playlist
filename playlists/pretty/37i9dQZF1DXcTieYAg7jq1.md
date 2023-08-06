@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Jon Batiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,474 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,545 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Bad For Me](https://open.spotify.com/track/3bDuKFvJHwIUkFl8QtF2tb) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Bad For Me](https://open.spotify.com/album/42Uoa1QDJvCegKzkixsTlG) | 2:58 |
 | 100 | [Lagoon](https://open.spotify.com/track/4ZCjHrvSjyp7bltVJtGvNt) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [comfortably in pain](https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS) | 2:33 |
 
-Snapshot ID: `MCw5M2I2MTJkMzdiNWMxODBmYWU2ZjdkMzdjNWM1YTFmMmU1OGRhYjAx`
+Snapshot ID: `MCw0NTc5YjAwMWJjODJhMmYxNzVlZDk5YWM1YTIwZWE0YjMyODg3ZWMw`

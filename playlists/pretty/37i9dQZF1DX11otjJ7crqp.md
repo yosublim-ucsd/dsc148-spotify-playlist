@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Halle
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,958 likes - 98 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,015 likes - 98 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 97 | [Now I'm The Fool](https://open.spotify.com/track/7wQlEPz7M6TvqkuCFma4yc) | [Angelina Jordan](https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb) | [Old Enough](https://open.spotify.com/album/6dLrkt8x23Xxt2fnBWHFny) | 3:07 |
 | 98 | [Beast](https://open.spotify.com/track/1cKataJtvqxPrW6C4nA1uS) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Beast](https://open.spotify.com/album/5E3kloxkrwiq2MlJ1gUHpw) | 2:20 |
 
-Snapshot ID: `MCw1YzZmMzNlZWM2MWI4OWYwMjYyMmUwZWNiMjFhMDlhMDA5MzRlNmY2`
+Snapshot ID: `MCxmMGQ1NDY4MGIxNjUxMTJmODU2NzRmYzczNjRlYzIxY2IyNWY4Y2Rl`

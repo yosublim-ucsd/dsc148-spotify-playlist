@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 
 > chansons pour journées ensoleillées 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,885 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,895 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 88 | [Aller](https://open.spotify.com/track/2X7X0jEaVxzxQPanxDYsxT) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Horizon](https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132) | 2:58 |
 | 89 | [LA.BELLE.JOURNÉE 1971](https://open.spotify.com/track/0jcmvJs02muGldvkNrkejV) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [A.M.I.E.S.A.M.O.U.R](https://open.spotify.com/album/4qwd82AW4N0n7ijigpNTmX) | 5:05 |
 | 90 | [À vos marques](https://open.spotify.com/track/1kxxn50s0VdGs7YzXTXVFX) | [BéLi](https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW) | [À vos marques](https://open.spotify.com/album/65nCD1KOXoObz9H6dT6FEA) | 3:59 |
-| 91 | [Le Jeune](https://open.spotify.com/track/6amKBSZGfDYxNbL2ByRnir) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Le Jeune](https://open.spotify.com/album/6f0YgX8Oec0sTVluzFCT9C) | 3:59 |
+| 91 | [Le Jeune](https://open.spotify.com/track/6amKBSZGfDYxNbL2ByRnir) | [Quinze Quinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Le Jeune](https://open.spotify.com/album/6f0YgX8Oec0sTVluzFCT9C) | 3:59 |
 | 92 | [Rush](https://open.spotify.com/track/1T9pWv3bholzgKrESy6naZ) | [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC), [Sarah Maison](https://open.spotify.com/artist/5z9QnVuCb67N9a6lyu6ghe) | [For Beirut](https://open.spotify.com/album/1UYuG6xDWYpQfLELunAcMQ) | 4:35 |
 | 93 | [Attends](https://open.spotify.com/track/3MgjAipWXc4s7lccp8l2Co) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [EXKY](https://open.spotify.com/artist/1arrwgPVY9Qi2aqwZ4elw0) | [Attends](https://open.spotify.com/album/1qzZ5penUNyQ6Kb9yoh8b4) | 3:25 |
 | 94 | [Permis b bébé](https://open.spotify.com/track/1U3UL6FsYc2mcAQwWyYrn2) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 99 | [Nouvelle\-Orléans](https://open.spotify.com/track/1CCKf8yGsKuVz5cgRwgShM) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paradigmes](https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9) | 3:53 |
 | 100 | [Way to be Loved](https://open.spotify.com/track/3wO7lEbQYuxxEXmwfk335E) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Picture You Staring](https://open.spotify.com/album/4z3LIKiUlP8T192JheUI1U) | 4:23 |
 
-Snapshot ID: `MCw1ODVjMTEzN2ZkNTRmZmIxYzhkZjMwODQ3MWZkNzYyNmI3NzJiMWE3`
+Snapshot ID: `MCw3OGFmMzUzMTU5ZTZkZTRiNTcwODVlZjc1N2Y3NzAxYWU4OWY5MWY4`

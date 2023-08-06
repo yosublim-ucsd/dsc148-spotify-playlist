@@ -1,12 +1,12 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 69843,
+  "num_followers": 70049,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDAzMWEyMTRhNjhmOGQxZmM4OTZmMDE4ZjAxNTQwMzA3YzQwMWM1",
+  "snapshot_id": "MCwwYWVhYjI3YWM4ZDlhZGVhOWQzZGE0OTdkMDRmMmRkYTA3NzU2ZTg2",
   "tracks": [
     {
       "added_at": "2023-02-13 23:17:15",
@@ -219,26 +219,6 @@
     {
       "added_at": "2023-02-13 23:17:15",
       "album": {
-        "name": "Son Para El Mundo",
-        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk"
-    },
-    {
-      "added_at": "2023-02-13 23:17:15",
-      "album": {
         "name": "Gracias Mi Gente",
         "url": "https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 310400,
       "name": "Sirena Encantada",
       "url": "https://open.spotify.com/track/3LhmbxCgjX7E7xYBEUn30Y"
+    },
+    {
+      "added_at": "2023-02-13 23:17:15",
+      "album": {
+        "name": "Son Para El Mundo",
+        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk"
     },
     {
       "added_at": "2023-02-13 23:17:15",

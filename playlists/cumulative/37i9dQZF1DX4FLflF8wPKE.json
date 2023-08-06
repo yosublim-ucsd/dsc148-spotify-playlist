@@ -1414,6 +1414,24 @@
     {
       "album": {
         "name": "Lunar",
+        "url": "https://open.spotify.com/album/72avyYrq8KpNMJn5WxPEVq"
+      },
+      "artists": [
+        {
+          "name": "Xeuphoria",
+          "url": "https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139411,
+      "name": "Midnight Library",
+      "url": "https://open.spotify.com/track/4YhXV2KT49GqC7ZU5PqV2I"
+    },
+    {
+      "album": {
+        "name": "Lunar",
         "url": "https://open.spotify.com/album/2WMrMvYtU8VmLrt6fcm9hN"
       },
       "artists": [
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 139455,
       "name": "Midnight Library",
       "url": "https://open.spotify.com/track/2ZFsEoHYLTIWtiS1dHEllo"

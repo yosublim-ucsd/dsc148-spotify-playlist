@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,084 likes - 102 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,094 likes - 102 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 28 | [TIKTOK](https://open.spotify.com/track/3GIUq2N1YFL1KZe2zjw7qz) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [AS SEEN ON TV](https://open.spotify.com/album/35G6ItQb4YVubOm6fuThYh) | 2:47 |
 | 29 | [I've Been In Love](https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I've Been In Love](https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ) | 2:49 |
 | 30 | [Standing My Ground](https://open.spotify.com/track/6zNm2BIV6gbsRRG0jwQA2d) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Standing My Ground](https://open.spotify.com/album/0d8gBiY0neOTYJmbd8Muw6) | 2:49 |
-| 31 | [Bad Enough \(feat\. Talie\)](https://open.spotify.com/track/0nk166os6HWD30xQcMbXj3) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Talie](https://open.spotify.com/artist/6Hsg2j7sgEBijFFDDbf7zX) | [Bad Enough](https://open.spotify.com/album/5JFjuOEq7OszjOOQ8AYQsK) | 4:02 |
+| 31 | [Bad Enough \(feat\. Talie\)](https://open.spotify.com/track/0nk166os6HWD30xQcMbXj3) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Talie](https://open.spotify.com/artist/2YiFKLErr8Xi3Agiio8sSZ) | [Bad Enough](https://open.spotify.com/album/5JFjuOEq7OszjOOQ8AYQsK) | 4:02 |
 | 32 | [Chop It](https://open.spotify.com/track/40GKAxsKv5kH8JyfYP2EOw) | [Whammyboy](https://open.spotify.com/artist/2agmDswc3FnDFbL0Ey9SKj) | [Chop It](https://open.spotify.com/album/6Lkdwdn7UFhS90L3FOuOW0) | 2:58 |
 | 33 | [Lucky Luke](https://open.spotify.com/track/77p3eNLgFo8DG11y4ozW3R) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Lucky Luke](https://open.spotify.com/album/6Iy1RcAXrBKYZLVqRMEkFA) | 6:24 |
 | 34 | [Wespennest \- Edit](https://open.spotify.com/track/4O2pqaEaHXhSXFmcy7bNLV) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Wespennest](https://open.spotify.com/album/0XkiX0O9zILe3t5Zm815lz) | 3:30 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 101 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 |
 | 102 | [CONSTELLATIONS \(feat\. NAO\)](https://open.spotify.com/track/6B6FxQxSSVwvSgcNUe5QZQ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [THE ONE AFTER ME](https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq) | 2:52 |
 
-Snapshot ID: `MCxlNmY5MWE4Y2YzNGJjYWFhOTJiMjUxZWRjZGVmMThmYTJlMDMwYjM4`
+Snapshot ID: `MCw4YjBlYzYxYmM2MDU2NGE5YWJkZGQwYTIzNWNlY2YyZTJhMzZiNjBm`

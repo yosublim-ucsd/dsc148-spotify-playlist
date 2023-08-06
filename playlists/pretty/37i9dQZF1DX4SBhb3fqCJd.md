@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 
 > The pulse of R&B music today\. Cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,240,081 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,240,797 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 | 48 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 |
 | 49 | [Stories In Motion \(with Wale\)](https://open.spotify.com/track/6gvhqnL1MUehL9g5mp1A0I) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:26 |
 
-Snapshot ID: `MCwzYzM0MWI5YzRiZTA0NmM2ZDJhODMyOGYyMThmMzMwNzg1NDE3ZWM0`
+Snapshot ID: `MCw3NTUyOTcyYjE5MDBmMDE1YzZmMDk1YWQ0MGYyYTgwNWY4MGQxMThh`

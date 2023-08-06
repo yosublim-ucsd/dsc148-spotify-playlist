@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 
 > A collection of Hip Hop hits and viral trends feat Lil Baby, Migos, GloRilla &amp; more\. Updated weekly!  Cover: Ice Spice
 
-[Digster](https://open.spotify.com/user/digster.fm) - 12,064 likes - 55 songs - 2 hr 51 min
+[Digster](https://open.spotify.com/user/digster.fm) - 12,066 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 | 9 | [To Summer, From Cole \- Audio Hug](https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:27 |
 | 10 | [HOPE](https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW) | 4:24 |
 | 11 | [No L's](https://open.spotify.com/track/12CNybio0Bxean3F3uYugU) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:55 |
-| 12 | [Have To Ask My Lawyer](https://open.spotify.com/track/0yhXcB0iKiT9Da2vYqZlIX) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Have To Ask My Lawyer](https://open.spotify.com/album/47ydvVEJK9HRMW31Td47WL) | 2:37 |
+| 12 | [Have To Ask My Lawyer](https://open.spotify.com/track/0yhXcB0iKiT9Da2vYqZlIX) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Have To Ask My Lawyer](https://open.spotify.com/album/47ydvVEJK9HRMW31Td47WL) | 2:37 |
 | 13 | [pretty girls](https://open.spotify.com/track/1nikStujV5DDL1gX7lYMzt) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [pretty girls](https://open.spotify.com/album/71HSjUSrkwWSrQRQJswmyI) | 3:00 |
 | 14 | [Goin' Off \(feat\. Vince Staples\)](https://open.spotify.com/track/0tFvUdi4h20wD9rGVZOWbd) | [Ghost Kidz](https://open.spotify.com/artist/1wXjY3mwXdZz71YrxgujXN), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Goin' Off \(feat\. Vince Staples\)](https://open.spotify.com/album/2g4Vovxg2bbN9zb6eP9I2b) | 2:24 |
 | 15 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \- Trailer Version](https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \[Trailer Version\]](https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw) | 1:02 |

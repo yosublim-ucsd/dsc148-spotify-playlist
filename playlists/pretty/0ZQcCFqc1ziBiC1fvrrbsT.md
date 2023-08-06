@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 9,118 likes - 30 songs - 1 hr 51 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 9,123 likes - 30 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 8 | [NEO KAWAII, K?](https://open.spotify.com/track/2siIbMULAykz9QXLUYYMGL) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [NEO KAWAII, K?](https://open.spotify.com/album/0FKPgVDEbL8d6zAq5bFSEW) | 2:34 |
 | 9 | [Fruit Loop](https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fruit Loop](https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg) | 2:17 |
 | 10 | [Face Down](https://open.spotify.com/track/69uzomsgzj5yG6CztWeC56) | [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Face Down](https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr) | 2:53 |
-| 11 | [WFLD](https://open.spotify.com/track/6FFHMciUm7xrVliIYJmsPz) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX), [Video Dave](https://open.spotify.com/artist/3S8c2jzWW8n1JgryQzRfD2), [Eshu Tune](https://open.spotify.com/artist/3GMf4cHUuJaIc8AQMLHWFY), [STILL RIFT](https://open.spotify.com/artist/3boWloc2DdH8TVDWv9t9IR) | [WFLD 32](https://open.spotify.com/album/0K5cPmaPzG5DDinSINkw16) | 4:26 |
+| 11 | [WFLD 32](https://open.spotify.com/track/6FFHMciUm7xrVliIYJmsPz) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX), [Video Dave](https://open.spotify.com/artist/3S8c2jzWW8n1JgryQzRfD2), [Eshu Tune](https://open.spotify.com/artist/3GMf4cHUuJaIc8AQMLHWFY), [STILL RIFT](https://open.spotify.com/artist/3boWloc2DdH8TVDWv9t9IR) | [WFLD 32](https://open.spotify.com/album/0K5cPmaPzG5DDinSINkw16) | 4:26 |
 | 12 | [Lights 2023](https://open.spotify.com/track/5qhIGSSV8s5wy8LSpZTmev) | [Max Tundra](https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb) | [Lights 2023](https://open.spotify.com/album/5qJh9m5UPShvkc1IbfUqKz) | 2:08 |
 | 13 | [Brooklyn Basquiat](https://open.spotify.com/track/6CkKEmUFGjuEFRbawv7eXD) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Jemini the Gifted One](https://open.spotify.com/artist/4UyhNzUvOoBzdjdvoZ9fng) | [Brooklyn Basquiat](https://open.spotify.com/album/4RYdCbVuRxGkS5LVs7rOZp) | 3:50 |
 | 14 | [And Then He Wrapped His Wings Around Me](https://open.spotify.com/track/7GBU695u6Mjqa70DvOIhND) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Meg Baird](https://open.spotify.com/artist/4NkfNPTsDtbPntbU1pBYVt), [Walt McClements](https://open.spotify.com/artist/4WXIlTVz6YDyV1iVQHU3IE) | [And Then He Wrapped His Wings Around Me](https://open.spotify.com/album/2J1SYvl6356307TcWuWiGl) | 5:23 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 25 | [All Again](https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties \(Sampler\)](https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz) | 3:48 |
 | 26 | [ILYILY](https://open.spotify.com/track/1MYbgSm0jWDJLSuzCEEhbt) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [The Holey Bible](https://open.spotify.com/album/60DTLJMVuo2iDezOWMl8QI) | 3:26 |
 | 27 | [CANSADO DE SUFRIR](https://open.spotify.com/track/4Mo2w7fAoxohM67MA5Bd7G) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:29 |
-| 28 | [Body](https://open.spotify.com/track/2ivxm9hBJTnJvsBRiVrYm5) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [INFINITY CLUB](https://open.spotify.com/album/3iZjJHvvL04Adbtt6hMiJR) | 2:11 |
+| 28 | [Body](https://open.spotify.com/track/2ivxm9hBJTnJvsBRiVrYm5) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [INFINITY CLUB](https://open.spotify.com/album/3iZjJHvvL04Adbtt6hMiJR) | 2:11 |
 | 29 | [I Forget](https://open.spotify.com/track/3bjnUJccfgU23pL35NdFZs) | [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3) | [I Forget](https://open.spotify.com/album/03KIBaIUPddEWUj5Rzq8Vj) | 4:08 |
 | 30 | [Distortion Spear](https://open.spotify.com/track/18jxW8sLv8VwBAZJWKOez7) | [Candy Claws](https://open.spotify.com/artist/34Xay0uKsALHCrn5LkrYeh) | [Distortion Spear](https://open.spotify.com/album/1ZRZmhgSWzXID20b8o5jcd) | 3:41 |
 

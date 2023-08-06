@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: ††† \(Crosses\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,099 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,245 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [LIES](https://open.spotify.com/track/2QrUWzndXheW05HL6boFny) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [LIES](https://open.spotify.com/album/0ZknFIPfCdZgKAAvzSVgaQ) | 3:32 |
 | 50 | [All I Know Is You](https://open.spotify.com/track/4qAEeaZPw5257MVQ819E3x) | [IMMERSE](https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN) | [All I Know Is You](https://open.spotify.com/album/4guFHpppzFd6PJJMokZAJS) | 3:14 |
 
-Snapshot ID: `MCw1ZjIwMjA5Zjc2YWQyNjhhOWYzYTEyZTQyN2UyNjJkZjcwOTAxMWQy`
+Snapshot ID: `MCw4OTcxOGFlNzU1MDQ3NDQ0YjU4MmYzMmY4NDk3OTVjZjY0ODMwOGVh`

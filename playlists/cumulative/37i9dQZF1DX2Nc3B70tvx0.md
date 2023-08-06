@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023: Mitski's beautiful return
 
-1,723 songs - 4 day 7 hr 24 min
+1,724 songs - 4 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Confirmation \(SSBD\)](https://open.spotify.com/track/3Pqy5RRW33bhxYXN0ZZNXG) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv) | 4:18 | 2020-06-12 | 2021-04-20 |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-03-31 |  |
 | [Cool to You](https://open.spotify.com/track/4TxuAw6GMHFPMv6NQeXm6l) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Cool to You](https://open.spotify.com/album/3RCFqeTVmiEtc8cYfj7Uf7) | 3:17 | 2019-09-27 | 2020-07-24 |
+| [Coping on Unemployment](https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Coping on Unemployment](https://open.spotify.com/album/5lh7UQoL2Sd9HJv6kFEsTw) | 3:48 | 2023-08-04 |  |
 | [Corduroy](https://open.spotify.com/track/6QhZtK9nfaUBDILHPvAlC6) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:38 | 2023-02-10 | 2023-03-09 |
 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 | 2023-01-31 | 2023-03-12 |
 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 | 2022-08-04 | 2022-10-25 |
@@ -1219,7 +1220,7 @@
 | [Questioning My Mind](https://open.spotify.com/track/0H2EwgDNxFwBY6gPnVmuV2) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Questioning My Mind](https://open.spotify.com/album/6X7WVkGVz7znUSldpVjBLh) | 4:14 | 2019-11-09 | 2020-08-07 |
 | [Quien Tengo Que Ser](https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Quien Tengo Que Ser](https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8) | 4:27 | 2023-04-21 | 2023-05-06 |
 | [Quiet On Set](https://open.spotify.com/track/7yjum1B7kQ8gFWTP0cqKMu) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Quiet On Set / Grumpy Old Man](https://open.spotify.com/album/24CtvDmYkaT3MbLIVHHFGg) | 3:15 | 2021-09-02 | 2022-04-06 |
-| [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 | 2023-06-09 |  |
+| [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 | 2023-06-09 | 2023-08-06 |
 | [RABi](https://open.spotify.com/track/1NrmVZxiiBPBOVHnN0001b) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 3:32 | 2019-08-23 | 2020-01-10 |
 | [Radio](https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/6qXDmHqkVW2O8FQUKWiHh4) | 3:14 | 2022-10-11 | 2022-10-13 |
 | [Radio](https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:14 | 2022-10-14 | 2023-01-14 |

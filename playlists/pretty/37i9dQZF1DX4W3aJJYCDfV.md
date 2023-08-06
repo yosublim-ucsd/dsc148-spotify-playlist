@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Cian Ducrot \(pictured\), Jorja Smith, Doja Cat and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,165 likes - 125 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,213 likes - 125 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 47 | [Out There](https://open.spotify.com/track/106uRhMksIxm1FmlP6rcnP) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Soft Landing](https://open.spotify.com/album/6JafE12iZoyCQQkSN8muem) | 4:22 |
 | 48 | [A1](https://open.spotify.com/track/2PLvCLvJWw5WQmrFmtR5Mg) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [A1](https://open.spotify.com/album/4kRHyTMRGhBcDDRHUxQz7p) | 2:35 |
 | 49 | [Dead Submarines](https://open.spotify.com/track/1CfljNbof7L1IDqEH8AAs7) | [Jacob Slater](https://open.spotify.com/artist/2ySjYyLhcKzJFDult8UdYw) | [Pinky, I Love You](https://open.spotify.com/album/1UxVB3EeqH303QRMW24bmG) | 3:31 |
-| 50 | [Bad Enough \(feat\. Talie\)](https://open.spotify.com/track/0nk166os6HWD30xQcMbXj3) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Talie](https://open.spotify.com/artist/6Hsg2j7sgEBijFFDDbf7zX) | [Bad Enough](https://open.spotify.com/album/5JFjuOEq7OszjOOQ8AYQsK) | 4:02 |
+| 50 | [Bad Enough \(feat\. Talie\)](https://open.spotify.com/track/0nk166os6HWD30xQcMbXj3) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Talie](https://open.spotify.com/artist/2YiFKLErr8Xi3Agiio8sSZ) | [Bad Enough](https://open.spotify.com/album/5JFjuOEq7OszjOOQ8AYQsK) | 4:02 |
 | 51 | [Fall](https://open.spotify.com/track/2AHW2ayyGYmoiYpJuHPEyC) | [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [Fall](https://open.spotify.com/album/190nDHUMVR2vy6pqumS7kp) | 2:52 |
 | 52 | [Shades of Blue](https://open.spotify.com/track/5UAw33lzKlqJNBDQkzcgwi) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Shades of Blue](https://open.spotify.com/album/2zduWdJOVRh6YiQ0rSNzmn) | 3:50 |
 | 53 | [Vino Bandit](https://open.spotify.com/track/00c6JYguKlfq5yOlLoITlH) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Vino Bandit](https://open.spotify.com/album/5wmkCBglZqdYFKjudx75JG) | 2:30 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 124 | [Somebody Like You](https://open.spotify.com/track/7jLAYW3N25Piy6lEI4WczE) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Somebody Like You](https://open.spotify.com/album/09LPF57on4STv8JhBAI6cd) | 3:20 |
 | 125 | [Summer's Day](https://open.spotify.com/track/0PyHrDAMRUmJCiuqxjkSb6) | [Yws Gwynedd](https://open.spotify.com/artist/14UpMsA1ZvDMZmFknlTOdO) | [Summer's Day](https://open.spotify.com/album/31VTBsnNkbpFv3XgdgrroJ) | 2:01 |
 
-Snapshot ID: `MCw2NjFkNTAxMjNlNzE4MjgyOWU4MGM3ZDEyNjUxOGEwMDFlMDkyMWQw`
+Snapshot ID: `MCw4MmU5NjAwZGUxYTVjYzZmMzk1Mjk2ZDlhMGM1YmQwY2M0ZTNiN2E1`

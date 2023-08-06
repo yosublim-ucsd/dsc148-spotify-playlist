@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 25392,
+  "num_followers": 25670,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTBkOGM4NmQ4NGZmYTM4MmEzNWI5MTQ5ZjQ3ZjRhNDY1ZTM0NGJj",
+  "snapshot_id": "MCwxNTgyMWFiYTg1ZjExODE0NjIyZWE4ZDgwZWExNGUwYTVmNTVkZjdk",
   "tracks": [
     {
       "added_at": "2023-05-01 20:33:48",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 186567,
-      "name": "Oogum Boogum Song",
-      "url": "https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Flamingo Serenade",
         "url": "https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 202773,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 186567,
+      "name": "Oogum Boogum Song",
+      "url": "https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Stylistics - The Original Debut Album",
-        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "You Are Everything",
-      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
         "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Very Best Of The Dramatics",
-        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
+        "name": "The Stylistics - The Original Debut Album",
+        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
       },
       "artists": [
         {
-          "name": "The Dramatics",
-          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
         }
       ],
-      "duration_ms": 209213,
-      "name": "In The Rain",
-      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
+      "duration_ms": 175506,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -983,6 +967,22 @@
       "duration_ms": 249866,
       "name": "I Want to Be Your Man",
       "url": "https://open.spotify.com/track/3C6xVHlZ8Z7cAzt63xdxH3"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Very Best Of The Dramatics",
+        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
+      },
+      "artists": [
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "In The Rain",
+      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 159080,
-      "name": "Cowboys to Girls",
-      "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Baby, I'm For Real",
         "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 201866,
       "name": "Baby, I'm For Real",
       "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 159080,
+      "name": "Cowboys to Girls",
+      "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Cowboys to Girls",
         "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 117133,
       "name": "Sad Girl",
       "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Love On A Two-Way Street (US Release)",
-        "url": "https://open.spotify.com/album/2fCREhUDXAPsGzkRMU6cI9"
-      },
-      "artists": [
-        {
-          "name": "The Moments",
-          "url": "https://open.spotify.com/artist/6avGAzQTmqu8mfSmZrN7gT"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Love on a Two Way Street",
-      "url": "https://open.spotify.com/track/2gImbBWvXQWQ9ZDSQUWvNI"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Dry Your Eyes",
         "url": "https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 164133,
       "name": "Dry Your Eyes",
       "url": "https://open.spotify.com/track/5mlv9Y2cPCjZzppbkWYsKR"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Love On A Two-Way Street (US Release)",
+        "url": "https://open.spotify.com/album/2fCREhUDXAPsGzkRMU6cI9"
+      },
+      "artists": [
+        {
+          "name": "The Moments",
+          "url": "https://open.spotify.com/artist/6avGAzQTmqu8mfSmZrN7gT"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Love on a Two Way Street",
+      "url": "https://open.spotify.com/track/2gImbBWvXQWQ9ZDSQUWvNI"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Best Of Deniece Williams: Gonna Take A Miracle",
-        "url": "https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 357360,
-      "name": "Silly",
-      "url": "https://open.spotify.com/track/3XrzApq8R10O6WwNwMw8t4"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Tangled Up in You",
         "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 240842,
       "name": "Soon Enough",
       "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Best Of Deniece Williams: Gonna Take A Miracle",
+        "url": "https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 357360,
+      "name": "Silly",
+      "url": "https://open.spotify.com/track/3XrzApq8R10O6WwNwMw8t4"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Best Of Deniece Williams: Gonna Take A Miracle",
-        "url": "https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 249640,
-      "name": "It's Gonna Take a Miracle",
-      "url": "https://open.spotify.com/track/6AeOM7N0rK3tYOINY2k5qy"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "The Best Of Dee Dee Sharp 1962-1966",
         "url": "https://open.spotify.com/album/319S820SmHsr88JCQDCEYv"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 155040,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Best Of Deniece Williams: Gonna Take A Miracle",
+        "url": "https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 249640,
+      "name": "It's Gonna Take a Miracle",
+      "url": "https://open.spotify.com/track/6AeOM7N0rK3tYOINY2k5qy"
     },
     {
       "added_at": "2023-05-01 20:33:48",

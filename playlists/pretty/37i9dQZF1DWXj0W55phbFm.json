@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 34403,
+  "num_followers": 34454,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmM5Mjc4OGYxZDczYzdlMjJhZDBjZjVjNzVkNmUzZjAyNmYxOTkz",
+  "snapshot_id": "MCxkNWI1ZjM3MTRlZjQ5MmM1NjM0N2I5ODQwOWNmYzFhNzY1NmIzZDA1",
   "tracks": [
     {
       "added_at": "2023-06-22 06:29:47",
@@ -87,22 +87,6 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "The Sidewinder (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 625293,
-      "name": "The Sidewinder - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3"
-    },
-    {
-      "added_at": "2023-06-22 06:29:47",
-      "album": {
         "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
         "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 352666,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/34eW5SfpLNKTODUhE4LSCm"
+    },
+    {
+      "added_at": "2023-06-22 06:29:47",
+      "album": {
+        "name": "The Sidewinder (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 625293,
+      "name": "The Sidewinder - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Volume 3",
-        "url": "https://open.spotify.com/album/63pHpN0nqkNbaeP2UEexY0"
+        "name": "The Art Of The Ballad",
+        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
       },
       "artists": [
         {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 429040,
-      "name": "I Remember Clifford - Rudy Van Gelder Edition; 2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/6KawDsALZTY6FA8CE1NLZK"
+      "duration_ms": 409133,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/3lBFgKoGy3rAHejRPzeeTM"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "The Art Of The Ballad",
-        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
+        "name": "Volume 3",
+        "url": "https://open.spotify.com/album/63pHpN0nqkNbaeP2UEexY0"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
         }
       ],
-      "duration_ms": 409133,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/3lBFgKoGy3rAHejRPzeeTM"
+      "duration_ms": 429040,
+      "name": "I Remember Clifford - Rudy Van Gelder Edition; 2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/6KawDsALZTY6FA8CE1NLZK"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Introducing Nat Adderley",
-        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
-      },
-      "artists": [
-        {
-          "name": "Nat Adderley",
-          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
-        }
-      ],
-      "duration_ms": 267560,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
-    },
-    {
-      "added_at": "2023-06-22 06:29:47",
-      "album": {
         "name": "The Great Summit - The Complete Sessions-Deluxe Edition",
         "url": "https://open.spotify.com/album/1Fquufzod0wEcCXt6oYnCJ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 240000,
       "name": "Mood Indigo - 1990 Remaster",
       "url": "https://open.spotify.com/track/1Fo98RNzO78WnMtkZKZXMW"
+    },
+    {
+      "added_at": "2023-06-22 06:29:47",
+      "album": {
+        "name": "Introducing Nat Adderley",
+        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
+      },
+      "artists": [
+        {
+          "name": "Nat Adderley",
+          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
+        }
+      ],
+      "duration_ms": 267560,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -699,38 +699,6 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Buoyancy",
-        "url": "https://open.spotify.com/album/1INC2K6yyGoafXSqHrdAAv"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "Gilimanuk",
-      "url": "https://open.spotify.com/track/330Ke2S95HMiuZwykzcFCW"
-    },
-    {
-      "added_at": "2023-06-22 06:29:47",
-      "album": {
-        "name": "The Complete 'Round About Midnight At The Cafe Bohemia (Live)",
-        "url": "https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 338732,
-      "name": "Monaco - Set 1 / Live From Cafe Bohemia/1956",
-      "url": "https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi"
-    },
-    {
-      "added_at": "2023-06-22 06:29:47",
-      "album": {
         "name": "Work Song",
         "url": "https://open.spotify.com/album/2HtCcOEDNsiPYBMiVUzEHa"
       },
@@ -759,6 +727,38 @@
       "duration_ms": 255720,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/03IIOmaxjRFVCunMf4SOgD"
+    },
+    {
+      "added_at": "2023-06-22 06:29:47",
+      "album": {
+        "name": "The Complete 'Round About Midnight At The Cafe Bohemia (Live)",
+        "url": "https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 338732,
+      "name": "Monaco - Set 1 / Live From Cafe Bohemia/1956",
+      "url": "https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi"
+    },
+    {
+      "added_at": "2023-06-22 06:29:47",
+      "album": {
+        "name": "Buoyancy",
+        "url": "https://open.spotify.com/album/1INC2K6yyGoafXSqHrdAAv"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "Gilimanuk",
+      "url": "https://open.spotify.com/track/330Ke2S95HMiuZwykzcFCW"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
+        "name": "Dizzy 100",
+        "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 303522,
+      "name": "Con Alma",
+      "url": "https://open.spotify.com/track/3cJZT2monFlaNCgXvuDQwZ"
+    },
+    {
+      "added_at": "2023-06-22 06:29:47",
+      "album": {
         "name": "Dona Nostra",
         "url": "https://open.spotify.com/album/5ld8MkClrbCUoPIud5B80N"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 227773,
       "name": "What Reason Could I Give",
       "url": "https://open.spotify.com/track/0JRq65dblAmI3REEchAfF8"
-    },
-    {
-      "added_at": "2023-06-22 06:29:47",
-      "album": {
-        "name": "Dizzy 100",
-        "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 303522,
-      "name": "Con Alma",
-      "url": "https://open.spotify.com/track/3cJZT2monFlaNCgXvuDQwZ"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -1323,30 +1323,18 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Leosia",
-        "url": "https://open.spotify.com/album/3MwR2imlhLJiXVk7FPXmY4"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
       },
       "artists": [
         {
-          "name": "Tomasz Sta\u0144ko",
-          "url": "https://open.spotify.com/artist/65WFsTQhFYVqbovrVZAOd7"
-        },
-        {
-          "name": "Bobo Stenson",
-          "url": "https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc"
-        },
-        {
-          "name": "Anders Jormin",
-          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
-        },
-        {
-          "name": "Tony Oxley",
-          "url": "https://open.spotify.com/artist/38hAXjCbg6MlaUqFpdNB03"
+          "name": "Jon Faddis",
+          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
         }
       ],
-      "duration_ms": 367093,
-      "name": "Die Weisheit von Le Comte Lautr\u00e9amont",
-      "url": "https://open.spotify.com/track/1Z9Lk2lp9YYX8wH00qvY03"
+      "duration_ms": 285800,
+      "name": "Instigator",
+      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -1375,18 +1363,30 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
+        "name": "Leosia",
+        "url": "https://open.spotify.com/album/3MwR2imlhLJiXVk7FPXmY4"
       },
       "artists": [
         {
-          "name": "Jon Faddis",
-          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
+          "name": "Tomasz Sta\u0144ko",
+          "url": "https://open.spotify.com/artist/65WFsTQhFYVqbovrVZAOd7"
+        },
+        {
+          "name": "Bobo Stenson",
+          "url": "https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc"
+        },
+        {
+          "name": "Anders Jormin",
+          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
+        },
+        {
+          "name": "Tony Oxley",
+          "url": "https://open.spotify.com/artist/38hAXjCbg6MlaUqFpdNB03"
         }
       ],
-      "duration_ms": 285800,
-      "name": "Instigator",
-      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
+      "duration_ms": 367093,
+      "name": "Die Weisheit von Le Comte Lautr\u00e9amont",
+      "url": "https://open.spotify.com/track/1Z9Lk2lp9YYX8wH00qvY03"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
+        "name": "Hub-Tones",
+        "url": "https://open.spotify.com/album/4Co2nB4o3ABkSRP0ZCdhfA"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 390400,
+      "name": "You're My Everything",
+      "url": "https://open.spotify.com/track/6WNC8fECIg52gUHM4rHIN9"
+    },
+    {
+      "added_at": "2023-06-22 06:29:47",
+      "album": {
         "name": "Complete Recordings",
         "url": "https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O"
       },
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Hub-Tones",
-        "url": "https://open.spotify.com/album/4Co2nB4o3ABkSRP0ZCdhfA"
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
       },
       "artists": [
         {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
         }
       ],
-      "duration_ms": 390400,
-      "name": "You're My Everything",
-      "url": "https://open.spotify.com/track/6WNC8fECIg52gUHM4rHIN9"
+      "duration_ms": 413333,
+      "name": "You're Getting To Be A Habit With Me",
+      "url": "https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -1555,22 +1571,6 @@
       "duration_ms": 632253,
       "name": "The Baggae",
       "url": "https://open.spotify.com/track/6NfuKhkjmPWOstx6TIjqtl"
-    },
-    {
-      "added_at": "2023-06-22 06:29:47",
-      "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 413333,
-      "name": "You're Getting To Be A Habit With Me",
-      "url": "https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -1671,18 +1671,30 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Howard McGhee: Volume 2 / Tal Farlow Quartet",
-        "url": "https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg"
+        "name": "Dusty Blue",
+        "url": "https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU"
       },
       "artists": [
         {
           "name": "Howard McGhee",
           "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
+        },
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Walter Bolden",
+          "url": "https://open.spotify.com/artist/5hErYsY5trFRjYKz9YU1Uf"
         }
       ],
-      "duration_ms": 250173,
-      "name": "Tranquillity - Remastered 1998",
-      "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
+      "duration_ms": 267180,
+      "name": "Cottage for Sale",
+      "url": "https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -1751,30 +1763,18 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Dusty Blue",
-        "url": "https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU"
+        "name": "Howard McGhee: Volume 2 / Tal Farlow Quartet",
+        "url": "https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg"
       },
       "artists": [
         {
           "name": "Howard McGhee",
           "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
-        },
-        {
-          "name": "Tommy Flanagan",
-          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Walter Bolden",
-          "url": "https://open.spotify.com/artist/5hErYsY5trFRjYKz9YU1Uf"
         }
       ],
-      "duration_ms": 267180,
-      "name": "Cottage for Sale",
-      "url": "https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV"
+      "duration_ms": 250173,
+      "name": "Tranquillity - Remastered 1998",
+      "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
     },
     {
       "added_at": "2023-06-22 06:29:47",

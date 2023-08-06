@@ -23,24 +23,6 @@
     },
     {
       "album": {
-        "name": "24\uc2dc\uac04\uc774 \ubaa8\uc790\ub77c",
-        "url": "https://open.spotify.com/album/6DlHIJKs51neBto8JtrcMC"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "date_added": "2022-03-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201590,
-      "name": "24\uc2dc\uac04\uc774 \ubaa8\uc790\ub77c",
-      "url": "https://open.spotify.com/track/1KvMjr7Yx2WKl5WV4YCj9Y"
-    },
-    {
-      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q"
       },
@@ -54,8 +36,44 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 201590,
-      "name": "24\uc2dc\uac04\uc774 \ubaa8\uc790\ub77c",
+      "name": "24 Hours",
       "url": "https://open.spotify.com/track/2HLohseraYUuuP9Jgz6pZ7"
+    },
+    {
+      "album": {
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/4ag4tJmAksjMdxICMV83Aw"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201590,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/4ayWErdGIvSo4o6a3lMVLt"
+    },
+    {
+      "album": {
+        "name": "24\uc2dc\uac04\uc774 \ubaa8\uc790\ub77c",
+        "url": "https://open.spotify.com/album/6DlHIJKs51neBto8JtrcMC"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 201590,
+      "name": "24\uc2dc\uac04\uc774 \ubaa8\uc790\ub77c",
+      "url": "https://open.spotify.com/track/1KvMjr7Yx2WKl5WV4YCj9Y"
     },
     {
       "album": {
@@ -162,7 +180,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209351,
-      "name": "burn",
+      "name": "Burn",
       "url": "https://open.spotify.com/track/1leUuiU53gcrZsnTmwidNb"
     },
     {
@@ -236,6 +254,28 @@
       "duration_ms": 114706,
       "name": "Fellowship",
       "url": "https://open.spotify.com/track/6PW5GLnTnF9krvqR3QcjWg"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        },
+        {
+          "name": "Lena",
+          "url": "https://open.spotify.com/artist/0EmA3wlv6dnf3Pc9SINsvA"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202179,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/3klmHDE1vmBq6FYyPz0QE0"
     },
     {
       "album": {
@@ -326,6 +366,24 @@
       "duration_ms": 195000,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227571,
+      "name": "If That Was You",
+      "url": "https://open.spotify.com/track/2fQP5ZQmyXTcvjn8Jj6gTf"
     },
     {
       "album": {
@@ -553,6 +611,28 @@
     },
     {
       "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278859,
+      "name": "Time Is Up",
+      "url": "https://open.spotify.com/track/6ZxavH9mJlUGYOSCdSplJs"
+    },
+    {
+      "album": {
         "name": "Street Woman Fighter(SWF) Special",
         "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
       },
@@ -634,6 +714,28 @@
       "duration_ms": 224387,
       "name": "When We Disco (Duet with SUNMI)",
       "url": "https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        },
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232524,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/2mCm2BC5rNsX4dCe0IedxS"
     },
     {
       "album": {
@@ -724,32 +826,10 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 227571,
       "name": "\uadf8\uac8c \ub108\ub77c\uba74",
       "url": "https://open.spotify.com/track/5ISTy9kctyjm2zNW9TeZqI"
-    },
-    {
-      "album": {
-        "name": "Full Moon",
-        "url": "https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        },
-        {
-          "name": "\uc720\ube48 of Wonder Girls",
-          "url": "https://open.spotify.com/artist/1eaKmXYQ1g9M2DPXpnD6sY"
-        }
-      ],
-      "date_added": "2022-03-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 232524,
-      "name": "\ub0b4\uac00 \ub204\uad6c",
-      "url": "https://open.spotify.com/track/2mCm2BC5rNsX4dCe0IedxS"
     },
     {
       "album": {
@@ -768,7 +848,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 278859,
       "name": "\uba48\ucdb0\ubc84\ub9b0 \uc2dc\uac04",
       "url": "https://open.spotify.com/track/4AgEO6iy3fsyLbpjAdt42g"
@@ -790,7 +870,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 202179,
       "name": "\ubcf4\ub984\ub2ec",
       "url": "https://open.spotify.com/track/4DrMEpcUwwRyxLtRjnPvZk"

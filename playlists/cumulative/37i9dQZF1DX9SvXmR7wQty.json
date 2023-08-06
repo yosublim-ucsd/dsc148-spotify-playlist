@@ -3098,7 +3098,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 126506,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x"
@@ -13556,6 +13556,24 @@
       "duration_ms": 107076,
       "name": "G\u00e9nie",
       "url": "https://open.spotify.com/track/6d47cASiELHow0wPMkDZbw"
+    },
+    {
+      "album": {
+        "name": "Ha ha ha",
+        "url": "https://open.spotify.com/album/4n0JjeU4YVH3jAKXHEOh8K"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257200,
+      "name": "Ha ha ha",
+      "url": "https://open.spotify.com/track/7zOy88Gz28RDcmjuvYvpww"
     },
     {
       "album": {

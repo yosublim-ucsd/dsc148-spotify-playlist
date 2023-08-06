@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 50398,
+  "num_followers": 50498,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjVhMGM3Y2Q1NzQ2YmI0ZGRiOTk0ODllM2Q5ZmNiYTBkZmUyZmE4",
+  "snapshot_id": "MCw3MjIzYWQ2ZDViZmY3ZGJmZGRjNDdkMDcwZmQzNmQ2MGRhZGJkMWNl",
   "tracks": [
     {
       "added_at": "2023-08-04 12:24:20",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-08-04 12:24:20",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Juke",
-      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
-    },
-    {
-      "added_at": "2023-08-04 12:24:20",
-      "album": {
         "name": "Well, I Done Got Over It",
         "url": "https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 174560,
       "name": "Well, I Done Got Over It",
       "url": "https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn"
+    },
+    {
+      "added_at": "2023-08-04 12:24:20",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Juke",
+      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
     },
     {
       "added_at": "2023-08-04 12:24:20",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-08-04 12:24:20",
       "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 136013,
-      "name": "Hate To See You Go",
-      "url": "https://open.spotify.com/track/5jthNmPnbVPiEcO8JGgRsZ"
-    },
-    {
-      "added_at": "2023-08-04 12:24:20",
-      "album": {
         "name": "Sings Raining In My Heart",
         "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 238573,
       "name": "Smokestack Lightning",
       "url": "https://open.spotify.com/track/2bPgtSoGMHuNC4rSicZD1u"
+    },
+    {
+      "added_at": "2023-08-04 12:24:20",
+      "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 136013,
+      "name": "Hate To See You Go",
+      "url": "https://open.spotify.com/track/5jthNmPnbVPiEcO8JGgRsZ"
     },
     {
       "added_at": "2023-08-04 12:24:20",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-08-04 12:24:20",
       "album": {
+        "name": "This Is... Huey 'Piano' Smith",
+        "url": "https://open.spotify.com/album/2O3iFb9B97JGcQt1IxvEfD"
+      },
+      "artists": [
+        {
+          "name": "Huey \"Piano\" Smith",
+          "url": "https://open.spotify.com/artist/06VZekh3wTqjHJbGCNBBLu"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "Don't You Just Know It",
+      "url": "https://open.spotify.com/track/1Ufhe0CbCnDLC7LvycY4t4"
+    },
+    {
+      "added_at": "2023-08-04 12:24:20",
+      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 263960,
       "name": "Midnight In Memphis",
       "url": "https://open.spotify.com/track/2OXDdCck0bMDIUCpaIMBJS"
-    },
-    {
-      "added_at": "2023-08-04 12:24:20",
-      "album": {
-        "name": "You Broke Me",
-        "url": "https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh"
-      },
-      "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        }
-      ],
-      "duration_ms": 236543,
-      "name": "Baby We're Through",
-      "url": "https://open.spotify.com/track/138LkLoWuHhs4eteMxjPde"
     },
     {
       "added_at": "2023-08-04 12:24:20",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-08-04 12:24:20",
       "album": {
-        "name": "This Is... Huey 'Piano' Smith",
-        "url": "https://open.spotify.com/album/2O3iFb9B97JGcQt1IxvEfD"
-      },
-      "artists": [
-        {
-          "name": "Huey \"Piano\" Smith",
-          "url": "https://open.spotify.com/artist/06VZekh3wTqjHJbGCNBBLu"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "Don't You Just Know It",
-      "url": "https://open.spotify.com/track/1Ufhe0CbCnDLC7LvycY4t4"
-    },
-    {
-      "added_at": "2023-08-04 12:24:20",
-      "album": {
         "name": "Howlin' Wolf",
         "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 147400,
       "name": "Wang Dang Doodle",
       "url": "https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK"
+    },
+    {
+      "added_at": "2023-08-04 12:24:20",
+      "album": {
+        "name": "You Broke Me",
+        "url": "https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "duration_ms": 236543,
+      "name": "Baby We're Through",
+      "url": "https://open.spotify.com/track/138LkLoWuHhs4eteMxjPde"
     },
     {
       "added_at": "2023-08-04 12:24:20",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-08-04 12:24:20",
       "album": {
+        "name": "662",
+        "url": "https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 203481,
+      "name": "That's What You Do",
+      "url": "https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk"
+    },
+    {
+      "added_at": "2023-08-04 12:24:20",
+      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 159427,
       "name": "So Long Savior",
       "url": "https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2"
-    },
-    {
-      "added_at": "2023-08-04 12:24:20",
-      "album": {
-        "name": "662",
-        "url": "https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 203481,
-      "name": "That's What You Do",
-      "url": "https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk"
     },
     {
       "added_at": "2023-08-04 12:24:20",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-08-04 12:24:20",
       "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 144493,
+      "name": "Just Your Fool",
+      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
+    },
+    {
+      "added_at": "2023-08-04 12:24:20",
+      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2023-08-04 12:24:20",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+        "name": "Voodoo Woman",
+        "url": "https://open.spotify.com/album/6fakYyAJYgpmeKBsZ6sqZU"
       },
       "artists": [
         {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
         }
       ],
-      "duration_ms": 144493,
-      "name": "Just Your Fool",
-      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
+      "duration_ms": 237333,
+      "name": "Voodoo Woman - Album Outtake",
+      "url": "https://open.spotify.com/track/6py94KJo9s8JN9aj4cbkMu"
     },
     {
       "added_at": "2023-08-04 12:24:20",
@@ -791,22 +807,6 @@
       "duration_ms": 295026,
       "name": "Confessin' The Blues",
       "url": "https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe"
-    },
-    {
-      "added_at": "2023-08-04 12:24:20",
-      "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "Shufflin' the Blues",
-      "url": "https://open.spotify.com/track/5I9dM2pwqMAQm266lUII5P"
     },
     {
       "added_at": "2023-08-04 12:24:20",

@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 77912,
+  "num_followers": 77995,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTViMWU4NGY4YmM4Yjc0OWU1ZDc1Y2EzZDZlYjkzYTk2N2VjMmNh",
+  "snapshot_id": "MCw4MDE0M2FiNTQ1ZThmZTUyYTA5MGU4NzYzNDNkYzE1OTZjZDlhM2Yx",
   "tracks": [
     {
       "added_at": "2023-03-27 15:42:25",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "Karyn White",
-        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
-      },
-      "artists": [
-        {
-          "name": "Karyn White",
-          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
-        }
-      ],
-      "duration_ms": 347453,
-      "name": "Superwoman",
-      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "Jarreau",
         "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 258399,
       "name": "Mornin'",
       "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
+        "name": "Karyn White",
+        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
+      },
+      "artists": [
+        {
+          "name": "Karyn White",
+          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
+        }
+      ],
+      "duration_ms": 347453,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
     },
     {
       "added_at": "2023-03-27 15:42:25",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "Girassol",
-        "url": "https://open.spotify.com/album/2z2VudqDCv38Pp6VuQvQmw"
-      },
-      "artists": [
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 101150,
-      "name": "Girassol",
-      "url": "https://open.spotify.com/track/6qrwtFwKy3brvOIuDhDfQ1"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "Operator Please Put Me Through",
         "url": "https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 307760,
       "name": "I Can Do Bad By Myself",
       "url": "https://open.spotify.com/track/34nUuoStWnKLFqFH0LNzQA"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
+        "name": "Girassol",
+        "url": "https://open.spotify.com/album/2z2VudqDCv38Pp6VuQvQmw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 101150,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/6qrwtFwKy3brvOIuDhDfQ1"
     },
     {
       "added_at": "2023-03-27 15:42:25",

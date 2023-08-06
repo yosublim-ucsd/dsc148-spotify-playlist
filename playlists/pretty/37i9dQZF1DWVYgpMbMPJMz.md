@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg?si=sdYGjXO7RDqe\-1HVZ\_JEgg">Caleb and Kelsey<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 976,486 likes - 100 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,652 likes - 100 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 83 | [The Doxology](https://open.spotify.com/track/3tod3hCUiHZnDUlVc8LSV3) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [The Doxology](https://open.spotify.com/album/4afIDOWKSUUr0ZVOl7q4DT) | 2:43 |
 | 84 | [Let Go \- Live](https://open.spotify.com/track/18n9g4RuXRgrMQaNtU06iX) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown) | [Live At The Manor](https://open.spotify.com/album/2N1DotQ4xbhStr5YXnOO6W) | 4:34 |
 | 85 | [Thin Place \- Live](https://open.spotify.com/track/6Kt5xALwAfnGDGdZWq3XDu) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Michael Shannon](https://open.spotify.com/artist/72uWvSo9H7FQfhYQKbUEoc), [Zo Chilengwe](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N) | [Thin Place \(Live\)](https://open.spotify.com/album/72HsedFQYMQh8O4dQbwH50) | 6:16 |
-| 86 | [Never Has](https://open.spotify.com/track/0rwK3yIOJ3nDIoQPZwEX4I) | [FOUNT MUSIC](https://open.spotify.com/artist/1jBGDhxjFrSFJXWES1brxD) | [Never Has](https://open.spotify.com/album/62fw7o9qvVqvzeYK29Aijn) | 3:21 |
+| 86 | [Never Has](https://open.spotify.com/track/0rwK3yIOJ3nDIoQPZwEX4I) | [C3 NYC](https://open.spotify.com/artist/6tVUFgMhjG96KGcJSr3BdJ) | [Never Has](https://open.spotify.com/album/62fw7o9qvVqvzeYK29Aijn) | 3:21 |
 | 87 | [The Plan](https://open.spotify.com/track/5psIjB6ZTTyYzMqaIzDoOE) | [Souvenirs Worship](https://open.spotify.com/artist/5vybBaHZdTIRTYiLF5kAlr) | [The Plan](https://open.spotify.com/album/1COJxxwnImFbThGvDCHfn3) | 9:42 |
 | 88 | [All I Have Is Christ](https://open.spotify.com/track/26o9kKIrDvGXayhlFncDxE) | [Anchor Hymns](https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE), [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh) | [All I Have Is Christ](https://open.spotify.com/album/4i6eCRXRr5cIAUuVRldIMT) | 4:35 |
 | 89 | [Blessed Hope](https://open.spotify.com/track/3H6iKMChByrfpP2sGGKrQC) | [VIVE Worship](https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy) | [Blessed Hope](https://open.spotify.com/album/2op3eogwOF5fW5PlpokiNn) | 6:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [Jesus Always](https://open.spotify.com/track/30VsxUkzJBNqUehfpHmMkO) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Jesus Always](https://open.spotify.com/album/7mlAqh5DjcxZtBzpn5sg6u) | 4:44 |
 | 100 | [It Is Finished](https://open.spotify.com/track/3pBJ1CM7P48h9XaExiL6EX) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Kingdom Kids, Vol\. 2](https://open.spotify.com/album/09SYVhIz581fCHeLcRI4oU) | 4:26 |
 
-Snapshot ID: `MCwxNWFjZmY3ZjBlOThmZGRmOGJmOTc5OTcyYmMzNmMwOGM0MTlmNTFi`
+Snapshot ID: `MCw0MjA0ZmRkNTVhOGVhYmMyZDE3YjY5NDRjN2E2MTQ3YzZmZTlhMzFl`

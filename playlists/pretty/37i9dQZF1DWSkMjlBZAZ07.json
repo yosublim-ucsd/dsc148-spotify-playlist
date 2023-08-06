@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1969443,
+  "num_followers": 1969582,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTgwNjVlMDU4OGMzMThjNTg1YjlmZjMzYjNjMzc3ZTM3MzljNjRj",
+  "snapshot_id": "MCxmYjkzNmI2ZTZlNDFhZWVjMDk3ODU2MWRhMTA3MmRkOWNmMmFjYzJj",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Mess Is Mine",
-      "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 240586,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
-      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 245699,
       "name": "Outnumbered",
       "url": "https://open.spotify.com/track/4Ta3PhWmY50ZLU1uhKFKPE"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
+      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "WHERE WE ARE",
+      "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "WHERE WE ARE",
-      "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Kid",
-        "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Let's Be Still",
         "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 300240,
       "name": "Goodbye Mr. Blue",
       "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Kid",
+        "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Seasons of Change",
-        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Grow into Love",
-      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Living Mirage",
         "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 252301,
       "name": "People Need A Melody",
       "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Seasons of Change",
+        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 162106,
+      "name": "Grow into Love",
+      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Saratoga",
-        "url": "https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Saratoga",
-      "url": "https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Skinny Dipping & Mimosas",
         "url": "https://open.spotify.com/album/4yY92T0NRLnppExi4svTOY"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 163717,
       "name": "Skinny Dipping & Mimosas",
       "url": "https://open.spotify.com/track/76AnTndNpHDAuUqjXrqE4c"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Saratoga",
+        "url": "https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Saratoga",
+      "url": "https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Shabang",
-        "url": "https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv"
-      },
-      "artists": [
-        {
-          "name": "Scott McMicken and THE EVER-EXPANDING",
-          "url": "https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc"
-        }
-      ],
-      "duration_ms": 250962,
-      "name": "Diamonds In The Snow",
-      "url": "https://open.spotify.com/track/45FWmYpboXilptta3D9fxD"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "The Art of Escape",
         "url": "https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 198582,
       "name": "Rusty",
       "url": "https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Shabang",
+        "url": "https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv"
+      },
+      "artists": [
+        {
+          "name": "Scott McMicken and THE EVER-EXPANDING",
+          "url": "https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc"
+        }
+      ],
+      "duration_ms": 250962,
+      "name": "Diamonds In The Snow",
+      "url": "https://open.spotify.com/track/45FWmYpboXilptta3D9fxD"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Holy Smokes Future Jokes",
+        "url": "https://open.spotify.com/album/7vmZ14hcMVtIIN9lD6JNpf"
+      },
+      "artists": [
+        {
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+        }
+      ],
+      "duration_ms": 213525,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/6JBePQo5cw6z7PvCbkQ09t"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "The Spirit Moves",
         "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 195160,
       "name": "Put It Together",
       "url": "https://open.spotify.com/track/0qau061S9oIy7S5xHruwHA"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Holy Smokes Future Jokes",
-        "url": "https://open.spotify.com/album/7vmZ14hcMVtIIN9lD6JNpf"
-      },
-      "artists": [
-        {
-          "name": "Blitzen Trapper",
-          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
-        }
-      ],
-      "duration_ms": 213525,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/6JBePQo5cw6z7PvCbkQ09t"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "firekid",
-        "url": "https://open.spotify.com/album/6qb5fl4U5XsxZOFNHqwxxw"
-      },
-      "artists": [
-        {
-          "name": "firekid",
-          "url": "https://open.spotify.com/artist/61XyQHQKfzbzgTmtbiVOR3"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Lay by Me",
-      "url": "https://open.spotify.com/track/5HUynLdprJzINndFXcidfu"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Graveclothes",
         "url": "https://open.spotify.com/album/0WMzoCvodpdM191D8EoAJH"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 227105,
       "name": "Graveclothes",
       "url": "https://open.spotify.com/track/1UM7bluhwWTGfhvWWOshk7"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "firekid",
+        "url": "https://open.spotify.com/album/6qb5fl4U5XsxZOFNHqwxxw"
+      },
+      "artists": [
+        {
+          "name": "firekid",
+          "url": "https://open.spotify.com/artist/61XyQHQKfzbzgTmtbiVOR3"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Lay by Me",
+      "url": "https://open.spotify.com/track/5HUynLdprJzINndFXcidfu"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Multitudes",
-        "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 245281,
-      "name": "Borrow Trouble",
-      "url": "https://open.spotify.com/track/461JI71P8eY2zUWAkyKs7b"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Hold On For Dear Life",
         "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 227117,
       "name": "Hold On For Dear Life",
       "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Multitudes",
+        "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 245281,
+      "name": "Borrow Trouble",
+      "url": "https://open.spotify.com/track/461JI71P8eY2zUWAkyKs7b"
     },
     {
       "added_at": "2023-08-04 04:00:00",

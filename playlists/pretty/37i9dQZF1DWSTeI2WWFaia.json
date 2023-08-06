@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Nas",
-  "num_followers": 1622320,
+  "num_followers": 1622305,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGZkNjAyY2U0OWM4MGRjMWE4MmQyNmJkOWYzZjdkOGQxNjRhZGM0",
+  "snapshot_id": "MCwyMTIzMjJkMDcxYTBkZWMwNDJmNTI5NmI5NThlZWY3NDkwNDFhNWRl",
   "tracks": [
     {
       "added_at": "2023-08-04 20:13:14",
@@ -611,42 +611,6 @@
     {
       "added_at": "2023-08-04 20:13:14",
       "album": {
-        "name": "CHOMP 2.5 (EP)",
-        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 132219,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo"
-    },
-    {
-      "added_at": "2023-08-04 20:13:14",
-      "album": {
-        "name": "Dangerous Daringer",
-        "url": "https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI"
-      },
-      "artists": [
-        {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "Dangerous Daringer",
-      "url": "https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK"
-    },
-    {
-      "added_at": "2023-08-04 20:13:14",
-      "album": {
         "name": "Conway The Machine Presents: Drumwork The Album",
         "url": "https://open.spotify.com/album/23duSQFjfpcwNRHhYJmT2L"
       },
@@ -671,6 +635,42 @@
       "duration_ms": 269439,
       "name": "Andre 3000 (feat. Bangladesh)",
       "url": "https://open.spotify.com/track/1Bm1hJhiao6NAT06jCdEsU"
+    },
+    {
+      "added_at": "2023-08-04 20:13:14",
+      "album": {
+        "name": "Dangerous Daringer",
+        "url": "https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI"
+      },
+      "artists": [
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 249266,
+      "name": "Dangerous Daringer",
+      "url": "https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK"
+    },
+    {
+      "added_at": "2023-08-04 20:13:14",
+      "album": {
+        "name": "CHOMP 2.5 (EP)",
+        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 132219,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo"
     },
     {
       "added_at": "2023-08-04 20:13:14",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-08-04 20:13:14",
       "album": {
+        "name": "CHOMP 2.5 (EP)",
+        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 141542,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4LGBOpladriYPl7B8g6xME"
+    },
+    {
+      "added_at": "2023-08-04 20:13:14",
+      "album": {
         "name": "SentRock",
         "url": "https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro"
       },
@@ -807,18 +823,18 @@
     {
       "added_at": "2023-08-04 20:13:14",
       "album": {
-        "name": "CHOMP 2.5 (EP)",
-        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
       },
       "artists": [
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "Jourden",
+          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
         }
       ],
-      "duration_ms": 141542,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4LGBOpladriYPl7B8g6xME"
+      "duration_ms": 162162,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
     },
     {
       "added_at": "2023-08-04 20:13:14",
@@ -887,18 +903,18 @@
     {
       "added_at": "2023-08-04 20:13:14",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
+        "name": "CHOMP 2.5 (EP)",
+        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
       },
       "artists": [
         {
-          "name": "Jourden",
-          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 162162,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
+      "duration_ms": 121789,
+      "name": "Buckle Up Freestyle",
+      "url": "https://open.spotify.com/track/65qEh62xjgsKVyWH5SbUUG"
     },
     {
       "added_at": "2023-08-04 20:13:14",
@@ -939,22 +955,6 @@
       "duration_ms": 164894,
       "name": "Don't Let The Devil [Feat. thankugoodsir] - Single Version",
       "url": "https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp"
-    },
-    {
-      "added_at": "2023-08-04 20:13:14",
-      "album": {
-        "name": "LESSONS",
-        "url": "https://open.spotify.com/album/4gC7fICQukO8POmM2lWpOS"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "LESSONS",
-      "url": "https://open.spotify.com/track/3L8RoBe74IvH9jZkjjPrmc"
     }
   ],
   "unique_name": "Spilled Ink",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 128005,
+  "num_followers": 128020,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTQ5YzMzYjViY2I2ZWVlMzI3NDY3MWZlMzQ1N2MwMTEyNDQwNjBj",
+  "snapshot_id": "MCxlYzUyNzk0OTZkOTMwNWJkOTM5NDZjOGY4NmZmYWU0NzBiZWNhZTZk",
   "tracks": [
     {
       "added_at": "2023-05-09 18:01:28",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Michoac\u00e1n",
-        "url": "https://open.spotify.com/album/55p92gjcS6eHUXhQtD8mgY"
-      },
-      "artists": [
-        {
-          "name": "Los Folkloristas",
-          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
-        }
-      ],
-      "duration_ms": 307386,
-      "name": "Danza de los Viejitos (Danza)",
-      "url": "https://open.spotify.com/track/6Mck8kESmnb4bh6anpqGSp"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Los \u00c9xitos de Antonio Bribiesca Y su Guitarra Mexicana",
         "url": "https://open.spotify.com/album/4mYfjXYzxh6ihn53h7U6m3"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 261293,
       "name": "Popurr\u00ed Mexicano:",
       "url": "https://open.spotify.com/track/5pZWWNVotdSMynW3kTooSY"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "Michoac\u00e1n",
+        "url": "https://open.spotify.com/album/55p92gjcS6eHUXhQtD8mgY"
+      },
+      "artists": [
+        {
+          "name": "Los Folkloristas",
+          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
+        }
+      ],
+      "duration_ms": 307386,
+      "name": "Danza de los Viejitos (Danza)",
+      "url": "https://open.spotify.com/track/6Mck8kESmnb4bh6anpqGSp"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Sembrando Flores",
-        "url": "https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8"
-      },
-      "artists": [
-        {
-          "name": "Los Cojolites",
-          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Camotal",
-      "url": "https://open.spotify.com/track/4s7qx83G1CKhSHCcnHV0lC"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Son Jarocho",
         "url": "https://open.spotify.com/album/7aqWHL1L3LpcVwH9AZfJQu"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 595746,
       "name": "Candela / Morena",
       "url": "https://open.spotify.com/track/68WB8EIHWyQEWOSyqujGPi"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "Sembrando Flores",
+        "url": "https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8"
+      },
+      "artists": [
+        {
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Camotal",
+      "url": "https://open.spotify.com/track/4s7qx83G1CKhSHCcnHV0lC"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "El Salterio",
-        "url": "https://open.spotify.com/album/057lLhyTreLeqRN9k1s1q8"
-      },
-      "artists": [
-        {
-          "name": "Eulalio Armas y Sus Salterios",
-          "url": "https://open.spotify.com/artist/50CIA4c4C7laQYcNPLcnnn"
-        }
-      ],
-      "duration_ms": 124666,
-      "name": "Flor de M\u00e9xico",
-      "url": "https://open.spotify.com/track/5OU5AciVr7rUp4ivpD8cGL"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Pasi\u00f3n Huasteca",
         "url": "https://open.spotify.com/album/1IxTROEf8eB8IRsa910pYa"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 170493,
       "name": "El Borracho",
       "url": "https://open.spotify.com/track/1whNjZlL6zjuvTWg2tekxI"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "El Salterio",
+        "url": "https://open.spotify.com/album/057lLhyTreLeqRN9k1s1q8"
+      },
+      "artists": [
+        {
+          "name": "Eulalio Armas y Sus Salterios",
+          "url": "https://open.spotify.com/artist/50CIA4c4C7laQYcNPLcnnn"
+        }
+      ],
+      "duration_ms": 124666,
+      "name": "Flor de M\u00e9xico",
+      "url": "https://open.spotify.com/track/5OU5AciVr7rUp4ivpD8cGL"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "M\u00e9xico 2010 El Salterio",
-        "url": "https://open.spotify.com/album/1PU88tZ22xHSWrdTY1jroX"
-      },
-      "artists": [
-        {
-          "name": "Daniel Armas",
-          "url": "https://open.spotify.com/artist/62m8kgUSiuiUb2cl118JCi"
-        }
-      ],
-      "duration_ms": 161866,
-      "name": "Ay Jalisco No Te Rajes",
-      "url": "https://open.spotify.com/track/5q673d8BBfaK3CrQWBUMOH"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "RCA 100 A\u00f1os de M\u00fasica - Segunda Parte",
         "url": "https://open.spotify.com/album/1I5kQcXKDxb3zkqiZcZcBp"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 158066,
       "name": "Por los Caminos del Sur",
       "url": "https://open.spotify.com/track/5FxEVphkVfyLbsGnxvotZF"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "M\u00e9xico 2010 El Salterio",
+        "url": "https://open.spotify.com/album/1PU88tZ22xHSWrdTY1jroX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Armas",
+          "url": "https://open.spotify.com/artist/62m8kgUSiuiUb2cl118JCi"
+        }
+      ],
+      "duration_ms": 161866,
+      "name": "Ay Jalisco No Te Rajes",
+      "url": "https://open.spotify.com/track/5q673d8BBfaK3CrQWBUMOH"
     },
     {
       "added_at": "2023-05-09 18:01:28",

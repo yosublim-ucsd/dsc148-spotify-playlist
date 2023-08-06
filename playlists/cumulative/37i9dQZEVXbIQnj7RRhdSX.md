@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,370 songs - 2 day 22 hr 38 min
+1,371 songs - 2 day 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,7 @@
 | [FASHION \(feat\. ANNA, Lazza, Tony Effe & Benny Benassi\)](https://open.spotify.com/track/3wld38PU9xGmtSbO5elWSt) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [10](https://open.spotify.com/album/0wseGI0Yw53Ys8W7QGX36a) | 3:02 | 2023-07-01 |  |
 | [FASHION NOVA](https://open.spotify.com/track/6tzKsCYlTT32VBHwPQIvGw) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 2:22 | 2022-11-05 | 2022-11-08 |
 | [Fast Life \(feat\. North of Loreto\)](https://open.spotify.com/track/7BIwZhfGXTup9z9U7hbhVH) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dj Harsh](https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq), [North of Loreto](https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo) | [Fastlife 4](https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6) | 2:44 | 2021-04-11 | 2021-04-18 |
-| [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-29 |  |
+| [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-29 | 2023-08-06 |
 | [Fede](https://open.spotify.com/track/5MvuRg3UmzjDEQqCwOx5cZ) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/0gi61wtNNe973Tx5SN7ElT) | 3:42 | 2022-12-03 | 2022-12-08 |
 | [FEDE E SPERANZA – with Speranza](https://open.spotify.com/track/4rl8rK1ho0EwAxIk4VcD8p) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F) | [DISUMANO](https://open.spotify.com/album/6gMA11qiuxvAkeoUfAloN9) | 2:25 | 2021-11-28 | 2021-11-28 |
 | [FEDELE AL QUARTIERE \(feat\. Vale Pain\)](https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:20 | 2022-10-11 | 2022-11-20 |
@@ -1109,6 +1109,7 @@
 | [Scusa](https://open.spotify.com/track/7w9URuxEODwcChkFCpsf5Q) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:55 | 2023-04-15 | 2023-04-22 |
 | [Scusa \- prod\. tha Supreme](https://open.spotify.com/track/7uBlznv2TJpvjHCzY7K8wO) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Scusa \(prod\. tha Supreme\)](https://open.spotify.com/album/0gLbuRK9otcxCNaDyDLfbA) | 3:02 | 2021-04-11 | 2021-04-18 |
 | [Se Fosse Per Me](https://open.spotify.com/track/5ovQyVu6iyR1GFXKgkEqxp) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:46 | 2022-11-26 | 2022-12-02 |
+| [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 | 2023-08-05 |  |
 | [Se poi domani](https://open.spotify.com/track/2IyIs4oNWfQMihZ2Dra4Qp) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Quello che fa bene](https://open.spotify.com/album/2fvhsdTvv07T6ANtdgAlML) | 3:28 | 2023-02-19 | 2023-02-26 |
 | [Se poi domani](https://open.spotify.com/track/32XKm4CJzVNRUCzkhQoX13) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Se poi domani](https://open.spotify.com/album/6gsgGDGj0bfP46w0xCISQ2) | 3:28 | 2023-02-10 | 2023-02-20 |
 | [Se Rinasco](https://open.spotify.com/track/4bTgVYbTDdBaJRHLtecSoX) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 3:05 | 2022-03-05 | 2022-03-11 |

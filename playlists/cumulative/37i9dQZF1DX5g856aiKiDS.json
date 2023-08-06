@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247173,
+      "name": "Across the Universe",
+      "url": "https://open.spotify.com/track/37LGPxmWd0LLKt80PKEDfz"
+    },
+    {
+      "album": {
         "name": "After Love",
         "url": "https://open.spotify.com/album/4vAmITEtZcLh6BoB4THvcz"
       },
@@ -592,7 +610,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 203409,
       "name": "Bye bye my blue",
       "url": "https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7"
@@ -2799,7 +2817,7 @@
     },
     {
       "album": {
-        "name": "Our Love is Great",
+        "name": "Our love is great",
         "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
       },
       "artists": [
@@ -2952,6 +2970,24 @@
       "duration_ms": 214120,
       "name": "My Lips Like Warm Coffee",
       "url": "https://open.spotify.com/track/7j59Opz7qhb2aj7cnu7iLr"
+    },
+    {
+      "album": {
+        "name": "ZZZ",
+        "url": "https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194635,
+      "name": "My Luv",
+      "url": "https://open.spotify.com/track/7nyHCuvAMkQKcUOFSg8qSJ"
     },
     {
       "album": {
@@ -5524,24 +5560,6 @@
       "duration_ms": 194273,
       "name": "\uc548 \ubcf4\uc5ec Come On",
       "url": "https://open.spotify.com/track/49gW1Q6mjQGCeVdELNShHE"
-    },
-    {
-      "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "date_added": "2022-07-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 247173,
-      "name": "\uc6b0\uc8fc\ub97c \uac74\ub108 Across the universe",
-      "url": "https://open.spotify.com/track/37LGPxmWd0LLKt80PKEDfz"
     },
     {
       "album": {

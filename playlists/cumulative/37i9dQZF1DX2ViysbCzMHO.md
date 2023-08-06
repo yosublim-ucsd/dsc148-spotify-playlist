@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-242 songs - 13 hr 13 min
+243 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Handful \- Acoustic](https://open.spotify.com/track/7pAFcp3k95JFqAYNGQQMC4) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Handful / Already Broke Up](https://open.spotify.com/album/3ef62M5CFUa1tZ9rpKZuDS) | 2:42 | 2023-02-17 | 2023-05-24 |
 | [Hard \- Live on the Grand](https://open.spotify.com/track/3R3IrdzoSYyI8cq9c4pcRg) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Hard \(Live on the Grand\)](https://open.spotify.com/album/3bMcMleKkLMqj7ZuRXnhxO) | 3:24 | 2022-06-17 | 2022-07-19 |
 | [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 | 2021-12-17 | 2023-02-19 |
+| [Hate Me More \(Stripped\)](https://open.spotify.com/track/1hDpmZBKX9zB9nNbTYYuR8) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Hate Me More \(Stripped\)](https://open.spotify.com/album/67woBHx9USLA5slgZq6y7C) | 2:40 | 2023-08-04 |  |
 | [Heart Shut \(feat\. Tenille Townes\)](https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Six Strings](https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk) | 3:21 | 2021-12-17 |  |
 | [Hell Of A Way To Go \- Acoustic](https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Hell Of A Way To Go \(Acoustic\)](https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9) | 2:53 | 2022-08-26 |  |
 | [Helpless](https://open.spotify.com/track/6Ah1dC9Hwktu1FRHC2Nl5M) | [Clare Bowen](https://open.spotify.com/artist/1LBeAxaCAHECiK355bwtlW), [Brandon Robert Young](https://open.spotify.com/artist/7A4uKbTxHktDTmVefgc3az) | [Helpless](https://open.spotify.com/album/3WA8FUqjTvP8QxIKgbQdwK) | 5:16 | 2021-12-17 | 2022-01-08 |
@@ -121,7 +122,7 @@
 | [Last Cigarette \- Acoustic](https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Acoustic Sessions EP](https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH) | 2:50 | 2022-08-12 | 2023-05-13 |
 | [Leave Me Again](https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:58 | 2023-02-17 |  |
 | [Led Myself On \- Acoustic](https://open.spotify.com/track/4ks5IPN4v73N5eib9JRk4N) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [Led Myself On \(Acoustic\)](https://open.spotify.com/album/4sZn99yH1cxhm9a76aO6C9) | 2:58 | 2021-12-17 | 2022-04-16 |
-| [Lessons \(Acoustic\)](https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw) | [Tommy Karlas](https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY) | [Put It in Drive](https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB) | 3:11 | 2021-12-17 |  |
+| [Lessons \(Acoustic\)](https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw) | [Tommy Karlas](https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY) | [Put It in Drive](https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB) | 3:11 | 2021-12-17 | 2023-08-06 |
 | [Like It Ain't \- Stripped](https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Like It Ain't \(Stripped\)](https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm) | 2:36 | 2021-12-17 |  |
 | [Little More Be Alright](https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Little More Be Alright](https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM) | 3:35 | 2021-12-17 |  |
 | [Lonely Peace](https://open.spotify.com/track/6qmgGaI4PbCAbCKtW8g6pU) | [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [Lonely Peace](https://open.spotify.com/album/4MJtZsmjt5OmpXgLRFdq8m) | 3:09 | 2021-12-17 | 2022-04-16 |

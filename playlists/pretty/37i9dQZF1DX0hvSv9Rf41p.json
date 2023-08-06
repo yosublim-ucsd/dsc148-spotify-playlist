@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with CloZee.",
-  "num_followers": 971628,
+  "num_followers": 971712,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjQ3ZGQzMzFjNDk5MzhmNTBkNDA3OGJjZTU3MzQyMDVlMjJiNjkz",
+  "snapshot_id": "MCw3ODY0MmY0NDM0ZTZkYjA3MGVjNDIzNzA1ZDM5NmE2YThmYTFmOWJj",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Of Two Minds",
-        "url": "https://open.spotify.com/album/3WfUE3XbaPkBOkRF3wTYMy"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Rhode",
-          "url": "https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi"
-        }
-      ],
-      "duration_ms": 279069,
-      "name": "Of Two Minds",
-      "url": "https://open.spotify.com/track/7Btth4NK0ICZC9DjYZPxgg"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Dark & Danger",
         "url": "https://open.spotify.com/album/52on97V2vFf9FfCGziCmox"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 163636,
       "name": "Dark & Danger",
       "url": "https://open.spotify.com/track/5sx06tqV0g8C8jZiyTCSJx"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Of Two Minds",
+        "url": "https://open.spotify.com/album/3WfUE3XbaPkBOkRF3wTYMy"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Rhode",
+          "url": "https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi"
+        }
+      ],
+      "duration_ms": 279069,
+      "name": "Of Two Minds",
+      "url": "https://open.spotify.com/track/7Btth4NK0ICZC9DjYZPxgg"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Wish He Knew",
+        "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Wish He Knew",
+      "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Skylight",
         "url": "https://open.spotify.com/album/10NOqShCVq1dXnnskSeKLZ"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Wish He Knew",
-        "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
+        "name": "Muscaria / Everglade March (VIP)",
+        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
       },
       "artists": [
         {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Wish He Knew",
-      "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
+      "duration_ms": 169462,
+      "name": "Muscaria",
+      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1295,22 +1311,6 @@
       "duration_ms": 175357,
       "name": "Exodia",
       "url": "https://open.spotify.com/track/0JIhwGegswRgXRVKYxa8lx"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Muscaria / Everglade March (VIP)",
-        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        }
-      ],
-      "duration_ms": 169462,
-      "name": "Muscaria",
-      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1379,22 +1379,6 @@
       "duration_ms": 189230,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/5xmwDU6b2jc80VmbgtpijM"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Microworlds",
-        "url": "https://open.spotify.com/album/7mBang8rS6G8jlpvDWOM5X"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Microworlds",
-      "url": "https://open.spotify.com/track/5sDu7SdtfxXRcqWQd40eoi"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1475,26 +1459,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/15Pufc2qp5Wp0NVN9JOBaR"
+        "name": "Microworlds",
+        "url": "https://open.spotify.com/album/7mBang8rS6G8jlpvDWOM5X"
       },
       "artists": [
         {
-          "name": "Slippy",
-          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
-        },
-        {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
-        },
-        {
-          "name": "Diandra Faye",
-          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
         }
       ],
-      "duration_ms": 183200,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/1I4QzF6sT7yH3BZaaJ6npk"
+      "duration_ms": 270000,
+      "name": "Microworlds",
+      "url": "https://open.spotify.com/track/5sDu7SdtfxXRcqWQd40eoi"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1531,6 +1507,30 @@
       "duration_ms": 200339,
       "name": "Breath",
       "url": "https://open.spotify.com/track/5jA67K9o5mEW5NzjRCdAUg"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/15Pufc2qp5Wp0NVN9JOBaR"
+      },
+      "artists": [
+        {
+          "name": "Slippy",
+          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
+        },
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1I4QzF6sT7yH3BZaaJ6npk"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1803,38 +1803,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Freefall",
-        "url": "https://open.spotify.com/album/3NlzrvC7EEGG7CDBvQXEDb"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 153160,
-      "name": "Freefall",
-      "url": "https://open.spotify.com/track/0G62w7rw46fQnj2YP1kLY8"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Living Like There's No Tomorrow, But Killing Yourself In The Process",
-        "url": "https://open.spotify.com/album/1ilx2ORJ8m63yIDhJGqZjQ"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "For John & Eileen",
-      "url": "https://open.spotify.com/track/3Q6ceCMzZSxGwbUtSblB0D"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "KILLA",
         "url": "https://open.spotify.com/album/1xZ3vAVE835fY1Gi5O17Sa"
       },
@@ -1867,6 +1835,38 @@
       "duration_ms": 178064,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/4UFIbMph43OWFu3A7fC4TI"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Living Like There's No Tomorrow, But Killing Yourself In The Process",
+        "url": "https://open.spotify.com/album/1ilx2ORJ8m63yIDhJGqZjQ"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "For John & Eileen",
+      "url": "https://open.spotify.com/track/3Q6ceCMzZSxGwbUtSblB0D"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/3NlzrvC7EEGG7CDBvQXEDb"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 153160,
+      "name": "Freefall",
+      "url": "https://open.spotify.com/track/0G62w7rw46fQnj2YP1kLY8"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1931,6 +1931,30 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/4nDapjSoCGVjrUHJP85pLp"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Ravenscoon",
+          "url": "https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ"
+        },
+        {
+          "name": "Jessy Covets",
+          "url": "https://open.spotify.com/artist/0e35qB87R4rgIfDysLHzAV"
+        }
+      ],
+      "duration_ms": 240428,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/75eUZ1Em0I86W4RbBL8EZV"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Commencement (feat. Gracie Van Brunt)",
         "url": "https://open.spotify.com/album/0haPvOsTwtQ0GB329u57d7"
       },
@@ -1975,18 +1999,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Run Away!",
-        "url": "https://open.spotify.com/album/08Euo3LlOwNx8BC7vVdWtY"
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/7aI7DD29eHD9yO4Aed3rDQ"
       },
       "artists": [
         {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+          "name": "STAR SEED",
+          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
+        },
+        {
+          "name": "Catlea",
+          "url": "https://open.spotify.com/artist/3MKB5HGt7ZcprzEZt4BxMV"
         }
       ],
-      "duration_ms": 238736,
-      "name": "Run Away!",
-      "url": "https://open.spotify.com/track/6jkNTZVkFwaoufxsZbPmX2"
+      "duration_ms": 201600,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/6u2buWQK4lGRUcHsyqPNEk"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2007,22 +2035,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/7aI7DD29eHD9yO4Aed3rDQ"
+        "name": "Run Away!",
+        "url": "https://open.spotify.com/album/08Euo3LlOwNx8BC7vVdWtY"
       },
       "artists": [
         {
-          "name": "STAR SEED",
-          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
-        },
-        {
-          "name": "Catlea",
-          "url": "https://open.spotify.com/artist/3MKB5HGt7ZcprzEZt4BxMV"
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/6u2buWQK4lGRUcHsyqPNEk"
+      "duration_ms": 238736,
+      "name": "Run Away!",
+      "url": "https://open.spotify.com/track/6jkNTZVkFwaoufxsZbPmX2"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2083,6 +2107,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Novaform / Blueshift",
+        "url": "https://open.spotify.com/album/29VmOL15urLPDhYYN95UHt"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "duration_ms": 180531,
+      "name": "Novaform",
+      "url": "https://open.spotify.com/track/4iRF49wQyW2359Lxh6bJ2q"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "JSYK",
         "url": "https://open.spotify.com/album/6wAxJ3vyMI6RVLeVdqJpHe"
       },
@@ -2111,26 +2155,6 @@
       "duration_ms": 216666,
       "name": "Charmer",
       "url": "https://open.spotify.com/track/0qlcVvGMXn1aRB9nGPlaYN"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Novaform / Blueshift",
-        "url": "https://open.spotify.com/album/29VmOL15urLPDhYYN95UHt"
-      },
-      "artists": [
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        },
-        {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
-        }
-      ],
-      "duration_ms": 180531,
-      "name": "Novaform",
-      "url": "https://open.spotify.com/track/4iRF49wQyW2359Lxh6bJ2q"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2315,30 +2339,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Crossfire",
-        "url": "https://open.spotify.com/album/6vj1NsBvjKHVOfdhSWFrQu"
-      },
-      "artists": [
-        {
-          "name": "Cadmium",
-          "url": "https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy"
-        },
-        {
-          "name": "Emilio Rojas",
-          "url": "https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co"
-        },
-        {
-          "name": "M.I.M.E",
-          "url": "https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X"
-        }
-      ],
-      "duration_ms": 212057,
-      "name": "Crossfire",
-      "url": "https://open.spotify.com/track/3PpDzZn8stQY5whl9F1lnJ"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Judgement Day",
         "url": "https://open.spotify.com/album/7DkSbcu3i5zNcGRFcGdQ1G"
       },
@@ -2379,26 +2379,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/4nDapjSoCGVjrUHJP85pLp"
+        "name": "Play With You",
+        "url": "https://open.spotify.com/album/55rXKa79HyEaM9gYapnZiy"
       },
       "artists": [
         {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Ravenscoon",
-          "url": "https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ"
-        },
-        {
-          "name": "Jessy Covets",
-          "url": "https://open.spotify.com/artist/0e35qB87R4rgIfDysLHzAV"
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
         }
       ],
-      "duration_ms": 240428,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/75eUZ1Em0I86W4RbBL8EZV"
+      "duration_ms": 145886,
+      "name": "Play With You",
+      "url": "https://open.spotify.com/track/6DU55Vc6ZIGYgGC9t5g56t"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2419,18 +2411,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Play With You",
-        "url": "https://open.spotify.com/album/55rXKa79HyEaM9gYapnZiy"
+        "name": "Crossfire",
+        "url": "https://open.spotify.com/album/6vj1NsBvjKHVOfdhSWFrQu"
       },
       "artists": [
         {
-          "name": "JVNA",
-          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+          "name": "Cadmium",
+          "url": "https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy"
+        },
+        {
+          "name": "Emilio Rojas",
+          "url": "https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co"
+        },
+        {
+          "name": "M.I.M.E",
+          "url": "https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X"
         }
       ],
-      "duration_ms": 145886,
-      "name": "Play With You",
-      "url": "https://open.spotify.com/track/6DU55Vc6ZIGYgGC9t5g56t"
+      "duration_ms": 212057,
+      "name": "Crossfire",
+      "url": "https://open.spotify.com/track/3PpDzZn8stQY5whl9F1lnJ"
     },
     {
       "added_at": "2023-08-04 04:00:00",

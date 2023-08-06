@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a swing thing.",
-  "num_followers": 114755,
+  "num_followers": 114786,
   "original_name": "Swing Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTlkZGZiOTJiYjE5Y2RlOWUzNzQ4N2JhYzhkMzI5NzFlN2I2MThi",
+  "snapshot_id": "MCwzNzRlZGUzOTIxNDkyMzBjN2QwNDI4N2E5ZmI2MTYwNTAzNzYxMjNm",
   "tracks": [
     {
       "added_at": "2022-03-28 19:13:18",
@@ -587,6 +587,54 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
+        "name": "Calling All Jitterbugs!",
+        "url": "https://open.spotify.com/album/0kfpd3xBZlh9hKGuUvDEbI"
+      },
+      "artists": [
+        {
+          "name": "Bill Elliott Swing Orchestra",
+          "url": "https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn"
+        }
+      ],
+      "duration_ms": 223635,
+      "name": "Mildred, Won't You Behave?",
+      "url": "https://open.spotify.com/track/50QVCLA4Qcw04DMKiJtc5M"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Big Bad Voodoo Daddy",
+        "url": "https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj"
+      },
+      "artists": [
+        {
+          "name": "Big Bad Voodoo Daddy",
+          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
+        }
+      ],
+      "duration_ms": 307493,
+      "name": "Mambo Swing",
+      "url": "https://open.spotify.com/track/54B4Cfi9Q4q17tDrs9YFzW"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Spread a Little Happiness",
+        "url": "https://open.spotify.com/album/4V135Rn6LNvAchAyu6OUC7"
+      },
+      "artists": [
+        {
+          "name": "The Jive Aces",
+          "url": "https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2"
+        }
+      ],
+      "duration_ms": 164505,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/19HwojO9ZITydllvtcjVw8"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
         "name": "Mortyfied!",
         "url": "https://open.spotify.com/album/3xsxAd9Nkl5uBw3qZe0A5e"
       },
@@ -635,54 +683,6 @@
       "duration_ms": 169720,
       "name": "Knockin' At Your Door",
       "url": "https://open.spotify.com/track/7GFHztqce85FfPw6da1q5M"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Big Bad Voodoo Daddy",
-        "url": "https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj"
-      },
-      "artists": [
-        {
-          "name": "Big Bad Voodoo Daddy",
-          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
-        }
-      ],
-      "duration_ms": 307493,
-      "name": "Mambo Swing",
-      "url": "https://open.spotify.com/track/54B4Cfi9Q4q17tDrs9YFzW"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Spread a Little Happiness",
-        "url": "https://open.spotify.com/album/4V135Rn6LNvAchAyu6OUC7"
-      },
-      "artists": [
-        {
-          "name": "The Jive Aces",
-          "url": "https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2"
-        }
-      ],
-      "duration_ms": 164505,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/19HwojO9ZITydllvtcjVw8"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Calling All Jitterbugs!",
-        "url": "https://open.spotify.com/album/0kfpd3xBZlh9hKGuUvDEbI"
-      },
-      "artists": [
-        {
-          "name": "Bill Elliott Swing Orchestra",
-          "url": "https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn"
-        }
-      ],
-      "duration_ms": 223635,
-      "name": "Mildred, Won't You Behave?",
-      "url": "https://open.spotify.com/track/50QVCLA4Qcw04DMKiJtc5M"
     },
     {
       "added_at": "2022-03-28 19:13:18",

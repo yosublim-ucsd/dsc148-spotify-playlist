@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,124 likes - 56 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,322 likes - 56 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 51 | [Veintiséis](https://open.spotify.com/track/6AM79PtldyQT9mb1ERTBUz) | [Babywine](https://open.spotify.com/artist/5DLfGYyYP6BBL0fbh3GuBG), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Aurora](https://open.spotify.com/album/69HOtVSMleCuO9fH67qh5U) | 2:47 |
 | 52 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
 | 53 | [LA TANGA](https://open.spotify.com/track/100QTgMwBISQLjrime1jF8) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [LA TANGA](https://open.spotify.com/album/0S6Z8MgGVuGxC3ubKfEQSf) | 2:18 |
-| 54 | [ALL MY LIFE \- Radio Edit](https://open.spotify.com/track/6eR4Wt47XHiavGql9WFeMD) | [Victor Porfidio](https://open.spotify.com/artist/39sM7R1IvQMQPTEB3SY8h9), [Gabriel Dominguez](https://open.spotify.com/artist/6jockFof1s3dGGEvAjC0iW), [Zashanell](https://open.spotify.com/artist/7HMbLjUSmZVAxkfe6B6M83), [Avrii Castle](https://open.spotify.com/artist/4HCMk3X1w67qOvdf6yOJIy) | [ALL MY LIFE \(Radio Edit\)](https://open.spotify.com/album/5eHMF6Q6THx3itrqKoWG0r) | 3:08 |
+| 54 | [ALL MY LIFE](https://open.spotify.com/track/6eR4Wt47XHiavGql9WFeMD) | [Victor Porfidio](https://open.spotify.com/artist/39sM7R1IvQMQPTEB3SY8h9), [Gabriel Dominguez](https://open.spotify.com/artist/6jockFof1s3dGGEvAjC0iW), [Zashanell](https://open.spotify.com/artist/7HMbLjUSmZVAxkfe6B6M83), [Avrii Castle](https://open.spotify.com/artist/0UqWEQATGeW7cOGCg1bVO8) | [ALL MY LIFE](https://open.spotify.com/album/5eHMF6Q6THx3itrqKoWG0r) | 3:08 |
 | 55 | [Cicatrices](https://open.spotify.com/track/6t7kuacgELCLG0oZBQ7miG) | [Mucho Info](https://open.spotify.com/artist/4OHxrV1dV7Vmj6pe7EPc6n), [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5) | [Cicatrices](https://open.spotify.com/album/2u0s4Jq2lnaGoZDmt6fmsY) | 3:03 |
 | 56 | [MESITA DE NOCHE](https://open.spotify.com/track/17HkrgZwApp0tCjZAzygAK) | [Joa & Jalys](https://open.spotify.com/artist/4Qypd98pOg4Lp2kCxXBic9) | [MESITA DE NOCHE](https://open.spotify.com/album/4xTnQESh0KXrmHPK6r9vIi) | 2:55 |
 
-Snapshot ID: `MCxjZWNkMTExZWYyYmI2ZTRkYjUxYWQwNzFkNDljMjdlYmJhMTVjNTA1`
+Snapshot ID: `MCwwNzhmODI0YzkyNzE0YTFiNWRmNWM1MjNhNzY4OTUxZGZkMWFkZDYw`

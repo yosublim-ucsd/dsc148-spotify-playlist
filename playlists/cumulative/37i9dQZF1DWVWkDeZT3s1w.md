@@ -4,7 +4,7 @@
 
 > Grandes relatos de toque reflexivo y visión consciente\. Cancerbero en portada.
 
-82 songs - 5 hr 17 min
+84 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Adentro](https://open.spotify.com/track/5NOtC9vnvCuEy6IaNflffX) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [MultiViral](https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng) | 4:52 | 2023-04-14 |  |
 | [Afirmativo](https://open.spotify.com/track/51wBfbujPBrOsovd65uysU) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Señor Marrano](https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG) | [Umami](https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m) | 3:10 | 2023-04-14 |  |
 | [Al Pueblo Le Asusta La Revolución](https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Escribo Rap Con R De Revolucion](https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7) | 4:28 | 2023-04-14 |  |
-| [Algo Bien](https://open.spotify.com/track/6NJKTfYmo9AgGTtjkgKwr5) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Rafael Lechowski](https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3) | [Algo Bien](https://open.spotify.com/album/6KUZQ0l1keA5Dlo3ovaYRW) | 4:31 | 2023-04-14 |  |
+| [Algo Bien](https://open.spotify.com/track/6NJKTfYmo9AgGTtjkgKwr5) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Rafael Lechowski](https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3) | [Algo Bien](https://open.spotify.com/album/6KUZQ0l1keA5Dlo3ovaYRW) | 4:31 | 2023-04-14 | 2023-08-06 |
+| [ALGO BIEN](https://open.spotify.com/track/77jU7HYCU4jQUPIGqqNS5e) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Rafael Lechowski](https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3) | [ALGO BIEN](https://open.spotify.com/album/0jDAxF4M0RxVNM5JUJCiwX) | 4:31 | 2023-07-21 |  |
 | [Alquimista](https://open.spotify.com/track/6jnLJ9M1obPdVKj4kluKAD) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Alquimista](https://open.spotify.com/album/66bNCIpTWpOyUkSxm3UvKE) | 3:34 | 2023-04-14 |  |
 | [Artesano del Arte Insano \(Versión Jazz\)](https://open.spotify.com/track/7Cw1jx173XCK9kqvGTjG3Q) | [Rafael Lechowski](https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3) | [Donde Duele Inspira \(Versión Jazz\)](https://open.spotify.com/album/3QExWqCE0QmknS05vj59QL) | 6:52 | 2023-04-14 |  |
 | [Ausencia](https://open.spotify.com/track/7kxHpWyVL8i5g4G9wA0gR4) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Ausencia](https://open.spotify.com/album/4KzSlWlPy6eOz15BELb833) | 3:01 | 2023-04-14 |  |
@@ -61,7 +62,8 @@
 | [Madurar](https://open.spotify.com/track/1NeVrrBxzzG9hlF7HYMqrl) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Madurar](https://open.spotify.com/album/6vrLra49PAThZU0jag7B7k) | 4:27 | 2023-04-14 |  |
 | [Magia](https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Colección Inéditos](https://open.spotify.com/album/3skRkN1MIwSDjleT384X28) | 3:40 | 2023-04-14 |  |
 | [Matar o Morir](https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Psicofonia](https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw) | 3:04 | 2023-04-14 |  |
-| [Mañana Será Otro Día](https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:19 | 2023-04-14 |  |
+| [Mañana Será Otro Día](https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:19 | 2023-04-14 | 2023-08-06 |
+| [Mañana Será Otro Día](https://open.spotify.com/track/3WcU9Jrq04yhvk4fgINhAJ) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Rap Epico](https://open.spotify.com/album/2fSq489Gg9Z4HfIUESHuBX) | 3:19 | 2023-07-21 |  |
 | [Merced](https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Gala](https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6) | 2:53 | 2023-04-14 |  |
 | [Mi Propio Cielo](https://open.spotify.com/track/1mxqzLeUxp8AG6en1REGY6) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Ars Magna](https://open.spotify.com/album/38oezaVIzLW6oDOBGGKS7P) | 4:45 | 2023-04-14 |  |
 | [Más & Menos](https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Más & Menos](https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus) | 4:29 | 2023-04-14 |  |

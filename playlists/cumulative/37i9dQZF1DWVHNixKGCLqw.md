@@ -4,7 +4,7 @@
 
 > Top of the top tracks in K\-Pop Daebak playlist this year! Cover: ITZY
 
-84 songs - 4 hr 38 min
+85 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Monster](https://open.spotify.com/track/6c1QaQHdDhtFMfUkhueuXK) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [Monster \- The 1st Mini Album](https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc) | 2:58 | 2020-12-01 |  |
 | [MORE & MORE](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:19 | 2020-12-01 |  |
 | [Nonstop](https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 3:22 | 2020-12-01 |  |
-| [NOT BY THE MOON](https://open.spotify.com/track/1pmfd0ohjfh1qXPWvjaC1o) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [DYE](https://open.spotify.com/album/5lX6uJNNwzEZU7TF1RyAdT) | 3:24 | 2020-12-01 |  |
+| [NOT BY THE MOON](https://open.spotify.com/track/0LrhTHjmH2ATnbCbsqKZyf) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [DYE](https://open.spotify.com/album/14H4MUgtA9Vxv1hvfhWT5G) | 3:24 | 2020-12-01 |  |
+| [NOT BY THE MOON](https://open.spotify.com/track/1pmfd0ohjfh1qXPWvjaC1o) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [DYE](https://open.spotify.com/album/5lX6uJNNwzEZU7TF1RyAdT) | 3:24 | 2020-12-01 | 2023-08-06 |
 | [Not Shy](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) | 2:57 | 2020-12-01 |  |
 | [Not Shy](https://open.spotify.com/track/4ecVWqbtW6phQGpZMAyqIU) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila) | 2:57 | 2020-12-01 | 2022-07-29 |
 | [NUNU NANA](https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:15 | 2020-12-01 |  |

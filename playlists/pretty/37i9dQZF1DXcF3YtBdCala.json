@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Paola Jara en portada. ",
-  "num_followers": 127744,
+  "num_followers": 127774,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmI4YjEzZTA4NTYzY2VhOWQ4ZjZkMzk1ZGRkZTBlY2JiMDIyNjkx",
+  "snapshot_id": "MCxmODM1MzEwZDgzZTQ5NDg2MjM2YTNhYTcyNDA3Y2NmNzc4OWUwYzc1",
   "tracks": [
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1295,18 +1295,38 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Ese Fui Yo",
-        "url": "https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom"
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
       },
       "artists": [
         {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 162133,
-      "name": "Ese Fui Yo",
-      "url": "https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR"
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Fue Tu Culpa",
+        "url": "https://open.spotify.com/album/5NOb3XhFyTN9QQcfdjYHWd"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        },
+        {
+          "name": "El Bala",
+          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Fue Tu Culpa",
+      "url": "https://open.spotify.com/track/7hxPbThnIsDlQQwSCwBNbH"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1327,22 +1347,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Coincidencias",
-        "url": "https://open.spotify.com/album/0YGUKU6DyVS2F7TnMl2Jav"
-      },
-      "artists": [
-        {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
-        }
-      ],
-      "duration_ms": 181447,
-      "name": "Coincidir",
-      "url": "https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Amigos",
         "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
       },
@@ -1355,6 +1359,38 @@
       "duration_ms": 168866,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Ese Fui Yo",
+        "url": "https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom"
+      },
+      "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        }
+      ],
+      "duration_ms": 162133,
+      "name": "Ese Fui Yo",
+      "url": "https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "El Mejor Regalo",
+        "url": "https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 163381,
+      "name": "El Mejor Regalo",
+      "url": "https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1379,22 +1415,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "El Mejor Regalo",
-        "url": "https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 163381,
-      "name": "El Mejor Regalo",
-      "url": "https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Ven Porque Te Necesito",
         "url": "https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX"
       },
@@ -1407,70 +1427,6 @@
       "duration_ms": 185560,
       "name": "Ven Porque Te Necesito",
       "url": "https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "No Mereces Que Te Quiera",
-        "url": "https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "No Mereces Que Te Quiera",
-      "url": "https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Decid\u00ed Olvidarte",
-        "url": "https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 140173,
-      "name": "Decid\u00ed Olvidarte",
-      "url": "https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Me Cuesta Tanto Olvidarte",
-        "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 173546,
-      "name": "Me Cuesta Tanto Olvidarte",
-      "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Chuladas Del Alma",
-        "url": "https://open.spotify.com/album/3PfxvQzZa81oXmrceghQTr"
-      },
-      "artists": [
-        {
-          "name": "Sandra Padilla",
-          "url": "https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz"
-        }
-      ],
-      "duration_ms": 136246,
-      "name": "Te Llegar\u00e1 Mi Olvido",
-      "url": "https://open.spotify.com/track/2gVFqyEuY89biuosNL6Y43"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1491,6 +1447,86 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Coincidencias",
+        "url": "https://open.spotify.com/album/0YGUKU6DyVS2F7TnMl2Jav"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "duration_ms": 181447,
+      "name": "Coincidir",
+      "url": "https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "No Mereces Que Te Quiera",
+        "url": "https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "No Mereces Que Te Quiera",
+      "url": "https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Me Cuesta Tanto Olvidarte",
+        "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 173546,
+      "name": "Me Cuesta Tanto Olvidarte",
+      "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Decid\u00ed Olvidarte",
+        "url": "https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 140173,
+      "name": "Decid\u00ed Olvidarte",
+      "url": "https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Chuladas Del Alma",
+        "url": "https://open.spotify.com/album/3PfxvQzZa81oXmrceghQTr"
+      },
+      "artists": [
+        {
+          "name": "Sandra Padilla",
+          "url": "https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz"
+        }
+      ],
+      "duration_ms": 136246,
+      "name": "Te Llegar\u00e1 Mi Olvido",
+      "url": "https://open.spotify.com/track/2gVFqyEuY89biuosNL6Y43"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Soy de Parral",
         "url": "https://open.spotify.com/album/5dxYagkDKD4Ij1fOxm09WE"
       },
@@ -1503,22 +1539,6 @@
       "duration_ms": 205825,
       "name": "Soy de Parral",
       "url": "https://open.spotify.com/track/5Rx9uV1CS862Jkqjy4fKqw"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 185781,
-      "name": "Apur\u00e9 Mi Caf\u00e9 - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/543GxK1Fbq64kfhMB4j7Dq"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1559,6 +1579,38 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 185781,
+      "name": "Apur\u00e9 Mi Caf\u00e9 - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/543GxK1Fbq64kfhMB4j7Dq"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Yo No Creo En Los Hombres",
+        "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "duration_ms": 215893,
+      "name": "Yo No Creo En Los Hombres",
+      "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Ser\u00e9",
         "url": "https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL"
       },
@@ -1591,6 +1643,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "No Te Dejes Enga\u00f1ar",
+        "url": "https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "No Te Dejes Enga\u00f1ar",
+      "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Puras Pa\u2019 Llorar",
         "url": "https://open.spotify.com/album/4AMmbg5HVgMNlGLl8QUv5x"
       },
@@ -1603,38 +1671,6 @@
       "duration_ms": 170192,
       "name": "Te Ves Muy Feliz",
       "url": "https://open.spotify.com/track/6EJYz5QSjhPrg8AkRs3XOS"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Yo No Creo En Los Hombres",
-        "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
-      },
-      "artists": [
-        {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
-        }
-      ],
-      "duration_ms": 215893,
-      "name": "Yo No Creo En Los Hombres",
-      "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1655,42 +1691,6 @@
       "duration_ms": 161236,
       "name": "Un Buen Amor",
       "url": "https://open.spotify.com/track/16tlajyYHYesuFa3NGhZW8"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "No Te Dejes Enga\u00f1ar",
-        "url": "https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME"
-      },
-      "artists": [
-        {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "No Te Dejes Enga\u00f1ar",
-      "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Fue Tu Culpa",
-        "url": "https://open.spotify.com/album/5NOb3XhFyTN9QQcfdjYHWd"
-      },
-      "artists": [
-        {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
-        },
-        {
-          "name": "El Bala",
-          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Fue Tu Culpa",
-      "url": "https://open.spotify.com/track/7hxPbThnIsDlQQwSCwBNbH"
     },
     {
       "added_at": "2023-08-04 06:00:00",

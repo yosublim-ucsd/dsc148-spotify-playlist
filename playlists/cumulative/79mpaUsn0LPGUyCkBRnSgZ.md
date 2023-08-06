@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-285 songs - 18 hr 48 min
+289 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Disorder \- 2019 Digital Master](https://open.spotify.com/track/2OPmhk5vO4qiYE4LEAC9hs) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures](https://open.spotify.com/album/5Dgqy4bBg09Rdw7CQM545s) | 3:32 | 2022-04-04 |  |
 | [Dodecahedron](https://open.spotify.com/track/0rbBNWwPxwXUSlqUmlh4JK) | [$ilkMoney](https://open.spotify.com/artist/6hj2p7pzusn5Fcdi35Yedr) | [I Don't Give a Fuck About This Rap Shit, Imma Just Drop Until I Don't Feel Like It Anymore](https://open.spotify.com/album/1JfbPIbBc0wMHgl5zmwm9x) | 2:42 | 2022-11-24 |  |
 | [Don't Break The Silence](https://open.spotify.com/track/7fTEiF3rNCc8TDagCAXjhd) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 1:44 | 2023-04-24 |  |
+| [Don't Go Near The Water \- Remastered 2009](https://open.spotify.com/track/1bqc35qbUzNP7kH19ql8PF) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 2:41 | 2023-08-04 |  |
 | [Doris](https://open.spotify.com/track/01psXbOBykOM12RHATPCjr) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:50 | 2022-07-04 |  |
 | [DOWN BY LAW](https://open.spotify.com/track/6KlvybbokGa63tRS4J3Uqh) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 3:31 | 2023-06-22 | 2023-06-27 |
 | [Down to the Waterline](https://open.spotify.com/track/0NnuQYRXNIzncgftfbTV3P) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 4:02 | 2023-08-03 |  |
@@ -121,7 +122,7 @@
 | [Hangout at the Gallows](https://open.spotify.com/track/45EAxE8XCkBQyKDHOgSUvY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [God's Favorite Customer](https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd) | 4:55 | 2023-06-19 | 2023-06-29 |
 | [Hanif Reads Toni](https://open.spotify.com/track/4qTGN4ThY42Zl4N02II7rX) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko), [Hanif](https://open.spotify.com/artist/4XbJPicIyitMdRuYN1gE7K) | [Beloved! Paradise! Jazz!?](https://open.spotify.com/album/79cZfoRuFR4M6y8Fcn58E3) | 2:23 | 2023-06-22 |  |
 | [Haunted House on Zillow](https://open.spotify.com/track/6WDNTF2UZH8eGHFUH3xkcO) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [HORSESHIT ON ROUTE 66](https://open.spotify.com/album/1Wgcuni5PXwaTtRoo5SbmF) | 1:14 | 2023-04-25 |  |
-| [Heroes And Villains \- Remastered 2001](https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 | 2022-04-23 |  |
+| [Heroes And Villains \- Remastered 2001](https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 | 2022-04-23 | 2023-08-06 |
 | [Hidden Place](https://open.spotify.com/track/5bnX0zhTVV1H5gNVjVhgaL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 5:28 | 2022-09-30 |  |
 | [History Repeats](https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:04 | 2022-06-13 | 2023-04-20 |
 | [Hold On, Be Strong](https://open.spotify.com/track/7g8S0N45Tkp7yE1WEWRwyu) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 1:12 | 2022-09-11 |  |
@@ -133,6 +134,7 @@
 | [Hot Rotten Grass Smell](https://open.spotify.com/track/16weYq1yI3d7pyjkRLYlrY) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 1:35 | 2023-04-19 |  |
 | [I Believe \(When I Fall In Love It Will Be Forever\)](https://open.spotify.com/track/1fdQg2yrTYCMOviVCw1Xdh) | [Art Garfunkel](https://open.spotify.com/artist/6kEsKkXuE4olX7m3mNLZkS) | [Breakaway](https://open.spotify.com/album/1XrVWVKKfRlD0waskKj5uy) | 3:51 | 2022-07-27 |  |
 | [I Feel the Earth Move](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 2:58 | 2023-02-22 |  |
+| [I Feel Ya' Strutter](https://open.spotify.com/track/1bpEObO6vZfCrmyvhTCaVv) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [False Priest \(Deluxe Edition\)](https://open.spotify.com/album/1XRBHUGuKtiXXOHg7N9NBx) | 3:40 | 2023-08-04 |  |
 | [In the Darkness](https://open.spotify.com/track/2HO68dkF74HHG99eOmE4cP) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf) | 2:01 | 2022-06-15 |  |
 | [In The End](https://open.spotify.com/track/5lDPr9m2SCnDCrCPX6o0xz) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 2:47 | 2023-03-31 |  |
 | [In the Morning](https://open.spotify.com/track/0zlqp4qK2WxjC1J6ExWPlt) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [There's Nothing Wrong With Love](https://open.spotify.com/album/6ShLKGsrQk9OHXmEBrXJhd) | 2:37 | 2022-09-20 |  |
@@ -151,6 +153,7 @@
 | [Just a Room](https://open.spotify.com/track/6yZs8pZm14d3r0ZkrZDOOy) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 3:29 | 2022-06-28 |  |
 | [KILLA MODE \(feat\. Storm Ford\)](https://open.spotify.com/track/6JotKhX3MBz3OfOU8HD0xe) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 2:44 | 2022-12-14 |  |
 | [Kodachrome](https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:35 | 2023-05-21 | 2023-06-11 |
+| [Labor](https://open.spotify.com/track/5mebhNwj9TqwjeyGvBAIcT) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [Labor Days](https://open.spotify.com/album/3zJMNOxnbHWG2rZwswnSM2) | 2:32 | 2023-08-04 |  |
 | [Let England Shake](https://open.spotify.com/track/2XwL9kTn9411Ed4p0MLYx3) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2f8Rfpdol5jrJe3OL4YH6k) | 3:09 | 2023-05-20 |  |
 | [Let It Go](https://open.spotify.com/track/0jYgfSncMwfefAUpUMcM5X) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Trap Lord](https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki) | 4:42 | 2022-07-14 |  |
 | [Let Me Drown](https://open.spotify.com/track/3YJ4uP7IHca1MrxoPD6NCC) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown](https://open.spotify.com/album/4SPc25NzdqOQt2IX4JDLUv) | 3:53 | 2023-01-14 |  |
@@ -185,6 +188,7 @@
 | [Obrigado](https://open.spotify.com/track/7r9HZwjUZezpQpW4ToiEFL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Bandana](https://open.spotify.com/album/31KbO7WnDp2AjPdmRTJzdf) | 0:29 | 2022-09-13 |  |
 | [Old Familiar Way](https://open.spotify.com/track/6TeYtUQbGmNr4EKe0o9sTG) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Gay Parade](https://open.spotify.com/album/2GYkvUhakNvHmI3L6tzKbd) | 2:25 | 2022-07-13 |  |
 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 | 2022-10-24 |  |
+| [One More Chance \- 2018 Remaster](https://open.spotify.com/track/5GOBlnqd5yjo6Xxf4kC7t5) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually \(2018 Remaster\)](https://open.spotify.com/album/0p5QwhEke5P9mFY4CY9u4j) | 5:31 | 2023-08-04 |  |
 | [Otherside](https://open.spotify.com/track/2Iqdun0CJawDkc3NBUrbdA) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF) | 2:40 | 2022-06-28 |  |
 | [Outer Body](https://open.spotify.com/track/7s116fYbWa8JjEoi6jxaZQ) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Luv N Chaos](https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg) | 2:02 | 2023-05-21 |  |
 | [Outside](https://open.spotify.com/track/5s0oWj51ttqiINWWJynNPz) | [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [By the Time I Get to Phoenix](https://open.spotify.com/album/7L7oMPboBCeyGLJVsHSWM2) | 6:14 | 2023-02-18 |  |

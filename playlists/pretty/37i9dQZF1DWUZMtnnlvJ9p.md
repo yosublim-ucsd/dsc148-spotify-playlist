@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 
 > Mixing the decades: 1990s, 2000s, 2010s and 2020s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,362 likes - 144 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,902 likes - 144 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 | 143 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
 | 144 | [Broken Strings](https://open.spotify.com/track/0tp2cUnCAcsR6xL5kw9HKu) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Songs For You, Truths For Me](https://open.spotify.com/album/0pAVneHUj7ApOZZPPZBVyN) | 4:10 |
 
-Snapshot ID: `MCwzMDI1NWQyNTJhMWM5MDFiZmI3MTQwOGQxNTA2MDJkNGI3M2UwNmIy`
+Snapshot ID: `MCxhMTRhM2QyYmNhZjIzZWE5NTgzYzViMzA4MDgzOTE4MDNmMjE4Y2Q0`

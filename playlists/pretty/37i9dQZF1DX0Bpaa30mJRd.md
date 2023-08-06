@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 
 > “記念日”に合わせて<a href="https://filmaga.filmarks.com/articles/243160/">全国上映</a>！夏に観たいアニメーション映画『時をかける少女』『サマーウォーズ』全国の映画館で2週間限定上映。
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,055 likes - 111 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,076 likes - 111 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 | 48 | [竜の城 \- 「竜とそばかすの姫」より](https://open.spotify.com/track/2VulZ5lUGn75fqO52gQu4c) | [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [STUDIO CHIZU Music Journey Vol\. 1 \- Cinematic Orchestra 2022](https://open.spotify.com/album/5smAOm1KBol1RqR9QJttcw) | 3:19 |
 | 49 | [Dragon's Lair](https://open.spotify.com/track/2vVJbJ9NM1E74vaPlcBPWc) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:10 |
 | 50 | [心のそばに \- 「竜とそばかすの姫」より](https://open.spotify.com/track/42bGuRZiS4mGeml2VJhw14) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40), [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [STUDIO CHIZU Music Journey Vol\. 1 \- Cinematic Orchestra 2022](https://open.spotify.com/album/5smAOm1KBol1RqR9QJttcw) | 5:03 |
-| 51 | [Assault](https://open.spotify.com/track/64bKAprQGe1zqiqRxevbyd) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:48 |
+| 51 | [心のそばに](https://open.spotify.com/track/3VXkaNgYFHOxbuOmKejypT) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 5:03 |
 | 52 | [素顔 \- 「竜とそばかすの姫」より](https://open.spotify.com/track/3AifExrTvYm0YZ6rtacm0L) | [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [STUDIO CHIZU Music Journey Vol\. 1 \- Cinematic Orchestra 2022](https://open.spotify.com/album/5smAOm1KBol1RqR9QJttcw) | 2:24 |
 | 53 | [Faces in the Rain](https://open.spotify.com/track/47glEWHDcFq99QJIG41uyF) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 2:22 |
 | 54 | [はなればなれの君へ \(reprise\) \- 「竜とそばかすの姫」より](https://open.spotify.com/track/1qjJqLwL4K2JanTTOXkMlJ) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40), [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [STUDIO CHIZU Music Journey Vol\. 1 \- Cinematic Orchestra 2022](https://open.spotify.com/album/5smAOm1KBol1RqR9QJttcw) | 6:39 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 | 110 | [Swarms of Song \- English Version](https://open.spotify.com/track/3G7lL3qz3jYYG8dfvyYpjn) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 1:38 |
 | 111 | [A Million Miles Away \(reprise\) \- English Version](https://open.spotify.com/track/3LGIequcwZQo02cskDxXVS) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 6:27 |
 
-Snapshot ID: `MCw2ZDkyYjhiMjQxZDNlM2UzMjUzNTk4ZjNkNGIzM2RhNWM4MjkxNDcx`
+Snapshot ID: `MCwwNGJkZDk5NTNjYzE4ODlmZWJjOTMxYThjNDkzNzkyZGE3NjE4M2E0`

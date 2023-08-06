@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,830 likes - 122 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,831 likes - 122 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 9 | [CRAZY HAZY](https://open.spotify.com/track/1sPmQ0sCoM0jUOKX1qkIl0) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [CRAZY HAZY](https://open.spotify.com/album/4xbzcf5etib5p4B6vdJs9G) | 3:28 |
 | 10 | [West Swing \(feat\. E\-40\)](https://open.spotify.com/track/1sm9EPvFtjD0nmSotn4lmF) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [West Swing \(feat\. E\-40\)](https://open.spotify.com/album/3q7iMJOXp2eFIUAHfyOffC) | 3:22 |
 | 11 | [The Winter, Stopped You & Me](https://open.spotify.com/track/2yWQC6KfNM37EB2ElsU7Kt) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN) | [Spend The Night With You](https://open.spotify.com/album/1P8FIdTjCDrx2rUEof69rS) | 3:32 |
-| 12 | [숙녀 \(淑女\) Lady](https://open.spotify.com/track/1fx1OZ7IFHEqohT2GIN0uB) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [都市女子](https://open.spotify.com/album/3HOdnNDpkFdzt3TamAUm9m) | 3:16 |
+| 12 | [都市女子](https://open.spotify.com/track/1fx1OZ7IFHEqohT2GIN0uB) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [都市女子](https://open.spotify.com/album/3HOdnNDpkFdzt3TamAUm9m) | 3:16 |
 | 13 | [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 |
 | 14 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 |
 | 15 | [Uh\-Oh](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Uh\-Oh](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) | 3:27 |
 | 16 | [Roly\-Poly](https://open.spotify.com/track/1p9damTV6h7u7THZKZB2tW) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [John Travolta Wanna Be](https://open.spotify.com/album/3phQgRvQwZ0OPzmzoNKaYq) | 3:34 |
-| 17 | [보내줄게 Let You Go](https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:11 |
+| 17 | [Let You Go](https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:11 |
 | 18 | [그대여 이제 With Me \(feat\. Rhythme Power\)](https://open.spotify.com/track/3JBdWfoqGqDFkigIs6qdLB) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc) | [그대여 이제 With Me](https://open.spotify.com/album/6N1XVKkDPSaMqXW1Q5w2P3) | 3:45 |
 | 19 | [Dawn](https://open.spotify.com/track/4Umzv0vY5vDuXtYuJQp5Oq) | [FilmSound](https://open.spotify.com/artist/0sCvfEmo7OQ1cd2eID60rD), [OYEON](https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9) | [Pairing](https://open.spotify.com/album/6A5WZUUzuktHTw1n6M03ya) | 3:22 |
 | 20 | [Michael Jackson \(Dance Ver.\)](https://open.spotify.com/track/2g3umQsrOCBk3mSKafF8Sd) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Michael Jackson](https://open.spotify.com/album/3XHOJvbNjgu8CFE2kd5hKg) | 2:54 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 121 | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Wonwoo](https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f) | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc) | 4:13 |
 | 122 | [On & On](https://open.spotify.com/track/4gphGdxKYkg5keaBePEet7) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Club 33](https://open.spotify.com/album/2GgEeiYUeDvspIUSdi8fdu) | 3:00 |
 
-Snapshot ID: `MCw5ODk0MGYwMmNjYTAyNWEyN2Q4OWI4MzI2YjBjMDZhOTZkZjQ3ODU3`
+Snapshot ID: `MCxkOWUzMzZiZjExMmU2MmQ2MTE5NmY2ZDZhNDhhYmIxYzQyODQyNjcz`

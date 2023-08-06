@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25848,
+  "num_followers": 25856,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGNkMGI0MDEwZjczZDQ5MTdjOTNkZTI1ZGIxYjFkMjViN2MzZDk1",
+  "snapshot_id": "MCw1YTYyODU5MjYwMGQwMGMzODJkYWVlODk0NTJjYmZkZTM2YTkyNzY5",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "neverfade",
-        "url": "https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 179857,
-      "name": "neverfade",
-      "url": "https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Don't Wanna Wake Up",
         "url": "https://open.spotify.com/album/2aojIQzbgnZasTUk6PpGOj"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 227142,
       "name": "Don't Wanna Wake Up",
       "url": "https://open.spotify.com/track/0drXL2YqceYBs5gZmnOifQ"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "neverfade",
+        "url": "https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 179857,
+      "name": "neverfade",
+      "url": "https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Peopled with Dreams",
+        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "duration_ms": 234558,
+      "name": "Juggernaut",
+      "url": "https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "I'm Up",
         "url": "https://open.spotify.com/album/2b2JwJcO7m5Xk047jIu9jW"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 177220,
       "name": "I'm Up",
       "url": "https://open.spotify.com/track/777iKLDmmPiMAAB7OUW8bf"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Peopled with Dreams",
-        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        }
-      ],
-      "duration_ms": 234558,
-      "name": "Juggernaut",
-      "url": "https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Standing In Your Light",
-        "url": "https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Standing In Your Light",
-      "url": "https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 193978,
       "name": "Surprise",
       "url": "https://open.spotify.com/track/0rOoue2YWOY9579CzZZzOc"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Standing In Your Light",
+        "url": "https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Standing In Your Light",
+      "url": "https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "City Lights (feat. Mitch Wong)",
-        "url": "https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9"
-      },
-      "artists": [
-        {
-          "name": "Neon Feather",
-          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
-        },
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "City Lights (feat. Mitch Wong)",
-      "url": "https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "The Divine Storm",
         "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 181446,
       "name": "Paid For It",
       "url": "https://open.spotify.com/track/012SkEI8fzg3pKAKNygn5c"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "City Lights (feat. Mitch Wong)",
+        "url": "https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9"
+      },
+      "artists": [
+        {
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "City Lights (feat. Mitch Wong)",
+      "url": "https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob"
     },
     {
       "added_at": "2020-08-13 14:39:00",

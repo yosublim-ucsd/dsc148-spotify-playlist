@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,557 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,593 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 40 | [Tu Amor](https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Melissa Hermosillo](https://open.spotify.com/artist/35U8X9qqvWRAAhCkjN7LnP) | [Tu Amor](https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90) | 3:12 |
 | 41 | [Tu Voz Hablar](https://open.spotify.com/track/3hyyH3leQgUZxgwNNSyvR7) | [Jah Love](https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd) | [No Hay Limites](https://open.spotify.com/album/3N6elW02iDWzxTPgtVfoLM) | 3:56 |
 | 42 | [Summertime](https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE) | [Yeyo](https://open.spotify.com/artist/3lzyHlwA8eLqDqHZ3FnKJp) | [Summertime](https://open.spotify.com/album/0qSI9KwRdzu1euqI19poAi) | 3:23 |
-| 43 | [Diez Mil Razones](https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b) | [Zander](https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN) | [Diez Mil Razones](https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H) | 3:00 |
-| 44 | [Hay Un Lugar](https://open.spotify.com/track/5tulhFuDxAUP9v8n0UkDup) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:44 |
+| 43 | [Hay Un Lugar](https://open.spotify.com/track/5tulhFuDxAUP9v8n0UkDup) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:44 |
+| 44 | [Diez Mil Razones](https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b) | [Zander](https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN) | [Diez Mil Razones](https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H) | 3:00 |
 | 45 | [La Misma Mentira](https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [This Is My Time](https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg) | 3:48 |
 | 46 | [Te Entrego Mi Corazón](https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Te Entrego Mi Corazón](https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT) | 3:27 |
 | 47 | [Hermoso Nombre](https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Ven Te Estado Esperando](https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d) | 5:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 49 | [La Fe Que Dios Me Dió](https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB) | [Cesar Roncallo](https://open.spotify.com/artist/0XiaBeWLxRwCckee0NN9zK) | [La Fe Que Dios Me Dió](https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K) | 3:18 |
 | 50 | [Autor](https://open.spotify.com/track/6ENS573JVD3W6g8ykZ21TY) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:57 |
 
-Snapshot ID: `MCwxNjZiODJmNjY1NjVkZWQ3MGQ2YjM2YWI4NDA0ZDM2NDEzYmY1MzEz`
+Snapshot ID: `MCwyZTBjN2FhNWJjMWZiNzc2OGRmN2I5MWFmYmQzN2E5YWFhNjQ4OTdh`

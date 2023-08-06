@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻  Schiuma in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,420 likes - 85 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,416 likes - 85 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 84 | [PICCOLI](https://open.spotify.com/track/3F86TXXBuXxQWLF3Gl0Zqr) | [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ), [HUGO\_TRz](https://open.spotify.com/artist/4K5OlFpHTBw1VShfFpTlLp) | [EMOTIVO](https://open.spotify.com/album/6sc3bvULuxvoUTMQon9GxG) | 2:31 |
 | 85 | [Storia Stupida](https://open.spotify.com/track/14cHW9AA2QhKt9lBtNi2aZ) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU), [Ardia](https://open.spotify.com/artist/71H4k0XU2SGct9RvpvmxHS) | [Storia Stupida](https://open.spotify.com/album/1UVVFhQwRZpfG0HzSns7Ur) | 3:04 |
 
-Snapshot ID: `MCw5OWM2NjYxOGM1ZDdhYTZkYmMyYWE0YWY3YmJmNDFhYjk1YzE3ZmRl`
+Snapshot ID: `MCw5OWQxMzk3YmI5YWFjMmNhNDVjNTAyMjYyNDIxNzc1NzI2ZWQ2Y2Yw`

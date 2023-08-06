@@ -8978,7 +8978,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 150767,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/54KToHgBOMdUeuEJfZebhB"
@@ -16184,7 +16184,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 74886,
       "name": "Careless",
       "url": "https://open.spotify.com/track/7aWbMM0ABFa7NJJAmVbYYw"
@@ -25636,7 +25636,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 138728,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/3SXdIx734kiO1qxaOs59rv"
@@ -38647,6 +38647,24 @@
     },
     {
       "album": {
+        "name": "gigolo",
+        "url": "https://open.spotify.com/album/66fxYaI8fuEYPyz5c60eoG"
+      },
+      "artists": [
+        {
+          "name": "Farhot",
+          "url": "https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111840,
+      "name": "gigolo",
+      "url": "https://open.spotify.com/track/3gnx4S35ZVaBqXHGfhqxJ5"
+    },
+    {
+      "album": {
         "name": "the spice is right",
         "url": "https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb"
       },
@@ -41172,7 +41190,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-31",
+      "date_removed": null,
       "duration_ms": 90352,
       "name": "Ground",
       "url": "https://open.spotify.com/track/28WEgWZa937HjoesS4gp8D"
@@ -46726,7 +46744,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 146866,
       "name": "ILY Eeve",
       "url": "https://open.spotify.com/track/3tSkSs0h0zeC6mtvmXz0Uu"
@@ -82180,7 +82198,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 123000,
       "name": "Road to the Sea",
       "url": "https://open.spotify.com/track/76mgcQvBTBERKmPLpE2E3a"
@@ -89172,7 +89190,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 122500,
       "name": "snow flowers",
       "url": "https://open.spotify.com/track/3lxsDTkTUDegCbh5ptgUFO"

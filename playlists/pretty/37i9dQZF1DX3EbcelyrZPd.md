@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Jux & Diamond Platnumz
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,619 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,775 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 8 | [Falling](https://open.spotify.com/track/4OjohSrMjXzPwH64ICPsiB) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Falling](https://open.spotify.com/album/7uk0eVcrenwRaNqeT6Rf7p) | 2:59 |
 | 9 | [Sumu \(feat\. Marioo\)](https://open.spotify.com/track/058q1xfFWx9Nde7lvWNXBl) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Sumu \(feat\. Marioo\)](https://open.spotify.com/album/6NiqDJk0P5FeKlSdtxO3YL) | 4:40 |
 | 10 | [Mahaba](https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Mahaba](https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x) | 3:16 |
-| 11 | [Waya](https://open.spotify.com/track/1Lns0UTuRt98pcYQvNW3MP) | [Benny Chill](https://open.spotify.com/artist/1uJg0HEhieOSn2XW4nSSF1), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Waya](https://open.spotify.com/album/5sNak7LY72ggfl933MsTxC) | 4:59 |
+| 11 | [Waya](https://open.spotify.com/track/1Lns0UTuRt98pcYQvNW3MP) | [Benny Chill](https://open.spotify.com/artist/1uJg0HEhieOSn2XW4nSSF1), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Mustbedubz](https://open.spotify.com/artist/5mgakxehZfMH23hQRLcy9p) | [Waya](https://open.spotify.com/album/5sNak7LY72ggfl933MsTxC) | 4:59 |
 | 12 | [Yaya \(feat\. Diamond Platnumz & Jux\)](https://open.spotify.com/track/15ObWtsj5TVgUybcGsHoIf) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Yaya \(feat\. Diamond Platnumz & Jux\)](https://open.spotify.com/album/4DukccL0dV6cqfWlJ8xqia) | 5:19 |
 | 13 | [Mood \(feat\. Maud Elka\)](https://open.spotify.com/track/0FWxtGkRzhJO1k9VYHpECy) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Heir To The Throne](https://open.spotify.com/album/1dxwatg63l3eneOsCKbrDb) | 2:40 |
 | 14 | [Nalego](https://open.spotify.com/track/6F50sh6SmKzIapv4TkAUmn) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Nalego](https://open.spotify.com/album/4LioOosWof1zHLi0B63C6g) | 3:29 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Mchumba](https://open.spotify.com/track/2CNtq7md5SkG2mRge5Ruj1) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Mchumba](https://open.spotify.com/album/6FKYjhPJ2o9VXmpbLm6Koo) | 3:36 |
 | 70 | [Leo Ni Wewe](https://open.spotify.com/track/38vrGGsODeqxUJzGJEMaKT) | [Watu Fresh](https://open.spotify.com/artist/1FVqRdx4Cw6mShamk4iXh2) | [Leo Ni Wewe](https://open.spotify.com/album/15z81Cur7wvdrdzTe7hHzO) | 2:54 |
 
-Snapshot ID: `MCwzMTIyZWY5Yjk5MTk1ODU0NWFjMGRlNzcyYjRkMzAxOTE1ODg2ZGQy`
+Snapshot ID: `MCwzYjAwNzAwNzdlOWE2OGNlZGNmZDcwZDU2MzFjYTIzMTZkMDc1MTEw`

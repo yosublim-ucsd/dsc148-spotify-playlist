@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-344 songs - 16 hr 47 min
+345 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Fly With Us](https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Fly With Us](https://open.spotify.com/album/6IwSRKffabEdwOZvUjght0) | 4:08 | 2021-10-29 | 2022-12-17 |
 | [Fool](https://open.spotify.com/track/5DPkzkBSFFMY7u0QKSMIBC) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Fool](https://open.spotify.com/album/7srxSNnTWeirw0haBqUQey) | 3:15 | 2022-01-21 | 2022-07-29 |
 | [Fool for You](https://open.spotify.com/track/2tt4GTCzZdV3yP2PZQjrbr) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4) | [Fool for You](https://open.spotify.com/album/2UV9snZDoMGxjR8j40ZTyB) | 3:14 | 2021-10-29 | 2022-06-11 |
+| [Fool Me](https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Fool Me](https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh) | 2:13 | 2023-08-04 |  |
 | [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 | 2022-11-11 |  |
 | [Forever](https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM) | [Forever](https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e) | 3:58 | 2022-09-09 | 2023-03-13 |
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-10-29 | 2022-02-12 |
@@ -283,7 +284,7 @@
 | [Say It \(feat\. LP Giobbi & Blush'ko\)](https://open.spotify.com/track/60MsiXfuTpTTOQbnnu48Hy) | [Choomba](https://open.spotify.com/artist/1igwNAW0MtQfHZOXQrDRUq), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Say It \(feat\. LP Giobbi & Blush'ko\)](https://open.spotify.com/album/5J4UyPK9lGjYH9Cm7iyrmb) | 3:05 | 2021-10-29 | 2022-08-06 |
 | [Scrolling Up](https://open.spotify.com/track/5DuCzlwJ6vqxFGVu8ZZ6lw) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V), [All That MTRS](https://open.spotify.com/artist/3WLgA2O4GUwSJu2QsXbnex) | [Scrolling Up](https://open.spotify.com/album/2GAuc1wljDm6eJVTor0RbZ) | 2:21 | 2022-01-28 | 2022-02-01 |
 | [Secrets \- MOTi Remix](https://open.spotify.com/track/2vX1vE1jwuqq29xonWIzvE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Secrets \(MOTi Remix\)](https://open.spotify.com/album/00eqA510pHpyFlPy4dn5ZY) | 2:35 | 2021-10-29 | 2022-06-11 |
-| [Set The Tempo \(feat\. HQA\)](https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI) | [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl), [HQA](https://open.spotify.com/artist/3odmSlXHTSCIZsSmB6XnCw) | [Set The Tempo \(feat\. HQA\)](https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN) | 3:03 | 2022-09-09 |  |
+| [Set The Tempo \(feat\. HQA\)](https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI) | [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl), [HQA](https://open.spotify.com/artist/3odmSlXHTSCIZsSmB6XnCw) | [Set The Tempo \(feat\. HQA\)](https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN) | 3:03 | 2022-09-09 | 2023-08-06 |
 | [Seven Nation Army](https://open.spotify.com/track/6Htqsoq5u7Z4a8hqWfMRXY) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [Strange Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [Koosen](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [Seven Nation Army](https://open.spotify.com/album/7a4re6Ite5lMFYJ8nVIzkT) | 2:13 | 2021-10-29 | 2022-02-12 |
 | [Sextacy](https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Sextacy](https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6) | 2:33 | 2022-01-21 |  |
 | [Shakedown](https://open.spotify.com/track/7sXuBbvVc7ntRShABTEcm5) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [Mo Falk](https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ) | [Shakedown](https://open.spotify.com/album/7zclPlPYmivvLPyk4GQliz) | 2:40 | 2023-03-03 | 2023-05-17 |

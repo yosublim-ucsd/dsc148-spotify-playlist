@@ -164,7 +164,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 196613,
       "name": "Banana",
       "url": "https://open.spotify.com/track/5zRGEPFG9SEv9dGRjjxjwz"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 192954,
       "name": "La Parranda (Sei Sei Bei)",
       "url": "https://open.spotify.com/track/19ypqqNqS4pdiZ4PzCEcLQ"
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 256116,
       "name": "Por la Playa",
       "url": "https://open.spotify.com/track/56NlIztGmrboS6icu0s8us"
@@ -1204,6 +1204,40 @@
       "duration_ms": 301342,
       "name": "Punta Mix 2019",
       "url": "https://open.spotify.com/track/5LP391Nx0za8MUzi9WynnX"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 3",
+        "url": "https://open.spotify.com/album/3xO2uyWrSS2Xty3Kik2BJR"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        },
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        },
+        {
+          "name": "Los Profesionales",
+          "url": "https://open.spotify.com/artist/4BOQHyVmTsWkwLCerM4vJl"
+        },
+        {
+          "name": "Los Roland's",
+          "url": "https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc"
+        },
+        {
+          "name": "Los Gatos Bravos",
+          "url": "https://open.spotify.com/artist/4kDAtXl8PRYrjFyhTQr9u9"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412400,
+      "name": "Punta Power Mix #1",
+      "url": "https://open.spotify.com/track/4hQmr7JIGZiRdoxfuISc3r"
     },
     {
       "album": {
@@ -1288,7 +1322,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 248826,
       "name": "Punta Raton Remix",
       "url": "https://open.spotify.com/track/6xzNauBXbf3rfOfRbJqjtb"
@@ -1438,7 +1472,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 255133,
       "name": "Si Pudiera Yo",
       "url": "https://open.spotify.com/track/03qejDacPNFwCdVNg4HVSG"

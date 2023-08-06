@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/domfishback/\">Dominique Fishback</a>. ",
-  "num_followers": 187,
+  "num_followers": 188,
   "original_name": "Dominique's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTYxNmQxN2YyZThlMjlhNGJhYWE1OTQzMTZiY2ZjMGQzZDk4MWI2",
+  "snapshot_id": "MCxiNDcwMmRlMzhjNTllOWViZmFhYzEyMWFiM2FkZjExYWQ0NjVlZDk1",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
-      },
-      "artists": [
-        {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
-        }
-      ],
-      "duration_ms": 206460,
-      "name": "The Ocean",
-      "url": "https://open.spotify.com/track/18FsPeHdE9xPtQgnsVbiU5"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "MTV Unplugged No. 2.0",
         "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 359600,
       "name": "So Much Things to Say - Live",
       "url": "https://open.spotify.com/track/6Z890DNJZynimxAwn3zsa2"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "duration_ms": 206460,
+      "name": "The Ocean",
+      "url": "https://open.spotify.com/track/18FsPeHdE9xPtQgnsVbiU5"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Divine Secrets Of The Ya-Ya Sisterhood - Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/5N7fdHkKj57D2dmFEIDdgJ"
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
       },
       "artists": [
         {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
         }
       ],
-      "duration_ms": 354133,
-      "name": "Selah",
-      "url": "https://open.spotify.com/track/5HKjmf29Oym6yAUASbKtOs"
+      "duration_ms": 257776,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/25x0SY1uAZsgP2ZzWrzsxV"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
+        "name": "Divine Secrets Of The Ya-Ya Sisterhood - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/5N7fdHkKj57D2dmFEIDdgJ"
       },
       "artists": [
         {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 257776,
-      "name": "Find Me",
-      "url": "https://open.spotify.com/track/25x0SY1uAZsgP2ZzWrzsxV"
+      "duration_ms": 354133,
+      "name": "Selah",
+      "url": "https://open.spotify.com/track/5HKjmf29Oym6yAUASbKtOs"
     },
     {
       "added_at": "2023-06-01 04:00:00",

@@ -4,7 +4,7 @@
 
 > Top of the top hits from Korean Pop Artists! Cover: <a href="spotify:artist:41MozSoPIsD1dJM0CLPjZF">BLACKPINK</a>
 
-153 songs - 8 hr 58 min
+154 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,9 +89,10 @@
 | [LOVE SCENARIO](https://open.spotify.com/track/3bUw9o4pis3Z5rOeJZJgDS) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) | 3:29 | 2022-07-14 | 2022-11-13 |
 | [LOVE SCENARIO](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:29 | 2022-07-14 |  |
 | [LOVE SCENARIO](https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/1VSMwSajwLiywZBuB8gvP8) | 3:29 | 2022-03-18 | 2022-07-29 |
+| [Lullaby](https://open.spotify.com/track/0ZsEQfX9EtqFMXzmnEK0AL) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i) | 3:37 | 2022-07-14 |  |
 | [Lullaby](https://open.spotify.com/track/0n92ByvQ6uLY7nUG0G9xmO) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0) | 3:37 | 2022-07-14 | 2022-11-13 |
 | [Lullaby](https://open.spotify.com/track/1aDarBap4uQgOt9k4fxWd8) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL) | 3:37 | 2022-03-18 | 2022-07-29 |
-| [Lullaby](https://open.spotify.com/track/2iXvnjL5CH66UpnGjXHDmZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) | 3:37 | 2022-07-14 |  |
+| [Lullaby](https://open.spotify.com/track/2iXvnjL5CH66UpnGjXHDmZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) | 3:37 | 2022-07-14 | 2023-08-06 |
 | [MOVE](https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [MOVE \- The 2nd Album](https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH) | 3:31 | 2022-03-18 |  |
 | [My Flower](https://open.spotify.com/track/5uUdC6hbvq82n1gxwiMSmt) | [JBJ](https://open.spotify.com/artist/6VJXRJvRRyLv99RZbXJ8RO) | [NEW MOON](https://open.spotify.com/album/3c1qg7O88Wc5wDDJ1YEUzV) | 3:14 | 2022-03-18 |  |
 | [My Pace](https://open.spotify.com/track/48MDKHuJ6qte0kAaI25JnN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [I am WHO](https://open.spotify.com/album/2SACeVKmkXeAXHqLDdTU9N) | 3:09 | 2022-07-14 |  |

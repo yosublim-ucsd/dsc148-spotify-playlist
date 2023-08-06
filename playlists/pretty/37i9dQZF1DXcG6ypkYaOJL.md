@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG6ypkYaOJL.md) - [plain]
 
 > Aquí está la música de Fanático, la serie de Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075 likes - 18 songs - 58 min 12 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,074 likes - 18 songs - 58 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG6ypkYaOJL.md) - [plain]
 | 17 | [Atlantis Riddim](https://open.spotify.com/track/0hdOZXtse8WYVsA1Ok3ZWl) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Soul Waste](https://open.spotify.com/album/4ungK52Ght7QUuKwRc0rlF) | 2:10 |
 | 18 | [6 Feet](https://open.spotify.com/track/78EDmwVdZzp6vTl3hVWzpW) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Lxrdszn](https://open.spotify.com/album/77esJILHiTRAXl6yGgR4kW) | 2:01 |
 
-Snapshot ID: `MCw5ZGIyOGM2ZmM2Y2UwMTYyYTU4ZTRjZmQzMzk5MTEwNGM1ZDJkMWJi`
+Snapshot ID: `MCxkNTViYzc1ZTI2YzFhN2ZmNzI4ZTYyNTZjNWEyOTI2YzAwYmFmMDNk`

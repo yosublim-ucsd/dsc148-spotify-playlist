@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzvUJyTnhLh.md) - [plain]
 
 > Eagles at their best\. Explore their deep catalog as a band and as solo artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,269 likes - 68 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,311 likes - 68 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzvUJyTnhLh.md) - [plain]
 | 27 | [The Long Run \- 2013 Remaster](https://open.spotify.com/track/2YOwVfcUTRjNpcLny4UC4r) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 3:41 |
 | 28 | [Turn To Stone](https://open.spotify.com/track/20IZ33kPSL7XV0WmKNaZVa) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [Barnstorm](https://open.spotify.com/album/2mSYM0x3K8DxJar56FRlx4) | 5:20 |
 | 29 | [How Long](https://open.spotify.com/track/7hq1Zo9SwHN8Hi2Q4vn6PU) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Long Road out of Eden](https://open.spotify.com/album/2cWtnFvM7BmyQG1ojQDcCT) | 3:16 |
-| 30 | [Bramble Rose](https://open.spotify.com/track/19pTbi9xqbInEHxpTIIhBN) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Cass County \(Deluxe\)](https://open.spotify.com/album/4vM5KEIIw02lUaOUwYloJp) | 4:30 |
+| 30 | [Bramble Rose](https://open.spotify.com/track/5jrzQx2i7TGqYGWpNmkH8n) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Cass County \(Deluxe\)](https://open.spotify.com/album/3qsw8b2cxvBthq1OQIKBB3) | 4:30 |
 | 31 | [In the City \- 2013 Remaster](https://open.spotify.com/track/3fgch6faHYPKqE6C3hIYfo) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 3:44 |
 | 32 | [Rock Me On The Water](https://open.spotify.com/track/50DGEghpwDFdZovHi0nz7K) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Linda Ronstadt](https://open.spotify.com/album/3O8Xv08sL6yK13WXed09ys) | 3:40 |
 | 33 | [James Dean \- 2013 Remaster](https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 3:38 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzvUJyTnhLh.md) - [plain]
 | 67 | [The Radio Song](https://open.spotify.com/track/4pOy712tjNNZxIhX5VllU6) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [Got Any Gum?](https://open.spotify.com/album/6Is4r41K1zGhe0dOYhoAZV) | 3:31 |
 | 68 | [Ol' 55 \- 2013 Remaster](https://open.spotify.com/track/0pH4QNsSphVLCy9zjPzqiP) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 4:21 |
 
-Snapshot ID: `MCxlMjEzZWVhMzgyZDYxNWUzYjI1NWNiYzg0ZDcwOTQyZTU1YWE1ZGEx`
+Snapshot ID: `MCxiYTQ5Y2ExNDA0ZmVkOThlNzZkZmJjYmZjNGYxMzk0YWU3YTYwMTA3`

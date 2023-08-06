@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring MCR\-T & horsegiirL
 
-684 songs - 1 day 14 hr 42 min
+685 songs - 1 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [COOL\_DNB\_SONG](https://open.spotify.com/track/6qplf0LC8lwZdWL7Ij0hlu) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Personal Protocol](https://open.spotify.com/album/2ScwqDiRQMrGkthrrsumoW) | 2:03 | 2023-06-22 |  |
 | [corpse party](https://open.spotify.com/track/30s7IiT1z4enGd42HlPxE3) | [tomspicy](https://open.spotify.com/artist/7N36dSZ3MAuxqvLlfr35IV) | [Corpse Party](https://open.spotify.com/album/2PWD6755zpide7S2xbYZsy) | 6:14 | 2022-11-09 | 2022-12-24 |
 | [CORRUPTED FILES](https://open.spotify.com/track/0g7usKY3CtS4pLu4vpgYRa) | [Star Trash](https://open.spotify.com/artist/20xOKqre5bLC5w9OjoHCln) | [CORRUPTED FILES](https://open.spotify.com/album/2zv3UByXWQct6yqddmtb8x) | 3:23 | 2022-03-18 | 2022-07-30 |
-| [Counting Days](https://open.spotify.com/track/5OJD78B17MJrSAxQwIgurU) | [Julien Bracht](https://open.spotify.com/artist/10dTAeheJUqaoY9C0UxdHx) | [Counting Days](https://open.spotify.com/album/02pKj0523YIrSE3dYI87Ry) | 4:52 | 2023-01-13 |  |
+| [Counting Days](https://open.spotify.com/track/1Vp93Rc2KIi6wLf6y9avTC) | [Julien Bracht](https://open.spotify.com/artist/10dTAeheJUqaoY9C0UxdHx) | [Do You Love Me?](https://open.spotify.com/album/61BjICDXiSjQ2Bi8bakMK8) | 4:52 | 2023-08-03 |  |
+| [Counting Days](https://open.spotify.com/track/5OJD78B17MJrSAxQwIgurU) | [Julien Bracht](https://open.spotify.com/artist/10dTAeheJUqaoY9C0UxdHx) | [Counting Days](https://open.spotify.com/album/02pKj0523YIrSE3dYI87Ry) | 4:52 | 2023-01-13 | 2023-08-06 |
 | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/track/2yjfNNjUEWLsnIp7N21PNt) | [MISFYA](https://open.spotify.com/artist/1O8tZYYaRppS0CGIAVI8sc) | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/album/0vPUz1x0IchSUrBZqFKUb1) | 2:06 | 2023-01-13 | 2023-07-14 |
 | [crash](https://open.spotify.com/track/5b1wofen7OWP3LpuBPdcX1) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [crash](https://open.spotify.com/album/02A2nb3q4X38u1u6tc4m4w) | 5:29 | 2022-12-02 | 2023-06-17 |
 | [crazy4u!](https://open.spotify.com/track/6Gk4qs4VrUjxDMCmuQbEgQ) | [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL) | [crazy4u!](https://open.spotify.com/album/6bnON6CC4EYZfrHA48ZUEw) | 3:19 | 2022-02-18 | 2022-06-26 |

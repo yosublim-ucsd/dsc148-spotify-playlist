@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حاله حب 🫶
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,477 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,587 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 49 | [خطوة](https://open.spotify.com/track/44Mu8j0VexMGUk8Om7U8HU) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [خطوة](https://open.spotify.com/album/0CHAeCoS0FlsSOXTBQgQje) | 3:18 |
 | 50 | [لو تخاصمني](https://open.spotify.com/track/2ijApNHjp90HBYZLZKVCue) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [لو تخاصمني](https://open.spotify.com/album/5S17tuujr6lGt6Cmv0L4Ie) | 3:10 |
 
-Snapshot ID: `MCwzMDIwNDE1NTE3N2IzOWZjNDEzZDY0OWE0OGFkNDcwMzI3ZTVhMThk`
+Snapshot ID: `MCxlZGNlYmZlMDFiMzNkOWY2NDQ3NmM4NzQ1ODNhZTZhM2I3MWQ5MmQx`

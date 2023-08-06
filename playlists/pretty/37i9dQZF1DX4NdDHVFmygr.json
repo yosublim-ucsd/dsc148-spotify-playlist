@@ -1,12 +1,12 @@
 {
   "description": "\u00c9coutez en boucle les hits 100% marocains du moment.",
-  "num_followers": 210129,
+  "num_followers": 210372,
   "original_name": "Maroc Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWE4ZTEzMjNlYTc5ZmRlYzAwMDk0ZGVmYjVlMDU1ZDVmZmZmNzQ2",
+  "snapshot_id": "MCw5YmM5OWI4YTMwMWNlNGNhZTc5YzNkZDljMDZjYjM3OGNiN2FiNWUy",
   "tracks": [
     {
       "added_at": "2023-08-02 10:45:41",
@@ -65,6 +65,22 @@
       "url": "https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy"
     },
     {
+      "added_at": "2023-08-05 12:14:49",
+      "album": {
+        "name": "Mtitti",
+        "url": "https://open.spotify.com/album/2iNdSLozlzr9Q9HW8AHRNf"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Mozayine",
+          "url": "https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Mtitti",
+      "url": "https://open.spotify.com/track/6k1nMH5vxZPIG6UFtlZqdV"
+    },
+    {
       "added_at": "2023-08-02 10:45:41",
       "album": {
         "name": "Abala Ya Bali",
@@ -119,6 +135,30 @@
     {
       "added_at": "2023-08-02 10:45:41",
       "album": {
+        "name": "DARBA 9ADIYA",
+        "url": "https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "YAM",
+          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
+        }
+      ],
+      "duration_ms": 149209,
+      "name": "DARBA 9ADIYA",
+      "url": "https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4"
+    },
+    {
+      "added_at": "2023-08-02 10:45:41",
+      "album": {
         "name": "KIF KIF",
         "url": "https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF"
       },
@@ -131,26 +171,6 @@
       "duration_ms": 227826,
       "name": "KIF KIF",
       "url": "https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM"
-    },
-    {
-      "added_at": "2023-08-02 10:45:41",
-      "album": {
-        "name": "Business (feat. Naza)",
-        "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 170435,
-      "name": "Business (feat. Naza)",
-      "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
     },
     {
       "added_at": "2023-08-02 10:45:41",
@@ -171,6 +191,26 @@
       "duration_ms": 185052,
       "name": "Chouka",
       "url": "https://open.spotify.com/track/3G3yInBH0pVGyjI7q4O2Oz"
+    },
+    {
+      "added_at": "2023-08-02 10:45:41",
+      "album": {
+        "name": "Business (feat. Naza)",
+        "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 170435,
+      "name": "Business (feat. Naza)",
+      "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
     },
     {
       "added_at": "2023-08-02 10:45:41",
@@ -607,30 +647,6 @@
     {
       "added_at": "2023-08-02 10:45:41",
       "album": {
-        "name": "DARBA 9ADIYA",
-        "url": "https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW"
-      },
-      "artists": [
-        {
-          "name": "Moha K",
-          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "YAM",
-          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
-        }
-      ],
-      "duration_ms": 149209,
-      "name": "DARBA 9ADIYA",
-      "url": "https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4"
-    },
-    {
-      "added_at": "2023-08-02 10:45:41",
-      "album": {
         "name": "SOS (Chapitre 3)",
         "url": "https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 214015,
       "name": "Ghir Ntiya",
       "url": "https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX"
-    },
-    {
-      "added_at": "2023-08-02 10:45:41",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA"
-      },
-      "artists": [
-        {
-          "name": "kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa"
     }
   ],
   "unique_name": "Maroc Hits",

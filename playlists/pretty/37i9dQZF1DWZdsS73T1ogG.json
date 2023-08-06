@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Chesca & Mariah Angeliq",
-  "num_followers": 522119,
+  "num_followers": 522178,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmU4MDc0NDM3N2IzYmY0MDAxODdjNWNkYzU2OTRjNTc3ZWIzNzNl",
+  "snapshot_id": "MCwzZGIzNDYxYmI4ZTkyZDQ5YTE1NTFmMDA5NDY3YTM1MWYxNDNiODE4",
   "tracks": [
     {
       "added_at": "2023-08-04 18:21:26",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2023-08-04 18:21:26",
       "album": {
+        "name": "Brinca",
+        "url": "https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Brinca",
+      "url": "https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS"
+    },
+    {
+      "added_at": "2023-08-04 18:21:26",
+      "album": {
         "name": "Wazap",
         "url": "https://open.spotify.com/album/4zPUHAm8acUOimx9Ywd1On"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 214123,
       "name": "My Love",
       "url": "https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q"
-    },
-    {
-      "added_at": "2023-08-04 18:21:26",
-      "album": {
-        "name": "Brinca",
-        "url": "https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Brinca",
-      "url": "https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS"
     },
     {
       "added_at": "2023-08-04 18:21:26",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-08-04 18:21:26",
       "album": {
-        "name": "Icee (Remix)",
-        "url": "https://open.spotify.com/album/4RDg9d9rQjnVYUF3aai7Cd"
-      },
-      "artists": [
-        {
-          "name": "Jan Blakeee",
-          "url": "https://open.spotify.com/artist/3r0kkjcXjHeym35lYmeEC6"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Icee - Remix",
-      "url": "https://open.spotify.com/track/0z5qD3QfUXw2hGgkyeXo6D"
-    },
-    {
-      "added_at": "2023-08-04 18:21:26",
-      "album": {
         "name": "Mi Juego",
         "url": "https://open.spotify.com/album/5NqPSRJYwQpOfC46NxS7jL"
       },
@@ -1579,22 +1559,6 @@
       "duration_ms": 167213,
       "name": "Mi Juego",
       "url": "https://open.spotify.com/track/03WbAqjXZhxbItGhhjYe2m"
-    },
-    {
-      "added_at": "2023-08-04 18:21:26",
-      "album": {
-        "name": "Dudas De M\u00ed",
-        "url": "https://open.spotify.com/album/3w5McmmXqlY1KWlgSEc3h0"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        }
-      ],
-      "duration_ms": 158698,
-      "name": "Dudas De M\u00ed",
-      "url": "https://open.spotify.com/track/18bYUYFZ43he76OBEQavKH"
     },
     {
       "added_at": "2023-08-04 18:21:26",
@@ -1619,6 +1583,42 @@
       "duration_ms": 276066,
       "name": "La Single",
       "url": "https://open.spotify.com/track/7dAwKpgHeKrxPJ2aygL97o"
+    },
+    {
+      "added_at": "2023-08-04 18:21:26",
+      "album": {
+        "name": "Icee (Remix)",
+        "url": "https://open.spotify.com/album/4RDg9d9rQjnVYUF3aai7Cd"
+      },
+      "artists": [
+        {
+          "name": "Jan Blakeee",
+          "url": "https://open.spotify.com/artist/3r0kkjcXjHeym35lYmeEC6"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "Icee - Remix",
+      "url": "https://open.spotify.com/track/0z5qD3QfUXw2hGgkyeXo6D"
+    },
+    {
+      "added_at": "2023-08-04 18:21:26",
+      "album": {
+        "name": "Dudas De M\u00ed",
+        "url": "https://open.spotify.com/album/3w5McmmXqlY1KWlgSEc3h0"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 158698,
+      "name": "Dudas De M\u00ed",
+      "url": "https://open.spotify.com/track/18bYUYFZ43he76OBEQavKH"
     },
     {
       "added_at": "2023-08-04 18:21:26",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-08-04 18:21:26",
       "album": {
-        "name": "Xexo",
-        "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Xexo",
-      "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"
-    },
-    {
-      "added_at": "2023-08-04 18:21:26",
-      "album": {
         "name": "G Spot",
         "url": "https://open.spotify.com/album/0OGm90v3LUf6pZyeI55yTc"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 211840,
       "name": "G Spot",
       "url": "https://open.spotify.com/track/7qcG5K5O8XjmKT2DFdxWl4"
+    },
+    {
+      "added_at": "2023-08-04 18:21:26",
+      "album": {
+        "name": "Xexo",
+        "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Xexo",
+      "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"
     },
     {
       "added_at": "2023-08-04 18:21:26",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2023-08-04 18:21:26",
       "album": {
-        "name": "Mi Vicio (Remix)",
-        "url": "https://open.spotify.com/album/2JYeWN4UX2jOaOHay0HXgr"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 284285,
-      "name": "Mi Vicio - Remix",
-      "url": "https://open.spotify.com/track/7EObfG3E9rQdUOcft0cIjb"
-    },
-    {
-      "added_at": "2023-08-04 18:21:26",
-      "album": {
         "name": "1% (Remix)",
         "url": "https://open.spotify.com/album/7vnBMKz5X3ZopYiwP1EgcW"
       },
@@ -1871,22 +1851,22 @@
     {
       "added_at": "2023-08-04 18:21:26",
       "album": {
-        "name": "Hola",
-        "url": "https://open.spotify.com/album/7vEqH5ikhMW6tTaUV6IQBd"
+        "name": "Mi Vicio (Remix)",
+        "url": "https://open.spotify.com/album/2JYeWN4UX2jOaOHay0HXgr"
       },
       "artists": [
         {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
         },
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
         }
       ],
-      "duration_ms": 190194,
-      "name": "Hola",
-      "url": "https://open.spotify.com/track/4sh30wQyEolLcZMr3SurPr"
+      "duration_ms": 284285,
+      "name": "Mi Vicio - Remix",
+      "url": "https://open.spotify.com/track/7EObfG3E9rQdUOcft0cIjb"
     },
     {
       "added_at": "2023-08-04 18:21:26",
@@ -1907,6 +1887,26 @@
       "duration_ms": 194525,
       "name": "Enigma - Remix",
       "url": "https://open.spotify.com/track/59MDxtaOcMfx1kGbkw4BIQ"
+    },
+    {
+      "added_at": "2023-08-04 18:21:26",
+      "album": {
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/7vEqH5ikhMW6tTaUV6IQBd"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 190194,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/4sh30wQyEolLcZMr3SurPr"
     },
     {
       "added_at": "2023-08-04 18:21:26",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2023-08-04 18:21:26",
       "album": {
-        "name": "MODALES",
-        "url": "https://open.spotify.com/album/6ztdnZVn7G6ZKSKjEWBvba"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 172710,
-      "name": "MODALES",
-      "url": "https://open.spotify.com/track/5PYuzbJbFcBGDCZHYQbWmW"
-    },
-    {
-      "added_at": "2023-08-04 18:21:26",
-      "album": {
         "name": "Not\u00f3n",
         "url": "https://open.spotify.com/album/1mtxVEwAaB45BHSCpST8px"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 166360,
       "name": "Not\u00f3n",
       "url": "https://open.spotify.com/track/6A3pjEOJ9gWGIeRdOHPRNO"
+    },
+    {
+      "added_at": "2023-08-04 18:21:26",
+      "album": {
+        "name": "MODALES",
+        "url": "https://open.spotify.com/album/6ztdnZVn7G6ZKSKjEWBvba"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 172710,
+      "name": "MODALES",
+      "url": "https://open.spotify.com/track/5PYuzbJbFcBGDCZHYQbWmW"
     },
     {
       "added_at": "2023-08-04 18:21:26",

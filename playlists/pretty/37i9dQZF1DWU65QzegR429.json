@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 9195,
+  "num_followers": 9201,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzIyZDBhZTk3MWIzNWZkZjdhNjRhYmM2ZjMyMjA4N2Q3MGI3ZTk5",
+  "snapshot_id": "MCwyZmFhMWQ1YWQyOTYwOTM1NDhlZTc2Y2Q1NjY3MmNlMjRmMDQ1YTc0",
   "tracks": [
     {
       "added_at": "2023-07-24 18:55:43",
@@ -563,26 +563,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Dembow Dominicano",
-        "url": "https://open.spotify.com/album/1Q6G7NqJ3cN2rTtnNO25za"
-      },
-      "artists": [
-        {
-          "name": "Lennis Rodriguez",
-          "url": "https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z"
-        },
-        {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
-        }
-      ],
-      "duration_ms": 156610,
-      "name": "Dembow Dominicano",
-      "url": "https://open.spotify.com/track/6IiPbCJXLJbigeFoWuftWa"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "For Real (feat. Kemba)",
         "url": "https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 185306,
       "name": "For Real (feat. Kemba)",
       "url": "https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Dembow Dominicano",
+        "url": "https://open.spotify.com/album/1Q6G7NqJ3cN2rTtnNO25za"
+      },
+      "artists": [
+        {
+          "name": "Lennis Rodriguez",
+          "url": "https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "Dembow Dominicano",
+      "url": "https://open.spotify.com/track/6IiPbCJXLJbigeFoWuftWa"
     },
     {
       "added_at": "2023-07-24 18:55:43",

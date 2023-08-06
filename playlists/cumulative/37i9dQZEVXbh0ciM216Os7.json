@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/0t10C5PLUXcmqoM9IwtSfL"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242248,
+      "name": "Badge Of Honor",
+      "url": "https://open.spotify.com/track/00zTOKDOuVKuwOe7lSBble"
+    },
+    {
+      "album": {
         "name": "BANG BANG! (My Neurodivergent Anthem)",
         "url": "https://open.spotify.com/album/1xG4KabXFQ7qPyg90cHSZo"
       },
@@ -1848,6 +1866,24 @@
       "duration_ms": 237912,
       "name": "Cult of Personality - Re-Recorded - Sped Up",
       "url": "https://open.spotify.com/track/0eNAwfluEGtgbdURTceEtx"
+    },
+    {
+      "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "Dagger",
+      "url": "https://open.spotify.com/track/1hICPeE2RsgszcRY0qMswI"
     },
     {
       "album": {
@@ -6110,6 +6146,10 @@
         {
           "name": "Courtney Swain",
           "url": "https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0"
+        },
+        {
+          "name": "John Dylan Keith",
+          "url": "https://open.spotify.com/artist/1a5HFanxiv85IigM7x09WJ"
         }
       ],
       "date_added": "2023-08-04",
@@ -6678,7 +6718,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 152732,
       "name": "Nosebleeds - Sped Up",
       "url": "https://open.spotify.com/track/4bFHhnRnnO1mFxTkfygcly"
@@ -8685,6 +8725,24 @@
     },
     {
       "album": {
+        "name": "Supercalifragilisticexpialidocious (Metal Version)",
+        "url": "https://open.spotify.com/album/0YXWujoOICErz5tLQUeN66"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154957,
+      "name": "Supercalifragilisticexpialidocious (Metal Version)",
+      "url": "https://open.spotify.com/track/0UdRc3ZTTzy5Ys5ujAviuE"
+    },
+    {
+      "album": {
         "name": "Sweet Southern Comfort",
         "url": "https://open.spotify.com/album/4omLcMWjPidak2J4cZtK22"
       },
@@ -9346,6 +9404,24 @@
       "duration_ms": 204346,
       "name": "The Real A (WHTA) [feat. Skooly]",
       "url": "https://open.spotify.com/track/4Yp8G0ryuun0v1dRHtMNcH"
+    },
+    {
+      "album": {
+        "name": "Superb Name Poop Songs",
+        "url": "https://open.spotify.com/album/3diYB1toXMSCOuKivz7zId"
+      },
+      "artists": [
+        {
+          "name": "The Odd Man Who Sings About Poop, Puke and Pee",
+          "url": "https://open.spotify.com/artist/7zM4smYl6oC7yMLzfpK7I4"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121855,
+      "name": "The Ria Poop Song",
+      "url": "https://open.spotify.com/track/0jNxyGW3Lal2b3ZpFgmIJM"
     },
     {
       "album": {
@@ -10108,7 +10184,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 134700,
       "name": "VOICE",
       "url": "https://open.spotify.com/track/4zuc3p3garEChuPUBVfzRq"
@@ -10174,7 +10250,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 184502,
       "name": "W H A T (We're Hungry And Thirsty)",
       "url": "https://open.spotify.com/track/4e2ySWd3bTj5KSiyJN3ndG"

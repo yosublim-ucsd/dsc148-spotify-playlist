@@ -1,12 +1,12 @@
 {
   "description": "Go deep into spontaneous praise and worship here. On and on.",
-  "num_followers": 178098,
+  "num_followers": 178169,
   "original_name": "Signs & Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTEzNzI2ZTVlOTE4N2VlYTJjYjhmNmU1NTI2NjY4YzcwYmJiMGNk",
+  "snapshot_id": "MCwyNTZiOTQ4MzhmZTNlMGQzZWI3OGE3ZDU1MDZiM2U3MTRmNTMzYTE0",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Kingdom Come (Live)",
-        "url": "https://open.spotify.com/album/00k6ygAQhIav9FwyGX8oqJ"
-      },
-      "artists": [
-        {
-          "name": "Capital City Music",
-          "url": "https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH"
-        }
-      ],
-      "duration_ms": 413725,
-      "name": "Lean Back (Live)",
-      "url": "https://open.spotify.com/track/76AQAwj7BbMVIMRnHKkLuz"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Reckless Love",
         "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
       },
@@ -179,22 +163,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Live From New York",
-        "url": "https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP"
+        "name": "Kingdom Come (Live)",
+        "url": "https://open.spotify.com/album/00k6ygAQhIav9FwyGX8oqJ"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Capital City Music",
+          "url": "https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH"
         }
       ],
-      "duration_ms": 489453,
-      "name": "Holy Spirit - Live",
-      "url": "https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO"
+      "duration_ms": 413725,
+      "name": "Lean Back (Live)",
+      "url": "https://open.spotify.com/track/76AQAwj7BbMVIMRnHKkLuz"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -211,6 +191,26 @@
       "duration_ms": 198835,
       "name": "Heaven Is Where You Are",
       "url": "https://open.spotify.com/track/4OtfBQ2sHDdcag87TN1bb7"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Live From New York",
+        "url": "https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 489453,
+      "name": "Holy Spirit - Live",
+      "url": "https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -527,30 +527,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Forever Amen",
-        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
-      },
-      "artists": [
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        },
-        {
-          "name": "Wonder Grace Gretzinger",
-          "url": "https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "Christ The Lord Is with Me (with Amanda Cook & Wonder Grace Gretzinger)",
-      "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Pat Barrett",
         "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
       },
@@ -571,6 +547,30 @@
       "duration_ms": 323520,
       "name": "Sails",
       "url": "https://open.spotify.com/track/5IvlWYwqxT4HiJMUOyhXOV"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        },
+        {
+          "name": "Wonder Grace Gretzinger",
+          "url": "https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD"
+        }
+      ],
+      "duration_ms": 266826,
+      "name": "Christ The Lord Is with Me (with Amanda Cook & Wonder Grace Gretzinger)",
+      "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Beautiful Surrender",
-        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
-      },
-      "artists": [
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        }
-      ],
-      "duration_ms": 330266,
-      "name": "Abba (Arms Of A Father)",
-      "url": "https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Greater Things",
         "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 431933,
       "name": "To The End",
       "url": "https://open.spotify.com/track/7qKk8olaMUdcOTcU3Txl34"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Beautiful Surrender",
+        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
+      },
+      "artists": [
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        }
+      ],
+      "duration_ms": 330266,
+      "name": "Abba (Arms Of A Father)",
+      "url": "https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq"
     },
     {
       "added_at": "2020-09-04 04:02:00",

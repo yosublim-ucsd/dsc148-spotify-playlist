@@ -4,7 +4,7 @@
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-9,245 songs - 19 day 23 hr 28 min
+9,246 songs - 19 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -672,7 +672,7 @@
 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 | 2023-06-02 | 2023-06-09 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-05 | 2022-08-12 |
 | [Bad Enough](https://open.spotify.com/track/4LE19hyhYEq2b7Kt2yYPFv) | [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI), [YADAYADA](https://open.spotify.com/artist/0kOSwbgw1yE3Sunf3F7F0t) | [Bad Enough](https://open.spotify.com/album/0o9JRntjJHu6kvwL7BZmgJ) | 2:37 | 2023-02-09 | 2023-02-17 |
-| [Bad Enough \(feat\. Talie\)](https://open.spotify.com/track/0nk166os6HWD30xQcMbXj3) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Talie](https://open.spotify.com/artist/6Hsg2j7sgEBijFFDDbf7zX) | [Bad Enough](https://open.spotify.com/album/5JFjuOEq7OszjOOQ8AYQsK) | 4:02 | 2023-08-03 |  |
+| [Bad Enough \(feat\. Talie\)](https://open.spotify.com/track/0nk166os6HWD30xQcMbXj3) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Talie](https://open.spotify.com/artist/2YiFKLErr8Xi3Agiio8sSZ) | [Bad Enough](https://open.spotify.com/album/5JFjuOEq7OszjOOQ8AYQsK) | 4:02 | 2023-08-03 |  |
 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 | 2022-06-23 | 2022-07-01 |
 | [Bad For My Health](https://open.spotify.com/track/7m0qnyh7iNzZhVjKIjRrEE) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Bad for My Health](https://open.spotify.com/album/1MvX6YKRXyhayUOEEqlvyI) | 2:34 | 2022-05-12 | 2022-05-20 |
 | [bad friend](https://open.spotify.com/track/3Sy8kIcOglqz8TUMklgSVp) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [bad friend](https://open.spotify.com/album/0eiudXojkB4vSVOKCQKcvu) | 3:13 | 2022-01-13 | 2022-01-21 |
@@ -7535,6 +7535,7 @@
 | [Stressed](https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Stressed](https://open.spotify.com/album/5c83fHwumoUMJpwvPmVCX8) | 3:03 | 2022-10-13 | 2022-10-21 |
 | [Stressed \(feat\. Summer Walker\)](https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:24 | 2023-07-13 | 2023-07-21 |
 | [STRICTLY OLD SKOOL](https://open.spotify.com/track/59au5nk2BYfxjnwL3pnzTW) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [The Alchemist's Euphoria](https://open.spotify.com/album/5YAOV1BIL0uPv2Xa491hCM) | 3:07 | 2022-08-12 | 2022-08-19 |
+| [Strike \(Holster\)](https://open.spotify.com/track/6ZL4X5uh8VAiXFXLtedTVI) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Slide](https://open.spotify.com/album/5ebkIuetHLio3kC1E9CxmU) | 2:28 | 2023-08-05 |  |
 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 | 2023-04-06 | 2023-04-14 |
 | [String Lights](https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [String Lights](https://open.spotify.com/album/507ZVYcgV9C5pwXQlfZJo7) | 3:50 | 2022-01-13 | 2022-01-21 |
 | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/track/7roB6h5rQPhFRK307eIQk6) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/album/7fjIIM9b9rJ7bu28VtLVxA) | 2:33 | 2023-08-03 |  |

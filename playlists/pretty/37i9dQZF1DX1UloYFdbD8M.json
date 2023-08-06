@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Job Kurian",
-  "num_followers": 22306,
+  "num_followers": 22356,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDE2YmMxNDFjM2IzZjA3Yjk4MDcyNmQzZDZlZmJhZmY3OTYxYWIy",
+  "snapshot_id": "MCwwNTViNzA1OWM0M2NkZDYzYTI1NmFhZWIzNjU4YTkyMzMxMjM1ZjU5",
   "tracks": [
     {
       "added_at": "2022-06-23 16:29:25",
@@ -197,6 +197,26 @@
       "url": "https://open.spotify.com/track/1F8POVfqXiS5vKFYf6RmlT"
     },
     {
+      "added_at": "2023-08-05 03:13:57",
+      "album": {
+        "name": "Co Creation Project: Kappa Originals x Bloom In Green '22",
+        "url": "https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL"
+      },
+      "artists": [
+        {
+          "name": "Sekhar Menon",
+          "url": "https://open.spotify.com/artist/1cpwQb4p8o8eFSWCfzGlYw"
+        },
+        {
+          "name": "Kavitha Mohan",
+          "url": "https://open.spotify.com/artist/1R9gEh4Lzw6a5p4Ab569n6"
+        }
+      ],
+      "duration_ms": 260163,
+      "name": "Bloom in Green",
+      "url": "https://open.spotify.com/track/6UhEBIm3jqq7l07WP1ckbA"
+    },
+    {
       "added_at": "2023-07-27 18:16:50",
       "album": {
         "name": "AVIAL",
@@ -211,6 +231,22 @@
       "duration_ms": 349066,
       "name": "Ettam Pattu",
       "url": "https://open.spotify.com/track/1Qdtb5KTgYNN5U6eeuw2jA"
+    },
+    {
+      "added_at": "2023-08-05 03:13:57",
+      "album": {
+        "name": "Co Creation Project: Kappa Originals x Bloom In Green '22",
+        "url": "https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL"
+      },
+      "artists": [
+        {
+          "name": "Jatayu",
+          "url": "https://open.spotify.com/artist/4FRg3iQY9IQNzFiEs29WtK"
+        }
+      ],
+      "duration_ms": 151385,
+      "name": "Green Bean",
+      "url": "https://open.spotify.com/track/4Fy7zmLbPiGDYhmp6ziHwi"
     },
     {
       "added_at": "2022-12-22 07:31:43",

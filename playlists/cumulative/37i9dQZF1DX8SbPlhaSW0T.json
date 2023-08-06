@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 308571,
       "name": "Mula",
       "url": "https://open.spotify.com/track/69rcDQoTgcU1qI396vTcxC"
@@ -864,6 +864,40 @@
       "duration_ms": 257384,
       "name": "Soy Peor",
       "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
+    },
+    {
+      "album": {
+        "name": "Tu Me Enamoraste (Remix)",
+        "url": "https://open.spotify.com/album/4uA0PdlRCnd0zpodu1K5qM"
+      },
+      "artists": [
+        {
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+        },
+        {
+          "name": "Anuel",
+          "url": "https://open.spotify.com/artist/6CIUdwl1brQZzk33fgmE1g"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341134,
+      "name": "Tu Me Enamoraste - Remix",
+      "url": "https://open.spotify.com/track/7b6QP0Pz2sqyW7yyXodpm6"
     },
     {
       "album": {

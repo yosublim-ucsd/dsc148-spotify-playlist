@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 63353,
+  "num_followers": 63384,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWQxZGNmOTdmNTJmNWM1Y2E1YjAwZmE5NDgzOWRlZjRlOTc5NzVl",
+  "snapshot_id": "MCxjNjhjOWRkY2VkOGRlYWZkYmI1OTA5ZTc4ODk3ODQ0Mjc2YmUzNTRm",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Amarre",
-        "url": "https://open.spotify.com/album/2Ek3QgFbhya9DxNPwQnX3F"
-      },
-      "artists": [
-        {
-          "name": "Axolotes Mexicanos",
-          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
-        }
-      ],
-      "duration_ms": 156703,
-      "name": "Amarre",
-      "url": "https://open.spotify.com/track/5ebt2wLWEvMmKZ2i1V1ngz"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Coraz\u00f3n D' Roto",
         "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 217920,
       "name": "Apariencia",
       "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Amarre",
+        "url": "https://open.spotify.com/album/2Ek3QgFbhya9DxNPwQnX3F"
+      },
+      "artists": [
+        {
+          "name": "Axolotes Mexicanos",
+          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
+        }
+      ],
+      "duration_ms": 156703,
+      "name": "Amarre",
+      "url": "https://open.spotify.com/track/5ebt2wLWEvMmKZ2i1V1ngz"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Volumen 2",
-        "url": "https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN"
-      },
-      "artists": [
-        {
-          "name": "Hey B\u00e9sala",
-          "url": "https://open.spotify.com/artist/1hBlGo1cYzBSUhTxQKM4wh"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "Desamorados",
-      "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Solo Dios lo Sabe",
         "url": "https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 165605,
       "name": "Solo Dios lo Sabe",
       "url": "https://open.spotify.com/track/2PA11HBziALO8mnvnh3qXw"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Volumen 2",
+        "url": "https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN"
+      },
+      "artists": [
+        {
+          "name": "Hey B\u00e9sala",
+          "url": "https://open.spotify.com/artist/1hBlGo1cYzBSUhTxQKM4wh"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Desamorados",
+      "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Un A\u00f1o",
-        "url": "https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6"
-      },
-      "artists": [
-        {
-          "name": "Abril 88",
-          "url": "https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l"
-        }
-      ],
-      "duration_ms": 166540,
-      "name": "Un A\u00f1o",
-      "url": "https://open.spotify.com/track/1NvuUQSActakCpCg071n2x"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "La teor\u00eda de los septenios",
         "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 151757,
       "name": "No olvides de enfocarte siempre en lo importante",
       "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Un A\u00f1o",
+        "url": "https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6"
+      },
+      "artists": [
+        {
+          "name": "Abril 88",
+          "url": "https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l"
+        }
+      ],
+      "duration_ms": 166540,
+      "name": "Un A\u00f1o",
+      "url": "https://open.spotify.com/track/1NvuUQSActakCpCg071n2x"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Chacach\u00e1 del Tren",
-        "url": "https://open.spotify.com/album/45Vwem5aRkEKT7YW6wUEzH"
-      },
-      "artists": [
-        {
-          "name": "Me Fritos and the Gimme Cheetos",
-          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Chacach\u00e1 del Tren",
-      "url": "https://open.spotify.com/track/4d1r4qqz6hH6Eq0YNcYGhK"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Humanos Como T\u00fa",
         "url": "https://open.spotify.com/album/0HqeYIoIRBpQ9zt31b5VQY"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 228920,
       "name": "Humanos Como T\u00fa",
       "url": "https://open.spotify.com/track/3fvNWLnmratSXuqcVXIHyU"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Chacach\u00e1 del Tren",
+        "url": "https://open.spotify.com/album/45Vwem5aRkEKT7YW6wUEzH"
+      },
+      "artists": [
+        {
+          "name": "Me Fritos and the Gimme Cheetos",
+          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Chacach\u00e1 del Tren",
+      "url": "https://open.spotify.com/track/4d1r4qqz6hH6Eq0YNcYGhK"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Ella Miente",
-        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
+        "name": "Siempre Resistir / Nunca Desistir",
+        "url": "https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS"
       },
       "artists": [
         {
-          "name": "Helian Evans",
-          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
+          "name": "DON",
+          "url": "https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR"
         }
       ],
-      "duration_ms": 139700,
-      "name": "Ella Miente",
-      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
+      "duration_ms": 234773,
+      "name": "Escribe Una Canci\u00f3n",
+      "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
     }
   ],
   "unique_name": "Escena Pop Punk",

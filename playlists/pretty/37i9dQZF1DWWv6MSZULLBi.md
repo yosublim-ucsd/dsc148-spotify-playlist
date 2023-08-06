@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Jeremy Dutcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,642 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,655 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [The Master](https://open.spotify.com/track/1qfY6FBh1lG2BGq3n2tOCO) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [The Master](https://open.spotify.com/album/3MyTv5Yr13BB8LWNRd8orm) | 3:24 |
 | 100 | [Fish Out of Water](https://open.spotify.com/track/2JllvSo4QmvmIQkHAbdWvg) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Wisconsin](https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG) | 3:14 |
 
-Snapshot ID: `MCwwOTRhZDg5ZDk0OWUyOGMyNjg5YzI4NmVmZTdlMmE4YThjMTVkYzQw`
+Snapshot ID: `MCw4OTRmZjlkMWE5MmU0Mjc0MTg0OTIxNWU4MjQ2MzM0YzU0YzMyMmNk`

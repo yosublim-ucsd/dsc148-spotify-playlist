@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > LON3R JOHNY e Plutonio entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,101 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,143 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Owner \- Remix](https://open.spotify.com/track/3Am5orspH6gBgJqk5SgEJv) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Beatoven](https://open.spotify.com/artist/5KPaJqjZ6Ta1dDO47eSQKa) | [Owner \(Remix\)](https://open.spotify.com/album/5j7020cANfwmGekttGakkv) | 2:22 |
 | 75 | [FRESH AS FUKKK](https://open.spotify.com/track/2gQ0HjifSyj1fD1yyYV3SN) | [DEMME](https://open.spotify.com/artist/6kFnnwnS7U9otVnD5iNFyQ) | [TRAP SEASON](https://open.spotify.com/album/7rUkbZjRnOSOvAPPfk8bKX) | 2:07 |
 
-Snapshot ID: `MCw2MWY5NzUyYzcyYzg0NzVkZjRiOTM2Yjc5MzRlNGJlYzZiYWM2MTVk`
+Snapshot ID: `MCxlY2RjYWY1ZmM1YTc1ZDUyNDRiY2IwMWE3ZmNiYWIwOGIzOThhODJj`

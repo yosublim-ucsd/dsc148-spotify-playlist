@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,555 likes - 97 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,566 likes - 97 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 96 | [Give It Up For Love](https://open.spotify.com/track/6EORs2L1KC83EyRdyR85da) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Give It Up For Love](https://open.spotify.com/album/4v0skZp9CpkFDVQvA48Dky) | 3:58 |
 | 97 | [Garment Bag](https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Garment Bag](https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN) | 2:25 |
 
-Snapshot ID: `MCwxOWZhZDdmNmZiNGY0YzNlMGFmNmUxZDJkY2QyNGZlNjE1MmU0ZTcx`
+Snapshot ID: `MCw4Y2FiNGVkMDZhZTFhNDZlYjVjYTQ0Yzg5ZGIxYjUxMDhjODgyZTQ5`

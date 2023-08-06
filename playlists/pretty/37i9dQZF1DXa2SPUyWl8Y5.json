@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 466091,
+  "num_followers": 466201,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGE2ZTEzOGQ5ZjBlMWJlMDIzZjBiMWYxN2Y5NTNlMTc2M2ViNzA5",
+  "snapshot_id": "MCwyNmMwNmZhNTllZjkzM2M4NmFlNmQ3ZjEzYTlhZmY0OTgwYWZjNGZi",
   "tracks": [
     {
       "added_at": "2023-06-30 15:07:53",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Finja",
-        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
+        "name": "Mars",
+        "url": "https://open.spotify.com/album/2YVAInSCAKFxTMWWHEaStT"
       },
       "artists": [
         {
-          "name": "KIDS\u00d8",
-          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
+          "name": "S.ONE",
+          "url": "https://open.spotify.com/artist/4x7ePVME5cJAvsXgzTT0Hc"
         }
       ],
-      "duration_ms": 218226,
-      "name": "Finja",
-      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
+      "duration_ms": 362218,
+      "name": "Meli",
+      "url": "https://open.spotify.com/track/3g6pA9NF7tNX8vrsaHL510"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Mars",
-        "url": "https://open.spotify.com/album/2YVAInSCAKFxTMWWHEaStT"
+        "name": "Finja",
+        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
       },
       "artists": [
         {
-          "name": "S.ONE",
-          "url": "https://open.spotify.com/artist/4x7ePVME5cJAvsXgzTT0Hc"
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
         }
       ],
-      "duration_ms": 362218,
-      "name": "Meli",
-      "url": "https://open.spotify.com/track/3g6pA9NF7tNX8vrsaHL510"
+      "duration_ms": 218226,
+      "name": "Finja",
+      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
+        "name": "Pulses",
+        "url": "https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 364810,
+      "name": "Pulses",
+      "url": "https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
         "name": "Purple Days & Purple Nights",
         "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 269531,
       "name": "Purple Days",
       "url": "https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
-        "name": "Pulses",
-        "url": "https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 364810,
-      "name": "Pulses",
-      "url": "https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        }
-      ],
-      "duration_ms": 424979,
-      "name": "Unlocked",
-      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
         "name": "Crescendo",
         "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 364918,
       "name": "Crescendo",
       "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 424979,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Sense of Wonder",
-        "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
-      },
-      "artists": [
-        {
-          "name": "Paradoks",
-          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
-        }
-      ],
-      "duration_ms": 241282,
-      "name": "Sense of Wonder",
-      "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
         "name": "Gratitude (Extended Mixes)",
         "url": "https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 356188,
       "name": "Forsaken Dream - Extended Mix",
       "url": "https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
+        "name": "Sense of Wonder",
+        "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
+      },
+      "artists": [
+        {
+          "name": "Paradoks",
+          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+        }
+      ],
+      "duration_ms": 241282,
+      "name": "Sense of Wonder",
+      "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Traum EP",
-        "url": "https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud"
-      },
-      "artists": [
-        {
-          "name": "Herr Lang",
-          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "Deep in My Mind - Original Mix",
-      "url": "https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/3hSEqztpBnREFLhQSFi2Yi"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 262926,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/4oXPyrvgfsqR8kgHxZZrUa"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
+        "name": "Traum EP",
+        "url": "https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud"
+      },
+      "artists": [
+        {
+          "name": "Herr Lang",
+          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Deep in My Mind - Original Mix",
+      "url": "https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Fader",
-        "url": "https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh"
+        "name": "Mind Kontrol EP",
+        "url": "https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc"
       },
       "artists": [
         {
-          "name": "Casper Cole",
-          "url": "https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV"
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
         }
       ],
-      "duration_ms": 373875,
-      "name": "Fader",
-      "url": "https://open.spotify.com/track/5XNjnlwv52paocSOip6SHx"
+      "duration_ms": 403709,
+      "name": "Dark Future",
+      "url": "https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1155,34 +1155,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Planet Earth | March of the Giants",
-        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
+        "name": "Fader",
+        "url": "https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh"
       },
       "artists": [
         {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+          "name": "Casper Cole",
+          "url": "https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV"
         }
       ],
-      "duration_ms": 457080,
-      "name": "March of the giants",
-      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
-        "name": "Mind Kontrol EP",
-        "url": "https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc"
-      },
-      "artists": [
-        {
-          "name": "Nihil Young",
-          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
-        }
-      ],
-      "duration_ms": 403709,
-      "name": "Dark Future",
-      "url": "https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R"
+      "duration_ms": 373875,
+      "name": "Fader",
+      "url": "https://open.spotify.com/track/5XNjnlwv52paocSOip6SHx"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1199,6 +1183,22 @@
       "duration_ms": 433564,
       "name": "Seige",
       "url": "https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
+        "name": "Planet Earth | March of the Giants",
+        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "duration_ms": 457080,
+      "name": "March of the giants",
+      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
+        "name": "Nanika",
+        "url": "https://open.spotify.com/album/4FWcUpG3yKfpRjGVTJidNu"
+      },
+      "artists": [
+        {
+          "name": "Sans Souci",
+          "url": "https://open.spotify.com/artist/659AKqao14TDh7PNu5qDIZ"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Nanika",
+      "url": "https://open.spotify.com/track/4xDcIRw7k8UnasakGxwVpb"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w"
       },
@@ -1303,38 +1319,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Nanika",
-        "url": "https://open.spotify.com/album/4FWcUpG3yKfpRjGVTJidNu"
+        "name": "Lost in Berlin",
+        "url": "https://open.spotify.com/album/6NasKPWBq5AEPJDE1KK8lU"
       },
       "artists": [
         {
-          "name": "Sans Souci",
-          "url": "https://open.spotify.com/artist/659AKqao14TDh7PNu5qDIZ"
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
         }
       ],
-      "duration_ms": 184918,
-      "name": "Nanika",
-      "url": "https://open.spotify.com/track/4xDcIRw7k8UnasakGxwVpb"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
-        "name": "Orchestra (Remixes)",
-        "url": "https://open.spotify.com/album/5COwPsSU5XZmd0iczT0tpM"
-      },
-      "artists": [
-        {
-          "name": "Worakls",
-          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
-        },
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 412500,
-      "name": "Entrudo - Booka Shade Remix",
-      "url": "https://open.spotify.com/track/46SwXRrM099b9Oqugpwaxa"
+      "duration_ms": 259670,
+      "name": "Endless Dancing",
+      "url": "https://open.spotify.com/track/28ggPVRudYkMzmQOzjkYQ5"
     },
     {
       "added_at": "2023-06-30 15:07:53",

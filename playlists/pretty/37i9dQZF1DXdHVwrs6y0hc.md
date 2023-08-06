@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,960 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,039 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 33 | [The Reason I Left Mullingar](https://open.spotify.com/track/69BIUIZZ8xIYJhQ0t1eY1J) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [Song for Ireland](https://open.spotify.com/album/1cWuC6mhnhmtZOOICbZEAA) | 4:08 |
 | 34 | [Dohertys \- Tommy Peoples](https://open.spotify.com/track/3hQb0GZC2v6wipL51lNUuh) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Dave Munnelly](https://open.spotify.com/artist/31lWaf3NIsi9OuxxzNSdan), [Philip Masure](https://open.spotify.com/artist/1yECnWiTLdHIA2rsSlyf9F), [Patrick Michiels](https://open.spotify.com/artist/2yPQ0mHaVOSikKAtmxws1N), [Kieran Fahy](https://open.spotify.com/artist/0sd7XiFafnq1L8hm0xpmnF) | [Kieran Fahy: Irish Fiddle \- Man From the West](https://open.spotify.com/album/55Ls12X6vikPEmzZJ4qjAe) | 3:02 |
 | 35 | [Sweet Ballyvaughaan \- Live](https://open.spotify.com/track/4b56EXwD6FWO2MtyHmKB4W) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Sean Tyrrell Live at Greenes](https://open.spotify.com/album/7hwixTHLIB7E0xkw3n3lUV) | 4:08 |
-| 36 | [Bogie's Bonny Belle](https://open.spotify.com/track/0AYSKDQCs1RaUQh2iLEXRv) | [Fred Johnston](https://open.spotify.com/artist/5BycsjnT9wUHdGeeBITkbm), [Brid Ni Chathain](https://open.spotify.com/artist/4MB2D4qMgAqlP1VDw0WuuN), [Janet Sutton](https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 3:19 |
+| 36 | [The Blight](https://open.spotify.com/track/2QJUd682LU3QIOYWnBP5gZ) | [Johnny Duhan](https://open.spotify.com/artist/434bJTf7zzYAqnMhWNuAly) | [Flame](https://open.spotify.com/album/73ZcF7Q0qUhj1WQriTv8CC) | 4:11 |
 | 37 | [The Craic Was Ninety](https://open.spotify.com/track/2AoTVSqG54KUwFyhu4wPzw) | [The Dicey Rileys](https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD) | [The Craic Is Mighty](https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt) | 3:16 |
 | 38 | [The Charladies' Ball](https://open.spotify.com/track/2xmbVtHzfnZiSjzYjRliap) | [Tara](https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8) | [Tara: Irish Songs \(Paddy Dreaming\)](https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr) | 3:51 |
-| 39 | [The Blight](https://open.spotify.com/track/2QJUd682LU3QIOYWnBP5gZ) | [Johnny Duhan](https://open.spotify.com/artist/434bJTf7zzYAqnMhWNuAly) | [Flame](https://open.spotify.com/album/73ZcF7Q0qUhj1WQriTv8CC) | 4:11 |
+| 39 | [Bogie's Bonny Belle](https://open.spotify.com/track/0AYSKDQCs1RaUQh2iLEXRv) | [Fred Johnston](https://open.spotify.com/artist/5BycsjnT9wUHdGeeBITkbm), [Brid Ni Chathain](https://open.spotify.com/artist/4MB2D4qMgAqlP1VDw0WuuN), [Janet Sutton](https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 3:19 |
 | 40 | [Naomi Wise](https://open.spotify.com/track/7AEuTfhjVJCX2evvv6tLG3) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 4:41 |
 | 41 | [Unicorns](https://open.spotify.com/track/3mXRtbjwXvsTn51lGMqOn9) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [Music & Ballads from Ireland](https://open.spotify.com/album/22UCiw5HAWZ8LTllg2hCvl) | 3:36 |
 | 42 | [The Flower of Finea](https://open.spotify.com/track/1HZisJ0NtZbsEE1DZormSp) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 5:42 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 47 | [Roseville Fair](https://open.spotify.com/track/6Tc4EflXu4AyHPkY9iMuHQ) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Denis Carey](https://open.spotify.com/artist/4dDlG6nuYNnruh0tdGvzkY) | [Home Is the Rover](https://open.spotify.com/album/0hFiauwFSsPWXQyzv29SRU) | 4:16 |
 | 48 | [The Old Dungarvan Oak](https://open.spotify.com/track/0I16G9QzUo5AmEsIKsAAhI) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Denis Carey](https://open.spotify.com/artist/4dDlG6nuYNnruh0tdGvzkY) | [Home Is the Rover](https://open.spotify.com/album/0hFiauwFSsPWXQyzv29SRU) | 2:42 |
 | 49 | [Dublin in the Rare Old Times](https://open.spotify.com/track/6cUmT8gumNhb2Y9GOghnmh) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [20 Best Irish Songs](https://open.spotify.com/album/6wyX3vo0E5pKCKaRECy0SQ) | 4:24 |
-| 50 | [The Cliffs of Dooneen](https://open.spotify.com/track/68MgzkKuWdBRsfXHWPiY2Z) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Noel McLoughlin Group](https://open.spotify.com/artist/3X06t2DWR44EmCpR0AX8gx) | [20 Best of Ireland](https://open.spotify.com/album/4NHRHesF4AR2P6qU7sjBL1) | 3:33 |
+| 50 | [The Mickey Dam](https://open.spotify.com/track/1fxG0DZhRWopilQu79UMGB) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 2:48 |
 
-Snapshot ID: `MCw0YjQ4ZmVhM2IwMTlmN2M3MzAxZTBhMjZhY2Y4N2NlZjY3NGVlMDE0`
+Snapshot ID: `MCw3ZjJkNDIxNjRlZmU0NWFkNWQ4Y2I3MTkwYmQxZmViZjE5OGY4N2Iw`

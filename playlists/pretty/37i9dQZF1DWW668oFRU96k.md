@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Guetta x Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,022 likes - 69 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,048 likes - 69 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 68 | [Touching You \- Rodrigo Deem Remix](https://open.spotify.com/track/1fin39JdiWLMenDGlgL2As) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [Adara](https://open.spotify.com/artist/3ZejoaXlP3oqmmTseylLDY), [Rodrigo Deem](https://open.spotify.com/artist/22wrhNQAtwTj0CPoB9mWEF) | [Touching You \(Rodrigo Deem & DeathNov Remixes\)](https://open.spotify.com/album/05hJtgDHcYpUV33Io66e7j) | 3:11 |
 | 69 | [Higher Than Ever Before](https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:16 |
 
-Snapshot ID: `MCwwYzE1MWM0ZjI2ZDMxZjM3ODAyOThjYzY4MWE3OWM2ZmM1OGYyNzc5`
+Snapshot ID: `MCw4NGY3MmYwNDIzZjlkMDE2NGJmM2YwZTFkZWJkYzMyNDExNTRjYTJm`

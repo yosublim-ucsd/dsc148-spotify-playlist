@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 149748,
+  "num_followers": 149760,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTRkMzk2MTE3N2RkNzE3NWI4ZjIzNWEwNGE0YWRiYzA5NmNjYjQw",
+  "snapshot_id": "MCxjZTYzODFjZDc4ODJhMzlhOGFkYjNlMTBhOTBjMzVmNzIwY2ZiMDUy",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Dirt Road",
-        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        }
-      ],
-      "duration_ms": 165041,
-      "name": "Dirt Road",
-      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Hog Heaven",
         "url": "https://open.spotify.com/album/4d6JJcqCvlw4XBT5c3gbAf"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 282000,
       "name": "Backroads Life (feat. The Lacs)",
       "url": "https://open.spotify.com/track/75RsCkcyXJvc26HmmwKhlu"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Dirt Road",
+        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "duration_ms": 165041,
+      "name": "Dirt Road",
+      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Redneck Rich",
-        "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
-      },
-      "artists": [
-        {
-          "name": "Cody Parks and The Dirty South",
-          "url": "https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk"
-        }
-      ],
-      "duration_ms": 282462,
-      "name": "Redneck Rich",
-      "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Shawty In The Truck",
         "url": "https://open.spotify.com/album/09UnavWkODv3pS1HoYCNpp"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 273501,
       "name": "Shawty In The Truck",
       "url": "https://open.spotify.com/track/0XWiP7iQC1uOOW0gVCKDwY"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Redneck Rich",
+        "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
+      },
+      "artists": [
+        {
+          "name": "Cody Parks and The Dirty South",
+          "url": "https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk"
+        }
+      ],
+      "duration_ms": 282462,
+      "name": "Redneck Rich",
+      "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
     },
     {
       "added_at": "2023-05-19 04:00:00",

@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxODUzNjAsMDAwMDAwMDBiYzkzYjc3NzAzZjM2YzZhNTA1NWYzNTk1NTY1NDg0OQ==",
+  "snapshot_id": "MjgxODUzNjAsMDAwMDAwMDA0YmU2M2UwNTY4Yjg0NTczMTQxYThmMGIwOWFkMmMyZA==",
   "tracks": [
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Sounds Of The Universe | The 12\" Singles",
+        "url": "https://open.spotify.com/album/5f75ihytzLQhJNqurE6NlF"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 383376,
+      "name": "Peace - Justus K\u00f6hncke Extended Disco Club Vocal",
+      "url": "https://open.spotify.com/track/15jMustVSA7BeMY5stIadi"
+    },
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
@@ -55,6 +71,22 @@
       "duration_ms": 249706,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/1yTOtki9JyA4oM1svzdE1K"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Trapdoor Solution/The Bomb",
+        "url": "https://open.spotify.com/album/7bugHnBvRWFIl3GsTrsDfc"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 133903,
+      "name": "The Bomb",
+      "url": "https://open.spotify.com/track/2CJmT1vORtEBvi7vDzj9Uf"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -139,6 +171,114 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "The Cold Song (Arnaud Rebotini Remix)",
+        "url": "https://open.spotify.com/album/7qcqc4H25vVaYjK5ygKfGf"
+      },
+      "artists": [
+        {
+          "name": "Klaus Nomi",
+          "url": "https://open.spotify.com/artist/1uFG5Tg7iA7wd56RchxvWw"
+        },
+        {
+          "name": "Arnaud Rebotini",
+          "url": "https://open.spotify.com/artist/4qnTdOhzCAvoRf8PObGr1h"
+        }
+      ],
+      "duration_ms": 349093,
+      "name": "The Cold Song - Arnaud Rebotini Remix",
+      "url": "https://open.spotify.com/track/2O6oLpez0hMjKv1qe77enL"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "CONTIGO",
+        "url": "https://open.spotify.com/album/4mVMBRhzeuKd4ePwqtceOU"
+      },
+      "artists": [
+        {
+          "name": "Mago Rey",
+          "url": "https://open.spotify.com/artist/34W0qoIabeEniJH7rLVXHv"
+        },
+        {
+          "name": "Blanca Tapia",
+          "url": "https://open.spotify.com/artist/7bwtu0qPlC5My6gmQiyiEt"
+        }
+      ],
+      "duration_ms": 258665,
+      "name": "CONTIGO",
+      "url": "https://open.spotify.com/track/3pKG8z85Hsa4IiDwlELHf6"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Hollywood '76 (Live)",
+        "url": "https://open.spotify.com/album/4ExEFLqUbbhZGjon20wDYA"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "duration_ms": 317083,
+      "name": "Out In The Street - Live Hollywood, CA 1976",
+      "url": "https://open.spotify.com/track/0tQa96AB5xvHnAcdIuhEHH"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Sunset 666 (Live at Hollywood Palladium)",
+        "url": "https://open.spotify.com/album/5uFiLgcEGeWpM0oE1WQb4u"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 277893,
+      "name": "All Things Pass - Live at Hollywood Palladium",
+      "url": "https://open.spotify.com/track/19GNUsTrKKX3tSKYOPAUbT"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Dark Ice",
+        "url": "https://open.spotify.com/album/7j3eJsf5v6HCXg2qvgIv8w"
+      },
+      "artists": [
+        {
+          "name": "Coronatus",
+          "url": "https://open.spotify.com/artist/0SWKrljgHUNYD3KplPchyG"
+        }
+      ],
+      "duration_ms": 290417,
+      "name": "Dark Ice - Single Version",
+      "url": "https://open.spotify.com/track/4WCnwHiyThWJmUaWFaUwFt"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Tunguska",
+        "url": "https://open.spotify.com/album/3SRRyRLdVbQMzY00K5RqPs"
+      },
+      "artists": [
+        {
+          "name": "Ashbury Heights",
+          "url": "https://open.spotify.com/artist/3rclGaNhwMNMcU2GkN91j9"
+        },
+        {
+          "name": "Corlyx",
+          "url": "https://open.spotify.com/artist/2K8LJm6DxnMVU6fQklN5Z5"
+        }
+      ],
+      "duration_ms": 266181,
+      "name": "Tunguska",
+      "url": "https://open.spotify.com/track/5CHhfCYtHpot20CaQDuDpf"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Vulindlela",
         "url": "https://open.spotify.com/album/5DATmwjbgb7HNRfHaIw8J2"
       },
@@ -187,6 +327,74 @@
       "duration_ms": 205723,
       "name": "A Love",
       "url": "https://open.spotify.com/track/3fPfkDNKwefwabaDKEOioY"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Nada Para Ti",
+        "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 236255,
+      "name": "Nada Para Ti",
+      "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Consign To Oblivion (Live At The Afas Live)",
+        "url": "https://open.spotify.com/album/4o0xfqGPoackkoZpDPIhgl"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 598847,
+      "name": "Consign To Oblivion - Live at the Afas Live",
+      "url": "https://open.spotify.com/track/76B4WwUShRWjjOOA6146Hb"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Full Moon (Live Boston '81)",
+        "url": "https://open.spotify.com/album/5Hjebv8hHBPvqztorRXQoM"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 233024,
+      "name": "Keep Pushin - Live",
+      "url": "https://open.spotify.com/track/0PunM9jSlsNbXwFCYOuUHz"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Escombros",
+        "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "Todo Se Detiene Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -283,162 +491,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Mercedes Florecida",
-        "url": "https://open.spotify.com/album/6TNLGCfPxkO3FEoZsoO2sm"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        },
-        {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        },
-        {
-          "name": "Santi Celli",
-          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
-        },
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        },
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
-        },
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        },
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        },
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        },
-        {
-          "name": "Peteco Carabajal",
-          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
-        },
-        {
-          "name": "Araceli Matus",
-          "url": "https://open.spotify.com/artist/12PntOvPXBBnYq576uS9d6"
-        },
-        {
-          "name": "Nadia Larcher",
-          "url": "https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5"
-        },
-        {
-          "name": "Juan I\u00f1aki",
-          "url": "https://open.spotify.com/artist/7uV88gIp74PSWapoQGTLDs"
-        },
-        {
-          "name": "Bruno Arias",
-          "url": "https://open.spotify.com/artist/59OheJsvimLlXWvuL9j7Df"
-        },
-        {
-          "name": "Milena Salamanca",
-          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
-        },
-        {
-          "name": "La Bruja Salguero",
-          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
-        },
-        {
-          "name": "Jos\u00e9 Luis Aguirre",
-          "url": "https://open.spotify.com/artist/2cGb9suXPC24IfcsALCyK4"
-        },
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        },
-        {
-          "name": "Manu Sija",
-          "url": "https://open.spotify.com/artist/0YJbC4MQ0KFv3bhFz8uUnx"
-        },
-        {
-          "name": "Dakillah",
-          "url": "https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ"
-        },
-        {
-          "name": "Ivonne Guzm\u00e1n",
-          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
-        },
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        },
-        {
-          "name": "Liliana Herrero",
-          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
-        },
-        {
-          "name": "Julia Zenko",
-          "url": "https://open.spotify.com/artist/5zsw1AANYqHiLeJ9GGHjLP"
-        },
-        {
-          "name": "Daniela Heredia",
-          "url": "https://open.spotify.com/artist/5yTKxJlxMhyYGaUC9TQNlo"
-        },
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        },
-        {
-          "name": "Francesca Ancarola",
-          "url": "https://open.spotify.com/artist/6clzHoQL1WN2thmMeOalxc"
-        },
-        {
-          "name": "Dulce Pontes",
-          "url": "https://open.spotify.com/artist/3d5RmASP3q3rt8izEWDt8w"
-        },
-        {
-          "name": "Luna Monti",
-          "url": "https://open.spotify.com/artist/1ujuID79Vnw9o2AQFfLPPd"
-        }
-      ],
-      "duration_ms": 245932,
-      "name": "Mercedes Florecida",
-      "url": "https://open.spotify.com/track/2t3gWLQHM4ef0aOREBvcNA"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "I Ran (So Far Away) (BENZI & Remy Heart Remix)",
-        "url": "https://open.spotify.com/album/2KqOaWlS4KZP45QRaIq5bs"
-      },
-      "artists": [
-        {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
-        },
-        {
-          "name": "Benzi",
-          "url": "https://open.spotify.com/artist/1dqyvasqrPO2j7VS8TOxDl"
-        },
-        {
-          "name": "Remy Heart",
-          "url": "https://open.spotify.com/artist/05Bjrif4i7XiPNQTRoDxRr"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "I Ran (So Far Away) (BENZI & Remy Heart Remix)",
-      "url": "https://open.spotify.com/track/6BzW96h3u4OlaVCMndXRYb"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Give It To Me (Demo)",
         "url": "https://open.spotify.com/album/7oOYddAiFE10K6tmXvVIGa"
       },
@@ -483,82 +535,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Rigor Mortis Radio",
-        "url": "https://open.spotify.com/album/5c8XabOTIVdkm39NkdAUJv"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 148738,
-      "name": "Rigor Mortis Radio",
-      "url": "https://open.spotify.com/track/006xBsccJhHkcrdUILF1cP"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Verbal Style",
-        "url": "https://open.spotify.com/album/5eLRKuyiFHlkgLWwRM575h"
-      },
-      "artists": [
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        },
-        {
-          "name": "Perro Zw",
-          "url": "https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv"
-        }
-      ],
-      "duration_ms": 191688,
-      "name": "Verbal Style",
-      "url": "https://open.spotify.com/track/167WExAUvXCcsBadPA8Rzy"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "ACUARIO",
-        "url": "https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 272695,
-      "name": "ACUARIO",
-      "url": "https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Something Changed (Water From Your Eyes Interpolation)",
-        "url": "https://open.spotify.com/album/4HJm5HpEQ6Jg8KHvnsj2q3"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        },
-        {
-          "name": "Water From Your Eyes",
-          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
-        }
-      ],
-      "duration_ms": 275352,
-      "name": "Something Changed - Water From Your Eyes Interpolation",
-      "url": "https://open.spotify.com/track/2rf3akXQqFEu41Ca3bJyNV"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "It's a Man's World (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4mXTpvVCAnAsDjdI2Pe9vr"
       },
@@ -575,170 +551,6 @@
       "duration_ms": 242106,
       "name": "The Sun Ain't Gonna Shine Anymore - (Trevor Horn Remix) [2023 Remaster]",
       "url": "https://open.spotify.com/track/6pDCfwTeLNAbzhKJlue7Qx"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "I Inside the Old Year Dying",
-        "url": "https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK"
-      },
-      "artists": [
-        {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
-        }
-      ],
-      "duration_ms": 228333,
-      "name": "Lwonesome Tonight",
-      "url": "https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Just Keep Walking",
-        "url": "https://open.spotify.com/album/08EghP7gePBZhPDcHrCOoz"
-      },
-      "artists": [
-        {
-          "name": "Sgt Slick",
-          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
-        },
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 170680,
-      "name": "Just Keep Walking",
-      "url": "https://open.spotify.com/track/2eJpVwx1uaVHsx7gSPEuml"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Owner of a Lonely Heart (Luca Olivotto Remix)",
-        "url": "https://open.spotify.com/album/0l7IWuiamXvc38w2U7qfOA"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        },
-        {
-          "name": "Luca Olivotto",
-          "url": "https://open.spotify.com/artist/6TKBUwZ48ncE6FbhT5ACzj"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Owner of a Lonely Heart (Luca Olivotto Remix) - Radio Edit",
-      "url": "https://open.spotify.com/track/2NBiXi2nSS40Y1e73wlM7q"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Cities (Live) [2023 Remaster]",
-        "url": "https://open.spotify.com/album/03Fwgxoot2pqsSaPcyxKcu"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 214684,
-      "name": "Cities (Live) - 2023 Remaster",
-      "url": "https://open.spotify.com/track/7kco4eWA4nien0eAwroiDe"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Wagging Tongue (Remixes)",
-        "url": "https://open.spotify.com/album/3Oc7qOr81qHQIfNMjdEU1H"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        },
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 278081,
-      "name": "Wagging Tongue - Wet Leg Remix",
-      "url": "https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Speak Now (Taylor's Version)",
-        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 273186,
-      "name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Oh, Dolores (From \"The Horror of Dolores Roach\")",
-        "url": "https://open.spotify.com/album/5u5IZfyru5RH4IGydHNHMU"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 172592,
-      "name": "Oh, Dolores - From \"The Horror of Dolores Roach\"",
-      "url": "https://open.spotify.com/track/22zLM7Qgh4Y6bmxb7ejpSy"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Monsters (feat. Aaron Gillespie of Underoath)",
-        "url": "https://open.spotify.com/album/6U38G1MIHJteOtidVTLSJ2"
-      },
-      "artists": [
-        {
-          "name": "Magic Whatever",
-          "url": "https://open.spotify.com/artist/1m02BQX2BPiqVzbaxBueXT"
-        },
-        {
-          "name": "Aaron Gillespie",
-          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
-        },
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 198486,
-      "name": "Monsters (feat. Aaron Gillespie of Underoath)",
-      "url": "https://open.spotify.com/track/26bgULl57xDw3Pska642zL"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "All A Share Together Now",
-        "url": "https://open.spotify.com/album/4buyOrbqG380Urv8cdCH4i"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 226523,
-      "name": "All A Share Together Now",
-      "url": "https://open.spotify.com/track/6jfdwBdHyJkxSdgZrPCI8Y"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

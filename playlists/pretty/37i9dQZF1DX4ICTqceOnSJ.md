@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,275 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,272 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 49 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 |
 | 50 | [Nawebona](https://open.spotify.com/track/699gDcpwPjEIySd499EG7s) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Nawebona](https://open.spotify.com/album/4m3GE6peH6zuduZJhnxNTw) | 3:15 |
 
-Snapshot ID: `MCw3OWFmNzcyNzNiMDBlYTgyZGM5ODJmZWI4MjczZDdmNmM5YmE0Zjky`
+Snapshot ID: `MCw0MGQzM2RjYzI3ZTllYTk5Mjk0MDcwZGQ4YTBjMjAwZmIyYTM5Yzhk`

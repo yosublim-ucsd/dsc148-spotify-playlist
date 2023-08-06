@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "Freaky & Naughty",
+        "url": "https://open.spotify.com/album/4vjPY3edDk05mtDoQO41oo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Freaky & Naughty",
+      "url": "https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj"
+    },
+    {
+      "album": {
         "name": "Gimme Way",
         "url": "https://open.spotify.com/album/6i77ZpMzy0E0jQzjs9zHg0"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,488,565 likes - 80 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488,622 likes - 80 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 21 | [EVOKE](https://open.spotify.com/track/0TwK1i7La2lfEOUCcH1g9t) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o) | [EVOKE](https://open.spotify.com/album/75loSbBYSXtaRofHhpBL6d) | 3:54 |
 | 22 | [Black Tea](https://open.spotify.com/track/0gylr1Mi75MBEijrP2r20A) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Black Tea](https://open.spotify.com/album/3tcY2wCBIhAAi7ft7Qmr1M) | 2:39 |
 | 23 | [Algebreak](https://open.spotify.com/track/24zpLtGPVHOFQ6xyvi95hj) | [Allmos](https://open.spotify.com/artist/4caJwBnZ75geSKhAhqFXDE) | [Mostly Instrumentals LP](https://open.spotify.com/album/5IofXcZhek4Whxlo4r7wuk) | 2:05 |
-| 24 | [Cloud9](https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [Cloud9](https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq) | 2:06 |
+| 24 | [Superhero](https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 2:46 |
 | 25 | [Napping](https://open.spotify.com/track/1E7VlV1Stul9E9UCasIPD7) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Napping](https://open.spotify.com/album/7jH1JHG94gRMNicnluBVT1) | 1:55 |
-| 26 | [Superhero](https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 2:46 |
+| 26 | [Cloud9](https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [Cloud9](https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq) | 2:06 |
 | 27 | [Warmer Together](https://open.spotify.com/track/610xaw9Y51TEforwMGyTKK) | [lisnn](https://open.spotify.com/artist/1REa8kI2N4Jp9xZJ9wHFdd), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warmer Together](https://open.spotify.com/album/6NDSwfpx4J4bZfFi27L9JB) | 2:37 |
 | 28 | [Soft Spot](https://open.spotify.com/track/2cfgnwGPrKkcvVjuxzSt6s) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Soft Spot](https://open.spotify.com/album/7zy4ZCdOKzyEg2d9mjdLpk) | 2:55 |
 | 29 | [Good Evening](https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Boardwalk Bumps 3](https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts) | 2:01 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 48 | [Paddling pool](https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Paddling pool](https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ) | 2:47 |
 | 49 | [Too Tired](https://open.spotify.com/track/30ksReCEcSpnfAm8XCC4G7) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Easy Feet](https://open.spotify.com/album/47PLWKaHsza5rCUmSw4Rqh) | 1:56 |
 | 50 | [Sewin' Love \- Instrumental](https://open.spotify.com/track/517bSkwNQVSQrQXmjRlsSl) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [Main Source \(Instrumentals\)](https://open.spotify.com/album/38csz5gfi2hl9CUXYAPlfG) | 2:58 |
-| 51 | [Undercurrent](https://open.spotify.com/track/7vg8AtIAyXzJK1fKKK8CZO) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Whitecaps](https://open.spotify.com/album/5wVxz4mhomoVmStrjnt4F0) | 2:07 |
-| 52 | [Think for Yourself](https://open.spotify.com/track/6TgguvjwUbXg18vyLihVxv) | [Moonspatz](https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK) | [Radio Moonspatz](https://open.spotify.com/album/0n0HZ3zcyl4INlWTw36I0m) | 2:30 |
+| 51 | [Think for Yourself](https://open.spotify.com/track/6TgguvjwUbXg18vyLihVxv) | [Moonspatz](https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK) | [Radio Moonspatz](https://open.spotify.com/album/0n0HZ3zcyl4INlWTw36I0m) | 2:30 |
+| 52 | [Undercurrent](https://open.spotify.com/track/7vg8AtIAyXzJK1fKKK8CZO) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Whitecaps](https://open.spotify.com/album/5wVxz4mhomoVmStrjnt4F0) | 2:07 |
 | 53 | [Fogào Love](https://open.spotify.com/track/0sJ6oCjiYDCk0LH5ZpEQ4Y) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Couch Business](https://open.spotify.com/album/6AR8RyloFDRFf30SCzPB3x) | 1:44 |
 | 54 | [Malibu](https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9) | [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul), [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Malibu](https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1) | 2:22 |
 | 55 | [SMiLE](https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U) | [SMiLE](https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk) | 3:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Jazz Neko](https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Origami Skizzen](https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF) | 2:32 |
 | 80 | [Elevator \- Remastered](https://open.spotify.com/track/2yltjA72DhOW2hL7CzbAMD) | [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV) | [Elevator \(Remastered\)](https://open.spotify.com/album/7DNUHO4a9PrLD51cOaJO1N) | 3:27 |
 
-Snapshot ID: `MCxlOTY5ZGY1ZWI3ZGQ2MTExOGE4Mjk1YWU4M2M0Y2JmZjY0MDRlZTRl`
+Snapshot ID: `MCxiNzk5YTJiM2I3NWY5ZTdiZTNmZmY3YTY5MTgzMGFjYjFmNmE5Y2Nj`

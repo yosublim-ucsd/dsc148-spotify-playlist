@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/4HPnqJFJ9HbB0j6zHTLSJH"
+      },
+      "artists": [
+        {
+          "name": "Skidz",
+          "url": "https://open.spotify.com/artist/5OpDyR287ck0uxPbA2MF7Y"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187539,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/6uvuow3aDfiI75wxIY6VNN"
+    },
+    {
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo"
       },
@@ -588,7 +606,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 123174,
       "name": "Casualties",
       "url": "https://open.spotify.com/track/3j7X2wLlmTpM6xaY2kplUA"
@@ -770,7 +788,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 127046,
       "name": "CRASHOUTBOYZZ",
       "url": "https://open.spotify.com/track/5qH3XUoeXwgSmfjXHqvlFW"
@@ -818,7 +836,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 107083,
       "name": "Dangerous!",
       "url": "https://open.spotify.com/track/6QmFf1KDnr57fUWRcvLnME"
@@ -948,7 +966,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 93622,
       "name": "DEMONS",
       "url": "https://open.spotify.com/track/7nYGVm34J2cSTYs55sEVNo"
@@ -1297,6 +1315,28 @@
     },
     {
       "album": {
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/1EXsH5cPQj9hx4PbzlcxJC"
+      },
+      "artists": [
+        {
+          "name": "FOURPL4Y",
+          "url": "https://open.spotify.com/artist/6a13Zn6lBZKeY3plcfwY0t"
+        },
+        {
+          "name": "Nessly",
+          "url": "https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/5yiVXtN9hvGKKxswqWChrU"
+    },
+    {
+      "album": {
         "name": "fast life",
         "url": "https://open.spotify.com/album/0G8riNvPKOtCMzjMyLZDvr"
       },
@@ -1352,7 +1392,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 143095,
       "name": "FIGHT!",
       "url": "https://open.spotify.com/track/0lBJxnFZG6qXDRvmRK1fmD"
@@ -1447,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "Funk of Suffering",
+        "url": "https://open.spotify.com/album/2B8qo6AA5g6iPR0DpkjrbB"
+      },
+      "artists": [
+        {
+          "name": "SXID",
+          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77424,
+      "name": "Funk of Suffering",
+      "url": "https://open.spotify.com/track/3GbFWANaWI8VZf1AxqFeaN"
+    },
+    {
+      "album": {
         "name": "Funk of the Damned",
         "url": "https://open.spotify.com/album/4BeJrtgftsl9AwYtjP8KzG"
       },
@@ -1458,7 +1516,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 88750,
       "name": "Funk of the Damned",
       "url": "https://open.spotify.com/track/3kVH8rQUOgL9IINKm3H4hw"
@@ -1610,6 +1668,46 @@
       "duration_ms": 146274,
       "name": "GigaChad Theme - Phonk House Version",
       "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
+    },
+    {
+      "album": {
+        "name": "Glisten",
+        "url": "https://open.spotify.com/album/7lPXIfQlIEqk2j1muZuMcJ"
+      },
+      "artists": [
+        {
+          "name": "Pseudo",
+          "url": "https://open.spotify.com/artist/1wFUwnJhCYwRe6eC0DlMkd"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163877,
+      "name": "Glisten",
+      "url": "https://open.spotify.com/track/3M7gaIifomr1c0BBLgyGXP"
+    },
+    {
+      "album": {
+        "name": "GLITCHED",
+        "url": "https://open.spotify.com/album/25v5fjve2j2SGl1v8PBRj2"
+      },
+      "artists": [
+        {
+          "name": "D4C",
+          "url": "https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq"
+        },
+        {
+          "name": "KIIXSHI",
+          "url": "https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137147,
+      "name": "GLITCHED",
+      "url": "https://open.spotify.com/track/04f5LcobDx5WR66deShA2r"
     },
     {
       "album": {
@@ -1798,7 +1896,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 230788,
       "name": "HellHarvest",
       "url": "https://open.spotify.com/track/69bcp5TAVUdO7jDBEVWwUn"
@@ -1914,7 +2012,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 129729,
       "name": "How It Goes",
       "url": "https://open.spotify.com/track/6ztUQKIOgoW2OJcJB5cApI"
@@ -2196,6 +2294,24 @@
       "duration_ms": 192000,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
+    },
+    {
+      "album": {
+        "name": "KEROSENE PHONK",
+        "url": "https://open.spotify.com/album/1qlY2jln5YqeUqQX3T0GCx"
+      },
+      "artists": [
+        {
+          "name": "Rushex",
+          "url": "https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115485,
+      "name": "KEROSENE PHONK",
+      "url": "https://open.spotify.com/track/0J2r17bLiJix2C9K9ZPGWy"
     },
     {
       "album": {
@@ -2530,7 +2646,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 286896,
       "name": "Love & Pain",
       "url": "https://open.spotify.com/track/77EDwBqVObqkgqve83Rjke"
@@ -3033,6 +3149,24 @@
     },
     {
       "album": {
+        "name": "TRIO BRASILEIRO",
+        "url": "https://open.spotify.com/album/2vRvBfelX9SLgtUs4Ia7YB"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "NEFOR BRASILEIRO",
+      "url": "https://open.spotify.com/track/4QnvZSnFkxBw6LsJ1sKapC"
+    },
+    {
+      "album": {
         "name": "NEON BLADE",
         "url": "https://open.spotify.com/album/2gVcJD2rhO3LY71roEl0iE"
       },
@@ -3096,6 +3230,24 @@
       "duration_ms": 116043,
       "name": "NIGHT CITY",
       "url": "https://open.spotify.com/track/3YaLFZ52OqM3iNwQvnxThf"
+    },
+    {
+      "album": {
+        "name": "Not Bad",
+        "url": "https://open.spotify.com/album/4kYHx7TFyJWJkODhH9w9EJ"
+      },
+      "artists": [
+        {
+          "name": "Pharmacist",
+          "url": "https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117010,
+      "name": "Not Bad",
+      "url": "https://open.spotify.com/track/5j1Co85muCNv0bUsDzia5J"
     },
     {
       "album": {
@@ -3166,6 +3318,28 @@
       "duration_ms": 212839,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/2iBdAPcTzDufAKLvU0e0ba"
+    },
+    {
+      "album": {
+        "name": "OLA OLA",
+        "url": "https://open.spotify.com/album/52AIvYiQ7dYMmJ10NI9ylT"
+      },
+      "artists": [
+        {
+          "name": "Suave Lee",
+          "url": "https://open.spotify.com/artist/5RfBPFjY4Fhgilc3C8cAAg"
+        },
+        {
+          "name": "DR M\u00d8B",
+          "url": "https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103120,
+      "name": "OLA OLA",
+      "url": "https://open.spotify.com/track/30w93wLZVn2v1znX5AI40n"
     },
     {
       "album": {
@@ -3354,7 +3528,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 146158,
       "name": "PHONK DA FAVELA",
       "url": "https://open.spotify.com/track/50S50LytHPrWpEBjxK22Of"
@@ -3368,6 +3542,10 @@
         {
           "name": "2KE",
           "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
         }
       ],
       "date_added": "2023-07-31",
@@ -3510,7 +3688,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 147096,
       "name": "Puppet - RAIZHELL Remix",
       "url": "https://open.spotify.com/track/1j4Ag3l3X03vSgp7pIO0lj"
@@ -3618,7 +3796,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 165152,
       "name": "Red on the Inside",
       "url": "https://open.spotify.com/track/7AQFuHcmTjp0jmYAcsa2tm"
@@ -3829,6 +4007,24 @@
     },
     {
       "album": {
+        "name": "S.W.Y.S.",
+        "url": "https://open.spotify.com/album/5yiVtkW6CU8nBLQOquO1pI"
+      },
+      "artists": [
+        {
+          "name": "Frost Fir3",
+          "url": "https://open.spotify.com/artist/0mU0Nzf3KoQ5D7718toQjh"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260129,
+      "name": "S.W.Y.S.",
+      "url": "https://open.spotify.com/track/02BqgzK1PCypW1AbUzqscT"
+    },
+    {
+      "album": {
         "name": "Sahara",
         "url": "https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa"
       },
@@ -3987,7 +4183,7 @@
     },
     {
       "album": {
-        "name": "Happy For Her",
+        "name": "Xenna",
         "url": "https://open.spotify.com/album/2bA82XnXDnyLcLtSRn4Kkh"
       },
       "artists": [
@@ -4042,7 +4238,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 83076,
       "name": "SHINIGAMI",
       "url": "https://open.spotify.com/track/7fNUE6VE2cj7cyaYD2o1xC"
@@ -4220,7 +4416,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 172548,
       "name": "SO TIRED",
       "url": "https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs"
@@ -4362,6 +4558,28 @@
       "duration_ms": 157032,
       "name": "South Beach",
       "url": "https://open.spotify.com/track/1MHE7zMr9iSvlMUXPppiA6"
+    },
+    {
+      "album": {
+        "name": "Spiderman Theme Phonk",
+        "url": "https://open.spotify.com/album/0LQQ5MeeVYHkhdE1R9Qsfc"
+      },
+      "artists": [
+        {
+          "name": "Jolixwery",
+          "url": "https://open.spotify.com/artist/1OZskXcIcGU2L0RamW7Xa0"
+        },
+        {
+          "name": "TSERATO",
+          "url": "https://open.spotify.com/artist/6b0bz6ejXgOnB2Wz9DaAXC"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99005,
+      "name": "Spiderman Theme Phonk",
+      "url": "https://open.spotify.com/track/0DSdoGArpea9TzBcLhQZFR"
     },
     {
       "album": {
@@ -4612,7 +4830,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 133999,
       "name": "Tesla",
       "url": "https://open.spotify.com/track/4y2MBx0WKentE8pHFa52RU"
@@ -4691,6 +4909,24 @@
     },
     {
       "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/3YSWBkLGpl1yNXpNdH7ira"
+      },
+      "artists": [
+        {
+          "name": "Laika Beats",
+          "url": "https://open.spotify.com/artist/4R6u30PMOLbNNTuR0Jl7x8"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/4eVULSYuhUqFwytpZt0h6w"
+    },
+    {
+      "album": {
         "name": "The Runaways",
         "url": "https://open.spotify.com/album/5GqVw2ssi0DTV1znSBr5Ok"
       },
@@ -4702,7 +4938,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 177000,
       "name": "The Runaways",
       "url": "https://open.spotify.com/track/7oG8KZVUvBBA1oMNpbpDmZ"
@@ -4915,6 +5151,28 @@
     },
     {
       "album": {
+        "name": "VUKI VUKI",
+        "url": "https://open.spotify.com/album/41DQ6bas0oM8S5Pw48EBoi"
+      },
+      "artists": [
+        {
+          "name": "Shipu",
+          "url": "https://open.spotify.com/artist/6SpI2wmQicP9Xhu90lBMqp"
+        },
+        {
+          "name": "Flame Runner",
+          "url": "https://open.spotify.com/artist/5bePP411ITzZyWf1QZ2SX4"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85860,
+      "name": "VUKI VUKI",
+      "url": "https://open.spotify.com/track/6brF96MKTqMuw7ss0iqAxM"
+    },
+    {
+      "album": {
         "name": "W8N",
         "url": "https://open.spotify.com/album/6YjwvdaHC455GtN27fD0Is"
       },
@@ -5020,7 +5278,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 148300,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/2Otlxg84Ruv9rPKermxpWq"
@@ -5096,6 +5354,24 @@
       "duration_ms": 165000,
       "name": "Why Not",
       "url": "https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP"
+    },
+    {
+      "album": {
+        "name": "Why Not II",
+        "url": "https://open.spotify.com/album/0cUR4LZr5yKpuiCGCiQdgQ"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Playa",
+          "url": "https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Why Not II",
+      "url": "https://open.spotify.com/track/0zh8sFFJWW3NIOerhSIi3z"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Silas Magalh\u00e3es",
-  "num_followers": 135406,
+  "num_followers": 135613,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzIxNWZjYmI2NTA5ZTUxOGFkNzdjZWJlYzgxYjY4Y2IyMzI4ZjQw",
+  "snapshot_id": "MCwxNGQ3ZjFhNzc1YmVhOWM0NDA1YmQzZjE5ZjU2OGNiNzVhOTRiMDZh",
   "tracks": [
     {
       "added_at": "2023-08-04 16:55:15",
@@ -335,18 +335,30 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "Paracetamol (Divisa de Fogo)",
-        "url": "https://open.spotify.com/album/0xgEt4c2aFETYetdlnhLRh"
+        "name": "Metas e Versos (feat. Brunno Ramos)",
+        "url": "https://open.spotify.com/album/1lvWIINLaBBYpz419bFlF0"
       },
       "artists": [
         {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Zack Vox",
+          "url": "https://open.spotify.com/artist/0y7p9FFFrFIHUfSgaeF9hR"
+        },
+        {
+          "name": "Gabriel Bulian",
+          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
+        },
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         }
       ],
-      "duration_ms": 161701,
-      "name": "Paracetamol (Divisa de Fogo)",
-      "url": "https://open.spotify.com/track/1nFbOSGxJ0d2fpjNv4nnSJ"
+      "duration_ms": 203081,
+      "name": "Metas e Versos (feat. Brunno Ramos)",
+      "url": "https://open.spotify.com/track/1Doa0Lxwyy3t5VXTVZFR9F"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -383,30 +395,22 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "Metas e Versos (feat. Brunno Ramos)",
-        "url": "https://open.spotify.com/album/1lvWIINLaBBYpz419bFlF0"
+        "name": "Marionete",
+        "url": "https://open.spotify.com/album/3DcgcAD8wTEoJHmw0MzxCR"
       },
       "artists": [
         {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
         },
         {
-          "name": "Zack Vox",
-          "url": "https://open.spotify.com/artist/0y7p9FFFrFIHUfSgaeF9hR"
-        },
-        {
-          "name": "Gabriel Bulian",
-          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
-        },
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+          "name": "SAMU\u00c9U",
+          "url": "https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7"
         }
       ],
-      "duration_ms": 203081,
-      "name": "Metas e Versos (feat. Brunno Ramos)",
-      "url": "https://open.spotify.com/track/1Doa0Lxwyy3t5VXTVZFR9F"
+      "duration_ms": 186245,
+      "name": "Marionete",
+      "url": "https://open.spotify.com/track/6iLc4yNtzMLvzjTYcykOdg"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -503,26 +507,6 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "Marionete",
-        "url": "https://open.spotify.com/album/3DcgcAD8wTEoJHmw0MzxCR"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "SAMU\u00c9U",
-          "url": "https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7"
-        }
-      ],
-      "duration_ms": 186245,
-      "name": "Marionete",
-      "url": "https://open.spotify.com/track/6iLc4yNtzMLvzjTYcykOdg"
-    },
-    {
-      "added_at": "2023-08-04 16:55:15",
-      "album": {
         "name": "Mulher de F\u00e9",
         "url": "https://open.spotify.com/album/0IT2j6KDkwBEQdT9qkXZpi"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 130369,
       "name": "Mulher de F\u00e9",
       "url": "https://open.spotify.com/track/1gTlbwHRrkbZNUsJcxME1i"
+    },
+    {
+      "added_at": "2023-08-04 16:55:15",
+      "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 160062,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/3Epqbk8U4pWZRxQNlaP3Vc"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63"
+        "name": "Ju\u00edzo Final",
+        "url": "https://open.spotify.com/album/6vn7pXMOSJHxTwUYkfNNOf"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
         }
       ],
-      "duration_ms": 160062,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/3Epqbk8U4pWZRxQNlaP3Vc"
+      "duration_ms": 149576,
+      "name": "Ju\u00edzo Final",
+      "url": "https://open.spotify.com/track/7tyML8BrEAJJlYWXCrAr0D"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -683,38 +683,6 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "Fim de Tarde",
-        "url": "https://open.spotify.com/album/4u1HeTOJKX0y3OAA3GNKKh"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 138517,
-      "name": "Fim de Tarde",
-      "url": "https://open.spotify.com/track/0mC0afeTT4kuc0Lrqzhe3I"
-    },
-    {
-      "added_at": "2023-08-04 16:55:15",
-      "album": {
-        "name": "Ju\u00edzo Final",
-        "url": "https://open.spotify.com/album/6vn7pXMOSJHxTwUYkfNNOf"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        }
-      ],
-      "duration_ms": 149576,
-      "name": "Ju\u00edzo Final",
-      "url": "https://open.spotify.com/track/7tyML8BrEAJJlYWXCrAr0D"
-    },
-    {
-      "added_at": "2023-08-04 16:55:15",
-      "album": {
         "name": "Voc\u00ea Acredita?",
         "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
       },
@@ -727,22 +695,6 @@
       "duration_ms": 194623,
       "name": "Voc\u00ea Acredita?",
       "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
-    },
-    {
-      "added_at": "2023-08-04 16:55:15",
-      "album": {
-        "name": "Vale da Sombra",
-        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Vale da Sombra",
-      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -779,18 +731,34 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "J\u00e1 Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/0Lxd7fr37TkujRxiMBE4LQ"
+        "name": "Fim de Tarde",
+        "url": "https://open.spotify.com/album/4u1HeTOJKX0y3OAA3GNKKh"
       },
       "artists": [
         {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
         }
       ],
-      "duration_ms": 200816,
-      "name": "J\u00e1 Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL"
+      "duration_ms": 138517,
+      "name": "Fim de Tarde",
+      "url": "https://open.spotify.com/track/0mC0afeTT4kuc0Lrqzhe3I"
+    },
+    {
+      "added_at": "2023-08-04 16:55:15",
+      "album": {
+        "name": "Vale da Sombra",
+        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Vale da Sombra",
+      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -815,6 +783,22 @@
       "duration_ms": 228668,
       "name": "Olho pro C\u00e9u",
       "url": "https://open.spotify.com/track/5m4DYDaq07W0o2dIYGik0S"
+    },
+    {
+      "added_at": "2023-08-04 16:55:15",
+      "album": {
+        "name": "J\u00e1 Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/0Lxd7fr37TkujRxiMBE4LQ"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "J\u00e1 Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -855,26 +839,6 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "Labirinto",
-        "url": "https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        },
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 217272,
-      "name": "Labirinto",
-      "url": "https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN"
-    },
-    {
-      "added_at": "2023-08-04 16:55:15",
-      "album": {
         "name": "Imersum",
         "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
       },
@@ -907,6 +871,22 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
+        "name": "Romanos 3: 24",
+        "url": "https://open.spotify.com/album/4zglNpaYV8KryBUTDv9YTq"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Pompeo",
+          "url": "https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4"
+        }
+      ],
+      "duration_ms": 126216,
+      "name": "Romanos 3: 24",
+      "url": "https://open.spotify.com/track/1BktyXmllWajvP7fP2b1Xd"
+    },
+    {
+      "added_at": "2023-08-04 16:55:15",
+      "album": {
         "name": "Teste",
         "url": "https://open.spotify.com/album/3WywysC8VS5EfAnv8jTFoi"
       },
@@ -923,18 +903,38 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "Romanos 3: 24",
-        "url": "https://open.spotify.com/album/4zglNpaYV8KryBUTDv9YTq"
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW"
       },
       "artists": [
         {
-          "name": "Gabriel Pompeo",
-          "url": "https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
         }
       ],
-      "duration_ms": 126216,
-      "name": "Romanos 3: 24",
-      "url": "https://open.spotify.com/track/1BktyXmllWajvP7fP2b1Xd"
+      "duration_ms": 217272,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN"
+    },
+    {
+      "added_at": "2023-08-04 16:55:15",
+      "album": {
+        "name": "Filho Pr\u00f3digo",
+        "url": "https://open.spotify.com/album/71SgkTXW7JdBhSC144nlOP"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "duration_ms": 114580,
+      "name": "Filho Pr\u00f3digo",
+      "url": "https://open.spotify.com/track/7t8kUYD03BGHvQNBZFEiud"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "Filho Pr\u00f3digo",
-        "url": "https://open.spotify.com/album/71SgkTXW7JdBhSC144nlOP"
-      },
-      "artists": [
-        {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
-        }
-      ],
-      "duration_ms": 114580,
-      "name": "Filho Pr\u00f3digo",
-      "url": "https://open.spotify.com/track/7t8kUYD03BGHvQNBZFEiud"
-    },
-    {
-      "added_at": "2023-08-04 16:55:15",
-      "album": {
         "name": "Esperan\u00e7a para o Perdido",
         "url": "https://open.spotify.com/album/4ooKIy2sW48ccw5QMIh92Q"
       },
@@ -1003,38 +987,6 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "E F\u00e9",
-        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 153400,
-      "name": "E F\u00e9",
-      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
-    },
-    {
-      "added_at": "2023-08-04 16:55:15",
-      "album": {
-        "name": "Nome Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "Nome Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
-    },
-    {
-      "added_at": "2023-08-04 16:55:15",
-      "album": {
         "name": "Doming\u00e3o",
         "url": "https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v"
       },
@@ -1055,6 +1007,22 @@
       "duration_ms": 143114,
       "name": "Doming\u00e3o",
       "url": "https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1"
+    },
+    {
+      "added_at": "2023-08-04 16:55:15",
+      "album": {
+        "name": "E F\u00e9",
+        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "E F\u00e9",
+      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -1099,22 +1067,6 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "Morada de Deus",
-        "url": "https://open.spotify.com/album/4TfiTRoOANsqNl8LdjWrpJ"
-      },
-      "artists": [
-        {
-          "name": "Israel Rapper",
-          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
-        }
-      ],
-      "duration_ms": 223134,
-      "name": "Morada de Deus",
-      "url": "https://open.spotify.com/track/14LYGtg9GRl16qB0EILfFB"
-    },
-    {
-      "added_at": "2023-08-04 16:55:15",
-      "album": {
         "name": "Deserto",
         "url": "https://open.spotify.com/album/0MF14iNYICi1Lkn7yZYlZh"
       },
@@ -1135,6 +1087,38 @@
       "duration_ms": 209142,
       "name": "Deserto",
       "url": "https://open.spotify.com/track/4RAeUonVKVHJVosv2j0eyU"
+    },
+    {
+      "added_at": "2023-08-04 16:55:15",
+      "album": {
+        "name": "Nome Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "Nome Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
+    },
+    {
+      "added_at": "2023-08-04 16:55:15",
+      "album": {
+        "name": "Morada de Deus",
+        "url": "https://open.spotify.com/album/4TfiTRoOANsqNl8LdjWrpJ"
+      },
+      "artists": [
+        {
+          "name": "Israel Rapper",
+          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
+        }
+      ],
+      "duration_ms": 223134,
+      "name": "Morada de Deus",
+      "url": "https://open.spotify.com/track/14LYGtg9GRl16qB0EILfFB"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -1215,22 +1199,6 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "Notas de um Cora\u00e7\u00e3o Amado",
-        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133653,
-      "name": "Al\u00e9m",
-      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
-    },
-    {
-      "added_at": "2023-08-04 16:55:15",
-      "album": {
         "name": "S\u00f3 H\u00e1 Um Caminho",
         "url": "https://open.spotify.com/album/2eJwM4Rq2mew0WUf7yCGOU"
       },
@@ -1243,6 +1211,22 @@
       "duration_ms": 162468,
       "name": "S\u00f3 H\u00e1 Um Caminho",
       "url": "https://open.spotify.com/track/3o6wlch2Ok0u8cwuHC1Jyq"
+    },
+    {
+      "added_at": "2023-08-04 16:55:15",
+      "album": {
+        "name": "Notas de um Cora\u00e7\u00e3o Amado",
+        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133653,
+      "name": "Al\u00e9m",
+      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -1283,22 +1267,26 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "Harpa Crist\u00e3 (Speed Up)",
-        "url": "https://open.spotify.com/album/5C4XxYQqu5FWpuC6koFYPq"
+        "name": "Yeshua Vive",
+        "url": "https://open.spotify.com/album/1NwiBJNm8km14gI5PuYfdI"
       },
       "artists": [
         {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
         },
         {
-          "name": "Guimar\u00e3es Beats",
-          "url": "https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo"
+          "name": "RAFUZ",
+          "url": "https://open.spotify.com/artist/1rwUnPhgywcnB4BsAHqFTF"
+        },
+        {
+          "name": "MATXS",
+          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
         }
       ],
-      "duration_ms": 116829,
-      "name": "Em Fervente Ora\u00e7\u00e3o - Speed Up",
-      "url": "https://open.spotify.com/track/2gryPafEVutE9BsfoioJqG"
+      "duration_ms": 212057,
+      "name": "Yeshua Vive",
+      "url": "https://open.spotify.com/track/5N6onJmQDASt4PCeTUCidY"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -1319,6 +1307,26 @@
       "duration_ms": 218342,
       "name": "Senhor",
       "url": "https://open.spotify.com/track/1NpZVpj7w67md1P8p47MBA"
+    },
+    {
+      "added_at": "2023-08-04 16:55:15",
+      "album": {
+        "name": "Harpa Crist\u00e3 (Speed Up)",
+        "url": "https://open.spotify.com/album/5C4XxYQqu5FWpuC6koFYPq"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "Guimar\u00e3es Beats",
+          "url": "https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo"
+        }
+      ],
+      "duration_ms": 116829,
+      "name": "Em Fervente Ora\u00e7\u00e3o - Speed Up",
+      "url": "https://open.spotify.com/track/2gryPafEVutE9BsfoioJqG"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -1347,30 +1355,6 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "Yeshua Vive",
-        "url": "https://open.spotify.com/album/1NwiBJNm8km14gI5PuYfdI"
-      },
-      "artists": [
-        {
-          "name": "Boanerges",
-          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
-        },
-        {
-          "name": "RAFUZ",
-          "url": "https://open.spotify.com/artist/1rwUnPhgywcnB4BsAHqFTF"
-        },
-        {
-          "name": "MATXS",
-          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
-        }
-      ],
-      "duration_ms": 212057,
-      "name": "Yeshua Vive",
-      "url": "https://open.spotify.com/track/5N6onJmQDASt4PCeTUCidY"
-    },
-    {
-      "added_at": "2023-08-04 16:55:15",
-      "album": {
         "name": "777 na Mente",
         "url": "https://open.spotify.com/album/03yWHI8We0NZAfknyQJ0qT"
       },
@@ -1383,22 +1367,6 @@
       "duration_ms": 165899,
       "name": "777 na Mente",
       "url": "https://open.spotify.com/track/0aSkRNhaDky7FO13Z13hGb"
-    },
-    {
-      "added_at": "2023-08-04 16:55:15",
-      "album": {
-        "name": "LEVANTEI",
-        "url": "https://open.spotify.com/album/5D0HWVh3UxAINA8xFbYWfc"
-      },
-      "artists": [
-        {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "LEVANTEI",
-      "url": "https://open.spotify.com/track/4z3a6NJ7VGjSywAoXMKfk4"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -1423,6 +1391,38 @@
       "duration_ms": 132800,
       "name": "Voz do Senhor",
       "url": "https://open.spotify.com/track/4dPKrzz5kzThp7UQv51BLh"
+    },
+    {
+      "added_at": "2023-08-04 16:55:15",
+      "album": {
+        "name": "LEVANTEI",
+        "url": "https://open.spotify.com/album/5D0HWVh3UxAINA8xFbYWfc"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "LEVANTEI",
+      "url": "https://open.spotify.com/track/4z3a6NJ7VGjSywAoXMKfk4"
+    },
+    {
+      "added_at": "2023-08-04 16:55:15",
+      "album": {
+        "name": "Paracetamol (Divisa de Fogo)",
+        "url": "https://open.spotify.com/album/4Bpp2LO4aQInjYsDnn6vfQ"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        }
+      ],
+      "duration_ms": 161701,
+      "name": "Paracetamol (Divisa de Fogo)",
+      "url": "https://open.spotify.com/track/5uazbSDG1BgLf8EMJypfNq"
     },
     {
       "added_at": "2023-08-04 16:55:15",

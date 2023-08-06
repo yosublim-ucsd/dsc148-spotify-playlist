@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,164 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,236 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
 | 125 | [Tidal Wave](https://open.spotify.com/track/6batG48NWXXFdB9k6V2pK2) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Tidal Wave](https://open.spotify.com/album/5AVyDFH7uijN9sXikqMzIT) | 3:49 |
 
-Snapshot ID: `MCwyN2RlYzBkZjQ4ZThjZmRjMDgxYzViZmVlNjBkMjE3YjQ1ZjNjMTcy`
+Snapshot ID: `MCxiZTdlNjdiMGViNmFmOThjOWZiZjRiZDM0YjYxNjRlZjZiNWZkMWQw`

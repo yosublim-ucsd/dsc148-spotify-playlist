@@ -1,28 +1,36 @@
 {
   "description": "alternative meets electronic Cover: Layto",
-  "num_followers": 455578,
+  "num_followers": 455690,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTE1M2YwNTNkMzY3MzFiNmNmZTg2N2NhZWIwNTk5YTBlMWY0MDY0",
+  "snapshot_id": "MCxhOWE0ZWRhNWNlNzhmYmFmYjRiNGM2ODRmODljZmMwMjM3NmM5NWYy",
   "tracks": [
     {
-      "added_at": "2023-07-27 22:18:39",
+      "added_at": "2023-08-05 06:27:47",
       "album": {
-        "name": "When You & Me Dance",
-        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
+        "name": "Ticking Away",
+        "url": "https://open.spotify.com/album/2CNm7QxoOSkqawLMnoepZB"
       },
       "artists": [
         {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
           "name": "Grabbitz",
           "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        },
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
         }
       ],
-      "duration_ms": 221142,
-      "name": "When You & Me Dance",
-      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
+      "duration_ms": 205270,
+      "name": "Ticking Away",
+      "url": "https://open.spotify.com/track/4bdzlt280luOgFi0ZlkTvR"
     },
     {
       "added_at": "2023-07-27 22:18:39",
@@ -947,22 +955,6 @@
     {
       "added_at": "2023-07-27 22:18:39",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/6HileZpU7Zc2ybr3fLX8Xg"
-      },
-      "artists": [
-        {
-          "name": "Rosenfeld",
-          "url": "https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg"
-        }
-      ],
-      "duration_ms": 138946,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/2wjUXJaPHgzBaCMnSzOjwH"
-    },
-    {
-      "added_at": "2023-07-27 22:18:39",
-      "album": {
         "name": "Hello Sunshine",
         "url": "https://open.spotify.com/album/5R3R5lGNcVmNXdDFljZzud"
       },
@@ -979,18 +971,18 @@
     {
       "added_at": "2023-07-27 22:18:39",
       "album": {
-        "name": "A R I Z O N A",
-        "url": "https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6HileZpU7Zc2ybr3fLX8Xg"
       },
       "artists": [
         {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+          "name": "Rosenfeld",
+          "url": "https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg"
         }
       ],
-      "duration_ms": 195735,
-      "name": "Die For A Night",
-      "url": "https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01"
+      "duration_ms": 138946,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/2wjUXJaPHgzBaCMnSzOjwH"
     },
     {
       "added_at": "2023-07-27 22:18:39",
@@ -1023,6 +1015,22 @@
       "duration_ms": 163492,
       "name": "One Night",
       "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
+    },
+    {
+      "added_at": "2023-07-27 22:18:39",
+      "album": {
+        "name": "A R I Z O N A",
+        "url": "https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 195735,
+      "name": "Die For A Night",
+      "url": "https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01"
     },
     {
       "added_at": "2023-07-27 22:18:39",
@@ -1095,6 +1103,22 @@
     {
       "added_at": "2023-07-27 22:18:39",
       "album": {
+        "name": "Max Maco Is Dead Right?",
+        "url": "https://open.spotify.com/album/6wPnQigsvCXa5LrMfEuU6K"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/4r05ev9hIFnjWUkzJGMu46"
+    },
+    {
+      "added_at": "2023-07-27 22:18:39",
+      "album": {
         "name": "Weak In Your Light",
         "url": "https://open.spotify.com/album/7jEMFyVOSHEDt307mMeOM1"
       },
@@ -1107,6 +1131,22 @@
       "duration_ms": 255438,
       "name": "Weak In Your Light",
       "url": "https://open.spotify.com/track/59NJzV28kIjaPVqnkEX55V"
+    },
+    {
+      "added_at": "2023-07-27 22:18:39",
+      "album": {
+        "name": "When You & Me Dance",
+        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "When You & Me Dance",
+      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
     },
     {
       "added_at": "2023-07-27 22:18:39",
@@ -1127,22 +1167,6 @@
       "duration_ms": 156225,
       "name": "fall apart (with glaive)",
       "url": "https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN"
-    },
-    {
-      "added_at": "2023-07-27 22:18:39",
-      "album": {
-        "name": "Max Maco Is Dead Right?",
-        "url": "https://open.spotify.com/album/6wPnQigsvCXa5LrMfEuU6K"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "Flatline",
-      "url": "https://open.spotify.com/track/4r05ev9hIFnjWUkzJGMu46"
     },
     {
       "added_at": "2023-07-27 22:18:39",
@@ -1283,6 +1307,22 @@
     {
       "added_at": "2023-07-27 22:18:39",
       "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy"
+      },
+      "artists": [
+        {
+          "name": "Sir Sly",
+          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
+        }
+      ],
+      "duration_ms": 131440,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/5GbK9am1svakX356ltRPcm"
+    },
+    {
+      "added_at": "2023-07-27 22:18:39",
+      "album": {
         "name": "Heavenly Side",
         "url": "https://open.spotify.com/album/5zboD55XbkrZ3JJkvXC2EE"
       },
@@ -1323,22 +1363,6 @@
       "duration_ms": 171428,
       "name": "Crown",
       "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
-    },
-    {
-      "added_at": "2023-07-27 22:18:39",
-      "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy"
-      },
-      "artists": [
-        {
-          "name": "Sir Sly",
-          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
-        }
-      ],
-      "duration_ms": 131440,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/5GbK9am1svakX356ltRPcm"
     },
     {
       "added_at": "2023-07-27 22:18:39",
@@ -1415,22 +1439,6 @@
     {
       "added_at": "2023-07-27 22:18:39",
       "album": {
-        "name": "Death Of A Fantasy",
-        "url": "https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic"
-      },
-      "artists": [
-        {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
-        }
-      ],
-      "duration_ms": 133186,
-      "name": "THERAPY!",
-      "url": "https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V"
-    },
-    {
-      "added_at": "2023-07-27 22:18:39",
-      "album": {
         "name": "A Change of Perspective (Deluxe)",
         "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
       },
@@ -1451,22 +1459,18 @@
     {
       "added_at": "2023-07-27 22:18:39",
       "album": {
-        "name": "DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)",
-        "url": "https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3"
+        "name": "Death Of A Fantasy",
+        "url": "https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic"
       },
       "artists": [
         {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        },
-        {
-          "name": "Death Stranding: Timefall",
-          "url": "https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4"
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
         }
       ],
-      "duration_ms": 189920,
-      "name": "Sing To Me",
-      "url": "https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh"
+      "duration_ms": 133186,
+      "name": "THERAPY!",
+      "url": "https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V"
     },
     {
       "added_at": "2023-07-27 22:18:39",
@@ -1499,6 +1503,26 @@
       "duration_ms": 231851,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd"
+    },
+    {
+      "added_at": "2023-07-27 22:18:39",
+      "album": {
+        "name": "DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)",
+        "url": "https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        },
+        {
+          "name": "Death Stranding: Timefall",
+          "url": "https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4"
+        }
+      ],
+      "duration_ms": 189920,
+      "name": "Sing To Me",
+      "url": "https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh"
     },
     {
       "added_at": "2023-07-27 22:18:39",
@@ -1567,6 +1591,22 @@
     {
       "added_at": "2023-07-27 22:18:39",
       "album": {
+        "name": "deadly ever after",
+        "url": "https://open.spotify.com/album/257JMntLr2vKOG3esYNkdK"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "engravings",
+      "url": "https://open.spotify.com/track/47FdoVKyPNFnrWlj10Jx4z"
+    },
+    {
+      "added_at": "2023-07-27 22:18:39",
+      "album": {
         "name": "NAILS (feat. Missy Elliott)",
         "url": "https://open.spotify.com/album/250tsczCTKdauTN2QJgak4"
       },
@@ -1583,22 +1623,6 @@
       "duration_ms": 171750,
       "name": "NAILS (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/318MngwqDyMYOzhDcZkUoq"
-    },
-    {
-      "added_at": "2023-07-27 22:18:39",
-      "album": {
-        "name": "deadly ever after",
-        "url": "https://open.spotify.com/album/257JMntLr2vKOG3esYNkdK"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "engravings",
-      "url": "https://open.spotify.com/track/47FdoVKyPNFnrWlj10Jx4z"
     },
     {
       "added_at": "2023-07-27 22:18:39",
@@ -1791,22 +1815,6 @@
       "duration_ms": 219789,
       "name": "come around",
       "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
-    },
-    {
-      "added_at": "2023-07-27 22:18:39",
-      "album": {
-        "name": "Failed at Math(s)",
-        "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
-      },
-      "artists": [
-        {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        }
-      ],
-      "duration_ms": 222105,
-      "name": "Portraits",
-      "url": "https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W"
     },
     {
       "added_at": "2023-07-27 22:18:39",

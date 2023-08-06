@@ -4,12 +4,13 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-230 songs - 14 hr 5 min
+231 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+ 1 Minuto](https://open.spotify.com/track/7zVRqZzUEFIfjjNxZxyoLN) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [+ 1 Minuto](https://open.spotify.com/album/4bXR0Lwwu4EbvNWvPDeY0V) | 2:52 | 2022-03-21 | 2022-07-24 |
 | [+ 1 Minuto](https://open.spotify.com/track/31UbXsSRMDhTnue6NAw22i) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Amanhã](https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq) | 2:52 | 2022-07-22 |  |
+| [15b](https://open.spotify.com/track/2w6VBGVuYOJe8oo4YXBEf4) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [15b](https://open.spotify.com/album/0ZhVogkbSisiDQ5DMfNsRc) | 2:41 | 2023-07-07 |  |
 | [15b](https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [15b](https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir) | 2:43 | 2022-02-04 | 2023-08-02 |
 | [20ver](https://open.spotify.com/track/7tiqfQ8TSYiRah8puEJ02l) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [20ver](https://open.spotify.com/album/4frgcxPlRSRLufWtPpjRUu) | 3:18 | 2022-02-04 | 2022-07-28 |
 | [A Coisa Tá Preta](https://open.spotify.com/track/5DskXnnlENZltwmHdKU2IP) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [A Coisa Tá Preta](https://open.spotify.com/album/1MrQgA0SlpsrGXj5JyHVyO) | 3:01 | 2022-02-04 | 2022-07-25 |
@@ -64,7 +65,7 @@
 | [Casa de Rainha](https://open.spotify.com/track/1IVWmTRwsQ26NZaZRJBzeQ) | [Jana Linhares](https://open.spotify.com/artist/77u8LWH7M6Q4Zlj1XaDdTB), [Ilya](https://open.spotify.com/artist/49O2UcGOyDqSyG68AsBs4t) | [Casa de Rainha](https://open.spotify.com/album/2CcOFEG5xtqUyYz5oBttsJ) | 3:43 | 2022-02-04 | 2022-07-29 |
 | [Chiaroscuro](https://open.spotify.com/track/0iBrVpfKq4r2XknTgrAhXi) | [Ina Magdala](https://open.spotify.com/artist/77b9EH7qYCrmbjrwBNaM5r) | [Chiaroscuro](https://open.spotify.com/album/1J35JnrGiEsvWtSsi28jRt) | 2:58 | 2022-03-22 | 2022-07-10 |
 | [Chora Pra Ver Como É](https://open.spotify.com/track/1AVP6stez9yP6UUBVejcda) | [O Sal](https://open.spotify.com/artist/4Unl4daavawO8JikEhYaWf) | [Chora Pra Ver Como É](https://open.spotify.com/album/1bOzgMlaHNqngd89O48g7u) | 6:41 | 2022-02-04 | 2022-07-26 |
-| [Chororô](https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:29 | 2022-02-04 |  |
+| [Chororô](https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:29 | 2022-02-04 | 2023-08-06 |
 | [CHUVA](https://open.spotify.com/track/5AmJktSakS5ylLbH1eSch0) | [Vitor Santana](https://open.spotify.com/artist/55SGl5TD6wQPQC1vfDiT4h), [Mariana Nunes](https://open.spotify.com/artist/1QncCJuv8b2wtCvB2w6XPm) | [CHUVA](https://open.spotify.com/album/1hOM5AcF4BzqtAVb305nSu) | 3:36 | 2022-03-14 | 2022-07-29 |
 | [Cine Odeon](https://open.spotify.com/track/3dhkyXQt5Uqd46ELRN2YsU) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA) | [Cine Odeon](https://open.spotify.com/album/4VlLZDtiIZoXoosJUMCGc8) | 2:30 | 2022-02-04 | 2022-07-28 |
 | [Clima](https://open.spotify.com/track/4XSDJvys3RLKlvcIPiflyH) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Clima](https://open.spotify.com/album/7wGRF9bDQkQReBhrnx346G) | 3:36 | 2023-01-13 | 2023-06-10 |

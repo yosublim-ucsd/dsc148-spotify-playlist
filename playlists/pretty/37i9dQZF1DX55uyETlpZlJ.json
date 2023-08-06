@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All OK",
-  "num_followers": 22380,
+  "num_followers": 22390,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmY1NTBiZTI3MjViMTMxZGNhZDY1Y2UyM2JmY2VjYTBmODA0ODQw",
+  "snapshot_id": "MCxmMzJhNDIxYjIyYjc4MmU2OWIzM2FjNjkxZjg1NDM2ODE5ZDgxODEz",
   "tracks": [
     {
       "added_at": "2023-07-20 14:31:09",
@@ -163,6 +163,26 @@
       "duration_ms": 185309,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/09ECyJMbdmo1i1Lq7yxArW"
+    },
+    {
+      "added_at": "2023-08-05 17:44:16",
+      "album": {
+        "name": "Kanmaniye",
+        "url": "https://open.spotify.com/album/40I6bsgUWOe19iiJkNDlbL"
+      },
+      "artists": [
+        {
+          "name": "K P Milan Kumar",
+          "url": "https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ"
+        },
+        {
+          "name": "Chaithra Ganiga",
+          "url": "https://open.spotify.com/artist/19MiECEeL27gGfhbyxRfEK"
+        }
+      ],
+      "duration_ms": 269489,
+      "name": "Kanmaniye",
+      "url": "https://open.spotify.com/track/3qm6n1CpNTb3OllQZpI2db"
     },
     {
       "added_at": "2023-07-24 06:32:12",
@@ -1455,26 +1475,6 @@
       "duration_ms": 210484,
       "name": "Barede Na",
       "url": "https://open.spotify.com/track/1GiJHRuSGenOtOaTCD4qIJ"
-    },
-    {
-      "added_at": "2022-09-16 05:20:30",
-      "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1RkCyQuBZqB9RbHUOouEJL"
-      },
-      "artists": [
-        {
-          "name": "Karna",
-          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
-        },
-        {
-          "name": "Dheemusix",
-          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
-        }
-      ],
-      "duration_ms": 176810,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/1OgAf9ByjzHnZ23Ydy8RU4"
     }
   ],
   "unique_name": "Kannada Indie",

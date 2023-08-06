@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 95209,
+  "num_followers": 95332,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGViNjlkZWUzNTZjMzMyY2Y0NzE1ZDM0MGMwN2YwN2VkODI5YzM3",
+  "snapshot_id": "MCw5MWM0ZjQ0OGY3NWQ0MTRhN2I5NzdhOWFjMTIyOWU5ZjMzNTgzZDdh",
   "tracks": [
     {
       "added_at": "2023-06-09 14:58:01",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 297160,
-      "name": "Lenny",
-      "url": "https://open.spotify.com/track/1MIDCw2NTW3Dtn9c6ohSC8"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Midnight Blue",
         "url": "https://open.spotify.com/album/3eE5mAeyPFKkOfqmvMY3UL"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 425786,
       "name": "Kiss Of Death",
       "url": "https://open.spotify.com/track/7cOzgDiU8MLB8IkK1RsWn1"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 297160,
+      "name": "Lenny",
+      "url": "https://open.spotify.com/track/1MIDCw2NTW3Dtn9c6ohSC8"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 418880,
-      "name": "Rememberin' Stevie",
-      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Heavy Load Blues",
         "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 336333,
       "name": "Ain\u2019t No Love In The Heart Of The City",
       "url": "https://open.spotify.com/track/2h8nq99nTZQk9H4B63QjVn"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 418880,
+      "name": "Rememberin' Stevie",
+      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "As Good As It Gets",
-        "url": "https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 338373,
-      "name": "One Room Country Shack",
-      "url": "https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Good Luck Man",
         "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 428266,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "As Good As It Gets",
+        "url": "https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 338373,
+      "name": "One Room Country Shack",
+      "url": "https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Major League Blues",
-        "url": "https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN"
-      },
-      "artists": [
-        {
-          "name": "Jose Ramirez",
-          "url": "https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Here in the Delta",
-      "url": "https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "In Europe",
         "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 330733,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/14DtWZA10VU7PZLxM5vO6g"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Major League Blues",
+        "url": "https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN"
+      },
+      "artists": [
+        {
+          "name": "Jose Ramirez",
+          "url": "https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Here in the Delta",
+      "url": "https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Wish Her Well",
-        "url": "https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c"
-      },
-      "artists": [
-        {
-          "name": "Emma Wilson",
-          "url": "https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2"
-        }
-      ],
-      "duration_ms": 263037,
-      "name": "Wish Her Well",
-      "url": "https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Sings Bessie Smith",
         "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 186000,
       "name": "That Evening Train - Remastered 2022",
       "url": "https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Wish Her Well",
+        "url": "https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c"
+      },
+      "artists": [
+        {
+          "name": "Emma Wilson",
+          "url": "https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2"
+        }
+      ],
+      "duration_ms": 263037,
+      "name": "Wish Her Well",
+      "url": "https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB"
     },
     {
       "added_at": "2023-06-09 14:58:01",

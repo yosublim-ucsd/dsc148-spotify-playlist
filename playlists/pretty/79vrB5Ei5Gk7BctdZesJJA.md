@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- Guest curator: Brian Audley from Incendiary! \(New guest curator every 2 weeks\)
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,528 likes - 28 songs - 1 hr 37 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,533 likes - 28 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 | 7 | [LongShortCut](https://open.spotify.com/track/1AQg8v90ktS13tPXiZbH98) | [C.R.](https://open.spotify.com/artist/2Hzt2x4rknHjpHRmJfM0Lk) | [Forty Six Songs](https://open.spotify.com/album/5ZKoabkN9c3l8JR68Vks2r) | 1:49 |
 | 8 | [You Think You're \(John Fucking Lennon\)](https://open.spotify.com/track/09VDpaucF3nSyTznLePzI7) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 5:16 |
 | 9 | […Shall Be Judged](https://open.spotify.com/track/63tjhtYmFWgZPbG7ddSPPD) | [Burn](https://open.spotify.com/artist/3iYk6FHhF5Op7mmVC8vaHc) | [Burn](https://open.spotify.com/album/7ExjOyaQ3uYtQfpjUYSoRX) | 2:19 |
-| 10 | [Blast Furnace](https://open.spotify.com/track/27i3SiwCNk3RPA43N5GstY) | [Fugitive](https://open.spotify.com/artist/5Gn20zEvjiNUyQUIaItAlL) | [Blast Furnace b/w Standoff](https://open.spotify.com/album/0zIPyWb6TUrV8ZFUfC5dwZ) | 4:46 |
+| 10 | [Blast Furnace](https://open.spotify.com/track/27i3SiwCNk3RPA43N5GstY) | [Fugitive](https://open.spotify.com/artist/5Gn20zEvjiNUyQUIaItAlL) | [Blast Furnace b/w Standoff](https://open.spotify.com/album/0zIPyWb6TUrV8ZFUfC5dwZ) | 4:45 |
 | 11 | [Justice Replaced By Revenge](https://open.spotify.com/track/44pkYif4mpEclx6KGX14nX) | [Ringworm](https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV) | [Justice Replaced By Revenge](https://open.spotify.com/album/4hfNMjJF59GYCH9IMzGwiL) | 2:08 |
 | 12 | [Dispossessed](https://open.spotify.com/track/50gyQdoewV6BUh7sT2uxQg) | [Iron Age](https://open.spotify.com/artist/5mFHJXwP6yNpilm7hokv89) | [The Sleeping Eye](https://open.spotify.com/album/5plnrPJUamWoVkPnm14F7P) | 4:45 |
 | 13 | [Terror Tactics](https://open.spotify.com/track/2mpgQFpYpCrwLViQHi7Nb2) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Psychosis](https://open.spotify.com/album/1meRKdWdUfwS4lbpqCXaCu) | 4:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9owDoKZZXV5.md) - [plain]
 
 > Welcome to the Hope World! 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,302 likes - 28 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,741 likes - 28 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9owDoKZZXV5.md) - [plain]
 | 24 | [항상 \(HANGSANG\)](https://open.spotify.com/track/270k38FpoKhnvZLv50NlTr) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Supreme Boi](https://open.spotify.com/artist/6sBiS0iWcCyMMgiYrEOxbt) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 3:49 |
 | 25 | [Airplane](https://open.spotify.com/track/2jk6oBuLiCZJTDWhlJEzIw) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 3:17 |
 | 26 | [Blue Side \(Outro\)](https://open.spotify.com/track/20zr2Oef3PVeGRxjmSF5CC) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 1:30 |
-| 27 | [Animal \(feat\. 정호석 Of 방탄소년단\)](https://open.spotify.com/track/40oks8fZ9XdDeJyuI44yCf) | [JO KWON](https://open.spotify.com/artist/1hJ6EZjb0pnvPeBdzulrUr) | [I'm Da One](https://open.spotify.com/album/0dsK6yub3rsqQLYaO7TDqf) | 3:22 |
+| 27 | [Animal](https://open.spotify.com/track/6idjdo9ya87si2JI5OdbXc) | [JO KWON](https://open.spotify.com/artist/1hJ6EZjb0pnvPeBdzulrUr), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [I'm Da One](https://open.spotify.com/album/3Ds62hZPPPtvWgLDQLo5lD) | 3:22 |
 | 28 | [A Song Make to You Smile](https://open.spotify.com/track/5blZcMwtCrPa7bp7lMBiTt) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Hareem](https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20) | [The Project](https://open.spotify.com/album/5ccCV9iNxUARYLfWDzALWn) | 3:09 |
 
-Snapshot ID: `MCxkZjVmN2IwNDRiMWFiYjcyMTIyODQ0OGQ1NjJlMzM5M2Y0NWRiZTQz`
+Snapshot ID: `MCwxOGQ1YmI2YjI4ZTc5Yjc0MmZjZGZiMjJmMGUzOTEyOGY3OTIzYmU1`

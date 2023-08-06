@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Emma Hoet
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,416 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,544 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 5 | [C'est mon truc](https://open.spotify.com/track/0VW89sbCVJaGb4iGeNrOEv) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Zélie c'est quoi ?](https://open.spotify.com/album/51UJNhfVEsYfjukIag27Y2) | 3:05 |
 | 6 | [The Devil I Know](https://open.spotify.com/track/2ihQW4P9ZUhjNJLL7DYz1w) | [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh), [éol](https://open.spotify.com/artist/3Qsh8vZLpSAHADVBkGD70N) | [The Devil I Know](https://open.spotify.com/album/0hJR4tbsE32LpjbdD8km3d) | 2:40 |
 | 7 | [Laisse courir](https://open.spotify.com/track/1dxCI4KuVhWHxbqeYMomSf) | [Lou de la Falaise](https://open.spotify.com/artist/5Hm0bxvHlfSILH2LY4pvnK) | [Sans espoir ni desespoir](https://open.spotify.com/album/4uT1OZcV64iPYm024ApCL3) | 2:59 |
-| 8 | [Game Boys](https://open.spotify.com/track/1VV9YClgWlPzsyL6GLoAF3) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB) | [Moody Moon](https://open.spotify.com/album/3ONCT6yDKlvu0ismhJTOZx) | 2:53 |
+| 8 | [Game Boys](https://open.spotify.com/track/3QNhfuJkl6IWxnojizLG55) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB), [Diane Sagnier](https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay), [Rocket Mike](https://open.spotify.com/artist/18ssEKS9fXX1nbMg7mAzaU), [Leo Hellden](https://open.spotify.com/artist/2xuVdExl3fVXV8NjGOaSpL) | [Moody Moon](https://open.spotify.com/album/5KwugNWAlyYhFCGx2obkTY) | 2:53 |
 | 9 | [Memories \(with Olivia Merilahti\)](https://open.spotify.com/track/6yAjRkafLkS95M2HeM2Y0O) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [PrimaDonna vol\. 2](https://open.spotify.com/album/3SQpwXGk9dcI22c0jJsoQv) | 3:25 |
 | 10 | [Let her go](https://open.spotify.com/track/3lorZ6d6wi7xwzjP0tT1q2) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [LUCASV](https://open.spotify.com/artist/4wuJEvClymsGVYXCP00JZB) | [Let her go](https://open.spotify.com/album/2cm797zjKrsntb3q2bfNKg) | 3:02 |
 | 11 | [Ça me va](https://open.spotify.com/track/5IrSaHFfKuSzG6pv6jWXJS) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Ça me va](https://open.spotify.com/album/3Zv13w5LwijoudLshMtkRc) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Septembre](https://open.spotify.com/track/5doB18k5d74YdrF74Dybvf) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Septembre](https://open.spotify.com/album/03TAOcjBtygRXgMPDAMBy6) | 3:24 |
 | 50 | [corazón caramelo](https://open.spotify.com/track/7l6IETTWscYOYcqjgy27yj) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [corazón caramelo](https://open.spotify.com/album/1LHcIXM8IPz3TuTXlhinSd) | 2:37 |
 
-Snapshot ID: `MCw3ZjdmMWE4MDU5YzU3ZTI1MWZmYWZjMTY1ZDgyZDAzOGNiN2I5ZDdh`
+Snapshot ID: `MCw5Zjk4YTBhY2U0MGQ0ZjZiNTJkOGFjNzY3MWU5NzRhOGVjZGU4Y2Rk`

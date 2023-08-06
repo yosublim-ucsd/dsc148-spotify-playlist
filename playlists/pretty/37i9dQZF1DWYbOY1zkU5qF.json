@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 138570,
+  "num_followers": 138658,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmZhZmU0OWQ2OTdmNGYzZDcwN2IzZDhhN2I1YWNiYzM0MWY3MTRi",
+  "snapshot_id": "MCw3NDg3ZTFjYzc2MDg1NDJjYmM2YmQxY2JjNzFhNTc5YjdkMGM0MWUx",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Mi Historia Entre Tus Dedos",
+        "url": "https://open.spotify.com/album/0sNyKcrJbxgd96dyN6wlIV"
+      },
+      "artists": [
+        {
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
+        }
+      ],
+      "duration_ms": 348339,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/4Zuez3lI8S1J0AbC8gG0Zx"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "No Bailes Sola (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/6JxnMDh4sNQs4sd6z5w0eo"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 189920,
       "name": "No Bailes Sola - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/3LfJzT37DkyzELlmmTWYgO"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Mi Historia Entre Tus Dedos",
-        "url": "https://open.spotify.com/album/0sNyKcrJbxgd96dyN6wlIV"
-      },
-      "artists": [
-        {
-          "name": "Kika Edgar",
-          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
-        }
-      ],
-      "duration_ms": 348339,
-      "name": "Mi Historia Entre Tus Dedos",
-      "url": "https://open.spotify.com/track/4Zuez3lI8S1J0AbC8gG0Zx"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Mamita (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/77TsvmLS36GDZBQuZM4asl"
+      },
+      "artists": [
+        {
+          "name": "Carlo Gless",
+          "url": "https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm"
+        }
+      ],
+      "duration_ms": 142291,
+      "name": "Mamita - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0L8h7Eo1LksZrT3vu4eRES"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/1bJebMwImKlh4wNpHj9hHb"
       },
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mamita (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/77TsvmLS36GDZBQuZM4asl"
+        "name": "Bolero Falaz",
+        "url": "https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0"
       },
       "artists": [
         {
-          "name": "Carlo Gless",
-          "url": "https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm"
+          "name": "Maribel Sur",
+          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
         }
       ],
-      "duration_ms": 142291,
-      "name": "Mamita - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0L8h7Eo1LksZrT3vu4eRES"
+      "duration_ms": 263500,
+      "name": "Bolero Falaz",
+      "url": "https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1083,22 +1099,6 @@
       "duration_ms": 173661,
       "name": "La Noche De Anoche",
       "url": "https://open.spotify.com/track/0x6aRKrxUvPL5ktixcva5j"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Bolero Falaz",
-        "url": "https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0"
-      },
-      "artists": [
-        {
-          "name": "Maribel Sur",
-          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
-        }
-      ],
-      "duration_ms": 263500,
-      "name": "Bolero Falaz",
-      "url": "https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX"
     },
     {
       "added_at": "2022-02-18 06:00:00",

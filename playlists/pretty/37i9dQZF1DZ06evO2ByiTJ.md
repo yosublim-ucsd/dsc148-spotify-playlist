@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,195 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,206 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 24 | [Página em Branco \(Ao Vivo\)](https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Página em Branco \(Ao Vivo\)](https://open.spotify.com/album/075EOV324SMWzffd3uO7QX) | 5:09 |
 | 25 | [Sobrevivi \(Ao Vivo\)](https://open.spotify.com/track/0MRdJOx3IRuclfyzlDfscT) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 4:29 |
 | 26 | [Oceano de Lágrimas \(Ao Vivo\)](https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Oceano de Lágrimas \(Ao Vivo\)](https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS) | 4:17 |
-| 27 | [Muda o Meu Coração](https://open.spotify.com/track/1FmGDsstyk3NoSFqaKcGmm) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Muda o Meu Coração](https://open.spotify.com/album/1fSSeZnKZveh02704Yz5S3) | 5:09 |
-| 28 | [El Elyon](https://open.spotify.com/track/4HR1BrHYKNZin2zkcVtYoP) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [El Elyon](https://open.spotify.com/album/272oxL4xvmw243Wo81OF9T) | 4:00 |
+| 27 | [El Elyon](https://open.spotify.com/track/4HR1BrHYKNZin2zkcVtYoP) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [El Elyon](https://open.spotify.com/album/272oxL4xvmw243Wo81OF9T) | 4:00 |
+| 28 | [Muda o Meu Coração](https://open.spotify.com/track/1FmGDsstyk3NoSFqaKcGmm) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Muda o Meu Coração](https://open.spotify.com/album/1fSSeZnKZveh02704Yz5S3) | 5:09 |
 | 29 | [História Linda de Viver \(Ao Vivo\)](https://open.spotify.com/track/2mjqg4jZHavTfQtzVydvc9) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [História Linda de Viver \(Ao Vivo\)](https://open.spotify.com/album/3VboLnoznp1VpoVaHV2HZt) | 4:42 |
 | 30 | [Santificação \(Ao Vivo\)](https://open.spotify.com/track/3Bg1HJtKZAH0sH07vY9dn9) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação \(Ao Vivo\)](https://open.spotify.com/album/0w3FVZ8PUX84dgKIhOBjns) | 4:14 |
 | 31 | [Buscar Tua Face é Preciso](https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Vencedor](https://open.spotify.com/album/3YRcrviBE1y6ogqSYiOHe4) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 49 | [Quem é Este?](https://open.spotify.com/track/7IQ2ohWCn0riWIs580kI0g) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Posso Confiar](https://open.spotify.com/album/3A5WfixvsA44oIkknRbupr) | 7:04 |
 | 50 | [Força Santa](https://open.spotify.com/track/1SnT8D0raTV7xo7Cq5yU2y) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Força Santa](https://open.spotify.com/album/4BBOKsTi7lKpkkqzAnowIc) | 5:44 |
 
-Snapshot ID: `MjgxODYwODEsMDAwMDAwMDAwMDQyOGE5ODg4MTFmYTRlYmUwZGFlMGMyNjM3YjFjZA==`
+Snapshot ID: `MjgxODczODgsMDAwMDAwMDBmMGY3OTc0M2ZmYmJkZTI5M2Q5N2Q4MzViMGY3NjZmMA==`

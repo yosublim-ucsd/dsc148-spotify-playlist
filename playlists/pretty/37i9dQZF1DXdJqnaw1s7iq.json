@@ -1,12 +1,12 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 15494,
+  "num_followers": 15642,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDVhYTk4OWVhNDg0ZTE2OGUzNzY2ZDQwODM3ZGI2ZjY2YjIwYmYx",
+  "snapshot_id": "MCwxMTJlYWFiYTU5NGM0ZTBlMDlmOWZhYTVhMWJkZGI5MGM3ZGMwNTlh",
   "tracks": [
     {
       "added_at": "2023-05-17 20:35:57",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "Merriweather Post Pavilion",
+        "url": "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 340786,
+      "name": "My Girls",
+      "url": "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
@@ -775,18 +791,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Merriweather Post Pavilion",
-        "url": "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
+        "name": "TAPE TWO",
+        "url": "https://open.spotify.com/album/7ACFIbsrhepZRIbKnRzxjy"
       },
       "artists": [
         {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
         }
       ],
-      "duration_ms": 340786,
-      "name": "My Girls",
-      "url": "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
+      "duration_ms": 222792,
+      "name": "I Heard",
+      "url": "https://open.spotify.com/track/3zgptmNsfqy1JscBOebsYJ"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -807,22 +823,6 @@
       "duration_ms": 497521,
       "name": "Want You In My Soul",
       "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "TAPE TWO",
-        "url": "https://open.spotify.com/album/7ACFIbsrhepZRIbKnRzxjy"
-      },
-      "artists": [
-        {
-          "name": "Young Fathers",
-          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
-        }
-      ],
-      "duration_ms": 222792,
-      "name": "I Heard",
-      "url": "https://open.spotify.com/track/3zgptmNsfqy1JscBOebsYJ"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Ardour",
-        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
-      },
-      "artists": [
-        {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
-        }
-      ],
-      "duration_ms": 91010,
-      "name": "While You Doooo",
-      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Overgrown",
         "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 217120,
       "name": "Life Round Here",
       "url": "https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Ardour",
+        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
+      },
+      "artists": [
+        {
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+        }
+      ],
+      "duration_ms": 91010,
+      "name": "While You Doooo",
+      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -963,26 +963,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Black Sands",
-        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Stay The Same",
-      "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Warm Water (Snakehips Remix)",
         "url": "https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 253584,
       "name": "Warm Water - Snakehips Remix",
       "url": "https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Stay The Same",
+      "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Odyssey / Sonne",
-        "url": "https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 290201,
-      "name": "Recovery",
-      "url": "https://open.spotify.com/track/0vp09QgBhShrQOL2w7P8k4"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "1998",
         "url": "https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i"
       },
@@ -1135,18 +1119,34 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+        "name": "Odyssey / Sonne",
+        "url": "https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp"
       },
       "artists": [
         {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 239013,
-      "name": "Dissolve Me",
-      "url": "https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m"
+      "duration_ms": 290201,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/0vp09QgBhShrQOL2w7P8k4"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 224973,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 224973,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat"
+      "duration_ms": 239013,
+      "name": "Dissolve Me",
+      "url": "https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Nothing Is Still",
-        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
-      },
-      "artists": [
-        {
-          "name": "Leon Vynehall",
-          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Movements (Chapter III)",
-      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Begin",
         "url": "https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 250706,
       "name": "Treat Me Like Fire",
       "url": "https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Nothing Is Still",
+        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Movements (Chapter III)",
+      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "obedear",
-      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "See Mystery Lights: Remixes & B-Sides",
         "url": "https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "obedear",
+      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "Easier",
         "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
       },
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Tremors",
         "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 233017,
       "name": "The Wheel",
       "url": "https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
     },
     {
       "added_at": "2023-05-17 20:35:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Foto: DENNIS, Karol G, Maluma, MC Kevin o Cris
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,913 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,082 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 27 | [Digdin](https://open.spotify.com/track/0XWVsGfQMBbvGDYddqP07n) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Fé Na Caminhada](https://open.spotify.com/album/41eYp9Mqs7dmd6Ad9ziR6F) | 2:39 |
 | 28 | [Desayuno](https://open.spotify.com/track/186hCNwspJAoGWwMDUDcNM) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX) | [Desayuno](https://open.spotify.com/album/3LoC4CO5fbG7Ry1jLLPy9E) | 3:14 |
 | 29 | [EN EL GHETTO \#3 \(Par de cosas\)](https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [EN EL GHETTO \#3 \(Par de cosas\)](https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji) | 3:35 |
-| 30 | [La Culebritica \- En Vivo](https://open.spotify.com/track/59YgQLmIDzDVSISLhKwVD0) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Noche de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/6uDAcaWscix7dqTETCNmsP) | 3:57 |
+| 30 | [La Culebritica \- \(En Vivo\)](https://open.spotify.com/track/59YgQLmIDzDVSISLhKwVD0) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Noche de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/6uDAcaWscix7dqTETCNmsP) | 3:57 |
 | 31 | [Quédate](https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Quédate](https://open.spotify.com/album/2YCoLtzdiW3YAiYzEiADm0) | 3:26 |
 | 32 | [El Man Perfecto](https://open.spotify.com/track/6liVt4KfKzMQ4vdedo8Ld2) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [El Man Perfecto](https://open.spotify.com/album/6gifQZChGomZlbjyvvG7wK) | 3:32 |
 | 33 | [Agosto](https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Agosto](https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5) | 3:39 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 48 | [AMBIENTE ERRADO \- Ao Vivo](https://open.spotify.com/track/2nfnhFDhwMet9yZodpGfn3) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [AMBIENTE ERRADO \(Ao Vivo\)](https://open.spotify.com/album/5OyqoxpsEn7XEilamuZcXU) | 2:24 |
 | 49 | [Bomzão](https://open.spotify.com/track/5cTt87f8djnVPH4mLo2L9G) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 3:09 |
 
-Snapshot ID: `MCw0MDkyMjQ5YTI5MjdhYjlhN2RkZGNlZWVlMzZlMGE0MjBkM2M0OGE1`
+Snapshot ID: `MCw5MDc1NDY0ZjhiNDViM2ViOGIwNWU5MGFlMTUxMDVmODk4Y2YxOGEx`

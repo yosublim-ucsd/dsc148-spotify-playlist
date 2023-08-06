@@ -1,12 +1,12 @@
 {
   "description": "Corridos viejitos que cuentan los hechos reales de nuestro pueblo. Chalino S\u00e1nchez en portada. ",
-  "num_followers": 462267,
+  "num_followers": 462655,
   "original_name": "Corridos de Anta\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGQwYTllNzgzMjAxNTU5NDk2MDNlODRiYTBhNmQxZTc1NTM0Y2Zl",
+  "snapshot_id": "MCw0ZTA0MjdiNWVjNjg2YjE1YTUzNDQxOGE1NTYyYjYwYTUyMDgwOGZj",
   "tracks": [
     {
       "added_at": "2023-05-18 20:30:01",
@@ -1139,18 +1139,22 @@
     {
       "added_at": "2023-05-18 20:30:01",
       "album": {
-        "name": "Vicente Fern\u00e1ndez Y Sus Corridos Consentidos",
-        "url": "https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn"
+        "name": "Con el Coraz\u00f3n en Sonora",
+        "url": "https://open.spotify.com/album/23psNaHxAyRctb7HUSqq67"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        },
+        {
+          "name": "Manuel El Indio Ortega",
+          "url": "https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj"
         }
       ],
-      "duration_ms": 146213,
-      "name": "Luis Pulido",
-      "url": "https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e"
+      "duration_ms": 249774,
+      "name": "Los Tres Amarradores",
+      "url": "https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD"
     },
     {
       "added_at": "2023-05-18 20:30:01",
@@ -1171,22 +1175,18 @@
     {
       "added_at": "2023-05-18 20:30:01",
       "album": {
-        "name": "Con el Coraz\u00f3n en Sonora",
-        "url": "https://open.spotify.com/album/23psNaHxAyRctb7HUSqq67"
+        "name": "Vicente Fern\u00e1ndez Y Sus Corridos Consentidos",
+        "url": "https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn"
       },
       "artists": [
         {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
-        },
-        {
-          "name": "Manuel El Indio Ortega",
-          "url": "https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 249774,
-      "name": "Los Tres Amarradores",
-      "url": "https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD"
+      "duration_ms": 146213,
+      "name": "Luis Pulido",
+      "url": "https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e"
     },
     {
       "added_at": "2023-05-18 20:30:01",

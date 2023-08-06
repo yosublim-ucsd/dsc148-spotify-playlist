@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 51867,
+  "num_followers": 51911,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWY0YTZiYzBhYmNlMWFhNDE4ZjJiYjhiMmMwYjVkOTZjZDYzNjMw",
+  "snapshot_id": "MCw4YjczY2U0N2UwMThlN2NkY2EzNDJlYTdiZTg0YzgyMzIwOTEwNjU5",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Christine and the Queens",
-        "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 233247,
-      "name": "Tilted",
-      "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "1998",
         "url": "https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 224026,
       "name": "1998",
       "url": "https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Christine and the Queens",
+        "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 233247,
+      "name": "Tilted",
+      "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Art Angels",
-        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 198337,
-      "name": "California",
-      "url": "https://open.spotify.com/track/6PY49R5SjxYDiOMFQj7Gsq"
+      "duration_ms": 258860,
+      "name": "Hollow Moon (Bad Wolf)",
+      "url": "https://open.spotify.com/track/7cfr3F2jpzjwqL6ZhGfjtH"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1439,18 +1439,34 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
       },
       "artists": [
         {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 258860,
-      "name": "Hollow Moon (Bad Wolf)",
-      "url": "https://open.spotify.com/track/7cfr3F2jpzjwqL6ZhGfjtH"
+      "duration_ms": 198337,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6PY49R5SjxYDiOMFQj7Gsq"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "My Love Is Cool",
+        "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 224720,
+      "name": "Bros",
+      "url": "https://open.spotify.com/track/6NunWZuZ6g9KipJ9Q5Vck7"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1483,22 +1499,6 @@
       "duration_ms": 188106,
       "name": "All This Could Be Yours",
       "url": "https://open.spotify.com/track/1bbcAQuGuAxKS1HM96B8uh"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "My Love Is Cool",
-        "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "Bros",
-      "url": "https://open.spotify.com/track/6NunWZuZ6g9KipJ9Q5Vck7"
     },
     {
       "added_at": "2021-09-14 05:14:45",

@@ -1463,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Surf's Up",
+        "url": "https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161813,
+      "name": "Don't Go Near The Water - Remastered 2009",
+      "url": "https://open.spotify.com/track/1bqc35qbUzNP7kH19ql8PF"
+    },
+    {
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 219306,
       "name": "Heroes And Villains - Remastered 2001",
       "url": "https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4"
@@ -2304,6 +2322,24 @@
       "duration_ms": 178560,
       "name": "I Feel the Earth Move",
       "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
+    },
+    {
+      "album": {
+        "name": "False Priest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XRBHUGuKtiXXOHg7N9NBx"
+      },
+      "artists": [
+        {
+          "name": "of Montreal",
+          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220866,
+      "name": "I Feel Ya' Strutter",
+      "url": "https://open.spotify.com/track/1bpEObO6vZfCrmyvhTCaVv"
     },
     {
       "album": {
@@ -2656,6 +2692,24 @@
       "duration_ms": 215400,
       "name": "Kodachrome",
       "url": "https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY"
+    },
+    {
+      "album": {
+        "name": "Labor Days",
+        "url": "https://open.spotify.com/album/3zJMNOxnbHWG2rZwswnSM2"
+      },
+      "artists": [
+        {
+          "name": "Aesop Rock",
+          "url": "https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152826,
+      "name": "Labor",
+      "url": "https://open.spotify.com/track/5mebhNwj9TqwjeyGvBAIcT"
     },
     {
       "album": {
@@ -3288,6 +3342,24 @@
       "duration_ms": 284906,
       "name": "Once Twice Melody",
       "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
+    },
+    {
+      "album": {
+        "name": "Actually (2018 Remaster)",
+        "url": "https://open.spotify.com/album/0p5QwhEke5P9mFY4CY9u4j"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331053,
+      "name": "One More Chance - 2018 Remaster",
+      "url": "https://open.spotify.com/track/5GOBlnqd5yjo6Xxf4kC7t5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: xikers\(싸이커스\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,760 likes - 788 songs - 1 day 20 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,021 likes - 788 songs - 1 day 20 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -797,4 +797,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 787 | [WATERFALL](https://open.spotify.com/track/4QxTg2DuJPzY8pXNDWAcow) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [BIT Part.1](https://open.spotify.com/album/1JIBD2xuWX2cdGLoHvBdoc) | 3:00 |
 | 788 | [LOVE YOU! \(Feat\. Tablo\)](https://open.spotify.com/track/2jhWyW4kNrVnN2wpu9jhVZ) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [LOVE YOU!](https://open.spotify.com/album/6R6OuDp9PRzfVFNsdWuI1u) | 3:05 |
 
-Snapshot ID: `MCwwMTgwMTRkZmZkNGVkNDM4NWFiMThiMmE4YmY3MTZhMmYyMjY0ODM1`
+Snapshot ID: `MCw4MGQ0NGQ4NjM4ZDhjNWY0NTc4OWNlZTIxMTVkMjhmZDZlMGZlNWU0`

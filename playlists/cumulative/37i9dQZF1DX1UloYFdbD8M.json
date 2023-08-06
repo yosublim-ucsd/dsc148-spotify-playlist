@@ -277,6 +277,28 @@
     },
     {
       "album": {
+        "name": "Co Creation Project: Kappa Originals x Bloom In Green '22",
+        "url": "https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL"
+      },
+      "artists": [
+        {
+          "name": "Sekhar Menon",
+          "url": "https://open.spotify.com/artist/1cpwQb4p8o8eFSWCfzGlYw"
+        },
+        {
+          "name": "Kavitha Mohan",
+          "url": "https://open.spotify.com/artist/1R9gEh4Lzw6a5p4Ab569n6"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260163,
+      "name": "Bloom in Green",
+      "url": "https://open.spotify.com/track/6UhEBIm3jqq7l07WP1ckbA"
+    },
+    {
+      "album": {
         "name": "Rithu",
         "url": "https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn"
       },
@@ -492,6 +514,24 @@
       "duration_ms": 235115,
       "name": "FLYHIGH",
       "url": "https://open.spotify.com/track/7ityoGyYiTmp1kx67xKpFa"
+    },
+    {
+      "album": {
+        "name": "Co Creation Project: Kappa Originals x Bloom In Green '22",
+        "url": "https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL"
+      },
+      "artists": [
+        {
+          "name": "Jatayu",
+          "url": "https://open.spotify.com/artist/4FRg3iQY9IQNzFiEs29WtK"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151385,
+      "name": "Green Bean",
+      "url": "https://open.spotify.com/track/4Fy7zmLbPiGDYhmp6ziHwi"
     },
     {
       "album": {

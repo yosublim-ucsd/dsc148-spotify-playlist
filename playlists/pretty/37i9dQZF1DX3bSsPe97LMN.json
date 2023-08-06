@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. El Frizian & Kevin Ort\u00edz en portada.",
-  "num_followers": 55618,
+  "num_followers": 55638,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmQ2YWJjOTQ1NDk5NjBmNDM2NDhkZjIyMjkyMTJhZjFlMDQ4ZmRk",
+  "snapshot_id": "MCxiY2Y1ZDFlYzIyMzk3ZmNkZjg2NmJiMjg3MjUzYzM4ZTdlZjFkMzRj",
   "tracks": [
     {
       "added_at": "2023-08-04 06:00:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "El Brillo De Tus Ojitos",
+        "url": "https://open.spotify.com/album/33sFxL5niaZixgvYKbPAhr"
+      },
+      "artists": [
+        {
+          "name": "Dorian Guerra",
+          "url": "https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP"
+        }
+      ],
+      "duration_ms": 179196,
+      "name": "El Brillo De Tus Ojitos",
+      "url": "https://open.spotify.com/track/0FNiIXrIxi7iZamdGDmwNL"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Perfecto",
         "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 152050,
       "name": "Perfecto",
       "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "El Brillo De Tus Ojitos",
-        "url": "https://open.spotify.com/album/33sFxL5niaZixgvYKbPAhr"
-      },
-      "artists": [
-        {
-          "name": "Dorian Guerra",
-          "url": "https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP"
-        }
-      ],
-      "duration_ms": 179196,
-      "name": "El Brillo De Tus Ojitos",
-      "url": "https://open.spotify.com/track/0FNiIXrIxi7iZamdGDmwNL"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "El Ni\u00f1o De La Amapola",
-        "url": "https://open.spotify.com/album/1rygGMDNJ46kjKiwRzGC9Y"
-      },
-      "artists": [
-        {
-          "name": "Los Lara",
-          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
-        }
-      ],
-      "duration_ms": 214707,
-      "name": "El Ni\u00f1o De La Amapola",
-      "url": "https://open.spotify.com/track/76sWBFlOhZeChOSdrAfpCd"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "TRANQUILE\u00d3N",
         "url": "https://open.spotify.com/album/5xCtNSL4NqQNgw3r7O2KKZ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 219160,
       "name": "TRANQUILE\u00d3N",
       "url": "https://open.spotify.com/track/17tisFioZUL9GaClgNYV3S"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "El Ni\u00f1o De La Amapola",
+        "url": "https://open.spotify.com/album/1rygGMDNJ46kjKiwRzGC9Y"
+      },
+      "artists": [
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        }
+      ],
+      "duration_ms": 214707,
+      "name": "El Ni\u00f1o De La Amapola",
+      "url": "https://open.spotify.com/track/76sWBFlOhZeChOSdrAfpCd"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "hecho en M\u00e9xico",
-        "url": "https://open.spotify.com/album/43Wmfa9FeM6va3dxNXn8NS"
-      },
-      "artists": [
-        {
-          "name": "vatocholo",
-          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
-        },
-        {
-          "name": "Juanchito",
-          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
-        }
-      ],
-      "duration_ms": 183648,
-      "name": "un loquer\u00f3n",
-      "url": "https://open.spotify.com/track/2nlBvYdYnN16eJxG9DXFG2"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "No He Parado",
         "url": "https://open.spotify.com/album/0fTbXfGHSfS0Aq8JCqysdZ"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 143172,
       "name": "No He Parado",
       "url": "https://open.spotify.com/track/5JiK07lh0kf80tyy1d9j9S"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "hecho en M\u00e9xico",
+        "url": "https://open.spotify.com/album/43Wmfa9FeM6va3dxNXn8NS"
+      },
+      "artists": [
+        {
+          "name": "vatocholo",
+          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
+        },
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        }
+      ],
+      "duration_ms": 183648,
+      "name": "un loquer\u00f3n",
+      "url": "https://open.spotify.com/track/2nlBvYdYnN16eJxG9DXFG2"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Los Billetes Ponen La Edad \"JRE\"",
-        "url": "https://open.spotify.com/album/6JTgWswtPAaK7XyeqB1vGc"
+        "name": "\u00daltimo Chance",
+        "url": "https://open.spotify.com/album/19WB0aWyAK7a4rfQ6XcmgG"
       },
       "artists": [
         {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
         }
       ],
-      "duration_ms": 183106,
-      "name": "Billetes Y Armas",
-      "url": "https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54"
+      "duration_ms": 174085,
+      "name": "\u00daltimo Chance",
+      "url": "https://open.spotify.com/track/1nFyCntHHgelFWP733CykV"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -939,22 +939,6 @@
       "duration_ms": 177044,
       "name": "Sencillito Y Serenito",
       "url": "https://open.spotify.com/track/5KbFSWl5CJ1CtV7Tq95xlp"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "\u00daltimo Chance",
-        "url": "https://open.spotify.com/album/19WB0aWyAK7a4rfQ6XcmgG"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        }
-      ],
-      "duration_ms": 174085,
-      "name": "\u00daltimo Chance",
-      "url": "https://open.spotify.com/track/1nFyCntHHgelFWP733CykV"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -979,26 +963,34 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "El Sello Adixion",
-        "url": "https://open.spotify.com/album/7pm9F84ZnvCQBEckBhniF6"
+        "name": "Los Billetes Ponen La Edad \"JRE\"",
+        "url": "https://open.spotify.com/album/6JTgWswtPAaK7XyeqB1vGc"
       },
       "artists": [
         {
-          "name": "Proximo Nivel",
-          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
-        },
-        {
-          "name": "Equipo Reforzado",
-          "url": "https://open.spotify.com/artist/79l11SbRoVI27ZHUMZ05Ru"
-        },
-        {
-          "name": "Inoboiz",
-          "url": "https://open.spotify.com/artist/72kfJ36enf8Xj9fHmxWvVJ"
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
         }
       ],
-      "duration_ms": 176720,
-      "name": "El Sello Adixion",
-      "url": "https://open.spotify.com/track/2v6sGn3VKqssfoKQmhvwf7"
+      "duration_ms": 183106,
+      "name": "Billetes Y Armas",
+      "url": "https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "En La Silverado",
+        "url": "https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi"
+      },
+      "artists": [
+        {
+          "name": "Ruben Figueroa",
+          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
+        }
+      ],
+      "duration_ms": 170922,
+      "name": "En La Silverado",
+      "url": "https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1019,18 +1011,26 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "En La Silverado",
-        "url": "https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi"
+        "name": "El Sello Adixion",
+        "url": "https://open.spotify.com/album/7pm9F84ZnvCQBEckBhniF6"
       },
       "artists": [
         {
-          "name": "Ruben Figueroa",
-          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
+          "name": "Proximo Nivel",
+          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
+        },
+        {
+          "name": "Equipo Reforzado",
+          "url": "https://open.spotify.com/artist/79l11SbRoVI27ZHUMZ05Ru"
+        },
+        {
+          "name": "Inoboiz",
+          "url": "https://open.spotify.com/artist/72kfJ36enf8Xj9fHmxWvVJ"
         }
       ],
-      "duration_ms": 170922,
-      "name": "En La Silverado",
-      "url": "https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ"
+      "duration_ms": 176720,
+      "name": "El Sello Adixion",
+      "url": "https://open.spotify.com/track/2v6sGn3VKqssfoKQmhvwf7"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "En Un Instante",
+        "url": "https://open.spotify.com/album/3Nbmmq4IWNvOEaJo99GUph"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 171785,
+      "name": "En Un Instante",
+      "url": "https://open.spotify.com/track/4HePjcbUwHlbK94YtB03vo"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Tranquilo Y Sencillo",
         "url": "https://open.spotify.com/album/1Qxk4L0BCfokCm1k3HYMeJ"
       },
@@ -1159,38 +1175,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "En Un Instante",
-        "url": "https://open.spotify.com/album/3Nbmmq4IWNvOEaJo99GUph"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 171785,
-      "name": "En Un Instante",
-      "url": "https://open.spotify.com/track/4HePjcbUwHlbK94YtB03vo"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Los Comienzos (En Vivo)",
-        "url": "https://open.spotify.com/album/6Q3Z3Jw6XI5w0ki6hceiS7"
-      },
-      "artists": [
-        {
-          "name": "Javier Olguin",
-          "url": "https://open.spotify.com/artist/0J1tT084sFNdnKD6nW11Xt"
-        }
-      ],
-      "duration_ms": 264802,
-      "name": "La Ultima Sombra (En Vivo)",
-      "url": "https://open.spotify.com/track/3KgfP8YkvF2znrBPelYTJ7"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "M\u00fasica Y Vino",
         "url": "https://open.spotify.com/album/55rYBHLzuVROq5YYR37kAa"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 169800,
       "name": "M\u00fasica Y Vino",
       "url": "https://open.spotify.com/track/68d2glVYVHwkhmT5Hkb7Fb"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Los Comienzos (En Vivo)",
+        "url": "https://open.spotify.com/album/6Q3Z3Jw6XI5w0ki6hceiS7"
+      },
+      "artists": [
+        {
+          "name": "Javier Olguin",
+          "url": "https://open.spotify.com/artist/0J1tT084sFNdnKD6nW11Xt"
+        }
+      ],
+      "duration_ms": 264802,
+      "name": "La Ultima Sombra (En Vivo)",
+      "url": "https://open.spotify.com/track/3KgfP8YkvF2znrBPelYTJ7"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "La Tostada",
+        "url": "https://open.spotify.com/album/0p0bDZxCPtc2NKmlnQin5j"
+      },
+      "artists": [
+        {
+          "name": "Los del roble",
+          "url": "https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj"
+        }
+      ],
+      "duration_ms": 215568,
+      "name": "La Tostada",
+      "url": "https://open.spotify.com/track/1iHDT9mosEvwDMHgROl0Vp"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "No Me Rebajo",
         "url": "https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU"
       },
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "La Tostada",
-        "url": "https://open.spotify.com/album/0p0bDZxCPtc2NKmlnQin5j"
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
       },
       "artists": [
         {
-          "name": "Los del roble",
-          "url": "https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 215568,
-      "name": "La Tostada",
-      "url": "https://open.spotify.com/track/1iHDT9mosEvwDMHgROl0Vp"
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1475,6 +1491,22 @@
       "duration_ms": 209026,
       "name": "Dej\u00e9moslo As\u00ed",
       "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Mucha Mujer",
+        "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
+      },
+      "artists": [
+        {
+          "name": "Herly RG",
+          "url": "https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt"
+        }
+      ],
+      "duration_ms": 156067,
+      "name": "Mucha Mujer",
+      "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1615,66 +1647,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
+        "name": "CUANDO LLUEVE",
+        "url": "https://open.spotify.com/album/0Me1LJTvDr06VOYB9jfWjq"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+          "name": "Una Canci\u00f3n Bonita",
+          "url": "https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7"
         }
       ],
-      "duration_ms": 177893,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "En La Lumbre",
-        "url": "https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM"
-      },
-      "artists": [
-        {
-          "name": "Jessy Castillo",
-          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
-        }
-      ],
-      "duration_ms": 162474,
-      "name": "En La Lumbre",
-      "url": "https://open.spotify.com/track/2ZnQIKPgq3SptPgG4XTnYU"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "El \u00c1guila Blanca (En Vivo)",
-        "url": "https://open.spotify.com/album/4hxaDEqUSzsUxC5FuknjIG"
-      },
-      "artists": [
-        {
-          "name": "El Bala",
-          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "El \u00c1guila Blanca - En Vivo",
-      "url": "https://open.spotify.com/track/2Ap5NNEnnKOBA9NCgrNgQb"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/456vorveaWp2EZSHNDhHAG"
-      },
-      "artists": [
-        {
-          "name": "Brandon Reyes y Elvin",
-          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/5Eelane6BPV4SbiSP33ATI"
+      "duration_ms": 258528,
+      "name": "CUANDO LLUEVE",
+      "url": "https://open.spotify.com/track/1zGm84bD3EQLq7Iot79U3T"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1695,54 +1679,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "CUANDO LLUEVE",
-        "url": "https://open.spotify.com/album/0Me1LJTvDr06VOYB9jfWjq"
+        "name": "En La Lumbre",
+        "url": "https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM"
       },
       "artists": [
         {
-          "name": "Una Canci\u00f3n Bonita",
-          "url": "https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7"
+          "name": "Jessy Castillo",
+          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
         }
       ],
-      "duration_ms": 258528,
-      "name": "CUANDO LLUEVE",
-      "url": "https://open.spotify.com/track/1zGm84bD3EQLq7Iot79U3T"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Mi Otra Mitad",
-        "url": "https://open.spotify.com/album/6ng2XgZrg5Z4r7r6qyxiil"
-      },
-      "artists": [
-        {
-          "name": "Lluvia Ar\u00e1mbula",
-          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
-        },
-        {
-          "name": "Diego Rosas",
-          "url": "https://open.spotify.com/artist/7zromlgF76RPTd6Cg5u6EG"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "Mi Otra Mitad",
-      "url": "https://open.spotify.com/track/62FXhXv6HATkfAzCmNWTlb"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Mucha Mujer",
-        "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
-      },
-      "artists": [
-        {
-          "name": "Herly RG",
-          "url": "https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt"
-        }
-      ],
-      "duration_ms": 156067,
-      "name": "Mucha Mujer",
-      "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
+      "duration_ms": 162474,
+      "name": "En La Lumbre",
+      "url": "https://open.spotify.com/track/2ZnQIKPgq3SptPgG4XTnYU"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1763,6 +1711,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "El \u00c1guila Blanca (En Vivo)",
+        "url": "https://open.spotify.com/album/4hxaDEqUSzsUxC5FuknjIG"
+      },
+      "artists": [
+        {
+          "name": "El Bala",
+          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
+        }
+      ],
+      "duration_ms": 155906,
+      "name": "El \u00c1guila Blanca - En Vivo",
+      "url": "https://open.spotify.com/track/2Ap5NNEnnKOBA9NCgrNgQb"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "La Reina Del Condado",
         "url": "https://open.spotify.com/album/1GAYzF6ub76uaNaW8srhAI"
       },
@@ -1775,6 +1739,42 @@
       "duration_ms": 149333,
       "name": "La Reina Del Condado",
       "url": "https://open.spotify.com/track/0UzgGknQoXDbSmwAfsvqDN"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/456vorveaWp2EZSHNDhHAG"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/5Eelane6BPV4SbiSP33ATI"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Mi Otra Mitad",
+        "url": "https://open.spotify.com/album/6ng2XgZrg5Z4r7r6qyxiil"
+      },
+      "artists": [
+        {
+          "name": "Lluvia Ar\u00e1mbula",
+          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
+        },
+        {
+          "name": "Diego Rosas",
+          "url": "https://open.spotify.com/artist/7zromlgF76RPTd6Cg5u6EG"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/62FXhXv6HATkfAzCmNWTlb"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

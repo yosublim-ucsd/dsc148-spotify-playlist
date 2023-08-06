@@ -4,12 +4,12 @@
 
 > El lado fluorescente del indie latino featuring La Femme D'Argent.
 
-165 songs - 9 hr 55 min
+166 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 | 2023-04-07 |  |
-| [@CLOSEFRIENDS](https://open.spotify.com/track/6Fx5kFcfK0ttt4RlN8dJUU) | [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH), [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [CASI ANGELES <3](https://open.spotify.com/album/3vi4ZvttJXaVu4wZVwr3Qd) | 3:45 | 2023-04-21 |  |
+| [@CLOSEFRIENDS](https://open.spotify.com/track/6Fx5kFcfK0ttt4RlN8dJUU) | [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH), [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [CASI ANGELES <3](https://open.spotify.com/album/3vi4ZvttJXaVu4wZVwr3Qd) | 3:45 | 2023-04-21 | 2023-08-06 |
 | [A Veces No Da](https://open.spotify.com/track/4oSj4VDcYCjt74sswuw7Ou) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [A Veces No Da](https://open.spotify.com/album/6pWQ8icbcWlDOSmrPA6XC5) | 3:14 | 2023-08-04 |  |
 | [Aburrido ;\(](https://open.spotify.com/track/4pJ4Ts3yrQypjpMx6xxNEB) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo), [Michelle Anzo](https://open.spotify.com/artist/7fF7CiFel3ggkgm1tDIgvb) | [Aburrido](https://open.spotify.com/album/6JhBiY6sjJ60AcY9sapS5B) | 2:58 | 2023-03-17 |  |
 | [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 | 2023-05-05 |  |
@@ -113,6 +113,7 @@
 | [Nana para Mamá](https://open.spotify.com/track/3cDmq6mlgFWbRybIE3WiSi) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Sin Prisa No Quiero Morir](https://open.spotify.com/album/7D8yX9HULFDEVTxG4GPM01) | 5:33 | 2023-03-17 | 2023-08-05 |
 | [New Age](https://open.spotify.com/track/1xjZUL0oSuUlRSpcoMYNU1) | [Electrochongo](https://open.spotify.com/artist/0ASM7GbGMFULTR94GOUXfM), [Divina Encarnacion](https://open.spotify.com/artist/1ACEllXdXoaFfZQ5QfVoqQ) | [New Age](https://open.spotify.com/album/6MznziDW8N5JMxV9DTerlS) | 3:09 | 2023-03-17 | 2023-04-22 |
 | [Nina](https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:36 | 2023-03-17 |  |
+| [NO ME PREGUNTES](https://open.spotify.com/track/6JKddTJyXbGga6mShraM58) | [Niki Rouge](https://open.spotify.com/artist/6YSEtGjENmA8GPYecg87dQ), [Violeta Castillo](https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe) | [ahahahah!](https://open.spotify.com/album/56xzVV8S4I9dz9Wq95NgW1) | 3:36 | 2023-08-04 |  |
 | [NO TE KIERO OLVIDAR](https://open.spotify.com/track/5TN61Kn0bOxKKVYOGH5BuX) | [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ) | [Solitario](https://open.spotify.com/album/1tassNYSKM3abtcpONTpMq) | 3:28 | 2023-03-17 |  |
 | [No te sueltes](https://open.spotify.com/track/2dLmnd5RQmCA913yR2mEAD) | [André Ubilla](https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN), [Felicia Morales](https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC) | [No te sueltes](https://open.spotify.com/album/1ol52rgBgzxAVG9e9u3J36) | 3:45 | 2023-06-23 |  |
 | [No Ves Tal Vez \- Evlay Remix](https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [No Ves Tal Vez \(Evlay Remix\)](https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku) | 5:13 | 2023-03-17 |  |

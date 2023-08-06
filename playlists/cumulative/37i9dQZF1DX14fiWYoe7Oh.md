@@ -4,7 +4,7 @@
 
 > The K\-Pop idols who started it all from 90's \- 10's\. \(90년대부터 2010년대까지 케이팝 아이돌 필수곡들을 즐겨보세요!\)
 
-183 songs - 11 hr 15 min
+187 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [I Am The Best](https://open.spotify.com/track/3Pb7oRunnL0T9MDZDyQDYP) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [K\-Pop Hot Hits Deutschland](https://open.spotify.com/album/59V8GZlByeSnQObYKVuWPo) | 3:28 | 2021-09-09 | 2022-11-13 |
 | [I Am the Best \(내가 제일 잘 나가\)](https://open.spotify.com/track/0JMok6kVfl3Cfy2kuz3Mg6) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2nd Mini Album](https://open.spotify.com/album/0opIxQvBGJFe3vupyvOICa) | 3:30 | 2021-09-09 | 2022-07-29 |
 | [I don't Know](https://open.spotify.com/track/5DM5iNhImOgjBW3c5OgYLn) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Seven Springs Of Apink](https://open.spotify.com/album/6N7uosa9vVi6cI1LoVF64R) | 3:44 | 2021-09-09 |  |
-| [I Feel You](https://open.spotify.com/track/1gdTztk1x8HCDlxcSR8vp3) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a) | 3:25 | 2021-09-09 |  |
+| [I Feel You](https://open.spotify.com/track/1gdTztk1x8HCDlxcSR8vp3) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a) | 3:25 | 2021-09-09 | 2023-08-06 |
+| [I Feel You](https://open.spotify.com/track/4VDY2adUsc1up1nitWztVg) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB) | 3:25 | 2021-09-09 |  |
 | [I'm Sorry \(Feat\. T.O.P\)](https://open.spotify.com/track/6UF4dbXnxEL2kTKDoGAUS8) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [T.O.P.](https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y) | [Comfort](https://open.spotify.com/album/63mXEu4xtlyEYDxBrs9EVP) | 3:56 | 2021-09-09 |  |
 | [ID; Peace B](https://open.spotify.com/track/5rvP5mbQ48itt4dtosn9Yf) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ID;Peace B \- The 1st Album](https://open.spotify.com/album/1cXbNduXaQp1NqV6EvgHFx) | 3:58 | 2021-09-09 |  |
 | [Into the New World](https://open.spotify.com/track/24Gy6lVtCd8nOL2vzZiFyV) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Into the New World](https://open.spotify.com/album/6EmLwnyjJRVgNOmOUpVhzz) | 4:27 | 2021-09-09 |  |
@@ -138,7 +139,8 @@
 | [So Hot](https://open.spotify.com/track/6ZizEG2wtzeHrgKEv1eBmD) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [So Hot](https://open.spotify.com/album/31FkCs7l3VVYbapFtIjfYe) | 3:01 | 2021-09-09 |  |
 | [Supa Luv](https://open.spotify.com/track/16rn4UsqU9Gwy4nYOYgJtQ) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [TRANSFORM](https://open.spotify.com/album/6BYSBdAoqUgWoipCmIYnP7) | 3:21 | 2021-09-09 |  |
 | [T.O.P\. \(Twinkling Of Paradise\)](https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [T.O.P \- The 2nd Album](https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG) | 4:41 | 2021-09-09 |  |
-| [Tell Me \- Rap Version](https://open.spotify.com/track/0j4amgyatouEP4Ox3qDrYk) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [So Hot](https://open.spotify.com/album/31FkCs7l3VVYbapFtIjfYe) | 3:37 | 2021-09-09 |  |
+| [Tell Me](https://open.spotify.com/track/2UuKZDzjZ7cVMOvpmuAMYj) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [The Wonder Years](https://open.spotify.com/album/3svp0TRDC5MMUAPNMimAi1) | 3:37 | 2021-09-09 |  |
+| [Tell Me \- Rap Version](https://open.spotify.com/track/0j4amgyatouEP4Ox3qDrYk) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [So Hot](https://open.spotify.com/album/31FkCs7l3VVYbapFtIjfYe) | 3:37 | 2021-09-09 | 2023-08-06 |
 | [The Boys](https://open.spotify.com/track/0Me6SI6hgowLrZAKvtyVOg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 3:46 | 2021-09-09 | 2023-04-01 |
 | [The Boys](https://open.spotify.com/track/2ufbdmBzRahfTLZPQs9KR4) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [KPOP \- Girl Power Vol\. 1](https://open.spotify.com/album/5u07EeYKX4ZwFhzJAf8FEN) | 3:47 | 2021-09-09 | 2023-04-05 |
 | [The Boys](https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys \- The 3rd Album](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) | 3:48 | 2021-09-09 |  |
@@ -161,7 +163,8 @@
 | [Wedding Dress](https://open.spotify.com/track/3M0qHiwpoXUMffAS1CBB6M) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar](https://open.spotify.com/album/25XmplcV2fAid5BbBhKmx5) | 4:02 | 2021-09-09 | 2022-07-29 |
 | [What's your name?](https://open.spotify.com/track/13xfTHyEclnBd7XAS1P5Er) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Name is 4minute](https://open.spotify.com/album/5KgCib0zfgBuKVuIFr3jhU) | 3:06 | 2021-09-09 |  |
 | [White](https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Special](https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW) | 3:54 | 2021-09-09 |  |
-| [Why So Lonely](https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [Why So Lonely](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) | 3:26 | 2021-09-09 |  |
+| [Why So Lonely](https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [Why So Lonely](https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U) | 3:26 | 2021-09-09 |  |
+| [Why So Lonely](https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [Why So Lonely](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) | 3:26 | 2021-09-09 | 2023-08-06 |
 | [Wild Eyes](https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [HEY, COME ON! \- The 4th Album](https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul) | 3:21 | 2021-09-09 |  |
 | [YO! 악동보고서](https://open.spotify.com/track/2aS8459W3fVdMa2r8sRSd8) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [T.O.P \- The 2nd Album](https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG) | 3:56 | 2021-09-09 |  |
 | [You and I \(Park Bom\)](https://open.spotify.com/track/14Pn9Vd2GKwQrVYADgCZ5l) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [To Anyone](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) | 3:54 | 2021-09-09 |  |
@@ -175,7 +178,7 @@
 | [니가 있어야 할 곳 The Place You Belong](https://open.spotify.com/track/7AYSLiGvyyPlZZ4Kxa44nZ) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 4](https://open.spotify.com/album/0HxYruZGss8KfUWgZlisGp) | 3:39 | 2021-09-09 |  |
 | [달리기](https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Choose My Life\-U \- The 5th Album](https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd) | 3:33 | 2021-09-09 |  |
 | [라차타 \(LA chA TA\)](https://open.spotify.com/track/56xwRXkTTpsB1ASKJclpZF) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | ['Hot Summer' f\(x\) 1st Album Repackage](https://open.spotify.com/album/2kYov162D5mOs1tzrI19s1) | 3:14 | 2021-09-09 | 2022-07-29 |
-| [반대가 끌리는 이유](https://open.spotify.com/track/7CZiB2IQO8Rfwc6EpoYRB5) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [보통날 An Ordinary Day](https://open.spotify.com/album/1mI5TmP9QFFdqql5rBi1As) | 4:14 | 2021-09-09 |  |
+| [반대가 끌리는 이유](https://open.spotify.com/track/7CZiB2IQO8Rfwc6EpoYRB5) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [An Ordinary Day](https://open.spotify.com/album/1mI5TmP9QFFdqql5rBi1As) | 4:14 | 2021-09-09 |  |
 | [백전무패 \(百戰無敗\)](https://open.spotify.com/track/1ul8G5Eam9xzVGnG11Ull9) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Click\-B 3](https://open.spotify.com/album/59JEuiM9FKWpulCD9SzCqI) | 3:55 | 2021-09-09 |  |
 | [사랑해 그리고 기억해 Love You and Remember You](https://open.spotify.com/track/4ozA939dJl4dnAtwM8LObN) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA) | 4:22 | 2021-09-09 |  |
 | [쏘리 쏘리 Sorry, Sorry](https://open.spotify.com/track/5R6OW0wrjn94lOGF5cxVP3) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [쏘리 쏘리 Sorry, Sorry](https://open.spotify.com/album/459hy3WrWsUafUDmqS1fg5) | 3:52 | 2021-09-09 | 2022-07-29 |
@@ -185,8 +188,9 @@
 | [야야야](https://open.spotify.com/track/3tdjYReotb6TUeDNUl3bRV) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby Vox Ⅱ](https://open.spotify.com/album/49DaLjXDOJTaSoYa4fCXoD) | 3:50 | 2021-09-09 |  |
 | [어머님께 To Mother](https://open.spotify.com/track/4DRw26g8obnUsqKBJp6knP) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 1](https://open.spotify.com/album/6kdfvDv547FBuXMfeVbKnh) | 4:15 | 2021-09-09 |  |
 | [죽어도 못 보내](https://open.spotify.com/track/17IZCetcl6DzlIR1RnIGAn) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [죽어도 못 보내 Never Let You Go](https://open.spotify.com/album/1yPk5kh013RNIOyqM5Rt4L) | 3:15 | 2021-09-09 | 2022-07-29 |
-| [죽어도 못 보내](https://open.spotify.com/track/6bX31xvB4HeeUOMorR77oV) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [죽어도 못 보내 Never Let You Go](https://open.spotify.com/album/37Mz6EoieVepZzvLDL87I0) | 3:15 | 2021-09-09 |  |
-| [죽어도 못 보내](https://open.spotify.com/track/6PHctRrk4oCNORizN1TEbe) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [잘못했어](https://open.spotify.com/album/099crDGIwr2zDPjOqcInOP) | 3:15 | 2021-09-09 |  |
+| [죽어도 못 보내](https://open.spotify.com/track/6bX31xvB4HeeUOMorR77oV) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Never Let You Go](https://open.spotify.com/album/37Mz6EoieVepZzvLDL87I0) | 3:15 | 2021-09-09 |  |
+| [죽어도 못 보내](https://open.spotify.com/track/0QqKvFZeDz117QeOJiZqpl) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [잘못했어](https://open.spotify.com/album/1uo769ES4151A4n9tu9uly) | 3:15 | 2021-09-09 |  |
+| [죽어도 못 보내](https://open.spotify.com/track/6PHctRrk4oCNORizN1TEbe) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [잘못했어](https://open.spotify.com/album/099crDGIwr2zDPjOqcInOP) | 3:15 | 2021-09-09 | 2023-08-06 |
 | [지운 얼굴 \(Familiar Face\)](https://open.spotify.com/track/59CYOWfGI9HEtxv4b4sTvx) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [It's Raining](https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ) | 4:09 | 2021-09-09 | 2023-08-05 |
 | [촛불하나 One Candle](https://open.spotify.com/track/6A1uiSNxlOU8sndZRh9oZB) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 3](https://open.spotify.com/album/0D2zCQSe7KW2PEcwadf9RY) | 3:31 | 2021-09-09 |  |
 | [태양을 피하는 방법 How to Run From the Sun \(Gtr.Remix\)](https://open.spotify.com/track/2ESHlCrJsHzgx8XL1MCkFo) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [RAIN 2](https://open.spotify.com/album/7gjMBUCENFdEPZwSlVW1gE) | 3:51 | 2021-09-09 | 2023-08-05 |

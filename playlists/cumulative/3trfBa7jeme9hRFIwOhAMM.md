@@ -4,7 +4,7 @@
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-76 songs - 3 hr 43 min
+78 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [In The Way](https://open.spotify.com/track/34UZKbpMZJjipetUfiQ0Dk) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [In The Way](https://open.spotify.com/album/6DJimTcE577JgLsRT1Xnvx) | 3:08 | 2023-07-11 | 2023-07-21 |
 | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF) | 2:36 | 2023-06-26 | 2023-07-14 |
 | [Insane](https://open.spotify.com/track/4O5ChKGayxRNVVsOZqMdKo) | [Mischa Dash](https://open.spotify.com/artist/45cOTzG7Lg5NqDBn9dzvI2), [Kxne](https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD) | [Insane](https://open.spotify.com/album/4W0MTbyuwSbEa8r5dqt7wz) | 2:38 | 2023-06-26 | 2023-07-14 |
+| [Knock](https://open.spotify.com/track/6xCnx2kMhQqHIN4A9c0318) | [HIDDN](https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX) | [Knock](https://open.spotify.com/album/4j5P3SsyLB5jW24cpPiqdi) | 2:05 | 2023-08-04 |  |
 | [La Revolution](https://open.spotify.com/track/356nHbjGvIjIn5JCppGmzW) | [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx), [Kenty Clide](https://open.spotify.com/artist/2Shy7amYgzRmadn7sX4Ri0) | [La Revolution](https://open.spotify.com/album/0hYf3YCRmn3EyaUBphvWQv) | 3:10 | 2023-07-11 | 2023-07-21 |
 | [Like That \(feat\. Tyler Graves\)](https://open.spotify.com/track/0TTMHvVELhQrH1Hit65Yc6) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq) | [Like That \(feat\. Tyler Graves\)](https://open.spotify.com/album/1U1xk9VZDquRwDoUeBAtvd) | 2:48 | 2023-07-26 |  |
 | [Louis V \- MPH Remix](https://open.spotify.com/track/3T0HgHn0vrLoeCotzenuOd) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Night Bass Remixed: Vol\. 4](https://open.spotify.com/album/0woQlwNsQxgUlwZQsLAl77) | 3:11 | 2023-07-21 |  |
@@ -81,8 +82,9 @@
 | [Vertigo](https://open.spotify.com/track/0Cv7pfVZT1KjaqpylUsYQH) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Vertigo](https://open.spotify.com/album/4s8l87cU1Z2Sg5iKualNLr) | 2:47 | 2023-06-26 |  |
 | [VIP Business](https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [VIP Business](https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC) | 3:00 | 2023-06-26 | 2023-07-29 |
 | [Vision](https://open.spotify.com/track/6oKSbAIYE9hQMLWMfSRZja) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Vision](https://open.spotify.com/album/7FIjCxHSC5N63alQv0LcYV) | 2:55 | 2023-06-26 | 2023-07-15 |
-| [Wataqui](https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Wataqui](https://open.spotify.com/album/338oBgeuDJHByptkUWZpbS) | 2:34 | 2023-07-11 |  |
+| [Wataqui](https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Wataqui](https://open.spotify.com/album/338oBgeuDJHByptkUWZpbS) | 2:34 | 2023-07-11 | 2023-08-06 |
 | [Watch](https://open.spotify.com/track/1L97rUfj3FJuc4qaHZ1rOW) | [Pietro Giacobbi](https://open.spotify.com/artist/2RVumPcu7wWoI8IbjrRMh7), [STRIKE](https://open.spotify.com/artist/3bhyWD5owEvPViJnjYL34g) | [Watch](https://open.spotify.com/album/0ezqrQoFD5jsCxgWLkIAoD) | 2:36 | 2023-07-28 |  |
+| [Work It Out](https://open.spotify.com/track/0cRO24ZJgiYMLWUs3ClQsA) | [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [KiNG RO](https://open.spotify.com/artist/0XEaX97bpyY7SYzRITCai3) | [Work It Out](https://open.spotify.com/album/7moiA42A1tSRCTnk0GSqPE) | 2:09 | 2023-08-04 |  |
 | [Yonkis](https://open.spotify.com/track/4E8yww1JsR3QRK73z58OAd) | [Alvaro Marteen](https://open.spotify.com/artist/6slj5Mjaokbx7kOukYvqDQ) | [Yonkis](https://open.spotify.com/album/0nILwsuqAJl1lwyBKessOX) | 3:18 | 2023-07-14 |  |
 
 \*This playlist was first scraped on 2023-07-04. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-376 songs - 21 hr 35 min
+377 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Call My Name](https://open.spotify.com/track/2RTSOgbEyShCnvxsHbCC7D) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Call My Name](https://open.spotify.com/album/7klufynHglkdPiPu82O4wB) | 3:03 | 2022-03-25 | 2022-07-27 |
 | [Call On Me \(feat\. Vancouver Sleep Clinic\)](https://open.spotify.com/track/6IhHyxeOqS6LKgP2Lawj55) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Call On Me \(feat\. Vancouver Sleep Clinic\)](https://open.spotify.com/album/36qsZ0ZS3zVec6Bg8nRubI) | 4:53 | 2022-09-02 |  |
 | [Can't Forget](https://open.spotify.com/track/43fYV59PPeDZ0dyoUG5QiB) | [jav3x](https://open.spotify.com/artist/0nHGg797sccUrCQxMC8Gn5), [GhostDragon](https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O), [Daye](https://open.spotify.com/artist/60osBGZW2H9FtEecIfybMt) | [Can't Forget](https://open.spotify.com/album/4nRYVWb3uSzqZAdKguFXne) | 3:46 | 2022-07-14 | 2022-09-10 |
-| [Can't Sleep Alone At Night](https://open.spotify.com/track/7BBzoOS8HR4zdlk1y0VNBB) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Reload EP](https://open.spotify.com/album/6ImjX7QeTg1JljGIawFWWP) | 2:58 | 2022-01-28 |  |
+| [Can't Sleep Alone At Night](https://open.spotify.com/track/7BBzoOS8HR4zdlk1y0VNBB) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Reload EP](https://open.spotify.com/album/6ImjX7QeTg1JljGIawFWWP) | 2:58 | 2022-01-28 | 2023-08-06 |
 | [Carbonara](https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Carbonara](https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8) | 2:52 | 2022-01-07 | 2022-11-12 |
 | [care about u](https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2) | 3:21 | 2022-01-07 | 2023-03-01 |
 | [care about u](https://open.spotify.com/track/4jZlOF64flGokeFKZFeK6o) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/7zMyMiXtQe4ZKn3Hkrsvom) | 3:21 | 2023-03-10 |  |
@@ -76,6 +76,7 @@
 | [Connection](https://open.spotify.com/track/6YcFNAsBntqdR0dd3ManI8) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Connection](https://open.spotify.com/album/6bi8u9QUWXCYW8w9IT88D3) | 3:15 | 2023-06-23 |  |
 | [Crickets \(fall\)](https://open.spotify.com/track/2MKiELazu3ilHf99AZpYWp) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP) | [Dream III \(DELUXE\)](https://open.spotify.com/album/3IWj8fumIThus6iX1F6Iyw) | 2:02 | 2022-01-07 | 2022-07-26 |
 | [Dating Start!](https://open.spotify.com/track/1SLjM6O8o9C3U6do7tWLCS) | [Sprightly](https://open.spotify.com/artist/4kMqA4BxUx49x0FB8Ujtgc), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Dating Start!](https://open.spotify.com/album/7pNA5dRViW8v7Y7i4EXyRl) | 3:31 | 2022-01-07 | 2022-07-26 |
+| [Day Dreams](https://open.spotify.com/track/03DGwbY8WataLlPkklkXKL) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Day Dreams](https://open.spotify.com/album/2bb8gN0xF2BGAGrolED9zU) | 3:45 | 2023-08-04 |  |
 | [Diary of a poor kid](https://open.spotify.com/track/23uKGOIVrnt2i0hrjCD4Mo) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Blossom EP](https://open.spotify.com/album/01qt9DqlOhvFSOAj6hPFmt) | 4:35 | 2022-01-07 | 2022-07-24 |
 | [Disarray](https://open.spotify.com/track/30zvQCySGGxPjbFH0LRxiO) | [MusicbyAden](https://open.spotify.com/artist/3QgJNrZ9jkKy6IFQBjdvEV) | [Disarray](https://open.spotify.com/album/7zANuVkGAnC5Ve4vUMlGbG) | 2:21 | 2022-01-07 | 2022-07-28 |
 | [Disclosure](https://open.spotify.com/track/2vcJAITdwdlaZzOfOQeBYN) | [The Brig](https://open.spotify.com/artist/4lnwcv2fzQL7Y7bguVBvQ9), [Sad Meal](https://open.spotify.com/artist/44DQroO5pKvyP5o4CTSEna) | [Disclosure](https://open.spotify.com/album/0aINfNlOPi8ttvutUWltMR) | 3:05 | 2022-01-07 | 2022-07-06 |

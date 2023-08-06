@@ -4,7 +4,7 @@
 
 > 
 
-482 songs - 21 hr 41 min
+485 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Darkest Before Dawn](https://open.spotify.com/track/4RIdKsqdglJ5JqTG8kTvw7) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Me, Myself & I](https://open.spotify.com/album/3SoT68kHV9Q8Y3NR3Bo7Ok) | 3:56 | 2022-07-02 | 2023-04-12 |
 | [DayCare](https://open.spotify.com/track/4pfKtIZ72ue8kCRaA1YN64) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [DayCare](https://open.spotify.com/album/2SOWsVk19fmFxBeRQJ55Et) | 2:03 | 2022-07-23 |  |
 | [DeathStar \(feat\. Trippie Redd, KanKan\)](https://open.spotify.com/track/2h7enN7cXVsN6s54d9oGqA) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [KanKan](https://open.spotify.com/artist/5jrVFIwqg3H8O1vDZqeQOB) | [Sexually Active](https://open.spotify.com/album/2jNzC0Im9D4XyFxL8C6A7R) | 4:21 | 2022-02-26 |  |
+| [DELRESTO \(ECHOES\) \(feat\. Beyoncé\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 | 2023-08-04 |  |
 | [Demon](https://open.spotify.com/track/3m2r08Ylrjz6BdL735auPh) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [Rich slime](https://open.spotify.com/album/2Oe8Vc7miZMoHiB6pr1SXX) | 2:27 | 2022-10-18 |  |
 | [Did It Again](https://open.spotify.com/track/07z3x7UhAHhuBNzAlZ4olU) | [Lunchbox](https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId) | [New Jazz](https://open.spotify.com/album/4KIdIkyXLJ73H0ddKVJSl2) | 1:52 | 2023-06-02 | 2023-07-17 |
 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 | 2023-07-10 |  |
@@ -135,6 +136,7 @@
 | [F.F.](https://open.spotify.com/track/2th6kLQPb9HzsgTI5VxHNp) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [RED & WHITE](https://open.spotify.com/album/4aTdfh8F07U59ClqhljKHp) | 3:10 | 2022-09-10 | 2023-05-09 |
 | [Fake\_0pps](https://open.spotify.com/track/68QWCdMKUq5JxN1R4Hj9BP) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 3:15 | 2022-09-30 |  |
 | [Fashion Habits](https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 3:21 | 2022-10-31 |  |
+| [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-08-04 |  |
 | [Filet Mignon](https://open.spotify.com/track/5VwJFzUBZbJQnxcTtvKQJT) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Spaz&B](https://open.spotify.com/album/4o9KIv44CjPEH7qFFmeWzL) | 2:38 | 2023-01-07 | 2023-03-22 |
 | [First Light](https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 2:11 | 2022-11-28 | 2023-05-09 |
 | [Fish & Chips](https://open.spotify.com/track/0L06mPuSfUUGoOzK3fa9zD) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 2:53 | 2023-03-22 |  |
@@ -269,6 +271,7 @@
 | [Mirror](https://open.spotify.com/track/5xoYormSTltk6F9SlQV6mm) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:16 | 2023-07-10 |  |
 | [Mistress](https://open.spotify.com/track/4WSbFi3yvVmaS2JGYu0h7P) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 2:51 | 2022-07-08 |  |
 | [Mobb Love](https://open.spotify.com/track/6XgVRtmN6fiLjE4UGak7e0) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Mobb Love](https://open.spotify.com/album/53O7xgfmGg4ycqpmqbqwhS) | 2:35 | 2023-01-11 | 2023-04-12 |
+| [MODERN JAM \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:15 | 2023-08-04 |  |
 | [Molly](https://open.spotify.com/track/78voFwSSy0KLQw7BhHUAyn) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Molly](https://open.spotify.com/album/7pzfdgVTRRSaeXEESqjM6J) | 2:49 | 2022-04-20 |  |
 | [Money Twërk](https://open.spotify.com/track/29Z5qdYEYNFxly8n6Dt7kp) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 2:19 | 2022-08-26 |  |
 | [Mr Gaulden](https://open.spotify.com/track/2gWvBbkutosMkcK7LGKUnl) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Don't Try This At Home](https://open.spotify.com/album/6mS81Go5P5wQKoybVT68NW) | 3:11 | 2023-05-31 |  |

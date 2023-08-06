@@ -4,7 +4,7 @@
 
 > For the hopeless romantic daydreamers\. Cover: Laufey
 
-85 songs - 4 hr 17 min
+86 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 | 2023-07-28 |  |
 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:42 | 2023-01-06 |  |
 | [TE AMO \(em caixa alta\)](https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 2:32 | 2023-01-06 |  |
+| [The Day That I Met You](https://open.spotify.com/track/2G31WfcBUlMGZ8lpJ0bfA1) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [The Day That I Met You](https://open.spotify.com/album/2w5BVD5WObeg5FkJxBgmES) | 2:45 | 2023-08-05 |  |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2023-01-06 |  |
 | [This Is How It Feels \(with Laufey\)](https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:44 | 2023-07-28 |  |
 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-07-28 |  |
@@ -91,7 +92,7 @@
 | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh) | 3:54 | 2023-07-25 |  |
 | [where u are](https://open.spotify.com/track/5Twzpnu3oSKEWEjSHRlhgn) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [where u are](https://open.spotify.com/album/4QtgZKyzpwutPTFkMGDFpX) | 4:41 | 2023-01-06 |  |
 | [Why Don't You](https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 3:48 | 2023-01-06 |  |
-| [You're the Reason](https://open.spotify.com/track/1OJqtwMsA3RHmAYh6DHWYK) | [Chris Wright](https://open.spotify.com/artist/2PUZljI6YOKycWygjY6EQV), [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [You're the Reason](https://open.spotify.com/album/0paZI3fai3hEJUfKglHwYl) | 2:37 | 2023-01-06 |  |
+| [You're the Reason](https://open.spotify.com/track/1OJqtwMsA3RHmAYh6DHWYK) | [Chris Wright](https://open.spotify.com/artist/2PUZljI6YOKycWygjY6EQV), [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [You're the Reason](https://open.spotify.com/album/0paZI3fai3hEJUfKglHwYl) | 2:37 | 2023-01-06 | 2023-08-06 |
 | [Zou bisou bisou](https://open.spotify.com/track/2fxvANiJMVbMvuqNWUilEM) | [Gillian Hills](https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL) | [Zou bisou bisou \(Original Version\)](https://open.spotify.com/album/6RGW7AdxrvowqfBp4gP5o5) | 2:18 | 2023-01-06 |  |
 
 \*This playlist was first scraped on 2023-01-18. Prior content cannot be recovered.

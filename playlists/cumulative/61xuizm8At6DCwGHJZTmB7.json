@@ -6099,6 +6099,28 @@
     },
     {
       "album": {
+        "name": "Who Else (Live)",
+        "url": "https://open.spotify.com/album/3CqhQB1z0nVAmVHlqFSClB"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Claire Smith",
+          "url": "https://open.spotify.com/artist/2e2bviyMnMs4Dq8iFbCO7s"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290894,
+      "name": "Who Else - Live",
+      "url": "https://open.spotify.com/track/7gNM9aohgou9HSYbm7QU7H"
+    },
+    {
+      "album": {
         "name": "Who Is This Man",
         "url": "https://open.spotify.com/album/1CgKtmZIU9ttrNToJxfPRp"
       },

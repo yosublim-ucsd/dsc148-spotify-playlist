@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 
 > This is Kierra Sheard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,598 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,599 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 | 43 | [You](https://open.spotify.com/track/7z6Jurf9Zop6ORA1FGGZPO) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [This Is Me](https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB) | 2:49 |
 | 44 | [Alright](https://open.spotify.com/track/6v01OWiPG9SPxO8FVtK35Y) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [The Village Is On Fire](https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh) | 4:38 |
 | 45 | [Things You Do](https://open.spotify.com/track/4VUmDewHDyFXG18HW5usFi) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 2:46 |
-| 46 | [You Are \- Live](https://open.spotify.com/track/0dLIGgBWUiq1Kiz8faf7KR) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee) | 6:16 |
-| 47 | [Somehow \(feat\. Kierra Sheard\)](https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Oil + Water](https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX) | 5:15 |
+| 46 | [Somehow \(feat\. Kierra Sheard\)](https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Oil + Water](https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX) | 5:15 |
+| 47 | [You Are \- Live](https://open.spotify.com/track/0dLIGgBWUiq1Kiz8faf7KR) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee) | 6:16 |
 | 48 | [All I Am](https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [I Owe You](https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL) | 2:52 |
 | 49 | [Grateful](https://open.spotify.com/track/4KRV4TREh5zVsIxrnvA8XL) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 3:29 |
 | 50 | [You Must Break \- Live](https://open.spotify.com/track/0VKBh0ADbBSiDbvB97NuqK) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 9:07 |
 
-Snapshot ID: `MjgxODYwODEsMDAwMDAwMDA5ZWY0NzNmYmY0OGE3MmZmMDMwNDk2NGE3MWNjY2U0Yg==`
+Snapshot ID: `MjgxODczODgsMDAwMDAwMDBiZDYxNDIwYjcxMGUzZTA4MTEyMjVmM2ZjZDdmOWU1NQ==`

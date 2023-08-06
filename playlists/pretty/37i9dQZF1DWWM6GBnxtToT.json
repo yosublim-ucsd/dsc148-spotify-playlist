@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 567962,
+  "num_followers": 568165,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDU5M2QwN2ZkNTQ0MGNiYzhjZDIyYWRiYzQ5MDdjZGU0NDRkMTgz",
+  "snapshot_id": "MCw1ODkwNDU5Njc0OGNhZTNkYWRjMTU4NTU1MDZlNDZlNTA0NTk3MmYw",
   "tracks": [
     {
       "added_at": "2023-07-20 08:56:53",
@@ -515,18 +515,22 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "life goes by",
-        "url": "https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY"
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
       },
       "artists": [
         {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 153984,
-      "name": "life goes by",
-      "url": "https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz"
+      "duration_ms": 226103,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -551,22 +555,18 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
+        "name": "life goes by",
+        "url": "https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        },
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
         }
       ],
-      "duration_ms": 226103,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
+      "duration_ms": 153984,
+      "name": "life goes by",
+      "url": "https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Twister",
-        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/0uJ1vzYedMJ8ASp1TFQyEr"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 192109,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6HSEHDSU9XmdxheOyQBn1I"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Twister",
+        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 266614,
-      "name": "2001",
-      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Go Out",
         "url": "https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 154452,
       "name": "Go Out",
       "url": "https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 266614,
+      "name": "2001",
+      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Proportions",
-        "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
-      },
-      "artists": [
-        {
-          "name": "Seed to Tree",
-          "url": "https://open.spotify.com/artist/5eTXENvednmXhr6r5lUWhY"
-        }
-      ],
-      "duration_ms": 277480,
-      "name": "Apart",
-      "url": "https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Sweet Melancholy",
         "url": "https://open.spotify.com/album/3eR4Py7KIGQ0hsLtnFUYH8"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 178240,
       "name": "Sweet Melancholy",
       "url": "https://open.spotify.com/track/6pPQ49LVCxxxjxJArSvdxl"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Proportions",
+        "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
+      },
+      "artists": [
+        {
+          "name": "Seed to Tree",
+          "url": "https://open.spotify.com/artist/5eTXENvednmXhr6r5lUWhY"
+        }
+      ],
+      "duration_ms": 277480,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
+        "name": "More Than Happiness",
+        "url": "https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0"
+      },
+      "artists": [
+        {
+          "name": "Matija",
+          "url": "https://open.spotify.com/artist/0AT9xOpJni8J7sM4UNrrt9"
+        }
+      ],
+      "duration_ms": 238186,
+      "name": "More Than Happiness",
+      "url": "https://open.spotify.com/track/3AosSVnv55KvhcpPaj5IO1"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
         "name": "Get High",
         "url": "https://open.spotify.com/album/4NqTaiWEVCaEK4AXrPCgyn"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 191499,
       "name": "Majored In Broken Hearts",
       "url": "https://open.spotify.com/track/1zIqRF5cnIkUnrKwIbFxUc"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
-        "name": "More Than Happiness",
-        "url": "https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0"
-      },
-      "artists": [
-        {
-          "name": "Matija",
-          "url": "https://open.spotify.com/artist/0AT9xOpJni8J7sM4UNrrt9"
-        }
-      ],
-      "duration_ms": 238186,
-      "name": "More Than Happiness",
-      "url": "https://open.spotify.com/track/3AosSVnv55KvhcpPaj5IO1"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Shot Shot Cherry",
-        "url": "https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg"
-      },
-      "artists": [
-        {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
-        }
-      ],
-      "duration_ms": 152584,
-      "name": "Shot Shot Cherry",
-      "url": "https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Morning Dew",
         "url": "https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 159454,
       "name": "Morning Dew",
       "url": "https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Shot Shot Cherry",
+        "url": "https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg"
+      },
+      "artists": [
+        {
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+        }
+      ],
+      "duration_ms": 152584,
+      "name": "Shot Shot Cherry",
+      "url": "https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Road",
-        "url": "https://open.spotify.com/album/5wsDrnB9aUVEhvsvgX01KI"
-      },
-      "artists": [
-        {
-          "name": "Color The Night",
-          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
-        }
-      ],
-      "duration_ms": 193101,
-      "name": "Take Me Home Boy",
-      "url": "https://open.spotify.com/track/31hKb1hxqNKGY5JW9yrCxj"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Aloe Vera (Clear My Mind)",
         "url": "https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 163327,
       "name": "Aloe Vera (Clear My Mind)",
       "url": "https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Road",
+        "url": "https://open.spotify.com/album/5wsDrnB9aUVEhvsvgX01KI"
+      },
+      "artists": [
+        {
+          "name": "Color The Night",
+          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
+        }
+      ],
+      "duration_ms": 193101,
+      "name": "Take Me Home Boy",
+      "url": "https://open.spotify.com/track/31hKb1hxqNKGY5JW9yrCxj"
     },
     {
       "added_at": "2023-07-20 08:56:53",

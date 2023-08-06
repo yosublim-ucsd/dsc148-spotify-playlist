@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover:  <a href=\"https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=7476425269ff490a\">Pastor Mike Jr.</a>, <a href=\"https://www.thestellarawards.com/index.html\">Stellar Awards'</a> Artist of the Year ",
-  "num_followers": 626007,
+  "num_followers": 626133,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2VlODJhMzM3OGQyMWFmZGYwYjAxNjc2NDNjNTM1ZmM5NWJlNzEx",
+  "snapshot_id": "MCwzMWI5MTI0ZTZhMjlhMjc4ZWQzZmExNzIxZDAzOGZiNTgwYTViNzk4",
   "tracks": [
     {
       "added_at": "2023-08-04 07:09:27",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
-        "name": "Forever Yours",
-        "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 244133,
-      "name": "I Need A Word",
-      "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
         "name": "Imprint (Live in Memphis)",
         "url": "https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 283040,
       "name": "You Don't Know - Bonus Track",
       "url": "https://open.spotify.com/track/4EU4M5kgRPhnCBtWS6SJgt"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 244133,
+      "name": "I Need A Word",
+      "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
     },
     {
       "added_at": "2023-08-04 07:09:27",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
+        "name": "Place Called Victory - EP",
+        "url": "https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l"
+      },
+      "artists": [
+        {
+          "name": "Deon Kipping",
+          "url": "https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS"
+        }
+      ],
+      "duration_ms": 383552,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
         "name": "Better Days (Live)",
         "url": "https://open.spotify.com/album/57XaIqrhGfRe5MYGLxa27k"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 323333,
       "name": "Better Days - Live",
       "url": "https://open.spotify.com/track/1GBtvDSR3e5D5GJAYIYhEc"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
-        "name": "Place Called Victory - EP",
-        "url": "https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l"
-      },
-      "artists": [
-        {
-          "name": "Deon Kipping",
-          "url": "https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS"
-        }
-      ],
-      "duration_ms": 383552,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG"
     },
     {
       "added_at": "2023-08-04 07:09:27",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
-        "name": "Overflow",
-        "url": "https://open.spotify.com/album/7gggTmjWOAI4VtzBKDhSz4"
-      },
-      "artists": [
-        {
-          "name": "Bryan Andrew Wilson",
-          "url": "https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i"
-        },
-        {
-          "name": "Roderick Giles & Grace",
-          "url": "https://open.spotify.com/artist/5jMr6s2EqsG4U4HQROzA8e"
-        }
-      ],
-      "duration_ms": 265213,
-      "name": "Overflow",
-      "url": "https://open.spotify.com/track/6BMKu4bu0kDdPYviP1Umrz"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
         "name": "Brother (Mahogany x IRIS)",
         "url": "https://open.spotify.com/album/4iGPiRikSzYNxwPxfvUDxb"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 221907,
       "name": "Brother - Mahogany x IRIS",
       "url": "https://open.spotify.com/track/7KJYN0aBnEOYo7cnvGcDDL"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/7gggTmjWOAI4VtzBKDhSz4"
+      },
+      "artists": [
+        {
+          "name": "Bryan Andrew Wilson",
+          "url": "https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i"
+        },
+        {
+          "name": "Roderick Giles & Grace",
+          "url": "https://open.spotify.com/artist/5jMr6s2EqsG4U4HQROzA8e"
+        }
+      ],
+      "duration_ms": 265213,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/6BMKu4bu0kDdPYviP1Umrz"
     },
     {
       "added_at": "2023-08-04 07:09:27",

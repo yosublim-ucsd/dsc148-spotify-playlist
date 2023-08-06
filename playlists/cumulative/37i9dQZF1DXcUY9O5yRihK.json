@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "The Day That I Met You",
+        "url": "https://open.spotify.com/album/2w5BVD5WObeg5FkJxBgmES"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165080,
+      "name": "The Day That I Met You",
+      "url": "https://open.spotify.com/track/2G31WfcBUlMGZ8lpJ0bfA1"
+    },
+    {
+      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 157387,
       "name": "You're the Reason",
       "url": "https://open.spotify.com/track/1OJqtwMsA3RHmAYh6DHWYK"

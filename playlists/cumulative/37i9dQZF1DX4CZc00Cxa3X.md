@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-296 songs - 23 hr 26 min
+297 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Moon Road](https://open.spotify.com/track/6HIXHWmCdv0ZBLE0vmeh7P) | [Yumiko Morioka](https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o) | [Resonance](https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk) | 5:19 | 2022-03-17 | 2023-01-07 |
 | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/track/0AuC6j66fjBzcNjWViIlfr) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/album/2eAOEEB8t84it83QgeZBOO) | 4:18 | 2022-03-17 | 2022-09-13 |
 | [Morning](https://open.spotify.com/track/0ry0QY44R8IrB7cQapROCS) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Sun//Rain](https://open.spotify.com/album/79FXd9aIqWS5jy4kOT2owa) | 4:27 | 2022-05-18 | 2023-07-22 |
+| [Movement VI](https://open.spotify.com/track/1J7c6tLnU6N6sGH0wiJOcp) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Movement VI](https://open.spotify.com/album/4y2rMrcRZQZFYrMHDzAloe) | 3:28 | 2023-08-04 |  |
 | [Mt Baker](https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:12 | 2022-03-17 | 2023-01-28 |
 | [Music For Psychedelic Therapy \- Excerpt](https://open.spotify.com/track/4xT0BmSuDNp2vkK5v07yba) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Music For Psychedelic Therapy \(Excerpt\)](https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv) | 7:07 | 2023-05-19 | 2023-06-06 |
 | [Music for Six Rooms](https://open.spotify.com/track/2kTVyBg5HoJBXo2qNPb7Tf) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 10:06 | 2022-03-17 | 2023-03-18 |
@@ -208,7 +209,7 @@
 | [Requiem](https://open.spotify.com/track/1NFDuSokDMAiE4iRuac5sl) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Headwaters](https://open.spotify.com/album/4zw3XeZ8dDXuUDcd1flLtl) | 12:27 | 2022-11-11 | 2023-02-18 |
 | [Resolve](https://open.spotify.com/track/3uIVrCIl65nlhaFL80bt2N) | [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy) | [Resolve](https://open.spotify.com/album/3zg1VuUxrTaOtItzW5pzE9) | 3:09 | 2022-03-17 | 2022-07-28 |
 | [rest](https://open.spotify.com/track/1bu0i3ZkCVYTTQhBywwJWK) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Rift](https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8) | 2:53 | 2022-03-30 | 2023-03-18 |
-| [Returning After Leaving](https://open.spotify.com/track/3M8vFR2Dca5db4ZDGiYnY5) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [Soundtracks for Winter Departures](https://open.spotify.com/album/4ktjEssT9GeVlNhhliA269) | 5:11 | 2023-03-16 |  |
+| [Returning After Leaving](https://open.spotify.com/track/3M8vFR2Dca5db4ZDGiYnY5) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [Soundtracks for Winter Departures](https://open.spotify.com/album/4ktjEssT9GeVlNhhliA269) | 5:11 | 2023-03-16 | 2023-08-06 |
 | [Rintocco](https://open.spotify.com/track/5su2UU0bULk5kcpZtaWeE3) | [Fools](https://open.spotify.com/artist/79nlYDq7D71uO2A3NU0YAl) | [Fools' Harp, Vol\. 1](https://open.spotify.com/album/1yDu2ypRHg38PJ3yxWPklf) | 4:14 | 2022-03-17 | 2023-01-28 |
 | [Rose](https://open.spotify.com/track/2GueQZEzOPh8WFlGs2LEZf) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Boavista](https://open.spotify.com/album/6KxqCQfOLFFfiw5R16CW2R) | 5:46 | 2023-05-19 | 2023-06-06 |
 | [Scraping Bottom](https://open.spotify.com/track/4Ogz3gT1fLa1QbJEqRQhWM) | [Erick McNerney](https://open.spotify.com/artist/6XyrTf4egAUHQaGGZCOFIF) | [Music For Runways](https://open.spotify.com/album/3HkSJaQqyYXS5FYiMG6B2t) | 10:36 | 2022-03-17 | 2022-07-26 |

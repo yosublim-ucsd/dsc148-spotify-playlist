@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor, tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,630 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,698 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 2 | [Close Friends](https://open.spotify.com/track/4v6TGGmgoJC3P2gqToqJLr) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [A$IX](https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP) | [Virus Love](https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn) | 3:52 |
 | 3 | [Intriga](https://open.spotify.com/track/4VQOUertHGuID2EgEzVF30) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [Essa Minha Vida Bandida](https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH) | 2:32 |
 | 4 | [Ela Ama](https://open.spotify.com/track/0GFyuySDcYoCQBreOg7AQv) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Drot](https://open.spotify.com/artist/6iSSOAGO9DBRh54q6rBXi3) | [Drip Sesh, Vol\. 1](https://open.spotify.com/album/07j32H5r7zVrkEzUYb62AK) | 2:35 |
-| 5 | [Noite de Verão](https://open.spotify.com/track/6ShMk27U60Vr1kpz5qexCN) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Olivia](https://open.spotify.com/artist/7s1RJnhv0lTnZBILjwjZXf), [Rick Beatz](https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 2:40 |
+| 5 | [Noite de Verão](https://open.spotify.com/track/6ShMk27U60Vr1kpz5qexCN) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Rick Beatz](https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 2:40 |
 | 6 | [Beyoncé 2](https://open.spotify.com/track/48yfdCj8t8WuoITwpSXRcQ) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 3:08 |
 | 7 | [Perigo e Adrenalina](https://open.spotify.com/track/0SjJA0HfTrNLu2qWQfHbbM) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [ERREJOTACULTDRILL, Vol\. 2 \- Esquema Novo](https://open.spotify.com/album/0PwwCnbPX0A6AiiRolXUJm) | 2:55 |
 | 8 | [Querosene](https://open.spotify.com/track/06yiuwSsvuompF3GsE03fo) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO) | [Querosene](https://open.spotify.com/album/0ZLT9At6029lsGL9qm1QyL) | 2:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Bandida](https://open.spotify.com/track/4S5PgR1MoE3nnVJHHtm0GL) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz) | [Bandida](https://open.spotify.com/album/0hMR7bGDhFgCLWbUfN4XPD) | 4:32 |
 | 75 | [Abre a porta](https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Abre a porta](https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd) | 2:22 |
 
-Snapshot ID: `MCw5OTNlZjUzZTUzNGVhZWIzYzBlMmE1NTM1OTY1MTU5NjhhZjAyZTc2`
+Snapshot ID: `MCwxZGJmMGFmYmFmZTM5YzE2M2M1OGExYzdiOTJjMDdmZTZmOTQ0Mjll`

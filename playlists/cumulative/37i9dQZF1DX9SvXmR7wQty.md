@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Eli Rose
 
-1,972 songs - 4 day 9 hr 18 min
+1,973 songs - 4 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Banque de Beats Mondiale](https://open.spotify.com/track/51bo58pFgahPEbg4ZtQAMn) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Banque de Beats Mondiale](https://open.spotify.com/album/62KeY1v3G53EralWy54EJh) | 2:15 | 2023-06-16 | 2023-06-24 |
 | [Bar\-Mitzvah](https://open.spotify.com/track/0HtbhFPKGWDyQ4DaqnDdXx) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Bar\-Mitzvah](https://open.spotify.com/album/2ViwDVuKHnZB19SPraHgu0) | 2:07 | 2022-07-22 | 2022-08-20 |
 | [Barbade](https://open.spotify.com/track/5zzOE42zx3RsAt8YSHeFrk) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [45 Degrés](https://open.spotify.com/album/0uffrPthhPnBvRdfdYvd4s) | 3:12 | 2022-07-22 | 2022-08-20 |
-| [Barcelona](https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Barcelona](https://open.spotify.com/album/1PTDr2pnlagzOXRBtkd6KK) | 2:06 | 2023-07-07 |  |
+| [Barcelona](https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Barcelona](https://open.spotify.com/album/1PTDr2pnlagzOXRBtkd6KK) | 2:06 | 2023-07-07 | 2023-08-06 |
 | [Barrières](https://open.spotify.com/track/3C4wnKdUcRx0grFcZtuB0K) | [Fifo](https://open.spotify.com/artist/5OFfXZvVHDQ76SarIJtG0a), [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Barrières](https://open.spotify.com/album/2qgaxwFqAEolIIln26xxTF) | 3:25 | 2022-10-21 | 2022-11-05 |
 | [Battleship](https://open.spotify.com/track/2RgRCdL6UgBkPUFabrM36G) | [David Jalbert](https://open.spotify.com/artist/73hJgSbsD0XvlYzI1ZmVpa) | [Le doigt d'honneur Tome II](https://open.spotify.com/album/18YetqWoWPzenG5RtA5pt0) | 3:17 | 2022-03-18 | 2022-03-26 |
 | [Bavard](https://open.spotify.com/track/6R3tleNvmMHJyHCDU5fxET) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [Renaissance](https://open.spotify.com/album/2zMexOBKvZIyu0LGwwZZu0) | 3:37 | 2022-01-21 | 2022-02-05 |
@@ -699,6 +699,7 @@
 | [Gucci, Chanel](https://open.spotify.com/track/15HDG2RFHASg5citb8CGqN) | [Réejo](https://open.spotify.com/artist/0NATGrD6MxqX3q23GqnW0k) | [Gucci, Chanel](https://open.spotify.com/album/0qoC5fTTM48wh4MSzAsFgY) | 2:13 | 2022-03-11 | 2022-03-18 |
 | [GÉ VOULAIT](https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [GÉ VOULAIT](https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC) | 2:41 | 2023-07-21 |  |
 | [Génie](https://open.spotify.com/track/6d47cASiELHow0wPMkDZbw) | [Mahdi Ba](https://open.spotify.com/artist/4bjdItQFpfNUmAWpY2ao7M), [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Génie](https://open.spotify.com/album/5nJbetDfb7n5oHvOz6JAX9) | 1:47 | 2022-07-01 | 2022-07-16 |
+| [Ha ha ha](https://open.spotify.com/track/7zOy88Gz28RDcmjuvYvpww) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Ha ha ha](https://open.spotify.com/album/4n0JjeU4YVH3jAKXHEOh8K) | 4:17 | 2023-08-04 |  |
 | [Habiba](https://open.spotify.com/track/3S4VwM5QzaYKnuw5cEGNh1) | [Jebz](https://open.spotify.com/artist/3vbbyh0Nav4O5afKC2rolq) | [Habiba](https://open.spotify.com/album/0c4YneW6tpjp5PSfmqxsTl) | 2:02 | 2022-06-24 | 2022-08-06 |
 | [Habitué](https://open.spotify.com/track/7xkEwqP3Re1IONk53wIryU) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Les Trois Étoiles, Vol\. 2](https://open.spotify.com/album/7HkXzitPnzf2j40h3fzz9a) | 2:53 | 2023-03-17 | 2023-04-15 |
 | [Habité](https://open.spotify.com/track/17P9DA88obcNP6WZYHwa39) | [Richard Séguin](https://open.spotify.com/artist/4uaplzxgAkmohdv30bAFZo) | [Habité](https://open.spotify.com/album/2cLCzhhBJx7v8jd477YK7A) | 3:41 | 2022-06-24 | 2022-07-09 |

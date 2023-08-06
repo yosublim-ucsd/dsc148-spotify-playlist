@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 
 > This is Migos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,988 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,071 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 49 | [Hot Summer](https://open.spotify.com/track/3fEpuoSr8ufvyRR7s2jB3U) | [DJ Durel](https://open.spotify.com/artist/1MHslxKWxauC559dXYEX1C), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Hot Summer](https://open.spotify.com/album/6BEHK0e0rknUYbDUIFv4Sl) | 3:51 |
 | 50 | [Body](https://open.spotify.com/track/3PGubBdFfQSHAHsXb068eG) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Mad Love The Prequel](https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6) | 3:26 |
 
-Snapshot ID: `MjgxODYwODEsMDAwMDAwMDA0MDhlYzc2Y2NmMjVmZjIzODkzZTU2OTFiZjdiZjI4YQ==`
+Snapshot ID: `MjgxODczODgsMDAwMDAwMDA3ZWZhYWQwMmE1OGI2YTY0MWQxMDM3MTYwNmIzNWMxOQ==`

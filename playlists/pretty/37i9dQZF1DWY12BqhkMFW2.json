@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 344157,
+  "num_followers": 344271,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGUyMzFhOWExM2Y5MmViOGZmN2U5NmM4YTU4ODc2YTI3ODc0NzRi",
+  "snapshot_id": "MCxkM2FkYzg4MTllYjI4MmUzN2NhYzc1ZmY1MmY1Njk1MTY4ZmY0M2E0",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -147,6 +147,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV"
+      },
+      "artists": [
+        {
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Knocks Me Off My Feet",
+      "url": "https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "A Day in the Life",
         "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 280880,
       "name": "Georgy Porgy (feat. Faith Evans)",
       "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "My Heart",
-        "url": "https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV"
-      },
-      "artists": [
-        {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Knocks Me Off My Feet",
-      "url": "https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Footsteps in the Dark Pts. 1 & 2",
-        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 317992,
-      "name": "Footsteps in the Dark Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "Enter The Dru",
         "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 335866,
       "name": "The Love We Had (Stays On My Mind)",
       "url": "https://open.spotify.com/track/1c5933EOm7iYCsbVLHNxq7"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Footsteps in the Dark Pts. 1 & 2",
+        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 317992,
+      "name": "Footsteps in the Dark Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
     },
     {
       "added_at": "2021-01-15 05:01:00",

@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-707 songs - 1 day 14 hr 5 min
+709 songs - 1 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Ballroom Bop](https://open.spotify.com/track/2N2cB0q7KoZIix3hUGsJ05) | [Kedus](https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx) | [Ballroom Bop](https://open.spotify.com/album/2PPB081sKZPjhVakuQmpzE) | 2:07 | 2022-05-13 |  |
 | [Be Alone](https://open.spotify.com/track/7e7RHOQUTfEhNzJ7wkWaXP) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Two Sides](https://open.spotify.com/album/5DBpggyo5rvfmJMv1eOrT9) | 4:07 | 2020-12-04 |  |
 | [Be Alright](https://open.spotify.com/track/2H4gf1wLxvYreMj1jcaN0k) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/1mRtVjwGgBvLiaJhPGHZ8M) | 3:16 | 2019-08-27\* | 2019-11-11 |
+| [Be Okay](https://open.spotify.com/track/2DBkMf9PHeJAc44vuYjfPL) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Be Okay](https://open.spotify.com/album/2WP9xHy2XZjI78eXGmQ5XE) | 3:28 | 2023-08-04 |  |
 | [Beautiful](https://open.spotify.com/track/3RjL8AnKslWWPmlNLTJsAU) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:14 | 2022-02-10 |  |
 | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ) | 3:17 | 2019-08-27\* | 2021-12-04 |
 | [Beauty Marks](https://open.spotify.com/track/2cWC0R1ShnLaJEYRMAD8dj) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI) | 3:36 | 2019-08-27\* | 2019-11-11 |
@@ -58,6 +59,7 @@
 | [Before](https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Before](https://open.spotify.com/album/6fXesrnlXstTyz9uurgYEY) | 3:54 | 2022-06-03 |  |
 | [Before It Started](https://open.spotify.com/track/5gWSR9TZ6txeyTzENxOq0O) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [Before It Started](https://open.spotify.com/album/2S05xv4jp1GyRdeCvcze8r) | 2:51 | 2022-05-06 |  |
 | [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 | 2022-10-27 |  |
+| [Beside You](https://open.spotify.com/track/0LQtf5wLfmhOxcOcRRgWgY) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Beside You](https://open.spotify.com/album/2ICO1fY83UlRUCzUHjFIIf) | 3:05 | 2023-08-04 |  |
 | [Best Bad News](https://open.spotify.com/track/7yQmb20fEbWamV36vs2pPL) | [Kat Edwards](https://open.spotify.com/artist/08i7j3DXn5p7I5PrdVd5bV) | [Best Bad News](https://open.spotify.com/album/02KwGACJtzQlRRgTpNYBL7) | 3:52 | 2022-06-17 |  |
 | [Best Friend](https://open.spotify.com/track/61KP2LeOc3xFonfrEezl13) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [2Sides \(Side 1\)](https://open.spotify.com/album/1RaqQTAjpuj7N5GEIA87OC) | 2:58 | 2019-11-08 | 2020-04-06 |
 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 | 2022-06-05 |  |

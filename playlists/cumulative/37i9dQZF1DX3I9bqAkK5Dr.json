@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 235114,
       "name": "FLYHIGH",
       "url": "https://open.spotify.com/track/0U0iKIRF1TlNbl12VulMN5"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 163404,
       "name": "Khadhhar",
       "url": "https://open.spotify.com/track/6BlFOA7vsaG83IMAbEgkEY"
@@ -2320,6 +2320,32 @@
       "duration_ms": 278461,
       "name": "Raba Raba",
       "url": "https://open.spotify.com/track/1XiHI6xjy82Pkef0EnC8ec"
+    },
+    {
+      "album": {
+        "name": "Ramaya",
+        "url": "https://open.spotify.com/album/0ThcLdv1zgkPsPf0VYVemw"
+      },
+      "artists": [
+        {
+          "name": "Vijay Bhaskar L.",
+          "url": "https://open.spotify.com/artist/1rglCx3pLWu1PjPAEwzXMb"
+        },
+        {
+          "name": "Saurav Mishra",
+          "url": "https://open.spotify.com/artist/6wsMHexQk4I53uIXIb5QOx"
+        },
+        {
+          "name": "Chahat Kakkar",
+          "url": "https://open.spotify.com/artist/7vPrkJCMTYLVCfgEhrOSGO"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215990,
+      "name": "Ramaya",
+      "url": "https://open.spotify.com/track/6N7vDEn2IwTeWCDsgwxNOt"
     },
     {
       "album": {

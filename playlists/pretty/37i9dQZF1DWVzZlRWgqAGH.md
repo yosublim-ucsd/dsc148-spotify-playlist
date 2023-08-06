@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 781,758 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 781,975 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Didn't Cha Know \- Live At Electric Lady](https://open.spotify.com/track/7dmgo44DhX2MOtaFV5a0HQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Live At Electric Lady](https://open.spotify.com/album/29C15dlrrccQP32Cl60kjl) | 4:23 |
 | 100 | [Move](https://open.spotify.com/track/4hPWChBkg8QvI1kTTkEO08) | [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [At First Light](https://open.spotify.com/album/79tpuDKAhZgKTwv2OE6kPM) | 3:37 |
 
-Snapshot ID: `MCwyNDMwNjcyYTU0NjI3Mjk0NmIxMTA2Y2YzYzVlMmZiN2VmMmU4NjY0`
+Snapshot ID: `MCwyYTgyNDhhODkxYjEzOGMxOWU1NmJmYmZlYjhiNTgxMDc4MDM4YTRk`

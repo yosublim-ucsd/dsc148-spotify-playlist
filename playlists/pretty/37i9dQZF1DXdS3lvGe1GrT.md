@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Allegra Krieger \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,425 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,469 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Skin The Oasis](https://open.spotify.com/track/1WGDy1DOOgVftzivJb8bup) | [Barbarisms](https://open.spotify.com/artist/7sbmLqY3ZQGtMOiH4niuk3) | [Old Hat](https://open.spotify.com/album/2rw2OPJXMrFhnfllnL1o64) | 3:47 |
 | 100 | [carnegie hall](https://open.spotify.com/track/7xAOjVo97wD5xdcHWvnxkB) | [two blinks, i love you](https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO) | [ep 1](https://open.spotify.com/album/3Gzd8ARjcAKybw51XnnpSw) | 4:45 |
 
-Snapshot ID: `MCwwODg2ZTU4ZjM2ZDA1NjNmNjA3NjU4ZjVmM2NjOGM1NDJmZDE5ZjJl`
+Snapshot ID: `MCwyNTViODJhNGU5NWIzYTljZjViZTAzNTdhNjk0MDg4MGYzOGJkMmY3`

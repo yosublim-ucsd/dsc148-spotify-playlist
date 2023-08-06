@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Knock2 & NGHTMRE
 
-522 songs - 1 day 3 hr 34 min
+523 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [DRENCH](https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [DRENCH](https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H) | 3:17 | 2023-06-02 |  |
 | [Drop](https://open.spotify.com/track/5iscY6uoraOqqKurX7G8S9) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Zensery](https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf) | [Drop](https://open.spotify.com/album/4TotKs9vQYC2JnSNNUvUz6) | 2:08 | 2023-06-09 |  |
 | [DROP 'EM](https://open.spotify.com/track/0ia4JRneHZ67w3sgTA3fL5) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [DROP 'EM](https://open.spotify.com/album/4d97rkRs2t5uB1Lk9irLky) | 2:42 | 2023-02-17 |  |
-| [Drop The Mic](https://open.spotify.com/track/1evrJzFWcnE3aVVgrv9VV8) | [Matt Steffanina](https://open.spotify.com/artist/4KOoOdorXekT3hIgRQCqi8) | [Drop The Mic](https://open.spotify.com/album/2Vgk7ORJws5bwZBdt0cWDG) | 3:10 | 2023-03-17 |  |
+| [Drop The Mic](https://open.spotify.com/track/1evrJzFWcnE3aVVgrv9VV8) | [Matt Steffanina](https://open.spotify.com/artist/4KOoOdorXekT3hIgRQCqi8) | [Drop The Mic](https://open.spotify.com/album/2Vgk7ORJws5bwZBdt0cWDG) | 3:10 | 2023-03-17 | 2023-08-06 |
 | [Drop The Top](https://open.spotify.com/track/1hYhtilcZAOXEIG4GuolxY) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Drop The Top](https://open.spotify.com/album/0VA36eUPG0iME35swH0PhQ) | 2:45 | 2021-10-29 | 2022-07-30 |
 | [Dunno](https://open.spotify.com/track/0KVjOKkkDIbdFy8a6MBH2D) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Outcast](https://open.spotify.com/album/7sQ5zoAwfFz3D0gvMxTgpU) | 2:31 | 2023-07-28 |  |
 | [Dynamit](https://open.spotify.com/track/6fYeZjIYG7Fzf6zOP7FTyW) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [Jet Crown](https://open.spotify.com/artist/0fhdgJmaNnwr1TjeElwSRp) | [Dynamit](https://open.spotify.com/album/79sO4cnYpPkleEdkRO6gE6) | 1:43 | 2022-05-27 | 2023-07-08 |
@@ -163,6 +163,7 @@
 | [Feeling Under Pressure](https://open.spotify.com/track/3DX8LKpJpOXEyNsS2NICrO) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [Feeling under Pressure](https://open.spotify.com/album/1OW3rBusYWKe9oWJ5BRccS) | 2:53 | 2023-03-31 |  |
 | [Feelings](https://open.spotify.com/track/0objHGHDjDdVGCyWYBLdQT) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/6ufiR1kjFwmTAvhrmcFLjE) | 2:41 | 2022-05-27 | 2022-07-29 |
 | [Feelings](https://open.spotify.com/track/2rERUk5OXyi7VClesHrjHO) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/1nYil94oPsydyMr1HwtYlM) | 2:41 | 2022-07-22 | 2023-04-01 |
+| [Find My Way](https://open.spotify.com/track/1xRbnHh3GidD6vzuOrTQeT) | [Giorgio Leone \(IT\)](https://open.spotify.com/artist/6zPCGqSL5ALIAZ8bbRU0b7), [Haas](https://open.spotify.com/artist/4IPYJLyaOR6FkoiLtHcUIu), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Find My Way](https://open.spotify.com/album/1hpiUpq67G7Y2aj5K9YCfX) | 3:50 | 2023-08-04 |  |
 | [First Come First Serve](https://open.spotify.com/track/0MbPkhaP4qBbq1c4SHpJJJ) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [First Come First Serve](https://open.spotify.com/album/7Ckl7E8xJBToX27jtyCG6B) | 2:33 | 2022-11-18 | 2023-04-26 |
 | [First Night Out](https://open.spotify.com/track/00QA6kDTxsghd5vukZfxeE) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [First Night Out](https://open.spotify.com/album/6goALaxPAH0sAaG2N2TLX1) | 3:53 | 2022-01-28 | 2022-07-30 |
 | [Fiya \- Curbi Edit](https://open.spotify.com/track/6hKNTG13AmbPZXy891jAZk) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Fiya \(Curbi Edit\)](https://open.spotify.com/album/296eebCCSymVYHR6fjiISA) | 4:40 | 2023-07-21 |  |

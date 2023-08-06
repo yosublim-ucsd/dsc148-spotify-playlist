@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 6005,
+  "num_followers": 6014,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzc4MWIwZTc0OGYxNWY0NDBkMTU5YmNkNzk0ZTJiOWQ5ZTFkNTA4",
+  "snapshot_id": "MCw2ZjhmYTUxZTVhMmVmZDNjZTEyYzYxMWJmNTc4NTJkMmFlOTg5Zjgy",
   "tracks": [
     {
       "added_at": "2023-08-04 12:26:54",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Hey God",
-        "url": "https://open.spotify.com/album/0cDZQ20DYbQMmnN5N9sA4L"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "Hey God",
-      "url": "https://open.spotify.com/track/35YbhHiWec53yRvrbz9org"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
         "name": "What Can I Do?",
         "url": "https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 186013,
       "name": "What Can I Do?",
       "url": "https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "Hey God",
+        "url": "https://open.spotify.com/album/0cDZQ20DYbQMmnN5N9sA4L"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "Hey God",
+      "url": "https://open.spotify.com/track/35YbhHiWec53yRvrbz9org"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
+        "name": "The Deep And The Dirty",
+        "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
+      },
+      "artists": [
+        {
+          "name": "Eric Johanson",
+          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
+        }
+      ],
+      "duration_ms": 202536,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
         "name": "Eric (Long Live The King)",
         "url": "https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h"
       },
@@ -475,6 +491,22 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
+        "name": "Sneakin' Around",
+        "url": "https://open.spotify.com/album/0q55zTFXDDIiyjipipXE5T"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 220869,
+      "name": "Sneakin\u2019 Around",
+      "url": "https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq"
       },
@@ -487,22 +519,6 @@
       "duration_ms": 131354,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
-        "name": "The Deep And The Dirty",
-        "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
-      },
-      "artists": [
-        {
-          "name": "Eric Johanson",
-          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
-        }
-      ],
-      "duration_ms": 202536,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -575,18 +591,18 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Ain't Giving Up",
-        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
+        "name": "Wild Flying Dove",
+        "url": "https://open.spotify.com/album/7CbEruTsoJilsvpQjqoqCI"
       },
       "artists": [
         {
-          "name": "Chris Duarte",
-          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
         }
       ],
-      "duration_ms": 248555,
-      "name": "Can Opener",
-      "url": "https://open.spotify.com/track/0g9eLW4RaSBuAJU0XtA6nc"
+      "duration_ms": 361005,
+      "name": "Wild Flying Dove",
+      "url": "https://open.spotify.com/track/3mmISWDyxShlW9qizsyIKP"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -603,6 +619,22 @@
       "duration_ms": 124218,
       "name": "Walk The Wire",
       "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "Ain't Giving Up",
+        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
+      },
+      "artists": [
+        {
+          "name": "Chris Duarte",
+          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
+        }
+      ],
+      "duration_ms": 248555,
+      "name": "Can Opener",
+      "url": "https://open.spotify.com/track/0g9eLW4RaSBuAJU0XtA6nc"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -655,22 +687,6 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Rubber Hits the Road",
-        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
-      },
-      "artists": [
-        {
-          "name": "SUSU",
-          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Rubber Hits the Road",
-      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
         "name": "Ain't Nobody (Pain)",
         "url": "https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW"
       },
@@ -683,6 +699,22 @@
       "duration_ms": 170769,
       "name": "Deal With the Devil (You'll Get Yours)",
       "url": "https://open.spotify.com/track/0Mj8ijetNi0BccnaDAlYYF"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "Rubber Hits the Road",
+        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
+      },
+      "artists": [
+        {
+          "name": "SUSU",
+          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Rubber Hits the Road",
+      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -719,6 +751,22 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
+        "name": "A Good Thing",
+        "url": "https://open.spotify.com/album/57syR4Vje7gemU7560rhtl"
+      },
+      "artists": [
+        {
+          "name": "Handsome Jack",
+          "url": "https://open.spotify.com/artist/3LnEknwFnnuoiVxCatyMtr"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "A Good Thing",
+      "url": "https://open.spotify.com/track/0etGqvLZLSJ99bvh3mluj8"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
         "name": "Guitar Kingdom",
         "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
       },
@@ -747,22 +795,6 @@
       "duration_ms": 201233,
       "name": "Jam With Me",
       "url": "https://open.spotify.com/track/0SdXKa4TANvfdnRZywZdp6"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
-        "name": "A Good Thing",
-        "url": "https://open.spotify.com/album/57syR4Vje7gemU7560rhtl"
-      },
-      "artists": [
-        {
-          "name": "Handsome Jack",
-          "url": "https://open.spotify.com/artist/3LnEknwFnnuoiVxCatyMtr"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "A Good Thing",
-      "url": "https://open.spotify.com/track/0etGqvLZLSJ99bvh3mluj8"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -847,22 +879,6 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Sneakin' Around",
-        "url": "https://open.spotify.com/album/0q55zTFXDDIiyjipipXE5T"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 220869,
-      "name": "Sneakin\u2019 Around",
-      "url": "https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
         "name": "Porcelain God",
         "url": "https://open.spotify.com/album/3vw7o9K4SzwD9ywcyGDFgd"
       },
@@ -943,6 +959,22 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
+        "name": "Rockabye Motel",
+        "url": "https://open.spotify.com/album/1tGugHW3RhB2c3J52Knvdy"
+      },
+      "artists": [
+        {
+          "name": "Blue Water Highway",
+          "url": "https://open.spotify.com/artist/5N5nkgCu7UG5KqNpRPiUd7"
+        }
+      ],
+      "duration_ms": 343800,
+      "name": "Rockabye Motel",
+      "url": "https://open.spotify.com/track/6MpXCmx5j9qGFM0ka5JqZU"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
         "name": "Rag Doll",
         "url": "https://open.spotify.com/album/2v3CiLH9Kvj8n7HMMq3hF6"
       },
@@ -971,6 +1003,22 @@
       "duration_ms": 193928,
       "name": "Go Down Swinging",
       "url": "https://open.spotify.com/track/4fJqzjd5rtgxPjzuTvIAeA"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
+      },
+      "artists": [
+        {
+          "name": "Arthur Terembula",
+          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
+        }
+      ],
+      "duration_ms": 134001,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -1007,66 +1055,18 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
+        "name": "Still Truckin",
+        "url": "https://open.spotify.com/album/2XiBPrUsv0DXZKPbiQVUms"
       },
       "artists": [
         {
-          "name": "Arthur Terembula",
-          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
+          "name": "Marc A Ridge",
+          "url": "https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn"
         }
       ],
-      "duration_ms": 134001,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
-        "name": "Flood of 2019",
-        "url": "https://open.spotify.com/album/42elngIy8ZxlDdUBFu0Nlv"
-      },
-      "artists": [
-        {
-          "name": "Aaron Reynolds & Tombstone Mind",
-          "url": "https://open.spotify.com/artist/6jusbN97Wy0bKDBLQ42V46"
-        }
-      ],
-      "duration_ms": 239904,
-      "name": "Flood of 2019",
-      "url": "https://open.spotify.com/track/0boDuN7zeEa1sWvsD7w2Hq"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
-        "name": "Wayward Son",
-        "url": "https://open.spotify.com/album/3VmdrXqWOMmIEz8syqeOzd"
-      },
-      "artists": [
-        {
-          "name": "Jhett Black",
-          "url": "https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Wayward Son",
-      "url": "https://open.spotify.com/track/5KhgT9qpjluyfl2xS2LJ6Q"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
-        "name": "Cassanova Kirk Daniel",
-        "url": "https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR"
-      },
-      "artists": [
-        {
-          "name": "Mittch",
-          "url": "https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV"
-        }
-      ],
-      "duration_ms": 203599,
-      "name": "Cassanova Kirk Daniel",
-      "url": "https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3"
+      "duration_ms": 310056,
+      "name": "Still Truckin",
+      "url": "https://open.spotify.com/track/3gaibZyINf67LeyXmckAvK"
     }
   ],
   "unique_name": "Blues BBQ",

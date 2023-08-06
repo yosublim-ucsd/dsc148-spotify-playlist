@@ -4,7 +4,7 @@
 
 > Are you trapped in some kind of haunted Hell? What is your favorite nightmare?
 
-165 songs - 8 hr 24 min
+167 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [For \(YOOHYEON SOLO\)](https://open.spotify.com/track/2xwbq5pNtjyUSa3a82zOQM) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:44 | 2022-04-20 | 2023-07-08 |
 | [Full Moon](https://open.spotify.com/track/00vHOSgvVfyLzhlTZIJo1m) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Full Moon](https://open.spotify.com/album/6N7UA00H0IAexiQvOFGv5d) | 3:09 | 2022-04-20 |  |
 | [Full Moon](https://open.spotify.com/track/13NitU5xquPbGd14hdxdhi) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:09 | 2022-04-20 | 2023-08-04 |
+| [Full Moon](https://open.spotify.com/track/3blfg1S9b1RjoxHVZBkbVB) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 3:09 | 2023-01-14 |  |
 | [GOOD NIGHT](https://open.spotify.com/track/4aDLGyls7Qzv2xMISvDZV4) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽·Fall asleep in the mirror](https://open.spotify.com/album/1wmE0WCpGGAjFsL180dITF) | 2:54 | 2022-04-20 |  |
 | [Good Night \- Japanese Ver.](https://open.spotify.com/track/4dFPZusdRj6Bb2TPRXpO9g) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 2:57 | 2022-04-20 |  |
 | [Good Night \- Japanese Ver.](https://open.spotify.com/track/2RbvTZo49bidUJhRmG8ZtQ) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Piri \~ Fue wo Fuke \~ \(Japanese Ver.\)](https://open.spotify.com/album/6Vkevwb7znCzge19yw9KdB) | 2:58 | 2022-04-20 |  |
@@ -106,7 +107,8 @@
 | [Outro](https://open.spotify.com/track/0gRY7ia5IxOkEWtDa2QMeF) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 1:03 | 2023-01-14 |  |
 | [Outro](https://open.spotify.com/track/5ve4qYjn7t14JA1DC3tcU9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 1:03 | 2022-04-20 | 2023-08-04 |
 | [Outro](https://open.spotify.com/track/7AV7ja8QtbBPWU2svOwxNV) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 1:44 | 2022-04-20 |  |
-| [Over the Sky](https://open.spotify.com/track/0TX94kVRGQQw0APDMPfUxT) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Over the Sky](https://open.spotify.com/album/0jNEkUOVUM3SgSNCwfGENk) | 3:17 | 2023-01-14 |  |
+| [Over the Sky](https://open.spotify.com/track/0TX94kVRGQQw0APDMPfUxT) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Over the Sky](https://open.spotify.com/album/0jNEkUOVUM3SgSNCwfGENk) | 3:17 | 2023-01-14 | 2023-08-06 |
+| [Over the Sky](https://open.spotify.com/track/13BwVGePVlCMJKv0TD99oB) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 3:17 | 2023-01-14 |  |
 | [Over The Sky \- Japanese Ver.](https://open.spotify.com/track/1EeSSWMUesMn0OPMc6KMEP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Endless Night](https://open.spotify.com/album/1kbzuQvrTzEe5pOrxgP9df) | 3:19 | 2022-04-20 |  |
 | [Paradise](https://open.spotify.com/track/5VhJDNXTeUsTZDwCxw4Nnc) | [SIYEON](https://open.spotify.com/artist/5iKOmg1wFizVwajKeiyzvf) | [1st Digital Single \[Paradise\]](https://open.spotify.com/album/6Eil448tVxIBiec4ZQg1aS) | 4:03 | 2023-01-14 |  |
 | [Paradise](https://open.spotify.com/track/2zCUaUgenXGzhMQztjf9qd) | [SIYEON](https://open.spotify.com/artist/5iKOmg1wFizVwajKeiyzvf) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 4:03 | 2022-04-20 | 2023-08-04 |

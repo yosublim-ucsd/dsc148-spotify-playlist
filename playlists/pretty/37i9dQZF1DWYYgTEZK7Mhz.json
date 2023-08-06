@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 18217,
+  "num_followers": 18313,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzgwOTYxMzQ4YzkwMjA2ODg4M2I2YWE3ZDY3OTcxNzgxMTEzODQ3",
+  "snapshot_id": "MCw5MTZhZTQyN2NhNzJhYjJiYWY4OWU5YTkyMWUxMTZiZDVjMTgzZjY0",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "40 Grandi Successi",
+        "url": "https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fontana",
+          "url": "https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz"
+        }
+      ],
+      "duration_ms": 165015,
+      "name": "Il Mondo",
+      "url": "https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 149493,
       "name": "Abbronzatissima",
       "url": "https://open.spotify.com/track/5pBoclEiiZgUyZMXgR3jJ7"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "40 Grandi Successi",
-        "url": "https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Fontana",
-          "url": "https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz"
-        }
-      ],
-      "duration_ms": 165015,
-      "name": "Il Mondo",
-      "url": "https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9"
     },
     {
       "added_at": "2023-06-05 07:42:38",

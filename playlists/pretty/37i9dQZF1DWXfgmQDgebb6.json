@@ -1,12 +1,12 @@
 {
   "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: Blue.D(\ube14\ub8e8\ub514))",
-  "num_followers": 10757,
+  "num_followers": 10756,
   "original_name": "Hipster K' Pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2Q3Y2ExNjdjNzdmYjYxMTQxNWEwYTBkZWVhZGY1YTgzMGVkNTcw",
+  "snapshot_id": "MCwzYmU4M2Q1YTU1ZjcyM2E1NmZhYjBkN2Q2MjVmZjRhODFhZDgwOGJk",
   "tracks": [
     {
       "added_at": "2023-07-31 15:36:02",
@@ -523,26 +523,6 @@
     {
       "added_at": "2023-07-31 15:36:02",
       "album": {
-        "name": "~",
-        "url": "https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg"
-      },
-      "artists": [
-        {
-          "name": "MILLIC",
-          "url": "https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 244536,
-      "name": "BLEACHING (feat. Crush)",
-      "url": "https://open.spotify.com/track/1hRKY6hYZZ7jLsUJvsG32J"
-    },
-    {
-      "added_at": "2023-07-31 15:36:02",
-      "album": {
         "name": "yayou hoi",
         "url": "https://open.spotify.com/album/1tnFNHePi4sCzUWPXSRFrD"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 188149,
       "name": "yayou hoi",
       "url": "https://open.spotify.com/track/72uerGsS3eLO72OU4fZLjj"
+    },
+    {
+      "added_at": "2023-07-31 15:36:02",
+      "album": {
+        "name": "~",
+        "url": "https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg"
+      },
+      "artists": [
+        {
+          "name": "MILLIC",
+          "url": "https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 244536,
+      "name": "BLEACHING (feat. Crush)",
+      "url": "https://open.spotify.com/track/1hRKY6hYZZ7jLsUJvsG32J"
     },
     {
       "added_at": "2023-07-31 15:36:02",
@@ -675,6 +675,30 @@
     {
       "added_at": "2023-07-31 15:36:02",
       "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/7dEuc4k6n1DS9MhCNQbEQA"
+      },
+      "artists": [
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        },
+        {
+          "name": "DJ Wegun",
+          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 257258,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/624iXR8lRUaDBDIQxe3SBz"
+    },
+    {
+      "added_at": "2023-07-31 15:36:02",
+      "album": {
         "name": "i'm a mess",
         "url": "https://open.spotify.com/album/76hmAjUN9TMXBKC1qccRAs"
       },
@@ -707,30 +731,6 @@
       "duration_ms": 141818,
       "name": "HEART DODUMI 2 (feat. Moon Sujin)",
       "url": "https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF"
-    },
-    {
-      "added_at": "2023-07-31 15:36:02",
-      "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/7dEuc4k6n1DS9MhCNQbEQA"
-      },
-      "artists": [
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        },
-        {
-          "name": "DJ Wegun",
-          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
-        },
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        }
-      ],
-      "duration_ms": 257258,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/624iXR8lRUaDBDIQxe3SBz"
     },
     {
       "added_at": "2023-07-31 15:36:02",

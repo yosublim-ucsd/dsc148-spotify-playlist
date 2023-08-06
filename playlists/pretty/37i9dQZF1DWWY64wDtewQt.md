@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,118,082 likes - 99 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,130,146 likes - 99 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 95 | [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 |
 | 96 | [PSYCHO FUNK](https://open.spotify.com/track/5nyZmmFT3guVqrRxSkt12C) | [ICHIRO](https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p) | [PSYCHO FUNK](https://open.spotify.com/album/6Xi9WQNEilg2HE1uCeFWFt) | 2:00 |
 | 97 | [Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Scary Garry](https://open.spotify.com/album/04QDTmdKMoDHqqFaHEoDVP) | 1:39 |
-| 98 | [Ukrainian Cossack Phonk](https://open.spotify.com/track/4afiPsUVztQG7Dbc1fazas) | [CHASHKAKEFIRA](https://open.spotify.com/artist/4dZlYmIgngIVcPl2qw8qbd) | [Ukrainian Cossack Phonk](https://open.spotify.com/album/2peeTkbwrVZh1ZBmL0pruI) | 2:45 |
+| 98 | [Ukrainian Cossack Phonk](https://open.spotify.com/track/6vOMWakAlVuqaUUA1MMFgE) | [CHASHKAKEFIRA](https://open.spotify.com/artist/4dZlYmIgngIVcPl2qw8qbd) | [Ukrainian Cossack Phonk](https://open.spotify.com/album/7qFKTMZWFMy2MfFTvq097a) | 2:45 |
 | 99 | [ERROR](https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [ERROR](https://open.spotify.com/album/6DrhF7XGUjRODusNQoOkhi) | 2:42 |
 
-Snapshot ID: `MCw4MGY2NGVkNzEwNmM3ODdmN2FmMzUxZTdjNWZlOTdiOWNiOTIzMjEw`
+Snapshot ID: `MCxhMzgyYjI5M2I0NGU3YjFjZjkxYTM0ZjI4YThmZTcyMTk0NGI2NWEx`

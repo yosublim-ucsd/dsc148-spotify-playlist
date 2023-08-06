@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 41109,
+  "num_followers": 41142,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTQwZDg2MmZjNjBjZDQ3OTEzMmZiMDk5YzdiMTQ4ODEwMjA5Mjcw",
+  "snapshot_id": "MCw2NWJkZTQ2MmFjOGI0ZDM0MzM1YjU3YjY4YTE0OTRlZTkzNGI5NzJh",
   "tracks": [
     {
       "added_at": "2023-07-14 18:01:47",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
-        "name": "Other Love Songs",
-        "url": "https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ"
-      },
-      "artists": [
-        {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
-        }
-      ],
-      "duration_ms": 119460,
-      "name": "Sometimes it Does",
-      "url": "https://open.spotify.com/track/5S83skAVYFuvGXKBBEBJdn"
-    },
-    {
-      "added_at": "2023-07-14 18:01:47",
-      "album": {
         "name": "33 Guitar Instrumentals",
         "url": "https://open.spotify.com/album/2QYQxbv8IwFPZP2T65sXkg"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 85626,
       "name": "Willdwood Flower",
       "url": "https://open.spotify.com/track/2J9evmBkXC8HkY8DkzbNtw"
+    },
+    {
+      "added_at": "2023-07-14 18:01:47",
+      "album": {
+        "name": "Other Love Songs",
+        "url": "https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ"
+      },
+      "artists": [
+        {
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+        }
+      ],
+      "duration_ms": 119460,
+      "name": "Sometimes it Does",
+      "url": "https://open.spotify.com/track/5S83skAVYFuvGXKBBEBJdn"
     },
     {
       "added_at": "2023-07-14 18:01:47",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
+        "name": "Banjo Haiku",
+        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
+      },
+      "artists": [
+        {
+          "name": "Cathy Fink",
+          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
+        }
+      ],
+      "duration_ms": 110693,
+      "name": "Julie Ann Johnson",
+      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
+    },
+    {
+      "added_at": "2023-07-14 18:01:47",
+      "album": {
         "name": "Finch In The Pantry",
         "url": "https://open.spotify.com/album/5GXqDQAqbb4sJ63OGZAaSh"
       },
@@ -479,18 +495,18 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
-        "name": "Banjo Haiku",
-        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
+        "name": "Long Violent History",
+        "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
       },
       "artists": [
         {
-          "name": "Cathy Fink",
-          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 110693,
-      "name": "Julie Ann Johnson",
-      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
+      "duration_ms": 234146,
+      "name": "Camp Chase",
+      "url": "https://open.spotify.com/track/0oe6Z8P9wQqrdRSaVtySKq"
     },
     {
       "added_at": "2023-07-14 18:01:47",
@@ -531,22 +547,6 @@
       "duration_ms": 281146,
       "name": "Sliding Down",
       "url": "https://open.spotify.com/track/6i3ZOSknAlWQcjkW8gVD1W"
-    },
-    {
-      "added_at": "2023-07-14 18:01:47",
-      "album": {
-        "name": "Long Violent History",
-        "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Camp Chase",
-      "url": "https://open.spotify.com/track/0oe6Z8P9wQqrdRSaVtySKq"
     },
     {
       "added_at": "2023-07-14 18:01:47",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
-        "name": "Nickel Creek",
-        "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 233093,
-      "name": "Pastures New",
-      "url": "https://open.spotify.com/track/0FngZC9wJx2CPJIusVNYPh"
-    },
-    {
-      "added_at": "2023-07-14 18:01:47",
-      "album": {
         "name": "Black Banjo",
         "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 198478,
       "name": "Crooked Mind",
       "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+    },
+    {
+      "added_at": "2023-07-14 18:01:47",
+      "album": {
+        "name": "Nickel Creek",
+        "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 233093,
+      "name": "Pastures New",
+      "url": "https://open.spotify.com/track/0FngZC9wJx2CPJIusVNYPh"
     },
     {
       "added_at": "2023-07-14 18:01:47",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
-        "name": "Celebrants",
-        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 184493,
-      "name": "Going Out\u2026",
-      "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
-    },
-    {
-      "added_at": "2023-07-14 18:01:47",
-      "album": {
         "name": "Appalachian Picking Society",
         "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 311693,
       "name": "Midnight on the Water",
       "url": "https://open.spotify.com/track/6saGatCp8YJ6hXj4AGO2Qc"
+    },
+    {
+      "added_at": "2023-07-14 18:01:47",
+      "album": {
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "Going Out\u2026",
+      "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
     },
     {
       "added_at": "2023-07-14 18:01:47",
@@ -995,34 +995,6 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
-        "name": "Pretty Kate And The Rabbit",
-        "url": "https://open.spotify.com/album/2884fPDAEgQ7scMdBBIzHF"
-      },
-      "artists": [
-        {
-          "name": "Special Consensus",
-          "url": "https://open.spotify.com/artist/1cKp8EUuOryR1PEOAnGWNt"
-        },
-        {
-          "name": "April Verch",
-          "url": "https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8"
-        },
-        {
-          "name": "Darol Anger",
-          "url": "https://open.spotify.com/artist/2Qu0gRrkqyff7e7JXOVNWf"
-        },
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 250826,
-      "name": "Pretty Kate And The Rabbit",
-      "url": "https://open.spotify.com/track/0uzyRxgc2vxlb7yRUjvShj"
-    },
-    {
-      "added_at": "2023-07-14 18:01:47",
-      "album": {
         "name": "Jake & Friends",
         "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
       },
@@ -1055,6 +1027,34 @@
       "duration_ms": 211400,
       "name": "Baltimore Johnny",
       "url": "https://open.spotify.com/track/1UEJYfxyctVPjtoXPkLE7D"
+    },
+    {
+      "added_at": "2023-07-14 18:01:47",
+      "album": {
+        "name": "Pretty Kate And The Rabbit",
+        "url": "https://open.spotify.com/album/2884fPDAEgQ7scMdBBIzHF"
+      },
+      "artists": [
+        {
+          "name": "Special Consensus",
+          "url": "https://open.spotify.com/artist/1cKp8EUuOryR1PEOAnGWNt"
+        },
+        {
+          "name": "April Verch",
+          "url": "https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8"
+        },
+        {
+          "name": "Darol Anger",
+          "url": "https://open.spotify.com/artist/2Qu0gRrkqyff7e7JXOVNWf"
+        },
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 250826,
+      "name": "Pretty Kate And The Rabbit",
+      "url": "https://open.spotify.com/track/0uzyRxgc2vxlb7yRUjvShj"
     },
     {
       "added_at": "2023-07-14 18:01:47",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
-        "name": "Shadowgrass",
-        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        }
-      ],
-      "duration_ms": 287934,
-      "name": "Carl\u2019s Breakdown",
-      "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
-    },
-    {
-      "added_at": "2023-07-14 18:01:47",
-      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
-        "name": "How To Grow A Woman From The Ground",
-        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+        "name": "Shadowgrass",
+        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
       },
       "artists": [
         {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
         }
       ],
-      "duration_ms": 254226,
-      "name": "Watch 'At Breakdown",
-      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
+      "duration_ms": 287934,
+      "name": "Carl\u2019s Breakdown",
+      "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
     },
     {
       "added_at": "2023-07-14 18:01:47",
@@ -1215,6 +1199,22 @@
       "duration_ms": 243973,
       "name": "See Rock City",
       "url": "https://open.spotify.com/track/7k0NSUvHpFNcAaMff6ZdXu"
+    },
+    {
+      "added_at": "2023-07-14 18:01:47",
+      "album": {
+        "name": "How To Grow A Woman From The Ground",
+        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+      },
+      "artists": [
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Watch 'At Breakdown",
+      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
     },
     {
       "added_at": "2023-07-14 18:01:47",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
+        "name": "From Sea To Sky",
+        "url": "https://open.spotify.com/album/1xbIYXMSBnzghgRlDeVzkp"
+      },
+      "artists": [
+        {
+          "name": "Jake Soffer",
+          "url": "https://open.spotify.com/artist/7JV0AfdtfA325ka6q3pRsX"
+        }
+      ],
+      "duration_ms": 159130,
+      "name": "From Sea To Sky",
+      "url": "https://open.spotify.com/track/0p1v3xx5pzRiUKUersdDtR"
+    },
+    {
+      "added_at": "2023-07-14 18:01:47",
+      "album": {
         "name": "Passages and Partings",
         "url": "https://open.spotify.com/album/4a7iJ4h5GQhaefw6cScYyX"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 141173,
       "name": "Horse and Buggy-O",
       "url": "https://open.spotify.com/track/3JSKz2HTLddSM88aifxcXz"
-    },
-    {
-      "added_at": "2023-07-14 18:01:47",
-      "album": {
-        "name": "From Sea To Sky",
-        "url": "https://open.spotify.com/album/1xbIYXMSBnzghgRlDeVzkp"
-      },
-      "artists": [
-        {
-          "name": "Jake Soffer",
-          "url": "https://open.spotify.com/artist/7JV0AfdtfA325ka6q3pRsX"
-        }
-      ],
-      "duration_ms": 159130,
-      "name": "From Sea To Sky",
-      "url": "https://open.spotify.com/track/0p1v3xx5pzRiUKUersdDtR"
     },
     {
       "added_at": "2023-07-14 18:01:47",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "40 West",
+      "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
+    },
+    {
+      "added_at": "2023-07-14 18:01:47",
+      "album": {
         "name": "Fiddler's Dream",
         "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
       },
@@ -1463,18 +1479,34 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+        "name": "Updraft",
+        "url": "https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
         }
       ],
-      "duration_ms": 240640,
-      "name": "40 West",
-      "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
+      "duration_ms": 356561,
+      "name": "Updraft",
+      "url": "https://open.spotify.com/track/6RMTeqT4f712BeGA6bdlyz"
+    },
+    {
+      "added_at": "2023-07-14 18:01:47",
+      "album": {
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Wolf Moon",
+      "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"
     },
     {
       "added_at": "2023-07-14 18:01:47",
@@ -1503,38 +1535,6 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Wolf Moon",
-      "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"
-    },
-    {
-      "added_at": "2023-07-14 18:01:47",
-      "album": {
-        "name": "Updraft",
-        "url": "https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ"
-      },
-      "artists": [
-        {
-          "name": "Hawktail",
-          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
-        }
-      ],
-      "duration_ms": 356561,
-      "name": "Updraft",
-      "url": "https://open.spotify.com/track/6RMTeqT4f712BeGA6bdlyz"
-    },
-    {
-      "added_at": "2023-07-14 18:01:47",
-      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+    },
+    {
+      "added_at": "2023-07-14 18:01:47",
+      "album": {
         "name": "Shadowgrass",
         "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
       },
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+        "name": "Toward the Fray",
+        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
       },
       "artists": [
         {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+      "duration_ms": 301786,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
     },
     {
       "added_at": "2023-07-14 18:01:47",
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
-        "name": "Toward the Fray",
-        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 301786,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
-    },
-    {
-      "added_at": "2023-07-14 18:01:47",
-      "album": {
         "name": "Into My Own",
         "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
       },
@@ -1671,22 +1671,6 @@
       "duration_ms": 306059,
       "name": "Overton Waltz",
       "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
-    },
-    {
-      "added_at": "2023-07-14 18:01:47",
-      "album": {
-        "name": "Your Daughters & Your Sons",
-        "url": "https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C"
-      },
-      "artists": [
-        {
-          "name": "The Duhks",
-          "url": "https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY"
-        }
-      ],
-      "duration_ms": 265960,
-      "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
-      "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
     },
     {
       "added_at": "2023-07-14 18:01:47",
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
-        "name": "Telluride Sessions",
-        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
+        "name": "Your Daughters & Your Sons",
+        "url": "https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C"
       },
       "artists": [
         {
-          "name": "Strength In Numbers",
-          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
+          "name": "The Duhks",
+          "url": "https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY"
         }
       ],
-      "duration_ms": 305160,
-      "name": "Blue Men Of The Sahara",
-      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
+      "duration_ms": 265960,
+      "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
+      "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
     },
     {
       "added_at": "2023-07-14 18:01:47",
@@ -1739,6 +1723,22 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
+        "name": "Telluride Sessions",
+        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
+      },
+      "artists": [
+        {
+          "name": "Strength In Numbers",
+          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Blue Men Of The Sahara",
+      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
+    },
+    {
+      "added_at": "2023-07-14 18:01:47",
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
       },
@@ -1751,38 +1751,6 @@
       "duration_ms": 372746,
       "name": "Golden",
       "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
-    },
-    {
-      "added_at": "2023-07-14 18:01:47",
-      "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
-      },
-      "artists": [
-        {
-          "name": "The Grascals",
-          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "It's A String Thing",
-      "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
-    },
-    {
-      "added_at": "2023-07-14 18:01:47",
-      "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "No Resolution",
-      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
     },
     {
       "added_at": "2023-07-14 18:01:47",
@@ -1807,22 +1775,50 @@
     {
       "added_at": "2023-07-14 18:01:47",
       "album": {
-        "name": "Banjophony",
-        "url": "https://open.spotify.com/album/2tAEsQxW8IiEhHct29W3RW"
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
       },
       "artists": [
         {
-          "name": "Damien O'Kane",
-          "url": "https://open.spotify.com/artist/0rDGOgOmsA1itxFEhFfZCK"
-        },
-        {
-          "name": "Ron Block",
-          "url": "https://open.spotify.com/artist/3f8ULbojWlnxQqju3KELZZ"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 257939,
-      "name": "Battersea Skillet Liquor",
-      "url": "https://open.spotify.com/track/5qHFrx1gHuDt7Mrdzq5f8F"
+      "duration_ms": 288480,
+      "name": "No Resolution",
+      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
+    },
+    {
+      "added_at": "2023-07-14 18:01:47",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
+      },
+      "artists": [
+        {
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "It's A String Thing",
+      "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
+    },
+    {
+      "added_at": "2023-07-14 18:01:47",
+      "album": {
+        "name": "The View From Here",
+        "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
+      },
+      "artists": [
+        {
+          "name": "Matt Flinner",
+          "url": "https://open.spotify.com/artist/79K2moZrEqMShMOlkq5A3J"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Black's Fork",
+      "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
     }
   ],
   "unique_name": "Instrumental Bluegrass",

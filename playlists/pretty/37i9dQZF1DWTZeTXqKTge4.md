@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,282 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,299 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Trap & Winnin](https://open.spotify.com/track/6mbnhgVJXbX1qHbqqXuBk7) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Trap & Winnin](https://open.spotify.com/album/4thUBlf9InqxV9EkZ01gBt) | 3:13 |
 | 75 | [Hometown](https://open.spotify.com/track/2FYr6FPlyM0vl8gk562gnj) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hometown](https://open.spotify.com/album/4lOidpIuRkvmFRDPiCXcMy) | 3:43 |
 
-Snapshot ID: `MCxiY2U1ZjMwODFiM2Y5ZjE4NDczNTdjNDZlNWIxMmY5MGY2YmQxNjNk`
+Snapshot ID: `MCw5MGQ0MmJmYjU3ZDM2MTI4MTcwMzY0Yjg3NDFmOWZkODEwYjNlNmIx`

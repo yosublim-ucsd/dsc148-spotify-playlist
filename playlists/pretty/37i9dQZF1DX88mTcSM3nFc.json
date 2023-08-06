@@ -1,12 +1,12 @@
 {
   "description": "christmas always makes me cry",
-  "num_followers": 18493,
+  "num_followers": 18492,
   "original_name": "sad xmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzdlMTY5ZmEzYmQ4ODY3YjhjMzc3MDIxNDU1MmJjMzNlNWFlZjY0",
+  "snapshot_id": "MCwzMDBhNTc4N2IyZDBmOGE4NTI1NDU1MmQzZDk4Mzc2Y2IzMTRhZjhi",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -811,18 +811,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "The Hotel Caf\u00e9 presents... Winter Songs",
-        "url": "https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad"
+        "name": "Ultimate Christmas",
+        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
       },
       "artists": [
         {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "The Jimmy Joyce Singers",
+          "url": "https://open.spotify.com/artist/1M0wdYIdPlJz4Q0ZZjqdbt"
         }
       ],
-      "duration_ms": 130506,
-      "name": "Frosty the Snowman",
-      "url": "https://open.spotify.com/track/732qfVoTwzKNDTGm1MfJvp"
+      "duration_ms": 186360,
+      "name": "Whatever Happened To Christmas?",
+      "url": "https://open.spotify.com/track/4fzMwQLxkY6qsimuyaDqed"
     }
   ],
   "unique_name": "sad xmas",

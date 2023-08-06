@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-177 songs - 9 hr 25 min
+179 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 | 2019-10-13 |  |
 | [I'm Like a Bird \- Acoustic](https://open.spotify.com/track/3c8tm69G8hZTs8gJI99Pbe) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [I'm Like a Bird \(Acoustic\)](https://open.spotify.com/album/6k4uP5KtblJ7MNJKkQY54c) | 2:41 | 2023-01-03 | 2023-01-19 |
 | [Iris \- Acoustic](https://open.spotify.com/track/48nctG97UElrgvtNFhTAqQ) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Iris \(Acoustic\)](https://open.spotify.com/album/09zreN7tA6FV36rqUWmzpY) | 2:35 | 2020-11-04 | 2023-01-28 |
-| [Is This Love \- Acoustic](https://open.spotify.com/track/2tEQ3siZZLl82xeX5IOZaJ) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Is This Love \(Acoustic\)](https://open.spotify.com/album/4MrABMjlVpUJ1QllzRRrwv) | 3:57 | 2023-06-16 |  |
+| [Is This Love \- Acoustic](https://open.spotify.com/track/2tEQ3siZZLl82xeX5IOZaJ) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Is This Love \(Acoustic\)](https://open.spotify.com/album/4MrABMjlVpUJ1QllzRRrwv) | 3:57 | 2023-06-16 | 2023-08-06 |
 | [Issues \- Acoustic](https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1) | 2:55 | 2019-10-13 |  |
 | [I’m Still Standing \- Acoustic](https://open.spotify.com/track/2hnhNNo5Rk65UX8GIlhsAM) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [I’m Still Standing \(Acoustic\)](https://open.spotify.com/album/2GwQircFAs910nPqQUT7jP) | 3:01 | 2022-02-11 | 2023-02-02 |
 | [Jealous](https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous](https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi) | 4:47 | 2019-10-13 |  |
@@ -128,6 +128,7 @@
 | [Picking Up the Pieces \- Acoustic Version](https://open.spotify.com/track/4f13aRetwXvYfiALLZyQg0) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Picking Up The Pieces](https://open.spotify.com/album/27e00D6FS96O5rXpcn06CJ) | 3:45 | 2019-10-13 |  |
 | [Pointless \- Acoustic](https://open.spotify.com/track/6Lv2VsZijTj0x6BmMk30CR) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Pointless \(Acoustic\)](https://open.spotify.com/album/2sHjB2UBTgSAOCHocUagmz) | 3:29 | 2023-03-17 | 2023-05-10 |
 | [Rather Be](https://open.spotify.com/track/0Z0gcy8fZUhsyPCgrPJwHo) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/5og5ncNgq9dH4JBauZyCBs) | 4:07 | 2019-10-13 |  |
+| [Red Light Spells Danger \- Acoustic](https://open.spotify.com/track/5ozBnh2wvJ6FOgIiXsjDSc) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Red Light Spells Danger \(Acoustic\)](https://open.spotify.com/album/3TJh3GxrITxGojFz17roD0) | 2:49 | 2023-08-04 |  |
 | [Respect \- Acoustic](https://open.spotify.com/track/22ihU3hpmt2tTp68Ns7yMi) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Respect \(Acoustic\)](https://open.spotify.com/album/2V4GPW1tBQjSXYycFOYnHI) | 2:36 | 2023-03-31 |  |
 | [Ring of Fire \- Acoustic](https://open.spotify.com/track/0MwVyvX8zBCFzLxSD0typJ) | [Retreat](https://open.spotify.com/artist/5j5G6aCjRNizjNQKjf2PTB) | [Ring of Fire \(Acoustic\)](https://open.spotify.com/album/5C8Z4XQ2mBq5WIlOeXlN1v) | 3:05 | 2019-11-16 |  |
 | [Rise Up \- Acoustic](https://open.spotify.com/track/1qmCoha1HrkCVInVnfhpPC) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Rise Up \(Acoustic\)](https://open.spotify.com/album/1QC3l2jIGCX0FeIXZgIgLW) | 3:16 | 2021-09-24 | 2023-03-25 |
@@ -153,6 +154,7 @@
 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/6g2Fiqf2HGj1oag2wbeWCI) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/26FVlm5oL62SgHxc0MZmcE) | 3:26 | 2021-12-12 | 2022-06-18 |
 | [The Best \- Acoustic](https://open.spotify.com/track/7MkQ4oVMEsF3boi4hsajDG) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [The Best \(Acoustic\)](https://open.spotify.com/album/0zydjTR0i385HRexojYc5s) | 3:38 | 2020-08-08 |  |
 | [There She Goes \- Acoustic](https://open.spotify.com/track/3nDEkIX8lfi4rg62XaDM0O) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [There She Goes \(Acoustic\)](https://open.spotify.com/album/5rNQUran1E5UllSg6uqI4Y) | 2:54 | 2021-10-01 | 2022-07-16 |
+| [This Will Be \(An Everlasting Love\) \- Acoustic](https://open.spotify.com/track/585mlT2Qwq7urXcnPg7dOk) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [This Will Be \(An Everlasting Love\) \[Acoustic\]](https://open.spotify.com/album/4IVsduaa3eklnbjrxehKvp) | 2:19 | 2023-08-04 |  |
 | [Three Little Birds \- Acoustic](https://open.spotify.com/track/7CSKKB5I9mmE3gl5HXcoR8) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [Three Little Birds \(Acoustic\)](https://open.spotify.com/album/1ub9a49YbbCbmJOlcoPSjl) | 2:24 | 2022-03-25 | 2023-05-10 |
 | [Too Good At Goodbyes \- Acoustic](https://open.spotify.com/track/7ejps6ztLxyZD74tHrTdEj) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes \(Acoustic\)](https://open.spotify.com/album/6yjWw8pTnhYM4y4jfbGSFY) | 3:40 | 2019-10-13 |  |
 | [Total Eclipse of the Heart \- Acoustic](https://open.spotify.com/track/3IkEaYtOxzAbRNtfM1bfiZ) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI), [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Total Eclipse of the Heart \(Acoustic\)](https://open.spotify.com/album/2sS9ty7Uxew3M0AgpulZUw) | 2:40 | 2023-06-02 |  |

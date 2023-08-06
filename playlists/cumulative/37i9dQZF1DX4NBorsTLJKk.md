@@ -4,7 +4,7 @@
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-152 songs - 10 hr 51 min
+153 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [That girl](https://open.spotify.com/track/0FRq4baOBB6AYt22dxbU3Y) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [有形的翅膀](https://open.spotify.com/album/7mItsCAesKNwqLuO1R7AYM) | 3:24 | 2021-11-22 | 2023-01-15 |
 | [下雨了](https://open.spotify.com/track/2WbV5lenncUu7VhZThGbjR) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 5:05 | 2021-11-22 |  |
 | [下雨夜](https://open.spotify.com/track/2oAVwxd6a7sG6VYulTMBVA) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [下雨夜](https://open.spotify.com/album/7jYeBkdsESmTuI34GofAVi) | 3:52 | 2023-01-10 | 2023-05-09 |
+| [下雨天](https://open.spotify.com/track/4OoJ6yYi1h01D0LWXT8dQr) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq) | [下雨天](https://open.spotify.com/album/65cvYcrZQA6nWGphMBlYYI) | 4:25 | 2023-08-04 |  |
 | [下雨天](https://open.spotify.com/track/3BfjVIPmUpIrgqLdOJP1My) | [Nan Quan Mama](https://open.spotify.com/artist/48Smhc0ISwYYRSad1uXSns) | [優的良曲南搞小孩](https://open.spotify.com/album/4OUsiM08OuFmQf0dYS88kM) | 4:13 | 2021-11-22 |  |
 | [下雨天](https://open.spotify.com/track/63Qpnrn403cKcE8Y1N0nx0) | [Nan Quan Mama](https://open.spotify.com/artist/48Smhc0ISwYYRSad1uXSns) | [南搞小孩](https://open.spotify.com/album/7AFqbLLzn0dQagVDuQ8Nwk) | 4:13 | 2021-11-22 | 2022-07-29 |
 | [下雨天](https://open.spotify.com/track/1rCKpLcFlEMsohPxWPdmQ1) | [与少年他](https://open.spotify.com/artist/3xcvAsqetqeBCnBKBvjCQE), [芝麻Mochi](https://open.spotify.com/artist/0EG7xDeBfiTY274OAt2rmV) | [下雨天](https://open.spotify.com/album/5vz6yRGaRVLPpwAN3X3EvV) | 4:25 | 2021-11-22 | 2023-05-08 |
@@ -80,7 +81,7 @@
 | [最愛雨天](https://open.spotify.com/track/0VeqU67IWMth9LiVqrmzTq) | [小男孩樂團](https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5) | [都是你](https://open.spotify.com/album/5QvOcQXGOQOtftNeU3niz5) | 4:10 | 2021-11-22 | 2022-07-15 |
 | [最愛雨天](https://open.spotify.com/track/3yUnqU8SLFOdraGY5lCueD) | [小男孩樂團](https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5) | [Everything](https://open.spotify.com/album/1rE6znC1DlxxgHUyqsDLYe) | 4:10 | 2022-09-05 |  |
 | [毛毛雨 Rainy Days](https://open.spotify.com/track/3WxYFzZjMTwrsilbhjOf9P) | [Sharon Kwan](https://open.spotify.com/artist/1D4GTYNzBKdUrK1wyzTmyt) | [關在家](https://open.spotify.com/album/7IFAZ7L5mv9LlTuUD0zmu8) | 4:53 | 2021-11-22 | 2022-07-23 |
-| [淋雨中](https://open.spotify.com/track/1rJLmeWNZWCadABxGee6BO) | [林宇中](https://open.spotify.com/artist/5v5S1It3qh2HHacQj24HO2) | [淋雨中](https://open.spotify.com/album/5zRbDXc4LYF59A7oTo1dXO) | 3:58 | 2021-11-22 |  |
+| [淋雨中](https://open.spotify.com/track/1rJLmeWNZWCadABxGee6BO) | [林宇中](https://open.spotify.com/artist/5v5S1It3qh2HHacQj24HO2) | [淋雨中](https://open.spotify.com/album/5zRbDXc4LYF59A7oTo1dXO) | 3:58 | 2021-11-22 | 2023-08-06 |
 | [滯留鋒](https://open.spotify.com/track/4lMNnQmrG15MzxbFXECbCy) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [滯留鋒](https://open.spotify.com/album/6cHxc7xRPejbtlr0VfOgxJ) | 5:07 | 2021-11-22 |  |
 | [滯留鋒](https://open.spotify.com/track/6T9B2sBqcAuLl53JeMwqVI) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [滯留鋒](https://open.spotify.com/album/4vbgeL7up3pJv699Hnku5A) | 5:07 | 2021-11-22 | 2022-07-29 |
 | [濕了,就不怕會下雨](https://open.spotify.com/track/4raq39Uzg89n9zPEVlmqjx) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue) | [離心力](https://open.spotify.com/album/2vRlV60YuFsgnMuvwrwyco) | 2:59 | 2022-09-05 |  |

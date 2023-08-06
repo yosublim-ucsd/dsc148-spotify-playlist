@@ -1,12 +1,12 @@
 {
   "description": "The best French indie tracks right now. Cover: Emma Hoet",
-  "num_followers": 399416,
+  "num_followers": 399544,
   "original_name": "Made in France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjdmMWE4MDU5YzU3ZTI1MWZmYWZjMTY1ZDgyZDAzOGNiN2I5ZDdh",
+  "snapshot_id": "MCw5Zjk4YTBhY2U0MGQ0ZjZiNTJkOGFjNzY3MWU5NzRhOGVjZGU4Y2Rk",
   "tracks": [
     {
       "added_at": "2023-08-03 22:00:00",
@@ -144,17 +144,29 @@
       "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Moody Moon",
-        "url": "https://open.spotify.com/album/3ONCT6yDKlvu0ismhJTOZx"
+        "url": "https://open.spotify.com/album/5KwugNWAlyYhFCGx2obkTY"
       },
       "artists": [
         {
           "name": "Camp Claude",
           "url": "https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB"
+        },
+        {
+          "name": "Diane Sagnier",
+          "url": "https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay"
+        },
+        {
+          "name": "Rocket Mike",
+          "url": "https://open.spotify.com/artist/18ssEKS9fXX1nbMg7mAzaU"
+        },
+        {
+          "name": "Leo Hellden",
+          "url": "https://open.spotify.com/artist/2xuVdExl3fVXV8NjGOaSpL"
         }
       ],
       "duration_ms": 173160,
       "name": "Game Boys",
-      "url": "https://open.spotify.com/track/1VV9YClgWlPzsyL6GLoAF3"
+      "url": "https://open.spotify.com/track/3QNhfuJkl6IWxnojizLG55"
     },
     {
       "added_at": "2023-08-03 22:00:00",

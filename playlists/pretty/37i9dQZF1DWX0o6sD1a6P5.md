@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,389 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,005 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [L'officielle](https://open.spotify.com/track/7b6F4KZn3WKFPLtWrVoqpr) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [L'officielle](https://open.spotify.com/album/1jSy6lWxyXRXlWax8hrWQ3) | 2:24 |
 | 50 | [Loju \(feat\. Wizkid\)](https://open.spotify.com/track/4U3RTbBmft10cAQqMYw7At) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Loju \(feat\. Wizkid\)](https://open.spotify.com/album/08Y8xB9NINjDkoT30eCoB8) | 2:54 |
 
-Snapshot ID: `MCxkNDQwNjQxODk2M2NlNjlhMDEyYjYwZGI4YzVlMmM4MWFiNGRmNzVh`
+Snapshot ID: `MCw5OGMwNDQ4Y2YxZTI4ODU4YzYwOTczYTQ2YjJhMzM0Y2Y0MmEzNzk5`

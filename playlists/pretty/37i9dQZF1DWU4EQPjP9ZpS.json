@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 272657,
+  "num_followers": 272842,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODgwZTEyMzYxOTU0ODNkNGY3ZDU5MjgyYTMyMDlhMjczMWYyZDFh",
+  "snapshot_id": "MCw3MDg5OGMxOGI2MWMzYjU0OTI4ZmFiNGIwNTBhNDA3MmJkMTk0MjIw",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc"
+      },
+      "artists": [
+        {
+          "name": "FM Attack",
+          "url": "https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb"
+        }
+      ],
+      "duration_ms": 200019,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Virtua.Zip",
         "url": "https://open.spotify.com/album/3opxnLFfMiMJzkiJxwZ6za"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 210000,
       "name": "Esprit.Wav",
       "url": "https://open.spotify.com/track/42e68PnF0DyvfdqubTJ6fx"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc"
-      },
-      "artists": [
-        {
-          "name": "FM Attack",
-          "url": "https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb"
-        }
-      ],
-      "duration_ms": 200019,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Cosmic Palace",
-        "url": "https://open.spotify.com/album/0PlJciYp4lDHeB9IaAxYrt"
-      },
-      "artists": [
-        {
-          "name": "DavZ",
-          "url": "https://open.spotify.com/artist/1AOsohWDEAkuaJElJnHfkx"
-        },
-        {
-          "name": "Decisive Koala",
-          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
-        }
-      ],
-      "duration_ms": 254080,
-      "name": "Cosmic Palace",
-      "url": "https://open.spotify.com/track/6FZSt1tVtKtj20gmqgIfNt"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Lynx",
         "url": "https://open.spotify.com/album/6bWCczrlwsGGc9B8wCFair"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 201933,
       "name": "Lynx",
       "url": "https://open.spotify.com/track/07RjOHhgQG6FsQHZhfcNdv"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Cosmic Palace",
+        "url": "https://open.spotify.com/album/0PlJciYp4lDHeB9IaAxYrt"
+      },
+      "artists": [
+        {
+          "name": "DavZ",
+          "url": "https://open.spotify.com/artist/1AOsohWDEAkuaJElJnHfkx"
+        },
+        {
+          "name": "Decisive Koala",
+          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
+        }
+      ],
+      "duration_ms": 254080,
+      "name": "Cosmic Palace",
+      "url": "https://open.spotify.com/track/6FZSt1tVtKtj20gmqgIfNt"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "New World Disciples",
+        "url": "https://open.spotify.com/album/0UtwaoRlgRvcsP6srTnNxK"
+      },
+      "artists": [
+        {
+          "name": "desert sand feels warm at night",
+          "url": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P"
+        }
+      ],
+      "duration_ms": 389189,
+      "name": "Follow Him, For He Is the One",
+      "url": "https://open.spotify.com/track/7zwEj3hEiAfRrwjFyIy3jQ"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
         "url": "https://open.spotify.com/album/5p4jf5AH2qd8NlLZOWKfOE"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 176000,
       "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
       "url": "https://open.spotify.com/track/6KVCMAVyNw88EP3IIwK4MD"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "New World Disciples",
-        "url": "https://open.spotify.com/album/0UtwaoRlgRvcsP6srTnNxK"
-      },
-      "artists": [
-        {
-          "name": "desert sand feels warm at night",
-          "url": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P"
-        }
-      ],
-      "duration_ms": 389189,
-      "name": "Follow Him, For He Is the One",
-      "url": "https://open.spotify.com/track/7zwEj3hEiAfRrwjFyIy3jQ"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "made in taiwan",
-        "url": "https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo"
+        "name": "get a job \u6797\u6a8e",
+        "url": "https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH"
       },
       "artists": [
         {
-          "name": "Lupus Nocte",
-          "url": "https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53"
+          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
+          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
         }
       ],
-      "duration_ms": 182190,
-      "name": "made in taiwan",
-      "url": "https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm"
+      "duration_ms": 130693,
+      "name": "Fruit That Sounds Friendly",
+      "url": "https://open.spotify.com/track/5Znvef2ItjbmppaBJjnUjK"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "get a job \u6797\u6a8e",
-        "url": "https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH"
+        "name": "made in taiwan",
+        "url": "https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo"
       },
       "artists": [
         {
-          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
-          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
+          "name": "Lupus Nocte",
+          "url": "https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53"
         }
       ],
-      "duration_ms": 130693,
-      "name": "Fruit That Sounds Friendly",
-      "url": "https://open.spotify.com/track/5Znvef2ItjbmppaBJjnUjK"
+      "duration_ms": 182190,
+      "name": "made in taiwan",
+      "url": "https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN"
+      },
+      "artists": [
+        {
+          "name": "FrankJavCee",
+          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
+        }
+      ],
+      "duration_ms": 103214,
+      "name": "143",
+      "url": "https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "mirror gallery (Windows 96 Remix)",
         "url": "https://open.spotify.com/album/0MJk13mTHzhooFD8zhuJX2"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 163019,
       "name": "mirror gallery (Windows 96 Remix)",
       "url": "https://open.spotify.com/track/1qnb5BWjEyWNOw06UWpMNH"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN"
-      },
-      "artists": [
-        {
-          "name": "FrankJavCee",
-          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
-        }
-      ],
-      "duration_ms": 103214,
-      "name": "143",
-      "url": "https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1275,38 +1275,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Tropics 1",
-        "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
+        "name": "Doom Mix, Vol. V",
+        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
       },
       "artists": [
         {
-          "name": "AURAGRAPH",
-          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
+          "name": "Eyeliner",
+          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
         }
       ],
-      "duration_ms": 208831,
-      "name": "Oso",
-      "url": "https://open.spotify.com/track/7KTCqS2ABjYUfEXRm4w8SV"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "On the Promenade (George Clanton Remix)",
-        "url": "https://open.spotify.com/album/4LcVbqtExdOpkYDDTZnqt0"
-      },
-      "artists": [
-        {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
-        },
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
-        }
-      ],
-      "duration_ms": 196956,
-      "name": "On the Promenade (George Clanton Remix)",
-      "url": "https://open.spotify.com/track/2S7pNIePcW0RYrt3N3NxHx"
+      "duration_ms": 162000,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1327,54 +1307,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Dream Voices",
-        "url": "https://open.spotify.com/album/1q4rHri3np1XYucC17h4ST"
+        "name": "Tropics 1",
+        "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
       },
       "artists": [
         {
-          "name": "Aexion",
-          "url": "https://open.spotify.com/artist/2HFza51jWgaXRlxCIdkGNb"
-        },
-        {
-          "name": "Vivi Vulture",
-          "url": "https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090"
+          "name": "AURAGRAPH",
+          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
         }
       ],
-      "duration_ms": 293875,
-      "name": "Dream Voices",
-      "url": "https://open.spotify.com/track/7madjnY55LX4skgykYGE9M"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Doom Mix, Vol. V",
-        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
-      },
-      "artists": [
-        {
-          "name": "Eyeliner",
-          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "CasaBlanca",
-        "url": "https://open.spotify.com/album/63MZ5QlzaZghJP7F4QXMES"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebn",
-          "url": "https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh"
-        }
-      ],
-      "duration_ms": 183371,
-      "name": "CasaBlanca",
-      "url": "https://open.spotify.com/track/2inAz0qo2e55MeKbw9Locb"
+      "duration_ms": 208831,
+      "name": "Oso",
+      "url": "https://open.spotify.com/track/7KTCqS2ABjYUfEXRm4w8SV"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1411,6 +1355,62 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "On the Promenade (George Clanton Remix)",
+        "url": "https://open.spotify.com/album/4LcVbqtExdOpkYDDTZnqt0"
+      },
+      "artists": [
+        {
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        }
+      ],
+      "duration_ms": 196956,
+      "name": "On the Promenade (George Clanton Remix)",
+      "url": "https://open.spotify.com/track/2S7pNIePcW0RYrt3N3NxHx"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "CasaBlanca",
+        "url": "https://open.spotify.com/album/63MZ5QlzaZghJP7F4QXMES"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebn",
+          "url": "https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh"
+        }
+      ],
+      "duration_ms": 183371,
+      "name": "CasaBlanca",
+      "url": "https://open.spotify.com/track/2inAz0qo2e55MeKbw9Locb"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Dream Voices",
+        "url": "https://open.spotify.com/album/1q4rHri3np1XYucC17h4ST"
+      },
+      "artists": [
+        {
+          "name": "Aexion",
+          "url": "https://open.spotify.com/artist/2HFza51jWgaXRlxCIdkGNb"
+        },
+        {
+          "name": "Vivi Vulture",
+          "url": "https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090"
+        }
+      ],
+      "duration_ms": 293875,
+      "name": "Dream Voices",
+      "url": "https://open.spotify.com/track/7madjnY55LX4skgykYGE9M"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Presentere Fine Design (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6U7SWo42VFTaQS3kvYVqjs"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 208000,
       "name": "Presentere Fine Design - Slowed + Reverb",
       "url": "https://open.spotify.com/track/2G33CEeAZN5RCI7cL4sQGb"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Sonic in the Holobeach",
-        "url": "https://open.spotify.com/album/39XqN8qQbnTPErbj4MPBau"
-      },
-      "artists": [
-        {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
-        }
-      ],
-      "duration_ms": 256096,
-      "name": "Sonic in the Holobeach",
-      "url": "https://open.spotify.com/track/0D572l8DUok2WQpKMA5MEg"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Sonic in the Holobeach",
+        "url": "https://open.spotify.com/album/39XqN8qQbnTPErbj4MPBau"
+      },
+      "artists": [
+        {
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+        }
+      ],
+      "duration_ms": 256096,
+      "name": "Sonic in the Holobeach",
+      "url": "https://open.spotify.com/track/0D572l8DUok2WQpKMA5MEg"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Downpour",
         "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
       },
@@ -1559,46 +1559,6 @@
       "duration_ms": 484471,
       "name": "Downpour",
       "url": "https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Tonight in Miami",
-        "url": "https://open.spotify.com/album/4JEID6sWKK00dCnmRDEgyt"
-      },
-      "artists": [
-        {
-          "name": "Groovy Kaiju",
-          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
-        },
-        {
-          "name": "ED.",
-          "url": "https://open.spotify.com/artist/2WvX9OTkNK2OI2gkj3y7YM"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Tonight in Miami",
-      "url": "https://open.spotify.com/track/57ByE3nknmFyNS4pZD7le8"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Glass Mind",
-        "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        },
-        {
-          "name": "Lavera",
-          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Glass Mind",
-      "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1635,22 +1595,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Marina Forever",
-        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
-      },
-      "artists": [
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        }
-      ],
-      "duration_ms": 162024,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "One Hundred Mornings (Bonus Tracks)",
         "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
       },
@@ -1663,6 +1607,46 @@
       "duration_ms": 155480,
       "name": "Mist",
       "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Glass Mind",
+        "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        },
+        {
+          "name": "Lavera",
+          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Glass Mind",
+      "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Tonight in Miami",
+        "url": "https://open.spotify.com/album/4JEID6sWKK00dCnmRDEgyt"
+      },
+      "artists": [
+        {
+          "name": "Groovy Kaiju",
+          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
+        },
+        {
+          "name": "ED.",
+          "url": "https://open.spotify.com/artist/2WvX9OTkNK2OI2gkj3y7YM"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Tonight in Miami",
+      "url": "https://open.spotify.com/track/57ByE3nknmFyNS4pZD7le8"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1683,6 +1667,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Marina Forever",
+        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 162024,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Suppressed Screams",
         "url": "https://open.spotify.com/album/6u4ib4bwLgTTERzeSWE0uC"
       },
@@ -1695,42 +1695,6 @@
       "duration_ms": 289971,
       "name": "Suppressed Screams",
       "url": "https://open.spotify.com/track/4WOMZOdMqC7jl0s565g3um"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "weight by density",
-        "url": "https://open.spotify.com/album/2z3q5ZMTosa4U0mv6bWMOx"
-      },
-      "artists": [
-        {
-          "name": "Sonavision Deluxe",
-          "url": "https://open.spotify.com/artist/1A5KhSFYk9BtgfnsuF3rff"
-        }
-      ],
-      "duration_ms": 217584,
-      "name": "weight by density",
-      "url": "https://open.spotify.com/track/0QaT5oD5ZPo1zPjWdy8znu"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Butterfly Plaza \u8776\u30db\u30c6\u30eb",
-        "url": "https://open.spotify.com/album/2ZRm4v3bOAqw597HVNGl9w"
-      },
-      "artists": [
-        {
-          "name": "GammaFlow",
-          "url": "https://open.spotify.com/artist/2Ue6zDPwPsdCxRVy3IoZ3S"
-        },
-        {
-          "name": "okybby",
-          "url": "https://open.spotify.com/artist/1pwjNF0IeIMOHFnkMgH6vm"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Butterfly Plaza \u8776\u30db\u30c6\u30eb",
-      "url": "https://open.spotify.com/track/6cjcORN2mCMrsgYAj8tShj"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1755,6 +1719,42 @@
       "duration_ms": 197333,
       "name": "Electrolyte Elixir",
       "url": "https://open.spotify.com/track/33Lqj0KYqEIk3ibD3DU1cW"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Butterfly Plaza \u8776\u30db\u30c6\u30eb",
+        "url": "https://open.spotify.com/album/2ZRm4v3bOAqw597HVNGl9w"
+      },
+      "artists": [
+        {
+          "name": "GammaFlow",
+          "url": "https://open.spotify.com/artist/2Ue6zDPwPsdCxRVy3IoZ3S"
+        },
+        {
+          "name": "okybby",
+          "url": "https://open.spotify.com/artist/1pwjNF0IeIMOHFnkMgH6vm"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Butterfly Plaza \u8776\u30db\u30c6\u30eb",
+      "url": "https://open.spotify.com/track/6cjcORN2mCMrsgYAj8tShj"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "weight by density",
+        "url": "https://open.spotify.com/album/2z3q5ZMTosa4U0mv6bWMOx"
+      },
+      "artists": [
+        {
+          "name": "Sonavision Deluxe",
+          "url": "https://open.spotify.com/artist/1A5KhSFYk9BtgfnsuF3rff"
+        }
+      ],
+      "duration_ms": 217584,
+      "name": "weight by density",
+      "url": "https://open.spotify.com/track/0QaT5oD5ZPo1zPjWdy8znu"
     }
   ],
   "unique_name": "vaporwave",

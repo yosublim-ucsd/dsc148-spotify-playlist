@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,784 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,855 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 75 | [เธอเหมือนเดือนกุมภา](https://open.spotify.com/track/0UdosedsHuO7pFUxOLJNDT) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [เธอเหมือนเดือนกุมภา](https://open.spotify.com/album/1LYnNDgFSwltBX0d6inJff) | 3:23 |
 | 76 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
 | 77 | [ความรักกำลังก่อตัว](https://open.spotify.com/track/0Xo1zj7ol0WMN3VltQxhRW) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [รวมเพลงมีผลต่อหัวใจ](https://open.spotify.com/album/3iAjy7MQQBhsWQrEuoGWwm) | 5:21 |
-| 78 | [เธอหมุนรอบฉัน ฉันหมุนรอบเธอ](https://open.spotify.com/track/2qix3Q8yV16k9D9YI5fjmQ) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [ชุดเล็ก](https://open.spotify.com/album/4bjidvn1z3RcqcV8Zqyxb5) | 3:51 |
-| 79 | [เรา](https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [เรา](https://open.spotify.com/album/1DdTVigUvEMwqK6r710cZ8) | 5:06 |
+| 78 | [เรา](https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [เรา](https://open.spotify.com/album/1DdTVigUvEMwqK6r710cZ8) | 5:06 |
+| 79 | [เธอหมุนรอบฉัน ฉันหมุนรอบเธอ](https://open.spotify.com/track/2qix3Q8yV16k9D9YI5fjmQ) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [ชุดเล็ก](https://open.spotify.com/album/4bjidvn1z3RcqcV8Zqyxb5) | 3:51 |
 | 80 | [จะบอกเธอว่ารัก](https://open.spotify.com/track/43904Zto2u5UI713dDc59V) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [แรก](https://open.spotify.com/album/7hz79oAxXtyE7TeziE5lbh) | 4:12 |
 | 81 | [มีเธอทุกวันก็โอนิ](https://open.spotify.com/track/3seGmbdxubyOV7rAnUYAWh) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [DJ ONO](https://open.spotify.com/artist/5y5uIxi74ZKx7GvuevA7CU), [Pimtha](https://open.spotify.com/artist/4aK59Ov4CA7YAnuKHKsnSu) | [มีเธอทุกวันก็โอนิ](https://open.spotify.com/album/30NpS3bdoQuLb6zhSuTC4H) | 3:04 |
 | 82 | [ชอบป่ะเนี่ย \(Can I Call You Mine\)](https://open.spotify.com/track/742XEz0qAabkTmEVdMzqKb) | [Mai Davika](https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G) | [ชอบป่ะเนี่ย \(Can I Call You Mine\)](https://open.spotify.com/album/2LrGMUuGqI7ceHkBsDs0GF) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 99 | [ผ่านตา \(Everyday\)](https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ผ่านตา \(Everyday\)](https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU) | 3:21 |
 | 100 | [จากนี้ไปจนนิรันดร์](https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 4:06 |
 
-Snapshot ID: `MCw5NzdmNWUyODE2NjgyZWRkZmRiMGM2NzczMzUxYWNmNDljMGNiZmJj`
+Snapshot ID: `MCwzNzUyOTc0ZmMwNzhmNTk2NTVhMjNlNDUyMmE0NDNjMGJmYWZmOGI3`

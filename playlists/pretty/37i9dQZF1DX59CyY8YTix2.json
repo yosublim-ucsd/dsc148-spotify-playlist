@@ -1,12 +1,12 @@
 {
   "description": "Japanese female rock icons. \u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Cover: \u30ab\u30cd\u30e8\u30ea\u30de\u30b5\u30eb",
-  "num_followers": 43801,
+  "num_followers": 43838,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmRiMDU3MGFmMzRhODExMGFkMGQ2YThjMTZiNzI3NDg1YWYyMGJj",
+  "snapshot_id": "MCxjMWMyNWNiMzA0M2ExMDkwNTIxYmFmNTdlZmVmZDE2OGFiZWFhZTU2",
   "tracks": [
     {
       "added_at": "2023-08-03 15:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u4eba\u751f\u30aa\u30fc\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/1RBao56wV7JfUNLPFQoVN5"
-      },
-      "artists": [
-        {
-          "name": "harha",
-          "url": "https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh"
-        }
-      ],
-      "duration_ms": 214138,
-      "name": "\u4eba\u751f\u30aa\u30fc\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/1WofPyCiUQ9I1XgczV8HV1"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
         "name": "\u5149\u306e\u306a\u3044\u8857",
         "url": "https://open.spotify.com/album/6p4k2Cw0pgfk2BuYGmQUkK"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 253538,
       "name": "\u5149\u306e\u306a\u3044\u8857",
       "url": "https://open.spotify.com/track/4sFFRTI8G2aKOyR8Nzh0VA"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "\u4eba\u751f\u30aa\u30fc\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/1RBao56wV7JfUNLPFQoVN5"
+      },
+      "artists": [
+        {
+          "name": "harha",
+          "url": "https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh"
+        }
+      ],
+      "duration_ms": 214138,
+      "name": "\u4eba\u751f\u30aa\u30fc\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/1WofPyCiUQ9I1XgczV8HV1"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Falling into your eyes Record",
-        "url": "https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 277223,
-      "name": "Futaba",
-      "url": "https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
         "name": "daylight",
         "url": "https://open.spotify.com/album/1cwCcLv8XIHNEs0Nn2CvgA"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 243855,
       "name": "daylight",
       "url": "https://open.spotify.com/track/1ZLhrGdOM1UXRZFFK1U1Mf"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "Falling into your eyes Record",
+        "url": "https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 277223,
+      "name": "Futaba",
+      "url": "https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u30cf\u30a4\u30ad",
-        "url": "https://open.spotify.com/album/4RCWq7krRO3AVFj8fvWhYs"
-      },
-      "artists": [
-        {
-          "name": "Regal Lily",
-          "url": "https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK"
-        }
-      ],
-      "duration_ms": 215214,
-      "name": "\u30cf\u30a4\u30ad",
-      "url": "https://open.spotify.com/track/571OuDNbmwsysH42KfVp5P"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
         "name": "Sing The Moon",
         "url": "https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 206120,
       "name": "Sing The Moon",
       "url": "https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "\u30cf\u30a4\u30ad",
+        "url": "https://open.spotify.com/album/4RCWq7krRO3AVFj8fvWhYs"
+      },
+      "artists": [
+        {
+          "name": "Regal Lily",
+          "url": "https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK"
+        }
+      ],
+      "duration_ms": 215214,
+      "name": "\u30cf\u30a4\u30ad",
+      "url": "https://open.spotify.com/track/571OuDNbmwsysH42KfVp5P"
     }
   ],
   "unique_name": "She Rocks",

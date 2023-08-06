@@ -1,12 +1,12 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 185139,
+  "num_followers": 185196,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDRjMjliNzNjNDdkNmE3ODY1MzQ2ZTc4ZWNjNDY1MzBjNmJlNGE4",
+  "snapshot_id": "MCxiZDdkYmNlYmVjNzBkYjFjMzZkNDJkYWQzMzlhMDQxNDQ2Y2MyNGY1",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
@@ -167,22 +167,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
+        "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
+        "url": "https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+          "name": "The Elgins",
+          "url": "https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK"
         }
       ],
-      "duration_ms": 139093,
-      "name": "Two Can Have A Party",
-      "url": "https://open.spotify.com/track/0LIxJkq7caYmgbawjgEqMn"
+      "duration_ms": 152933,
+      "name": "Heaven Must Have Sent You - Mono Single",
+      "url": "https://open.spotify.com/track/4iWytemcQqCczcPPpT0L0P"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -203,18 +199,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
-        "url": "https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj"
+        "name": "United",
+        "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
       },
       "artists": [
         {
-          "name": "The Elgins",
-          "url": "https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
         }
       ],
-      "duration_ms": 152933,
-      "name": "Heaven Must Have Sent You - Mono Single",
-      "url": "https://open.spotify.com/track/4iWytemcQqCczcPPpT0L0P"
+      "duration_ms": 139093,
+      "name": "Two Can Have A Party",
+      "url": "https://open.spotify.com/track/0LIxJkq7caYmgbawjgEqMn"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Motown Unreleased 1965: Marvin Gaye",
-        "url": "https://open.spotify.com/album/1L5IFq2w2ZtwvzOp3fXe9V"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 151880,
-      "name": "As Long As She Needs Me",
-      "url": "https://open.spotify.com/track/58suLi0CzmcVtmRDFJIfZi"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "I Learned the Hard Way",
         "url": "https://open.spotify.com/album/7tsqjPwOhgPOWHgp9RHYi6"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 226400,
       "name": "I Learned the Hard Way",
       "url": "https://open.spotify.com/track/6EfzMRn24usWjFgykZWLl2"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Motown Unreleased 1965: Marvin Gaye",
+        "url": "https://open.spotify.com/album/1L5IFq2w2ZtwvzOp3fXe9V"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 151880,
+      "name": "As Long As She Needs Me",
+      "url": "https://open.spotify.com/track/58suLi0CzmcVtmRDFJIfZi"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Soul Clan",
-        "url": "https://open.spotify.com/album/3a6YJcsLKVftntzf3eWALy"
-      },
-      "artists": [
-        {
-          "name": "Soul Clan",
-          "url": "https://open.spotify.com/artist/3fv6GA2FEaH0u23PS66uFK"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "That's How It Feels",
-      "url": "https://open.spotify.com/track/0BCScVwlR88wcHo5KUwK47"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Hard Not to Like It",
         "url": "https://open.spotify.com/album/398ehzFqc7ht0MyNSKWaFb"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 240160,
       "name": "It's Hard Not to Like You",
       "url": "https://open.spotify.com/track/6ySx2PSSEKRLtpjAHf0q3B"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Soul Clan",
+        "url": "https://open.spotify.com/album/3a6YJcsLKVftntzf3eWALy"
+      },
+      "artists": [
+        {
+          "name": "Soul Clan",
+          "url": "https://open.spotify.com/artist/3fv6GA2FEaH0u23PS66uFK"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "That's How It Feels",
+      "url": "https://open.spotify.com/track/0BCScVwlR88wcHo5KUwK47"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Pardon My Innocent Heart b/w Main Squeeze",
-        "url": "https://open.spotify.com/album/0wjaMjaf8nDj9MmZlVWhTk"
-      },
-      "artists": [
-        {
-          "name": "Nate Evans",
-          "url": "https://open.spotify.com/artist/7rYvwq8TItxYTRtnYiYf2l"
-        }
-      ],
-      "duration_ms": 194386,
-      "name": "Main Squeeze",
-      "url": "https://open.spotify.com/track/4IhtiSk5MvZ6JYyXRuBqcb"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Let's Get It On (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 260466,
       "name": "My Love Is Growing",
       "url": "https://open.spotify.com/track/6XMHWGtaCQcEGMTy2QIXM5"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Pardon My Innocent Heart b/w Main Squeeze",
+        "url": "https://open.spotify.com/album/0wjaMjaf8nDj9MmZlVWhTk"
+      },
+      "artists": [
+        {
+          "name": "Nate Evans",
+          "url": "https://open.spotify.com/artist/7rYvwq8TItxYTRtnYiYf2l"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "Main Squeeze",
+      "url": "https://open.spotify.com/track/4IhtiSk5MvZ6JYyXRuBqcb"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Time Is Slipping Away",
-        "url": "https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft"
-      },
-      "artists": [
-        {
-          "name": "Dexter Wansel",
-          "url": "https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt"
-        }
-      ],
-      "duration_ms": 279760,
-      "name": "New Beginning",
-      "url": "https://open.spotify.com/track/5UKkqgXRBlGMB5Lu3n2Zfb"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Florida Funk",
         "url": "https://open.spotify.com/album/4vvWtsOMbwns1dUZjTol3d"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 170546,
       "name": "Do Right Man",
       "url": "https://open.spotify.com/track/7m4dpcQOvdwOLOezBms3Ar"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Time Is Slipping Away",
+        "url": "https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft"
+      },
+      "artists": [
+        {
+          "name": "Dexter Wansel",
+          "url": "https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt"
+        }
+      ],
+      "duration_ms": 279760,
+      "name": "New Beginning",
+      "url": "https://open.spotify.com/track/5UKkqgXRBlGMB5Lu3n2Zfb"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Eccentric Soul: The Saadia Label",
-        "url": "https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei"
-      },
-      "artists": [
-        {
-          "name": "Joey Gilmore",
-          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Somebody Done Took My Baby and Gone",
-      "url": "https://open.spotify.com/track/3K7yV1QR1KdbMfJZNplbZG"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Eccentric Soul: The Capsoul Label",
         "url": "https://open.spotify.com/album/04D0mW6vcrkyirMVF7x1cy"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 199560,
       "name": "I'm Gonna Keep on Loving You",
       "url": "https://open.spotify.com/track/6e6rQT3ilUqn45LHSp9opu"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Eccentric Soul: The Saadia Label",
+        "url": "https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei"
+      },
+      "artists": [
+        {
+          "name": "Joey Gilmore",
+          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Somebody Done Took My Baby and Gone",
+      "url": "https://open.spotify.com/track/3K7yV1QR1KdbMfJZNplbZG"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Soul Of Capitol Records: Rare & Well-Done",
-        "url": "https://open.spotify.com/album/5gMhwg6vHZ8Smi0FoKyOUb"
-      },
-      "artists": [
-        {
-          "name": "Alexander Patton",
-          "url": "https://open.spotify.com/artist/2QYYQZ2HxBdx6uJ0TY7V84"
-        }
-      ],
-      "duration_ms": 142373,
-      "name": "A Lil' Lovin' Sometimes",
-      "url": "https://open.spotify.com/track/2VVGLYIl32vJJojDHoi8pY"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Southside Chicago",
         "url": "https://open.spotify.com/album/19FdxlbSShGA86U6y7noRm"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 163306,
       "name": "I'm Ready for Love",
       "url": "https://open.spotify.com/track/6VQAjEdoa6XL2CaDUFEioS"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Soul Of Capitol Records: Rare & Well-Done",
+        "url": "https://open.spotify.com/album/5gMhwg6vHZ8Smi0FoKyOUb"
+      },
+      "artists": [
+        {
+          "name": "Alexander Patton",
+          "url": "https://open.spotify.com/artist/2QYYQZ2HxBdx6uJ0TY7V84"
+        }
+      ],
+      "duration_ms": 142373,
+      "name": "A Lil' Lovin' Sometimes",
+      "url": "https://open.spotify.com/track/2VVGLYIl32vJJojDHoi8pY"
     },
     {
       "added_at": "2022-05-11 12:29:38",

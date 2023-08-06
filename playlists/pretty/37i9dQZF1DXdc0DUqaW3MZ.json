@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 311660,
+  "num_followers": 311762,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjQwZTM0ZTZiZDQ5ZmRhOGFkMDJmNGE3MjYwZDdlYzc0M2VlOTFj",
+  "snapshot_id": "MCw4MmUyMGEyN2EzOTIwNzJjZmYyNTM5MDIwYzFhMGM2ZjgxNDUwOWRk",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -843,26 +843,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
-      },
-      "artists": [
-        {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "LowKey (feat. Jayd Ink)",
         "url": "https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 250920,
       "name": "Even If It Hurts (feat. Blood Orange)",
       "url": "https://open.spotify.com/track/3awUAAKKgqpvQUKSxvcqYM"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
+      },
+      "artists": [
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -947,6 +947,26 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/6AS0WGNxbeaPKsHQ0HBuPd"
+      },
+      "artists": [
+        {
+          "name": "Dirty Freud",
+          "url": "https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S"
+        },
+        {
+          "name": "Szou",
+          "url": "https://open.spotify.com/artist/0WabgZbwoFHTTXeLvD5Cr0"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/5qin7r4SGpe95SkjJaflDB"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Small Moments",
         "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
       },
@@ -975,22 +995,6 @@
       "duration_ms": 194177,
       "name": "Unrequited Love",
       "url": "https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV"
-      },
-      "artists": [
-        {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
-        }
-      ],
-      "duration_ms": 174065,
-      "name": "People",
-      "url": "https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1031,6 +1035,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "duration_ms": 174065,
+      "name": "People",
+      "url": "https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Moves EP",
         "url": "https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 223537,
       "name": "Moves",
       "url": "https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/6AS0WGNxbeaPKsHQ0HBuPd"
-      },
-      "artists": [
-        {
-          "name": "Dirty Freud",
-          "url": "https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S"
-        },
-        {
-          "name": "Szou",
-          "url": "https://open.spotify.com/artist/0WabgZbwoFHTTXeLvD5Cr0"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/5qin7r4SGpe95SkjJaflDB"
     },
     {
       "added_at": "2022-06-20 14:19:42",

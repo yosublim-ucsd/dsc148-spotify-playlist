@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,998 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,009 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 59 | [Streets of Kyoto](https://open.spotify.com/track/5bMdumc7P25niyDzxb5GeJ) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Streets of Kyoto](https://open.spotify.com/album/5cj8lMDcvX5kOOxFrDP5SY) | 1:36 |
 | 60 | [City of light](https://open.spotify.com/track/4BJ5BgS91QUV094LD8B7yp) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [City of light](https://open.spotify.com/album/77fLZ8RFyF00tSuGQoectU) | 3:29 |
 | 61 | [Conflicted](https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Contrast](https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb) | 3:39 |
-| 62 | [Watermelon](https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:24 |
-| 63 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 |
+| 62 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 |
+| 63 | [Watermelon](https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:24 |
 | 64 | [On My Way Home](https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [On My Way Home](https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou) | 3:14 |
 | 65 | [Goodbye](https://open.spotify.com/track/1oyrVPtes5mIqt3RNIOcGp) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Goodbye](https://open.spotify.com/album/1zEzeSY7dRs8tkKfDg5lQ0) | 3:15 |
 | 66 | [Toucan](https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Toucan](https://open.spotify.com/album/1AybPKANweher1ysHuXOC7) | 3:34 |
@@ -79,20 +79,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 69 | [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 |
 | 70 | [wooden piano](https://open.spotify.com/track/6nZ5BZikC0DyOFpInapHCn) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [wooden piano](https://open.spotify.com/album/5hwhvjxUQrZslxfCpduJZq) | 1:20 |
 | 71 | [meraki](https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG), [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [meraki / cosmogyral](https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6) | 2:28 |
-| 72 | [ode to N](https://open.spotify.com/track/0irCGSOIclpG2yGISXD8bN) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/1kGbYL4jMy8db0QHbskJcp) | 2:14 |
-| 73 | [SPICA](https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPICA](https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt) | 2:16 |
+| 72 | [Gift of love](https://open.spotify.com/track/1mBi6RQWWUnpMU4oEjrkz1) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Gift of love](https://open.spotify.com/album/3TcEA5pdG37127uJSjQZOD) | 2:06 |
+| 73 | [ode to N](https://open.spotify.com/track/0irCGSOIclpG2yGISXD8bN) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/1kGbYL4jMy8db0QHbskJcp) | 2:14 |
 | 74 | [Season](https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Silently Beats](https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX) | 2:24 |
-| 75 | [Cross the Bridge](https://open.spotify.com/track/51SfpLbD4dbPvNg4dGRRfs) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/0DHpTUlxOalqxiSoA6kbeH) | 2:18 |
+| 75 | [SPICA](https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPICA](https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt) | 2:16 |
 | 76 | [Whispers in the Night](https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [PAREIDOLIA](https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC) | 3:01 |
-| 77 | [A Dream About Ice Skating](https://open.spotify.com/track/2y5sDyzoEDreMgZ9bZcXGS) | [Kid on Ice](https://open.spotify.com/artist/2a1rlqxOOc5SzrxsSYxd1N), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [A Dream About Ice Skating](https://open.spotify.com/album/5eFVCmSUoTaoWFpjSOWa40) | 1:36 |
-| 78 | [Ryukyu](https://open.spotify.com/track/71V8pJTnwxmHFUW2U1VK16) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP) | [Waterfall Dreams](https://open.spotify.com/album/2swHxeQeuQjjBpS7i0ANsA) | 1:54 |
+| 77 | [Cross the Bridge](https://open.spotify.com/track/51SfpLbD4dbPvNg4dGRRfs) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/0DHpTUlxOalqxiSoA6kbeH) | 2:18 |
+| 78 | [A Dream About Ice Skating](https://open.spotify.com/track/2y5sDyzoEDreMgZ9bZcXGS) | [Kid on Ice](https://open.spotify.com/artist/2a1rlqxOOc5SzrxsSYxd1N), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [A Dream About Ice Skating](https://open.spotify.com/album/5eFVCmSUoTaoWFpjSOWa40) | 1:36 |
 | 79 | [Legend \- Instrumental](https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Legend \(Instrumental\)](https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh) | 3:38 |
-| 80 | [Gift of love](https://open.spotify.com/track/1mBi6RQWWUnpMU4oEjrkz1) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Gift of love](https://open.spotify.com/album/3TcEA5pdG37127uJSjQZOD) | 2:06 |
-| 81 | [Little Krumbs](https://open.spotify.com/track/6i2Ar88y3LRCsU8JAPvncA) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Little Krumbs](https://open.spotify.com/album/0cmgxanno5gmLe6MLPQSwT) | 1:14 |
-| 82 | [Carol](https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [Carol](https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP) | 2:38 |
+| 80 | [Ryukyu](https://open.spotify.com/track/71V8pJTnwxmHFUW2U1VK16) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP) | [Waterfall Dreams](https://open.spotify.com/album/2swHxeQeuQjjBpS7i0ANsA) | 1:54 |
+| 81 | [Carol](https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [Carol](https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP) | 2:38 |
+| 82 | [Little Krumbs](https://open.spotify.com/track/6i2Ar88y3LRCsU8JAPvncA) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Little Krumbs](https://open.spotify.com/album/0cmgxanno5gmLe6MLPQSwT) | 1:14 |
 | 83 | [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 |
-| 84 | [JUST KEEP IT](https://open.spotify.com/track/4LDgSBflODzHvRZOlSHHUv) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE) | 3:13 |
-| 85 | [In A Dream](https://open.spotify.com/track/6pURCbgUBnUcthAErdm0aM) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [In A Dream](https://open.spotify.com/album/2K0RE4gN9kZzlzrrQZZo4y) | 2:39 |
+| 84 | [In A Dream](https://open.spotify.com/track/6pURCbgUBnUcthAErdm0aM) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [In A Dream](https://open.spotify.com/album/2K0RE4gN9kZzlzrrQZZo4y) | 2:39 |
+| 85 | [JUST KEEP IT](https://open.spotify.com/track/4LDgSBflODzHvRZOlSHHUv) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE) | 3:13 |
 | 86 | [Smiling World](https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Smiling World](https://open.spotify.com/album/03YLbgauiRKjap4IUesBNS) | 2:06 |
 | 87 | [Bedroom](https://open.spotify.com/track/5SUZg6W98l9ycWumNLKue3) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [work\_1](https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs) | 1:16 |
 | 88 | [Moon Prairie](https://open.spotify.com/track/4kMctvfN5UZ3Krn8MZWIx0) | [Shimo](https://open.spotify.com/artist/54yxEyTmJQaDLfTcICtvum) | [Moon Prairie](https://open.spotify.com/album/11eDwqkFL0KgMM3GMvc46a) | 1:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Milk Shake](https://open.spotify.com/track/3ikZg22Ra1bBshNgzkj647) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Milk Shake](https://open.spotify.com/album/5NZvMImcg4lJ5Vq04ZanIU) | 2:20 |
 | 100 | [Lucid Dream](https://open.spotify.com/track/1qOO7ny0TDbJDl8Rh9rkRV) | [Oui Lele](https://open.spotify.com/artist/3tbv8PcwIqfWdsgdGcWgdY), [Ahntow](https://open.spotify.com/artist/4916V2MuzFT62WpTGgm64H), [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb) | [Lucid Dream](https://open.spotify.com/album/1R1wjANQL3mhWsvC2SuZui) | 2:42 |
 
-Snapshot ID: `MCw3YTI0MjRjZWM2OTUyYTE0ODk4YWE5NWY3YzlmMzcyZGI4MjQ2Y2E4`
+Snapshot ID: `MCwzMDQ4NzlkOTYzNWI4YTEzNDJjZjMyNGQ5MThhYTVlZGJiNDM0NzAy`

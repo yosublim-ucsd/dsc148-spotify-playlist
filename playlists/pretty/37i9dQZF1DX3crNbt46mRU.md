@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Glockenbach, Ella Henderson
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,631 likes - 95 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,633 likes - 95 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 94 | [Funny](https://open.spotify.com/track/0iUdxkHMji3oMwuE4hzmYT) | [Mansfeld](https://open.spotify.com/artist/7MVNKkMWbyhwDMGMysfLFo) | [Funny](https://open.spotify.com/album/5duoE0OQxgTQaFkFmC7sTF) | 2:49 |
 | 95 | [MS Abbrunzatissima](https://open.spotify.com/track/0kNrFAHWyp1ffdT6SslgAf) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [MS Abbrunzatissima](https://open.spotify.com/album/0vB4YhxZiJE9ESpBU7F8wN) | 3:47 |
 
-Snapshot ID: `MCw2ODc5YzM5YTA2MWRhNmExYTFiZmE2NTNjMWU3NDVmZjIzOTc0ODFm`
+Snapshot ID: `MCxlY2NhNzI4YmU4MmFmMGJhMmQxMWQ5ZTNlNWVmNmMwODZjNTEwMjhk`

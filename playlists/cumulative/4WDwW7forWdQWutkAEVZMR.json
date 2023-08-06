@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Your go-to playlist for this week's hottest music featuring Calvin Harris, Lil Tjay, Harry Styles &amp; more! Cover: Calvin Harris &amp; Sam Smith",
+  "description": "Your go-to playlist for this week's hottest music featuring Halle, Calvin Harris, Harry Styles &amp; more! Cover: Halle",
   "name": "Columbia Records: Weekly Mix",
   "tracks": [
     {
@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd"
+    },
+    {
+      "album": {
         "name": "HARD",
         "url": "https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4"
       },
@@ -888,6 +906,24 @@
       "duration_ms": 211890,
       "name": "Blick You Up",
       "url": "https://open.spotify.com/track/6vjDlfFHBenXOcGQKuPfJI"
+    },
+    {
+      "album": {
+        "name": "Blindside",
+        "url": "https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211835,
+      "name": "Blindside",
+      "url": "https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES"
     },
     {
       "album": {
@@ -2137,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1KT4zt8tTkUTQlUWJKLjQW"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4tyDTLhNhe5y0g53vrpv8e"
+    },
+    {
+      "album": {
         "name": "Desire (with Sam Smith)",
         "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
       },
@@ -2482,6 +2536,24 @@
       "duration_ms": 163454,
       "name": "Don't Worry 'Bout Me - Sam's Remix",
       "url": "https://open.spotify.com/track/6sxZVkIfAJA2VI84tcWHtG"
+    },
+    {
+      "album": {
+        "name": "Doppelg\u00e4nger",
+        "url": "https://open.spotify.com/album/7L14vX6K0BxZdxmZOzchhk"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193720,
+      "name": "Doppelg\u00e4nger",
+      "url": "https://open.spotify.com/track/2iNNtNfAGVjO3woehIxvFa"
     },
     {
       "album": {
@@ -3224,6 +3296,28 @@
       "duration_ms": 171477,
       "name": "FUN - yun\u00e8 pinku Remix",
       "url": "https://open.spotify.com/track/7dUL7g3m05OdcGLcs3V0uS"
+    },
+    {
+      "album": {
+        "name": "Sorry 4 The Wait... (Deluxe)",
+        "url": "https://open.spotify.com/album/1ZhwOV5hoXbZayFi89D4EL"
+      },
+      "artists": [
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Gang Gang (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/1nLUcjQbw4rOc6DMNGzQDu"
     },
     {
       "album": {
@@ -5182,6 +5276,24 @@
       "duration_ms": 129899,
       "name": "LONG WAY",
       "url": "https://open.spotify.com/track/23PF7wjGrkCQC0Qvy13myD"
+    },
+    {
+      "album": {
+        "name": "look i like",
+        "url": "https://open.spotify.com/album/3p6KDw92pUoX3zOtDiBRPY"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156786,
+      "name": "look i like",
+      "url": "https://open.spotify.com/track/4N8PYbgwWgzUbfdxoNXpra"
     },
     {
       "album": {

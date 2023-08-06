@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriel Guedes de Almeida
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,351 likes - 40 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,415 likes - 40 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 35 | [Teu Falar \- Extended](https://open.spotify.com/track/6qeAn0R9OMtwjkP5zLhPWL) | [Gislaine Rodrigues](https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM), [Coral Voz intencional](https://open.spotify.com/artist/77DxMXoFFv1XKk7mk9vxXc) | [Teu Falar \(Extended\)](https://open.spotify.com/album/4BLHUy2IQB6NT1Zzdf4VMF) | 5:40 |
 | 36 | [Cristo Me Amou](https://open.spotify.com/track/6QEzYSCvVsVxstLnJUXAPl) | [Geovana Paiva](https://open.spotify.com/artist/60idHotnHCYp53i551okh9) | [Cristo Me Amou](https://open.spotify.com/album/4CIDjwPzs0vFIHg9DxVNHP) | 5:56 |
 | 37 | [Clamo Jesus](https://open.spotify.com/track/7kc0tdLdkQZxsG7IKxyDWY) | [Euller Oliveira](https://open.spotify.com/artist/7fQVtDTCc5lC9aEV2LXCZH) | [Clamo Jesus](https://open.spotify.com/album/64spACTEiboDhsj6iC5vFU) | 7:00 |
-| 38 | [Entra no Fogo](https://open.spotify.com/track/2b7TmLYYCG505jb3lCt7Rx) | [Bereia Music](https://open.spotify.com/artist/2uylz2eDUc2XW6eFWoR3N4), [Tarcísio Galldino](https://open.spotify.com/artist/6niwEMdTSjiZU4qSWeWxhU), [Cláudio Louvor](https://open.spotify.com/artist/3Wg4ajGJdUSMzp01od9X4S) | [Entra no Fogo](https://open.spotify.com/album/69Vu7Fi13FBhoIxIUWELUR) | 3:50 |
+| 38 | [Entra no Fogo](https://open.spotify.com/track/2b7TmLYYCG505jb3lCt7Rx) | [Bereia Music](https://open.spotify.com/artist/2uylz2eDUc2XW6eFWoR3N4), [Tarcísio Galldino](https://open.spotify.com/artist/6niwEMdTSjiZU4qSWeWxhU), [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Entra no Fogo](https://open.spotify.com/album/69Vu7Fi13FBhoIxIUWELUR) | 3:50 |
 | 39 | [Vai Transbordar \- Ao Vivo](https://open.spotify.com/track/4H6N0bQHdI8XzXFXrx2wXV) | [Sandro Nazireu](https://open.spotify.com/artist/0Dp4MzpjAtMZqP5Dpbf6pV) | [Vai Transbordar \(Ao Vivo\)](https://open.spotify.com/album/6RqeuvTy0ZmRNFQu0zAbMj) | 2:34 |
 | 40 | [Tarde Demais](https://open.spotify.com/track/0MEjtwPxUEAtZJJ4cguIKP) | [Quezia Coutinho](https://open.spotify.com/artist/44fkFuMFocsyvD9myIOPsP), [Tângela Vieira](https://open.spotify.com/artist/3Q93kLhERsBhTewW7iN2Va) | [Tarde Demais](https://open.spotify.com/album/5M8VALCiUYregNQPshSwsj) | 3:54 |
 
-Snapshot ID: `MCw0ZWVhODU4MDE5NGNmNTVkMjkzZmRjYTA5ODI3YmU0YzVmMjA2NWQ5`
+Snapshot ID: `MCw2N2JlNTVhNTQ0NTYyMzQ5NmQ0OTRmMzhkNjM3NGY3YWM1M2QxMTIx`

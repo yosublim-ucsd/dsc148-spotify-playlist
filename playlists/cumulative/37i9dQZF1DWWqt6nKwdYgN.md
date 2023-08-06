@@ -4,7 +4,7 @@
 
 > ¡Lo más fresco del hip\-hop en español! Residente y Ricky Martin en portada.
 
-208 songs - 11 hr 46 min
+209 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Chica Mala](https://open.spotify.com/track/36TUnQtKyIni3NXFOqqbQj) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [Chica Mala](https://open.spotify.com/album/16dPOCzYWJ8xlDXaaYXEjg) | 3:15 | 2023-07-21 |  |
 | [Click Clack](https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Chain Trackz](https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM) | [Click Clack](https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE) | 2:58 | 2023-06-16 |  |
 | [Como el Agua](https://open.spotify.com/track/5vVqU82EsivrNzYTtc2GUj) | [Dee](https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk) | [Capo](https://open.spotify.com/album/48xXX0Q141vKS9UcLu9mWW) | 3:20 | 2023-07-14 |  |
-| [Corridos Prohibidos](https://open.spotify.com/track/3MDF1F1duEFpI3zGj7lRMa) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Mexicanos Bravos](https://open.spotify.com/album/16wHA51T97ptp4kIVLSPdW) | 4:17 | 2023-08-04 |  |
+| [Corridos Prohibidos](https://open.spotify.com/track/3MDF1F1duEFpI3zGj7lRMa) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [Someone Sm1](https://open.spotify.com/artist/3WyJImKjA4PH3EXWIWBokJ) | [Mexicanos Bravos](https://open.spotify.com/album/16wHA51T97ptp4kIVLSPdW) | 4:17 | 2023-08-04 |  |
 | [Crazy Love](https://open.spotify.com/track/6xYoGCKn0xphdwOixsrcIW) | [Fazzini](https://open.spotify.com/artist/0UgMoItq2HrVT6sRUF9ouY), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Puff Puff Pass Vol.4](https://open.spotify.com/album/4RQ2sG5vnqhp1suvtuhNbS) | 3:50 | 2023-06-13 | 2023-06-24 |
 | [Crime](https://open.spotify.com/track/5looKg8bc3CAzkmyxdgRCo) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [Crime](https://open.spotify.com/album/01pdI6epcgosnIga9wcDhr) | 3:28 | 2023-06-13 | 2023-07-15 |
 | [Cuando Te Vi](https://open.spotify.com/track/05egr67ekKoSeK12KBaOUi) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Cuando Te Vi](https://open.spotify.com/album/5V5SBQjLjCT1o0vLsDoufz) | 2:49 | 2023-07-07 |  |
@@ -200,7 +200,8 @@
 | [Tiempos de Lluvia](https://open.spotify.com/track/1MbknaLa9YLqz4NudTNxuX) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Tiempos de Lluvia](https://open.spotify.com/album/5DRUcNEvB5cfiQ0SgPOZ3h) | 3:22 | 2023-06-13 | 2023-08-05 |
 | [Toda la Semana](https://open.spotify.com/track/0zMgUj4oEj6VTImz3rrbKQ) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Ñengo El Quetzal](https://open.spotify.com/artist/6M7bd1arTLm5FJnNFYKzb6) | [Toda la Semana](https://open.spotify.com/album/7xlx25gpSbPocaRsD6voWi) | 5:20 | 2023-06-13 | 2023-06-16 |
 | [Todos Saben Bien](https://open.spotify.com/track/4opuiMmJflmuFWHk6KeS6x) | [Warrior Rapper School](https://open.spotify.com/artist/5BL81UunAE1uoEIIsxfvF8) | [Todos Saben Bien](https://open.spotify.com/album/3FryB048Kn3itvJrisoAus) | 3:01 | 2023-06-23 |  |
-| [Traición](https://open.spotify.com/track/1UQcvldvEi9KucOk1hucfc) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/42EHvFRsQtspIer2baInn7) | 3:11 | 2023-07-07 |  |
+| [Traición](https://open.spotify.com/track/1UQcvldvEi9KucOk1hucfc) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/42EHvFRsQtspIer2baInn7) | 3:11 | 2023-07-07 | 2023-08-06 |
+| [Traición](https://open.spotify.com/track/4BflgJLizU9pNVTjhGrOHD) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq) | 3:11 | 2023-08-04 |  |
 | [Travel](https://open.spotify.com/track/4MRGiF6FaKQt9EVLOvc2Zs) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT), [Eptos Uno](https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK) | [Fénix \(Vol\. 2\)](https://open.spotify.com/album/6tFZvYlKvk5olYOsSwqiEv) | 4:44 | 2023-07-14 |  |
 | [Tu Amor](https://open.spotify.com/track/4ZpeSiBII0u2T6xJ8oy7k7) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Tu Amor](https://open.spotify.com/album/71J9d5LQUSQ62teO86NxKS) | 3:44 | 2023-06-13 | 2023-07-01 |
 | [Tu F\*\*Kin' Canción](https://open.spotify.com/track/5N7WeB2rZ6DdI30K2iaKcR) | [Gabylonia](https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU) | [Tu F\*\*Kin' Canción](https://open.spotify.com/album/0PgG4VDiMH2h1tkrw5X04B) | 2:40 | 2023-06-13 | 2023-07-15 |

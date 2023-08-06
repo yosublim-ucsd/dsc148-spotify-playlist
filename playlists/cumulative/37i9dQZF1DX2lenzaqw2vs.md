@@ -4,7 +4,7 @@
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Ana Macho
 
-300 songs - 16 hr 34 min
+301 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bailando](https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando](https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY) | 3:07 | 2022-06-01 | 2023-01-25 |
 | [Bailemos en la Sala](https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 4:04 | 2023-01-24 |  |
 | [Bellakosa](https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN) | [Sailorfag](https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE) | [Bellakosa](https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc) | 2:53 | 2021-12-09 |  |
-| [BESO](https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BESO](https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW) | 2:45 | 2023-06-02 |  |
+| [BESO](https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BESO](https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW) | 2:45 | 2023-06-02 | 2023-08-06 |
 | [Besos](https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Lesbihonest](https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t) | 3:27 | 2023-01-24 | 2023-05-20 |
 | [Brasil](https://open.spotify.com/track/1l4ef3sRHMVUzLzvt3FkWH) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Brasil](https://open.spotify.com/album/40OPW58oS9yfhzPuyCA8oI) | 3:50 | 2021-12-09 | 2022-07-29 |
 | [Brasil](https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:50 | 2022-07-05 | 2023-01-25 |
@@ -200,6 +200,7 @@
 | [Nieve](https://open.spotify.com/track/0UpRvHU7t1YJgDhUdyyhWG) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Nieve](https://open.spotify.com/album/1vS4rhkCD3imZeCXBEvxCl) | 2:49 | 2022-06-01 | 2023-01-25 |
 | [no cambies tu andar](https://open.spotify.com/track/4mhJ93BE0N4bpwsK2CO95J) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [no cambies tu andar](https://open.spotify.com/album/69fEXzbm2cy7w4thRgsfj1) | 3:16 | 2023-01-24 |  |
 | [No Effort](https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [No Effort](https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt) | 2:48 | 2022-06-01 | 2023-01-25 |
+| [NO ERA MÍA](https://open.spotify.com/track/2TzShbXQsmzGbAwa56WcEN) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [NO ERA MÍA](https://open.spotify.com/album/5cJ8XKtyyYo6lOeSc0UTIT) | 3:13 | 2023-08-04 |  |
 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 | 2023-01-24 |  |
 | [No Pensar en Ti](https://open.spotify.com/track/7wT65lCgV2geLUK0FcKF2J) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Covers](https://open.spotify.com/album/54RJ3EzLIGbaiQXycO2kBq) | 3:54 | 2021-12-09 | 2022-06-01 |
 | [NO PUTX \- Spotify Singles](https://open.spotify.com/track/79yTQjvKcRzO9Qb0wZJzkL) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Tito Fuentes](https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo) | [NO PUTX \- Spotify Singles](https://open.spotify.com/album/59gNuylpSUihz8qxcHHeJx) | 3:51 | 2021-12-09 | 2022-06-01 |

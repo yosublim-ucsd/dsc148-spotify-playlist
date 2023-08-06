@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHNixKGCLqw.md) - [plain]
 
 > Top of the top tracks in K\-Pop Daebak playlist this year! Cover: ITZY
 
-[Spotify](https://open.spotify.com/user/spotify) - 558 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 560 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHNixKGCLqw.md) - [plain]
 | 39 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 |
 | 40 | [Adios](https://open.spotify.com/track/0sq2QUCf3ykmfYxjCDWcir) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [HUSH](https://open.spotify.com/album/7cGql7l8oRpjGmeDspBMZ2) | 3:09 |
 | 41 | [Back Door](https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:09 |
-| 42 | [NOT BY THE MOON](https://open.spotify.com/track/1pmfd0ohjfh1qXPWvjaC1o) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [DYE](https://open.spotify.com/album/5lX6uJNNwzEZU7TF1RyAdT) | 3:24 |
+| 42 | [NOT BY THE MOON](https://open.spotify.com/track/0LrhTHjmH2ATnbCbsqKZyf) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [DYE](https://open.spotify.com/album/14H4MUgtA9Vxv1hvfhWT5G) | 3:24 |
 | 43 | [DALLA DALLA](https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS) | 3:19 |
 | 44 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 |
 | 45 | [Can't You See Me?](https://open.spotify.com/track/2ecGP5xUE5126x6yHa7J6E) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHNixKGCLqw.md) - [plain]
 | 49 | [So What](https://open.spotify.com/track/1ry2mTVmAJHbNLzl5qww5v) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 3:18 |
 | 50 | [Thumbs Up](https://open.spotify.com/track/2X1zCTkwxQRMkloiVlQ55e) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Thumbs Up](https://open.spotify.com/album/6MXn7TTeSnLuF179cWlm4F) | 3:18 |
 
-Snapshot ID: `MCxhZGU2MTU2ZGM4MzAzMGJlZTI5MDVhYTM1YjkwMjE1Y2Q0MWJmZGFl`
+Snapshot ID: `MCxiZjY3MzJiNDAyZGQyMWViNzllYTVkMGFiNjYyNjg0ZTBhYzI4NjY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,876 likes - 96 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,907 likes - 96 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 95 | [Kopi Jahat](https://open.spotify.com/track/2kkeh5XL5vLF7ig1lpGk54) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB), [Java Tropica](https://open.spotify.com/artist/54AdgGAEhkNpQPPmEpIRQx) | [Kopi Jahat](https://open.spotify.com/album/2TomPC6ucZkgK8B40NwFG6) | 3:21 |
 | 96 | [Gali Prapatan](https://open.spotify.com/track/5a0RI1DJDKqLhGyTRyVIa8) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Gali Prapatan](https://open.spotify.com/album/3pkrZtfEYuCfIOWQMV0Y10) | 2:57 |
 
-Snapshot ID: `MCw0NTExMjBmNDZhNTViMzEzNDNiZTIyNjdmNWViYzNjZjc3ZWM0YTA1`
+Snapshot ID: `MCw5NTVhOWNiNzZjNjZiNTRkNTdhMjM3ZDdiMmJhMWU2NzVkY2NlNzQy`

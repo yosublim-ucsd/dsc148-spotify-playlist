@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM?si=iyU8ZgF1TN6hxaTEXBD7CQ\"> Cheque </a> ",
-  "num_followers": 23570,
+  "num_followers": 23606,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDIzODM2ZWJmYTk1M2YwMjU2ZDUxM2I4ZWFjZjFiMDZiZDY2Zjk5",
+  "snapshot_id": "MCw3OGY3MDUwYzVjZDI4Y2I4NjdjYWI1YzMwOTQ0Y2E2NzVkYjA3ZjVl",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Not My Fault",
-        "url": "https://open.spotify.com/album/7973TCLuWKCvUWFbfSVVOs"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 188750,
-      "name": "Not My Fault",
-      "url": "https://open.spotify.com/track/7KxZdsNygnVsFOHExpxymV"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Letter From Overseas (feat. Black Sherif)",
         "url": "https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 138243,
       "name": "Letter From Overseas (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Not My Fault",
+        "url": "https://open.spotify.com/album/7973TCLuWKCvUWFbfSVVOs"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 188750,
+      "name": "Not My Fault",
+      "url": "https://open.spotify.com/track/7KxZdsNygnVsFOHExpxymV"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1011,30 +1011,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "JAIYE EVERYDAY",
-        "url": "https://open.spotify.com/album/7MR5PLjXyCV6yzHUfyqz09"
-      },
-      "artists": [
-        {
-          "name": "KIING LU",
-          "url": "https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k"
-        },
-        {
-          "name": "DAPO TUBURNA",
-          "url": "https://open.spotify.com/artist/5qGa60tcmi61tvYmoIjgJO"
-        },
-        {
-          "name": "Alpha Ojini",
-          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
-        }
-      ],
-      "duration_ms": 180535,
-      "name": "JAIYE EVERYDAY",
-      "url": "https://open.spotify.com/track/1XHXaCmp8ruWJMyNAuXgy6"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Osapa London",
         "url": "https://open.spotify.com/album/0GOFqam9eSaFZ3gVdQ7PP3"
       },
@@ -1075,6 +1051,30 @@
       "duration_ms": 178285,
       "name": "Go German",
       "url": "https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "JAIYE EVERYDAY",
+        "url": "https://open.spotify.com/album/7MR5PLjXyCV6yzHUfyqz09"
+      },
+      "artists": [
+        {
+          "name": "KIING LU",
+          "url": "https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k"
+        },
+        {
+          "name": "DAPO TUBURNA",
+          "url": "https://open.spotify.com/artist/5qGa60tcmi61tvYmoIjgJO"
+        },
+        {
+          "name": "Alpha Ojini",
+          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
+        }
+      ],
+      "duration_ms": 180535,
+      "name": "JAIYE EVERYDAY",
+      "url": "https://open.spotify.com/track/1XHXaCmp8ruWJMyNAuXgy6"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 168247,
       "name": "Awolowo",
       "url": "https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "added_at": "2023-08-03 23:00:00",

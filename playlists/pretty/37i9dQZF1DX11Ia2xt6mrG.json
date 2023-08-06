@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mr Pig y Mario Bautista en portada.",
-  "num_followers": 54792,
+  "num_followers": 54799,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDNjMjQyZDVkMTdkYzY4NzI4YmZmMjcwMGM4ZTQwZjM0MmE4MGE5",
+  "snapshot_id": "MCw1ZmVhOTQyY2I3NWEzYWEwOWZmZTQ5Mzc4ZjM1NmIwNWM5NTJjZjJi",
   "tracks": [
     {
       "added_at": "2023-07-28 19:14:29",
@@ -1139,42 +1139,6 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/2yTFKloSOxRQA29lkcqTiT"
-      },
-      "artists": [
-        {
-          "name": "SANTO BEATS",
-          "url": "https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml"
-        }
-      ],
-      "duration_ms": 121937,
-      "name": "FUEL",
-      "url": "https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A"
-    },
-    {
-      "added_at": "2023-07-28 19:14:29",
-      "album": {
-        "name": "Empty Words",
-        "url": "https://open.spotify.com/album/3ZkgrJ5TuwFNMniMQIKRRl"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Empty Words",
-      "url": "https://open.spotify.com/track/6yAGKyOvFquLOnrM75re5N"
-    },
-    {
-      "added_at": "2023-07-28 19:14:29",
-      "album": {
         "name": "Huellas",
         "url": "https://open.spotify.com/album/2h9Vvbub3Vjtcc28F8NuRG"
       },
@@ -1199,6 +1163,42 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/3ZkgrJ5TuwFNMniMQIKRRl"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/6yAGKyOvFquLOnrM75re5N"
+    },
+    {
+      "added_at": "2023-07-28 19:14:29",
+      "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/2yTFKloSOxRQA29lkcqTiT"
+      },
+      "artists": [
+        {
+          "name": "SANTO BEATS",
+          "url": "https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml"
+        }
+      ],
+      "duration_ms": 121937,
+      "name": "FUEL",
+      "url": "https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A"
+    },
+    {
+      "added_at": "2023-07-28 19:14:29",
+      "album": {
         "name": "Malas Decisiones",
         "url": "https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2"
       },
@@ -1215,6 +1215,26 @@
       "duration_ms": 181726,
       "name": "No Vas A Volver",
       "url": "https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p"
+    },
+    {
+      "added_at": "2023-07-28 19:14:29",
+      "album": {
+        "name": "Ra Ta Ta (LNY TNZ Remix)",
+        "url": "https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "duration_ms": 174420,
+      "name": "Ra Ta Ta - LNY TNZ Remix",
+      "url": "https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl"
     },
     {
       "added_at": "2023-07-28 19:14:29",
@@ -1259,26 +1279,6 @@
       "duration_ms": 177627,
       "name": "Clap Your Hands For Love",
       "url": "https://open.spotify.com/track/7hiYyIQXoGzgon6w4MVPrx"
-    },
-    {
-      "added_at": "2023-07-28 19:14:29",
-      "album": {
-        "name": "Ra Ta Ta (LNY TNZ Remix)",
-        "url": "https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        },
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        }
-      ],
-      "duration_ms": 174420,
-      "name": "Ra Ta Ta - LNY TNZ Remix",
-      "url": "https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl"
     },
     {
       "added_at": "2023-07-28 19:14:29",
@@ -1351,30 +1351,6 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/0EQINUTcp3sgpItQ5RQTFZ"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Santti",
-          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
-        },
-        {
-          "name": "Plastic Skin",
-          "url": "https://open.spotify.com/artist/0KGfsjwVzi26JfxCj2gcRq"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/1JUOjyWpg8X8nePqmYKSCW"
-    },
-    {
-      "added_at": "2023-07-28 19:14:29",
-      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
       },
@@ -1411,6 +1387,30 @@
       "duration_ms": 174735,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f"
+    },
+    {
+      "added_at": "2023-07-28 19:14:29",
+      "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/0EQINUTcp3sgpItQ5RQTFZ"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        },
+        {
+          "name": "Plastic Skin",
+          "url": "https://open.spotify.com/artist/0KGfsjwVzi26JfxCj2gcRq"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/1JUOjyWpg8X8nePqmYKSCW"
     },
     {
       "added_at": "2023-07-28 19:14:29",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
+        "name": "Like a Dream",
+        "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Bandido Brothers",
+          "url": "https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Like a Dream",
+      "url": "https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC"
+    },
+    {
+      "added_at": "2023-07-28 19:14:29",
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/3r4UauxvbGR8am8API7124"
       },
@@ -1523,22 +1543,6 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
-        "name": "Eunoia",
-        "url": "https://open.spotify.com/album/6vvIKaVVvt3qHX94edFmmj"
-      },
-      "artists": [
-        {
-          "name": "Leimantour",
-          "url": "https://open.spotify.com/artist/23dJcrY31UxUxew6zHi02N"
-        }
-      ],
-      "duration_ms": 428000,
-      "name": "Eunoia",
-      "url": "https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy"
-    },
-    {
-      "added_at": "2023-07-28 19:14:29",
-      "album": {
         "name": "killed love",
         "url": "https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP"
       },
@@ -1555,22 +1559,18 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
-        "name": "Like a Dream",
-        "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
+        "name": "Eunoia",
+        "url": "https://open.spotify.com/album/6vvIKaVVvt3qHX94edFmmj"
       },
       "artists": [
         {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Bandido Brothers",
-          "url": "https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ"
+          "name": "Leimantour",
+          "url": "https://open.spotify.com/artist/23dJcrY31UxUxew6zHi02N"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Like a Dream",
-      "url": "https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC"
+      "duration_ms": 428000,
+      "name": "Eunoia",
+      "url": "https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy"
     },
     {
       "added_at": "2023-07-28 19:14:29",

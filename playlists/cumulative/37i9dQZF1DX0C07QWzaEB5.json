@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "#TUSM",
+        "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191587,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI"
+    },
+    {
+      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts"
       },
@@ -3261,6 +3279,24 @@
     },
     {
       "album": {
+        "name": "\u90fd\u5e02\u5973\u5b50",
+        "url": "https://open.spotify.com/album/3HOdnNDpkFdzt3TamAUm9m"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196092,
+      "name": "\u90fd\u5e02\u5973\u5b50",
+      "url": "https://open.spotify.com/track/1fx1OZ7IFHEqohT2GIN0uB"
+    },
+    {
+      "album": {
         "name": "\uadf8\ub300\uc5ec \uc774\uc81c With Me",
         "url": "https://open.spotify.com/album/6N1XVKkDPSaMqXW1Q5w2P3"
       },
@@ -3381,24 +3417,6 @@
     },
     {
       "album": {
-        "name": "#TUSM",
-        "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
-      },
-      "artists": [
-        {
-          "name": "Yubin",
-          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
-        }
-      ],
-      "date_added": "2021-12-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191587,
-      "name": "\ubcf4\ub0b4\uc904\uac8c Let You Go",
-      "url": "https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI"
-    },
-    {
-      "album": {
         "name": "\uc140\ub7fd\ud30c\uc774\ube0c (\uc140\ub7fd\uc774 \ub418\uace0 \uc2f6\uc5b4)",
         "url": "https://open.spotify.com/album/0UpR6SdpaukynJZbjHgM7F"
       },
@@ -3432,24 +3450,6 @@
       "duration_ms": 148969,
       "name": "\uc140\ub7fd\ud30c\uc774\ube0c (\uc140\ub7fd\uc774 \ub418\uace0 \uc2f6\uc5b4)",
       "url": "https://open.spotify.com/track/3MyHNAUvpUninlj0v0JgeF"
-    },
-    {
-      "album": {
-        "name": "\u90fd\u5e02\u5973\u5b50",
-        "url": "https://open.spotify.com/album/3HOdnNDpkFdzt3TamAUm9m"
-      },
-      "artists": [
-        {
-          "name": "Yubin",
-          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
-        }
-      ],
-      "date_added": "2021-12-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196092,
-      "name": "\uc219\ub140 (\u6dd1\u5973) Lady",
-      "url": "https://open.spotify.com/track/1fx1OZ7IFHEqohT2GIN0uB"
     },
     {
       "album": {

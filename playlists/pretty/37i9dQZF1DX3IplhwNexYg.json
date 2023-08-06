@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: The Last Dinner Party",
-  "num_followers": 111564,
+  "num_followers": 111572,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTc1MzdmZDhkZmI0NWQ0N2MyMWU0Mzk5NjNhODZlNTlmZDg4MTk2",
+  "snapshot_id": "MCxjZWU2NDIyYTUzNjBmN2Q2NTdkYzdjMTg1MThkY2EyYjcyMTkwNzhh",
   "tracks": [
     {
       "added_at": "2023-08-04 19:44:45",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-08-04 19:44:45",
       "album": {
-        "name": "atomic",
-        "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
-      },
-      "artists": [
-        {
-          "name": "Aziya",
-          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
-        }
-      ],
-      "duration_ms": 169190,
-      "name": "atomic",
-      "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
-    },
-    {
-      "added_at": "2023-08-04 19:44:45",
-      "album": {
         "name": "KLEPTO",
         "url": "https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 133285,
       "name": "feti\u0161h",
       "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
+    },
+    {
+      "added_at": "2023-08-04 19:44:45",
+      "album": {
+        "name": "atomic",
+        "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "duration_ms": 169190,
+      "name": "atomic",
+      "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
     },
     {
       "added_at": "2023-08-04 19:44:45",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-08-04 19:44:45",
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 165759,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
-    },
-    {
-      "added_at": "2023-08-04 19:44:45",
-      "album": {
         "name": "Burn The Empire",
         "url": "https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": "2023-08-04 19:44:45",
       "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 165759,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
+    },
+    {
+      "added_at": "2023-08-04 19:44:45",
+      "album": {
         "name": "Better (Edit)",
         "url": "https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 211800,
       "name": "Better - Edit",
       "url": "https://open.spotify.com/track/6NIrjH865NExM8juniJlLY"
-    },
-    {
-      "added_at": "2023-08-04 19:44:45",
-      "album": {
-        "name": "Prophecy of the Dragon",
-        "url": "https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs"
-      },
-      "artists": [
-        {
-          "name": "The Voidz",
-          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
-        }
-      ],
-      "duration_ms": 293631,
-      "name": "Prophecy of the Dragon",
-      "url": "https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM"
     },
     {
       "added_at": "2023-08-04 19:44:45",
@@ -723,18 +707,34 @@
     {
       "added_at": "2023-08-04 19:44:45",
       "album": {
-        "name": "Struggle",
-        "url": "https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0"
+        "name": "Prophecy of the Dragon",
+        "url": "https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs"
       },
       "artists": [
         {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
         }
       ],
-      "duration_ms": 204407,
-      "name": "Struggle - Single Version",
-      "url": "https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG"
+      "duration_ms": 293631,
+      "name": "Prophecy of the Dragon",
+      "url": "https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM"
+    },
+    {
+      "added_at": "2023-08-04 19:44:45",
+      "album": {
+        "name": "Since August",
+        "url": "https://open.spotify.com/album/4VQYpmg1K5PHZvKnsRGRN9"
+      },
+      "artists": [
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        }
+      ],
+      "duration_ms": 175190,
+      "name": "Since August",
+      "url": "https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y"
     },
     {
       "added_at": "2023-08-04 19:44:45",
@@ -751,6 +751,22 @@
       "duration_ms": 171493,
       "name": "Cramps",
       "url": "https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL"
+    },
+    {
+      "added_at": "2023-08-04 19:44:45",
+      "album": {
+        "name": "Struggle",
+        "url": "https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 204407,
+      "name": "Struggle - Single Version",
+      "url": "https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG"
     },
     {
       "added_at": "2023-08-04 19:44:45",
@@ -803,22 +819,6 @@
     {
       "added_at": "2023-08-04 19:44:45",
       "album": {
-        "name": "Since August",
-        "url": "https://open.spotify.com/album/4VQYpmg1K5PHZvKnsRGRN9"
-      },
-      "artists": [
-        {
-          "name": "Baird",
-          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
-        }
-      ],
-      "duration_ms": 175190,
-      "name": "Since August",
-      "url": "https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y"
-    },
-    {
-      "added_at": "2023-08-04 19:44:45",
-      "album": {
         "name": "Sofa Kings",
         "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-08-04 19:44:45",
       "album": {
+        "name": "Kiss Ur Face Forever",
+        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 166556,
+      "name": "Kiss Ur Face Forever",
+      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+    },
+    {
+      "added_at": "2023-08-04 19:44:45",
+      "album": {
         "name": "Food for Worms",
         "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
@@ -899,22 +915,6 @@
     {
       "added_at": "2023-08-04 19:44:45",
       "album": {
-        "name": "So Cool",
-        "url": "https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY"
-      },
-      "artists": [
-        {
-          "name": "Great Gable",
-          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
-        }
-      ],
-      "duration_ms": 185070,
-      "name": "So Cool",
-      "url": "https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6"
-    },
-    {
-      "added_at": "2023-08-04 19:44:45",
-      "album": {
         "name": "From Nothing To A Little Bit More",
         "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 171280,
       "name": "Lucky Bean",
       "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
+    },
+    {
+      "added_at": "2023-08-04 19:44:45",
+      "album": {
+        "name": "So Cool",
+        "url": "https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "duration_ms": 185070,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6"
     },
     {
       "added_at": "2023-08-04 19:44:45",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2023-08-04 19:44:45",
       "album": {
-        "name": "Kiss Ur Face Forever",
-        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 166556,
-      "name": "Kiss Ur Face Forever",
-      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
-    },
-    {
-      "added_at": "2023-08-04 19:44:45",
-      "album": {
         "name": "Good Old",
         "url": "https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 262346,
       "name": "Time",
       "url": "https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1"
+    },
+    {
+      "added_at": "2023-08-04 19:44:45",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7"
+      },
+      "artists": [
+        {
+          "name": "My Ugly Clementine",
+          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+        }
+      ],
+      "duration_ms": 213647,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp"
     },
     {
       "added_at": "2023-08-04 19:44:45",
@@ -1267,22 +1283,6 @@
       "duration_ms": 231600,
       "name": "SCARING ME",
       "url": "https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2"
-    },
-    {
-      "added_at": "2023-08-04 19:44:45",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7"
-      },
-      "artists": [
-        {
-          "name": "My Ugly Clementine",
-          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
-        }
-      ],
-      "duration_ms": 213647,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp"
     },
     {
       "added_at": "2023-08-04 19:44:45",

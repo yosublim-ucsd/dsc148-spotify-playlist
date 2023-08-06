@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "A Class",
+        "url": "https://open.spotify.com/album/5Nq0GIIfrsCnUPx4Ayej1c"
+      },
+      "artists": [
+        {
+          "name": "miss A",
+          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
+        }
+      ],
+      "date_added": "2019-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217560,
+      "name": "Bad Girl Good Girl",
+      "url": "https://open.spotify.com/track/1EkLacfCJIJcHkJvxlkJKE"
+    },
+    {
+      "album": {
         "name": "Bad But Good",
         "url": "https://open.spotify.com/album/4a0Gx7Xgs2fzkLGGxRQhhe"
       },
@@ -212,7 +230,7 @@
       ],
       "date_added": "2019-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 217560,
       "name": "Bad Girl Good Girl",
       "url": "https://open.spotify.com/track/7b8WzWfJvPFa21Io7i6rdh"
@@ -1424,10 +1442,28 @@
       ],
       "date_added": "2019-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 205373,
       "name": "I Feel You",
       "url": "https://open.spotify.com/track/1gdTztk1x8HCDlxcSR8vp3"
+    },
+    {
+      "album": {
+        "name": "REBOOT",
+        "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "date_added": "2019-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205373,
+      "name": "I Feel You",
+      "url": "https://open.spotify.com/track/4VDY2adUsc1up1nitWztVg"
     },
     {
       "album": {
@@ -1548,6 +1584,24 @@
       "duration_ms": 229678,
       "name": "I Will Go To You Like the First Snow",
       "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
+    },
+    {
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/3MPrK5Op0AZAql78coCQLA"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2019-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210834,
+      "name": "If You Do",
+      "url": "https://open.spotify.com/track/5ypObuDXm2XT7ipEE5yZMr"
     },
     {
       "album": {
@@ -3036,7 +3090,7 @@
     {
       "album": {
         "name": "Why So Lonely",
-        "url": "https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx"
+        "url": "https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U"
       },
       "artists": [
         {
@@ -3047,6 +3101,24 @@
       "date_added": "2019-12-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206706,
+      "name": "Why So Lonely",
+      "url": "https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX"
+    },
+    {
+      "album": {
+        "name": "Why So Lonely",
+        "url": "https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "date_added": "2019-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
       "duration_ms": 206706,
       "name": "Why So Lonely",
       "url": "https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4"
@@ -3233,24 +3305,6 @@
     },
     {
       "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/3MPrK5Op0AZAql78coCQLA"
-      },
-      "artists": [
-        {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
-        }
-      ],
-      "date_added": "2019-12-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210834,
-      "name": "\ub2c8\uac00 \ud558\uba74 If You Do",
-      "url": "https://open.spotify.com/track/5ypObuDXm2XT7ipEE5yZMr"
-    },
-    {
-      "album": {
         "name": "IT'z Different",
         "url": "https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C"
       },
@@ -3323,7 +3377,7 @@
     },
     {
       "album": {
-        "name": "\uc8fd\uc5b4\ub3c4 \ubabb \ubcf4\ub0b4 Never Let You Go",
+        "name": "Never Let You Go",
         "url": "https://open.spotify.com/album/37Mz6EoieVepZzvLDL87I0"
       },
       "artists": [

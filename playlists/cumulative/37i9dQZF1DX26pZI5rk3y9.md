@@ -4,7 +4,7 @@
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-165 songs - 9 hr 28 min
+168 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Buffalo Road](https://open.spotify.com/track/6iSopPflVbtSJjLRCmksfl) | [Gabe Carter](https://open.spotify.com/artist/57rLxwICLUV38lrrMrQROd) | [Buffalo Road](https://open.spotify.com/album/29p1rFGBhwEVQf5BYS0heD) | 2:58 | 2023-06-07 |  |
 | [C.C\. Rider](https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The "Killer" Rocks On](https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW) | 2:52 | 2022-05-25 | 2023-06-08 |
 | [Can Opener](https://open.spotify.com/track/0g9eLW4RaSBuAJU0XtA6nc) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Ain't Giving Up](https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE) | 4:08 | 2023-06-07 |  |
-| [Cassanova Kirk Daniel](https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3) | [Mittch](https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV) | [Cassanova Kirk Daniel](https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR) | 3:23 | 2023-06-07 |  |
+| [Cassanova Kirk Daniel](https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3) | [Mittch](https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV) | [Cassanova Kirk Daniel](https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR) | 3:23 | 2023-06-07 | 2023-08-06 |
 | [Chicken Rhythm](https://open.spotify.com/track/2bUb0zfTVwB6kMwarTan34) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Groove Juice: The Norman Granz Recordings + More](https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc) | 2:29 | 2022-05-25 | 2023-06-08 |
 | [Chrysomallousa](https://open.spotify.com/track/1DX9QKh6zH0BR4DVI7aRjq) | [Demetris Mesimeris](https://open.spotify.com/artist/0p719GsCmShkdzknkYSp8A) | [Chrysomallousa](https://open.spotify.com/album/2PGWByXz7U5pmyzxPyoO8m) | 3:39 | 2023-06-07 |  |
 | [Coal Black Mattie](https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn) | [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2) | [Coal Black Mattie](https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1) | 3:49 | 2023-06-07 |  |
@@ -63,7 +63,7 @@
 | [Fat Mean ´n´ Greens](https://open.spotify.com/track/3rCLCbDYb6kVCQtYlvaQN9) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Mamblues Vol\. 1, Latin\-Tinged Hipshakers \(Rumba Blues, Boogie Cha and Cool Mambo\)](https://open.spotify.com/album/5jre4242cYyVpLniB1eopP) | 2:26 | 2022-05-25 | 2022-07-29 |
 | [Fat Meat 'n Greens](https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Kentuckian Bandleader](https://open.spotify.com/album/3EzfBPui2AEzpw3aEZJFgG) | 2:29 | 2022-09-12 | 2023-06-08 |
 | [Fat Meat N Greens](https://open.spotify.com/track/6yrgUIAB8XpKEvLL2iIdex) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Without You](https://open.spotify.com/album/1MEwm7p2srd8tw34ZUzsEK) | 2:29 | 2022-07-08 | 2022-09-20 |
-| [Flood of 2019](https://open.spotify.com/track/0boDuN7zeEa1sWvsD7w2Hq) | [Aaron Reynolds & Tombstone Mind](https://open.spotify.com/artist/6jusbN97Wy0bKDBLQ42V46) | [Flood of 2019](https://open.spotify.com/album/42elngIy8ZxlDdUBFu0Nlv) | 3:59 | 2023-06-07 |  |
+| [Flood of 2019](https://open.spotify.com/track/0boDuN7zeEa1sWvsD7w2Hq) | [Aaron Reynolds & Tombstone Mind](https://open.spotify.com/artist/6jusbN97Wy0bKDBLQ42V46) | [Flood of 2019](https://open.spotify.com/album/42elngIy8ZxlDdUBFu0Nlv) | 3:59 | 2023-06-07 | 2023-08-06 |
 | [FLorida Man](https://open.spotify.com/track/2oN86MTxnHp1ST30tDL4h0) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [FLorida Man](https://open.spotify.com/album/4CsAr4hOUgzB4IOKtnbJxn) | 3:39 | 2023-06-07 |  |
 | [Get The Moon Up](https://open.spotify.com/track/2sbhlXbwJhZXQjwX2F99EZ) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/7nHCFdhYDs61JyD7HfNudm) | 2:15 | 2022-05-25 | 2022-07-29 |
 | [Get the Moon Up](https://open.spotify.com/track/3KqVnlFmCcjimw02I4mXvA) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY) | 2:15 | 2022-07-08 | 2023-04-29 |
@@ -133,6 +133,7 @@
 | [Rippin' And Runnin'](https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Death Wish Blues](https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C) | 4:21 | 2023-06-07 |  |
 | [Rise](https://open.spotify.com/track/34PJD8wnaZoBORxGnsOmwu) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Rise](https://open.spotify.com/album/1DPfF5V0qhOJXWlmUjCdL5) | 2:52 | 2023-06-16 |  |
 | [Robbie\-Doby Boogie](https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Greatest Country Blues](https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B) | 2:22 | 2022-05-25 | 2023-06-08 |
+| [Rockabye Motel](https://open.spotify.com/track/6MpXCmx5j9qGFM0ka5JqZU) | [Blue Water Highway](https://open.spotify.com/artist/5N5nkgCu7UG5KqNpRPiUd7) | [Rockabye Motel](https://open.spotify.com/album/1tGugHW3RhB2c3J52Knvdy) | 5:43 | 2023-08-04 |  |
 | [Route 66](https://open.spotify.com/track/7cZmWjebbtSMIxN2MkJWuv) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:45 | 2022-05-25 | 2023-06-08 |
 | [Rubber Hits the Road](https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44) | [SUSU](https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv) | [Rubber Hits the Road](https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz) | 3:01 | 2023-06-07 |  |
 | [Scotchin' with Soda](https://open.spotify.com/track/2Yvble8xC3hchiHbUo7k8q) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Atomic Cocktail \- Legendary Slim Gaillard](https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2) | 2:47 | 2022-05-25 | 2023-06-08 |
@@ -148,6 +149,7 @@
 | [So Free](https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [So Free](https://open.spotify.com/album/3kiLL8akJ1EtTeVxiK3z1L) | 3:17 | 2023-06-07 |  |
 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 | 2022-05-25 | 2023-06-08 |
 | [Spread Your Love](https://open.spotify.com/track/1gq5tbU9FTm90duAZtDZUv) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [B.R.M.C.](https://open.spotify.com/album/5kNEFtQmqLrPx0XA8Sq0N5) | 3:45 | 2023-06-07 |  |
+| [Still Truckin](https://open.spotify.com/track/3gaibZyINf67LeyXmckAvK) | [Marc A Ridge](https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn) | [Still Truckin](https://open.spotify.com/album/2XiBPrUsv0DXZKPbiQVUms) | 5:10 | 2023-08-04 |  |
 | [Sweet Tooth](https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5) | [Jonathan Plevyak](https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO) | [Sweet Tooth](https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq) | 2:11 | 2023-06-07 |  |
 | [Take My Rider](https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl) | [Douglas Avery](https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz) | [Take My Rider](https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y) | 5:12 | 2023-06-07 |  |
 | [Ten Beer Job](https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh) | [Jericho Woods](https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled) | [Stop Signs and Fence Lines](https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB) | 2:50 | 2023-06-07 |  |
@@ -164,7 +166,7 @@
 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 | 2022-05-25 | 2023-04-30 |
 | [Waiting](https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9) | [Arthur Terembula](https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60) | [Waiting](https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01) | 2:14 | 2023-07-21 |  |
 | [Walk The Wire](https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp) | [Brent Lindsay](https://open.spotify.com/artist/26cglONxlfyTejxQrbWJaO) | [Walk The Wire](https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X) | 2:04 | 2023-06-07 |  |
-| [Wayward Son](https://open.spotify.com/track/5KhgT9qpjluyfl2xS2LJ6Q) | [Jhett Black](https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2) | [Wayward Son](https://open.spotify.com/album/3VmdrXqWOMmIEz8syqeOzd) | 3:43 | 2023-07-21 |  |
+| [Wayward Son](https://open.spotify.com/track/5KhgT9qpjluyfl2xS2LJ6Q) | [Jhett Black](https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2) | [Wayward Son](https://open.spotify.com/album/3VmdrXqWOMmIEz8syqeOzd) | 3:43 | 2023-07-21 | 2023-08-06 |
 | [Well Well Well](https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Dirt Woman Blues](https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum) | 4:07 | 2023-06-07 |  |
 | [Well, I Done Got Over It](https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Well, I Done Got Over It](https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7) | 2:54 | 2023-07-14 |  |
 | [Wet Hayshark](https://open.spotify.com/track/6kQHH7KLnEQqzK1gULf0Wd) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [In London](https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78) | 2:28 | 2022-05-25 | 2023-06-08 |
@@ -172,6 +174,7 @@
 | [What Goes Around \(Comes Around\)](https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [What Goes Around \(Comes Around\)](https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk) | 3:36 | 2023-06-30 |  |
 | [Whiskey And Wimmen'](https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:37 | 2022-05-25 | 2023-06-08 |
 | [Who Drank My Beer While I Was In The Rear \- Remastered](https://open.spotify.com/track/5J6Pe8az9hdBuOGairgVYH) | [Dave Bartholomew](https://open.spotify.com/artist/4J7xpEpjniTZGE73PxVfkw) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:50 | 2022-05-25 | 2023-06-08 |
+| [Wild Flying Dove](https://open.spotify.com/track/3mmISWDyxShlW9qizsyIKP) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Wild Flying Dove](https://open.spotify.com/album/7CbEruTsoJilsvpQjqoqCI) | 6:01 | 2023-08-04 |  |
 | [Yonder Wall](https://open.spotify.com/track/2vKadnRjDi4F56pHspv9u1) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 3:22 | 2022-05-25 | 2023-06-08 |
 
 \*This playlist was first scraped on 2022-05-31. Prior content cannot be recovered.

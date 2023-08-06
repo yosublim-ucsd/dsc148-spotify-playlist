@@ -2254,7 +2254,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 228590,
       "name": "Bl\u00e5 Himmel (feat. Hans Philip)",
       "url": "https://open.spotify.com/track/0qA2qykpcGdVl3tiiYum4g"
@@ -4092,7 +4092,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -4132,6 +4132,28 @@
       "duration_ms": 308048,
       "name": "De Ensommes Gade",
       "url": "https://open.spotify.com/track/022JJHCzq3gBv39NpWxtOb"
+    },
+    {
+      "album": {
+        "name": "De Forbudte Trin (feat. Benny Jamz)",
+        "url": "https://open.spotify.com/album/51dPCd7L8zdDZNzGeCASeV"
+      },
+      "artists": [
+        {
+          "name": "Pooyandeh",
+          "url": "https://open.spotify.com/artist/5UMWdEM0A0J6h27FgaICOS"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163416,
+      "name": "De Forbudte Trin (feat. Benny Jamz)",
+      "url": "https://open.spotify.com/track/3TPqw77JJK9CEa3ZVuMEIO"
     },
     {
       "album": {
@@ -4436,6 +4458,28 @@
       "duration_ms": 146138,
       "name": "Designer Love (feat. Gilli)",
       "url": "https://open.spotify.com/track/65XzSJEtP2hlNjo8x44bL4"
+    },
+    {
+      "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
       "album": {
@@ -16218,7 +16262,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 147679,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/3uMO7jmdXxwSijvxNXDgE4"
@@ -20222,7 +20266,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
@@ -20266,7 +20310,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
@@ -20364,7 +20408,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 184888,
       "name": "THANK GOD",
       "url": "https://open.spotify.com/track/1PH2MDbcBAU094DlgTIND1"

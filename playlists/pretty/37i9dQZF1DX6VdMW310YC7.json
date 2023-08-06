@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3649755,
+  "num_followers": 3650408,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTliZGY3NTRkZDIzMWFmNzlhODY2MjMyZDVmYTYwMGFlMGY5YmQw",
+  "snapshot_id": "MCw4ODFkZmMxM2M5MGMxM2EzZDhmZDUzOTBlMGY2YjU1MDFjNWY5Mzdm",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -391,6 +391,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Blood Remixed",
+        "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        },
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 310133,
+      "name": "Feel Your Weight - Poolside Remix",
+      "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Allein Allein",
         "url": "https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 221128,
       "name": "Allein Allein",
       "url": "https://open.spotify.com/track/2bpHc7nCduKQWJVNqJ4mDj"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Blood Remixed",
-        "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        },
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 310133,
-      "name": "Feel Your Weight - Poolside Remix",
-      "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Another Time",
-        "url": "https://open.spotify.com/album/4rqr9zrFHD4fd2Y1hv6RKK"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        },
-        {
-          "name": "Kwesi",
-          "url": "https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV"
-        }
-      ],
-      "duration_ms": 255789,
-      "name": "Another Time",
-      "url": "https://open.spotify.com/track/67f7gMWZ2PJI7IsUBs3mNQ"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Tears In Paradise",
         "url": "https://open.spotify.com/album/3KxCBxlG7udmxLbU4SI1LE"
       },
@@ -607,18 +587,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/5P78sT6zk4x44BiOHDuhzW"
+        "name": "Another Time",
+        "url": "https://open.spotify.com/album/4rqr9zrFHD4fd2Y1hv6RKK"
       },
       "artists": [
         {
-          "name": "NORRA",
-          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        },
+        {
+          "name": "Kwesi",
+          "url": "https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV"
         }
       ],
-      "duration_ms": 191420,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/32cwP8NCIBrDj0mTcqZfYv"
+      "duration_ms": 255789,
+      "name": "Another Time",
+      "url": "https://open.spotify.com/track/67f7gMWZ2PJI7IsUBs3mNQ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -643,6 +627,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/5P78sT6zk4x44BiOHDuhzW"
+      },
+      "artists": [
+        {
+          "name": "NORRA",
+          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
+        }
+      ],
+      "duration_ms": 191420,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/32cwP8NCIBrDj0mTcqZfYv"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Ghostkeeper",
         "url": "https://open.spotify.com/album/0ZoNlJeutDZYpf1rSzGInO"
       },
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Spring Embers",
-        "url": "https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "Spring Embers",
-      "url": "https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Surrender (Remixes)",
         "url": "https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 411024,
       "name": "Always - Monkey Safari Remix",
       "url": "https://open.spotify.com/track/6hAII4Wyrr0eV4MmPnsTuY"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Spring Embers",
+        "url": "https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "Spring Embers",
+      "url": "https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 248432,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "HOLD YOU",
         "url": "https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 224826,
       "name": "Something About",
       "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 248432,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Azure EP",
-        "url": "https://open.spotify.com/album/5M4iiiphjdlqSq9Yutm6QU"
-      },
-      "artists": [
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 222232,
-      "name": "Mine To Love",
-      "url": "https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Life on Hold",
         "url": "https://open.spotify.com/album/030x3uRQYYEtkFwpIj60ci"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 207540,
       "name": "Life on Hold",
       "url": "https://open.spotify.com/track/0uTkVCAf8PxMo8NJ3tFYzH"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Azure EP",
+        "url": "https://open.spotify.com/album/5M4iiiphjdlqSq9Yutm6QU"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 222232,
+      "name": "Mine To Love",
+      "url": "https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/5vC7gyO1QMBpkkqkTr6aGu"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Need You There",
-        "url": "https://open.spotify.com/album/3ekJlg88JAhvLmHEkZeP7S"
+        "name": "Here",
+        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
       },
       "artists": [
         {
-          "name": "M-22",
-          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 185991,
-      "name": "Need You There",
-      "url": "https://open.spotify.com/track/6CMF35Wo3xRxGTLDMjvxlY"
+      "duration_ms": 192133,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1075,6 +1059,22 @@
       "duration_ms": 220625,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Need You There",
+        "url": "https://open.spotify.com/album/3ekJlg88JAhvLmHEkZeP7S"
+      },
+      "artists": [
+        {
+          "name": "M-22",
+          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
+        }
+      ],
+      "duration_ms": 185991,
+      "name": "Need You There",
+      "url": "https://open.spotify.com/track/6CMF35Wo3xRxGTLDMjvxlY"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy"
+      },
+      "artists": [
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Need Somebody",
         "url": "https://open.spotify.com/album/0wXBsMZJHGgbSLB9hzTcuS"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 214570,
       "name": "Need Somebody",
       "url": "https://open.spotify.com/track/6KTWtfD0ciy5N3Lid45D3G"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Paradox",
-        "url": "https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy"
-      },
-      "artists": [
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Paradox",
-      "url": "https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Light Places",
-        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
-        }
-      ],
-      "duration_ms": 241804,
-      "name": "Feels Just Like It",
-      "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Indulgence",
         "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 208185,
       "name": "Can't Help But Think About You",
       "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Light Places",
+        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "duration_ms": 241804,
+      "name": "Feels Just Like It",
+      "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Assassin",
+        "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Assassin",
+      "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Breaking Apart",
         "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 275958,
       "name": "Breaking Apart",
       "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Assassin",
-        "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Assassin",
-      "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        }
-      ],
-      "duration_ms": 273679,
-      "name": "Manila Palm",
-      "url": "https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Back To The Roots",
         "url": "https://open.spotify.com/album/5KyoaRg9SfEhKzwVyDEPnT"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 286229,
       "name": "Back To The Roots",
       "url": "https://open.spotify.com/track/09ctjXoWwXxYcvqIkmIFas"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Juno",
+        "url": "https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 273679,
+      "name": "Manila Palm",
+      "url": "https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn"
     },
     {
       "added_at": "2023-08-04 04:00:00",

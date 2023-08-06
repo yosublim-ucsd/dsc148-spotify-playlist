@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > N.I.N.A e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,402 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,400 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Fora da Rota](https://open.spotify.com/track/72ZaPUEn3S7dFrQaZVemtL) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Fora da Rota](https://open.spotify.com/album/0vUQD3M3ALEwMud3ZC7ZyF) | 2:53 |
 | 50 | [LÁBIOS PRETOS](https://open.spotify.com/track/4mMiGFnKLpay24NVEnPNHN) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX), [Bruna BG](https://open.spotify.com/artist/1djfP54UKe6svnBXiFI4HQ), [Karen Francis](https://open.spotify.com/artist/6aXHEtswFvSFtstG4jTsEU) | [LÁBIOS PRETOS](https://open.spotify.com/album/31CvR2FGEXffTHElWSOmOT) | 4:45 |
 
-Snapshot ID: `MCwzNjYzZjc2M2RlMDA2MjQ0YTVlNjRlNzMyNjhkNWYxMjE2N2FiYzdm`
+Snapshot ID: `MCw5NDhkYmQ0YmY0NzdjNmY5MGZhODUzNTJiNTU1ZmNiN2Y2ODIzNDIz`

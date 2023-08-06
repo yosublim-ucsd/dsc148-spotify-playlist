@@ -923,6 +923,28 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4tx98D2IVwR6lqnDcBPrzi"
+      },
+      "artists": [
+        {
+          "name": "Nathan C",
+          "url": "https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q"
+        },
+        {
+          "name": "Yola Recoba",
+          "url": "https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158100,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4GYO06wf3VU43VzgRevxU2"
+    },
+    {
+      "album": {
         "name": "Chemicals",
         "url": "https://open.spotify.com/album/2IPq21A71Ap2s5noX13PkV"
       },
@@ -2900,7 +2922,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 249012,
       "name": "I Can Make It",
       "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
@@ -4086,7 +4108,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 210988,
       "name": "Love's Not Over - Dawn Edit",
       "url": "https://open.spotify.com/track/4igakSDtom2NQ54wYfPSOx"

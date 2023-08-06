@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 94135,
+  "num_followers": 94206,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDU2OTVkYjhmMGE2MTVhYzBkYTA5N2JhY2EzMTZhYWQ1NjFkMzQ0",
+  "snapshot_id": "MCxiZmYzZmI0ZjMzNjE2NjFiNDZiYjY2NzBmNzhkMzMwNTIzMzE3NWM1",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -651,6 +651,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Real For Life",
+        "url": "https://open.spotify.com/album/5Y3WjlGpIvICp5QvSi1udA"
+      },
+      "artists": [
+        {
+          "name": "Joel Ney",
+          "url": "https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi"
+        },
+        {
+          "name": "Goya Alfa",
+          "url": "https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y"
+        }
+      ],
+      "duration_ms": 281734,
+      "name": "Esclava",
+      "url": "https://open.spotify.com/track/6aEB2VcMRyT33R6l2wFHJf"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Easy Money Baby",
         "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
@@ -663,34 +683,6 @@
       "duration_ms": 134013,
       "name": "MIB",
       "url": "https://open.spotify.com/track/7z9chavxReUpyOZoAkUnUb"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Percocet (Remix)",
-        "url": "https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Chris Wandell",
-          "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
-        },
-        {
-          "name": "Quimico Ultra Mega",
-          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
-        }
-      ],
-      "duration_ms": 314626,
-      "name": "Percocet - Remix",
-      "url": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -739,22 +731,30 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Real For Life",
-        "url": "https://open.spotify.com/album/5Y3WjlGpIvICp5QvSi1udA"
+        "name": "Percocet (Remix)",
+        "url": "https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1"
       },
       "artists": [
         {
-          "name": "Joel Ney",
-          "url": "https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi"
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
         },
         {
-          "name": "Goya Alfa",
-          "url": "https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Chris Wandell",
+          "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
+        },
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
         }
       ],
-      "duration_ms": 281734,
-      "name": "Esclava",
-      "url": "https://open.spotify.com/track/6aEB2VcMRyT33R6l2wFHJf"
+      "duration_ms": 314626,
+      "name": "Percocet - Remix",
+      "url": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1527,6 +1527,42 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Flow Cabron",
+        "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
+      },
+      "artists": [
+        {
+          "name": "Tali",
+          "url": "https://open.spotify.com/artist/1HzjYKBYzU5HamS57RbqhB"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 226371,
+      "name": "Flow Cabron",
+      "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "En Que Pa\u00eds",
+        "url": "https://open.spotify.com/album/2t2wCPIFNSgaPfIHg9mjJm"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 210628,
+      "name": "En Que Pa\u00eds",
+      "url": "https://open.spotify.com/track/7B1hXzq4zemjlaEJ2C27KB"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "La Verdadera Vuelta",
         "url": "https://open.spotify.com/album/1N9uoPv76ac3oi8XXqJPop"
       },
@@ -1559,42 +1595,6 @@
       "duration_ms": 616600,
       "name": "Ninguno Se Monta",
       "url": "https://open.spotify.com/track/2YCU2jQ1laKqs4PuXbhGyT"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "En Que Pa\u00eds",
-        "url": "https://open.spotify.com/album/2t2wCPIFNSgaPfIHg9mjJm"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 210628,
-      "name": "En Que Pa\u00eds",
-      "url": "https://open.spotify.com/track/7B1hXzq4zemjlaEJ2C27KB"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Flow Cabron",
-        "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
-      },
-      "artists": [
-        {
-          "name": "Tali",
-          "url": "https://open.spotify.com/artist/1HzjYKBYzU5HamS57RbqhB"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 226371,
-      "name": "Flow Cabron",
-      "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
     },
     {
       "added_at": "2023-05-25 17:50:01",

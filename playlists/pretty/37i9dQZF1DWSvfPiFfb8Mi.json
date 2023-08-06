@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 216349,
+  "num_followers": 216640,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjhmZDRmNjEzYzUxNmJkM2U0NGExZjNkN2Y1MjZkNTViMDkzNmYy",
+  "snapshot_id": "MCxkMDFkYjdlNDkxMDhjZDg2ZWY4ZmRhODZkYjUzNWU0YThkN2M3MWM4",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Real Cultural Shit",
-        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 243759,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Little Miss Dynamite",
         "url": "https://open.spotify.com/album/7MOLCkGoOF4ehlOVKmAuHO"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 194645,
       "name": "Little Miss Dynamite",
       "url": "https://open.spotify.com/track/6o2xX07z0g72uGj8rPldW3"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Real Cultural Shit",
+        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 243759,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Disco Maniac",
+        "url": "https://open.spotify.com/album/0Gf4OSiPH8dBe6IbgHRUFD"
+      },
+      "artists": [
+        {
+          "name": "Billy Vena",
+          "url": "https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Disco Maniac",
+      "url": "https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Disco Maniac",
-        "url": "https://open.spotify.com/album/0Gf4OSiPH8dBe6IbgHRUFD"
-      },
-      "artists": [
-        {
-          "name": "Billy Vena",
-          "url": "https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "Disco Maniac",
-      "url": "https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "All The Things We Say / Move Me",
         "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "The Best Rapper Alive",
-        "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
-      },
-      "artists": [
-        {
-          "name": "Dj Streaks",
-          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
-        }
-      ],
-      "duration_ms": 487619,
-      "name": "The Best Rapper Alive",
-      "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Lucas",
         "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 198173,
       "name": "Money",
       "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "The Best Rapper Alive",
+        "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
+      },
+      "artists": [
+        {
+          "name": "Dj Streaks",
+          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
+        }
+      ],
+      "duration_ms": 487619,
+      "name": "The Best Rapper Alive",
+      "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Awesome Ways",
+        "url": "https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Awesome Ways",
+      "url": "https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Lovin You",
         "url": "https://open.spotify.com/album/0xxlWA40DcSNiofv6t88yL"
       },
@@ -1187,22 +1207,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Awesome Ways",
-        "url": "https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL"
+        "name": "Inferno (No. 1)",
+        "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
       },
       "artists": [
         {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+          "name": "Disco Dom",
+          "url": "https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004"
         },
         {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Awesome Ways",
-      "url": "https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m"
+      "duration_ms": 296453,
+      "name": "Be The One (feat. Yung Bae)",
+      "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1267,30 +1291,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Inferno (No. 1)",
-        "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
-      },
-      "artists": [
-        {
-          "name": "Disco Dom",
-          "url": "https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004"
-        },
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        }
-      ],
-      "duration_ms": 296453,
-      "name": "Be The One (feat. Yung Bae)",
-      "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Studio 54",
         "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
       },
@@ -1311,42 +1311,6 @@
       "duration_ms": 166289,
       "name": "Studio 54",
       "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Colors (The Knocks Remix)",
-        "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
-      },
-      "artists": [
-        {
-          "name": "Thunder Jackson",
-          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Colors - The Knocks Remix",
-      "url": "https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Good Night",
-        "url": "https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge"
-      },
-      "artists": [
-        {
-          "name": "Bamily",
-          "url": "https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy"
-        }
-      ],
-      "duration_ms": 277225,
-      "name": "Good Night",
-      "url": "https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1375,6 +1339,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Colors (The Knocks Remix)",
+        "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
+      },
+      "artists": [
+        {
+          "name": "Thunder Jackson",
+          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Colors - The Knocks Remix",
+      "url": "https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Freeway (with Estelle)",
         "url": "https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ"
       },
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Good Night",
+        "url": "https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge"
+      },
+      "artists": [
+        {
+          "name": "Bamily",
+          "url": "https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy"
+        }
+      ],
+      "duration_ms": 277225,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Hot Summer Love",
         "url": "https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb"
       },
@@ -1407,34 +1407,6 @@
       "duration_ms": 254072,
       "name": "Hot Summer Love",
       "url": "https://open.spotify.com/track/4TQqoGyB4nYr79d6pYXNi9"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "You're in My System (Dennis Quin Remixes)",
-        "url": "https://open.spotify.com/album/11hmXIEpilxzxlCKjdaK6U"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        },
-        {
-          "name": "Jerome Sydenham",
-          "url": "https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B"
-        },
-        {
-          "name": "Troy Denari",
-          "url": "https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv"
-        },
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 351219,
-      "name": "You're in My System - Dennis Quin Club Mix",
-      "url": "https://open.spotify.com/track/1Gak4gX5CGebdBvl8A89fz"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1483,6 +1455,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Maintain (Jafunk Remix)",
+        "url": "https://open.spotify.com/album/4s3XM6cFpopwRnit42eBGq"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "Maintain - Jafunk Remix",
+      "url": "https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "You Bring Me Joy",
         "url": "https://open.spotify.com/album/7qC8j2gTsZJk38AsoGyWKI"
       },
@@ -1503,22 +1495,30 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Maintain (Jafunk Remix)",
-        "url": "https://open.spotify.com/album/4s3XM6cFpopwRnit42eBGq"
+        "name": "You're in My System (Dennis Quin Remixes)",
+        "url": "https://open.spotify.com/album/11hmXIEpilxzxlCKjdaK6U"
       },
       "artists": [
         {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
         },
         {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+          "name": "Jerome Sydenham",
+          "url": "https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B"
+        },
+        {
+          "name": "Troy Denari",
+          "url": "https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv"
+        },
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
         }
       ],
-      "duration_ms": 193946,
-      "name": "Maintain - Jafunk Remix",
-      "url": "https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2"
+      "duration_ms": 351219,
+      "name": "You're in My System - Dennis Quin Club Mix",
+      "url": "https://open.spotify.com/track/1Gak4gX5CGebdBvl8A89fz"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Waiting 4 You",
+        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
+      },
+      "artists": [
+        {
+          "name": "Ekkah",
+          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
+        }
+      ],
+      "duration_ms": 220299,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Free (Do What U Want) (feat. Jules Buckley)",
         "url": "https://open.spotify.com/album/06ZWcaFN02Mq0IR3tjq5vt"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 224813,
       "name": "Free (Do What U Want)",
       "url": "https://open.spotify.com/track/6lVdhbN1xING12E926vWwI"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Waiting 4 You",
-        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
-      },
-      "artists": [
-        {
-          "name": "Ekkah",
-          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
-        }
-      ],
-      "duration_ms": 220299,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1687,6 +1687,26 @@
       "duration_ms": 219858,
       "name": "Be with You Tonight",
       "url": "https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "My All",
+        "url": "https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Turbotito",
+          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
+        }
+      ],
+      "duration_ms": 240691,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1763,26 +1783,6 @@
       "duration_ms": 375483,
       "name": "Back In Time - Original Mix",
       "url": "https://open.spotify.com/track/2iMr4fmel0lQnL28yxOtIT"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "My All",
-        "url": "https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH"
-      },
-      "artists": [
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Turbotito",
-          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
-        }
-      ],
-      "duration_ms": 240691,
-      "name": "My All",
-      "url": "https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1943,22 +1943,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "You\u2019re Gonna Make Me Love Somebody Else (feat. Kelli Sae)",
-        "url": "https://open.spotify.com/album/6HKCBgUjVZ6JwUc22wMx5O"
+        "name": "Music Saved My Life",
+        "url": "https://open.spotify.com/album/5MZqeTw9XvDNq8TgYq0AsO"
       },
       "artists": [
         {
-          "name": "Michael Gray",
-          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+          "name": "Dimitri From Paris",
+          "url": "https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo"
         },
         {
-          "name": "Kelli Sae",
-          "url": "https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17"
+          "name": "Fiorious",
+          "url": "https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor"
         }
       ],
-      "duration_ms": 221331,
-      "name": "You\u2019re Gonna Make Me Love Somebody Else (feat. Kelli Sae)",
-      "url": "https://open.spotify.com/track/6JYFZ20WIZQB9ZEnR2aqZ7"
+      "duration_ms": 224258,
+      "name": "Music Saved My Life",
+      "url": "https://open.spotify.com/track/2XPixA82xnIiju7E0bgt4e"
     }
   ],
   "unique_name": "Poolside Disco",

@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Rezz \\m/",
-  "num_followers": 312178,
+  "num_followers": 312294,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzhiYzg3YWI2NWIxNjRhMGI0ZDkwOTRhMGM4YzE4YjcyOTYyOTFm",
+  "snapshot_id": "MCxhMzc4NGRlYWZmZjI5NjQyZWE2ZWY4MjkzZmRlNzI2ZjI0YWUwYTg0",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Good F**King Music",
+        "url": "https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "duration_ms": 206433,
+      "name": "Good F**King Music",
+      "url": "https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "April Mixtape 3",
         "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 151232,
       "name": "It's A Dream (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Good F**King Music",
-        "url": "https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU"
-      },
-      "artists": [
-        {
-          "name": "Solence",
-          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
-        }
-      ],
-      "duration_ms": 206433,
-      "name": "Good F**King Music",
-      "url": "https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -995,30 +995,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Amnesia (feat. GASHI)",
-        "url": "https://open.spotify.com/album/51BR8645FA5RjZus314Tpy"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "GASHI",
-          "url": "https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Amnesia (feat. GASHI)",
-      "url": "https://open.spotify.com/track/1xvh5ujI8fogjmadcLmLBZ"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "1000 gecs and The Tree of Clues",
         "url": "https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS"
       },
@@ -1043,6 +1019,30 @@
       "duration_ms": 175699,
       "name": "hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]",
       "url": "https://open.spotify.com/track/5Mm2CJzNRiICC5MWRWQnBo"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Amnesia (feat. GASHI)",
+        "url": "https://open.spotify.com/album/51BR8645FA5RjZus314Tpy"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "GASHI",
+          "url": "https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Amnesia (feat. GASHI)",
+      "url": "https://open.spotify.com/track/1xvh5ujI8fogjmadcLmLBZ"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Werewolf: Synthwave Edition",
-        "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        },
-        {
-          "name": "Saxl Rose",
-          "url": "https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq"
-        }
-      ],
-      "duration_ms": 211387,
-      "name": "Werewolf: Synthwave Edition",
-      "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Won't Make A Sound",
         "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 276480,
       "name": "Won't Make A Sound",
       "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Werewolf: Synthwave Edition",
+        "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Saxl Rose",
+          "url": "https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq"
+        }
+      ],
+      "duration_ms": 211387,
+      "name": "Werewolf: Synthwave Edition",
+      "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "SKINS",
-        "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
-      },
-      "artists": [
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 310607,
-      "name": "Skins",
-      "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "A Change of Perspective (Deluxe)",
         "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 209454,
       "name": "Regret - Remix",
       "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 310607,
+      "name": "Skins",
+      "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Ghost Story (with All Time Low)",
-        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 166971,
-      "name": "Ghost Story (with All Time Low)",
-      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Angst",
         "url": "https://open.spotify.com/album/7shS9BkAsDD0jVjWnc7iQn"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 240000,
       "name": "Angst - RMX by twocolors",
       "url": "https://open.spotify.com/track/1kqx2Z9AXjbUCbPkUVbIRM"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Ghost Story (with All Time Low)",
+        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 166971,
+      "name": "Ghost Story (with All Time Low)",
+      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Enemy Brain Entertainment Suite",
-        "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
-      },
-      "artists": [
-        {
-          "name": "Fox Stevenson",
-          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
-        }
-      ],
-      "duration_ms": 251511,
-      "name": "Enemy Brain",
-      "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "The Catastrophists EP",
         "url": "https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 251707,
       "name": "Lightning Over Mexico",
       "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Enemy Brain Entertainment Suite",
+        "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
+      },
+      "artists": [
+        {
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+        }
+      ],
+      "duration_ms": 251511,
+      "name": "Enemy Brain",
+      "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1927,22 +1927,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Bad Luck",
-        "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
+        "name": "Don't Miss (The Bloody Beetroots Remix)",
+        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
       },
       "artists": [
         {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
         },
         {
-          "name": "Kiz Keyz",
-          "url": "https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS"
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
         }
       ],
-      "duration_ms": 171243,
-      "name": "Bad Luck",
-      "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
+      "duration_ms": 178181,
+      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
+      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1967,22 +1967,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Don't Miss (The Bloody Beetroots Remix)",
-        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
+        "name": "demolition (Ruined by Glass Petals)",
+        "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
       },
       "artists": [
         {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+          "name": "L\u016aN",
+          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
         },
         {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
         }
       ],
-      "duration_ms": 178181,
-      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
-      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
+      "duration_ms": 226440,
+      "name": "demolition (Ruined by Glass Petals)",
+      "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2007,26 +2011,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "demolition (Ruined by Glass Petals)",
-        "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
+        "name": "Bad Luck",
+        "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
       },
       "artists": [
         {
-          "name": "L\u016aN",
-          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
         },
         {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        },
-        {
-          "name": "Glass Petals",
-          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
+          "name": "Kiz Keyz",
+          "url": "https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS"
         }
       ],
-      "duration_ms": 226440,
-      "name": "demolition (Ruined by Glass Petals)",
-      "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
+      "duration_ms": 171243,
+      "name": "Bad Luck",
+      "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2199,6 +2199,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Raindrops",
+        "url": "https://open.spotify.com/album/0r4obL0cot6rc2XIvcDoBD"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 199448,
+      "name": "Raindrops",
+      "url": "https://open.spotify.com/track/2s7IP5vJzTJXRZ9vxVAuG5"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Kill The Machine (feat. Bad/Love)",
         "url": "https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi"
       },
@@ -2219,26 +2239,6 @@
       "duration_ms": 195720,
       "name": "Kill The Machine (feat. Bad/Love)",
       "url": "https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Raindrops",
-        "url": "https://open.spotify.com/album/0r4obL0cot6rc2XIvcDoBD"
-      },
-      "artists": [
-        {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
-        },
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 199448,
-      "name": "Raindrops",
-      "url": "https://open.spotify.com/track/2s7IP5vJzTJXRZ9vxVAuG5"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2391,26 +2391,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Cute Without The E (Ziri)",
-        "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "Cute Without The E (Ziri)",
-      "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "UMBRA",
         "url": "https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6"
       },
@@ -2427,6 +2407,26 @@
       "duration_ms": 217600,
       "name": "UMBRA",
       "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Cute Without The E (Ziri)",
+        "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Cute Without The E (Ziri)",
+      "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
     },
     {
       "added_at": "2023-07-21 04:00:00",

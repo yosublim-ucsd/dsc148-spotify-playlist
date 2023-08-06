@@ -4,7 +4,7 @@
 
 > Check your vibe with Epic Records.
 
-214 songs - 10 hr 43 min
+216 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [CAUGHT IN THE MIDDLE](https://open.spotify.com/track/6GmficOc27L6sOU77yehvW) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [BEFORE WE GO \(DEEPER\)](https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT) | 2:56 | 2022-07-22 |  |
 | [Chale](https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [Chale](https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY) | 6:14 | 2023-02-03 |  |
 | [CHROME 2](https://open.spotify.com/track/6QrxMhG4AbuC6mQiowGvo9) | [Melvoni](https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA) | [CHROME 2](https://open.spotify.com/album/66bJjMKjGWmuqNTJciStFd) | 2:31 | 2022-09-16 | 2022-10-22 |
+| [City Of Dreams \(feat\. Chris Brown\)](https://open.spotify.com/track/2nLKcpdoIX6oFo5npWHVF4) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heart Full of Rage 2](https://open.spotify.com/album/1paIukF9TxaYwBpYbyFdOt) | 2:40 | 2023-08-04 |  |
 | [Cloud](https://open.spotify.com/track/3BzUXih3wwnalV34k1arHj) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Cloud](https://open.spotify.com/album/2pckppGAwqQM0KtrnS5Itc) | 3:07 | 2022-06-17 | 2022-07-30 |
 | [COUNTING SHEEP \(feat\. 21 Savage\)](https://open.spotify.com/track/3VRtJ5A7Xaj4geWSMqXBar) | [Melvoni](https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [THIS IS NOT A DRILL](https://open.spotify.com/album/6YTuAhKPVN4nsdzobywyEg) | 3:17 | 2022-10-21 |  |
 | [COUNTRY TO THE CITY](https://open.spotify.com/track/1uoymmNEenD0E2jRoW2Zwq) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [COUNTRY TRAP](https://open.spotify.com/album/3IEYwKGZtYATXBhauRa3n8) | 2:20 | 2022-10-21 | 2022-11-19 |
@@ -111,7 +112,7 @@
 | [Karma](https://open.spotify.com/track/4CAX5XgZuPCQHXLcZUSQWb) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Karma](https://open.spotify.com/album/6er37pHuc7Y1AWtwJXwc8l) | 2:49 | 2023-06-02 | 2023-07-09 |
 | [KEEP IT](https://open.spotify.com/track/2WUoFcxvDYAsjKKI3pKWa5) | [Kid Culture](https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU) | [KEEP IT](https://open.spotify.com/album/4EgIKM2NooqnRLP4W9p1Q1) | 2:20 | 2023-01-20 | 2023-04-09 |
 | [Kevin](https://open.spotify.com/track/5VojgowVZsVrqNHW2kBn0Z) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4tIie3hbiCsMqXyQNZwpAj) | 3:09 | 2022-06-10 | 2022-09-17 |
-| [Kills Me](https://open.spotify.com/track/2IZZrIXBfMqWtbhNZUfLrz) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Kills Me](https://open.spotify.com/album/1We5M24aUK1pQKN5hGCoGr) | 3:08 | 2023-04-28 |  |
+| [Kills Me](https://open.spotify.com/track/2IZZrIXBfMqWtbhNZUfLrz) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Kills Me](https://open.spotify.com/album/1We5M24aUK1pQKN5hGCoGr) | 3:08 | 2023-04-28 | 2023-08-06 |
 | [KISS N' TELL \(feat\. Dro Kenji\)](https://open.spotify.com/track/4nZ4aGaAixvW9D7TethGee) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [KISS N' TELL \(feat\. Dro Kenji\)](https://open.spotify.com/album/6v6K6TQa2Scbn2OKhDCnDp) | 2:06 | 2023-03-24 | 2023-04-22 |
 | [KU LO SA](https://open.spotify.com/track/3KanRQJTuX9hTRG2rnscYO) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA](https://open.spotify.com/album/49t2yBtgMtTnSsFWRp19GO) | 2:28 | 2022-10-21 |  |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-06-10 | 2022-06-25 |
@@ -191,7 +192,8 @@
 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 | 2022-08-05 | 2022-08-27 |
 | [STICKS](https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [STICKS](https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S) | 2:37 | 2022-04-15 | 2022-06-11 |
 | [Storyteller](https://open.spotify.com/track/3P14DrMQLh1CqKBki4e98s) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Storyteller](https://open.spotify.com/album/28Y1Tj8nZRro47bwhKnOiV) | 2:46 | 2022-06-10 | 2022-08-27 |
-| [SUMMER VIBES](https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [SUMMER VIBES](https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2) | 2:26 | 2023-07-07 |  |
+| [Stranger Phase](https://open.spotify.com/track/05vuFinB7jU69klIBP8UyD) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Stranger Phase](https://open.spotify.com/album/44y4ca25dl9Pdjk9RZsAuG) | 2:55 | 2023-08-04 |  |
+| [SUMMER VIBES](https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [SUMMER VIBES](https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2) | 2:26 | 2023-07-07 | 2023-08-06 |
 | [talk 2 em](https://open.spotify.com/track/7L4gDJcbomtunXe5zEgYGZ) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [talk 2 em](https://open.spotify.com/album/2Kwe1GT8kYZmOh6hmJhGyX) | 2:24 | 2023-07-21 |  |
 | [Teach U How To Play](https://open.spotify.com/track/4iiwARZ0XDDG70UvL0skme) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Teach U How To Play](https://open.spotify.com/album/4R09J6lWN5YfS8gEjHbQeQ) | 2:14 | 2022-09-16 | 2022-10-15 |
 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 | 2022-10-14 | 2023-01-21 |

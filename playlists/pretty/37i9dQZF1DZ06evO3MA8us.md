@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,028 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,030 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 42 | [It Is Finished \- Live](https://open.spotify.com/track/6CAEUmlr6iQeJRqgJXkouf) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [Follow You Anywhere \(Live\)](https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1) | 5:27 |
 | 43 | [10,000 Reasons \(Bless The Lord\) \- Live](https://open.spotify.com/track/6RZ8i45jxuvih2qeNfoUdv) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Passion: White Flag](https://open.spotify.com/album/1xuZPjUaD8wODDfpWbJH9e) | 5:50 |
 | 44 | [Worthy Of Your Name \- Live](https://open.spotify.com/track/1hQEZ8Bm6cXO1mZ7fXZqkU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 7:00 |
-| 45 | [Amazing Grace \(My Chains Are Gone\) \- Live](https://open.spotify.com/track/3exoPpEA6dsPy7EL9ogyvZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: The Essential Collection \(Live\)](https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31) | 7:21 |
-| 46 | [A Thousand Hallelujahs \- Live From Passion 2022](https://open.spotify.com/track/2CZnmq9N9q6dqI478nXdae) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [A Thousand Hallelujahs](https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C) | 5:10 |
-| 47 | [You Are Our God \- Live From Passion 2023](https://open.spotify.com/track/4p7eD3cKwzDAp9XxM8pTqZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 4:49 |
-| 48 | [Better Is One Day \- Live From LIFT: Creative Conference](https://open.spotify.com/track/6f9SjE4sxBxVxlgMVjcsn3) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Jeff Johnson](https://open.spotify.com/artist/3CLYuRxvlNfsdZvWIsnoDQ) | [Live From LIFT: Creative Conference](https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3) | 4:12 |
+| 45 | [Better Is One Day \- Live From LIFT: Creative Conference](https://open.spotify.com/track/6f9SjE4sxBxVxlgMVjcsn3) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Jeff Johnson](https://open.spotify.com/artist/3CLYuRxvlNfsdZvWIsnoDQ) | [Live From LIFT: Creative Conference](https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3) | 4:12 |
+| 46 | [Amazing Grace \(My Chains Are Gone\) \- Live](https://open.spotify.com/track/3exoPpEA6dsPy7EL9ogyvZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: The Essential Collection \(Live\)](https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31) | 7:21 |
+| 47 | [A Thousand Hallelujahs \- Live From Passion 2022](https://open.spotify.com/track/2CZnmq9N9q6dqI478nXdae) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [A Thousand Hallelujahs](https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C) | 5:10 |
+| 48 | [You Are Our God \- Live From Passion 2023](https://open.spotify.com/track/4p7eD3cKwzDAp9XxM8pTqZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 4:49 |
 | 49 | [I Stand Amazed \(How Marvelous\)](https://open.spotify.com/track/5I49PGcxUCZFoMpZ6s9lj5) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Everything Glorious](https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF) | 6:36 |
 | 50 | [Christ Be Magnified \- Live From Passion 2022](https://open.spotify.com/track/59sChvWcVYb0ndiiOL2G9l) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:59 |
 
-Snapshot ID: `MjgxODYwODEsMDAwMDAwMDA1NGM0NzNlYmJhYWM5NGZiMjVhZjlhY2UxMDBhYWNhZQ==`
+Snapshot ID: `MjgxODczODgsMDAwMDAwMDBkYmUxNmNhNzlhNDc1ZThjMjkzMGJjZGJlMTdjZDNmMw==`

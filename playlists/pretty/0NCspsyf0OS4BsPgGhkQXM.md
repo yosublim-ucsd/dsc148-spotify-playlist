@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,055,961 likes - 122 songs - 6 hr 55 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,056,021 likes - 122 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 7 | [Bad Karma](https://open.spotify.com/track/5ZVujHtwnsqFJvLnqRSdch) | [Axel Thesleff](https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG) | [Bad Karma](https://open.spotify.com/album/0ST1YWy4B7KqmbVpAcVhlx) | 6:56 |
 | 8 | [UCLA](https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 3:12 |
 | 9 | [Stay High \- Habits Remix](https://open.spotify.com/track/1a3bby8QWg5R2MQMPejXRJ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Spring Break Essentials](https://open.spotify.com/album/1cG3G3xYzf6deXeAulQw5v) | 4:18 |
-| 10 | [PHONK DA FAVELADA](https://open.spotify.com/track/18qzn4XoVwC5lnwv1EBpxX) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [PHONK DE FAVELADA](https://open.spotify.com/album/6o4gGogHB1Z90bM3JL6I0Z) | 2:24 |
+| 10 | [PHONK DA FAVELADA](https://open.spotify.com/track/18qzn4XoVwC5lnwv1EBpxX) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [PHONK DE FAVELADA](https://open.spotify.com/album/6o4gGogHB1Z90bM3JL6I0Z) | 2:24 |
 | 11 | [Hislerim](https://open.spotify.com/track/32Mh7kOCWmNTZgre0cGvCV) | [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD), [Zerrin](https://open.spotify.com/artist/32Wdf3LOdSMeo8ituCMxqY) | [Hislerim](https://open.spotify.com/album/6xEqzdQRxuioh1onPW2mT9) | 3:34 |
 | 12 | [falling down](https://open.spotify.com/track/57eYzzXOjMO18x3otqd9MX) | [théos](https://open.spotify.com/artist/3zyJ0KYR7Zxowqq4T4QKru) | [falling down](https://open.spotify.com/album/28Bn7Rb61877L23Dtn0AkQ) | 2:01 |
 | 13 | [Overthinker](https://open.spotify.com/track/7qGoMOzR9pJ1bPl4bFmTN7) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Overthinker](https://open.spotify.com/album/1eCYiLDLT6ZLzCeThN90UF) | 4:28 |

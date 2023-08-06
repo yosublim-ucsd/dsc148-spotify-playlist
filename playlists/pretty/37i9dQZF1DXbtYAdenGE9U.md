@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,997 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,513 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 35 | [Gouryella](https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4) | [Gouryella](https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki) | [Gouryella](https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL) | 3:37 |
 | 36 | [Escape \- Radio Edit](https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh) | [Airbase](https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe) | [Escape](https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu) | 3:14 |
 | 37 | [Superstring \- RANK 1's Radio Edit](https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Superstring](https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3) | 3:07 |
-| 38 | [Universal Nation](https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Trance Top 1000 \- The Best Of](https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe) | 3:45 |
-| 39 | [Take Me Away \(Into The Night\) \- Radio Edit](https://open.spotify.com/track/7AdWFGv4pv1o9YSPWACdOl) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Take Me Away \(Into The Night\)](https://open.spotify.com/album/3BIWgt1SQ3YISooGrl0LQr) | 3:09 |
+| 38 | [Take Me Away \(Into The Night\) \- Radio Edit](https://open.spotify.com/track/7AdWFGv4pv1o9YSPWACdOl) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Take Me Away \(Into The Night\)](https://open.spotify.com/album/3BIWgt1SQ3YISooGrl0LQr) | 3:09 |
+| 39 | [Universal Nation](https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Trance Top 1000 \- The Best Of](https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe) | 3:45 |
 | 40 | [Shivers](https://open.spotify.com/track/0pfJH3eRkM4t9wlg6LwuTU) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [Armin Anthems Top 100 \(Ultimate Singles Collected\)](https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a) | 3:09 |
 | 41 | [Everytime \- Nalin & Kane Mix](https://open.spotify.com/track/1jxVRXHqJKPzyhDQBmT6vU) | [Lustral](https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7), [Nalin & Kane](https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6) | [25 Years, Vol\. 3](https://open.spotify.com/album/0WPqeMn5Kmi1RMpNwm5DMV) | 4:09 |
 | 42 | [Café Del Mar \- Marco V Remix Radio Edit](https://open.spotify.com/track/6z91SyGlPsllxhnG2Aw0Fb) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 49 | [Thing Called Love \- Original Mix](https://open.spotify.com/track/0YuDHcx0WM1tGOyidHMwnz) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [Group Therapy](https://open.spotify.com/album/2I6sty06i8pXtu175kAfHa) | 5:29 |
 | 50 | [We Control The Sunlight](https://open.spotify.com/track/7LpshpG8snNJYdD7TnHS0I) | [Aly & Fila](https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h), [Jwaydan](https://open.spotify.com/artist/5Ft69LRmkksL2qyqsQ9XXp) | [Armada Collected: Aly & Fila](https://open.spotify.com/album/7HWZDqLdT72qEKhiQrOCu1) | 3:46 |
 
-Snapshot ID: `MCw5YTk2NzQ5NmQ3NzdmZDc5ZWE0MjYwNWUyZjY5YWZiMDU2NTdmY2Zi`
+Snapshot ID: `MCxkNDVjNmFiODMwZGFmNGU4ZjQ5Yjc4ODIzZjZlNjY3NGM3ZWRmZDI4`

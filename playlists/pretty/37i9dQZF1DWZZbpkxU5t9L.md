@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: 音田雅則
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,603 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,683 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 49 | [I WANNA 罠?](https://open.spotify.com/track/4s88PpuZHrawbHyEUfwyAy) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [I WANNA 罠?](https://open.spotify.com/album/5cUdH3PrCI4qwIw7oyyoAp) | 3:57 |
 | 50 | [Hekireki](https://open.spotify.com/track/09FxXfNTQsCgzkPmCeFwlr) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Emi Nishino](https://open.spotify.com/artist/1VozNsgCh7n6FBO285Z1et), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK) | [Hekireki](https://open.spotify.com/album/4IoppmDr5YdPSIrEOXUC2B) | 4:16 |
 
-Snapshot ID: `MCwxZGI0ZjQ0ODE5MjBmZmY2ZGRmMGJkNjgyMmUxNTE5ZTExY2EwYTk3`
+Snapshot ID: `MCxjZDUyMjU3ZTBkOTVhNDc3OWQ3YTYxYTViZmZkN2E5OWZkZGNiNjQ1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: erobé
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,394 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,602 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 15 | [Dorfkinder](https://open.spotify.com/track/6TJJfeL9UUi0xNnYvte2av) | [Finnel](https://open.spotify.com/artist/7C0CBOwkkOMnkehrvdMLrU) | [Dorfkinder](https://open.spotify.com/album/1R8ny1P0qJBCTqHeoRwZLV) | 2:27 |
 | 16 | [Just 4 Me](https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 3:02 |
 | 17 | [rosa rugosa](https://open.spotify.com/track/6JbEv82gvOqbjEMJs24MiF) | [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [rosa rugosa](https://open.spotify.com/album/1ywF3kbsYJUOa0hxfbZY08) | 2:16 |
-| 18 | [Jung & dumm](https://open.spotify.com/track/7xB3seU9qIPhm7UpVIEyeO) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [Jung & dumm](https://open.spotify.com/album/7dbIYBCmsxbiFxg5BWXwJn) | 2:53 |
+| 18 | [Jung & dumm](https://open.spotify.com/track/04HhklbQjA1Z5ijLXNTeH6) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [Teil vom Ganzen](https://open.spotify.com/album/46WYDWDIojRYafGPTAsoTn) | 2:53 |
 | 19 | [augen blau](https://open.spotify.com/track/4MVAPypWexk1uVmeHZAcf1) | [AyVe](https://open.spotify.com/artist/7v5NBcbJPldtdx1S2zQRtZ) | [augen blau](https://open.spotify.com/album/5pi6l5MRnrQwLV0mOjvInw) | 2:20 |
 | 20 | [Rote Flaggen](https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [ROTE FLAGGEN](https://open.spotify.com/album/0EWCRqTiWqdumuQKybIzWa) | 3:44 |
 | 21 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 40 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 |
 | 41 | [Nächte ohne Schlaf](https://open.spotify.com/track/4lgLsXygXaYzKU3IbUFP8Z) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [Nächte ohne Schlaf](https://open.spotify.com/album/1b3aXvWpPpFcw5cfAAXFCG) | 3:00 |
 | 42 | [DELRESTO \(ECHOES\)](https://open.spotify.com/track/04CXnx5jbmTSXhItqc13fs) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [DELRESTO \(ECHOES\)](https://open.spotify.com/album/0219TxSZyWhfo1DgafkjX2) | 4:34 |
-| 43 | [Treppenhaus](https://open.spotify.com/track/7zRQCjAB2hz47xZS6wbbB5) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Treppenhaus](https://open.spotify.com/album/0jsbXEF26ZTqjds5fAO7ui) | 3:13 |
+| 43 | [Treppenhaus](https://open.spotify.com/track/1diBYjVLL4AEPhTU0urYuB) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Teil vom Ganzen](https://open.spotify.com/album/46WYDWDIojRYafGPTAsoTn) | 3:13 |
 | 44 | [From The Start](https://open.spotify.com/track/4HqQu5tgwmRupi96Qk3LhM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 2:49 |
 | 45 | [It Is What It Is](https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Is What It Is](https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5) | 2:26 |
 | 46 | [Ohne Mich](https://open.spotify.com/track/0zcq6aMdihYVyKwa3e6l0F) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm) | [Ohne Mich](https://open.spotify.com/album/0qMEyRbNjOGkgEvBeycow6) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [photosynthese](https://open.spotify.com/track/7aaeOKbjLe1zah55isgqdC) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ), [emi x](https://open.spotify.com/artist/5kDJnYkE7Xm5zgEsJHb23u) | [photosynthese](https://open.spotify.com/album/2cfcwuPvW5CKlQSMbPTO8k) | 3:20 |
 | 100 | [BadBitchSide](https://open.spotify.com/track/3pWY06wwVs7i74skzmLcse) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [BadBitchSide](https://open.spotify.com/album/0HtKuHesys8Y2KtY41F6RT) | 2:17 |
 
-Snapshot ID: `MCw3MGM5YTYzNDc0MTAxMjJjZTkxZWI4NGNkYjE1NDdkY2RlMTVjNDhl`
+Snapshot ID: `MCw2NjY4OTBmYWQ5ZDEyOTk3Mzk0MGI0MmNkNmM5ZGUzZTQyMGVmMmUz`

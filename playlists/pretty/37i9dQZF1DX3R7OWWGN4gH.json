@@ -1,12 +1,12 @@
 {
   "description": "Lately I've been dressing for revenge",
-  "num_followers": 1064465,
+  "num_followers": 1065344,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjk0YTRhMWRhZDg4Y2UzMDgzYmM5YWM4MDY5OGU0M2RjYTY3ZDYz",
+  "snapshot_id": "MCxhNDE5OWNlY2VmNDJhM2U4ZTcxMjk1ZWExZDMxZDVkMGY2NGQ3NmJh",
   "tracks": [
     {
       "added_at": "2023-06-16 18:26:53",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "O My Heart",
-        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Hayloft",
-      "url": "https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq"
-    },
-    {
-      "added_at": "2023-06-16 18:26:53",
-      "album": {
         "name": "I See Red",
         "url": "https://open.spotify.com/album/160pzqIuixGY7qegAnQCHY"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 230613,
       "name": "I See Red",
       "url": "https://open.spotify.com/track/5MAK1nd8R6PWnle1Q1WJvh"
+    },
+    {
+      "added_at": "2023-06-16 18:26:53",
+      "album": {
+        "name": "O My Heart",
+        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Hayloft",
+      "url": "https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "O My Heart",
-        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 262173,
-      "name": "Burning Pile",
-      "url": "https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn"
-    },
-    {
-      "added_at": "2023-06-16 18:26:53",
-      "album": {
         "name": "Build a Bitch",
         "url": "https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 122772,
       "name": "Build a Bitch",
       "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
+    },
+    {
+      "added_at": "2023-06-16 18:26:53",
+      "album": {
+        "name": "Every Where Is Some Where",
+        "url": "https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "High Enough",
+      "url": "https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "Every Where Is Some Where",
-        "url": "https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr"
+        "name": "O My Heart",
+        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
       },
       "artists": [
         {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
         }
       ],
-      "duration_ms": 231600,
-      "name": "High Enough",
-      "url": "https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2"
+      "duration_ms": 262173,
+      "name": "Burning Pile",
+      "url": "https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -985,6 +985,22 @@
       "url": "https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz"
     },
     {
+      "added_at": "2023-08-04 16:26:16",
+      "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
       "added_at": "2023-06-16 18:26:53",
       "album": {
         "name": "Neveroddoreven",
@@ -999,26 +1015,6 @@
       "duration_ms": 213373,
       "name": "Who Is She ?",
       "url": "https://open.spotify.com/track/1QxcWlk8PivolUaWcpAoNq"
-    },
-    {
-      "added_at": "2023-06-16 18:26:53",
-      "album": {
-        "name": "Amala (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "Tia Tamera (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -1131,6 +1127,26 @@
       "duration_ms": 194165,
       "name": "R\u00e4t",
       "url": "https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4"
+    },
+    {
+      "added_at": "2023-06-16 18:26:53",
+      "album": {
+        "name": "Amala (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Tia Tamera (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -1335,38 +1351,6 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "Gladiator",
-        "url": "https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01"
-      },
-      "artists": [
-        {
-          "name": "Jann",
-          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
-        }
-      ],
-      "duration_ms": 211643,
-      "name": "Gladiator",
-      "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
-    },
-    {
-      "added_at": "2023-06-16 18:26:53",
-      "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
-    },
-    {
-      "added_at": "2023-06-16 18:26:53",
-      "album": {
         "name": "BADLANDS (Deluxe)",
         "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
+        "name": "Gladiator",
+        "url": "https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01"
+      },
+      "artists": [
+        {
+          "name": "Jann",
+          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
+        }
+      ],
+      "duration_ms": 211643,
+      "name": "Gladiator",
+      "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
+    },
+    {
+      "added_at": "2023-06-16 18:26:53",
+      "album": {
         "name": "Sheer Heart Attack (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 179600,
       "name": "Killer Queen - Remastered 2011",
       "url": "https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8"
+    },
+    {
+      "added_at": "2023-06-16 18:26:53",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -1595,38 +1611,6 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "abcdefu (angrier)",
-        "url": "https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 159836,
-      "name": "abcdefu (angrier)",
-      "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
-    },
-    {
-      "added_at": "2023-08-03 02:37:29",
-      "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 124373,
-      "name": "Seven",
-      "url": "https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw"
-    },
-    {
-      "added_at": "2023-06-16 18:26:53",
-      "album": {
         "name": "Wish You the Worst",
         "url": "https://open.spotify.com/album/4JsqUzG5orBKjf3LC0d6We"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 143466,
       "name": "Wish You the Worst",
       "url": "https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k"
+    },
+    {
+      "added_at": "2023-06-16 18:26:53",
+      "album": {
+        "name": "abcdefu (angrier)",
+        "url": "https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 159836,
+      "name": "abcdefu (angrier)",
+      "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
     },
     {
       "added_at": "2023-06-16 18:26:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Diana Burco, Lupita Infante.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,272 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,312 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 2 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:45 |
 | 3 | [Ingrata \- Remix](https://open.spotify.com/track/1f9r70gc2Isaqht4VCSWN8) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Ingrata \(Remix\)](https://open.spotify.com/album/0JH6GOLHQ7YgPgxvogMrHV) | 3:16 |
 | 4 | [Yo Tomo](https://open.spotify.com/track/7EFXiU4su2Wrbw395sExAX) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Gustavo Cordera](https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i) | [Yo Tomo](https://open.spotify.com/album/4CvY2laGULuB45gIFmdRR4) | 3:39 |
-| 5 | [La Culebritica \- En Vivo](https://open.spotify.com/track/59YgQLmIDzDVSISLhKwVD0) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Noche de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/6uDAcaWscix7dqTETCNmsP) | 3:57 |
+| 5 | [La Culebritica \- \(En Vivo\)](https://open.spotify.com/track/59YgQLmIDzDVSISLhKwVD0) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Noche de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/6uDAcaWscix7dqTETCNmsP) | 3:57 |
 | 6 | [Reaccionandote](https://open.spotify.com/track/7lXM3yC4RxcDfPRiIXWyhS) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Reaccionandote](https://open.spotify.com/album/6P9kHmhfcYCAzjBJoKJTXk) | 3:39 |
 | 7 | [Como Le Hago \- En vivo](https://open.spotify.com/track/23n8CRZLu9e3haYGt9VNJG) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Como Le Hago \(En vivo\)](https://open.spotify.com/album/0iFvHk9L4sc7nnDzaNTVW1) | 3:32 |
 | 8 | [Gozando](https://open.spotify.com/track/0o6MsPQs0f2xjkMnahNvby) | [Sin Fronteras](https://open.spotify.com/artist/4dAnxrHLMYZbfHKyyTr5nV), [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Gozando](https://open.spotify.com/album/5qlTbCPV7gUDC9uWZygodC) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Si Tu La Ves](https://open.spotify.com/track/04v1ifU5ICftn7GKzaFpl9) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Si Tu La Ves](https://open.spotify.com/album/4YViEFHtIfrWhgV6JTDUNN) | 3:13 |
 | 50 | [El Merengue \- Bachata Version](https://open.spotify.com/track/51eutINA7q6oJPlyXaedq2) | [DJ Tronky](https://open.spotify.com/artist/5G3p1Ju6ZzScqAropTMkJG), [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [El Merengue \(Bachata Version\)](https://open.spotify.com/album/69NQhUo4dWZLhgrMND2rl5) | 3:09 |
 
-Snapshot ID: `MCw2MzUyNDRlZjI4ZjI2YWQzYmU1OWIwZTJhZDA5ZTZlZDcwMjc1ODk2`
+Snapshot ID: `MCwzYjRmZTFlZjdmYjI3ZTZjOTk0M2RkOGYyODkxMTc5ZDYxYWIyYTcy`

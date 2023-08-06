@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 50357,
+  "num_followers": 50391,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjcyOWMzMzhmMzQ1OGM0OTI2MGMwNmJjYjNhYzBmNTJjMDQ2ZDRm",
+  "snapshot_id": "MCw4Nzg3MWU3NDk3ODllYjQ4M2Q5NjdiM2M4MzBlMjg5NjIyYThhNDlh",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -531,26 +531,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Tic Tac Toe",
-        "url": "https://open.spotify.com/album/1L67y3BRIGj7VrT9yGT7is"
+        "name": "I'll Never Die",
+        "url": "https://open.spotify.com/album/6ZDK2wcGJqmfk3hrP3ZHXu"
       },
       "artists": [
         {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "Tommy Lee Sparta",
-          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
         }
       ],
-      "duration_ms": 141714,
-      "name": "Tic Tac Toe",
-      "url": "https://open.spotify.com/track/0kmhY9fQ1p1w4ui1e28FHW"
+      "duration_ms": 146311,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3iSr9hJ5Ho56LhKXILErsJ"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -571,18 +563,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "I'll Never Die",
-        "url": "https://open.spotify.com/album/6ZDK2wcGJqmfk3hrP3ZHXu"
+        "name": "Tic Tac Toe",
+        "url": "https://open.spotify.com/album/1L67y3BRIGj7VrT9yGT7is"
       },
       "artists": [
         {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Tommy Lee Sparta",
+          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
         }
       ],
-      "duration_ms": 146311,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3iSr9hJ5Ho56LhKXILErsJ"
+      "duration_ms": 141714,
+      "name": "Tic Tac Toe",
+      "url": "https://open.spotify.com/track/0kmhY9fQ1p1w4ui1e28FHW"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Stay Clean",
-        "url": "https://open.spotify.com/album/7o6IYuy24165gpEsv12hUQ"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 159022,
-      "name": "Stay Clean",
-      "url": "https://open.spotify.com/track/0uHxgbtjFtgFnvZddrENzf"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Bitcoin",
         "url": "https://open.spotify.com/album/2Xfm6HJSoCwVmeTcJHIQQp"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 196800,
       "name": "Bitcoin",
       "url": "https://open.spotify.com/track/6wximh7UUXaridTcdnGzNo"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Stay Clean",
+        "url": "https://open.spotify.com/album/7o6IYuy24165gpEsv12hUQ"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 159022,
+      "name": "Stay Clean",
+      "url": "https://open.spotify.com/track/0uHxgbtjFtgFnvZddrENzf"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/2pW2gzJ33UZYvkBurZaF1r"
-      },
-      "artists": [
-        {
-          "name": "Mavado",
-          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/2KzIR1FI5GLsF5UK2HF73L"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/4A17sw812lXIlFlmavhK37"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 155611,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/1MosK3moAfGVRiAGum2Ngf"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/2pW2gzJ33UZYvkBurZaF1r"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/2KzIR1FI5GLsF5UK2HF73L"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Sell Lie",
-        "url": "https://open.spotify.com/album/0zWgUFZyASepcog3tIv36N"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "9Mill",
-          "url": "https://open.spotify.com/artist/4eXJco1ppGz52rAiQna3sF"
-        }
-      ],
-      "duration_ms": 171206,
-      "name": "Sell Lie",
-      "url": "https://open.spotify.com/track/1HPix6ZDvjjNMo3npaIrIq"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Be Good",
         "url": "https://open.spotify.com/album/2PEorn33CYUgsCdllVw0m6"
       },
@@ -1315,22 +1295,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Middle",
-        "url": "https://open.spotify.com/album/0NlJ1pz17KDONwsqbubpTz"
+        "name": "Sell Lie",
+        "url": "https://open.spotify.com/album/0zWgUFZyASepcog3tIv36N"
       },
       "artists": [
         {
-          "name": "Moyann",
-          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
         },
         {
-          "name": "Tommy Lee Sparta",
-          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
+          "name": "9Mill",
+          "url": "https://open.spotify.com/artist/4eXJco1ppGz52rAiQna3sF"
         }
       ],
-      "duration_ms": 126315,
-      "name": "Middle",
-      "url": "https://open.spotify.com/track/171oqBowIpiDoow5uGqgg0"
+      "duration_ms": 171206,
+      "name": "Sell Lie",
+      "url": "https://open.spotify.com/track/1HPix6ZDvjjNMo3npaIrIq"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1363,6 +1343,26 @@
       "duration_ms": 186723,
       "name": "Cree",
       "url": "https://open.spotify.com/track/6wEcOXUgeVUlrzgnNVhOqh"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Middle",
+        "url": "https://open.spotify.com/album/0NlJ1pz17KDONwsqbubpTz"
+      },
+      "artists": [
+        {
+          "name": "Moyann",
+          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
+        },
+        {
+          "name": "Tommy Lee Sparta",
+          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
+        }
+      ],
+      "duration_ms": 126315,
+      "name": "Middle",
+      "url": "https://open.spotify.com/track/171oqBowIpiDoow5uGqgg0"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Ocean Wave",
+        "url": "https://open.spotify.com/album/722vGdkmCeXfKriYdKonto"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Ocean Wave",
+      "url": "https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Know Weh Ya Do",
         "url": "https://open.spotify.com/album/0GFq5vA7xwEDqyiJWprBQz"
       },
@@ -1435,6 +1451,26 @@
       "duration_ms": 177957,
       "name": "Know Weh Ya Do",
       "url": "https://open.spotify.com/track/4Vt1uT3bxlEoMoZ1BDdQWA"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Glock 40",
+        "url": "https://open.spotify.com/album/7y62e7mFSyul2nTJE1swm7"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Eclipse",
+          "url": "https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM"
+        }
+      ],
+      "duration_ms": 136323,
+      "name": "Glock 40",
+      "url": "https://open.spotify.com/track/5gbt4T7oUtLs2nkDfN0XvZ"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1495,8 +1531,8 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Ocean Wave",
-        "url": "https://open.spotify.com/album/722vGdkmCeXfKriYdKonto"
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
       },
       "artists": [
         {
@@ -1504,29 +1540,9 @@
           "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
         }
       ],
-      "duration_ms": 163866,
-      "name": "Ocean Wave",
-      "url": "https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Glock 40",
-        "url": "https://open.spotify.com/album/7y62e7mFSyul2nTJE1swm7"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "Eclipse",
-          "url": "https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM"
-        }
-      ],
-      "duration_ms": 136323,
-      "name": "Glock 40",
-      "url": "https://open.spotify.com/track/5gbt4T7oUtLs2nkDfN0XvZ"
+      "duration_ms": 196115,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/3tP5YkONgQz9eMu5P97RA9"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1595,22 +1611,6 @@
       "duration_ms": 273658,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/0n81yw2IFUG6imbKQbd1hT"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Top Prize",
-        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 196115,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/3tP5YkONgQz9eMu5P97RA9"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Bun Fi Bun (Fast)",
+        "url": "https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3"
+      },
+      "artists": [
+        {
+          "name": "IQ",
+          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "duration_ms": 149493,
+      "name": "Bun Fi Bun - Fast",
+      "url": "https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Want You Back",
         "url": "https://open.spotify.com/album/7DyRjxogpXhnbhSeTKj80P"
       },
@@ -1747,26 +1767,6 @@
       "duration_ms": 153000,
       "name": "Want You Back",
       "url": "https://open.spotify.com/track/1jjKMxay070xOXjse6TsGw"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Bun Fi Bun (Fast)",
-        "url": "https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3"
-      },
-      "artists": [
-        {
-          "name": "IQ",
-          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 149493,
-      "name": "Bun Fi Bun - Fast",
-      "url": "https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Foot",
+        "url": "https://open.spotify.com/album/0Eti6sYztHFTrS2p1hDRTV"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 167021,
+      "name": "Foot",
+      "url": "https://open.spotify.com/track/07mwyrR0iD3MJjyBIRe4KQ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "I Am Great",
         "url": "https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 187711,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Foot",
-        "url": "https://open.spotify.com/album/0Eti6sYztHFTrS2p1hDRTV"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 167021,
-      "name": "Foot",
-      "url": "https://open.spotify.com/track/07mwyrR0iD3MJjyBIRe4KQ"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/2ddLiPnq33pYj3V7Kfmo9u"
-      },
-      "artists": [
-        {
-          "name": "Moyann",
-          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
-        }
-      ],
-      "duration_ms": 137872,
-      "name": "Hands Up",
-      "url": "https://open.spotify.com/track/2DqiAl1qCPnOkx6EHDt12R"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Perfect Timing",
         "url": "https://open.spotify.com/album/4hkk8DkNZdTRHdlbkHZ37B"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 178599,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/3sP88foDNpoLlkpsaEUDJL"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/2ddLiPnq33pYj3V7Kfmo9u"
+      },
+      "artists": [
+        {
+          "name": "Moyann",
+          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
+        }
+      ],
+      "duration_ms": 137872,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/2DqiAl1qCPnOkx6EHDt12R"
     },
     {
       "added_at": "2023-05-24 08:21:37",

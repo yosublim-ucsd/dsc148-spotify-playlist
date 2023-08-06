@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk?si=gnYOdOZxT_-mL-QVsbRxKQ\">Red</a> ",
-  "num_followers": 130468,
+  "num_followers": 130575,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWQ2M2VjMDZlMjE0MDkwMjE0MTM0YzhjMDQyNDlmMjkzZTU0MjJj",
+  "snapshot_id": "MCwwODQwOTQxYTY3OWM5NWE5ZDMwZDE3NGFkODU2Y2U3NzZhODg1ODNi",
   "tracks": [
     {
       "added_at": "2023-08-04 12:11:34",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Hidden",
-        "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
-      },
-      "artists": [
-        {
-          "name": "RICHLIN",
-          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Hidden",
-      "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "The Covering",
         "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 206288,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Hidden",
+        "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
+      },
+      "artists": [
+        {
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Hidden",
+      "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
-      },
-      "artists": [
-        {
-          "name": "Torndown",
-          "url": "https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Still Alive",
         "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 199933,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
+      },
+      "artists": [
+        {
+          "name": "Torndown",
+          "url": "https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1423,26 +1423,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Boom (The Crystal Method Remix) [2021 Remaster]",
-        "url": "https://open.spotify.com/album/0ShPWwAwhOYolkaEiboDOr"
+        "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9"
       },
       "artists": [
         {
           "name": "P.O.D.",
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        },
-        {
-          "name": "Ken Jordan",
-          "url": "https://open.spotify.com/artist/3k0EquL2nh8WcviToiSZ5T"
-        },
-        {
-          "name": "Scott Kirkland",
-          "url": "https://open.spotify.com/artist/5uHXtwyDskuNwKQLVcQD07"
         }
       ],
-      "duration_ms": 196294,
-      "name": "Boom (The Crystal Method Remix) - 2021 Remaster",
-      "url": "https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6"
+      "duration_ms": 194721,
+      "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
+      "url": "https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1595,18 +1587,26 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
-        "url": "https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9"
+        "name": "Boom (The Crystal Method Remix) [2021 Remaster]",
+        "url": "https://open.spotify.com/album/0ShPWwAwhOYolkaEiboDOr"
       },
       "artists": [
         {
           "name": "P.O.D.",
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Ken Jordan",
+          "url": "https://open.spotify.com/artist/3k0EquL2nh8WcviToiSZ5T"
+        },
+        {
+          "name": "Scott Kirkland",
+          "url": "https://open.spotify.com/artist/5uHXtwyDskuNwKQLVcQD07"
         }
       ],
-      "duration_ms": 194721,
-      "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
-      "url": "https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd"
+      "duration_ms": 196294,
+      "name": "Boom (The Crystal Method Remix) - 2021 Remaster",
+      "url": "https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6"
     },
     {
       "added_at": "2023-08-04 12:11:34",

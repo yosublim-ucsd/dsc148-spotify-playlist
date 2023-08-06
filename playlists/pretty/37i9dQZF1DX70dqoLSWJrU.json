@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 61628,
+  "num_followers": 61693,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzNjZThiMWNkMWRlYTM0NmNkZmNhMWYxMGY3MDEyZTFkMWVmNWFl",
+  "snapshot_id": "MCwxOGVkMGFmNzJjM2QyNjNmMGU3MzRmODQ4NjA5NTgyYTliNDdjMDY2",
   "tracks": [
     {
       "added_at": "2023-06-21 13:25:39",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Maybe You'll Be There",
+      "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
         "name": "April Fooled Me",
         "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 231400,
       "name": "April Fooled Me",
       "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Maybe You'll Be There",
-      "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Sarah Vaughan's Golden Hits",
-        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "Lover Man",
-      "url": "https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "Pointless Nostalgic (Remastered)",
         "url": "https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 315702,
       "name": "I Can't Get Started - Remastered",
       "url": "https://open.spotify.com/track/1koaigmrZEI4T0pu4PfM1P"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Sarah Vaughan's Golden Hits",
+        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "Lover Man",
+      "url": "https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Chet Baker Sings And Plays (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "I Wish I Knew - Remastered 2004",
-      "url": "https://open.spotify.com/track/0xlZ3RGJnsopJc9dqq6Th2"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "Swingin' Easy",
         "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 153666,
       "name": "If I Knew Then (What I Know Now)",
       "url": "https://open.spotify.com/track/539rmOeWpAiY5qaula9NM9"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Chet Baker Sings And Plays (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "I Wish I Knew - Remastered 2004",
+      "url": "https://open.spotify.com/track/0xlZ3RGJnsopJc9dqq6Th2"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Born To Be Blue",
-        "url": "https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv"
-      },
-      "artists": [
-        {
-          "name": "Beverly Kenney",
-          "url": "https://open.spotify.com/artist/65AXHPhvpKkrCIlk5BuUQT"
-        }
-      ],
-      "duration_ms": 211906,
-      "name": "Born To Be Blue",
-      "url": "https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "Crazy And Mixed Up",
         "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 185000,
       "name": "In Love In Vain",
       "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Born To Be Blue",
+        "url": "https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv"
+      },
+      "artists": [
+        {
+          "name": "Beverly Kenney",
+          "url": "https://open.spotify.com/artist/65AXHPhvpKkrCIlk5BuUQT"
+        }
+      ],
+      "duration_ms": 211906,
+      "name": "Born To Be Blue",
+      "url": "https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Somewhere over the Rainbow",
-        "url": "https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Say It Isn't So",
-      "url": "https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
         "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 280093,
       "name": "I Guess I'll Hang My Tears Out To Dry",
       "url": "https://open.spotify.com/track/4n3O6Vy6mtJlIVSZdmfEY6"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Somewhere over the Rainbow",
+        "url": "https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Say It Isn't So",
+      "url": "https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
+        "name": "When Your Heart's On Fire",
+        "url": "https://open.spotify.com/album/3x8N8hvqBICGRcLwspO5yF"
+      },
+      "artists": [
+        {
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "He Was Too Good To Me",
+      "url": "https://open.spotify.com/track/31jrVem3d0gsLSFcx7CoIi"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
         "name": "Music For Late Hours",
         "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 205066,
       "name": "I Won't Cry Anymore",
       "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
-        "name": "When Your Heart's On Fire",
-        "url": "https://open.spotify.com/album/3x8N8hvqBICGRcLwspO5yF"
-      },
-      "artists": [
-        {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "He Was Too Good To Me",
-      "url": "https://open.spotify.com/track/31jrVem3d0gsLSFcx7CoIi"
     },
     {
       "added_at": "2023-06-21 13:25:39",

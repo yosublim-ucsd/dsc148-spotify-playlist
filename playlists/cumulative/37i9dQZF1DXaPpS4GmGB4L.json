@@ -1878,7 +1878,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 201826,
       "name": "Shufflin' the Blues",
       "url": "https://open.spotify.com/track/5I9dM2pwqMAQm266lUII5P"
@@ -2222,6 +2222,24 @@
       "duration_ms": 161226,
       "name": "Two Headed Woman",
       "url": "https://open.spotify.com/track/1EHqKdXyX3tGEZl1eHvECc"
+    },
+    {
+      "album": {
+        "name": "Voodoo Woman",
+        "url": "https://open.spotify.com/album/6fakYyAJYgpmeKBsZ6sqZU"
+      },
+      "artists": [
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "Voodoo Woman - Album Outtake",
+      "url": "https://open.spotify.com/track/6py94KJo9s8JN9aj4cbkMu"
     },
     {
       "album": {

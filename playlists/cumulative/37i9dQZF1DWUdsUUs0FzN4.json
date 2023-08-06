@@ -1650,10 +1650,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 138839,
       "name": "EN LA CHATA",
       "url": "https://open.spotify.com/track/0Fr0aj5srmaAtL3yVF9rgo"
+    },
+    {
+      "album": {
+        "name": "HAGAN CA$0",
+        "url": "https://open.spotify.com/album/3jOl0OoDF5DQiWDawReB0I"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138839,
+      "name": "EN LA CHATA",
+      "url": "https://open.spotify.com/track/63xhzDBP3FO6azIjH7DOvD"
     },
     {
       "album": {

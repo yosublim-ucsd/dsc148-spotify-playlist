@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Silas Magalhães
 
-253 songs - 13 hr 19 min
+254 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Oração](https://open.spotify.com/track/27ewarCSYA5W1Su9Fp3o7h) | [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu) | [Oração](https://open.spotify.com/album/3Cm1d2xUKGUxEoGl6xUPkZ) | 2:19 | 2022-03-22 | 2022-04-09 |
 | [Os Dois Lados](https://open.spotify.com/track/4ss3aaCFZ8s5diIC0IoqTI) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Os Dois Lados](https://open.spotify.com/album/0QjZYRn8b829lSy4aZSvQG) | 3:39 | 2022-09-19 | 2022-11-26 |
 | [Palavras Tem Poder](https://open.spotify.com/track/1dUF1jMNL4deMXvQ32aMWO) | [BB Rocha](https://open.spotify.com/artist/0EZQjfQIj9nhFgTFYHvXCp) | [Palavras Tem Poder](https://open.spotify.com/album/2hytBe2NaIGE6pmBjxOJWh) | 1:45 | 2022-11-25 | 2023-04-22 |
-| [Paracetamol \(Divisa de Fogo\)](https://open.spotify.com/track/1nFbOSGxJ0d2fpjNv4nnSJ) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Paracetamol \(Divisa de Fogo\)](https://open.spotify.com/album/0xgEt4c2aFETYetdlnhLRh) | 2:41 | 2023-04-15 |  |
+| [Paracetamol \(Divisa de Fogo\)](https://open.spotify.com/track/1nFbOSGxJ0d2fpjNv4nnSJ) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Paracetamol \(Divisa de Fogo\)](https://open.spotify.com/album/0xgEt4c2aFETYetdlnhLRh) | 2:41 | 2023-04-15 | 2023-08-06 |
+| [Paracetamol \(Divisa de Fogo\)](https://open.spotify.com/track/5uazbSDG1BgLf8EMJypfNq) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Paracetamol \(Divisa de Fogo\)](https://open.spotify.com/album/4Bpp2LO4aQInjYsDnn6vfQ) | 2:41 | 2023-08-04 |  |
 | [Pedra](https://open.spotify.com/track/6sjh2JLz8A7x70M2LcVGWO) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Pedra](https://open.spotify.com/album/1PeuH7zChJkNCw4AL6zd9w) | 3:10 | 2022-03-22 | 2023-06-03 |
 | [Pela Manhã](https://open.spotify.com/track/2QHMbD5U9awGhvHGcVIh5v) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00), [Fábio Casagrande](https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn) | [Pela Manhã](https://open.spotify.com/album/07p5qILARDVfkIH6fQuQ0T) | 2:12 | 2023-06-02 |  |
 | [Peço ao Pai](https://open.spotify.com/track/1iDv4IFu49D5zurfn2T2Yu) | [MC Fabrício SP](https://open.spotify.com/artist/6bRBaUU1jYP9cCFGneI3rb), [MC NEGO LAMA](https://open.spotify.com/artist/2QqWULuCFMJcUcE8ekHQkP), [Dj Nene](https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM) | [Peço ao Pai](https://open.spotify.com/album/0UxrV2Onm8AQmIOFTeaRIG) | 3:04 | 2023-07-28 | 2023-08-05 |

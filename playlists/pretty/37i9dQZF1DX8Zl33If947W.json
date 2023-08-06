@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 138275,
+  "num_followers": 138360,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjI3NTA2NDE5MWE0MjM0NjQxZmM3ZmQwZTE1MDA4OWRiMDg2NzJm",
+  "snapshot_id": "MCw2MjY0NWYwNzQ1N2ZkMWRhOWE5ZDRjZmNiOTFiN2Y0MDJmNTFiZTcw",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -191,26 +191,18 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Liebe zu dritt",
-        "url": "https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F"
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
       },
       "artists": [
         {
-          "name": "Provinz",
-          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
-        },
-        {
-          "name": "MAJAN",
-          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
-        },
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 206108,
-      "name": "Liebe zu dritt",
-      "url": "https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO"
+      "duration_ms": 169500,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -231,18 +223,26 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Mit Dir",
-        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
+        "name": "Liebe zu dritt",
+        "url": "https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F"
       },
       "artists": [
         {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        },
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        },
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 169500,
-      "name": "Mit Dir",
-      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
+      "duration_ms": 206108,
+      "name": "Liebe zu dritt",
+      "url": "https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -335,6 +335,42 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "30-11-80",
+        "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 195416,
+      "name": "Liebe",
+      "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Endorphine",
+        "url": "https://open.spotify.com/album/6NXTCMg4iFotpfmxp7Cf8S"
+      },
+      "artists": [
+        {
+          "name": "TheDoDo",
+          "url": "https://open.spotify.com/artist/1YQg0jqLV5RT98HjMXxzaO"
+        },
+        {
+          "name": "Pbb Yea",
+          "url": "https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9"
+        }
+      ],
+      "duration_ms": 172596,
+      "name": "Endorphine",
+      "url": "https://open.spotify.com/track/7uuE9r7VhxFm4YuxAHlD4K"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Powerbausa",
         "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
       },
@@ -367,42 +403,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Endorphine",
-        "url": "https://open.spotify.com/album/6NXTCMg4iFotpfmxp7Cf8S"
-      },
-      "artists": [
-        {
-          "name": "TheDoDo",
-          "url": "https://open.spotify.com/artist/1YQg0jqLV5RT98HjMXxzaO"
-        },
-        {
-          "name": "Pbb Yea",
-          "url": "https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9"
-        }
-      ],
-      "duration_ms": 172596,
-      "name": "Endorphine",
-      "url": "https://open.spotify.com/track/7uuE9r7VhxFm4YuxAHlD4K"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "30-11-80",
-        "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 195416,
-      "name": "Liebe",
-      "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Dein ist mein ganzes Herz",
         "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
       },
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Schlagschatten",
-        "url": "https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 207751,
-      "name": "Vielleicht Vielleicht",
-      "url": "https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Reim (Expanded Edition)",
         "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 220373,
       "name": "Verdammt, ich lieb Dich - 2020 Remastered",
       "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Schlagschatten",
+        "url": "https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "duration_ms": 207751,
+      "name": "Vielleicht Vielleicht",
+      "url": "https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Du Fehlst",
-        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
-      },
-      "artists": [
-        {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
-        }
-      ],
-      "duration_ms": 155597,
-      "name": "Du Fehlst",
-      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Nena",
         "url": "https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 220173,
       "name": "Nur getr\u00e4umt",
       "url": "https://open.spotify.com/track/27DEhFC0G2olRFgCTksnfw"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Du Fehlst",
+        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "duration_ms": 155597,
+      "name": "Du Fehlst",
+      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Unique",
-        "url": "https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 162380,
-      "name": "Unique",
-      "url": "https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Er geh\u00f6rt zu mir",
         "url": "https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 180200,
       "name": "Er geh\u00f6rt zu mir",
       "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Unique",
+        "url": "https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 162380,
+      "name": "Unique",
+      "url": "https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat"
     },
     {
       "added_at": "2023-03-06 08:21:00",

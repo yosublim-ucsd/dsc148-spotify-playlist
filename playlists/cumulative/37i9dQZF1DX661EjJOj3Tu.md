@@ -4,7 +4,7 @@
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-303 songs - 1 day 1 hr 19 min
+304 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Chocolate Ice Cream](https://open.spotify.com/track/1CuzcOvI4uMxoD9sVg4Imu) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Salsa\-Jazz\-Descarga](https://open.spotify.com/album/4DRLWQNSmZ1rnoddSFwPG3) | 10:51 | 2021-12-09 | 2022-07-28 |
 | [Chopin: Prelude In E\-Minor](https://open.spotify.com/track/3Xp9K5dWLNz57RyjgmCJWu) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Fantasia Cubana: Variations On Classical Themes](https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm) | 4:30 | 2021-12-09 |  |
 | [Chucho’s Mood](https://open.spotify.com/track/2VACXzUf5uOvheUAztmM3P) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Jazz Batá 2](https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A) | 7:12 | 2021-12-09 |  |
-| [Ciudadano](https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4) | [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh), [Issac Delgado](https://open.spotify.com/artist/4wuS7EjF68zCo3df1hzNjK) | [Acertijos](https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF) | 4:31 | 2021-12-09 |  |
+| [Ciudadano](https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4) | [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh), [Issac Delgado](https://open.spotify.com/artist/4wuS7EjF68zCo3df1hzNjK) | [Acertijos](https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF) | 4:31 | 2021-12-09 | 2023-08-06 |
 | [Cobarde](https://open.spotify.com/track/5yVZV6XycxfpeDG9ujjROf) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Salsa\-Jazz\-Descarga](https://open.spotify.com/album/4DRLWQNSmZ1rnoddSFwPG3) | 10:49 | 2021-12-09 | 2022-07-29 |
 | [Coco seco](https://open.spotify.com/track/6CB84blwqVQ5V1KLoRhziw) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Ki\-Ku\-Ki\-Kan](https://open.spotify.com/album/6Hu4vmiZlgMEfuSWYHXeCA) | 2:22 | 2021-12-09 | 2022-01-01 |
 | [Colobó](https://open.spotify.com/track/43BkOsYBrtPJZSOWahpe7Q) | [Miguel Zenón](https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj) | [Colobó](https://open.spotify.com/album/28uSFqiSMUzZyQOrD7IEA5) | 5:59 | 2021-12-09 | 2022-07-28 |
@@ -139,6 +139,7 @@
 | [Guarajazz](https://open.spotify.com/track/1skp5PmXkbwb9uUHI3mPSg) | [Carlos Henriquez](https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI) | [The Bronx Pyramid](https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw) | 5:44 | 2021-12-09 | 2022-07-25 |
 | [Géminis](https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Géminis](https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm) | 3:17 | 2023-01-06 |  |
 | [Home Cookin'](https://open.spotify.com/track/5iHt2zihQWvVBGdPIR4dKT) | [Hilton Ruiz](https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1) | [Enchantment](https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY) | 3:29 | 2021-12-09 |  |
+| [How Did You Get In My Dreams?](https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [How Did You Get In My Dreams?](https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7) | 3:37 | 2023-08-04 |  |
 | [I'll Call You Later](https://open.spotify.com/track/6s8PZTZXFqIxwnhf1RA1fn) | [Hilton Ruiz](https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1) | [Enchantment](https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY) | 4:29 | 2021-12-09 | 2022-07-21 |
 | [In Flight](https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Listen Here](https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi) | 5:41 | 2021-12-09 |  |
 | [Invitation](https://open.spotify.com/track/3t8pVXL2Be1smV1tk2NTY8) | [Spanish Harlem Orchestra](https://open.spotify.com/artist/0I7U5I66P88nCaVVPkIz6x), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Miguel Zenón](https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj) | [The Latin Jazz Project](https://open.spotify.com/album/4EsKns5OuMRHR283whOCTl) | 5:27 | 2021-12-09 | 2022-07-28 |

@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 339480,
+  "num_followers": 339633,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDY3NzBjNmMzZGFkNjhiN2U5OTUyZTM1MmUyYTZhYmU1NTJkYWRk",
+  "snapshot_id": "MCwxY2ZmODNmOTdhMTQ5M2QxNTkxODJiZTQzZWUwYzc1MDFhMjc1OWE1",
   "tracks": [
     {
       "added_at": "2023-07-14 10:25:34",
@@ -99,26 +99,6 @@
     {
       "added_at": "2023-07-14 10:25:34",
       "album": {
-        "name": "My Universe",
-        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
-    },
-    {
-      "added_at": "2023-07-14 10:25:34",
-      "album": {
         "name": "Good Times Go",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
+    },
+    {
+      "added_at": "2023-07-14 10:25:34",
+      "album": {
+        "name": "My Universe",
+        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
     },
     {
       "added_at": "2023-07-14 10:25:34",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-07-14 10:25:34",
       "album": {
+        "name": "If Anything's Left",
+        "url": "https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY"
+      },
+      "artists": [
+        {
+          "name": "Jamie Fine",
+          "url": "https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "If Anything's Left",
+      "url": "https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62"
+    },
+    {
+      "added_at": "2023-07-14 10:25:34",
+      "album": {
         "name": "Our Song",
         "url": "https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 163733,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn"
-    },
-    {
-      "added_at": "2023-07-14 10:25:34",
-      "album": {
-        "name": "If Anything's Left",
-        "url": "https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY"
-      },
-      "artists": [
-        {
-          "name": "Jamie Fine",
-          "url": "https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "If Anything's Left",
-      "url": "https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62"
     },
     {
       "added_at": "2023-07-14 10:25:34",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-07-14 10:25:34",
       "album": {
-        "name": "Be Good",
-        "url": "https://open.spotify.com/album/33XINeEL6MDmAypOxIuy3A"
-      },
-      "artists": [
-        {
-          "name": "Dominik Dudek",
-          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "Be Good",
-      "url": "https://open.spotify.com/track/2qqruNZo50n4si5ngAw3iR"
-    },
-    {
-      "added_at": "2023-07-14 10:25:34",
-      "album": {
         "name": "iD - Extended Version",
         "url": "https://open.spotify.com/album/7v515yhRxwupP2zrj5w7OH"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 155187,
       "name": "I swear to god",
       "url": "https://open.spotify.com/track/4BfR1NmB6ut6VFDWkXuBSH"
+    },
+    {
+      "added_at": "2023-07-14 10:25:34",
+      "album": {
+        "name": "Be Good",
+        "url": "https://open.spotify.com/album/33XINeEL6MDmAypOxIuy3A"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        }
+      ],
+      "duration_ms": 180062,
+      "name": "Be Good",
+      "url": "https://open.spotify.com/track/2qqruNZo50n4si5ngAw3iR"
     },
     {
       "added_at": "2023-07-14 10:25:34",

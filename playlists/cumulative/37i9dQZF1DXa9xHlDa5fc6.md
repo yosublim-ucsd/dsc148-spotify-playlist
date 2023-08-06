@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites and new discoveries.
 
-340 songs - 21 hr 1 min
+341 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [IFK \(i fucking know\)](https://open.spotify.com/track/74fBwFr3FdloVDSFemyNuD) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [IFK \(i fucking know\)](https://open.spotify.com/album/63kQGsHtkPcqYLIhrQwC66) | 3:15 | 2021-12-31 |  |
 | [Impossible](https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Impossible](https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq) | 4:08 | 2020-09-22 |  |
 | [Indigo Puff](https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Indigo Puff](https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w) | 3:51 | 2019-06-16\* |  |
-| [Inner Love Energy](https://open.spotify.com/track/5pqxLFVOwSS23rX0lobc86) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Inner Love Energy](https://open.spotify.com/album/467cvMN0A1qVbVXIC7iJCz) | 2:16 | 2022-10-28 |  |
+| [Inner Love Energy](https://open.spotify.com/track/5pqxLFVOwSS23rX0lobc86) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Inner Love Energy](https://open.spotify.com/album/467cvMN0A1qVbVXIC7iJCz) | 2:16 | 2022-10-28 | 2023-08-06 |
 | [Inside Your Mind](https://open.spotify.com/track/5XwJIGnCtQqASIMdcbhbx1) | [Gypsy & The Cat](https://open.spotify.com/artist/54xBWCXYw0pydXBknIdiC6) | [Inside Your Mind](https://open.spotify.com/album/69cUZMiLdowX4QgMjJCRI6) | 3:45 | 2019-06-16\* | 2022-07-29 |
 | [Into the Night \(Radio Edit\)](https://open.spotify.com/track/1m9Y0ylmK6lByLFLrp2FwZ) | [Pale Seas](https://open.spotify.com/artist/4BwqDlOuXOJSy9CrvPJQIg) | [Into the Night \(Radio Edit\)](https://open.spotify.com/album/2yYrlSEx7VFgdYbvbRT1Ee) | 3:24 | 2019-06-16\* | 2021-06-19 |
 | [Intro](https://open.spotify.com/track/0DAsxISzun85PbsqAfIzeC) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2rmMeEq5D1Bg7YFRwtHBDr) | 2:07 | 2019-06-16\* | 2022-04-21 |
@@ -261,6 +261,7 @@
 | [Scarecrow](https://open.spotify.com/track/40KHZqR1ADbcSAVzuzrmLm) | [Lukr](https://open.spotify.com/artist/6VPUQ3UqHxeeVvROl2kZqb) | [Scarecrow](https://open.spotify.com/album/26dmSjii3NjrZuodAR09zU) | 3:20 | 2019-06-16\* | 2021-08-14 |
 | [Sea Star](https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea Star](https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs) | 3:27 | 2023-02-17 | 2023-05-23 |
 | [See You When The End's Near](https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Pastlife](https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a) | 3:52 | 2022-08-17 | 2023-04-16 |
+| [Set Yourself Free](https://open.spotify.com/track/4w7XRsCWPzXiC7HZUEVLFl) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Set Yourself Free](https://open.spotify.com/album/47OXVPMtjTrnDwnuptinJr) | 3:05 | 2023-06-29 |  |
 | [Shapes](https://open.spotify.com/track/52drSnHzQSFD70z2EipOIs) | [Alex Jayne](https://open.spotify.com/artist/5p7W8I9YbVzXbZt827Ot24) | [The Blue](https://open.spotify.com/album/1XaDJSTnBrDnh0fDWkbGz5) | 3:10 | 2021-11-12 | 2022-07-29 |
 | [Show Me How](https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Show Me How](https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz) | 4:53 | 2023-05-26 |  |
 | [Skin and Bones](https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:16 | 2020-10-30 |  |

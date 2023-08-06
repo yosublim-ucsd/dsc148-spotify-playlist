@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,374 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,378 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 50 | [Everybody Clap](https://open.spotify.com/track/6lMNMaq2OaE7UIQiBevauB) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Everybody Clap](https://open.spotify.com/album/1nm7alSq7eIZXsoLW7xg2r) | 2:28 |
 | 51 | [Myriad](https://open.spotify.com/track/1bsWsraQlfDz6kk2o0SnDm) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Myriad](https://open.spotify.com/album/4I2XNQakcuBrCmvPb9VSDc) | 3:27 |
 
-Snapshot ID: `MjgxODYwODEsMDAwMDAwMDAwMGQ4OWM5ZGEyZmI0NTMwYWE2OWVhMzM0OTkyYjgxYg==`
+Snapshot ID: `MjgxODczODgsMDAwMDAwMDBmOTZkY2UwOWM2NGZiOTRiYjY5ODdkNGFhMDBmZjZjYg==`

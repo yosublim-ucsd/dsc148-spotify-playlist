@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2023 on <a href="spotify:user:sozoofficial">SOZO Playlists</a>! Cover: <a href="https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC?si=auw2mPeNRXaXZPrCoPFJ0g">Brooke Ligertwood</a>
 
-299 songs - 1 day 5 hr 5 min
+300 songs - 1 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [What He's Done](https://open.spotify.com/track/2pxyd0ly9E5TEObwOvkedv) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Burn Bright](https://open.spotify.com/album/7AbqKnlBMc2QhTg3V6SjEv) | 3:37 | 2022-02-17 | 2022-03-05 |
 | [What He's Done](https://open.spotify.com/track/4n0FgNAx3ApdTFXyvwujH6) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [What He's Done](https://open.spotify.com/album/6CvbOFwjDhPeB5ptLqutLA) | 3:37 | 2022-12-01 |  |
 | [What He's Done \- Live From Passion 2022](https://open.spotify.com/track/09duiLJRbYHhY5PMSVP1i9) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Burn Bright](https://open.spotify.com/album/2TzHY6eiWHBPlVn4KghFZr) | 6:37 | 2022-02-18 | 2022-12-02 |
+| [Who Else \- Live](https://open.spotify.com/track/7gNM9aohgou9HSYbm7QU7H) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/2e2bviyMnMs4Dq8iFbCO7s) | [Who Else \(Live\)](https://open.spotify.com/album/3CqhQB1z0nVAmVHlqFSClB) | 4:50 | 2023-08-04 |  |
 | [Who Is This Man](https://open.spotify.com/track/06dAYamTh14bnWQ7UDj9TN) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Who Is This Man](https://open.spotify.com/album/1CgKtmZIU9ttrNToJxfPRp) | 3:30 | 2022-07-01 | 2022-07-14 |
 | [Who Is This Man \- Live](https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Who Is This Man \(Live\)](https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK) | 9:59 | 2023-03-17 |  |
 | [Who You Say I Am](https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [There Is More \(Studio Sessions\)](https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ) | 3:19 | 2022-05-27 |  |

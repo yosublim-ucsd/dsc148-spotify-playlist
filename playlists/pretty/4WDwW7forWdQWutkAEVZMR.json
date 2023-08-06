@@ -1,13 +1,113 @@
 {
-  "description": "Your go-to playlist for this week's hottest music featuring Calvin Harris, Lil Tjay, Harry Styles &amp; more! Cover: Calvin Harris &amp; Sam Smith",
-  "num_followers": 8682,
+  "description": "Your go-to playlist for this week's hottest music featuring Halle, Calvin Harris, Harry Styles &amp; more! Cover: Halle",
+  "num_followers": 8681,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NjM0Miw0MDMwMDFlMzYwYTZmMjI1YWE0YzRhYThhNjFhNGQ5Y2NhNmU4MWU3",
+  "snapshot_id": "NjM1MSw3NDNiZDg4MGYzOTdjZjAwYWJkMzc5MGNjY2IwZGRhYTBjMGFhYWM3",
   "tracks": [
+    {
+      "added_at": "2023-08-04 14:23:08",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd"
+    },
+    {
+      "added_at": "2023-08-04 14:23:37",
+      "album": {
+        "name": "Blindside",
+        "url": "https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211835,
+      "name": "Blindside",
+      "url": "https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES"
+    },
+    {
+      "added_at": "2023-08-04 14:23:46",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1KT4zt8tTkUTQlUWJKLjQW"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4tyDTLhNhe5y0g53vrpv8e"
+    },
+    {
+      "added_at": "2023-08-04 14:23:56",
+      "album": {
+        "name": "look i like",
+        "url": "https://open.spotify.com/album/3p6KDw92pUoX3zOtDiBRPY"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "duration_ms": 156786,
+      "name": "look i like",
+      "url": "https://open.spotify.com/track/4N8PYbgwWgzUbfdxoNXpra"
+    },
+    {
+      "added_at": "2023-08-04 14:24:06",
+      "album": {
+        "name": "Doppelg\u00e4nger",
+        "url": "https://open.spotify.com/album/7L14vX6K0BxZdxmZOzchhk"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Doppelg\u00e4nger",
+      "url": "https://open.spotify.com/track/2iNNtNfAGVjO3woehIxvFa"
+    },
+    {
+      "added_at": "2023-08-04 14:24:16",
+      "album": {
+        "name": "Sorry 4 The Wait... (Deluxe)",
+        "url": "https://open.spotify.com/album/1ZhwOV5hoXbZayFi89D4EL"
+      },
+      "artists": [
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Gang Gang (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/1nLUcjQbw4rOc6DMNGzQDu"
+    },
     {
       "added_at": "2023-07-28 04:16:56",
       "album": {

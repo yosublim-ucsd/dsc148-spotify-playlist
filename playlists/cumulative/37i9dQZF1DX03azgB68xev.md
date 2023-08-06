@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-348 songs - 19 hr 27 min
+349 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Help Me Let Go](https://open.spotify.com/track/1hbvXOQPUpodXhZ51ipfcZ) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy) | 2:37 | 2023-01-13 |  |
 | [Help Me Let Go](https://open.spotify.com/track/6VUqwqfKjVUoh3swTzAlfO) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 2:37 | 2023-01-13 | 2023-02-19 |
 | [Helpless One](https://open.spotify.com/track/4DccX20AEk2LUgaDht4eHt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Helpless One](https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN) | 3:15 | 2021-10-31 | 2023-01-14 |
-| [HEY GOD](https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [HEY GOD](https://open.spotify.com/album/16dHro8vtYbycbNct69lmT) | 2:54 | 2023-01-13 |  |
+| [HEY GOD](https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [HEY GOD](https://open.spotify.com/album/16dHro8vtYbycbNct69lmT) | 2:54 | 2023-01-13 | 2023-08-06 |
 | [High Low](https://open.spotify.com/track/6eFNET6WIbfwlzfnZXJgNr) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [High Low](https://open.spotify.com/album/4MruUzZBQyfIUpAGf5887Y) | 3:25 | 2021-10-31 | 2023-01-14 |
 | [High Low \- Remix](https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Tryhard Society](https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw) | [High Low \(Remix\)](https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8) | 2:44 | 2023-01-13 |  |
 | [Higher Ground](https://open.spotify.com/track/6uGKLZ6z8ogdfDRDwOReTf) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Episode 1 \- EP](https://open.spotify.com/album/2fARr0hI02WNfm4vL6MsWx) | 3:06 | 2021-10-31 | 2023-01-14 |
@@ -344,6 +344,7 @@
 | [Wildfire](https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Wildfire](https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z) | 3:11 | 2021-10-31 | 2023-01-14 |
 | [Won't Rain Anymore](https://open.spotify.com/track/64h4pQK96zb7qB5QYhEymz) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [Won't Rain Anymore](https://open.spotify.com/album/049iy74GNjD4hiJtfhnsQ9) | 2:39 | 2023-01-13 | 2023-04-21 |
 | [Won't Stop \- Reyer Remix](https://open.spotify.com/track/5scmtvav3joe03DAihMTd6) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [Won't Stop \(Reyer Remix\)](https://open.spotify.com/album/1c9Bj73lYl64W5Tp1HVNfh) | 3:04 | 2023-01-13 |  |
+| [Word \- Live](https://open.spotify.com/track/5c2fafEPiPWYGBWBRxcjVg) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [You, Me, The Church, That's Us \- Side B](https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK) | 3:08 | 2023-01-13 |  |
 | [Working On It](https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 3:13 | 2021-10-31 | 2023-01-14 |
 | [Worry](https://open.spotify.com/track/4qzoaJGCnbwe8S8tDt0Ndz) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Worry](https://open.spotify.com/album/43ojYDCvq2qfmzx82dU6R9) | 3:07 | 2021-10-31 | 2022-07-28 |
 | [Worth](https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Curtain Call](https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt) | 3:52 | 2023-01-13 |  |

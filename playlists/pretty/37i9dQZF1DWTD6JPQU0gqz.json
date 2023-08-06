@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 48868,
+  "num_followers": 48889,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDliYTM4MDY2OTUwY2FjOTM4Y2IwZDhlYjdlNTRjNmY3NDgyMDY1",
+  "snapshot_id": "MCxmYzc5MzJmY2U1YjE5MDE1OGRjMDYzNWY0OTA2ZWRjNTJkMDI3ZDJk",
   "tracks": [
     {
       "added_at": "2023-06-20 14:37:46",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "El Toro",
-        "url": "https://open.spotify.com/album/77cUCnK4xklADFgpBcJDtk"
-      },
-      "artists": [
-        {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
-        }
-      ],
-      "duration_ms": 160093,
-      "name": "El Toro",
-      "url": "https://open.spotify.com/track/5fCLXGmn6hq4XhWLwoWJyv"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "La Revancha del Burro",
         "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 311981,
       "name": "El Boton del Pantalon",
       "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "El Toro",
+        "url": "https://open.spotify.com/album/77cUCnK4xklADFgpBcJDtk"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/5fCLXGmn6hq4XhWLwoWJyv"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -483,30 +483,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 225470,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Date Brillo Cadenita",
         "url": "https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw"
       },
@@ -535,6 +511,30 @@
       "duration_ms": 252095,
       "name": "River",
       "url": "https://open.spotify.com/track/6ybkewfx53Quy6rjo4IKDi"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 225470,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Pilot",
-        "url": "https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4"
-      },
-      "artists": [
-        {
-          "name": "Chavi Leons",
-          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
-        }
-      ],
-      "duration_ms": 150071,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/4PAZkIDhWvMJMF6nO3HyJX"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Qu\u00e9 L\u00e1stima",
         "url": "https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Spell 31",
-        "url": "https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m"
+        "name": "Pilot",
+        "url": "https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4"
       },
       "artists": [
         {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+          "name": "Chavi Leons",
+          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
         }
       ],
-      "duration_ms": 195204,
-      "name": "Sister 2 Sister",
-      "url": "https://open.spotify.com/track/2nSancXdw3xATmlG1X6Ts0"
+      "duration_ms": 150071,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/4PAZkIDhWvMJMF6nO3HyJX"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -655,6 +639,22 @@
       "duration_ms": 174106,
       "name": "Woah",
       "url": "https://open.spotify.com/track/2VXqeAhhbhrsKTsK2yNZVD"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Spell 31",
+        "url": "https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m"
+      },
+      "artists": [
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        }
+      ],
+      "duration_ms": 195204,
+      "name": "Sister 2 Sister",
+      "url": "https://open.spotify.com/track/2nSancXdw3xATmlG1X6Ts0"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Vete Y Dile",
-        "url": "https://open.spotify.com/album/69O1NzZp4mbrzY8Iz7RIeJ"
-      },
-      "artists": [
-        {
-          "name": "Chucky73",
-          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
-        }
-      ],
-      "duration_ms": 147535,
-      "name": "Vete Y Dile",
-      "url": "https://open.spotify.com/track/5iRtsyKiVD35YwEBKTETd5"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Que Tengo Que Hacer",
         "url": "https://open.spotify.com/album/5nMt32SNGPGANwkPWVUWIF"
       },
@@ -839,18 +823,34 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
+        "name": "Vete Y Dile",
+        "url": "https://open.spotify.com/album/69O1NzZp4mbrzY8Iz7RIeJ"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
         }
       ],
-      "duration_ms": 146966,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
+      "duration_ms": 147535,
+      "name": "Vete Y Dile",
+      "url": "https://open.spotify.com/track/5iRtsyKiVD35YwEBKTETd5"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Las II Torres",
+        "url": "https://open.spotify.com/album/2IyzVWMQv5cHl9oN8tth6H"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        }
+      ],
+      "duration_ms": 222510,
+      "name": "Doble Filo",
+      "url": "https://open.spotify.com/track/1rOY4cLGxByL0VTaYIx6pD"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Las II Torres",
-        "url": "https://open.spotify.com/album/2IyzVWMQv5cHl9oN8tth6H"
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
       },
       "artists": [
         {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
         }
       ],
-      "duration_ms": 222510,
-      "name": "Doble Filo",
-      "url": "https://open.spotify.com/track/1rOY4cLGxByL0VTaYIx6pD"
+      "duration_ms": 146966,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "A Quien Pueda Interesar",
+        "url": "https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Dormir Sola",
+      "url": "https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/4gyoEgPnJ6yiZsazqXrucj"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 208203,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/7HShBDHwZokDkH2qMEwqZ7"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "A Quien Pueda Interesar",
-        "url": "https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm"
-      },
-      "artists": [
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Dormir Sola",
-      "url": "https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd"
     },
     {
       "added_at": "2023-06-20 14:37:46",

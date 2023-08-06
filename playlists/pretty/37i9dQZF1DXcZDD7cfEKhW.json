@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Aqua",
-  "num_followers": 3424718,
+  "num_followers": 3425186,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjI1Mjc1OWNiOTE2Njc3ZGMyYzQ5MmI3Y2E0YTY2OWJkOWJkZTE5",
+  "snapshot_id": "MCwwMjZlYzA3MjlkZGUyMjNjYTE4YzcxMmYzNzhjMTM5OTU0YWEyNTJl",
   "tracks": [
     {
       "added_at": "2023-08-04 16:18:45",
@@ -387,26 +387,22 @@
     {
       "added_at": "2023-08-04 16:18:45",
       "album": {
-        "name": "La Bebe (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/1BFVfHT9ScguUQTXT4ef63"
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 158739,
-      "name": "La Bebe - David Guetta Remix",
-      "url": "https://open.spotify.com/track/2OOmObvtYKotf1WwcqRwe4"
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "added_at": "2023-08-04 16:18:45",
@@ -435,22 +431,26 @@
     {
       "added_at": "2023-08-04 16:18:45",
       "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+        "name": "La Bebe (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/1BFVfHT9ScguUQTXT4ef63"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
         },
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
+      "duration_ms": 158739,
+      "name": "La Bebe - David Guetta Remix",
+      "url": "https://open.spotify.com/track/2OOmObvtYKotf1WwcqRwe4"
     },
     {
       "added_at": "2023-08-04 16:18:45",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-08-04 16:18:45",
       "album": {
-        "name": "Lose You (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 156404,
-      "name": "Lose You - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
-    },
-    {
-      "added_at": "2023-08-04 16:18:45",
-      "album": {
         "name": "Ferrari (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 188640,
       "name": "Ferrari - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI"
+    },
+    {
+      "added_at": "2023-08-04 16:18:45",
+      "album": {
+        "name": "Lose You (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 156404,
+      "name": "Lose You - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
     },
     {
       "added_at": "2023-08-04 16:18:45",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-08-04 16:18:45",
       "album": {
-        "name": "By The End Of The Night (southstar Remix)",
-        "url": "https://open.spotify.com/album/3LpSBl8LPPFkoUeY6uLrZ3"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 221906,
-      "name": "By The End Of The Night - southstar Remix",
-      "url": "https://open.spotify.com/track/0BJq75IdLPWnFWG0TLwoN2"
-    },
-    {
-      "added_at": "2023-08-04 16:18:45",
-      "album": {
         "name": "Never Gonna Not Dance Again (Sam Feldt Remix)",
         "url": "https://open.spotify.com/album/4qxm7mFPzfXYEo5A9LPg5J"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 179529,
       "name": "Eyes Closed - Lost Frequencies Remix",
       "url": "https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB"
+    },
+    {
+      "added_at": "2023-08-04 16:18:45",
+      "album": {
+        "name": "By The End Of The Night (southstar Remix)",
+        "url": "https://open.spotify.com/album/3LpSBl8LPPFkoUeY6uLrZ3"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 221906,
+      "name": "By The End Of The Night - southstar Remix",
+      "url": "https://open.spotify.com/track/0BJq75IdLPWnFWG0TLwoN2"
     },
     {
       "added_at": "2023-08-04 16:18:45",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2023-08-04 16:18:45",
       "album": {
+        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
+        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 152672,
+      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
+      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
+    },
+    {
+      "added_at": "2023-08-04 16:18:45",
+      "album": {
         "name": "Let Somebody Go (Kygo Remix)",
         "url": "https://open.spotify.com/album/7EZAIhKzfjXbAsL0hrQjGF"
       },
@@ -1579,26 +1599,6 @@
       "duration_ms": 197267,
       "name": "Let Somebody Go - Kygo Remix",
       "url": "https://open.spotify.com/track/31JwHrEcDWkilfTkFZlKNr"
-    },
-    {
-      "added_at": "2023-08-04 16:18:45",
-      "album": {
-        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
-        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 152672,
-      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
-      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
     },
     {
       "added_at": "2023-08-04 16:18:45",

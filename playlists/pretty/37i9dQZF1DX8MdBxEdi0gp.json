@@ -1,12 +1,12 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 133403,
+  "num_followers": 133500,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmMxOGU2ODMyYzYyMGFkMjczNjNmNWVlNDY1OTU3YzM5OWI1ZDAx",
+  "snapshot_id": "MCwyYjg5YjAwM2NlNjI4YTZhOTcxNzZlNzUyZDQyZDRiNWRiZWM0NDZl",
   "tracks": [
     {
       "added_at": "2023-06-23 17:27:36",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
+        "name": "Sentimientos",
+        "url": "https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Vivir As\u00ed Es Morir de Amor",
+      "url": "https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
         "name": "Serie Diamante (USA)",
         "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 175520,
       "name": "Fuiste M\u00eda un Verano",
       "url": "https://open.spotify.com/track/2pK7tq9N5Yr7w9gZbWpNxe"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
-        "name": "Sentimientos",
-        "url": "https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Vivir As\u00ed Es Morir de Amor",
-      "url": "https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Estoy Vivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "La Ladrona",
-      "url": "https://open.spotify.com/track/2OY00BdjZx4wVLoAsFaked"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Sin Tu Amor",
         "url": "https://open.spotify.com/album/6f9QuizfwLCv9SvU8DtsO4"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 195840,
       "name": "Eres",
       "url": "https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Estoy Vivo (Remasterizado)",
+        "url": "https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "La Ladrona",
+      "url": "https://open.spotify.com/track/2OY00BdjZx4wVLoAsFaked"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "Ella...Ella Ya Me Olvid\u00f3, Yo la Recuerdo Ahora",
-      "url": "https://open.spotify.com/track/2IG7Gl8zcAJiYcZBKMvdWD"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 195506,
       "name": "Lamento De Amor",
       "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Melina",
+      "url": "https://open.spotify.com/track/3utK0tH0YhlB5fIjdy3em7"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8"
+        "name": "Fuiste M\u00eda un Verano",
+        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
       },
       "artists": [
         {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
         }
       ],
-      "duration_ms": 170800,
-      "name": "Melina",
-      "url": "https://open.spotify.com/track/3utK0tH0YhlB5fIjdy3em7"
+      "duration_ms": 223400,
+      "name": "Ella...Ella Ya Me Olvid\u00f3, Yo la Recuerdo Ahora",
+      "url": "https://open.spotify.com/track/2IG7Gl8zcAJiYcZBKMvdWD"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+        "name": "Alma, coraz\u00f3n y vida",
+        "url": "https://open.spotify.com/album/4eiylM6nVpoQYl7kIkcKrY"
       },
       "artists": [
         {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
         }
       ],
-      "duration_ms": 199013,
-      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
-      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
+      "duration_ms": 198000,
+      "name": "Coraz\u00f3n m\u00e1gico",
+      "url": "https://open.spotify.com/track/2LGNlsFbufs6T6no1w8kfZ"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Alma, coraz\u00f3n y vida",
-        "url": "https://open.spotify.com/album/4eiylM6nVpoQYl7kIkcKrY"
-      },
-      "artists": [
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Coraz\u00f3n m\u00e1gico",
-      "url": "https://open.spotify.com/track/2LGNlsFbufs6T6no1w8kfZ"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "30 Anos De Exitos",
         "url": "https://open.spotify.com/album/0jHdI5wc8aCPFlV1lNHWn0"
       },
@@ -635,22 +619,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Antolog\u00eda...Los Baby's",
-        "url": "https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV"
-      },
-      "artists": [
-        {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
-        }
-      ],
-      "duration_ms": 178680,
-      "name": "Como sufro",
-      "url": "https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "La Gran Fiesta Formose\u00f1a",
         "url": "https://open.spotify.com/album/0jKCSRoHto29EuooePa871"
       },
@@ -663,6 +631,22 @@
       "duration_ms": 198226,
       "name": "Los Hombres No Deben Llorar",
       "url": "https://open.spotify.com/track/6UqbBLltlDQ7ozlRswVWeu"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Antolog\u00eda...Los Baby's",
+        "url": "https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV"
+      },
+      "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        }
+      ],
+      "duration_ms": 178680,
+      "name": "Como sufro",
+      "url": "https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -695,6 +679,22 @@
       "duration_ms": 180866,
       "name": "Mi gran noche",
       "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Fuiste M\u00eda un Verano",
+        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+        }
+      ],
+      "duration_ms": 199013,
+      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
+      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Mudanzas",
-        "url": "https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54"
-      },
-      "artists": [
-        {
-          "name": "Lupita D'Alessio",
-          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
-        }
-      ],
-      "duration_ms": 231967,
-      "name": "Mudanzas",
-      "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Antolog\u00eda. . . Los Solitarios",
         "url": "https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 173506,
       "name": "Nada de tu amor",
       "url": "https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Mudanzas",
+        "url": "https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "duration_ms": 231967,
+      "name": "Mudanzas",
+      "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Serie De Colecci\u00f3n 15 Autenticos \u00c9xitos",
-        "url": "https://open.spotify.com/album/4ajWl9nOJD3rVM4tmolANI"
-      },
-      "artists": [
-        {
-          "name": "Los Muecas",
-          "url": "https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Qu\u00e9 Iron\u00eda",
-      "url": "https://open.spotify.com/track/4Kh3E34bexvFQlJ0xwiggQ"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Solo un Hombre",
         "url": "https://open.spotify.com/album/0MtOky1pPfQFcLkPwuRzz1"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 158133,
       "name": "Fresa Salvaje",
       "url": "https://open.spotify.com/track/4os2bpWIC7YU2FOFdsSSpN"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Serie De Colecci\u00f3n 15 Autenticos \u00c9xitos",
+        "url": "https://open.spotify.com/album/4ajWl9nOJD3rVM4tmolANI"
+      },
+      "artists": [
+        {
+          "name": "Los Muecas",
+          "url": "https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Qu\u00e9 Iron\u00eda",
+      "url": "https://open.spotify.com/track/4Kh3E34bexvFQlJ0xwiggQ"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "El \u00c1ngel de Palito Ortega",
-        "url": "https://open.spotify.com/album/1wg9o2F6AaWONKFekoee0T"
-      },
-      "artists": [
-        {
-          "name": "Palito Ortega",
-          "url": "https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD"
-        }
-      ],
-      "duration_ms": 157346,
-      "name": "Coraz\u00f3n Contento",
-      "url": "https://open.spotify.com/track/0qdx92wIToNrAAlILjEq0r"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Lo Mejor de Ivan",
         "url": "https://open.spotify.com/album/00jEmmiHzvsIWK1Uepkoga"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 233160,
       "name": "Te Quiero Tanto",
       "url": "https://open.spotify.com/track/69GXCPQD5UpeW0oX1M91J4"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "El \u00c1ngel de Palito Ortega",
+        "url": "https://open.spotify.com/album/1wg9o2F6AaWONKFekoee0T"
+      },
+      "artists": [
+        {
+          "name": "Palito Ortega",
+          "url": "https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD"
+        }
+      ],
+      "duration_ms": 157346,
+      "name": "Coraz\u00f3n Contento",
+      "url": "https://open.spotify.com/track/0qdx92wIToNrAAlILjEq0r"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Estela Nu\u00f1ez... Sus Primeras E Inolvidables Grabaciones",
-        "url": "https://open.spotify.com/album/2bPx9BRaxKsSAiYPzYaode"
-      },
-      "artists": [
-        {
-          "name": "Estela Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0"
-        }
-      ],
-      "duration_ms": 233293,
-      "name": "Una L\u00e1grima (Una Lacrima)",
-      "url": "https://open.spotify.com/track/4aUsqDkhFNG0IADV9SkaSY"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Rocio Banquells",
         "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
       },
@@ -1787,18 +1771,18 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Los \u00c9xitos de Mayte Gaos",
-        "url": "https://open.spotify.com/album/1wTS67I6XW53fxL2TvJiC3"
+        "name": "Estela Nu\u00f1ez... Sus Primeras E Inolvidables Grabaciones",
+        "url": "https://open.spotify.com/album/2bPx9BRaxKsSAiYPzYaode"
       },
       "artists": [
         {
-          "name": "Mayte Gaos",
-          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
+          "name": "Estela Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0"
         }
       ],
-      "duration_ms": 173560,
-      "name": "Vete Con Ella (Chappel of Love)",
-      "url": "https://open.spotify.com/track/3YjwaunKJ7iXhXj98eRRsM"
+      "duration_ms": 233293,
+      "name": "Una L\u00e1grima (Una Lacrima)",
+      "url": "https://open.spotify.com/track/4aUsqDkhFNG0IADV9SkaSY"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1815,6 +1799,22 @@
       "duration_ms": 211905,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/0AthnRlNudLf39MtPC4pW0"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Los \u00c9xitos de Mayte Gaos",
+        "url": "https://open.spotify.com/album/1wTS67I6XW53fxL2TvJiC3"
+      },
+      "artists": [
+        {
+          "name": "Mayte Gaos",
+          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "Vete Con Ella (Chappel of Love)",
+      "url": "https://open.spotify.com/track/3YjwaunKJ7iXhXj98eRRsM"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Sonia Rivas",
-        "url": "https://open.spotify.com/album/6iUAHdlpev4yjjj3tEllhc"
-      },
-      "artists": [
-        {
-          "name": "Sonia Rivas",
-          "url": "https://open.spotify.com/artist/4FM1uFX0QdPKmhdEeslh1K"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Todo Con \u00c9l",
-      "url": "https://open.spotify.com/track/5satdAuywrowLyNn9bIvGj"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Lo Mejor De Maria Conchita Alonso",
         "url": "https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 258573,
       "name": "Acar\u00edciame",
       "url": "https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Sonia Rivas",
+        "url": "https://open.spotify.com/album/6iUAHdlpev4yjjj3tEllhc"
+      },
+      "artists": [
+        {
+          "name": "Sonia Rivas",
+          "url": "https://open.spotify.com/artist/4FM1uFX0QdPKmhdEeslh1K"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Todo Con \u00c9l",
+      "url": "https://open.spotify.com/track/5satdAuywrowLyNn9bIvGj"
     },
     {
       "added_at": "2023-06-23 17:27:36",

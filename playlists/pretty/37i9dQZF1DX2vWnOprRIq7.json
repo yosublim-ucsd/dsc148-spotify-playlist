@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring La Femme D'Argent.",
-  "num_followers": 16121,
+  "num_followers": 16132,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2RmMTQ4M2VjODUxZmRkOTg1MWQ1MTAyOTFhNDFlZTQwMDkyY2Fm",
+  "snapshot_id": "MCxiYzM0MmMwZjY2YTQ3MWJlMjhkMjA4ZTcyN2EzMjNkNWQ2NjgzODRl",
   "tracks": [
     {
       "added_at": "2023-08-04 03:00:00",
@@ -567,6 +567,26 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "Bajo Cero",
+        "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
+      },
+      "artists": [
+        {
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
+        },
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+        }
+      ],
+      "duration_ms": 243762,
+      "name": "Bajo Cero",
+      "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Qu\u00e9 piensas hacer sin mi amor?",
         "url": "https://open.spotify.com/album/34szsLNF2Nr5i9E2j9v40h"
       },
@@ -599,22 +619,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Nunca Estuvo en Ti el Litoral",
-        "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
-      },
-      "artists": [
-        {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "Nunca Estuvo en Ti el Litoral",
-      "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "LLUVIA",
         "url": "https://open.spotify.com/album/0YxBRACAFNhh3NC0pzcegd"
       },
@@ -627,42 +631,6 @@
       "duration_ms": 218171,
       "name": "LLUVIA",
       "url": "https://open.spotify.com/track/3FbAt3RLSMPbDEjlCo8YGY"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Bajo Cero",
-        "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
-      },
-      "artists": [
-        {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
-        },
-        {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
-        }
-      ],
-      "duration_ms": 243762,
-      "name": "Bajo Cero",
-      "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Mosaicos",
-        "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 146791,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -683,18 +651,34 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE"
+        "name": "Nunca Estuvo en Ti el Litoral",
+        "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
       },
       "artists": [
         {
-          "name": "Paola Navarrete",
-          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
         }
       ],
-      "duration_ms": 219394,
-      "name": "C\u00f3mplices",
-      "url": "https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP"
+      "duration_ms": 178773,
+      "name": "Nunca Estuvo en Ti el Litoral",
+      "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Mosaicos",
+        "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 146791,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -711,6 +695,22 @@
       "duration_ms": 182591,
       "name": "mejor me voy :)",
       "url": "https://open.spotify.com/track/6gLruHcjm2ZS2JFMsLbBOY"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE"
+      },
+      "artists": [
+        {
+          "name": "Paola Navarrete",
+          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
+        }
+      ],
+      "duration_ms": 219394,
+      "name": "C\u00f3mplices",
+      "url": "https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "BESO",
-        "url": "https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW"
-      },
-      "artists": [
-        {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "BESO",
-      "url": "https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "\u00faltimo y primero",
         "url": "https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 179377,
       "name": "\u00faltimo y primero",
       "url": "https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "BESO",
+        "url": "https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "CHORO",
-        "url": "https://open.spotify.com/album/2R4OIN7RZ3gQ4RofQt0pyj"
-      },
-      "artists": [
-        {
-          "name": "Kastiello",
-          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 197076,
-      "name": "CHORO",
-      "url": "https://open.spotify.com/track/0se53nXXeYuX46Nn6KlXaz"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 221610,
       "name": "ELLA (CAE LA NOCHE)",
       "url": "https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "CHORO",
+        "url": "https://open.spotify.com/album/2R4OIN7RZ3gQ4RofQt0pyj"
+      },
+      "artists": [
+        {
+          "name": "Kastiello",
+          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 197076,
+      "name": "CHORO",
+      "url": "https://open.spotify.com/track/0se53nXXeYuX46Nn6KlXaz"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1210,11 +1210,15 @@
         {
           "name": "Pol Nada",
           "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        },
+        {
+          "name": "Mar\u00eda Ezquiaga",
+          "url": "https://open.spotify.com/artist/5v8omMFYuqXgJxEHPpw7qn"
         }
       ],
-      "duration_ms": 201102,
-      "name": "Sue\u00f1o e Inteligencia",
-      "url": "https://open.spotify.com/track/49rugM5SCkP2HNgebx8Xi7"
+      "duration_ms": 246136,
+      "name": "Ave",
+      "url": "https://open.spotify.com/track/5N2R03ZsiQhq1fFgXC03Hs"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1327,26 +1331,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Nadie+",
-        "url": "https://open.spotify.com/album/5bpk7x7dhCGetRY2onJA1X"
-      },
-      "artists": [
-        {
-          "name": "Alfonsina",
-          "url": "https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k"
-        },
-        {
-          "name": "R.L.G",
-          "url": "https://open.spotify.com/artist/5To36hmLSdEjhfoakePQra"
-        }
-      ],
-      "duration_ms": 142525,
-      "name": "Nadie+",
-      "url": "https://open.spotify.com/track/4Hc0J63unKggiHSpP47tXw"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Solitario",
         "url": "https://open.spotify.com/album/1tassNYSKM3abtcpONTpMq"
       },
@@ -1363,26 +1347,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Aparecido",
-        "url": "https://open.spotify.com/album/7y61kRABwXeZzDuzw7Li5T"
-      },
-      "artists": [
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        },
-        {
-          "name": "Mar\u00eda Ezquiaga",
-          "url": "https://open.spotify.com/artist/5v8omMFYuqXgJxEHPpw7qn"
-        }
-      ],
-      "duration_ms": 246136,
-      "name": "Ave",
-      "url": "https://open.spotify.com/track/5N2R03ZsiQhq1fFgXC03Hs"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Dime Algo (bonito)",
         "url": "https://open.spotify.com/album/4k49Cpa6LldpfvPxcQWdFL"
       },
@@ -1395,6 +1359,42 @@
       "duration_ms": 180000,
       "name": "Ojal\u00e1 Fu\u00e9ramos Amigos",
       "url": "https://open.spotify.com/track/4421HKhsD2YqQ6GVz4HPmG"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Aparecido",
+        "url": "https://open.spotify.com/album/7y61kRABwXeZzDuzw7Li5T"
+      },
+      "artists": [
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 201102,
+      "name": "Sue\u00f1o e Inteligencia",
+      "url": "https://open.spotify.com/track/49rugM5SCkP2HNgebx8Xi7"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Nadie+",
+        "url": "https://open.spotify.com/album/5bpk7x7dhCGetRY2onJA1X"
+      },
+      "artists": [
+        {
+          "name": "Alfonsina",
+          "url": "https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k"
+        },
+        {
+          "name": "R.L.G",
+          "url": "https://open.spotify.com/artist/5To36hmLSdEjhfoakePQra"
+        }
+      ],
+      "duration_ms": 142525,
+      "name": "Nadie+",
+      "url": "https://open.spotify.com/track/4Hc0J63unKggiHSpP47tXw"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "En Otra",
-        "url": "https://open.spotify.com/album/3DBDFatabl3bl9F1wd0HRC"
-      },
-      "artists": [
-        {
-          "name": "El Cofla",
-          "url": "https://open.spotify.com/artist/1XavfVRANOemtSWXyUeLgk"
-        }
-      ],
-      "duration_ms": 131209,
-      "name": "En Otra",
-      "url": "https://open.spotify.com/track/180zgaUXPmRC4e58bfxLLQ"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Latina",
         "url": "https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 187248,
       "name": "Latina",
       "url": "https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "En Otra",
+        "url": "https://open.spotify.com/album/3DBDFatabl3bl9F1wd0HRC"
+      },
+      "artists": [
+        {
+          "name": "El Cofla",
+          "url": "https://open.spotify.com/artist/1XavfVRANOemtSWXyUeLgk"
+        }
+      ],
+      "duration_ms": 131209,
+      "name": "En Otra",
+      "url": "https://open.spotify.com/track/180zgaUXPmRC4e58bfxLLQ"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "Espiral",
+        "url": "https://open.spotify.com/album/0q0FAVg4lKnpxpYcu8S2yL"
+      },
+      "artists": [
+        {
+          "name": "Abril Alconada",
+          "url": "https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0"
+        }
+      ],
+      "duration_ms": 211032,
+      "name": "Espiral",
+      "url": "https://open.spotify.com/track/0uJ2VWcXhHWcH9ABkPMVpE"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Con la gata y tus mentiras",
         "url": "https://open.spotify.com/album/3jprgQy8G0ERjgQronO3cX"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 225053,
       "name": "Con la gata y tus mentiras",
       "url": "https://open.spotify.com/track/2jykCNG4QLzJGGawOcen0T"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Espiral",
-        "url": "https://open.spotify.com/album/0q0FAVg4lKnpxpYcu8S2yL"
-      },
-      "artists": [
-        {
-          "name": "Abril Alconada",
-          "url": "https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0"
-        }
-      ],
-      "duration_ms": 211032,
-      "name": "Espiral",
-      "url": "https://open.spotify.com/track/0uJ2VWcXhHWcH9ABkPMVpE"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1547,18 +1547,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Cometa",
-        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
+        "name": "FLAPS",
+        "url": "https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn"
       },
       "artists": [
         {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        },
+        {
+          "name": "ELET\u00c9",
+          "url": "https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs"
         }
       ],
-      "duration_ms": 276156,
-      "name": "Nina",
-      "url": "https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED"
+      "duration_ms": 225173,
+      "name": "Flaps",
+      "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1583,50 +1587,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Dice que cambi\u00f3",
-        "url": "https://open.spotify.com/album/43pw905y2K62roRunMGYRl"
-      },
-      "artists": [
-        {
-          "name": "Eli Almic",
-          "url": "https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR"
-        },
-        {
-          "name": "Tinitus",
-          "url": "https://open.spotify.com/artist/79cKpnNgBDiqV1LX0VY96O"
-        },
-        {
-          "name": "MaisonMusic",
-          "url": "https://open.spotify.com/artist/4sVdc8xEu0jQAB77aq1Cd9"
-        }
-      ],
-      "duration_ms": 191077,
-      "name": "Dice que cambi\u00f3",
-      "url": "https://open.spotify.com/track/2FXgkkcXVbcof5tAaRJnHQ"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "FLAPS",
-        "url": "https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn"
-      },
-      "artists": [
-        {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
-        },
-        {
-          "name": "ELET\u00c9",
-          "url": "https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Flaps",
-      "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Tu Demente",
         "url": "https://open.spotify.com/album/2f2GQUGbHkoc1RH7qTT4t0"
       },
@@ -1647,6 +1607,46 @@
       "duration_ms": 183845,
       "name": "Tu Demente",
       "url": "https://open.spotify.com/track/0FNThAjRDsWq3HP0Yknr4V"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "duration_ms": 276156,
+      "name": "Nina",
+      "url": "https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Dice que cambi\u00f3",
+        "url": "https://open.spotify.com/album/43pw905y2K62roRunMGYRl"
+      },
+      "artists": [
+        {
+          "name": "Eli Almic",
+          "url": "https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR"
+        },
+        {
+          "name": "Tinitus",
+          "url": "https://open.spotify.com/artist/79cKpnNgBDiqV1LX0VY96O"
+        },
+        {
+          "name": "MaisonMusic",
+          "url": "https://open.spotify.com/artist/4sVdc8xEu0jQAB77aq1Cd9"
+        }
+      ],
+      "duration_ms": 191077,
+      "name": "Dice que cambi\u00f3",
+      "url": "https://open.spotify.com/track/2FXgkkcXVbcof5tAaRJnHQ"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Las Fuerzas Almadas",
-        "url": "https://open.spotify.com/album/1YAdvCKLUF12puHah2NxdW"
-      },
-      "artists": [
-        {
-          "name": "Dat Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW"
-        }
-      ],
-      "duration_ms": 272384,
-      "name": "Todo es Conectividad",
-      "url": "https://open.spotify.com/track/5omJg6cDZ3d7Zq5tozrNai"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "FRONTERAS",
         "url": "https://open.spotify.com/album/5yCqO9RYOg1fWahWthseI8"
       },
@@ -1759,22 +1743,38 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Aburrido",
-        "url": "https://open.spotify.com/album/6JhBiY6sjJ60AcY9sapS5B"
+        "name": "Las Fuerzas Almadas",
+        "url": "https://open.spotify.com/album/1YAdvCKLUF12puHah2NxdW"
       },
       "artists": [
         {
-          "name": "Micaela Salaverry",
-          "url": "https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo"
-        },
-        {
-          "name": "Michelle Anzo",
-          "url": "https://open.spotify.com/artist/7fF7CiFel3ggkgm1tDIgvb"
+          "name": "Dat Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW"
         }
       ],
-      "duration_ms": 178800,
-      "name": "Aburrido ;(",
-      "url": "https://open.spotify.com/track/4pJ4Ts3yrQypjpMx6xxNEB"
+      "duration_ms": 272384,
+      "name": "Todo es Conectividad",
+      "url": "https://open.spotify.com/track/5omJg6cDZ3d7Zq5tozrNai"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "ahahahah!",
+        "url": "https://open.spotify.com/album/56xzVV8S4I9dz9Wq95NgW1"
+      },
+      "artists": [
+        {
+          "name": "Niki Rouge",
+          "url": "https://open.spotify.com/artist/6YSEtGjENmA8GPYecg87dQ"
+        },
+        {
+          "name": "Violeta Castillo",
+          "url": "https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe"
+        }
+      ],
+      "duration_ms": 216842,
+      "name": "NO ME PREGUNTES",
+      "url": "https://open.spotify.com/track/6JKddTJyXbGga6mShraM58"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1799,22 +1799,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "CASI ANGELES <3",
-        "url": "https://open.spotify.com/album/3vi4ZvttJXaVu4wZVwr3Qd"
+        "name": "Aburrido",
+        "url": "https://open.spotify.com/album/6JhBiY6sjJ60AcY9sapS5B"
       },
       "artists": [
         {
-          "name": "Heartgaze",
-          "url": "https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH"
+          "name": "Micaela Salaverry",
+          "url": "https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo"
         },
         {
-          "name": "Victor Internet",
-          "url": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
+          "name": "Michelle Anzo",
+          "url": "https://open.spotify.com/artist/7fF7CiFel3ggkgm1tDIgvb"
         }
       ],
-      "duration_ms": 225493,
-      "name": "@CLOSEFRIENDS",
-      "url": "https://open.spotify.com/track/6Fx5kFcfK0ttt4RlN8dJUU"
+      "duration_ms": 178800,
+      "name": "Aburrido ;(",
+      "url": "https://open.spotify.com/track/4pJ4Ts3yrQypjpMx6xxNEB"
     }
   ],
   "unique_name": "NE\u00d3N",

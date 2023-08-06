@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 
 > This is Daniela Araújo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,403 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,404 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 | 24 | [Música Favorita ♾](https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs) | [Música Favorita \(Água\)](https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l) | 4:13 |
 | 25 | [Verdade \(feat\. Daniela Araújo\) \- Ao Vivo](https://open.spotify.com/track/0RDOvpozDFHUxtwsQInnTZ) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Principio \(Ao Vivo\)](https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c) | 4:14 |
 | 26 | [Entrega](https://open.spotify.com/track/5hJ9Z5KsXKVwoHkQO51Meu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 5:43 |
-| 27 | [Jugo Suave](https://open.spotify.com/track/0RMiTd0mlAeSK94yk3BHKj) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 4:21 |
-| 28 | [Party Love](https://open.spotify.com/track/7adbOWjIdUJC6oBFSfVO1h) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Party Love](https://open.spotify.com/album/4L66sciwtXBjMMNgVwlqXy) | 3:16 |
+| 27 | [Party Love](https://open.spotify.com/track/7adbOWjIdUJC6oBFSfVO1h) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Party Love](https://open.spotify.com/album/4L66sciwtXBjMMNgVwlqXy) | 3:16 |
+| 28 | [Jugo Suave](https://open.spotify.com/track/0RMiTd0mlAeSK94yk3BHKj) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 4:21 |
 | 29 | [Bem Melhor =\) \(Fogo\) \- Piano e Voz](https://open.spotify.com/track/3K7q49Ism6zlVIS03yHc0Y) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs) | [Bem Melhor =\) \(Fogo\)](https://open.spotify.com/album/1geA7zrjdcCV7MN1vLlsMS) | 3:17 |
 | 30 | [Imensurável](https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 4:04 |
 | 31 | [Um Servo \- Ao Vivo](https://open.spotify.com/track/2f3wgWT46EMO7luhYXZrc0) | [Família Soul](https://open.spotify.com/artist/5lbUN093iR5kBddrOsMU7c), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Família Soul \(Ao Vivo\)](https://open.spotify.com/album/4v1GcWMB02AhaNwiN26TBB) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 | 49 | [Seja o Centro](https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 3:29 |
 | 50 | [Lo Que Hace Falta](https://open.spotify.com/track/4QqyzeKCR16fgCz4RGgVEN) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Nexus VII](https://open.spotify.com/album/2R3mfkFyi2rdOHqVhdE5fw) | 4:45 |
 
-Snapshot ID: `MjgxODYwODEsMDAwMDAwMDA4MmJlYWQ4NjM4MmNlZjhhZmM1YTNjNTM5MzJjODg5Ng==`
+Snapshot ID: `MjgxODczODgsMDAwMDAwMDA5YjA3YTllMDliZjc0NjU0NDk4OGRlZmNhYjZhNDVhNw==`

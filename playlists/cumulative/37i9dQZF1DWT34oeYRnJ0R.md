@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: Luar La L & Ozuna
 
-307 songs - 15 hr 52 min
+308 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [CERQUITA](https://open.spotify.com/track/2Xg3vz32NEuKWWU73Hi1mc) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p), [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [CERQUITA](https://open.spotify.com/album/3uj1zQCI0RiOEvqIAFIurW) | 2:39 | 2022-03-21 | 2022-09-07 |
 | [Chiquita](https://open.spotify.com/track/4za1MD83DGTxNnmsNlVmy7) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Chiquita](https://open.spotify.com/album/1xERT4eWPhXVdE1SI1Wq7l) | 2:29 | 2022-08-11 | 2022-09-07 |
 | [Chiquita](https://open.spotify.com/track/7ACjdrdU2NaEq8s740awuq) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Chiquita](https://open.spotify.com/album/57EgKo9V4vRdOSNaiBEfCv) | 2:29 | 2022-03-21 | 2022-08-18 |
+| [CHRONOS](https://open.spotify.com/track/29eomS83SDqGWkRgdvOUFC) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [CHRONOS](https://open.spotify.com/album/39ZCda6u6x5gq6HkNA3D1n) | 4:08 | 2023-08-04 |  |
 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 | 2022-08-01 | 2022-09-07 |
 | [Clutch \(feat\. Kiana Ledé\)](https://open.spotify.com/track/6QqF0MqjQVotftZIuQUbvf) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Clutch \(feat\. Kiana Ledé\)](https://open.spotify.com/album/3TfI9sGZXMZtRYDMuSdDxd) | 3:26 | 2022-03-21 | 2022-09-07 |
 | [coisa linda](https://open.spotify.com/track/763GYv3anuAaSSA6kQ2bEa) | [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [coisa linda](https://open.spotify.com/album/0YowymrHvtYwqHyWcvvfkW) | 2:53 | 2022-09-06 | 2023-05-02 |
@@ -172,7 +173,7 @@
 | [Me Fui](https://open.spotify.com/track/5ZJd9k7DEOy3hBJmhd0DDW) | [Izma](https://open.spotify.com/artist/0Hxv2atG2UFJAA8DC2nAVJ) | [Me Fui](https://open.spotify.com/album/576cHKgH3sclXYicBXSiXm) | 4:15 | 2022-09-06 | 2022-12-07 |
 | [me piensas ;\)](https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [me piensas ;\)](https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N) | 2:52 | 2022-09-06 | 2023-06-16 |
 | [Me Quiere No Me Quiere](https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [La Española](https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64) | 2:50 | 2022-03-21 | 2022-09-07 |
-| [mE RecHaZasTe :\(](https://open.spotify.com/track/3aWhOkrsuXseE7xccF7Upa) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE RecHaZasTe :\(](https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf) | 2:56 | 2022-12-12 |  |
+| [mE RecHaZasTe :\(](https://open.spotify.com/track/3aWhOkrsuXseE7xccF7Upa) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE RecHaZasTe :\(](https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf) | 2:56 | 2022-12-12 | 2023-08-06 |
 | [Me Recuerda a Ti](https://open.spotify.com/track/1Fngw0WPdqz5jRasncUjZS) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [Me Recuerda a Ti](https://open.spotify.com/album/0CEnEIiJKwelKhAJK8Md20) | 2:54 | 2022-08-29 | 2022-12-07 |
 | [Mejor](https://open.spotify.com/track/6C1jKbkCUgFws7M0M4oGCB) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Modo Avión](https://open.spotify.com/album/7GUGpSBpdK6cJmWO3KdA7r) | 3:21 | 2022-09-06 |  |
 | [Melodrama](https://open.spotify.com/track/4ffdk7DakcW71stgcXT1wA) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Melodrama](https://open.spotify.com/album/2KWMkUj6RlXdjFxWqyVOx5) | 3:05 | 2022-03-21 | 2022-05-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435 likes - 148 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 436 likes - 148 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 110 | [Nota 10](https://open.spotify.com/track/3MOu40is7Omfmhkx5zh8Kj) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [EP Z4](https://open.spotify.com/album/3U7lCBWkbwjZhP5UQRm0Vn) | 2:16 |
 | 111 | [Ten Cuidao \- En Vivo](https://open.spotify.com/track/1Cb0jvXLZAaXeQpxMErBrD) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:35 |
 | 112 | [Por Qué?](https://open.spotify.com/track/6KkfzyRjWlKUKqgg3T9euM) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 3:35 |
-| 113 | [Tao Longe de Ti](https://open.spotify.com/track/5ITuats5IuKKmbddomOdHZ) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:24 |
-| 114 | [Por Eso Me Voy](https://open.spotify.com/track/6wmG6oTCXdGzo2lqrKN5GQ) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [De Miles A Uno](https://open.spotify.com/album/2zasLrVORM3LSxqGNVbhzX) | 3:55 |
+| 113 | [Por Eso Me Voy](https://open.spotify.com/track/6wmG6oTCXdGzo2lqrKN5GQ) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [De Miles A Uno](https://open.spotify.com/album/2zasLrVORM3LSxqGNVbhzX) | 3:55 |
+| 114 | [Tao Longe de Ti](https://open.spotify.com/track/5ITuats5IuKKmbddomOdHZ) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:24 |
 | 115 | [Protesto \- En Vivo](https://open.spotify.com/track/4eQo3wIDC3KWxUskfKsYHg) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:55 |
 | 116 | [Z4 \(Z4\)](https://open.spotify.com/track/7IIBCmGzZRbbu9j4PsZvBO) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:07 |
 | 117 | [Purest Of Pain \(A Puro Dolor\)](https://open.spotify.com/track/7KjjvhP1O6MyOb9kJxwpdh) | [Patrizio Buanne](https://open.spotify.com/artist/14JwkiGRzeex4jLuDoWpQ5) | [Italianissimo](https://open.spotify.com/album/2ID42jV1T3BDQdCs1nlk4E) | 3:40 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 147 | [A Donde Vas?](https://open.spotify.com/track/2hynyvo4Yrg7p28zFehp5t) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:18 |
 | 148 | [Se Me Fue](https://open.spotify.com/track/5CVi8yEadTLUL5qmHRjpaS) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:48 |
 
-Snapshot ID: `MjgxODUyNTAsMDAwMDAwMDA5ZTg1ZGY1ZDY4OTc4Nzg5NDJlOWQ2MDQ2ZWNmYWY5MA==`
+Snapshot ID: `MjgxODgxMzAsMDAwMDAwMDAyM2FmMzA0MjJhYThjOTc4ZThjMzdmZTVjZDg3ZGYyOA==`

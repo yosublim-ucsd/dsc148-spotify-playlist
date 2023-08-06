@@ -4848,7 +4848,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 112722,
       "name": "brainfreeze",
       "url": "https://open.spotify.com/track/3xrgxsAR0xNqSgSsQHHfWe"
@@ -5816,6 +5816,32 @@
       "duration_ms": 192000,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF"
+    },
+    {
+      "album": {
+        "name": "time trial",
+        "url": "https://open.spotify.com/album/6122TuApkY2KGQoygdmhDj"
+      },
+      "artists": [
+        {
+          "name": "kimj",
+          "url": "https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw"
+        },
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "ceres",
+      "url": "https://open.spotify.com/track/7B5jghhgMLovjAKakSb94O"
     },
     {
       "album": {
@@ -6810,7 +6836,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 169704,
       "name": "Codependent",
       "url": "https://open.spotify.com/track/6XwlCj9JMf0JRXku4x9hxt"
@@ -13779,6 +13805,24 @@
     },
     {
       "album": {
+        "name": "halo",
+        "url": "https://open.spotify.com/album/0tnFLnIqnt052ZMWWiif9M"
+      },
+      "artists": [
+        {
+          "name": "adore",
+          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183783,
+      "name": "halo",
+      "url": "https://open.spotify.com/track/3S98DaraI3lEwWBCVaEDnn"
+    },
+    {
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/1KgP33FlrjmELH06IfYvST"
       },
@@ -14736,7 +14780,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 155840,
       "name": "Highland Cow Plushies",
       "url": "https://open.spotify.com/track/3eUwn1MamssECHjvZYOw7C"
@@ -15642,7 +15686,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 85076,
       "name": "i feel like a dog",
       "url": "https://open.spotify.com/track/5fMzsDRT8cHtZ1R9aLiYAZ"
@@ -22434,7 +22478,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 111000,
       "name": "NOTHING LEFT\\\\\\",
       "url": "https://open.spotify.com/track/208z04AQA3GNNZYJZuOgBZ"
@@ -22744,6 +22788,28 @@
       "duration_ms": 107576,
       "name": "october's lullaby (feat. glaive)",
       "url": "https://open.spotify.com/track/3GbPm4gaQXSsF4HTra0cI0"
+    },
+    {
+      "album": {
+        "name": "Octopus Baby",
+        "url": "https://open.spotify.com/album/74PJrZYo93kZmUsJxCoH95"
+      },
+      "artists": [
+        {
+          "name": "plastic pet",
+          "url": "https://open.spotify.com/artist/5LhRO5xKEb5FKQfQY0nke6"
+        },
+        {
+          "name": "Aiden Marceron",
+          "url": "https://open.spotify.com/artist/7fEzFVP0ArPjriuTGCJIxf"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Octopus Baby",
+      "url": "https://open.spotify.com/track/0mKLcMI7TXwZ4K0RpHJto7"
     },
     {
       "album": {
@@ -23862,6 +23928,24 @@
       "duration_ms": 150234,
       "name": "party girl",
       "url": "https://open.spotify.com/track/3q42AfqZP6dvTQBmTZWg1G"
+    },
+    {
+      "album": {
+        "name": "Partywithyourfriends",
+        "url": "https://open.spotify.com/album/7J54oUwxuTNphowJkVFsqy"
+      },
+      "artists": [
+        {
+          "name": "Caleb Peters",
+          "url": "https://open.spotify.com/artist/1AaJS5oq6oQMUjd1mpO1t3"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150909,
+      "name": "Partywithyourfriends",
+      "url": "https://open.spotify.com/track/1mvlbPabXKWjWuQhHQbDD8"
     },
     {
       "album": {
@@ -25000,6 +25084,24 @@
       "duration_ms": 317000,
       "name": "Prosperity - Vapour World Cup Edit",
       "url": "https://open.spotify.com/track/5ZHghq40sfDH5zq46TTw08"
+    },
+    {
+      "album": {
+        "name": "PROTECTION CHARM",
+        "url": "https://open.spotify.com/album/72s2UUBqry4E113Txcp5o8"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angeles",
+          "url": "https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "PROTECTION CHARM",
+      "url": "https://open.spotify.com/track/5TTQ10ijO4jwCOfeCxmBmm"
     },
     {
       "album": {
@@ -26678,7 +26780,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 121542,
       "name": "run.",
       "url": "https://open.spotify.com/track/1X79enT3K3iwV07pijn836"
@@ -29482,7 +29584,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 163250,
       "name": "stalemate",
       "url": "https://open.spotify.com/track/2VxcmtI9Pni94K3wBeJkDJ"
@@ -34723,6 +34825,28 @@
     },
     {
       "album": {
+        "name": "Whatsername",
+        "url": "https://open.spotify.com/album/2RY35Nrcr5Q0taKn6dcwbQ"
+      },
+      "artists": [
+        {
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
+        },
+        {
+          "name": "NoTrust",
+          "url": "https://open.spotify.com/artist/0r3DnVZSyBB3P5UbYom47D"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226616,
+      "name": "Whatsername",
+      "url": "https://open.spotify.com/track/4RAzZIVzqlF1kyOeXW3A4k"
+    },
+    {
+      "album": {
         "name": "it's hard to see color [When You're So Impossibly Far Away*]",
         "url": "https://open.spotify.com/album/1pqyO49hbBxbec1jMA5f0c"
       },
@@ -34880,6 +35004,24 @@
       "duration_ms": 208421,
       "name": "whimper",
       "url": "https://open.spotify.com/track/3rdOSW0F2CHN3lBRkdskKQ"
+    },
+    {
+      "album": {
+        "name": "whiplash / cliche",
+        "url": "https://open.spotify.com/album/6xE5ALjPamqaG7iPIx4dGX"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167244,
+      "name": "whiplash",
+      "url": "https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd"
     },
     {
       "album": {

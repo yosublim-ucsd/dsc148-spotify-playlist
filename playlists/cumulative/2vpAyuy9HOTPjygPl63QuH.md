@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-1,186 songs - 2 day 19 hr 54 min
+1,187 songs - 2 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -780,6 +780,7 @@
 | [Party Goes On](https://open.spotify.com/track/1N7elpUQthoEjIhf1ncHe7) | [Don't Stop](https://open.spotify.com/artist/5OVyKxezzganCl9U4JnELn), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [Party Goes On](https://open.spotify.com/album/3ZrtyLpcW8UZUjo5tb0yvk) | 2:34 | 2022-12-02 | 2022-12-17 |
 | [Party People](https://open.spotify.com/track/4CdNJGwzSXTU1EE1GJBxM6) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Party People](https://open.spotify.com/album/3m11xfvM8zaRt5i9Ozj6hY) | 3:06 | 2022-09-02 | 2022-09-10 |
 | [Party Time](https://open.spotify.com/track/55Q6nK8zmglR9wvPwpcX2m) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [Party Time](https://open.spotify.com/album/5Fuwvv3cQgJg2b1fBx8zVE) | 3:30 | 2022-09-23 | 2022-10-01 |
+| [Party Up](https://open.spotify.com/track/1ZaWlULy0eNyOnqKphQf4M) | [Gabriele Agostino](https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ) | [Party Up](https://open.spotify.com/album/01huoktHrS60mCnXeZbLo1) | 2:45 | 2023-08-05 |  |
 | [Patterns](https://open.spotify.com/track/5qYyRJ4GJ81BuBboKdOCIX) | [House Divided](https://open.spotify.com/artist/6Cq2iS9JhvjwEGwdVEWuti) | [Patterns](https://open.spotify.com/album/2OsuFEBuCdRVF4B9wH9Bl4) | 4:22 | 2023-06-30 | 2023-07-16 |
 | [Peanut Butter](https://open.spotify.com/track/7F2xg9REyaMDf9JHMV8V9S) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Dances With White Girls](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [New Age of House](https://open.spotify.com/album/7zBY7JzAeooq0E8cMXmZ0X) | 2:51 | 2022-11-05 | 2022-11-12 |
 | [Pegasus](https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Pegasus](https://open.spotify.com/album/1FxJT4dFth8T9Z1TfNxM5e) | 3:00 | 2023-02-10 | 2023-02-18 |

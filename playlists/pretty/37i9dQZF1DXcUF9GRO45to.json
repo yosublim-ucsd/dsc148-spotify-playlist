@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 27160,
+  "num_followers": 27192,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2IxMTExMjYwOWRhYzBlMzQwZTc5NDY4MzU4Y2U3Y2ZlZTZkNWI3",
+  "snapshot_id": "MCw0MDA0MzUxYTEwYjQxZjg3MmE4MGZiOTNmNzk2YzE1NjI3YmJjZjk0",
   "tracks": [
     {
       "added_at": "2023-07-23 21:26:18",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Bride",
-        "url": "https://open.spotify.com/album/2vxiT1e0xm36rYyn3EwvVj"
-      },
-      "artists": [
-        {
-          "name": "Send Me Love Letters",
-          "url": "https://open.spotify.com/artist/5RiWMf3FdQCkeAbwZXNcVk"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Bride",
-      "url": "https://open.spotify.com/track/4oFtvipwinqXjVrJpEuYCG"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "FRENCH FRIES",
         "url": "https://open.spotify.com/album/5eZzXmpnC4ZpJBkBucUfdm"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 215636,
       "name": "SO TIRED",
       "url": "https://open.spotify.com/track/7CiD9yJIfJshJEFwvgjPEq"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "Bride",
+        "url": "https://open.spotify.com/album/2vxiT1e0xm36rYyn3EwvVj"
+      },
+      "artists": [
+        {
+          "name": "Send Me Love Letters",
+          "url": "https://open.spotify.com/artist/5RiWMf3FdQCkeAbwZXNcVk"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Bride",
+      "url": "https://open.spotify.com/track/4oFtvipwinqXjVrJpEuYCG"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "...About Going Home",
-        "url": "https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI"
-      },
-      "artists": [
-        {
-          "name": "FRAGILE",
-          "url": "https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu"
-        }
-      ],
-      "duration_ms": 249013,
-      "name": "Model",
-      "url": "https://open.spotify.com/track/0PgfUO12sVy39a87M9J0rn"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "Garage Is Dead",
         "url": "https://open.spotify.com/album/5aHRyWY4RRq04Bx1cLgbjH"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "The Future Is the End",
-        "url": "https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7"
+        "name": "...About Going Home",
+        "url": "https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI"
       },
       "artists": [
         {
-          "name": "Cemented Minds",
-          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+          "name": "FRAGILE",
+          "url": "https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu"
         }
       ],
-      "duration_ms": 185706,
-      "name": "Strike a Match",
-      "url": "https://open.spotify.com/track/026GCpWJE2LQQAWrq9Fxi2"
+      "duration_ms": 249013,
+      "name": "Model",
+      "url": "https://open.spotify.com/track/0PgfUO12sVy39a87M9J0rn"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -839,6 +823,22 @@
       "duration_ms": 162597,
       "name": "Melancholic Rain",
       "url": "https://open.spotify.com/track/25A9I9SrAJ4uPeGO7lsN34"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "The Future Is the End",
+        "url": "https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7"
+      },
+      "artists": [
+        {
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+        }
+      ],
+      "duration_ms": 185706,
+      "name": "Strike a Match",
+      "url": "https://open.spotify.com/track/026GCpWJE2LQQAWrq9Fxi2"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
+        "name": "Advertisement",
+        "url": "https://open.spotify.com/album/5VNOEsedkdQRCq1HtQuVPa"
+      },
+      "artists": [
+        {
+          "name": "MNNQNS",
+          "url": "https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY"
+        }
+      ],
+      "duration_ms": 231076,
+      "name": "If Only They Could",
+      "url": "https://open.spotify.com/track/7kjPwK6v801H3f0L8FckWG"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
         "name": "Afterparty - All We Have Is Now",
         "url": "https://open.spotify.com/album/0ldHemZlZBRsIDJ1p6F6LU"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 181600,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6GpL98Krq2to6uvzaUGmy1"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
-        "name": "Advertisement",
-        "url": "https://open.spotify.com/album/5VNOEsedkdQRCq1HtQuVPa"
-      },
-      "artists": [
-        {
-          "name": "MNNQNS",
-          "url": "https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY"
-        }
-      ],
-      "duration_ms": 231076,
-      "name": "If Only They Could",
-      "url": "https://open.spotify.com/track/7kjPwK6v801H3f0L8FckWG"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
+        "name": "Hara",
+        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
+      },
+      "artists": [
+        {
+          "name": "Datcha Mandala",
+          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Stick It Out",
+      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
         "name": "Park",
         "url": "https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 308474,
       "name": "R\u00e9veil heureux",
       "url": "https://open.spotify.com/track/5jIOQUM9SWwLE2QmWFh30R"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
-        "name": "Hara",
-        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
-      },
-      "artists": [
-        {
-          "name": "Datcha Mandala",
-          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Stick It Out",
-      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
+        "name": "The Cage & The Crown : Chapter I",
+        "url": "https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK"
+      },
+      "artists": [
+        {
+          "name": "HEADKEYZ",
+          "url": "https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea"
+        }
+      ],
+      "duration_ms": 215453,
+      "name": "Killing God",
+      "url": "https://open.spotify.com/track/5EqCrES13fNKmdyR3OBm7r"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
         "name": "Head Above Water",
         "url": "https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj"
       },
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "The Cage & The Crown : Chapter I",
-        "url": "https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK"
+        "name": "Tachycardie (Extended Version)",
+        "url": "https://open.spotify.com/album/5E3RiKz8pmxeCRgbSH8NFT"
       },
       "artists": [
         {
-          "name": "HEADKEYZ",
-          "url": "https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea"
+          "name": "Bandit Bandit",
+          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
         }
       ],
-      "duration_ms": 215453,
-      "name": "Killing God",
-      "url": "https://open.spotify.com/track/5EqCrES13fNKmdyR3OBm7r"
+      "duration_ms": 263693,
+      "name": "Zone 51",
+      "url": "https://open.spotify.com/track/2lPQSkalkNnFAu1d50Wh9j"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1343,22 +1359,6 @@
       "duration_ms": 179000,
       "name": "Crystal Glass",
       "url": "https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
-        "name": "Tachycardie (Extended Version)",
-        "url": "https://open.spotify.com/album/5E3RiKz8pmxeCRgbSH8NFT"
-      },
-      "artists": [
-        {
-          "name": "Bandit Bandit",
-          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
-        }
-      ],
-      "duration_ms": 263693,
-      "name": "Zone 51",
-      "url": "https://open.spotify.com/track/2lPQSkalkNnFAu1d50Wh9j"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Houses Are Built The Same",
-        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
+        "name": "Billy Believe",
+        "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
       },
       "artists": [
         {
-          "name": "CATHEDRALE",
-          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
         }
       ],
-      "duration_ms": 190508,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
+      "duration_ms": 286173,
+      "name": "Vegan Porn Food",
+      "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1475,34 +1475,18 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Billy Believe",
-        "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
+        "name": "Houses Are Built The Same",
+        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
       },
       "artists": [
         {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+          "name": "CATHEDRALE",
+          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
         }
       ],
-      "duration_ms": 286173,
-      "name": "Vegan Porn Food",
-      "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
-        "name": "Songs/Motion Return",
-        "url": "https://open.spotify.com/album/0HNoauBRe7vw3WlqH9APbM"
-      },
-      "artists": [
-        {
-          "name": "Stuffed Foxes",
-          "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
-        }
-      ],
-      "duration_ms": 227426,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/367PCAccIOOMRfnaSKtFDG"
+      "duration_ms": 190508,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
+        "name": "Songs/Motion Return",
+        "url": "https://open.spotify.com/album/0HNoauBRe7vw3WlqH9APbM"
+      },
+      "artists": [
+        {
+          "name": "Stuffed Foxes",
+          "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
+        }
+      ],
+      "duration_ms": 227426,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/367PCAccIOOMRfnaSKtFDG"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/4XH9ajEoLAF572D1UseFG3"
       },
@@ -1535,22 +1535,6 @@
       "duration_ms": 273013,
       "name": "Bones",
       "url": "https://open.spotify.com/track/5WGOH3L6yKhHjXyCjgBYog"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
-        "name": "Raving Track",
-        "url": "https://open.spotify.com/album/32b7pGGSU86sMYGutnARZr"
-      },
-      "artists": [
-        {
-          "name": "Luje",
-          "url": "https://open.spotify.com/artist/6ytlQp07reEmExW6EeeLFD"
-        }
-      ],
-      "duration_ms": 275250,
-      "name": "Italia",
-      "url": "https://open.spotify.com/track/6Kw6I8YLJadN5HPUHhp1XL"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1583,6 +1567,22 @@
       "duration_ms": 204866,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "Raving Track",
+        "url": "https://open.spotify.com/album/32b7pGGSU86sMYGutnARZr"
+      },
+      "artists": [
+        {
+          "name": "Luje",
+          "url": "https://open.spotify.com/artist/6ytlQp07reEmExW6EeeLFD"
+        }
+      ],
+      "duration_ms": 275250,
+      "name": "Italia",
+      "url": "https://open.spotify.com/track/6Kw6I8YLJadN5HPUHhp1XL"
     },
     {
       "added_at": "2023-07-23 21:26:18",

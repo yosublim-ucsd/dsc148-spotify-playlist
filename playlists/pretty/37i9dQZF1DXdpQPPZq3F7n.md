@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\. Cover \- SatyaPrem Ki Katha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026,853 likes - 75 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,784 likes - 75 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 20 | [Humdard](https://open.spotify.com/track/1OEmd2iXU8pWG7CrKNpGUg) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ek Villain](https://open.spotify.com/album/3EkmvTqyKrnMw1WiVpsSwF) | 4:20 |
 | 21 | [O Bedardeya \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/track/0czcoKJbJt08NqKrvSbbz7) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [O Bedardeya \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/album/7kXEDaT5yy8IUT7Fmqs1i2) | 5:13 |
 | 22 | [Hasi \- Male Version](https://open.spotify.com/track/32765xcLM1fd6wQIpkN9A0) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Hamari Adhuri Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sVzilmsqYcLMYw2gtvoZM) | 4:32 |
-| 23 | [Mann Mera](https://open.spotify.com/track/3yV2c3cYhkAwSsxAq6nRiv) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Table No\. 21 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Gws1vUsWltRs58x8QuYVQ) | 3:20 |
+| 23 | [Mann Mera](https://open.spotify.com/track/6VPZmnHt8jv3TsCqqf34dW) | [Loresy](https://open.spotify.com/artist/2leUYnVtWrpv5ecpupPMLZ), [Jeroxzy](https://open.spotify.com/artist/4xTCzckvyqiwq8NV0JTU4l) | [Mann Mera](https://open.spotify.com/album/301w7jkOALsXpaCOudpt9R) | 3:17 |
 | 24 | [Raabta](https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Agent Vinod](https://open.spotify.com/album/2DqQ34i4uuuZWTScsGIgHr) | 4:03 |
 | 25 | [Tu Har Lamha \(From "Khamoshiyan"\)](https://open.spotify.com/track/13tg1zpSfWyFQbv09a9LPD) | [Bobby\-Imran](https://open.spotify.com/artist/5HgB3r11CTMckYeopesztP), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tu Har Lamha \(From "Khamoshiyan"\)](https://open.spotify.com/album/376E0BuJNLEggasPjj2MST) | 4:32 |
 | 26 | [Nain Ta Heere](https://open.spotify.com/track/7eYU2hu3CUOeNy3QAsqt6t) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Jugjugg Jeeyo](https://open.spotify.com/album/49wsmGDdtSoQiLt2lsVbaQ) | 3:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Sanu Ek Pal Chain](https://open.spotify.com/track/0qilTtN718ldWzIFc37zAl) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Raid](https://open.spotify.com/album/6t1dUvow3HRU7M87oHiX4Z) | 3:30 |
 | 75 | [Humsafar](https://open.spotify.com/track/6TFESXMfJJWwccviaxGAMa) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Mansheel Gujral](https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h) | [Badrinath Ki Dulhania](https://open.spotify.com/album/26ska1StQhwbWADLTg2hky) | 4:28 |
 
-Snapshot ID: `MCxlMDdjMzU4NmVjNWY4MDdkOWFiNjExNTUzZDYzNzQ1NDNlZDg2NWY1`
+Snapshot ID: `MCxlN2VhMGI4NjQ5YzUwYjljNjA5Njk2ZGZlM2M5OWZiY2NhN2ZlYzc0`

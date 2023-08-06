@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,221 likes - 87 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,234 likes - 87 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 51 | [Likkle Drop \(feat\. Kwame\)](https://open.spotify.com/track/7fP89DrqJcr5cmvWBdkBBP) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY), [Kwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [Likkle Drop \(feat\. Kwame\)](https://open.spotify.com/album/4ERrzPJu5Yh3QluUblMids) | 2:56 |
 | 52 | [Tension](https://open.spotify.com/track/6XiCKqfm5Xggvz5XuTC29t) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Tension](https://open.spotify.com/album/3uvIfQkvwjNVIWFM9oOFPy) | 4:14 |
 | 53 | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/album/4alOM8XlyGXSsr3IIlshl8) | 3:21 |
-| 54 | [Mirrors](https://open.spotify.com/track/3vwbwAySDNj9bv2udUBZf0) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Mirror](https://open.spotify.com/album/1G6TpD7WiyKNUSCE7GKRPT) | 2:59 |
+| 54 | [Mirror](https://open.spotify.com/track/3vwbwAySDNj9bv2udUBZf0) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Mirror](https://open.spotify.com/album/1G6TpD7WiyKNUSCE7GKRPT) | 2:59 |
 | 55 | [Nightlife](https://open.spotify.com/track/2HhwgxfCPDqxmpzKB0FlTL) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [Nightlife](https://open.spotify.com/album/3fJnk9OEpO346UKBj1dvyu) | 3:17 |
 | 56 | [One More Try](https://open.spotify.com/track/7upccqMxsiZWGvuqa8dybi) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [One More Try](https://open.spotify.com/album/2TnE3iQi1NBUpBFJuK2IPL) | 3:17 |
 | 57 | [Without You](https://open.spotify.com/track/3WnUpYyxdnbSuGlmxJLNnh) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [Without You](https://open.spotify.com/album/4HPfjykrXY8c1iRb10bHfQ) | 5:09 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 86 | [Preppers](https://open.spotify.com/track/448p5kZA0Lh7NMhEsMf8dX) | [Shoe](https://open.spotify.com/artist/7zPM2TtfM5n6zFLdKiVpx6) | [Preppers](https://open.spotify.com/album/2NXh0905l0qBb2enlnx9Uv) | 4:28 |
 | 87 | [There won't be another you](https://open.spotify.com/track/3KFAC1diPAK07fGNGulV6f) | [Tiny Little Houses](https://open.spotify.com/artist/2DzfwBlRGSLXCXgAKN6EFv) | [Everyday I wake I find another reason not to](https://open.spotify.com/album/67RnVYIHvnxEZL9xbnrFfu) | 4:14 |
 
-Snapshot ID: `MCxmYjNlYTFjY2JhMGUyNDVhNWI4Y2YxOTJlNDNhYmE0MzhhMWRkNmRi`
+Snapshot ID: `MCw4OTZhNzAzNjRmYWIzMTlkOTlkMmY4NDYyMzFlZTIxZWY3Y2U0ZmEx`

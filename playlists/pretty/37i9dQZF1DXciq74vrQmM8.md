@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. grimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,533 likes - 85 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,810 likes - 85 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 84 | [Cops and robbers](https://open.spotify.com/track/7s4EFCLbEw5HUm2lKjnOTW) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Cops and robbers](https://open.spotify.com/album/6yXnKNNgTQ732nJwM5WAXo) | 4:25 |
 | 85 | [anything u want](https://open.spotify.com/track/3PvsmNvUhhIaAeMK2PFe6p) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [anything u want](https://open.spotify.com/album/7nPPo0dyXrRFscTHV4k0yY) | 2:26 |
 
-Snapshot ID: `MCw4OWViZjM1NjFkMmE2ZmQzYzUxNGNkZGVjNzRlNWFmZTRlZDRjOGQ5`
+Snapshot ID: `MCxkN2YyYmU3ZWM5ZDA4ZGRjMGE1ZGViODkyZWI0MDMyOWNkMDc5MTA3`

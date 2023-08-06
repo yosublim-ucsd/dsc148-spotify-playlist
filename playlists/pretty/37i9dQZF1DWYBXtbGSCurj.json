@@ -1,12 +1,12 @@
 {
   "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Yunk Vino",
-  "num_followers": 374046,
+  "num_followers": 374217,
   "original_name": "Trap Ouro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWMxZDg1NmIwMTAzZDUwNmFkOTMwOTU0YWNmZGRkYjNlNjM3YmU0",
+  "snapshot_id": "MCw0OTFiNThjNzE5N2QxZTJlZGY5YWVkNzg1MzQ2OWZkODJjZTVmYmEz",
   "tracks": [
     {
       "added_at": "2023-08-04 23:21:42",
@@ -136,16 +136,16 @@
           "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
         },
         {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
           "name": "Dazz",
           "url": "https://open.spotify.com/artist/4NgSQ0eSMFB9HjBMEal1rA"
         },
         {
           "name": "Menor MC",
           "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
         }
       ],
       "duration_ms": 180923,

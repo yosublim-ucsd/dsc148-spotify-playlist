@@ -4,7 +4,7 @@
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-38 songs - 1 hr 59 min
+39 songs - 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Ain't No MF \(feat\. pH\-1\)](https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Ain't No MF \(feat\. pH\-1\)](https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm) | 2:29 | 2023-05-02 |  |
 | [bad minah \(feat\. Hullera\)](https://open.spotify.com/track/2XdPqdiH87qb1101BEbfGL) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Hullera](https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 3:32 | 2023-05-02 |  |
 | [Bassgod](https://open.spotify.com/track/1NmLOlgJamGPEaPmX2sjuV) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Juyen Sebulba](https://open.spotify.com/artist/5DrDb5tvBFk7sJxsMyA06r), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Bassgod](https://open.spotify.com/album/4Yi5FlWp2CuxQsP0ORMlRg) | 3:07 | 2023-05-02 |  |
+| [Bossy](https://open.spotify.com/track/3uuytiAc3p8k73EM9WENt2) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Cinta Laura Kiehl](https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn) | [Bossy](https://open.spotify.com/album/5nb8r2gQC3ro3g5s1VETMz) | 2:14 | 2023-08-05 |  |
 | [CA$HMERE](https://open.spotify.com/track/4x8HoxdUX78UiFkiVWsygM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [CA$HMERE](https://open.spotify.com/album/65bC4fvUPoWqSIPqwW3uLo) | 3:34 | 2023-05-02 |  |
 | [Decide](https://open.spotify.com/track/1agoTVhdFUt7ELV8MTDBvc) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Decide](https://open.spotify.com/album/2slywIgmb7LB6uZxh68HCO) | 4:28 | 2023-05-02 |  |
 | [Digital Love](https://open.spotify.com/track/2ZIIaB50Dc5LN2FVzOordQ) | [Mardial](https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Mardial & Friends](https://open.spotify.com/album/2WO5hG0cG3imkLfb7BU0j1) | 3:05 | 2023-05-02 |  |

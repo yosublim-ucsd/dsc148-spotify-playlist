@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037 likes - 37 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038 likes - 37 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 11 | [Forgotten Paths](https://open.spotify.com/track/2PUjmpblg9f1Cy9KItnQSJ) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 1:46 |
 | 12 | [Immediate Horizon 3](https://open.spotify.com/track/6smKelrD4IAbrF2APLgoEe) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 8:47 |
 | 13 | [Interrupted By The Cloud Of Light](https://open.spotify.com/track/2piqRx94EW1ZC6jIcct63N) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 1:54 |
-| 14 | [Perdonare](https://open.spotify.com/track/0VkyEqTvoq7OA0pC4aBSgG) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Perdonare](https://open.spotify.com/album/7m96tEGvDuA7bpuqsLHl1E) | 4:52 |
+| 14 | [AMORE AMARO](https://open.spotify.com/track/6fiijXOYS8H4e3klBNBVxX) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:02 |
 | 15 | [Mourning the Fallen](https://open.spotify.com/track/5oblJwpXzETf1DGPAeXXOg) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 1:38 |
-| 16 | [AMORE AMARO](https://open.spotify.com/track/6fiijXOYS8H4e3klBNBVxX) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:02 |
+| 16 | [Perdonare](https://open.spotify.com/track/0VkyEqTvoq7OA0pC4aBSgG) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Perdonare](https://open.spotify.com/album/7m96tEGvDuA7bpuqsLHl1E) | 4:52 |
 | 17 | [CC Pad](https://open.spotify.com/track/5fQUBfDG5EZB5GcyiX8bRE) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 3:48 |
 | 18 | [Vincere](https://open.spotify.com/track/2bCJY4qvQtBKa6r47i2vem) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Vincere](https://open.spotify.com/album/0QOiZ7kmSuZ1FwsDYxYr93) | 7:27 |
 | 19 | [Standing Vigilant](https://open.spotify.com/track/0JbyJNFiUr6HHhJHYzYoga) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 1:58 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 36 | [SABBIA](https://open.spotify.com/track/1wUAoagKfjHyDJQVSc799P) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:43 |
 | 37 | [ECCO](https://open.spotify.com/track/37XnCTDFEs3K78dd0l722e) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 4:30 |
 
-Snapshot ID: `MjgxODYwODEsMDAwMDAwMDA5ODI2NmNhMjAyMGVkOTI3YTg4NjM5MWY4YzIyMjI3Mg==`
+Snapshot ID: `MjgxODczODgsMDAwMDAwMDAyM2NiYmJhOGRkN2ZkY2E0NTZkOTBkYTg4NjY3NmQxMw==`

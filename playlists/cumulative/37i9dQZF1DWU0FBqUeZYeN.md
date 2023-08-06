@@ -4,7 +4,7 @@
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-256 songs - 14 hr 0 min
+257 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,9 +35,10 @@
 | [Archangel Thunderbird](https://open.spotify.com/track/7fOpF1rmcD4wpenamuNdp5) | [Amon Düül II](https://open.spotify.com/artist/1TUNPwZWJyhaNZpLZzhOUj) | [Yeti](https://open.spotify.com/album/5R7yVKn7rnv3LmifNqO8j6) | 3:33 | 2015-07-23 | 2022-07-29 |
 | [Archangels Thunderbird](https://open.spotify.com/track/0oshIsMu5i5E2wTBIj9NxF) | [Amon Düül II](https://open.spotify.com/artist/1TUNPwZWJyhaNZpLZzhOUj) | [Yeti](https://open.spotify.com/album/4ip7L3AtG2pLgZLhAON3va) | 3:33 | 2015-07-23 |  |
 | [Archangels Thunderbird](https://open.spotify.com/track/7tqO1hoCIanxVwQGr7DTRc) | [Amon Düül II](https://open.spotify.com/artist/1TUNPwZWJyhaNZpLZzhOUj) | [Space Rock: an Interstellar Traveler's Guide](https://open.spotify.com/album/0cyBN0QH2LdHFJ6RE6nd6W) | 3:33 | 2015-07-23 | 2022-11-13 |
+| [At Home At Work At Play](https://open.spotify.com/track/0WtuSuOI7b3sOJTkvECga9) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Propaganda](https://open.spotify.com/album/3bOrSzGgJnjGOa9kOybRCs) | 3:05 | 2015-07-23 |  |
 | [At Home At Work At Play](https://open.spotify.com/track/4GXeG9LUqH97UYRdfhwj9M) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Punk Music](https://open.spotify.com/album/3Pca1TfQuqUzUIhN0JjD0A) | 3:05 | 2015-07-23 | 2022-11-13 |
 | [At Home At Work At Play](https://open.spotify.com/track/73dZMcYjAYEYets1sLxFru) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Propaganda](https://open.spotify.com/album/0X9oDUDUZEAEkdtIPHXTAY) | 3:05 | 2015-07-23 | 2022-07-29 |
-| [At Home At Work At Play](https://open.spotify.com/track/7jpt4P7GjVGFFgI3bqLThp) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Propaganda](https://open.spotify.com/album/1rlCSXl4oodSDQRUYDUgiP) | 3:05 | 2015-07-23 |  |
+| [At Home At Work At Play](https://open.spotify.com/track/7jpt4P7GjVGFFgI3bqLThp) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Propaganda](https://open.spotify.com/album/1rlCSXl4oodSDQRUYDUgiP) | 3:05 | 2015-07-23 | 2023-08-06 |
 | [Blank Generation](https://open.spotify.com/track/1UhYpKwdFiAefEXB6GJs60) | [Richard Hell](https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB) | [The Old Grey Whistle Test: Punk and New Wave](https://open.spotify.com/album/7uMmVZLYGRsaYg0BHEJPQF) | 2:43 | 2015-07-23 | 2022-07-29 |
 | [Blank Generation](https://open.spotify.com/track/1O19mjXpfcFiHeIwlYVORn) | [Richard Hell](https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB) | [Rock the Dancefloor](https://open.spotify.com/album/1ZdiDpPMWJDzkiNgjWCi6r) | 2:47 | 2015-07-23 | 2022-11-13 |
 | [Blank Generation \- 2013 Remaster](https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr) | [Richard Hell](https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB) | [Spurts: The Richard Hell Story \(2013 Remaster\)](https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF) | 2:47 | 2015-07-23 |  |

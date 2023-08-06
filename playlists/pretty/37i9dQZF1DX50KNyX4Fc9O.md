@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: DPR IAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,887 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,903 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [Slap](https://open.spotify.com/track/0MWxdsMxd0K1ZniGeyJLmv) | [Caroline & Claude](https://open.spotify.com/artist/31KYVnV5N4VuzjfBXPZMMl) | [Slap](https://open.spotify.com/album/1TyYGkRd1eg9aNY0Wp6614) | 2:28 |
 | 100 | [Don't Say Love](https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Don't Say Love](https://open.spotify.com/album/6XvWGtXvrMdVsFNExEBCDC) | 3:00 |
 
-Snapshot ID: `MCwzMTZmMDQxOGNjZWVhZjUxYzhhMzZmZjJiMTc3YTljNWVmNzE4ZDE3`
+Snapshot ID: `MCwwM2E2MTNkM2E4NDZmMmQxODNhMjI5NjJkNjZkMWUzOTczYTc4NGU0`

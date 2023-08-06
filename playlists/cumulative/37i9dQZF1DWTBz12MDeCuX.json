@@ -9903,6 +9903,32 @@
     },
     {
       "album": {
+        "name": "Teil vom Ganzen",
+        "url": "https://open.spotify.com/album/46WYDWDIojRYafGPTAsoTn"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "Maikel",
+          "url": "https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY"
+        },
+        {
+          "name": "TYM",
+          "url": "https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173346,
+      "name": "Jung & dumm",
+      "url": "https://open.spotify.com/track/04HhklbQjA1Z5ijLXNTeH6"
+    },
+    {
+      "album": {
         "name": "Jung & dumm",
         "url": "https://open.spotify.com/album/7dbIYBCmsxbiFxg5BWXwJn"
       },
@@ -9922,7 +9948,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 173346,
       "name": "Jung & dumm",
       "url": "https://open.spotify.com/track/7xB3seU9qIPhm7UpVIEyeO"
@@ -19061,6 +19087,36 @@
     },
     {
       "album": {
+        "name": "Teil vom Ganzen",
+        "url": "https://open.spotify.com/album/46WYDWDIojRYafGPTAsoTn"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "Ansu",
+          "url": "https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS"
+        },
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        },
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193173,
+      "name": "Treppenhaus",
+      "url": "https://open.spotify.com/track/1diBYjVLL4AEPhTU0urYuB"
+    },
+    {
+      "album": {
         "name": "Treppenhaus",
         "url": "https://open.spotify.com/album/0jsbXEF26ZTqjds5fAO7ui"
       },
@@ -19084,7 +19140,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-06",
       "duration_ms": 193173,
       "name": "Treppenhaus",
       "url": "https://open.spotify.com/track/7zRQCjAB2hz47xZS6wbbB5"

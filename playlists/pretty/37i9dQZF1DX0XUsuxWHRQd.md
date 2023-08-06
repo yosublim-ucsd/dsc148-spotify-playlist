@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > Music from Travis Scott, Drake and Latto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,519,257 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,521,263 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Last Days](https://open.spotify.com/track/6m63k9onxYHiugyMIy2jjg) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Last Days](https://open.spotify.com/album/6uAmDDiWne5nh9ch1y4ZNy) | 2:34 |
 | 50 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 |
 
-Snapshot ID: `MCxjZjc3ZWI5NDNkMjY5ZDkzNzgzZjFiY2I0MzI1YzAwYmQzMzg1NmZi`
+Snapshot ID: `MCxhYmJjZjg4ZjQxNGVlOTk4ZDJkNjZhYTQwZTY0MmQ3NzQxN2Q3NjJj`

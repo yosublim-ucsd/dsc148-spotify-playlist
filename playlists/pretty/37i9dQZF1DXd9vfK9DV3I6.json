@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 271044,
+  "num_followers": 271293,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWZhMWRkZTE2YWZhNjgxNGM5YjUzZjhmYzQ0YmYyODZjODQ4ZjU3",
+  "snapshot_id": "MCw3MGNhMTU2NmQ1YTAzMjEwY2E2MDE4MDM2MmE1NzNjMmIwYTliMzM1",
   "tracks": [
     {
       "added_at": "2023-08-01 07:04:34",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-08-01 07:04:34",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
-    },
-    {
-      "added_at": "2023-08-01 07:04:34",
-      "album": {
         "name": "Arabic Soul",
         "url": "https://open.spotify.com/album/5GyMokgjZwjk458LtSaMfH"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 273031,
       "name": "Arabic Soul",
       "url": "https://open.spotify.com/track/3Le91iSDJVSRu0yMxQOOq6"
+    },
+    {
+      "added_at": "2023-08-01 07:04:34",
+      "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
     },
     {
       "added_at": "2023-08-01 07:04:34",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-08-01 07:04:34",
       "album": {
-        "name": "Moulat Lkhala",
-        "url": "https://open.spotify.com/album/0lBFsisYQ70Sdwvhx0XZH5"
-      },
-      "artists": [
-        {
-          "name": "Eljoee",
-          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Moulat Lkhala",
-      "url": "https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO"
-    },
-    {
-      "added_at": "2023-08-01 07:04:34",
-      "album": {
         "name": "Il Mattino",
         "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 331206,
       "name": "Il Mattino",
       "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
+    },
+    {
+      "added_at": "2023-08-01 07:04:34",
+      "album": {
+        "name": "Moulat Lkhala",
+        "url": "https://open.spotify.com/album/0lBFsisYQ70Sdwvhx0XZH5"
+      },
+      "artists": [
+        {
+          "name": "Eljoee",
+          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Moulat Lkhala",
+      "url": "https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO"
     },
     {
       "added_at": "2023-08-01 07:04:34",
@@ -983,6 +983,26 @@
     {
       "added_at": "2023-08-01 07:04:34",
       "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/5EB9cQVc2rqBSjvw48BZgG"
+      },
+      "artists": [
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        },
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        }
+      ],
+      "duration_ms": 194198,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/1yfmfunh1tZ2iU3JG30iwo"
+    },
+    {
+      "added_at": "2023-08-01 07:04:34",
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 200000,
       "name": "Cry",
       "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
-    },
-    {
-      "added_at": "2023-08-01 07:04:34",
-      "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/5EB9cQVc2rqBSjvw48BZgG"
-      },
-      "artists": [
-        {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
-        },
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/1yfmfunh1tZ2iU3JG30iwo"
     },
     {
       "added_at": "2023-08-01 07:04:34",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-08-01 07:04:34",
       "album": {
-        "name": "La Blanche",
-        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
-      },
-      "artists": [
-        {
-          "name": "TEHRACH",
-          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
-        },
-        {
-          "name": "omar",
-          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "La Blanche",
-      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
-    },
-    {
-      "added_at": "2023-08-01 07:04:34",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/2eNP8ynGQaauz1pwPnsYH0"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 219202,
       "name": "Lost",
       "url": "https://open.spotify.com/track/2hVQWiAcCZO3ICY0zoHdA2"
+    },
+    {
+      "added_at": "2023-08-01 07:04:34",
+      "album": {
+        "name": "La Blanche",
+        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
+      },
+      "artists": [
+        {
+          "name": "TEHRACH",
+          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
+        },
+        {
+          "name": "omar",
+          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "La Blanche",
+      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
     },
     {
       "added_at": "2023-08-01 07:04:34",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-08-01 07:04:34",
       "album": {
-        "name": "Sophonisbe",
-        "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
-      },
-      "artists": [
-        {
-          "name": "Jugurtha",
-          "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
-        },
-        {
-          "name": "Sahal\u00e9",
-          "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
-        }
-      ],
-      "duration_ms": 396428,
-      "name": "Sophonisbe - Sahale Remix",
-      "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
-    },
-    {
-      "added_at": "2023-08-01 07:04:34",
-      "album": {
         "name": "Prophecies of the Ancient Future",
         "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 320045,
       "name": "Sensiz",
       "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
+    },
+    {
+      "added_at": "2023-08-01 07:04:34",
+      "album": {
+        "name": "Sophonisbe",
+        "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
+      },
+      "artists": [
+        {
+          "name": "Jugurtha",
+          "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
+        },
+        {
+          "name": "Sahal\u00e9",
+          "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
+        }
+      ],
+      "duration_ms": 396428,
+      "name": "Sophonisbe - Sahale Remix",
+      "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
     },
     {
       "added_at": "2023-08-01 07:04:34",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-08-01 07:04:34",
       "album": {
-        "name": "La rose \u00e9ternelle",
-        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 270015,
-      "name": "La rose \u00e9ternelle",
-      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
-    },
-    {
-      "added_at": "2023-08-01 07:04:34",
-      "album": {
         "name": "Sireli",
         "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 381818,
       "name": "Souq",
       "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
+    },
+    {
+      "added_at": "2023-08-01 07:04:34",
+      "album": {
+        "name": "La rose \u00e9ternelle",
+        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        }
+      ],
+      "duration_ms": 270015,
+      "name": "La rose \u00e9ternelle",
+      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
     },
     {
       "added_at": "2023-08-01 07:04:34",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-08-01 07:04:34",
       "album": {
+        "name": "Eternal Roots",
+        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
+      },
+      "artists": [
+        {
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "duration_ms": 305005,
+      "name": "Eternal Roots",
+      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
+    },
+    {
+      "added_at": "2023-08-01 07:04:34",
+      "album": {
         "name": "Lamouni",
         "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 224262,
       "name": "Mra ou Mermora",
       "url": "https://open.spotify.com/track/2Ld7QaXg2yP2L3yAz3QFgv"
-    },
-    {
-      "added_at": "2023-08-01 07:04:34",
-      "album": {
-        "name": "Eternal Roots",
-        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
-      },
-      "artists": [
-        {
-          "name": "Safar (FR)",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 305005,
-      "name": "Eternal Roots",
-      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
     },
     {
       "added_at": "2023-08-01 07:04:34",
@@ -1903,8 +1903,8 @@
     {
       "added_at": "2023-08-01 07:04:34",
       "album": {
-        "name": "Mosaic",
-        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
+        "name": "Arabic Nights",
+        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
       },
       "artists": [
         {
@@ -1912,9 +1912,9 @@
           "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Mosaic",
-      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
+      "duration_ms": 165333,
+      "name": "Arabic Nights",
+      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
     },
     {
       "added_at": "2023-08-01 07:04:34",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2023-08-01 07:04:34",
       "album": {
-        "name": "O.M.M.A",
-        "url": "https://open.spotify.com/album/6pCX9dYSV33ZDQYje78efe"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
       },
       "artists": [
         {
-          "name": "Camil Kanouni",
-          "url": "https://open.spotify.com/artist/2VeXGGayrfgFEFhI9EWqWC"
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
         }
       ],
-      "duration_ms": 221217,
-      "name": "Oud Love",
-      "url": "https://open.spotify.com/track/6yo4vfCNw1VD1JKCbJhPEO"
+      "duration_ms": 184421,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
     }
   ],
   "unique_name": "mosaic",

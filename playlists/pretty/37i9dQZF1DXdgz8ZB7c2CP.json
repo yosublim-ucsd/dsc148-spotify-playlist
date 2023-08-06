@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Louis The Child",
-  "num_followers": 759220,
+  "num_followers": 759315,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjQ5MGM4MDM5N2UyN2Q4MmQ4NDFiYzZlNWVkZjUwZTA2MzUzMGY0",
+  "snapshot_id": "MCw1MWY5MGZiNTRiODFiYjdlMzFjNjc0ZjRjZGY4YjE5MTkwYTAyMmM4",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 248432,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "So Much In Love (Sub Focus Remix)",
         "url": "https://open.spotify.com/album/47FtmJz3uPnswg7tTrAvF0"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 235885,
       "name": "So Much In Love - Sub Focus Remix",
       "url": "https://open.spotify.com/track/7umV8hDGUBIYV3kxoNz1Vb"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 248432,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Gonna Be Good",
-        "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
-      },
-      "artists": [
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        }
-      ],
-      "duration_ms": 172319,
-      "name": "Gonna Be Good",
-      "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Gonna Be Good",
+        "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "duration_ms": 172319,
+      "name": "Gonna Be Good",
+      "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 197142,
       "name": "Mercy (2022 Edit)",
       "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Someone You Can Count On",
-        "url": "https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 173609,
-      "name": "Rewind.. (But I Love You)",
-      "url": "https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -847,6 +831,22 @@
       "duration_ms": 174387,
       "name": "S.O.S",
       "url": "https://open.spotify.com/track/46ZbeFHcvPbZT3z19WIKHZ"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Someone You Can Count On",
+        "url": "https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 173609,
+      "name": "Rewind.. (But I Love You)",
+      "url": "https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Superdream",
-        "url": "https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Pale Blue Dot",
-      "url": "https://open.spotify.com/track/3XmNMIucTYuXOEpAjcaeVi"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "HEADSH\u00d6T",
         "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Superdream",
+        "url": "https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Pale Blue Dot",
+      "url": "https://open.spotify.com/track/3XmNMIucTYuXOEpAjcaeVi"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Out Of Options (feat. midwxst)",
-        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Out Of Options (feat. midwxst)",
-      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 231733,
       "name": "Waiting (feat. Kelli-Leigh)",
       "url": "https://open.spotify.com/track/0AcuvNq4yAuLJ5SLeyYOFo"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Out Of Options (feat. midwxst)",
+        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Out Of Options (feat. midwxst)",
+      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Electric Feel",
-        "url": "https://open.spotify.com/album/5zUYLWWuq9y0rzN7XyyGVz"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 192729,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/5BevUDbSHGxIbmXGDd6Ejs"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Tennis Skirt (feat. Ella Boh)",
         "url": "https://open.spotify.com/album/6OtXCPzbIwmPPTLUDc9n7B"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 186363,
       "name": "Tennis Skirt (feat. Ella Boh)",
       "url": "https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Electric Feel",
+        "url": "https://open.spotify.com/album/5zUYLWWuq9y0rzN7XyyGVz"
+      },
+      "artists": [
+        {
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+        }
+      ],
+      "duration_ms": 192729,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/5BevUDbSHGxIbmXGDd6Ejs"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2047,42 +2047,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/6bi8u9QUWXCYW8w9IT88D3"
-      },
-      "artists": [
-        {
-          "name": "Slow Magic",
-          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
-        },
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 195459,
-      "name": "Connection",
-      "url": "https://open.spotify.com/track/6YcFNAsBntqdR0dd3ManI8"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "VOODOO",
-        "url": "https://open.spotify.com/album/2IwOQiCHcma5ic1WTPzz0L"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "VOODOO",
-      "url": "https://open.spotify.com/track/2ryYs693sIZvV2No5g3vY7"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n"
       },
@@ -2103,6 +2067,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "VOODOO",
+        "url": "https://open.spotify.com/album/2IwOQiCHcma5ic1WTPzz0L"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "VOODOO",
+      "url": "https://open.spotify.com/track/2ryYs693sIZvV2No5g3vY7"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Fool",
         "url": "https://open.spotify.com/album/6TAhNtHs5NGaEViqb1uINw"
       },
@@ -2119,6 +2099,26 @@
       "duration_ms": 220869,
       "name": "Fool",
       "url": "https://open.spotify.com/track/1bDclm0e8PVf7t8D0UEl1i"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/6bi8u9QUWXCYW8w9IT88D3"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        },
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 195459,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/6YcFNAsBntqdR0dd3ManI8"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/3RCq9rVM66HmlkI025FSyP"
-      },
-      "artists": [
-        {
-          "name": "KOAN Sound",
-          "url": "https://open.spotify.com/artist/1NCLweIUpq8knzemBwAwoo"
-        }
-      ],
-      "duration_ms": 272509,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/3uldzYm91Q7TM7eD291uW5"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "demon time",
         "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 92307,
       "name": "And then it came together",
       "url": "https://open.spotify.com/track/1rPq3J5LmVX78RjdzUqjZo"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/3RCq9rVM66HmlkI025FSyP"
+      },
+      "artists": [
+        {
+          "name": "KOAN Sound",
+          "url": "https://open.spotify.com/artist/1NCLweIUpq8knzemBwAwoo"
+        }
+      ],
+      "duration_ms": 272509,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/3uldzYm91Q7TM7eD291uW5"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2375,26 +2375,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "UNI(*)N",
-        "url": "https://open.spotify.com/album/3TaL0VJMILKcVl1XgLkc4X"
-      },
-      "artists": [
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "Thru The Ceiling",
-      "url": "https://open.spotify.com/track/7HkfeOvf3KjZUjnJGKx7fR"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "THIS IS THE END.",
         "url": "https://open.spotify.com/album/4HT9o2Bh2GfsQgA2MX1ml1"
       },
@@ -2411,6 +2391,26 @@
       "duration_ms": 170320,
       "name": "THIS IS THE END.",
       "url": "https://open.spotify.com/track/3c727sTs0LEbcIvLbGijTo"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "UNI(*)N",
+        "url": "https://open.spotify.com/album/3TaL0VJMILKcVl1XgLkc4X"
+      },
+      "artists": [
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "Thru The Ceiling",
+      "url": "https://open.spotify.com/track/7HkfeOvf3KjZUjnJGKx7fR"
     }
   ],
   "unique_name": "creamy",

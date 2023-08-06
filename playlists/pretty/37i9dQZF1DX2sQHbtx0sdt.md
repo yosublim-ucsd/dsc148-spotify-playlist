@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 53 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 100 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 49 | [Massa \(feat\. Sxph\)](https://open.spotify.com/track/6Pe84884twhl2sj87QGlIr) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV), [Sxph](https://open.spotify.com/artist/7yYFVOPpLknZVr5nkWULpw) | [THANKS 4 THE WAIT](https://open.spotify.com/album/4lP1Rlb8kKsOTQq0TNAGoG) | 4:00 |
 | 50 | [FARDA](https://open.spotify.com/track/5CAri3YPxIQAPO2cvl0x9t) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [FARDA](https://open.spotify.com/album/41RFpDDBV3XIWfUN8JLCEJ) | 2:45 |
 
-Snapshot ID: `MCxkZGVmYmMzZDlhYWJkNzdiODcyZDE2NzJjYjc3OWVlOTg4N2VlZGQ1`
+Snapshot ID: `MCwyNGM5MzNkYTdjODgxZmQ4NTU5Y2VmNTBjNjE4NzgwNWY0MjBlMGZm`

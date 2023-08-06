@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Dying Wish
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Crosses
 
-469 songs - 1 day 6 hr 11 min
+475 songs - 1 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Born of Satan's Flesh](https://open.spotify.com/track/0Rzmvz1zLlmO6lhN8ZMxSK) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Born of Satan's Flesh](https://open.spotify.com/album/0iecjoOhajVnZQyOO8Ccv9) | 4:08 | 2022-07-29 | 2023-07-15 |
 | [burn down my house](https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:19 | 2022-10-21 | 2023-07-15 |
 | [Burn the System](https://open.spotify.com/track/0xT8lO6AN5wEgkPxw7aCSm) | [KRUELTY](https://open.spotify.com/artist/0R2MCc7Bg2RsZb7nOKpJdU) | [Burn the System](https://open.spotify.com/album/47CnioO06kBWZ9poXwiDPB) | 4:49 | 2023-01-13 |  |
+| [Burn Your Bible](https://open.spotify.com/track/74OhwbALx4m1WD6CfqD5nt) | [Twin Temple](https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc) | [Burn Your Bible](https://open.spotify.com/album/3GKwZOSfukp9D84KEdY38i) | 3:35 | 2023-08-04 |  |
 | [Cage Intimacy](https://open.spotify.com/track/36QLWRuc1cdQBQEC6hqiwn) | [Primitive Man](https://open.spotify.com/artist/3XmsLcTDR20TF8CGBThNEx) | [Cage Intimacy](https://open.spotify.com/album/1PhB912BQ5if1T7ynBeA7W) | 11:02 | 2022-04-15 | 2023-07-15 |
 | [Call for the Blood](https://open.spotify.com/track/1Rp24znByAhS8OFTsg698V) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Call for the Blood](https://open.spotify.com/album/2UrBt0wuAjZ0nf3jIwU1mN) | 3:14 | 2022-06-17 | 2023-07-15 |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 | 2022-01-21 | 2023-07-15 |
@@ -110,6 +111,7 @@
 | [Demons](https://open.spotify.com/track/3JixPLD5JPEMwuvXDBEopC) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Demons](https://open.spotify.com/album/2fhfxWeJs1pDssqnLvqc7U) | 2:47 | 2023-07-14 |  |
 | [Demure](https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Demure](https://open.spotify.com/album/7wuJv3LE3mXdMY0CxF29Mj) | 4:49 | 2023-02-17 |  |
 | [Desire](https://open.spotify.com/track/4j0dM9U56g1xSjUp82GKsz) | [Zola Jesus](https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P) | [Desire](https://open.spotify.com/album/0Rfg5ysqll9jPrb0JNROhj) | 5:01 | 2022-04-22 | 2023-07-15 |
+| [Desolation's Flower](https://open.spotify.com/track/7gX1NBorrOZqpLYBlRIW3F) | [Ragana](https://open.spotify.com/artist/3SwRHVTRoAEOkggZnCSFzt) | [Desolation's Flower](https://open.spotify.com/album/3AmTVBNLadBMNE4OlVro6S) | 8:29 | 2023-08-04 |  |
 | [Di\-sinTer](https://open.spotify.com/track/02eVF039fjBLltP8DnbdXj) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Di\-sinTer](https://open.spotify.com/album/5rF5JS8hHkG7yUzefIX8LW) | 3:25 | 2022-01-07 | 2023-07-15 |
 | [Diablito](https://open.spotify.com/track/7svucHt4ksp8mEojgXR6Vi) | [Will Haven](https://open.spotify.com/artist/6oHhpIAHJlyqi70DdfWeJX) | [Diablito](https://open.spotify.com/album/781QPxep3hunbFWM1pfR4e) | 3:29 | 2023-06-09 |  |
 | [Dimensional Bleed](https://open.spotify.com/track/5n53nDdWK0IYXmqfsSG8nS) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Dimensional Bleed](https://open.spotify.com/album/1x4xTsdwHVjMmUE5J9fipk) | 2:39 | 2022-07-15 | 2023-07-15 |
@@ -136,6 +138,7 @@
 | [Endless Torment](https://open.spotify.com/track/0Wx5aMbQMihpYBVbCk8lzd) | [Dead Heat](https://open.spotify.com/artist/19iuui5P7sEZs1T7IX5Uh8) | [Endless Torment](https://open.spotify.com/album/3pmANMJYRSIcUHREZvvdjT) | 4:06 | 2023-05-26 |  |
 | [Engulfed](https://open.spotify.com/track/5AYcMUNmO9sg3cyfuUvom6) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Engulfed](https://open.spotify.com/album/15Oca8lzlP9xX3Gv1JsNgk) | 2:41 | 2023-01-20 |  |
 | [Enter The Loop](https://open.spotify.com/track/5LkZ5ACw4BpDe9Ow93rpbW) | [Witch Ripper](https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI) | [Enter The Loop](https://open.spotify.com/album/6VGF6UMdEThtTOQA3kWtBq) | 7:54 | 2022-12-09 | 2023-07-15 |
+| [Entity And Form](https://open.spotify.com/track/1J9oZNqDkw1qTb5tfd3wCF) | [Worn](https://open.spotify.com/artist/7qeRubP1L77fa3cgspFV78) | [Entity And Form](https://open.spotify.com/album/1VaOivoPULe3f9DoHd70I8) | 2:15 | 2023-08-04 |  |
 | [Epidemic](https://open.spotify.com/track/1iHxborQnkkiCOxVbWUOvL) | [Inclination](https://open.spotify.com/artist/4b3YHpER4myVsne2QK3kXe) | [Epidemic](https://open.spotify.com/album/1iwlH5lP8dVVq8d9R1dvVg) | 3:15 | 2022-08-05 | 2023-07-15 |
 | [Eternal Spirits](https://open.spotify.com/track/3zVetDLyqgT4krYw2XwbAg) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Eternal Spirits](https://open.spotify.com/album/2CGi1wwbqcwqVdfBpD7rQb) | 3:35 | 2023-03-03 |  |
 | [Everything's Glitter](https://open.spotify.com/track/7s0kMwS5d9IFYBW1fFAaY2) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Everything's Glitter](https://open.spotify.com/album/7jfIaXbIaockYgpQKKubts) | 3:50 | 2023-07-21 |  |
@@ -221,6 +224,7 @@
 | [Instill](https://open.spotify.com/track/0oWzEdJetVyR796jo7lZfV) | [Humanity's Last Breath](https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E) | [Instill](https://open.spotify.com/album/0Vx91oAWH7FFlgtAPeBCNt) | 4:41 | 2023-06-09 |  |
 | [Intestinal Wrap](https://open.spotify.com/track/3qXfb5Wd4A6EqU7DgAtdXy) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u), [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [Intestinal Wrap](https://open.spotify.com/album/420l4HT9cFaWz2zv2ymvv8) | 3:24 | 2023-03-24 |  |
 | [Into the Earth](https://open.spotify.com/track/5XvkXB1vcquootiIcUOoTz) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Into the Earth](https://open.spotify.com/album/0PQMXfwJJUnLa3sPEDPbAL) | 5:12 | 2022-06-24 | 2023-07-15 |
+| [Invisible Hand](https://open.spotify.com/track/5BblwbftnIDV0Je620kSKs) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Invisible Hand](https://open.spotify.com/album/0tdKFj9MZ2g1oPb2VoEepz) | 3:54 | 2023-08-04 |  |
 | [It Never Began](https://open.spotify.com/track/7pLmXXwjM18XrFEmfIwXLZ) | [Torche](https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili) | [It Never Began](https://open.spotify.com/album/3CxeN9kycWWPzlsUAFFG9Z) | 3:25 | 2022-09-16 | 2023-07-15 |
 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-13 |  |
 | [Jesus is God](https://open.spotify.com/track/2CnfignhSXZI0gLCxASRlv) | [SCALP](https://open.spotify.com/artist/5CszF8X0mZXt8Tck93HJuv) | [Jesus is God](https://open.spotify.com/album/3oaYa6fAwAcCOKtk2f8Sj9) | 2:03 | 2022-12-16 | 2023-07-15 |
@@ -277,6 +281,7 @@
 | [No Escape From Now \(feat\. Tony Iommi\)](https://open.spotify.com/track/3EJAW7s7KWyiJvmKAtDTgA) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 6:46 | 2022-09-09 | 2023-07-15 |
 | [No Good At Goodbyes](https://open.spotify.com/track/6IeBSwVGgwJG0phWB0TfJM) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [No Good At Goodbyes](https://open.spotify.com/album/6iFrrrFNh7EfI7FyDmAxIk) | 2:14 | 2022-02-25 | 2023-07-15 |
 | [No Temple](https://open.spotify.com/track/0tvT2HYtCSmgrVhwEvUAIK) | [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk) | [No Temple](https://open.spotify.com/album/4QFjiT8ogt8dHH44ZWhk4e) | 4:38 | 2023-04-13 |  |
+| [Noah](https://open.spotify.com/track/7nNIk5X6AanHDEhYKekymO) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Noah](https://open.spotify.com/album/4PyTSqcMOE1DXi4pLu1T0F) | 3:36 | 2023-08-04 |  |
 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 | 2023-03-17 |  |
 | [Not Surprised](https://open.spotify.com/track/3JBlEGmxjEHuqzdEc6Htf8) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [Not Surprised](https://open.spotify.com/album/58hd4WgRE1LSPV0ELXHtc9) | 5:08 | 2023-05-26 |  |
 | [Not That Nice](https://open.spotify.com/track/3K7IGCTGYB7tsochPtXeQp) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Not That Nice](https://open.spotify.com/album/1S6kijytXIRsPpKbG7KBnP) | 2:41 | 2022-05-20 | 2023-07-15 |
@@ -365,6 +370,7 @@
 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2022-07-08 | 2023-07-15 |
 | [such.a.shame](https://open.spotify.com/track/04NGTMGRH8GmDMOvTuRZ6R) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [such.a.shame](https://open.spotify.com/album/7rfZBUbE3cfxXXPW9haLxw) | 3:18 | 2022-02-25 | 2023-07-15 |
 | [Sullenboy](https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Sullenboy](https://open.spotify.com/album/6bAhgr0TCyU7BqggO1a9L6) | 3:19 | 2023-06-09 |  |
+| [Summerslam](https://open.spotify.com/track/21ReFyyiE5xQbVX6CUgUha) | [Jobber](https://open.spotify.com/artist/6Qfu29KtPFPfCedfmgpTh9) | [Summerslam](https://open.spotify.com/album/1UKV7T6J2gqHgHNxmTrJiN) | 5:02 | 2023-08-04 |  |
 | [Sun//Eater](https://open.spotify.com/track/1QeQ1bq6jitMzdgNu8nK1L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Sun//Eater](https://open.spotify.com/album/2lJtDqPcOAXkNLgh18YTFB) | 6:10 | 2022-05-13 | 2023-07-15 |
 | [Sunset over the Empire](https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Sunset over the Empire](https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9) | 4:03 | 2022-05-20 | 2023-07-15 |
 | [Survival Is Vengeance](https://open.spotify.com/track/5p61JWK78nkyZO9JLUhhDf) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [Survival Is Vengeance](https://open.spotify.com/album/6N1U0MdbQfOx98lWV3Xjgh) | 1:45 | 2022-07-22 | 2023-07-15 |

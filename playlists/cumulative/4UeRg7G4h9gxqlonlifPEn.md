@@ -2,9 +2,9 @@
 
 ### [Turnt Mode](https://open.spotify.com/playlist/4UeRg7G4h9gxqlonlifPEn)
 
-> From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. \| HipHop Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame \| Cover: Travis Scott
+> From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. \| HipHop Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame \| Cover: Tyla Yaweh
 
-272 songs - 12 hr 49 min
+273 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Catch Me If You Can](https://open.spotify.com/track/3WY8hLynnpmXPzdwPl0zjH) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Catch Me If You Can](https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw) | 2:28 | 2022-06-03 | 2022-06-25 |
 | [Changed On Me \(feat\. Vory & Polo G\)](https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:01 | 2022-06-03 | 2023-03-04 |
 | [Chitty Bang](https://open.spotify.com/track/7eUarVRO7tNoJy6WZDhkoR) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Chitty Bang](https://open.spotify.com/album/1J0kyst5Prm6tm0WJ7XLgW) | 2:26 | 2022-06-03 | 2022-10-22 |
+| [City Of Dreams \(feat\. Chris Brown\)](https://open.spotify.com/track/2nLKcpdoIX6oFo5npWHVF4) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heart Full of Rage 2](https://open.spotify.com/album/1paIukF9TxaYwBpYbyFdOt) | 2:40 | 2023-08-04 |  |
 | [City of Gods](https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods](https://open.spotify.com/album/0Nzff60OICCUBrtr980elH) | 4:16 | 2022-06-03 | 2023-02-18 |
 | [CMFTZN](https://open.spotify.com/track/3LywxgRZlOOLF6mTAjSQyG) | [JUGGER](https://open.spotify.com/artist/1j3LdvJRNNsZCMcsBrC8mX) | [CMFTZN](https://open.spotify.com/album/0M7vliDuAoYz7yQkb0zIiE) | 2:42 | 2023-07-21 |  |
 | [Cold Gangsta](https://open.spotify.com/track/61cWj1PJlqhRBlVMj5mcdp) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [CM10: Free Game \(Side B\)](https://open.spotify.com/album/4x3Rld7KvaO5HH8dJN8eDU) | 3:31 | 2022-06-03 | 2023-02-18 |

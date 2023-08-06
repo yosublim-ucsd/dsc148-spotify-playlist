@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Fillas de Cassandra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,317 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,332 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [A Medio Camin0](https://open.spotify.com/track/7geeZVPJwsBsHQWlLXOxVJ) | [Lip](https://open.spotify.com/artist/07AGKapkwnn0EKb6jMFEvK) | [A Medio Camin0](https://open.spotify.com/album/0KKUAXIbbHiTpHwPakVAY3) | 2:13 |
 | 50 | [Mental Shit \- DJ Final Boss Remix](https://open.spotify.com/track/51lueOXpPb0iOfoGB1naUB) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln), [DJ Final Boss](https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR), [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [Mental Shit \(DJ Final Boss Remix\)](https://open.spotify.com/album/3HYJD7AzGMhE93E9WGBSQL) | 4:34 |
 
-Snapshot ID: `MCwyNzA3YzkzNDEzNGFhZmVkYzE3MmY1NDQ1ZjI5ZmE1MTAxMDMyODg0`
+Snapshot ID: `MCwzN2M4N2IxY2UwNmE5N2MwMmFiNWYwZjNiZDkyMzk3YmU2MjNmMTAz`

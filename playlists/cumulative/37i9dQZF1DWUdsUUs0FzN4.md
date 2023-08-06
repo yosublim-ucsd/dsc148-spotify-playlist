@@ -4,7 +4,7 @@
 
 > Con licuachela en mano y perreando hasta el piso\. El Bogueto en portada
 
-227 songs - 11 hr 19 min
+228 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [El Pesero](https://open.spotify.com/track/05KHhBPrEYhSVnmrWfFXVk) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [El Pesero](https://open.spotify.com/album/1hA3LlcZ0EvtHfLoruHI2z) | 3:28 | 2023-01-20 | 2023-02-18 |
 | [El Trenecito Chu\-Chu](https://open.spotify.com/track/7bqhmwvFwaa9KX4iigwlGv) | [Daario L' Ogrrro](https://open.spotify.com/artist/6cV15lcXzeT0qhFOW2DSj0), [Dj Chino Mx](https://open.spotify.com/artist/5cvqvsvGl566HYlfAhhRHL) | [El Trenecito Chu\-Chu](https://open.spotify.com/album/6kzfXY7y9qpyvbiBsqDXlP) | 2:36 | 2023-05-12 | 2023-05-20 |
 | [Ella Quiere Hmm..\. Haa..\. Hmm..\. \- Yayo Remix](https://open.spotify.com/track/0QN1rkBy3D6j9Yw3Czlcsc) | [Leka el Poeta](https://open.spotify.com/artist/4SdKFy0lyBsw0SHbNH9GXV), [Mishelle Master Boys](https://open.spotify.com/artist/7dOIGNkb49QRgG5VsjXebG), [DJ Yayo](https://open.spotify.com/artist/6sPVGPkxslll1c4pdHvxYh) | [Ella Quiere Hmm..\. Haa..\. Hmm...](https://open.spotify.com/album/0D6DGiSFytv1dzqjAvy05D) | 3:32 | 2022-01-04 |  |
-| [EN LA CHATA](https://open.spotify.com/track/0Fr0aj5srmaAtL3yVF9rgo) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [HAGAN CA$O](https://open.spotify.com/album/2R9C8SHa6Yo1vrM2jBDekd) | 2:18 | 2023-07-28 |  |
+| [EN LA CHATA](https://open.spotify.com/track/0Fr0aj5srmaAtL3yVF9rgo) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [HAGAN CA$O](https://open.spotify.com/album/2R9C8SHa6Yo1vrM2jBDekd) | 2:18 | 2023-07-28 | 2023-08-06 |
+| [EN LA CHATA](https://open.spotify.com/track/63xhzDBP3FO6azIjH7DOvD) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [HAGAN CA$0](https://open.spotify.com/album/3jOl0OoDF5DQiWDawReB0I) | 2:18 | 2023-07-28 |  |
 | [En Llamas](https://open.spotify.com/track/4C9lz7XcINbbknMDsc23LC) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [En Llamas](https://open.spotify.com/album/2jfQbOscs3B8J8OWuDuFts) | 3:41 | 2023-07-28 |  |
 | [EXPLICACIÓNES](https://open.spotify.com/track/3GRbyFnGT76VyYEPrpRp96) | [Chris Andrew](https://open.spotify.com/artist/7vnithGAUscrk9Imtyr6Sd), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3) | [OCHO](https://open.spotify.com/album/4xepSQ2OnZ016EBmHQg9W9) | 2:47 | 2023-06-09 |  |
 | [Extasis](https://open.spotify.com/track/5kaoftnTWgzCkKyMRDT8id) | [one c rodriguez](https://open.spotify.com/artist/4Kghk8HHdTjWafnRr32Mtl), [Juan Caly](https://open.spotify.com/artist/4SZsAATjInvAqWJ2aWm6l6), [LEANDRO](https://open.spotify.com/artist/6FPsFBCZslHc8RaaOf8HaS) | [Extasis](https://open.spotify.com/album/6UdgE5bqOizCSWj6k32UJX) | 3:17 | 2023-05-12 |  |

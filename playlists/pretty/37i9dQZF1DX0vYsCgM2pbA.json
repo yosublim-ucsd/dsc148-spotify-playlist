@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 123009,
+  "num_followers": 123064,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzJiOWQ3NTdiYzAwMjRlOGNhZTQwNWE0OWEyNTMwMTJmMDk5ZTQ1",
+  "snapshot_id": "MCxmOTUzYWRiYTk3NWQ1YzhiODk3YmQ1ZjFhOThjMWI0OTZiZTg4MzYw",
   "tracks": [
     {
       "added_at": "2023-07-30 15:31:39",
@@ -695,18 +695,30 @@
     {
       "added_at": "2023-07-30 15:31:39",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/2kZN7G2OX9dEeQUIrPFxO8"
+        "name": "Disappear (feat. Hayley Trinca) [ShockOne Remix]",
+        "url": "https://open.spotify.com/album/5fWBWimlRmaLgyQ20zlzH0"
       },
       "artists": [
         {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Pooks",
+          "url": "https://open.spotify.com/artist/4bK23BKvm2y1lYjenizdTN"
+        },
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        },
+        {
+          "name": "Hayley Trinca",
+          "url": "https://open.spotify.com/artist/5l3jgJIgcCwcD0eG6wm0QH"
         }
       ],
-      "duration_ms": 269360,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/5lDCOzLzBfCOj3y5w1NdOo"
+      "duration_ms": 183663,
+      "name": "Disappear (feat. Hayley Trinca) [ShockOne Remix]",
+      "url": "https://open.spotify.com/track/7JdHEhOa7CXs8oEBnMtnjh"
     },
     {
       "added_at": "2023-07-30 15:31:39",
@@ -743,30 +755,18 @@
     {
       "added_at": "2023-07-30 15:31:39",
       "album": {
-        "name": "Disappear (feat. Hayley Trinca) [ShockOne Remix]",
-        "url": "https://open.spotify.com/album/5fWBWimlRmaLgyQ20zlzH0"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/2kZN7G2OX9dEeQUIrPFxO8"
       },
       "artists": [
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "Pooks",
-          "url": "https://open.spotify.com/artist/4bK23BKvm2y1lYjenizdTN"
-        },
-        {
-          "name": "ShockOne",
-          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
-        },
-        {
-          "name": "Hayley Trinca",
-          "url": "https://open.spotify.com/artist/5l3jgJIgcCwcD0eG6wm0QH"
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
         }
       ],
-      "duration_ms": 183663,
-      "name": "Disappear (feat. Hayley Trinca) [ShockOne Remix]",
-      "url": "https://open.spotify.com/track/7JdHEhOa7CXs8oEBnMtnjh"
+      "duration_ms": 269360,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5lDCOzLzBfCOj3y5w1NdOo"
     },
     {
       "added_at": "2023-07-30 15:31:39",
@@ -847,6 +847,22 @@
       "duration_ms": 334754,
       "name": "Alive",
       "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
+    },
+    {
+      "added_at": "2023-07-30 15:31:39",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
     },
     {
       "added_at": "2023-07-30 15:31:39",
@@ -943,38 +959,6 @@
     {
       "added_at": "2023-07-30 15:31:39",
       "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
-    },
-    {
-      "added_at": "2023-07-30 15:31:39",
-      "album": {
-        "name": "Tomorrows",
-        "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
-      },
-      "artists": [
-        {
-          "name": "Crooked Colours",
-          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
-        }
-      ],
-      "duration_ms": 198961,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH"
-    },
-    {
-      "added_at": "2023-07-30 15:31:39",
-      "album": {
         "name": "Function",
         "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 197639,
       "name": "Function",
       "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
+    },
+    {
+      "added_at": "2023-07-30 15:31:39",
+      "album": {
+        "name": "Tomorrows",
+        "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
+      },
+      "artists": [
+        {
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+        }
+      ],
+      "duration_ms": 198961,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH"
     },
     {
       "added_at": "2023-07-30 15:31:39",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-07-30 15:31:39",
       "album": {
-        "name": "Brain Freeze",
-        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
-      },
-      "artists": [
-        {
-          "name": "Northeast Party House",
-          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
-        }
-      ],
-      "duration_ms": 122094,
-      "name": "Brain Freeze",
-      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
-    },
-    {
-      "added_at": "2023-07-30 15:31:39",
-      "album": {
         "name": "Smile (feat. JAM)",
         "url": "https://open.spotify.com/album/1XlQFYxrdAE1cn43I3COL1"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 204723,
       "name": "Smile (feat. JAM)",
       "url": "https://open.spotify.com/track/6H5ncROMSCcKGz6W5HsrS8"
+    },
+    {
+      "added_at": "2023-07-30 15:31:39",
+      "album": {
+        "name": "Brain Freeze",
+        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
+      },
+      "artists": [
+        {
+          "name": "Northeast Party House",
+          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
+        }
+      ],
+      "duration_ms": 122094,
+      "name": "Brain Freeze",
+      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
     },
     {
       "added_at": "2023-07-30 15:31:39",

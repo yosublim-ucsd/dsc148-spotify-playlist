@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Johnny Ventura",
-  "num_followers": 169054,
+  "num_followers": 169164,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDE4ZTliY2U5NWM1NjY2M2QwODY1YTM1NWE2Zjg2MzU0NWRkNzRj",
+  "snapshot_id": "MCxlYjQzZGNjMTAwZjFkYTc0OWI2NWFkNzNmMjc2M2Y0N2U0ODYzNmI4",
   "tracks": [
     {
       "added_at": "2021-02-02 01:24:47",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
+        "name": "Mis Exitos Vol.1",
+        "url": "https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x"
+      },
+      "artists": [
+        {
+          "name": "Richie Cepeda",
+          "url": "https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "La Fotografia",
+      "url": "https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
         "name": "En Accion!",
         "url": "https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb"
       },
@@ -239,18 +255,18 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Mis Exitos Vol.1",
-        "url": "https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x"
+        "name": "Historia de \u00c9xitos, Vol. 1",
+        "url": "https://open.spotify.com/album/0hV81HgF4pm6dcN22gLiHQ"
       },
       "artists": [
         {
-          "name": "Richie Cepeda",
-          "url": "https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ"
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 246600,
-      "name": "La Fotografia",
-      "url": "https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO"
+      "duration_ms": 393012,
+      "name": "La Quiero a Morir / Si Alg\u00fan D\u00eda la Vez",
+      "url": "https://open.spotify.com/track/3VGAirMC7nJnhReTDiDv8d"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -267,22 +283,6 @@
       "duration_ms": 295000,
       "name": "El Venao",
       "url": "https://open.spotify.com/track/17p0oO1Rn7r6s7lrX6bE4y"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
-        "name": "Historia de \u00c9xitos, Vol. 1",
-        "url": "https://open.spotify.com/album/0hV81HgF4pm6dcN22gLiHQ"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 393012,
-      "name": "La Quiero a Morir / Si Alg\u00fan D\u00eda la Vez",
-      "url": "https://open.spotify.com/track/3VGAirMC7nJnhReTDiDv8d"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -383,6 +383,22 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
+        "name": "Los A\u00f1os Dorados de Sergio Vargas",
+        "url": "https://open.spotify.com/album/3B3k2YlC02MqT2t8mkOMQf"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 284866,
+      "name": "Si Alg\u00fan D\u00eda la Ves",
+      "url": "https://open.spotify.com/track/28rvnECjh1GrqsHKwkDRVi"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
         "name": "Chic\u00e1n",
         "url": "https://open.spotify.com/album/35kfZN5cf4jvbTC7ZqauN4"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 307640,
       "name": "Cama Y Mesa",
       "url": "https://open.spotify.com/track/2Iq4mrFafAL99VjAnytVR0"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
-        "name": "Los A\u00f1os Dorados de Sergio Vargas",
-        "url": "https://open.spotify.com/album/3B3k2YlC02MqT2t8mkOMQf"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 284866,
-      "name": "Si Alg\u00fan D\u00eda la Ves",
-      "url": "https://open.spotify.com/track/28rvnECjh1GrqsHKwkDRVi"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -755,26 +755,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Alex & Orquesta Liberaci\u00f3n",
-        "url": "https://open.spotify.com/album/0SMJS2P1TWZ4thyVxFfcrk"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        },
-        {
-          "name": "Orquesta Liberacion",
-          "url": "https://open.spotify.com/artist/6AiIFo4TiG53Z1Tt3WMrJz"
-        }
-      ],
-      "duration_ms": 302226,
-      "name": "Qu\u00e9 Cara M\u00e1s Bonita",
-      "url": "https://open.spotify.com/track/2rHlBIvlUPHC1L8mK7FUfZ"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Sergio Vargas y Los Hijos del Rey",
         "url": "https://open.spotify.com/album/6lHfWJOhMIa8SBUqnNLgsv"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 282697,
       "name": "Si Alg\u00fan D\u00eda la Ves",
       "url": "https://open.spotify.com/track/7Er4UIZLdbJNX6hUP7dLFl"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "Alex & Orquesta Liberaci\u00f3n",
+        "url": "https://open.spotify.com/album/0SMJS2P1TWZ4thyVxFfcrk"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        },
+        {
+          "name": "Orquesta Liberacion",
+          "url": "https://open.spotify.com/artist/6AiIFo4TiG53Z1Tt3WMrJz"
+        }
+      ],
+      "duration_ms": 302226,
+      "name": "Qu\u00e9 Cara M\u00e1s Bonita",
+      "url": "https://open.spotify.com/track/2rHlBIvlUPHC1L8mK7FUfZ"
     },
     {
       "added_at": "2021-02-02 01:24:47",

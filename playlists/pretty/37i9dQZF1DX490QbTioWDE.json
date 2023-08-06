@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: ",
-  "num_followers": 615978,
+  "num_followers": 616456,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGI1MTI5MzRlZDA0MjBkZmRhMGVlNGIyY2UxOWZhZTkwZGU3OTRh",
+  "snapshot_id": "MCw0NmJhNzllOGY1NjM1ZmUzMDI5NzhkOWJjMjViNmI4NmM1YjQzYjVi",
   "tracks": [
     {
       "added_at": "2023-08-04 03:00:00",
@@ -635,18 +635,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Me Levant\u00e9",
-        "url": "https://open.spotify.com/album/2mHs7EdBXg7dMkFvDMZC9d"
+        "name": "Que Agon\u00eda / Carne y Hueso",
+        "url": "https://open.spotify.com/album/0238rKvgAcoYEs9ATsjn9O"
       },
       "artists": [
         {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
         }
       ],
-      "duration_ms": 208709,
-      "name": "Me Levant\u00e9",
-      "url": "https://open.spotify.com/track/0VyS8re7IhTDbpZmKrKfv2"
+      "duration_ms": 291313,
+      "name": "Que Agonia - Carne y Hueso",
+      "url": "https://open.spotify.com/track/58gpjoW1gjN1TzvWRU58Sm"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -667,22 +671,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Que Agon\u00eda / Carne y Hueso",
-        "url": "https://open.spotify.com/album/0238rKvgAcoYEs9ATsjn9O"
+        "name": "Me Levant\u00e9",
+        "url": "https://open.spotify.com/album/2mHs7EdBXg7dMkFvDMZC9d"
       },
       "artists": [
         {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
         }
       ],
-      "duration_ms": 291313,
-      "name": "Que Agonia - Carne y Hueso",
-      "url": "https://open.spotify.com/track/58gpjoW1gjN1TzvWRU58Sm"
+      "duration_ms": 208709,
+      "name": "Me Levant\u00e9",
+      "url": "https://open.spotify.com/track/0VyS8re7IhTDbpZmKrKfv2"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "25 - Veinticinco",
-        "url": "https://open.spotify.com/album/4fla3Qcwml4OLG6hOtkUG2"
+        "name": "Despechada (Cover) [En Vivo]",
+        "url": "https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl"
       },
       "artists": [
         {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
         }
       ],
-      "duration_ms": 217428,
-      "name": "Te Mentir\u00eda",
-      "url": "https://open.spotify.com/track/0URzkqWsT0YCaV4Nskgwl7"
+      "duration_ms": 172585,
+      "name": "Despechada (Cover) - En Vivo",
+      "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Despechada (Cover) [En Vivo]",
-        "url": "https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl"
+        "name": "25 - Veinticinco",
+        "url": "https://open.spotify.com/album/4fla3Qcwml4OLG6hOtkUG2"
       },
       "artists": [
         {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
         }
       ],
-      "duration_ms": 172585,
-      "name": "Despechada (Cover) - En Vivo",
-      "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
+      "duration_ms": 217428,
+      "name": "Te Mentir\u00eda",
+      "url": "https://open.spotify.com/track/0URzkqWsT0YCaV4Nskgwl7"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -859,22 +859,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "B\u00e9same Bonito (Cover) [En Vivo]",
-        "url": "https://open.spotify.com/album/3pjmbJtNGm5Hkk1nvkhQZd"
+        "name": "Inigualable",
+        "url": "https://open.spotify.com/album/68PKvkcvRVELb5ZC9P7pi2"
       },
       "artists": [
         {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
         }
       ],
-      "duration_ms": 232032,
-      "name": "B\u00e9same Bonito (Cover) - En Vivo",
-      "url": "https://open.spotify.com/track/59Pu5MCWIYRfF2LSHmtOAc"
+      "duration_ms": 283933,
+      "name": "Te Pido Que La Dejes",
+      "url": "https://open.spotify.com/track/1UulnHKEaoxBGu6v3j6LVN"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -895,18 +891,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Inigualable",
-        "url": "https://open.spotify.com/album/68PKvkcvRVELb5ZC9P7pi2"
+        "name": "B\u00e9same Bonito (Cover) [En Vivo]",
+        "url": "https://open.spotify.com/album/3pjmbJtNGm5Hkk1nvkhQZd"
       },
       "artists": [
         {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
         }
       ],
-      "duration_ms": 283933,
-      "name": "Te Pido Que La Dejes",
-      "url": "https://open.spotify.com/track/1UulnHKEaoxBGu6v3j6LVN"
+      "duration_ms": 232032,
+      "name": "B\u00e9same Bonito (Cover) - En Vivo",
+      "url": "https://open.spotify.com/track/59Pu5MCWIYRfF2LSHmtOAc"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Ferxxo 100",
-        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 169589,
-      "name": "Ferxxo 100",
-      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Voy A Olvidarme De Mi",
         "url": "https://open.spotify.com/album/4FEH9l7ARowZhR1kL9X4WF"
       },
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "Esta de Moda",
+        "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
+      },
+      "artists": [
+        {
+          "name": "Pitty Murua",
+          "url": "https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9"
+        }
+      ],
+      "duration_ms": 204382,
+      "name": "Lo Aprend\u00ed de Ti",
+      "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Sigan Bailando",
         "url": "https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe"
       },
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Esta de Moda",
-        "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
+        "name": "Ferxxo 100",
+        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
       },
       "artists": [
         {
-          "name": "Pitty Murua",
-          "url": "https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9"
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
         }
       ],
-      "duration_ms": 204382,
-      "name": "Lo Aprend\u00ed de Ti",
-      "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
+      "duration_ms": 169589,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1431,22 +1431,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "La Bella y la Bestia",
-        "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
+        "name": "Espectacular Monada",
+        "url": "https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo"
       },
       "artists": [
         {
-          "name": "La Fiesta",
-          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
         }
       ],
-      "duration_ms": 200362,
-      "name": "La Bella y la Bestia",
-      "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
+      "duration_ms": 227866,
+      "name": "Dame un Poco Mas",
+      "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1471,34 +1467,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Espectacular Monada",
-        "url": "https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo"
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
       },
       "artists": [
         {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Dame un Poco Mas",
-      "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "No_se_ve.mp3",
-        "url": "https://open.spotify.com/album/6i4DjgJTPYPDRPzuirxQPV"
-      },
-      "artists": [
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        },
         {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 135902,
-      "name": "No_se_ve.mp3",
-      "url": "https://open.spotify.com/track/6MZF2xNdjG24IXAVxFJNg9"
+      "duration_ms": 200362,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "No_se_ve.mp3",
+        "url": "https://open.spotify.com/album/6i4DjgJTPYPDRPzuirxQPV"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "duration_ms": 135902,
+      "name": "No_se_ve.mp3",
+      "url": "https://open.spotify.com/track/6MZF2xNdjG24IXAVxFJNg9"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Tu Peor Enemigo",
         "url": "https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl"
       },
@@ -1603,6 +1603,22 @@
       "duration_ms": 201109,
       "name": "Tu Peor Enemigo",
       "url": "https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Con Toda la Fuerza",
+        "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "duration_ms": 187220,
+      "name": "Ma\u00f1ana sin vos",
+      "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1639,22 +1655,6 @@
       "duration_ms": 169496,
       "name": "Eran dos locos de amor",
       "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Con Toda la Fuerza",
-        "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 187220,
-      "name": "Ma\u00f1ana sin vos",
-      "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "Si Pudiera Tenerte - Camina y Ven",
+        "url": "https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        }
+      ],
+      "duration_ms": 348876,
+      "name": "Si Pudiera Tenerte - Camina y Ven",
+      "url": "https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Con Piel de Cuarteto",
         "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 192483,
       "name": "Me Duele Tu Nombre (En Vivo)",
       "url": "https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Si Pudiera Tenerte - Camina y Ven",
-        "url": "https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9"
-      },
-      "artists": [
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
-        }
-      ],
-      "duration_ms": 348876,
-      "name": "Si Pudiera Tenerte - Camina y Ven",
-      "url": "https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y"
     },
     {
       "added_at": "2023-08-04 03:00:00",

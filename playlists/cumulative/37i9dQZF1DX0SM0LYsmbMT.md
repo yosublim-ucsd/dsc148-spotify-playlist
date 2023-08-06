@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,600 songs - 5 day 18 hr 3 min
+3,601 songs - 5 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1733,6 +1733,7 @@
 | [Like You](https://open.spotify.com/track/0wycCZ0b3g2NoqZV9OtCaM) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Like You / Meant To Be](https://open.spotify.com/album/6itlc8l0JwpO0z4wvShTTt) | 3:00 | 2021-05-21 | 2021-07-30 |
 | [Lil' Trumpet Thingy](https://open.spotify.com/track/0V0DUGOVmvXnLScy3efvtT) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Lil' Trumpet Thingy](https://open.spotify.com/album/7oTa6rECDXk5NcHf79aJzp) | 1:31 | 2021-03-19 | 2021-10-01 |
 | [Lilac](https://open.spotify.com/track/6hRHaEUjl2cHW2P60wPywi) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Lilac](https://open.spotify.com/album/307gPdPkvlkjMIbgoyjwL1) | 2:09 | 2022-11-24 | 2022-12-02 |
+| [Lilac](https://open.spotify.com/track/7LaS9QWfFdYjdOQ7tlZPR8) | [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym), [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Lilac](https://open.spotify.com/album/0PMzylqRDMWeRmlw4mTfmc) | 2:11 | 2023-08-03 |  |
 | [Lilac Phase, Part One](https://open.spotify.com/track/6LeDfWjFrCciPAEogSzQFF) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [The Crucible](https://open.spotify.com/album/7CqhUdzJZzxFwvaogHVdv2) | 4:27 | 2022-01-21 | 2022-02-18 |
 | [Lilium](https://open.spotify.com/track/3IuZJRYuoDXkIvTcQctoxP) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Lilium](https://open.spotify.com/album/0qD1oFp5qSffg4jOpg9Ldw) | 1:56 | 2020-09-11 | 2021-05-07 |
 | [Lilly](https://open.spotify.com/track/35GbXtA6KnylGNqMMKVzLW) | [S U G R.](https://open.spotify.com/artist/6CxbId1x5hr5m0noI1A4cF) | [Lilly](https://open.spotify.com/album/0YIHbWc2YytkvmFqTfwXQ7) | 2:12 | 2021-03-30 | 2021-04-16 |
@@ -2347,7 +2348,7 @@
 | [Patio](https://open.spotify.com/track/1Q74IYVE67sUKktSFIm9Yr) | [laqueus](https://open.spotify.com/artist/4tKF6F3hmXHojcc86TrL1R) | [Patio](https://open.spotify.com/album/4T296dRJgOYpUz77qLU2rv) | 2:28 | 2019-05-26\* | 2019-08-13 |
 | [Patterns](https://open.spotify.com/track/46Z9JkjWVleIBxKwpZkolI) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Patterns](https://open.spotify.com/album/33b3b13HdTXixWkM7EIlvh) | 2:25 | 2022-05-12 | 2022-09-23 |
 | [Peaceful](https://open.spotify.com/track/6cyXBiOJJSeISdDEt7ed8u) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Peaceful](https://open.spotify.com/album/0Om56MbO4a1uT9qlLmnKT5) | 2:39 | 2021-03-14 | 2021-07-23 |
-| [Pearl](https://open.spotify.com/track/6eL9kDAfdx6s9oa16tXwz3) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Pearl](https://open.spotify.com/album/4p7yuxdOFhq7bw6LyOUkJw) | 2:06 | 2023-08-03 |  |
+| [Pearl](https://open.spotify.com/track/6eL9kDAfdx6s9oa16tXwz3) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Pearl](https://open.spotify.com/album/4p7yuxdOFhq7bw6LyOUkJw) | 2:06 | 2023-08-03 | 2023-08-06 |
 | [Pearls](https://open.spotify.com/track/78y2dHxu1868sAxwFopLk1) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Pearls](https://open.spotify.com/album/5zjyS3tLCXGPrgGJcHufzB) | 2:01 | 2020-09-04 | 2021-04-30 |
 | [Pebble Beach](https://open.spotify.com/track/5GtP1SxELD0Qw6v1DIUF94) | [imagiro](https://open.spotify.com/artist/2O8Fgh14LT9QBGfFM5q5Rb) | [Pebble Beach](https://open.spotify.com/album/6bEYW7GmSX2RsPvvyC2HOo) | 2:08 | 2020-03-13 | 2020-05-25 |
 | [Pelekas](https://open.spotify.com/track/1GS4cVWVcE2mYUfT807H74) | [Portaledge](https://open.spotify.com/artist/703AVVIX6VeNMQbXJu4UVh) | [Pelekas](https://open.spotify.com/album/1h71qhhO9fZcfza8Fmu4MX) | 2:01 | 2020-11-07 | 2021-02-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits here
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,991 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,590 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 |
 | 50 | [Amawele](https://open.spotify.com/track/42YUj2H76BHFdd12929FFy) | [Iinkonjane ZooFaku](https://open.spotify.com/artist/6mJs6zU0YTinRWLUudNX3r) | [Amawele](https://open.spotify.com/album/1DnszhDj3QNpqWdXgudyjp) | 4:21 |
 
-Snapshot ID: `MCw2OTZkZmUxNjliNWMwNjBlMWFmMzYzMjlkMWRjMTNjOGU4Njg1ZWFh`
+Snapshot ID: `MCw0YmMzNzg4NjA5NTIwOGYyNDM4ZWViMDBhMThlZWQ4ZDgyYjI0Zjg3`

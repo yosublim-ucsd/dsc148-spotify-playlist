@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: D.O.D
 
-707 songs - 1 day 13 hr 43 min
+708 songs - 1 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [How Will I Know](https://open.spotify.com/track/0xzzNrsJ19SahiP90IQGCY) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Stimulate](https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e) | 3:49 | 2023-06-24 | 2023-08-04 |
 | [How Will I Know](https://open.spotify.com/track/5lTOYADoL5tJq6SZcqXRnw) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [How Will I Know](https://open.spotify.com/album/74Nkxj48PhowNWMxoIz9SH) | 3:49 | 2022-07-28 | 2023-06-06 |
 | [How You Samba](https://open.spotify.com/track/5OsYviJJXb8g8uM1K7JiPm) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/6qm3xWNQ0APs9N1KmXAD9B) | 2:31 | 2023-05-12 |  |
+| [How You Samba \- Blasterjaxx Remix](https://open.spotify.com/track/6BBujUQt2CTVisUDshK3m0) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba \(Blasterjaxx Remix\)](https://open.spotify.com/album/1GVgaShRkhpPeXmD8ASUXN) | 2:39 | 2023-08-04 |  |
 | [Human Touch](https://open.spotify.com/track/4IOK3PjSHrQm6dgYZdHZkE) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Human Touch](https://open.spotify.com/album/2SY4apBowOVRSG3WtrALWm) | 2:25 | 2022-06-09 | 2023-03-31 |
 | [Hungry \(For Love\)](https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Hungry \(For Love\)](https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA) | 2:09 | 2022-10-13 | 2023-02-10 |
 | [I Don't Wanna Fall In Love](https://open.spotify.com/track/4t41cScvJdlJPtdBJFiaSn) | [Riggi & Piros](https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH), [Madds](https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [I Don't Wanna Fall In Love](https://open.spotify.com/album/2vtW0ZPLAs5DeWZ3tjHJpY) | 2:20 | 2022-06-09 | 2022-07-22 |

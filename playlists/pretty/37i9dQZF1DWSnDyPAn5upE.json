@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 41963,
+  "num_followers": 42032,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDU2ZjNjYjk1OTZhN2MyYWYwY2RjMTZlMDExOGNkYmFjODY4Y2U0",
+  "snapshot_id": "MCwxZGUyZjJkMjE0OTVmMDI5MWNkMjdkNjczYzA0NzdiODBkZGQ4Yjk4",
   "tracks": [
     {
       "added_at": "2023-08-04 12:54:21",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
+        "name": "Under the Lilac Sky",
+        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "My People Have Deep Roots",
+      "url": "https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
         "name": "See-Through",
         "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 173798,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
-        "name": "Under the Lilac Sky",
-        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "My People Have Deep Roots",
-      "url": "https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
-        "name": "Untethering",
-        "url": "https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw"
-      },
-      "artists": [
-        {
-          "name": "Sea Oleena",
-          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
-        }
-      ],
-      "duration_ms": 418349,
-      "name": "Untethering",
-      "url": "https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
         "name": "Leave No Path Untaken",
         "url": "https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 160800,
       "name": "I Lost You When the Rain Sang a Song - Original Mix",
       "url": "https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
+        "name": "Untethering",
+        "url": "https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw"
+      },
+      "artists": [
+        {
+          "name": "Sea Oleena",
+          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
+        }
+      ],
+      "duration_ms": 418349,
+      "name": "Untethering",
+      "url": "https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
-        "name": "Eyeline",
-        "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
-      },
-      "artists": [
-        {
-          "name": "LEYA",
-          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 104544,
-      "name": "DOG",
-      "url": "https://open.spotify.com/track/1WEjS8vV0UpijxqkFU2Wi4"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
         "name": "Time Is Local",
         "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 96450,
       "name": "Clotho",
       "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
+        "name": "Eyeline",
+        "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
+      },
+      "artists": [
+        {
+          "name": "LEYA",
+          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 104544,
+      "name": "DOG",
+      "url": "https://open.spotify.com/track/1WEjS8vV0UpijxqkFU2Wi4"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
+        "name": "Shifting Winds",
+        "url": "https://open.spotify.com/album/3kKwnGfZfZivj3lu60VgH3"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Shifting Winds",
+      "url": "https://open.spotify.com/track/3lNLrhN4VhMYCvUQcNioaV"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
         "name": "Pray for Us",
         "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 292605,
       "name": "Pray for Us",
       "url": "https://open.spotify.com/track/5wlPhifST280Kk6g8uw2vo"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
-        "name": "Shifting Winds",
-        "url": "https://open.spotify.com/album/3kKwnGfZfZivj3lu60VgH3"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Shifting Winds",
-      "url": "https://open.spotify.com/track/3lNLrhN4VhMYCvUQcNioaV"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
-        "name": "Waving",
-        "url": "https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK"
-      },
-      "artists": [
-        {
-          "name": "Nebno",
-          "url": "https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf"
-        }
-      ],
-      "duration_ms": 245636,
-      "name": "Waving",
-      "url": "https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
         "name": "plastichoir",
         "url": "https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 190860,
       "name": "melting cups",
       "url": "https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
+        "name": "Waving",
+        "url": "https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK"
+      },
+      "artists": [
+        {
+          "name": "Nebno",
+          "url": "https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf"
+        }
+      ],
+      "duration_ms": 245636,
+      "name": "Waving",
+      "url": "https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
+        "name": "Guiding Light",
+        "url": "https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE"
+      },
+      "artists": [
+        {
+          "name": "Alicia Enstrom",
+          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
+        },
+        {
+          "name": "Chris Lippincott",
+          "url": "https://open.spotify.com/artist/3r5vtXmOYoBH3cpMng374W"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
         "name": "Dawn of Awakening",
         "url": "https://open.spotify.com/album/4EM1YplDPkkZRnaeGT3zSd"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 444000,
       "name": "Bright Girl",
       "url": "https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
-        "name": "Guiding Light",
-        "url": "https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE"
-      },
-      "artists": [
-        {
-          "name": "Alicia Enstrom",
-          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
-        },
-        {
-          "name": "Chris Lippincott",
-          "url": "https://open.spotify.com/artist/3r5vtXmOYoBH3cpMng374W"
-        }
-      ],
-      "duration_ms": 194706,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
-        "name": "The Distance Between Heart And Mouth",
-        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
-      },
-      "artists": [
-        {
-          "name": "Elaine Howley",
-          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
-        }
-      ],
-      "duration_ms": 295623,
-      "name": "Silent Talk",
-      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
         "name": "Languoria",
         "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 256682,
       "name": "Morning Room I",
       "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
+        "name": "The Distance Between Heart And Mouth",
+        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
+      },
+      "artists": [
+        {
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+        }
+      ],
+      "duration_ms": 295623,
+      "name": "Silent Talk",
+      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
-        "name": "Grass Grow",
-        "url": "https://open.spotify.com/album/7GGr2hRdoaTawzAJz32Qtl"
-      },
-      "artists": [
-        {
-          "name": "Dolphin Midwives",
-          "url": "https://open.spotify.com/artist/3r9yVqXDgGJnnCy3FHvE1P"
-        }
-      ],
-      "duration_ms": 269252,
-      "name": "Grass Grow",
-      "url": "https://open.spotify.com/track/4yohulilOac5oAymyVOvaa"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
         "name": "Rare Backwards",
         "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 219196,
       "name": "18:00",
       "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
+        "name": "Grass Grow",
+        "url": "https://open.spotify.com/album/7GGr2hRdoaTawzAJz32Qtl"
+      },
+      "artists": [
+        {
+          "name": "Dolphin Midwives",
+          "url": "https://open.spotify.com/artist/3r9yVqXDgGJnnCy3FHvE1P"
+        }
+      ],
+      "duration_ms": 269252,
+      "name": "Grass Grow",
+      "url": "https://open.spotify.com/track/4yohulilOac5oAymyVOvaa"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
-        "name": "Respite",
-        "url": "https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI"
-      },
-      "artists": [
-        {
-          "name": "Anita Tatlow",
-          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
-        },
-        {
-          "name": "Be Still the Earth",
-          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
-        }
-      ],
-      "duration_ms": 227631,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
         "name": "Celeste",
         "url": "https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY"
       },
@@ -1651,6 +1631,26 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
+        "name": "Respite",
+        "url": "https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI"
+      },
+      "artists": [
+        {
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+        },
+        {
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
+        }
+      ],
+      "duration_ms": 227631,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
         "name": "Lumino Pleco",
         "url": "https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta"
       },
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
-        "name": "Cr\u00e9puscule I & II",
-        "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
-      },
-      "artists": [
-        {
-          "name": "Tujiko Noriko",
-          "url": "https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Cosmic Ray",
-      "url": "https://open.spotify.com/track/7u8SH2nPDCa3AMyofsYTQj"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
         "name": "Kasper Bj\u00f8rke Quartet: Abiogenesis",
         "url": "https://open.spotify.com/album/3QcNobksry2yytTgmxFq36"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 744162,
       "name": "Abiogenesis",
       "url": "https://open.spotify.com/track/24tiKS70CpATr6tJLk0c9Q"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
+        "name": "Cr\u00e9puscule I & II",
+        "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
+      },
+      "artists": [
+        {
+          "name": "Tujiko Noriko",
+          "url": "https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Cosmic Ray",
+      "url": "https://open.spotify.com/track/7u8SH2nPDCa3AMyofsYTQj"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -1763,26 +1763,6 @@
       "duration_ms": 212444,
       "name": "Immersed in Black Water - Linn Elisabet You Will Version",
       "url": "https://open.spotify.com/track/1hrKwQY6BRkpfSnFmUUmUX"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
-        "name": "Languoria",
-        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 295789,
-      "name": "The Journey",
-      "url": "https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -1839,6 +1819,26 @@
       "duration_ms": 314036,
       "name": "L\u00e4mp\u00f6",
       "url": "https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
+        "name": "Languoria",
+        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 295789,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg"
     }
   ],
   "unique_name": "ethereal voices",

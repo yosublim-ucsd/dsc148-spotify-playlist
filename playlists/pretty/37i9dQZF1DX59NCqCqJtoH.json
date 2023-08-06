@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1147092,
+  "num_followers": 1147189,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzQxMjY5ZmJmMDljNzJkNjAyNjEzMzM0MTZiZmQxNDc3OTEwNGM5",
+  "snapshot_id": "MCw2ZTdhNjE3NjAwZmRiNzE0NjYyYTg0ZWEzNTQwY2MwM2QxODc3OTE1",
   "tracks": [
     {
       "added_at": "2023-07-21 19:35:12",
@@ -421,6 +421,22 @@
       "url": "https://open.spotify.com/track/7JPmhsHbjaDGmTCKBZxVVU"
     },
     {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Trauma",
+        "url": "https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Say Goodbye",
@@ -443,22 +459,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 160506,
-      "name": "minor",
-      "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "crush (demos)",
         "url": "https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP"
       },
@@ -471,6 +471,22 @@
       "duration_ms": 91206,
       "name": "what does he have that i don't?",
       "url": "https://open.spotify.com/track/15MDjoryOggmkMTdh13IGx"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 160506,
+      "name": "minor",
+      "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -575,22 +591,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Cotton Candy",
-        "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 93871,
-      "name": "Cotton Candy",
-      "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "goodnight moon (demos)",
         "url": "https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN"
       },
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "London Is Lonely",
-        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
+        "name": "Cotton Candy",
+        "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
         }
       ],
-      "duration_ms": 234760,
-      "name": "London Is Lonely",
-      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
+      "duration_ms": 93871,
+      "name": "Cotton Candy",
+      "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -635,6 +635,22 @@
       "duration_ms": 120961,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "London Is Lonely",
+        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "London Is Lonely",
+      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
     },
     {
       "added_at": "2023-07-21 19:35:12",
@@ -827,22 +843,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "i'd rather be alone",
-        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
-      },
-      "artists": [
-        {
-          "name": "boodahki",
-          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
-        }
-      ],
-      "duration_ms": 142940,
-      "name": "i'd rather be alone",
-      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Sick of Losing Soulmates",
         "url": "https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 267377,
       "name": "Sick of Losing Soulmates",
       "url": "https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "i'd rather be alone",
+        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
+      },
+      "artists": [
+        {
+          "name": "boodahki",
+          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
+        }
+      ],
+      "duration_ms": 142940,
+      "name": "i'd rather be alone",
+      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -959,26 +975,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Tell Me About You (feat. Mishaal)",
-        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Tell Me About You (feat. Mishaal)",
-      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "I even told my mom about u",
         "url": "https://open.spotify.com/album/7keewWiui2hsR0iOXOQaQQ"
       },
@@ -1007,6 +1003,26 @@
       "duration_ms": 120032,
       "name": "I even told my mom about u",
       "url": "https://open.spotify.com/track/6Uxex5NWDRtA8hQKDpRn8H"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Tell Me About You (feat. Mishaal)",
+        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Tell Me About You (feat. Mishaal)",
+      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1091,6 +1107,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Things I Wanted To Tell You",
+        "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Feel Again (Feat. Au/Ra)",
+      "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "You Tear Me Apart",
         "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
       },
@@ -1119,26 +1155,6 @@
       "duration_ms": 184242,
       "name": "Don't Leave, Don't Go",
       "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Things I Wanted To Tell You",
-        "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "Feel Again (Feat. Au/Ra)",
-      "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "infinity",
-        "url": "https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW"
-      },
-      "artists": [
-        {
-          "name": "asumuh",
-          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
-        }
-      ],
-      "duration_ms": 174198,
-      "name": "infinity",
-      "url": "https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Rage",
         "url": "https://open.spotify.com/album/4FPSps9RCv6uftt1JuqpCN"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 161201,
       "name": "Rage",
       "url": "https://open.spotify.com/track/1tOpOwS4F854SWZmhhy3XU"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "infinity",
+        "url": "https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW"
+      },
+      "artists": [
+        {
+          "name": "asumuh",
+          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
+        }
+      ],
+      "duration_ms": 174198,
+      "name": "infinity",
+      "url": "https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1455,6 +1471,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "freckles,",
+        "url": "https://open.spotify.com/album/5TKz75cyEBwz3CDaBbqwlJ"
+      },
+      "artists": [
+        {
+          "name": "normal the kid",
+          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
+        }
+      ],
+      "duration_ms": 230615,
+      "name": "freckles,",
+      "url": "https://open.spotify.com/track/0uroC8QaqmOF1qRrJvMFM6"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Dark Corners and Alchemy",
         "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
@@ -1495,22 +1527,6 @@
       "duration_ms": 110163,
       "name": "Meant to Be",
       "url": "https://open.spotify.com/track/40YMzcyGkpqFiSUNktyHCP"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "freckles,",
-        "url": "https://open.spotify.com/album/5TKz75cyEBwz3CDaBbqwlJ"
-      },
-      "artists": [
-        {
-          "name": "normal the kid",
-          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
-        }
-      ],
-      "duration_ms": 230615,
-      "name": "freckles,",
-      "url": "https://open.spotify.com/track/0uroC8QaqmOF1qRrJvMFM6"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1575,6 +1591,22 @@
       "duration_ms": 187546,
       "name": "Wavvy",
       "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/21RRWWtERAfAwBFv9rzktq"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 200727,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/0RxJW4CqKIM1v0DN3z32zG"
     },
     {
       "added_at": "2023-07-21 19:35:12",
@@ -1667,38 +1699,6 @@
       "duration_ms": 136153,
       "name": "Leaving (feat. the bootleg boy & Heroe)",
       "url": "https://open.spotify.com/track/21txIUpB3w1dBeixm5X4DL"
-    },
-    {
-      "added_at": "2023-06-23 17:17:26",
-      "album": {
-        "name": "silhouette",
-        "url": "https://open.spotify.com/album/3oIahIvFl1nQjfzoJrdP7Y"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 254114,
-      "name": "silhouette",
-      "url": "https://open.spotify.com/track/5jCv6lP0L05g8GcRTYLCIE"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Sunset Visionary, Vol. 2",
-        "url": "https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t"
-      },
-      "artists": [
-        {
-          "name": "Tom The Mail Man",
-          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Brown Eyes and Backwoods",
-      "url": "https://open.spotify.com/track/5Q8ILM1zVZWyGjIxAs8jdn"
     }
   ],
   "unique_name": "idk.",

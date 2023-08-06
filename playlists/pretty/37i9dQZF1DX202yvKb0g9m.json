@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 100127,
+  "num_followers": 100233,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGM5ZTkzY2M3NzY2MTcxYWVhNGNhYTI1MmM0ZDkwNzIyNDBkZWNi",
+  "snapshot_id": "MCxkNWQ2ZjQ5NDFkYmQ1Zjc2NWYxMjU0ZGVjYzE1ZDY1NWJlNWIwZWFm",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -495,6 +495,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "The Big Cover-Up",
+        "url": "https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt"
+      },
+      "artists": [
+        {
+          "name": "Todd Terje & The Olsens",
+          "url": "https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq"
+        }
+      ],
+      "duration_ms": 391222,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Substance Abuse",
         "url": "https://open.spotify.com/album/2KLpnpPRuDx24So8bHiBXw"
       },
@@ -515,18 +531,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "The Big Cover-Up",
-        "url": "https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt"
+        "name": "Electronic Body Music",
+        "url": "https://open.spotify.com/album/0XJ6C268pcL4F5QjxFt0Ec"
       },
       "artists": [
         {
-          "name": "Todd Terje & The Olsens",
-          "url": "https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq"
+          "name": "Thomas P. Heckmann",
+          "url": "https://open.spotify.com/artist/4QLCqJ3RSF3y6DdvboPk9m"
         }
       ],
-      "duration_ms": 391222,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx"
+      "duration_ms": 444631,
+      "name": "Himmel & Hoelle",
+      "url": "https://open.spotify.com/track/2ZWEJmCklMmKdytwexl2Ew"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -543,22 +559,6 @@
       "duration_ms": 739626,
       "name": "Acid Tracks",
       "url": "https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Electronic Body Music",
-        "url": "https://open.spotify.com/album/0XJ6C268pcL4F5QjxFt0Ec"
-      },
-      "artists": [
-        {
-          "name": "Thomas P. Heckmann",
-          "url": "https://open.spotify.com/artist/4QLCqJ3RSF3y6DdvboPk9m"
-        }
-      ],
-      "duration_ms": 444631,
-      "name": "Himmel & Hoelle",
-      "url": "https://open.spotify.com/track/2ZWEJmCklMmKdytwexl2Ew"
     },
     {
       "added_at": "2021-10-22 11:07:27",

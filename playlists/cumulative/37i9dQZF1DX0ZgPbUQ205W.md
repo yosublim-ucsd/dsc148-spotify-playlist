@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-307 songs - 22 hr 16 min
+308 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Morning Moon](https://open.spotify.com/track/4b1cZXkFtOdpZnyU0GfZWm) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Morning Moon](https://open.spotify.com/album/3n781Nd8Ff9001PJNWTuUq) | 5:52 | 2022-03-03 | 2022-11-13 |
 | [Morning Song](https://open.spotify.com/track/29GCaqKf8MDuv6FPeLYD6W) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Uma Elmo](https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts) | 6:55 | 2021-12-17 |  |
 | [motives](https://open.spotify.com/track/5Uexo5FnxDGXPV9v92y00W) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP), [Eric Vloeimans](https://open.spotify.com/artist/0GJnVOotvnAmZvUYL8Kpmx) | [motives](https://open.spotify.com/album/09YRRKJN5WAhr3KgivvcdW) | 2:22 | 2022-03-31 | 2022-11-11 |
+| [Mountains, Trees and Seas](https://open.spotify.com/track/6h52zNa8ChwfY3SuQb1NzD) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Mountains, Trees and Seas](https://open.spotify.com/album/16xRAk41n6Qpmz0kput949) | 5:06 | 2023-08-03 |  |
 | [My Heart Is A Prism](https://open.spotify.com/track/5KdeyyZl1bKXHRrtzNefOi) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [My Heart Is A Prism](https://open.spotify.com/album/3qakmpWIbDJHI8zXNN3Fkc) | 3:50 | 2023-06-21 |  |
 | [Mysterious Stranger](https://open.spotify.com/track/5NBmnHqnUz4fOn3e1hHIaI) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Mysterious Stranger](https://open.spotify.com/album/6R7K535bnjXQy4DYE9VYnI) | 4:00 | 2023-01-19 |  |
 | [Mógrá](https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8) | [Magnús Jóhann](https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5), [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh) | [Án tillits](https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi) | 2:32 | 2021-12-17 |  |
@@ -216,7 +217,7 @@
 | [Romancing](https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Romancing](https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS) | 2:55 | 2023-01-19 |  |
 | [Ruins II](https://open.spotify.com/track/3DT8dSU0Vz2mjpyHfIn04W) | [Ayumi Tanaka Trio](https://open.spotify.com/artist/3ay6T09fpLYwib1MxOW9G1) | [Ruins II](https://open.spotify.com/album/62hzQtcRAnkV1nUdFlvckl) | 2:42 | 2021-12-17 |  |
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2022-11-11 |  |
-| [Seak Fruits](https://open.spotify.com/track/2l9J8shXr61aKfZPd9dLm9) | [Augusto Pirodda](https://open.spotify.com/artist/0UUb7JHY2ZTzjboFEVsa90), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [No Comment](https://open.spotify.com/album/2G0AgZNn7mpVLBWTLK7XRr) | 7:00 | 2021-12-17 |  |
+| [Seak Fruits](https://open.spotify.com/track/2l9J8shXr61aKfZPd9dLm9) | [Augusto Pirodda](https://open.spotify.com/artist/0UUb7JHY2ZTzjboFEVsa90), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [No Comment](https://open.spotify.com/album/2G0AgZNn7mpVLBWTLK7XRr) | 7:00 | 2021-12-17 | 2023-08-06 |
 | [Send In The Clowns](https://open.spotify.com/track/3PPVDDKMbETkMCREuYTfXu) | [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Goodbye](https://open.spotify.com/album/3CPWaPvzm0QniRVBsaDlUw) | 4:14 | 2021-12-17 | 2022-03-12 |
 | [Send In The Clowns](https://open.spotify.com/track/4Le0NVbXXqQbHzpaABq1zv) | [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Goodbye](https://open.spotify.com/album/4qj4LfQdDQUgohrOtYHgVD) | 4:14 | 2022-05-26 | 2022-08-18 |
 | [Shitoshito \(Raining Quietly\)](https://open.spotify.com/track/6nTPKl3LPhE1J81499Ux3Q) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Guzuguzu](https://open.spotify.com/album/3TnFd2ZTmwfYZnTnT90NHE) | 6:06 | 2022-05-25 |  |

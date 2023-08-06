@@ -4,7 +4,7 @@
 
 > Pop acústico para tu día.
 
-180 songs - 10 hr 51 min
+181 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Amanecí Nublado](https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:54 | 2021-12-16 | 2023-04-29 |
 | [Amapolas \- Acústico](https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 3:05 | 2022-08-05 |  |
 | [Amiga Cruel \(Acústico\)](https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Amiga Cruel \(Acústico\)](https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K) | 3:37 | 2021-12-16 |  |
-| [Amá](https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [Amá](https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ) | 2:56 | 2021-12-16 |  |
+| [Amá](https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [Amá](https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ) | 2:56 | 2021-12-16 | 2023-08-06 |
 | [Ansiedad \- Versión Acústica](https://open.spotify.com/track/7Aoej8eo1drIzrbzlbzwBL) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Los Cuatro Actos Acústicos](https://open.spotify.com/album/0vblYQ4Zj7ct5R4Yh6cmpH) | 4:20 | 2022-08-05 |  |
 | [Arráncame \- Live](https://open.spotify.com/track/2gGGapSjwJUMTFZ3TUBZ1p) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Alex Ferreira](https://open.spotify.com/artist/7vfiwyCX0eXiAOm3DzZvuZ) | [Arráncame \(Live\)](https://open.spotify.com/album/7JjVZa6RU2r9ddqYnwT5mo) | 3:29 | 2021-12-16 | 2022-07-29 |
 | [Arráncame \- Live](https://open.spotify.com/track/6aK2GIvXcrkPZ7Nz0gNwoZ) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Arráncame \(Live\)](https://open.spotify.com/album/4GZQdBChz0ovBo3L6wu4eb) | 3:29 | 2022-06-07 | 2023-06-04 |
@@ -66,6 +66,7 @@
 | [Eres para Mí \(with La Mala Rodríguez\) \- Unplugged \(En Vivo\)](https://open.spotify.com/track/1gL4YEW5qp6mv2aku06a06) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 4:42 | 2021-12-16 | 2023-04-29 |
 | [Es Por Tí \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Spotify Singles](https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX) | 4:24 | 2021-12-16 |  |
 | [Estoy Aquí \- En Vivo](https://open.spotify.com/track/1C4b2NM9ViU7PbCIA2PLVT) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira MTV Unplugged](https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe) | 4:58 | 2021-12-16 |  |
+| [Everything Was For Love \(from the movie “With This Light"\)](https://open.spotify.com/track/717UO8qmZhhgr8nz9psfss) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Everything Was For Love \(from the movie “With This Light"\)](https://open.spotify.com/album/7svWXeyE07A5uDMa2gCkS2) | 3:46 | 2023-08-04 |  |
 | [Experiences](https://open.spotify.com/track/11jnaFNhZzTHn48gs7A3eJ) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Experiences](https://open.spotify.com/album/5qTvtAfWbpsDQj5CCWwgNy) | 3:45 | 2021-12-16 | 2022-07-28 |
 | [Fantasias \- Unplugged](https://open.spotify.com/track/6qqd7DGn2VXzxsR4k3Ycun) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Fantasias \(Unplugged\)](https://open.spotify.com/album/2NQINd10CuEMzd7wBMZc7G) | 3:20 | 2021-12-16 |  |
 | [Fin de Semana \- Acústico](https://open.spotify.com/track/0elyc56ZNt08SLbg6m3y0B) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Fin de Semana \(Acústico\)](https://open.spotify.com/album/2sDPTOHNSGI8rNW1dp7LE9) | 2:30 | 2021-12-16 | 2023-05-01 |

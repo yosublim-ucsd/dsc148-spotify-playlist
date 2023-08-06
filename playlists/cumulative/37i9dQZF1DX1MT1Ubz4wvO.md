@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Mujer Cebra en portada.
 
-1,576 songs - 3 day 20 hr 42 min
+1,577 songs - 3 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1184,6 +1184,7 @@
 | [Pronto](https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Pronto](https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl) | 3:19 | 2023-01-20 | 2023-02-04 |
 | [Protagonista](https://open.spotify.com/track/0ikC6gtZB1azE9fBSi0gZk) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Protagonista](https://open.spotify.com/album/0mdLJy0L6rC7egu8cGTOH6) | 4:24 | 2023-02-24 | 2023-03-11 |
 | [Protesta](https://open.spotify.com/track/5E2Ue0uURECbbZB6IW11A3) | [Taller para Niños](https://open.spotify.com/artist/4AHgsY0GJKLwzLa4xmIFDn) | [Protesta](https://open.spotify.com/album/0bY5CZgYHud6rAGoBWDlH8) | 3:23 | 2022-10-21 | 2022-11-12 |
+| [Prototype God](https://open.spotify.com/track/2zZAx7Wdqgrv7mD0mZnTUM) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [Prototype God](https://open.spotify.com/album/2enu0Pk9hnOLR1qmBlr2HJ) | 4:41 | 2023-08-04 |  |
 | [Provenza](https://open.spotify.com/track/74EyCgYnEH3ARfgpLh0Cdq) | [Glup!](https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE) | [Provenza](https://open.spotify.com/album/67ihyeAL1wwakz5tBP2rLo) | 3:49 | 2022-12-09 | 2023-01-06 |
 | [Próxima Estación](https://open.spotify.com/track/5GH7QaxLSUnrB8trx4dPo6) | [ÄURÄ LÍMITE](https://open.spotify.com/artist/0YCjRt3Ww3f1ZBpVsRvzxn) | [Próxima Estación](https://open.spotify.com/album/27q2uKFhwpIo88myFCywAY) | 4:14 | 2023-04-21 | 2023-04-29 |
 | [Psicotrópica](https://open.spotify.com/track/4vAOs44xDilmKMzxabSt0O) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Psicotrópica](https://open.spotify.com/album/1Ffy7m75KF2ccwLTgeqiHx) | 3:00 | 2022-10-21 | 2022-11-05 |

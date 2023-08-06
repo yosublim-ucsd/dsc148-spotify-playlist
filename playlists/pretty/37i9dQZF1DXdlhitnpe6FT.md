@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,389 likes - 115 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,684 likes - 115 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 48 | [Tijuana Taxi](https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!Going Places!!](https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT) | 2:05 |
 | 49 | [The Entertainer \- The Sting/Soundtrack Version/Orchestra Version](https://open.spotify.com/track/3qq7parQQaohn9N7qKrKtE) | [Marvin Hamlisch](https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD) | [The Sting](https://open.spotify.com/album/0GLCHyDf1JwJRestHhlc91) | 3:03 |
 | 50 | [Lluvia de Primavera](https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ) | [Las No\. 1 Instrumentales](https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb) | 5:53 |
-| 51 | [Flauta de Pan](https://open.spotify.com/track/3nP4NfZBFGWPi4YO0u4evJ) | [Mario Gonzales Guerra](https://open.spotify.com/artist/51PLAKhApJK3Vrzc1V8kZU) | [El Sonido de la Flauta de Pan \- The Sound Of The Panflute](https://open.spotify.com/album/6Vsbb6T8m1SjXo37Ul7hXl) | 3:18 |
-| 52 | [Lily Was Here \(feat\. Candy Dulfer\)](https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 4:20 |
+| 51 | [Lily Was Here \(feat\. Candy Dulfer\)](https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 4:20 |
+| 52 | [Flauta de Pan](https://open.spotify.com/track/3nP4NfZBFGWPi4YO0u4evJ) | [Mario Gonzales Guerra](https://open.spotify.com/artist/51PLAKhApJK3Vrzc1V8kZU) | [El Sonido de la Flauta de Pan \- The Sound Of The Panflute](https://open.spotify.com/album/6Vsbb6T8m1SjXo37Ul7hXl) | 3:18 |
 | 53 | [Wheels](https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Orange Blossom Special And Wheels](https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0) | 2:08 |
 | 54 | [Mah Nà Mah Nà](https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 1:56 |
 | 55 | [La Playa](https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3) | [Francis Goya](https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak) | [The Gold Series \- Latin Romance](https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya) | 3:54 |
@@ -110,9 +110,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 100 | [A Swingin' Safari](https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [A Swingin' Safari](https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu) | 2:15 |
 | 101 | [Moon Over Montevideo](https://open.spotify.com/track/4FcWZ82tsQ1As33m2SR2gN) | [Rio Carnival Orchestra](https://open.spotify.com/artist/4wD03VhS4OZfcEI6spIR8c) | [Honeymoon in South America](https://open.spotify.com/album/0ws2zLdFiEZNztPGi1Jwem) | 2:53 |
 | 102 | [Joy](https://open.spotify.com/track/2I3iX9yeYYzK6ebFhaxPLp) | [Satellite Orchestra](https://open.spotify.com/artist/3WUPVm3JL0g6uXMfnDRtZw) | [Stay Awhile](https://open.spotify.com/album/1fpwIpDPPXrNNPbHckzwbA) | 2:48 |
-| 103 | [Amapola](https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9) | [Joaquin Borges](https://open.spotify.com/artist/4s7HqUlMC8yjg7k2XgN99G), [National Philarmonic Orchestra](https://open.spotify.com/artist/2WOIwrP2heNknxVUWw56cS) | [Grandes Favoritas Instrumentales,Vol\. 4](https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk) | 2:55 |
+| 103 | [Mélissa \(de "Bilitis"\)](https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [Collection Francis Lai: Erotique, Vol\. 3 \(Bandes originales de films\)](https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V) | 4:39 |
 | 104 | [Ave Maria No Morro](https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Presentando a Los Indios Tabajaras](https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv) | 2:34 |
-| 105 | [Mélissa \(de "Bilitis"\)](https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [Collection Francis Lai: Erotique, Vol\. 3 \(Bandes originales de films\)](https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V) | 4:39 |
+| 105 | [Amapola](https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9) | [Joaquin Borges](https://open.spotify.com/artist/4s7HqUlMC8yjg7k2XgN99G), [National Philarmonic Orchestra](https://open.spotify.com/artist/2WOIwrP2heNknxVUWw56cS) | [Grandes Favoritas Instrumentales,Vol\. 4](https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk) | 2:55 |
 | 106 | [Woodpecker Song](https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D) | [Tony Mottola y Su Orquesta](https://open.spotify.com/artist/5qByAjccmQRznP524QB0wy) | [Tony Mottola y Su Orquesta](https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl) | 1:53 |
 | 107 | [Adam's Hotel](https://open.spotify.com/track/0BHv7xDERd9mJPbGlo39tY) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [First Cuckoo](https://open.spotify.com/album/7zdSkK10x9AdPzQfohjGzz) | 3:39 |
 | 108 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 114 | [Saute\-Mouton](https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The Very Best Of](https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI) | 3:00 |
 | 115 | [Yellow Bird](https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Yellow Bird](https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP) | 2:44 |
 
-Snapshot ID: `MCwyYzI0YmE5NjAwYjQ2YTVjZDFiZDRjNGYxN2RlMTFjMDE1Yzk1MWIx`
+Snapshot ID: `MCxmYWQwZjgzMTVkODk2ZDFkYmQ0ZGZhYjU4NWIwMDUzYzM2ZWIzYWYy`

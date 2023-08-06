@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v?si=2c1b0870de5148df">Brandon Lake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,567,918 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,568,209 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Something Better](https://open.spotify.com/track/2oMV6710ZfkU1ZTtZrhyHL) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Something Better](https://open.spotify.com/album/2WM90lCeuhwcW30awCgFtN) | 3:01 |
 | 100 | [Fingerprints](https://open.spotify.com/track/5JaUGYbQIackRPTU8VuGFf) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Into The Wild](https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b) | 2:37 |
 
-Snapshot ID: `MCxjNjc4YTNhNDgyMDJmZTVmY2YwMjgzYzhkNmRjNjhlZjEyNjdkNTc5`
+Snapshot ID: `MCxhOTgxN2RiNmU3YzI0MjMwZGVmYTMzOWE2ODU5YTg5ZDE5MWNjOTBj`

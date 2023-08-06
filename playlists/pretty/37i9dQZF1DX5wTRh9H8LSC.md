@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 
 > Listen Heroine's music 24 Hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,798 likes - 36 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,823 likes - 36 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,17 +32,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 | 22 | [가라고 \(Gotta Go\)](https://open.spotify.com/track/7xY4ZyZ8v7Crjtu3Esmnql) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [XX \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0ftTaGQKUoSrBKH4ZqWIxq) | 2:59 |
 | 23 | [Black Pearl](https://open.spotify.com/track/5SEh5ElnuNTz6zn8Th5pP9) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) | 3:19 |
 | 24 | [Heroine](https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heroine](https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2) | 3:15 |
-| 25 | [24시간이 모자라](https://open.spotify.com/track/1KvMjr7Yx2WKl5WV4YCj9Y) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [24시간이 모자라](https://open.spotify.com/album/6DlHIJKs51neBto8JtrcMC) | 3:21 |
+| 25 | [24 Hours](https://open.spotify.com/track/4ayWErdGIvSo4o6a3lMVLt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [24 Hours](https://open.spotify.com/album/4ag4tJmAksjMdxICMV83Aw) | 3:21 |
 | 26 | [ADDICT](https://open.spotify.com/track/2k75ZjRth50bLdyjFpAv7f) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) | 1:52 |
 | 27 | [Curve](https://open.spotify.com/track/0dxN4KBx1LIneaq3Idtl3X) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) | 3:37 |
 | 28 | [OH YEAH](https://open.spotify.com/track/3eTv0AJWT9abddyIboLd01) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [My fuxxxxx romance 01](https://open.spotify.com/album/6QEoy9NgTE3tpCoHgb4crc) | 4:12 |
 | 29 | [Secret Tape](https://open.spotify.com/track/2shjrcZS945n1zu1EaeOrH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) | 1:32 |
-| 30 | [보름달](https://open.spotify.com/track/4DrMEpcUwwRyxLtRjnPvZk) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Lena](https://open.spotify.com/artist/0EmA3wlv6dnf3Pc9SINsvA) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 3:22 |
-| 31 | [24시간이 모자라](https://open.spotify.com/track/2HLohseraYUuuP9Jgz6pZ7) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 3:21 |
-| 32 | [burn](https://open.spotify.com/track/1leUuiU53gcrZsnTmwidNb) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 3:29 |
+| 30 | [Full Moon](https://open.spotify.com/track/3klmHDE1vmBq6FYyPz0QE0) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Lena](https://open.spotify.com/artist/0EmA3wlv6dnf3Pc9SINsvA) | [Full Moon](https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu) | 3:22 |
+| 31 | [24 Hours](https://open.spotify.com/track/2HLohseraYUuuP9Jgz6pZ7) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 3:21 |
+| 32 | [Burn](https://open.spotify.com/track/1leUuiU53gcrZsnTmwidNb) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 3:29 |
 | 33 | [YOU \(feat\. SUNMI\)](https://open.spotify.com/track/1bthBgj2YMcn2w0LBQl5eI) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SOLO DAY](https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix) | 3:21 |
-| 34 | [내가 누구](https://open.spotify.com/track/2mCm2BC5rNsX4dCe0IedxS) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [유빈 of Wonder Girls](https://open.spotify.com/artist/1eaKmXYQ1g9M2DPXpnD6sY) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 3:52 |
-| 35 | [멈춰버린 시간](https://open.spotify.com/track/4AgEO6iy3fsyLbpjAdt42g) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 4:38 |
-| 36 | [그게 너라면](https://open.spotify.com/track/5ISTy9kctyjm2zNW9TeZqI) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 3:47 |
+| 34 | [Who Am I](https://open.spotify.com/track/2mCm2BC5rNsX4dCe0IedxS) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 3:52 |
+| 35 | [Time Is Up](https://open.spotify.com/track/6ZxavH9mJlUGYOSCdSplJs) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Full Moon](https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu) | 4:38 |
+| 36 | [If That Was You](https://open.spotify.com/track/2fQP5ZQmyXTcvjn8Jj6gTf) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Full Moon](https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu) | 3:47 |
 
-Snapshot ID: `MCxiZDViOTc2NThiY2U3MjA3MTNjYzk5YTRiNmI0ODEyZGZmNjRmN2Ex`
+Snapshot ID: `MCwzMDgwNWQ4OTViM2E4Zjk1MzNlZDJlYzI1NTY0Y2VmMjk4ODc5Zjgw`

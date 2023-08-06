@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > hi Barbie! happy August!🧂💨
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,084,628 likes - 105 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,086,923 likes - 105 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 104 | [Teenage Dream](https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:58 |
 | 105 | [Those Eyes \- Sped Up](https://open.spotify.com/track/6XDBohkvajOwoqr8jHPjzQ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes \(Alternate Versions\)](https://open.spotify.com/album/55J0IqFDDMrc9v672IDED2) | 2:47 |
 
-Snapshot ID: `MCw5OWVmNTlmOTE2OGM0ZDZiZDAwMDlhZTZjYzUxZTgzZjkyNDBjNDVm`
+Snapshot ID: `MCxjYTZhMWU0NTNhY2IzZjkzZGI5ZDE5NTVlZDgwMDQ3ZDg5M2E2MTg3`
