@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6458\)
+## Playlists \(6459\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2199,6 +2199,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Hats The Way I Like It: Ascot 2013](/playlists/pretty/2hirOuzhv3EK3AgEV2nKZn.md)
 - [Haunted](/playlists/pretty/37i9dQZF1DX7EMLexEFdeT.md)
 - [Haunted House](/playlists/pretty/37i9dQZF1DX0KVXoFMr2xO.md)
+- [Haunted House](/playlists/pretty/3HWLtU8UcK2VNgerAb4o6a.md)
 - [Haunting Vocals](/playlists/pretty/37i9dQZF1DX6QDedCAYqRI.md)
 - [Hauntology](/playlists/pretty/37i9dQZF1DX9TOdl0GpvQm.md)
 - [Have a Great Day!](/playlists/pretty/37i9dQZF1DX7KNKjOK0o75.md)
