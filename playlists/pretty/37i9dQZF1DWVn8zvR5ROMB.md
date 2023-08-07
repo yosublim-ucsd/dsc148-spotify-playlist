@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Priscilla Block, Dan + Shay, Darius Rucker and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,987 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,172 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 50 | [More Than Myself](https://open.spotify.com/track/22VAcG3WY3oSvXS0nLVree) | [Chris Moreno](https://open.spotify.com/artist/4Bikw36AHYxTvphOQCWykA) | [More Than Myself](https://open.spotify.com/album/2JlCWCS1EiLh0PHoymlXXH) | 2:28 |
 | 51 | [Hollywood](https://open.spotify.com/track/2icj4eaVPuraP1ihn0WKuz) | [Kevin Nichols](https://open.spotify.com/artist/0Dxxyu2C5xNLuRz0M4VmQs) | [Hollywood](https://open.spotify.com/album/4xY8iYHTZEDsx7Q61FoPbq) | 2:50 |
 
-Snapshot ID: `MCxiOTIyNWIyYTU5Yzc3NzU5MDkzZmY5MTU2MjliMjNjMDAwYjkxN2Nm`
+Snapshot ID: `MCwxMGE2MGU4MGM0NmUyNmVkNjU2YjYxMDIxNTZlN2RmYWEwMmVhNDI5`

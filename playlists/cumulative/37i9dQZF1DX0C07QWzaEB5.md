@@ -4,7 +4,7 @@
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-172 songs - 10 hr 10 min
+175 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 | 2022-07-04 |  |
 | [Lady](https://open.spotify.com/track/2WusoL0p5HmFzhR5DLGUVx) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [Lady](https://open.spotify.com/album/7hdql29wHs1VTWxmGmm5HV) | 3:10 | 2021-12-07 |  |
 | [Let Me Hug U](https://open.spotify.com/track/6IUJ1M6z0rWmLbYl2Z6QJ9) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [GORAE](https://open.spotify.com/artist/3atXbP5awWylK6MsPg59cF) | [SHIRT X GORAE : Let Me Hug U](https://open.spotify.com/album/3HkvoGETqGkuwIsN6qxJrx) | 2:30 | 2023-03-27 |  |
-| [Let You Go](https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:11 | 2021-12-07 |  |
+| [Let You Go](https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:11 | 2021-12-07 | 2023-08-07 |
+| [Let You Go](https://open.spotify.com/track/4opnoUS0I23L6LyTON7LIh) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/09akXw71DkZY5NrJc8miWU) | 3:11 | 2023-03-27 |  |
 | [Let's Dance](https://open.spotify.com/track/6P0KCRahk9c3d3HVqA6TMf) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Day By Day](https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts) | 3:42 | 2021-12-07 |  |
 | [Let's Dance \(Feat\. MAMAMOO\)](https://open.spotify.com/track/5lcqxf78duYxgq8STtS7ER) | [B.RYONG](https://open.spotify.com/artist/1nq6zilJc5BG9rRpYQ2Ojo), [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [DU RI JYU WA X LINDA X Let's Dance](https://open.spotify.com/album/00dzK05LKQYLmnNtQIENmB) | 3:32 | 2021-12-07 |  |
 | [Lights Out](https://open.spotify.com/track/1z7X7lFkoF2KRoDaxUfN99) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [\[BILLION MUSIC PROJECT VOL.1\]](https://open.spotify.com/album/5WyawwlLnlCHeLGChPaJii) | 3:21 | 2023-03-27 |  |
@@ -137,7 +138,8 @@
 | [Sunset](https://open.spotify.com/track/4dmeMZigfLAauiaHIaTRid) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 3:36 | 2021-12-07 |  |
 | [Temptation](https://open.spotify.com/track/5ttQIr0nKaYzzc2kSv5EJY) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [Jason Lee](https://open.spotify.com/artist/72VOOoqqtdrD4MP2FMZOlD) | [YUNU IN THE HOUSE](https://open.spotify.com/album/3rDbsIFKjrkptbHxxftXA3) | 3:57 | 2021-12-07 | 2022-07-29 |
 | [Temptation](https://open.spotify.com/track/0p6zAekmyRoRLF1qU5Lipl) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [Jason Lee](https://open.spotify.com/artist/72VOOoqqtdrD4MP2FMZOlD) | [YUNU IN THE HOUSE](https://open.spotify.com/album/2nymtjmxk4qln1pMCCRJG1) | 3:57 | 2022-07-04 |  |
-| [Thank U Soooo Much](https://open.spotify.com/track/6wVwEeHvV4B1V7UE5sByva) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:44 | 2021-12-07 |  |
+| [Thank U Soooo Much](https://open.spotify.com/track/2k5CdVfxSGaucZfbMyNYgq) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/09akXw71DkZY5NrJc8miWU) | 3:44 | 2023-03-27 |  |
+| [Thank U Soooo Much](https://open.spotify.com/track/6wVwEeHvV4B1V7UE5sByva) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:44 | 2021-12-07 | 2023-08-07 |
 | [The Greatest Christmas](https://open.spotify.com/track/4pzu3JetU10IIPeDJ8XIHw) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [WINTER CITY](https://open.spotify.com/album/34684YNjQKgceU3s6D9bx9) | 3:47 | 2021-12-07 | 2022-07-29 |
 | [The Greatest Christmas](https://open.spotify.com/track/5VWww3FcLZ6krWpgq4bwVX) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [WINTER CITY](https://open.spotify.com/album/0bQv27YqKRxlJ9KURup5RV) | 3:47 | 2022-07-04 |  |
 | [The Sea](https://open.spotify.com/track/4Qj64NoVMidlNzurmuKcni) | [KOYOTE](https://open.spotify.com/artist/3Xp2BCax4mS6EgstD0OyZR) | [The Sea](https://open.spotify.com/album/1cchLJDeBTdtu5Lri4nQS2) | 3:17 | 2021-12-07 | 2022-07-29 |
@@ -169,7 +171,8 @@
 | [Yesterday](https://open.spotify.com/track/1NcwwsTKqUsUQUxUGdtn8A) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 3:42 | 2021-12-07 | 2022-07-29 |
 | [Yesterday](https://open.spotify.com/track/3kLRwVPXnUNNbqmxgx13JG) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 3:42 | 2022-07-04 |  |
 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 | 2021-12-07 |  |
-| [都市女子](https://open.spotify.com/track/1fx1OZ7IFHEqohT2GIN0uB) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [都市女子](https://open.spotify.com/album/3HOdnNDpkFdzt3TamAUm9m) | 3:16 | 2021-12-07 |  |
+| [都市女子](https://open.spotify.com/track/1fx1OZ7IFHEqohT2GIN0uB) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [都市女子](https://open.spotify.com/album/3HOdnNDpkFdzt3TamAUm9m) | 3:16 | 2021-12-07 | 2023-08-07 |
+| [都市女子](https://open.spotify.com/track/5KBeit6bMhlgfYwZuDTxoH) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [都市女子](https://open.spotify.com/album/3ntOyPFFZxF6iIjXL3E8by) | 3:17 | 2023-03-27 |  |
 | [그대여 이제 With Me \(feat\. Rhythme Power\)](https://open.spotify.com/track/3JBdWfoqGqDFkigIs6qdLB) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc) | [그대여 이제 With Me](https://open.spotify.com/album/6N1XVKkDPSaMqXW1Q5w2P3) | 3:45 | 2021-12-07 |  |
 | [내게로 와](https://open.spotify.com/track/0vX2QPTYuMLCv6AHOrFdmT) | [이새봄](https://open.spotify.com/artist/1yGfj9yNeriR1yJO5c8nXU) | [오늘 밤 내게로 와](https://open.spotify.com/album/4s2vlriZ7PdhsE6VjQWP9T) | 3:13 | 2021-12-07 |  |
 | [널 좋아하고 있어 I'm Into You \(with\. Kirin, Dala, Jungu\)](https://open.spotify.com/track/71Ogm7o9KbXrgGsUafjvy3) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [Dala](https://open.spotify.com/artist/1CvhwMuHPz3oLJEOv66fOg), [Jungu](https://open.spotify.com/artist/1wDD7jPUpGh3BOtRHmy8bX) | [널 좋아하고 있어 I'm Into You](https://open.spotify.com/album/0iBM2Yvh95b7bh1oQHkkyY) | 4:33 | 2022-10-18 |  |

@@ -510,10 +510,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 231352,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/3abduCH8DYXjfwlkjLYH65"
+    },
+    {
+      "album": {
+        "name": "DYE",
+        "url": "https://open.spotify.com/album/14H4MUgtA9Vxv1hvfhWT5G"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231352,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/5KaoFUcjEP0jhsgG4eseuP"
     },
     {
       "album": {
@@ -868,10 +886,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 191575,
       "name": "Fly",
       "url": "https://open.spotify.com/track/3CK5Fc55KyS4Tg9Q9XrCYC"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : DEPARTURE",
+        "url": "https://open.spotify.com/album/4VnVKxKmuCz0FVIKSj6kg9"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191575,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/4zpdzjbrkuahEdCqCCAwcA"
     },
     {
       "album": {
@@ -930,7 +966,7 @@
     {
       "album": {
         "name": "GOT\u2661",
-        "url": "https://open.spotify.com/album/5FtIYnrmxlfQH0qC4OgBbR"
+        "url": "https://open.spotify.com/album/2KrRof53R397vP2TROZO6N"
       },
       "artists": [
         {
@@ -941,6 +977,24 @@
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 224946,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4hbbD7L1h6Q1cHvnOfHm3c"
+    },
+    {
+      "album": {
+        "name": "GOT\u2661",
+        "url": "https://open.spotify.com/album/5FtIYnrmxlfQH0qC4OgBbR"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
       "duration_ms": 224946,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/5JGKtiiv6BUB3EeSgWSAMr"
@@ -1210,7 +1264,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 188119,
       "name": "HOME RUN",
       "url": "https://open.spotify.com/track/1vPSrs2DSjDUjqCaGBhCNF"
@@ -1228,7 +1282,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188119,
       "name": "HOME RUN",
       "url": "https://open.spotify.com/track/6QnQWyeueTZTipJY8Cv6PY"
@@ -1318,7 +1372,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 180802,
       "name": "I Mean It",
       "url": "https://open.spotify.com/track/2Efpgql2LGwTC3TGEed2ol"
@@ -1340,6 +1394,24 @@
       "duration_ms": 180802,
       "name": "I Mean It",
       "url": "https://open.spotify.com/track/2tHEGUBvcmcF6n9D2cdesm"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/0M6kdJcIA81S9pnIa5pofW"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180802,
+      "name": "I Mean It",
+      "url": "https://open.spotify.com/track/6mXr5vmowQR05FUCm0EnJs"
     },
     {
       "album": {
@@ -1442,7 +1514,7 @@
     {
       "album": {
         "name": "Just Right",
-        "url": "https://open.spotify.com/album/4159syQKTGC1JSJN4xBScv"
+        "url": "https://open.spotify.com/album/0hRtcVLlfHj4zkc1vZOku5"
       },
       "artists": [
         {
@@ -1453,6 +1525,24 @@
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 222398,
+      "name": "Just Right",
+      "url": "https://open.spotify.com/track/16dL6zhP5MLxEwX8sbqCOa"
+    },
+    {
+      "album": {
+        "name": "Just Right",
+        "url": "https://open.spotify.com/album/4159syQKTGC1JSJN4xBScv"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
       "duration_ms": 222398,
       "name": "Just Right",
       "url": "https://open.spotify.com/track/4ER58qECydWokIsgqtysWu"
@@ -1550,7 +1640,7 @@
     {
       "album": {
         "name": "Breath of Love: Last Piece",
-        "url": "https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H"
+        "url": "https://open.spotify.com/album/0M6kdJcIA81S9pnIa5pofW"
       },
       "artists": [
         {
@@ -1561,6 +1651,24 @@
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 222119,
+      "name": "LAST PIECE",
+      "url": "https://open.spotify.com/track/6oZK2OtYfjLk6FLdXJW6FI"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
       "duration_ms": 222119,
       "name": "LAST PIECE",
       "url": "https://open.spotify.com/track/6xrjIHbm6ga5J8HhOS2Rmn"
@@ -1730,7 +1838,7 @@
     {
       "album": {
         "name": "FOCUS",
-        "url": "https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5"
+        "url": "https://open.spotify.com/album/3OdrlJTeueqRWR7Wbh9maH"
       },
       "artists": [
         {
@@ -1741,6 +1849,24 @@
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 233048,
+      "name": "LOVE TALK",
+      "url": "https://open.spotify.com/track/2gfkI0g4ZJtZrfHe4vlIqJ"
+    },
+    {
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5"
+      },
+      "artists": [
+        {
+          "name": "Jus2",
+          "url": "https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
       "duration_ms": 233048,
       "name": "Love Talk",
       "url": "https://open.spotify.com/track/5ukZlGN2l9WFC0kguXNMwv"
@@ -2064,10 +2190,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 203084,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/3qLNtf8mMhjivYM84iVmy8"
+    },
+    {
+      "album": {
+        "name": "Identify",
+        "url": "https://open.spotify.com/album/3gFfgWCPBzgzQKbLlmBQ5S"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203084,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/7rZRllPDe0NWHOvVuCGT0k"
     },
     {
       "album": {
@@ -2262,10 +2406,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 212819,
       "name": "My Youth",
       "url": "https://open.spotify.com/track/38u3ye3vz5k67AlwndgWDb"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212819,
+      "name": "My Youth",
+      "url": "https://open.spotify.com/track/4aLfsWNLeAWFKyR024EEvo"
     },
     {
       "album": {
@@ -2406,10 +2568,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 202003,
       "name": "No One Else",
       "url": "https://open.spotify.com/track/4QHs3gzvQ0vOMRH5cBxBWY"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202003,
+      "name": "No One Else",
+      "url": "https://open.spotify.com/track/5QBZXB121DgCLxT5PGsW6v"
     },
     {
       "album": {
@@ -2934,10 +3114,46 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 227369,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/1yWd5r0QK4XslQ4tX3TcR6"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227369,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/2SDgKMYCh6UWIfSSIG5nVJ"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : TURBULENCE",
+        "url": "https://open.spotify.com/album/4VjN9G78z4A0gKFsBn3n3H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174880,
+      "name": "Prove It",
+      "url": "https://open.spotify.com/track/158rpsE6Sdru1Y11EUSIjs"
     },
     {
       "album": {
@@ -2952,7 +3168,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 174880,
       "name": "Prove It",
       "url": "https://open.spotify.com/track/1JawNrC8uFnFomifyONahL"
@@ -3006,10 +3222,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 244276,
       "name": "RUN AWAY",
       "url": "https://open.spotify.com/track/1XXyHhgmhMYqn55Gej4NXs"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244276,
+      "name": "RUN AWAY",
+      "url": "https://open.spotify.com/track/3JRpqnCVFSbyOrkr4TKeUN"
     },
     {
       "album": {
@@ -3024,10 +3258,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 205625,
       "name": "Save You",
       "url": "https://open.spotify.com/track/2E2bFthdXWisDc8PC75rZt"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205625,
+      "name": "Save You",
+      "url": "https://open.spotify.com/track/5WgJBvrMplNTqTIlfOeQGu"
     },
     {
       "album": {
@@ -3042,10 +3294,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 204840,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/0sa0z0V3q9DFrhpXxKIAli"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : DEPARTURE",
+        "url": "https://open.spotify.com/album/4VnVKxKmuCz0FVIKSj6kg9"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204840,
+      "name": "See The Light",
+      "url": "https://open.spotify.com/track/4zZhGjhGGZn6SsoK9L740v"
     },
     {
       "album": {
@@ -3580,7 +3850,7 @@
     {
       "album": {
         "name": "Eyes On You",
-        "url": "https://open.spotify.com/album/5aCJKuo69SGbveapvkSYMW"
+        "url": "https://open.spotify.com/album/4ndf5HnQwdqnlFpL5BriPL"
       },
       "artists": [
         {
@@ -3591,6 +3861,24 @@
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 226483,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/4R3c5kIWwKO6ZToMBGMYBN"
+    },
+    {
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/5aCJKuo69SGbveapvkSYMW"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
       "duration_ms": 226483,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/4zqhiObNLChqnBSEzR9Jla"
@@ -3634,7 +3922,7 @@
     {
       "album": {
         "name": "Breath of Love: Last Piece",
-        "url": "https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H"
+        "url": "https://open.spotify.com/album/0M6kdJcIA81S9pnIa5pofW"
       },
       "artists": [
         {
@@ -3645,6 +3933,24 @@
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 223838,
+      "name": "Thank You, Sorry",
+      "url": "https://open.spotify.com/track/3GY6fCYXBHgH66SDG050TU"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
       "duration_ms": 223838,
       "name": "Thank You, Sorry",
       "url": "https://open.spotify.com/track/72CFnNVdYSWvH70PkovdM2"
@@ -3788,10 +4094,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 181323,
       "name": "Time Out",
       "url": "https://open.spotify.com/track/4YQKoTs6QESahc7N4OI82A"
+    },
+    {
+      "album": {
+        "name": "SPINNING TOP : BETWEEN SECURITY & INSECURITY",
+        "url": "https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181323,
+      "name": "TIME OUT",
+      "url": "https://open.spotify.com/track/5ZynmbezT5MBrXfkjbr3La"
     },
     {
       "album": {
@@ -3882,10 +4206,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 192959,
       "name": "TRUST MY LOVE",
       "url": "https://open.spotify.com/track/2A6ipjxIZnIBWj09CPftUG"
+    },
+    {
+      "album": {
+        "name": "DYE",
+        "url": "https://open.spotify.com/album/14H4MUgtA9Vxv1hvfhWT5G"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192959,
+      "name": "TRUST MY LOVE",
+      "url": "https://open.spotify.com/track/39qKn5wFGqrVvnQ0CKcKFb"
     },
     {
       "album": {
@@ -4016,7 +4358,7 @@
     {
       "album": {
         "name": "Breath of Love: Last Piece",
-        "url": "https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H"
+        "url": "https://open.spotify.com/album/0M6kdJcIA81S9pnIa5pofW"
       },
       "artists": [
         {
@@ -4027,6 +4369,24 @@
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194464,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/3M8CQvgEqW3aEO6FAgL6zf"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
       "duration_ms": 194464,
       "name": "WAVE",
       "url": "https://open.spotify.com/track/6oEgj9nOyX7mqEbgP6bKBH"
@@ -4052,7 +4412,7 @@
     {
       "album": {
         "name": "Breath of Love: Last Piece",
-        "url": "https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H"
+        "url": "https://open.spotify.com/album/0M6kdJcIA81S9pnIa5pofW"
       },
       "artists": [
         {
@@ -4063,6 +4423,24 @@
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 210130,
+      "name": "We Are Young",
+      "url": "https://open.spotify.com/track/6yWTkg75CyLpz7M0FYNUmN"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
       "duration_ms": 210130,
       "name": "We Are Young",
       "url": "https://open.spotify.com/track/7JkWbwxCqmm913MgcxIozF"
@@ -4262,7 +4640,7 @@
     {
       "album": {
         "name": "Call My Name",
-        "url": "https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg"
+        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
       },
       "artists": [
         {
@@ -4273,6 +4651,24 @@
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194707,
+      "name": "You Calling My Name",
+      "url": "https://open.spotify.com/track/0IxEQbRKjdc0fKPmovjEYw"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
       "duration_ms": 194707,
       "name": "You Calling My Name",
       "url": "https://open.spotify.com/track/6f4wghlwYWGLqGEIKc6HDQ"
@@ -4572,7 +4968,7 @@
     {
       "album": {
         "name": "SPINNING TOP : BETWEEN SECURITY & INSECURITY",
-        "url": "https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o"
+        "url": "https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr"
       },
       "artists": [
         {
@@ -4583,6 +4979,24 @@
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 185638,
+      "name": "\ubbff\uc5b4\uc904\ub798",
+      "url": "https://open.spotify.com/track/301ofNHiTFBWOGTnGABecz"
+    },
+    {
+      "album": {
+        "name": "SPINNING TOP : BETWEEN SECURITY & INSECURITY",
+        "url": "https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
       "duration_ms": 185638,
       "name": "\ubbff\uc5b4\uc904\ub798",
       "url": "https://open.spotify.com/track/3t9aeFQEtd2dhuTeNCtZ6Z"

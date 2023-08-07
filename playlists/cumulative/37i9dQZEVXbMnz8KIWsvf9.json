@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 140852,
       "name": "Carry Me Out",
       "url": "https://open.spotify.com/track/2bTDJaOn3kEBse2wCKugBP"
@@ -1714,7 +1714,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -5140,7 +5140,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 145078,
       "name": "more",
       "url": "https://open.spotify.com/track/5K70CN00zLYMVFmA6JcU4s"
@@ -5158,7 +5158,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 208314,
       "name": "MOVE (T5)",
       "url": "https://open.spotify.com/track/6ce3rQ3j3vfRics2YiHWbW"
@@ -5426,7 +5426,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 108986,
       "name": "New Jeans",
       "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
@@ -6036,7 +6036,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 255750,
       "name": "Pink",
       "url": "https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL"
@@ -6850,7 +6850,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 187840,
       "name": "Shall We (slowed + reverb)",
       "url": "https://open.spotify.com/track/1iAhNQnN0iv7W6pAULy0Rw"
@@ -6902,7 +6902,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 138404,
       "name": "Shall We (super sped up)",
       "url": "https://open.spotify.com/track/3KcCJjrqw3kJ3CGD7IlNcE"
@@ -9034,10 +9034,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 230400,
       "name": "\u0e04\u0e19\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22 (Silent Mode)",
       "url": "https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a"
+    },
+    {
+      "album": {
+        "name": "Data Storage",
+        "url": "https://open.spotify.com/album/2mQYy1FYHUEuQSrJPO6BDI"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "date_added": "2023-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "\u0e04\u0e19\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22 (Silent Mode)",
+      "url": "https://open.spotify.com/track/6yhRYfovfEfxrnH6TLXSDY"
     },
     {
       "album": {

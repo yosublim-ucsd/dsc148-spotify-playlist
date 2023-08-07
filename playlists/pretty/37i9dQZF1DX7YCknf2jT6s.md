@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Keyon Harrold
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,742 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,862 likes - 100 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [No End](https://open.spotify.com/track/2MJMUvGIN5aidX8rHTsJcH) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [No End](https://open.spotify.com/album/5R1eo5djaopbyuWH3vpJHd) | 2:38 |
 | 100 | [Part VII](https://open.spotify.com/track/6YBlNOhf1CXD3tBS47AgVx) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Lewis Moody](https://open.spotify.com/artist/60ybgvKZRtAZz7WxNMpJaV), [Benjamin Muralt](https://open.spotify.com/artist/5cyLdqGfpPgg8uE1ZiCpwP) | [Focus](https://open.spotify.com/album/4cP6mSCbTaGDtU8Eprv6cm) | 3:12 |
 
-Snapshot ID: `MCwyNDQ2ZDBiOTU5MzEyNmI1NmVkMGI0OWUzNTY3NTVjZTAxYjlhMGE1`
+Snapshot ID: `MCw0NGRkZjU3ZmM2MGQ4OGIzZDZmODA2ZWYxMjRjMjA5YjdkZTI4MDY4`

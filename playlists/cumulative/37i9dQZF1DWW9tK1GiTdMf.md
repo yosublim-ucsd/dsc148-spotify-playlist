@@ -4,7 +4,7 @@
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻  Schiuma in cover!
 
-606 songs - 1 day 3 hr 45 min
+607 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,7 +572,8 @@
 | [Tutto Al Contrario](https://open.spotify.com/track/43nDoBDLYjvBr5y8TloPyH) | [SickTeens](https://open.spotify.com/artist/43zSSTbEARYCOTzP6IsCZi) | [Tutto Al Contrario](https://open.spotify.com/album/042qTYbSQYG2Ov9iX9uJb8) | 3:13 | 2023-05-18 |  |
 | [Tutto Normale](https://open.spotify.com/track/76zioMf7YolEXbCANgGBms) | [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU) | [Tutto Normale](https://open.spotify.com/album/010CiLtjAQhI9smvyXHPB3) | 2:44 | 2023-07-27 |  |
 | [Tutto quello che voglio](https://open.spotify.com/track/5aYEkq7FWgoeE4DzelZD35) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Tutto quello che voglio](https://open.spotify.com/album/0Dl5kZJVyN0ZEZK30vy8wo) | 2:20 | 2023-05-25 | 2023-06-30 |
-| [Tutto tua madre](https://open.spotify.com/track/71opoeHJn3ezzjaWRFlt8X) | [Narcolessia](https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS) | [Tutto tua madre](https://open.spotify.com/album/4IbIVFlMhDqCfYZw7popOd) | 3:22 | 2023-07-27 |  |
+| [Tutto tua madre](https://open.spotify.com/track/5HygGj8n3EqNWmsZfGx65y) | [Narcolessia](https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS) | [Tutto tua madre](https://open.spotify.com/album/5xghA9pLIOUnpkj4TNgSyT) | 3:22 | 2023-08-03 |  |
+| [Tutto tua madre](https://open.spotify.com/track/71opoeHJn3ezzjaWRFlt8X) | [Narcolessia](https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS) | [Tutto tua madre](https://open.spotify.com/album/4IbIVFlMhDqCfYZw7popOd) | 3:22 | 2023-07-27 | 2023-08-07 |
 | [Twin Peaks](https://open.spotify.com/track/4PgwFeTesVd21JzEDDgOkz) | [NIO](https://open.spotify.com/artist/6ezfB5USiV0QJLp9tHxbjU), [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM) | [Twin Peaks](https://open.spotify.com/album/4vAE9JsaZRb68Pba6NrIoV) | 2:10 | 2022-05-06 | 2022-06-17 |
 | [Twinkle Twinkle Little Bitch](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle Little Bitch](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 | 2022-06-23 | 2022-07-15 |
 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 | 2022-08-18 | 2022-09-09 |

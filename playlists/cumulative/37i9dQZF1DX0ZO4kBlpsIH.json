@@ -2794,10 +2794,28 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 164333,
       "name": "Sous le ciel de Paris",
       "url": "https://open.spotify.com/track/4mEaQLFPna3vD3mOltpzho"
+    },
+    {
+      "album": {
+        "name": "Valse Musette",
+        "url": "https://open.spotify.com/album/3IstTjNFAMomssd6s9g8XX"
+      },
+      "artists": [
+        {
+          "name": "Gilbert Roussel",
+          "url": "https://open.spotify.com/artist/5pIaaeMGL31kC7Jz2ZU0K1"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160413,
+      "name": "Sous Le Ciel De Paris - 1951",
+      "url": "https://open.spotify.com/track/3uLV311pq2SRLKbiV8oA64"
     },
     {
       "album": {

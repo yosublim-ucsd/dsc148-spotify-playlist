@@ -7631,6 +7631,24 @@
     },
     {
       "album": {
+        "name": "Love In Technicolor",
+        "url": "https://open.spotify.com/album/2xpFJF0GaCm0C3vf9bQVV7"
+      },
+      "artists": [
+        {
+          "name": "Felix McCoy Quartet",
+          "url": "https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140939,
+      "name": "Love In Technicolor",
+      "url": "https://open.spotify.com/track/4Hn9MbDM7PSVjjRd7tTI4A"
+    },
+    {
+      "album": {
         "name": "Love in the First Degree",
         "url": "https://open.spotify.com/album/489cU8nNEb4pS0bBMjcS00"
       },
@@ -7960,7 +7978,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 231920,
       "name": "Mama's Fish House",
       "url": "https://open.spotify.com/track/7Lg4ezQ23LtLQCF8ONnolW"

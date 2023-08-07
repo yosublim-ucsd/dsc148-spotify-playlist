@@ -9169,6 +9169,24 @@
     },
     {
       "album": {
+        "name": "Superb Name Poop Songs",
+        "url": "https://open.spotify.com/album/3diYB1toXMSCOuKivz7zId"
+      },
+      "artists": [
+        {
+          "name": "The Odd Man Who Sings About Poop, Puke and Pee",
+          "url": "https://open.spotify.com/artist/7zM4smYl6oC7yMLzfpK7I4"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114424,
+      "name": "The Esther Poop Song",
+      "url": "https://open.spotify.com/track/0aGvAG3QJtkcEMJPlqNDv9"
+    },
+    {
+      "album": {
         "name": "The Falling Sky",
         "url": "https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq"
       },
@@ -9418,7 +9436,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 121855,
       "name": "The Ria Poop Song",
       "url": "https://open.spotify.com/track/0jNxyGW3Lal2b3ZpFgmIJM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,907 likes - 96 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,921 likes - 96 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 27 | [Satu Masa Indah](https://open.spotify.com/track/6GcYlqhF2FksZfD8DgPWb7) | [Abdul & The Coffee Theory](https://open.spotify.com/artist/7rTRICDeckWVatQYWZM93J), [Ade Binarko](https://open.spotify.com/artist/66oKcOrR9uoDLh2UIBp3ht) | [Satu Masa Indah](https://open.spotify.com/album/1zHyGwY17CPbc4RuKQy86R) | 3:30 |
 | 28 | [Sebelum Selamanya \(feat\. Chintya Gabriella\)](https://open.spotify.com/track/6sSWifB6hYv0OqFLwivXBR) | [Summerlane](https://open.spotify.com/artist/5qNRmCwvoxDRNP12wW3s0H), [Chintya Gabriella](https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q) | [Sebelum Selamanya \(feat\. Chintya Gabriella\)](https://open.spotify.com/album/68Nu5G7gSC6luwCU0KPNJq) | 3:45 |
 | 29 | [Saat Kutemukanmu](https://open.spotify.com/track/1HbOOKyi3e5IwIWIPY0eZi) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Saat Kutemukanmu](https://open.spotify.com/album/6s1Ufmv74h3eu7kzRnLAPU) | 4:03 |
-| 30 | [Stars \(Moonlight Version\)](https://open.spotify.com/track/3uqEvx3n5yZHQaiEdTvxTI) | [Swain Mahisa](https://open.spotify.com/artist/1NxvaSNXl4u4GRBfCF7Xcp) | [Stars \(Moonlight Version\)](https://open.spotify.com/album/66m8gFq3UVLyntosy0AC3x) | 4:41 |
+| 30 | [Stars \(Moonlight Version\)](https://open.spotify.com/track/3uqEvx3n5yZHQaiEdTvxTI) | [Swain Mahisa](https://open.spotify.com/artist/1NxvaSNXl4u4GRBfCF7Xcp), [Reisha](https://open.spotify.com/artist/3hqQKsWWWTfJq3JamRl5C9) | [Stars \(Moonlight Version\)](https://open.spotify.com/album/66m8gFq3UVLyntosy0AC3x) | 4:41 |
 | 31 | [Biasa Saja](https://open.spotify.com/track/3jihIjtfhEbqsbpsNlmArN) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Biasa Saja](https://open.spotify.com/album/4nLN8t9tFkglKdjp4u9VT8) | 2:58 |
 | 32 | [The Way It Is](https://open.spotify.com/track/2jNsRYnDMN7408HUtAwAKV) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [The Way It Is](https://open.spotify.com/album/0im6wIEU14FfVIHB1armE5) | 2:11 |
 | 33 | [Pizza On My Fridge](https://open.spotify.com/track/6UawcuXkQr5xAlNSkPdBt8) | [Shanda](https://open.spotify.com/artist/0AhFkmSnFP9JDAYbDhmI5c) | [Pizza On My Fridge](https://open.spotify.com/album/2ZDNYRiHyEMYXLByDa4YP6) | 2:49 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 95 | [Kopi Jahat](https://open.spotify.com/track/2kkeh5XL5vLF7ig1lpGk54) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB), [Java Tropica](https://open.spotify.com/artist/54AdgGAEhkNpQPPmEpIRQx) | [Kopi Jahat](https://open.spotify.com/album/2TomPC6ucZkgK8B40NwFG6) | 3:21 |
 | 96 | [Gali Prapatan](https://open.spotify.com/track/5a0RI1DJDKqLhGyTRyVIa8) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Gali Prapatan](https://open.spotify.com/album/3pkrZtfEYuCfIOWQMV0Y10) | 2:57 |
 
-Snapshot ID: `MCw5NTVhOWNiNzZjNjZiNTRkNTdhMjM3ZDdiMmJhMWU2NzVkY2NlNzQy`
+Snapshot ID: `MCw0NTExMjBmNDZhNTViMzEzNDNiZTIyNjdmNWViYzNjZjc3ZWM0YTA1`

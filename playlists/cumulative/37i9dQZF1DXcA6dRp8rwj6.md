@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Ez Mil & Eminem\)
 
-1,468 songs - 3 day 2 hr 45 min
+1,469 songs - 3 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -874,7 +874,8 @@
 | [No Doubt](https://open.spotify.com/track/1JS6uJeYOerdx7U5y9Tbdc) | [Mirani](https://open.spotify.com/artist/2hf1ya5k9R4siHueVr7jNi), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5) | [Drop The Bit Final Pt\. 1](https://open.spotify.com/album/1CXbpk3AaBor9rY0XRVZMn) | 3:28 | 2022-05-05 | 2022-05-27 |
 | [No Effort](https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [No Effort](https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt) | 2:48 | 2022-03-18 | 2022-04-15 |
 | [No Fake Love](https://open.spotify.com/track/5lpf4YUepO0GH4MgOSrsM8) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [No Fake Love](https://open.spotify.com/album/0ye8btLu3o3YCXYESahDMz) | 2:26 | 2023-07-20 | 2023-07-28 |
-| [No Fake Love](https://open.spotify.com/track/7cUTJwL4pZiD3oTr5bKQSg) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [No Fake Love](https://open.spotify.com/album/0tJu26afSbkWTDgBABZeEV) | 2:26 | 2023-07-28 |  |
+| [No Fake Love](https://open.spotify.com/track/7cUTJwL4pZiD3oTr5bKQSg) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [No Fake Love](https://open.spotify.com/album/0tJu26afSbkWTDgBABZeEV) | 2:26 | 2023-07-28 | 2023-08-07 |
+| [No Fake Love](https://open.spotify.com/track/3NKKOBUflBlHHVB3c2XS3E) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [I Showed U So](https://open.spotify.com/album/0I948LQ4t5SAG0ApHGMQ3h) | 2:26 | 2023-08-04 |  |
 | [No Fake Love \(Gangsta Grillz Version\)](https://open.spotify.com/track/0hdRLYoqYwzw2sTlRem2EF) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [No Fake Love \(Gangsta Grillz Version\)](https://open.spotify.com/album/5zqaF2Nx9d5RbT16jkB4v9) | 2:26 | 2023-07-27 | 2023-08-01 |
 | [No Handoutz \(feat\. Yeat\)](https://open.spotify.com/track/1jkHLTFc1j6HMHnaGq8QCH) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [No Handoutz \(feat\. Yeat\)](https://open.spotify.com/album/0WcAW53YH794LAay9RX8Op) | 2:30 | 2022-04-28 | 2022-06-03 |
 | [No Limit \(feat\. Babyface Ray\)](https://open.spotify.com/track/2Yn7BzHqwHnDw8XaXlZLVi) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [No Limit \(feat\. Babyface Ray\)](https://open.spotify.com/album/6ONuoWnIfYq4TV7Dxj9p9V) | 2:46 | 2022-09-08 | 2022-10-28 |

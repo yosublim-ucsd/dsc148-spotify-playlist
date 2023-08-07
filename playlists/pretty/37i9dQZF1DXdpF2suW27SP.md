@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > LON3R JOHNY e Plutonio entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,143 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,187 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 30 | [Oskey](https://open.spotify.com/track/2lN7q4luqmYcwHqRwy0Sod) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Milo & Fabio](https://open.spotify.com/artist/2IzIiYJmzVIbf1nlOVuMBo) | [Oskey](https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex) | 3:18 |
 | 31 | [Habilidosa](https://open.spotify.com/track/6UopYtiItZd9VWAKSaX8pF) | [Altifridi](https://open.spotify.com/artist/5EDJuUceEPf5Lzw4DviGv1), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Habilidosa](https://open.spotify.com/album/3OZ07lzQ352wTsJvnccElA) | 2:37 |
 | 32 | [Anjos Não Falam](https://open.spotify.com/track/2l1txEhbWQ349PIo1LqPd1) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Anjos Não Falam](https://open.spotify.com/album/0C307IPUvlAySSqmddZENT) | 4:45 |
-| 33 | [Soube a Pouco \(feat\. Gang Mka\)](https://open.spotify.com/track/6f6jz2h9wo7QUvowAXUr86) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Mercúrio EP \(feat\. Gang Mka\)](https://open.spotify.com/album/4lnfV64uRboc0VPKRl6uA8) | 3:56 |
+| 33 | [Soube a Pouco](https://open.spotify.com/track/6f6jz2h9wo7QUvowAXUr86) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Mercúrio EP](https://open.spotify.com/album/4lnfV64uRboc0VPKRl6uA8) | 3:56 |
 | 34 | [Where U @](https://open.spotify.com/track/5KX1zLcBZ5bv8iA1odyonT) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Where U @](https://open.spotify.com/album/1Zs1EZDcCtlQys0VDUg5ls) | 2:22 |
 | 35 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
 | 36 | [Bailarina 2](https://open.spotify.com/track/2Pei7rzUWupgWq3HeF8KOv) | [Dezinho](https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA) | [Bailarina 2](https://open.spotify.com/album/3MrYzIwKpAQ7KdjFzysWyd) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Owner \- Remix](https://open.spotify.com/track/3Am5orspH6gBgJqk5SgEJv) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Beatoven](https://open.spotify.com/artist/5KPaJqjZ6Ta1dDO47eSQKa) | [Owner \(Remix\)](https://open.spotify.com/album/5j7020cANfwmGekttGakkv) | 2:22 |
 | 75 | [FRESH AS FUKKK](https://open.spotify.com/track/2gQ0HjifSyj1fD1yyYV3SN) | [DEMME](https://open.spotify.com/artist/6kFnnwnS7U9otVnD5iNFyQ) | [TRAP SEASON](https://open.spotify.com/album/7rUkbZjRnOSOvAPPfk8bKX) | 2:07 |
 
-Snapshot ID: `MCxlY2RjYWY1ZmM1YTc1ZDUyNDRiY2IwMWE3ZmNiYWIwOGIzOThhODJj`
+Snapshot ID: `MCw2MWY5NzUyYzcyYzg0NzVkZjRiOTM2Yjc5MzRlNGJlYzZiYWM2MTVk`

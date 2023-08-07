@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,670,916 likes - 101 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,673,204 likes - 101 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 100 | [Infinity \- Sped Up Version](https://open.spotify.com/track/5s0dNKonnbNTOYiTkSuNbR) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Infinity \(Sped Up Version\)](https://open.spotify.com/album/2esUhLkQgcPXVy8hH0qpGx) | 2:49 |
 | 101 | [B.O.T.A\. \(Baddest Of Them All\) \[feat\. Eliza Rose & Interplanetary Criminal\] \[Sped Up Version\]](https://open.spotify.com/track/4PwGpbqCyhmRdF8PjD4w79) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\) \[feat\. Eliza Rose & Interplanetary Criminal\] \[Sped Up Version\]](https://open.spotify.com/album/2I2owsGfmBSq0bZPxD6dN9) | 3:09 |
 
-Snapshot ID: `MCw1OWQ4MGFlZWY2ODU0ZmZjYWU4YjA4NWQzZWExMjE1YzViNDI1M2Uw`
+Snapshot ID: `MCxjOTZjYjViZmI4NmE0NWJkZWM4Mjc2OGMwMWQ0N2I5OWRmNzE2YTk4`

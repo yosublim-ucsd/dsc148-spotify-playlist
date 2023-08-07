@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Art School Girlfriend
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,381 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,395 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 79 | [sub 32](https://open.spotify.com/track/5bJyWVbQjvHlA4eptnaHeT) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [sub 32](https://open.spotify.com/album/1ayf7TVmz3NSRUD1q36mMJ) | 1:48 |
 | 80 | [Burn Money](https://open.spotify.com/track/4edy96lC5RsbZvOI0HvmUO) | [Delilah Holliday](https://open.spotify.com/artist/1Jcu8RReH3v0k4Zmll7VFZ) | [Invaluable Vol.1](https://open.spotify.com/album/5NUbkJxoermauKSzXjoFal) | 2:06 |
 
-Snapshot ID: `MCxjZTQ4NDhhYjFmNWY4OGZmM2RkMzhjMzc2MjY4ODFjNzc1YWRkMWRl`
+Snapshot ID: `MCwzNTFkNDViYjQzZTkyNWIwYzgyZTc2ODFkNzA1Nzk0NjA3MWYwYTA1`

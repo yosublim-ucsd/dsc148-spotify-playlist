@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxODczODgsMDAwMDAwMDBjYjZjZWQ5YjBmMzFiMDU3NjFlOTg0OGU2ZjAwNDc1Yw==",
+  "snapshot_id": "MjgxODg3NTIsMDAwMDAwMDAzZDZjM2NlZWYxMjI0ZTFkYWI4NGI2NTZlZTVkYmE1Nw==",
   "tracks": [
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Dark Sky",
         "url": "https://open.spotify.com/album/7A8gtZtoZMbpT0xAYl7ma3"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4XvDPaoKmHsrgf5eksXNYu"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Earth Is A Black Hole",
         "url": "https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/13a2v5JNOROuvh2MBMWxqb"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/7tPJDOePzz8zxlHtTPTJVA"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/5lX4aJdcJj3pHYH9mgmWFS"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Is It Really You?",
         "url": "https://open.spotify.com/album/3ECdQKxcDWZGwN4dSBVdoH"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/4ndmsvcCgLZH2hZwVw8cuJ"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/3m97vK8f1WWhSLiN17m0b7"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/0ym6qGdEoI60PXIqNXKkx1"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Chrome Neon Jesus",
         "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Earth Is A Black Hole",
         "url": "https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD"
@@ -149,71 +149,7 @@
       "url": "https://open.spotify.com/track/16hoFpn4UinRTtqCD0iSIt"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
-      "album": {
-        "name": "Diorama",
-        "url": "https://open.spotify.com/album/3dDsFTuqqhrZTywI6TvrbW"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 234686,
-      "name": "Diorama",
-      "url": "https://open.spotify.com/track/5hYc50kmNWDtMzXS7DtHKz"
-    },
-    {
-      "added_at": "2023-08-05 13:48:41",
-      "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 247640,
-      "name": "Slide Away",
-      "url": "https://open.spotify.com/track/1hhkgFC178vWe1xBS23tj9"
-    },
-    {
-      "added_at": "2023-08-05 13:48:41",
-      "album": {
-        "name": "Chrome Neon Jesus",
-        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 230817,
-      "name": "Swallow",
-      "url": "https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC"
-    },
-    {
-      "added_at": "2023-08-05 13:48:41",
-      "album": {
-        "name": "Earth Is A Black Hole",
-        "url": "https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 206156,
-      "name": "High Again",
-      "url": "https://open.spotify.com/track/6xIRGEHZJxNobiq6Frf8BB"
-    },
-    {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
@@ -229,10 +165,10 @@
       "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
-        "name": "Counting Flies",
-        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
+        "name": "Diorama",
+        "url": "https://open.spotify.com/album/3dDsFTuqqhrZTywI6TvrbW"
       },
       "artists": [
         {
@@ -240,12 +176,12 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 226088,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/1NsZudLIW1RwsQCytCQoGt"
+      "duration_ms": 234686,
+      "name": "Diorama",
+      "url": "https://open.spotify.com/track/5hYc50kmNWDtMzXS7DtHKz"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Chrome Neon Jesus",
         "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
@@ -256,12 +192,12 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 263029,
-      "name": "Dweeb",
-      "url": "https://open.spotify.com/track/2rJs5L8S6ivX0Bhk1snhUm"
+      "duration_ms": 230817,
+      "name": "Swallow",
+      "url": "https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Earth Is A Black Hole",
         "url": "https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD"
@@ -272,12 +208,12 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 166943,
-      "name": "Taste Of Gasoline",
-      "url": "https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb"
+      "duration_ms": 206156,
+      "name": "High Again",
+      "url": "https://open.spotify.com/track/6xIRGEHZJxNobiq6Frf8BB"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
@@ -297,10 +233,10 @@
       "url": "https://open.spotify.com/track/5FOvWDm4PrPchyHMDOQiXs"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/1vl7YPWGq7DgJMcOsWHWIg"
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK"
       },
       "artists": [
         {
@@ -308,12 +244,12 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 284104,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/6zixerdspBU1krXRNMaalM"
+      "duration_ms": 247640,
+      "name": "Slide Away",
+      "url": "https://open.spotify.com/track/1hhkgFC178vWe1xBS23tj9"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Chrome Neon Jesus",
         "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
@@ -324,12 +260,12 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 157221,
-      "name": "Kibo",
-      "url": "https://open.spotify.com/track/5iQPGnGBClKTf4pHdhNuAg"
+      "duration_ms": 263029,
+      "name": "Dweeb",
+      "url": "https://open.spotify.com/track/2rJs5L8S6ivX0Bhk1snhUm"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Earth Is A Black Hole",
         "url": "https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD"
@@ -340,12 +276,12 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 194978,
-      "name": "Yellowbelly",
-      "url": "https://open.spotify.com/track/1k9Iq0HDhuadenPEBv7VUQ"
+      "duration_ms": 166943,
+      "name": "Taste Of Gasoline",
+      "url": "https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
@@ -361,10 +297,10 @@
       "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK"
+        "name": "Counting Flies",
+        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
       },
       "artists": [
         {
@@ -372,12 +308,12 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 247170,
-      "name": "Mirror Talk",
-      "url": "https://open.spotify.com/track/6VBoEu64cDeRDE6f60XPts"
+      "duration_ms": 226088,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/1NsZudLIW1RwsQCytCQoGt"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Chrome Neon Jesus",
         "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
@@ -388,12 +324,12 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 238588,
-      "name": "Black Flamingo",
-      "url": "https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs"
+      "duration_ms": 157221,
+      "name": "Kibo",
+      "url": "https://open.spotify.com/track/5iQPGnGBClKTf4pHdhNuAg"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Earth Is A Black Hole",
         "url": "https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD"
@@ -404,12 +340,12 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 206149,
-      "name": "New Emotion",
-      "url": "https://open.spotify.com/track/4fPaQVq5eklkLMduNY3Gnb"
+      "duration_ms": 194978,
+      "name": "Yellowbelly",
+      "url": "https://open.spotify.com/track/1k9Iq0HDhuadenPEBv7VUQ"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
@@ -429,10 +365,10 @@
       "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
-        "name": "Counting Flies",
-        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1vl7YPWGq7DgJMcOsWHWIg"
       },
       "artists": [
         {
@@ -440,12 +376,12 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 213953,
-      "name": "Believe In The Wrong Things",
-      "url": "https://open.spotify.com/track/45CZwozIAJgbWlIzEjCRf5"
+      "duration_ms": 284104,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6zixerdspBU1krXRNMaalM"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Chrome Neon Jesus",
         "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
@@ -461,10 +397,10 @@
       "url": "https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK"
+        "name": "Earth Is A Black Hole",
+        "url": "https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD"
       },
       "artists": [
         {
@@ -472,12 +408,12 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 246325,
-      "name": "Outside of Love",
-      "url": "https://open.spotify.com/track/4pvuxa2b2V6ArNi8qBHRKH"
+      "duration_ms": 206149,
+      "name": "New Emotion",
+      "url": "https://open.spotify.com/track/4fPaQVq5eklkLMduNY3Gnb"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
@@ -501,7 +437,87 @@
       "url": "https://open.spotify.com/track/5KwLLL8VE4k3mUTy1gfgpP"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 247170,
+      "name": "Mirror Talk",
+      "url": "https://open.spotify.com/track/6VBoEu64cDeRDE6f60XPts"
+    },
+    {
+      "added_at": "2023-08-06 12:32:23",
+      "album": {
+        "name": "Chrome Neon Jesus",
+        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 238588,
+      "name": "Black Flamingo",
+      "url": "https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs"
+    },
+    {
+      "added_at": "2023-08-06 12:32:23",
+      "album": {
+        "name": "Counting Flies",
+        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 213953,
+      "name": "Believe In The Wrong Things",
+      "url": "https://open.spotify.com/track/45CZwozIAJgbWlIzEjCRf5"
+    },
+    {
+      "added_at": "2023-08-06 12:32:23",
+      "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 306861,
+      "name": "Sprawled",
+      "url": "https://open.spotify.com/track/7ENeBRFcivBFDSaNR2byUF"
+    },
+    {
+      "added_at": "2023-08-06 12:32:23",
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 246325,
+      "name": "Outside of Love",
+      "url": "https://open.spotify.com/track/4pvuxa2b2V6ArNi8qBHRKH"
+    },
+    {
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Counting Flies",
         "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/54pcxTH4RzzfvTq7f2vWem"
     },
     {
-      "added_at": "2023-08-05 13:48:41",
+      "added_at": "2023-08-06 12:32:23",
       "album": {
         "name": "Dazed",
         "url": "https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK"
@@ -531,22 +547,6 @@
       "duration_ms": 301418,
       "name": "Summer",
       "url": "https://open.spotify.com/track/2eVl7KmAVQNbDUpd7Dkka3"
-    },
-    {
-      "added_at": "2023-08-05 13:48:41",
-      "album": {
-        "name": "Still Love",
-        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 306861,
-      "name": "Sprawled",
-      "url": "https://open.spotify.com/track/7ENeBRFcivBFDSaNR2byUF"
     }
   ],
   "unique_name": "This Is Teenage Wrist",

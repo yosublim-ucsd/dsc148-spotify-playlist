@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 10121,
+  "num_followers": 10132,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGFhODFiOTUxOWQ2M2JjNGJjZWI3ZGIzNzdmNTI1M2EwMDQ5Mzk2",
+  "snapshot_id": "MCw1NDM3ODYwM2I1NTY0ODk5ZGZhMWVmMTc3MjhiNDY0NTFmNGE2ODcz",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -349,26 +349,6 @@
       "url": "https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Like It on Top",
-        "url": "https://open.spotify.com/album/26lGPtKtc4SneVwBh67pW8"
-      },
-      "artists": [
-        {
-          "name": "Ana Popovic",
-          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
-        },
-        {
-          "name": "Keb\u2019 Mo\u2019 and Robben Ford",
-          "url": "https://open.spotify.com/artist/1vtGuNoBIAtbi1wNOGSGHn"
-        }
-      ],
-      "duration_ms": 285893,
-      "name": "Like It on Top",
-      "url": "https://open.spotify.com/track/1MMXilYlgGiVXSz5YCOV9d"
-    },
-    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "Promised Land",
@@ -387,6 +367,26 @@
       "duration_ms": 181939,
       "name": "Going to the Party",
       "url": "https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Like It on Top",
+        "url": "https://open.spotify.com/album/26lGPtKtc4SneVwBh67pW8"
+      },
+      "artists": [
+        {
+          "name": "Ana Popovic",
+          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
+        },
+        {
+          "name": "Keb\u2019 Mo\u2019 and Robben Ford",
+          "url": "https://open.spotify.com/artist/1vtGuNoBIAtbi1wNOGSGHn"
+        }
+      ],
+      "duration_ms": 285893,
+      "name": "Like It on Top",
+      "url": "https://open.spotify.com/track/1MMXilYlgGiVXSz5YCOV9d"
     },
     {
       "added_at": "2020-12-01 05:01:00",

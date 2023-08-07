@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 433566,
+  "num_followers": 433717,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGVmNGI2MzkzNWUxMDQ2YzY0MDU3ZDM2YjZkOGMyNDEyN2E1YWVm",
+  "snapshot_id": "MCw1YWVmMGY2NDNmNDgyMjQxZjI4YzM0MmU5ZTU2YWIyZWMwOTgzOWIz",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -567,6 +567,26 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "FALLING DOWN",
+        "url": "https://open.spotify.com/album/1G5TUWRlTTdycaPgZ8YNM9"
+      },
+      "artists": [
+        {
+          "name": "Formalite",
+          "url": "https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw"
+        },
+        {
+          "name": "paydak",
+          "url": "https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx"
+        }
+      ],
+      "duration_ms": 96062,
+      "name": "FALLING DOWN",
+      "url": "https://open.spotify.com/track/0LDiwy2wlju7HSVPgNwNQZ"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Choke",
         "url": "https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 113345,
       "name": "Seymour (with Dawn Golden)",
       "url": "https://open.spotify.com/track/3tpr337B8DsgKo7JR2eYAS"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "FALLING DOWN",
-        "url": "https://open.spotify.com/album/1G5TUWRlTTdycaPgZ8YNM9"
-      },
-      "artists": [
-        {
-          "name": "Formalite",
-          "url": "https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw"
-        },
-        {
-          "name": "paydak",
-          "url": "https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx"
-        }
-      ],
-      "duration_ms": 96062,
-      "name": "FALLING DOWN",
-      "url": "https://open.spotify.com/track/0LDiwy2wlju7HSVPgNwNQZ"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/6mmGwyBRmigoSW0l5NH8P8"
+      },
+      "artists": [
+        {
+          "name": "Shrimpnose",
+          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
+        }
+      ],
+      "duration_ms": 130169,
+      "name": "Wretched",
+      "url": "https://open.spotify.com/track/1tYnTQPrqLBwCXLgn5QYos"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 96092,
       "name": "memories of you",
       "url": "https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "Good Grief",
-        "url": "https://open.spotify.com/album/6mmGwyBRmigoSW0l5NH8P8"
-      },
-      "artists": [
-        {
-          "name": "Shrimpnose",
-          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
-        }
-      ],
-      "duration_ms": 130169,
-      "name": "Wretched",
-      "url": "https://open.spotify.com/track/1tYnTQPrqLBwCXLgn5QYos"
     },
     {
       "added_at": "2023-02-16 22:50:07",

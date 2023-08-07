@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-759 songs - 1 day 12 hr 29 min
+760 songs - 1 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Beat the Odds](https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Beat the Odds](https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv) | 2:30 | 2022-08-26 | 2023-06-10 |
 | [Beating Down Yo Block](https://open.spotify.com/track/5V2p1V1ZaCJPjpcN2Nf5h2) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Beating Down Yo Block](https://open.spotify.com/album/28R3EJ4K1iU8aR0aoRxIzK) | 3:12 | 2022-01-06 | 2022-08-13 |
 | [Beautiful](https://open.spotify.com/track/5n7vs4XFi3JWZLJpcxLthV) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Beautiful](https://open.spotify.com/album/5b0iGcVPztBLsWRo2lc6Fc) | 3:06 | 2022-01-06 | 2022-04-28 |
+| [Bent](https://open.spotify.com/track/6ulEymrJ2Azx1uo3YHSE5w) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Bent](https://open.spotify.com/album/1lzWtPTZrL3ZE1oagDJgvL) | 2:50 | 2023-08-04 |  |
 | [BENZ \| I Know REMIX](https://open.spotify.com/track/7v89Cq6AhX96DJJUaGhnIl) | [Kelvyn Colt](https://open.spotify.com/artist/3VV2TXkXYDYSUvtRRER3Wo), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [BENZ \| I Know REMIX](https://open.spotify.com/album/2WoboSTSwPNH4RWVgFaZIC) | 3:09 | 2022-03-25 | 2022-04-19 |
 | [Best Rapper in the Fuckin World](https://open.spotify.com/track/2higrBnP8m4gSBBKs5VKZZ) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Best Rapper in the Fuckin World](https://open.spotify.com/album/3sPNnS9LL1YXzKPPLHDUit) | 2:28 | 2022-03-25 | 2022-04-18 |
 | [Bet That](https://open.spotify.com/track/5eGlsduaC1jNSWAyPezADT) | [Jimi Tents](https://open.spotify.com/artist/1KW04GdOuzrsTVOAVd6eRg) | [Bet That](https://open.spotify.com/album/1gJjJ0NzyLSXvs2vnOCy79) | 2:17 | 2021-09-03 | 2022-01-15 |
@@ -687,7 +688,7 @@
 | [Times Up](https://open.spotify.com/track/1J2uejzGKyOeak5jN4hdBV) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3) | [Times Up](https://open.spotify.com/album/7wi0hfacPZ009kEBB5WJTO) | 1:51 | 2022-03-18 | 2022-05-08 |
 | [To The Bone \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 4:43 | 2022-10-07 |  |
 | [TO THE MOON \- Gunna Remix](https://open.spotify.com/track/2Ku7Iz5iUtukULZ229KUYx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON \(Gunna Remix\)](https://open.spotify.com/album/22kFib1oYf4AKUVTu3cORk) | 2:46 | 2022-03-25 | 2022-12-13 |
-| [Today](https://open.spotify.com/track/0RsyC7kS5ObbfvX5CacLAr) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Today](https://open.spotify.com/album/5QjfvDWQOTEgOQsblGTlrs) | 1:55 | 2023-06-23 |  |
+| [Today](https://open.spotify.com/track/0RsyC7kS5ObbfvX5CacLAr) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Today](https://open.spotify.com/album/5QjfvDWQOTEgOQsblGTlrs) | 1:55 | 2023-06-23 | 2023-08-07 |
 | [Touchable](https://open.spotify.com/track/52vksmCPJWjIGm0JvB7aed) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [Touchable](https://open.spotify.com/album/2AjObzAg4uqTZ4WNEQCHrh) | 2:02 | 2021-09-03 | 2022-03-18 |
 | [trademark usa](https://open.spotify.com/track/6G9aDedv5hYaTgNYDuduqk) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 4:30 | 2021-10-18 | 2022-08-13 |
 | [Trappin N Rappin \(feat\. Gucci Mane\)](https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Secret Weapon](https://open.spotify.com/album/1UJTAfBAyEYreutJBFKhXA) | 2:57 | 2023-02-17 |  |

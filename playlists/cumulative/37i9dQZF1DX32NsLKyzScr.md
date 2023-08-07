@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-997 songs - 2 day 6 hr 24 min
+998 songs - 2 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -660,6 +660,7 @@
 | [Rave Machine](https://open.spotify.com/track/02gyh6cjxDBWlgZtktDLVh) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Rowetta](https://open.spotify.com/artist/2SbcWzAeIqhsmdyra9tW3z) | [Rave Machine](https://open.spotify.com/album/4UVRZ9sc9GlRrenphV4CL5) | 3:26 | 2020-09-21\* | 2021-02-06 |
 | [Raveolution](https://open.spotify.com/track/3zi577X0DUUbQKUcLuTHNb) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Graham Bell](https://open.spotify.com/artist/2hb8TTJ9ti4jl8sMasI3Dv) | [Raveolution](https://open.spotify.com/album/6RpNpBfHqKAwAfM8kaK4KA) | 2:43 | 2020-09-21\* | 2021-01-23 |
 | [Raving](https://open.spotify.com/track/0ooK3j8bKCK8fdViSxVrvq) | [Ghost Dance](https://open.spotify.com/artist/72xnwCGF31iOuRh3l5JIwZ) | [Erased](https://open.spotify.com/album/3B8ZoBF45Gtw1AURybKZP4) | 4:59 | 2020-09-21\* | 2020-10-10 |
+| [Ray Of Solar](https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Ray Of Solar](https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb) | 4:01 | 2023-08-04 |  |
 | [Reaching Out](https://open.spotify.com/track/7KTcpv7wPJ4r6lR5SLzurh) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Reaching Out](https://open.spotify.com/album/1fI0NsucLsQJLLzi6fDnpA) | 2:14 | 2021-08-21 | 2022-03-12 |
 | [REACT](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [REACT](https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv) | 3:21 | 2023-02-10 |  |
 | [Ready For Your Love](https://open.spotify.com/track/1bTklSZ4YHKCEnGKLVBquU) | [CARSTN](https://open.spotify.com/artist/3Wb1mXnd1hXkGwys5m54YC), [DAZZ](https://open.spotify.com/artist/67hggymbjwkuVTf7qrZanz), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Ready For Your Love](https://open.spotify.com/album/4nA7YqNDSDrc3f1hJabrz6) | 2:40 | 2022-04-01 | 2022-05-11 |
@@ -826,7 +827,7 @@
 | [Sweetest Pie \- David Guetta Dance Remix](https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Sweetest Pie \(David Guetta Remixes\)](https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl) | 2:23 | 2022-05-06 | 2023-04-22 |
 | [Swing \- Vini Vici & WHITENO1SE Remix](https://open.spotify.com/track/5eyEn1UuoUlvWekEIukBbC) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [WHITENO1SE](https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2) | [DANCING ON THE PEOPLE \(REMIX EP\)](https://open.spotify.com/album/1kl4cLBiiMfdXvV7I4eaPE) | 3:44 | 2020-09-21\* | 2021-02-06 |
 | [Take Control](https://open.spotify.com/track/4NPkQtN5w0T4ju8T6mYVsJ) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Take Control](https://open.spotify.com/album/5Lm6ONdbKjUFkM4h4Stgu7) | 2:47 | 2021-05-15 | 2021-09-18 |
-| [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 | 2023-03-06 |  |
+| [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 | 2023-03-06 | 2023-08-07 |
 | [Take Me High](https://open.spotify.com/track/1EF8Ya2wALJOufB5VQAwtt) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Take Me High](https://open.spotify.com/album/45QHBYLqcIq50K0yCt43J7) | 4:15 | 2022-10-14 | 2023-01-27 |
 | [Take Me High](https://open.spotify.com/track/4gjN40eaGDu02UhcIB0mVi) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Take Me High](https://open.spotify.com/album/7B1o7ADGNrli4kqnxTH4fL) | 4:15 | 2022-09-16 | 2022-10-13 |
 | [Take My Hand](https://open.spotify.com/track/4KFFv2gYbZyltjKZ5hthIs) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Take My Hand](https://open.spotify.com/album/3oKJkuzvGc4z6w5jjchKJD) | 3:08 | 2021-03-11 | 2021-09-18 |

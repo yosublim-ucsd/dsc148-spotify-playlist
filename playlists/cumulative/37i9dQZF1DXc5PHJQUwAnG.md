@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Flyboiz y Adan Cruz en portada.
 
-165 songs - 7 hr 42 min
+166 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [FTH](https://open.spotify.com/track/0NvszFskYzYlVxcNXi76cU) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6) | [FTH](https://open.spotify.com/album/4LqTOl2yJcoOV8p8J63UMW) | 2:34 | 2023-07-07 |  |
 | [Fuego](https://open.spotify.com/track/4zIzfjDhrofMlzAp5jZhAe) | [Krusha G](https://open.spotify.com/artist/4OTXdFDQv95Y2bcB4TBYZw), [Ghetto Living](https://open.spotify.com/artist/0UpALfYoIQmSdTuRkI2HJR) | [Fuego](https://open.spotify.com/album/6QmW3NuFardKnO515PyyJl) | 2:51 | 2023-06-09 | 2023-07-01 |
 | [Funa Sesh vol.2](https://open.spotify.com/track/1g9dkgkBWHgIPQ6a7clswW) | [Red Lean](https://open.spotify.com/artist/3co8tdKJWZd4LYKaMA7iOB), [BCastle](https://open.spotify.com/artist/285zH6hC6vUv0D6pZWhsme), [Jxsu](https://open.spotify.com/artist/2aLOzgWOWTgnzV5lgIuWyE), [Zackly](https://open.spotify.com/artist/7hf5H27Nsx2qdjgXmy9QXr) | [Funa Sesh vol.2](https://open.spotify.com/album/1fkAQ8o4yMKp3Qo0o3vwJm) | 2:18 | 2023-06-09 |  |
-| [Gangster](https://open.spotify.com/track/0dyz7VlyWTbd9mbuUl3wKq) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/42EHvFRsQtspIer2baInn7) | 2:04 | 2023-07-07 |  |
+| [Gangster](https://open.spotify.com/track/0dyz7VlyWTbd9mbuUl3wKq) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/42EHvFRsQtspIer2baInn7) | 2:04 | 2023-07-07 | 2023-08-07 |
+| [Gangster](https://open.spotify.com/track/1iw8Tvg0BmqIP1jW69sW1R) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq) | 2:04 | 2023-08-04 |  |
 | [GODZILLA MODE](https://open.spotify.com/track/7FnIyTBH68sYhfQYy9LnO2) | [KyozeH](https://open.spotify.com/artist/258O12vApWppL528cs0gQf) | [GODZILLA MODE](https://open.spotify.com/album/1n3y0D7HYFLorUXI2fFpFF) | 1:43 | 2023-06-09 |  |
 | [Gracias A Dios](https://open.spotify.com/track/79cdKPrpDCOjiyKpAQwxOU) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:02 | 2023-06-09 | 2023-07-15 |
 | [Haunted House](https://open.spotify.com/track/2SZRk2iVpjkMOW004rsqKy) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL) | [Haunted House](https://open.spotify.com/album/30lTs4ZOWHEuXrSh1qGWCg) | 3:00 | 2023-07-21 |  |

@@ -4,7 +4,7 @@
 
 > Aquí vive el hip\-hop mexicano\. Gera MX, Peso Pluma y Herencia de Patrones en la casa.
 
-402 songs - 23 hr 53 min
+403 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 | 2022-01-28 | 2022-12-17 |
 | [Mucho Wannabe](https://open.spotify.com/track/6yi2nyqJtGm630oXGHUYbM) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Mucho Wannabe](https://open.spotify.com/album/2CPbobxLI6HGnEGpDCmIo1) | 3:46 | 2023-04-14 | 2023-05-06 |
 | [Muero](https://open.spotify.com/track/5ZVf2dn3T3EqwolwoIb8xt) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Muero](https://open.spotify.com/album/0S0AgQdXnkT47Ig8ADDjbF) | 4:18 | 2022-06-03 | 2022-12-17 |
-| [Mustang 65'](https://open.spotify.com/track/4AukEZfhVeIzapCkwjJXGA) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/42EHvFRsQtspIer2baInn7) | 2:10 | 2023-07-07 |  |
+| [Mustang 65'](https://open.spotify.com/track/3vVnKrR31NraqoVTMIm0Cp) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq) | 2:10 | 2023-08-03 |  |
+| [Mustang 65'](https://open.spotify.com/track/4AukEZfhVeIzapCkwjJXGA) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/42EHvFRsQtspIer2baInn7) | 2:10 | 2023-07-07 | 2023-08-07 |
 | [Máquina de escribir](https://open.spotify.com/track/3ZOjsCJn1IrMaUvhX4eDje) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Máquina de escribir](https://open.spotify.com/album/2ZYhsp6pHt41mEZYccc0B5) | 3:16 | 2022-01-28 | 2022-03-05 |
 | [México Bélico](https://open.spotify.com/track/5mjis1dx7DwjvpiBZOXSqN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [México Bélico](https://open.spotify.com/album/6gCNEc8cMwuTzba9Fz6fiq) | 4:06 | 2023-04-14 | 2023-06-24 |
 | [Música Mexa](https://open.spotify.com/track/4yOi3U3ItUcRckpjjuVPEJ) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Música Mexa](https://open.spotify.com/album/59RfQ4q6GQMwjjmUWKvXbx) | 3:14 | 2022-09-16 | 2023-04-09 |

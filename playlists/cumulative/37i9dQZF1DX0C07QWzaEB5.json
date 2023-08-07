@@ -1244,10 +1244,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 191587,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI"
+    },
+    {
+      "album": {
+        "name": "#TUSM",
+        "url": "https://open.spotify.com/album/09akXw71DkZY5NrJc8miWU"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191587,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/4opnoUS0I23L6LyTON7LIh"
     },
     {
       "album": {
@@ -2628,6 +2646,24 @@
     {
       "album": {
         "name": "#TUSM",
+        "url": "https://open.spotify.com/album/09akXw71DkZY5NrJc8miWU"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224567,
+      "name": "Thank U Soooo Much",
+      "url": "https://open.spotify.com/track/2k5CdVfxSGaucZfbMyNYgq"
+    },
+    {
+      "album": {
+        "name": "#TUSM",
         "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
       },
       "artists": [
@@ -2638,7 +2674,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 224567,
       "name": "Thank U Soooo Much",
       "url": "https://open.spotify.com/track/6wVwEeHvV4B1V7UE5sByva"
@@ -3290,10 +3326,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 196092,
       "name": "\u90fd\u5e02\u5973\u5b50",
       "url": "https://open.spotify.com/track/1fx1OZ7IFHEqohT2GIN0uB"
+    },
+    {
+      "album": {
+        "name": "\u90fd\u5e02\u5973\u5b50",
+        "url": "https://open.spotify.com/album/3ntOyPFFZxF6iIjXL3E8by"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197604,
+      "name": "\u90fd\u5e02\u5973\u5b50",
+      "url": "https://open.spotify.com/track/5KBeit6bMhlgfYwZuDTxoH"
     },
     {
       "album": {

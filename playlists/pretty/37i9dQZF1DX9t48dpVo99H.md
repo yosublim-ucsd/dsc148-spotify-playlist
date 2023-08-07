@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 
 > Solfeggio Frequencies, Bowls and Chants that strike a chord
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,043 likes - 55 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,137 likes - 55 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 | 54 | [Mixed Meditation Bowl Sounds \(Sound Bath\)](https://open.spotify.com/track/7kzsjfIiCZLTxKlOwmUpZU) | [Meditators](https://open.spotify.com/artist/35qLVQ5G13Moug3HQcf90C) | [Meditation Bowls](https://open.spotify.com/album/6Jxjl9oi2NcmWSYnr0BmQl) | 2:40 |
 | 55 | [Ferns](https://open.spotify.com/track/4EILGubj8yeAb5szI5BDVh) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [Ferns](https://open.spotify.com/album/1vM33GBEtobzFLRd1inD01) | 3:32 |
 
-Snapshot ID: `MCw3YzlmOTBkMDJmOGE5ZWViZjVkNTYxOGZiZWFiYjQ1MzQ3OTU4NjA1`
+Snapshot ID: `MCwyMWMzMGRkNGJiNTAyMzQ2YWUwMDdiNDIwMjcxZjhkYTM2NmYwZTAw`

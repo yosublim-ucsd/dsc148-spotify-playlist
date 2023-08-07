@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Ez Mil & Eminem\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,134 likes - 101 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,295 likes - 101 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 50 | [Long Nights](https://open.spotify.com/track/0QnyUB7rJhWLEEDgcT7i8g) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Long Nights](https://open.spotify.com/album/6cVwRJ0ttMRnCIWzY8zr9D) | 2:39 |
 | 51 | [The Weekend](https://open.spotify.com/track/1r16zpUZ2nH44uOXlBGrbm) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Weekend](https://open.spotify.com/album/1NDf6Vtl4F6HJ3mziFQpZx) | 3:26 |
 | 52 | [Drug Trade \(feat\. Black Thought\)](https://open.spotify.com/track/6hqazBd1QKThu6THWQrrsA) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Drug Trade \(feat\. Black Thought\)](https://open.spotify.com/album/6SkiUm0RUqcxSNltLkk8AY) | 4:32 |
-| 53 | [No Fake Love](https://open.spotify.com/track/7cUTJwL4pZiD3oTr5bKQSg) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [No Fake Love](https://open.spotify.com/album/0tJu26afSbkWTDgBABZeEV) | 2:26 |
+| 53 | [No Fake Love](https://open.spotify.com/track/3NKKOBUflBlHHVB3c2XS3E) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [I Showed U So](https://open.spotify.com/album/0I948LQ4t5SAG0ApHGMQ3h) | 2:26 |
 | 54 | [Roc\-A\-Fella Y'all](https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Roc\-A\-Fella Y'all](https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu) | 4:59 |
 | 55 | [Married with Millions](https://open.spotify.com/track/4D351lWRiY19nYceG5g5ZZ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Married with Millions](https://open.spotify.com/album/1axgP2oTkXQDzQkwxx6dQ1) | 3:19 |
 | 56 | [Drill Fr 6 \- S.M.B](https://open.spotify.com/track/0UjjRIuiLhAiDXPtIu0tIo) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [LEVELSANTANA](https://open.spotify.com/artist/4KwWARbWitQT4aqpS23w9O) | [Drill Fr 6 \(S.M.B\)](https://open.spotify.com/album/19TPBKSQ0wdhNNaIT2cMyP) | 2:32 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 100 | [Coupla Miles High](https://open.spotify.com/track/4sbo0Rc0zKjpELskYOb70D) | [Powloh](https://open.spotify.com/artist/1k6pzQFm9xjWETHy8Gv7OA) | [Coupla Miles High](https://open.spotify.com/album/2RaKfpMk9oCXjztATxxtmM) | 3:12 |
 | 101 | [Playa's Only \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6U3j5OLotiJlHVdiq5hfSe) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Playa's Only \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/5VcFT8jQVrava7H4QDuj8S) | 2:57 |
 
-Snapshot ID: `MCw5Nzg4NTc2OTE5ZmFkNGEwOTdhMDdkNzA0OGIxMDNlM2FmNTk3ZmM5`
+Snapshot ID: `MCw4MGNjNDk3YjM2OTdhYzJiMTdiODgwYWFiNzkxYTY0YThjMDA2OGE5`

@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 95673,
+  "num_followers": 95772,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWMzMDJjZGY2ZWMwYmI4M2RlODE4MDJhNTg3NDlmMTMyOWIzMGMy",
+  "snapshot_id": "MCw1NjJjNGI1M2NkZWYyNzM2NDJjMjFhMGRhYWI2NTM5MTRhOTljMDlh",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Right Back In It",
+        "url": "https://open.spotify.com/album/6LDfHzJYzCoJzKvDSjOFIk"
+      },
+      "artists": [
+        {
+          "name": "Leela James",
+          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
+        }
+      ],
+      "duration_ms": 222588,
+      "name": "Right Back In It",
+      "url": "https://open.spotify.com/track/6v3SMTdZiexZt12g6rG5v1"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Slow (feat. J Valentine)",
         "url": "https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 256310,
       "name": "Anytime (feat. Kehlani & ROMderful)",
       "url": "https://open.spotify.com/track/465Yx9rm9mNmzTFlojTIRs"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Right Back In It",
-        "url": "https://open.spotify.com/album/6LDfHzJYzCoJzKvDSjOFIk"
-      },
-      "artists": [
-        {
-          "name": "Leela James",
-          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
-        }
-      ],
-      "duration_ms": 222588,
-      "name": "Right Back In It",
-      "url": "https://open.spotify.com/track/6v3SMTdZiexZt12g6rG5v1"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "City Girl",
-        "url": "https://open.spotify.com/album/6Yb2iAl9GFYc0QjurOGgsn"
-      },
-      "artists": [
-        {
-          "name": "Ari PenSmith",
-          "url": "https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP"
-        },
-        {
-          "name": "Jonah Christian",
-          "url": "https://open.spotify.com/artist/6pDfhbJGBQJ22SvibycTYb"
-        }
-      ],
-      "duration_ms": 159365,
-      "name": "City Girl",
-      "url": "https://open.spotify.com/track/7HaAuZBOJTp0bpZPnccBUm"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Starfruit",
         "url": "https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 205720,
       "name": "You Got One",
       "url": "https://open.spotify.com/track/7DhOcyCu9WjUxY5kYNskVa"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "City Girl",
+        "url": "https://open.spotify.com/album/6Yb2iAl9GFYc0QjurOGgsn"
+      },
+      "artists": [
+        {
+          "name": "Ari PenSmith",
+          "url": "https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP"
+        },
+        {
+          "name": "Jonah Christian",
+          "url": "https://open.spotify.com/artist/6pDfhbJGBQJ22SvibycTYb"
+        }
+      ],
+      "duration_ms": 159365,
+      "name": "City Girl",
+      "url": "https://open.spotify.com/track/7HaAuZBOJTp0bpZPnccBUm"
     },
     {
       "added_at": "2023-08-04 03:01:00",

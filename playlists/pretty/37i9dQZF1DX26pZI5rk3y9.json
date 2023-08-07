@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 6014,
+  "num_followers": 6034,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjhmYTUxZTVhMmVmZDNjZTEyYzYxMWJmNTc4NTJkMmFlOTg5Zjgy",
+  "snapshot_id": "MCwyYzc4MWIwZTc0OGYxNWY0NDBkMTU5YmNkNzk0ZTJiOWQ5ZTFkNTA4",
   "tracks": [
     {
       "added_at": "2023-08-04 12:26:54",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
+        "name": "Coal Black Mattie",
+        "url": "https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1"
+      },
+      "artists": [
+        {
+          "name": "R.L. Boyce",
+          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+        }
+      ],
+      "duration_ms": 229696,
+      "name": "Coal Black Mattie",
+      "url": "https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
         "name": "Hey God",
         "url": "https://open.spotify.com/album/0cDZQ20DYbQMmnN5N9sA4L"
       },
@@ -391,18 +407,18 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Coal Black Mattie",
-        "url": "https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1"
+        "name": "Sneakin' Around",
+        "url": "https://open.spotify.com/album/0q55zTFXDDIiyjipipXE5T"
       },
       "artists": [
         {
-          "name": "R.L. Boyce",
-          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
         }
       ],
-      "duration_ms": 229696,
-      "name": "Coal Black Mattie",
-      "url": "https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn"
+      "duration_ms": 220869,
+      "name": "Sneakin\u2019 Around",
+      "url": "https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -439,22 +455,6 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "GrandVille",
-        "url": "https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY"
-      },
-      "artists": [
-        {
-          "name": "GrandVille",
-          "url": "https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK"
-        }
-      ],
-      "duration_ms": 368459,
-      "name": "Counting Colors",
-      "url": "https://open.spotify.com/track/1f8Try7safFyXmmOOZilPi"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
         "name": "The Deep And The Dirty",
         "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
       },
@@ -467,6 +467,22 @@
       "duration_ms": 202536,
       "name": "Undertow",
       "url": "https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "GrandVille",
+        "url": "https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY"
+      },
+      "artists": [
+        {
+          "name": "GrandVille",
+          "url": "https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK"
+        }
+      ],
+      "duration_ms": 368459,
+      "name": "Counting Colors",
+      "url": "https://open.spotify.com/track/1f8Try7safFyXmmOOZilPi"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -487,22 +503,6 @@
       "duration_ms": 204666,
       "name": "Eric (Long Live The King)",
       "url": "https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
-        "name": "Sneakin' Around",
-        "url": "https://open.spotify.com/album/0q55zTFXDDIiyjipipXE5T"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 220869,
-      "name": "Sneakin\u2019 Around",
-      "url": "https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
+        "name": "Wild Flying Dove",
+        "url": "https://open.spotify.com/album/7CbEruTsoJilsvpQjqoqCI"
+      },
+      "artists": [
+        {
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+        }
+      ],
+      "duration_ms": 361005,
+      "name": "Wild Flying Dove",
+      "url": "https://open.spotify.com/track/3mmISWDyxShlW9qizsyIKP"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
         "name": "Exorcist",
         "url": "https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Wild Flying Dove",
-        "url": "https://open.spotify.com/album/7CbEruTsoJilsvpQjqoqCI"
-      },
-      "artists": [
-        {
-          "name": "Ida Mae",
-          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
-        }
-      ],
-      "duration_ms": 361005,
-      "name": "Wild Flying Dove",
-      "url": "https://open.spotify.com/track/3mmISWDyxShlW9qizsyIKP"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
         "name": "Walk The Wire",
         "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 124218,
       "name": "Walk The Wire",
       "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "Ain't Nobody (Pain)",
+        "url": "https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Deal With the Devil (You'll Get Yours)",
+      "url": "https://open.spotify.com/track/0Mj8ijetNi0BccnaDAlYYF"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -683,22 +699,6 @@
       "duration_ms": 274612,
       "name": "Love Sick",
       "url": "https://open.spotify.com/track/2ze1OCYN4dtuOnZVVZVP8L"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
-        "name": "Ain't Nobody (Pain)",
-        "url": "https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Deal With the Devil (You'll Get Yours)",
-      "url": "https://open.spotify.com/track/0Mj8ijetNi0BccnaDAlYYF"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Take My Rider",
-        "url": "https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y"
-      },
-      "artists": [
-        {
-          "name": "Douglas Avery",
-          "url": "https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz"
-        }
-      ],
-      "duration_ms": 312640,
-      "name": "Take My Rider",
-      "url": "https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
         "name": "Good Love Goes Bad",
         "url": "https://open.spotify.com/album/0s1mtwlKIxnASFrd442eW9"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 235573,
       "name": "Good Love Goes Bad",
       "url": "https://open.spotify.com/track/4SAdnN5F4nOZW0R1CjwYDv"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "Take My Rider",
+        "url": "https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y"
+      },
+      "artists": [
+        {
+          "name": "Douglas Avery",
+          "url": "https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz"
+        }
+      ],
+      "duration_ms": 312640,
+      "name": "Take My Rider",
+      "url": "https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -875,6 +875,22 @@
       "duration_ms": 294327,
       "name": "Hazel Eyes",
       "url": "https://open.spotify.com/track/6wJcz18omAZIhiZvFFvBQs"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "Rockabye Motel",
+        "url": "https://open.spotify.com/album/1tGugHW3RhB2c3J52Knvdy"
+      },
+      "artists": [
+        {
+          "name": "Blue Water Highway",
+          "url": "https://open.spotify.com/artist/5N5nkgCu7UG5KqNpRPiUd7"
+        }
+      ],
+      "duration_ms": 343800,
+      "name": "Rockabye Motel",
+      "url": "https://open.spotify.com/track/6MpXCmx5j9qGFM0ka5JqZU"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -943,6 +959,22 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
+        "name": "Still Truckin",
+        "url": "https://open.spotify.com/album/2XiBPrUsv0DXZKPbiQVUms"
+      },
+      "artists": [
+        {
+          "name": "Marc A Ridge",
+          "url": "https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn"
+        }
+      ],
+      "duration_ms": 310056,
+      "name": "Still Truckin",
+      "url": "https://open.spotify.com/track/3gaibZyINf67LeyXmckAvK"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
         "name": "Stop Signs and Fence Lines",
         "url": "https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB"
       },
@@ -955,22 +987,6 @@
       "duration_ms": 170854,
       "name": "Ten Beer Job",
       "url": "https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
-        "name": "Rockabye Motel",
-        "url": "https://open.spotify.com/album/1tGugHW3RhB2c3J52Knvdy"
-      },
-      "artists": [
-        {
-          "name": "Blue Water Highway",
-          "url": "https://open.spotify.com/artist/5N5nkgCu7UG5KqNpRPiUd7"
-        }
-      ],
-      "duration_ms": 343800,
-      "name": "Rockabye Motel",
-      "url": "https://open.spotify.com/track/6MpXCmx5j9qGFM0ka5JqZU"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Go Down Swinging",
-        "url": "https://open.spotify.com/album/2SAYfi2HiMRUpa7c8C5IyC"
-      },
-      "artists": [
-        {
-          "name": "Hacienda",
-          "url": "https://open.spotify.com/artist/5PFOoYivDdyFBYkDiku1E3"
-        }
-      ],
-      "duration_ms": 193928,
-      "name": "Go Down Swinging",
-      "url": "https://open.spotify.com/track/4fJqzjd5rtgxPjzuTvIAeA"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 134001,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
-        "name": "Dynamite A Tribute to Muddy Waters (Radio Edit)",
-        "url": "https://open.spotify.com/album/1hLKS8WIE6j3abS51y6hru"
-      },
-      "artists": [
-        {
-          "name": "Baba Jenkins",
-          "url": "https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez"
-        }
-      ],
-      "duration_ms": 162612,
-      "name": "Dynamite A Tribute to Muddy Waters - Radio Edit",
-      "url": "https://open.spotify.com/track/5AU2HPhPRtg7NG8RBacSeP"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -1055,18 +1039,42 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Still Truckin",
-        "url": "https://open.spotify.com/album/2XiBPrUsv0DXZKPbiQVUms"
+        "name": "Go Down Swinging",
+        "url": "https://open.spotify.com/album/2SAYfi2HiMRUpa7c8C5IyC"
       },
       "artists": [
         {
-          "name": "Marc A Ridge",
-          "url": "https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn"
+          "name": "Hacienda",
+          "url": "https://open.spotify.com/artist/5PFOoYivDdyFBYkDiku1E3"
         }
       ],
-      "duration_ms": 310056,
-      "name": "Still Truckin",
-      "url": "https://open.spotify.com/track/3gaibZyINf67LeyXmckAvK"
+      "duration_ms": 193928,
+      "name": "Go Down Swinging",
+      "url": "https://open.spotify.com/track/4fJqzjd5rtgxPjzuTvIAeA"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/2s0hTPeFcMimcRZ51uBfKE"
+      },
+      "artists": [
+        {
+          "name": "The Lucky Strokes",
+          "url": "https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        },
+        {
+          "name": "Shelby Kemp",
+          "url": "https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5"
+        }
+      ],
+      "duration_ms": 255209,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/2JmwjDIFspqdq83Hv77HFv"
     }
   ],
   "unique_name": "Blues BBQ",

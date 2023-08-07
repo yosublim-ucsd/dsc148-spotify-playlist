@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Agarra el micr\u00f3fono y empieza a cantar estos \u00e9xitos inolvidables!",
-  "num_followers": 54245,
+  "num_followers": 54292,
   "original_name": "Fiesta & Karaoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzY2OGMyZTk0ZWU4Yzk3ODg3MzRiYjAyMTg3MzRiOTMyMjE4ZTFi",
+  "snapshot_id": "MCw2OTZlMzdkZjUzZDRjODdiNmQ5OTlmOWQ0NDViODNhZTc0MDBkMDU1",
   "tracks": [
     {
       "added_at": "2022-07-29 22:39:31",
@@ -979,18 +979,26 @@
     {
       "added_at": "2022-07-29 22:39:31",
       "album": {
-        "name": "Todavia (Radio Edit)",
-        "url": "https://open.spotify.com/album/2ljlY9QPnJ6VJ3JxUcxqf8"
+        "name": "Dj Pablito Presenta- La Factor\u00eda",
+        "url": "https://open.spotify.com/album/7LPdPCTfXLwJyW2UzghtVb"
       },
       "artists": [
         {
+          "name": "DJ Pablito",
+          "url": "https://open.spotify.com/artist/44cA8XUceHxTRIVRZAdvW5"
+        },
+        {
           "name": "La Factoria",
           "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+        },
+        {
+          "name": "Joycee",
+          "url": "https://open.spotify.com/artist/7IjPW8bcW8D5mccCuVxbEC"
         }
       ],
-      "duration_ms": 203453,
-      "name": "Todavia - Radio Edit",
-      "url": "https://open.spotify.com/track/2anG3oj6XqxccnXJPUOnac"
+      "duration_ms": 203360,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI"
     },
     {
       "added_at": "2022-07-29 22:39:31",

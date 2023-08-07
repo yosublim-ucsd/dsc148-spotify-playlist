@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 123642,
+  "num_followers": 123785,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjFhNGE2NTQ3ZmM1NGYyNmNmZmVhZmUwNGNmZTc3OTYxOGU2ZWEx",
+  "snapshot_id": "MCxmYjkzYzhkNzVlYzFhZWNkNzgxNTYxOGNhNGNhYWE2NTY0ZGQyM2Ew",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 272750,
-      "name": "Prova Dos Nove",
-      "url": "https://open.spotify.com/track/5jsVbRJUzMTY8KCpPIVlg8"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Beth",
         "url": "https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 208733,
       "name": "Chega de Saudade",
       "url": "https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Brasileiro",
+        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 272750,
+      "name": "Prova Dos Nove",
+      "url": "https://open.spotify.com/track/5jsVbRJUzMTY8KCpPIVlg8"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Raizes Do Samba",
-        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
-      },
-      "artists": [
-        {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
-        }
-      ],
-      "duration_ms": 174493,
-      "name": "As Rosas N\u00e3o Falam",
-      "url": "https://open.spotify.com/track/0MMe6HyOCDo6GYBZZCwkyt"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Samba a Dois",
         "url": "https://open.spotify.com/album/626nhdq0blndq0o6jT6Rm3"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
         }
       ],
-      "duration_ms": 196808,
-      "name": "Samba de Amanda e T\u00e9",
-      "url": "https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc"
+      "duration_ms": 174493,
+      "name": "As Rosas N\u00e3o Falam",
+      "url": "https://open.spotify.com/track/0MMe6HyOCDo6GYBZZCwkyt"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 196808,
+      "name": "Samba de Amanda e T\u00e9",
+      "url": "https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Canto Sagrado - Uma Homenagem \u00e0 Clara Nunes",
         "url": "https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo"
       },
@@ -1095,54 +1095,6 @@
       "duration_ms": 264933,
       "name": "Tristeza P\u00e9 No Ch\u00e3o",
       "url": "https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Loucura: Adriana Calcanhotto Canta Lupic\u00ednio Rodrigues (Ao Vivo)",
-        "url": "https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Nervos de A\u00e7o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Ningu\u00e9m Pro\u00edbe o Amor",
-        "url": "https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq"
-      },
-      "artists": [
-        {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Coisa de Louco",
-      "url": "https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "\u00c1gua de Chuva no Mar (Do filme \"Um Casal Insepar\u00e1vel\")",
-        "url": "https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "\u00c1gua de Chuva no Mar - Do filme \"Um Casal Insepar\u00e1vel\"",
-      "url": "https://open.spotify.com/track/1PmJKK9Jclc230tru8UOHb"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1163,6 +1115,54 @@
       "duration_ms": 153507,
       "name": "Papo Final",
       "url": "https://open.spotify.com/track/1S8iDtct4TXU3AbZYW5BIp"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Loucura: Adriana Calcanhotto Canta Lupic\u00ednio Rodrigues (Ao Vivo)",
+        "url": "https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Nervos de A\u00e7o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "\u00c1gua de Chuva no Mar (Do filme \"Um Casal Insepar\u00e1vel\")",
+        "url": "https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 248746,
+      "name": "\u00c1gua de Chuva no Mar - Do filme \"Um Casal Insepar\u00e1vel\"",
+      "url": "https://open.spotify.com/track/1PmJKK9Jclc230tru8UOHb"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Ningu\u00e9m Pro\u00edbe o Amor",
+        "url": "https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq"
+      },
+      "artists": [
+        {
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Coisa de Louco",
+      "url": "https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1199,18 +1199,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Sol de Ver\u00e3o 2021",
-        "url": "https://open.spotify.com/album/19nZbz3qRHOvixEPSMR3WH"
+        "name": "Gema (342 Amaz\u00f4nia ao Vivo no Circo Voador)",
+        "url": "https://open.spotify.com/album/0sbkCMPCxWHQlPjXRlLy2D"
       },
       "artists": [
         {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+          "name": "Teresa Cristina",
+          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 139360,
-      "name": "Figa De Guin\u00e9",
-      "url": "https://open.spotify.com/track/1oekqvXHit1f8Rirv9uSH7"
+      "duration_ms": 145823,
+      "name": "Gema (342 Amaz\u00f4nia ao Vivo no Circo Voador)",
+      "url": "https://open.spotify.com/track/0QEZd6kBAGnVjpfL0T165H"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1235,22 +1239,18 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Gema (342 Amaz\u00f4nia ao Vivo no Circo Voador)",
-        "url": "https://open.spotify.com/album/0sbkCMPCxWHQlPjXRlLy2D"
+        "name": "Sol de Ver\u00e3o 2021",
+        "url": "https://open.spotify.com/album/19nZbz3qRHOvixEPSMR3WH"
       },
       "artists": [
         {
-          "name": "Teresa Cristina",
-          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
         }
       ],
-      "duration_ms": 145823,
-      "name": "Gema (342 Amaz\u00f4nia ao Vivo no Circo Voador)",
-      "url": "https://open.spotify.com/track/0QEZd6kBAGnVjpfL0T165H"
+      "duration_ms": 139360,
+      "name": "Figa De Guin\u00e9",
+      "url": "https://open.spotify.com/track/1oekqvXHit1f8Rirv9uSH7"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Tamb\u00e9m Pede Bis",
+        "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
+      },
+      "artists": [
+        {
+          "name": "Pedro Miranda",
+          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
+        }
+      ],
+      "duration_ms": 171805,
+      "name": "Tamb\u00e9m Pede Bis",
+      "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Fazendo as Pazes Com o Swing",
         "url": "https://open.spotify.com/album/1WG25Pe3FbldwSOhv0AzO8"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 190880,
       "name": "Pode Ser",
       "url": "https://open.spotify.com/track/2opMS46C0A83CbZUrImjKS"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Tamb\u00e9m Pede Bis",
-        "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
-      },
-      "artists": [
-        {
-          "name": "Pedro Miranda",
-          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
-        }
-      ],
-      "duration_ms": 171805,
-      "name": "Tamb\u00e9m Pede Bis",
-      "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
     },
     {
       "added_at": "2023-08-04 03:01:00",

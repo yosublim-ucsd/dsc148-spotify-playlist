@@ -4,7 +4,7 @@
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-222 songs - 13 hr 8 min
+223 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [La Yapa](https://open.spotify.com/track/0gcZzig5VyR2MHSjCM5FbV) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Chaqueñadas](https://open.spotify.com/album/6R49gTlWLOhwKDnw95olcP) | 2:50 | 2022-02-21 | 2022-11-12 |
 | [La Yapa](https://open.spotify.com/track/6M3c5mTRfuT4E8hbyAXrLU) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Chaqueñadas](https://open.spotify.com/album/56iNtYlcmkViyQhjah60Kb) | 2:50 | 2021-07-23 | 2022-07-29 |
 | [Largos Caminos Me Ire](https://open.spotify.com/track/7b3CAqCWhh0m01DSR1WW1G) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Chaqueñadas](https://open.spotify.com/album/56iNtYlcmkViyQhjah60Kb) | 2:18 | 2021-07-23 | 2022-07-24 |
-| [Las Manos De Mi Madre](https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ) | [Argentino Luna](https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs) | [El Duende De Las Guitarras](https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk) | 2:46 | 2021-07-23 |  |
+| [Las Manos De Mi Madre](https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ) | [Argentino Luna](https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs) | [El Duende De Las Guitarras](https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk) | 2:46 | 2021-07-23 | 2023-08-07 |
 | [Lloraré](https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [22 Grandes Exitos](https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T) | 3:10 | 2021-07-23 | 2022-07-27 |
 | [Los Ejes de Mi Carreta](https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Viajes Por El Mundo](https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw) | 2:52 | 2022-02-21 |  |
 | [Lucero Cantor](https://open.spotify.com/track/5Rr0MwgF3sDqch1brtSunL) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Los Copla](https://open.spotify.com/album/67f8qJ03gPtnrQFeMnIa0k) | 3:14 | 2021-07-23 | 2022-07-03 |
@@ -182,6 +182,7 @@
 | [Purmamarca](https://open.spotify.com/track/1x7hWGwMKKLGTxPueCbuPV) | [Los Changos](https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71), [Franco Barrionuevo](https://open.spotify.com/artist/1Lw75bAtvyN31qYzmjgMMb), [Luis Paredes](https://open.spotify.com/artist/62b29phHmw4APV3xe26cco) | [Concierto del Alma](https://open.spotify.com/album/2x35VXSZW6xfQQSvSnYIVW) | 3:33 | 2021-07-23 |  |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/0YhkCXDzIkVcv1ToW5BSbt) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Sole](https://open.spotify.com/album/5gPAkqdpxaPRc5ZvigqNok) | 3:13 | 2021-07-23 |  |
 | [Qué te Ocurre Amigo Mío](https://open.spotify.com/track/1MDNNAkUU5AkJxzMmYJwiz) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 Del Río](https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q) | 3:38 | 2021-07-23 | 2022-07-03 |
+| [Qué Te Ocurre Amigo Mío](https://open.spotify.com/track/1kFbnDteYOYeQB5eB1aWs6) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 del Río](https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq) | 3:38 | 2023-06-22 |  |
 | [Recuerdo Salteño](https://open.spotify.com/track/76yO7eh6SgvE0PSYjKdaVj) | [El Chango Nieto](https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl) | 2:31 | 2021-07-23 | 2022-07-28 |
 | [Recuerdo Salteño](https://open.spotify.com/track/3esSMzPYxYBnW6ARIgr4Oo) | [Las Voces De Orán](https://open.spotify.com/artist/4rtxMgmSUuGnQbvf61BDB8) | [Nuestras Mejores 30 Canciones](https://open.spotify.com/album/1PLHsC4X3wdJr6xFEfzcjJ) | 2:41 | 2021-07-23 | 2022-11-13 |
 | [Recuerdos de Ypacaraí](https://open.spotify.com/track/43Jrbm0yMWAbjFA2DS5rwp) | [Ramón Ayala El Mensú](https://open.spotify.com/artist/6VBeD0MxrxKKw7FDK8FwhB), [George Haslam](https://open.spotify.com/artist/4aNMEoyzSEXacKUlZedsZX), [Ruben Ferrero](https://open.spotify.com/artist/2QBN21Nc9xG27ZGDOjR5P6) | [Recuerdos de Ypacaraí](https://open.spotify.com/album/5ZvJ9WQFnxnwTli25l9Ohg) | 4:03 | 2021-07-23 | 2022-07-06 |

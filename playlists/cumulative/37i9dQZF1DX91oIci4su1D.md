@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-721 songs - 1 day 19 hr 53 min
+722 songs - 1 day 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Break the Ice](https://open.spotify.com/track/1YdFebuOulpMxNk5Ma4ozW) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [Freak E Beatz](https://open.spotify.com/artist/72PA5rE1ByXjTijXCZA48C) | [Break the Ice](https://open.spotify.com/album/0OhdE7TNwWkutFMi6phZtz) | 4:01 | 2022-02-04 | 2023-02-25 |
 | [Breakfast In Vegas](https://open.spotify.com/track/2o6RuGihlwJhA7vT41lz5A) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Breakfast In Vegas](https://open.spotify.com/album/3vAAypb5bNznpu4gml1xCI) | 3:40 | 2022-02-25 | 2022-05-14 |
 | [Breaking Light](https://open.spotify.com/track/616t2cVL8B7jUtzxqyLRAx) | [Aurosonic](https://open.spotify.com/artist/1UkK91RiLw3FonVedbAVA1), [Sharon Valerona](https://open.spotify.com/artist/5QqFl3TTNF95pndfKUr1Vb) | [Breaking Light](https://open.spotify.com/album/3qYFbXf36nY6ChDS26Q268) | 3:42 | 2022-02-18 | 2022-10-29 |
+| [Breath of Life](https://open.spotify.com/track/7pkVmfzwkugvPTNVQLQU1i) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Breath of Life](https://open.spotify.com/album/4CVY7Jj9BQDoStDHY1if64) | 3:09 | 2023-08-04 |  |
 | [Breath Of The Wild](https://open.spotify.com/track/08ikdgOu28YP4bFKAq44wL) | [Alex Sonata & TheRio](https://open.spotify.com/artist/0R3Imkf3vLjMsdx46OC2Ej) | [Breath Of The Wild](https://open.spotify.com/album/5KPwjMCZyCXLWltnBnewor) | 3:30 | 2022-10-07 |  |
 | [Breathe](https://open.spotify.com/track/3W6kvOOFOe2Br9X1TCfR7G) | [Whiteout](https://open.spotify.com/artist/35wRsBUrfQziBPzvJTr9bt), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Breathe](https://open.spotify.com/album/3mhjrFINMjUNpVcNOBMFRf) | 3:43 | 2023-02-24 | 2023-06-10 |
 | [Breathing](https://open.spotify.com/track/37bZneyU8dqpl2TAiSe0pw) | [Boom Jinx](https://open.spotify.com/artist/6Qt0hC59vdinaimdZkin1Y), [Nitrous Oxide](https://open.spotify.com/artist/0UJQXkmx6GjqUxugf7zzkR), [Einar K](https://open.spotify.com/artist/3bupuvTQ70NllkKaZtwC1c), [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [Breathing](https://open.spotify.com/album/2iriCUVPYMoO4w0fYz5CPH) | 3:12 | 2023-05-26 |  |
@@ -721,7 +722,7 @@
 | [you broke me first](https://open.spotify.com/track/3ztpVHzt35X2zwBbEh4gMg) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [you broke me first](https://open.spotify.com/album/0OowUlZkI9g5T1qTWWyhID) | 2:41 | 2021-12-17 | 2022-04-23 |
 | [you broke me first \- XiJaro & Pitch Remix](https://open.spotify.com/track/3mivCx58qsgZszezCkvmcp) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [you broke me first \(XiJaro & Pitch Remix\)](https://open.spotify.com/album/635AMftd7i92nnCOIX5Dse) | 2:49 | 2023-06-23 |  |
 | [You Can't Save Me](https://open.spotify.com/track/61dE4pgV3F1TKdrPm3ToCD) | [Lasse Macbeth](https://open.spotify.com/artist/0Bqc6zw67oGyYGoIz0w9Te), [Josie Sandfeld](https://open.spotify.com/artist/19HQyS89sUHeCAUAXWsznp) | [You Can't Save Me](https://open.spotify.com/album/2z3FPPHUPYRKUGVSWm1t5J) | 4:02 | 2022-04-29 | 2023-04-03 |
-| [You Get Me](https://open.spotify.com/track/4swpBMR7chyLpb3sbCOnUC) | [Phillip Castle](https://open.spotify.com/artist/74Ly4RWI1R9HIKN76crvxd), [Koyah](https://open.spotify.com/artist/3ruRvp4imiIkW1LP666jnd) | [You Get Me](https://open.spotify.com/album/5WSK9jWpf5iSBlj0jBS7tc) | 3:45 | 2023-07-21 |  |
+| [You Get Me](https://open.spotify.com/track/4swpBMR7chyLpb3sbCOnUC) | [Phillip Castle](https://open.spotify.com/artist/74Ly4RWI1R9HIKN76crvxd), [Koyah](https://open.spotify.com/artist/3ruRvp4imiIkW1LP666jnd) | [You Get Me](https://open.spotify.com/album/5WSK9jWpf5iSBlj0jBS7tc) | 3:45 | 2023-07-21 | 2023-08-07 |
 | [You Make Me Feel Alive](https://open.spotify.com/track/5LKMOemvpTqzRXIafoMLnt) | [Jody 6](https://open.spotify.com/artist/0E8BC8YVaBgXflTlmNnH5Y) | [You Make Me Feel Alive](https://open.spotify.com/album/3OO29jCURj0yDJl0Ot38Cs) | 3:30 | 2023-02-24 |  |
 | [You're All I Want](https://open.spotify.com/track/58vWCkOvsAPXsAhOW9OQhE) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Klassy Project](https://open.spotify.com/artist/2r1CRqPCo5kYuR7PvuLkEf) | [You’re All I Want](https://open.spotify.com/album/6JTRDvoBl3xRLYIIX7VQd3) | 3:01 | 2022-11-25 |  |
 | [You're Never Alone \- Uplifting Mix](https://open.spotify.com/track/7MTg6uURum6LUw7O3mAd9K) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Susie Ledge](https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ) | [You’re Never Alone \(Uplifting Mix\)](https://open.spotify.com/album/4wti7dibaj0vfpvMo0lH3d) | 3:59 | 2023-06-09 |  |

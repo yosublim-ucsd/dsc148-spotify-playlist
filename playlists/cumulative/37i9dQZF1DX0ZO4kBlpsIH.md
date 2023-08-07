@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-179 songs - 8 hr 42 min
+180 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [Sensibilité musette](https://open.spotify.com/track/2wliHjwY0veVidLVYLQdhv) | [Stephanie Methot](https://open.spotify.com/artist/4oOUhXHZsHcKj3jhQbHvhe) | [Ambience Musette \(Special Non\-Stop One Hour French Style Ballroom Dance Session\)](https://open.spotify.com/album/6cGIKPQxlbs031DRgFLluL) | 2:22 | 2022-08-05 | 2022-11-14 |
 | [Sous le ciel de Paris](https://open.spotify.com/track/5cuYrVcC5krKnbLEdhTfMe) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [A La Noce](https://open.spotify.com/album/1Z1tQ9n2ZZFBuJP11hz9AP) | 3:46 | 2022-11-25 | 2023-03-22 |
 | [Sous le ciel de Paris](https://open.spotify.com/track/5gzv7hDtrahHurHcYQF41l) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F), [Dominique Cravic](https://open.spotify.com/artist/3YbvJxUxRDaLxoe7K5nPV8), [Claire Elzière](https://open.spotify.com/artist/1Zz0qtkLEAJvEmi3w6QKRO) | [French Cafe Music](https://open.spotify.com/album/6xkpSZA1I5GGQ706McVrCr) | 3:03 | 2022-02-18 | 2023-03-22 |
-| [Sous le ciel de Paris](https://open.spotify.com/track/4mEaQLFPna3vD3mOltpzho) | [Gilbert Roussel](https://open.spotify.com/artist/5pIaaeMGL31kC7Jz2ZU0K1) | [Il en faudrait si peu \(Collection "Les archives de l'accordéon"\)](https://open.spotify.com/album/5XWBYQsWBSCIM3iFTzu5hi) | 2:44 | 2023-03-07 |  |
+| [Sous le ciel de Paris](https://open.spotify.com/track/4mEaQLFPna3vD3mOltpzho) | [Gilbert Roussel](https://open.spotify.com/artist/5pIaaeMGL31kC7Jz2ZU0K1) | [Il en faudrait si peu \(Collection "Les archives de l'accordéon"\)](https://open.spotify.com/album/5XWBYQsWBSCIM3iFTzu5hi) | 2:44 | 2023-03-07 | 2023-08-07 |
+| [Sous Le Ciel De Paris \- 1951](https://open.spotify.com/track/3uLV311pq2SRLKbiV8oA64) | [Gilbert Roussel](https://open.spotify.com/artist/5pIaaeMGL31kC7Jz2ZU0K1) | [Valse Musette](https://open.spotify.com/album/3IstTjNFAMomssd6s9g8XX) | 2:40 | 2023-08-03 |  |
 | [Sous les ponts de Paris](https://open.spotify.com/track/7EPUfhGSOEA2oJ7l7eIMHZ) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F), [Dominique Cravic](https://open.spotify.com/artist/3YbvJxUxRDaLxoe7K5nPV8), [Claire Elzière](https://open.spotify.com/artist/1Zz0qtkLEAJvEmi3w6QKRO) | [French Cafe Music](https://open.spotify.com/album/6xkpSZA1I5GGQ706McVrCr) | 1:47 | 2023-03-07 |  |
 | [Stranger in Paradise](https://open.spotify.com/track/6GjAj2EPLGg4sA8IGwfeNR) | [Fapy Lafertin Quintet](https://open.spotify.com/artist/3R40AsTdJfrb2Tjma0IKKF), [Tim Kliphuis](https://open.spotify.com/artist/5oIzOvlQiWNh4IviPqp6cJ) | [Fleur D'ennui](https://open.spotify.com/album/4XAQbww740j53SaJCHFXCU) | 4:14 | 2022-11-25 | 2023-04-14 |
 | [Sunbeam Bossa](https://open.spotify.com/track/1vh9W9ZWrC7n646F9xylVx) | [Bossa Nórdica](https://open.spotify.com/artist/68CfKFCbNNQaqy75ZgwF4h) | [Sunbeam Bossa](https://open.spotify.com/album/1REO43jYtdKeP22HeTGMX8) | 3:05 | 2022-02-18 |  |

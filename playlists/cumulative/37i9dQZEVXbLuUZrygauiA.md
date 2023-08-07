@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,265 songs - 2 day 20 hr 51 min
+1,267 songs - 2 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-26 | 2022-05-28 |
 | [As It Was](https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [As It Was](https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU) | 3:46 | 2023-01-15 | 2023-02-13 |
 | [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-07-04 |  |
-| [Asi Esta El Rollo](https://open.spotify.com/track/0h4a5uK4dUbsJzcM4FIZgj) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI) | [Asi Esta El Rollo](https://open.spotify.com/album/6Ibrahw2edGhGyaFJ0X0N8) | 1:51 | 2023-08-03 |  |
+| [Asi Esta El Rollo](https://open.spotify.com/track/0h4a5uK4dUbsJzcM4FIZgj) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI) | [Asi Esta El Rollo](https://open.spotify.com/album/6Ibrahw2edGhGyaFJ0X0N8) | 1:51 | 2023-08-03 | 2023-08-07 |
+| [Asi Esta El Rollo](https://open.spotify.com/track/3r0I73Ewcc157O7HkOQLGh) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI) | [Asi Esta El Rollo](https://open.spotify.com/album/1LpkkrtAh2myILKN5pLSA4) | 1:51 | 2023-08-06 |  |
 | [Asi Me Encula](https://open.spotify.com/track/2WIJXF6tT09YzL8FjyVy5x) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Sandro Malandro Por Amor Al Mic](https://open.spotify.com/album/7fWRP3KUkm4PdTL5OPCqzv) | 3:18 | 2022-10-26 | 2022-12-27 |
 | [Así Lo Quiso Dios](https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:25 | 2023-05-24 | 2023-07-10 |
 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2022-06-07 | 2022-07-23 |
@@ -848,7 +849,7 @@
 | [PHONKGASKAR](https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2) | [Rushex](https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti), [Jolixwery](https://open.spotify.com/artist/1OZskXcIcGU2L0RamW7Xa0) | [PHONKGASKAR](https://open.spotify.com/album/2B6eFuLza7i5gwzzWgASFI) | 1:22 | 2023-05-14 | 2023-06-14 |
 | [Phonky Tribu](https://open.spotify.com/track/0uo7p6JtXF7U8x0ktN0Vty) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/2We9hFPWAKxXBmKqSDHXOK) | 4:46 | 2022-09-19 | 2022-10-12 |
 | [Phonky Tribu](https://open.spotify.com/track/4wz2VahIi49SPomvyT75nA) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/0FmLggi6nTAi3eY0xz8aFx) | 4:46 | 2022-10-11 | 2022-10-30 |
-| [PICARDÍA](https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:35 | 2023-08-01 |  |
+| [PICARDÍA](https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:35 | 2023-08-01 | 2023-08-07 |
 | [Pico y Pala](https://open.spotify.com/track/1AWefrQG0I0OtvatTB01EZ) | [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [Pico y Pala](https://open.spotify.com/album/2W3jyJZSprQ0fxlOpEGH7H) | 2:54 | 2022-10-25 | 2022-11-02 |
 | [Pieces](https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Pieces](https://open.spotify.com/album/3UuTomNtncKiqwsZeakbPj) | 3:16 | 2023-04-16 | 2023-04-23 |
 | [Piensa en Mi](https://open.spotify.com/track/4Y0C95WSGxcuNVCbealJvw) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Piensa en Mi](https://open.spotify.com/album/1YC7xdhB97jSwGkHllnBsn) | 3:12 | 2023-02-07 | 2023-02-15 |
@@ -1242,6 +1243,7 @@
 | [Ya Valio \(YCQVM nata montana\)](https://open.spotify.com/track/4mS3c4K6h0N0gDmKiHi7sB) | [DXNMUSIC](https://open.spotify.com/artist/6TFH2OWqmcaMxXuXAvxZgp) | [Ya Valio \(YCQVM nata montana\)](https://open.spotify.com/album/5SdvRwlrvVoLr86thapJhU) | 3:23 | 2023-07-14 | 2023-07-26 |
 | [Ya Valio \(YCQVM nata montana\)](https://open.spotify.com/track/2ZnOA4pfYlUbry7dvoNIcU) | [OscarMaydonn](https://open.spotify.com/artist/10IPGOsbeYQCjCSS669xjb) | [Ya Valio \(YCQVM nata montana\)](https://open.spotify.com/album/0zGZMRJl3oM16HT4FOfLJU) | 3:23 | 2023-06-30 | 2023-07-15 |
 | [Yandel 150](https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:36 | 2023-01-17 | 2023-03-20 |
+| [YCQVM](https://open.spotify.com/track/5ua8FnbLGx652vzX1kWPnu) | [iaKV](https://open.spotify.com/artist/1g2eSbgJcFqtf0mSoKvfq4) | [YCQVM](https://open.spotify.com/album/0UITsw6t4OfZXclx2fKsIP) | 3:28 | 2023-08-06 |  |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-03-30 | 2022-04-26 |
 | [Yes To Heaven](https://open.spotify.com/track/3jGSKgN7bx9RZzDyjxwMNK) | [August](https://open.spotify.com/artist/14OTXivoPN0qTfPwf22FUF) | [Yes To Heaven](https://open.spotify.com/album/7APax7lenlO06aVlVFh0fw) | 3:17 | 2023-03-04 | 2023-03-07 |
 | [Yes To Heaven](https://open.spotify.com/track/4yGwZVc0GFdUl48wqdtbQ8) | [August](https://open.spotify.com/artist/14OTXivoPN0qTfPwf22FUF) | [Yes To Heaven](https://open.spotify.com/album/16WkTNmbOwEvcILisyzoPR) | 3:17 | 2023-02-11 | 2023-02-23 |

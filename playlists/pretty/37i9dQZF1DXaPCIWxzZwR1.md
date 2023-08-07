@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,265,606 likes - 102 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,266,109 likes - 102 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 101 | [SunKissing](https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [SunKissing](https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A) | 2:57 |
 | 102 | [something's off](https://open.spotify.com/track/16dPXAC2RS7aYRpbJ6AS7K) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [something's off](https://open.spotify.com/album/6p5dKhiFwoLdZ4msjRCZmV) | 2:14 |
 
-Snapshot ID: `MCxlNjY4YWU5MzFkOWMxYjc1NDMyMjRmOTEzNmVkYzFkZTNhMjQzNjMz`
+Snapshot ID: `MCwyNzYwOGFjOWJhNDJjZmRmMjJkMWIzYTA5ZGMwY2EzZDRhYTZhNTNi`

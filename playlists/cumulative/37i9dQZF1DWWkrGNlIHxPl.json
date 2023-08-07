@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Global crossovers by/with Arab artists. Cover: Ghita Askari",
+  "description": "Global crossovers by/with Arab artists. Cover: Bayou",
   "name": "Arab X",
   "tracks": [
     {
@@ -616,6 +616,32 @@
       "duration_ms": 152923,
       "name": "Busy Body",
       "url": "https://open.spotify.com/track/3jpDQxRLXSMFLcYqGWdSP2"
+    },
+    {
+      "album": {
+        "name": "Call Her Right Now",
+        "url": "https://open.spotify.com/album/3UUqKY7fBTEr4pVVpJQU14"
+      },
+      "artists": [
+        {
+          "name": "Bayou",
+          "url": "https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3"
+        },
+        {
+          "name": "Hady Moamer",
+          "url": "https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD"
+        },
+        {
+          "name": "Motif Alumni",
+          "url": "https://open.spotify.com/artist/00FC4KkW4wnmRtEA7tq7mC"
+        }
+      ],
+      "date_added": "2023-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137110,
+      "name": "Call Her Right Now",
+      "url": "https://open.spotify.com/track/3ZZNpESGS4HnRlT1iZQVWq"
     },
     {
       "album": {
@@ -2850,7 +2876,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 220539,
       "name": "leave me",
       "url": "https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT"

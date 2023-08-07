@@ -1885,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "Breath of Life",
+        "url": "https://open.spotify.com/album/4CVY7Jj9BQDoStDHY1if64"
+      },
+      "artists": [
+        {
+          "name": "Talla 2XLC",
+          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189850,
+      "name": "Breath of Life",
+      "url": "https://open.spotify.com/track/7pkVmfzwkugvPTNVQLQU1i"
+    },
+    {
+      "album": {
         "name": "Breath Of The Wild",
         "url": "https://open.spotify.com/album/5KPwjMCZyCXLWltnBnewor"
       },
@@ -15250,7 +15268,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 225937,
       "name": "You Get Me",
       "url": "https://open.spotify.com/track/4swpBMR7chyLpb3sbCOnUC"

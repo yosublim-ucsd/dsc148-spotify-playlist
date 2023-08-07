@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > Life in plastic, it's fantastic \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,496 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,309 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 99 | [Je serai le président de tous les Français](https://open.spotify.com/track/4qYBR4KCtaTeOBwQA2wc66) | [Malto](https://open.spotify.com/artist/1oo0gAsGtsm3jXI2gk6fSc) | [Je serai le président de tous les Français](https://open.spotify.com/album/1ILQ2BrYOxWliYAUwvLSOL) | 1:56 |
 | 100 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 |
 
-Snapshot ID: `MCw1NjllYTdlNDVjOGZmMjZjNDM3ODg3NWJhM2E5YTI5ZGVkMzYyMTRi`
+Snapshot ID: `MCwyMzBlMjU0Y2E5Y2Y0ZTdhMmZiMWJmZDRlODQxOWZiYTAxNjQ2ZjEw`

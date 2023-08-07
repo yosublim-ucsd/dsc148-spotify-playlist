@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest local and global tracks in Pakistan\. Cover \- Bayaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,314 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,369 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 74 | [Agar Tum Saath Ho \(From "Tamasha"\)](https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Forever With Arijit Singh](https://open.spotify.com/album/5Wm1nhxZqx7i0Hp6ZBqe9T) | 5:41 |
 | 75 | [Yaar Ka Sataya Hua Hai](https://open.spotify.com/track/2Y2l0h051Vk4qUG2ZH7KKy) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Nawazuddin Siddiqui](https://open.spotify.com/artist/1qcVHIPfwFFc0gMnAxG9I1) | [Yaar Ka Sataya Hua Hai](https://open.spotify.com/album/2AqA5Q47R0kLjUb3tjX63T) | 4:27 |
 
-Snapshot ID: `MCw2NGQ5NmNkMjE2MTQ4NGIxZjUwNGJhODFjODUwODk2NTRjZWNmOTBj`
+Snapshot ID: `MCw2MDUyYTliNDJjYzY3NTQ5NzZjODZkOGY5ZmVlYjA2ZjczYzQzOGU5`

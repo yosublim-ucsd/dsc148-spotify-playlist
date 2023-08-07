@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Diana Burco, Lupita Infante.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,312 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,351 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Si Tu La Ves](https://open.spotify.com/track/04v1ifU5ICftn7GKzaFpl9) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Si Tu La Ves](https://open.spotify.com/album/4YViEFHtIfrWhgV6JTDUNN) | 3:13 |
 | 50 | [El Merengue \- Bachata Version](https://open.spotify.com/track/51eutINA7q6oJPlyXaedq2) | [DJ Tronky](https://open.spotify.com/artist/5G3p1Ju6ZzScqAropTMkJG), [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [El Merengue \(Bachata Version\)](https://open.spotify.com/album/69NQhUo4dWZLhgrMND2rl5) | 3:09 |
 
-Snapshot ID: `MCwzYjRmZTFlZjdmYjI3ZTZjOTk0M2RkOGYyODkxMTc5ZDYxYWIyYTcy`
+Snapshot ID: `MCw2MzUyNDRlZjI4ZjI2YWQzYmU1OWIwZTJhZDA5ZTZlZDcwMjc1ODk2`

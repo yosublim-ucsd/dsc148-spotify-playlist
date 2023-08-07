@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S.",
-  "num_followers": 23343,
+  "num_followers": 23360,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmZlY2EzNjBmMjgwNDA5ZmVlMDdhYzc5Yjk5MWE1YTk4ZmIxMDU3",
+  "snapshot_id": "MCwyMTQ5NGNjMDA4M2Q4MGFhNGY5OGZjYTgxZGNlMTM1NmFkNmRlYmQ0",
   "tracks": [
     {
       "added_at": "2023-07-28 04:05:08",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-07-28 04:05:08",
       "album": {
+        "name": "BAG CHASER",
+        "url": "https://open.spotify.com/album/1GTr5KHkZQiP2uddxsUzLC"
+      },
+      "artists": [
+        {
+          "name": "CNG",
+          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
+        }
+      ],
+      "duration_ms": 169055,
+      "name": "BAG CHASER",
+      "url": "https://open.spotify.com/track/1EMB4lzN4rvQvjQLy0ygl2"
+    },
+    {
+      "added_at": "2023-07-28 04:05:08",
+      "album": {
         "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
         "url": "https://open.spotify.com/album/5ujrZVzynlbHdfyOxkLux1"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 187461,
       "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
       "url": "https://open.spotify.com/track/7bDwxr2hinZkqWtAQeDGXS"
-    },
-    {
-      "added_at": "2023-07-28 04:05:08",
-      "album": {
-        "name": "BAG CHASER",
-        "url": "https://open.spotify.com/album/1GTr5KHkZQiP2uddxsUzLC"
-      },
-      "artists": [
-        {
-          "name": "CNG",
-          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
-        }
-      ],
-      "duration_ms": 169055,
-      "name": "BAG CHASER",
-      "url": "https://open.spotify.com/track/1EMB4lzN4rvQvjQLy0ygl2"
     },
     {
       "added_at": "2023-07-28 04:05:08",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-07-28 04:05:08",
       "album": {
-        "name": "Villain",
-        "url": "https://open.spotify.com/album/4ddhv4i8wjaBfZWAN4g5LC"
-      },
-      "artists": [
-        {
-          "name": "Conejo",
-          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/0YPhOZrQjPdronY81nCO88"
-    },
-    {
-      "added_at": "2023-07-28 04:05:08",
-      "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 209111,
       "name": "Remember",
       "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
+    },
+    {
+      "added_at": "2023-07-28 04:05:08",
+      "album": {
+        "name": "Villain",
+        "url": "https://open.spotify.com/album/4ddhv4i8wjaBfZWAN4g5LC"
+      },
+      "artists": [
+        {
+          "name": "Conejo",
+          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/0YPhOZrQjPdronY81nCO88"
     },
     {
       "added_at": "2023-07-28 04:05:08",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-07-28 04:05:08",
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/2Tg1EnKStuC0iD2dVxbeNi"
+      },
+      "artists": [
+        {
+          "name": "CNG",
+          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
+        }
+      ],
+      "duration_ms": 156547,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/6o0Ty1vnnAsWV6AqdDGGGL"
+    },
+    {
+      "added_at": "2023-07-28 04:05:08",
+      "album": {
         "name": "Little Homie",
         "url": "https://open.spotify.com/album/2i9595pc3gVJIMUVafVena"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 154536,
       "name": "Little Homie",
       "url": "https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8"
-    },
-    {
-      "added_at": "2023-07-28 04:05:08",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/2Tg1EnKStuC0iD2dVxbeNi"
-      },
-      "artists": [
-        {
-          "name": "CNG",
-          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
-        }
-      ],
-      "duration_ms": 156547,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/6o0Ty1vnnAsWV6AqdDGGGL"
     },
     {
       "added_at": "2023-07-28 04:05:08",

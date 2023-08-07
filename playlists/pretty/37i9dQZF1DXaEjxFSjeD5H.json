@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 15044,
+  "num_followers": 15060,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGNhMDY1ZGM5NWUyM2YwZGRmN2QyNjRiNTMzNDk1NmI0YzkxZjkw",
+  "snapshot_id": "MCxmMDgzZGI0NWZiNjNkZjIzZjUzZDY4OTIwNGUxN2I4ODhlYjM4MDdj",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -447,18 +447,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Danzones a la Manera del Campeon, Vol. 1",
-        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2CktXUtQ2L4pUIDgmzdsHa"
       },
       "artists": [
         {
-          "name": "Carlos Campos Y Orquesta",
-          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
+          "name": "Los Aragon",
+          "url": "https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw"
         }
       ],
-      "duration_ms": 275879,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/2gSZ9m946bHN9NeHITL5rf"
+      "duration_ms": 130002,
+      "name": "Tema De Lara",
+      "url": "https://open.spotify.com/track/6XG9vkGncaL7SMcq4jg9eb"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2CktXUtQ2L4pUIDgmzdsHa"
+        "name": "Danzones a la Manera del Campeon, Vol. 1",
+        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
       },
       "artists": [
         {
-          "name": "Los Aragon",
-          "url": "https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw"
+          "name": "Carlos Campos Y Orquesta",
+          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
         }
       ],
-      "duration_ms": 130002,
-      "name": "Tema De Lara",
-      "url": "https://open.spotify.com/track/6XG9vkGncaL7SMcq4jg9eb"
+      "duration_ms": 275879,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/2gSZ9m946bHN9NeHITL5rf"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "La Leyenda Viviente del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
-      },
-      "artists": [
-        {
-          "name": "Danzonera Veracruz",
-          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
-        }
-      ],
-      "duration_ms": 293040,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6a3E473gvUNtcVfpn3UeVO"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Sones y Tradiciones (feat. Cachao)",
         "url": "https://open.spotify.com/album/7COrF1dEussKfi9YzTEFte"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 251866,
       "name": "Isora Club (Danzon)",
       "url": "https://open.spotify.com/track/1NaLxDm29Sw7ecSYVt29Ii"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "La Leyenda Viviente del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
+      },
+      "artists": [
+        {
+          "name": "Danzonera Veracruz",
+          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        }
+      ],
+      "duration_ms": 293040,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6a3E473gvUNtcVfpn3UeVO"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -775,22 +775,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "El Embrujo del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
+        "name": "Photograph",
+        "url": "https://open.spotify.com/album/0U3vkKfqKfL2qwIeIDuhAu"
       },
       "artists": [
         {
-          "name": "Danzonera Veracruz",
-          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
-        },
-        {
-          "name": "Vicente Labastida Velasco",
-          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
+          "name": "Acerina Danzones Clasicos",
+          "url": "https://open.spotify.com/artist/2LoK59Px8zPQ22MdDbvZ6m"
         }
       ],
-      "duration_ms": 257893,
-      "name": "Mar\u00eda Elena",
-      "url": "https://open.spotify.com/track/0XCk9sZ4i4FUHHnKJHrjX9"
+      "duration_ms": 115919,
+      "name": "Ju\u00e1rez No Debio Morir",
+      "url": "https://open.spotify.com/track/1vGFJE6X3Gcm0JSlofUqM6"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -811,22 +807,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Photograph",
-        "url": "https://open.spotify.com/album/0U3vkKfqKfL2qwIeIDuhAu"
-      },
-      "artists": [
-        {
-          "name": "Acerina Danzones Clasicos",
-          "url": "https://open.spotify.com/artist/2LoK59Px8zPQ22MdDbvZ6m"
-        }
-      ],
-      "duration_ms": 115919,
-      "name": "Ju\u00e1rez No Debio Morir",
-      "url": "https://open.spotify.com/track/1vGFJE6X3Gcm0JSlofUqM6"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Danzas del Mundo Danz\u00f3n",
         "url": "https://open.spotify.com/album/6Q7HaW9yc2jPhHuos8h0NM"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 349387,
       "name": "Linda Cubana",
       "url": "https://open.spotify.com/track/6w5CTA7ieQTNW4eEc2O1c6"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "El Embrujo del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
+      },
+      "artists": [
+        {
+          "name": "Danzonera Veracruz",
+          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        },
+        {
+          "name": "Vicente Labastida Velasco",
+          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
+        }
+      ],
+      "duration_ms": 257893,
+      "name": "Mar\u00eda Elena",
+      "url": "https://open.spotify.com/track/0XCk9sZ4i4FUHHnKJHrjX9"
     },
     {
       "added_at": "2022-08-02 23:28:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/4TIry72leguyMNcNYc6bqR?si=ZEjTlTEbSeyWBypqOllQhQ">Toby Franco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,508 likes - 50 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,996 likes - 50 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [JAGERMEISTER](https://open.spotify.com/track/3VBwoaePYGdOmG1YHgGOHi) | [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML) | [JAGERMEISTER](https://open.spotify.com/album/5Tk2uNjYtHL9V0uEhSQAYx) | 5:27 |
 | 50 | [Jig Saw](https://open.spotify.com/track/4kBwDtpW533iBUlhZxd0Jn) | [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR) | [Jig Saw](https://open.spotify.com/album/2wnPj5uF9EqngzDnQfghD4) | 6:37 |
 
-Snapshot ID: `MCwyNThmZTc1MWU4N2Q0ZDRkZjg0MTQ2YWMyOWM2MTYzNmM5YTBhNzA4`
+Snapshot ID: `MCwyMzdjODEwOTBkNjQ3M2VkZjM5ZjgwNDY3Y2Q5NjlmZDEwYjNjNGNj`

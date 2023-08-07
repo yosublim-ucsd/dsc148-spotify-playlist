@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Mt\. Joy & Julia Pratt
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,497 likes - 150 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,617 likes - 150 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Twelve\-Thirty \(Young Girls Are Coming To The Canyon\) \[feat\. Susanna Hoffs, Chris Stills & Sheryl Crow\]](https://open.spotify.com/track/6wyiD5nZjbBsHnPwgUS6YJ) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL), [Chris Stills](https://open.spotify.com/artist/73BKaGq96QFgdnRXU3v0t7), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Folkocracy](https://open.spotify.com/album/7FGoS4iN1v6SlsiUx1X5Wx) | 3:42 |
 | 150 | [Body Language](https://open.spotify.com/track/3sEwILGX1PMQehuSsuHDL3) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Inside Voices](https://open.spotify.com/album/6Y8OzJxsegw8BIY6jKGCxv) | 2:46 |
 
-Snapshot ID: `MCw4NDdmZDM1MWFkMTFjYjJhMTIyODU3YzJjNWU3OWM0YWQ1N2U0NTQ2`
+Snapshot ID: `MCxmNjhjZWNlZDA2ZGM5NTIyMWE3YzQ2NWUxMWM2YTY3Yjk1MmI4NGM2`

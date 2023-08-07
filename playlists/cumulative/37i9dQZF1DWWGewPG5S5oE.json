@@ -418,7 +418,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 321346,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 218880,
       "name": "BLUE GIANT - \u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a",
       "url": "https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF"
@@ -1182,10 +1182,28 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 324574,
       "name": "Itoshi no Butterfly",
       "url": "https://open.spotify.com/track/41u98WRbYwgUcVtwxCzMC6"
+    },
+    {
+      "album": {
+        "name": "JiLL-Decoy association 10 -Double-",
+        "url": "https://open.spotify.com/album/1gyUhmViC36wfc04CICOb2"
+      },
+      "artists": [
+        {
+          "name": "JiLL-Decoy association",
+          "url": "https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324574,
+      "name": "Itoshi no Butterfly",
+      "url": "https://open.spotify.com/track/6TpQEldvEISv2ldHK93Nao"
     },
     {
       "album": {

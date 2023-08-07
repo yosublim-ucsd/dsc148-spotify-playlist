@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring SIDEPIECE
 
-1,204 songs - 2 day 21 hr 42 min
+1,205 songs - 2 day 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Brisa](https://open.spotify.com/track/55D5YIajNyBqrpWCnmXuRr) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI) | [Brisa](https://open.spotify.com/album/3rVW7u5AB3qf6NGGAs2MdY) | 2:45 | 2023-06-16 |  |
 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 | 2022-06-03 | 2022-08-06 |
 | [Bubblin](https://open.spotify.com/track/4zB2zfoyaKdZl0v9IfHUKL) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Bubblin](https://open.spotify.com/album/4rXzTuShibQto3yWnBrApV) | 3:29 | 2022-02-25 | 2022-06-11 |
-| [Buck](https://open.spotify.com/track/7jIgr15l4MF8wm9m3r2tPr) | [Arnold & Lane](https://open.spotify.com/artist/1lOq8MFrqfYB486L9xycj2) | [Buck](https://open.spotify.com/album/0eyiDFC2XrUgmVrrN9v7kx) | 3:29 | 2023-06-30 |  |
+| [Buck](https://open.spotify.com/track/7jIgr15l4MF8wm9m3r2tPr) | [Arnold & Lane](https://open.spotify.com/artist/1lOq8MFrqfYB486L9xycj2) | [Buck](https://open.spotify.com/album/0eyiDFC2XrUgmVrrN9v7kx) | 3:29 | 2023-06-30 | 2023-08-07 |
 | [Bugatti \- Edit](https://open.spotify.com/track/4xY9Nkd8rB6vLut1VcvCTt) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Bugatti](https://open.spotify.com/album/5ziyjHCfXfCQwVJyMcyslv) | 2:55 | 2023-02-17 | 2023-04-17 |
 | [Bugbeat](https://open.spotify.com/track/7ukIYN8wvyAIpPAEU5nCbK) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bugbeat](https://open.spotify.com/album/0BqdtICrtwzq8DMf7NXATV) | 2:59 | 2023-01-13 | 2023-04-22 |
 | [Bump](https://open.spotify.com/track/27X0DzpPoWQrmN1NYQ83Rv) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Bump](https://open.spotify.com/album/1mVjBu4XgPatNN47jCNrUg) | 3:07 | 2022-10-21 | 2022-12-17 |
@@ -273,6 +273,7 @@
 | [Don’t Keep Me Waiting](https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting](https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF) | 3:29 | 2022-02-25 | 2022-06-04 |
 | [Don’t Rush](https://open.spotify.com/track/6Jtg27WTAob2oCVsbhhXWx) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [Don’t Rush](https://open.spotify.com/album/0MwJZ4K7Umr8Fcy0SwsI9a) | 4:00 | 2021-11-26 | 2022-01-14 |
 | [Dopamine \(feat\. Eyelar\) \[John Summit Remix\]](https://open.spotify.com/track/0np5Q0HCkLlUU9NVUCbqHv) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Dopamine \(feat\. Eyelar\) \[John Summit Remix\]](https://open.spotify.com/album/6AITsfnOPby1JiJwUD7TBI) | 2:54 | 2021-11-26 | 2022-04-09 |
+| [Dope Eyes](https://open.spotify.com/track/7zfOOd6OJU7CB3PPPBvQIZ) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [TRFN](https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp), [Natassa Tsonis](https://open.spotify.com/artist/6CUwCpmWhoaBWcL1WS647J) | [Dope Eyes](https://open.spotify.com/album/5TqdiAFhhQEQE2ryPmIDDz) | 2:36 | 2023-08-04 |  |
 | [Dream Of You](https://open.spotify.com/track/4Xicxvhcw2yx5wEDjeS1CE) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Maximo](https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG) | [Dream Of You](https://open.spotify.com/album/0nd6FSymivA5n9UCbWK8fO) | 2:50 | 2023-03-31 | 2023-05-11 |
 | [DRENCH](https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [DRENCH](https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H) | 3:17 | 2023-06-02 |  |
 | [Drinkee \- Vintage Culture & John Summit Remix](https://open.spotify.com/track/68raS6F0ad2Iilql3yYeCt) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Drinkee \(Vintage Culture & John Summit Remix\)](https://open.spotify.com/album/3SJnS1rKgzb1tgi7oCkf5F) | 3:25 | 2021-11-26 | 2022-05-28 |

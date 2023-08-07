@@ -989,6 +989,28 @@
     },
     {
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/69HOtVSMleCuO9fH67qh5U"
+      },
+      "artists": [
+        {
+          "name": "Babywine",
+          "url": "https://open.spotify.com/artist/5DLfGYyYP6BBL0fbh3GuBG"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167157,
+      "name": "Veintis\u00e9is",
+      "url": "https://open.spotify.com/track/6AM79PtldyQT9mb1ERTBUz"
+    },
+    {
+      "album": {
         "name": "Venados y Artefactos",
         "url": "https://open.spotify.com/album/5mV2121bnc1MAZyEsqf7lp"
       },
@@ -1036,7 +1058,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 241360,
       "name": "Watersport",
       "url": "https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D"

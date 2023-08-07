@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj?si=3bc0c00455764d13">Lauren Daigle</a>
 
-4,125 songs - 11 day 12 hr 24 min
+4,126 songs - 11 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2094,7 +2094,8 @@
 | [Life Goes On](https://open.spotify.com/track/22E5PqrbvnlxWTp9qu2Muv) | [Evan Egerer](https://open.spotify.com/artist/6VRNqeqtQr7pN7ckk1HkmJ) | [Life Goes On](https://open.spotify.com/album/0Zrgg0ibspbuDGZjhNRY0L) | 2:43 | 2023-03-03 | 2023-03-18 |
 | [Life I Chose \(feat\. 2j Mako & Gq Dasteppa\)](https://open.spotify.com/track/7cmOHJCAMp9D7GENfvyyJy) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch), [2J Mako](https://open.spotify.com/artist/4PW8LhWM1NaETYEzlYTpqV), [GQ DASTEPPA](https://open.spotify.com/artist/6FJTRJCbi7oGB9n8CyLMNU) | [Life I Chose](https://open.spotify.com/album/67RbE9vpMGTm1PiZNrFGOH) | 4:11 | 2022-10-07 | 2022-10-15 |
 | [Life Is Hard\. God Is Good.](https://open.spotify.com/track/0Yd8FfJwh17S6grlfIKS7r) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Life Is Hard\. God Is Good.](https://open.spotify.com/album/1JWT0quQg4vi9r44138g8z) | 3:13 | 2023-06-30 | 2023-07-15 |
-| [Life Laid Down \- Live](https://open.spotify.com/track/2syGnPziG7jaysWGJ2Ov30) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Life Laid Down \(Live\)](https://open.spotify.com/album/149pPKRjcXR4QPgHIkYvqL) | 4:58 | 2023-07-28 |  |
+| [Life Laid Down \- Live](https://open.spotify.com/track/2syGnPziG7jaysWGJ2Ov30) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Life Laid Down \(Live\)](https://open.spotify.com/album/149pPKRjcXR4QPgHIkYvqL) | 4:58 | 2023-07-28 | 2023-08-07 |
+| [Life Laid Down \- Live](https://open.spotify.com/track/3Z5MbsL0o0DaK4tZxy3c6s) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [By Faith \(Live\)](https://open.spotify.com/album/2rJUQDnyOVu0wyTzh8VtCO) | 4:58 | 2023-08-04 |  |
 | [Life With You](https://open.spotify.com/track/1bNCQXUm3PldHEsM6Aiu3p) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Life With You](https://open.spotify.com/album/40N9JGqPnf5QziBqLETT2z) | 2:46 | 2023-07-07 | 2023-07-22 |
 | [Lifeline](https://open.spotify.com/track/7kUwjyR63k3vhu5utfoCvp) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Lifeline](https://open.spotify.com/album/3gmGvBwVfbSvjlK8hflGvI) | 2:31 | 2023-06-02 | 2023-06-24 |
 | [Lifeline \- Live Tapes](https://open.spotify.com/track/4x0HBKbI9WGhz9DfDjEbej) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo) | [Lifeline \(Live Tapes\)](https://open.spotify.com/album/21NBJmf18LB7mcWh1Z1X34) | 4:01 | 2022-06-10 | 2022-06-18 |

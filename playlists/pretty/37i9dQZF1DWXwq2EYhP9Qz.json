@@ -1,12 +1,12 @@
 {
   "description": "Our editors' favorites of the moment. Save them to your collection before they're gone!",
-  "num_followers": 49,
+  "num_followers": 60,
   "original_name": "Latin songs you should save \u271a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODI0YjFiYzBlMzFjN2UyNjk1OWRjNjU0ZDBkYzc4ZTJkN2VkMzEy",
+  "snapshot_id": "MCwyYWRmNDFhMGJkZWI4ZWM3OGIxY2I5NDhkNjIyYTI4ZDJmZTE2MmI4",
   "tracks": [
     {
       "added_at": "2023-08-01 00:35:08",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-08-01 00:35:08",
       "album": {
+        "name": "NAFTA II",
+        "url": "https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Monumento",
+      "url": "https://open.spotify.com/track/3BUOQHWgnm8l5KDkzujs26"
+    },
+    {
+      "added_at": "2023-08-01 00:35:08",
+      "album": {
         "name": "Limonadita Fresca",
         "url": "https://open.spotify.com/album/0WNHeQl2UyqgvfqWfWrcEH"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 200000,
       "name": "Limonadita Fresca",
       "url": "https://open.spotify.com/track/639HTh3UQI6kZXn6Qb7lH6"
-    },
-    {
-      "added_at": "2023-08-01 00:35:08",
-      "album": {
-        "name": "NAFTA II",
-        "url": "https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Monumento",
-      "url": "https://open.spotify.com/track/3BUOQHWgnm8l5KDkzujs26"
     },
     {
       "added_at": "2023-08-01 00:35:08",

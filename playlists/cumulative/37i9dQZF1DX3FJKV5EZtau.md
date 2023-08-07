@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-377 songs - 21 hr 39 min
+378 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [From Here](https://open.spotify.com/track/3viaISPcLXL62vZlWLZjuR) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei) | [From Here](https://open.spotify.com/album/1QIXJRH5rokpdb17cZioyF) | 3:33 | 2023-05-26 |  |
 | [From Me \- Icarus Remix](https://open.spotify.com/track/5Z01Ak7WyuJHl2ykICS8BF) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Bernache](https://open.spotify.com/artist/3hK7zrlyCSC3oKnpVL6g5L), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Juvenile \(Remixed\)](https://open.spotify.com/album/3yjnnlJE5S5cbRQ1zGOFsf) | 3:58 | 2022-07-14 | 2022-08-06 |
 | [From The Start](https://open.spotify.com/track/74wHiizV0lG0YBHq2Cxn0j) | [Paper Skies](https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA) | [Exobolt 008](https://open.spotify.com/album/2evf2RWFyaA9syHGU9n2Wq) | 3:37 | 2022-01-07 | 2022-07-28 |
+| [FROSTBEARER](https://open.spotify.com/track/2rTdJ55MZHUL45il2HEnyc) | [AZALI](https://open.spotify.com/artist/7xUEVAixJOG51xLGQvRCLH) | [Voices From the True World IV](https://open.spotify.com/album/4ThBPieWXmXl0VuhICxknN) | 2:01 | 2023-08-04 |  |
 | [Full Circle \- William Crooks Remix](https://open.spotify.com/track/4ALJcAs0hpc0lHfYqHf4Ll) | [Wave Racer](https://open.spotify.com/artist/147jymD5t0TCXW0DbaXry0), [William Crooks](https://open.spotify.com/artist/6RQSaarEM4qarzwuWvKvPw) | [Full Circle \(William Crooks Remix\)](https://open.spotify.com/album/40rTmUprramNnl93N5Fjtd) | 2:39 | 2022-07-14 | 2022-08-06 |
 | [garden of dreams](https://open.spotify.com/track/4NhbVKOpXOy1yBDt37KDsj) | [Yandere](https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr) | [garden of dreams](https://open.spotify.com/album/3hTb7NOVkcJyyWdpNJqpif) | 2:53 | 2022-01-07 | 2022-07-27 |
 | [Gateway](https://open.spotify.com/track/3g91DkQcxcD4n20JKUlULo) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Civilisation](https://open.spotify.com/album/5w4jILMK3xVgqy0dsKGhtm) | 0:55 | 2022-01-07 | 2022-07-13 |
@@ -316,7 +317,7 @@
 | [Someone Else’s Dream \(CASTLE\. Edit\)](https://open.spotify.com/track/56oC5buLanioZDYpK2q94t) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr), [CASTLE.](https://open.spotify.com/artist/6IcVDBaltKmVE8Asl4p8FM) | [Someone Else’s Dream](https://open.spotify.com/album/6Kr3T5LjvpUl4QKipF5qqs) | 4:06 | 2022-01-07 | 2022-07-29 |
 | [Somewhere Far Away From Here](https://open.spotify.com/track/1mZsABAFAStMVUKW8AyRX5) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Lolaby](https://open.spotify.com/artist/2bJ1Od9O4eVt9Uv0BOBJIm) | [REBIRTH](https://open.spotify.com/album/2tf4qRFJYH1mFFPEbXCdUt) | 5:02 | 2022-01-07 | 2023-01-08 |
 | [Somewhere Far Away From Here \(feat\. Lolaby\)](https://open.spotify.com/track/7FiicGWciexdcPZVOwjv26) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Lolaby](https://open.spotify.com/artist/2bJ1Od9O4eVt9Uv0BOBJIm) | [REBIRTH](https://open.spotify.com/album/1OxASE4sDzjiYJBEqNnaaC) | 5:02 | 2023-02-17 |  |
-| [sorry](https://open.spotify.com/track/3vAi1U6UfWgxkax9IzKGts) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [things i wanna text u](https://open.spotify.com/album/5893KtZcBOjUaqo1RuoRGt) | 3:11 | 2023-05-26 |  |
+| [sorry](https://open.spotify.com/track/3vAi1U6UfWgxkax9IzKGts) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [things i wanna text u](https://open.spotify.com/album/5893KtZcBOjUaqo1RuoRGt) | 3:11 | 2023-05-26 | 2023-08-07 |
 | [Stardust Adventure](https://open.spotify.com/track/7mvEJwPYeTKTNGjAa3z1wp) | [Tenkitsune](https://open.spotify.com/artist/3npM0ZkW5qRUL5Y7ihHRrU) | [Stardust Adventure](https://open.spotify.com/album/4d7RidCnUxbQ4C5huq9G4S) | 3:05 | 2022-01-07 | 2022-07-29 |
 | [Starlight](https://open.spotify.com/track/26MtZfJOjVrYXSazR5NPhi) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jedwill](https://open.spotify.com/artist/6Ed7YwSt3LvYcMDZk5b1Id) | [Starlight](https://open.spotify.com/album/1i8mhstzGsJAzXD0a0lAug) | 2:20 | 2022-04-29 | 2022-10-13 |
 | [Status Quo](https://open.spotify.com/track/20nE4m2wJ7a44ZTaorpn5z) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Status Quo](https://open.spotify.com/album/019JaqKPZQvBVL2KcmZjIB) | 2:56 | 2022-01-07 | 2022-11-12 |

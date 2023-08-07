@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Flyboiz y Adan Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,832 likes - 100 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,845 likes - 100 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 4 | [Perro Faldero](https://open.spotify.com/track/0HLUgZSNwDV6trvNiqy8wp) | [Chikis RA](https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA), [Asixx](https://open.spotify.com/artist/1zyqikxrWckVAsENVFREeo) | [Perro Faldero](https://open.spotify.com/album/60CkzNS8N3iDoKXb3hgSbv) | 2:08 |
 | 5 | [Perdona](https://open.spotify.com/track/3r4cFpk9KBGApCUqrizxBH) | [Hombrejugo](https://open.spotify.com/artist/4zvwdbxIlaCV8jsYkUQeqQ), [Poison Kid](https://open.spotify.com/artist/5gdLCbByMUjFLhbOj8NC14) | [Perdona](https://open.spotify.com/album/29hhmeYUVHZ6SteGLTzUMh) | 2:38 |
 | 6 | [Blastoise](https://open.spotify.com/track/7tFhsP6TqUYnASy2tN7i2v) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Blastoise](https://open.spotify.com/album/0kJB1zf1dkGVjj6bKB5K9g) | 1:44 |
-| 7 | [Gangster](https://open.spotify.com/track/0dyz7VlyWTbd9mbuUl3wKq) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/42EHvFRsQtspIer2baInn7) | 2:04 |
+| 7 | [Gangster](https://open.spotify.com/track/1iw8Tvg0BmqIP1jW69sW1R) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq) | 2:04 |
 | 8 | [RAYBEN CAP 5: CORONAMOS](https://open.spotify.com/track/2v1NtZLK6zqn6JzwpvwbPC) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [Razeth](https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n), [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [RAYBEN CAP 5: CORONAMOS](https://open.spotify.com/album/7tXgDBqyvyryC9Aa5iyFAg) | 3:08 |
 | 9 | [Respaldo y Apoyo](https://open.spotify.com/track/1q5EjO5bleDZ40TFUp4d1p) | [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1) | [Respaldo y Apoyo](https://open.spotify.com/album/7HNAEGrSZ4Uv5GQ9Fny7CS) | 1:58 |
 | 10 | [Sad Bitch](https://open.spotify.com/track/74PVTnIc0iDWBUF7yZAbio) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Sad Bitch / RTT \(Nos Vienen Siguiendo\)](https://open.spotify.com/album/7uP2x4UJVux0SKladRpNBM) | 1:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 99 | [Excusa](https://open.spotify.com/track/6Iqbx7Fn7Hnw8iJOEhS9OL) | [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl) | [Excusa](https://open.spotify.com/album/6rDbHMk2z6qW0nskzy7CAC) | 3:16 |
 | 100 | [FERRAGAMO](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [FERRAGAMO](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 |
 
-Snapshot ID: `MCw1MTRmOTAzODFlMGFiNzYyM2U3YThmZmYyMWZmZTNjMmQxOTRmYjA2`
+Snapshot ID: `MCxjMTlkOTc2M2M5NDk2MmIzYTQ4ZjllMzQ1ZTY4M2UwMWM4OTU1OWNi`

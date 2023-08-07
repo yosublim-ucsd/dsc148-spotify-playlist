@@ -1,12 +1,12 @@
 {
   "description": "Classic anthems from a classic era. Cover: Wookie",
-  "num_followers": 492956,
+  "num_followers": 493081,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmM3ZjIyOGYwZGQ5MDhlNTRkNDllNmI5OWQ0ZWExMmU0ODA4ZTcz",
+  "snapshot_id": "MCw1NzUzOTMyZDViNDhiNDQ0MDJlOGRlNWM5MDFhMDgyNmZhNWFjNGZh",
   "tracks": [
     {
       "added_at": "2023-01-18 14:51:32",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-01-18 14:51:32",
       "album": {
+        "name": "Morel's Grooves (Pt. 4)",
+        "url": "https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A"
+      },
+      "artists": [
+        {
+          "name": "George Morel",
+          "url": "https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy"
+        }
+      ],
+      "duration_ms": 417466,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq"
+    },
+    {
+      "added_at": "2023-01-18 14:51:32",
+      "album": {
         "name": "Ain't No Stoppin Us (Oracles Remix)",
         "url": "https://open.spotify.com/album/2Yay81iM1lJlNAwtxQO9EC"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 342906,
       "name": "Ain't No Stoppin Us - Oracles Mix",
       "url": "https://open.spotify.com/track/4YwaWXAmeB2PpDQWTLlSvR"
-    },
-    {
-      "added_at": "2023-01-18 14:51:32",
-      "album": {
-        "name": "Morel's Grooves (Pt. 4)",
-        "url": "https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A"
-      },
-      "artists": [
-        {
-          "name": "George Morel",
-          "url": "https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy"
-        }
-      ],
-      "duration_ms": 417466,
-      "name": "Let's Groove",
-      "url": "https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq"
     },
     {
       "added_at": "2023-01-18 14:51:32",
@@ -615,6 +615,30 @@
     {
       "added_at": "2023-01-18 14:51:32",
       "album": {
+        "name": "Masterblaster 2000",
+        "url": "https://open.spotify.com/album/54DrfxFAuA9fdGus2bMWBu"
+      },
+      "artists": [
+        {
+          "name": "DJ Luck & MC Neat",
+          "url": "https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF"
+        },
+        {
+          "name": "J.J",
+          "url": "https://open.spotify.com/artist/4XEZZV3z4TlU5XmXPfKbss"
+        },
+        {
+          "name": "Oracles",
+          "url": "https://open.spotify.com/artist/782ZTSDrjaLcfR9AbmRvxb"
+        }
+      ],
+      "duration_ms": 332746,
+      "name": "Masterblaster 2000 - Oracles Remix",
+      "url": "https://open.spotify.com/track/79QD38Dz9HaIHqQM9t7Wth"
+    },
+    {
+      "added_at": "2023-01-18 14:51:32",
+      "album": {
         "name": "Woman Trouble",
         "url": "https://open.spotify.com/album/1RclMI8jt1X283Rebj2yt7"
       },
@@ -671,30 +695,6 @@
       "duration_ms": 348160,
       "name": "Envy (They Don't Know Vocal Remix)",
       "url": "https://open.spotify.com/track/1GpOWSP9X3lo05xbtEmvuV"
-    },
-    {
-      "added_at": "2023-01-18 14:51:32",
-      "album": {
-        "name": "Masterblaster 2000",
-        "url": "https://open.spotify.com/album/54DrfxFAuA9fdGus2bMWBu"
-      },
-      "artists": [
-        {
-          "name": "DJ Luck & MC Neat",
-          "url": "https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF"
-        },
-        {
-          "name": "J.J",
-          "url": "https://open.spotify.com/artist/4XEZZV3z4TlU5XmXPfKbss"
-        },
-        {
-          "name": "Oracles",
-          "url": "https://open.spotify.com/artist/782ZTSDrjaLcfR9AbmRvxb"
-        }
-      ],
-      "duration_ms": 332746,
-      "name": "Masterblaster 2000 - Oracles Remix",
-      "url": "https://open.spotify.com/track/79QD38Dz9HaIHqQM9t7Wth"
     },
     {
       "added_at": "2023-01-18 14:51:32",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-01-18 14:51:32",
       "album": {
-        "name": "Summer Heat",
-        "url": "https://open.spotify.com/album/46QSMAy6Q1fX9IirJpFDPH"
-      },
-      "artists": [
-        {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
-        }
-      ],
-      "duration_ms": 219626,
-      "name": "Just In Case - Dub-A-Holics Roller's Revival Mix Edit",
-      "url": "https://open.spotify.com/track/6wzw5660L5NK8WAMRORDOg"
-    },
-    {
-      "added_at": "2023-01-18 14:51:32",
-      "album": {
         "name": "God Made Me Phunky",
         "url": "https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2023-01-18 14:51:32",
       "album": {
+        "name": "Summer Heat",
+        "url": "https://open.spotify.com/album/46QSMAy6Q1fX9IirJpFDPH"
+      },
+      "artists": [
+        {
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+        }
+      ],
+      "duration_ms": 219626,
+      "name": "Just In Case - Dub-A-Holics Roller's Revival Mix Edit",
+      "url": "https://open.spotify.com/track/6wzw5660L5NK8WAMRORDOg"
+    },
+    {
+      "added_at": "2023-01-18 14:51:32",
+      "album": {
         "name": "My Desire (Remixes)",
         "url": "https://open.spotify.com/album/7m7dj6cgyKXzOkBHF4MDug"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 344957,
       "name": "My Desire - Dreem Team Remix",
       "url": "https://open.spotify.com/track/4wDuuEI9ecmWVVQVfHfrp3"
+    },
+    {
+      "added_at": "2023-01-18 14:51:32",
+      "album": {
+        "name": "RIP Groove",
+        "url": "https://open.spotify.com/album/1b5NUoEx4BCuzQgg0X2ZXE"
+      },
+      "artists": [
+        {
+          "name": "Double 99",
+          "url": "https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "RIP Groove - Radio Edit",
+      "url": "https://open.spotify.com/track/47zdicM0GhuAVBNUBvBbf0"
     },
     {
       "added_at": "2023-01-18 14:51:32",
@@ -847,18 +863,18 @@
     {
       "added_at": "2023-01-18 14:51:32",
       "album": {
-        "name": "RIP Groove",
-        "url": "https://open.spotify.com/album/1b5NUoEx4BCuzQgg0X2ZXE"
+        "name": "Clubbed To Death",
+        "url": "https://open.spotify.com/album/0OstemuKkqQrvIieOxmQzh"
       },
       "artists": [
         {
-          "name": "Double 99",
-          "url": "https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3"
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
         }
       ],
-      "duration_ms": 209373,
-      "name": "RIP Groove - Radio Edit",
-      "url": "https://open.spotify.com/track/47zdicM0GhuAVBNUBvBbf0"
+      "duration_ms": 238346,
+      "name": "Sincere",
+      "url": "https://open.spotify.com/track/2bbIrLn5rnn8uCsPBwf8vA"
     },
     {
       "added_at": "2023-01-18 14:51:32",
@@ -875,22 +891,6 @@
       "duration_ms": 232600,
       "name": "Sometimes It Snows in April - Dreem House Dub Radio Edit",
       "url": "https://open.spotify.com/track/3nIWuSwR8iIyew22d6mICJ"
-    },
-    {
-      "added_at": "2023-01-18 14:51:32",
-      "album": {
-        "name": "Clubbed To Death",
-        "url": "https://open.spotify.com/album/0OstemuKkqQrvIieOxmQzh"
-      },
-      "artists": [
-        {
-          "name": "MJ Cole",
-          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
-        }
-      ],
-      "duration_ms": 238346,
-      "name": "Sincere",
-      "url": "https://open.spotify.com/track/2bbIrLn5rnn8uCsPBwf8vA"
     },
     {
       "added_at": "2023-01-18 14:51:32",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-01-18 14:51:32",
       "album": {
-        "name": "Wookie (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
-      },
-      "artists": [
-        {
-          "name": "Wookie",
-          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
-        }
-      ],
-      "duration_ms": 306250,
-      "name": "What Going On",
-      "url": "https://open.spotify.com/track/2VrXykLzmEd5KFf5QfHe3L"
-    },
-    {
-      "added_at": "2023-01-18 14:51:32",
-      "album": {
         "name": "Dooms Night",
         "url": "https://open.spotify.com/album/6JRerP3qDsohb4wEbseoeL"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 227493,
       "name": "Dooms Night - Timo Maas Radio Edit",
       "url": "https://open.spotify.com/track/12GwtT1n24TIpp2RER56Ij"
+    },
+    {
+      "added_at": "2023-01-18 14:51:32",
+      "album": {
+        "name": "Wookie (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
+      },
+      "artists": [
+        {
+          "name": "Wookie",
+          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
+        }
+      ],
+      "duration_ms": 306250,
+      "name": "What Going On",
+      "url": "https://open.spotify.com/track/2VrXykLzmEd5KFf5QfHe3L"
     },
     {
       "added_at": "2023-01-18 14:51:32",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-01-18 14:51:32",
       "album": {
-        "name": "Western End (Birmingham Crew) Remix",
-        "url": "https://open.spotify.com/album/6GKoCNWIUhuhC5qrreWw7x"
-      },
-      "artists": [
-        {
-          "name": "B15 Project",
-          "url": "https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc"
-        },
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 320173,
-      "name": "Western End (Birmingham Crew) - Remix",
-      "url": "https://open.spotify.com/track/5142HCfH9wINV6AhO47RGF"
-    },
-    {
-      "added_at": "2023-01-18 14:51:32",
-      "album": {
         "name": "A London Thing",
         "url": "https://open.spotify.com/album/31JpI9mni0wdK8TwTh00Wh"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 366434,
       "name": "A London Thing - Extended Mix",
       "url": "https://open.spotify.com/track/1EO2wRH9Tj2e7SLLiNoALJ"
+    },
+    {
+      "added_at": "2023-01-18 14:51:32",
+      "album": {
+        "name": "Western End (Birmingham Crew) Remix",
+        "url": "https://open.spotify.com/album/6GKoCNWIUhuhC5qrreWw7x"
+      },
+      "artists": [
+        {
+          "name": "B15 Project",
+          "url": "https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc"
+        },
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "duration_ms": 320173,
+      "name": "Western End (Birmingham Crew) - Remix",
+      "url": "https://open.spotify.com/track/5142HCfH9wINV6AhO47RGF"
     },
     {
       "added_at": "2023-01-18 14:51:32",

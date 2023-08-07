@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,647 likes - 111 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,077 likes - 111 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 94 | [Reine de musette](https://open.spotify.com/track/3bBHMiALWgT39xebBnpgJN) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [Rendez Vous](https://open.spotify.com/album/5f3Gv6mWHhWBCDNoNbsizk) | 2:38 |
 | 95 | [Montagne Ste Genevieve](https://open.spotify.com/track/4idHXZqvu37IDsiHTZDrLC) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Introducing Stephane Wrembel](https://open.spotify.com/album/4sz3Jgvhv7jAzxwQRxtGZD) | 2:10 |
 | 96 | [Folie à amphion](https://open.spotify.com/track/4X5fkuK8fbrlUARtdxbD2h) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 2:10 |
-| 97 | [Sous le ciel de Paris](https://open.spotify.com/track/4mEaQLFPna3vD3mOltpzho) | [Gilbert Roussel](https://open.spotify.com/artist/5pIaaeMGL31kC7Jz2ZU0K1) | [Il en faudrait si peu \(Collection "Les archives de l'accordéon"\)](https://open.spotify.com/album/5XWBYQsWBSCIM3iFTzu5hi) | 2:44 |
+| 97 | [Sous Le Ciel De Paris \- 1951](https://open.spotify.com/track/3uLV311pq2SRLKbiV8oA64) | [Gilbert Roussel](https://open.spotify.com/artist/5pIaaeMGL31kC7Jz2ZU0K1) | [Valse Musette](https://open.spotify.com/album/3IstTjNFAMomssd6s9g8XX) | 2:40 |
 | 98 | [Paris Pigalle](https://open.spotify.com/track/0fzbz0jWZQJHSAqxHo74CM) | [Ralf Gscheidle](https://open.spotify.com/artist/7KlIXYsEgvbJzrCqcWTauW) | [Accordion World](https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG) | 2:00 |
 | 99 | [Crazy](https://open.spotify.com/track/5wILoqydB2oea8fQFWVGOG) | [Gypsy Jazz Caravan](https://open.spotify.com/artist/0SLHeCwwiwjCElg072D2g7) | [Gypsy Jazz Caravan III](https://open.spotify.com/album/2DWUmK8Bo0wiT21Wb7d2Ne) | 4:26 |
 | 100 | [Nivram](https://open.spotify.com/track/3oBd5LyXu64UGeZd5jOh5m) | [Alma Sinti](https://open.spotify.com/artist/359HPjn8qfvjUb2mn9LpYK) | [Nuits de Paris](https://open.spotify.com/album/2VO3QpjtZCbOKQO6Pqebnq) | 3:13 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 110 | [Happy Go Lucky](https://open.spotify.com/track/1pi75PZXe1OGVX6RRUXfLx) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [Paris Nights: French Gyspy Jazz](https://open.spotify.com/album/03Winiv70Ae2uEgNgDkjvN) | 1:38 |
 | 111 | [Flambée montalbanaise](https://open.spotify.com/track/6gugxXbWxWRtXqaen97y9l) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [A La Noce](https://open.spotify.com/album/1Z1tQ9n2ZZFBuJP11hz9AP) | 2:26 |
 
-Snapshot ID: `MCw2ZGIxZTk5MDU0YmUzOGMxMDE2MWNlZjU0NGQwZDY2MDkzMDRkYjA0`
+Snapshot ID: `MCwwZGU3YThiZDMzMmFlM2QzMDlmYWI1MTlkZjYyMGQ3NDQzN2E1YTE3`

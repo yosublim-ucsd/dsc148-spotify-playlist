@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Mer, Kriss Ngo; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,969 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,976 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Like A Gangz](https://open.spotify.com/track/29oqD4Ex8OEymOX3832ZqO) | [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS), [gilo](https://open.spotify.com/artist/4VJwLYnopLnq0JGHCSg0iO) | [Like A Gangz](https://open.spotify.com/album/15WD4lCZBco2TtTWzh1ptO) | 2:49 |
 | 100 | [One Slot](https://open.spotify.com/track/7HpdvZd4AQ02baoSVMk1ch) | [T00n](https://open.spotify.com/artist/78HFiqRqptzoqqjvM2JWfa), [Gobby](https://open.spotify.com/artist/31IYMlu0SEzTN0lqhdOR5a) | [One Slot](https://open.spotify.com/album/0A6esndtWXcTcpmlZioSXD) | 3:01 |
 
-Snapshot ID: `MCwwNWEzMGUxMTZlZDI2NDQzZmRlOTkzMGU0M2U3NzUzMDE4NGEzY2Ez`
+Snapshot ID: `MCxjMDQyZjBmYjc4NGZlNGIwNThiNjUwYmQxYmE5YzY4Y2IzMzk4NzVm`

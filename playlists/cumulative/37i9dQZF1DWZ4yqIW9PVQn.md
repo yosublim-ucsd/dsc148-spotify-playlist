@@ -4,7 +4,7 @@
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-121 songs - 7 hr 23 min
+122 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Acting \(With Heize\)](https://open.spotify.com/track/1SSA6NNzrCo4MmpcHNDX0M) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 3:41 | 2022-07-04 |  |
 | [Afraid To Say I Love You](https://open.spotify.com/track/5q3q7ZIRq7EoCK3kpsfRpz) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [Afraid To Say I Love You](https://open.spotify.com/album/3W0HGM1NBblqIrhMMLoiDx) | 3:25 | 2022-07-04 |  |
 | [After love](https://open.spotify.com/track/2ugH0jKsATjJsJGfG1e4pj) | [Party in My Pool](https://open.spotify.com/artist/2pl9dVDwRd7RGJnA9yyRHD), [Lee Michelle](https://open.spotify.com/artist/1raBwKX1IlL7ewBrCcd07p) | [Complicated](https://open.spotify.com/album/0OP5WsrqHp6GxCkadpmDEG) | 3:15 | 2022-07-04 |  |
-| [All day](https://open.spotify.com/track/147avtNKN2LvIlENoa0GJ8) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [To whom it may concern](https://open.spotify.com/album/1TKsdmVqMISXkxRWhAqG13) | 3:42 | 2022-10-13 |  |
+| [All day](https://open.spotify.com/track/147avtNKN2LvIlENoa0GJ8) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [To whom it may concern](https://open.spotify.com/album/1TKsdmVqMISXkxRWhAqG13) | 3:42 | 2022-10-13 | 2023-08-07 |
+| [All day](https://open.spotify.com/track/5InT1PM23ZqdmkVazN1Pgb) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [To whom it may concern](https://open.spotify.com/album/5FBql8RASodeavdrQKiSfp) | 3:42 | 2023-08-05 |  |
 | [All I want is you](https://open.spotify.com/track/6ESVVNkjPVG7w8VNon6GDH) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Fade Away](https://open.spotify.com/album/0ukJ3I2mxiZVacGtaOIXo5) | 2:19 | 2022-07-04 |  |
 | [Always Remember](https://open.spotify.com/track/5C56Qnwq0aU9MIY2G6snfo) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [도도솔솔라라솔 \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/2ueEwIe0EHbF1DYU3jGgXX) | 3:25 | 2022-07-04 |  |
 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 | 2022-07-04 |  |

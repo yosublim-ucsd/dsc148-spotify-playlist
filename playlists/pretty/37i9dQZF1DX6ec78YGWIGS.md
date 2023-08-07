@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Feat\. Mau y Ricky & La Joaqui
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,381 likes - 85 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,558 likes - 85 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 84 | [Laberinto \(feat\. Leo Rizzi\)](https://open.spotify.com/track/6u22ObIR949lHB2ro2d51Z) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:18 |
 | 85 | [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 |
 
-Snapshot ID: `MCxkNGFiMGU0MWIzNGQ3MTdhNTM5NWJiM2ZiZjNhMDUwYTU0ZWMwZDA0`
+Snapshot ID: `MCxlNmM0MWNlNzUxNGZmNTEzNzFmODNlYjg4NDM1NjZkZDc4M2FkMTZi`

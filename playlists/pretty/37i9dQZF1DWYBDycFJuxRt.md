@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 宇多田ヒカル \*👉 <a href="https://spice.eplus.jp/articles/320750?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ! 👉宇多田ヒカルのロングインタビューは<a href="spotify:episode:3PChCmmsccmErKZoiWBddu">こちら</a>から。
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,596 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,649 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 69 | [積み木](https://open.spotify.com/track/4ghJNnTJjfTaMiXmjPQXqG) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [積み木](https://open.spotify.com/album/3w9rMLtWaNvcoi5QecRCH6) | 3:34 |
 | 70 | [病みモード](https://open.spotify.com/track/4QKQ5TFUWbszXlPLiIJ9Fw) | [ぱーてぃー韻きゃ](https://open.spotify.com/artist/72V55VMTQr63qFnf8dUD8q) | [病みモード](https://open.spotify.com/album/2nUqm5j2LQJgu6TLYOWtKk) | 2:46 |
 
-Snapshot ID: `MCxkOWVjODU2ZTgxODA3MjBjZmY1YWMyY2QwZWFkOThlNmJiZDI4YzIw`
+Snapshot ID: `MCxlNTY0OWMzMzQ4N2IyMmI4NjNlMTQ4MGMzOWRlOTkwZDMxOTcwOGY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Chill & Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,856 likes - 164 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,011 likes - 164 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 163 | [Remember When](https://open.spotify.com/track/3eGvc60ZfpRNs9Tmh7k6T9) | [KAASI](https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6) | [Faro](https://open.spotify.com/album/3MpTyXDrpbmFhrGIndfeME) | 4:40 |
 | 164 | [phases \(feat\. Kojey Radical\) \- P\-rallel Remix](https://open.spotify.com/track/0BUU2Sw6QrDyIVg4U6G3Gl) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [phases \(feat\. Kojey Radical\) \[P\-rallel Remix\]](https://open.spotify.com/album/5UMUOPkLKNKKfHIT9D9D4x) | 3:08 |
 
-Snapshot ID: `MCxjNWIyMzhhMmMwNjZiYzliNzM4NDk1NzFjOTY3ZWI3NmQ4OTg0YWU1`
+Snapshot ID: `MCxjN2MyZTQ4MDAxNDA2MjZhYzZkOWQ2NzA3YWVlODZhZGZkNDU1YmI3`

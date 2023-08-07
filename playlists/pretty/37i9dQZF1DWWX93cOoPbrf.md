@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. La Adictiva & Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,957 likes - 74 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,110 likes - 74 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 28 | [Apenas Es Martes](https://open.spotify.com/track/1RXb99lIyj8RYACt13yg8M) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 3:20 |
 | 29 | [Pese A Quien Le Pese](https://open.spotify.com/track/2Pvx5MfPEzmDUNjnq9GFjP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pese A Quien Le Pese](https://open.spotify.com/album/6cnEHJEveEigJeAZIUQrQ4) | 1:44 |
 | 30 | [Hijo De Shango](https://open.spotify.com/track/50pmgtrjD6BqoRVRPPqOd1) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Se Vale Llorar](https://open.spotify.com/album/6QCeudlbNyDrOiII227cUJ) | 3:09 |
-| 31 | [En La Lumbre](https://open.spotify.com/track/2ZnQIKPgq3SptPgG4XTnYU) | [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [En La Lumbre](https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM) | 2:42 |
+| 31 | [En La Lumbre \- En Vivo](https://open.spotify.com/track/2ZnQIKPgq3SptPgG4XTnYU) | [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [En La Lumbre \(En Vivo\)](https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM) | 2:42 |
 | 32 | [Respaldo y Apoyo](https://open.spotify.com/track/1q5EjO5bleDZ40TFUp4d1p) | [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1) | [Respaldo y Apoyo](https://open.spotify.com/album/7HNAEGrSZ4Uv5GQ9Fny7CS) | 1:58 |
 | 33 | [El Texas](https://open.spotify.com/track/4x7ah1DHVZcvM3yTmBjvhG) | [Hijos De La Plaza](https://open.spotify.com/artist/6tGfaDLiyGkJy05dbcPEJZ) | [El Texas](https://open.spotify.com/album/3CxUVVkHiYPfNZ0WrZUpi2) | 3:01 |
 | 34 | [El Centenario](https://open.spotify.com/track/5T2ClcweuA1RK00ZdKbQl1) | [Banda 30 Treinta](https://open.spotify.com/artist/6isZ0Wm24pVjECv8TcgmQ3), [Grupo Delta Norteño](https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG) | [El Centenario](https://open.spotify.com/album/5T6PJJwMvjY5Qi1zK9dKhV) | 2:35 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 73 | [El Niño De La Amapola](https://open.spotify.com/track/76sWBFlOhZeChOSdrAfpCd) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [El Niño De La Amapola](https://open.spotify.com/album/1rygGMDNJ46kjKiwRzGC9Y) | 3:34 |
 | 74 | [En El Calorón](https://open.spotify.com/track/6N7TWCgpK7kRfpnyQ6yt5B) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [En El Calorón](https://open.spotify.com/album/7gPpeOQQNtZn90O5YvA7Ai) | 2:39 |
 
-Snapshot ID: `MCwwNTQ3M2Y0OGMzMzA2ZGU4MTkyOTA4NDliOWE5ZmM4ZmZmOWI1NTlk`
+Snapshot ID: `MCxmYTk0NGMzNzNlOTc2OWFmNjA1N2FlYTgwOWZlNGUxNmU5N2Q2MTUx`

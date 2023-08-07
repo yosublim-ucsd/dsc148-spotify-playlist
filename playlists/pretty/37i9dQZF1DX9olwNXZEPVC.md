@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 
 > NSWER! It's Party O'Clock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,433 likes - 39 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,549 likes - 39 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,15 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 | 27 | [O.O \(Inst.\)](https://open.spotify.com/track/1Bf5zMLyJAt3075EISPcYy) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | 2:52 |
 | 28 | [Message from NMIXX \- JIWOO](https://open.spotify.com/track/6sSsKdsq3WqLThVkT33f9K) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/5s15PlkjUUIUFt0n3KMHIC) | 0:13 |
 | 29 | [Message from NMIXX \- LILY & KYUJIN](https://open.spotify.com/track/75VQXvyQQdZ5GsxpqB9CVv) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/5s15PlkjUUIUFt0n3KMHIC) | 0:13 |
-| 30 | [Message from NMIXX \- HAEWON & SULLYOON](https://open.spotify.com/track/5FCKW0hOhAUbcZpqfZvBR7) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/7mW3oragxrXeGUWT2Chid3) | 0:21 |
+| 30 | [Message from NMIXX \- HAEWON & SULLYOON](https://open.spotify.com/track/0kiAGYtQWpMUWe6e858fod) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/5s15PlkjUUIUFt0n3KMHIC) | 0:21 |
 | 31 | [Message from NMIXX \- JINNI & BAE](https://open.spotify.com/track/1iFtWphIraYJ9Tpg93IzCD) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/5s15PlkjUUIUFt0n3KMHIC) | 0:18 |
 | 32 | [Hello, world!](https://open.spotify.com/track/4zDsgRtgHDDfx9E0By7mck) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:26 |
-| 33 | [Journey of NMIXX \(1\)](https://open.spotify.com/track/68JBXNz7K5v1mClE9W5Q9c) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:19 |
-| 34 | [About Music](https://open.spotify.com/track/5qvdnTFa0JLQT4xQWqJzhs) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:18 |
+| 33 | [Journey of NMIXX \(1\)](https://open.spotify.com/track/2LR05uhqSd84WDutXsFvQA) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:19 |
+| 34 | [About Music](https://open.spotify.com/track/1cXry0zPLW5mXQWdLERP1h) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:18 |
 | 35 | [About Lyrics](https://open.spotify.com/track/1b7aCHu4vK9BO8SHGTI9pS) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:17 |
-| 36 | [About NMIXX](https://open.spotify.com/track/0Q7eJJUCar0eX0AuZuP76e) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:23 |
+| 36 | [About NMIXX](https://open.spotify.com/track/2KzetNBtOhhqy9DE174LAp) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:23 |
 | 37 | [Journey of NMIXX \(2\)](https://open.spotify.com/track/7IrkVeJEWgZuvXY39umiIk) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:22 |
 | 38 | [Thank you for waiting us!](https://open.spotify.com/track/66Nedi5HluuBBCKMC5ykWe) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:21 |
-| 39 | [Coming SOON!](https://open.spotify.com/track/3XtqMBD1AR0wWFlQLiXQgC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:21 |
+| 39 | [Coming SOON!](https://open.spotify.com/track/2hUDKmh08dMdMMTBRt8ic9) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:21 |
 
-Snapshot ID: `MCxiM2M4ZGQ1MDQ3YzQ1ZmE2ODA3Y2YyYjcxNzY3MzY1YWMxNGQ5MGJj`
+Snapshot ID: `MCxiODRmMmMyMTFmMjIyNzk2NWRiMDc4NGI0ZDBlNjBkMTAyODNjNTgy`

@@ -1,12 +1,12 @@
 {
   "description": "Vulgo FK e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 212356,
+  "num_followers": 212460,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjhlNDBmNzQwNDlmZjljOGUzNWFlN2MwYmE4NjBlZWM4OGU4MjIy",
+  "snapshot_id": "MCxlZjJjYjgxY2QxNzdhNGNmZDZmYjQ5ZWU5NzU5N2QyOWUyYzExZWY0",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Zulu: Quarta Parede, Vol.3",
-        "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Lino Krizz",
-          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
-        }
-      ],
-      "duration_ms": 289090,
-      "name": "O Pre\u00e7o da Guerra",
-      "url": "https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Filhos",
         "url": "https://open.spotify.com/album/16xD2hWPUrnrUrWmzBweXQ"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 210337,
       "name": "Filhos",
       "url": "https://open.spotify.com/track/7Cyj6YPYU9ax1Ze7GpQXT4"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Zulu: Quarta Parede, Vol.3",
+        "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Lino Krizz",
+          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
+        }
+      ],
+      "duration_ms": 289090,
+      "name": "O Pre\u00e7o da Guerra",
+      "url": "https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu"
     },
     {
       "added_at": "2023-08-04 03:01:00",

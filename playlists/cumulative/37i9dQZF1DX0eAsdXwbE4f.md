@@ -4,7 +4,7 @@
 
 > Relax to the sound of birds singing in the rain.
 
-130 songs - 5 hr 37 min
+131 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,9 +55,10 @@
 | [Fresh Rainfall](https://open.spotify.com/track/0GFsf0ejUguZ966Rov1LkT) | [NATURALSOUND](https://open.spotify.com/artist/1aKwCfowxoqvstcBsPXUHw) | [Feel The Rain](https://open.spotify.com/album/5Na8vHndapwKax9CslkUUB) | 2:36 | 2021-11-11 |  |
 | [Fåglar i Regn](https://open.spotify.com/track/76DI4bKgwhIFC7lQ5CTr5m) | [Naturen](https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB) | [Fåglar](https://open.spotify.com/album/0UF685ROQzeXZelWiT4nwc) | 3:26 | 2021-11-11 |  |
 | [garden escape](https://open.spotify.com/track/1laSIfJvQhSJ9gL2GpS3ar) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [lo\-fly zone](https://open.spotify.com/album/5InjXAxHwEjzZX9iAtt5c2) | 2:40 | 2021-11-11 |  |
+| [Garden Rain](https://open.spotify.com/track/2uKaRSkIzRzjCIfqJy2dS5) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rainy Morning Bird Sounds](https://open.spotify.com/album/2U4bKyLdWQquKGfFxzLr66) | 2:43 | 2023-06-20 |  |
 | [Gotland Summer Rain](https://open.spotify.com/track/3lTOP1stsaLZlxS4Qd34C1) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Birds On A Rainy Day](https://open.spotify.com/album/61wbzSmVM3rKMxWI2aUAwY) | 2:18 | 2023-06-20 | 2023-07-14 |
 | [Green Noise \- Early Summer Birds](https://open.spotify.com/track/2K0J7mQTEpY1Vhus3usBT4) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Green Noise Vol\. 1](https://open.spotify.com/album/5ZSsHlWLo7Zginr7ig47Pw) | 2:19 | 2023-06-20 |  |
-| [Happy Birds \- Soothing Rain](https://open.spotify.com/track/72S28nw8QKEdn46zsqkk1u) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Paradise Island Birds](https://open.spotify.com/album/7xTDWLF8jCocD8eG11s7QW) | 2:01 | 2023-06-20 |  |
+| [Happy Birds \- Soothing Rain](https://open.spotify.com/track/72S28nw8QKEdn46zsqkk1u) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Paradise Island Birds](https://open.spotify.com/album/7xTDWLF8jCocD8eG11s7QW) | 2:01 | 2023-06-20 | 2023-08-07 |
 | [Heavy Rain](https://open.spotify.com/track/2TELIKNRpPNkMSnuSq1XNj) | [The Rain Factory](https://open.spotify.com/artist/49vl57hBAlm48azTd4iCsN) | [Sleep Rain](https://open.spotify.com/album/17xuXcpMcRLHGbUb7AsUrs) | 3:30 | 2021-11-11 |  |
 | [Hummingbird Song](https://open.spotify.com/track/7r79M5K5fyQtCaHV42XyKa) | [Al Watts](https://open.spotify.com/artist/3rO74EVuCb94fxyCJk1aYx) | [Hummingbird Song](https://open.spotify.com/album/1fwsA7tNImY1FXpDgTxFFZ) | 2:38 | 2021-11-11 |  |
 | [In Harmony with the Rain](https://open.spotify.com/track/5KIFUG7h4FZGEDvAvLTbqX) | [Island Nature Sounds](https://open.spotify.com/artist/6uUdEOkdbmk16c33lfs9XI) | [Forest Rain](https://open.spotify.com/album/1Yo5Dg0KY1Ic4fDOPKYR6s) | 2:54 | 2021-11-11 |  |

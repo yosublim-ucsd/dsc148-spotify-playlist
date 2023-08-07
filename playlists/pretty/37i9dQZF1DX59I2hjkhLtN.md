@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Pilitchi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,557 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,564 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 98 | [Babar os Nike](https://open.spotify.com/track/4xlRH6S6l0oWmSuLNSbolG) | [SäoOneArt](https://open.spotify.com/artist/0HJlFDUwaxWgytljhL5i0N), [ZA](https://open.spotify.com/artist/3leovMVJPslFyWGlVOX7Xc) | [Babar os Nike](https://open.spotify.com/album/5PmwRNlPlI8PNKX9SRnGsB) | 3:58 |
 | 99 | [Fora Lei](https://open.spotify.com/track/3WrWXxzV0O0e09BwSvVASn) | [Lewis Czm](https://open.spotify.com/artist/77lZuMrgxSoq2FbBuqSq2D), [Landzs](https://open.spotify.com/artist/7dkcFqRuKh7BViKOumG86T) | [Fora Lei](https://open.spotify.com/album/1Zahm2tVQAN0UrF1ByDKTd) | 3:39 |
 
-Snapshot ID: `MCxkNWRiYTI2ZDM2Zjk1NGE5OWIxOTk0YzZkM2NlMWIwZWVlMTM3ZWJl`
+Snapshot ID: `MCw3MWRlYWY5YzNmOGE0NGE5MGRmZjc4NzI0ZmM5YzU0ODZlZjc0NjFl`

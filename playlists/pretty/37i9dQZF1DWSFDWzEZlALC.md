@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Carolina
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,205 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,361 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Weil mein Herz ein Lügner ist](https://open.spotify.com/track/3g5OUIfHdyB09rIvWa9zYk) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Weil mein Herz ein Lügner ist](https://open.spotify.com/album/0oWjd42XhGoe0jSyr9ng6P) | 3:25 |
 | 75 | [Volare](https://open.spotify.com/track/72SNj994MwjBgaT2NAZefP) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD), [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [Volare](https://open.spotify.com/album/1vX4QbpYryLXksUKdNZ0N4) | 3:38 |
 
-Snapshot ID: `MCxiYzMxZjNmNWYxYTJlMzkxZWZmNmFiYzkwMDk0YzY5M2M3ZTk2ZmQz`
+Snapshot ID: `MCxjMTg2MmJlYjM3ZTY4ZmJhNTZkMGNiZGRjYjAyODhjMGUxNDk5YzRi`

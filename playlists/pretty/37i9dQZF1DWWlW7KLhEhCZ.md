@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Felp 22
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,598 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,643 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 17 | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK) | 2:07 |
 | 18 | [A Sinfonia](https://open.spotify.com/track/5kTyBusrB5zFwk7Df0p2Eh) | [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Baby T](https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Asfaltorando](https://open.spotify.com/album/28kCAnnbPoKDLB1yIFQaTU) | 2:14 |
 | 19 | [Ruas](https://open.spotify.com/track/1nrR52CyHa74JMSxtLEabB) | [Real Puto](https://open.spotify.com/artist/60PxwENw4FITS4hdlc3P1g), [Mc Orelha](https://open.spotify.com/artist/06dPHHGcFjSDdj2ybbf7vD) | [Ruas](https://open.spotify.com/album/5GFDGSVxQ4MYLEIAdVPKBM) | 3:03 |
-| 20 | [Influencer](https://open.spotify.com/track/2iEbe8ZkN7l1Som8NMbegi) | [Klyn](https://open.spotify.com/artist/01dmDF9czGp6mlNKFeD1cm), [JotaPills](https://open.spotify.com/artist/5EFuxQqgLKrSBURDlTsC91), [Ari Falcão](https://open.spotify.com/artist/1tJcpyjn4f1vbRJW1E7P3b) | [Influencer](https://open.spotify.com/album/3WNmQELebLEmAn3NklvKx0) | 3:54 |
+| 20 | [Influencer](https://open.spotify.com/track/2iEbe8ZkN7l1Som8NMbegi) | [Klyn](https://open.spotify.com/artist/01dmDF9czGp6mlNKFeD1cm), [JotaPills](https://open.spotify.com/artist/5EFuxQqgLKrSBURDlTsC91), [Ari Falcão](https://open.spotify.com/artist/1tJcpyjn4f1vbRJW1E7P3b), [Mina Criis](https://open.spotify.com/artist/2CTA8tgr6SQr7OqHwwDVG3) | [Influencer](https://open.spotify.com/album/3WNmQELebLEmAn3NklvKx0) | 3:54 |
 | 21 | [Papo de Ronca](https://open.spotify.com/track/6fvyK2M56qZCqK6krkPvtI) | [ogtreasure](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0), [tharealjuggboy](https://open.spotify.com/artist/0xazmrsqv7px8U921RehiR), [paniagonobeat](https://open.spotify.com/artist/3Z3KpO4RqycQD8f4hfnT3g) | [Papo de Ronca](https://open.spotify.com/album/1Wz9RFMODBC7SH0hC4p1zx) | 2:00 |
 | 22 | [Ultimamente](https://open.spotify.com/track/2jD7tgorh9Y8X10mkmKyD1) | [Yrpedro](https://open.spotify.com/artist/339yVlPjJYiFe211UDs01q) | [Ultimamente](https://open.spotify.com/album/4l5MivrrzqwuTGWtN13kJp) | 1:37 |
 | 23 | [Fundo do Mar](https://open.spotify.com/track/48RydgPQGeoMOxKACypWZa) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW) | [Nova Wave, Pt\. 2](https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Sobrenatural ;7](https://open.spotify.com/track/3QncTbkiAhGomFf0KHaqlf) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Sobrenatural ;7](https://open.spotify.com/album/2CJ5Vpgc8ibMiu0gchg4uL) | 3:12 |
 | 75 | [Jovens do Reggae](https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Jovens do Reggae](https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp) | 3:03 |
 
-Snapshot ID: `MCw3ZjczNWFkYzQ4MTNlZWU2NGM3ZmQzMjY5YTljYTMxN2NjNmRlZmY0`
+Snapshot ID: `MCw0ZDg1M2VlMzQxNWRhZWI4YTE1OWYyNTVlNDk5M2Q2ZDAzYjJhZjY1`

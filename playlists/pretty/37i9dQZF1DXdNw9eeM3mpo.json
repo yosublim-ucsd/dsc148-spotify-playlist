@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Los Fabulosos Cadillacs en portada.",
-  "num_followers": 432772,
+  "num_followers": 432863,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjRiZDI5Nzk0NTExMDFjNDE3ZDYwODU5YmZmZjgyN2EzNTAxODA1",
+  "snapshot_id": "MCxlNzUyMzUwMTY0MmEwYzhjYmVlZmFhZWVmYjU4NDBjNjM4ZWZmMTgx",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Kasualidad",
-        "url": "https://open.spotify.com/album/0FtTPER1MfrtYM8b94J7tT"
-      },
-      "artists": [
-        {
-          "name": "Ska Prensao",
-          "url": "https://open.spotify.com/artist/0zpJ9TatAuySVMfhTLV8Az"
-        }
-      ],
-      "duration_ms": 303812,
-      "name": "Kasualidad",
-      "url": "https://open.spotify.com/track/24vddb7YLG2Ha0F9T9Whn3"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Que Empiece Ya!",
         "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
       },
@@ -1515,18 +1499,34 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "B-Side of Madness",
-        "url": "https://open.spotify.com/album/0kBU6p9eQCF4XHys30QKkg"
+        "name": "Kasualidad",
+        "url": "https://open.spotify.com/album/0FtTPER1MfrtYM8b94J7tT"
       },
       "artists": [
         {
-          "name": "Marzela",
-          "url": "https://open.spotify.com/artist/7AdSQ6r60NhGQvFc70g76T"
+          "name": "Ska Prensao",
+          "url": "https://open.spotify.com/artist/0zpJ9TatAuySVMfhTLV8Az"
         }
       ],
-      "duration_ms": 198618,
-      "name": "Rude Boys Unity",
-      "url": "https://open.spotify.com/track/6rVld2p50b7Wk2DldUOZBh"
+      "duration_ms": 303812,
+      "name": "Kasualidad",
+      "url": "https://open.spotify.com/track/24vddb7YLG2Ha0F9T9Whn3"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Inflammable",
+        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
+      },
+      "artists": [
+        {
+          "name": "Skampida",
+          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "La Manifestacion",
+      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Inflammable",
-        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
+        "name": "B-Side of Madness",
+        "url": "https://open.spotify.com/album/0kBU6p9eQCF4XHys30QKkg"
       },
       "artists": [
         {
-          "name": "Skampida",
-          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
+          "name": "Marzela",
+          "url": "https://open.spotify.com/artist/7AdSQ6r60NhGQvFc70g76T"
         }
       ],
-      "duration_ms": 171693,
-      "name": "La Manifestacion",
-      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+      "duration_ms": 198618,
+      "name": "Rude Boys Unity",
+      "url": "https://open.spotify.com/track/6rVld2p50b7Wk2DldUOZBh"
     },
     {
       "added_at": "2023-07-28 06:00:00",

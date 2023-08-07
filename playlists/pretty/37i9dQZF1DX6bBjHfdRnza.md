@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: ilykimchi\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,815 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,864 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Hotdog Technology](https://open.spotify.com/track/569uMJNH5GQiY4BnxsIpPk) | [DJ Life](https://open.spotify.com/artist/04BIVyq0BJcYluY7n3Mz0t) | [Guardian](https://open.spotify.com/album/7hWlh6VCsaWkvzukc86AHn) | 5:23 |
 | 100 | [Marla's Groove](https://open.spotify.com/track/3nfZprdbnj7jPKtfccI2XD) | [Artisian](https://open.spotify.com/artist/2qO4AfWBnBCnbaNxZIR1I7), [Caetano Farias](https://open.spotify.com/artist/2DlR8opTlQXBgywYHjbeL8) | [Love Songs](https://open.spotify.com/album/63ORApvLgi1FDsJTHGQ0fu) | 8:33 |
 
-Snapshot ID: `MCwwZjIzOTY4MDlkMDI5MGExNjEyN2IzZTRhNjFkZGIwYWFlYTUzMmQ4`
+Snapshot ID: `MCwwNjMxODEzZWJlNTNmNGVjMDhhOTcyNDkyOGYzN2UxZDM1MjgzYTdl`

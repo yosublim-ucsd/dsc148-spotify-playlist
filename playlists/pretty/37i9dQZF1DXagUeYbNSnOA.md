@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring raquel\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,601 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,603 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 34 | [SKB](https://open.spotify.com/track/6gXpd9hQ2nBKlfCFBDQHsF) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [SKB](https://open.spotify.com/album/45Y4FneTtW9gZYhd98Sunp) | 3:38 |
 | 35 | [Calor](https://open.spotify.com/track/3VJGRgrWKdT5UeFduHxzq6) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u), [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Calor](https://open.spotify.com/album/6OPkStWof1bHCcuYc2lxw0) | 3:44 |
 | 36 | [Sobre La Loquera](https://open.spotify.com/track/5IXq7Lhy89lSgxmdvWuhMO) | [El Krack Mx](https://open.spotify.com/artist/5ti1sFtNy3wjVTwNFNxH2i) | [Sobre La Loquera](https://open.spotify.com/album/5cfDeRhggaNBaCXkRXoNPa) | 2:11 |
-| 37 | [Una Temporada Más](https://open.spotify.com/track/5SheSZIqwxXdcT8WmR8MuJ) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Una Temporada Más](https://open.spotify.com/album/1AqD5EurwXoswt2n4c4Ptl) | 2:59 |
-| 38 | [Pirámide](https://open.spotify.com/track/5Cn79rGGFSePXgVIPS19Tb) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Pirámide](https://open.spotify.com/album/4kSAzEEJE6MzVHKvGFYv18) | 3:24 |
+| 37 | [Pirámide](https://open.spotify.com/track/5Cn79rGGFSePXgVIPS19Tb) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Pirámide](https://open.spotify.com/album/4kSAzEEJE6MzVHKvGFYv18) | 3:24 |
+| 38 | [Una Temporada Más](https://open.spotify.com/track/5SheSZIqwxXdcT8WmR8MuJ) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Una Temporada Más](https://open.spotify.com/album/1AqD5EurwXoswt2n4c4Ptl) | 2:59 |
 | 39 | [Se Acaba](https://open.spotify.com/track/7FCvwds9Prp18YA3zYjeoT) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto) | [Se Acaba](https://open.spotify.com/album/5HQdNPcwZb1Rxe95vxEIdt) | 2:33 |
-| 40 | [Eclipse](https://open.spotify.com/track/0fGNKSW2BTa2AytRheXuDw) | [JACE Carrillo](https://open.spotify.com/artist/3SkH0TcPc8cxGospxnjClx), [Alyko](https://open.spotify.com/artist/6LgOFiGZVIUExt48t3hpWd) | [Eclipse](https://open.spotify.com/album/69G45JAMGjkJbgEzOyDIvW) | 2:38 |
-| 41 | [entrelasal](https://open.spotify.com/track/05Gft7dGw92o6MfhnDU6VB) | [nopornada](https://open.spotify.com/artist/7wjJYcWynWV6vnWulTTQUU) | [entrelasal](https://open.spotify.com/album/52T9eBIbCfTXuNGm9sLiOn) | 3:39 |
+| 40 | [entrelasal](https://open.spotify.com/track/05Gft7dGw92o6MfhnDU6VB) | [nopornada](https://open.spotify.com/artist/7wjJYcWynWV6vnWulTTQUU) | [entrelasal](https://open.spotify.com/album/52T9eBIbCfTXuNGm9sLiOn) | 3:39 |
+| 41 | [Eclipse](https://open.spotify.com/track/0fGNKSW2BTa2AytRheXuDw) | [JACE Carrillo](https://open.spotify.com/artist/3SkH0TcPc8cxGospxnjClx), [Alyko](https://open.spotify.com/artist/6LgOFiGZVIUExt48t3hpWd) | [Eclipse](https://open.spotify.com/album/69G45JAMGjkJbgEzOyDIvW) | 2:38 |
 | 42 | [El Juego de la Sed](https://open.spotify.com/track/0Gadp13jH5EsojTAXyhMwW) | [Julián Desbats](https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP) | [El Juego de la Sed](https://open.spotify.com/album/2BSgQC5v96a3oITrZ6ykRS) | 3:15 |
 | 43 | [Vivo Caro](https://open.spotify.com/track/7fU4dUMAAyo8xhhpMGxAlx) | [Duriex](https://open.spotify.com/artist/2UFkq8zMMnNeb6uCXpCGVW) | [Vivo Caro](https://open.spotify.com/album/1j52KiCc2jOfvVn4sMdQbO) | 2:42 |
 | 44 | [MILLÓN DE RÍOS](https://open.spotify.com/track/1Rx05ZTDUPr3ykLDM4mGeR) | [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL) | [MILLÓN DE RÍOS](https://open.spotify.com/album/5zAzK9gSlQQzTmfwdl0VvS) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Si Me Vienes A Buscar...](https://open.spotify.com/track/3O6LFafEFyDfEwlo0chm1l) | [Andrik](https://open.spotify.com/artist/2EQprQtkdtAXyg6PsQl4Wp), [Nargotico](https://open.spotify.com/artist/4SwzUuI50WSZGTa3MyobtS) | [Si Me Vienes A Buscar...](https://open.spotify.com/album/2Du2oQwVTypip07gSqpwWr) | 3:55 |
 | 50 | [Danny Phantom](https://open.spotify.com/track/1zGLtpsWg3khSec7evcqFN) | [Yakashi X](https://open.spotify.com/artist/5Q8PN3cHZ3eTMrS3z8oXlZ), [Nano G4](https://open.spotify.com/artist/4RSsVKJfUJJ8iFoJNwIBBq) | [Danny Phantom](https://open.spotify.com/album/7AhZkg0rfSfsSY0QIfLzIe) | 2:17 |
 
-Snapshot ID: `MCwzMWY1NzUwZmQ5M2MyNTRiOTI1NzYxNDhkMmRjMzI0NjFmNTk5ZjEw`
+Snapshot ID: `MCwwNGZmMjVhZDc1Njc5MzliZjQ2YWMzMWUwY2U1MWY0ZjA3Nzk5YzZh`

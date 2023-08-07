@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ska 100% Mexicano, c\u00edrculos de paz y baile! Out Of Control Army en portada. ",
-  "num_followers": 8441,
+  "num_followers": 8445,
   "original_name": "MexSka ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGQzOTA1ZTdkOTI4ZTU3MjAzY2U4NjhmODIxNDQ3YzFhOGVjZTc2",
+  "snapshot_id": "MCwyZDBlOWJmOTA3NjlhMTE5YjY2MWQxYTFiZWE4Y2Y5NTg0ODAwNzAw",
   "tracks": [
     {
       "added_at": "2023-07-21 00:53:44",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-07-21 00:53:44",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+        "name": "El Precio del Sudor",
+        "url": "https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc"
       },
       "artists": [
         {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+          "name": "Los Rude Boys",
+          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
         }
       ],
-      "duration_ms": 237346,
-      "name": "Fantasma de la Rana",
-      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
+      "duration_ms": 164186,
+      "name": "Somos del Barrio",
+      "url": "https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV"
     },
     {
       "added_at": "2023-07-21 00:53:44",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-07-21 00:53:44",
       "album": {
-        "name": "El Precio del Sudor",
-        "url": "https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc"
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
       "artists": [
         {
-          "name": "Los Rude Boys",
-          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
         }
       ],
-      "duration_ms": 164186,
-      "name": "Somos del Barrio",
-      "url": "https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV"
+      "duration_ms": 237346,
+      "name": "Fantasma de la Rana",
+      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
     },
     {
       "added_at": "2023-07-21 00:53:44",
@@ -627,22 +627,18 @@
     {
       "added_at": "2023-07-21 00:53:44",
       "album": {
-        "name": "El Ska No Est\u00e1 en Extinci\u00f3n",
-        "url": "https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT"
+        "name": "Mejores Tiempos",
+        "url": "https://open.spotify.com/album/4XJpYmsQZSIMcvENsWz2Nx"
       },
       "artists": [
         {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Cesar Franco",
-          "url": "https://open.spotify.com/artist/0jPN4FO3F86pPyoa4Pyd3w"
+          "name": "Los Rude Boys",
+          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
         }
       ],
-      "duration_ms": 238013,
-      "name": "Mi Coraz\u00f3n Encantado",
-      "url": "https://open.spotify.com/track/11BRj7ewITunxgcHnujXQH"
+      "duration_ms": 273893,
+      "name": "Mejores Tiempos",
+      "url": "https://open.spotify.com/track/7jBIWPsJJ09O0ffutG92Hw"
     },
     {
       "added_at": "2023-07-21 00:53:44",
@@ -683,18 +679,22 @@
     {
       "added_at": "2023-07-21 00:53:44",
       "album": {
-        "name": "Mejores Tiempos",
-        "url": "https://open.spotify.com/album/4XJpYmsQZSIMcvENsWz2Nx"
+        "name": "El Ska No Est\u00e1 en Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT"
       },
       "artists": [
         {
-          "name": "Los Rude Boys",
-          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Cesar Franco",
+          "url": "https://open.spotify.com/artist/0jPN4FO3F86pPyoa4Pyd3w"
         }
       ],
-      "duration_ms": 273893,
-      "name": "Mejores Tiempos",
-      "url": "https://open.spotify.com/track/7jBIWPsJJ09O0ffutG92Hw"
+      "duration_ms": 238013,
+      "name": "Mi Coraz\u00f3n Encantado",
+      "url": "https://open.spotify.com/track/11BRj7ewITunxgcHnujXQH"
     },
     {
       "added_at": "2023-07-21 00:53:44",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-07-21 00:53:44",
       "album": {
-        "name": "La Ciudad Es...Nuestra",
-        "url": "https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz"
-      },
-      "artists": [
-        {
-          "name": "Los Chickl\u00e9ts",
-          "url": "https://open.spotify.com/artist/0mWlTqjHA6WrVyQhHqC0Wp"
-        }
-      ],
-      "duration_ms": 60033,
-      "name": "Skarface",
-      "url": "https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl"
-    },
-    {
-      "added_at": "2023-07-21 00:53:44",
-      "album": {
         "name": "De Todo Tengo Se\u00f1or",
         "url": "https://open.spotify.com/album/3hvT6HiskpLzcwgXIpjhJz"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 150466,
       "name": "Marich\u00fa",
       "url": "https://open.spotify.com/track/269LeYy1CgAmIEAcQF4RHi"
+    },
+    {
+      "added_at": "2023-07-21 00:53:44",
+      "album": {
+        "name": "La Ciudad Es...Nuestra",
+        "url": "https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz"
+      },
+      "artists": [
+        {
+          "name": "Los Chickl\u00e9ts",
+          "url": "https://open.spotify.com/artist/0mWlTqjHA6WrVyQhHqC0Wp"
+        }
+      ],
+      "duration_ms": 60033,
+      "name": "Skarface",
+      "url": "https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl"
     },
     {
       "added_at": "2023-07-21 00:53:44",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-07-21 00:53:44",
       "album": {
-        "name": "Jamaica Ska",
-        "url": "https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Quirazco",
-          "url": "https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo"
-        }
-      ],
-      "duration_ms": 153861,
-      "name": "M\u00e9rida Ska",
-      "url": "https://open.spotify.com/track/5watJHxDxO5RLv7ye4HHXy"
-    },
-    {
-      "added_at": "2023-07-21 00:53:44",
-      "album": {
         "name": "Ciao",
         "url": "https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 263000,
       "name": "Ciao",
       "url": "https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH"
+    },
+    {
+      "added_at": "2023-07-21 00:53:44",
+      "album": {
+        "name": "Jamaica Ska",
+        "url": "https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Quirazco",
+          "url": "https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo"
+        }
+      ],
+      "duration_ms": 153861,
+      "name": "M\u00e9rida Ska",
+      "url": "https://open.spotify.com/track/5watJHxDxO5RLv7ye4HHXy"
     },
     {
       "added_at": "2023-07-21 00:53:44",

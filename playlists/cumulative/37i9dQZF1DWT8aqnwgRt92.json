@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Brand new day",
+        "url": "https://open.spotify.com/album/54utDXKQTwJKa5f7BD6lzB"
+      },
+      "artists": [
+        {
+          "name": "sana (sajou no hana)",
+          "url": "https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY"
+        }
+      ],
+      "date_added": "2023-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221771,
+      "name": "Brand new day",
+      "url": "https://open.spotify.com/track/4bpbgfgLzivQp88KLUl7BK"
+    },
+    {
+      "album": {
         "name": "BRAND NEW OLD",
         "url": "https://open.spotify.com/album/3wxxn744YNZpYA6C54B7A8"
       },
@@ -1454,7 +1472,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 152000,
       "name": "CODE GE4SS",
       "url": "https://open.spotify.com/track/5bIptZAYkYhWutd3iNXM5E"
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 204774,
       "name": "Cyan Innocence",
       "url": "https://open.spotify.com/track/73gBEMU6UOgFw38HRGtVHj"
@@ -2615,6 +2633,24 @@
     },
     {
       "album": {
+        "name": "f\u016bmi zekka",
+        "url": "https://open.spotify.com/album/6B2EGXqpVPapvfPFyLlwKm"
+      },
+      "artists": [
+        {
+          "name": "YuNi",
+          "url": "https://open.spotify.com/artist/6BzlN4V17m7ogeItP4CNN5"
+        }
+      ],
+      "date_added": "2023-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198909,
+      "name": "f\u016bmi zekka",
+      "url": "https://open.spotify.com/track/2Lphm5lQ3bOULctWRuMhJ8"
+    },
+    {
+      "album": {
         "name": "geki",
         "url": "https://open.spotify.com/album/4yHPXYnI5USQhghoflfuac"
       },
@@ -3480,7 +3516,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-07",
       "duration_ms": 185835,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/69gvCK1fWci65yKgVcsv7A"
@@ -6934,6 +6970,24 @@
       "duration_ms": 220186,
       "name": "Setsunano Chikai",
       "url": "https://open.spotify.com/track/1YKBiydKeMfqHXwDECHLU6"
+    },
+    {
+      "album": {
+        "name": "Shambles",
+        "url": "https://open.spotify.com/album/4hhkj6li1ULllYOZJHFt7w"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "date_added": "2023-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Shambles",
+      "url": "https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk"
     },
     {
       "album": {

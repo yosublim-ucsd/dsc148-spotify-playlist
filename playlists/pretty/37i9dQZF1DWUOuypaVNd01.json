@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk",
-  "num_followers": 31703,
+  "num_followers": 31722,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjVhMDU3YWY3MTE1ZjdkNjNlNmMzMDEwZDYwOWY5MmE1NGViYTBk",
+  "snapshot_id": "MCwyZDRjYWJiZDE4ODI0NGEzYTQxNTI2NWQzYjczOGYyNGE3OWUwMzU3",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -607,8 +607,8 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Rock Danger, Vol. 1",
-        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
+        "name": "Rock Danger Worldwide/Chile",
+        "url": "https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o"
       },
       "artists": [
         {
@@ -620,13 +620,25 @@
           "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
         }
       ],
-      "duration_ms": 178005,
-      "name": "Dia de Baile",
-      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
+      "duration_ms": 192223,
+      "name": "Diz Quem Ta na Pista",
+      "url": "https://open.spotify.com/track/3KzDrMpWiFJ1F9deXPWfCI"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -755,8 +767,8 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Rock Danger Worldwide/Chile",
-        "url": "https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o"
+        "name": "Rock Danger, Vol. 1",
+        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
       },
       "artists": [
         {
@@ -768,25 +780,13 @@
           "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
-        },
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
         }
       ],
-      "duration_ms": 192223,
-      "name": "Diz Quem Ta na Pista",
-      "url": "https://open.spotify.com/track/3KzDrMpWiFJ1F9deXPWfCI"
+      "duration_ms": 178005,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Riqueza",
-        "url": "https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs"
-      },
-      "artists": [
-        {
-          "name": "Dend\u00ea",
-          "url": "https://open.spotify.com/artist/306dURz1s90QIIZaVusODl"
-        },
-        {
-          "name": "Vin\u00e3o Beats",
-          "url": "https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH"
-        }
-      ],
-      "duration_ms": 140176,
-      "name": "Riqueza",
-      "url": "https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Jhony Convida #7 - Preto$",
         "url": "https://open.spotify.com/album/0srN7DSRvf01APXmDyaZ0q"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 299154,
       "name": "Jhony Convida #7 - Preto$",
       "url": "https://open.spotify.com/track/3D6lFwZAMGDuAUb5YuuUwQ"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Riqueza",
+        "url": "https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs"
+      },
+      "artists": [
+        {
+          "name": "Dend\u00ea",
+          "url": "https://open.spotify.com/artist/306dURz1s90QIIZaVusODl"
+        },
+        {
+          "name": "Vin\u00e3o Beats",
+          "url": "https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH"
+        }
+      ],
+      "duration_ms": 140176,
+      "name": "Riqueza",
+      "url": "https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr"
     },
     {
       "added_at": "2023-08-04 03:01:00",

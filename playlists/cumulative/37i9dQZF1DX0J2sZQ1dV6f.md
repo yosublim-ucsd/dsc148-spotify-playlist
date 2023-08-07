@@ -4,7 +4,7 @@
 
 > Perreo after hours.
 
-327 songs - 17 hr 22 min
+328 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Alo](https://open.spotify.com/track/2g4OQwDCcjyUFx99JzPBIt) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Alo](https://open.spotify.com/album/22D6JmjxqpFodFcgcJx0ft) | 2:57 | 2022-03-21 | 2022-04-26 |
 | [Anda Decidida](https://open.spotify.com/track/3BcJh8QnyPzPhYoDAZydKc) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Baby Rasta & Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:13 | 2023-01-27 | 2023-05-26 |
 | [Andalucia](https://open.spotify.com/track/7EVOm9QdT0pww5jEQ3vwox) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Colores](https://open.spotify.com/album/2D4OJpTUpKLIyVHi1upoUj) | 2:27 | 2022-03-21 | 2022-04-20 |
+| [Anti\-todo](https://open.spotify.com/track/1UBLpmwFqty3My4THs0Yx5) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Anti\-todo](https://open.spotify.com/album/4yikPqi6jZ5B0fok72MSkm) | 2:57 | 2023-08-04 |  |
 | [Arrebatada](https://open.spotify.com/track/2635qgGEdvylmvCYCNZ33i) | [Sarhai](https://open.spotify.com/artist/1kFFQgFBwYFDYySGfCpIji) | [Arrebatada](https://open.spotify.com/album/51CvjXKO9SpAOSmor1Xz7G) | 2:32 | 2023-04-03 | 2023-05-26 |
 | [Arriba y Abajo](https://open.spotify.com/track/5VQtGffW8zgmAF5nRKoSv2) | [Omaar](https://open.spotify.com/artist/6HYCLQ4rq3A3VSXBWIMUsW) | [Drum Temple](https://open.spotify.com/album/5yqrk9yWU3kk8OwfWSgMnc) | 6:27 | 2022-03-21 | 2022-07-02 |
 | [ASESINA](https://open.spotify.com/track/5igyONqKPi22YmsVzGYie5) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Jace Kimura](https://open.spotify.com/artist/1dpESFMBHdUhFSGOXlcutO) | [ASESINA](https://open.spotify.com/album/4etp2BmvRL19BEquQLXDlh) | 2:46 | 2023-05-25 | 2023-07-09 |
@@ -141,7 +142,7 @@
 | [Kitten Heel](https://open.spotify.com/track/5uyQxvx4HrIKuZT5yx8MVw) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Kitten Heel](https://open.spotify.com/album/0khWV3aoYt2AWEaE71zKds) | 2:31 | 2022-03-21 | 2022-07-09 |
 | [Kitty](https://open.spotify.com/track/7dg1E1QLfNAXDNlKshOTUC) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Kitty](https://open.spotify.com/album/7MTllNrunaSB1GTWkbt9ee) | 3:20 | 2023-05-25 |  |
 | [La 69 \- Perreo Remix](https://open.spotify.com/track/0XunI3sWC1OUliLnOAoDDc) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [La 69 \(Perreo Remix\)](https://open.spotify.com/album/3tnvstkFXFOP72tIp2mIDK) | 2:24 | 2022-07-08 | 2022-07-22 |
-| [La 9](https://open.spotify.com/track/6s2t6gg1eA5E3QDWeHNlE8) | [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [La 9](https://open.spotify.com/album/3SvVZChIbhXIsEV4dtR22u) | 2:52 | 2023-05-25 |  |
+| [La 9](https://open.spotify.com/track/6s2t6gg1eA5E3QDWeHNlE8) | [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [La 9](https://open.spotify.com/album/3SvVZChIbhXIsEV4dtR22u) | 2:52 | 2023-05-25 | 2023-08-07 |
 | [La Dieta](https://open.spotify.com/track/057ybvJLKXxHmalgXR7jru) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [La Dieta](https://open.spotify.com/album/5h6bpaTTjza3Eqly1g3ggk) | 3:01 | 2023-08-04 |  |
 | [La Difícil](https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:43 | 2022-04-19 | 2022-07-09 |
 | [La Importante](https://open.spotify.com/track/3z6L8zlwNhkLiitfPc3nng) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [La Importante](https://open.spotify.com/album/5SQqI35jSvr45Aol3bN02B) | 3:30 | 2022-03-21 | 2022-04-20 |

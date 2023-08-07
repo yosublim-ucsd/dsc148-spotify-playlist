@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
-857 songs - 2 day 11 hr 50 min
+858 songs - 2 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,10 +577,11 @@
 | [Police & Thieves \- Remastered](https://open.spotify.com/track/6IMlcKjsIM3l3yXWykTa3y) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 6:03 | 2022-01-05 |  |
 | [Poppies](https://open.spotify.com/track/6Y2b9a0krc2a0nQEnAWRZE) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 7:06 | 2022-01-05 | 2022-07-27 |
 | [Pretzel Logic](https://open.spotify.com/track/2TDqa2yNF9qhSmP8gqcleE) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp) | 4:30 | 2022-01-05 | 2023-08-02 |
+| [Pretzel Logic](https://open.spotify.com/track/4I87004AuztqZ2YEV1vVP9) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 4:31 | 2022-11-17 |  |
 | [Problems](https://open.spotify.com/track/5dI4YIBXUmat0Kp6N1SjuV) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 4:11 | 2022-01-05 | 2022-07-29 |
 | [Problems](https://open.spotify.com/track/4AqfCW0jMeByTMZdoqHlH4) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 4:11 | 2022-01-05 | 2022-11-14 |
 | [Prove It All Night](https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 3:57 | 2022-01-05 |  |
-| [Prove Your Love](https://open.spotify.com/track/3pBhwoTMCPIsS0q7v1BPRe) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Heroes Are Hard to Find](https://open.spotify.com/album/2ISNpwmh12Nf2420YUQcNE) | 3:58 | 2022-01-05 |  |
+| [Prove Your Love](https://open.spotify.com/track/3pBhwoTMCPIsS0q7v1BPRe) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Heroes Are Hard to Find](https://open.spotify.com/album/2ISNpwmh12Nf2420YUQcNE) | 3:58 | 2022-01-05 | 2023-08-07 |
 | [Quadrophenia](https://open.spotify.com/track/0tw9YJD5pF7JgjbKjO29kP) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 6:13 | 2022-01-05 | 2022-07-28 |
 | [Radancer](https://open.spotify.com/track/0CpP2VQHK5HcxXtUzzOjiB) | [Marmalade](https://open.spotify.com/artist/1tttI1iC4FsS6BM5l38oe5) | [Fine Cuts \- The Best of Marmalade \(Original Recordings\)](https://open.spotify.com/album/06w9dWhGMDvOgw1HHUj2e5) | 4:00 | 2022-01-05 |  |
 | [Radancer](https://open.spotify.com/track/3Oh0gMdXMZgavYd74bMFMT) | [Marmalade](https://open.spotify.com/artist/1tttI1iC4FsS6BM5l38oe5) | [Reflections of My Life \(Original Recordings\)](https://open.spotify.com/album/7rPmei7g2Q74CiQXuET5sm) | 4:00 | 2022-01-05 | 2022-12-17 |

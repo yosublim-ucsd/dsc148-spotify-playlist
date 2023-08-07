@@ -4,7 +4,7 @@
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-168 songs - 9 hr 45 min
+169 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Dust My Broom](https://open.spotify.com/track/3EaFV7yFZiTlaJrxDTVTfh) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 2:36 | 2022-07-08 | 2023-06-08 |
 | [Dust My Broom](https://open.spotify.com/track/4hOMnlrKYJMgjzFJFGs9Ng) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Martin Scorsese Presents The Blues: Taj Mahal](https://open.spotify.com/album/0wPbPlZ8VsoKFWtr9bVZIC) | 2:37 | 2022-05-25 | 2022-07-29 |
 | [Dust My Broom](https://open.spotify.com/track/4moD3WaIS55udYYwJVoBrn) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Martin Scorsese Presents The Blues: Taj Mahal](https://open.spotify.com/album/7mEu9N6y4avTpH373ahlxK) | 2:37 | 2022-09-12 | 2022-11-14 |
-| [Dynamite A Tribute to Muddy Waters \- Radio Edit](https://open.spotify.com/track/5AU2HPhPRtg7NG8RBacSeP) | [Baba Jenkins](https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez) | [Dynamite A Tribute to Muddy Waters \(Radio Edit\)](https://open.spotify.com/album/1hLKS8WIE6j3abS51y6hru) | 2:42 | 2023-06-07 |  |
+| [Dynamite A Tribute to Muddy Waters \- Radio Edit](https://open.spotify.com/track/5AU2HPhPRtg7NG8RBacSeP) | [Baba Jenkins](https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez) | [Dynamite A Tribute to Muddy Waters \(Radio Edit\)](https://open.spotify.com/album/1hLKS8WIE6j3abS51y6hru) | 2:42 | 2023-06-07 | 2023-08-07 |
 | [Eisenhower Blues \- Single Version](https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Martin Scorsese Presents The Blues: J.B\. Lenoir](https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt) | 2:51 | 2022-05-25 | 2023-06-08 |
 | [Eric \(Long Live The King\)](https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za) | [Jack Biilmann](https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX), [The Black Tide](https://open.spotify.com/artist/1NiVVZq6AKDksPwDpeNbwk) | [Eric \(Long Live The King\)](https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h) | 3:24 | 2023-06-07 |  |
 | [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/album/3rmzLWCXi8PNt5kVKf9O7D) | 4:08 | 2023-07-14 |  |
@@ -150,6 +150,7 @@
 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 | 2022-05-25 | 2023-06-08 |
 | [Spread Your Love](https://open.spotify.com/track/1gq5tbU9FTm90duAZtDZUv) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [B.R.M.C.](https://open.spotify.com/album/5kNEFtQmqLrPx0XA8Sq0N5) | 3:45 | 2023-06-07 |  |
 | [Still Truckin](https://open.spotify.com/track/3gaibZyINf67LeyXmckAvK) | [Marc A Ridge](https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn) | [Still Truckin](https://open.spotify.com/album/2XiBPrUsv0DXZKPbiQVUms) | 5:10 | 2023-08-04 |  |
+| [Sweet Dreams](https://open.spotify.com/track/2JmwjDIFspqdq83Hv77HFv) | [The Lucky Strokes](https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Shelby Kemp](https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5) | [Sweet Dreams](https://open.spotify.com/album/2s0hTPeFcMimcRZ51uBfKE) | 4:15 | 2023-08-04 |  |
 | [Sweet Tooth](https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5) | [Jonathan Plevyak](https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO) | [Sweet Tooth](https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq) | 2:11 | 2023-06-07 |  |
 | [Take My Rider](https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl) | [Douglas Avery](https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz) | [Take My Rider](https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y) | 5:12 | 2023-06-07 |  |
 | [Ten Beer Job](https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh) | [Jericho Woods](https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled) | [Stop Signs and Fence Lines](https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB) | 2:50 | 2023-06-07 |  |

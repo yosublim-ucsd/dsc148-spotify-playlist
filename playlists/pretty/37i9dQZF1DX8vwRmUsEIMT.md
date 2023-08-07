@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,889 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,923 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Troubled Waters](https://open.spotify.com/track/1Uuljx1HOfRmi3dvHJ6Yi6) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Troubled Waters](https://open.spotify.com/album/4qGnakmFR0KXlnRoFgdb7h) | 3:54 |
 | 80 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 |
 
-Snapshot ID: `MCxiMDM4NzMwMDRmYjJjMWViZWQyNDJlZDQ2ZWY3NGZmMTQwMzQ1NDFm`
+Snapshot ID: `MCxhNmVkNTZjNmFhZWUxYWQwYWFmN2VmNTA4MzZmN2ZjMWU1NzIzNTIx`

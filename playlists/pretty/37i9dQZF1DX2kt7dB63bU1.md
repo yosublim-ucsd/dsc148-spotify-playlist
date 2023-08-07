@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,565 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,649 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 3 | [How Did You Get In My Dreams?](https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [How Did You Get In My Dreams?](https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7) | 3:37 |
 | 4 | [I Am What I Am](https://open.spotify.com/track/78ixe4bEW1kmcLk9e0BAL8) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [I Am What I Am](https://open.spotify.com/album/6O07IvI0wU3MpzSRn3s4Xv) | 5:32 |
 | 5 | [The Healing](https://open.spotify.com/track/0ZkpaZtDYH1ibxz3rfXApD) | [Raina Sokolov\-Gonzalez](https://open.spotify.com/artist/0o5z8wisVmLT0Ta3vxOPjU) | [The Healing](https://open.spotify.com/album/1zshc1VJ8P9b852xdHybMC) | 3:59 |
-| 6 | [Venas \(feat\. Joel Ross, Sean Mason, Jonathan Michel & Joe Dyson\)](https://open.spotify.com/track/74BRdmhoM9hJflGJHpyVhe) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z), [Jonathan Michel](https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Venas \(feat\. Joel Ross, Sean Mason, Jonathan Michel & Joe Dyson\)](https://open.spotify.com/album/5tQyYsOD3EzLEFP5yKF7P7) | 3:45 |
+| 6 | [Venas](https://open.spotify.com/track/74BRdmhoM9hJflGJHpyVhe) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z), [Jonathan Michel](https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Venas](https://open.spotify.com/album/5tQyYsOD3EzLEFP5yKF7P7) | 3:45 |
 | 7 | [Chicago Blues](https://open.spotify.com/track/26gSq8ynYSkBTo637il67o) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Chicago Blues](https://open.spotify.com/album/5WWS6v1T7jcdZ1CLUZtJtH) | 4:53 |
 | 8 | [Honeysuckle Rose](https://open.spotify.com/track/2XHZQMfaIft1QP0RFSl56F) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ), [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [High Standards](https://open.spotify.com/album/67MjTmlLG28UrchS60RTMo) | 1:40 |
 | 9 | [Passing Through](https://open.spotify.com/track/6n7ooz0vPMRSrxEhmgTkTH) | [Gabe Dixon](https://open.spotify.com/artist/1EwStlJbpwWP3NBYmNzRPP) | [Passing Through](https://open.spotify.com/album/6HmKi49rF4aF4EGY5akc2s) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Brighter Sun](https://open.spotify.com/track/0XxabEZXVU40LCFIieeLvJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Robertson](https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po), [Danny Fischer](https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni) | [Brighter Sun](https://open.spotify.com/album/1Jz0RNEbIiIBJdwTPEKw1N) | 4:06 |
 | 100 | [Waiting for the Sun to Rise](https://open.spotify.com/track/7ghUJN5yFKgcuSsY0TxRT1) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Waiting For The Sun To Rise](https://open.spotify.com/album/5E0CarVimmc8TWcIgcqZ4f) | 4:38 |
 
-Snapshot ID: `MCxiYzVhYzA4ZTE2NmUxZGExMmM2MTE4OTI2Yjc5NTBkZWY3MmRiZTFi`
+Snapshot ID: `MCxmMDhhMzUyZmIwMWMwNmVjZTZlZmI0ZjI0OWYxMzFlZmFmZmFhOGQw`

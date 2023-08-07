@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Sonu Nigam
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,354 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,424 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Yaar Ka Sataya Hua Hai](https://open.spotify.com/track/2Y2l0h051Vk4qUG2ZH7KKy) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Nawazuddin Siddiqui](https://open.spotify.com/artist/1qcVHIPfwFFc0gMnAxG9I1) | [Yaar Ka Sataya Hua Hai](https://open.spotify.com/album/2AqA5Q47R0kLjUb3tjX63T) | 4:27 |
 | 50 | [Baarishon Ki Dhun](https://open.spotify.com/track/2nm7MOVPN2ZTMkaKetjmcg) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Baarishon Ki Dhun](https://open.spotify.com/album/4v9QWEdfOAUfz2blMImF1N) | 3:22 |
 
-Snapshot ID: `MCw5YzdmYTk3MzBiZmY2N2I3NjI4YjViMzI1MWRjYWNiMjk3ODg0MGFk`
+Snapshot ID: `MCw1NjVkNDQwNDhhMThjYWZiMjE2MGY0MWExZDVhZWI3NjVhNmFlMWRl`

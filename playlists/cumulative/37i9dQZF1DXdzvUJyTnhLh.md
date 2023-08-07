@@ -4,7 +4,7 @@
 
 > Eagles at their best\. Explore their deep catalog as a band and as solo artists.
 
-71 songs - 5 hr 21 min
+73 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [Busy Being Fabulous](https://open.spotify.com/track/5wOGGVXcqG8HQnAO6FV3Ew) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Long Road out of Eden](https://open.spotify.com/album/2cWtnFvM7BmyQG1ojQDcCT) | 4:20 | 2022-07-15 |  |
 | [County Fair](https://open.spotify.com/track/4xbMohp9CBKxfLhnjsV9l2) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [So What \(Reissue\)](https://open.spotify.com/album/2ZRni2AFuPtW6z5jBUD3Vf) | 6:50 | 2022-07-15 |  |
 | [Desperado \- 2013 Remaster](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:33 | 2022-07-15 |  |
+| [Dirty Laundry](https://open.spotify.com/track/1deZHQ9Na7bnWA9pulmlXD) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [I Can’t Stand Still](https://open.spotify.com/album/0C4C2xUJxiRsY4X0QcIS4Z) | 5:36 | 2022-07-15 |  |
 | [Dirty Laundry](https://open.spotify.com/track/7LFer4drCtWSyD8oxORZtC) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [I Can't Stand Still](https://open.spotify.com/album/2liPmoa0xyg9DcjKOryJ66) | 5:36 | 2022-07-15 | 2023-08-03 |
-| [Dirty Laundry](https://open.spotify.com/track/1Zqngj1RHFoYW7X6PKmP2o) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The Very Best Of](https://open.spotify.com/album/4RFNorcvSYeK06o3DjKV4P) | 5:36 | 2022-07-15 |  |
+| [Dirty Laundry](https://open.spotify.com/track/1Zqngj1RHFoYW7X6PKmP2o) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The Very Best Of](https://open.spotify.com/album/4RFNorcvSYeK06o3DjKV4P) | 5:36 | 2022-07-15 | 2023-08-07 |
 | [Doolin\-Dalton \- 2013 Remaster](https://open.spotify.com/track/0huHTieLTlluurvasQLB74) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:27 | 2022-07-15 |  |
 | [Funk \#48](https://open.spotify.com/track/14R4uuf0SMjNmfLfHvMLZJ) | [James Gang](https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF) | [Yer' Album](https://open.spotify.com/album/5rsl1kj0N1N7yKQcBsjmMK) | 2:46 | 2022-07-15 |  |
 | [Funk \#49](https://open.spotify.com/track/5h6SovHOYpIMlAkafxcbq3) | [James Gang](https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF) | [Rides Again](https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0) | 4:06 | 2022-07-15 |  |
@@ -60,7 +61,8 @@
 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 | 2022-07-15 |  |
 | [Take It to the Limit](https://open.spotify.com/track/2EhszzA7t9Jptste4v3CPT) | [Randy Meisner](https://open.spotify.com/artist/00f43SIUld0KU349dnwsmC) | [Randy Meisner](https://open.spotify.com/album/0e2SRIvDcdx7xXKZBEb48h) | 4:19 | 2022-07-15 |  |
 | [Taking You Home](https://open.spotify.com/track/2Ro4mKGAO5zgfwZmThAWhj) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Soft Rock For Kids](https://open.spotify.com/album/3TdyAkbn8phqy6xoCx6tXu) | 5:31 | 2022-07-15 | 2023-04-17 |
-| [Taking You Home](https://open.spotify.com/track/114ZIcx0S3gJkZmT3wmGte) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Inside Job](https://open.spotify.com/album/6joEVcRAygVpcDBWh7extk) | 5:31 | 2022-07-15 |  |
+| [Taking You Home](https://open.spotify.com/track/114ZIcx0S3gJkZmT3wmGte) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Inside Job](https://open.spotify.com/album/6joEVcRAygVpcDBWh7extk) | 5:31 | 2022-07-15 | 2023-08-07 |
+| [Taking You Home](https://open.spotify.com/track/7AoJXxRBfLVF2Dpx75lcg9) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Inside Job](https://open.spotify.com/album/5WgUhTGN9wJsZ6kJDcz9mM) | 5:31 | 2022-07-15 |  |
 | [Tequila Sunrise \- 2013 Remaster](https://open.spotify.com/track/1WYokrkFOb9TFVuTrmxTTt) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 2:53 | 2022-07-15 |  |
 | [The Best of My Love \- 2013 Remaster](https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 4:34 | 2022-07-15 |  |
 | [The Boys Of Summer](https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Building The Perfect Beast](https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i) | 4:48 | 2022-07-15 |  |

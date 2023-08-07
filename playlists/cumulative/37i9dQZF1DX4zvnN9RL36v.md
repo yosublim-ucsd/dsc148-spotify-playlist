@@ -4,7 +4,7 @@
 
 > 내 마음을 노랫말이 알아줄 때.
 
-112 songs - 7 hr 22 min
+113 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [She Said](https://open.spotify.com/track/2wiZairqLO6i9xPhHHqT5z) | [Toy](https://open.spotify.com/artist/492hlOWzJOoeAtBQZeFoZR), [Kwon Jin A](https://open.spotify.com/artist/78CxDSTXIZxyzFsn9GyDit) | [Da Capo](https://open.spotify.com/album/1ac4LAkzA5YUGVrEvxdoh9) | 4:27 | 2022-03-07 | 2022-07-29 |
 | [She Said \(With Kwon Jin Ah\)](https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE) | [TOY](https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8), [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Da Capo](https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx) | 4:27 | 2022-06-09 |  |
 | [Shouldn't Have...](https://open.spotify.com/track/4F9EZD74cDuCwqn3neLqJE) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX), [Young K](https://open.spotify.com/artist/2K1piKoDWujwiWh5pdktIV) | [Shouldn't Have...](https://open.spotify.com/album/4YZRASuAhduD5cAJAsxFvL) | 3:32 | 2022-03-07 | 2023-08-06 |
+| [Shouldn't Have…](https://open.spotify.com/track/328QkpGncEcQWJj6NSCqDJ) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Shouldn't Have…](https://open.spotify.com/album/663N3uMMM5eAj8Fh6KCvny) | 3:32 | 2023-05-02 |  |
 | [Sooni \(I'm your fanatic girl\)](https://open.spotify.com/track/0l9jBZWCFyKdYVVYrzzTMR) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [4X4](https://open.spotify.com/album/4vL5pTsmH3jfwfJyrqHhfx) | 4:07 | 2022-03-07 | 2022-10-18 |
 | [Soulmate](https://open.spotify.com/track/0Cz3oUrI37uy1QuFFLXrJh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Body & Soul](https://open.spotify.com/album/57CcFtuW3lv4A6iXpcRJZ1) | 4:11 | 2022-03-07 | 2022-11-12 |
 | [Tattoo](https://open.spotify.com/track/3cj1D41ePZZfbXOcwEkll8) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [LOVIN'](https://open.spotify.com/album/5tRixYdXfa2t5C6YTUSjdF) | 3:19 | 2022-03-07 | 2022-07-29 |
@@ -77,7 +78,7 @@
 | [To me, to you](https://open.spotify.com/track/0vZoGvgmr4OPZG1CpYiiow) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W) | [The name of the flower is](https://open.spotify.com/album/3kua7mWxDfHuDEzDfwzgKK) | 3:12 | 2022-03-07 | 2022-08-19 |
 | [Toy](https://open.spotify.com/track/0yD2ihr9ZseEZQXQcz6y61) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Blooming Period](https://open.spotify.com/album/1eTUNDuzCMs5n39C6eWAEA) | 3:26 | 2022-03-07 | 2022-07-29 |
 | [Toy](https://open.spotify.com/track/68ABnHNR4y2COQa4eaM6PS) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Blooming Period](https://open.spotify.com/album/0j200gVJhL56SoTrYXytx3) | 3:26 | 2022-06-09 |  |
-| [Unrequited](https://open.spotify.com/track/57EwG684FFleTMHfxl0f2B) | [Swai](https://open.spotify.com/artist/0CfbuMzbd5fIGT2mew4JWH), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Unrequited](https://open.spotify.com/album/1fARMCu9O702sbE7KFMqPq) | 3:45 | 2022-03-07 |  |
+| [Unrequited](https://open.spotify.com/track/57EwG684FFleTMHfxl0f2B) | [Swai](https://open.spotify.com/artist/0CfbuMzbd5fIGT2mew4JWH), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Unrequited](https://open.spotify.com/album/1fARMCu9O702sbE7KFMqPq) | 3:45 | 2022-03-07 | 2023-08-07 |
 | [Unrequited Love](https://open.spotify.com/track/4qCoekl5BaHK9aYc54C2tX) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [IGNITION \(SPECIAL EDITION\)](https://open.spotify.com/album/2yrJ8f0QF3nBRAmZg0Bsm0) | 3:49 | 2022-03-07 | 2023-01-25 |
 | [UP ALL NIGHT](https://open.spotify.com/track/3cLdPR1C6skgxJBIBv1CKt) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 3:40 | 2022-06-09 |  |
 | [UP ALL NIGHT](https://open.spotify.com/track/1FxbmTpIXQ1TxR4Y3Klbba) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [SEOULITE](https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ) | 3:40 | 2022-03-07 | 2022-07-29 |

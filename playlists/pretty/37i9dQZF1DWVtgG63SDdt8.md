@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj?si=3bc0c00455764d13">Lauren Daigle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,796 likes - 99 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,990 likes - 99 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 71 | [Have It All](https://open.spotify.com/track/7oJ3d4BceZHyZjzyTMAqGc) | [Freddy Washington Jr.](https://open.spotify.com/artist/7kGuR5CJOPkQ1wt1TiVWNE), [Myron Butler & Levi](https://open.spotify.com/artist/5b4vy4GMu5dgRMOt9bHZpY) | [Have It All](https://open.spotify.com/album/3Ljtstx1pBzEEpcw3gI5SX) | 3:56 |
 | 72 | [NOW](https://open.spotify.com/track/68N09T45EtsG8BdvKjDjvz) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Faith Child](https://open.spotify.com/artist/0FMlGMImrFqeOL7ykcYdZy) | [NOW](https://open.spotify.com/album/0008KTgbnIMu8pvOrfYYOv) | 3:43 |
 | 73 | [Psalm 15 \(Who May Worship\)](https://open.spotify.com/track/25f89hesWxwRNoYd4g9G1o) | [Will Gray](https://open.spotify.com/artist/39bsOtHucw9K0HKX1wNM0C), [Sarah Téibo](https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT) | [Psalm 15 \(Who May Worship\)](https://open.spotify.com/album/6aJXtgBNwRk6uYcfY2FTsq) | 4:41 |
-| 74 | [Life Laid Down \- Live](https://open.spotify.com/track/2syGnPziG7jaysWGJ2Ov30) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Life Laid Down \(Live\)](https://open.spotify.com/album/149pPKRjcXR4QPgHIkYvqL) | 4:58 |
+| 74 | [Life Laid Down \- Live](https://open.spotify.com/track/3Z5MbsL0o0DaK4tZxy3c6s) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [By Faith \(Live\)](https://open.spotify.com/album/2rJUQDnyOVu0wyTzh8VtCO) | 4:58 |
 | 75 | [Another Miracle](https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Another Miracle](https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU) | 3:32 |
 | 76 | [Your Name](https://open.spotify.com/track/3LrkGtIglziOUIiGcUjoVT) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn) | [Your Name](https://open.spotify.com/album/5V0tPtYombwJBLDwTAnDoO) | 3:37 |
 | 77 | [Overwhelmed](https://open.spotify.com/track/5lI39HnRnc9quha7PwzFlz) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Overwhelmed](https://open.spotify.com/album/1yZSwXMSUGePIKwJLt7HHh) | 2:56 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Beatitudes \- Family Version](https://open.spotify.com/track/3PMhAskcEOFMXtZsCa3N36) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [Beatitudes \(Family Version\)](https://open.spotify.com/album/17VYubxB0zybqZTjzF6AJH) | 3:42 |
 | 99 | [SORRY NOT SORRY](https://open.spotify.com/track/4nx1SoEiCidSWOSyJGSpW2) | [Yamaree](https://open.spotify.com/artist/7pxDHAwWckKzgQI8xj7yY0) | [SORRY NOT SORRY](https://open.spotify.com/album/02vClqS8obP27HprHOkRNK) | 3:02 |
 
-Snapshot ID: `MCw5YzIwNTgyY2U0ODc2ZTM1NzUwYTRiZDAzMmQ3ZWQzZTEzMDhlZmI5`
+Snapshot ID: `MCwzM2Y0YzFlYThjNDFmZWU1ZTQ1NDYwNzA1NzhhN2E2YmUxMTczYmY2`

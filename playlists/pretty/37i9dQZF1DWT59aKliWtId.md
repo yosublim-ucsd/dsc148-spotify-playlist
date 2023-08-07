@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Bethany Cosentino
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,760 likes - 114 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,786 likes - 114 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 113 | [Magical Touch](https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ) | [The Wans](https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn) | [Magical Touch](https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU) | 3:08 |
 | 114 | [Haunted Mountain](https://open.spotify.com/track/45d44VPCRIW07tywccH8ii) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV) | 5:11 |
 
-Snapshot ID: `MCwwZWZmNzI3ZmZkY2Q3MDYyMzczMTZjYThjZWIwMjc1NjkzZTY5OWI1`
+Snapshot ID: `MCxjYzk0YzhiOWExNzNhNzhmOTExYmFjNWM5MDA5MDIzNTI3MzQzZGEw`

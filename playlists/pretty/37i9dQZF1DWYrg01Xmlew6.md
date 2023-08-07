@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Yung Snapp in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,829 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,932 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [NUNN’È COSA](https://open.spotify.com/track/3cUb1152ZSVWm421ksV7VH) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [NUNN’È COSA](https://open.spotify.com/album/6GJZfbAYH8ZwpYv8FocESH) | 2:28 |
 | 55 | [Ora Posso \(feat\. O'Tsunami\)](https://open.spotify.com/track/1xYqGA3Bg33YFMPNhrfQBE) | [ARNONE](https://open.spotify.com/artist/0tbCfksIrpbfmzIdVCbaRP), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [Ora Posso \(feat\. O'Tsunami\)](https://open.spotify.com/album/5I6fGSoJiSMzYWsdRtAxp6) | 2:29 |
 
-Snapshot ID: `MCxkM2EzODYzYTgzNTE1YTQzNDJhNjMyZmFhOTZmOGQxNTExY2M2ZDRh`
+Snapshot ID: `MCwzZjczZTg0Yjg4ZmMzZmYzZDZkOWQxMmRkNTEyNGY4MTA0YjAyZGU5`

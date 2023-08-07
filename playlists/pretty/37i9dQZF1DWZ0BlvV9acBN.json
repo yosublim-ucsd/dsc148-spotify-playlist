@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Fernandinho",
-  "num_followers": 122672,
+  "num_followers": 122785,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2IyN2I4NDY4MzEwY2JiMzg4ODU3NWIwMzUxMmI0ZTZkODk3YWMw",
+  "snapshot_id": "MCxmNzY4Y2VhOTRjMDEyNjVhOTYxZDZkNjk2YjVhYTBhMjE3NTFlN2Iz",
   "tracks": [
     {
       "added_at": "2023-08-04 17:53:24",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
-        "name": "ELE \u00c9 EXALTADO",
-        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
+        "name": "Resist\u00eancia",
+        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
       },
       "artists": [
         {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
         }
       ],
-      "duration_ms": 298342,
-      "name": "ELE \u00c9 EXALTADO",
-      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
+      "duration_ms": 261500,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
     },
     {
       "added_at": "2023-08-04 17:53:24",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
-        "name": "Resist\u00eancia",
-        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
+        "name": "ELE \u00c9 EXALTADO",
+        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
       },
       "artists": [
         {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
         }
       ],
-      "duration_ms": 261500,
-      "name": "Resist\u00eancia",
-      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
+      "duration_ms": 298342,
+      "name": "ELE \u00c9 EXALTADO",
+      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
     },
     {
       "added_at": "2023-08-04 17:53:24",
@@ -579,26 +579,6 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
-        "name": "NAVES IMPERIAIS",
-        "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        },
-        {
-          "name": "Walter Lopes",
-          "url": "https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV"
-        }
-      ],
-      "duration_ms": 314137,
-      "name": "NAVES IMPERIAIS",
-      "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
-    },
-    {
-      "added_at": "2023-08-04 17:53:24",
-      "album": {
         "name": "Salazar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 322400,
       "name": "Rookmaaker - Ao Vivo",
       "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
+    },
+    {
+      "added_at": "2023-08-04 17:53:24",
+      "album": {
+        "name": "NAVES IMPERIAIS",
+        "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        },
+        {
+          "name": "Walter Lopes",
+          "url": "https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV"
+        }
+      ],
+      "duration_ms": 314137,
+      "name": "NAVES IMPERIAIS",
+      "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
     },
     {
       "added_at": "2023-08-04 17:53:24",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
-        "name": "Fui Encontrado",
-        "url": "https://open.spotify.com/album/6PYsM3wcToQVTtmORA8Flu"
-      },
-      "artists": [
-        {
-          "name": "A Trilha",
-          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
-        }
-      ],
-      "duration_ms": 193662,
-      "name": "Fui Encontrado",
-      "url": "https://open.spotify.com/track/5xt4nQwR2shCsbUr0HQN8T"
-    },
-    {
-      "added_at": "2023-08-04 17:53:24",
-      "album": {
         "name": "Ex\u00edlio",
         "url": "https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 279510,
       "name": "Sobre as \u00c1guas",
       "url": "https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d"
+    },
+    {
+      "added_at": "2023-08-04 17:53:24",
+      "album": {
+        "name": "Fui Encontrado",
+        "url": "https://open.spotify.com/album/6PYsM3wcToQVTtmORA8Flu"
+      },
+      "artists": [
+        {
+          "name": "A Trilha",
+          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
+        }
+      ],
+      "duration_ms": 193662,
+      "name": "Fui Encontrado",
+      "url": "https://open.spotify.com/track/5xt4nQwR2shCsbUr0HQN8T"
     },
     {
       "added_at": "2023-08-04 17:53:24",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
+        "name": "Nada Vai Me Parar",
+        "url": "https://open.spotify.com/album/3DkwV4LBkLW0vPX9ZOSAMv"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        }
+      ],
+      "duration_ms": 229320,
+      "name": "Nada Vai Me Parar",
+      "url": "https://open.spotify.com/track/5T5lgvGDNxEAxOHrKNMvTW"
+    },
+    {
+      "added_at": "2023-08-04 17:53:24",
+      "album": {
         "name": "Guerreiro",
         "url": "https://open.spotify.com/album/2XNQurgWJc02kEChTOW8vb"
       },
@@ -1135,26 +1151,6 @@
       "duration_ms": 267051,
       "name": "Guerreiro",
       "url": "https://open.spotify.com/track/0ZIrku5nIXgzRG3tW2Cc5L"
-    },
-    {
-      "added_at": "2023-08-04 17:53:24",
-      "album": {
-        "name": "At\u00e9 Que Nada Mais Importe",
-        "url": "https://open.spotify.com/album/5gxGnDzMwSGYbPhsgrlK5f"
-      },
-      "artists": [
-        {
-          "name": "A Trilha",
-          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
-        },
-        {
-          "name": "Michel Oliveira",
-          "url": "https://open.spotify.com/artist/6evPViYPVqrknINn3qocAH"
-        }
-      ],
-      "duration_ms": 176487,
-      "name": "At\u00e9 Que Nada Mais Importe",
-      "url": "https://open.spotify.com/track/1mvvcOzlR3HGqj1Z9W2eKZ"
     },
     {
       "added_at": "2023-08-04 17:53:24",
@@ -1175,18 +1171,22 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
-        "name": "Nada Vai Me Parar",
-        "url": "https://open.spotify.com/album/3DkwV4LBkLW0vPX9ZOSAMv"
+        "name": "At\u00e9 Que Nada Mais Importe",
+        "url": "https://open.spotify.com/album/5gxGnDzMwSGYbPhsgrlK5f"
       },
       "artists": [
         {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+          "name": "A Trilha",
+          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
+        },
+        {
+          "name": "Michel Oliveira",
+          "url": "https://open.spotify.com/artist/6evPViYPVqrknINn3qocAH"
         }
       ],
-      "duration_ms": 229320,
-      "name": "Nada Vai Me Parar",
-      "url": "https://open.spotify.com/track/5T5lgvGDNxEAxOHrKNMvTW"
+      "duration_ms": 176487,
+      "name": "At\u00e9 Que Nada Mais Importe",
+      "url": "https://open.spotify.com/track/1mvvcOzlR3HGqj1Z9W2eKZ"
     },
     {
       "added_at": "2023-08-04 17:53:24",

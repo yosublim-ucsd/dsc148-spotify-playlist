@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,079 likes - 110 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,077 likes - 110 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 109 | [Lycklig igen \(stjernen remix\)](https://open.spotify.com/track/6txz32xlhnRZmlnNDh2gmc) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [stjernen](https://open.spotify.com/artist/22n4slx5fHIV0NL2FTQjiA) | [Remixes, originals & hits](https://open.spotify.com/album/5hsCRHmtPeKKouBbMFR0Vg) | 2:39 |
 | 110 | [Ave Admira](https://open.spotify.com/track/4FRGIQcBpAmKi9v2gGFDVm) | [Admira Thunderpussy](https://open.spotify.com/artist/6vriSpGH3ohf8wwCcanJ0r) | [Ave Admira](https://open.spotify.com/album/2ZD94FlBKlHnPAFHR3e0LO) | 3:20 |
 
-Snapshot ID: `MCw1NWUzYTY4ZjIxODU0NGUyZjRlOWIxODA0Y2E3NjA5N2U2NGRjNGQ3`
+Snapshot ID: `MCwzOTNmYTIxZjdiOWJhMDM4ZjQzNjdkM2IzNGFjODVjZDcyNDhiM2U0`

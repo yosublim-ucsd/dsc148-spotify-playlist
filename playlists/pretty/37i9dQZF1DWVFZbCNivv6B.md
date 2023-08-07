@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. Gera MX, Peso Pluma y Herencia de Patrones en la casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,381 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,474 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 8 | [Por Si Pego](https://open.spotify.com/track/1y6gxADhtRpNq3V8xpYHJb) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Por Si Pego](https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c) | 3:26 |
 | 9 | [Apostasía](https://open.spotify.com/track/2MzUcY8xkDtO4il6cuHp41) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [Apostasía](https://open.spotify.com/album/3wlD6xUsgFD6Y2yzwPx33D) | 2:48 |
 | 10 | [Pablito y el Pelon](https://open.spotify.com/track/2GFmz2XgfZcU0tUN4aMxRJ) | [Pablito Calavera](https://open.spotify.com/artist/2TH4NXRgjM7vIW76o7pbas), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Pablito y el Pelon](https://open.spotify.com/album/6qh2XoiQJTS2MlD70WxR90) | 3:09 |
-| 11 | [Mustang 65'](https://open.spotify.com/track/4AukEZfhVeIzapCkwjJXGA) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/42EHvFRsQtspIer2baInn7) | 2:10 |
+| 11 | [Mustang 65'](https://open.spotify.com/track/3vVnKrR31NraqoVTMIm0Cp) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq) | 2:10 |
 | 12 | [La Cara de Loco](https://open.spotify.com/track/5NxgaP46I5vi1aJZW4oIsZ) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Frenia](https://open.spotify.com/album/6DtziobPePcdasV0uUycOn) | 2:47 |
 | 13 | [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Barrio \(with Lefty Sm\)](https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v) | 2:24 |
 | 14 | [Bendito](https://open.spotify.com/track/452jgIQvMmcaVj2EZjeZRu) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Bajo Mundo](https://open.spotify.com/album/03trWbp7cIj02CukpUXNZo) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 99 | [Fumo](https://open.spotify.com/track/24C2MOLBkeRL8Ew6EEgLXi) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Fumo](https://open.spotify.com/album/5uJ4IJlz3DLfXmnuFEaYcH) | 2:51 |
 | 100 | [Pyrena](https://open.spotify.com/track/7MKnsR724cqW116c2Dcmp2) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Pyrena](https://open.spotify.com/album/5IsEaU2WTXyGBT9OwiTx2B) | 3:46 |
 
-Snapshot ID: `MCw2ZWVhNTViYjY3MjAzZDI3ODc4NGIxNDU2ZTQxODkxNWQwMTY5Zjk5`
+Snapshot ID: `MCw0OThiN2U1ZTRjODY4NGQ5NGU2N2NlZjg3NWViNjg3NWM5Y2I5YTg2`

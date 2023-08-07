@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Seago, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 193 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 79 | [Guillotine Dreams](https://open.spotify.com/track/25ZH4Gdkv29iuh8E1PlMuQ) | [Super Duty Tough Work](https://open.spotify.com/artist/62C2Sg9LJoWfSw8K8EuX3u) | [Guillotine Dreams](https://open.spotify.com/album/4lKSg25uzvNbyYD9dU3jF1) | 4:18 |
 | 80 | [Still Got Room To Grow](https://open.spotify.com/track/7jBX25iuijm20tOVb0xqCd) | [Jahmal Padmore](https://open.spotify.com/artist/23Bcuvf8yPnEONduRdlIpD) | [One](https://open.spotify.com/album/4W4GRLxZ0ogjo3AonD0bIQ) | 3:56 |
 
-Snapshot ID: `MCwxYzU5MmVjOWYwMDA5MWE4YmVlMzhkMDFlNjEzMmI3YzU0ZmJiODU4`
+Snapshot ID: `MCw3ZDhkNTM5MjMwY2FjM2JjNjFlMmMxNzRmMTIwYjg1MzNiOGI2ZmY3`

@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 265017,
+  "num_followers": 265056,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjc0NmY4Y2M3MTllMWFlYTQ5ZTc5NDVkZjhmNmQ3NTMzMTg4ZGZl",
+  "snapshot_id": "MCwxNTEyN2NjNTA5ZmRhYjA4Y2EyNTMyMDA5NjI2ZWViYjdmMGM2MGJl",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Mis Otros Yo",
-        "url": "https://open.spotify.com/album/0k4rvGoxyV0esVswNRzL0j"
-      },
-      "artists": [
-        {
-          "name": "Fato",
-          "url": "https://open.spotify.com/artist/0U00G7l8bOOiI8NwNN8dqq"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "Me Hice Una Promesa",
-      "url": "https://open.spotify.com/track/4Yv9a9mYYPI4MKELXF5BLd"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Auterretratos",
         "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 157466,
       "name": "Las Cuatro y Diez",
       "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Mis Otros Yo",
+        "url": "https://open.spotify.com/album/0k4rvGoxyV0esVswNRzL0j"
+      },
+      "artists": [
+        {
+          "name": "Fato",
+          "url": "https://open.spotify.com/artist/0U00G7l8bOOiI8NwNN8dqq"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "Me Hice Una Promesa",
+      "url": "https://open.spotify.com/track/4Yv9a9mYYPI4MKELXF5BLd"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -423,6 +423,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Alevosia",
+        "url": "https://open.spotify.com/album/1UpLSQ8L2ZCfT8OlXyAQKe"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Alevos\u00eda",
+      "url": "https://open.spotify.com/track/7lVAkvu9j5d6Pgd1CbXn16"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Coincidir",
         "url": "https://open.spotify.com/album/4TKIvzhvDdeeNvgrk8nryH"
       },
@@ -469,22 +485,6 @@
       "url": "https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG"
     },
     {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Pablo Milan\u00e9s: Un Concierto para Am\u00e9rica (Live)",
-        "url": "https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 268964,
-      "name": "El Breve Espacio en Que No Est\u00e1s - Live",
-      "url": "https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj"
-    },
-    {
       "added_at": "2023-08-01 14:42:56",
       "album": {
         "name": "Metamorfosis",
@@ -503,18 +503,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Alevosia",
-        "url": "https://open.spotify.com/album/1UpLSQ8L2ZCfT8OlXyAQKe"
+        "name": "Pablo Milan\u00e9s: Un Concierto para Am\u00e9rica (Live)",
+        "url": "https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ"
       },
       "artists": [
         {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Alevos\u00eda",
-      "url": "https://open.spotify.com/track/7lVAkvu9j5d6Pgd1CbXn16"
+      "duration_ms": 268964,
+      "name": "El Breve Espacio en Que No Est\u00e1s - Live",
+      "url": "https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -655,6 +655,26 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "El Tren de los Regresos (Parada Especial)",
+        "url": "https://open.spotify.com/album/2KYw8Iq21R9qXBBREdkEq3"
+      },
+      "artists": [
+        {
+          "name": "Yordano",
+          "url": "https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ"
+        },
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 200520,
+      "name": "D\u00edas de Junio",
+      "url": "https://open.spotify.com/track/0YhoKaP08VuwzTkWXBJQ0M"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "1978/1988",
         "url": "https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f"
       },
@@ -667,22 +687,6 @@
       "duration_ms": 184533,
       "name": "Despu\u00e9s de Ti",
       "url": "https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Todav\u00eda",
-        "url": "https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7"
-      },
-      "artists": [
-        {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
-        }
-      ],
-      "duration_ms": 185617,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -703,22 +707,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "El Tren de los Regresos (Parada Especial)",
-        "url": "https://open.spotify.com/album/2KYw8Iq21R9qXBBREdkEq3"
+        "name": "Todav\u00eda",
+        "url": "https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7"
       },
       "artists": [
         {
-          "name": "Yordano",
-          "url": "https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ"
-        },
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
         }
       ],
-      "duration_ms": 200520,
-      "name": "D\u00edas de Junio",
-      "url": "https://open.spotify.com/track/0YhoKaP08VuwzTkWXBJQ0M"
+      "duration_ms": 185617,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw"
     },
     {
       "added_at": "2021-07-29 16:46:05",

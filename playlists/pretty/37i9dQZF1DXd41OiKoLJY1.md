@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Kai Buizon Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,443 likes - 74 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,458 likes - 74 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 13 | [Run It Up](https://open.spotify.com/track/1KNV8sbjbrvo1Rp2LNnNaS) | [Just Matthew™](https://open.spotify.com/artist/3SARdpOn4J888NAfbGi5Aa) | [Run It Up](https://open.spotify.com/album/0WY2GFv8OBtrpB14TTBo3H) | 3:35 |
 | 14 | [Luck](https://open.spotify.com/track/290Jp7ppT85a8BwlzqCK7v) | [Underclass](https://open.spotify.com/artist/3yVOOVzczmJdKGDiD1jwYW) | [Luck](https://open.spotify.com/album/3JlLYbXHkrMN9CknGrVxjk) | 3:11 |
 | 15 | [Gunita](https://open.spotify.com/track/1YZoxrfXS1rLB9X6JTRD3L) | [Joshua Feliciano](https://open.spotify.com/artist/7KX5v2c2WjRTjHce9xLQSL) | [Gunita](https://open.spotify.com/album/20GBSnOtLtCpkydt0bovz0) | 4:19 |
-| 16 | [Eli](https://open.spotify.com/track/18M1QXHLxEuLBmOO6IgHhJ) | [Icy D](https://open.spotify.com/artist/0DrnDxPyiRdLOa75RPrA2e), [Jam Khalix](https://open.spotify.com/artist/37ZiAAEe56ahe7o95diBkg) | [Names](https://open.spotify.com/album/7DHOZUh47vuH4w8pqpK1Ru) | 2:40 |
+| 16 | [Eli](https://open.spotify.com/track/18M1QXHLxEuLBmOO6IgHhJ) | [Icy D](https://open.spotify.com/artist/0DrnDxPyiRdLOa75RPrA2e), [Jam Khalix](https://open.spotify.com/artist/7HixoAGVkmirpbFOQDcA4c) | [Names](https://open.spotify.com/album/7DHOZUh47vuH4w8pqpK1Ru) | 2:40 |
 | 17 | [Last Day](https://open.spotify.com/track/4MuflmI8RO3DHXfIluM6ko) | [Yamada](https://open.spotify.com/artist/6TvBl6ilNrLLzaF6t60pOI) | [Last Day](https://open.spotify.com/album/1GtiBD96oVk1k6OpXo5XAg) | 2:50 |
 | 18 | [Ride or Die](https://open.spotify.com/track/5GBI5UlfSHp9MBFrrSB00g) | [Jude the Zaint](https://open.spotify.com/artist/1EP9riUdqQcqF24kEoQ5Dl) | [Ride or Die](https://open.spotify.com/album/3OIST8uSxrHqU1btwqj0rh) | 3:38 |
 | 19 | [Silaw](https://open.spotify.com/track/7fz5unoK8UgaaBI9pZOLuZ) | [Jeremiah Ellaga](https://open.spotify.com/artist/0zH0VRggznE2vwaL6OLm2i) | [Silaw](https://open.spotify.com/album/7JMYR7FRhpPOaf0CFCZTm1) | 3:50 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 38 | [49ers](https://open.spotify.com/track/0a4sKL3A4rbodm2XAFU7jW) | [Rycess](https://open.spotify.com/artist/0YyWewAYP0lImXtNMUloWk) | [49ers](https://open.spotify.com/album/3ROMmkRka9fBtTFjDALaEP) | 2:58 |
 | 39 | [Keep It Honest](https://open.spotify.com/track/1M33bqChlyBy3tALHZX5ma) | [JVDAH.](https://open.spotify.com/artist/2fbbwiWXGR94XeFqiUbCKf) | [Keep It Honest](https://open.spotify.com/album/0BLlVepjsuGAKKJQTakpGV) | 3:31 |
 | 40 | [bad bih!](https://open.spotify.com/track/6v3Q98ddhGF3wbMEAU4z72) | [sxber](https://open.spotify.com/artist/5Xb3coCF1TSOuJkZMJqdz2) | [bad bih!](https://open.spotify.com/album/2Yqa7eBmcrbaNJUQw5RkCm) | 2:07 |
-| 41 | [Pangalan \(feat\. Le John\)](https://open.spotify.com/track/1Vo5NKvIwAZnfjKmG5TG7y) | [Yves Villamor](https://open.spotify.com/artist/2sDIod09TzBcm6mTZZyQle), [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Pangalan \(feat\. Le John\)](https://open.spotify.com/album/6DDQlxxSidgrOwOW1wNYyl) | 5:15 |
+| 41 | [Pangalan](https://open.spotify.com/track/1Vo5NKvIwAZnfjKmG5TG7y) | [Yves Villamor](https://open.spotify.com/artist/2sDIod09TzBcm6mTZZyQle), [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Pangalan](https://open.spotify.com/album/6DDQlxxSidgrOwOW1wNYyl) | 5:15 |
 | 42 | [Different](https://open.spotify.com/track/6Lizpj9QAsYkpizA4Hf6jw) | [Jetter](https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M) | [Different](https://open.spotify.com/album/6ja6nEQaZTnmrgnolNlXft) | 2:28 |
 | 43 | [If it aint you](https://open.spotify.com/track/5N4FSUWuMblHiYKLfm2CC7) | [Reybones](https://open.spotify.com/artist/6lvOqMW970QG4KjXhiWMuA) | [If it aint you](https://open.spotify.com/album/0kyJOKq7OV2gS3IhT21D9F) | 2:16 |
 | 44 | [REASON2STAY](https://open.spotify.com/track/26eoy8P4kYWojVCOOqnhDt) | [killseph](https://open.spotify.com/artist/6RMBuNtyBYW5cTokyc8pXx) | [REASON2STAY](https://open.spotify.com/album/2bzFAT7g5Xj7MAI9j2i1xH) | 2:06 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 73 | [Lay low](https://open.spotify.com/track/53dRkr01TLZoYmEgDPjBeB) | [Trap House PH](https://open.spotify.com/artist/50JZl7pSFdniyrRcKWk3vL) | [Lay low](https://open.spotify.com/album/5sPmBgysHPkoRPcYKzk0lM) | 4:00 |
 | 74 | [ur myn](https://open.spotify.com/track/7itjlBxT6fwX3FKjMYB57C) | [Marga Jayy](https://open.spotify.com/artist/04Bq2hRCsdZEQ9cKVDXN3R) | [ur myn](https://open.spotify.com/album/4J9TiLEhvKJhBRskzYbRpD) | 4:16 |
 
-Snapshot ID: `MCxmMWQ3NzU2M2NjYjBlMzkyMWYxNmFhZjE2MzlmMzE0ZWQ0ZDhmNWZh`
+Snapshot ID: `MCw0NzZlODBkNjBjZTQ5ZjZkYjhlODVjYzRiM2Y3YzI1ZDhhNzAxN2Vj`

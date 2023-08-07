@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Short Round , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,621 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,649 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Din Dhal Jaayenge](https://open.spotify.com/track/3UggeBH24GT4FQFYNt7b0U) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Din Dhal Jaayenge](https://open.spotify.com/album/6aYYb0j9N9QQObLhVZCPrx) | 3:26 |
 | 100 | [Khud Se Mohabbat](https://open.spotify.com/track/30dqoVyhA6BMfIkq8LM7Ig) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Khud Se Mohabbat](https://open.spotify.com/album/2vZNU2mvb3AcSwQUIb9N2O) | 3:23 |
 
-Snapshot ID: `MCwyNzIyMzI5OTc5ODljNmMxM2EyNzgxMDE3M2RmMWIxYjlkYjczZmY0`
+Snapshot ID: `MCw0MjZkOGE5NjY0M2Q4NGVjYjIyMDZmZThmMzNkNjc4N2E1MGFkNjI4`

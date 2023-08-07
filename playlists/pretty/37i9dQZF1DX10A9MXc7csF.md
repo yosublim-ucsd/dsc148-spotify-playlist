@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Diferente Nivel
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,803 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,828 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 59 | [Corazón Romantico](https://open.spotify.com/track/5y4Tuz6zZE0J3tokR8YRLS) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Corazón Romantico](https://open.spotify.com/album/3KSSAeH5WvviOZZWXnSMVd) | 3:14 |
 | 60 | [Cupido Es Puto](https://open.spotify.com/track/1NB5z5AYkBwqE2xurY5Cad) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B) | [Cupido Es Puto](https://open.spotify.com/album/7bCvmjPJGJE1hsOMN9ZsFT) | 3:34 |
 
-Snapshot ID: `MCxhOWRiYTA1N2ZkNTUzODNiNTRmMGRhM2Y1NjgwYjFhY2M5NTY0ZWM2`
+Snapshot ID: `MCw2ODYxNGI0NjlkYWQ2MDEyOTNmMzlkOWE1ODYzZjg4ZGFiNmM2ZTg5`

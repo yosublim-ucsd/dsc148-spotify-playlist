@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-297 songs - 23 hr 30 min
+298 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Dear \- Amulets Rework](https://open.spotify.com/track/6vzo1YkZADgaP8WzTLld2D) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Amulets](https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt) | [Dear \(Amulets Rework\)](https://open.spotify.com/album/21iHYe4bks6r9xxmbvYJbj) | 5:28 | 2022-12-20 |  |
 | [Deep](https://open.spotify.com/track/7qt641kuazHzMIn4lbkns5) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Motion](https://open.spotify.com/album/1gS96GdBcmp3BGrdHQLGrp) | 4:29 | 2023-06-30 | 2023-07-14 |
 | [Deep Creek \(Autumn, 2.33pm\) \- 528hz Meditation](https://open.spotify.com/track/6C1JNqeXFWlAiZc4G42ia1) | [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Awake Within The Dream: Sound Meditations, Vol\. 1](https://open.spotify.com/album/08NsoOBj6S7PfCp7sGDNPL) | 9:28 | 2023-03-11 |  |
-| [Deep Time](https://open.spotify.com/track/5CGfRs7y3BMlYVByQgrkyk) | [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL), [Ruan](https://open.spotify.com/artist/5jcPfUXM1Mo5coDLdpurNr) | [Deep Time](https://open.spotify.com/album/5XD0RPWsp1bJmNL3JXy1jd) | 3:56 | 2022-07-08 |  |
+| [Deep Time](https://open.spotify.com/track/5CGfRs7y3BMlYVByQgrkyk) | [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL), [Ruan](https://open.spotify.com/artist/5jcPfUXM1Mo5coDLdpurNr) | [Deep Time](https://open.spotify.com/album/5XD0RPWsp1bJmNL3JXy1jd) | 3:56 | 2022-07-08 | 2023-08-07 |
 | [Dense Cover](https://open.spotify.com/track/4LeRGWmKd87ixbTS2smg6e) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [A Little Night Music: Aural Apparitions from the Geographic North](https://open.spotify.com/album/3Gd318rDShK1Ds12n3AATc) | 4:18 | 2022-03-30 | 2022-07-29 |
 | [Dewey](https://open.spotify.com/track/0KXPPU4wKaVOzHtASPzyGg) | [Picnic](https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo) | [Picnic](https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE) | 4:54 | 2022-05-25 | 2023-07-22 |
 | [Distance](https://open.spotify.com/track/2vHF644TPOyDF9lQSgTVzr) | [Pepo Galan](https://open.spotify.com/artist/18NAfV3NJPeHDvA2mjwh6K), [Sita Ostheimer](https://open.spotify.com/artist/2euah4M3KphCCZalnxQw4Y) | [Contact](https://open.spotify.com/album/7hTymFxCiU5SbCGeeGcAvi) | 2:50 | 2022-03-17 | 2022-07-28 |
@@ -171,6 +171,7 @@
 | [Mt Baker](https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:12 | 2022-03-17 | 2023-01-28 |
 | [Music For Psychedelic Therapy \- Excerpt](https://open.spotify.com/track/4xT0BmSuDNp2vkK5v07yba) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Music For Psychedelic Therapy \(Excerpt\)](https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv) | 7:07 | 2023-05-19 | 2023-06-06 |
 | [Music for Six Rooms](https://open.spotify.com/track/2kTVyBg5HoJBXo2qNPb7Tf) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 10:06 | 2022-03-17 | 2023-03-18 |
+| [Music For The Motion Picture Double Life](https://open.spotify.com/track/1ZsanfKyO9ARX3UHZknXWO) | [Ava Rasti](https://open.spotify.com/artist/4s2iBVE1aD9bbMN3M0ljKY) | [Music For The Motion Picture Double Life](https://open.spotify.com/album/4VDXFYv47aNsXtu6zvYeYu) | 6:43 | 2023-08-04 |  |
 | [Nanou2](https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 3:25 | 2023-06-30 | 2023-07-14 |
 | [New Love](https://open.spotify.com/track/2KN4qcDC3YYl5ihUx5qRQC) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Antidawn EP](https://open.spotify.com/album/46Tzqoo34KEb0G2hYDp5Ry) | 7:13 | 2022-03-17 | 2022-04-29 |
 | [Notes and Recollections](https://open.spotify.com/track/4N80c3K068q8H5Xuq2ru4O) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Above The Neon Glow](https://open.spotify.com/album/4qDk81Z78TXyclmv3NSEBm) | 8:16 | 2022-03-17 | 2022-07-29 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTkzYTMwODE4YTA0MmY4OWNlYWE5NzAzNTBhNDJmOWIxMTNmYzI3",
+  "snapshot_id": "MCw0YmNkMjM0NmM0ZDlkMDI1ZTJkZWRiMDZiMWFkYmI1OWM0ZTc0YmJl",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -563,22 +563,18 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Caro Vapor / Vida e Veneno de Don L",
-        "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
+        "name": "Relic\u00e1rio",
+        "url": "https://open.spotify.com/album/6qp8a3Tx1FRR70uoa6xcWR"
       },
       "artists": [
         {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
         }
       ],
-      "duration_ms": 229889,
-      "name": "Beira de Piscina (Remix)",
-      "url": "https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha"
+      "duration_ms": 191933,
+      "name": "Relic\u00e1rio",
+      "url": "https://open.spotify.com/track/60CZZExLs2g78by2XrDBC7"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -619,6 +615,26 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Caro Vapor / Vida e Veneno de Don L",
+        "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 229889,
+      "name": "Beira de Piscina (Remix)",
+      "url": "https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Olhares",
         "url": "https://open.spotify.com/album/2uEThThOM8x9bDSSvYK8p3"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 237065,
       "name": "Olhares",
       "url": "https://open.spotify.com/track/29gjSnpSaHYKV62A8uwQ1y"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Relic\u00e1rio",
-        "url": "https://open.spotify.com/album/6qp8a3Tx1FRR70uoa6xcWR"
-      },
-      "artists": [
-        {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Relic\u00e1rio",
-      "url": "https://open.spotify.com/track/60CZZExLs2g78by2XrDBC7"
     },
     {
       "added_at": "2023-03-10 03:01:00",

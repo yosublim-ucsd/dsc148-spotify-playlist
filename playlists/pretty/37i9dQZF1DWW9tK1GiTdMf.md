@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻  Schiuma in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,416 likes - 85 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,425 likes - 85 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 29 | [a Nessuno](https://open.spotify.com/track/5fU20jhQlPyoxuFwHEjA0a) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza](https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b) | 3:13 |
 | 30 | [Strongly Worded Letter](https://open.spotify.com/track/5BBHMxzR3vMZNlXDEpbIT8) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Strongly Worded Letter](https://open.spotify.com/album/0iJCgwJtJgoToVKta9NXk9) | 2:18 |
 | 31 | [Space](https://open.spotify.com/track/4McwT5oQNfrrqjscHtLFLS) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Space](https://open.spotify.com/album/6BpecWwKN8nyJ3ke2YHZti) | 2:48 |
-| 32 | [Tutto tua madre](https://open.spotify.com/track/71opoeHJn3ezzjaWRFlt8X) | [Narcolessia](https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS) | [Tutto tua madre](https://open.spotify.com/album/4IbIVFlMhDqCfYZw7popOd) | 3:22 |
+| 32 | [Tutto tua madre](https://open.spotify.com/track/5HygGj8n3EqNWmsZfGx65y) | [Narcolessia](https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS) | [Tutto tua madre](https://open.spotify.com/album/5xghA9pLIOUnpkj4TNgSyT) | 3:22 |
 | 33 | [NON LO SO X4](https://open.spotify.com/track/1UzR9fzj03QX9QGVpe0UTt) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [NON LO SO X4](https://open.spotify.com/album/7ecccb52hK4RiXrLuQoExO) | 3:04 |
 | 34 | [Cosa ci manca](https://open.spotify.com/track/2MYo9JS5X5tF0ft66QRqAd) | [ryel](https://open.spotify.com/artist/6pzPq4qQnjswqcVoX9JYyn) | [Cosa ci manca](https://open.spotify.com/album/5lz2mwbaesxZXZREW4Q9Uf) | 2:07 |
 | 35 | [Fumo e Cenere RMX \(feat\. Benji\)](https://open.spotify.com/track/2NPUFvAS8BG6EaNMXs1h8M) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc), [Benji](https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF) | [Fumo e Cenere RMX \(feat\. Benji\)](https://open.spotify.com/album/0xRvJJdv3ZdDcEZyvd9ePs) | 2:46 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 84 | [PICCOLI](https://open.spotify.com/track/3F86TXXBuXxQWLF3Gl0Zqr) | [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ), [HUGO\_TRz](https://open.spotify.com/artist/4K5OlFpHTBw1VShfFpTlLp) | [EMOTIVO](https://open.spotify.com/album/6sc3bvULuxvoUTMQon9GxG) | 2:31 |
 | 85 | [Storia Stupida](https://open.spotify.com/track/14cHW9AA2QhKt9lBtNi2aZ) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU), [Ardia](https://open.spotify.com/artist/71H4k0XU2SGct9RvpvmxHS) | [Storia Stupida](https://open.spotify.com/album/1UVVFhQwRZpfG0HzSns7Ur) | 3:04 |
 
-Snapshot ID: `MCw5OWQxMzk3YmI5YWFjMmNhNDVjNTAyMjYyNDIxNzc1NzI2ZWQ2Y2Yw`
+Snapshot ID: `MCw5OWM2NjYxOGM1ZDdhYTZkYmMyYWE0YWY3YmJmNDFhYjk1YzE3ZmRl`
