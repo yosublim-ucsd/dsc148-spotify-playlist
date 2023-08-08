@@ -4,7 +4,7 @@
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-177 songs - 10 hr 27 min
+178 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Save Tonight](https://open.spotify.com/track/110YC8JMSnxlr5dFrtEdiP) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Save Tonight](https://open.spotify.com/album/2jHuPMC1tJvcyqvWMrlvQI) | 4:30 | 2022-08-25 |  |
 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 | 2022-08-25 |  |
 | [Send Me on My Way \(Acoustic\)](https://open.spotify.com/track/61tV4cFi7ECPLVdmcoTTf9) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Send Me on My Way \(Acoustic\)](https://open.spotify.com/album/1iAVTWqne8RsvIoicto48v) | 3:07 | 2022-08-25 | 2023-07-30 |
+| [Send Me on My Way \- Acoustic \(Cover\)](https://open.spotify.com/track/6GwwLE8TEnCkjlr9w0uimV) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Send Me on My Way \[Acoustic \(Cover\)\]](https://open.spotify.com/album/1SXjeUTHmvRkWdt0H1kkZN) | 3:07 | 2023-06-27 |  |
 | [Send My Love \(To Your New Lover\) \- Live](https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Paul Kowert](https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB) | [Send My Love \(To Your New Lover\) \[Live\]](https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z) | 3:45 | 2022-08-25 |  |
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2022-08-25 |  |
 | [Set Fire to the Rain \- Cover](https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz) | 3:53 | 2022-08-25 |  |
@@ -152,7 +153,7 @@
 | [Stitches](https://open.spotify.com/track/3Jy394MtpM2xciRBTzxBlg) | [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Stitches](https://open.spotify.com/album/0SHdoaGuQV2EjhQ6HEX9K2) | 4:06 | 2022-08-25 |  |
 | [Stolen Dance](https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5) | 3:55 | 2022-08-25 |  |
 | [Strangers \- Acoustic](https://open.spotify.com/track/65he1nxW8DwdL0k7fpC5wg) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Strangers \(Remixes\)](https://open.spotify.com/album/05VQDdDhAfhZqGOFAVT809) | 3:23 | 2023-06-27 |  |
-| [Sugar \- Acoustic](https://open.spotify.com/track/3zjScixLevnImm0BErIHxQ) | [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar \(Acoustic\)](https://open.spotify.com/album/24TT3jzVoaZb4j8L5HKUNs) | 3:29 | 2023-06-27 |  |
+| [Sugar \- Acoustic](https://open.spotify.com/track/3zjScixLevnImm0BErIHxQ) | [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar \(Acoustic\)](https://open.spotify.com/album/24TT3jzVoaZb4j8L5HKUNs) | 3:29 | 2023-06-27 | 2023-08-08 |
 | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66) | 3:51 | 2022-08-25 |  |
 | [Sunday Morning \- Acoustic](https://open.spotify.com/track/3bXhtg6H8lOMWaLZttQF6F) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu) | 4:14 | 2022-08-25 |  |
 | [Swalla \- Acoustic Version](https://open.spotify.com/track/02dcOQGdOgZyErpbJT4hr5) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Swalla \(Acoustic Version\)](https://open.spotify.com/album/032arX7VC6xQ1WbR92jVoy) | 3:37 | 2022-08-25 |  |

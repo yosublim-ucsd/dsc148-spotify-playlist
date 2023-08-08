@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 14816,
+  "num_followers": 14864,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjcyMTg1ODExYTM3MzdhNjM4ZmZhMjljNjIzYmRmZjRmMTdjZTIw",
+  "snapshot_id": "MCw2NzdmN2E4Y2JjNDBmOGUwODhmMzViOWQ1YTRjNmQ1Njg1MDMyYjRj",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Besos en la Espalda",
-        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "Perdiendo la Cabeza",
-      "url": "https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Hush (Still Woozy Remix)",
         "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 182346,
       "name": "Hush - Still Woozy Remix",
       "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Besos en la Espalda",
+        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "Perdiendo la Cabeza",
+      "url": "https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Funk Your Bones (Side B)",
-        "url": "https://open.spotify.com/album/440X9FP6a7TTrQDZVR3vyT"
-      },
-      "artists": [
-        {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
-        }
-      ],
-      "duration_ms": 196874,
-      "name": "Young Girl",
-      "url": "https://open.spotify.com/track/6MWaf0c7rvbvVH5V2zmHJn"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Arepa 3000",
         "url": "https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 239613,
       "name": "Qu\u00e9 Rico",
       "url": "https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Funk Your Bones (Side B)",
+        "url": "https://open.spotify.com/album/440X9FP6a7TTrQDZVR3vyT"
+      },
+      "artists": [
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "duration_ms": 196874,
+      "name": "Young Girl",
+      "url": "https://open.spotify.com/track/6MWaf0c7rvbvVH5V2zmHJn"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 275785,
-      "name": "A\u00f1ejo",
-      "url": "https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "\u00d3yeme Bien",
         "url": "https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2"
       },
@@ -431,22 +415,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Buitres & Co.",
-        "url": "https://open.spotify.com/album/5vyC6Dahprs1cIdQYMIYDZ"
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
       "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        },
         {
           "name": "Rawayana",
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 225458,
-      "name": "Rotos",
-      "url": "https://open.spotify.com/track/5Y1KS5xHBjGXKsEaCnufdi"
+      "duration_ms": 275785,
+      "name": "A\u00f1ejo",
+      "url": "https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -467,6 +447,26 @@
       "duration_ms": 237564,
       "name": "muero x ti",
       "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Buitres & Co.",
+        "url": "https://open.spotify.com/album/5vyC6Dahprs1cIdQYMIYDZ"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 225458,
+      "name": "Rotos",
+      "url": "https://open.spotify.com/track/5Y1KS5xHBjGXKsEaCnufdi"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -503,22 +503,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Cheo Pardo",
-          "url": "https://open.spotify.com/artist/2zxaMVEdb6cRSlAmDKjBtb"
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 260299,
-      "name": "Funky Fiesta",
-      "url": "https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR"
+      "duration_ms": 228466,
+      "name": "Golden Choice",
+      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -555,38 +551,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Golden Choice",
-      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
-      },
-      "artists": [
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        }
-      ],
-      "duration_ms": 271162,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Cuando Regreses a M\u00ed",
         "url": "https://open.spotify.com/album/1pXcDXRqCokOFcBWXesloE"
       },
@@ -607,6 +571,42 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Cheo Pardo",
+          "url": "https://open.spotify.com/artist/2zxaMVEdb6cRSlAmDKjBtb"
+        }
+      ],
+      "duration_ms": 260299,
+      "name": "Funky Fiesta",
+      "url": "https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        }
+      ],
+      "duration_ms": 271162,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "NQP (No Quiero Parar)",
         "url": "https://open.spotify.com/album/6JL4UdmqdPZXFh5RlEHVgW"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 182324,
       "name": "NQP (No Quiero Parar)",
       "url": "https://open.spotify.com/track/73WvgO2o37roOx4QPjmYM2"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 326040,
+      "name": "Tr\u00e1game Tierra",
+      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -687,22 +703,6 @@
       "duration_ms": 237262,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/3ODOLzIiOCWiyRE1Wy9KLG"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 326040,
-      "name": "Tr\u00e1game Tierra",
-      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Si Fui Yo",
+        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Si Fui Yo",
+      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Uno de nosotros (feat. Javiera Mena)",
         "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Si Fui Yo",
-        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Si Fui Yo",
-      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Ritmo Natural",
         "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 202080,
       "name": "Ritmo Natural",
       "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Terciopelo",
-        "url": "https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t"
-      },
-      "artists": [
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Terciopelo",
-      "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1003,6 +987,22 @@
       "duration_ms": 205462,
       "name": "Leche de Tigre",
       "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Terciopelo",
+        "url": "https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Terciopelo",
+      "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
     },
     {
       "added_at": "2023-08-04 04:00:00",

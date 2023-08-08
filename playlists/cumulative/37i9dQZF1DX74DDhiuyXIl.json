@@ -312,7 +312,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 240136,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/1fO6vB1z06Bc5bOTlTfojs"
@@ -1222,6 +1222,24 @@
       "duration_ms": 260991,
       "name": "\u5047\u5982\u4e16\u4e0a\u9084\u6709\u4e00\u500b\u4eba",
       "url": "https://open.spotify.com/track/0ki1xpYUdxYxzJocp1jjxa"
+    },
+    {
+      "album": {
+        "name": "\u5077\u5077",
+        "url": "https://open.spotify.com/album/3wwbsJNlN9x4JcnHAUtC3b"
+      },
+      "artists": [
+        {
+          "name": "\u8d75\u6f7c\u8431",
+          "url": "https://open.spotify.com/artist/78ill3yPdASGn0r0lwNLln"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262595,
+      "name": "\u5077\u5077",
+      "url": "https://open.spotify.com/track/3Is1IAirxtUVXpfV6fDx4P"
     },
     {
       "album": {
@@ -3232,7 +3250,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 242368,
       "name": "\u6211\u5011\u7684\u6545\u4e8b\u300a\u5730\u7344\u91cc\u9577\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/0hTkUhG5l8NMAXADxdyBWS"
@@ -4443,6 +4461,24 @@
     },
     {
       "album": {
+        "name": "\u770b\u6211\u59cb\u7ec8 (\u300a\u9547\u9b42\u8857\u300b\u7b2c\u4e09\u5b63\u52a8\u753b\u4e3b\u9898\u66f2)",
+        "url": "https://open.spotify.com/album/5fCbkgAmst9tUzjDFNqKQD"
+      },
+      "artists": [
+        {
+          "name": "Mao Buyi",
+          "url": "https://open.spotify.com/artist/6gvSKE72vF6N20LfBqrDmm"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189338,
+      "name": "\u770b\u6211\u59cb\u7ec8 - \u300a\u9547\u9b42\u8857\u300b\u7b2c\u4e09\u5b63\u52a8\u753b\u4e3b\u9898\u66f2",
+      "url": "https://open.spotify.com/track/2p7qN9TcKVfPKwypob19uy"
+    },
+    {
+      "album": {
         "name": "\u5df7\u5b50\u5167",
         "url": "https://open.spotify.com/album/7aNRNUuP1X1f6B1MxUp9QX"
       },
@@ -4512,7 +4548,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 250037,
       "name": "\u77e5\u8db3 (\u8afe\u4e9e\u65b9\u821f 10\u9031\u5e74\u9032\u5316)",
       "url": "https://open.spotify.com/track/5chcwiV9mmq2vllfsxVCEu"
@@ -5060,7 +5096,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-11",
+      "date_removed": null,
       "duration_ms": 258533,
       "name": "\u8af7\u523a\u7684\u60c5\u66f8",
       "url": "https://open.spotify.com/track/77OJPbm053M9LA5Pqs2yOZ"

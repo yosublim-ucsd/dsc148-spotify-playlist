@@ -1,15 +1,15 @@
 {
   "description": "Chill indie music. Cover: Rene\u00e9 Rapp",
-  "num_followers": 114210,
+  "num_followers": 114207,
   "original_name": "Indie Chill",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "Nzg5NiwzYmM3MDZjZTc3MDk4YmZkMTNkNTNjYmE4ZjliM2NlOWI0M2JkNzZh",
+  "snapshot_id": "Nzg5OCxiMTIxZWZiZTQxYmYzNDUyMTNjMDIxYTA5MGFlMmIzOWZhYjg3MDI4",
   "tracks": [
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
-      "album": {
-        "name": "the way things go",
-        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "the way things go",
-      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
-    },
-    {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "anatomy",
         "url": "https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg"
@@ -57,7 +41,39 @@
       "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
+      "album": {
+        "name": "the way things go",
+        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "the way things go",
+      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
+    },
+    {
+      "added_at": "2023-08-07 06:00:36",
+      "album": {
+        "name": "Casual Kisser",
+        "url": "https://open.spotify.com/album/2gzL4mfz5BiHfsUvZdyI79"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "Casual Kisser",
+      "url": "https://open.spotify.com/track/6vS9XivvbeoxUMUywhHSuc"
+    },
+    {
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
@@ -73,7 +89,39 @@
       "url": "https://open.spotify.com/track/5fT5VGOaMKOurY1ckmIXLo"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
+      "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/0Jvrq5ydmUgRQjTCROZ8nj"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 202193,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/288CnZzBkL4kTQqj3PlTAI"
+    },
+    {
+      "added_at": "2023-08-07 06:00:36",
+      "album": {
+        "name": "Gracie",
+        "url": "https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "duration_ms": 165260,
+      "name": "Gracie",
+      "url": "https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w"
+    },
+    {
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "I Don't Feel Alive",
         "url": "https://open.spotify.com/album/1WG4x5TpVKcN4oDBDeZuxa"
@@ -89,7 +137,23 @@
       "url": "https://open.spotify.com/track/3sB0Rw1n029dIYnzaLyQFd"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
+      "album": {
+        "name": "Soft Landing",
+        "url": "https://open.spotify.com/album/6JafE12iZoyCQQkSN8muem"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "duration_ms": 240222,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/1yQL2gaQjTrf1Xlce01IJd"
+    },
+    {
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
@@ -105,7 +169,7 @@
       "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Antichrist / Room Service",
         "url": "https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5"
@@ -121,7 +185,31 @@
       "url": "https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
+      "album": {
+        "name": "Steadfast (feat. Gordi)",
+        "url": "https://open.spotify.com/album/6ujDONRjiKslOY9mdoadny"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        },
+        {
+          "name": "John Raymond",
+          "url": "https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H"
+        },
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "duration_ms": 250010,
+      "name": "Steadfast (feat. Gordi)",
+      "url": "https://open.spotify.com/track/2SaTjNJVIXGs5ycPjBIb82"
+    },
+    {
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Boy From Carolina",
         "url": "https://open.spotify.com/album/2adTi2GIqAnmt7SxppjWzN"
@@ -137,7 +225,7 @@
       "url": "https://open.spotify.com/track/2ZAqDuU6rBiZhWIfngM8Ca"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "i'm sorry",
         "url": "https://open.spotify.com/album/2W3tnfj8SznmHGJueCtfrG"
@@ -153,7 +241,7 @@
       "url": "https://open.spotify.com/track/0PjId4Gfc96mYOl675FsfU"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
@@ -169,75 +257,7 @@
       "url": "https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
-      "album": {
-        "name": "Heaving Chest",
-        "url": "https://open.spotify.com/album/3PxbSXr2DwK8TdFJVXZCH2"
-      },
-      "artists": [
-        {
-          "name": "Didirri",
-          "url": "https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw"
-        }
-      ],
-      "duration_ms": 233680,
-      "name": "Heaving Chest",
-      "url": "https://open.spotify.com/track/4RzCh43qCMYOtNR52qCXvj"
-    },
-    {
-      "added_at": "2023-07-24 03:32:48",
-      "album": {
-        "name": "Part I \u2013 When Everything Was Lost",
-        "url": "https://open.spotify.com/album/47O3IGWPznhWBKQfs9yKz2"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 191450,
-      "name": "Inside My Chest",
-      "url": "https://open.spotify.com/track/7aW3ig8WrV4ynt1xiAua2l"
-    },
-    {
-      "added_at": "2023-07-24 03:32:48",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/7j4ymmtwxJP6icpbkWwYBh"
-      },
-      "artists": [
-        {
-          "name": "Margaret Glaspy",
-          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/7raFiiAe2tfVTq4fCKhIhE"
-    },
-    {
-      "added_at": "2023-07-24 03:32:48",
-      "album": {
-        "name": "Look Now",
-        "url": "https://open.spotify.com/album/3xlR9r8agdyf0JJ8kf3R9t"
-      },
-      "artists": [
-        {
-          "name": "Oscar Lang",
-          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
-        },
-        {
-          "name": "Molly Payton",
-          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
-        }
-      ],
-      "duration_ms": 303093,
-      "name": "When You Were A Child",
-      "url": "https://open.spotify.com/track/2zTaWaQSwBGjb0phVwL9Uw"
-    },
-    {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "to love in the 21st century",
         "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/0lz9I2JmKUghqZxajCtTFJ"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Lost In Translation",
         "url": "https://open.spotify.com/album/1MC8OGjVd1Wjs7ng4oiKXO"
@@ -285,7 +305,7 @@
       "url": "https://open.spotify.com/track/7Ap1rbk0JFv6pPyRGXFLr4"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "The Show",
         "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
@@ -301,7 +321,7 @@
       "url": "https://open.spotify.com/track/3iVmzeoFR0AZrn8EYFnEsB"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Stick Season (We'll All Be Here Forever)",
         "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
@@ -317,7 +337,59 @@
       "url": "https://open.spotify.com/track/1dHtMSJ1Ozg2Ja6GX4McAO"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2aBkncK675ajfbL7AkRjiH"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        },
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 184106,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4wYCasaUMf0fz0ZNgrehHr"
+    },
+    {
+      "added_at": "2023-08-07 06:00:36",
+      "album": {
+        "name": "Caught In The Act",
+        "url": "https://open.spotify.com/album/1UI0Mj6eqmIePHooL3oLxP"
+      },
+      "artists": [
+        {
+          "name": "Didirri",
+          "url": "https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Love Can Bleed You By The Hand",
+      "url": "https://open.spotify.com/track/3OBdz6d0QUvm9Ctb41xzhd"
+    },
+    {
+      "added_at": "2023-08-07 06:00:36",
+      "album": {
+        "name": "The Maine",
+        "url": "https://open.spotify.com/album/40ptDph9mAXMnkZJKRe3UM"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 216137,
+      "name": "funny how?",
+      "url": "https://open.spotify.com/track/16K3ltS5J9zlfPkUjlcGCV"
+    },
+    {
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "is nothing sacred?",
         "url": "https://open.spotify.com/album/2qCE8Y2KxUrZcGPDBm55zt"
@@ -333,7 +405,7 @@
       "url": "https://open.spotify.com/track/51wgw96YSNMKN4kY9FsooP"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1"
@@ -349,7 +421,7 @@
       "url": "https://open.spotify.com/track/4WCEBiPW3xoC0T4wYMXW9U"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
         "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
@@ -365,7 +437,7 @@
       "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "GABRIEL",
         "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
@@ -381,7 +453,7 @@
       "url": "https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Lost At Sea",
         "url": "https://open.spotify.com/album/7kwav2MO9gEBS55o0Ui3n9"
@@ -401,7 +473,7 @@
       "url": "https://open.spotify.com/track/0837Am3wsBxCmfxo1DiFmz"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Time Will Fly",
         "url": "https://open.spotify.com/album/6XJvhvhwxVusNnIanbDpG6"
@@ -417,7 +489,7 @@
       "url": "https://open.spotify.com/track/3iLczn6rof3Fl0C0x4075J"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Broken By Desire To Be Heavenly Sent",
         "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
@@ -433,7 +505,7 @@
       "url": "https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -449,7 +521,7 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Say Yes To Heaven",
         "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
@@ -465,7 +537,7 @@
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Middle Ground",
         "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
@@ -481,7 +553,7 @@
       "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Steal The Show (From \"Elemental\")",
         "url": "https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l"
@@ -497,7 +569,7 @@
       "url": "https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
@@ -513,23 +585,7 @@
       "url": "https://open.spotify.com/track/4IGfjCoUAqHbBr6iuURNOi"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
-      "album": {
-        "name": "Holes",
-        "url": "https://open.spotify.com/album/1AAJoXqYgInrxXjoRCK4Uh"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 238890,
-      "name": "Holes",
-      "url": "https://open.spotify.com/track/0B6v7ZT2yrqYaCQb6OP5Gn"
-    },
-    {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Midnights (The Til Dawn Edition)",
         "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
@@ -549,7 +605,7 @@
       "url": "https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Looking U Up",
         "url": "https://open.spotify.com/album/1zomS3G7NNxjtNAbs2fAg9"
@@ -565,7 +621,7 @@
       "url": "https://open.spotify.com/track/5Idv9rz66FFJufVurbtcFG"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Never Goes Away",
         "url": "https://open.spotify.com/album/0NLKXJv4DxlwyQ94CetFXg"
@@ -581,7 +637,7 @@
       "url": "https://open.spotify.com/track/5FPSUR4mfKAz1YIY0Fjx0L"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Sleep Well",
         "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
@@ -597,7 +653,7 @@
       "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/7yOGwFeMaA4ucX5W0JFMKq"
@@ -613,7 +669,7 @@
       "url": "https://open.spotify.com/track/62uRYwQ4UV7UoMpQ6hXqPj"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Everything To Everyone (Deluxe)",
         "url": "https://open.spotify.com/album/1KSAqXIHFEWo73keoru7FX"
@@ -629,7 +685,7 @@
       "url": "https://open.spotify.com/track/0qE0N1pEpZ5rsb4GM6pk6C"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Crying My Eyes Out",
         "url": "https://open.spotify.com/album/0sldlbNtOFnq3BkSyfTpt2"
@@ -645,7 +701,7 @@
       "url": "https://open.spotify.com/track/1FXS09ZtlsCHvDBWWuqsnp"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
@@ -673,23 +729,7 @@
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
-      "album": {
-        "name": "Close One",
-        "url": "https://open.spotify.com/album/5tpLjmCPdpBn81pZTqiygc"
-      },
-      "artists": [
-        {
-          "name": "FIZZ",
-          "url": "https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U"
-        }
-      ],
-      "duration_ms": 235887,
-      "name": "Close One",
-      "url": "https://open.spotify.com/track/1xIT1hBftZGBNLIf35XlgV"
-    },
-    {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Inventing The Wheel",
         "url": "https://open.spotify.com/album/3T2i1Ia16aqjbchxICe2tw"
@@ -705,23 +745,7 @@
       "url": "https://open.spotify.com/track/5nVBunhfgeCpCl36r12Ac2"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
-      "album": {
-        "name": "artifacts 01",
-        "url": "https://open.spotify.com/album/0w9GY37KgBG59zla77FBwq"
-      },
-      "artists": [
-        {
-          "name": "fearofmakingout",
-          "url": "https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c"
-        }
-      ],
-      "duration_ms": 103225,
-      "name": "artifact 37",
-      "url": "https://open.spotify.com/track/4VwN7ukpw2CvoEvX3MtEKK"
-    },
-    {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
@@ -737,7 +761,7 @@
       "url": "https://open.spotify.com/track/7bxvEJTeHETJchJLrjxHPQ"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "The Hardest Love",
         "url": "https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX"
@@ -753,7 +777,7 @@
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Don\u2019t Go, Don\u2019t Leave",
         "url": "https://open.spotify.com/album/6AYpseGYHB6Pmln8Wvcsey"
@@ -769,7 +793,7 @@
       "url": "https://open.spotify.com/track/3Cg9Ds1CWQUGuQoQ9QvjDl"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Until Now",
         "url": "https://open.spotify.com/album/656QB1tzxNjCNtDUswWRAF"
@@ -785,7 +809,7 @@
       "url": "https://open.spotify.com/track/4djT5qYz4PIcIDV6TziZhm"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "a little more time",
         "url": "https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi"
@@ -801,7 +825,7 @@
       "url": "https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF"
     },
     {
-      "added_at": "2023-07-24 03:32:48",
+      "added_at": "2023-08-07 06:00:36",
       "album": {
         "name": "Let Me Down",
         "url": "https://open.spotify.com/album/30hk8tSh4WijrOfesqXZLx"
@@ -819,22 +843,6 @@
       "duration_ms": 149727,
       "name": "Let Me Down (with Chelsea Cutler)",
       "url": "https://open.spotify.com/track/0ulm3WgGZsMAgwwv0Zg00W"
-    },
-    {
-      "added_at": "2023-07-24 03:32:48",
-      "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/0Jvrq5ydmUgRQjTCROZ8nj"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 202193,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/288CnZzBkL4kTQqj3PlTAI"
     }
   ],
   "unique_name": "Indie Chill",

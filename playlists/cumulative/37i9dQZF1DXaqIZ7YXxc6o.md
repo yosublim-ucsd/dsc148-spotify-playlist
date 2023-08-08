@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Nia Archives
 
-1,125 songs - 2 day 14 hr 13 min
+1,126 songs - 2 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Go To My Show](https://open.spotify.com/track/3VuasugUakAlXF7oZJ9qvV) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL) | [Naughty By Nature](https://open.spotify.com/album/4PCp5e3eGGnykZEMGiCbkJ) | 4:17 | 2023-03-03 | 2023-03-25 |
 | [Going Home](https://open.spotify.com/track/2ww0OC7q3oYWbsgRoDdZp2) | [MorningMaxwell](https://open.spotify.com/artist/0kvwtYUiypCDaaKKhTD2Pp), [Jade Alice](https://open.spotify.com/artist/3RtGhwOeishzd1HIceHzrp) | [Going Home](https://open.spotify.com/album/6MzuyHiVXgtXnHzMeGsuqP) | 4:00 | 2023-03-31 | 2023-04-21 |
 | [Golden Sands \(Lue\. Remix\)](https://open.spotify.com/track/5CCI7vsRrr7JRyAtNtBFh4) | [Tilly VW](https://open.spotify.com/artist/3k1wzoa766QdroI9rsVCBU), [Lue.](https://open.spotify.com/artist/68bqztJbjbjG36rYWZ0D5Y) | [Golden Sands \(Lue\. Remix\)](https://open.spotify.com/album/44yf0cXLP1WPNl9q0f3jOj) | 4:01 | 2023-05-25 | 2023-06-23 |
+| [Gone](https://open.spotify.com/track/0zF8KQnao8VkgTaZ89MJiy) | [So Below](https://open.spotify.com/artist/2j551jqYq2HQH3R63vtSQi) | [Gone](https://open.spotify.com/album/3hmIWd4zvTjREy57GlgAfK) | 4:15 | 2023-08-07 |  |
 | [GOOD 4 ME](https://open.spotify.com/track/4bw47acyYPbG0DOzszsE4u) | [Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [GOOD 4 ME](https://open.spotify.com/album/3jyK3yiOmTvqwPIDmBBLkK) | 2:03 | 2023-07-27 |  |
 | [Good Catch](https://open.spotify.com/track/7jBNPcLfFjZce1ORVtqB5s) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Good Catch](https://open.spotify.com/album/0yzk4au9oIVf4p2m0ICOli) | 3:40 | 2023-07-27 |  |
 | [Good Life](https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Good Life](https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv) | 3:16 | 2023-07-13 | 2023-08-04 |

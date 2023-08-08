@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo. Freshly picked every week. \ud83c\udf38 Cover: Kirnbauer, Joaquina Mertz, Mar\u00eda Centeno & Noa Sainz.",
-  "num_followers": 764770,
+  "num_followers": 764753,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTM3ZmU2YTdjZTJlMjY5OTM2Y2JhMmEwN2Y1MzhlY2NjZWI3MGE1",
+  "snapshot_id": "MCwyZTFlODQ5YmNjZGE1ZThmZjFkZmQyYWQwMWViYjZhM2Q0YjA2NDNi",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Hola Senpai",
+        "url": "https://open.spotify.com/album/4nBF01igPVDxFJ4bcQPbJ4"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "duration_ms": 110285,
+      "name": "Hola Senpai",
+      "url": "https://open.spotify.com/track/03fMuuJqzL9ZqqeKxGEJRc"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Entremundos",
         "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 188070,
       "name": "bossa nova",
       "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Hola Senpai",
-        "url": "https://open.spotify.com/album/4nBF01igPVDxFJ4bcQPbJ4"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 110285,
-      "name": "Hola Senpai",
-      "url": "https://open.spotify.com/track/03fMuuJqzL9ZqqeKxGEJRc"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "BROOKLYN",
+        "url": "https://open.spotify.com/album/004QpFB05Jwt7N1gohK4l8"
+      },
+      "artists": [
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        }
+      ],
+      "duration_ms": 215236,
+      "name": "BROOKLYN",
+      "url": "https://open.spotify.com/track/7hIrfMx9NNqoKx3Nok9O6g"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "No Way I Wake Up (Without You)",
         "url": "https://open.spotify.com/album/5UR3t0kyK73DYsKv0mg60c"
       },
@@ -959,18 +975,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "BROOKLYN",
-        "url": "https://open.spotify.com/album/004QpFB05Jwt7N1gohK4l8"
+        "name": "cuando me pides m\u00e1s",
+        "url": "https://open.spotify.com/album/4wp3B5xYWNhcLSFobaMckG"
       },
       "artists": [
         {
-          "name": "Solo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
         }
       ],
-      "duration_ms": 215236,
-      "name": "BROOKLYN",
-      "url": "https://open.spotify.com/track/7hIrfMx9NNqoKx3Nok9O6g"
+      "duration_ms": 259186,
+      "name": "cuando me pides m\u00e1s",
+      "url": "https://open.spotify.com/track/3ykezGhjSPp02lgGX1bt90"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1059,22 +1075,6 @@
       "duration_ms": 152698,
       "name": "NORTE A SUR",
       "url": "https://open.spotify.com/track/2ghoM5KMSQUOGW0VAVaTvF"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "cuando me pides m\u00e1s",
-        "url": "https://open.spotify.com/album/4wp3B5xYWNhcLSFobaMckG"
-      },
-      "artists": [
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "cuando me pides m\u00e1s",
-      "url": "https://open.spotify.com/track/3ykezGhjSPp02lgGX1bt90"
     },
     {
       "added_at": "2023-08-04 04:00:00",

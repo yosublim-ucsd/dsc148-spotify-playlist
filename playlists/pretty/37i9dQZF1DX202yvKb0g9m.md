@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,343 likes - 50 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,428 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 23 | [Problèmes d'Amour \- Original](https://open.spotify.com/track/4xeQXFdKrNPQcGyze66bIx) | [Alexander Robotnick](https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq) | [Problèmes D'amour \(All Versions\)](https://open.spotify.com/album/3WV1F6sgTj0Dw5UISLb5HB) | 7:00 |
 | 24 | [Warsaw \- White Light Version](https://open.spotify.com/track/4SzoQuDQIEm8saHC85w8CT) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [White Light](https://open.spotify.com/album/1EVEmfVskivH7bbA6OVS45) | 5:45 |
 | 25 | [Bowie in Harmony](https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Alientronic](https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy) | 6:22 |
-| 26 | [Sumo Acid Crew](https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [In Gold](https://open.spotify.com/album/6RuqX6Qra8dmcmYJQ5ffcR) | 6:19 |
-| 27 | [Patchwork Jazz](https://open.spotify.com/track/62b32TAMVvNNOEjw806SyQ) | [Cro\-Magnon](https://open.spotify.com/artist/526ezIY9S1rr45Kw8cMjAy) | [V](https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH) | 7:12 |
+| 26 | [Patchwork Jazz](https://open.spotify.com/track/62b32TAMVvNNOEjw806SyQ) | [Cro\-Magnon](https://open.spotify.com/artist/526ezIY9S1rr45Kw8cMjAy) | [V](https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH) | 7:12 |
+| 27 | [Sumo Acid Crew](https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [In Gold](https://open.spotify.com/album/6RuqX6Qra8dmcmYJQ5ffcR) | 6:19 |
 | 28 | [Commuter](https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2) | [Ceephax Acid Crew](https://open.spotify.com/artist/3Q0VPr02bPlokDVsv5T90I) | [United Acid Emirates](https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb) | 5:31 |
 | 29 | [Acid Thunder](https://open.spotify.com/track/2NTqxccIvg6wlA8xnQDN4F) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/0KByzJihmyYCbWcc8sQoba) | 4:32 |
 | 30 | [Miserablism \- 2018 Remaster](https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Behaviour: Further Listening 1990 \- 1991 \(2018 Remaster\)](https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET) | 4:07 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 37 | [Auto Machine](https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq) | 9:50 |
 | 38 | [The Smell Of Suds And Steel](https://open.spotify.com/track/0wZ7yAcRnaY9Lz0YJiSizK) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Qualm](https://open.spotify.com/album/2hYmcjIinZoVCog5sP4k0H) | 8:11 |
 | 39 | [Afrofunk \(Valique Boogie Brother Remix\)](https://open.spotify.com/track/3bd2zgQZ8YZZSEoFAYjlrv) | [Timewarp Inc](https://open.spotify.com/artist/1LxC10tZiw6AYtRcemcvKr), [Valique](https://open.spotify.com/artist/5IdyZix2HjYLOb1fvN7oaH) | [Adventures in Acid Boogie, Vol.2](https://open.spotify.com/album/5naCHwy40cRVsbtr0zR1VC) | 5:25 |
-| 40 | [The Garden of Eden \(A Himalayan Song\)](https://open.spotify.com/track/2yheDn4bIOJVZmfDSTzILA) | [The Garden Of Eden](https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af), [Angela McCluskey](https://open.spotify.com/artist/0cJMitw1iwiFVc1MwfRxWX), [Mark Tinley](https://open.spotify.com/artist/0ytLhQB1D6Syrgetn8QHco), [Pam Hogg](https://open.spotify.com/artist/7uyKQ6IUwjoSSiwvmFi0YG) | [The Garden of Eden](https://open.spotify.com/album/0zRO73WKcyEzInguX9yubX) | 4:01 |
-| 41 | [Sound 6](https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [I Have a Question](https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5) | 6:01 |
+| 40 | [Sound 6](https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [I Have a Question](https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5) | 6:01 |
+| 41 | [The Garden of Eden \(A Himalayan Song\)](https://open.spotify.com/track/2yheDn4bIOJVZmfDSTzILA) | [The Garden Of Eden](https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af), [Angela McCluskey](https://open.spotify.com/artist/0cJMitw1iwiFVc1MwfRxWX), [Mark Tinley](https://open.spotify.com/artist/0ytLhQB1D6Syrgetn8QHco), [Pam Hogg](https://open.spotify.com/artist/7uyKQ6IUwjoSSiwvmFi0YG) | [The Garden of Eden](https://open.spotify.com/album/0zRO73WKcyEzInguX9yubX) | 4:01 |
 | 42 | [Land Of Confusion](https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH) | [Armando](https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53) | [Trax Classix](https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv) | 2:58 |
 | 43 | [Tokyo](https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [For Those Who](https://open.spotify.com/album/2ClfMqAZvuQ8uFH9z5Ac90) | 6:26 |
 | 44 | [Acid Trax](https://open.spotify.com/track/5j72kVstS2gHKl8zWJDNz0) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Phuture and Other Classics from DJ Pierre](https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy) | 11:49 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 47 | [Everybody Needs A 303](https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Better Living Through Chemistry](https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB) | 5:49 |
 | 48 | [Do You Feel The Same?](https://open.spotify.com/track/0irwK3Hld6BTGAWH9CFjop) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [The Feast Of The Broken Heart](https://open.spotify.com/album/6fyz9Ic9kY0zdayyNOpoKH) | 4:41 |
 | 49 | [Fantasy Girl \- Acid Mix](https://open.spotify.com/track/2NLiNwWW6wffgvQ11CTqN1) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk), [J.R.](https://open.spotify.com/artist/0NBCjCwv45St1Vqpv5bjyP) | [Fantasy Girl](https://open.spotify.com/album/5OAK0SGieqJ1jwW6vrVHjK) | 7:02 |
-| 50 | [Acid Bit \(feat\. Addison Groove\)](https://open.spotify.com/track/2yvsFzmOODkBzhJo4l5ywM) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [Double Cup](https://open.spotify.com/album/2wZJl03iX9DxZ3P5C1HTBR) | 3:24 |
+| 50 | [Box Energy](https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK) | [Armando](https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53), [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU) | [Box Energy](https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo) | 6:10 |
 
-Snapshot ID: `MCw0ZGM5ZTkzY2M3NzY2MTcxYWVhNGNhYTI1MmM0ZDkwNzIyNDBkZWNi`
+Snapshot ID: `MCxkNWQ2ZjQ5NDFkYmQ1Zjc2NWYxMjU0ZGVjYzE1ZDY1NWJlNWIwZWFm`

@@ -1,12 +1,12 @@
 {
   "description": "The south got something to say. Cover: TI",
-  "num_followers": 479920,
+  "num_followers": 480294,
   "original_name": "I Love My Down South Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTg1MDUzNWJmMTY4ZTdiYjA5NTU1OWQzMTViZDA3MzE3NDM1YzBj",
+  "snapshot_id": "MCxiOTRkNTMzN2I2MGIxMDUwNzNhY2EwZmI0NjIzN2ZkYzA4OGMzZmEz",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "So Fresh, So Clean",
+      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Rappa Ternt Sanga (Expanded Edition)",
         "url": "https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 235186,
       "name": "Freek-A-Leek",
       "url": "https://open.spotify.com/track/4MeDnO5yA2Zi6IMlVApRci"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 240026,
-      "name": "So Fresh, So Clean",
-      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -407,30 +407,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Thug Matrimony: Married to the Streets",
-        "url": "https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT"
-      },
-      "artists": [
-        {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "Twista",
-          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Let's Go (feat. Twista & Lil' Jon)",
-      "url": "https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "ATLiens",
         "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 239413,
       "name": "I'm N Luv (Wit a Stripper) (feat. Mike Jones)",
       "url": "https://open.spotify.com/track/2QurCbkPO14pjrikPNja0h"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Thug Matrimony: Married to the Streets",
+        "url": "https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT"
+      },
+      "artists": [
+        {
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Let's Go (feat. Twista & Lil' Jon)",
+      "url": "https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Aquemini",
-        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 324373,
-      "name": "Rosa Parks",
-      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Back For The First Time",
         "url": "https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 225173,
       "name": "Sunshine (feat. Lea)",
       "url": "https://open.spotify.com/track/4s0o8TJHfX9LLHa0umnOzT"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Aquemini",
+        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 324373,
+      "name": "Rosa Parks",
+      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -663,38 +663,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 274333,
-      "name": "What You Know",
-      "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "B.O.B. - Bombs Over Baghdad",
-      "url": "https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "THUGS ARE US",
         "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
       },
@@ -731,22 +699,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Thug Misses (Digitally Remastered)",
-        "url": "https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV"
-      },
-      "artists": [
-        {
-          "name": "Khia",
-          "url": "https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "My Neck, My Back (Lick It)",
-      "url": "https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Word Of Mouf",
         "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
       },
@@ -771,6 +723,54 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Thug Misses (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV"
+      },
+      "artists": [
+        {
+          "name": "Khia",
+          "url": "https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "My Neck, My Back (Lick It)",
+      "url": "https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 274333,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "B.O.B. - Bombs Over Baghdad",
+      "url": "https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "We The Best",
         "url": "https://open.spotify.com/album/3kh9dhan1rQm2QOrISk4SK"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 263280,
       "name": "We Takin' Over",
       "url": "https://open.spotify.com/track/6YdzlsQcyXoWjAykR0rjj3"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Word Of Mouf",
+        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 296586,
+      "name": "Rollout (My Business)",
+      "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -847,22 +863,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Word Of Mouf",
-        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 296586,
-      "name": "Rollout (My Business)",
-      "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Most Known Unknown (Explicit)",
         "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
       },
@@ -915,18 +915,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Tha Carter II",
-        "url": "https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6"
+        "name": "Crazyndalazdayz",
+        "url": "https://open.spotify.com/album/7c2vgd6qltoG2fAGZN2Bpz"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Tear Da Club Up Thugs",
+          "url": "https://open.spotify.com/artist/6EXX0GpVsILp9TGCfu7AVG"
+        },
+        {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
         }
       ],
-      "duration_ms": 303666,
-      "name": "Hustler Musik",
-      "url": "https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ"
+      "duration_ms": 118933,
+      "name": "Slob On My Nob (feat. Project Pat)",
+      "url": "https://open.spotify.com/track/0mXMr1OVZZKYmOinBaofOp"
     }
   ],
   "unique_name": "I Love My Down South Classics",

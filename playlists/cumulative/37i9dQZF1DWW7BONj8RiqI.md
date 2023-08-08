@@ -2,7 +2,7 @@
 
 ### [Massive Soca Hits](https://open.spotify.com/playlist/37i9dQZF1DWW7BONj8RiqI)
 
-> Carnival Sounds getting you ready for Toronto Caribbean Carnival 2023 curated by DJ Puffy
+> Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by DJ Puffy.
 
 315 songs - 17 hr 20 min
 

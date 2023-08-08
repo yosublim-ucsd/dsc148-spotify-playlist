@@ -918,7 +918,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 220242,
       "name": "Chezinay",
       "url": "https://open.spotify.com/track/2pkq3FmWxjuX968lMImvhn"
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 221751,
       "name": "En Llamas",
       "url": "https://open.spotify.com/track/4C9lz7XcINbbknMDsc23LC"
@@ -2023,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "Jala",
+        "url": "https://open.spotify.com/album/08OERl306os0PjzTdkuu49"
+      },
+      "artists": [
+        {
+          "name": "Calacote",
+          "url": "https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168906,
+      "name": "Jala",
+      "url": "https://open.spotify.com/track/226rYwWD40vlzyvDfU1vVP"
+    },
+    {
+      "album": {
         "name": "Jordan Flight",
         "url": "https://open.spotify.com/album/2BbXK3mLx7BP3fVHmhNM1M"
       },
@@ -2120,7 +2138,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 208000,
       "name": "Kilate",
       "url": "https://open.spotify.com/track/5dndTlMRXyvejjR05OkI3K"
@@ -2168,6 +2186,32 @@
       "duration_ms": 181928,
       "name": "L-Gante: RKT SESSIONS #1",
       "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
+    },
+    {
+      "album": {
+        "name": "La B Es De Bellaka",
+        "url": "https://open.spotify.com/album/2qg17ULjiGLq2C28wWvwKT"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "Salon Sandunga",
+          "url": "https://open.spotify.com/artist/7GO5cbRGVs48OP0lPdjLyo"
+        },
+        {
+          "name": "Kapostik",
+          "url": "https://open.spotify.com/artist/7abYZTZ9ewdRuVUSJbowO3"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146328,
+      "name": "La B Es De Bellaka",
+      "url": "https://open.spotify.com/track/0SUMky81PpkC1mYSl1UPNq"
     },
     {
       "album": {
@@ -2951,6 +2995,32 @@
     },
     {
       "album": {
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
+        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219642,
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
+      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Tarde (Remix)",
         "url": "https://open.spotify.com/album/73YYxkYl0FlBgD2uhfeTHR"
       },
@@ -3615,6 +3685,66 @@
     },
     {
       "album": {
+        "name": "Peruanita (Remix)",
+        "url": "https://open.spotify.com/album/1Y2mzd3iWTqbTPaaYswk3K"
+      },
+      "artists": [
+        {
+          "name": "Bathul",
+          "url": "https://open.spotify.com/artist/22dpVJKjyltqfokaGYbMpK"
+        },
+        {
+          "name": "Handa",
+          "url": "https://open.spotify.com/artist/4LpZfYp1BP3igeRu8RHAYq"
+        },
+        {
+          "name": "Pierzone",
+          "url": "https://open.spotify.com/artist/7aNfUGBDUSGTsVB9se7mVm"
+        },
+        {
+          "name": "Klibre",
+          "url": "https://open.spotify.com/artist/5ZHVFn7sOBWJoxAetJieTd"
+        },
+        {
+          "name": "Asmir Young",
+          "url": "https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E"
+        },
+        {
+          "name": "Lil Angello",
+          "url": "https://open.spotify.com/artist/3ceK16nh5xlEJgEf7BRa0l"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277578,
+      "name": "Peruanita - Remix",
+      "url": "https://open.spotify.com/track/3IJdqIe4mRfQr5Qir0Cb25"
+    },
+    {
+      "album": {
+        "name": "Pgatparak",
+        "url": "https://open.spotify.com/album/1rsBsNpBRvdGADm5pYX6Lh"
+      },
+      "artists": [
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        },
+        {
+          "name": "DJ Pedro Fuentes",
+          "url": "https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150927,
+      "name": "Pgatparak",
+      "url": "https://open.spotify.com/track/4gJyB9NcvNR3HphzRrcgkT"
+    },
+    {
+      "album": {
         "name": "Piripituchy",
         "url": "https://open.spotify.com/album/0NSjS20vhwXNNIe5gSZeAW"
       },
@@ -3718,7 +3848,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 186122,
       "name": "Ponte Puti",
       "url": "https://open.spotify.com/track/6mNKWF3vmMDmYu0dWyqNT9"
@@ -4550,7 +4680,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 212093,
       "name": "Swipe Up",
       "url": "https://open.spotify.com/track/4ShtXgPGZ6Xj0xGoK8mvkD"

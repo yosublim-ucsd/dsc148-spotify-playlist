@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Davina Michelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,577 likes - 90 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,581 likes - 90 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 89 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
 | 90 | [Lost](https://open.spotify.com/track/3ZgAkLuHclThEly5G3llap) | [Joost Laméris](https://open.spotify.com/artist/6OEiT7x2wABg1ztjnnQ0Nv) | [Lost](https://open.spotify.com/album/118LuyHykQ89gWAhchAbFU) | 3:01 |
 
-Snapshot ID: `MCwyY2ZlMjQ4NDRlYThiMjk3NzBhZmNjOGZhMjc1ZWNjYTBmYmE1N2Fi`
+Snapshot ID: `MCwwNWZiNWY5MzliOTJiZTE2NDRhNzYwNzRlNGI0YWYyNTE2OGE3NTEx`

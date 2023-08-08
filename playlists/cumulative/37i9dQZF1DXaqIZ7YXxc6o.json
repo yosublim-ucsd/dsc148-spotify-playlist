@@ -8223,6 +8223,24 @@
     },
     {
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/3hmIWd4zvTjREy57GlgAfK"
+      },
+      "artists": [
+        {
+          "name": "So Below",
+          "url": "https://open.spotify.com/artist/2j551jqYq2HQH3R63vtSQi"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255094,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/0zF8KQnao8VkgTaZ89MJiy"
+    },
+    {
+      "album": {
         "name": "GOOD 4 ME",
         "url": "https://open.spotify.com/album/3jyK3yiOmTvqwPIDmBBLkK"
       },

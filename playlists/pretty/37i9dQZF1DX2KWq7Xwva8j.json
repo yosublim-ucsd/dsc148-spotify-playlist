@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Marta Santos",
-  "num_followers": 22810,
+  "num_followers": 22822,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjVkNjZhMDM2YjdkOGY4OWNjNDA2MGFjMGZkZjA1NDZjNGM2MmZl",
+  "snapshot_id": "MCw0MzA2MzkxMTNkZjI2YzlmMjU5ZDA3MWEwYmQxMjZiMmMyYmYyZWEy",
   "tracks": [
     {
       "added_at": "2023-05-19 09:08:21",
@@ -127,6 +127,46 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
+        "name": "Reventar la Ciudad",
+        "url": "https://open.spotify.com/album/6FKa1U17suTGjxEBhY7IW1"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "duration_ms": 209271,
+      "name": "Reventar la Ciudad",
+      "url": "https://open.spotify.com/track/5y6IQMVfYfa9rxfiHKz5hz"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "Agua al dolor",
+        "url": "https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh"
+      },
+      "artists": [
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 208372,
+      "name": "Agua al dolor",
+      "url": "https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
         "name": "1371 KM",
         "url": "https://open.spotify.com/album/4wBdC9qb2JWHUf4ZHLNnx2"
       },
@@ -163,22 +203,26 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Reventar la Ciudad",
-        "url": "https://open.spotify.com/album/6FKa1U17suTGjxEBhY7IW1"
+        "name": "mejores amigos",
+        "url": "https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8"
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
         },
         {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+          "name": "Candela G\u00f3mez",
+          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
+        },
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
         }
       ],
-      "duration_ms": 209271,
-      "name": "Reventar la Ciudad",
-      "url": "https://open.spotify.com/track/5y6IQMVfYfa9rxfiHKz5hz"
+      "duration_ms": 173259,
+      "name": "mejores amigos",
+      "url": "https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -199,26 +243,6 @@
       "duration_ms": 160589,
       "name": "De Charco En Charco",
       "url": "https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
-        "name": "Agua al dolor",
-        "url": "https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh"
-      },
-      "artists": [
-        {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 208372,
-      "name": "Agua al dolor",
-      "url": "https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -255,30 +279,6 @@
       "duration_ms": 151156,
       "name": "Leyla",
       "url": "https://open.spotify.com/track/6wBtiIDVUTQzukngZ0dNGq"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
-        "name": "mejores amigos",
-        "url": "https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        },
-        {
-          "name": "Candela G\u00f3mez",
-          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
-        },
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        }
-      ],
-      "duration_ms": 173259,
-      "name": "mejores amigos",
-      "url": "https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Alto Cielo",
-        "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
-      },
-      "artists": [
-        {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
-        }
-      ],
-      "duration_ms": 291873,
-      "name": "Con Miedo a Ti",
-      "url": "https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "C\u00e1psula Espacial",
         "url": "https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr"
       },
@@ -391,18 +375,18 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "PROGRESO",
-        "url": "https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe"
+        "name": "Solo me gustas cuando yo te gusto a ti",
+        "url": "https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao"
       },
       "artists": [
         {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
         }
       ],
-      "duration_ms": 202040,
-      "name": "PROGRESO",
-      "url": "https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7"
+      "duration_ms": 192500,
+      "name": "Solo me gustas cuando yo te gusto a ti",
+      "url": "https://open.spotify.com/track/6PdT8A35WPRr4r7JNjyTWO"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -447,6 +431,38 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
+        "name": "Alto Cielo",
+        "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
+      },
+      "artists": [
+        {
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+        }
+      ],
+      "duration_ms": 291873,
+      "name": "Con Miedo a Ti",
+      "url": "https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "PROGRESO",
+        "url": "https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "PROGRESO",
+      "url": "https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
         "name": "Novia del A\u00f1o",
         "url": "https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 176000,
       "name": "hey, goodbye",
       "url": "https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
-        "name": "Solo me gustas cuando yo te gusto a ti",
-        "url": "https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Solo me gustas cuando yo te gusto a ti",
-      "url": "https://open.spotify.com/track/6PdT8A35WPRr4r7JNjyTWO"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "por qu\u00e9 vuelvo a quererte?",
-        "url": "https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "por qu\u00e9 vuelvo a quererte?",
-      "url": "https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "Roma No Es Amor",
         "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 163125,
       "name": "chino cada martes",
       "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "por qu\u00e9 vuelvo a quererte?",
+        "url": "https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "por qu\u00e9 vuelvo a quererte?",
+      "url": "https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "J*DER",
-        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
-      },
-      "artists": [
-        {
-          "name": "Rorro",
-          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
-        }
-      ],
-      "duration_ms": 127661,
-      "name": "J*DER",
-      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "Bloque",
         "url": "https://open.spotify.com/album/7g5WUQbHQ8f3A8FV8hXoJ8"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 163384,
       "name": "Bloque",
       "url": "https://open.spotify.com/track/0GkTXuoGohIyXLlJXzybet"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "J*DER",
+        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "duration_ms": 127661,
+      "name": "J*DER",
+      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -819,26 +819,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "friki",
-        "url": "https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK"
-      },
-      "artists": [
-        {
-          "name": "valverdina",
-          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
-        },
-        {
-          "name": "Pavlo Tambien",
-          "url": "https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3"
-        }
-      ],
-      "duration_ms": 131871,
-      "name": "friki",
-      "url": "https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "Entre T\u00fa y Yo",
         "url": "https://open.spotify.com/album/4lGHtFxzkgixaplUBUCCva"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 199967,
       "name": "Entre T\u00fa y Yo",
       "url": "https://open.spotify.com/track/2DymeTXhOR1Vyxe1fbLvtv"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "friki",
+        "url": "https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK"
+      },
+      "artists": [
+        {
+          "name": "valverdina",
+          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
+        },
+        {
+          "name": "Pavlo Tambien",
+          "url": "https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3"
+        }
+      ],
+      "duration_ms": 131871,
+      "name": "friki",
+      "url": "https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g"
     },
     {
       "added_at": "2023-05-19 09:08:21",

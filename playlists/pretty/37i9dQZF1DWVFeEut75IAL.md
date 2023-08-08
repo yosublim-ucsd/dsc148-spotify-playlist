@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,562 likes - 66 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,993 likes - 66 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 65 | [丹尼男孩](https://open.spotify.com/track/21Fs9UuXGoESVVESdWTxZ5) | [Xuefei Yang](https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq) | [Danny Boy](https://open.spotify.com/album/1vl3OBKPjKIeu4BhOrrPo6) | 3:32 |
 | 66 | [Suite d'orchestre dans le style ancien, Op\. 2: II\. Sarabande\. Mesto](https://open.spotify.com/track/3C8Xxgad3ejXfJ0RiJq9G1) | [Albéric Magnard](https://open.spotify.com/artist/6vXWehXddAhqxqCAbUeQYa), [Philharmonisches Orchester Freiburg](https://open.spotify.com/artist/7zW6AJzj7refzE8uu9W8jA), [Fabrice Bollon](https://open.spotify.com/artist/3TatLwCeXp89VYjOQVyJjZ) | [Magnard: Orchestral Works](https://open.spotify.com/album/5cNzmh737G2dscX93MDeZh) | 2:09 |
 
-Snapshot ID: `MCxjMjZkOTdlN2I4NDI4OTdhZDRkZTIzZTRkODc2M2Y2YWRhMDEyYTJh`
+Snapshot ID: `MCw5YzNiNjUwNDE4OTk2MGUwNWY0Yjk2MzAzNGY1ZDdmNTcyNGIwNTY2`

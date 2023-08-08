@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Doja Cat, Lil Yachty, Bebe Rexha & David Guetta, Feid, Halle, Cordae and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,152,187 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,152,642 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 73 | [Irish Goodbye](https://open.spotify.com/track/6t1Irvbvz3xb71iaqsac10) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Sarah's Birthday on the Beach](https://open.spotify.com/album/6dQpeNbSypatcAG3N53Ldz) | 2:56 |
 | 74 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
 | 75 | [TWIN](https://open.spotify.com/track/5VFT3GDJFDTZzgRnZPWxt7) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [TROPIC](https://open.spotify.com/album/4uJLBDkj7s3plfhXRuel49) | 2:16 |
-| 76 | [Ready For It \(feat\. Eric Bellinger\)](https://open.spotify.com/track/3TZaeEmGv6HsdARIAwvdIs) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Ready For It \(feat\. Eric Bellinger\)](https://open.spotify.com/album/42fWXOdXkh3M5872YHc9zS) | 2:27 |
+| 76 | [Ready For It](https://open.spotify.com/track/3TZaeEmGv6HsdARIAwvdIs) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Ready For It](https://open.spotify.com/album/42fWXOdXkh3M5872YHc9zS) | 2:27 |
 | 77 | [Hooked](https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Hooked](https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep) | 3:04 |
 | 78 | [Kiss from a Rose](https://open.spotify.com/track/7sz7Ux2pAuM5V5RdjbaH6V) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Spotify Singles](https://open.spotify.com/album/0cG8Sv80ABlYVGf20D0AAf) | 5:04 |
 | 79 | [Let It Rain](https://open.spotify.com/track/2SHd3iSPeYj9epQUrYVmtX) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Let It Rain](https://open.spotify.com/album/7l3lv5SWsUy7ehwvnMmsXJ) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Peanut Butter & Tears](https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Peanut Butter & Tears](https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I) | 3:45 |
 | 100 | [Johnny's Dead](https://open.spotify.com/track/6qh5yE6FEk0n6hsCufMIX6) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [Johnny's Dead](https://open.spotify.com/album/5y8pk29U5u1ZF2Woi7jqgn) | 2:37 |
 
-Snapshot ID: `MCxlNjRmMmFlMGUyMWE2ZmU3ZDU2Yzk3NmJlZmI5YmQ4NGY1ZWVhMzVh`
+Snapshot ID: `MCxmZmU3Mzg2NDZlNTkxNWZkNGU0MWFmOTQwZTQ5YWU2NzY4NTRjOGFh`

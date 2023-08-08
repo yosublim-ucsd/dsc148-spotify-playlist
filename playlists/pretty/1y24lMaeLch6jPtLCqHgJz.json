@@ -6,7 +6,7 @@
     "name": "Revealed Recordings",
     "url": "https://open.spotify.com/user/revealedrec"
   },
-  "snapshot_id": "MjMwNixiZmM4ZDE2NzI1Yzc2NjQ4N2VmMTZjZTllZDdjOGRhODNiZjc0MmNl",
+  "snapshot_id": "MjMwNyw4Y2U2MzkwNzJkZjRiZTc0ZjkxOTAzMGEyNjM1M2NlNDM1NTg0NzIx",
   "tracks": [
     {
       "added_at": "2023-07-28 13:14:15",
@@ -263,6 +263,26 @@
       "duration_ms": 229778,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/74qL4Hr4I8papcKrpTVAw5"
+    },
+    {
+      "added_at": "2023-08-07 09:11:21",
+      "album": {
+        "name": "Hold Me First (feat. NEIMY)",
+        "url": "https://open.spotify.com/album/70eyTtM2zF52tdcNv3yBOQ"
+      },
+      "artists": [
+        {
+          "name": "Lulleaux",
+          "url": "https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "duration_ms": 212195,
+      "name": "Hold Me First",
+      "url": "https://open.spotify.com/track/6WnKly0LC1r7lwbcqGI2tv"
     },
     {
       "added_at": "2023-07-28 13:14:15",

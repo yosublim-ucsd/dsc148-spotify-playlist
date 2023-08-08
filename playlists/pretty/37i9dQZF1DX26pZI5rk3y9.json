@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 6034,
+  "num_followers": 6038,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzc4MWIwZTc0OGYxNWY0NDBkMTU5YmNkNzk0ZTJiOWQ5ZTFkNTA4",
+  "snapshot_id": "MCw2ZjhmYTUxZTVhMmVmZDNjZTEyYzYxMWJmNTc4NTJkMmFlOTg5Zjgy",
   "tracks": [
     {
       "added_at": "2023-08-04 12:26:54",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "The Big Come Up",
-        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 140933,
-      "name": "I'll Be Your Man",
-      "url": "https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
         "name": "Sea of Cowards",
         "url": "https://open.spotify.com/album/5QaEJj1wEqIePsjVtMzReu"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 215093,
       "name": "I Can't Hear You",
       "url": "https://open.spotify.com/track/3O1rkVw6tpDizXzHqMZfh5"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 140933,
+      "name": "I'll Be Your Man",
+      "url": "https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
+        "name": "Nothing But The Blues (Live and Stripped)",
+        "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 182613,
+      "name": "Nothing But The Blues - Live and Stripped",
+      "url": "https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
         "name": "I Want To Shout About It",
         "url": "https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 261064,
       "name": "Rippin' And Runnin'",
       "url": "https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
-        "name": "Nothing But The Blues (Live and Stripped)",
-        "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 182613,
-      "name": "Nothing But The Blues - Live and Stripped",
-      "url": "https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -323,6 +323,22 @@
       "duration_ms": 172520,
       "name": "Rise",
       "url": "https://open.spotify.com/track/34PJD8wnaZoBORxGnsOmwu"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "Sneakin' Around",
+        "url": "https://open.spotify.com/album/0q55zTFXDDIiyjipipXE5T"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 220869,
+      "name": "Sneakin\u2019 Around",
+      "url": "https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -407,22 +423,6 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Sneakin' Around",
-        "url": "https://open.spotify.com/album/0q55zTFXDDIiyjipipXE5T"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 220869,
-      "name": "Sneakin\u2019 Around",
-      "url": "https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
         "name": "Ugly Brain",
         "url": "https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "She Moved On",
-        "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
-      },
-      "artists": [
-        {
-          "name": "McKinley James",
-          "url": "https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB"
-        }
-      ],
-      "duration_ms": 167275,
-      "name": "She Moved On",
-      "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
         "name": "The Deep And The Dirty",
         "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 202536,
       "name": "Undertow",
       "url": "https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "She Moved On",
+        "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
+      },
+      "artists": [
+        {
+          "name": "McKinley James",
+          "url": "https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB"
+        }
+      ],
+      "duration_ms": 167275,
+      "name": "She Moved On",
+      "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Walk The Wire",
-        "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
-      },
-      "artists": [
-        {
-          "name": "Brent Lindsay",
-          "url": "https://open.spotify.com/artist/26cglONxlfyTejxQrbWJaO"
-        }
-      ],
-      "duration_ms": 124218,
-      "name": "Walk The Wire",
-      "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
         "name": "Ain't Nobody (Pain)",
         "url": "https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 170769,
       "name": "Deal With the Devil (You'll Get Yours)",
       "url": "https://open.spotify.com/track/0Mj8ijetNi0BccnaDAlYYF"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "Walk The Wire",
+        "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
+      },
+      "artists": [
+        {
+          "name": "Brent Lindsay",
+          "url": "https://open.spotify.com/artist/26cglONxlfyTejxQrbWJaO"
+        }
+      ],
+      "duration_ms": 124218,
+      "name": "Walk The Wire",
+      "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Jam With Me",
-        "url": "https://open.spotify.com/album/091N9UIZOOGeEVmk92L9hQ"
-      },
-      "artists": [
-        {
-          "name": "Lance Lopez",
-          "url": "https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm"
-        }
-      ],
-      "duration_ms": 201233,
-      "name": "Jam With Me",
-      "url": "https://open.spotify.com/track/0SdXKa4TANvfdnRZywZdp6"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
         "name": "Good Love Goes Bad",
         "url": "https://open.spotify.com/album/0s1mtwlKIxnASFrd442eW9"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 235573,
       "name": "Good Love Goes Bad",
       "url": "https://open.spotify.com/track/4SAdnN5F4nOZW0R1CjwYDv"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "Jam With Me",
+        "url": "https://open.spotify.com/album/091N9UIZOOGeEVmk92L9hQ"
+      },
+      "artists": [
+        {
+          "name": "Lance Lopez",
+          "url": "https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm"
+        }
+      ],
+      "duration_ms": 201233,
+      "name": "Jam With Me",
+      "url": "https://open.spotify.com/track/0SdXKa4TANvfdnRZywZdp6"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
+        "name": "Rockabye Motel",
+        "url": "https://open.spotify.com/album/1tGugHW3RhB2c3J52Knvdy"
+      },
+      "artists": [
+        {
+          "name": "Blue Water Highway",
+          "url": "https://open.spotify.com/artist/5N5nkgCu7UG5KqNpRPiUd7"
+        }
+      ],
+      "duration_ms": 343800,
+      "name": "Rockabye Motel",
+      "url": "https://open.spotify.com/track/6MpXCmx5j9qGFM0ka5JqZU"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
         "name": "Hazel Eyes",
         "url": "https://open.spotify.com/album/7q56kadwG66VudB8GIGC6T"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Rockabye Motel",
-        "url": "https://open.spotify.com/album/1tGugHW3RhB2c3J52Knvdy"
+        "name": "Roads Go On Forever",
+        "url": "https://open.spotify.com/album/2uUkCyIKlmyuuubILslx2o"
       },
       "artists": [
         {
-          "name": "Blue Water Highway",
-          "url": "https://open.spotify.com/artist/5N5nkgCu7UG5KqNpRPiUd7"
+          "name": "Max Poolman",
+          "url": "https://open.spotify.com/artist/5VGuMO5Cj2dyuSiU4gWQys"
         }
       ],
-      "duration_ms": 343800,
-      "name": "Rockabye Motel",
-      "url": "https://open.spotify.com/track/6MpXCmx5j9qGFM0ka5JqZU"
+      "duration_ms": 237613,
+      "name": "Keep On Rocking",
+      "url": "https://open.spotify.com/track/5OMNYgValFRs0a0UamQpDl"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -911,18 +927,18 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Roads Go On Forever",
-        "url": "https://open.spotify.com/album/2uUkCyIKlmyuuubILslx2o"
+        "name": "Still Truckin",
+        "url": "https://open.spotify.com/album/2XiBPrUsv0DXZKPbiQVUms"
       },
       "artists": [
         {
-          "name": "Max Poolman",
-          "url": "https://open.spotify.com/artist/5VGuMO5Cj2dyuSiU4gWQys"
+          "name": "Marc A Ridge",
+          "url": "https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn"
         }
       ],
-      "duration_ms": 237613,
-      "name": "Keep On Rocking",
-      "url": "https://open.spotify.com/track/5OMNYgValFRs0a0UamQpDl"
+      "duration_ms": 310056,
+      "name": "Still Truckin",
+      "url": "https://open.spotify.com/track/3gaibZyINf67LeyXmckAvK"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -959,18 +975,26 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Still Truckin",
-        "url": "https://open.spotify.com/album/2XiBPrUsv0DXZKPbiQVUms"
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/2s0hTPeFcMimcRZ51uBfKE"
       },
       "artists": [
         {
-          "name": "Marc A Ridge",
-          "url": "https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn"
+          "name": "The Lucky Strokes",
+          "url": "https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        },
+        {
+          "name": "Shelby Kemp",
+          "url": "https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5"
         }
       ],
-      "duration_ms": 310056,
-      "name": "Still Truckin",
-      "url": "https://open.spotify.com/track/3gaibZyINf67LeyXmckAvK"
+      "duration_ms": 255209,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/2JmwjDIFspqdq83Hv77HFv"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -991,22 +1015,6 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Rag Doll",
-        "url": "https://open.spotify.com/album/2v3CiLH9Kvj8n7HMMq3hF6"
-      },
-      "artists": [
-        {
-          "name": "Jenny Teator",
-          "url": "https://open.spotify.com/artist/5a5Zt3QQWGCfs5nrVxPf7b"
-        }
-      ],
-      "duration_ms": 169841,
-      "name": "Rag Doll",
-      "url": "https://open.spotify.com/track/4iRo9KrAseDp7rhkDqulYT"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
       },
@@ -1019,6 +1027,22 @@
       "duration_ms": 134001,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "Rag Doll",
+        "url": "https://open.spotify.com/album/2v3CiLH9Kvj8n7HMMq3hF6"
+      },
+      "artists": [
+        {
+          "name": "Jenny Teator",
+          "url": "https://open.spotify.com/artist/5a5Zt3QQWGCfs5nrVxPf7b"
+        }
+      ],
+      "duration_ms": 169841,
+      "name": "Rag Doll",
+      "url": "https://open.spotify.com/track/4iRo9KrAseDp7rhkDqulYT"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -1051,30 +1075,6 @@
       "duration_ms": 193928,
       "name": "Go Down Swinging",
       "url": "https://open.spotify.com/track/4fJqzjd5rtgxPjzuTvIAeA"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/2s0hTPeFcMimcRZ51uBfKE"
-      },
-      "artists": [
-        {
-          "name": "The Lucky Strokes",
-          "url": "https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX"
-        },
-        {
-          "name": "Eddie Roberts",
-          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
-        },
-        {
-          "name": "Shelby Kemp",
-          "url": "https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5"
-        }
-      ],
-      "duration_ms": 255209,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/2JmwjDIFspqdq83Hv77HFv"
     }
   ],
   "unique_name": "Blues BBQ",

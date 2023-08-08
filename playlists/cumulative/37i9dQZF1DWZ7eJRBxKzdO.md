@@ -4,7 +4,7 @@
 
 > The summer needs dance hits 😎☀️
 
-304 songs - 15 hr 18 min
+305 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Everybody’s Free \(To Feel Good\)](https://open.spotify.com/track/37hEQdTGZ5qDjtTXWi7U1G) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [Everybody’s Free \(To Feel Good\)](https://open.spotify.com/album/0dNy4Tr6SGaqdlPcCXLrNz) | 2:52 | 2022-05-02 | 2022-07-29 |
 | [Everything](https://open.spotify.com/track/4S6ytq0m3Wo1kaeRKNw3xy) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki) | [Everything](https://open.spotify.com/album/7L7ZklG6lldD8OzsrmNzbn) | 3:03 | 2022-05-02 | 2023-04-07 |
 | [Excuses](https://open.spotify.com/track/2gvIIpYdM9x1rdekmQMXCL) | [MENTIS](https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Excuses](https://open.spotify.com/album/5IgB6Fk5htrX4vQAcmw4ga) | 2:52 | 2022-05-02 | 2022-06-07 |
+| [Feel It \- Club Edit](https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Feel It \(Club Edit\)](https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH) | 2:04 | 2023-08-04 |  |
 | [Feeling For You](https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn) | 3:41 | 2023-06-15 |  |
 | [Feels Like Love \(feat\. MIYA MIYA\)](https://open.spotify.com/track/4R4gOp9ybG85RqbrY7JELc) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [MIYA MIYA](https://open.spotify.com/artist/62T4eJZxaNKzBzm8qbNnBy) | [Feels Like Love \(feat\. MIYA MIYA\)](https://open.spotify.com/album/5Xwq3PGZ30tYPIK402Bp29) | 2:49 | 2022-05-02 | 2023-07-09 |
 | [Ferrari](https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0) | 3:05 | 2022-05-02 | 2022-07-29 |
@@ -166,7 +167,7 @@
 | [Love You Again \(feat\. Akua\)](https://open.spotify.com/track/6DB1uu3VcQqV6rae4lWze8) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Akua](https://open.spotify.com/artist/3Y4VaqWeDWuLEHqB0s4Vmi) | [Love You Again \(feat\. Akua\)](https://open.spotify.com/album/5F3slII7s40r8LCAplnBm8) | 2:56 | 2022-05-26 | 2022-06-23 |
 | [Lovefool](https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Lovefool](https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT) | 3:10 | 2022-05-26 | 2023-03-18 |
 | [Madan \(King\)](https://open.spotify.com/track/0wKfshpKa7P8eUiFdNM5oS) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Madan \(King\)](https://open.spotify.com/album/11JYg34EBPsGBnvvYc8wrU) | 3:03 | 2022-06-16 | 2022-11-16 |
-| [Madan \(King\)](https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Madan \(King\)](https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl) | 3:03 | 2022-11-20 |  |
+| [Madan \(King\)](https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Madan \(King\)](https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl) | 3:03 | 2022-11-20 | 2023-08-08 |
 | [Make Me](https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Make Me](https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku) | 2:31 | 2023-06-30 |  |
 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 | 2023-07-28 |  |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2022-05-02 |  |

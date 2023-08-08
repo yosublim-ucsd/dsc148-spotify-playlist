@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 159139,
       "name": "Dijon",
       "url": "https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB"
@@ -2702,7 +2702,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 160009,
       "name": "Fallboard",
       "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
@@ -2972,7 +2972,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 137519,
       "name": "For Kate",
       "url": "https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou"
@@ -3008,7 +3008,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 170374,
       "name": "Forelsket",
       "url": "https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9"
@@ -3134,7 +3134,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-03",
+      "date_removed": null,
       "duration_ms": 127500,
       "name": "Fratelli",
       "url": "https://open.spotify.com/track/0ptKkh5g9jnbLnNQjbpBTs"
@@ -3152,7 +3152,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 163500,
       "name": "Free Ground",
       "url": "https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT"
@@ -4002,7 +4002,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 190250,
       "name": "How You're Remembered",
       "url": "https://open.spotify.com/track/2NHgyCHFDydecMMa57BcWP"
@@ -6422,7 +6422,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 193997,
       "name": "Next Part Of The Dream",
       "url": "https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG"
@@ -7772,7 +7772,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 139357,
       "name": "Red Sky",
       "url": "https://open.spotify.com/track/17ATrlvNNZdpPOeKB3YJHT"
@@ -10584,7 +10584,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 150009,
       "name": "Unless you leave now",
       "url": "https://open.spotify.com/track/2X2suFxascM2QSKOcWJsA1"
@@ -10872,7 +10872,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 158000,
       "name": "Vole Vers Moi",
       "url": "https://open.spotify.com/track/76tMNpO6rHIMyKu9s4aY55"
@@ -11348,6 +11348,24 @@
       "duration_ms": 200000,
       "name": "Yellow river",
       "url": "https://open.spotify.com/track/5NBR0JGRYOcWmGk25ri4k4"
+    },
+    {
+      "album": {
+        "name": "Yesterday's Word",
+        "url": "https://open.spotify.com/album/6Hc998StJejtTBNWir46BS"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121590,
+      "name": "Yesterday's Word",
+      "url": "https://open.spotify.com/track/0aa6CDMxp5V1F6YMR59Q3X"
     },
     {
       "album": {

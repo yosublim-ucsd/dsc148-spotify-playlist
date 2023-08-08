@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 3496,
+  "num_followers": 3499,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjFkNmFiMGRlY2RiNDVlZGMzYTQ5YzM5YTkxMWQzZTZlYjMxNGNj",
+  "snapshot_id": "MCw0NTI5NDJjMzUyNTcyNTViNmM5ZTdiYTQ1MTI4MDhhNmQ3YzFlNTJh",
   "tracks": [
     {
       "added_at": "2023-07-18 06:27:57",
@@ -315,26 +315,6 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "Coming To You Live",
-        "url": "https://open.spotify.com/album/23fwKUYyu1kvRnDR2imBnq"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        },
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 204218,
-      "name": "Know Me (Feat. DEAN)",
-      "url": "https://open.spotify.com/track/0c0Gf3FpG1NKKThB434Qbl"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 196706,
       "name": "Acceptance Speech (Feat. B.I)",
       "url": "https://open.spotify.com/track/07jvrbj5MwSRSzzkwrDQ3l"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
+        "name": "Coming To You Live",
+        "url": "https://open.spotify.com/album/23fwKUYyu1kvRnDR2imBnq"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "duration_ms": 204218,
+      "name": "Know Me (Feat. DEAN)",
+      "url": "https://open.spotify.com/track/0c0Gf3FpG1NKKThB434Qbl"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -715,6 +715,26 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
+        "name": "School Rapper4 Semi Final 1",
+        "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
+      },
+      "artists": [
+        {
+          "name": "D.Ark",
+          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
+        },
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
+      "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/6JZcMszjclxpjaS3VPyOvw"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 221142,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/61J1dGU5RCNs6rMnPADv4r"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
-        "name": "School Rapper4 Semi Final 1",
-        "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
-      },
-      "artists": [
-        {
-          "name": "D.Ark",
-          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
-        },
-        {
-          "name": "SUPERBEE",
-          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
-      "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -851,6 +851,30 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
+        "name": "RUN IT",
+        "url": "https://open.spotify.com/album/7JHRCbkBq50DaM1tBRSa0c"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 191187,
+      "name": "RUN IT",
+      "url": "https://open.spotify.com/track/3sznlAy0sce8la6GVzhnKU"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
         "name": "MARZ 2 AMBITION",
         "url": "https://open.spotify.com/album/4U1XmZrQVn3R0Y8GDTw356"
       },
@@ -899,30 +923,6 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "RUN IT",
-        "url": "https://open.spotify.com/album/7JHRCbkBq50DaM1tBRSa0c"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        },
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 191187,
-      "name": "RUN IT",
-      "url": "https://open.spotify.com/track/3sznlAy0sce8la6GVzhnKU"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
         "name": "Show Me the Money 5 Episode 3",
         "url": "https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 224856,
       "name": "Flow Away",
       "url": "https://open.spotify.com/track/2hBJqOLTrN6BFhHCmKZ6sO"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
+        "name": "Ghetto Kids",
+        "url": "https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 205423,
+      "name": "Lighter in my blow fist",
+      "url": "https://open.spotify.com/track/7d4y4LRNCXexXRsVt9FqVi"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1023,22 +1039,6 @@
       "duration_ms": 218526,
       "name": "Writer's Block",
       "url": "https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
-        "name": "Ghetto Kids",
-        "url": "https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 205423,
-      "name": "Lighter in my blow fist",
-      "url": "https://open.spotify.com/track/7d4y4LRNCXexXRsVt9FqVi"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "BLEACHED",
-        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 162186,
-      "name": "A.O.M.G.",
-      "url": "https://open.spotify.com/track/422H9gDr4EXMHQJNnAEvH3"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
         "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
         "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 210923,
       "name": "\uc545\ucc29\uac19\uc774 (Feat. \ud638\ubbf8\ub4e4)",
       "url": "https://open.spotify.com/track/6UeoIWK1kN7bACDiAz0Ll1"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 162186,
+      "name": "A.O.M.G.",
+      "url": "https://open.spotify.com/track/422H9gDr4EXMHQJNnAEvH3"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/25gboA881mwMrScGPLwvEI"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 186644,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
         "name": "It's Your Turn (Feat. Futuristic Swaver)",
         "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 193174,
       "name": "It's Your Turn (Feat. Futuristic Swaver)",
       "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/25gboA881mwMrScGPLwvEI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 186644,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1791,18 +1791,26 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "24:26 (5th Anniversary Remaster Edition)",
-        "url": "https://open.spotify.com/album/6GzOG46xmgSfB0PQdsnMDU"
+        "name": "Call Me Gray",
+        "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
       },
       "artists": [
         {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 254014,
-      "name": "I'll Be Back",
-      "url": "https://open.spotify.com/track/50Ype1T4rqWGPf7K49yvjn"
+      "duration_ms": 273267,
+      "name": "Dream Chaser",
+      "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1835,26 +1843,18 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "Call Me Gray",
-        "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
+        "name": "24:26 (5th Anniversary Remaster Edition)",
+        "url": "https://open.spotify.com/album/6GzOG46xmgSfB0PQdsnMDU"
       },
       "artists": [
         {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
         }
       ],
-      "duration_ms": 273267,
-      "name": "Dream Chaser",
-      "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
+      "duration_ms": 254014,
+      "name": "I'll Be Back",
+      "url": "https://open.spotify.com/track/50Ype1T4rqWGPf7K49yvjn"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1871,30 +1871,6 @@
       "duration_ms": 241777,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
-        "name": "RESPECT",
-        "url": "https://open.spotify.com/album/4FpsKzdhjKzTTYgN9DvJbv"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "DJ Pumkin",
-          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "RESPECT (Feat. GRAY, DJ Pumkin)",
-      "url": "https://open.spotify.com/track/7tCNxlrTSIonzZW9oBa4SC"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1935,6 +1911,30 @@
       "duration_ms": 218333,
       "name": "RAPSTAR - Remix",
       "url": "https://open.spotify.com/track/159MUi6v0n2o4f5PfzQ7Rn"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
+        "name": "RESPECT",
+        "url": "https://open.spotify.com/album/4FpsKzdhjKzTTYgN9DvJbv"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "DJ Pumkin",
+          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "RESPECT (Feat. GRAY, DJ Pumkin)",
+      "url": "https://open.spotify.com/track/7tCNxlrTSIonzZW9oBa4SC"
     },
     {
       "added_at": "2023-07-18 06:27:57",

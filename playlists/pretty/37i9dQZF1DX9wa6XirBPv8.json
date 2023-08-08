@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1573007,
+  "num_followers": 1573587,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGJjMGQwMWVlMTY3NDA4NGZlYWE0YWYwOGJjNWI2YWQ2OTNhZTg4",
+  "snapshot_id": "MCxhNTI4YjI4ZWJlYjFjOGRmOTNiYTBhYTU5MDcyOWQ3YmFkYTFkNzc5",
   "tracks": [
     {
       "added_at": "2023-07-25 14:04:38",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Thnks fr th Mmrs",
-      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
-    },
-    {
-      "added_at": "2023-07-25 14:04:38",
-      "album": {
         "name": "Sempiternal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 242280,
       "name": "Savior",
       "url": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB"
+    },
+    {
+      "added_at": "2023-07-25 14:04:38",
+      "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Thnks fr th Mmrs",
+      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
     },
     {
       "added_at": "2023-07-25 14:04:38",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
-    },
-    {
-      "added_at": "2023-07-25 14:04:38",
-      "album": {
         "name": "Don't You Fake It",
         "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 192000,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr"
+    },
+    {
+      "added_at": "2023-07-25 14:04:38",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "Misery Business",
+      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
     },
     {
       "added_at": "2023-07-25 14:04:38",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 211520,
-      "name": "Misery Business",
-      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2023-07-25 14:04:38",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
+    },
+    {
+      "added_at": "2023-07-25 14:04:38",
+      "album": {
         "name": "Ocean Avenue",
         "url": "https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 198266,
       "name": "Ocean Avenue",
       "url": "https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx"
-    },
-    {
-      "added_at": "2023-07-25 14:04:38",
-      "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 186634,
-      "name": "I Write Sins Not Tragedies",
-      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
     },
     {
       "added_at": "2023-07-25 14:04:38",
@@ -459,6 +459,22 @@
       "duration_ms": 220480,
       "name": "That's What You Get",
       "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
+    },
+    {
+      "added_at": "2023-07-25 14:04:38",
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 186634,
+      "name": "I Write Sins Not Tragedies",
+      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
     },
     {
       "added_at": "2023-07-25 14:04:38",
@@ -511,22 +527,6 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 220026,
-      "name": "Sweetness",
-      "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY"
-    },
-    {
-      "added_at": "2023-07-25 14:04:38",
-      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
@@ -539,6 +539,22 @@
       "duration_ms": 299226,
       "name": "Famous Last Words",
       "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
+    },
+    {
+      "added_at": "2023-07-25 14:04:38",
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Sweetness",
+      "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY"
     },
     {
       "added_at": "2023-07-25 14:04:38",
@@ -591,34 +607,18 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
-        "name": "A Lesson In Romantics",
-        "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
       },
       "artists": [
         {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Jamie All Over",
-      "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
-    },
-    {
-      "added_at": "2023-07-25 14:04:38",
-      "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
+      "duration_ms": 243226,
+      "name": "If It Means A Lot To You",
+      "url": "https://open.spotify.com/track/3rEwGRmPVVudVjqdgv0tRR"
     },
     {
       "added_at": "2023-07-25 14:04:38",
@@ -639,38 +639,6 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
-        "name": "Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness",
-        "url": "https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 374973,
-      "name": "Welcome Home",
-      "url": "https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO"
-    },
-    {
-      "added_at": "2023-07-25 14:04:38",
-      "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "If It Means A Lot To You",
-      "url": "https://open.spotify.com/track/3rEwGRmPVVudVjqdgv0tRR"
-    },
-    {
-      "added_at": "2023-07-25 14:04:38",
-      "album": {
         "name": "Bleed American",
         "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
       },
@@ -687,18 +655,50 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
-        "name": "Palm Trees and Power Lines",
-        "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
+        "name": "A Lesson In Romantics",
+        "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
       },
       "artists": [
         {
-          "name": "Sugarcult",
-          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
         }
       ],
-      "duration_ms": 226080,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
+      "duration_ms": 216000,
+      "name": "Jamie All Over",
+      "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
+    },
+    {
+      "added_at": "2023-07-25 14:04:38",
+      "album": {
+        "name": "Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness",
+        "url": "https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 374973,
+      "name": "Welcome Home",
+      "url": "https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO"
+    },
+    {
+      "added_at": "2023-07-25 14:04:38",
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 253946,
+      "name": "Brick by Boring Brick",
+      "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
     },
     {
       "added_at": "2023-07-25 14:04:38",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
+        "name": "Palm Trees and Power Lines",
+        "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
+      },
+      "artists": [
+        {
+          "name": "Sugarcult",
+          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
+        }
+      ],
+      "duration_ms": 226080,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
+    },
+    {
+      "added_at": "2023-07-25 14:04:38",
+      "album": {
         "name": "Commit This To Memory",
         "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 207633,
       "name": "Everything Is Alright",
       "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
-    },
-    {
-      "added_at": "2023-07-25 14:04:38",
-      "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 253946,
-      "name": "Brick by Boring Brick",
-      "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
     },
     {
       "added_at": "2023-07-25 14:04:38",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
-        "name": "Discovering The Waterfront",
-        "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 207586,
-      "name": "My Heroine",
-      "url": "https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw"
-    },
-    {
-      "added_at": "2023-07-25 14:04:38",
-      "album": {
         "name": "In Love and Death",
         "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 237680,
       "name": "F.C.P.R.E.M.I.X.",
       "url": "https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8"
+    },
+    {
+      "added_at": "2023-07-25 14:04:38",
+      "album": {
+        "name": "Discovering The Waterfront",
+        "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "My Heroine",
+      "url": "https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw"
     },
     {
       "added_at": "2023-07-25 14:04:38",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "Buried Myself Alive",
-      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
-    },
-    {
-      "added_at": "2023-07-25 14:04:38",
-      "album": {
         "name": "Is a Real Boy",
         "url": "https://open.spotify.com/album/67GbWmsrvtIdOOUYRo7do7"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "Buried Myself Alive",
+      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
+    },
+    {
+      "added_at": "2023-07-25 14:04:38",
+      "album": {
         "name": "Crisis",
         "url": "https://open.spotify.com/album/1eAMmJv65w0W2w50HDmTEw"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 270866,
       "name": "I Feel So",
       "url": "https://open.spotify.com/track/1Igy3egsujfV4WphlW0B7K"
+    },
+    {
+      "added_at": "2023-07-25 14:04:38",
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 217524,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
     },
     {
       "added_at": "2023-07-25 14:04:38",
@@ -1291,22 +1307,6 @@
       "duration_ms": 210333,
       "name": "About a Girl",
       "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
-    },
-    {
-      "added_at": "2023-07-25 14:04:38",
-      "album": {
-        "name": "Saosin",
-        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 217524,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
     },
     {
       "added_at": "2023-07-25 14:04:38",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
-        "name": "Let It Enfold You",
-        "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
+        "name": "No Really, I'm Fine (Standard Version)",
+        "url": "https://open.spotify.com/album/5H8tKeqYgYZsMX99hGSHoj"
       },
       "artists": [
         {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+          "name": "The Spill Canvas",
+          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
         }
       ],
-      "duration_ms": 179986,
-      "name": "Buried a Lie",
-      "url": "https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk"
+      "duration_ms": 202573,
+      "name": "All over You",
+      "url": "https://open.spotify.com/track/4b9jRNwMUvABxTD1amyfA6"
     },
     {
       "added_at": "2023-07-25 14:04:38",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
-        "name": "No Really, I'm Fine (Standard Version)",
-        "url": "https://open.spotify.com/album/5H8tKeqYgYZsMX99hGSHoj"
+        "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
       },
       "artists": [
         {
-          "name": "The Spill Canvas",
-          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 202573,
-      "name": "All over You",
-      "url": "https://open.spotify.com/track/4b9jRNwMUvABxTD1amyfA6"
+      "duration_ms": 179986,
+      "name": "Buried a Lie",
+      "url": "https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk"
     },
     {
       "added_at": "2023-07-25 14:04:38",

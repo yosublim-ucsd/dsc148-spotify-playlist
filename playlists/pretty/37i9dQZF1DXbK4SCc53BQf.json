@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 87635,
+  "num_followers": 87675,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjZiODJmNjY1NjVkZWQ3MGQ2YjM2YWI4NDA0ZDM2NDEzYmY1MzEz",
+  "snapshot_id": "MCwyZTBjN2FhNWJjMWZiNzc2OGRmN2I5MWFmYmQzN2E5YWFhNjQ4OTdh",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -131,18 +131,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Voy a Amarte",
-        "url": "https://open.spotify.com/album/18PfvYdVeeRdXLi9VbtK71"
+        "name": "Alex Campos y Sus Amigos (En Vivo)",
+        "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
       },
       "artists": [
         {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
         }
       ],
-      "duration_ms": 207360,
-      "name": "Voy a Amarte",
-      "url": "https://open.spotify.com/track/5bbOzB0tnW6aNPjt3gvFGi"
+      "duration_ms": 251013,
+      "name": "Si Estoy Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -163,6 +167,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Voy a Amarte",
+        "url": "https://open.spotify.com/album/18PfvYdVeeRdXLi9VbtK71"
+      },
+      "artists": [
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Voy a Amarte",
+      "url": "https://open.spotify.com/track/5bbOzB0tnW6aNPjt3gvFGi"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Coraz\u00f3n Abierto",
         "url": "https://open.spotify.com/album/1RcCNA4HKQZ7i8jVglRlW0"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 198008,
       "name": "De Fiesta",
       "url": "https://open.spotify.com/track/1rDfPvexeMOw83apb0f1S2"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Alex Campos y Sus Amigos (En Vivo)",
-        "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
-        }
-      ],
-      "duration_ms": 251013,
-      "name": "Si Estoy Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -239,22 +239,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Flaming Fire",
-        "url": "https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR"
-      },
-      "artists": [
-        {
-          "name": "Melvin Ayala",
-          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Que No Faltes Tu",
-      "url": "https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
         "url": "https://open.spotify.com/album/0ZuChxTZJfnV2rxfyweF8a"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 222506,
       "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
       "url": "https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Flaming Fire",
+        "url": "https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR"
+      },
+      "artists": [
+        {
+          "name": "Melvin Ayala",
+          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Que No Faltes Tu",
+      "url": "https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Al\u00e1bale Con Ritmo de Salsa",
         "url": "https://open.spotify.com/album/4cmpSr90A0JzyVtngmxoMr"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 282984,
       "name": "Tengo un Nuevo Amor - Salsa",
       "url": "https://open.spotify.com/track/6jtT0TU60r0ECBtRtNe335"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -403,22 +403,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Fiel",
-        "url": "https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 278891,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Chino \" De Viaje \" ..... Camino Al Cielo",
         "url": "https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 204013,
       "name": "Camino Al Cielo (Versi\u00f3n Merengue)",
       "url": "https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Fiel",
+        "url": "https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 278891,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -483,6 +483,26 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Eres Merecedor",
+        "url": "https://open.spotify.com/album/4zc7F9nicKZ6OWOedj0iGp"
+      },
+      "artists": [
+        {
+          "name": "Johnny Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/156azSG483Q5kBmIj8fzJL"
+        },
+        {
+          "name": "Abdi",
+          "url": "https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6"
+        }
+      ],
+      "duration_ms": 221393,
+      "name": "Eres Merecedor",
+      "url": "https://open.spotify.com/track/1f2xoS6RAsYlHSFSsbyFDR"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Me Llevas M\u00e1s Alto",
         "url": "https://open.spotify.com/album/6ZOw1bQKJpRWnAmyKkVhe2"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 199524,
       "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
       "url": "https://open.spotify.com/track/0KyNEJfDrKHOGSxsxCDM7v"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Eres Merecedor",
-        "url": "https://open.spotify.com/album/4zc7F9nicKZ6OWOedj0iGp"
-      },
-      "artists": [
-        {
-          "name": "Johnny Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/156azSG483Q5kBmIj8fzJL"
-        },
-        {
-          "name": "Abdi",
-          "url": "https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6"
-        }
-      ],
-      "duration_ms": 221393,
-      "name": "Eres Merecedor",
-      "url": "https://open.spotify.com/track/1f2xoS6RAsYlHSFSsbyFDR"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -847,22 +847,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "La Fe Que Dios Me Di\u00f3",
-        "url": "https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K"
-      },
-      "artists": [
-        {
-          "name": "Cesar Roncallo",
-          "url": "https://open.spotify.com/artist/0XiaBeWLxRwCckee0NN9zK"
-        }
-      ],
-      "duration_ms": 198599,
-      "name": "La Fe Que Dios Me Di\u00f3",
-      "url": "https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Vestida De Adoracion",
         "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 297580,
       "name": "Autor",
       "url": "https://open.spotify.com/track/6ENS573JVD3W6g8ykZ21TY"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "La Fe Que Dios Me Di\u00f3",
+        "url": "https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K"
+      },
+      "artists": [
+        {
+          "name": "Cesar Roncallo",
+          "url": "https://open.spotify.com/artist/0XiaBeWLxRwCckee0NN9zK"
+        }
+      ],
+      "duration_ms": 198599,
+      "name": "La Fe Que Dios Me Di\u00f3",
+      "url": "https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

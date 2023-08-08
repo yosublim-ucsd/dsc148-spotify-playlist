@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > carving their own lane\. cover: BAMBII
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,296 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,298 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 16 | [Olympian](https://open.spotify.com/track/0CAyfEyFk3Ux8fF02Av8xF) | [KANADA THE LOOP](https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta) | [Olympian](https://open.spotify.com/album/2svqZlPDI5XcyJLLDVtyYY) | 2:08 |
 | 17 | [Nostalgie](https://open.spotify.com/track/5Y6rAybIKWexRGx2DoLnmA) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Nostalgie](https://open.spotify.com/album/6VPoJ7iW330fKJ1mJsg2pt) | 3:16 |
 | 18 | [What You Done](https://open.spotify.com/track/5IouffaYEX67BICjTSCckE) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [What You Done](https://open.spotify.com/album/1Ov1O2B3CeuAmHhFG5f0yL) | 2:54 |
-| 19 | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/7bdv0SJlscsRqi6giDwcLp) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/album/7wyYuu1EwLTHzqJuDtqBnZ) | 2:38 |
+| 19 | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/0CpfrVubPZHWe1EB2qeo3D) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [German Engineering 1](https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP) | 2:38 |
 | 20 | [Mile End \- A COLORS SHOW](https://open.spotify.com/track/6mASxVYgPVdBdtAFxZZO21) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Mile End \- A COLORS SHOW](https://open.spotify.com/album/0KrUum0XYaw2JEErYAxLBE) | 2:33 |
 | 21 | [Potential](https://open.spotify.com/track/7apEq9wOCGf5Jjrad5FLkc) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Potential](https://open.spotify.com/album/1Gc5ogOOXhknM8F4JH8bdp) | 1:34 |
 | 22 | [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Phantom](https://open.spotify.com/track/4xfk99hBLqPwiTvY7BnSyH) | [Pacoussa](https://open.spotify.com/artist/65qRZyXgZqOtnGIW4WRGtL), [Dozie](https://open.spotify.com/artist/0BO6alk4Yiy0la7D5o4mcf) | [Phantom](https://open.spotify.com/album/6bYa0DYAxFWjG26ZOp4rDE) | 2:30 |
 | 100 | [Shibari](https://open.spotify.com/track/7sx0yE5ZDoQlJhDx6uwii1) | [Featurette](https://open.spotify.com/artist/53LcgV1grfplFF71oaW3E2) | [Shibari](https://open.spotify.com/album/3KmBCZN13tpwXxT6QJKgvf) | 2:31 |
 
-Snapshot ID: `MCxmZWIxZDU3NWQyZWNjMzE1OTE2NzAyY2JlNTczOGYzYzI4NDdjY2Jh`
+Snapshot ID: `MCw1MWYyNWE4ZjFjODcyYTAxZTU3ZjA0MTQyMTkzMjQzMWJkYjZmZGMz`

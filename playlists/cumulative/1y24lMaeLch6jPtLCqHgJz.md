@@ -4,7 +4,7 @@
 
 > The biggest festival music of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
-178 songs - 9 hr 17 min
+179 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Here And Now](https://open.spotify.com/track/6bCaAFSdevhK1Hw2ya6Cdz) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [Joffrey Lorquet](https://open.spotify.com/artist/2Qb0DQVMfYEGI2kUO9EvKR), [MiteX](https://open.spotify.com/artist/6HOEVqW2JrpV56Slza9BXq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Here And Now EP](https://open.spotify.com/album/00gWoK8sxHKCRqTwiKEogM) | 3:11 | 2023-07-11 |  |
 | [Here With You](https://open.spotify.com/track/312ScazNcrS408yUVIGrPC) | [Jordi Sans](https://open.spotify.com/artist/2aIdkBxgg1fhkWPiEXGqP0) | [Here With You](https://open.spotify.com/album/3KToxcWG2LFewyjNFLVfNb) | 3:56 | 2022-07-29 | 2022-12-03 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-06-02 |  |
+| [Hold Me First](https://open.spotify.com/track/6WnKly0LC1r7lwbcqGI2tv) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Hold Me First \(feat\. NEIMY\)](https://open.spotify.com/album/70eyTtM2zF52tdcNv3yBOQ) | 3:32 | 2023-08-07 |  |
 | [Hold On](https://open.spotify.com/track/5gSsEgOMT5yb7EkcK3szup) | [Sixth Sense](https://open.spotify.com/artist/1lxVdgguznSRDNVFl8c5up), [Jukx](https://open.spotify.com/artist/4Fr5kWGPuCG7vrupWGAayw), [Jetason](https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe) | [Hold On](https://open.spotify.com/album/4RaukH9AWEZgYPpNNMFeRc) | 2:54 | 2023-04-21 |  |
 | [Holding On To You](https://open.spotify.com/track/4ZX9REWz5sjCHK9otu21gU) | [NAEMS](https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO), [Rəind Səid](https://open.spotify.com/artist/3FWUEo0wsA53baxRi0T5lU), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Holding On To You](https://open.spotify.com/album/2ZWVWJYYasW9kVy0WglsYp) | 3:11 | 2022-07-29 | 2023-07-15 |
 | [Hot Summer Nights](https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Hot Summer Nights](https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ) | 2:38 | 2022-09-13 | 2023-04-22 |

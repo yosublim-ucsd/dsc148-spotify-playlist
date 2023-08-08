@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 
 > 雞年生的人謙虛謹慎、端莊尊貴，而且經常是眾人的注目焦點哦！看看有哪些歌手吧！Cover: 林俊傑 \(JJ Lin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,126 likes - 20 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,125 likes - 20 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 | 15 | [昨天的自己](https://open.spotify.com/track/5g4S0lQx3o4GsOAozUGRe8) | [Miu Chu](https://open.spotify.com/artist/06KOetaeFEz0gabCnqvCxz) | [昨天的自己](https://open.spotify.com/album/1oRkFvxgMUEX5ecBwuU2I4) | 3:40 |
 | 16 | [最好的快要發生 The Best Is Yet To Come](https://open.spotify.com/track/3Qd5t2oaRPvdY9eqZMvMWd) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [最好的快要發生 The Best Is Yet To Come](https://open.spotify.com/album/6rYiOZNY1SYIJ9pe2486d6) | 4:53 |
 | 17 | [愛麗絲 1993](https://open.spotify.com/track/7M3pHQYadidtWeJHYUQYC4) | [Eli Hsieh](https://open.spotify.com/artist/1g5sjKXQTGiui8u0iK4SeV) | [愛麗絲 Where Are We Going ?](https://open.spotify.com/album/46A9w8wd7ayKkHKck5GzSz) | 4:34 |
-| 18 | [我不祝福](https://open.spotify.com/track/5Ug1fHBI0dOwkRZlQpViPx) | [陶晶莹](https://open.spotify.com/artist/1nLHiAOrjLbc0Pju8elCu0) | [真的假的](https://open.spotify.com/album/0eg1sbVqtUcNZDrPnURNJO) | 4:24 |
+| 18 | [我不祝福](https://open.spotify.com/track/5Ug1fHBI0dOwkRZlQpViPx) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [真的假的](https://open.spotify.com/album/0eg1sbVqtUcNZDrPnURNJO) | 4:24 |
 | 19 | [孤單加一](https://open.spotify.com/track/03krOI81ch7PJtwjeI4yCC) | [Alan Kuo](https://open.spotify.com/artist/3LyN3dzJjv35T1XcDysnZG), [張棋惠](https://open.spotify.com/artist/0xXkBgF0Di5XDZhrsH3fU8) | [孤單加一](https://open.spotify.com/album/5zvL6Gb41vBZOyTMNkcLOt) | 3:42 |
 | 20 | [你最好知道](https://open.spotify.com/track/518BPZrrarmyuFCbw98eXv) | [Tizzy T](https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa) | [你最好知道](https://open.spotify.com/album/5VU4bln8RHBECYlTIhjOzU) | 3:17 |
 
-Snapshot ID: `MCwyMDg2MjJlNzJmNmUzM2ExNGFhMjgxZmM2MDgxZTA0MWY5ZDU3ZmU5`
+Snapshot ID: `MCxhYzljYWMyZWExODg2YmRlMGVlYzhkNDMxZWZmM2Y0OTcxMzNmZWFm`

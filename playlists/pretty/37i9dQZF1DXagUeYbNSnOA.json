@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring raquel. Updates every Wednesday.",
-  "num_followers": 171603,
+  "num_followers": 171609,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGZmMjVhZDc1Njc5MzliZjQ2YWMzMWUwY2U1MWY0ZjA3Nzk5YzZh",
+  "snapshot_id": "MCwzMWY1NzUwZmQ5M2MyNTRiOTI1NzYxNDhkMmRjMzI0NjFmNTk5ZjEw",
   "tracks": [
     {
       "added_at": "2023-08-02 14:47:54",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-08-02 14:47:54",
       "album": {
-        "name": "Una Temporada M\u00e1s",
-        "url": "https://open.spotify.com/album/1AqD5EurwXoswt2n4c4Ptl"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 179750,
-      "name": "Una Temporada M\u00e1s",
-      "url": "https://open.spotify.com/track/5SheSZIqwxXdcT8WmR8MuJ"
-    },
-    {
-      "added_at": "2023-08-02 14:47:54",
-      "album": {
         "name": "Se Acaba",
         "url": "https://open.spotify.com/album/5HQdNPcwZb1Rxe95vxEIdt"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 153000,
       "name": "Se Acaba",
       "url": "https://open.spotify.com/track/7FCvwds9Prp18YA3zYjeoT"
+    },
+    {
+      "added_at": "2023-08-02 14:47:54",
+      "album": {
+        "name": "Una Temporada M\u00e1s",
+        "url": "https://open.spotify.com/album/1AqD5EurwXoswt2n4c4Ptl"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Una Temporada M\u00e1s",
+      "url": "https://open.spotify.com/track/5SheSZIqwxXdcT8WmR8MuJ"
     },
     {
       "added_at": "2023-08-02 14:47:54",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-08-02 14:47:54",
       "album": {
-        "name": "Alguien",
-        "url": "https://open.spotify.com/album/2kKFoJ6V8vToRSgZLszdkd"
-      },
-      "artists": [
-        {
-          "name": "Poe Leos",
-          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Alguien",
-      "url": "https://open.spotify.com/track/1LlpsZ4SPhFHOuxUbQDJ7C"
-    },
-    {
-      "added_at": "2023-08-02 14:47:54",
-      "album": {
         "name": "Como dec\u00eda mi abuelita",
         "url": "https://open.spotify.com/album/3IilqpXO30qE4stfFhxsSg"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 143250,
       "name": "Como dec\u00eda mi abuelita",
       "url": "https://open.spotify.com/track/1332nmkcBfGWjgZd5kvEHJ"
+    },
+    {
+      "added_at": "2023-08-02 14:47:54",
+      "album": {
+        "name": "Alguien",
+        "url": "https://open.spotify.com/album/2kKFoJ6V8vToRSgZLszdkd"
+      },
+      "artists": [
+        {
+          "name": "Poe Leos",
+          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Alguien",
+      "url": "https://open.spotify.com/track/1LlpsZ4SPhFHOuxUbQDJ7C"
     },
     {
       "added_at": "2023-08-02 14:47:54",

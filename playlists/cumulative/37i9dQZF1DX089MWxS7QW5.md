@@ -2,7 +2,7 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & hottest K\-R&B is here\. \(Cover: LEAFY \(리피\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: LEAFY \(리피\)\)
 
 216 songs - 12 hr 16 min
 

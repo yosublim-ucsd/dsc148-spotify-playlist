@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 182912,
+  "num_followers": 182976,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDY3MDdkN2VmMGRjNTIyNGQ1Yjc0Y2FmZGQ1OTEyYmZiYWJkYTEw",
+  "snapshot_id": "MCw4YmNkNDdhY2NjMmQ3ZmM0NDhjZjZiN2Q1YzYxNDljNThjYzc2NGM1",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "a modern tragedy vol. 2",
+        "url": "https://open.spotify.com/album/6puy3Q1mjuizTB4i91Xorq"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 229531,
+      "name": "Darkside",
+      "url": "https://open.spotify.com/track/3JyvSSU0VnlMUsQckyEVfX"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "The Stories We Tell Ourselves",
         "url": "https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 228720,
       "name": "The Violence",
       "url": "https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "a modern tragedy vol. 2",
-        "url": "https://open.spotify.com/album/6puy3Q1mjuizTB4i91Xorq"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 229531,
-      "name": "Darkside",
-      "url": "https://open.spotify.com/track/3JyvSSU0VnlMUsQckyEVfX"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -447,6 +447,26 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "Obey (with YUNGBLUD)",
+        "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Obey (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "STRENGTH IN NUMB333RS",
         "url": "https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf"
       },
@@ -459,22 +479,6 @@
       "duration_ms": 232053,
       "name": "BURN IT",
       "url": "https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "We got it from Here... Thank You 4 Your service",
-        "url": "https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "We The People....",
-      "url": "https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -511,22 +515,18 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Obey (with YUNGBLUD)",
-        "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
+        "name": "We got it from Here... Thank You 4 Your service",
+        "url": "https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
         }
       ],
-      "duration_ms": 220538,
-      "name": "Obey (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu"
+      "duration_ms": 172013,
+      "name": "We The People....",
+      "url": "https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "a modern tragedy vol. 1",
-        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "Stick Up",
-      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "21st Century Liability",
         "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 193371,
       "name": "Machine Gun (F**k The NRA)",
       "url": "https://open.spotify.com/track/223Ng7eyUcCmFwX9lZdqjD"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "a modern tragedy vol. 1",
+        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Stick Up",
+      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Riot!",
+      "url": "https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "DOA [Feat. Joyner Lucas]",
         "url": "https://open.spotify.com/album/4mcoqib00QAFwabXPGH9kY"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 218571,
       "name": "DOA [Feat. Joyner Lucas]",
       "url": "https://open.spotify.com/track/78fUyqhfdpL5aaD12QSGCi"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
-      },
-      "artists": [
-        {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Riot!",
-      "url": "https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "21st Century Liability",
+        "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 189262,
+      "name": "21st Century Liability",
+      "url": "https://open.spotify.com/track/5tJd3cKHXsDlSq6vIV4Tgj"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/08iSi4GIyoDt2zSvNyru7M"
       },
@@ -819,38 +835,6 @@
       "duration_ms": 175466,
       "name": "The Disease",
       "url": "https://open.spotify.com/track/6XAwcgNG3ZC0IySBXYlqmi"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "21st Century Liability",
-        "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 189262,
-      "name": "21st Century Liability",
-      "url": "https://open.spotify.com/track/5tJd3cKHXsDlSq6vIV4Tgj"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
-      },
-      "artists": [
-        {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
-        }
-      ],
-      "duration_ms": 186475,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -903,6 +887,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "duration_ms": 186475,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "You Will Not Be Saved",
         "url": "https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Made An America",
-        "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 171809,
-      "name": "Walking In My Shoes",
-      "url": "https://open.spotify.com/track/7mqJvR6BgtGbOssGZAfdaP"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "20/20 Vision",
         "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 166893,
       "name": "Hate Conquers All",
       "url": "https://open.spotify.com/track/4FvkeESnHKUsqYHSzUF9Mv"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Made An America",
+        "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 171809,
+      "name": "Walking In My Shoes",
+      "url": "https://open.spotify.com/track/7mqJvR6BgtGbOssGZAfdaP"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "YUNGBLUD",
-        "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3"
+        "name": "Onyx (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6hOwvlbWvMxSg7qJgu31pb"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
         }
       ],
-      "duration_ms": 223043,
-      "name": "Polygraph Eyes",
-      "url": "https://open.spotify.com/track/1PlODCjGsbZRKlDljoBd4m"
+      "duration_ms": 257372,
+      "name": "Divide",
+      "url": "https://open.spotify.com/track/5nMKcCg8iL9syTYM3p63lS"
     }
   ],
   "unique_name": "Rise Up",

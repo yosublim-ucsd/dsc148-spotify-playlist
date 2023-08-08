@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Al Hob Al",
+        "url": "https://open.spotify.com/album/1JG05LPwvaHRp58FI4JgVY"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386153,
+      "name": "Al Hob Al",
+      "url": "https://open.spotify.com/track/4jbeCurXQEsNQjEUSVFkO6"
+    },
+    {
+      "album": {
         "name": "Ala Belady",
         "url": "https://open.spotify.com/album/6h09rNBEMVwW78WzZfxVk0"
       },
@@ -2309,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "El Waat Ye'addy",
+        "url": "https://open.spotify.com/album/2tX9ObmVM72PqXBBiU5I1U"
+      },
+      "artists": [
+        {
+          "name": "Nesma Mahgoub",
+          "url": "https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160677,
+      "name": "El Waat Ye'addy",
+      "url": "https://open.spotify.com/track/4vWmdNLtZzU3f0tlKvHWAc"
+    },
+    {
+      "album": {
         "name": "El Waet El Helo",
         "url": "https://open.spotify.com/album/1rMpu4AUSF7K4XfvG2M5cw"
       },
@@ -3388,6 +3424,24 @@
       "duration_ms": 167068,
       "name": "Haifa Wahby",
       "url": "https://open.spotify.com/track/3bKEBZ4UyMerreiZdEGN4Y"
+    },
+    {
+      "album": {
+        "name": "Hala Beek Ya Medala3",
+        "url": "https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167873,
+      "name": "Hala Beek Ya Medala3",
+      "url": "https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu"
     },
     {
       "album": {

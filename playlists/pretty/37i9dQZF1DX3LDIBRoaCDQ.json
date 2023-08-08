@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1522541,
+  "num_followers": 1522761,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWIxZGM3NmE4MjFiYWM3ZGYwNTYwYTYwNGFkNjI1ZmYwMjNhNjAy",
+  "snapshot_id": "MCw1MzgxMGQwYTY2MjUzMjc2M2I2ZjYyYzdlZTk4Y2IwNTllM2VlMTBi",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 209039,
-      "name": "Disorder - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "The Runaways",
         "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 138706,
       "name": "Cherry Bomb",
       "url": "https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Unknown Pleasures (Collector's Edition)",
+        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "End of the Century (Expanded 2005 Remaster)",
-        "url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "Rock 'n' Roll High School - 2002 Remaster",
-      "url": "https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "The Stooges",
         "url": "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 188560,
       "name": "I Wanna Be Your Dog",
       "url": "https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "End of the Century (Expanded 2005 Remaster)",
+        "url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "Rock 'n' Roll High School - 2002 Remaster",
+      "url": "https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Double Nickels on the Dime",
+        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
+      },
+      "artists": [
+        {
+          "name": "Minutemen",
+          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
+        }
+      ],
+      "duration_ms": 89666,
+      "name": "Viet Nam",
+      "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Los Angeles (2019 Remaster)",
         "url": "https://open.spotify.com/album/3OpKtGldm7NzZVVn1LFlYn"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Double Nickels on the Dime",
-        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
-      },
-      "artists": [
-        {
-          "name": "Minutemen",
-          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
-        }
-      ],
-      "duration_ms": 89666,
-      "name": "Viet Nam",
-      "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Spurts: The Richard Hell Story (2013 Remaster)",
         "url": "https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Marquee Moon",
-        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
-      },
-      "artists": [
-        {
-          "name": "Television",
-          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "See No Evil",
-      "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
         "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 280826,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Marquee Moon",
+        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
+      },
+      "artists": [
+        {
+          "name": "Television",
+          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "See No Evil",
+      "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "A Collection of Pop Classics",
-        "url": "https://open.spotify.com/album/3sLKWvosxuEgY4lHkdSDcJ"
-      },
-      "artists": [
-        {
-          "name": "Reagan Youth",
-          "url": "https://open.spotify.com/artist/5105k1OIV9BdhuB3rxtHYb"
-        }
-      ],
-      "duration_ms": 94440,
-      "name": "No Class",
-      "url": "https://open.spotify.com/track/4sw9hGICgvc4LICICNTCzI"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Damned Damned Damned",
         "url": "https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 162346,
       "name": "New Rose",
       "url": "https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "A Collection of Pop Classics",
+        "url": "https://open.spotify.com/album/3sLKWvosxuEgY4lHkdSDcJ"
+      },
+      "artists": [
+        {
+          "name": "Reagan Youth",
+          "url": "https://open.spotify.com/artist/5105k1OIV9BdhuB3rxtHYb"
+        }
+      ],
+      "duration_ms": 94440,
+      "name": "No Class",
+      "url": "https://open.spotify.com/track/4sw9hGICgvc4LICICNTCzI"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Weird World Volume 1",
-        "url": "https://open.spotify.com/album/5OFyoxqWQiI7MWlN867V9h"
-      },
-      "artists": [
-        {
-          "name": "The Weirdos",
-          "url": "https://open.spotify.com/artist/2XRBA6Nc5WTh9cTcvnqOge"
-        }
-      ],
-      "duration_ms": 139666,
-      "name": "Life of Crime",
-      "url": "https://open.spotify.com/track/4JGfjGq1ySrwFhwXPERGA2"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Young, Loud And Snotty",
         "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 167400,
       "name": "All This and More",
       "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Weird World Volume 1",
+        "url": "https://open.spotify.com/album/5OFyoxqWQiI7MWlN867V9h"
+      },
+      "artists": [
+        {
+          "name": "The Weirdos",
+          "url": "https://open.spotify.com/artist/2XRBA6Nc5WTh9cTcvnqOge"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Life of Crime",
+      "url": "https://open.spotify.com/track/4JGfjGq1ySrwFhwXPERGA2"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+        "name": "Peace Thru Vandalism (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3jLxf9rmNQePi1nCXtaunV"
       },
       "artists": [
         {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+          "name": "The Vandals",
+          "url": "https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6"
         }
       ],
-      "duration_ms": 130826,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
+      "duration_ms": 113888,
+      "name": "Anarchy Burger (Hold The Government)",
+      "url": "https://open.spotify.com/track/3QebYR26gRT9Bso2VSnUOR"
     }
   ],
   "unique_name": "Classic Punk",

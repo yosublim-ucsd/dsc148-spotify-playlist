@@ -2,7 +2,7 @@
 
 ### [Clásicos del Hip Hop Latino](https://open.spotify.com/playlist/37i9dQZF1DX7oE1ZquUHSd)
 
-> El poder real del Hip Hop latinoamericano y español\. Foto: Cartel de Santa
+> El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
 475 songs - 1 day 8 hr 18 min
 
@@ -267,7 +267,7 @@
 | [Mala Mia](https://open.spotify.com/track/4290uiFe7JLHcMP36LCImn) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS), [Deedee Range](https://open.spotify.com/artist/79bTILbGwMjHgZgjlk6Fab) | [Mala Mia](https://open.spotify.com/album/7Egus5kT0Bj7BPoPgDZFQh) | 2:41 | 2021-11-16 | 2022-06-29 |
 | [Mala Suerta con el 13 \(feat\. La Mala Rodríguez\)](https://open.spotify.com/track/6TB7BAFTmpkFNPpmhvqIxC) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Residente o Visitante](https://open.spotify.com/album/1Tng1uGqDjFgs6n4Ud25fH) | 4:30 | 2021-11-16 | 2022-06-15 |
 | [Manifiesto](https://open.spotify.com/track/7g8nyhHeBWEU4hu9kyHOfv) | [NavyPro](https://open.spotify.com/artist/6Ysfzk55ht9agXbF53guE3), [El Funky](https://open.spotify.com/artist/2dHyenXNc5AXYDCdSfROhm), [Raudel Escuadron](https://open.spotify.com/artist/73jXxnm9VJYLCilW9FSbQm), [Marichal](https://open.spotify.com/artist/32EsuPdeSfyHCSWU0CP91k), [Maykel Osorbo](https://open.spotify.com/artist/5UrnIgOA6WZvJnDmFd4G2u), [El Radikal](https://open.spotify.com/artist/3aTGljOOYs0aOprzgRsl15), [Barbaro el Urbano Vargas](https://open.spotify.com/artist/30KcX7N3zj7h1BTm1PyzQ3) | [Manifiesto](https://open.spotify.com/album/7n9NUHNh15GnxHlyOr8hOI) | 7:16 | 2021-11-16 | 2022-05-10 |
-| [Manos de Anillo](https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Manos de Anillo](https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU) | 3:45 | 2021-11-16 |  |
+| [Manos de Anillo](https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Manos de Anillo](https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU) | 3:45 | 2021-11-16 | 2023-08-08 |
 | [Manos de Anillo](https://open.spotify.com/track/569ldHEAjK5ctXzm0tjgmM) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Manos de Anillo](https://open.spotify.com/album/1xHRrfPm1iXe3F9E33m348) | 3:48 | 2021-11-16 | 2022-07-28 |
 | [Manos Vacías \(feat\. Lengualerta\)](https://open.spotify.com/track/3UJqoYlKz4eck2AIdpsTSb) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW) | [Postdata](https://open.spotify.com/album/6m2zfzGBMYO85UrwqR05Nj) | 3:43 | 2021-11-16 | 2022-07-21 |
 | [Mantequilla](https://open.spotify.com/track/7fmNllQGlGWsWSDvxnkYMc) | [La Corte](https://open.spotify.com/artist/4SBlgsYD1T6dUV17RDrEBN) | [Lo Mejor de la Corte..\. Directo de las Cloacas](https://open.spotify.com/album/1gpiLFC1o61cbk0CMdmuov) | 4:41 | 2021-11-16 | 2022-07-11 |
@@ -482,6 +482,6 @@
 | [Éxtasis \(feat\. Cartel de Santa\)](https://open.spotify.com/track/4xbMF8jx0msGGgrtJaAuXE) | [Millonario & W\. Corona](https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Así Soy Yo](https://open.spotify.com/album/6vTUJrl67jx0ijds0oYjBJ) | 4:49 | 2021-11-16 | 2022-07-29 |
 | [Ímpetu](https://open.spotify.com/track/4FPppGd7gS34WZi1Rjzw7v) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Ímpetu](https://open.spotify.com/album/51YzFfyFj9A9qJD0YxDzUs) | 3:05 | 2021-11-16 | 2022-07-05 |
 | [光 Luz](https://open.spotify.com/track/2dsPcMZKwBoJvmf7ycxQ6T) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [SERIO](https://open.spotify.com/album/2X9j2nmYKd8I4RGcShnlgC) | 4:44 | 2021-11-16 | 2022-07-25 |
-| [光 Luz](https://open.spotify.com/track/5aF2hoUHaU9GainPXIZDMV) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Serio](https://open.spotify.com/album/1rSmB2J6FBTsH9NOCV24xW) | 4:44 | 2021-11-16 | 2023-08-07 |
+| [光 Luz](https://open.spotify.com/track/5aF2hoUHaU9GainPXIZDMV) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Serio](https://open.spotify.com/album/1rSmB2J6FBTsH9NOCV24xW) | 4:44 | 2021-11-16 |  |
 
 \*This playlist was first scraped on 2022-01-24. Prior content cannot be recovered.

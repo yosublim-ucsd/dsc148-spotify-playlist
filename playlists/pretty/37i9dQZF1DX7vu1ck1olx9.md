@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,714 likes - 82 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,751 likes - 82 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 56 | [weak](https://open.spotify.com/track/2j2mQXcYfg3JUJ8aqBKk30) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [weak](https://open.spotify.com/album/2MBN7qRm9y1nFtgQN99tHA) | 1:11 |
 | 57 | [Act I](https://open.spotify.com/track/56Q5Wdwc0zILGWfdBzPfao) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V), [Hush Child](https://open.spotify.com/artist/3r46iM1vaXubb5us8YCDPa) | [Act I](https://open.spotify.com/album/5Zkht2CtX4CWk2b1UCxKXO) | 2:28 |
 | 58 | [The Soul of Things](https://open.spotify.com/track/0ZDNgOOkCqfJK4jrXGb8wj) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Granat Session Vol\. II](https://open.spotify.com/album/0JqAJeILF8gY4vOzmjUXkE) | 2:30 |
-| 59 | [Colorful Skies](https://open.spotify.com/track/1mVDTs9JE7sNEwH25jnxtP) | [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4), [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Colorful Skies](https://open.spotify.com/album/36jqommAS821e5J69RH4Bz) | 1:55 |
-| 60 | [keep on](https://open.spotify.com/track/33cmTU5f3QszwFl8s8Lua9) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [keep on](https://open.spotify.com/album/0b86iKkcVMOttxQ99GwXMa) | 2:20 |
-| 61 | [By Your Side](https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [By Your Side](https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W) | 2:23 |
+| 59 | [keep on](https://open.spotify.com/track/33cmTU5f3QszwFl8s8Lua9) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [keep on](https://open.spotify.com/album/0b86iKkcVMOttxQ99GwXMa) | 2:20 |
+| 60 | [By Your Side](https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [By Your Side](https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W) | 2:23 |
+| 61 | [Colorful Skies](https://open.spotify.com/track/1mVDTs9JE7sNEwH25jnxtP) | [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4), [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Colorful Skies](https://open.spotify.com/album/36jqommAS821e5J69RH4Bz) | 1:55 |
 | 62 | [Eternal Sunshine](https://open.spotify.com/track/3IjcC1K1Iu3Vv4KMQYL2tM) | [cryptic daylight](https://open.spotify.com/artist/0DMANJOl4cL9Q2uzGbk850), [Someone Else](https://open.spotify.com/artist/35Ir0ossYsmU5VHS1oVr8m), [Outertone Chill](https://open.spotify.com/artist/5r6vb5zhpo84wnn6rT5zLw) | [Eternal Sunshine](https://open.spotify.com/album/1Cj58FWzBJlgJS6HcEjKVo) | 2:08 |
 | 63 | [Suave](https://open.spotify.com/track/1PS3K87McFoH9jI9RAgmnr) | [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32) | [Suave](https://open.spotify.com/album/5txeC1tIBt4cbMNlS2dLR4) | 1:20 |
 | 64 | [Sunny in Saint Lucia](https://open.spotify.com/track/5L6RFPXEfm9YBCMUVEi3bE) | [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [Sunny in Saint Lucia](https://open.spotify.com/album/7yZLICBnXiNzpohnqGlLpT) | 3:06 |
@@ -81,14 +81,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 71 | [Nuz An Tara](https://open.spotify.com/track/60ka7YNcrwXJOqxdgmytaz) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Nuz An Tara](https://open.spotify.com/album/4zfqdXuhrSemPWGy4wX8ua) | 2:12 |
 | 72 | [Summer Rain](https://open.spotify.com/track/0TlDsAhqgVsO3TNBo0gTQ4) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [wavvzz](https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Summer Rain](https://open.spotify.com/album/4zfkuCcrDREsudeOPP8XNF) | 2:04 |
 | 73 | [NightSky](https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [NightSky](https://open.spotify.com/album/3i2d5SvAl9KbdvKDcbqwHu) | 3:04 |
-| 74 | [timestamp](https://open.spotify.com/track/0DP6ySJDVMTResFo9zAMqa) | [walzy](https://open.spotify.com/artist/0FdfALVZs2DXZB7WazJzOS), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [timestamp](https://open.spotify.com/album/1H1ze2V9V1NV9yEi6sdnOh) | 2:27 |
-| 75 | [Safehouse](https://open.spotify.com/track/0MObi1btcXOB5Yk3XrRA6T) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Safehouse](https://open.spotify.com/album/0aeSj329rAsSdeLDDsyP6q) | 2:39 |
+| 74 | [Safehouse](https://open.spotify.com/track/0MObi1btcXOB5Yk3XrRA6T) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Safehouse](https://open.spotify.com/album/0aeSj329rAsSdeLDDsyP6q) | 2:39 |
+| 75 | [timestamp](https://open.spotify.com/track/0DP6ySJDVMTResFo9zAMqa) | [walzy](https://open.spotify.com/artist/0FdfALVZs2DXZB7WazJzOS), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [timestamp](https://open.spotify.com/album/1H1ze2V9V1NV9yEi6sdnOh) | 2:27 |
 | 76 | [Dignity](https://open.spotify.com/track/3KdWOfRqIwRzDxuhw1vKzW) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 3:10 |
 | 77 | [Sonar](https://open.spotify.com/track/2WqVy95w7d9XloMp9zUsjG) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Sonar](https://open.spotify.com/album/2gppwhmAbBtAb7Qx3vzI7U) | 1:58 |
-| 78 | [walk in the park](https://open.spotify.com/track/0jA1qk1AX3vbNBcYhwbozw) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [walk in the park](https://open.spotify.com/album/2j5OCXoMRAomxm7idD0LzJ) | 3:00 |
-| 79 | [Sriracha](https://open.spotify.com/track/0fIjitxzKgOKRCptRrrPUD) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections 2](https://open.spotify.com/album/7IXZxRPdXWTBwoqjZUo8Vt) | 2:52 |
-| 80 | [Shelter](https://open.spotify.com/track/6ls8MehGgZkb3ERkAacm6q) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Shelter](https://open.spotify.com/album/7fSnzb7V35K2jhUf5ZHtX0) | 1:57 |
+| 78 | [Shelter](https://open.spotify.com/track/6ls8MehGgZkb3ERkAacm6q) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Shelter](https://open.spotify.com/album/7fSnzb7V35K2jhUf5ZHtX0) | 1:57 |
+| 79 | [walk in the park](https://open.spotify.com/track/0jA1qk1AX3vbNBcYhwbozw) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [walk in the park](https://open.spotify.com/album/2j5OCXoMRAomxm7idD0LzJ) | 3:00 |
+| 80 | [Sriracha](https://open.spotify.com/track/0fIjitxzKgOKRCptRrrPUD) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections 2](https://open.spotify.com/album/7IXZxRPdXWTBwoqjZUo8Vt) | 2:52 |
 | 81 | [High Street](https://open.spotify.com/track/5AplAWSZV1rgGnfInTZ9h1) | [Saveo](https://open.spotify.com/artist/7iOOQNJZu3tS9qKUyuI7FH) | [High Street](https://open.spotify.com/album/5TybLyhvKouj1PPwWW4vY1) | 2:53 |
 | 82 | [Pixels](https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W) | [Anatomy Park](https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Pixels](https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb) | 2:33 |
 
-Snapshot ID: `MCwxYWU0NzA1MjQ3NjY1Yjg1ZjhmNmFlMjAzODBmNTg3OTE4MjA0NDgz`
+Snapshot ID: `MCwyODAwZjYyYWQyYzU0YmMzNzM2Yzk5ZTY4YTM0ZmNkMWEyZGVlOWRh`

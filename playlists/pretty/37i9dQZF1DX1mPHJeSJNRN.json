@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 13608,
+  "num_followers": 13607,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzBiYzVjMjc5NzkwNGU1YjlhMGRkMjUzY2MxMTIwNGEwZDc5MzNi",
+  "snapshot_id": "MCwyZjc4YzYyYWIwZjE0ZmMwYmM0OGM3MjA0MjczZDk0NDc4NzE5YjQ1",
   "tracks": [
     {
       "added_at": "2023-06-22 07:18:24",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "Here I'll Stay",
+      "url": "https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 277720,
       "name": "Witch Craft",
       "url": "https://open.spotify.com/track/5c8oYApmLXrs4Ef4U32ldy"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "Here I'll Stay",
-      "url": "https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "A Lot of Livin' to Do",
-        "url": "https://open.spotify.com/album/38HaawgHqRmb74d90jOgWk"
-      },
-      "artists": [
-        {
-          "name": "Benny Benack III",
-          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
-        }
-      ],
-      "duration_ms": 225520,
-      "name": "Won't You Be My Neighbor",
-      "url": "https://open.spotify.com/track/27xNoZ0xc661Bq8i3jX1rG"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "A Seasonal Thing...SPRING",
         "url": "https://open.spotify.com/album/1xMRqAMTmnukGyibwnzVsc"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 303850,
       "name": "It's Not Easy Being Green",
       "url": "https://open.spotify.com/track/7jKskHwsl2QtLamOtaLRkb"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "A Lot of Livin' to Do",
+        "url": "https://open.spotify.com/album/38HaawgHqRmb74d90jOgWk"
+      },
+      "artists": [
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        }
+      ],
+      "duration_ms": 225520,
+      "name": "Won't You Be My Neighbor",
+      "url": "https://open.spotify.com/track/27xNoZ0xc661Bq8i3jX1rG"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "The Complete Bill Evans On Verve",
-        "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "In Love Again",
         "url": "https://open.spotify.com/album/4mvkItBFlkQ2BUxi4kPaKl"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 177586,
       "name": "My Heart Stood Still",
       "url": "https://open.spotify.com/track/5q91yKtiubyJEFaaEvDJCD"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "The Complete Bill Evans On Verve",
+        "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
+        "name": "Dare That Dream",
+        "url": "https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB"
+      },
+      "artists": [
+        {
+          "name": "Estelle Perrault",
+          "url": "https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP"
+        }
+      ],
+      "duration_ms": 256972,
+      "name": "You Must Believe In Spring",
+      "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
         "name": "The Art Of Elegance",
         "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 174813,
       "name": "I\u2019ve Got A Crush On You",
       "url": "https://open.spotify.com/track/3OQratgAjUQhiDyku1RJEg"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
-        "name": "Dare That Dream",
-        "url": "https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB"
-      },
-      "artists": [
-        {
-          "name": "Estelle Perrault",
-          "url": "https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP"
-        }
-      ],
-      "duration_ms": 256972,
-      "name": "You Must Believe In Spring",
-      "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
+        "name": "Caity Gyorgy Quartet",
+        "url": "https://open.spotify.com/album/0ArclBDeEc5gdeyAmsAawm"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Kyle Tarder-Stoll",
+          "url": "https://open.spotify.com/artist/2sPvH1xPHE8Ci36oCV7drd"
+        }
+      ],
+      "duration_ms": 347088,
+      "name": "I've Never Been in Love Before",
+      "url": "https://open.spotify.com/track/7rW3ZdTpDACUHz6gPr8frT"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
       },
@@ -1791,34 +1811,6 @@
       "duration_ms": 192726,
       "name": "Keep It in Your Dreams",
       "url": "https://open.spotify.com/track/568TTAaxWs5vG3IdmcI0RD"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
-        "name": "The Show Must Go On",
-        "url": "https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo"
-      },
-      "artists": [
-        {
-          "name": "Johanna Pettersson",
-          "url": "https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0"
-        },
-        {
-          "name": "Filip Ekestubbe",
-          "url": "https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX"
-        },
-        {
-          "name": "Tomas Sj\u00f6dell",
-          "url": "https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv"
-        },
-        {
-          "name": "Adam Ross",
-          "url": "https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Dont Rain on My Parade",
-      "url": "https://open.spotify.com/track/20IvaJ03BcSyUqGonmpRCm"
     }
   ],
   "unique_name": "Spring Jazz",

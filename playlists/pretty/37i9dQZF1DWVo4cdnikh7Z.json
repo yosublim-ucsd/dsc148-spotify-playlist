@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Jailer",
-  "num_followers": 558044,
+  "num_followers": 558581,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTM1NmQzNDViNTYzOGE1YzUxMzZkZTNmYWI3MmVjM2ViYmM5Y2Y4",
+  "snapshot_id": "MCxiYTllNjA3ZjE2MzA0OTFkZmJhOGY5MmI0ZDFiMTg0Zjc2NDQ4OTBj",
   "tracks": [
     {
       "added_at": "2023-07-17 12:34:23",
@@ -76,12 +76,16 @@
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "Anantha Krishnan",
+          "url": "https://open.spotify.com/artist/1QUZNBTnYZQCAaGRub8Ugj"
         },
         {
           "name": "Dhee",
           "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
           "name": "Super Subu",
@@ -127,6 +131,30 @@
       "duration_ms": 230741,
       "name": "His Name is John (From \"Dhruva Natchathiram\")",
       "url": "https://open.spotify.com/track/4ZMLhESqrX6ng6thaZ4M4a"
+    },
+    {
+      "added_at": "2023-08-07 08:05:08",
+      "album": {
+        "name": "Adiyaathi (From \"Paramporul\")",
+        "url": "https://open.spotify.com/album/0X9tPPMqS5IsOnunYzcMPY"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Snehan",
+          "url": "https://open.spotify.com/artist/7uekXH8SqDlOL2SLPvEYIx"
+        }
+      ],
+      "duration_ms": 202991,
+      "name": "Adiyaathi - From \"Paramporul\"",
+      "url": "https://open.spotify.com/track/0sXGEJoOeNhzpMBKYKtDoO"
     },
     {
       "added_at": "2023-07-06 13:03:00",
@@ -557,50 +585,6 @@
       "url": "https://open.spotify.com/track/7GVTu3LkZIOVrAAm8wCrj5"
     },
     {
-      "added_at": "2023-07-31 14:30:16",
-      "album": {
-        "name": "Lockdown Diarie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0yr44Nhdsi1upkUPqPgFh6"
-      },
-      "artists": [
-        {
-          "name": "Suresh Peters",
-          "url": "https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45"
-        },
-        {
-          "name": "Jolly Bastian",
-          "url": "https://open.spotify.com/artist/0ROMeWcMBAKYW9Fpp9NVep"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Lockdown",
-      "url": "https://open.spotify.com/track/1e0zLkPEItTQyRUk3Q0p6N"
-    },
-    {
-      "added_at": "2023-08-02 10:21:13",
-      "album": {
-        "name": "Oru Ezhai Deivam (From \"Kakkan\")",
-        "url": "https://open.spotify.com/album/0UkAWX0C7Flek0j0mBiBoo"
-      },
-      "artists": [
-        {
-          "name": "Velmurugan",
-          "url": "https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi"
-        },
-        {
-          "name": "Deva",
-          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
-        },
-        {
-          "name": "Ekadesi",
-          "url": "https://open.spotify.com/artist/2UgsCwpYI65SnAwpaokb9c"
-        }
-      ],
-      "duration_ms": 324642,
-      "name": "Oru Ezhai Deivam (From \"Kakkan\")",
-      "url": "https://open.spotify.com/track/4ZBYvNfwE0E1FhvZScXOcX"
-    },
-    {
       "added_at": "2023-07-28 14:27:52",
       "album": {
         "name": "Kalaattaakaaran [From \"King of Kotha (Tamil)\"]",
@@ -623,42 +607,6 @@
       "duration_ms": 251999,
       "name": "Kalaattaakaaran (From \"King of Kotha (Tamil)\")",
       "url": "https://open.spotify.com/track/32utgUIiT8GbtwsUTqUzFy"
-    },
-    {
-      "added_at": "2023-08-01 11:14:12",
-      "album": {
-        "name": "Tata Tata [From \"Dinosaurs (DieNoSirs)\"] [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/1FHipndBYK3W50mEOH9o5h"
-      },
-      "artists": [
-        {
-          "name": "Bobo Sasii",
-          "url": "https://open.spotify.com/artist/4qyItosGZOjxZc6OsA2o7G"
-        }
-      ],
-      "duration_ms": 284313,
-      "name": "Tata Tata [From \"Dinosaurs (DieNoSirs)\"]",
-      "url": "https://open.spotify.com/track/2XElT5AtNY1U7GonW39MSz"
-    },
-    {
-      "added_at": "2023-07-22 04:54:39",
-      "album": {
-        "name": "Is Kis Kifa (From \"LGM\")",
-        "url": "https://open.spotify.com/album/1iC61HBQ0UojqSIJoO696N"
-      },
-      "artists": [
-        {
-          "name": "Ramesh Thamilmani",
-          "url": "https://open.spotify.com/artist/1DPRhvqBKE7SL5QJJmK08W"
-        },
-        {
-          "name": "Madhan Karky",
-          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
-        }
-      ],
-      "duration_ms": 172622,
-      "name": "Is Kis Kifa (From \"LGM\")",
-      "url": "https://open.spotify.com/track/27m3FcbwmIox7Bls1ypQ46"
     },
     {
       "added_at": "2023-07-12 12:45:53",

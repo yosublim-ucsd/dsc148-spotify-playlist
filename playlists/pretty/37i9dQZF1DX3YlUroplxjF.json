@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 461869,
+  "num_followers": 461959,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDlhZGRiZDcxYjIxNDhhMzJhMDhjYWViYWE3OWE4ZjBmNzQwZGRk",
+  "snapshot_id": "MCxjMjM0MDY0Y2IyMWE4ZWY2ZWI5ZDYzOGMzNTg1ODYxMWVhMjA3NDk3",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "THE DEATH OF PEACE OF MIND",
+        "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 210685,
+      "name": "Like A Villain",
+      "url": "https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -147,22 +163,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Ghost in My Home",
-        "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 200189,
-      "name": "Ghost in My Home",
-      "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Vie",
         "url": "https://open.spotify.com/album/67uI83VDTFiMPYJazZgzaO"
       },
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "THE DEATH OF PEACE OF MIND",
-        "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
+        "name": "Ghost in My Home",
+        "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
       },
       "artists": [
         {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
         }
       ],
-      "duration_ms": 210685,
-      "name": "Like A Villain",
-      "url": "https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg"
+      "duration_ms": 200189,
+      "name": "Ghost in My Home",
+      "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -259,26 +259,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Brand New Vision",
-        "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Into The Dark (feat. Kellin Quinn)",
-      "url": "https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Finding God Before God Finds Me (Deluxe)",
         "url": "https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 227266,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Brand New Vision",
+        "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Into The Dark (feat. Kellin Quinn)",
+      "url": "https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Sudden Sky",
-        "url": "https://open.spotify.com/album/2L6KNKYHaXNPj4lXHSp5vb"
-      },
-      "artists": [
-        {
-          "name": "Crown The Empire",
-          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
-        }
-      ],
-      "duration_ms": 200384,
-      "name": "BLURRY (out of place)",
-      "url": "https://open.spotify.com/track/14uAFiZ94iMTeEpXq1cLCi"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Like A House On Fire",
         "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 261398,
       "name": "Come Undone",
       "url": "https://open.spotify.com/track/4ztGu78QFB9Syh7JcS09XR"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Sudden Sky",
+        "url": "https://open.spotify.com/album/2L6KNKYHaXNPj4lXHSp5vb"
+      },
+      "artists": [
+        {
+          "name": "Crown The Empire",
+          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
+        }
+      ],
+      "duration_ms": 200384,
+      "name": "BLURRY (out of place)",
+      "url": "https://open.spotify.com/track/14uAFiZ94iMTeEpXq1cLCi"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "How It Feels to Be Lost (Deluxe)",
-        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 182679,
-      "name": "Agree to Disagree",
-      "url": "https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 236050,
       "name": "Lyrics Lie",
       "url": "https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 182679,
+      "name": "Agree to Disagree",
+      "url": "https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "11 Minutes",
-        "url": "https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO"
-      },
-      "artists": [
-        {
-          "name": "Picturesque",
-          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "11 Minutes",
-      "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "wonderful life (feat. Dani Filth)",
         "url": "https://open.spotify.com/album/1uunFc8ZPthd7kFXaf393T"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 274403,
       "name": "wonderful life (feat. Dani Filth)",
       "url": "https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "11 Minutes",
+        "url": "https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO"
+      },
+      "artists": [
+        {
+          "name": "Picturesque",
+          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "11 Minutes",
+      "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Before I Cave In",
-        "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
-      },
-      "artists": [
-        {
-          "name": "Too Close To Touch",
-          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "Before I Cave In",
-      "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Nothing is True & Everything is Possible",
         "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 226900,
       "name": "satellites* *",
       "url": "https://open.spotify.com/track/4MJcimcruJ4GkDsmVaHR3V"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Before I Cave In",
+        "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
+      },
+      "artists": [
+        {
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "Before I Cave In",
+      "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Restless Heart, Keep Running",
-        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "Stars Before The Sun",
-      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/5Icvhj9ZzhnOkgrkhb67a1"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 224453,
       "name": "Pray",
       "url": "https://open.spotify.com/track/1DuYS5IWAl7fk4sottVMyZ"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Restless Heart, Keep Running",
+        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Stars Before The Sun",
+      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Misery Made Me",
-        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/4TbQTssne2OMNMureg9Qtt"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Damned Soul",
         "url": "https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 217146,
       "name": "Moonlit",
       "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Misery Made Me",
+        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/4TbQTssne2OMNMureg9Qtt"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/41aWOCOKzixf8tmnc79Wdi"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 226309,
+      "name": "Afterlife - Single Edit",
+      "url": "https://open.spotify.com/track/5EP4iTqknNPDQsbXrc6Ab3"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Stand Up",
         "url": "https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5"
       },
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/41aWOCOKzixf8tmnc79Wdi"
+        "name": "Sweet Dreams of Otherness",
+        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
       },
       "artists": [
         {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 226309,
-      "name": "Afterlife - Single Edit",
-      "url": "https://open.spotify.com/track/5EP4iTqknNPDQsbXrc6Ab3"
+      "duration_ms": 284093,
+      "name": "Sweet Dreams of Otherness",
+      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Sweet Dreams of Otherness",
-        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "Sweet Dreams of Otherness",
-      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Disease (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Barely Alive",
-        "url": "https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W"
-      },
-      "artists": [
-        {
-          "name": "Savage Hands",
-          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
-        }
-      ],
-      "duration_ms": 213934,
-      "name": "Red",
-      "url": "https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 219900,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Barely Alive",
+        "url": "https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W"
+      },
+      "artists": [
+        {
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+        }
+      ],
+      "duration_ms": 213934,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS"
     }
   ],
   "unique_name": "Crash Course",

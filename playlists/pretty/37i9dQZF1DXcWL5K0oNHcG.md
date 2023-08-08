@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Shunaji Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,497 likes - 75 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,527 likes - 75 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Spunky](https://open.spotify.com/track/0V9UpZ9vnrssMEUqma64en) | [Conrad Schwenke Quartett](https://open.spotify.com/artist/5HSogDeVBlBOlWUkcAJoSx) | [Spunky](https://open.spotify.com/album/6G2n8F5OrMpY7W9W7CEaGh) | 5:51 |
 | 75 | [Nash](https://open.spotify.com/track/3v4frMlLHje5Vy9ZDOXBRy) | [Sawtooth](https://open.spotify.com/artist/0o65VjgHzvH72b5Bdhv1B8) | [Nash](https://open.spotify.com/album/2ud074dc1vr342FCevGj3B) | 2:22 |
 
-Snapshot ID: `MCw4NDIzYjYwZDIyMDYyOTVlYTY2NjA2MjMxMzQ4NTIzNjQ2ZjFjM2Mz`
+Snapshot ID: `MCw4NzI0NTMwY2JhMGI2ZmVlMGI3MTViNWU5NTQ3NmM0ZWYyMzIyOGUx`

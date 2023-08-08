@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 7603,
+  "num_followers": 7627,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTU1YWJiNzA4ZmU1ZDY0NWY3NjcyYzkwMWQ3MjM0ZDAwNGEzNWRm",
+  "snapshot_id": "MCw5ZTM0ZDg4OTcwZjM1Y2M2Y2JhYTgyOTJlN2RkZDc1ZmMwYTU1Nzcx",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -263,22 +263,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Sing Like Never Before: The Essential Collection",
-        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 348893,
-      "name": "Blessed Be Your Name",
-      "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Worship",
         "url": "https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 276773,
       "name": "Above All",
       "url": "https://open.spotify.com/track/3JSxKlxWTriK218L3yqoLN"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Sing Like Never Before: The Essential Collection",
+        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 348893,
+      "name": "Blessed Be Your Name",
+      "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -323,6 +323,22 @@
       "duration_ms": 93786,
       "name": "I've Got Peace Like A River",
       "url": "https://open.spotify.com/track/2CuTb9Tks9eeAmjHGm5vAC"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "8 Great Hits dc Talk",
+        "url": "https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U"
+      },
+      "artists": [
+        {
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+        }
+      ],
+      "duration_ms": 287173,
+      "name": "Jesus Freak",
+      "url": "https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -383,22 +399,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5YEwF7ET8aobfKYu0AUwgA"
-      },
-      "artists": [
-        {
-          "name": "Darrell Evans",
-          "url": "https://open.spotify.com/artist/049i3NJRKyn0tQPNTwrKYO"
-        }
-      ],
-      "duration_ms": 361173,
-      "name": "Trading My Sorrows (Yes Lord)",
-      "url": "https://open.spotify.com/track/4lD8ygUjwpsMvnHgJaSJBC"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "All Of My Best Friends",
         "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
@@ -415,18 +415,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "8 Great Hits dc Talk",
-        "url": "https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5YEwF7ET8aobfKYu0AUwgA"
       },
       "artists": [
         {
-          "name": "DC Talk",
-          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+          "name": "Darrell Evans",
+          "url": "https://open.spotify.com/artist/049i3NJRKyn0tQPNTwrKYO"
         }
       ],
-      "duration_ms": 287173,
-      "name": "Jesus Freak",
-      "url": "https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK"
+      "duration_ms": 361173,
+      "name": "Trading My Sorrows (Yes Lord)",
+      "url": "https://open.spotify.com/track/4lD8ygUjwpsMvnHgJaSJBC"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -483,6 +483,26 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Love Won't Let Me Down",
+      "url": "https://open.spotify.com/track/2NssSayyXceWY40zguZjeq"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "Timeless Treasures: Open the Eyes of My Heart Lord",
         "url": "https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 147400,
       "name": "Shine, Jesus Shine",
       "url": "https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Love Won't Let Me Down",
-      "url": "https://open.spotify.com/track/2NssSayyXceWY40zguZjeq"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Louder",
-      "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "We Are Young & Free (Live)",
         "url": "https://open.spotify.com/album/2WUtIkuLnF3EndnswpqEvJ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 227600,
       "name": "Alive - Studio Version",
       "url": "https://open.spotify.com/track/1li9zybQQ8XX9J8mNsTr8u"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -735,6 +735,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Ultimate Kids Worship",
+        "url": "https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd"
+      },
+      "artists": [
+        {
+          "name": "Shout Praises Kids",
+          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
+        }
+      ],
+      "duration_ms": 232489,
+      "name": "Nothing Is Impossible",
+      "url": "https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 180000,
       "name": "My Strength (feat. Emily Hearn)",
       "url": "https://open.spotify.com/track/02GQZBMcL90iqQA2CDtgHm"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Ultimate Kids Worship",
-        "url": "https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd"
-      },
-      "artists": [
-        {
-          "name": "Shout Praises Kids",
-          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
-        }
-      ],
-      "duration_ms": 232489,
-      "name": "Nothing Is Impossible",
-      "url": "https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG"
     },
     {
       "added_at": "2021-06-29 13:36:02",

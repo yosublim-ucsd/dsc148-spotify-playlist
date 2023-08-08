@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 57762,
+  "num_followers": 57796,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjE0NjE5MjhhZmU4YjFmOWM1MTBlODUwYTBlNDcxYzE4NzlhZTZi",
+  "snapshot_id": "MCxlNThlNGU0ZGE5N2Q5YzRmYTgyOWE3OTM2NDQ5ZjA5NmU0YjdlNzE4",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Cabe\u00e7a, Ombro, Joelho e P\u00e9",
+        "url": "https://open.spotify.com/album/1F1pwnUBYMI9vFVpIQF97W"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "duration_ms": 132240,
+      "name": "Cabe\u00e7a, Ombro, Joelho e P\u00e9",
+      "url": "https://open.spotify.com/track/3lRfG9FccT67tuGboXeEZs"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Minha Vida \u00c9 uma Viagem 5",
         "url": "https://open.spotify.com/album/2DCbdwhK6SoBW9XawSSrbK"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 185585,
       "name": "N\u00e3o Temos Medo do Fogo",
       "url": "https://open.spotify.com/track/3tnh93byTIcpyhZYsLN93O"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Mara Lima e Seus Amiguinhos, Vol. 6",
-        "url": "https://open.spotify.com/album/1cAgUMSQibfGNArPNRIJKn"
-      },
-      "artists": [
-        {
-          "name": "Mara Lima",
-          "url": "https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV"
-        }
-      ],
-      "duration_ms": 203885,
-      "name": "A Alegria Est\u00e1 no Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/61PU43JNFgjn1zuAaAz96d"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -139,18 +139,34 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Cabe\u00e7a, Ombro, Joelho e P\u00e9",
-        "url": "https://open.spotify.com/album/1F1pwnUBYMI9vFVpIQF97W"
+        "name": "Crian\u00e7as Diante do Trono",
+        "url": "https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk"
       },
       "artists": [
         {
-          "name": "3 Palavrinhas",
-          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+          "name": "Crian\u00e7as Diante do Trono",
+          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
         }
       ],
-      "duration_ms": 132240,
-      "name": "Cabe\u00e7a, Ombro, Joelho e P\u00e9",
-      "url": "https://open.spotify.com/track/3lRfG9FccT67tuGboXeEZs"
+      "duration_ms": 310106,
+      "name": "O Amor do Nosso Deus",
+      "url": "https://open.spotify.com/track/2gvn5QvlQdnE2T06ErTaer"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Mara Lima e Seus Amiguinhos, Vol. 6",
+        "url": "https://open.spotify.com/album/1cAgUMSQibfGNArPNRIJKn"
+      },
+      "artists": [
+        {
+          "name": "Mara Lima",
+          "url": "https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV"
+        }
+      ],
+      "duration_ms": 203885,
+      "name": "A Alegria Est\u00e1 no Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/61PU43JNFgjn1zuAaAz96d"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -171,22 +187,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Crian\u00e7as Diante do Trono",
-        "url": "https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk"
-      },
-      "artists": [
-        {
-          "name": "Crian\u00e7as Diante do Trono",
-          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
-        }
-      ],
-      "duration_ms": 310106,
-      "name": "O Amor do Nosso Deus",
-      "url": "https://open.spotify.com/track/2gvn5QvlQdnE2T06ErTaer"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Trio R3 Kids",
         "url": "https://open.spotify.com/album/3iXWPgtTT7O1t7e5eZoDmf"
       },
@@ -199,6 +199,22 @@
       "duration_ms": 202743,
       "name": "A Alegria Est\u00e1 no Cora\u00e7\u00e3o / Celebrai / Solta o Cabo da Nau",
       "url": "https://open.spotify.com/track/7FNueAtAXOl1aImDlO9jO0"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Minha Pequena Luz",
+        "url": "https://open.spotify.com/album/6CnrRYF7ONjhhmCVzjRkg9"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "duration_ms": 122626,
+      "name": "Minha Pequena Luz",
+      "url": "https://open.spotify.com/track/1fr5LcT7TguvSZJRlNQNNv"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -251,22 +267,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Minha Pequena Luz",
-        "url": "https://open.spotify.com/album/6CnrRYF7ONjhhmCVzjRkg9"
-      },
-      "artists": [
-        {
-          "name": "3 Palavrinhas",
-          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
-        }
-      ],
-      "duration_ms": 122626,
-      "name": "Minha Pequena Luz",
-      "url": "https://open.spotify.com/track/1fr5LcT7TguvSZJRlNQNNv"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Turminha da Cristina Mel - Fazendo a Diferen\u00e7a",
         "url": "https://open.spotify.com/album/6T5y5A3YoPNXQsUu7OlAaX"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 189939,
       "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
       "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Caminhando Vou Para Cana\u00e3",
+        "url": "https://open.spotify.com/album/051Ck9PEoQhBlON1mnw0gN"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "duration_ms": 137320,
+      "name": "Caminhando Vou Para Cana\u00e3",
+      "url": "https://open.spotify.com/track/1gjyW1dkU6SfYlo6dwByJz"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -367,38 +383,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Brincando de Escolinha",
-        "url": "https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja"
-      },
-      "artists": [
-        {
-          "name": "Vaneyse",
-          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
-        }
-      ],
-      "duration_ms": 186224,
-      "name": "Hit da Formiguinha",
-      "url": "https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Caminhando Vou Para Cana\u00e3",
-        "url": "https://open.spotify.com/album/051Ck9PEoQhBlON1mnw0gN"
-      },
-      "artists": [
-        {
-          "name": "3 Palavrinhas",
-          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
-        }
-      ],
-      "duration_ms": 137320,
-      "name": "Caminhando Vou Para Cana\u00e3",
-      "url": "https://open.spotify.com/track/1gjyW1dkU6SfYlo6dwByJz"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Crian\u00e7a Nota 10",
         "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Brincando de Escolinha",
+        "url": "https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja"
+      },
+      "artists": [
+        {
+          "name": "Vaneyse",
+          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
+        }
+      ],
+      "duration_ms": 186224,
+      "name": "Hit da Formiguinha",
+      "url": "https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Bruna Kids",
         "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
       },
@@ -463,6 +463,22 @@
       "duration_ms": 196270,
       "name": "Fam\u00edlia Perfeita",
       "url": "https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Toc Toc Toc - Baby Fun (Remix)",
+        "url": "https://open.spotify.com/album/1g7vUqTtKS2DzSRn3lugll"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "duration_ms": 137639,
+      "name": "Toc Toc Toc - Baby Fun - Remix",
+      "url": "https://open.spotify.com/track/6KjIPIOhwSHq2K4ItYRDJb"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -515,26 +531,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Medley das Crian\u00e7as",
-        "url": "https://open.spotify.com/album/6kA8eLY4fy4LqYmQVWD3tH"
-      },
-      "artists": [
-        {
-          "name": "Vaneyse",
-          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
-        },
-        {
-          "name": "Galo Jac\u00f3",
-          "url": "https://open.spotify.com/artist/6JDieX8x5rmjocsN3Rxs2L"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "Medley das Crian\u00e7as",
-      "url": "https://open.spotify.com/track/04lDkeEi5mxKfXkBXcmrAQ"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Com Jesus",
         "url": "https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60"
       },
@@ -551,18 +547,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Toc Toc Toc - Baby Fun (Remix)",
-        "url": "https://open.spotify.com/album/1g7vUqTtKS2DzSRn3lugll"
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk"
       },
       "artists": [
         {
-          "name": "3 Palavrinhas",
-          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+          "name": "Talitha Franco",
+          "url": "https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
         }
       ],
-      "duration_ms": 137639,
-      "name": "Toc Toc Toc - Baby Fun - Remix",
-      "url": "https://open.spotify.com/track/6KjIPIOhwSHq2K4ItYRDJb"
+      "duration_ms": 188061,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -587,22 +587,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Tic Tac",
-        "url": "https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk"
+        "name": "Medley das Crian\u00e7as",
+        "url": "https://open.spotify.com/album/6kA8eLY4fy4LqYmQVWD3tH"
       },
       "artists": [
         {
-          "name": "Talitha Franco",
-          "url": "https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq"
+          "name": "Vaneyse",
+          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
         },
         {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+          "name": "Galo Jac\u00f3",
+          "url": "https://open.spotify.com/artist/6JDieX8x5rmjocsN3Rxs2L"
         }
       ],
-      "duration_ms": 188061,
-      "name": "Tic Tac",
-      "url": "https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx"
+      "duration_ms": 252493,
+      "name": "Medley das Crian\u00e7as",
+      "url": "https://open.spotify.com/track/04lDkeEi5mxKfXkBXcmrAQ"
     },
     {
       "added_at": "2023-07-28 03:00:00",

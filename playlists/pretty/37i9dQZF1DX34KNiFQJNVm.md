@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem IZA, Luan Santana, Jorge & Mateus, Chefin, Juliette e Marina Sena e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,901,904 likes - 99 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,902,076 likes - 99 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 18 | [Querendo Mais \- Ao Vivo](https://open.spotify.com/track/6962LFd5bjJJ8gxL4wz6WG) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Querendo Mais \(Ao Vivo\)](https://open.spotify.com/album/0EprvIKwgELetTgmauNnyp) | 2:38 |
 | 19 | [Meu Fake Viu \- Ao Vivo](https://open.spotify.com/track/3pHhPKwbl9febQFidwyyu7) | [Bruno Rosa](https://open.spotify.com/artist/0SPHfj49UeOgHKwSYcn8xZ), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Meu Fake Viu \(Ao Vivo\)](https://open.spotify.com/album/1vqKzMezhZxuMhVTy2T2Vr) | 2:51 |
 | 20 | [Errei Errado](https://open.spotify.com/track/6wDAKNXARexcFFZwuOwwsM) | [Theo & Luan](https://open.spotify.com/artist/7E3ROnYOaeZZk20pxrvPLc), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [De Verdade \(Vol.1\)](https://open.spotify.com/album/7wNvgEAXpk6nMY0NKA5Z5c) | 2:45 |
-| 21 | [Laudo](https://open.spotify.com/track/5FSgHps0zSSwbVp0bNPuDe) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus \- EP 1](https://open.spotify.com/album/3kww8Qg2g6ZGURQO5YS0bq) | 2:26 |
+| 21 | [Laudo](https://open.spotify.com/track/5FSgHps0zSSwbVp0bNPuDe) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus \- EP 1](https://open.spotify.com/album/3kww8Qg2g6ZGURQO5YS0bq) | 2:20 |
 | 22 | [Aquário \- Ao Vivo](https://open.spotify.com/track/262QVJ1yuRiuriYIX0sRws) | [Léo & Raphael](https://open.spotify.com/artist/68cvVh3HBHdwWfccCTaq0T) | [Aquece Em Londrina \(Ao Vivo\)](https://open.spotify.com/album/6dbik7lDUgN2LDvE8UQwLt) | 2:32 |
 | 23 | [RIP POP](https://open.spotify.com/track/3gcNVS47VjDSV32Y9VnuNK) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [RIP POP](https://open.spotify.com/album/5kzI4lBo6gfVqsBlkGk2jl) | 3:33 |
 | 24 | [A Vida É Um Sopro](https://open.spotify.com/track/4G48JuYeAiap585RaG4gvR) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve) | [A Vida É Um Sopro](https://open.spotify.com/album/0PHk8G1R0bLl6Tm4uVrBcu) | 4:21 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [SUA](https://open.spotify.com/track/1vi62AyFOImrw7doQhMCR4) | [Nina Maia](https://open.spotify.com/artist/1wiX27yg0NyiJYwftya0yy) | [SUA](https://open.spotify.com/album/3kNDFZzPM9LgJRr7cuDIq8) | 3:22 |
 | 99 | [Xícara](https://open.spotify.com/track/5089QL4ZmWBLyHdL4YWOra) | [Guilherme Castel](https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX) | [Xícara](https://open.spotify.com/album/3Oy0KAhfLaKzJGQeNVtmhX) | 2:31 |
 
-Snapshot ID: `MCw0MDYxMGY2MTk0MjA2NmI3MTFkNTI4YjU3OGUxM2Q3MTE4NjVhODk3`
+Snapshot ID: `MCw3M2VhODhkZThkNGY3M2VkZDQ0MmYwMzUwZTc1NTdlMWQ5ZDg3MTYx`

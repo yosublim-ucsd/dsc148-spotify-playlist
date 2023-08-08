@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Dylan Schneider
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128,959 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,129,367 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Loose Cannon](https://open.spotify.com/track/3sXDgpJTEbjbLnrACFMjo1) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Loose Cannon](https://open.spotify.com/album/64vwXK5PDLDbuT4dCui4af) | 3:25 |
 | 100 | [If I Die Young Pt\. 2](https://open.spotify.com/track/7LjN25ppKfSfjIPOJxbH7v) | [Kimberly Perry](https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2) | [If I Die Young Pt\. 2](https://open.spotify.com/album/5gV76M8FAHa7APtrOoQbpV) | 3:23 |
 
-Snapshot ID: `MCwyZDcyZGRhYjU5Y2JkZjI1YjhkOWQ2MWJlNzg4MTkyODEwYjhiNWY5`
+Snapshot ID: `MCxkZmRlMWY3OTBjM2ZmN2QyN2E1MWI1YTllYzU2ZjU1ZjM4NDE2M2Ew`

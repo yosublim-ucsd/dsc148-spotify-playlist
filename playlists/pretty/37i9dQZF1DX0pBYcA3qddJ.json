@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 48862,
+  "num_followers": 48891,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2EwZTQzZDhlMzFhMzM2NTc1MjJhZDk1NTU5NGVlNjA2YmQ5N2Vi",
+  "snapshot_id": "MCwzMjM0YzE1ZTllYTVjMTk0MGM5NjU4Y2U5MjE5NTIyYmE3ODQ1Yjcz",
   "tracks": [
     {
       "added_at": "2023-08-03 15:00:00",
@@ -471,22 +471,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Lost At Sea",
-        "url": "https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ"
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
       },
       "artists": [
         {
-          "name": "Rob Grant",
-          "url": "https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 187906,
-      "name": "Lost at Sea",
-      "url": "https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew"
+      "duration_ms": 245240,
+      "name": "I Need My Girl",
+      "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -507,18 +503,22 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Trouble Will Find Me",
-        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+        "name": "Lost At Sea",
+        "url": "https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ"
       },
       "artists": [
         {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+          "name": "Rob Grant",
+          "url": "https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 245240,
-      "name": "I Need My Girl",
-      "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
+      "duration_ms": 187906,
+      "name": "Lost at Sea",
+      "url": "https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Nocturnes op.3",
-        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
+        "name": "Nature undisclosed",
+        "url": "https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6"
       },
       "artists": [
         {
-          "name": "Taichi Chishaki",
-          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+          "name": "Keiko Ishida",
+          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
         }
       ],
-      "duration_ms": 154714,
-      "name": "Nocturnes op.3",
-      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
+      "duration_ms": 147661,
+      "name": "Nature undisclosed",
+      "url": "https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Nature undisclosed",
-        "url": "https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6"
+        "name": "piano room",
+        "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
       },
       "artists": [
         {
-          "name": "Keiko Ishida",
-          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 147661,
-      "name": "Nature undisclosed",
-      "url": "https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd"
+      "duration_ms": 150833,
+      "name": "Koto - piano room",
+      "url": "https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -795,22 +795,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Like a Child",
-        "url": "https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV"
+        "name": "Nocturnes op.3",
+        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
       },
       "artists": [
         {
-          "name": "Hiroko Murakami",
-          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
-        },
-        {
-          "name": "Hiroco.M",
-          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
         }
       ],
-      "duration_ms": 155138,
-      "name": "Like a Child",
-      "url": "https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp"
+      "duration_ms": 154714,
+      "name": "Nocturnes op.3",
+      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -835,22 +831,22 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Gershwin: Piano Works",
-        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
+        "name": "Like a Child",
+        "url": "https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV"
       },
       "artists": [
         {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+          "name": "Hiroko Murakami",
+          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
         },
         {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
         }
       ],
-      "duration_ms": 145200,
-      "name": "Song Book: The Man I Love. Slow and in singing style",
-      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
+      "duration_ms": 155138,
+      "name": "Like a Child",
+      "url": "https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -871,18 +867,22 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u00c1TTA",
-        "url": "https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v"
+        "name": "Gershwin: Piano Works",
+        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
       },
       "artists": [
         {
-          "name": "Sigur R\u00f3s",
-          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
         }
       ],
-      "duration_ms": 313040,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx"
+      "duration_ms": 145200,
+      "name": "Song Book: The Man I Love. Slow and in singing style",
+      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "piano room",
-        "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
+        "name": "\u00c1TTA",
+        "url": "https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
         }
       ],
-      "duration_ms": 150833,
-      "name": "Koto - piano room",
-      "url": "https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo"
+      "duration_ms": 313040,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "N\u00e9o-Romance",
-        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+        "name": "Shroud of Night",
+        "url": "https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp"
       },
       "artists": [
         {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 190232,
-      "name": "a new romance",
-      "url": "https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r"
+      "duration_ms": 199136,
+      "name": "Shroud of Night",
+      "url": "https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Shroud of Night",
-        "url": "https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp"
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
         }
       ],
-      "duration_ms": 199136,
-      "name": "Shroud of Night",
-      "url": "https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC"
+      "duration_ms": 190232,
+      "name": "a new romance",
+      "url": "https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "I Inside the Old Year Dying",
-        "url": "https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK"
+        "name": "Stereo Mind Game",
+        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
       },
       "artists": [
         {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 228333,
-      "name": "Lwonesome Tonight",
-      "url": "https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu"
+      "duration_ms": 285839,
+      "name": "To Rage",
+      "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Stereo Mind Game",
-        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
+        "name": "I Inside the Old Year Dying",
+        "url": "https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK"
       },
       "artists": [
         {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
         }
       ],
-      "duration_ms": 285839,
-      "name": "To Rage",
-      "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
+      "duration_ms": 228333,
+      "name": "Lwonesome Tonight",
+      "url": "https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1691,42 +1691,6 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Mother\u2019s Broom (from 'Kiki's Delivery Service')",
-        "url": "https://open.spotify.com/album/0AGnGG5K5qBoJXkqd5mMl5"
-      },
-      "artists": [
-        {
-          "name": "Joe Hisaishi",
-          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "Mother\u2019s Broom - from 'Kiki's Delivery Service'",
-      "url": "https://open.spotify.com/track/3oEGtnUuGhDWZXH2ghip9w"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
-        "name": "no name (for Fou Fou contemporary dance in Paris)",
-        "url": "https://open.spotify.com/album/2XqkHo0AGQp4Mg50WwK0KX"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 133008,
-      "name": "no name (for Fou Fou contemporary dance in Paris)",
-      "url": "https://open.spotify.com/track/4PiJ52V4HfIQB8CtkC1VmQ"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
         "name": "Two Pianos 2",
         "url": "https://open.spotify.com/album/0QVZQD5ymGpz0klj9pzs7N"
       },
@@ -1747,6 +1711,42 @@
       "duration_ms": 158373,
       "name": "Dolly Suite, Op. 56: I. Berceuse",
       "url": "https://open.spotify.com/track/0rTWmhqlac0DNHc5xXk1SW"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "no name (for Fou Fou contemporary dance in Paris)",
+        "url": "https://open.spotify.com/album/2XqkHo0AGQp4Mg50WwK0KX"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 133008,
+      "name": "no name (for Fou Fou contemporary dance in Paris)",
+      "url": "https://open.spotify.com/track/4PiJ52V4HfIQB8CtkC1VmQ"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "Mother\u2019s Broom (from 'Kiki's Delivery Service')",
+        "url": "https://open.spotify.com/album/0AGnGG5K5qBoJXkqd5mMl5"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "Mother\u2019s Broom - from 'Kiki's Delivery Service'",
+      "url": "https://open.spotify.com/track/3oEGtnUuGhDWZXH2ghip9w"
     },
     {
       "added_at": "2023-08-03 15:00:00",

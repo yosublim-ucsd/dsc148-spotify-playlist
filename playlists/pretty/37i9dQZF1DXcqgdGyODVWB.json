@@ -1,12 +1,12 @@
 {
   "description": "Cumbia Norte\u00f1a y Norte\u00f1o Sax para las vibras de verano.",
-  "num_followers": 5520,
+  "num_followers": 5562,
   "original_name": "Verano Norte\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzQyYzE4NGM2YjNjMzBkZmQ1ODFlNzY1ZjdlOGI5YWEwYmJmZDdi",
+  "snapshot_id": "MCxlZTQ2YzY5ZmI0M2ZmMGRjNTQ3OGRjMTAwNWExZjNjZWIxZDY1Mzcx",
   "tracks": [
     {
       "added_at": "2023-07-01 01:38:37",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-07-01 01:38:37",
       "album": {
+        "name": "LE VA DOLER",
+        "url": "https://open.spotify.com/album/5MjazAGZr2K4t22z3sqyy7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 153645,
+      "name": "LE VA DOLER",
+      "url": "https://open.spotify.com/track/5dDN8h9dqErwnc88uyKq1b"
+    },
+    {
+      "added_at": "2023-07-01 01:38:37",
+      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -163,6 +179,22 @@
       "duration_ms": 160752,
       "name": "Quedate Conmigo",
       "url": "https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a"
+    },
+    {
+      "added_at": "2023-07-01 01:38:37",
+      "album": {
+        "name": "Bebo Pa Olvidar",
+        "url": "https://open.spotify.com/album/2WJxy0W1ZMF23KqMepzmkV"
+      },
+      "artists": [
+        {
+          "name": "Billy Manhattan",
+          "url": "https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy"
+        }
+      ],
+      "duration_ms": 185202,
+      "name": "Bebo Pa Olvidar",
+      "url": "https://open.spotify.com/track/0qYhR1M0ZB1NXnBFQyYxnY"
     },
     {
       "added_at": "2023-07-01 01:38:37",
@@ -187,22 +219,6 @@
     {
       "added_at": "2023-07-01 01:38:37",
       "album": {
-        "name": "Bebo Pa Olvidar",
-        "url": "https://open.spotify.com/album/2WJxy0W1ZMF23KqMepzmkV"
-      },
-      "artists": [
-        {
-          "name": "Billy Manhattan",
-          "url": "https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy"
-        }
-      ],
-      "duration_ms": 185202,
-      "name": "Bebo Pa Olvidar",
-      "url": "https://open.spotify.com/track/0qYhR1M0ZB1NXnBFQyYxnY"
-    },
-    {
-      "added_at": "2023-07-01 01:38:37",
-      "album": {
         "name": "Princesa",
         "url": "https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 151486,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf"
-    },
-    {
-      "added_at": "2023-07-01 01:38:37",
-      "album": {
-        "name": "LE VA DOLER",
-        "url": "https://open.spotify.com/album/5MjazAGZr2K4t22z3sqyy7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 153645,
-      "name": "LE VA DOLER",
-      "url": "https://open.spotify.com/track/5dDN8h9dqErwnc88uyKq1b"
     },
     {
       "added_at": "2023-07-01 01:38:37",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-07-01 01:38:37",
       "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 175471,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
+    },
+    {
+      "added_at": "2023-07-01 01:38:37",
+      "album": {
         "name": "Tan Bella y Tan Presumida",
         "url": "https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 123906,
       "name": "900 Cigarros",
       "url": "https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM"
-    },
-    {
-      "added_at": "2023-07-01 01:38:37",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 175471,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
     },
     {
       "added_at": "2023-07-01 01:38:37",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-07-01 01:38:37",
       "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 174160,
-      "name": "El Tucanazo",
-      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
-    },
-    {
-      "added_at": "2023-07-01 01:38:37",
-      "album": {
         "name": "Acurrucar",
         "url": "https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 178700,
       "name": "Acurrucar",
       "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
+    },
+    {
+      "added_at": "2023-07-01 01:38:37",
+      "album": {
+        "name": "En Vivo, Vol.1",
+        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 187929,
+      "name": "Mas Que Amigos - En Vivo",
+      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
     },
     {
       "added_at": "2023-07-01 01:38:37",
@@ -491,22 +491,6 @@
       "duration_ms": 163866,
       "name": "Ojos Marrones",
       "url": "https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00"
-    },
-    {
-      "added_at": "2023-07-01 01:38:37",
-      "album": {
-        "name": "En Vivo, Vol.1",
-        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 187929,
-      "name": "Mas Que Amigos - En Vivo",
-      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
     },
     {
       "added_at": "2023-07-01 01:38:37",
@@ -643,6 +627,22 @@
     {
       "added_at": "2023-07-01 01:38:37",
       "album": {
+        "name": "Chiquita Bonita",
+        "url": "https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 156757,
+      "name": "Chiquita Bonita",
+      "url": "https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn"
+    },
+    {
+      "added_at": "2023-07-01 01:38:37",
+      "album": {
         "name": "Cumbias con Garra Vol. IV *",
         "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 202253,
       "name": "Mira oye",
       "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
-    },
-    {
-      "added_at": "2023-07-01 01:38:37",
-      "album": {
-        "name": "Tonto Mi Corazon",
-        "url": "https://open.spotify.com/album/6lSibFBrplfh8WNAJeWHHB"
-      },
-      "artists": [
-        {
-          "name": "Los Avila",
-          "url": "https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo"
-        }
-      ],
-      "duration_ms": 251630,
-      "name": "Tonto Mi Corazon",
-      "url": "https://open.spotify.com/track/7m9XI9m7NVmo6ifF8U3bxS"
     },
     {
       "added_at": "2023-07-01 01:38:37",
@@ -691,18 +675,34 @@
     {
       "added_at": "2023-07-01 01:38:37",
       "album": {
-        "name": "Chiquita Bonita",
-        "url": "https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB"
+        "name": "Tonto Mi Corazon",
+        "url": "https://open.spotify.com/album/6lSibFBrplfh8WNAJeWHHB"
       },
       "artists": [
         {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+          "name": "Los Avila",
+          "url": "https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo"
         }
       ],
-      "duration_ms": 156757,
-      "name": "Chiquita Bonita",
-      "url": "https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn"
+      "duration_ms": 251630,
+      "name": "Tonto Mi Corazon",
+      "url": "https://open.spotify.com/track/7m9XI9m7NVmo6ifF8U3bxS"
+    },
+    {
+      "added_at": "2023-07-01 01:38:37",
+      "album": {
+        "name": "Que nos Pas\u00f3?",
+        "url": "https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "duration_ms": 159519,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD"
     },
     {
       "added_at": "2023-07-01 01:38:37",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-07-01 01:38:37",
       "album": {
-        "name": "Que nos Pas\u00f3?",
-        "url": "https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E"
-      },
-      "artists": [
-        {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
-        }
-      ],
-      "duration_ms": 159519,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD"
-    },
-    {
-      "added_at": "2023-07-01 01:38:37",
-      "album": {
         "name": "Ando Bien Agusto",
         "url": "https://open.spotify.com/album/6Vd6fo2eFRRZvxCILrySBa"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2023-07-01 01:38:37",
       "album": {
-        "name": "B\u00e1ilame",
-        "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
+        "name": "La Boca Les Callamos",
+        "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
       },
       "artists": [
         {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 179506,
-      "name": "B\u00e1ilame",
-      "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
+      "duration_ms": 164650,
+      "name": "La Boca Les Callamos",
+      "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
     },
     {
       "added_at": "2023-07-01 01:38:37",
@@ -827,18 +811,18 @@
     {
       "added_at": "2023-07-01 01:38:37",
       "album": {
-        "name": "La Boca Les Callamos",
-        "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
+        "name": "B\u00e1ilame",
+        "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
       },
       "artists": [
         {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
         }
       ],
-      "duration_ms": 164650,
-      "name": "La Boca Les Callamos",
-      "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
+      "duration_ms": 179506,
+      "name": "B\u00e1ilame",
+      "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
     },
     {
       "added_at": "2023-07-01 01:38:37",
@@ -971,22 +955,6 @@
     {
       "added_at": "2023-07-01 01:38:37",
       "album": {
-        "name": "El Telescopio",
-        "url": "https://open.spotify.com/album/0rdyVMLgdhm5Jbjr11j1kp"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "El Telescopio",
-      "url": "https://open.spotify.com/track/69PqKuwBzdPN1MaSwp5FrT"
-    },
-    {
-      "added_at": "2023-07-01 01:38:37",
-      "album": {
         "name": "Victor Garc\u00eda",
         "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
       },
@@ -1015,6 +983,22 @@
       "duration_ms": 169041,
       "name": "Y Me Da Verg\u00fcenza",
       "url": "https://open.spotify.com/track/6n7MYzA52JLIgkgx5RgN7b"
+    },
+    {
+      "added_at": "2023-07-01 01:38:37",
+      "album": {
+        "name": "El Telescopio",
+        "url": "https://open.spotify.com/album/0rdyVMLgdhm5Jbjr11j1kp"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "El Telescopio",
+      "url": "https://open.spotify.com/track/69PqKuwBzdPN1MaSwp5FrT"
     },
     {
       "added_at": "2023-07-01 01:38:37",
@@ -1231,22 +1215,6 @@
     {
       "added_at": "2023-07-01 01:38:37",
       "album": {
-        "name": "Diez",
-        "url": "https://open.spotify.com/album/7o5Z3DrisXdFmrfel292Hi"
-      },
-      "artists": [
-        {
-          "name": "La Energia Nortena",
-          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
-        }
-      ],
-      "duration_ms": 198085,
-      "name": "Los \u00c1ngeles Existen",
-      "url": "https://open.spotify.com/track/7rPDko8WpB988ygHq0avaz"
-    },
-    {
-      "added_at": "2023-07-01 01:38:37",
-      "album": {
         "name": "Celoso",
         "url": "https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR"
       },
@@ -1291,6 +1259,22 @@
       "duration_ms": 205738,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/6Rx86i8mwD37V7LB2RJrIl"
+    },
+    {
+      "added_at": "2023-07-01 01:38:37",
+      "album": {
+        "name": "Diez",
+        "url": "https://open.spotify.com/album/7o5Z3DrisXdFmrfel292Hi"
+      },
+      "artists": [
+        {
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+        }
+      ],
+      "duration_ms": 198085,
+      "name": "Los \u00c1ngeles Existen",
+      "url": "https://open.spotify.com/track/7rPDko8WpB988ygHq0avaz"
     },
     {
       "added_at": "2023-07-01 01:38:37",
@@ -1427,22 +1411,6 @@
     {
       "added_at": "2023-07-01 01:38:37",
       "album": {
-        "name": "Los de la DC",
-        "url": "https://open.spotify.com/album/1PRVah5XRGSaWLZyqlXruE"
-      },
-      "artists": [
-        {
-          "name": "La Descendencia De Rio Grande",
-          "url": "https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Escondidos",
-      "url": "https://open.spotify.com/track/5rvDEOniEstwbFvn2yCfL2"
-    },
-    {
-      "added_at": "2023-07-01 01:38:37",
-      "album": {
         "name": "Se Abre el Tel\u00f3n",
         "url": "https://open.spotify.com/album/7gDU8W7H50vfNL4Dlw9MRt"
       },
@@ -1455,6 +1423,22 @@
       "duration_ms": 189026,
       "name": "Si Te Pudiera Mentir",
       "url": "https://open.spotify.com/track/1nThd666DrTYTk1Fs9h3Lr"
+    },
+    {
+      "added_at": "2023-07-01 01:38:37",
+      "album": {
+        "name": "Los de la DC",
+        "url": "https://open.spotify.com/album/1PRVah5XRGSaWLZyqlXruE"
+      },
+      "artists": [
+        {
+          "name": "La Descendencia De Rio Grande",
+          "url": "https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Escondidos",
+      "url": "https://open.spotify.com/track/5rvDEOniEstwbFvn2yCfL2"
     },
     {
       "added_at": "2023-07-01 01:38:37",
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2023-07-01 01:38:37",
       "album": {
+        "name": "De Parranda Lives Vol. 2/3",
+        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 208049,
+      "name": "Ojala y te animes",
+      "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
+    },
+    {
+      "added_at": "2023-07-01 01:38:37",
+      "album": {
         "name": "Stand By Me",
         "url": "https://open.spotify.com/album/2k3VR0pvO9KcfUm6wxC28P"
       },
@@ -1507,22 +1507,6 @@
       "duration_ms": 167102,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/1lctBYvNCptEvAHz7s1yLb"
-    },
-    {
-      "added_at": "2023-07-01 01:38:37",
-      "album": {
-        "name": "De Parranda Lives Vol. 2/3",
-        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 208049,
-      "name": "Ojala y te animes",
-      "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
     },
     {
       "added_at": "2023-07-01 01:38:37",
@@ -1655,18 +1639,34 @@
     {
       "added_at": "2023-07-01 01:38:37",
       "album": {
-        "name": "De Frente",
-        "url": "https://open.spotify.com/album/70bYfLrHCQMkUHtHQZFLYR"
+        "name": "Como Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/5YZKmb0BjulcKw2MqyqQNO"
       },
       "artists": [
         {
-          "name": "Cumbre Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t"
+          "name": "Conjunto Nube",
+          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
         }
       ],
-      "duration_ms": 136280,
-      "name": "Como Estas T\u00fa",
-      "url": "https://open.spotify.com/track/2ljlODbJrQrMEcC4wmoCkg"
+      "duration_ms": 147382,
+      "name": "Como Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/6fCnagYY6sBohrvLVDBHVA"
+    },
+    {
+      "added_at": "2023-07-01 01:38:37",
+      "album": {
+        "name": "Abrazame",
+        "url": "https://open.spotify.com/album/0HcDnNUTvLQEB07M9coTkz"
+      },
+      "artists": [
+        {
+          "name": "Los Garcia Bros.",
+          "url": "https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Cha Cu Cha",
+      "url": "https://open.spotify.com/track/1QHSwIjIIfqMuu0DLQFVFr"
     }
   ],
   "unique_name": "Verano Norte\u00f1o",

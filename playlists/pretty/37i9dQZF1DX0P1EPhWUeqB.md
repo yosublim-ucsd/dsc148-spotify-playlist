@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0P1EPhWUeqB.md) - [plain]
 
 > Desde el corazón del rancho, las mejores interpretaciones en vivo\. Virlán García en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,133 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,158 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0P1EPhWUeqB.md) - [plain]
 | 4 | [Cuando Te Ame \- En Vivo](https://open.spotify.com/track/2Jkw4v6tHdDfS4rM6pp4uZ) | [Soñadores de Sinaloa](https://open.spotify.com/artist/0wrtLRkpE2Yu6Oge3tVXUf) | [Volumen 5 \(En Vivo\)](https://open.spotify.com/album/6I6MZLLhr6CJHqFxtozUMQ) | 3:55 |
 | 5 | [Hasta El Día De Hoy \- En Vivo](https://open.spotify.com/track/2kLeMNfph8mO99WZl9qikK) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Hasta el Día de Hoy \(En Vivo\)](https://open.spotify.com/album/4BoACxcvzH7D3wdvuYMWV5) | 3:42 |
 | 6 | [El Plumas \- En Vivo](https://open.spotify.com/track/5QZCV5YihVsaWUbKZkWH4s) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Plumas \(En Vivo\)](https://open.spotify.com/album/6GB1PDimXrLWIya6jgXkBs) | 3:30 |
-| 7 | [Si Una Vez \- En Vivo](https://open.spotify.com/track/2wdYohLJjdHt6jZASIGZuC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 2:54 |
+| 7 | [Si una Vez \- En Vivo](https://open.spotify.com/track/1ZYPtJnVttoAT4O5rbTdCm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/7ehOg9A1Xm3hLX8Cg8hZs4) | 2:54 |
 | 8 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 |
 | 9 | [Inventame \- En Vivo](https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:15 |
 | 10 | [Hay Que Tomar \- En Vivo](https://open.spotify.com/track/0WAwjYnnq8HD9TdNX2Zo5l) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [En Vivo Desde Sonora](https://open.spotify.com/album/6JTAlOpDn1Xxcdj2C6x9no) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0P1EPhWUeqB.md) - [plain]
 | 49 | [Jardín Olvidado \- En Vivo](https://open.spotify.com/track/2zVVkGVN3x6odrOQzWloaC) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Con Tololoche y Charchetas \(En Vivo\)](https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI) | 3:34 |
 | 50 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 |
 
-Snapshot ID: `MCwxOGE1ZTYwODk3MTVmMzYzM2E1YWU5ZmRmODljZDM2NjdkZDJmZWJl`
+Snapshot ID: `MCxkMmIyODY3M2RlZmUwZGU0Njk3OTZhYThmZTc4MDlhZWJiODEwOGQx`

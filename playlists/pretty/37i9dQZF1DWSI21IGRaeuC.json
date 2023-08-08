@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 23150,
+  "num_followers": 23191,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzU3ZTg2ZmQ1M2ZkOGJmYTVjMmQ1N2YyZjA3MzNiMzgzNzllNGQw",
+  "snapshot_id": "MCw4N2YyZGJhNjFmMDc3YTllYjc5NTAyYWZkNzk1ZmU2ZjdkM2M3ZTAx",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -487,6 +487,26 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "NYWTF",
+        "url": "https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Mikhail Beltran",
+          "url": "https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "NYWTF feat. Mikhail Beltran - Edit",
+      "url": "https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Provenance",
         "url": "https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 432000,
       "name": "Knocking Birds",
       "url": "https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "NYWTF",
-        "url": "https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "Mikhail Beltran",
-          "url": "https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "NYWTF feat. Mikhail Beltran - Edit",
-      "url": "https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Club Vibes Part 01",
+        "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 518400,
+      "name": "Geh\u00f6rschadengenerator",
+      "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 176264,
       "name": "Slim Shady",
       "url": "https://open.spotify.com/track/2ESfTwWgohnkLK1qdWcwrJ"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Club Vibes Part 01",
-        "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 518400,
-      "name": "Geh\u00f6rschadengenerator",
-      "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Alley Rave",
-        "url": "https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc"
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u"
       },
       "artists": [
         {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
         }
       ],
-      "duration_ms": 364099,
-      "name": "Alley Rave",
-      "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
+      "duration_ms": 251500,
+      "name": "Atomic Sun",
+      "url": "https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Alley Rave",
+        "url": "https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 364099,
+      "name": "Alley Rave",
+      "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Rudeboi",
         "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u"
+        "name": "Dusty Showbiz",
+        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
       },
       "artists": [
         {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
         }
       ],
-      "duration_ms": 251500,
-      "name": "Atomic Sun",
-      "url": "https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5"
+      "duration_ms": 178040,
+      "name": "Dusty Showbiz",
+      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -895,22 +911,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Gozar",
-        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
-      },
-      "artists": [
-        {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
-        }
-      ],
-      "duration_ms": 204384,
-      "name": "Gozar",
-      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/6t0gCJ3EsuUoIeAZJ7XfgS"
       },
@@ -927,34 +927,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Dusty Showbiz",
-        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
+        "name": "Gozar",
+        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
       },
       "artists": [
         {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
         }
       ],
-      "duration_ms": 178040,
-      "name": "Dusty Showbiz",
-      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Galactica",
-        "url": "https://open.spotify.com/album/4qQywGdWd8QiCiND1bwTk3"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 310289,
-      "name": "Galactica",
-      "url": "https://open.spotify.com/track/6mMSSMNcl1WXtSP5A5tG0u"
+      "duration_ms": 204384,
+      "name": "Gozar",
+      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -971,6 +955,22 @@
       "duration_ms": 444444,
       "name": "What's Your Name",
       "url": "https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Galactica",
+        "url": "https://open.spotify.com/album/4qQywGdWd8QiCiND1bwTk3"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 310289,
+      "name": "Galactica",
+      "url": "https://open.spotify.com/track/6mMSSMNcl1WXtSP5A5tG0u"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Strung Up",
-        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
-      },
-      "artists": [
-        {
-          "name": "Sorley",
-          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Strung Up",
-      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Ready For The Blues",
         "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "YAP EP",
-        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
+        "name": "Strung Up",
+        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
       },
       "artists": [
         {
-          "name": "Kollektiv Turmstrasse",
-          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
+          "name": "Sorley",
+          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
         }
       ],
-      "duration_ms": 246474,
-      "name": "YAP",
-      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
+      "duration_ms": 200625,
+      "name": "Strung Up",
+      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1103,6 +1087,38 @@
       "duration_ms": 233333,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "YAP EP",
+        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
+      },
+      "artists": [
+        {
+          "name": "Kollektiv Turmstrasse",
+          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
+        }
+      ],
+      "duration_ms": 246474,
+      "name": "YAP",
+      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Supermodel Thick",
+        "url": "https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo"
+      },
+      "artists": [
+        {
+          "name": "Jho Roscioli",
+          "url": "https://open.spotify.com/artist/1YyeTuJ8IrPSpPiZMq0rhH"
+        }
+      ],
+      "duration_ms": 326357,
+      "name": "Supermodel Thick",
+      "url": "https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Supermodel Thick",
-        "url": "https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo"
-      },
-      "artists": [
-        {
-          "name": "Jho Roscioli",
-          "url": "https://open.spotify.com/artist/1YyeTuJ8IrPSpPiZMq0rhH"
-        }
-      ],
-      "duration_ms": 326357,
-      "name": "Supermodel Thick",
-      "url": "https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Ole",
         "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "spring '23",
-        "url": "https://open.spotify.com/album/0sI5QLNxVfY8SeHGm70RZL"
-      },
-      "artists": [
-        {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
-        }
-      ],
-      "duration_ms": 364916,
-      "name": "can't stop the swing.",
-      "url": "https://open.spotify.com/track/2mTNrZp8XBLay7hwwcAj81"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Music4TheMasses (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "XVII",
-        "url": "https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ"
+        "name": "spring '23",
+        "url": "https://open.spotify.com/album/0sI5QLNxVfY8SeHGm70RZL"
       },
       "artists": [
         {
-          "name": "Amotik",
-          "url": "https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO"
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
         }
       ],
-      "duration_ms": 394565,
-      "name": "Narangi",
-      "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
+      "duration_ms": 364916,
+      "name": "can't stop the swing.",
+      "url": "https://open.spotify.com/track/2mTNrZp8XBLay7hwwcAj81"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1255,6 +1239,22 @@
       "duration_ms": 240210,
       "name": "C'mon",
       "url": "https://open.spotify.com/track/3p28zxsE5Ndd9CJUvpUwnC"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "XVII",
+        "url": "https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ"
+      },
+      "artists": [
+        {
+          "name": "Amotik",
+          "url": "https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO"
+        }
+      ],
+      "duration_ms": 394565,
+      "name": "Narangi",
+      "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
     },
     {
       "added_at": "2023-08-04 04:01:00",

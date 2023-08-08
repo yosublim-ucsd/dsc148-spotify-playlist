@@ -1292,10 +1292,28 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 381022,
       "name": "Mvela Kacane",
       "url": "https://open.spotify.com/track/4cNZlHbOobiU22Cq3Y6mpa"
+    },
+    {
+      "album": {
+        "name": "Kumnandi ethekwin",
+        "url": "https://open.spotify.com/album/0fgS3BSWTY7Lq9rT5j7yz1"
+      },
+      "artists": [
+        {
+          "name": "Le'ScottishVengo",
+          "url": "https://open.spotify.com/artist/1zORo7rep1LGb0OCXAwjdK"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381022,
+      "name": "Mvela kancane",
+      "url": "https://open.spotify.com/track/3CpwqI9HC7JquiJLzKN19K"
     },
     {
       "album": {

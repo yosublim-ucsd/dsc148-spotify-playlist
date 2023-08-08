@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Numcha
 
-913 songs - 2 day 6 hr 45 min
+914 songs - 2 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [20:37](https://open.spotify.com/track/7wU9V3zmRUSHFLQGc7jRbP) | [Rosalyn](https://open.spotify.com/artist/0eBxT8cgP2efRvTQWyomVY) | [Skin](https://open.spotify.com/album/2XEHXx2cRclNP5ThLEqStX) | 3:26 | 2022-08-11 | 2022-09-10 |
 | [247](https://open.spotify.com/track/5MvZpSUkVwtWScGm5uJAGA) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [247](https://open.spotify.com/album/15jWaDEBJyFQ21FTwk34v0) | 4:14 | 2022-10-13 | 2022-12-16 |
 | [2Gether All Day All Night](https://open.spotify.com/track/18OAEPIgLxNW2pi9WtwMgL) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK) | [2Gether All Day All Night](https://open.spotify.com/album/4CymHQQtBCVhSctGOiz2qV) | 3:11 | 2023-07-27 |  |
+| [5949mi](https://open.spotify.com/track/3rgDed1aygTvUKwvWETfZq) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [5949mi](https://open.spotify.com/album/2zZ2Q3jY0k6XD0fsd1bdWj) | 3:07 | 2023-08-07 |  |
 | [6HRS](https://open.spotify.com/track/61A5Doh50xlDcf9hjLtjiE) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [6HRS](https://open.spotify.com/album/7eCIML9RC3CNoeMdZF5GMl) | 2:45 | 2023-05-04 | 2023-07-07 |
 | [7 Years](https://open.spotify.com/track/03IkbWWtLydmBuo9jQYC2Z) | [The Impatient Sisters](https://open.spotify.com/artist/1MrMu9X3lJAQHm0AXOoVgG) | [7 Years](https://open.spotify.com/album/2qmux3wpZ1Xs6Qr44SYZel) | 5:05 | 2022-10-28 | 2023-01-20 |
 | [A Change in Seasons](https://open.spotify.com/track/5oZ4I9J2ILqIyd7M3eBsWL) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [A Change in Seasons](https://open.spotify.com/album/3rq8PzE5IqmkRK8LzhdooK) | 2:34 | 2023-02-09 | 2023-04-01 |
@@ -342,7 +343,7 @@
 | [I Don't Wanna Feel Anything](https://open.spotify.com/track/2tePOGmZuxLqHGD2prNDab) | [Shirakami Woods](https://open.spotify.com/artist/2u4Oz8xl7elEUcJBeEjHqJ) | [blindsight](https://open.spotify.com/album/28QpbSuTiTVlCsBRIBRQ0K) | 3:41 | 2022-10-13 | 2022-11-25 |
 | [I Forget](https://open.spotify.com/track/4kteUmv5itspdKMNHAMF8A) | [Merakki](https://open.spotify.com/artist/0mwrCJZK8W2px2zfL0psfl), [KAYD](https://open.spotify.com/artist/083fVmyz4CEiqzDnLaSpU7) | [I Forget](https://open.spotify.com/album/4KK1XCxSqlQvHAAGto6vIB) | 3:37 | 2022-07-21 | 2022-08-19 |
 | [i hate this city](https://open.spotify.com/track/7obkHjtZHmdVWdDwaLsd93) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [i hate this city](https://open.spotify.com/album/4prQxI1y4XRu6Oq8XdQUhr) | 3:15 | 2022-06-09 | 2022-07-16 |
-| [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-06-02 |  |
+| [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-06-02 | 2023-08-08 |
 | [I Hope You Die](https://open.spotify.com/track/3APupcckOdS9qT1AKvghU3) | [Goodmorning Pancake](https://open.spotify.com/artist/7Bezyy4h6Ftw2pjtq8NcbE) | [I Hope You Die](https://open.spotify.com/album/0VMubKy7eSXdE0hm7hIMQg) | 3:09 | 2022-12-15 | 2023-02-17 |
 | [I Like Me Better Now](https://open.spotify.com/track/6jTqsb08gdgzHfnnQSHRsc) | [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh), [Datmaniac](https://open.spotify.com/artist/56su1iNcOlGUPEtBoOoJ5D) | [I Like Me Better Now](https://open.spotify.com/album/4Nqv5gCSOIPSCmlxtoRqUR) | 3:56 | 2022-06-09 | 2022-07-23 |
 | [i like u](https://open.spotify.com/track/5UHPob6XgbZw5CXOyHtMhD) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [i like u](https://open.spotify.com/album/0il3XZ7i2T01i0M4Ij9SVZ) | 2:27 | 2022-05-26 | 2022-07-08 |

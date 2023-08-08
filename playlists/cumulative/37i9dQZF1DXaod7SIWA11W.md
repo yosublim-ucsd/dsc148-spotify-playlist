@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="https://www.thestellarawards.com/index.html">Stellar Award</a> winning artist <a href="https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=ba40ca816da6450e">Pastor Mike Jr.</a>.
 
-249 songs - 15 hr 29 min
+250 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Believe For It](https://open.spotify.com/track/0fukHGuIvc2NQEFCkI2owi) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 3:48 | 2022-02-18 | 2022-06-01 |
 | [Black As Heaven](https://open.spotify.com/track/2A39ETlkPGtIKmQT5F2nDo) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe), [Mag44](https://open.spotify.com/artist/0j5CGslS41MUjK6uekSHZU) | [Black As Heaven](https://open.spotify.com/album/2Dh5SVSE4omZnFNxZ2vbnp) | 3:37 | 2022-07-17 | 2022-12-17 |
 | [Black Reconstruction](https://open.spotify.com/track/0lbpGauOZfYxbRk3Y0onnY) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Juneteenth: Faith & Freedom \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2NI0e8jehopq2DfA3KTZeZ) | 4:00 | 2022-07-17 | 2022-10-01 |
+| [Blak Sheep Freestyle](https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 3:05 | 2023-07-13 |  |
 | [Bless Me](https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 4:32 | 2023-07-13 |  |
 | [Bless Me](https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Bless Me](https://open.spotify.com/album/6f19JEkhgyhpGnwZjedANL) | 4:32 | 2022-06-01 | 2023-07-27 |
 | [Blessed Mode](https://open.spotify.com/track/7JPlYKKFQ6iKWAxsFZF3IS) | [Kel Mitchell](https://open.spotify.com/artist/1OnPFoy7Udp0M5R6xjfCcR), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Blessed Mode](https://open.spotify.com/album/15x3jykJeOXdE43DommQlB) | 3:03 | 2022-06-01 | 2022-07-18 |
@@ -113,7 +114,7 @@
 | [I Heard A Voice](https://open.spotify.com/track/0cWoF0i1AUtHL98Qj9NZh8) | [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp) | [I Heard A Voice](https://open.spotify.com/album/2PrK3fThYOobj3kHtoT4kv) | 1:28 | 2022-12-16 | 2023-07-14 |
 | [I Rely](https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [I Rely](https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB) | 3:49 | 2022-12-16 |  |
 | [I Still Have You](https://open.spotify.com/track/21ksdeytHBlKH3coDrDud9) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Still Have You](https://open.spotify.com/album/2de2aejtRsBb5cbnZB5Orc) | 4:14 | 2023-07-13 |  |
-| [I Was Loved](https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68) | 4:41 | 2022-06-01 |  |
+| [I Was Loved](https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68) | 4:41 | 2022-06-01 | 2023-08-08 |
 | [I Will Rejoice \- Live](https://open.spotify.com/track/1Q6yfDa3t9TsdZ3Dv6zFH9) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [The Invitation](https://open.spotify.com/album/5t18qziD5srq5ZR31HLxjg) | 4:34 | 2023-07-13 |  |
 | [I Will See \(And Live\)](https://open.spotify.com/track/1QmFNu6g02GfeFnyvEejr3) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [I Will See \(And Live\)](https://open.spotify.com/album/4vc87QuyU6CINvYdRRRM9q) | 8:04 | 2022-09-30 | 2022-12-17 |
 | [I'm Good](https://open.spotify.com/track/6AKnOJ94EuWu0DJnvMt6xU) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Closer Than You Think](https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP) | 2:36 | 2023-06-10 | 2023-08-07 |

@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 87502,
+  "num_followers": 87510,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWYyZGZiMzAzNDMxOThjNjgxMTA5NWQyZTM5MmNiNTUyOGE5ZmEw",
+  "snapshot_id": "MCw1MWIyMGNhNWZlMmY4ZmNlMDc2NGE0ODY1NjcxMTE5YTNkZjM5MmQ2",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Clearest of Signs",
+        "url": "https://open.spotify.com/album/3670XTwHfYQbX1cE0iBWrN"
+      },
+      "artists": [
+        {
+          "name": "SwitchOTR",
+          "url": "https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv"
+        }
+      ],
+      "duration_ms": 135416,
+      "name": "Clearest of Signs",
+      "url": "https://open.spotify.com/track/6Jfn2Ut4F7snIXmOp7LLco"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Two Years Clear",
         "url": "https://open.spotify.com/album/5STWBf3rfPdW1Z759G5gqD"
       },
@@ -219,6 +235,22 @@
       "duration_ms": 203128,
       "name": "Two Years Clear",
       "url": "https://open.spotify.com/track/3URoC0bjXO9bH8DHKZaSB8"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Derby To Moston",
+        "url": "https://open.spotify.com/album/3w5vmyXBYTKFDq2skSk7SO"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 182648,
+      "name": "Derby To Moston",
+      "url": "https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -247,22 +279,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Derby To Moston",
-        "url": "https://open.spotify.com/album/3w5vmyXBYTKFDq2skSk7SO"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 182648,
-      "name": "Derby To Moston",
-      "url": "https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Hoods Hottest",
         "url": "https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 187617,
       "name": "Hoods Hottest",
       "url": "https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Clearest of Signs",
-        "url": "https://open.spotify.com/album/3670XTwHfYQbX1cE0iBWrN"
-      },
-      "artists": [
-        {
-          "name": "SwitchOTR",
-          "url": "https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv"
-        }
-      ],
-      "duration_ms": 135416,
-      "name": "Clearest of Signs",
-      "url": "https://open.spotify.com/track/6Jfn2Ut4F7snIXmOp7LLco"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Talking Stage",
+        "url": "https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "duration_ms": 177464,
+      "name": "Talking Stage",
+      "url": "https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/2VPnkehP5dgUJ2UDaQswKO"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 112043,
       "name": "SS Interlude",
       "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Talking Stage",
-        "url": "https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX"
-      },
-      "artists": [
-        {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
-        }
-      ],
-      "duration_ms": 177464,
-      "name": "Talking Stage",
-      "url": "https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl"
+      },
+      "artists": [
+        {
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        }
+      ],
+      "duration_ms": 111253,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Pain Interlude",
         "url": "https://open.spotify.com/album/0kw7QYbgmMYuAKSQNt6GEF"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 68571,
       "name": "Pain Interlude",
       "url": "https://open.spotify.com/track/0tsSL4aCPiJ6ModYRFICy7"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "In The Loop",
-        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
-      },
-      "artists": [
-        {
-          "name": "DC",
-          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
-        }
-      ],
-      "duration_ms": 195933,
-      "name": "Paro(noia)",
-      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -607,18 +607,34 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Stuck In My Ways",
-        "url": "https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl"
+        "name": "HBK",
+        "url": "https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX"
       },
       "artists": [
         {
-          "name": "L24",
-          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         }
       ],
-      "duration_ms": 111253,
-      "name": "Stuck In My Ways",
-      "url": "https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF"
+      "duration_ms": 182937,
+      "name": "Just 4 Me",
+      "url": "https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "In The Loop",
+        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
+      },
+      "artists": [
+        {
+          "name": "DC",
+          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
+        }
+      ],
+      "duration_ms": 195933,
+      "name": "Paro(noia)",
+      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -639,34 +655,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "HBK",
-        "url": "https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
       },
       "artists": [
         {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
         }
       ],
-      "duration_ms": 182937,
-      "name": "Just 4 Me",
-      "url": "https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Moston Vale (Freestyle)",
-        "url": "https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb"
-      },
-      "artists": [
-        {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
-        }
-      ],
-      "duration_ms": 100466,
-      "name": "Moston Vale - Freestyle",
-      "url": "https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1"
+      "duration_ms": 152571,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -687,66 +687,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "2:30AM",
-        "url": "https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv"
+        "name": "Moston Vale (Freestyle)",
+        "url": "https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb"
       },
       "artists": [
         {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
         }
       ],
-      "duration_ms": 182937,
-      "name": "2:30AM",
-      "url": "https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
-      },
-      "artists": [
-        {
-          "name": "Emzorearner",
-          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "5 AM",
-        "url": "https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy"
-      },
-      "artists": [
-        {
-          "name": "AMB",
-          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
-        }
-      ],
-      "duration_ms": 96086,
-      "name": "5 AM",
-      "url": "https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/4XeVz88NHvjEJHq65gYsnb"
-      },
-      "artists": [
-        {
-          "name": "Arz",
-          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
-        }
-      ],
-      "duration_ms": 128261,
-      "name": "18+",
-      "url": "https://open.spotify.com/track/5KO7ewKFToXht9LbQDLPW5"
+      "duration_ms": 100466,
+      "name": "Moston Vale - Freestyle",
+      "url": "https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -767,22 +719,50 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Next Up - S3-E47",
-        "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
+        "name": "2:30AM",
+        "url": "https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv"
       },
       "artists": [
         {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
         }
       ],
-      "duration_ms": 141740,
-      "name": "Next Up - S3-E47, Pt.1",
-      "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
+      "duration_ms": 182937,
+      "name": "2:30AM",
+      "url": "https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/4XeVz88NHvjEJHq65gYsnb"
+      },
+      "artists": [
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "duration_ms": 128261,
+      "name": "18+",
+      "url": "https://open.spotify.com/track/5KO7ewKFToXht9LbQDLPW5"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "5 AM",
+        "url": "https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy"
+      },
+      "artists": [
+        {
+          "name": "AMB",
+          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
+        }
+      ],
+      "duration_ms": 96086,
+      "name": "5 AM",
+      "url": "https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -815,6 +795,26 @@
       "duration_ms": 189781,
       "name": "If I Die Young",
       "url": "https://open.spotify.com/track/48oASW55itK9LQ5YFVSna4"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Next Up - S3-E47",
+        "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "duration_ms": 141740,
+      "name": "Next Up - S3-E47, Pt.1",
+      "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Retrogress (Season 1)",
+        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "I Thought I'd Die In Your Arms",
+      "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/6yAjcw3OQin9aBXTDI0k0A"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Retrogress (Season 1)",
-        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 176680,
-      "name": "I Thought I'd Die In Your Arms",
-      "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "No Emotions",
         "url": "https://open.spotify.com/album/17K4yH8Z5TxBVc5F49J5wQ"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "House Invasions",
-        "url": "https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG"
-      },
-      "artists": [
-        {
-          "name": "Nino SLG",
-          "url": "https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe"
-        }
-      ],
-      "duration_ms": 209345,
-      "name": "House Invasions",
-      "url": "https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Broken Hearted Crook",
         "url": "https://open.spotify.com/album/5GLX9V0bREOnv5E2zFrnhH"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 168182,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/7d9H7S7eXhGq6idubYpbto"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "House Invasions",
+        "url": "https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG"
+      },
+      "artists": [
+        {
+          "name": "Nino SLG",
+          "url": "https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe"
+        }
+      ],
+      "duration_ms": 209345,
+      "name": "House Invasions",
+      "url": "https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Retrogress (Season 1)",
-        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Day and Night (Prodbyjak)",
         "url": "https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 160030,
       "name": "High (All The Time)",
       "url": "https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Retrogress (Season 1)",
+        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Is it too much? (Pray things change)",
-        "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
-      },
-      "artists": [
-        {
-          "name": "G!ft",
-          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
-        },
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4"
-        }
-      ],
-      "duration_ms": 171678,
-      "name": "Is it too much? (Pray things change)",
-      "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Love Never Dies",
         "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 175774,
       "name": "Hearts Get Numb",
       "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Is it too much? (Pray things change)",
+        "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
+      },
+      "artists": [
+        {
+          "name": "G!ft",
+          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
+        },
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4"
+        }
+      ],
+      "duration_ms": 171678,
+      "name": "Is it too much? (Pray things change)",
+      "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
     },
     {
       "added_at": "2023-08-01 17:14:44",

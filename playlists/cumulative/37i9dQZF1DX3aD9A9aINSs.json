@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Overthinker EP",
+        "url": "https://open.spotify.com/album/1WtUkhyyfYhwylSC2Kj7ap"
+      },
+      "artists": [
+        {
+          "name": "Allie Foe",
+          "url": "https://open.spotify.com/artist/6BmH9X5TiiwtrRwKkIGpWn"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "Asian Side",
+      "url": "https://open.spotify.com/track/1djQX4Tc0p7hFmEznvCPZa"
+    },
+    {
+      "album": {
         "name": "Ate\u015f",
         "url": "https://open.spotify.com/album/5dO5elwvH1YauW47qUyxLm"
       },

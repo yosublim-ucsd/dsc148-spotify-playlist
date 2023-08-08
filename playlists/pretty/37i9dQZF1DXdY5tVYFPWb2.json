@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 147137,
+  "num_followers": 147212,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzFkZTM3ZWQ4OGMxMWNjNzgxMmEzODFlZTVhZDUwNzRhZThjNzI4",
+  "snapshot_id": "MCw0NmI2NDZmMzZmNWQ5YmMyYTdkMTJmMmRlNTA4Mjk2ZDJjZDdlOTAx",
   "tracks": [
     {
       "added_at": "2023-08-04 07:24:52",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-08-04 07:24:52",
       "album": {
-        "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/6bfo9YaG53xHfQoYhw5mgQ"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
-        }
-      ],
-      "duration_ms": 255853,
-      "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/4f3emoZ35w869TmpnIxcI3"
-    },
-    {
-      "added_at": "2023-08-04 07:24:52",
-      "album": {
         "name": "Smoky Valley",
         "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 259000,
       "name": "Night Distance",
       "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
+    },
+    {
+      "added_at": "2023-08-04 07:24:52",
+      "album": {
+        "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/6bfo9YaG53xHfQoYhw5mgQ"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 255853,
+      "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/4f3emoZ35w869TmpnIxcI3"
     },
     {
       "added_at": "2023-08-04 07:24:52",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-08-04 07:24:52",
       "album": {
-        "name": "The Lover",
-        "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
-      },
-      "artists": [
-        {
-          "name": "haruno",
-          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
-        },
-        {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
-        }
-      ],
-      "duration_ms": 225369,
-      "name": "Venus Flytrap feat. Chiaki Sato",
-      "url": "https://open.spotify.com/track/51tgAkF9HE14FIR4iYN8K3"
-    },
-    {
-      "added_at": "2023-08-04 07:24:52",
-      "album": {
         "name": "Call me back",
         "url": "https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi"
       },
@@ -1051,22 +1031,22 @@
     {
       "added_at": "2023-08-04 07:24:52",
       "album": {
-        "name": "Mo ai ni",
-        "url": "https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7"
+        "name": "The Lover",
+        "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
       },
       "artists": [
         {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
         },
         {
-          "name": "\u77f3\u73ba\u5f64",
-          "url": "https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd"
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
         }
       ],
-      "duration_ms": 178673,
-      "name": "Mo ai ni",
-      "url": "https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP"
+      "duration_ms": 225369,
+      "name": "Venus Flytrap feat. Chiaki Sato",
+      "url": "https://open.spotify.com/track/51tgAkF9HE14FIR4iYN8K3"
     },
     {
       "added_at": "2023-08-04 07:24:52",
@@ -1083,6 +1063,26 @@
       "duration_ms": 176919,
       "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
       "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
+    },
+    {
+      "added_at": "2023-08-04 07:24:52",
+      "album": {
+        "name": "Mo ai ni",
+        "url": "https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        },
+        {
+          "name": "\u77f3\u73ba\u5f64",
+          "url": "https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd"
+        }
+      ],
+      "duration_ms": 178673,
+      "name": "Mo ai ni",
+      "url": "https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP"
     },
     {
       "added_at": "2023-08-04 07:24:52",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-08-04 07:24:52",
       "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/2NwgTQwgPrk5GKpwInonB3"
+      },
+      "artists": [
+        {
+          "name": "The Gospellers",
+          "url": "https://open.spotify.com/artist/4MRHdjH8xf7OH0utAw4air"
+        }
+      ],
+      "duration_ms": 206573,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/2SXtvdfWlt12jA0pWrAr2u"
+    },
+    {
+      "added_at": "2023-08-04 07:24:52",
+      "album": {
         "name": "AURORA TOKIO",
         "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
       },
@@ -1167,34 +1183,18 @@
     {
       "added_at": "2023-08-04 07:24:52",
       "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
+        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
+        "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
         }
       ],
-      "duration_ms": 242836,
-      "name": "Twenty-Twenty",
-      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
-    },
-    {
-      "added_at": "2023-08-04 07:24:52",
-      "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/2NwgTQwgPrk5GKpwInonB3"
-      },
-      "artists": [
-        {
-          "name": "The Gospellers",
-          "url": "https://open.spotify.com/artist/4MRHdjH8xf7OH0utAw4air"
-        }
-      ],
-      "duration_ms": 206573,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/2SXtvdfWlt12jA0pWrAr2u"
+      "duration_ms": 201642,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
     },
     {
       "added_at": "2023-08-04 07:24:52",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-08-04 07:24:52",
       "album": {
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 242836,
+      "name": "Twenty-Twenty",
+      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
+    },
+    {
+      "added_at": "2023-08-04 07:24:52",
+      "album": {
         "name": "PRIVATE",
         "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 188173,
       "name": "STARLIGHT",
       "url": "https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd"
-    },
-    {
-      "added_at": "2023-08-04 07:24:52",
-      "album": {
-        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
-        "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 201642,
-      "name": "Amber",
-      "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
     },
     {
       "added_at": "2023-08-04 07:24:52",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-08-04 07:24:52",
       "album": {
-        "name": "IMA",
-        "url": "https://open.spotify.com/album/2yMvBOJATTkn4wDhZZotIT"
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
       },
       "artists": [
         {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+          "name": "sangdei",
+          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
         }
       ],
-      "duration_ms": 217400,
-      "name": "IMA",
-      "url": "https://open.spotify.com/track/4L9DM1h6qdDdHzv7b07Xlz"
+      "duration_ms": 192115,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
     },
     {
       "added_at": "2023-08-04 07:24:52",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-08-04 07:24:52",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
-      },
-      "artists": [
-        {
-          "name": "sangdei",
-          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
-        }
-      ],
-      "duration_ms": 192115,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
-    },
-    {
-      "added_at": "2023-08-04 07:24:52",
-      "album": {
         "name": "Change My Life",
         "url": "https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 243600,
       "name": "Change My Life",
       "url": "https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6"
+    },
+    {
+      "added_at": "2023-08-04 07:24:52",
+      "album": {
+        "name": "IMA",
+        "url": "https://open.spotify.com/album/2yMvBOJATTkn4wDhZZotIT"
+      },
+      "artists": [
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "IMA",
+      "url": "https://open.spotify.com/track/4L9DM1h6qdDdHzv7b07Xlz"
     },
     {
       "added_at": "2023-08-04 07:24:52",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-08-04 07:24:52",
       "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i"
+      },
+      "artists": [
+        {
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        }
+      ],
+      "duration_ms": 272657,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
+    },
+    {
+      "added_at": "2023-08-04 07:24:52",
+      "album": {
         "name": "TICKETS",
         "url": "https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z"
       },
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2023-08-04 07:24:52",
       "album": {
-        "name": "TRANSIT IN SUMMER",
-        "url": "https://open.spotify.com/album/7fr2UWTOYGTMx3cck8GOY1"
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
       },
       "artists": [
         {
-          "name": "GOOD BYE APRIL",
-          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
         }
       ],
-      "duration_ms": 265471,
-      "name": "TRANSIT IN SUMMER",
-      "url": "https://open.spotify.com/track/71rNG9Gx5bo66KCDjpkBUQ"
+      "duration_ms": 197500,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
     },
     {
       "added_at": "2023-08-04 07:24:52",
@@ -1647,34 +1663,38 @@
     {
       "added_at": "2023-08-04 07:24:52",
       "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i"
+        "name": "TRANSIT IN SUMMER",
+        "url": "https://open.spotify.com/album/7fr2UWTOYGTMx3cck8GOY1"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+          "name": "GOOD BYE APRIL",
+          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
         }
       ],
-      "duration_ms": 272657,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
+      "duration_ms": 265471,
+      "name": "TRANSIT IN SUMMER",
+      "url": "https://open.spotify.com/track/71rNG9Gx5bo66KCDjpkBUQ"
     },
     {
       "added_at": "2023-08-04 07:24:52",
       "album": {
-        "name": "Good Morning",
-        "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
+        "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
       },
       "artists": [
         {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
+      "duration_ms": 226779,
+      "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
     },
     {
       "added_at": "2023-08-04 07:24:52",
@@ -1731,26 +1751,6 @@
       "duration_ms": 191663,
       "name": "It's all about you",
       "url": "https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr"
-    },
-    {
-      "added_at": "2023-08-04 07:24:52",
-      "album": {
-        "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Hikari",
-          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
-        }
-      ],
-      "duration_ms": 226779,
-      "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

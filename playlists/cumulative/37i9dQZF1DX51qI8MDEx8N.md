@@ -4,7 +4,7 @@
 
 > Soft piano music to accompany your reading
 
-173 songs - 7 hr 29 min
+176 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Hour Glass](https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Hour Glass](https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P) | 2:51 | 2022-04-28 |  |
 | [Human](https://open.spotify.com/track/2SMT5fwEqzZIu5VGFYL6qH) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Seasons](https://open.spotify.com/album/2ev06zAeaGpVlOkOTD1JUb) | 3:22 | 2022-04-28 | 2022-07-21 |
 | [Hvile \(Ps.4\)](https://open.spotify.com/track/6VX09RQkEUeCA2f07eF4L0) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Hvile \(Ps.4\)](https://open.spotify.com/album/70ulnAtVVPZApVt5J4WIbm) | 2:25 | 2023-07-25 |  |
+| [I Dare Not Dream](https://open.spotify.com/track/31as8GAbqrm9thjsrTD7lo) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Dare Not Dream](https://open.spotify.com/album/1X8SeMtxLgpnUCvUo6QcVj) | 2:14 | 2023-08-07 |  |
 | [Il mio cuore brucia per te](https://open.spotify.com/track/2Wvu8d2R1Ish33Jl67JEdI) | [Oddo Fava](https://open.spotify.com/artist/3DbqhQZ1BfpxozIDPMjZDd) | [Il mio cuore brucia per te](https://open.spotify.com/album/65YsTIbDwGwTGVxGjpDMvy) | 2:10 | 2022-04-28 |  |
 | [Impuissance](https://open.spotify.com/track/3W5GfZBvDJQKovjdCww4pL) | [Luisa Amogida](https://open.spotify.com/artist/6G62bUbzGc5W2y0yxeHEKj) | [Impuissance](https://open.spotify.com/album/7Md0Z0mUYIC9WVmnIGTuay) | 2:03 | 2022-04-28 |  |
 | [Innamorarsi](https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97) | [Irene Gaifana](https://open.spotify.com/artist/6gdy6anlAQAem03BVY6m83) | [Innamorarsi](https://open.spotify.com/album/47kowrH6Cijbzn3xy0FMV6) | 2:32 | 2022-04-28 |  |
@@ -103,6 +104,7 @@
 | [nyvallen](https://open.spotify.com/track/5Fc41UbpeLPaltHBkrL5kz) | [Ove Roos](https://open.spotify.com/artist/6qPCa2xnuweDEXoBg5Byr0) | [nyvallen](https://open.spotify.com/album/2dnicxYzWPd2TJg1qz6qxp) | 2:08 | 2023-06-27 |  |
 | [Når du er her](https://open.spotify.com/track/4qyDXgwZksmIOpuQq5y6vJ) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Når du er her](https://open.spotify.com/album/4gdd1IbQI7yoJjmEwwdbQp) | 2:20 | 2022-04-28 |  |
 | [Older](https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl) | [C.J\. Wilkins](https://open.spotify.com/artist/6cG2racndnT8Xeb4HvR5Pa) | [Older](https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk) | 2:45 | 2022-04-28 |  |
+| [On a summer midnight](https://open.spotify.com/track/68jz5jlpsxs5cL48wGIgqC) | [Qunfan Wen](https://open.spotify.com/artist/2qhWWY7F1cPThO3UfSJVcm) | [On a summer midnight](https://open.spotify.com/album/3Nh4RpRM4ZScvXV3Yi78A9) | 2:03 | 2023-08-07 |  |
 | [Once when I was young](https://open.spotify.com/track/4FRPWTwl40uOHMslTL7fGa) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Once when I was young](https://open.spotify.com/album/4EpZkFkz3jGxSFAq7exAeH) | 2:01 | 2022-04-28 |  |
 | [Op Die Fiets](https://open.spotify.com/track/7lkkpBe13UFrPIe9Ffn2cb) | [Margaretha van Baarle](https://open.spotify.com/artist/1I6amUXyzWrPtpPsLmYHp1) | [Op Die Fiets](https://open.spotify.com/album/7uyWIPr7QyFjo1bdSeQKls) | 2:21 | 2022-04-28 | 2022-07-21 |
 | [Ozoner](https://open.spotify.com/track/18a9jkAzxb1ooVOCfiBxoZ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [Ozoner](https://open.spotify.com/album/6BKP1295jcSDfcRnlvqIyk) | 3:04 | 2022-04-28 | 2022-07-21 |
@@ -149,6 +151,7 @@
 | [Te lo prometto](https://open.spotify.com/track/25WI6xofZEaZmZRus2VzjO) | [Isaia Donini](https://open.spotify.com/artist/7uZiElUrYRfPalrM9kZBdI) | [Te lo prometto](https://open.spotify.com/album/3FevTCLbawOb3TgUlUD66p) | 2:16 | 2022-04-28 |  |
 | [The Beginning](https://open.spotify.com/track/3y2v4q1x9MyPQ4O12IpMUL) | [Maybelle Watson](https://open.spotify.com/artist/0r0MT1SFBOA04mUgXA5PzX) | [The Beginning](https://open.spotify.com/album/1su3KOYInrFNm0jFL5hoH0) | 1:59 | 2022-04-28 |  |
 | [The Cherry Trees](https://open.spotify.com/track/1dPIVEUmnh7v9r4KUnOTHH) | [Gail Bastien](https://open.spotify.com/artist/1eCocb44CK7LZas5v6DKUC) | [The Cherry Trees](https://open.spotify.com/album/2tJO1OQKOOi4tSvQpNQBFG) | 2:25 | 2022-04-28 |  |
+| [The Destination](https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Destination](https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH) | 2:02 | 2023-08-07 |  |
 | [The Garden](https://open.spotify.com/track/5zxpOwuLmakNHkTgipD0me) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Simple Things](https://open.spotify.com/album/2Mb8DzYuYlPIM1IaNmO0oq) | 3:05 | 2022-04-28 |  |
 | [The Garden](https://open.spotify.com/track/2DiA01I5LFxzZC7QpVg3PZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Garden](https://open.spotify.com/album/09kiYFhi76YddawBYnHKXt) | 2:56 | 2022-07-20 |  |
 | [The Garden Level](https://open.spotify.com/track/5Ku72stdcggstX5jSNeMxN) | [Rachel Page](https://open.spotify.com/artist/5Wa9BCfxcZp6m8buEvClQF) | [Infinite Landing](https://open.spotify.com/album/3OUb8u8blLuUt2i4gnTUdD) | 2:17 | 2022-04-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A collection of powerful voices and alluring siren songs. ",
-  "num_followers": 619914,
+  "num_followers": 619978,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzY4NjdmNjkxOWE3NTNhZjQ1MWQ2YzdhNmI0YmMxZWE4ZGI3NTE0",
+  "snapshot_id": "MCw0MTAyZjlkN2JhNTQ4NTJhMTcxODM2YTA5ZWRkNDgxMWZhMjE1NGRk",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Harmony (Deluxe)",
+        "url": "https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7"
+      },
+      "artists": [
+        {
+          "name": "Serena Ryder",
+          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+        }
+      ],
+      "duration_ms": 221746,
+      "name": "Stompa",
+      "url": "https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Metals",
         "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 202293,
       "name": "Spider in the Roses (feat. Rob the Man)",
       "url": "https://open.spotify.com/track/7GRjFivuEaOyRMYcKGryXz"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Harmony (Deluxe)",
-        "url": "https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7"
-      },
-      "artists": [
-        {
-          "name": "Serena Ryder",
-          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
-        }
-      ],
-      "duration_ms": 221746,
-      "name": "Stompa",
-      "url": "https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/757AemvYYoWCfp729Xp9eG"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "Help Me Mama",
+      "url": "https://open.spotify.com/track/42iQ0ozQbqmzQCD0Eq5NOc"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "In Loving Memory of When I Gave a Shit",
         "url": "https://open.spotify.com/album/5o32Ftd7SS0EKIQlFwubH4"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 164586,
       "name": "Not Gonna Let You Walk Away",
       "url": "https://open.spotify.com/track/0UyCF0hctdZJomjdzDibPB"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "We Could Fall In Love",
-        "url": "https://open.spotify.com/album/0IGGMUU4aXkCm0TYIsPiUh"
-      },
-      "artists": [
-        {
-          "name": "Hesta Prynn",
-          "url": "https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV"
-        }
-      ],
-      "duration_ms": 235997,
-      "name": "Beside Myself",
-      "url": "https://open.spotify.com/track/4qVLEVLK2bbNHBKBuE8JZ3"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The Storm",
-        "url": "https://open.spotify.com/album/757AemvYYoWCfp729Xp9eG"
+        "name": "We Could Fall In Love",
+        "url": "https://open.spotify.com/album/0IGGMUU4aXkCm0TYIsPiUh"
       },
       "artists": [
         {
-          "name": "ZZ Ward",
-          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+          "name": "Hesta Prynn",
+          "url": "https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV"
         }
       ],
-      "duration_ms": 185986,
-      "name": "Help Me Mama",
-      "url": "https://open.spotify.com/track/42iQ0ozQbqmzQCD0Eq5NOc"
+      "duration_ms": 235997,
+      "name": "Beside Myself",
+      "url": "https://open.spotify.com/track/4qVLEVLK2bbNHBKBuE8JZ3"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Nightmare Machine",
+        "url": "https://open.spotify.com/album/7l3bigwzunjgakr32KbRns"
+      },
+      "artists": [
+        {
+          "name": "Olivia Reid",
+          "url": "https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1"
+        }
+      ],
+      "duration_ms": 259760,
+      "name": "Nightmare Machine",
+      "url": "https://open.spotify.com/track/7GAoSqewwn9PArGeeD3DVv"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Springtime Carnivore",
         "url": "https://open.spotify.com/album/4wCFY76jpnOHeQ0VAcpPoO"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Nightmare Machine",
-        "url": "https://open.spotify.com/album/7l3bigwzunjgakr32KbRns"
-      },
-      "artists": [
-        {
-          "name": "Olivia Reid",
-          "url": "https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1"
-        }
-      ],
-      "duration_ms": 259760,
-      "name": "Nightmare Machine",
-      "url": "https://open.spotify.com/track/7GAoSqewwn9PArGeeD3DVv"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Kathleen II",
         "url": "https://open.spotify.com/album/53i39sp8XOhqNPZ9q7reFG"
       },
@@ -935,6 +935,26 @@
       "duration_ms": 205316,
       "name": "Glass Piano",
       "url": "https://open.spotify.com/track/4Rz3FamBRVJ6s1d0B0XGJ4"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Cannonball (Acoustic)",
+        "url": "https://open.spotify.com/album/1EhkXNK9Y9WFGb1s77NFmn"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        },
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 278196,
+      "name": "Cannonball - Acoustic",
+      "url": "https://open.spotify.com/track/21TxR8B11XQRg3PTOLZ7PH"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -967,26 +987,6 @@
       "duration_ms": 182853,
       "name": "Torture",
       "url": "https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Cannonball (Acoustic)",
-        "url": "https://open.spotify.com/album/1EhkXNK9Y9WFGb1s77NFmn"
-      },
-      "artists": [
-        {
-          "name": "ZZ Ward",
-          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
-        },
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 278196,
-      "name": "Cannonball - Acoustic",
-      "url": "https://open.spotify.com/track/21TxR8B11XQRg3PTOLZ7PH"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Park",
-        "url": "https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C"
-      },
-      "artists": [
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/7GaoWajJQTbulUBl9c9qWF"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "awakening",
         "url": "https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 254000,
       "name": "awakening",
       "url": "https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Park",
+        "url": "https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C"
+      },
+      "artists": [
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/7GaoWajJQTbulUBl9c9qWF"
     },
     {
       "added_at": "2023-07-21 04:00:00",

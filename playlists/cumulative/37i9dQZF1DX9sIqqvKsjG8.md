@@ -4,7 +4,7 @@
 
 > Focus with soft study music in the background.
 
-750 songs - 1 day 8 hr 6 min
+751 songs - 1 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,6 +554,7 @@
 | [Seine](https://open.spotify.com/track/2y1o99gVURVZkmIyahWBb5) | [Rosa Leoni](https://open.spotify.com/artist/0TeuxsDOlSehaWDrCgGKNq) | [Moonray](https://open.spotify.com/album/4TsCwNDnZVczYuYG7nAyaC) | 3:18 | 2021-12-07 |  |
 | [Semele](https://open.spotify.com/track/7xDJKwrqDHATq89aKu8E2Q) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Cuaderna Vía](https://open.spotify.com/album/5xyUHwD6UW7hoeS0N1A29o) | 2:46 | 2022-09-12 |  |
 | [Sempiternal](https://open.spotify.com/track/6aPNSFUv5X13wjZsjJAbYW) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Sempiternal](https://open.spotify.com/album/4dnpugZmM76LxImCmWfmgM) | 2:08 | 2022-03-16 |  |
+| [Sense and Sensibility](https://open.spotify.com/track/1oc16fN8pHizHjXInRnSTG) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Sense and Sensibility](https://open.spotify.com/album/6OG93VC6zieZ8RJ8QUW0eW) | 2:52 | 2023-08-07 |  |
 | [Separate In Time](https://open.spotify.com/track/3Qwlg0GoR7oYU1V4liyYNa) | [Ximena Lopez](https://open.spotify.com/artist/0xYM56zKh0cqSMVSAkqg0P) | [Separate In Time](https://open.spotify.com/album/4ulh2ZiMzD4k8RytTl7Oix) | 2:47 | 2021-12-07 | 2022-10-25 |
 | [Serán](https://open.spotify.com/track/0KuTiAtn3Dx74iJfTJknWt) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 2:32 | 2021-12-07 | 2022-10-14 |
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2021-12-07 | 2023-04-19 |

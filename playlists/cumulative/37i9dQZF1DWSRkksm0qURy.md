@@ -4,7 +4,7 @@
 
 > Immersive sacral solfeggio frequencies
 
-71 songs - 3 hr 28 min
+78 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,8 @@
 | [417 Hz \- Soledad Tranquilo](https://open.spotify.com/track/0NjwEMcfZAa0N0A3g8cfQl) | [Inkognitone](https://open.spotify.com/artist/4QboCl4BNGAbXTeFx4zFGl) | [Soledad Tranquilo](https://open.spotify.com/album/6kEm1ctmep8BwLjbNaWjhF) | 2:16 | 2023-03-10 |  |
 | [417 Hz \- Solfeggio For Clarity](https://open.spotify.com/track/6BsnYdzfTdAWPbocCOdAON) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Solfeggio For Clarity](https://open.spotify.com/album/2w7B92xiafwo6yJN15d7UM) | 3:12 | 2023-03-10 |  |
 | [417 Hz \- Tides of Eternity](https://open.spotify.com/track/5YW42kAlOzCPkJkuslA3Zv) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Tides of Eternity](https://open.spotify.com/album/6WgkixEENAU8DXDGjquVRo) | 2:54 | 2023-03-10 |  |
+| [417 Hz \- Why The Rush](https://open.spotify.com/track/4kGgvet4UW9oOZKTlpY3ic) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Why The Rush \(Solfeggio Frequencies\)](https://open.spotify.com/album/2lfMgal1aJw6QngoiMEBQH) | 2:17 | 2023-08-07 |  |
+| [417 Hz Breathe In](https://open.spotify.com/track/5DWfdHlOypTY2FTNZnl8Zx) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [417 Hz Breathe In](https://open.spotify.com/album/54YmJvv7tLNqMLPJsBo92d) | 2:34 | 2023-08-07 |  |
 | [417 Hz Calma](https://open.spotify.com/track/7fgFpG7NkhCSHGE8HwPWRp) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [417 Hz Soundscapes for Relaxation and Meditation](https://open.spotify.com/album/5aLjQ1knFzjkmMxwJrPPpd) | 2:46 | 2023-03-10 |  |
 | [417 Hz Calma \(Nature\)](https://open.spotify.com/track/5RpPrA45N1wKZRUjVR2NJk) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [417 Hz Soundscapes for Relaxation and Meditation with Nature Sounds](https://open.spotify.com/album/0luGXVbbrR8hDxjDl3Rx68) | 2:46 | 2023-03-10 |  |
 | [417 Hz Chakra](https://open.spotify.com/track/4QzI9XTnSaCGmVMIhrU1hB) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [417 Hz Soundscapes for Relaxation and Meditation](https://open.spotify.com/album/5aLjQ1knFzjkmMxwJrPPpd) | 3:02 | 2023-03-10 |  |
@@ -33,11 +35,13 @@
 | [417 Hz Letting go](https://open.spotify.com/track/56WpAn0KZKqedUicFeq5bP) | [Calming Lesmo](https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D) | [417 Hz Letting go](https://open.spotify.com/album/2Bgl7sZQMHKGjdQSMYfUOo) | 2:48 | 2023-03-10 |  |
 | [417 Hz New Beginning](https://open.spotify.com/track/549NvYpEQqmEJdT0yAvqD2) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [New Beginning](https://open.spotify.com/album/1AjaVNgylLuRhsBZptlwKH) | 3:43 | 2023-03-10 |  |
 | [417 Hz OM Chanting Meditation Music](https://open.spotify.com/track/4sFXdpHcCA0ksJjFQr6eA3) | [Miracle Waves](https://open.spotify.com/artist/6Olo3ndJO668ISIF22Vv9F), [Miracle Wake](https://open.spotify.com/artist/5uD6Sej9GUPI0EOyXOjNZ6), [Solfeggio Frequencies Healing Music](https://open.spotify.com/artist/5KuIHc8rHCWEBGQZsuOUX8) | [417 Hz Remove All The Negative Blockages & Energy](https://open.spotify.com/album/0Hy0MmCOPPvrrrC1e9Udek) | 3:00 | 2023-03-10 |  |
+| [417 Hz Reflection](https://open.spotify.com/track/7sTCaTsYVLADWpsIYdqgzY) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [417 Hz Breathe In](https://open.spotify.com/album/54YmJvv7tLNqMLPJsBo92d) | 2:51 | 2023-08-07 |  |
 | [417 Hz Sacral Chakra Solfeggio](https://open.spotify.com/track/1l2MLb1AsvY0Nc5dm7GQFW) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Gentle Breathing](https://open.spotify.com/album/2zpiPiyUUfFfWN6OdXeL2W) | 3:06 | 2023-03-10 |  |
 | [417 Hz Solfeggio](https://open.spotify.com/track/08Zmt06jnhqOL4vmdKkESb) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [417 Hz Solfeggio](https://open.spotify.com/album/7jqvgtRJuivWriMordfwYL) | 2:36 | 2023-03-10 |  |
 | [417 Hz Solfeggio Frequency](https://open.spotify.com/track/47IbHdpp4sn0iTvE0EkNHo) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [417 Hz Solfeggio Frequency](https://open.spotify.com/album/1oEQqV7mxF2eXPiNIAba6H) | 2:29 | 2023-03-10 |  |
 | [417 Hz Spaces \(Nature\)](https://open.spotify.com/track/6zyFBX0I7r8O7OWQTcno5Y) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [417 Hz Soundscapes for Relaxation and Meditation with Nature Sounds](https://open.spotify.com/album/0luGXVbbrR8hDxjDl3Rx68) | 3:09 | 2023-03-10 |  |
 | [417 Hz Timeless](https://open.spotify.com/track/4VMWQ3W7dj0IdGibhdQKlX) | [Francorchamps](https://open.spotify.com/artist/11fWJjHq0q210RYCK5sSDh) | [417 Hz Timeless](https://open.spotify.com/album/0Ht0PmmDktxvvfptwGPVwD) | 3:00 | 2023-03-10 |  |
+| [417 Hz Unity Healing](https://open.spotify.com/track/4SsyJ6wO0IJi2iZyj7K2xo) | [Edda Prado](https://open.spotify.com/artist/0PAg1jsa3Fn4R8XmcoYUWc) | [417 Hz Unity Healing](https://open.spotify.com/album/5SdV03KnGJdl7ougERDrx5) | 3:12 | 2023-08-07 |  |
 | [417 Hz – Talentueuse](https://open.spotify.com/track/4sUwwyop662EyG9YuSAMWg) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Talentueuse](https://open.spotify.com/album/34cHAvwkGQnYto6Ze7Hii3) | 2:19 | 2023-03-10 |  |
 | [417 Solfeggio Attunement](https://open.spotify.com/track/2xakNztMJ2DfVKQrDIKFA0) | [Healing Solfeggio Frequencies](https://open.spotify.com/artist/0uRQI1sULS7xxsokeianJf) | [417: Healing Vibrations](https://open.spotify.com/album/6r5fwkLpEPBgi70ELGlrtv) | 2:08 | 2023-03-10 |  |
 | [Adieu au Printemps](https://open.spotify.com/track/3CyaR8o8mYRfgkqpzcATh7) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Burrow in Broughton Island](https://open.spotify.com/album/5nViQTQi5BB98zPuDaRKXM) | 3:06 | 2023-03-10 |  |
@@ -49,6 +53,7 @@
 | [Crystal Bowl Dream](https://open.spotify.com/track/0f8DS6g7JIPQMzaONezO4g) | [iD8](https://open.spotify.com/artist/3DjpvRyhGuXg5ICJqwng4z) | [Crystal Bowl Dream](https://open.spotify.com/album/6Bo4QllINweqhoOyn90NtA) | 2:15 | 2023-03-10 |  |
 | [Cynosure](https://open.spotify.com/track/032YBrJJLqZyXxutvSGSkC) | [David Ripperton](https://open.spotify.com/artist/0wpChJY0eLNSdeIep3DCyy) | [Antimatter](https://open.spotify.com/album/0RiEwT4ksUqdHRisAoi47P) | 3:37 | 2023-03-10 |  |
 | [D \(Sacral Chakra\)](https://open.spotify.com/track/38LuIu2at7qusPMfg5q2CH) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Singing Bowls \(Zen Tones for Meditation, Acupuncture, Reiki, Qi\-Gong, Sound Therapy and Metaphysical Healers\)](https://open.spotify.com/album/3nUjK5dYNgtQxol98A9HMU) | 1:00 | 2023-03-10 |  |
+| [Deep Energy Cleansing 417 Hz](https://open.spotify.com/track/0nXJnReT4g1SsTH98vaciS) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Deep Energy Cleansing](https://open.spotify.com/album/1qPqbBL3EzSDOI7eJGbzpj) | 2:50 | 2023-08-07 |  |
 | [Dreamy Crystals](https://open.spotify.com/track/4C6WwU3JOdpDtdyfAIu0st) | [Meditators](https://open.spotify.com/artist/35qLVQ5G13Moug3HQcf90C) | [Dreamy Crystals](https://open.spotify.com/album/4LOPkqTBmJePEBKM6CYqb4) | 3:12 | 2023-03-10 |  |
 | [Embracement \- 417 Hz](https://open.spotify.com/track/4lUDuLAGdCnhHTbwG7VPpN) | [Originem](https://open.spotify.com/artist/4B7JO2XuZz3Jivh8he8VWD) | [Origin of Us](https://open.spotify.com/album/4LHxyg0Xh4f0HRXZvQLRak) | 3:47 | 2023-03-10 |  |
 | [Embracing Me \(417 Hz\)](https://open.spotify.com/track/6XUFu4FFdZxnhOcQDozHS4) | [Dream Projector](https://open.spotify.com/artist/4zSxojCGZhoGIPzSnvI1e7) | [Healing Hara](https://open.spotify.com/album/1cIyBKfW6oVGpB5EwcyNJd) | 3:30 | 2023-03-10 |  |
@@ -61,6 +66,7 @@
 | [Lagoon](https://open.spotify.com/track/3a3Xgy540vu64CNhK1eDN4) | [atm0](https://open.spotify.com/artist/2dLJKI99EQIlCSH9yMf1Qr) | [Lagoon](https://open.spotify.com/album/0gB1AjEmje8Jmbz969EWjg) | 2:46 | 2023-03-10 |  |
 | [Lamrim \(Sound Bath\)](https://open.spotify.com/track/4SntEk9w1JNvIgiAShAKc0) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/1ebhcZPcYlwJ7uQhIn3YvT) | 4:30 | 2023-03-10 |  |
 | [Light Dance 417 Hz](https://open.spotify.com/track/275SWB6ZZfjuzMHMDdff56) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Light Dance 417 Hz](https://open.spotify.com/album/4zNoVzMhjRYcgInsqdkrto) | 2:24 | 2023-03-10 |  |
+| [Lines 417 Hz](https://open.spotify.com/track/4nnBwNHbrcONCHjmMJfbEQ) | [Sonus Tranquillitas](https://open.spotify.com/artist/6TS8sOQsiCCaCFjZIC619T) | [Lines 417 Hz](https://open.spotify.com/album/6vY0t8LG0wrcaBAb3XQdjf) | 3:01 | 2023-08-07 |  |
 | [Of A Spiritual Tradition 417Hz](https://open.spotify.com/track/0I4AbMLVywCiM2vvOwvnHt) | [Agatha Köhler](https://open.spotify.com/artist/38H9BsCVVPxjtC24Gm6Yer) | [Of A Spiritual Tradition 417Hz](https://open.spotify.com/album/553tOulCbRxd5RXgJyJL8N) | 2:45 | 2023-03-10 |  |
 | [Park Place 417 Hz](https://open.spotify.com/track/5Dgpop0URLSWPMFOeQCJGt) | [Aziz Kirkin](https://open.spotify.com/artist/7BPMsxBuGDkaKlsYWR38kS) | [Park Place 417 Hz](https://open.spotify.com/album/3uILqU6ZXWhAZIzszNkebF) | 2:56 | 2023-03-10 |  |
 | [Positive Change 417 Hz](https://open.spotify.com/track/2g1wqopvxaP9aaJmGMNRFa) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Positive Change 417 Hz & Returning 852 Hz](https://open.spotify.com/album/4j3ea1tblHSGCqbw24dDUs) | 3:08 | 2023-03-10 |  |
@@ -78,6 +84,7 @@
 | [Talisman](https://open.spotify.com/track/7nbNCSPIvcyjQNcCTwD6aX) | [David Ripperton](https://open.spotify.com/artist/0wpChJY0eLNSdeIep3DCyy) | [Antimatter](https://open.spotify.com/album/0RiEwT4ksUqdHRisAoi47P) | 3:07 | 2023-03-10 |  |
 | [The Sacred \(417 Hz\)](https://open.spotify.com/track/4Ty6BpzqZfAEetSMV6cAn2) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Intentional Impact](https://open.spotify.com/album/6nuc9pLSPyY5gJ0XOU8t6L) | 3:25 | 2023-03-10 |  |
 | [Universal Energy Healing](https://open.spotify.com/track/08GAV65HlXdgVGIrA0JmGM) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5EJ6ANuXXrCXfvUs6QvfqS) | 3:24 | 2023-03-10 |  |
+| [Universal Oneness \- 417 Hz](https://open.spotify.com/track/175xi8GRJI1wCPfKQ6AKjw) | [Gaia Rosica](https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h) | [Universal Oneness](https://open.spotify.com/album/3l5DTmZK7aeKWc1hLm0rcd) | 1:56 | 2023-08-07 |  |
 | [Your Place of Silence 417Hz](https://open.spotify.com/track/7eqlMxFqXVChem3OceICkz) | [Express Freely](https://open.spotify.com/artist/0RcyBJrZdqqizZeR2aiJAq) | [Your Place of Silence 417Hz](https://open.spotify.com/album/64tXJgk5B3HfbieMt1YQWG) | 2:53 | 2023-03-10 |  |
 
 \*This playlist was first scraped on 2023-08-01. Prior content cannot be recovered.

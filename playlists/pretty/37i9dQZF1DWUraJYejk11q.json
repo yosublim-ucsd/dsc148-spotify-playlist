@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 456560,
+  "num_followers": 456594,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTFmMmEyNTBiOGUzYWFmMmZjZTMyNGU0YmQ0YjRkNzUzZTFmNjRk",
+  "snapshot_id": "MCwwZjI2YTkwODNiYzUyZjM3MjNmZmQzYzdkN2ZiNjYwZTRiNzc0NzAw",
   "tracks": [
     {
       "added_at": "2023-07-28 21:29:53",
@@ -209,22 +209,6 @@
       "url": "https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k"
     },
     {
-      "added_at": "2023-04-12 01:28:07",
-      "album": {
-        "name": "chronopolis",
-        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
-      },
-      "artists": [
-        {
-          "name": "derek muro",
-          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
-        }
-      ],
-      "duration_ms": 193655,
-      "name": "realcopy",
-      "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
-    },
-    {
       "added_at": "2022-08-19 02:33:31",
       "album": {
         "name": "Order",
@@ -239,6 +223,22 @@
       "duration_ms": 206657,
       "name": "Warm Fuzzies: The Glory",
       "url": "https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd"
+    },
+    {
+      "added_at": "2023-04-12 01:28:07",
+      "album": {
+        "name": "chronopolis",
+        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
+      },
+      "artists": [
+        {
+          "name": "derek muro",
+          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
+        }
+      ],
+      "duration_ms": 193655,
+      "name": "realcopy",
+      "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
     },
     {
       "added_at": "2022-01-21 20:14:08",
@@ -721,6 +721,22 @@
       "url": "https://open.spotify.com/track/1MmksCcZL31uJu8J4swpsC"
     },
     {
+      "added_at": "2023-01-04 00:21:35",
+      "album": {
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 399240,
+      "name": "Pigeon Barron",
+      "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
+    },
+    {
       "added_at": "2022-12-20 19:12:56",
       "album": {
         "name": "Dreamy Hamilton (Remixes)",
@@ -761,38 +777,6 @@
       "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
-      "added_at": "2022-01-19 22:44:25",
-      "album": {
-        "name": "Fwd: Re: late (Ref.: karoshi)",
-        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 361386,
-      "name": "Fwd: Re: late (Ref.: karoshi)",
-      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
-    },
-    {
-      "added_at": "2023-01-04 00:21:35",
-      "album": {
-        "name": "Baby, We're Ascending",
-        "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 399240,
-      "name": "Pigeon Barron",
-      "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
-    },
-    {
       "added_at": "2023-03-28 06:23:11",
       "album": {
         "name": "Extensions",
@@ -807,6 +791,22 @@
       "duration_ms": 252601,
       "name": "Desert Viper",
       "url": "https://open.spotify.com/track/07Ee8FQCrmxyseMqszOATP"
+    },
+    {
+      "added_at": "2022-01-19 22:44:25",
+      "album": {
+        "name": "Fwd: Re: late (Ref.: karoshi)",
+        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Fwd: Re: late (Ref.: karoshi)",
+      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     },
     {
       "added_at": "2023-03-03 04:17:23",

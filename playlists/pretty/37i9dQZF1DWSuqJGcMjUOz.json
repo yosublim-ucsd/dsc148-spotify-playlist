@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWIxNDg3OGYyNzhiMTE4MDRiM2E5MzY0OGMyMmQyMzU5YmIwMGZk",
+  "snapshot_id": "MCw0MWJmZjFkMjg5ZDY3ZGE4NzQwOWEwNWE1MjU4ZThmNzdiZDY5NzBk",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "DOWN",
-        "url": "https://open.spotify.com/album/4PN3DB5DCWhfnKL8MPmmJV"
-      },
-      "artists": [
-        {
-          "name": "Jay Sc\u00f8tt",
-          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
-        }
-      ],
-      "duration_ms": 165851,
-      "name": "DOWN",
-      "url": "https://open.spotify.com/track/2FLFmCpVrGBTp0C85BaFWL"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "80's",
         "url": "https://open.spotify.com/album/2XjaUCMkWHkRd996KUVOHT"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 201409,
       "name": "80's",
       "url": "https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "DOWN",
+        "url": "https://open.spotify.com/album/4PN3DB5DCWhfnKL8MPmmJV"
+      },
+      "artists": [
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        }
+      ],
+      "duration_ms": 165851,
+      "name": "DOWN",
+      "url": "https://open.spotify.com/track/2FLFmCpVrGBTp0C85BaFWL"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Cassandre",
-        "url": "https://open.spotify.com/album/4BK5uN2Z1X1twCTVe6t92Q"
-      },
-      "artists": [
-        {
-          "name": "BR\u00d6",
-          "url": "https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5"
-        }
-      ],
-      "duration_ms": 184288,
-      "name": "Mauvais r\u00f4le",
-      "url": "https://open.spotify.com/track/6fRqPDU2L4PpwTBvByWRe9"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Aux portes du matin",
         "url": "https://open.spotify.com/album/16KeQd5pDMvrMI4Kt4NyHW"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 337533,
       "name": "Aux portes du matin",
       "url": "https://open.spotify.com/track/7tPINSBzEWzNaw8Bw1d7pX"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Cassandre",
+        "url": "https://open.spotify.com/album/4BK5uN2Z1X1twCTVe6t92Q"
+      },
+      "artists": [
+        {
+          "name": "BR\u00d6",
+          "url": "https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5"
+        }
+      ],
+      "duration_ms": 184288,
+      "name": "Mauvais r\u00f4le",
+      "url": "https://open.spotify.com/track/6fRqPDU2L4PpwTBvByWRe9"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -967,6 +967,26 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Jos\u00e9 Louis And The Paradox Of Love",
+        "url": "https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        },
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "duration_ms": 184946,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Grand Eug\u00e8ne",
         "url": "https://open.spotify.com/album/60doKMH86BYnApXvT5jeic"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 108066,
       "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
       "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Jos\u00e9 Louis And The Paradox Of Love",
-        "url": "https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf"
-      },
-      "artists": [
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        },
-        {
-          "name": "anaiis",
-          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
-        }
-      ],
-      "duration_ms": 184946,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Naomi",
-        "url": "https://open.spotify.com/album/732MHsEpWkJRnAkrvXdtoi"
-      },
-      "artists": [
-        {
-          "name": "Naomi",
-          "url": "https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Pas le temps de jouer",
-      "url": "https://open.spotify.com/track/5IYD6Jw0CdpEZTuQF3Jw0K"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "M\u00e9tastases",
         "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 312653,
       "name": "A\u00e9roplane",
       "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Naomi",
+        "url": "https://open.spotify.com/album/732MHsEpWkJRnAkrvXdtoi"
+      },
+      "artists": [
+        {
+          "name": "Naomi",
+          "url": "https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Pas le temps de jouer",
+      "url": "https://open.spotify.com/track/5IYD6Jw0CdpEZTuQF3Jw0K"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "GLAM",
-        "url": "https://open.spotify.com/album/3oXFV6ywdIGcB5MTE1D7WM"
-      },
-      "artists": [
-        {
-          "name": "LUMI\u00c8RE",
-          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Rock Band",
-      "url": "https://open.spotify.com/track/6rqWGgXtPRQ00iEOQMUbCB"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Le pouvoir de l'esprit est infini",
         "url": "https://open.spotify.com/album/4Tn6ivEofLTooQvhHqmTRm"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 277195,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/6vM411RagdEKjnK4kb1f88"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "GLAM",
+        "url": "https://open.spotify.com/album/3oXFV6ywdIGcB5MTE1D7WM"
+      },
+      "artists": [
+        {
+          "name": "LUMI\u00c8RE",
+          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "Rock Band",
+      "url": "https://open.spotify.com/track/6rqWGgXtPRQ00iEOQMUbCB"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Bruits blancs",
-        "url": "https://open.spotify.com/album/4RmrJpCLQu8GmVldWnGT3j"
-      },
-      "artists": [
-        {
-          "name": "Caroline Savoie",
-          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
-        }
-      ],
-      "duration_ms": 186581,
-      "name": "Bruits blancs",
-      "url": "https://open.spotify.com/track/6WmOMC9ejoUfB8EG12O9Jq"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Grand Bleu",
         "url": "https://open.spotify.com/album/78n0CAVpQ3GJJ148WSDRxz"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 175388,
       "name": "Grand Bleu",
       "url": "https://open.spotify.com/track/3QLccDBR414z0qExgMp4FH"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Bruits blancs",
+        "url": "https://open.spotify.com/album/4RmrJpCLQu8GmVldWnGT3j"
+      },
+      "artists": [
+        {
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+        }
+      ],
+      "duration_ms": 186581,
+      "name": "Bruits blancs",
+      "url": "https://open.spotify.com/track/6WmOMC9ejoUfB8EG12O9Jq"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "L'\u00e9chec h\u00e9ro\u00efque",
-        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
-      },
-      "artists": [
-        {
-          "name": "Thick Glasses",
-          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
-        }
-      ],
-      "duration_ms": 204461,
-      "name": "Mydriase",
-      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Hauterive",
         "url": "https://open.spotify.com/album/2T3H2zGJ0OAdpDDful41Bn"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 269173,
       "name": "Le temps d'avance",
       "url": "https://open.spotify.com/track/7sYhY4B6gKSH5XERKxS6UF"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "L'\u00e9chec h\u00e9ro\u00efque",
+        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
+      },
+      "artists": [
+        {
+          "name": "Thick Glasses",
+          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
+        }
+      ],
+      "duration_ms": 204461,
+      "name": "Mydriase",
+      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
     },
     {
       "added_at": "2023-05-25 23:46:15",

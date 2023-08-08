@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 107970,
+  "num_followers": 107993,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzFkN2NlMTIzYmQ0Y2EyOWNkNGQxMjE1MjY4NTlmNzI5MTdiMzM4",
+  "snapshot_id": "MCxjZDc4MzlhMjA1ZTk2MzFjYmNkZGJhNzc0MzNhYWVhOWRjODE5ODI3",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -903,6 +903,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Fire in My Bones",
+        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Fire in My Bones",
+      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "The Wait: Silence The Noise (Live)",
         "url": "https://open.spotify.com/album/3DieBlaZb3oBUjd8Stuxjd"
       },
@@ -971,42 +987,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Fire in My Bones",
-        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Fire in My Bones",
-      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Fearless / Fill Up The Sky (Live)",
-        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 280519,
-      "name": "Fearless - Live",
-      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Roar (Live From Passion 2020)",
         "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
       },
@@ -1027,18 +1007,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Calm the Storm (Live)",
-        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
+        "name": "Fearless / Fill Up The Sky (Live)",
+        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
       },
       "artists": [
         {
-          "name": "Union Creative",
-          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 311406,
-      "name": "Calm the Storm (Live)",
-      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
+      "duration_ms": 280519,
+      "name": "Fearless - Live",
+      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Calm the Storm (Live)",
+        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
+      },
+      "artists": [
+        {
+          "name": "Union Creative",
+          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
+        }
+      ],
+      "duration_ms": 311406,
+      "name": "Calm the Storm (Live)",
+      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Neighbor Songs",
         "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
       },
@@ -1087,26 +1087,6 @@
       "duration_ms": 241600,
       "name": "Daughters of Zion",
       "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Gold (Live)",
-        "url": "https://open.spotify.com/album/5lV5gYbkW9MTdw3zvTgMTP"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 499053,
-      "name": "Gold - Live",
-      "url": "https://open.spotify.com/track/3e3PZTlVvygogXLMiMkFds"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1195,6 +1175,26 @@
       "duration_ms": 258250,
       "name": "Goodness of God",
       "url": "https://open.spotify.com/track/7JfaRyAN7i49gRG80Cevon"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Gold (Live)",
+        "url": "https://open.spotify.com/album/5lV5gYbkW9MTdw3zvTgMTP"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 499053,
+      "name": "Gold - Live",
+      "url": "https://open.spotify.com/track/3e3PZTlVvygogXLMiMkFds"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "You Are Fullness",
-        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 320080,
-      "name": "You Are Fullness",
-      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "The Way Home",
         "url": "https://open.spotify.com/album/5xAZWDWT0Gnh3cxzOyqZzM"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Beyond",
-        "url": "https://open.spotify.com/album/145V4EnRdnOBPsRcuDTgrd"
+        "name": "You Are Fullness",
+        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
       },
       "artists": [
         {
-          "name": "Motion Worship",
-          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
         }
       ],
-      "duration_ms": 320867,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/0md6zrFb7nhh9Gxr2hdUuo"
+      "duration_ms": 320080,
+      "name": "You Are Fullness",
+      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1567,6 +1551,22 @@
       "duration_ms": 359710,
       "name": "A Thousand More - Live",
       "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/145V4EnRdnOBPsRcuDTgrd"
+      },
+      "artists": [
+        {
+          "name": "Motion Worship",
+          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
+        }
+      ],
+      "duration_ms": 320867,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/0md6zrFb7nhh9Gxr2hdUuo"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1807,18 +1807,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/0WFJArmcuNFAF96fJsFf0B"
+        "name": "Christ Our Hope in Life and Death",
+        "url": "https://open.spotify.com/album/5M5GDV3NSebMu0GbfraYl1"
       },
       "artists": [
         {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 341451,
-      "name": "Landslide - Radio Version",
-      "url": "https://open.spotify.com/track/6PNcn8mtUlyilOsdgztIHA"
+      "duration_ms": 271320,
+      "name": "Christ Our Hope in Life and Death",
+      "url": "https://open.spotify.com/track/0tNDbw65xyUlKWsOZhTe0f"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1839,22 +1843,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Christ Our Hope in Life and Death",
-        "url": "https://open.spotify.com/album/5M5GDV3NSebMu0GbfraYl1"
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/0WFJArmcuNFAF96fJsFf0B"
       },
       "artists": [
         {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
         }
       ],
-      "duration_ms": 271320,
-      "name": "Christ Our Hope in Life and Death",
-      "url": "https://open.spotify.com/track/0tNDbw65xyUlKWsOZhTe0f"
+      "duration_ms": 341451,
+      "name": "Landslide - Radio Version",
+      "url": "https://open.spotify.com/track/6PNcn8mtUlyilOsdgztIHA"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Grace That Changes Everything",
-        "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
-      },
-      "artists": [
-        {
-          "name": "All Things New",
-          "url": "https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Sound of Freedom",
-      "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Never Going Back",
         "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 260213,
       "name": "Oh The Wonder (feat. Mike Grayson)",
       "url": "https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Grace That Changes Everything",
+        "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
+      },
+      "artists": [
+        {
+          "name": "All Things New",
+          "url": "https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Sound of Freedom",
+      "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2131,26 +2131,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Never Going Back",
-        "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
-      },
-      "artists": [
-        {
-          "name": "Cross Point Music",
-          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
-        },
-        {
-          "name": "Setnick Sene",
-          "url": "https://open.spotify.com/artist/1GWPXgfWARCEHj1unNonAE"
-        }
-      ],
-      "duration_ms": 257812,
-      "name": "No One (feat. Setnick Sene)",
-      "url": "https://open.spotify.com/track/3eVFaPhYojbmuqU3XiwjOl"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
       },
@@ -2203,6 +2183,26 @@
       "duration_ms": 409909,
       "name": "The Blessing (feat. Maranda Curtis) - Song Session",
       "url": "https://open.spotify.com/track/0bicWqcGF8HXaaBB1HqnxR"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Never Going Back",
+        "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
+      },
+      "artists": [
+        {
+          "name": "Cross Point Music",
+          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
+        },
+        {
+          "name": "Setnick Sene",
+          "url": "https://open.spotify.com/artist/1GWPXgfWARCEHj1unNonAE"
+        }
+      ],
+      "duration_ms": 257812,
+      "name": "No One (feat. Setnick Sene)",
+      "url": "https://open.spotify.com/track/3eVFaPhYojbmuqU3XiwjOl"
     },
     {
       "added_at": "2021-06-12 04:00:40",

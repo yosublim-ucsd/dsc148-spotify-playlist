@@ -221,6 +221,28 @@
     },
     {
       "album": {
+        "name": "Anota A\u00ed (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5md8rYv1JhgQEsBMS5WREE"
+      },
+      "artists": [
+        {
+          "name": "Avine Vinny",
+          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200723,
+      "name": "Anota A\u00ed - Ao Vivo",
+      "url": "https://open.spotify.com/track/5a2CIQaMW3Keqtx4BdXbEY"
+    },
+    {
+      "album": {
         "name": "Tamborz\u00e3o Raiz",
         "url": "https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW"
       },
@@ -1047,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Furduncinho do Rogerinho",
+        "url": "https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179701,
+      "name": "Furduncinho do Rogerinho",
+      "url": "https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n"
+    },
+    {
+      "album": {
         "name": "Se Melhorar Estraga (Ao Vivo)",
         "url": "https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6"
       },
@@ -1186,7 +1226,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 147555,
       "name": "J\u00e1 Sei Namorar",
       "url": "https://open.spotify.com/track/0JwJWbMOceIShN6cXJLxbG"
@@ -1532,7 +1572,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 183870,
       "name": "No Ouvidinho",
       "url": "https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI"
@@ -1616,7 +1656,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 173698,
       "name": "Nosso Quadro",
       "url": "https://open.spotify.com/track/4uqJelb9THHmJ3OCohg4ZJ"
@@ -2498,6 +2538,28 @@
       "duration_ms": 139413,
       "name": "Vaqueiro Apaixonado",
       "url": "https://open.spotify.com/track/26ArOjriQJspvgotGZgX1X"
+    },
+    {
+      "album": {
+        "name": "Pivete do Arrocha Funk",
+        "url": "https://open.spotify.com/album/5k6n5aJv2VjVKXYtpXfWZ9"
+      },
+      "artists": [
+        {
+          "name": "Neno No beat",
+          "url": "https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ"
+        },
+        {
+          "name": "MC Rica",
+          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159276,
+      "name": "Vem Morenin",
+      "url": "https://open.spotify.com/track/58KvJ4I2QMhLcRBnkBam2M"
     },
     {
       "album": {

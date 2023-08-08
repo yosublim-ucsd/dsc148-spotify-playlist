@@ -1,12 +1,12 @@
 {
   "description": "The freshest indie sounds from Japan. \u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002Cover: CHAI",
-  "num_followers": 50956,
+  "num_followers": 50974,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTUzMjJmZDRjYzJmYTVmYjFjMGViNjQ1YzdjYmI2YzM5YzBmZmIw",
+  "snapshot_id": "MCw1NTMyYmUxYmJhNzAyZTdmMjE5ZDhmN2Y4NDk3ODBjYmNhOGFlNjhi",
   "tracks": [
     {
       "added_at": "2023-08-03 15:00:00",
@@ -795,6 +795,26 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
+        "name": "SCENE!",
+        "url": "https://open.spotify.com/album/08O2jixS5hkpjsI0KZUzP2"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        },
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        }
+      ],
+      "duration_ms": 146667,
+      "name": "SCENE!",
+      "url": "https://open.spotify.com/track/56WASWOmOq6PGDA0NWuZOO"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
         "name": "Falling Down",
         "url": "https://open.spotify.com/album/7cPyMm0ljz5LICHgWSIGkJ"
       },
@@ -811,18 +831,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "Booorn!!",
-        "url": "https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3"
+        "name": "FOOL",
+        "url": "https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j"
       },
       "artists": [
         {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 222857,
-      "name": "Booorn!!",
-      "url": "https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R"
+      "duration_ms": 184906,
+      "name": "FOOL",
+      "url": "https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -843,22 +863,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "SCENE!",
-        "url": "https://open.spotify.com/album/08O2jixS5hkpjsI0KZUzP2"
+        "name": "Booorn!!",
+        "url": "https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3"
       },
       "artists": [
         {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        },
-        {
-          "name": "Bonbero",
-          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
         }
       ],
-      "duration_ms": 146667,
-      "name": "SCENE!",
-      "url": "https://open.spotify.com/track/56WASWOmOq6PGDA0NWuZOO"
+      "duration_ms": 222857,
+      "name": "Booorn!!",
+      "url": "https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -907,22 +923,6 @@
       "duration_ms": 243055,
       "name": "\u6843\u6e90\u90f7",
       "url": "https://open.spotify.com/track/0Tjvz28oGJvg6EIyQHIWvo"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
-        "name": "FOOL",
-        "url": "https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "FOOL",
-      "url": "https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u02d6\u5d50\u208a\u02da\u02d1\u0f04",
-        "url": "https://open.spotify.com/album/0sBf3Y2OJkD3K1Gkx96Hl0"
-      },
-      "artists": [
-        {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
-        }
-      ],
-      "duration_ms": 200754,
-      "name": "\u02d6\u5d50\u208a\u02da\u02d1\u0f04",
-      "url": "https://open.spotify.com/track/3wMYas4SVVxlBd7tgSeh2O"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
         "name": "ANGRY ANGRY",
         "url": "https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 136866,
       "name": "ANGRY ANGRY",
       "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "\u02d6\u5d50\u208a\u02da\u02d1\u0f04",
+        "url": "https://open.spotify.com/album/0sBf3Y2OJkD3K1Gkx96Hl0"
+      },
+      "artists": [
+        {
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        }
+      ],
+      "duration_ms": 200754,
+      "name": "\u02d6\u5d50\u208a\u02da\u02d1\u0f04",
+      "url": "https://open.spotify.com/track/3wMYas4SVVxlBd7tgSeh2O"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
+        "name": "Mo ai ni",
+        "url": "https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        },
+        {
+          "name": "\u77f3\u73ba\u5f64",
+          "url": "https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd"
+        }
+      ],
+      "duration_ms": 178673,
+      "name": "Mo ai ni",
+      "url": "https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/6dxnxwVjewZUp8K967BUaq"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 247849,
       "name": "Mother",
       "url": "https://open.spotify.com/track/7IY2Ro6XnoIAtr5bLuoCJD"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
-        "name": "Mo ai ni",
-        "url": "https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7"
-      },
-      "artists": [
-        {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        },
-        {
-          "name": "\u77f3\u73ba\u5f64",
-          "url": "https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd"
-        }
-      ],
-      "duration_ms": 178673,
-      "name": "Mo ai ni",
-      "url": "https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1271,38 +1271,6 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u306e\u3089\u308a\u3064\u3089\u308a",
-        "url": "https://open.spotify.com/album/55M8zj4SdtQwVUxDqn7d6h"
-      },
-      "artists": [
-        {
-          "name": "domico",
-          "url": "https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ"
-        }
-      ],
-      "duration_ms": 205068,
-      "name": "\u306e\u3089\u308a\u3064\u3089\u308a",
-      "url": "https://open.spotify.com/track/5dLM5ldUXKicvwLz3b1CdV"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
-        "name": "All to Myself",
-        "url": "https://open.spotify.com/album/1X9QwFBNOCFiHkOE3OD4v2"
-      },
-      "artists": [
-        {
-          "name": "ako",
-          "url": "https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo"
-        }
-      ],
-      "duration_ms": 198002,
-      "name": "All to Myself",
-      "url": "https://open.spotify.com/track/4nIy52HZ6omZxRnMs6qB0g"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
         "name": "\u30b4\u30fc\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0",
         "url": "https://open.spotify.com/album/6Vq6frI8HsXVoYZiQG8v9e"
       },
@@ -1315,6 +1283,22 @@
       "duration_ms": 305131,
       "name": "\u5927\u6771\u4eac\u4e07\u535a",
       "url": "https://open.spotify.com/track/4Rnpl433c6SsYhynnPS4dN"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "\u306e\u3089\u308a\u3064\u3089\u308a",
+        "url": "https://open.spotify.com/album/55M8zj4SdtQwVUxDqn7d6h"
+      },
+      "artists": [
+        {
+          "name": "domico",
+          "url": "https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ"
+        }
+      ],
+      "duration_ms": 205068,
+      "name": "\u306e\u3089\u308a\u3064\u3089\u308a",
+      "url": "https://open.spotify.com/track/5dLM5ldUXKicvwLz3b1CdV"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u30bb\u30eb\u30d5\u30ce\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/0kqROzkDHknD23ANUiDhgl"
+        "name": "All to Myself",
+        "url": "https://open.spotify.com/album/1X9QwFBNOCFiHkOE3OD4v2"
       },
       "artists": [
         {
-          "name": "THE CHARM PARK",
-          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
+          "name": "ako",
+          "url": "https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo"
         }
       ],
-      "duration_ms": 248720,
-      "name": "\u30bb\u30eb\u30d5\u30ce\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/4s96Bk8Z7euqfxZt2PMgGy"
+      "duration_ms": 198002,
+      "name": "All to Myself",
+      "url": "https://open.spotify.com/track/4nIy52HZ6omZxRnMs6qB0g"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1367,18 +1351,34 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u7b11\u3044\u8a71\u306e\u591c",
-        "url": "https://open.spotify.com/album/12yN9ReJFF180pEX2IjEZY"
+        "name": "\u30bb\u30eb\u30d5\u30ce\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/0kqROzkDHknD23ANUiDhgl"
       },
       "artists": [
         {
-          "name": "OYAT",
-          "url": "https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh"
+          "name": "THE CHARM PARK",
+          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
         }
       ],
-      "duration_ms": 280779,
-      "name": "\u7b11\u3044\u8a71\u306e\u591c - album ver.",
-      "url": "https://open.spotify.com/track/2x953wBThParvOKoGF0XBR"
+      "duration_ms": 248720,
+      "name": "\u30bb\u30eb\u30d5\u30ce\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/4s96Bk8Z7euqfxZt2PMgGy"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "PEGASUS",
+        "url": "https://open.spotify.com/album/1yCRkc8QiR6z5ekv0oCO1F"
+      },
+      "artists": [
+        {
+          "name": "age",
+          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
+        }
+      ],
+      "duration_ms": 172356,
+      "name": "PEGASUS",
+      "url": "https://open.spotify.com/track/4jw5Peb2XRx0cTYUZAPIkv"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "PEGASUS",
-        "url": "https://open.spotify.com/album/1yCRkc8QiR6z5ekv0oCO1F"
+        "name": "\u7b11\u3044\u8a71\u306e\u591c",
+        "url": "https://open.spotify.com/album/12yN9ReJFF180pEX2IjEZY"
       },
       "artists": [
         {
-          "name": "age",
-          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
+          "name": "OYAT",
+          "url": "https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh"
         }
       ],
-      "duration_ms": 172356,
-      "name": "PEGASUS",
-      "url": "https://open.spotify.com/track/4jw5Peb2XRx0cTYUZAPIkv"
+      "duration_ms": 280779,
+      "name": "\u7b11\u3044\u8a71\u306e\u591c - album ver.",
+      "url": "https://open.spotify.com/track/2x953wBThParvOKoGF0XBR"
     },
     {
       "added_at": "2023-08-03 15:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
-        "name": "\u30ed\u30f3\u30ea\u30fc\u30e1\u30a4\u30d3\u30fc",
-        "url": "https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E"
-      },
-      "artists": [
-        {
-          "name": "peanut butters",
-          "url": "https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP"
-        }
-      ],
-      "duration_ms": 179340,
-      "name": "she so come!!!",
-      "url": "https://open.spotify.com/track/0QH4z68TORGX2tBGuYPkr2"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
         "name": "\u604b\u306e\u30b8\u30e3\u30fc\u30ca\u30eb",
         "url": "https://open.spotify.com/album/1oRp7okGGR1nfSNBirPdwX"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 220545,
       "name": "\u604b\u306e\u30b8\u30e3\u30fc\u30ca\u30eb",
       "url": "https://open.spotify.com/track/7ue4j1Jq6f1xdgH5LXIxW6"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
+        "name": "\u30ed\u30f3\u30ea\u30fc\u30e1\u30a4\u30d3\u30fc",
+        "url": "https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E"
+      },
+      "artists": [
+        {
+          "name": "peanut butters",
+          "url": "https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP"
+        }
+      ],
+      "duration_ms": 179340,
+      "name": "she so come!!!",
+      "url": "https://open.spotify.com/track/0QH4z68TORGX2tBGuYPkr2"
     },
     {
       "added_at": "2023-08-03 15:00:00",

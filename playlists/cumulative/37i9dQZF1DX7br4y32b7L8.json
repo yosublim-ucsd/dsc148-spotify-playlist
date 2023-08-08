@@ -335,6 +335,28 @@
     },
     {
       "album": {
+        "name": "Beachclub",
+        "url": "https://open.spotify.com/album/5gC1HRsXewur0q2UajAZuU"
+      },
+      "artists": [
+        {
+          "name": "Koen",
+          "url": "https://open.spotify.com/artist/6vwz7HydONQujdnKzrsSUf"
+        },
+        {
+          "name": "Matthy",
+          "url": "https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121800,
+      "name": "Beachclub",
+      "url": "https://open.spotify.com/track/0kLr2EDbfeMOyhgWbluBWl"
+    },
+    {
+      "album": {
         "name": "Beat Goes On (Rhythm to the Brain)",
         "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
       },
@@ -810,6 +832,24 @@
       "duration_ms": 149209,
       "name": "DARBA 9ADIYA",
       "url": "https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4"
+    },
+    {
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
     },
     {
       "album": {
@@ -3994,6 +4034,24 @@
       "duration_ms": 163447,
       "name": "Vatos Locos",
       "url": "https://open.spotify.com/track/6gF0SzgjzeYSriubXBGThr"
+    },
+    {
+      "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
       "album": {

@@ -6239,6 +6239,24 @@
     },
     {
       "album": {
+        "name": "The Way Home",
+        "url": "https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB"
+      },
+      "artists": [
+        {
+          "name": "Wendie Solomon",
+          "url": "https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147535,
+      "name": "The Way Home",
+      "url": "https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ"
+    },
+    {
+      "album": {
         "name": "This Tender Appeal",
         "url": "https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH"
       },

@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-653 songs - 1 day 16 hr 4 min
+654 songs - 1 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [In My Life](https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 2:57 | 2021-10-20 |  |
 | [In My Life](https://open.spotify.com/track/3QGTAH2zBXS0EgLdrouSgF) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, Em Qualquer Lugar](https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN) | 2:23 | 2023-02-24 | 2023-06-17 |
 | [In My Life](https://open.spotify.com/track/6IZOM0mpvqxtHXngtLdwJ7) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, em Qualquer Lugar](https://open.spotify.com/album/25gF6m29zFfS7NRTZ9SMq6) | 2:23 | 2021-10-20 | 2022-07-29 |
-| [In My Life](https://open.spotify.com/track/625ZpDbngDHqNgjoGiCgBp) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [Architect \(Deluxe\)](https://open.spotify.com/album/4tKIQtoOiJDj2mRonGNOcv) | 2:40 | 2021-10-20 |  |
+| [In My Life](https://open.spotify.com/track/625ZpDbngDHqNgjoGiCgBp) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [Architect \(Deluxe\)](https://open.spotify.com/album/4tKIQtoOiJDj2mRonGNOcv) | 2:40 | 2021-10-20 | 2023-08-08 |
 | [In The Aeroplane Over The Sea](https://open.spotify.com/track/1uR8YDxSxeo8BkbR6MUdvg) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [In The Aeroplane Over The Sea](https://open.spotify.com/album/3QSWBOJ6C8nEI35vhOkZ4u) | 3:41 | 2021-10-20 | 2022-07-29 |
 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 | 2021-10-20 |  |
 | [Into The Black](https://open.spotify.com/track/7MXlRIl901aXfJ2oSGn0E2) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Kill For Love](https://open.spotify.com/album/2Fp5KBgyC0ac2oitVlsJhY) | 5:22 | 2022-06-10 |  |
@@ -372,6 +372,7 @@
 | [Let Her Go](https://open.spotify.com/track/6ItaEfhM0oPK1iesamQMGp) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/4yJzEyjDPwhSzZsn5ShGZI) | 2:52 | 2022-06-10 |  |
 | [Let It Be](https://open.spotify.com/track/3lv9TUA15PFRHtMaPhjKKj) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Soul Queen](https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb) | 3:30 | 2021-10-20 |  |
 | [Let It Go](https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG) | 3:14 | 2021-10-20 | 2023-07-29 |
+| [Let It Go](https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV) | 3:14 | 2023-08-04 |  |
 | [Let It Go](https://open.spotify.com/track/71pa4bKxO1QHetRxhGo86P) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Let It Go](https://open.spotify.com/album/1Qz3RQIIaZFs53H51f0oMD) | 4:04 | 2021-10-20 | 2022-05-28 |
 | [Let Me Love You](https://open.spotify.com/track/64c5q8c5j09YueRimGw4l2) | [The Luck](https://open.spotify.com/artist/1ZiLKiDuHyrckm1ubrrYtK) | [Let Me Love You](https://open.spotify.com/album/6sgv89amcLYzxSUoxjaLls) | 3:04 | 2022-04-29 | 2022-05-10 |
 | [Let Me Love You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Spotify Singles](https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36) | 3:41 | 2021-10-20 |  |

@@ -2,7 +2,7 @@
 
 ### [Soca Classics](https://open.spotify.com/playlist/37i9dQZF1DX3s9lsTCJMPo)
 
-> Carnival Sounds getting you ready for Toronto Caribbean Carnival 2023 curated by Lissa Monet
+> Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by Lissa Monet
 
 274 songs - 19 hr 40 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 戴愛玲 \(Princess Ai\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,210 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,254 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [愛你](https://open.spotify.com/track/0n7Ij8XEDfYYFRgBQjNjnf) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [Kimberley首张同名专辑](https://open.spotify.com/album/4SAbPUrnyw72WivjOA3n8i) | 3:27 |
 | 50 | [一個人還是想著一個人 \- 《終極一班3》片尾曲](https://open.spotify.com/track/6jStVWa7OfddLSVdAxEyxR) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [我是曾沛慈](https://open.spotify.com/album/428cg3yMWFKwXMIg1HGaVd) | 4:52 |
 
-Snapshot ID: `MCw0MWU0YTZmMTJkYWZhYzgwMjZkY2U5Mjc5YWIzMDRkZDkwMDhmZDc1`
+Snapshot ID: `MCxkMzFhZWZkYmI1YTNjMGI0NGMzZjE0NzZlN2NkYmE5M2Y1NzBhYzZl`

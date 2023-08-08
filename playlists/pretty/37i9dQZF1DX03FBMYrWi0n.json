@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Bon Enfant",
-  "num_followers": 2428,
+  "num_followers": 2441,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2E0ZjBkZTk4ZGRlM2FhMGUxZGVhYjRjYWVhOTI4OGI1Nzc5MWZm",
+  "snapshot_id": "MCwzNThmNmE1OWI3OGFlOWI0Y2VjZmVjM2IxZGRhOGM3YmM0NjY5OTIz",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Triste pareil",
+        "url": "https://open.spotify.com/album/5A9eAnxahxPubkYZ6o7xYL"
+      },
+      "artists": [
+        {
+          "name": "Gab Bouchard",
+          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+        }
+      ],
+      "duration_ms": 180426,
+      "name": "\u00c9toiles",
+      "url": "https://open.spotify.com/track/6QZ5o7B9K0umjgPJSe8bFa"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "The Jungle",
         "url": "https://open.spotify.com/album/2vX1d0U8BRkxtssdhyy3Lx"
       },
@@ -287,18 +303,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Triste pareil",
-        "url": "https://open.spotify.com/album/5A9eAnxahxPubkYZ6o7xYL"
+        "name": "P\u00eale-m\u00eale",
+        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
       },
       "artists": [
         {
-          "name": "Gab Bouchard",
-          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
         }
       ],
-      "duration_ms": 180426,
-      "name": "\u00c9toiles",
-      "url": "https://open.spotify.com/track/6QZ5o7B9K0umjgPJSe8bFa"
+      "duration_ms": 149882,
+      "name": "America",
+      "url": "https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -331,22 +347,6 @@
       "duration_ms": 237022,
       "name": "sadguitar_V777.wav",
       "url": "https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "P\u00eale-m\u00eale",
-        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 149882,
-      "name": "America",
-      "url": "https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 223849,
-      "name": "Comfort, Edge",
-      "url": "https://open.spotify.com/track/1oJI54bl1BT3fyVxcezET1"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Rencontrer looloo",
         "url": "https://open.spotify.com/album/5p5o5lAkjxOMk6wPHgtfrP"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
-        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
       "artists": [
         {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 149226,
-      "name": "Entre mes jambes",
-      "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
+      "duration_ms": 223849,
+      "name": "Comfort, Edge",
+      "url": "https://open.spotify.com/track/1oJI54bl1BT3fyVxcezET1"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -491,6 +475,22 @@
       "duration_ms": 253546,
       "name": "La vie attend pas",
       "url": "https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
+        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "duration_ms": 149226,
+      "name": "Entre mes jambes",
+      "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Politesse",
-        "url": "https://open.spotify.com/album/6Ol7V8RECBrqsadRzK252I"
-      },
-      "artists": [
-        {
-          "name": "Laurence-Anne",
-          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "Politesse",
-      "url": "https://open.spotify.com/track/6REpTzDy5aTw1W5rEGWKWV"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 183706,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Politesse",
+        "url": "https://open.spotify.com/album/6Ol7V8RECBrqsadRzK252I"
+      },
+      "artists": [
+        {
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+        }
+      ],
+      "duration_ms": 187813,
+      "name": "Politesse",
+      "url": "https://open.spotify.com/track/6REpTzDy5aTw1W5rEGWKWV"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Maison ouverte",
-        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
-      },
-      "artists": [
-        {
-          "name": "Simon Kearney",
-          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
-        }
-      ],
-      "duration_ms": 239573,
-      "name": "Maison ouverte",
-      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Pink Dogs on the Green Grass",
         "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 225249,
       "name": "Christopher Robbins",
       "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Maison ouverte",
+        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
+      },
+      "artists": [
+        {
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+        }
+      ],
+      "duration_ms": 239573,
+      "name": "Maison ouverte",
+      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "l'\u00cele",
+        "url": "https://open.spotify.com/album/3AkriQvlkrwcr3Nq22hp1U"
+      },
+      "artists": [
+        {
+          "name": "Joseph Carr\u00e9",
+          "url": "https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44"
+        }
+      ],
+      "duration_ms": 182252,
+      "name": "l'\u00cele",
+      "url": "https://open.spotify.com/track/10wZLG9ttpMIiYCaJsRvGs"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Le soleil et la mer",
         "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
       },
@@ -819,18 +835,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Notre-Dame-des-Sept-Douleurs",
-        "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
+        "name": "Piscine hors terre",
+        "url": "https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d"
       },
       "artists": [
         {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+          "name": "Les Trois Accords",
+          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
         }
       ],
-      "duration_ms": 170293,
-      "name": "M\u00e9lamine",
-      "url": "https://open.spotify.com/track/0JtMrH5khKzzjDztgZrpkI"
+      "duration_ms": 211570,
+      "name": "Piscine hors terre",
+      "url": "https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -851,18 +867,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Piscine hors terre",
-        "url": "https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d"
+        "name": "Notre-Dame-des-Sept-Douleurs",
+        "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
       },
       "artists": [
         {
-          "name": "Les Trois Accords",
-          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
         }
       ],
-      "duration_ms": 211570,
-      "name": "Piscine hors terre",
-      "url": "https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu"
+      "duration_ms": 170293,
+      "name": "M\u00e9lamine",
+      "url": "https://open.spotify.com/track/0JtMrH5khKzzjDztgZrpkI"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -879,22 +895,6 @@
       "duration_ms": 193027,
       "name": "OK",
       "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "l'\u00cele",
-        "url": "https://open.spotify.com/album/3AkriQvlkrwcr3Nq22hp1U"
-      },
-      "artists": [
-        {
-          "name": "Joseph Carr\u00e9",
-          "url": "https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44"
-        }
-      ],
-      "duration_ms": 182252,
-      "name": "l'\u00cele",
-      "url": "https://open.spotify.com/track/10wZLG9ttpMIiYCaJsRvGs"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Mitshuap",
-        "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
-      },
-      "artists": [
-        {
-          "name": "Kanen",
-          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
-        }
-      ],
-      "duration_ms": 226649,
-      "name": "Ekuan Ek(u)",
-      "url": "https://open.spotify.com/track/5XJgrFZ4cqbVCiJlMKVJ4t"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Coin coin",
         "url": "https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 206493,
       "name": "Coin coin",
       "url": "https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Mitshuap",
+        "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
+      },
+      "artists": [
+        {
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+        }
+      ],
+      "duration_ms": 226649,
+      "name": "Ekuan Ek(u)",
+      "url": "https://open.spotify.com/track/5XJgrFZ4cqbVCiJlMKVJ4t"
     },
     {
       "added_at": "2023-07-14 04:00:00",

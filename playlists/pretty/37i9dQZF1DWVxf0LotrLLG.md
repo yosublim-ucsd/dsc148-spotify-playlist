@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Grupo Frontera & Grupo Firme
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,027 likes - 200 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,065 likes - 200 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,7 +195,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 185 | [Del Mar](https://open.spotify.com/track/5RUNBjvp8ckIpQSCWAf9SO) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Trap Vibes](https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ) | 3:09 |
 | 186 | [Multiverso \(feat\. Jay Wheeler\)](https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MUCHO TXT](https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc) | 2:29 |
 | 187 | [1 Tiro](https://open.spotify.com/track/7CVwaraftTP9Ki6Px6mmpl) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [MUCHO TXT](https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc) | 3:03 |
-| 188 | [Conversaciones Viejas \(feat\. Pablo\)](https://open.spotify.com/track/3qKr2Gd2d3zXHY6TRESLI2) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Pablo](https://open.spotify.com/artist/4dq0SRz6KyVfgvbuUmAHri) | [MUCHO TXT](https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc) | 3:27 |
+| 188 | [Conversaciones Viejas \(feat\. Pablo Rodríguez\)](https://open.spotify.com/track/3qKr2Gd2d3zXHY6TRESLI2) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Pablo Rodríguez](https://open.spotify.com/artist/4qZoOaf4t8eVTs8GI8goWD) | [MUCHO TXT](https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc) | 3:27 |
 | 189 | [A Escondidas](https://open.spotify.com/track/6lEf9vBtcjqRPOtmDPqXwe) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Voy a Ti](https://open.spotify.com/album/7gUNzasmUNhcwpkgHnILQe) | 3:39 |
 | 190 | [Por Tu Amor](https://open.spotify.com/track/25P8nuzzc785DZnXuMI1f8) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Voy a Ti](https://open.spotify.com/album/7gUNzasmUNhcwpkgHnILQe) | 3:10 |
 | 191 | [Bandido](https://open.spotify.com/track/12CVIQ6oH0WK8nlMHpxssV) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Voy a Ti](https://open.spotify.com/album/7gUNzasmUNhcwpkgHnILQe) | 3:25 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 199 | [Mi Barrio](https://open.spotify.com/track/4pS2RiGbEKQbrkeH21QuMe) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:19 |
 | 200 | [Desespero](https://open.spotify.com/track/1Dlzq86mlvJEkaGoS9c7MN) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:14 |
 
-Snapshot ID: `MCw1ZGI0ODEwN2JkMzUxNjdjOGUwNWQzZTE0YWQ0MWU2NjFhNjUxZjVh`
+Snapshot ID: `MCxiOTg1Mjg1MTliZmUzN2M3YmM2MWUwZTk4YTU0MDVjODlmMmFkMDNl`

@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 3720,
+  "num_followers": 3733,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmEyMjhjZWEwYjNhODQxOTIyZmUzZGQ1ODRlMjc4M2I2MmVhODQw",
+  "snapshot_id": "MCxmNjEzODE3NTc4ODMxNDg2Y2UyYmZhNTdhM2I0ZGU3MGIyZWFiZDhj",
   "tracks": [
     {
       "added_at": "2023-07-14 08:40:48",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-07-14 08:40:48",
       "album": {
-        "name": "The Green Stone",
-        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 204840,
-      "name": "I Waited for You",
-      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
-    },
-    {
-      "added_at": "2023-07-14 08:40:48",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/1GKEaevMrPeFx6EbUkw9Sg"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 334600,
       "name": "Hear My Dear",
       "url": "https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT"
+    },
+    {
+      "added_at": "2023-07-14 08:40:48",
+      "album": {
+        "name": "The Green Stone",
+        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "I Waited for You",
+      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
     },
     {
       "added_at": "2023-07-14 08:40:48",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-07-14 08:40:48",
       "album": {
-        "name": "Built And Broken",
-        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 268293,
-      "name": "Built And Broken",
-      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
-    },
-    {
-      "added_at": "2023-07-14 08:40:48",
-      "album": {
         "name": "Made Up Mind",
         "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 220880,
       "name": "Made Up Mind",
       "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
+    },
+    {
+      "added_at": "2023-07-14 08:40:48",
+      "album": {
+        "name": "Built And Broken",
+        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 268293,
+      "name": "Built And Broken",
+      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
     },
     {
       "added_at": "2023-07-14 08:40:48",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-07-14 08:40:48",
       "album": {
-        "name": "A Beautiful Time",
-        "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 299306,
-      "name": "Tower Of Song",
-      "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
-    },
-    {
-      "added_at": "2023-07-14 08:40:48",
-      "album": {
         "name": "Maybe, Maybe Not",
         "url": "https://open.spotify.com/album/453ui3VLbh97vpNlo5YEAf"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 200157,
       "name": "Maybe, Maybe Not",
       "url": "https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB"
+    },
+    {
+      "added_at": "2023-07-14 08:40:48",
+      "album": {
+        "name": "A Beautiful Time",
+        "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 299306,
+      "name": "Tower Of Song",
+      "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
     },
     {
       "added_at": "2023-07-14 08:40:48",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-07-14 08:40:48",
       "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/6bqpDp9MHIzsa9wx0DTKZT"
-      },
-      "artists": [
-        {
-          "name": "Laura van Kaam",
-          "url": "https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe"
-        }
-      ],
-      "duration_ms": 173053,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/4o5tHS1nMLrBZD2WfUPMn8"
-    },
-    {
-      "added_at": "2023-07-14 08:40:48",
-      "album": {
         "name": "The Epic Tale of the Stranded Man",
         "url": "https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH"
       },
@@ -839,18 +823,34 @@
     {
       "added_at": "2023-07-14 08:40:48",
       "album": {
-        "name": "For The Better Of Me",
-        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/6bqpDp9MHIzsa9wx0DTKZT"
       },
       "artists": [
         {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+          "name": "Laura van Kaam",
+          "url": "https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe"
         }
       ],
-      "duration_ms": 230431,
-      "name": "For The Better Of Me",
-      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
+      "duration_ms": 173053,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/4o5tHS1nMLrBZD2WfUPMn8"
+    },
+    {
+      "added_at": "2023-07-14 08:40:48",
+      "album": {
+        "name": "In The Morning, When We Rise",
+        "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
+      },
+      "artists": [
+        {
+          "name": "Christof van der Ven",
+          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
+        }
+      ],
+      "duration_ms": 232725,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
     }
   ],
   "unique_name": "Route Americana",

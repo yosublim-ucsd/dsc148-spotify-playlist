@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Anie Alerte
 
-197 songs - 11 hr 44 min
+198 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,11 +116,12 @@
 | [MiMi Miaww](https://open.spotify.com/track/2a1rMqQOgb3qyXmBSicii1) | [Roody Roodboy](https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN) | [MiMi Miaww](https://open.spotify.com/album/4NnAXDysCCzGhxLYisCuoj) | 4:24 | 2021-12-06 | 2022-05-13 |
 | [Miscalculated](https://open.spotify.com/track/6jbyBrXQPHK3s0V0OfGp0P) | [Mike Squires](https://open.spotify.com/artist/59Q1RHoClIRbIUlf29cFsY), [Wasionkey](https://open.spotify.com/artist/29SpRodaj3Wqtwq2fWlyty), [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [Miscalculated](https://open.spotify.com/album/1beccBq6D639FKHHNTnPeH) | 2:55 | 2023-06-09 | 2023-08-06 |
 | [Mpral Dòmi Nan Simityè](https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey) | [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl) | [Ram 6: Manmanm Se Ginen](https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24) | 3:03 | 2022-07-14 |  |
-| [Mr Diablo](https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc) | [DonLex](https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y) | [Mr Diablo](https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa) | 2:46 | 2021-12-06 |  |
+| [Mr Diablo](https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc) | [DonLex](https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y) | [Mr Diablo](https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa) | 2:46 | 2021-12-06 | 2023-08-08 |
 | [MUST BE](https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:25 | 2021-12-06 |  |
 | [Na Va Wè Yo](https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA) | [ManitoNation](https://open.spotify.com/artist/1QkGRbRqamey07IpztT9v3), [Paul Beaubrun](https://open.spotify.com/artist/0iP0A87vUxBPLi7Wdrjeot), [Kabysh](https://open.spotify.com/artist/3RW8JTuMBokuKGDPZ1xDWD) | [Trip Tropikal](https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn) | 4:12 | 2021-12-06 |  |
 | [Nahilé](https://open.spotify.com/track/0uub812CwPqYSU0VZzcSYa) | [RockLee](https://open.spotify.com/artist/0xKCpd2XrSE30wn3NLBHBM), [Wesli](https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5), [Paul Cargnello](https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj) | [Nahilé](https://open.spotify.com/album/3zTmCWFQQkVHtKI3tRKZR9) | 3:49 | 2022-11-18 | 2023-06-12 |
 | [Nan ou](https://open.spotify.com/track/7BXFfnn1uw7e1Zx6Pi3KGH) | [Gessica Généus](https://open.spotify.com/artist/1GAw14vejnlO5eyny3lDHw) | [Nan ou](https://open.spotify.com/album/6hofahig2OrGv725bqsmo3) | 3:46 | 2021-12-06 |  |
+| [New Life Livin](https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY) | [Kai Alce](https://open.spotify.com/artist/7rltPaQHdstifwqWcQtSgh) | [New Life Livin](https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z) | 5:11 | 2023-08-04 |  |
 | [New York City](https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi) | [Tabou Combo](https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh) | [Anthology, Vol\. IV](https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey) | 8:46 | 2021-12-06 |  |
 | [No Pares](https://open.spotify.com/track/4r7qhjJiql0ciGLioiNpcr) | [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Sky Monroe](https://open.spotify.com/artist/0MSRJVGKv92k12VWqHmIcG) | [No Pares](https://open.spotify.com/album/5NFoAoyIpeSksTwHbfEIlH) | 3:05 | 2021-12-06 | 2022-05-13 |
 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 | 2021-12-06 |  |

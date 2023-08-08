@@ -10706,10 +10706,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 311120,
       "name": "Listo O No",
       "url": "https://open.spotify.com/track/2MQcHaffDfzLADPpip7XGK"
+    },
+    {
+      "album": {
+        "name": "Algo Nuevo",
+        "url": "https://open.spotify.com/album/06PGzCviaItn974P5DtCiT"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311120,
+      "name": "Listo O No",
+      "url": "https://open.spotify.com/track/7EAh6H5MFJGfDEUbdoO9El"
     },
     {
       "album": {

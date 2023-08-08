@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 270843,
+  "num_followers": 270911,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2IwODVhMjE4YjFhZjI1ZTIzY2QyYTAzMTcwMGM2NDc3ZDQzNDQ5",
+  "snapshot_id": "MCw2ZTI2ODAzNTQ2MzAzYzQ2MzI1NmQ1OTI4MTcyNGFkOGRmNmJjYWZj",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Cave World",
-        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 199732,
-      "name": "Troglodyte",
-      "url": "https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Body Jumper",
         "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
       },
@@ -229,6 +213,22 @@
       "url": "https://open.spotify.com/track/00Dsa2N9nqJux5YWfu6MdU"
     },
     {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Cave World",
+        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 199732,
+      "name": "Troglodyte",
+      "url": "https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET"
+    },
+    {
       "added_at": "2023-07-28 14:24:56",
       "album": {
         "name": "TELL ME WHEN I'M TELLING LIES",
@@ -263,38 +263,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Houseplants",
-        "url": "https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 258130,
-      "name": "Houseplants",
-      "url": "https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Street Worms",
-        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 216284,
-      "name": "Down in the Basement",
-      "url": "https://open.spotify.com/track/6EjGLBBBuEkjQniYBeDN7E"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Wide Awake!",
         "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
       },
@@ -311,50 +279,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Sweet Princess EP",
-        "url": "https://open.spotify.com/album/0KRCyLdLWJioBvbXi4ZdRR"
+        "name": "Houseplants",
+        "url": "https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx"
       },
       "artists": [
         {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
         }
       ],
-      "duration_ms": 230121,
-      "name": "Magic of Meghan",
-      "url": "https://open.spotify.com/track/0L1yjgPN1zIGLYP6TjVgHR"
-    },
-    {
-      "added_at": "2023-03-17 13:08:31",
-      "album": {
-        "name": "American Nightmare",
-        "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
-      },
-      "artists": [
-        {
-          "name": "Vestron Vulture",
-          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
-        }
-      ],
-      "duration_ms": 189474,
-      "name": "American Nightmare",
-      "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
-    },
-    {
-      "added_at": "2023-06-20 22:28:34",
-      "album": {
-        "name": "Slab",
-        "url": "https://open.spotify.com/album/13SPstpEFV47Buq7PkOt5x"
-      },
-      "artists": [
-        {
-          "name": "Wombo",
-          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
-        }
-      ],
-      "duration_ms": 108880,
-      "name": "Slab",
-      "url": "https://open.spotify.com/track/2KoOmthnxLfILro3H7liTQ"
+      "duration_ms": 258130,
+      "name": "Houseplants",
+      "url": "https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -375,18 +311,66 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Orc",
-        "url": "https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd"
+        "name": "Street Worms",
+        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
       },
       "artists": [
         {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
         }
       ],
-      "duration_ms": 177120,
-      "name": "Nite Expo",
-      "url": "https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl"
+      "duration_ms": 216284,
+      "name": "Down in the Basement",
+      "url": "https://open.spotify.com/track/6EjGLBBBuEkjQniYBeDN7E"
+    },
+    {
+      "added_at": "2023-03-17 13:08:31",
+      "album": {
+        "name": "American Nightmare",
+        "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
+      },
+      "artists": [
+        {
+          "name": "Vestron Vulture",
+          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+        }
+      ],
+      "duration_ms": 189474,
+      "name": "American Nightmare",
+      "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Sweet Princess EP",
+        "url": "https://open.spotify.com/album/0KRCyLdLWJioBvbXi4ZdRR"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 230121,
+      "name": "Magic of Meghan",
+      "url": "https://open.spotify.com/track/0L1yjgPN1zIGLYP6TjVgHR"
+    },
+    {
+      "added_at": "2023-06-20 22:28:34",
+      "album": {
+        "name": "Slab",
+        "url": "https://open.spotify.com/album/13SPstpEFV47Buq7PkOt5x"
+      },
+      "artists": [
+        {
+          "name": "Wombo",
+          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
+        }
+      ],
+      "duration_ms": 108880,
+      "name": "Slab",
+      "url": "https://open.spotify.com/track/2KoOmthnxLfILro3H7liTQ"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -403,6 +387,38 @@
       "duration_ms": 226678,
       "name": "Flying",
       "url": "https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Orc",
+        "url": "https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd"
+      },
+      "artists": [
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "Nite Expo",
+      "url": "https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 265183,
+      "name": "Adderall (End of the Line)",
+      "url": "https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE"
     },
     {
       "added_at": "2023-07-28 14:24:56",
@@ -455,22 +471,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Food for Worms",
-        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 265183,
-      "name": "Adderall (End of the Line)",
-      "url": "https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "wollte nie",
         "url": "https://open.spotify.com/album/1HB7QOEie88WSdXl0BAVlO"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 195000,
       "name": "wollte nie",
       "url": "https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Songs of Praise",
+        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -523,38 +539,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Welfare Jazz",
-        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 279817,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Songs of Praise",
-        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Audio Drag for Ego Slobs",
         "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
       },
@@ -587,22 +571,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Demolition Row",
-        "url": "https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk"
-      },
-      "artists": [
-        {
-          "name": "Metz",
-          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
-        }
-      ],
-      "duration_ms": 258250,
-      "name": "Demolition Row",
-      "url": "https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Hunger for a Way Out",
         "url": "https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm"
       },
@@ -619,34 +587,50 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Auto-Pain",
-        "url": "https://open.spotify.com/album/0ysuZ27s6yTQDmREAaAp1I"
+        "name": "Demolition Row",
+        "url": "https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk"
       },
       "artists": [
         {
-          "name": "Deeper",
-          "url": "https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S"
+          "name": "Metz",
+          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
         }
       ],
-      "duration_ms": 204786,
-      "name": "This Heat",
-      "url": "https://open.spotify.com/track/70H0Quqm0SwkmjlcaRy74B"
+      "duration_ms": 258250,
+      "name": "Demolition Row",
+      "url": "https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV"
     },
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Swampy & Sombre Two",
-        "url": "https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5"
+        "name": "Waterslide, Diving Board, Ladder To The Sky",
+        "url": "https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5"
       },
       "artists": [
         {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
         }
       ],
-      "duration_ms": 213009,
-      "name": "Swampy",
-      "url": "https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja"
+      "duration_ms": 187586,
+      "name": "Back To The Radio",
+      "url": "https://open.spotify.com/track/0hHOIVyywNzkoh1v6RWFb3"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 279817,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -667,18 +651,34 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Waterslide, Diving Board, Ladder To The Sky",
-        "url": "https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5"
+        "name": "Swampy & Sombre Two",
+        "url": "https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5"
       },
       "artists": [
         {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
         }
       ],
-      "duration_ms": 187586,
-      "name": "Back To The Radio",
-      "url": "https://open.spotify.com/track/0hHOIVyywNzkoh1v6RWFb3"
+      "duration_ms": 213009,
+      "name": "Swampy",
+      "url": "https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Auto-Pain",
+        "url": "https://open.spotify.com/album/0ysuZ27s6yTQDmREAaAp1I"
+      },
+      "artists": [
+        {
+          "name": "Deeper",
+          "url": "https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S"
+        }
+      ],
+      "duration_ms": 204786,
+      "name": "This Heat",
+      "url": "https://open.spotify.com/track/70H0Quqm0SwkmjlcaRy74B"
     },
     {
       "added_at": "2023-07-28 14:24:56",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "'Til The Stream Runs Dry",
-        "url": "https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO"
+        "name": "Every Bad (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA"
       },
       "artists": [
         {
-          "name": "Opus Kink",
-          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
         }
       ],
-      "duration_ms": 260665,
-      "name": "St. Paul of the Tarantulas",
-      "url": "https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR"
+      "duration_ms": 222840,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Every Bad (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA"
+        "name": "'Til The Stream Runs Dry",
+        "url": "https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO"
       },
       "artists": [
         {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+          "name": "Opus Kink",
+          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
         }
       ],
-      "duration_ms": 222840,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq"
+      "duration_ms": 260665,
+      "name": "St. Paul of the Tarantulas",
+      "url": "https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR"
     },
     {
       "added_at": "2023-02-24 00:00:00",

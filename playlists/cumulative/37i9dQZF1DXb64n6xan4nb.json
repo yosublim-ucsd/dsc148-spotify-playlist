@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/4mVaOQu6qOjGpSlNjwf0n4"
+      },
+      "artists": [
+        {
+          "name": "BYUL",
+          "url": "https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239173,
+      "name": "I Think I",
+      "url": "https://open.spotify.com/track/4qz9vMynxvG647kcm19B28"
+    },
+    {
+      "album": {
         "name": "AsuRaBalBalTa",
         "url": "https://open.spotify.com/album/4of6ei5UMWYCB3bD5bNDXS"
       },
@@ -1246,7 +1264,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 273773,
       "name": "Spring day goes",
       "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"

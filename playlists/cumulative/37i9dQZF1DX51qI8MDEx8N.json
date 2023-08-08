@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "I Dare Not Dream",
+        "url": "https://open.spotify.com/album/1X8SeMtxLgpnUCvUo6QcVj"
+      },
+      "artists": [
+        {
+          "name": "M\u00edrabilis",
+          "url": "https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134155,
+      "name": "I Dare Not Dream",
+      "url": "https://open.spotify.com/track/31as8GAbqrm9thjsrTD7lo"
+    },
+    {
+      "album": {
         "name": "Il mio cuore brucia per te",
         "url": "https://open.spotify.com/album/65YsTIbDwGwTGVxGjpDMvy"
       },
@@ -1712,6 +1730,24 @@
       "duration_ms": 165903,
       "name": "Older",
       "url": "https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl"
+    },
+    {
+      "album": {
+        "name": "On a summer midnight",
+        "url": "https://open.spotify.com/album/3Nh4RpRM4ZScvXV3Yi78A9"
+      },
+      "artists": [
+        {
+          "name": "Qunfan Wen",
+          "url": "https://open.spotify.com/artist/2qhWWY7F1cPThO3UfSJVcm"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123124,
+      "name": "On a summer midnight",
+      "url": "https://open.spotify.com/track/68jz5jlpsxs5cL48wGIgqC"
     },
     {
       "album": {
@@ -2540,6 +2576,24 @@
       "duration_ms": 145500,
       "name": "The Cherry Trees",
       "url": "https://open.spotify.com/track/1dPIVEUmnh7v9r4KUnOTHH"
+    },
+    {
+      "album": {
+        "name": "The Destination",
+        "url": "https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH"
+      },
+      "artists": [
+        {
+          "name": "Keane Wang",
+          "url": "https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122343,
+      "name": "The Destination",
+      "url": "https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs"
     },
     {
       "album": {

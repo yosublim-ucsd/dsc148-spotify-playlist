@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Johnny Marsiglia in cover.",
-  "num_followers": 33993,
+  "num_followers": 34008,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTBkZmY0M2JlYjk0N2ExZmMwZDAxNDdjM2I5Mzg2ZTI2NTA5ZTQ0",
+  "snapshot_id": "MCxiMzdmNWY2ZjM1OWMyODdkNzMxODJjMzY3NzRiNzZkOTcyZTczNmM5",
   "tracks": [
     {
       "added_at": "2023-08-03 22:01:00",
@@ -115,26 +115,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "VIRUS",
-        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        }
-      ],
-      "duration_ms": 159095,
-      "name": "DOPE BOY",
-      "url": "https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "Guerra E Pace",
         "url": "https://open.spotify.com/album/3p3zyxP3IBd0KNYNopjXBE"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 253360,
       "name": "Panico",
       "url": "https://open.spotify.com/track/0q8XaTJ1MzlEb9q7YdStT1"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "duration_ms": 159095,
+      "name": "DOPE BOY",
+      "url": "https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
+        "name": "Mr. Simpatia",
+        "url": "https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 259666,
+      "name": "Momenti no",
+      "url": "https://open.spotify.com/track/4fE5D8udvgEqCJKMqx69tl"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
         "name": "Verano Zombie",
         "url": "https://open.spotify.com/album/5Nd8JR6mCH4ePxGWjhcJvV"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 220960,
       "name": "Verano Zombie",
       "url": "https://open.spotify.com/track/5yZhi50rWPgavFhPbFW0x8"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "Fabiano detto Inoki",
-        "url": "https://open.spotify.com/album/19dM4Pt4jFNdXiwjQG3ZK8"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 232986,
-      "name": "Non mi avrete mai",
-      "url": "https://open.spotify.com/track/2LM2JJj3hQLCZRQFu1xu02"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "Mr. Simpatia",
-        "url": "https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf"
+        "name": "Fabiano detto Inoki",
+        "url": "https://open.spotify.com/album/19dM4Pt4jFNdXiwjQG3ZK8"
       },
       "artists": [
         {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
         }
       ],
-      "duration_ms": 259666,
-      "name": "Momenti no",
-      "url": "https://open.spotify.com/track/4fE5D8udvgEqCJKMqx69tl"
+      "duration_ms": 232986,
+      "name": "Non mi avrete mai",
+      "url": "https://open.spotify.com/track/2LM2JJj3hQLCZRQFu1xu02"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -479,62 +479,6 @@
       "duration_ms": 323360,
       "name": "Curre curre guagli\u00f2",
       "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "Sacrosanto",
-        "url": "https://open.spotify.com/album/2Z2Wr8hldKixUCF6bs7wv1"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Sottotono",
-          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
-        },
-        {
-          "name": "Sissi",
-          "url": "https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i"
-        },
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 158943,
-      "name": "Sembrava Impossibile",
-      "url": "https://open.spotify.com/track/3cAIN3it8fhHDiyO5vXOVj"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "CRISTI E DIAVOLI",
-        "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
-      },
-      "artists": [
-        {
-          "name": "Lovegang126",
-          "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
-        },
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        },
-        {
-          "name": "Drone126",
-          "url": "https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg"
-        }
-      ],
-      "duration_ms": 168546,
-      "name": "Tinta unita (feat. Danno)",
-      "url": "https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -571,6 +515,34 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
+        "name": "CRISTI E DIAVOLI",
+        "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
+      },
+      "artists": [
+        {
+          "name": "Lovegang126",
+          "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Drone126",
+          "url": "https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg"
+        }
+      ],
+      "duration_ms": 168546,
+      "name": "Tinta unita (feat. Danno)",
+      "url": "https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
         "name": "TOTEM (Ultimate Edition)",
         "url": "https://open.spotify.com/album/524xUYS5ydBPaiHA2R3GeD"
       },
@@ -595,6 +567,34 @@
       "duration_ms": 233363,
       "name": "Un Bacio sulla Fronte",
       "url": "https://open.spotify.com/track/5GBfDgJCZ2RdZw3U0C8d7g"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Sacrosanto",
+        "url": "https://open.spotify.com/album/2Z2Wr8hldKixUCF6bs7wv1"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Sottotono",
+          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
+        },
+        {
+          "name": "Sissi",
+          "url": "https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 158943,
+      "name": "Sembrava Impossibile",
+      "url": "https://open.spotify.com/track/3cAIN3it8fhHDiyO5vXOVj"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -655,6 +655,38 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
+        "name": "CRISTI E DIAVOLI",
+        "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
+      },
+      "artists": [
+        {
+          "name": "Lovegang126",
+          "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
+        },
+        {
+          "name": "Ugo Borghetti",
+          "url": "https://open.spotify.com/artist/3i6za4KlTDNe8mducqnwJi"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Gemello",
+          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
+        },
+        {
+          "name": "Nino Brown",
+          "url": "https://open.spotify.com/artist/6Vhlft027tAZsPuFuXCLZo"
+        }
+      ],
+      "duration_ms": 182702,
+      "name": "Sintonia (feat. Gemello)",
+      "url": "https://open.spotify.com/track/2akLKoLfRJNlg2JQAcCJqG"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
         "name": "GARA 7",
         "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
       },
@@ -711,38 +743,6 @@
       "duration_ms": 273746,
       "name": "Cronaca quotidiana",
       "url": "https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "CRISTI E DIAVOLI",
-        "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
-      },
-      "artists": [
-        {
-          "name": "Lovegang126",
-          "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
-        },
-        {
-          "name": "Ugo Borghetti",
-          "url": "https://open.spotify.com/artist/3i6za4KlTDNe8mducqnwJi"
-        },
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        },
-        {
-          "name": "Gemello",
-          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
-        },
-        {
-          "name": "Nino Brown",
-          "url": "https://open.spotify.com/artist/6Vhlft027tAZsPuFuXCLZo"
-        }
-      ],
-      "duration_ms": 182702,
-      "name": "Sintonia (feat. Gemello)",
-      "url": "https://open.spotify.com/track/2akLKoLfRJNlg2JQAcCJqG"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "XENOVERSO",
-        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
-      },
-      "artists": [
-        {
-          "name": "Rancore",
-          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
-        }
-      ],
-      "duration_ms": 201618,
-      "name": "Freccia",
-      "url": "https://open.spotify.com/track/4AfmZe8i6uNAR5xTSZxqNn"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "CRISTI E DIAVOLI",
         "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 189531,
       "name": "Giorni migliori (feat. Mystic One)",
       "url": "https://open.spotify.com/track/3wltO9TZ6j1gfyDsjzH7QY"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "XENOVERSO",
+        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
+      },
+      "artists": [
+        {
+          "name": "Rancore",
+          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
+        }
+      ],
+      "duration_ms": 201618,
+      "name": "Freccia",
+      "url": "https://open.spotify.com/track/4AfmZe8i6uNAR5xTSZxqNn"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -940,17 +940,13 @@
           "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
         },
         {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "Royal Mehdi",
-          "url": "https://open.spotify.com/artist/0NbsRt4NSMynY7oHrywafZ"
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
         }
       ],
-      "duration_ms": 233786,
-      "name": "Bolo By Night",
-      "url": "https://open.spotify.com/track/44HlIYtlj3BL5IH5zbNA6t"
+      "duration_ms": 224000,
+      "name": "Notte Blu",
+      "url": "https://open.spotify.com/track/3onqRjPDjMpOaE9le8pMfN"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1039,26 +1035,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "Ferro del mestiere",
-        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
-      },
-      "artists": [
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 130593,
-      "name": "Yeah (feat. Emis Killa)",
-      "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "Schiena Contro Schiena",
         "url": "https://open.spotify.com/album/5IwGNmcikVfFtiVtDmw5ff"
       },
@@ -1079,6 +1055,26 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
+        "name": "Ferro del mestiere",
+        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 130593,
+      "name": "Yeah (feat. Emis Killa)",
+      "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
         "name": "60 Hz",
         "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
       },
@@ -1088,13 +1084,17 @@
           "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
         },
         {
-          "name": "Frank Siciliano",
-          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "Royal Mehdi",
+          "url": "https://open.spotify.com/artist/0NbsRt4NSMynY7oHrywafZ"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Notte Blu",
-      "url": "https://open.spotify.com/track/3onqRjPDjMpOaE9le8pMfN"
+      "duration_ms": 233786,
+      "name": "Bolo By Night",
+      "url": "https://open.spotify.com/track/44HlIYtlj3BL5IH5zbNA6t"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Chiedi Alla Polvere 2008",
-      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "Heavy Metal",
         "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 221380,
       "name": "Ti Pretendo XXX",
       "url": "https://open.spotify.com/track/2G4Abb0ddI9jPYn4pt59XM"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Chiedi Alla Polvere 2008",
+      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 391960,
-      "name": "La porra",
-      "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "Dead Poets 3 - Maledetti",
         "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 187959,
       "name": "Parla piano",
       "url": "https://open.spotify.com/track/37IHphajTmd27MDLG76zEd"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 391960,
+      "name": "La porra",
+      "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1795,22 +1795,6 @@
       "duration_ms": 311960,
       "name": "Aspettando Il Sole - Remastered",
       "url": "https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "Sotto lo stesso effetto",
-        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
-      },
-      "artists": [
-        {
-          "name": "Sottotono",
-          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Amor de mi vida",
-      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1891,18 +1875,18 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "Neffa E I Messaggeri Della Dopa",
-        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
+        "name": "Sotto lo stesso effetto",
+        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
       },
       "artists": [
         {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+          "name": "Sottotono",
+          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
         }
       ],
-      "duration_ms": 320493,
-      "name": "La Ballotta",
-      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
+      "duration_ms": 295333,
+      "name": "Amor de mi vida",
+      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1947,22 +1931,18 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "B.U.F.",
-        "url": "https://open.spotify.com/album/3IuWUPJzVr63tXvAeyWRHp"
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
       },
       "artists": [
         {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        },
-        {
-          "name": "Verano",
-          "url": "https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK"
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
         }
       ],
-      "duration_ms": 176774,
-      "name": "B.U.F.",
-      "url": "https://open.spotify.com/track/4wdow0OrNHyFJyAVG0knt3"
+      "duration_ms": 320493,
+      "name": "La Ballotta",
+      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -2007,6 +1987,26 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
+        "name": "B.U.F.",
+        "url": "https://open.spotify.com/album/3IuWUPJzVr63tXvAeyWRHp"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Verano",
+          "url": "https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK"
+        }
+      ],
+      "duration_ms": 176774,
+      "name": "B.U.F.",
+      "url": "https://open.spotify.com/track/4wdow0OrNHyFJyAVG0knt3"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
         "name": "Treddepomeriggio",
         "url": "https://open.spotify.com/album/6zyQlLxLYMpuxYSw4ABYCF"
       },
@@ -2019,6 +2019,22 @@
       "duration_ms": 183914,
       "name": "Treddepomeriggio",
       "url": "https://open.spotify.com/track/4rHpOyjCOminwSgwxdVVpP"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Chi more pe' mme",
+        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "duration_ms": 283480,
+      "name": "Chi more pe' mme",
+      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -2043,22 +2059,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "Chi more pe' mme",
-        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        }
-      ],
-      "duration_ms": 283480,
-      "name": "Chi more pe' mme",
-      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "4 MANI",
         "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
       },
@@ -2075,6 +2075,22 @@
       "duration_ms": 191213,
       "name": "SPUNTABLU",
       "url": "https://open.spotify.com/track/7MZcg5pmEXvJSNeOEVZ13s"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Max",
+        "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        }
+      ],
+      "duration_ms": 260800,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -2099,22 +2115,6 @@
       "duration_ms": 180776,
       "name": "Beatrice",
       "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "Dio lodato",
-        "url": "https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV"
-      },
-      "artists": [
-        {
-          "name": "Joe Cassano",
-          "url": "https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL"
-        }
-      ],
-      "duration_ms": 260183,
-      "name": "Dio lodato per sta chanche",
-      "url": "https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN"
     }
   ],
   "unique_name": "Radici Hip-Hop",

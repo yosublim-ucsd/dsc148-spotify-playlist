@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Swedish House Mafia.",
-  "num_followers": 447045,
+  "num_followers": 447178,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzA2Y2EyYjMzZDRiN2Q5ZDNkNTc0ZTBlOTJhZmJhOWJlMDY0OGUw",
+  "snapshot_id": "MCxjMjM0OWI4NzZkMzVhMTgwZjNiZjY3NGRiNDIyZDVmNTlmMDM5Yjg2",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/3uvIfQkvwjNVIWFM9oOFPy"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 254656,
-      "name": "Tension",
-      "url": "https://open.spotify.com/track/6XiCKqfm5Xggvz5XuTC29t"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Hooked",
         "url": "https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 184914,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/3uvIfQkvwjNVIWFM9oOFPy"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 254656,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/6XiCKqfm5Xggvz5XuTC29t"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/0MkmGLOt30qLXDQRNf5S2s"
+      },
+      "artists": [
+        {
+          "name": "Matisa",
+          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
+        }
+      ],
+      "duration_ms": 447551,
+      "name": "Brunela",
+      "url": "https://open.spotify.com/track/6U7jhpXZ2ClCSVwvoyvb4R"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "NO FEAR",
         "url": "https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Tongue",
-        "url": "https://open.spotify.com/album/0MkmGLOt30qLXDQRNf5S2s"
-      },
-      "artists": [
-        {
-          "name": "Matisa",
-          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
-        }
-      ],
-      "duration_ms": 447551,
-      "name": "Brunela",
-      "url": "https://open.spotify.com/track/6U7jhpXZ2ClCSVwvoyvb4R"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Moonlight (feat. Antrex)",
         "url": "https://open.spotify.com/album/5OLbKkQKpJWxk81jq5taCt"
       },
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Linx",
+        "url": "https://open.spotify.com/album/3JWDZHAoptpYBptxxapIKb"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        }
+      ],
+      "duration_ms": 239016,
+      "name": "Linx",
+      "url": "https://open.spotify.com/track/1fkB6r8zN8yniWzp5xytX9"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "CHORMA",
         "url": "https://open.spotify.com/album/2HVE0ZmEDKkasHZhWVmImV"
       },
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Linx",
-        "url": "https://open.spotify.com/album/3JWDZHAoptpYBptxxapIKb"
+        "name": "He Lives In You",
+        "url": "https://open.spotify.com/album/6aWf24aSFwmvWuC8bcQpZN"
       },
       "artists": [
         {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+          "name": "Kronan",
+          "url": "https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr"
         }
       ],
-      "duration_ms": 239016,
-      "name": "Linx",
-      "url": "https://open.spotify.com/track/1fkB6r8zN8yniWzp5xytX9"
+      "duration_ms": 152363,
+      "name": "He Lives In You",
+      "url": "https://open.spotify.com/track/7q24DYF9kayy5QMdfodvbE"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1083,38 +1099,6 @@
       "duration_ms": 289523,
       "name": "Words With You - Tchami Remix",
       "url": "https://open.spotify.com/track/3JlxyVUdhYGoJqDvkIpWql"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "He Lives In You",
-        "url": "https://open.spotify.com/album/6aWf24aSFwmvWuC8bcQpZN"
-      },
-      "artists": [
-        {
-          "name": "Kronan",
-          "url": "https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr"
-        }
-      ],
-      "duration_ms": 152363,
-      "name": "He Lives In You",
-      "url": "https://open.spotify.com/track/7q24DYF9kayy5QMdfodvbE"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "In Our Own Way",
-        "url": "https://open.spotify.com/album/0FvlZWhj9GnUosWOfZxkVc"
-      },
-      "artists": [
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
-        }
-      ],
-      "duration_ms": 189684,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/6AvPvdPQaRlsyrdP7PzeLU"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1151,22 +1135,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Bring It Back",
-        "url": "https://open.spotify.com/album/6oMZtThtbHbNCXCVtHos8r"
+        "name": "In Our Own Way",
+        "url": "https://open.spotify.com/album/0FvlZWhj9GnUosWOfZxkVc"
       },
       "artists": [
         {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
-        },
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
         }
       ],
-      "duration_ms": 177230,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/35es3y1iNffNsVFMuEfq10"
+      "duration_ms": 189684,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/6AvPvdPQaRlsyrdP7PzeLU"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1191,6 +1171,26 @@
       "duration_ms": 184615,
       "name": "See Me",
       "url": "https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/6oMZtThtbHbNCXCVtHos8r"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/35es3y1iNffNsVFMuEfq10"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Best of Me",
-        "url": "https://open.spotify.com/album/4nNPzcNhJRIV2einl7IK4n"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 262427,
-      "name": "Best of Me",
-      "url": "https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Body Test",
         "url": "https://open.spotify.com/album/3UWe1hWpXDXHLT7h6nTKex"
       },
@@ -1307,26 +1291,34 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Make You Scream (Dixon & Trikk \u201cTri/xon\u201d Rework)",
-        "url": "https://open.spotify.com/album/2t9qkkA68nFt1Yt4qEUmG7"
+        "name": "Best of Me",
+        "url": "https://open.spotify.com/album/4nNPzcNhJRIV2einl7IK4n"
       },
       "artists": [
         {
-          "name": "VTSS",
-          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
-        },
-        {
-          "name": "Dixon",
-          "url": "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
-        },
-        {
-          "name": "Trikk",
-          "url": "https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY"
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
         }
       ],
-      "duration_ms": 352640,
-      "name": "Make You Scream - Dixon & Trikk \u201cTri/xon\u201d Rework",
-      "url": "https://open.spotify.com/track/2WJQSM4Uoo2FoD3S54b24z"
+      "duration_ms": 262427,
+      "name": "Best of Me",
+      "url": "https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/31gMxpu8lSWdIBayKt5ED3"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1363,18 +1355,50 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz"
+        "name": "Make You Scream (Dixon & Trikk \u201cTri/xon\u201d Rework)",
+        "url": "https://open.spotify.com/album/2t9qkkA68nFt1Yt4qEUmG7"
       },
       "artists": [
         {
-          "name": "Chet Porter",
-          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        },
+        {
+          "name": "Dixon",
+          "url": "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+        },
+        {
+          "name": "Trikk",
+          "url": "https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY"
         }
       ],
-      "duration_ms": 193714,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/31gMxpu8lSWdIBayKt5ED3"
+      "duration_ms": 352640,
+      "name": "Make You Scream - Dixon & Trikk \u201cTri/xon\u201d Rework",
+      "url": "https://open.spotify.com/track/2WJQSM4Uoo2FoD3S54b24z"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "King Of My Castle (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/4KvYiPXNUASfXFCXPXyZ8M"
+      },
+      "artists": [
+        {
+          "name": "Wamdue Project",
+          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
+        },
+        {
+          "name": "Art Morini",
+          "url": "https://open.spotify.com/artist/27A88TT3Npdvs15sQVEFky"
+        },
+        {
+          "name": "Roy Malone",
+          "url": "https://open.spotify.com/artist/0Mry1TcXvK97hkYf7F74zn"
+        }
+      ],
+      "duration_ms": 199191,
+      "name": "King of My Castle - (Purple Disco Machine Remix) [Edit]",
+      "url": "https://open.spotify.com/track/03Hu4c9THPQJDIml8xRYgn"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1423,6 +1447,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "BOY / if u wanna cry",
+        "url": "https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        }
+      ],
+      "duration_ms": 183204,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Shiver [Ivory (IT) Remix]",
         "url": "https://open.spotify.com/album/63Zfkd2GRScH4KpLvYMzCb"
       },
@@ -1443,46 +1483,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "King Of My Castle (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/4KvYiPXNUASfXFCXPXyZ8M"
-      },
-      "artists": [
-        {
-          "name": "Wamdue Project",
-          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
-        },
-        {
-          "name": "Art Morini",
-          "url": "https://open.spotify.com/artist/27A88TT3Npdvs15sQVEFky"
-        },
-        {
-          "name": "Roy Malone",
-          "url": "https://open.spotify.com/artist/0Mry1TcXvK97hkYf7F74zn"
-        }
-      ],
-      "duration_ms": 199191,
-      "name": "King of My Castle - (Purple Disco Machine Remix) [Edit]",
-      "url": "https://open.spotify.com/track/03Hu4c9THPQJDIml8xRYgn"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "BOY / if u wanna cry",
-        "url": "https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hemsworth",
-          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
-        }
-      ],
-      "duration_ms": 183204,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Vous Venez Souvent Ici?",
         "url": "https://open.spotify.com/album/2fpfr1uAv5ZZFsxpBQAP9M"
       },
@@ -1495,6 +1495,46 @@
       "duration_ms": 136125,
       "name": "Vous Venez Souvent Ici?",
       "url": "https://open.spotify.com/track/7Fou7tDtiyNdHybKF1cDvQ"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Take It Back (feat. Davie)",
+        "url": "https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr"
+      },
+      "artists": [
+        {
+          "name": "Mousse T.",
+          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
+        },
+        {
+          "name": "Davie",
+          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
+        }
+      ],
+      "duration_ms": 216020,
+      "name": "Take It Back (feat. Davie)",
+      "url": "https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Corazon",
+        "url": "https://open.spotify.com/album/0prBKnc88KRVmIOZCiIv9k"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "EMRIA",
+          "url": "https://open.spotify.com/artist/0J5gqMi8znAsKAL4HluZkl"
+        }
+      ],
+      "duration_ms": 248283,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/4bkHJAWyOkR15GCbMDLGry"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1539,42 +1579,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Corazon",
-        "url": "https://open.spotify.com/album/0prBKnc88KRVmIOZCiIv9k"
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/67AKOKUGQbahJAKvId1zlZ"
       },
       "artists": [
         {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        },
-        {
-          "name": "EMRIA",
-          "url": "https://open.spotify.com/artist/0J5gqMi8znAsKAL4HluZkl"
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
         }
       ],
-      "duration_ms": 248283,
-      "name": "Corazon",
-      "url": "https://open.spotify.com/track/4bkHJAWyOkR15GCbMDLGry"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Take It Back (feat. Davie)",
-        "url": "https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr"
-      },
-      "artists": [
-        {
-          "name": "Mousse T.",
-          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
-        },
-        {
-          "name": "Davie",
-          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
-        }
-      ],
-      "duration_ms": 216020,
-      "name": "Take It Back (feat. Davie)",
-      "url": "https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D"
+      "duration_ms": 188181,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/4rmRgOSGXkKCR3W3wk7F5R"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Burning",
-        "url": "https://open.spotify.com/album/67AKOKUGQbahJAKvId1zlZ"
-      },
-      "artists": [
-        {
-          "name": "Alice DiMar",
-          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/4rmRgOSGXkKCR3W3wk7F5R"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Chop It",
         "url": "https://open.spotify.com/album/6Lkdwdn7UFhS90L3FOuOW0"
       },
@@ -1623,26 +1623,6 @@
       "duration_ms": 178407,
       "name": "Chop It",
       "url": "https://open.spotify.com/track/40GKAxsKv5kH8JyfYP2EOw"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Butoh (Robert Hood Remix)",
-        "url": "https://open.spotify.com/album/2sqpT33fOrCzj9d0JUVceQ"
-      },
-      "artists": [
-        {
-          "name": "Sven V\u00e4th",
-          "url": "https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F"
-        },
-        {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
-        }
-      ],
-      "duration_ms": 426080,
-      "name": "Butoh (Robert Hood Remix)",
-      "url": "https://open.spotify.com/track/1eAw92jTlkIhrj0H4k7yKj"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1667,6 +1647,46 @@
       "duration_ms": 344458,
       "name": "Insimbi",
       "url": "https://open.spotify.com/track/4hgAosW5zsnd2hdJUdxwxF"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Butoh (Robert Hood Remix)",
+        "url": "https://open.spotify.com/album/2sqpT33fOrCzj9d0JUVceQ"
+      },
+      "artists": [
+        {
+          "name": "Sven V\u00e4th",
+          "url": "https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F"
+        },
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 426080,
+      "name": "Butoh (Robert Hood Remix)",
+      "url": "https://open.spotify.com/track/1eAw92jTlkIhrj0H4k7yKj"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/7hMZlhA5J4w7qYIJEnk0Rt"
+      },
+      "artists": [
+        {
+          "name": "Bound to Divide",
+          "url": "https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 237750,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/2dpzs6UBVMvB4zHM6ly1iq"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1707,70 +1727,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/7hMZlhA5J4w7qYIJEnk0Rt"
-      },
-      "artists": [
-        {
-          "name": "Bound to Divide",
-          "url": "https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 237750,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/2dpzs6UBVMvB4zHM6ly1iq"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Memories (feat. Mr Hudson) [Boston Bun Remix]",
-        "url": "https://open.spotify.com/album/3uVnzumhIlniLHtcUY9bAz"
-      },
-      "artists": [
-        {
-          "name": "Picard Brothers",
-          "url": "https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN"
-        },
-        {
-          "name": "Boston Bun",
-          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
-        },
-        {
-          "name": "Mr Hudson",
-          "url": "https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn"
-        }
-      ],
-      "duration_ms": 253341,
-      "name": "Memories (feat. Mr Hudson) - Boston Bun Remix",
-      "url": "https://open.spotify.com/track/24waGaE8EKJy7Airu3CpyS"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Likkle Drop (feat. Kwame)",
-        "url": "https://open.spotify.com/album/4ERrzPJu5Yh3QluUblMids"
-      },
-      "artists": [
-        {
-          "name": "Benson",
-          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
-        },
-        {
-          "name": "Kwame",
-          "url": "https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto"
-        }
-      ],
-      "duration_ms": 176210,
-      "name": "Likkle Drop (feat. Kwame)",
-      "url": "https://open.spotify.com/track/7fP89DrqJcr5cmvWBdkBBP"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/2wsT5jedDnViFsaN076WES"
       },
@@ -1803,6 +1759,50 @@
       "duration_ms": 139401,
       "name": "Zaza Man",
       "url": "https://open.spotify.com/track/4RTm9F6bKFyOsxevFVJKPg"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Likkle Drop (feat. Kwame)",
+        "url": "https://open.spotify.com/album/4ERrzPJu5Yh3QluUblMids"
+      },
+      "artists": [
+        {
+          "name": "Benson",
+          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
+        },
+        {
+          "name": "Kwame",
+          "url": "https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto"
+        }
+      ],
+      "duration_ms": 176210,
+      "name": "Likkle Drop (feat. Kwame)",
+      "url": "https://open.spotify.com/track/7fP89DrqJcr5cmvWBdkBBP"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Memories (feat. Mr Hudson) [Boston Bun Remix]",
+        "url": "https://open.spotify.com/album/3uVnzumhIlniLHtcUY9bAz"
+      },
+      "artists": [
+        {
+          "name": "Picard Brothers",
+          "url": "https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN"
+        },
+        {
+          "name": "Boston Bun",
+          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
+        },
+        {
+          "name": "Mr Hudson",
+          "url": "https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn"
+        }
+      ],
+      "duration_ms": 253341,
+      "name": "Memories (feat. Mr Hudson) - Boston Bun Remix",
+      "url": "https://open.spotify.com/track/24waGaE8EKJy7Airu3CpyS"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "To The God Named Dream",
-        "url": "https://open.spotify.com/album/6wUpf2NnmyO3paDhSGXNtN"
-      },
-      "artists": [
-        {
-          "name": "Nathan Micay",
-          "url": "https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC"
-        }
-      ],
-      "duration_ms": 359000,
-      "name": "To The God Named Dream",
-      "url": "https://open.spotify.com/track/2hcVNlchu4yphO9U3inhXf"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Break From Jersey",
         "url": "https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 151874,
       "name": "Break From Jersey",
       "url": "https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "To The God Named Dream",
+        "url": "https://open.spotify.com/album/6wUpf2NnmyO3paDhSGXNtN"
+      },
+      "artists": [
+        {
+          "name": "Nathan Micay",
+          "url": "https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC"
+        }
+      ],
+      "duration_ms": 359000,
+      "name": "To The God Named Dream",
+      "url": "https://open.spotify.com/track/2hcVNlchu4yphO9U3inhXf"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1907,38 +1907,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "BAGUN\u00c7A MINHA B*****",
-        "url": "https://open.spotify.com/album/0s1AsrfyXiTesf9VuwKJVK"
+        "name": "Dance With You Tonight",
+        "url": "https://open.spotify.com/album/0gJNaDpmArZEP1BE4MfSmu"
       },
       "artists": [
         {
-          "name": "BADSISTA",
-          "url": "https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb"
-        },
-        {
-          "name": "JUJULIETE",
-          "url": "https://open.spotify.com/artist/6EEj9SNTmIl5oMbX1EToFI"
+          "name": "Eloi El",
+          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
         }
       ],
-      "duration_ms": 211232,
-      "name": "BAGUN\u00c7A MINHA B*****",
-      "url": "https://open.spotify.com/track/7qPScHupt4LuuOWJdyo2lY"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "For Yourself",
-        "url": "https://open.spotify.com/album/1G0yOh6hbEEFTx6FuasmPt"
-      },
-      "artists": [
-        {
-          "name": "Speaker Honey",
-          "url": "https://open.spotify.com/artist/7dzM8rBjimBLgsQ9pfZIXO"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "For Yourself",
-      "url": "https://open.spotify.com/track/4FyWR7j4WOvE2mumMYigLC"
+      "duration_ms": 168693,
+      "name": "Dance With You Tonight",
+      "url": "https://open.spotify.com/track/5z0gBeyRmCNySGTi3SNrZT"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1967,6 +1947,26 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "BAGUN\u00c7A MINHA B*****",
+        "url": "https://open.spotify.com/album/0s1AsrfyXiTesf9VuwKJVK"
+      },
+      "artists": [
+        {
+          "name": "BADSISTA",
+          "url": "https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb"
+        },
+        {
+          "name": "JUJULIETE",
+          "url": "https://open.spotify.com/artist/6EEj9SNTmIl5oMbX1EToFI"
+        }
+      ],
+      "duration_ms": 211232,
+      "name": "BAGUN\u00c7A MINHA B*****",
+      "url": "https://open.spotify.com/track/7qPScHupt4LuuOWJdyo2lY"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/0yIQncs5WYmJzRl01hKV6Y"
       },
@@ -1987,18 +1987,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Dance With You Tonight",
-        "url": "https://open.spotify.com/album/0gJNaDpmArZEP1BE4MfSmu"
+        "name": "For Yourself",
+        "url": "https://open.spotify.com/album/1G0yOh6hbEEFTx6FuasmPt"
       },
       "artists": [
         {
-          "name": "Eloi El",
-          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
+          "name": "Speaker Honey",
+          "url": "https://open.spotify.com/artist/7dzM8rBjimBLgsQ9pfZIXO"
         }
       ],
-      "duration_ms": 168693,
-      "name": "Dance With You Tonight",
-      "url": "https://open.spotify.com/track/5z0gBeyRmCNySGTi3SNrZT"
+      "duration_ms": 226285,
+      "name": "For Yourself",
+      "url": "https://open.spotify.com/track/4FyWR7j4WOvE2mumMYigLC"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "New Life Livin",
-        "url": "https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z"
-      },
-      "artists": [
-        {
-          "name": "Kai Alce",
-          "url": "https://open.spotify.com/artist/7rltPaQHdstifwqWcQtSgh"
-        }
-      ],
-      "duration_ms": 311098,
-      "name": "New Life Livin",
-      "url": "https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Overcome",
         "url": "https://open.spotify.com/album/72AhfpN8gBUM3WQDjTnYxf"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 195773,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/3aVUtVHyJpjnSw9dEBAyiJ"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "New Life Livin",
+        "url": "https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z"
+      },
+      "artists": [
+        {
+          "name": "Kai Alce",
+          "url": "https://open.spotify.com/artist/7rltPaQHdstifwqWcQtSgh"
+        }
+      ],
+      "duration_ms": 311098,
+      "name": "New Life Livin",
+      "url": "https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY"
     },
     {
       "added_at": "2023-08-04 04:01:00",

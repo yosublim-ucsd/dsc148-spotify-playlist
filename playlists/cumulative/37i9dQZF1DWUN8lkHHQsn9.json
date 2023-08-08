@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: Zamilska",
+  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:04HwAPYr2hTMLjDVrpewQZ\">Izabela Zabielska</a>",
   "name": "GLOW Polska",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 140000,
       "name": "49 Groszy",
       "url": "https://open.spotify.com/track/7E9o5ZkutleRx9BS6GWK9Q"
@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Bezsens",
+        "url": "https://open.spotify.com/album/5EncNKYnNabcgchchBYRc8"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163076,
+      "name": "Bezsens",
+      "url": "https://open.spotify.com/track/0NLrg1VRaqlb65kvm1dnKw"
+    },
+    {
+      "album": {
         "name": "Bolt",
         "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
       },
@@ -265,6 +283,28 @@
     },
     {
       "album": {
+        "name": "Can't Stand",
+        "url": "https://open.spotify.com/album/4Xfcjaz36C9tkHq3COjWml"
+      },
+      "artists": [
+        {
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "ZenSoFly",
+          "url": "https://open.spotify.com/artist/4tDTF2Ho65ijdmMHbtgJ1h"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326769,
+      "name": "Can't Stand feat. ZensoFly",
+      "url": "https://open.spotify.com/track/7t5E6WC2HIeAAAKWUymNzs"
+    },
+    {
+      "album": {
         "name": "Chucky73 - Bzrp 43",
         "url": "https://open.spotify.com/album/1EjGYxuGr01m4NgsoRs3OI"
       },
@@ -276,7 +316,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 194493,
       "name": "Chucky73 - Bzrp 43",
       "url": "https://open.spotify.com/track/4jmE3QZLQv9pIA791PGZ05"
@@ -294,7 +334,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 170603,
       "name": "Ch\u0142opaki z BMW",
       "url": "https://open.spotify.com/track/6Jg1PUaCjb51scgO15pFBw"
@@ -348,7 +388,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 243979,
       "name": "Cie\u0144",
       "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
@@ -370,7 +410,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 182560,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/5ekbROvx6LuyF3nxchudHO"
@@ -428,6 +468,24 @@
       "duration_ms": 172105,
       "name": "Daj mi jeszcze jedn\u0105 szans\u0119",
       "url": "https://open.spotify.com/track/3VHXHfcl9ovXKzfycuZr1k"
+    },
+    {
+      "album": {
+        "name": "Diego M.",
+        "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165991,
+      "name": "Diego M.",
+      "url": "https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U"
     },
     {
       "album": {
@@ -504,6 +562,24 @@
       "duration_ms": 270000,
       "name": "Dla nas dom",
       "url": "https://open.spotify.com/track/0sbzpqm1nvjlCCNUP7mdJO"
+    },
+    {
+      "album": {
+        "name": "dlaczego w tym mie\u015bcie NIKT nie umar\u0142 z mi\u0142o\u015bci?",
+        "url": "https://open.spotify.com/album/5UIIUdZhqvd8maBB8zSfF0"
+      },
+      "artists": [
+        {
+          "name": "Kamil Hasselhoff",
+          "url": "https://open.spotify.com/artist/1XHvLGFiaNYB5zU9QSVYm9"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164404,
+      "name": "dlaczego w tym mie\u015bcie NIKT nie umar\u0142 z mi\u0142o\u015bci?",
+      "url": "https://open.spotify.com/track/7GNHldDKTddtGLNJSyGmu1"
     },
     {
       "album": {
@@ -698,7 +774,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 160712,
       "name": "Evangelion",
       "url": "https://open.spotify.com/track/3inilFIpx5bJZuIoWESgKc"
@@ -850,6 +926,24 @@
       "duration_ms": 200666,
       "name": "Ikarius",
       "url": "https://open.spotify.com/track/7wPHioxNnxMLopWg6TYOKR"
+    },
+    {
+      "album": {
+        "name": "Inspiracje",
+        "url": "https://open.spotify.com/album/4asBYPR1ZZyBhW01Cbv1vh"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158030,
+      "name": "Inspiracje",
+      "url": "https://open.spotify.com/track/5nRpR5MEp8sz6f6M83rtA2"
     },
     {
       "album": {
@@ -1257,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "nie wr\u00f3c\u0119",
+        "url": "https://open.spotify.com/album/3wAyjQpKrq553kPXjR2rkV"
+      },
+      "artists": [
+        {
+          "name": "27.Fuckdemons",
+          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160016,
+      "name": "nie wr\u00f3c\u0119",
+      "url": "https://open.spotify.com/track/5nVQRlR20mRJH3k3S0aGj3"
+    },
+    {
+      "album": {
         "name": "Gus\u0142a (Human Rites)",
         "url": "https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX"
       },
@@ -1504,7 +1616,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 199593,
       "name": "Poczuj Moj\u0105 Magi\u0119",
       "url": "https://open.spotify.com/track/3ovnajYisHHdypyq0OO7Ad"
@@ -1570,7 +1682,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 194526,
       "name": "Pokolenie Dobrobytu",
       "url": "https://open.spotify.com/track/6OxCw5grqlMYj1010p0z2a"
@@ -1891,6 +2003,24 @@
     },
     {
       "album": {
+        "name": "Scarchest",
+        "url": "https://open.spotify.com/album/5uRIdLZnznQsisjxhqFZ8P"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Scarchest",
+      "url": "https://open.spotify.com/track/32MEv5faahEWBKUKFoYLSY"
+    },
+    {
+      "album": {
         "name": "Who the F*** is Dawid Grzelak?",
         "url": "https://open.spotify.com/album/38qGUVS5YFVqArJRocg0b4"
       },
@@ -1942,6 +2072,28 @@
       "duration_ms": 179000,
       "name": "SLAY",
       "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
+    },
+    {
+      "album": {
+        "name": "Spicy",
+        "url": "https://open.spotify.com/album/5s9O3oTtIG0TscYAG8gRaH"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        },
+        {
+          "name": "H8",
+          "url": "https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159985,
+      "name": "Spicy",
+      "url": "https://open.spotify.com/track/0L6WdUBOquVBQ8Gu3ASpZZ"
     },
     {
       "album": {
@@ -2528,7 +2680,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 173500,
       "name": "Zesp\u00f3\u0142 Cotarda",
       "url": "https://open.spotify.com/track/6XswpcCoSrlrW1VpkjR68t"
@@ -2604,7 +2756,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 115263,
       "name": "\u015awi\u0119to Narodowe",
       "url": "https://open.spotify.com/track/2isoNskBIlVMFbtxCM7wTH"

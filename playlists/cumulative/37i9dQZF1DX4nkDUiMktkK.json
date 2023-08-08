@@ -1289,6 +1289,32 @@
     },
     {
       "album": {
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        },
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "SHIMA",
+          "url": "https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "See Me",
+      "url": "https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz"
+    },
+    {
+      "album": {
         "name": "Set Me Free (Y U QT Remix)",
         "url": "https://open.spotify.com/album/0gBBRxlWp0OX1sgxGKjcxu"
       },

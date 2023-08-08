@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: KISS OF LIFE
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,010 likes - 87 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,597 likes - 87 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 86 | [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 |
 | 87 | [R.U.N](https://open.spotify.com/track/6ZRkGwxywPUmjPLglrfqlq) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [R U Next? Theme Song](https://open.spotify.com/album/4t1BUm20KWelMD1zWTApSu) | 3:14 |
 
-Snapshot ID: `MCxjMjk2ZGMzNjQ3NTNlMmIwZTMzNDA1MWNkOWEzZWIyZDYwY2U5M2U1`
+Snapshot ID: `MCxiMzg1OTZjZGVjNGQ5ZGVhZTFkNmZkMjZkOGE0NmYwZWRhNzJkNmVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,401 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,412 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 74 | [Antariksha](https://open.spotify.com/track/5PtZ9krK8nQ5c9sJx6lViv) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Antariksha](https://open.spotify.com/album/67fzzYghJI5aPHJCwokERt) | 3:29 |
 | 75 | [Barede Na](https://open.spotify.com/track/1GiJHRuSGenOtOaTCD4qIJ) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Barede Na](https://open.spotify.com/album/7yhwdOnfpHsGSQfGiW2Bi6) | 3:30 |
 
-Snapshot ID: `MCw5MDBkZDEwOWIzMDBkMTE3MmNhNjA5MTU3NzljOTk5YmJiYWQ4MzVm`
+Snapshot ID: `MCxmMzJhNDIxYjIyYjc4MmU2OWIzM2FjNjkxZjg1NDM2ODE5ZDgxODEz`

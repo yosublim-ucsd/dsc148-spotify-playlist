@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: BBGIRLS
 
-844 songs - 1 day 22 hr 41 min
+847 songs - 1 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Daisy](https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [WE:TH](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) | 3:09 | 2020-10-13\* | 2021-02-15 |
 | [Daisy \(feat\. pH\-1\)](https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Daisy](https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA) | 3:09 | 2021-04-22 | 2021-06-25 |
 | [DAMAGE](https://open.spotify.com/track/4bgCCjt858ABkATF5DUgfz) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [JUST BURN](https://open.spotify.com/album/1LZ8Ox2ip5t4tFNZwsMtvC) | 3:04 | 2021-07-14 | 2021-09-07 |
+| [dangdang](https://open.spotify.com/track/4wp725MlpbUiyn1NcTMHJ6) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [TWO RABBITS](https://open.spotify.com/album/0Ar5kViCsKWRjnRKy7V4Ck) | 3:16 | 2023-08-07 |  |
 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 | 2022-02-23 | 2022-08-13 |
 | [Dare to Love \(feat\. BIG Naughty\)](https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 2:55 | 2023-06-08 |  |
 | [Dark Dream](https://open.spotify.com/track/71RRK4D5eFg6bffEVVqSKF) | [E'LAST](https://open.spotify.com/artist/0NztgA9b1KEJLjLVqMwd9y) | [Dark Dream](https://open.spotify.com/album/56sCZxu6nCVcoZZ9Y9ixZJ) | 3:57 | 2021-10-06 | 2021-11-19 |
@@ -427,6 +428,7 @@
 | [Like It Hot](https://open.spotify.com/track/0sZ0QRe8BFNPOJ2k80adu1) | [GWSN](https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF) | [THE OTHER SIDE OF THE MOON](https://open.spotify.com/album/4W9vkO9c1K2oVvLTNsjWv7) | 3:22 | 2021-05-28 | 2021-07-14 |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-03-25 | 2021-06-25 |
 | [LIMBO!](https://open.spotify.com/track/0I9SiHgJ8DTwAIoJPLn81c) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [THE 3rd MINI ALBUM NATURE WORLD : CODE W](https://open.spotify.com/album/60LRJDOb3EM7svCFxA07mt) | 3:16 | 2022-11-10 | 2023-02-18 |
+| [LIP GLOSS](https://open.spotify.com/track/5yREbqEnoqMRuIOQ60t6as) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.1 Christmas In August](https://open.spotify.com/album/6j0bF8s6Kptbr4y8tuIhOY) | 3:32 | 2023-08-07 |  |
 | [LIT \(Prod\. Czaer\)](https://open.spotify.com/track/5qaOtskRtNxLiewYb6QM7A) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Street Man Fighter Original Vol.4 \(Crew Songs\)](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) | 3:15 | 2022-09-24 | 2023-02-10 |
 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2021-08-19 | 2021-11-19 |
 | [Lock Down](https://open.spotify.com/track/3SCxTtLDtZ6HsQrytAoyLV) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [1st EP Album 'Bipolar Pt.1 Prelude of Anxiety'](https://open.spotify.com/album/7vmtkwSVS1bKSvRbQ0ALvY) | 3:27 | 2021-06-16 | 2021-08-25 |
@@ -782,6 +784,7 @@
 | [VIVID](https://open.spotify.com/track/24OueqbY3eTiKT5dHhL5WQ) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [VIVID](https://open.spotify.com/album/0YnjMov6t4vfn9MXA5A6KS) | 3:25 | 2022-06-02 | 2022-07-26 |
 | [Voiceless](https://open.spotify.com/track/4LK6Kbz62qTjzhA9MbXuRB) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Pilmography](https://open.spotify.com/album/6ycojlJlzjC6T9IlWYI0PK) | 3:47 | 2022-02-07 | 2022-03-25 |
 | [VOYAGER](https://open.spotify.com/track/5X8djrOyJCnCnwD19QXQIK) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [VOYAGER](https://open.spotify.com/album/3zKRClhiSLNBrhqgCd52jE) | 3:11 | 2022-03-21 | 2022-05-19 |
+| [Vuja De](https://open.spotify.com/track/42UNd3AFYei50ztCyAKhWl) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [Reality Show \- The 3rd Mini Album](https://open.spotify.com/album/1sNNtYLrWGMmPIGElMW42b) | 3:06 | 2023-08-07 |  |
 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 | 2022-01-10 | 2022-03-22 |
 | [WAITING](https://open.spotify.com/track/4TMVuENexY9u0083CqMphE) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [ONLY LOVERS LEFT](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) | 3:07 | 2021-10-13 | 2021-12-14 |
 | [Wake Up](https://open.spotify.com/track/6l6EPz5kfTHW6gCpRQXEQo) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [SOULBYSEL Compilation 05](https://open.spotify.com/album/2tjn8gtG8HgEZx9YoqkJr9) | 3:05 | 2023-05-23 | 2023-07-26 |

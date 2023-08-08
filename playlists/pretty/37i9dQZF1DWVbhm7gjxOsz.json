@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 25951,
+  "num_followers": 26164,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTBkOGM4NmQ4NGZmYTM4MmEzNWI5MTQ5ZjQ3ZjRhNDY1ZTM0NGJj",
+  "snapshot_id": "MCwxNTgyMWFiYTg1ZjExODE0NjIyZWE4ZDgwZWExNGUwYTVmNTVkZjdk",
   "tracks": [
     {
       "added_at": "2023-05-01 20:33:48",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Gets Next to You",
         "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 172320,
       "name": "Tired of Being Alone",
       "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 141329,
-      "name": "Gimme Little Sign",
-      "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Sisters of Soul; the Sweeter Voices of Soul",
         "url": "https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 191636,
       "name": "I'm Still in Love with You",
       "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 141329,
+      "name": "Gimme Little Sign",
+      "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Me And You",
-      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Thin Line Between Love & Hate: Golden Classics",
         "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 156106,
       "name": "Darling Baby",
       "url": "https://open.spotify.com/track/10u9028SSfRyIKxV4xrzsg"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -803,22 +803,6 @@
       "duration_ms": 166960,
       "name": "Hello Stranger",
       "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 128546,
-      "name": "Baby You Got It",
-      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -883,6 +867,22 @@
       "duration_ms": 377106,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 128546,
+      "name": "Baby You Got It",
+      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Never Ending Impressions",
-        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 171506,
-      "name": "I'm So Proud",
-      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Mr. Brown Eyed Soul",
         "url": "https://open.spotify.com/album/35922ds56CsxFFO1qeCB64"
       },
@@ -1195,18 +1179,34 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
       "artists": [
         {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
+      "duration_ms": 147466,
+      "name": "The One Who Really Loves You - Single Version",
+      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Never Ending Impressions",
+        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "I'm So Proud",
+      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
       },
       "artists": [
         {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
         }
       ],
-      "duration_ms": 147466,
-      "name": "The One Who Really Loves You - Single Version",
-      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "I Do Love You",
-        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
-      },
-      "artists": [
-        {
-          "name": "Billy Stewart",
-          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "I Do Love You",
-      "url": "https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Baby, I'm Yours",
         "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 148706,
       "name": "Baby, I'm Yours",
       "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "I Do Love You",
+        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
+      },
+      "artists": [
+        {
+          "name": "Billy Stewart",
+          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "I Do Love You",
+      "url": "https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "Will You Still Love Me Tomorrow",
+        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Baby It's You",
+      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "Turn off the Lights: Sweet Soul Music",
         "url": "https://open.spotify.com/album/20qD29YyUFyMjlqL4Ypx1g"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 151626,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Will You Still Love Me Tomorrow",
-        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Baby It's You",
-      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Love On A Two-Way Street (US Release)",
-        "url": "https://open.spotify.com/album/2fCREhUDXAPsGzkRMU6cI9"
-      },
-      "artists": [
-        {
-          "name": "The Moments",
-          "url": "https://open.spotify.com/artist/6avGAzQTmqu8mfSmZrN7gT"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Love on a Two Way Street",
-      "url": "https://open.spotify.com/track/2gImbBWvXQWQ9ZDSQUWvNI"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Tangled Up in You",
         "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 240842,
       "name": "Soon Enough",
       "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Love On A Two-Way Street (US Release)",
+        "url": "https://open.spotify.com/album/2fCREhUDXAPsGzkRMU6cI9"
+      },
+      "artists": [
+        {
+          "name": "The Moments",
+          "url": "https://open.spotify.com/artist/6avGAzQTmqu8mfSmZrN7gT"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Love on a Two Way Street",
+      "url": "https://open.spotify.com/track/2gImbBWvXQWQ9ZDSQUWvNI"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Best Of Dee Dee Sharp 1962-1966",
-        "url": "https://open.spotify.com/album/319S820SmHsr88JCQDCEYv"
-      },
-      "artists": [
-        {
-          "name": "Dee Dee Sharp",
-          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
-        }
-      ],
-      "duration_ms": 168773,
-      "name": "I Really Love You",
-      "url": "https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Dry Your Eyes",
         "url": "https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 155040,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Best Of Dee Dee Sharp 1962-1966",
+        "url": "https://open.spotify.com/album/319S820SmHsr88JCQDCEYv"
+      },
+      "artists": [
+        {
+          "name": "Dee Dee Sharp",
+          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
+        }
+      ],
+      "duration_ms": 168773,
+      "name": "I Really Love You",
+      "url": "https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Best Of The Animals",
-        "url": "https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y"
-      },
-      "artists": [
-        {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
-        }
-      ],
-      "duration_ms": 148346,
-      "name": "Don't Let Me Be Misunderstood",
-      "url": "https://open.spotify.com/track/1jHnZTRWg5xRHV4SeyUiQz"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Daddy's Home: The Very Best Of Shep & The Limelites",
         "url": "https://open.spotify.com/album/5D69CVCyBJCbOk4xS1x3Yr"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 167986,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/64Ac1xoo77GCvnA3aaSuJk"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Best Of The Animals",
+        "url": "https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "duration_ms": 148346,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/1jHnZTRWg5xRHV4SeyUiQz"
     },
     {
       "added_at": "2023-05-01 20:33:48",

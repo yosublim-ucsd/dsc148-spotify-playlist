@@ -4,7 +4,7 @@
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Derya Uluğ
 
-872 songs - 1 day 22 hr 24 min
+873 songs - 1 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Arabama Bin](https://open.spotify.com/track/5dUb27G6ootdBHmIGoAp5t) | [Berrin Keklikler](https://open.spotify.com/artist/64Cq76lbrG6XZOZPo5Giwl) | [Arabama Bin](https://open.spotify.com/album/2De3QbUJTrZnpLB0WGk37L) | 2:05 | 2023-04-04 | 2023-05-03 |
 | [arz](https://open.spotify.com/track/6TdJmqeKZB7mFB0Y7kCaCf) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [şarkıcı](https://open.spotify.com/album/2yXeZdW1B4KXNSO5pUdFdJ) | 3:09 | 2022-07-05 | 2022-08-03 |
 | [Asi](https://open.spotify.com/track/2JreBBfR668uVO5ZvOeKjT) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Asi](https://open.spotify.com/album/0yoxluWtV2dTiJ1zUch5k5) | 2:44 | 2022-11-30 | 2023-01-04 |
+| [Asian Side](https://open.spotify.com/track/1djQX4Tc0p7hFmEznvCPZa) | [Allie Foe](https://open.spotify.com/artist/6BmH9X5TiiwtrRwKkIGpWn) | [Overthinker EP](https://open.spotify.com/album/1WtUkhyyfYhwylSC2Kj7ap) | 3:34 | 2023-08-07 |  |
 | [Ateş](https://open.spotify.com/track/1bkCpvWN4B8yaTdDzAcbrL) | [Eylül Taneri](https://open.spotify.com/artist/1ROYPZpzWoKwyD7rBS3gRP) | [Ateş](https://open.spotify.com/album/5dO5elwvH1YauW47qUyxLm) | 2:52 | 2022-05-31 | 2022-07-06 |
 | [Ateş ile Suyun İnadı](https://open.spotify.com/track/7MIGRrYHgdFwycxJ5aDXmi) | [Gökçe Coşkun](https://open.spotify.com/artist/5jZoqQRsD5rH9SSDHegEk6) | [Ateş ile Suyun İnadı](https://open.spotify.com/album/5kPSbyW7vSacYatIr8nANB) | 3:30 | 2022-10-04 | 2022-11-02 |
 | [Ay Işığı Destanı](https://open.spotify.com/track/6xb9YyGfSggjodNIH9zp0V) | [Beyza Doğuç](https://open.spotify.com/artist/58hQlMTfVuyOTvJihGj5Te) | [Ay Işığı Destanı](https://open.spotify.com/album/4k9ZJ9g3SuyEDql2XQZF2Z) | 4:03 | 2023-07-04 | 2023-08-02 |

@@ -176,7 +176,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 509720,
       "name": "7:39 - Original Cassette Demo",
       "url": "https://open.spotify.com/track/06VyRRP6iOUBxfn4xPwc0s"
@@ -4434,6 +4434,24 @@
       "duration_ms": 527386,
       "name": "jewlea",
       "url": "https://open.spotify.com/track/6B49y7uSdHW1fb8Pn3asRk"
+    },
+    {
+      "album": {
+        "name": "Now You Know",
+        "url": "https://open.spotify.com/album/1x5Nwed49Cn5SlnalPpgfN"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527386,
+      "name": "Jewlea",
+      "url": "https://open.spotify.com/track/75KafKD15znlhUiivJongU"
     },
     {
       "album": {

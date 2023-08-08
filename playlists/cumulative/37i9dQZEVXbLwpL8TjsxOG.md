@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-658 songs - 1 day 15 hr 25 min
+659 songs - 1 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-11 | 2022-06-13 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-06 | 2022-09-09 |
 | [Frenemy](https://open.spotify.com/track/1WzMnzTmdWbJZ3OhizMtbX) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Frenemy](https://open.spotify.com/album/3uAhnIdZUUJBLOPgQPLso2) | 3:55 | 2022-08-17 | 2023-02-08 |
-| [Get Up](https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 0:36 | 2023-07-22 |  |
+| [Get Up](https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 0:36 | 2023-07-22 | 2023-08-08 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2022-03-13 | 2022-06-26 |
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-09 | 2022-07-22 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-16 |
@@ -437,7 +437,7 @@
 | [人類不宜飛行](https://open.spotify.com/track/2R6LC73jLhgOekUBfTcE23) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [人類不宜飛行](https://open.spotify.com/album/4hO1qoffkZbefMbWnQzgNT) | 3:57 | 2021-08-19 | 2022-05-08 |
 | [人類群星閃耀時](https://open.spotify.com/track/10nbKFoqDjsauhJQTHWfkg) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [人類群星閃耀時](https://open.spotify.com/album/1hLx0tCFnduODpxvYYum9o) | 5:46 | 2021-10-16 | 2022-07-31 |
 | [今生今世 \- 電影"金枝玉葉"歌曲](https://open.spotify.com/track/1mSrXFejuVyMxWgwWCYgtq) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [I am what I am](https://open.spotify.com/album/5AwQPb2mVsTaLGLMCMJgqI) | 1:42 | 2021-04-03 | 2023-04-05 |
-| [企好](https://open.spotify.com/track/7DtzElK1X4H5FWQMPX7ZYH) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [企好](https://open.spotify.com/album/7A6puxwZwV0hxCNzjeg6S8) | 3:25 | 2023-07-08 |  |
+| [企好](https://open.spotify.com/track/7DtzElK1X4H5FWQMPX7ZYH) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [企好](https://open.spotify.com/album/7A6puxwZwV0hxCNzjeg6S8) | 3:25 | 2023-07-08 | 2023-08-08 |
 | [伸縮自如的愛](https://open.spotify.com/track/605Qt7cEa5igrpWkX3B76j) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [伸縮自如的愛](https://open.spotify.com/album/0h9Z9RHbLmLQAZMFjx7bBT) | 3:36 | 2023-04-21 | 2023-05-14 |
 | [作品的說話](https://open.spotify.com/track/1dBroK67DSaaEE5kvkVjzG) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [作品的說話](https://open.spotify.com/album/6vSggspaaAO0boTq0JQfhQ) | 4:12 | 2022-05-01 |  |
 | [你,好不好? \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛,教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 | 2023-02-27 | 2023-03-03 |
@@ -507,7 +507,7 @@
 | [怎麼了](https://open.spotify.com/track/5cU1O9P0EDA0rPkPDykhIm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [終於了解自由 \(Deluxe\)](https://open.spotify.com/album/2lrmHLTedOpdP6TaZDZ77F) | 5:21 | 2023-02-28 | 2023-03-02 |
 | [思念即地獄](https://open.spotify.com/track/7EougyUYWZdE1zCzsCA1Sx) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [思念即地獄](https://open.spotify.com/album/611grh8eoY6RDvhbhaVtj0) | 4:00 | 2021-05-21 | 2021-07-31 |
 | [思覺失調](https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz) | [Wilfred Lau](https://open.spotify.com/artist/6Vfc2kpU520XHaSRDRdNCG) | [Stat UP](https://open.spotify.com/album/1fFP9aBmo9sSVQXQK5wTqd) | 3:25 | 2022-10-12 | 2022-12-03 |
-| [怪我只敢做好人](https://open.spotify.com/track/3xO69oVpP3pSIKG9CIMEm4) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [怪我只敢做好人](https://open.spotify.com/album/6W16HM33LbSuXP9twr1Md0) | 3:58 | 2023-07-10 |  |
+| [怪我只敢做好人](https://open.spotify.com/track/3xO69oVpP3pSIKG9CIMEm4) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [怪我只敢做好人](https://open.spotify.com/album/6W16HM33LbSuXP9twr1Md0) | 3:58 | 2023-07-10 | 2023-08-08 |
 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 | 2021-03-27\* | 2023-02-25 |
 | [愛回家](https://open.spotify.com/track/5DHjpB2vk29BySgvGKq6IW) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [《阿媽有咗第二個》電影原聲專輯](https://open.spotify.com/album/3XgES0xGu2h265n7E6A3j1) | 4:09 | 2022-08-26 | 2022-12-25 |
 | [愛因斯坦羅森橋](https://open.spotify.com/track/0jAoid0myjkSA854F5GZGJ) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 1:38 | 2021-12-05 | 2021-12-06 |
@@ -573,7 +573,7 @@
 | [濤](https://open.spotify.com/track/1xRMtDxiU8xxAlaDscHIoT) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [濤](https://open.spotify.com/album/2fwUdeULjPXQyCvKdUbIoI) | 3:52 | 2023-08-02 |  |
 | [烏梅子醬](https://open.spotify.com/track/4p9jbhD6N7HpuECGusu6iT) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/2FbkaXZl2bM5YU7sZYkL6Q) | 4:17 | 2023-03-07 | 2023-04-20 |
 | [無人不知的戰果 \(ViuTV劇集: 季前賽主題曲\)](https://open.spotify.com/track/6rLZknU66zYG9Q2NI4fCYl) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [無人不知的戰果 \(ViuTV劇集: 季前賽主題曲\)](https://open.spotify.com/album/6wYuPp9Bt8JVDtxImuGng0) | 4:07 | 2022-11-18 | 2023-03-19 |
-| [無糖可口可樂 X 姜濤 • 無可取代](https://open.spotify.com/track/5DuzFa95k6It0RXVTUwMYH) | [Coca\-Cola Hong Kong](https://open.spotify.com/artist/0wTxCGuTsFbWO9ePajJ8Y6) | [無糖可口可樂 X 姜濤 • 無可取代](https://open.spotify.com/album/6Z4AfMmvAOMxnx69HbGzxD) | 1:07 | 2023-03-17 | 2023-08-06 |
+| [無糖可口可樂 X 姜濤 • 無可取代](https://open.spotify.com/track/5DuzFa95k6It0RXVTUwMYH) | [Coca\-Cola Hong Kong](https://open.spotify.com/artist/0wTxCGuTsFbWO9ePajJ8Y6) | [無糖可口可樂 X 姜濤 • 無可取代](https://open.spotify.com/album/6Z4AfMmvAOMxnx69HbGzxD) | 1:07 | 2023-03-17 |  |
 | [特倫斯夢遊仙境](https://open.spotify.com/track/366oH8GrZKjj3hnaJn9a8P) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 3:44 | 2021-12-05 | 2021-12-09 |
 | [特倫斯夢遊仙境](https://open.spotify.com/track/3PeCYcmMwmxshV64hPSHGS) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [特倫斯夢遊仙境](https://open.spotify.com/album/7JYZ524Nm6dZJpbIx9L7Nf) | 3:44 | 2021-04-21 | 2021-05-10 |
 | [特務肥姜 2.0](https://open.spotify.com/track/7oj8P5fVZy9b0ECmH69lG7) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D), [Fatboy](https://open.spotify.com/artist/15gjdkbTAdGepZQ6URumfU) | [特務肥姜 2.0](https://open.spotify.com/album/4FuB6GTVS7d2R8aBdqlTXZ) | 3:16 | 2021-08-29 | 2021-10-23 |
@@ -640,7 +640,7 @@
 | [還在流浪](https://open.spotify.com/track/35xilew5nalcetOeytaDFj) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:25 | 2022-07-16 | 2022-08-07 |
 | [邊一個發明了ENCORE](https://open.spotify.com/track/2MBaZXaQ7VKmDTr7cPPHP4) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MEMENTO](https://open.spotify.com/album/2EGs23HGMWvVUYxfiMzlgK) | 4:46 | 2022-08-13 | 2023-01-07 |
 | [銀河修理員](https://open.spotify.com/track/0pupuSkMBGpzsqG3fWcyPe) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [Limerence](https://open.spotify.com/album/27M08FRLdAhpAkorPnkuGa) | 3:52 | 2021-03-27\* | 2022-01-04 |
-| [鏡中鏡](https://open.spotify.com/track/4umaD9GJDZMihD9mal7vd1) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [鏡中鏡](https://open.spotify.com/album/3F6jDazcpKtodoMyQ3Of3V) | 4:12 | 2022-01-03 | 2023-08-04 |
+| [鏡中鏡](https://open.spotify.com/track/4umaD9GJDZMihD9mal7vd1) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [鏡中鏡](https://open.spotify.com/album/3F6jDazcpKtodoMyQ3Of3V) | 4:12 | 2022-01-03 |  |
 | [長期浪漫](https://open.spotify.com/track/3yFWbtBjZyYeDJifAHYEZ3) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [GWENDOLYN](https://open.spotify.com/album/7MKcI6USXJ5R7chXfOozmY) | 3:18 | 2021-06-13 | 2021-07-02 |
 | [隔離](https://open.spotify.com/track/7egdaSVtPnuW7YG821w7jz) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [隔離](https://open.spotify.com/album/7AaIDRR7tkYkBEdy0nUWeO) | 4:31 | 2021-03-27\* | 2021-05-16 |
 | [隔離](https://open.spotify.com/track/1i5DjVNfPxqMelMdjfI0WR) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [Processing](https://open.spotify.com/album/7cLF91NmhGSX5DLomLVeIh) | 4:34 | 2021-05-16 | 2021-07-10 |
@@ -655,6 +655,7 @@
 | [難道喜歡處女座 \(Alter Ego\)](https://open.spotify.com/track/3XDGgm7csVkxnqVlyLMRTx) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 3:37 | 2021-12-05 | 2021-12-12 |
 | [難道我還未夠難](https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:20 | 2022-01-18 | 2022-02-19 |
 | [雪不完的浪漫](https://open.spotify.com/track/0bGz5wNK3CjMnR69UChJav) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [Jessica Chan](https://open.spotify.com/artist/5sFnO2RFenl7kwYcxKEA7D) | [雪不完的浪漫](https://open.spotify.com/album/08GMne3Z7lnLjobjwXTDpn) | 3:01 | 2021-12-12 | 2022-02-06 |
+| [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-08-07 |  |
 | [青年危機](https://open.spotify.com/track/3g0L1x7OvFrsgy9e25LP7I) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [青年危機](https://open.spotify.com/album/3k7ZHbjHjOQsadMVss6NKF) | 3:38 | 2023-07-22 | 2023-07-24 |
 | [青春頌](https://open.spotify.com/track/3fxNCwlNPWXSaQy2Z5WqrD) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [青春頌](https://open.spotify.com/album/5C5s445G0OEd3OiRki54In) | 4:07 | 2021-05-30 | 2021-08-26 |
 | [靜靜](https://open.spotify.com/track/5rvJ9lvGq8hWhkCQEcer1x) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [靜靜](https://open.spotify.com/album/3TieX8iyJgg5spPuiUF3Qo) | 3:50 | 2022-08-06 | 2022-08-08 |

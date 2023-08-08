@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Best Friends (From \"Disney Junior Music: Star Wars - Young Jedi Adventures\")",
+        "url": "https://open.spotify.com/album/40pEr2MJkwHTYYFRC0xfE8"
+      },
+      "artists": [
+        {
+          "name": "Star Wars: Young Jedi Adventures - Cast",
+          "url": "https://open.spotify.com/artist/5z8sEMBST1zW6RL9staYA7"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117402,
+      "name": "Best Friends - From \"Disney Junior Music: Star Wars - Young Jedi Adventures\"",
+      "url": "https://open.spotify.com/track/6yrtCt8np914Vk1kUmACr7"
+    },
+    {
+      "album": {
         "name": "Biddy Bom (Anxious)",
         "url": "https://open.spotify.com/album/5tuFw2g5v3cDNJQEvTL4Mb"
       },
@@ -622,7 +640,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 180935,
       "name": "Freeze",
       "url": "https://open.spotify.com/track/6sB7cqa6GOOWLAiDnVtJF9"
@@ -810,7 +828,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 145144,
       "name": "Hickory Dickory Rock",
       "url": "https://open.spotify.com/track/7Jqmh4XvYpFon2kFzRthWJ"
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 59989,
       "name": "Spideys Don't Give Up - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
       "url": "https://open.spotify.com/track/0yGSt0CnmXHvmboYFn5KHA"
@@ -2162,6 +2180,24 @@
       "duration_ms": 203991,
       "name": "The Farmer in the Dell",
       "url": "https://open.spotify.com/track/776gkH5xsUdC50JA0FzdUM"
+    },
+    {
+      "album": {
+        "name": "I Can Play",
+        "url": "https://open.spotify.com/album/2ueoNXgsWUU0dtMZYyLmpM"
+      },
+      "artists": [
+        {
+          "name": "Babble Bop",
+          "url": "https://open.spotify.com/artist/5vp20RxxkwlezWHgiiP0Hg"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145144,
+      "name": "The Freeze Song",
+      "url": "https://open.spotify.com/track/07GLEjZk41HmTfGU9SdOod"
     },
     {
       "album": {
@@ -2502,6 +2538,28 @@
       "duration_ms": 156114,
       "name": "We're The Party",
       "url": "https://open.spotify.com/track/5MPC3OsPWmxqg27O3WZpIc"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Marvel's Spidey and His Amazing Friends - Web-Spinners",
+        "url": "https://open.spotify.com/album/429rqYMxX34skuuCXDz9wn"
+      },
+      "artists": [
+        {
+          "name": "Marvel\u2019s Spidey and His Amazing Friends - Cast",
+          "url": "https://open.spotify.com/artist/2BdLNqjv0srjdAEJBI0Jgm"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91311,
+      "name": "Web-Spinners",
+      "url": "https://open.spotify.com/track/3u63jOlIxYN2P2GoWjMyq0"
     },
     {
       "album": {

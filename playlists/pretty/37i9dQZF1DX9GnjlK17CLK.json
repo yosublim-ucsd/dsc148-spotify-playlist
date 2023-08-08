@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 107028,
+  "num_followers": 107126,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmFkYmExOGNlZGNmNGYwYTg4YmU5ZGY3N2NjYjU5NzQ1OTI4MGRi",
+  "snapshot_id": "MCxiNmRkN2Y1ZmJjNjQxNTdiOTcwOTYxMTc1YzMyOTFjYzNkYWRlNGI0",
   "tracks": [
     {
       "added_at": "2023-08-04 12:22:39",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-08-04 12:22:39",
       "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 320906,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
-    },
-    {
-      "added_at": "2023-08-04 12:22:39",
-      "album": {
         "name": "Taj Mahal",
         "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
       },
@@ -183,6 +167,38 @@
       "duration_ms": 251306,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/6DCALWbYX0BCOAGy0hMmRs"
+    },
+    {
+      "added_at": "2023-08-04 12:22:39",
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
+    },
+    {
+      "added_at": "2023-08-04 12:22:39",
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 320906,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
     },
     {
       "added_at": "2023-08-04 12:22:39",
@@ -223,22 +239,6 @@
       "duration_ms": 212600,
       "name": "All Your Love - Stereo",
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
-    },
-    {
-      "added_at": "2023-08-04 12:22:39",
-      "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
       "added_at": "2023-08-04 12:22:39",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-08-04 12:22:39",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "Honey, Hush aka Talking Woman Blues",
-      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
-    },
-    {
-      "added_at": "2023-08-04 12:22:39",
-      "album": {
         "name": "Taj Mahal",
         "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 178973,
       "name": "Statesboro Blues",
       "url": "https://open.spotify.com/track/4uIHPormmUH31qyjP7CU4d"
+    },
+    {
+      "added_at": "2023-08-04 12:22:39",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "Honey, Hush aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
     },
     {
       "added_at": "2023-08-04 12:22:39",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-08-04 12:22:39",
       "album": {
-        "name": "Street Talkin'",
-        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
-    },
-    {
-      "added_at": "2023-08-04 12:22:39",
-      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/5Bsx6KPTdZfbmwIWbxK0wo"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 259079,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/6MBlp2Gs9Q9aGWqDDJiNkt"
+    },
+    {
+      "added_at": "2023-08-04 12:22:39",
+      "album": {
+        "name": "The Very Best of Jimmy Reed",
+        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "Shame, Shame, Shame",
+      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
     },
     {
       "added_at": "2023-08-04 12:22:39",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-08-04 12:22:39",
       "album": {
-        "name": "The Very Best of Jimmy Reed",
-        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
+        "name": "Street Talkin'",
+        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
       },
       "artists": [
         {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 169306,
-      "name": "Shame, Shame, Shame",
-      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
+      "duration_ms": 200240,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
     },
     {
       "added_at": "2023-08-04 12:22:39",
@@ -515,22 +515,6 @@
       "duration_ms": 223906,
       "name": "Red House",
       "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
-    },
-    {
-      "added_at": "2023-08-04 12:22:39",
-      "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/1mbD2setZsn2n4U6xs3Dxg"
     },
     {
       "added_at": "2023-08-04 12:22:39",
@@ -619,6 +603,22 @@
     {
       "added_at": "2023-08-04 12:22:39",
       "album": {
+        "name": "461 Ocean Boulevard",
+        "url": "https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 291080,
+      "name": "Motherless Children",
+      "url": "https://open.spotify.com/track/1v0PatOEeF1g1fVRNlmw9k"
+    },
+    {
+      "added_at": "2023-08-04 12:22:39",
+      "album": {
         "name": "I Am The Blues",
         "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
       },
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-08-04 12:22:39",
       "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/1mbD2setZsn2n4U6xs3Dxg"
+    },
+    {
+      "added_at": "2023-08-04 12:22:39",
+      "album": {
         "name": "The Best Of Muddy Waters",
         "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 187240,
       "name": "Rollin' Stone",
       "url": "https://open.spotify.com/track/6uSBSTEnZJY0XI3IS69gBU"
-    },
-    {
-      "added_at": "2023-08-04 12:22:39",
-      "album": {
-        "name": "461 Ocean Boulevard",
-        "url": "https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 291080,
-      "name": "Motherless Children",
-      "url": "https://open.spotify.com/track/1v0PatOEeF1g1fVRNlmw9k"
     },
     {
       "added_at": "2023-08-04 12:22:39",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-08-04 12:22:39",
       "album": {
-        "name": "A Hard Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
-      },
-      "artists": [
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        }
-      ],
-      "duration_ms": 171946,
-      "name": "The Stumble",
-      "url": "https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN"
-    },
-    {
-      "added_at": "2023-08-04 12:22:39",
-      "album": {
         "name": "Shake Down",
         "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
       },
@@ -959,22 +943,6 @@
       "duration_ms": 210106,
       "name": "Ain't Superstitious",
       "url": "https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK"
-    },
-    {
-      "added_at": "2023-08-04 12:22:39",
-      "album": {
-        "name": "Peter Green's Fleetwood Mac (Deluxe)",
-        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193626,
-      "name": "Shake Your Moneymaker",
-      "url": "https://open.spotify.com/track/1FJtni7NloBrRmPZlpqZ20"
     },
     {
       "added_at": "2023-08-04 12:22:39",
@@ -1007,6 +975,38 @@
       "duration_ms": 250360,
       "name": "My Love Strikes Like Lightning",
       "url": "https://open.spotify.com/track/2axI8LbwG6EoLn57lofGQv"
+    },
+    {
+      "added_at": "2023-08-04 12:22:39",
+      "album": {
+        "name": "A Hard Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        }
+      ],
+      "duration_ms": 171946,
+      "name": "The Stumble",
+      "url": "https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN"
+    },
+    {
+      "added_at": "2023-08-04 12:22:39",
+      "album": {
+        "name": "Peter Green's Fleetwood Mac (Deluxe)",
+        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Shake Your Moneymaker",
+      "url": "https://open.spotify.com/track/1FJtni7NloBrRmPZlpqZ20"
     }
   ],
   "unique_name": "Electric Blues Classics",

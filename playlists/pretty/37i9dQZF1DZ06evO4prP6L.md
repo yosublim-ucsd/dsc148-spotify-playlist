@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 
 > This is Lee Kernaghan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,466 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,470 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 13 | [Three Chain Road \- Remastered 2017](https://open.spotify.com/track/1G84cb9RM32J4EdOcS7w6F) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Three Chain Road](https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7) | 4:14 |
 | 14 | [Walk a Country Mile](https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Troy Cassar\-Daley](https://open.spotify.com/artist/0fP6sL5Q937oEJ5IawnlBM) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 3:46 |
 | 15 | [Hat Town \- Remastered 2017](https://open.spotify.com/track/7hj30PZf5FUdjfspqbwrjd) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Hat Town](https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u) | 4:16 |
-| 16 | [I'm from the Country](https://open.spotify.com/track/041tmZwy1FfSfeJfy1IHRG) | [Travis Sinclair](https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Rhythm of the Highway \(Tamworth Edition\)](https://open.spotify.com/album/5M6fBvIwz7vz1gZMt6NWUm) | 3:34 |
-| 17 | [Flying with the King](https://open.spotify.com/track/0Yxgs1oL6uUAIthO962wzm) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Beautiful Noise](https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw) | 3:25 |
+| 16 | [Flying with the King](https://open.spotify.com/track/0Yxgs1oL6uUAIthO962wzm) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Beautiful Noise](https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw) | 3:25 |
+| 17 | [I'm from the Country](https://open.spotify.com/track/041tmZwy1FfSfeJfy1IHRG) | [Travis Sinclair](https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Rhythm of the Highway \(Tamworth Edition\)](https://open.spotify.com/album/5M6fBvIwz7vz1gZMt6NWUm) | 3:34 |
 | 18 | [Wheels](https://open.spotify.com/track/1UA9G0IC6SfniPTA7bm7EB) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Backroad Nation](https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F) | 2:51 |
 | 19 | [Leave Him in the Longyard \- Remastered 2017](https://open.spotify.com/track/235akYf5HGd1KuFGYGYtq7) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Three Chain Road](https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7) | 3:16 |
 | 20 | [Texas Qld 4385 \- Remastered 2017](https://open.spotify.com/track/3ZneF8UFPALQbQJlFyXADD) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Electric Rodeo](https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS) | 4:08 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 29 | [Outback Club Reunion](https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 4:00 |
 | 30 | [Let There Be Cowgirls](https://open.spotify.com/track/73x2EeabuTdaNx8jkLLamg) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Backroad Nation](https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F) | 2:49 |
 | 31 | [Cowgirls Do \- Remastered 2017](https://open.spotify.com/track/7iMhxEoTkfsdGJeJv9xG3b) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Hat Town](https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u) | 3:08 |
-| 32 | [I Was Only 19 \(A Walk in the Green Light\)](https://open.spotify.com/track/1HjIAAxirr5WL30SSjQOC9) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 4:18 |
-| 33 | [Scrubbashin' \- Remastered 2017](https://open.spotify.com/track/6q6IpgtoCx2jqQD1KawjBM) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [1959](https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo) | 3:21 |
+| 32 | [Scrubbashin' \- Remastered 2017](https://open.spotify.com/track/6q6IpgtoCx2jqQD1KawjBM) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [1959](https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo) | 3:21 |
+| 33 | [I Was Only 19 \(A Walk in the Green Light\)](https://open.spotify.com/track/1HjIAAxirr5WL30SSjQOC9) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 4:18 |
 | 34 | [Drive On](https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 2:51 |
 | 35 | [Beautiful Noise](https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Beautiful Noise](https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw) | 3:24 |
 | 36 | [I Milk Cows \- Remastered 2017](https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Planet Country](https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 49 | [Kokoda \- Only the Brave Ones](https://open.spotify.com/track/7H6lhV6JviBRq46hhZoSDw) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [John Schumann](https://open.spotify.com/artist/1mTm3FTSxoHUl67wQ3s5xC) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 4:12 |
 | 50 | [Country Fan](https://open.spotify.com/track/6fnli47Ghohf4zCgqKrLDN) | [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Home Truths](https://open.spotify.com/album/1pOL91067XJL27UpqiBPZ3) | 3:11 |
 
-Snapshot ID: `MjgxODg3NTIsMDAwMDAwMDBjYjhiNmEyYmM0YTE4ZjI1MDgxMWVkOTllOGM2ODkwNQ==`
+Snapshot ID: `MjgxOTAxNzEsMDAwMDAwMDAwNDNjNzdmZTBhZDA1NDNmY2JmODcyY2JiYjE3OGE0Yg==`

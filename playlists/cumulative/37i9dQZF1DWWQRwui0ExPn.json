@@ -16648,7 +16648,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 104000,
       "name": "Casual Games",
       "url": "https://open.spotify.com/track/1hF99tJ0UBNCX6lu54sO8R"
@@ -19607,6 +19607,28 @@
     },
     {
       "album": {
+        "name": "Coastal Era",
+        "url": "https://open.spotify.com/album/57fy0a9o5S4nMPKGyzk2o2"
+      },
+      "artists": [
+        {
+          "name": "Billa Qause",
+          "url": "https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y"
+        },
+        {
+          "name": "Cvsket Pretty",
+          "url": "https://open.spotify.com/artist/1B83te5eJCjyjR5b9s7h3I"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136744,
+      "name": "Coastal Era",
+      "url": "https://open.spotify.com/track/3UaU98H1BUAXKSSI5lCjwB"
+    },
+    {
+      "album": {
         "name": "Coastal View",
         "url": "https://open.spotify.com/album/2v8W44dmqzSY8F8yhXW0al"
       },
@@ -21018,7 +21040,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 120145,
       "name": "Comfort Zone",
       "url": "https://open.spotify.com/track/05OLav4TT1ys02hEq6UKLW"
@@ -27908,7 +27930,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 145396,
       "name": "drift away",
       "url": "https://open.spotify.com/track/78aqRcYGHfnjVAZMSiTsoT"
@@ -32172,7 +32194,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 123076,
       "name": "Fallen Leaves",
       "url": "https://open.spotify.com/track/2T74xKG7O2afMwnFarkcPv"
@@ -33630,7 +33652,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 147640,
       "name": "Finders Keepers",
       "url": "https://open.spotify.com/track/0H6V6TCZ2X0hVz7WLE5nCX"
@@ -47800,7 +47822,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 158205,
       "name": "Inhale",
       "url": "https://open.spotify.com/track/5Szck35tWhrRUkl68JCBA1"
@@ -65942,7 +65964,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 148500,
       "name": "Multicolor Snapshot",
       "url": "https://open.spotify.com/track/5Ow4bic8fxgzZvDQvgafNr"

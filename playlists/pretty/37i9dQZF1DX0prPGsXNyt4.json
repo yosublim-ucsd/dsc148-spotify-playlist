@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 60921,
+  "num_followers": 60966,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjM4MWNkNGI3MDI3YWIxMmEyODY1MmRkNDdiM2ZkODYzZDczYzBk",
+  "snapshot_id": "MCw5MDgxNTJkYWMxYjE2MmE3ZThlYTYxOTdlNmU4ZTVmZDk1YWE0ODU0",
   "tracks": [
     {
       "added_at": "2023-06-30 03:01:00",
@@ -415,70 +415,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Na Onda",
-        "url": "https://open.spotify.com/album/3Vj7xdxkZg832MNCRvongO"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Na Onda",
-      "url": "https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
-        "name": "Respeitada",
-        "url": "https://open.spotify.com/album/0qEEb0EcNrZWILoI1Voyiz"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 140495,
-      "name": "Respeitada",
-      "url": "https://open.spotify.com/track/2s2KVzCf8ppEilPswLgGX4"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
-        "name": "Vida Toda - Spotify Singles",
-        "url": "https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 153245,
-      "name": "Vida Toda - Spotify Singles",
-      "url": "https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "Poesia Ac\u00fastica 11: Nada Mudou",
         "url": "https://open.spotify.com/album/3716y3qiVChUSJv24nvCUB"
       },
@@ -531,6 +467,70 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
+        "name": "Vida Toda - Spotify Singles",
+        "url": "https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 153245,
+      "name": "Vida Toda - Spotify Singles",
+      "url": "https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Na Onda",
+        "url": "https://open.spotify.com/album/3Vj7xdxkZg832MNCRvongO"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Na Onda",
+      "url": "https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Respeitada",
+        "url": "https://open.spotify.com/album/0qEEb0EcNrZWILoI1Voyiz"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 140495,
+      "name": "Respeitada",
+      "url": "https://open.spotify.com/track/2s2KVzCf8ppEilPswLgGX4"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
         "name": "NU",
         "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
       },
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Hat-Trick do Tubar\u00e3o",
-        "url": "https://open.spotify.com/album/4tTPMZJo3j4DpD2PbaWUOu"
-      },
-      "artists": [
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Trinta Minutos",
-      "url": "https://open.spotify.com/track/09otOI8Suk88Lg1MJmZJPE"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "Ap\u00ea 1001",
         "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
       },
@@ -603,6 +583,58 @@
       "duration_ms": 171428,
       "name": "Ap\u00ea 1001",
       "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Hat-Trick do Tubar\u00e3o",
+        "url": "https://open.spotify.com/album/4tTPMZJo3j4DpD2PbaWUOu"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Trinta Minutos",
+      "url": "https://open.spotify.com/track/09otOI8Suk88Lg1MJmZJPE"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
+        "url": "https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "duration_ms": 242526,
+      "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
+      "url": "https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -647,30 +679,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Ainda",
-        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 154378,
-      "name": "Essa Noite",
-      "url": "https://open.spotify.com/track/6g0IE3b4slstOTvcm5D67J"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "Lobo",
         "url": "https://open.spotify.com/album/7g1gfivaZsOOuf0a6Z1vsj"
       },
@@ -691,6 +699,30 @@
       "duration_ms": 212018,
       "name": "Sobre N\u00f3s",
       "url": "https://open.spotify.com/track/5K1n3LwCVZg2TE9SLgIwem"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Ainda",
+        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 154378,
+      "name": "Essa Noite",
+      "url": "https://open.spotify.com/track/6g0IE3b4slstOTvcm5D67J"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -723,6 +755,46 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
+        "name": "Poesia Ac\u00fastica - Paris",
+        "url": "https://open.spotify.com/album/4k8pamcdDRM5PQGkAqhvjS"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Dk 47",
+          "url": "https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 420000,
+      "name": "Poesia Ac\u00fastica - Paris",
+      "url": "https://open.spotify.com/track/5JKaHAt4atuNoLqpyDgbyK"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
         "name": "Dubl\u00ea de Marido",
         "url": "https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks"
       },
@@ -743,38 +815,6 @@
       "duration_ms": 154285,
       "name": "Dubl\u00ea de Marido",
       "url": "https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
-        "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
-        "url": "https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 242526,
-      "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
-      "url": "https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -891,46 +931,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Poesia Ac\u00fastica - Paris",
-        "url": "https://open.spotify.com/album/4k8pamcdDRM5PQGkAqhvjS"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Dk 47",
-          "url": "https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 420000,
-      "name": "Poesia Ac\u00fastica - Paris",
-      "url": "https://open.spotify.com/track/5JKaHAt4atuNoLqpyDgbyK"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "Tudo No Priv\u00ea",
         "url": "https://open.spotify.com/album/2QQXWeBTbUpJ6TxUbGL2qn"
       },
@@ -971,30 +971,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Zod\u00edaco",
-        "url": "https://open.spotify.com/album/4xH7fbJ5MRzks4KCpVy1J1"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Sagit\u00e1rio",
-      "url": "https://open.spotify.com/track/7tgLsXgElnqUpW6mweFWGV"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "Moletom",
         "url": "https://open.spotify.com/album/06lztEJw4cOCHFhFx88HCP"
       },
@@ -1019,6 +995,30 @@
       "duration_ms": 334153,
       "name": "Moletom",
       "url": "https://open.spotify.com/track/4oNnEtS6QgwT8Co9P9TAVC"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Zod\u00edaco",
+        "url": "https://open.spotify.com/album/4xH7fbJ5MRzks4KCpVy1J1"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Sagit\u00e1rio",
+      "url": "https://open.spotify.com/track/7tgLsXgElnqUpW6mweFWGV"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -1067,6 +1067,42 @@
       "duration_ms": 210000,
       "name": "Dichave",
       "url": "https://open.spotify.com/track/3hYScvpnpwomGVVWhfZZA3"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Outras Vidas",
+        "url": "https://open.spotify.com/album/6wb4X7EEXq5e9EGtTjT31P"
+      },
+      "artists": [
+        {
+          "name": "MC Luan da BS",
+          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
+        }
+      ],
+      "duration_ms": 169845,
+      "name": "Outras Vidas",
+      "url": "https://open.spotify.com/track/70TOq8IEGaLgTum1SEu59X"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Deixa Eu Te Chamar de Moz\u00e3o",
+        "url": "https://open.spotify.com/album/3YnHedfeESbbi1atWZzxHF"
+      },
+      "artists": [
+        {
+          "name": "Dj Juninho 22",
+          "url": "https://open.spotify.com/artist/4T47gOchMUCmHFoVBE28NH"
+        },
+        {
+          "name": "Nega",
+          "url": "https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8"
+        }
+      ],
+      "duration_ms": 222014,
+      "name": "Deixa Eu Te Chamar de Moz\u00e3o",
+      "url": "https://open.spotify.com/track/2YNG9JeshL9zj6WzcFn63T"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -1123,42 +1159,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Outras Vidas",
-        "url": "https://open.spotify.com/album/6wb4X7EEXq5e9EGtTjT31P"
-      },
-      "artists": [
-        {
-          "name": "MC Luan da BS",
-          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
-        }
-      ],
-      "duration_ms": 169845,
-      "name": "Outras Vidas",
-      "url": "https://open.spotify.com/track/70TOq8IEGaLgTum1SEu59X"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
-        "name": "Deixa Eu Te Chamar de Moz\u00e3o",
-        "url": "https://open.spotify.com/album/3YnHedfeESbbi1atWZzxHF"
-      },
-      "artists": [
-        {
-          "name": "Dj Juninho 22",
-          "url": "https://open.spotify.com/artist/4T47gOchMUCmHFoVBE28NH"
-        },
-        {
-          "name": "Nega",
-          "url": "https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8"
-        }
-      ],
-      "duration_ms": 222014,
-      "name": "Deixa Eu Te Chamar de Moz\u00e3o",
-      "url": "https://open.spotify.com/track/2YNG9JeshL9zj6WzcFn63T"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "Surtada",
         "url": "https://open.spotify.com/album/3NYNo4VJJXOSpKMh0AAjMN"
       },
@@ -1175,6 +1175,30 @@
       "duration_ms": 143061,
       "name": "Surtada",
       "url": "https://open.spotify.com/track/3gZXNwLzMQdlpDsfHC9PPz"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Mundo Pequeno",
+        "url": "https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 228252,
+      "name": "Mundo Pequeno",
+      "url": "https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -1231,30 +1255,6 @@
       "duration_ms": 610515,
       "name": "Love - Ac\u00fastico",
       "url": "https://open.spotify.com/track/59glxsHIDG5MSdPuqh8fpW"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
-        "name": "Mundo Pequeno",
-        "url": "https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 228252,
-      "name": "Mundo Pequeno",
-      "url": "https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5"
     },
     {
       "added_at": "2023-06-30 03:01:00",

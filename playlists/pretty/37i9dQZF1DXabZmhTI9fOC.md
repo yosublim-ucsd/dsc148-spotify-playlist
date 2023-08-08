@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,276 likes - 106 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,353 likes - 110 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,5 +114,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 104 | [Tattoos](https://open.spotify.com/track/4JbUI6AoGibHGsHN77aSws) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Tattoos](https://open.spotify.com/album/1KFTkdRgqz47SR6F9B1UwJ) | 2:53 |
 | 105 | [Make Up Your Mind](https://open.spotify.com/track/4NqhfRxoukTiA0jDQunGLf) | [Midnight Village](https://open.spotify.com/artist/4KyftSDuIf2Y4HuvxqztUb) | [Make Up Your Mind](https://open.spotify.com/album/23uo9icx2jPNdhyLOAaTP4) | 4:20 |
 | 106 | [Mad](https://open.spotify.com/track/7IUtD2X4mt2PMotBFM6uoL) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [AFFIRMATIONS](https://open.spotify.com/album/6qrsaSHCzscquJnDmEhs3m) | 2:44 |
+| 107 | [No Mercy](https://open.spotify.com/track/3E56PIzUsN5bzRsE4f6JZB) | [Zayde Wølf](https://open.spotify.com/artist/7LIy7KinYq7a83dUH6kvxT) | [Modern Alchemy](https://open.spotify.com/album/26lJZZBUlOj3olP9sEESUZ) | 3:44 |
+| 108 | [Leave The Door Open \- Acoustic](https://open.spotify.com/track/65P0LJJh9vEa5yR6S2xIZR) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Leave The Door Open \(Acoustic\)](https://open.spotify.com/album/47GrZGrgepJsZqTuAhmkUD) | 3:06 |
+| 109 | [Sideways](https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct) | 2:44 |
+| 110 | [Revolution](https://open.spotify.com/track/6QGQghV8WhVOTNo9KbfNhd) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Revolution](https://open.spotify.com/album/60zknsCojGDWHAZ1ppZgXP) | 3:06 |
 
-Snapshot ID: `MCw4ZDE0Y2Q3ZWIwNzhhOTQzZWFiMWU1ZGUyMWI0YzNhMDgxYWVkYmJj`
+Snapshot ID: `MCwwMWFlMDI3NTk3ZGZkMmVlMGVjOTg3MDJkZjJjMGY4NjdmZTZjZDE2`

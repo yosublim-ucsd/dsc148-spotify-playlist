@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:  <a href="https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs?si=92e7441706e64118">Tommy Royale</a>, <a href="https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv?si=d6b20d5fdda349da">Samuel ASH</a>, y <a href="https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp?si=8b8f38368fc44e8c">Alexxander</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,117 likes - 99 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,189 likes - 99 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 42 | [Soy Tu Fan \- Acustica](https://open.spotify.com/track/0nfvHM7fQvWQdE5PBb7Ee2) | [Albert Miliano](https://open.spotify.com/artist/7ofAYf298XeFeUCLMzseYf), [La Clave en el Ritmo](https://open.spotify.com/artist/5pXpKqgDotrR1rxKD1XoGR) | [Soy Tu Fan \(Acustica\)](https://open.spotify.com/album/4SajMYrAFk7aZ7PepXey2G) | 2:00 |
 | 43 | [Sí a la Vida](https://open.spotify.com/track/2z6VjaBUXUUSEbF6YJhwLL) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Daliza Cont](https://open.spotify.com/artist/6Yl8liObROzQbjW7orGmdS) | [Maverick](https://open.spotify.com/album/2pksgG7EddFk0Gvl2S3PsH) | 4:11 |
 | 44 | [De Nuevo](https://open.spotify.com/track/5OYgtP28H4BvgNKFBbytOD) | [Banda Punto de Encuentro](https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn) | [De Nuevo](https://open.spotify.com/album/4OlGJ4ZK9hfjnoOYTZZNCL) | 4:38 |
-| 45 | [Listo O No](https://open.spotify.com/track/2MQcHaffDfzLADPpip7XGK) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Listo O No](https://open.spotify.com/album/5vu9HFTSPplPGXMmtEAC80) | 5:11 |
+| 45 | [Listo O No](https://open.spotify.com/track/7EAh6H5MFJGfDEUbdoO9El) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Algo Nuevo](https://open.spotify.com/album/06PGzCviaItn974P5DtCiT) | 5:11 |
 | 46 | [Queremos Aprender](https://open.spotify.com/track/1y8WZtJ6AsJ4ivQwrcGEex) | [Carlos Omar](https://open.spotify.com/artist/6h3lF5lLoo8wGMB4C8SaiY), [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8), [Celines](https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl) | [Queremos Aprender](https://open.spotify.com/album/1yp19QSttroOOsdgxGzEGh) | 5:58 |
 | 47 | [Gloria A Dios](https://open.spotify.com/track/3IeZ0ZBrY82CtdiZyheFjM) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Gloria A Dios / Reflejo](https://open.spotify.com/album/2sbtrAJEPD6K3GZuGDEc7p) | 5:17 |
 | 48 | [Lugar de Intimidad](https://open.spotify.com/track/5B2Aym7skqcBFIGJKmqHkx) | [Primera Fe](https://open.spotify.com/artist/0nKPBGMIpJlCtmIdnh6Wpw) | [Lugar de Intimidad](https://open.spotify.com/album/5S66XBXmzkvTe3DensNI9P) | 5:30 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [CICATRICES](https://open.spotify.com/track/7hr0OyJzcvtkyNxrjlzFUS) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Lilo Music](https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd) | [CICATRICES](https://open.spotify.com/album/4o0231wiUwMNR3movn9RbR) | 3:00 |
 | 99 | [Falsas Promesas](https://open.spotify.com/track/2sGMm8Eh6AUSxw4ig0CYjE) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Falsas Promesas](https://open.spotify.com/album/1i7LuUAwhyYr2EfHwC2KbV) | 3:37 |
 
-Snapshot ID: `MCwwZmE5ZWEyMjNmZGE1NWViOGFjZTAxM2UxNjJlMGY4YzE1MmE1NGY5`
+Snapshot ID: `MCxjMmQ5ZDc5ODQ4OTU1M2E0MjBkNmJiNjE3NmM1ZDEzNjliYjhmZDRi`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks for punks big and small.",
-  "num_followers": 49660,
+  "num_followers": 49715,
   "original_name": "Raised on Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDFhNGQ1NTEwNTY3MDFiNDFlNWM0NGE1ZmJlYTE0YWY1NDQ1YjNl",
+  "snapshot_id": "MCw5MThjMzQwMTNlMjA5NzI5OGRmMzE5ZDVmNWE1NDVmMjA2Y2FjMDYy",
   "tracks": [
     {
       "added_at": "2021-04-20 17:48:20",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
-        "url": "https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "I'm Just a Kid",
-      "url": "https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -155,18 +139,18 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "The Warrior's Code",
-        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+        "name": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
+        "url": "https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS"
       },
       "artists": [
         {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
         }
       ],
-      "duration_ms": 153600,
-      "name": "I'm Shipping Up To Boston",
-      "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
+      "duration_ms": 198333,
+      "name": "I'm Just a Kid",
+      "url": "https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -183,6 +167,38 @@
       "duration_ms": 193653,
       "name": "Dirty Little Secret",
       "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "I'm Shipping Up To Boston",
+      "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -215,22 +231,6 @@
       "duration_ms": 194666,
       "name": "Train in Vain (Stand by Me) - Remastered",
       "url": "https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -361,22 +361,6 @@
       "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
     },
     {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "Sheena Is a Punk Rocker - 2017 Remaster",
-      "url": "https://open.spotify.com/track/61MZN0yyMWSEwrLPUUGfgJ"
-    },
-    {
       "added_at": "2022-01-10 21:04:09",
       "album": {
         "name": "This Year's Model (2021 Remaster)",
@@ -391,6 +375,22 @@
       "duration_ms": 196680,
       "name": "Pump It Up - 2021 Remaster",
       "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 169920,
+      "name": "Sheena Is a Punk Rocker - 2017 Remaster",
+      "url": "https://open.spotify.com/track/61MZN0yyMWSEwrLPUUGfgJ"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
     },
     {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 126453,
-      "name": "Rockaway Beach - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF"
-    },
-    {
       "added_at": "2022-01-10 21:04:09",
       "album": {
         "name": "White Crosses",
@@ -647,6 +631,22 @@
       "duration_ms": 186626,
       "name": "Amoeba",
       "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 126453,
+      "name": "Rockaway Beach - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Lars Frederiksen And The Bastards",
-        "url": "https://open.spotify.com/album/4NnKPdKvKmfX4b8OgPf9uP"
-      },
-      "artists": [
-        {
-          "name": "Lars Frederiksen and the Bastards",
-          "url": "https://open.spotify.com/artist/64HBI5GPR0TqM0TyAKu0nG"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "To Have And To Have Not",
-      "url": "https://open.spotify.com/track/2KeEzXxpADVpW1gbUj0rS7"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "The Fury of the Aquabats!",
         "url": "https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 182800,
       "name": "Super Rad!",
       "url": "https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Lars Frederiksen And The Bastards",
+        "url": "https://open.spotify.com/album/4NnKPdKvKmfX4b8OgPf9uP"
+      },
+      "artists": [
+        {
+          "name": "Lars Frederiksen and the Bastards",
+          "url": "https://open.spotify.com/artist/64HBI5GPR0TqM0TyAKu0nG"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "To Have And To Have Not",
+      "url": "https://open.spotify.com/track/2KeEzXxpADVpW1gbUj0rS7"
     },
     {
       "added_at": "2021-04-20 17:48:20",

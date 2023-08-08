@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L?si=bdcAMGVISMu1Fomr8oni7Q">Fameye</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,815 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,843 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Sex](https://open.spotify.com/track/3tyMlwxHwEE5TAb2ecUqQU) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Sex](https://open.spotify.com/album/7rgMsOvr1GZHI84teicBfE) | 3:24 |
 | 80 | [Chop Life](https://open.spotify.com/track/64j2xnJweYeCQvycBGBmLR) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Chop Life](https://open.spotify.com/album/4vxbBbvegnEZ8wMiH7Y6lh) | 3:00 |
 
-Snapshot ID: `MCxmMjZjNjQwYjIxNjk4OGE0ZTcyYWUxYzU4ZmYzNjBmMDM3NjBlN2Rk`
+Snapshot ID: `MCwxNDA2ZDk5MjkyYWU5MDhmOTJhNDk4ZTlmYWEzNmJhZTlmMzEyNDQ2`

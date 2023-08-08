@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones cristianas\.  Foto:  <a href="https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs?si=92e7441706e64118">Tommy Royale</a>, <a href="https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv?si=d6b20d5fdda349da">Samuel ASH</a>, y <a href="https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp?si=8b8f38368fc44e8c">Alexxander</a>
 
-1,120 songs - 3 day 8 hr 18 min
+1,121 songs - 3 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,7 +527,8 @@
 | [LEÓN \(LION\)](https://open.spotify.com/track/4gWEajZcRRCSbxkfkmesA5) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [LEÓN](https://open.spotify.com/album/1PFy3At4783o15yGZQleWZ) | 5:43 | 2022-10-07 | 2022-12-10 |
 | [León de Judá](https://open.spotify.com/track/4GZOCkDM55gP41pVmbp6VX) | [Dahaira](https://open.spotify.com/artist/3nIeDI9YmzJ4iWAoerBQVR) | [León de Judá](https://open.spotify.com/album/1ZDes0m61OifCgx2n3C7JC) | 7:59 | 2022-11-25 | 2023-02-04 |
 | [Libertad Me Das](https://open.spotify.com/track/3t9XwVma75xPCEU3SZOSY7) | [Addy Juarez](https://open.spotify.com/artist/366Pt6OxF8zLQWeglvFxMS) | [Cerca de Ti](https://open.spotify.com/album/7mzqmCmr7RdhjbopgCQg44) | 5:31 | 2023-01-13 | 2023-02-25 |
-| [Listo O No](https://open.spotify.com/track/2MQcHaffDfzLADPpip7XGK) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Listo O No](https://open.spotify.com/album/5vu9HFTSPplPGXMmtEAC80) | 5:11 | 2023-07-21 |  |
+| [Listo O No](https://open.spotify.com/track/2MQcHaffDfzLADPpip7XGK) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Listo O No](https://open.spotify.com/album/5vu9HFTSPplPGXMmtEAC80) | 5:11 | 2023-07-21 | 2023-08-08 |
+| [Listo O No](https://open.spotify.com/track/7EAh6H5MFJGfDEUbdoO9El) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Algo Nuevo](https://open.spotify.com/album/06PGzCviaItn974P5DtCiT) | 5:11 | 2023-08-04 |  |
 | [Llama \- Remix](https://open.spotify.com/track/2Vljoc3nf8IoCX1OYUxzIp) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM) | [Llama \(Remix\)](https://open.spotify.com/album/3nKmCo8C4gnEQhmtSoRAK4) | 4:30 | 2022-07-01 | 2022-09-10 |
 | [Llamado de Clarín](https://open.spotify.com/track/3rPdvYXOn2MbeJm4H7rLvK) | [Bria](https://open.spotify.com/artist/39ijeu4kzeWzjcqqpYNsN7) | [Llamado De Clarín](https://open.spotify.com/album/3sjbYvXzKfFSPoixGc1QrA) | 3:33 | 2022-04-29 | 2022-06-18 |
 | [Llegaron los aleluyas](https://open.spotify.com/track/22iHtuqeELsZ04PWkI5sf5) | [Rigoberto Amaya](https://open.spotify.com/artist/5c4d0pm4eI0no80Sd56d1b) | [A dónde iré](https://open.spotify.com/album/6sHr86HOqTRPQ9llNnk6A1) | 4:03 | 2022-09-09 | 2022-10-09 |

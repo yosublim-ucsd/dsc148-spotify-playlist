@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover:Jo Hyun Ah\(조현아\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover:Kim Do Hee\(김도희\)\) \(당신의 감성에 발라드, 려요\)
 
-953 songs - 2 day 13 hr 56 min
+956 songs - 2 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Long Day](https://open.spotify.com/track/2u9dTwkJBYoIWAeW2IE5Cv) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Long Day](https://open.spotify.com/album/0BIST1V2G2NjPT6cc01rTS) | 3:38 | 2023-03-27 |  |
 | [Looking at the Photo](https://open.spotify.com/track/05vg8sTPGNYv7uKYbVU4e3) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Looking at the Photo \(REVIBE Vol.2\)](https://open.spotify.com/album/25JKB4F13k0KyACimQx081) | 4:39 | 2021-12-20 | 2022-05-25 |
 | [Lost mind](https://open.spotify.com/track/4qp9FmYIcnvJQKuYM1DyF8) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Lost mind \(Made in 4MEN\)](https://open.spotify.com/album/1pTC8VGMlc8vQ181lKJJwL) | 3:31 | 2023-03-31 |  |
+| [Love](https://open.spotify.com/track/4C4NgO8wekPIHieKk7apfA) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Move On](https://open.spotify.com/album/0SMuKynMzf8sA5gxAq6BbN) | 3:53 | 2023-08-07 |  |
 | [Love Alone](https://open.spotify.com/track/5V0ZavoSTmk0mQlfyHiDFW) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Love Alone \(CURTAIN CALL OST Part.6\)](https://open.spotify.com/album/4XgfduD3vOgaJeolOa5Nz4) | 3:27 | 2022-11-22 | 2023-01-21 |
 | [Love Contact](https://open.spotify.com/track/4hEZIBzhFQjJ99Znqwd9y8) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Love Contact](https://open.spotify.com/album/1wtXh0pRrUTdH3hgOCTuvX) | 4:11 | 2022-12-16 | 2023-01-21 |
 | [Love from a Real Heart\(2023\)](https://open.spotify.com/track/0Muf8pCSuf50DOoWs9ABVz) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Beginning is the First Kiss \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/5N1C8ku1f0eBcsPPlNOvxI) | 4:20 | 2023-06-13 |  |
@@ -613,6 +614,7 @@
 | [Only you don't know \(Samsung New Retro Series\)](https://open.spotify.com/track/6Zvu8RwsRkogAb5AvBpF2x) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Only you don't know \(Samsung New Retro Series\)](https://open.spotify.com/album/5DqfLEt9syg644ToarPkZU) | 4:05 | 2021-12-23 | 2022-06-12 |
 | [ordinary farewell](https://open.spotify.com/track/5nm7Wbp1gXSqEFu1v54zdA) | [Letter flow](https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY) | [ordinary farewell](https://open.spotify.com/album/20BErIiY911MKyHgfx1Mne) | 3:50 | 2022-07-07 | 2022-09-06 |
 | [Our Days](https://open.spotify.com/track/70AnBuAJhAFDAlHA4ILXjW) | [Kim Yong Jun](https://open.spotify.com/artist/7c8aDBJZIk4slFY40S6He7) | [Our Days](https://open.spotify.com/album/1sPFkBCyZ9eqnXaDWgdC5h) | 3:53 | 2022-07-07 | 2022-08-02 |
+| [Our Night is more beautiful than your Day](https://open.spotify.com/track/0SXsRcuTaWZAg6QyDhncpY) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Our Night is more beautiful than your Day](https://open.spotify.com/album/5GQw3mn3wr4asTSR73VHTq) | 3:19 | 2023-08-07 |  |
 | [Our Season](https://open.spotify.com/track/3yA7377j20H03qiukcBkjU) | [WSG WANNABE\(4FIRE\)](https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD) | [Our Season](https://open.spotify.com/album/5BwR3SR5PxOBdMG0kWUdjR) | 3:36 | 2022-12-16 | 2023-02-25 |
 | [Our Spring \(feat\. Im Ga Young\)](https://open.spotify.com/track/59d2K1gzt3M9PKdyCsI6sY) | [Private Story](https://open.spotify.com/artist/2d7sJ0zIcqj1jDMYBkw4S6), [Im Ga Young](https://open.spotify.com/artist/6BgU40lKJzHwS6AzWzjEue) | [Our Spring](https://open.spotify.com/album/4z8DyqmUvuhzUjvkFvRbiH) | 3:52 | 2023-02-24 | 2023-05-16 |
 | [Our story \(Feat\. Lee Ru Da\)](https://open.spotify.com/track/5IwtQvh6siooeSKVvlmyLl) | [Jung Chang Yong](https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx), [Lee Ru DA](https://open.spotify.com/artist/5KRcPRmGptkCL1QT6QR9qA) | [Our story](https://open.spotify.com/album/1jCd0DcZBJpGNhVtCOjcMi) | 4:27 | 2022-12-16 | 2023-02-09 |
@@ -821,6 +823,7 @@
 | [Unable to Say Goodbye](https://open.spotify.com/track/6Py7I15kNGwKA0anOBBusx) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [Unable to Say Goodbye](https://open.spotify.com/album/5UiCvPlZOqnsl7hvvzp6RP) | 4:07 | 2023-03-08 | 2023-07-08 |
 | [Unbearable Pain](https://open.spotify.com/track/41LundrJaKNT2kLlfG1ufe) | [SEOBIN](https://open.spotify.com/artist/5wIb1NVEsm3RR9hSrYXjDr) | [Unbearable Pain](https://open.spotify.com/album/0nBw2E2j7OlAXHh1959DW8) | 4:03 | 2022-10-04 | 2022-10-13 |
 | [understand](https://open.spotify.com/track/3J1SWo1MyGSR6dwjv1jdlT) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [understand](https://open.spotify.com/album/0RluOrRGTkAJ6Z8jtj11Ru) | 4:41 | 2022-03-24 | 2022-04-19 |
+| [Unforgettable memories](https://open.spotify.com/track/3DzihRTuMj2cR5awD5t1Tq) | [KIM DO HEE](https://open.spotify.com/artist/2u6Q4aqOAeDYSUUwKYo8r4) | [Unforgettable memories](https://open.spotify.com/album/2nsCYqJqfLuuebsVZTNXmb) | 3:59 | 2023-08-07 |  |
 | [Unhateable](https://open.spotify.com/track/7oXQfEySOUukDThklMkr76) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Unhateable](https://open.spotify.com/album/4RfLKMKI3rnk5Qxgl6F7YW) | 4:20 | 2021-12-23 | 2022-04-22 |
 | [Unnamed Emotion](https://open.spotify.com/track/1dBbh8gtRtVCbXxyIyW86c) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [Unnamed Emotion](https://open.spotify.com/album/2WKF3O9QfxUNv16IeD2FXo) | 3:59 | 2022-02-17 | 2022-02-20 |
 | [Until I love the love](https://open.spotify.com/track/1Qv9rEY9i8E78NQ3xRsKbE) | [Choi junghoon of Jannabi](https://open.spotify.com/artist/3tYhkFMgzudLuw0ICWgnko) | [Until I love the love](https://open.spotify.com/album/4wOnyTSfHScSoCxq54NzVX) | 3:56 | 2022-04-21 | 2022-04-24 |

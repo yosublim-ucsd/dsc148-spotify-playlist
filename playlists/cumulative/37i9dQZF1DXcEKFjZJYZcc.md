@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-257 songs - 10 hr 30 min
+259 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Hands and Feet](https://open.spotify.com/track/3SwnQKMO2D0jOUKxaqIHLw) | [Samuel Félix](https://open.spotify.com/artist/4QCrQhj1liuos6rjK3hUBr) | [Hands and Feet](https://open.spotify.com/album/3VLtmQVO6V5bkx17xTKkvO) | 1:54 | 2022-03-17 |  |
 | [Homestead](https://open.spotify.com/track/2yZU1Y2Zagb4Ymm5gK72ab) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Homestead](https://open.spotify.com/album/2FSycLXewsbnvoqm6F5oKv) | 2:42 | 2022-03-03 |  |
 | [Hour of Rest](https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Hour of Rest](https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO) | 1:52 | 2021-12-14 |  |
+| [I Dare Not Dream](https://open.spotify.com/track/31as8GAbqrm9thjsrTD7lo) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Dare Not Dream](https://open.spotify.com/album/1X8SeMtxLgpnUCvUo6QcVj) | 2:14 | 2023-08-07 |  |
 | [I Still Miss You](https://open.spotify.com/track/1mB4krpjjVkqfMcgHvivJZ) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [I Still Miss You](https://open.spotify.com/album/3kHtcexla1h1I2wUnw7RqA) | 2:06 | 2023-06-20 |  |
 | [If It Snows](https://open.spotify.com/track/5uaOLZ0lOsNgVGSlfgj8U7) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [If It Snows](https://open.spotify.com/album/1YwmuYcOKl6lOBeQ5b4T9y) | 4:11 | 2022-04-28 | 2022-07-21 |
 | [In Good And Bad Times](https://open.spotify.com/track/4li3ITSBXpSovNGyNEBDeM) | [Leon den Engelsen](https://open.spotify.com/artist/0SoSwLhB42eDxhzzy5CU3Y) | [In Good And Bad Times](https://open.spotify.com/album/69lQz90VYRXxVElJDtgAEv) | 2:59 | 2021-12-14 |  |
@@ -141,6 +142,7 @@
 | [Når du er nær](https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Når du er nær](https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC) | 2:04 | 2023-03-01 |  |
 | [Oaks Bluffs](https://open.spotify.com/track/0jSUVrvKQ0qF8ee1usL34M) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Heart Open & Oak Bluffs](https://open.spotify.com/album/0WUh561iRu6szlrM5pB2eW) | 1:57 | 2022-12-06 |  |
 | [Ocean](https://open.spotify.com/track/6EP77Zog3nQuQaOHEpE9cR) | [Eric Wilhelm](https://open.spotify.com/artist/7pMZdUh8fBuVoUpARYPuoQ) | [Ocean](https://open.spotify.com/album/6YPiF7Xt7QHDS610MMgyoH) | 1:46 | 2021-12-14 | 2022-01-20 |
+| [On a summer midnight](https://open.spotify.com/track/68jz5jlpsxs5cL48wGIgqC) | [Qunfan Wen](https://open.spotify.com/artist/2qhWWY7F1cPThO3UfSJVcm) | [On a summer midnight](https://open.spotify.com/album/3Nh4RpRM4ZScvXV3Yi78A9) | 2:03 | 2023-08-07 |  |
 | [On My Way Home](https://open.spotify.com/track/4iuGVtUXm2RfdyaGofN5MC) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [On My Way Home](https://open.spotify.com/album/0xjLWXYwiERfTpIeBxSPam) | 2:31 | 2022-09-13 |  |
 | [On The Way Home](https://open.spotify.com/track/7MbDQoIYjB1XqRpA8fsIjy) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [On The Way Home](https://open.spotify.com/album/16Pa3QL4cWA8svYlH5rBvu) | 2:26 | 2022-10-26 |  |
 | [Once Before](https://open.spotify.com/track/4bGa4NtNALvGtaGqumTjM7) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [For Mom](https://open.spotify.com/album/6zeB2J9fBAIwzJrFrShiwb) | 3:17 | 2021-12-14 |  |

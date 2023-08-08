@@ -275,6 +275,28 @@
     },
     {
       "album": {
+        "name": "Amami (La Tosa Disco Remix)",
+        "url": "https://open.spotify.com/album/77ZpekbQJKAUBSrWDgLJQc"
+      },
+      "artists": [
+        {
+          "name": "Lilith Primavera",
+          "url": "https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019"
+        },
+        {
+          "name": "La Tosa",
+          "url": "https://open.spotify.com/artist/4ewa6gzbDQiCfDgjVpOGYl"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196523,
+      "name": "Amami - La Tosa Disco Remix",
+      "url": "https://open.spotify.com/track/4hN5nPKf7hxBJK6shDieXf"
+    },
+    {
+      "album": {
         "name": "Nuda",
         "url": "https://open.spotify.com/album/5q3Qt3eOUcVfSxeeWrVIHs"
       },
@@ -290,7 +312,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 196940,
       "name": "Amami - La Tosa Disco Remix",
       "url": "https://open.spotify.com/track/17x9hPgr15m3Sfvj2rZjf8"

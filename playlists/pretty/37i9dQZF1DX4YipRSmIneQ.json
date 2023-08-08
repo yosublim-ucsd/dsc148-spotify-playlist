@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 63316,
+  "num_followers": 63461,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzViZDQ2NWU3OTI5ZmQxNzdkYTRlOWNkNTRlYmQ4ZTM4Zjc0YjZl",
+  "snapshot_id": "MCwzNzkwYzRmY2JhOTAxNmIwYmFjMmY3YjlmYzQzYjg4NmM4YjY5OGJj",
   "tracks": [
     {
       "added_at": "2023-07-24 14:58:59",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "GOOD PUSS",
-        "url": "https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 220223,
-      "name": "GOOD PUSS",
-      "url": "https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
         "name": "Come Check This",
         "url": "https://open.spotify.com/album/6YnEvQjRcWyAAxm7dXNEfs"
       },
@@ -231,22 +215,18 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "Work It (Soulwax Remix)",
-        "url": "https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT"
+        "name": "GOOD PUSS",
+        "url": "https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn"
       },
       "artists": [
         {
-          "name": "Marie Davidson",
-          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
-        },
-        {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
         }
       ],
-      "duration_ms": 286080,
-      "name": "Work It - Soulwax Remix",
-      "url": "https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P"
+      "duration_ms": 220223,
+      "name": "GOOD PUSS",
+      "url": "https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -267,6 +247,26 @@
       "duration_ms": 160000,
       "name": "WIZZ - COBRAH REMIX",
       "url": "https://open.spotify.com/track/3b6ZWKonZcaHlhivx6M63z"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
+        "name": "Work It (Soulwax Remix)",
+        "url": "https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT"
+      },
+      "artists": [
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+        },
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "duration_ms": 286080,
+      "name": "Work It - Soulwax Remix",
+      "url": "https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
+        "name": "Fantasea",
+        "url": "https://open.spotify.com/album/3cEIffjpBqKSWwpUFcCu5x"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "duration_ms": 193749,
+      "name": "Fierce",
+      "url": "https://open.spotify.com/track/2XcsL72WPyN8lATbaPHUp3"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
         "name": "Bunny Is A Rider (Remix)",
         "url": "https://open.spotify.com/album/2cWjOKPkOxBKrkWeDyuHua"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 237109,
       "name": "Bunny Is A Rider - Doss Remix",
       "url": "https://open.spotify.com/track/2F869Vx93KD4Mtfnn1nOqH"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
-        "name": "Fantasea",
-        "url": "https://open.spotify.com/album/3cEIffjpBqKSWwpUFcCu5x"
-      },
-      "artists": [
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        }
-      ],
-      "duration_ms": 193749,
-      "name": "Fierce",
-      "url": "https://open.spotify.com/track/2XcsL72WPyN8lATbaPHUp3"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
+        "name": "Double Penetration",
+        "url": "https://open.spotify.com/album/5RjU9su2m8wyYQQ7cH0kU1"
+      },
+      "artists": [
+        {
+          "name": "Only Fire",
+          "url": "https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN"
+        }
+      ],
+      "duration_ms": 170625,
+      "name": "Asmr",
+      "url": "https://open.spotify.com/track/3jPaqo45RVrafP6NnWMBkQ"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
         "name": "333 (Deluxe)",
         "url": "https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 137206,
       "name": "Horsey",
       "url": "https://open.spotify.com/track/6QK2oI4RCtxzCWzyffwlPP"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
-        "name": "Double Penetration",
-        "url": "https://open.spotify.com/album/5RjU9su2m8wyYQQ7cH0kU1"
-      },
-      "artists": [
-        {
-          "name": "Only Fire",
-          "url": "https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN"
-        }
-      ],
-      "duration_ms": 170625,
-      "name": "Asmr",
-      "url": "https://open.spotify.com/track/3jPaqo45RVrafP6NnWMBkQ"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -815,6 +815,30 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
+        "name": "SEXORCISM",
+        "url": "https://open.spotify.com/album/0CvWFH9MMcWphYqwBNOUYv"
+      },
+      "artists": [
+        {
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 178203,
+      "name": "FMU",
+      "url": "https://open.spotify.com/track/5iAWOgjcEbgUgBz2MziBXh"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
         "name": "Mommy",
         "url": "https://open.spotify.com/album/5q0eJFO2tBIPXovoQoWudO"
       },
@@ -843,30 +867,6 @@
       "duration_ms": 128955,
       "name": "Put Cha Back In It",
       "url": "https://open.spotify.com/track/5PYxnArK4wlkX5qYENV5Ac"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
-        "name": "SEXORCISM",
-        "url": "https://open.spotify.com/album/0CvWFH9MMcWphYqwBNOUYv"
-      },
-      "artists": [
-        {
-          "name": "Brooke Candy",
-          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 178203,
-      "name": "FMU",
-      "url": "https://open.spotify.com/track/5iAWOgjcEbgUgBz2MziBXh"
     },
     {
       "added_at": "2023-07-24 14:56:33",

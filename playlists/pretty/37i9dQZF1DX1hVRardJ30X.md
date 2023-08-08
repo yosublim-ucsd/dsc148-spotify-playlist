@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,502 likes - 56 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,674 likes - 56 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 55 | [Cicatrices](https://open.spotify.com/track/6t7kuacgELCLG0oZBQ7miG) | [Mucho Info](https://open.spotify.com/artist/4OHxrV1dV7Vmj6pe7EPc6n), [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5) | [Cicatrices](https://open.spotify.com/album/2u0s4Jq2lnaGoZDmt6fmsY) | 3:03 |
 | 56 | [MESITA DE NOCHE](https://open.spotify.com/track/17HkrgZwApp0tCjZAzygAK) | [Joa & Jalys](https://open.spotify.com/artist/4Qypd98pOg4Lp2kCxXBic9) | [MESITA DE NOCHE](https://open.spotify.com/album/4xTnQESh0KXrmHPK6r9vIi) | 2:55 |
 
-Snapshot ID: `MCxjZWNkMTExZWYyYmI2ZTRkYjUxYWQwNzFkNDljMjdlYmJhMTVjNTA1`
+Snapshot ID: `MCwwNzhmODI0YzkyNzE0YTFiNWRmNWM1MjNhNzY4OTUxZGZkMWFkZDYw`

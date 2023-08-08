@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 172930,
+  "num_followers": 172942,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGJjNWUwNTE3YjMwYjlkZmYyN2MyZWE0Njg3NzdjNDhmNTZkYjlm",
+  "snapshot_id": "MCwxMzZiY2I5MDlmOTdiYzZjYzFkN2VjMjJlNzFiZTk4ZGRhYWMxN2E2",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -223,38 +223,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 223490,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Road I Call Home",
-        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 232724,
-      "name": "What's the Matter with You",
-      "url": "https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Kill Or Be Kind",
         "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
       },
@@ -299,6 +267,38 @@
       "duration_ms": 181624,
       "name": "She's A Self Made Man",
       "url": "https://open.spotify.com/track/688EzbJ3fiB8zKwArQdZkK"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 232724,
+      "name": "What's the Matter with You",
+      "url": "https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 223490,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 216171,
-      "name": "Money Makes You Ugly",
-      "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Heavy Hearts Hard Fists",
         "url": "https://open.spotify.com/album/0fo7S7VAXlvSnmApHKJ2if"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 210989,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/6dB3CBDenGlbN82nWYTFIu"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 216171,
+      "name": "Money Makes You Ugly",
+      "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "The Ice Queen",
-        "url": "https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe"
-      },
-      "artists": [
-        {
-          "name": "Sue Foley",
-          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
-        }
-      ],
-      "duration_ms": 383133,
-      "name": "The Ice Queen",
-      "url": "https://open.spotify.com/track/5Jhl0KvkFWBRNzLdY2iq3J"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Road I Call Home",
         "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Healing Creek",
-        "url": "https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6"
+        "name": "The Ice Queen",
+        "url": "https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe"
       },
       "artists": [
         {
-          "name": "Talibah Safiya",
-          "url": "https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS"
+          "name": "Sue Foley",
+          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
         }
       ],
-      "duration_ms": 191920,
-      "name": "Healing Creek",
-      "url": "https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN"
+      "duration_ms": 383133,
+      "name": "The Ice Queen",
+      "url": "https://open.spotify.com/track/5Jhl0KvkFWBRNzLdY2iq3J"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -603,6 +587,22 @@
       "duration_ms": 291840,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/0HPazJXESVCimRyMggplg5"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Healing Creek",
+        "url": "https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6"
+      },
+      "artists": [
+        {
+          "name": "Talibah Safiya",
+          "url": "https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS"
+        }
+      ],
+      "duration_ms": 191920,
+      "name": "Healing Creek",
+      "url": "https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Ina Forsman",
-        "url": "https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y"
-      },
-      "artists": [
-        {
-          "name": "Ina Forsman",
-          "url": "https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b"
-        }
-      ],
-      "duration_ms": 249760,
-      "name": "Now You Want Me Back",
-      "url": "https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Nowhere Left to Go",
         "url": "https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Loud Guitars, Big Suspicions",
-        "url": "https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp"
+        "name": "Ina Forsman",
+        "url": "https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y"
       },
       "artists": [
         {
-          "name": "Shannon Curfman",
-          "url": "https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x"
+          "name": "Ina Forsman",
+          "url": "https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b"
         }
       ],
-      "duration_ms": 209866,
-      "name": "No Riders",
-      "url": "https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh"
+      "duration_ms": 249760,
+      "name": "Now You Want Me Back",
+      "url": "https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -767,6 +751,22 @@
       "duration_ms": 264253,
       "name": "Release and Be Free",
       "url": "https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Loud Guitars, Big Suspicions",
+        "url": "https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp"
+      },
+      "artists": [
+        {
+          "name": "Shannon Curfman",
+          "url": "https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "No Riders",
+      "url": "https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh"
     },
     {
       "added_at": "2022-03-08 14:01:09",

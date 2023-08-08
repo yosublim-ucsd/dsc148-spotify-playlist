@@ -5117,6 +5117,24 @@
     },
     {
       "album": {
+        "name": "Mucho Love",
+        "url": "https://open.spotify.com/album/5sO98xahJWzsyYiKjJCtCp"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171680,
+      "name": "Plazos Traicioneros",
+      "url": "https://open.spotify.com/track/1muojGmIzJcqojXmdgDtnv"
+    },
+    {
+      "album": {
         "name": "Fania Classics: Celia Cruz & Willie Col\u00f3n",
         "url": "https://open.spotify.com/album/2Aa055iU5gYEcGNe7Mo0ht"
       },
@@ -5132,7 +5150,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 173226,
       "name": "Plazos Traicioneros",
       "url": "https://open.spotify.com/track/2JNdjO7PwLCCOI9iATKZRQ"

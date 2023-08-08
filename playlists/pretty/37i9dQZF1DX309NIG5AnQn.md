@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > Nuevo rock alternativo argentino\. <br/>📷 Mujer Cebra
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,504 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,513 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 74 | [El Fin](https://open.spotify.com/track/1KQ9arIyVcyvbixRfog2NB) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 4:09 |
 | 75 | [Mentiroso Miente](https://open.spotify.com/track/3mCiPbSvvOgkhwfunAqmxL) | [Socorro](https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA) | [Mentiroso Miente](https://open.spotify.com/album/6fr6AARElMTnBKHTziuWPK) | 2:46 |
 
-Snapshot ID: `MCw2NjAyZjQzYjZjMTgyODI0OGJjNTM4OWFlMDNjYTJmODY3NGJkODBi`
+Snapshot ID: `MCw4MGU3MDU3ZjA1ZTIzYWNhMTYxOTIwYjA1MzgxNmVmNmJjMTNkNWRj`

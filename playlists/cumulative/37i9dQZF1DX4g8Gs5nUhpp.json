@@ -610,7 +610,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 160848,
       "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
       "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 210820,
       "name": "Hoa C\u1ecf Lau",
       "url": "https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb"
@@ -2137,6 +2137,28 @@
     },
     {
       "album": {
+        "name": "Ng\u00f5 Ch\u1ea1m",
+        "url": "https://open.spotify.com/album/7hLzVQlvUB5uwpf03mB06A"
+      },
+      "artists": [
+        {
+          "name": "BigDaddy",
+          "url": "https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6"
+        },
+        {
+          "name": "Emily",
+          "url": "https://open.spotify.com/artist/2XKlSkrslCs0egLOvSB4Ul"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232173,
+      "name": "Ng\u00f5 Ch\u1ea1m",
+      "url": "https://open.spotify.com/track/0Qs29ApstkrU5T8S5Hxazw"
+    },
+    {
+      "album": {
         "name": "Ng\u01b0\u1eddi L\u1ea1 Trong Danh B\u1ea1 (feat. Phuc Du)",
         "url": "https://open.spotify.com/album/58VYZEMuhqP4PPhQCqzbjR"
       },
@@ -2206,7 +2228,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 235744,
       "name": "Ng\u1ecf L\u1eddi",
       "url": "https://open.spotify.com/track/194xS2oTIYL5u1IK0Q0oj0"
@@ -3108,7 +3130,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 195860,
       "name": "Ti\u1ebfp \u0110\u1ea5t",
       "url": "https://open.spotify.com/track/2tZjAcLcg7k0p0c1wA3Ggk"
@@ -3282,7 +3304,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 221886,
       "name": "T\u1eeb Khung C\u1eeda S\u1ed5 N\u00e0y",
       "url": "https://open.spotify.com/track/6C1uzaA6dThCNQt89fk4kJ"
@@ -3604,7 +3626,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 192720,
       "name": "Xoa \u0110\u1ea7u",
       "url": "https://open.spotify.com/track/6kSqwxia5o0DhzteO4Iwfa"

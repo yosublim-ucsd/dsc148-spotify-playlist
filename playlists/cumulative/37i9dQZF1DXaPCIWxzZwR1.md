@@ -4,7 +4,7 @@
 
 > next gen pop Cover: Olivia Rodrigo
 
-1,603 songs - 3 day 5 hr 50 min
+1,604 songs - 3 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [anatomy](https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [anatomy](https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg) | 3:02 | 2023-07-24 |  |
 | [and it sounds like \(ice cream\)](https://open.spotify.com/track/29OFcHc0kWNGMYgs6OWZuN) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [and it sounds like \(ice cream\)](https://open.spotify.com/album/6fWHxmatgCkHpC3BmECELk) | 2:35 | 2021-10-30 | 2021-12-04 |
 | [And The Oscar Goes To](https://open.spotify.com/track/6M3fZyQynCjyInsOk0ePW4) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [And The Oscar Goes To](https://open.spotify.com/album/193B7SpZ5AOyiYLutUz313) | 2:48 | 2023-03-17 | 2023-04-09 |
+| [Angel](https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Angel](https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz) | 3:39 | 2023-08-07 |  |
 | [Angel \(From Barbie The Album\)](https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Angel \(From Barbie The Album\)](https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V) | 2:03 | 2023-06-09 | 2023-08-05 |
 | [Angel Arms](https://open.spotify.com/track/3mDIykcAGPwpgX0vT15Yvc) | [August Royals](https://open.spotify.com/artist/75lrknh4n2savTcDGbMchq) | [Angel Arms](https://open.spotify.com/album/5GV3Hs3rpJiqgZSTI1cpSf) | 3:39 | 2023-05-05 | 2023-06-03 |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2021-09-11 | 2022-05-07 |

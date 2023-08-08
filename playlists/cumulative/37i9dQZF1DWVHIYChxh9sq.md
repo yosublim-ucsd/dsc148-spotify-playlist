@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-396 songs - 21 hr 58 min
+397 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [La Muchacha del Salado "la Nicholette" \(En Vivo\)](https://open.spotify.com/track/1CIm69POXMEVdDhT1tmE2I) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras de Servando, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/4qJsTs0meLzRDbZNIGd5dX) | 2:44 | 2022-12-08 | 2023-07-30 |
 | [La Muchacha Del Salado "La Nicholette" \(En vivo\)](https://open.spotify.com/track/5dgSrp2BNzQXzYblHtzAao) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa) | 2:44 | 2023-06-16 |  |
 | [La Más Bonita de Todas \- En Vivo](https://open.spotify.com/track/0uzypYieAbiIWAMGnmfcJ9) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo: Desde Los Cabos](https://open.spotify.com/album/0SmEChk9jU13NLoMVT6bv7) | 2:56 | 2022-12-08 | 2023-07-22 |
+| [La Más Bonita de Todas \- En Vivo](https://open.spotify.com/track/3tcExFTnLwXcKEUw2cWNum) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo: Desde Los Cabos](https://open.spotify.com/album/3eg49AFsugMffeVhRfG98r) | 2:56 | 2023-06-16 |  |
 | [La Novena Maravilla \- En Vivo](https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [En Vivo Desde El Rancho](https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh) | 2:53 | 2023-03-17 |  |
 | [La Nueva Escuela \(En Vivo\)](https://open.spotify.com/track/5qoKQ40BEsXnKvh8ukBMnP) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [La Nueva Escuela \(En Vivo\)](https://open.spotify.com/album/3KGeemgVxdvnzFEMElTZZD) | 3:27 | 2023-01-27 | 2023-03-18 |
 | [La Nueva Escuela \- En Vivo](https://open.spotify.com/track/0HK4v2FdgjsrHSTZtx23Ly) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [La Nueva Escuela \(En Vivo\)](https://open.spotify.com/album/5NK5nAtwVkdELrkTPGj1Ka) | 3:35 | 2022-05-12 | 2023-01-20 |
@@ -285,7 +286,7 @@
 | [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi) | 4:16 | 2022-12-08 |  |
 | [Maniaco Enfermo](https://open.spotify.com/track/3048sEV1VZ5jcqDvLm3CDL) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [En Vivo Desde La D](https://open.spotify.com/album/5IOVPxrxFdSQx6txrGoBNg) | 3:43 | 2022-05-12 |  |
 | [Margarita Margarita \(En Vivo\)](https://open.spotify.com/track/5C7Md1p8ojkNNXoHeX9FLc) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [En Vivo Desde Chicago](https://open.spotify.com/album/2z6kMSAE2UYjf4ToJNriLb) | 2:43 | 2022-12-08 |  |
-| [Margarita, Margarita](https://open.spotify.com/track/3vZTRTYZarnASwkSHz9oFv) | [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [En Vivo, Vol\. 3](https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3) | 2:36 | 2023-03-17 |  |
+| [Margarita, Margarita](https://open.spotify.com/track/3vZTRTYZarnASwkSHz9oFv) | [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [En Vivo, Vol\. 3](https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3) | 2:36 | 2023-03-17 | 2023-08-08 |
 | [Mas Que Amigos \- En Vivo](https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:07 | 2023-03-17 |  |
 | [Me Bautizó la Mafia \- En Vivo](https://open.spotify.com/track/4bsDUiLDCU3IGrtzarWWFY) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Me Bautizó la Mafia \(En Vivo\)](https://open.spotify.com/album/5F3XVAQsKSIJzORXwKL4v5) | 2:46 | 2022-05-12 | 2022-12-09 |
 | [Me Gusta Tu Vieja \- En Vivo](https://open.spotify.com/track/3wka8qC0K5TYW4hrFY040p) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo Guadalajara \- Monterrey \(Live\)](https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6) | 5:45 | 2022-05-12 | 2022-12-09 |

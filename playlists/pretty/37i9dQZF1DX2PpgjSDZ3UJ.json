@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 21055,
+  "num_followers": 21051,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDY1OTY1YzY3ODAyOGZkNWUyZjcwNzg3OWE4YTlhOTBkNDM4NGIz",
+  "snapshot_id": "MCw0MTdmNzZlZGY2ODY3YTliOGQ1NGI4OTdmZmMxNDMzYzlkMjQ2NzBj",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "No Hay Mal Que Dure una Vida",
-        "url": "https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd"
-      },
-      "artists": [
-        {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
-        }
-      ],
-      "duration_ms": 215287,
-      "name": "Qu\u00e9date Cerca",
-      "url": "https://open.spotify.com/track/5dioafqgaV1ywCUXpMMAOR"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Ay Coraz\u00f3n (Silencio)",
         "url": "https://open.spotify.com/album/6O6QViA34eNzHl5WAwUES2"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 232478,
       "name": "Ay Coraz\u00f3n (Silencio)",
       "url": "https://open.spotify.com/track/4g4kww73ZByg6RDDfo4uuC"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "No Hay Mal Que Dure una Vida",
+        "url": "https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "duration_ms": 215287,
+      "name": "Qu\u00e9date Cerca",
+      "url": "https://open.spotify.com/track/5dioafqgaV1ywCUXpMMAOR"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Yo Nunca Aprend\u00ed a Cantar (Pero Con Mis Amigos Nos Jugamos Buenos Cotejos)",
-        "url": "https://open.spotify.com/album/0q4oUtLynNJ9npqvIKJIsP"
-      },
-      "artists": [
-        {
-          "name": "Higuita en Chanclas",
-          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
-        }
-      ],
-      "duration_ms": 267964,
-      "name": "La \u00daltima 10",
-      "url": "https://open.spotify.com/track/1cV5rooswGe7QRB8GOrzOP"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Santer\u00eda",
         "url": "https://open.spotify.com/album/4469u7LwiRnEFipG7qJ5dQ"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 194317,
       "name": "Santer\u00eda",
       "url": "https://open.spotify.com/track/2DGi0QGdmCPG8guKM6bkQj"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Yo Nunca Aprend\u00ed a Cantar (Pero Con Mis Amigos Nos Jugamos Buenos Cotejos)",
+        "url": "https://open.spotify.com/album/0q4oUtLynNJ9npqvIKJIsP"
+      },
+      "artists": [
+        {
+          "name": "Higuita en Chanclas",
+          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
+        }
+      ],
+      "duration_ms": 267964,
+      "name": "La \u00daltima 10",
+      "url": "https://open.spotify.com/track/1cV5rooswGe7QRB8GOrzOP"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1247,38 +1247,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Pong",
-        "url": "https://open.spotify.com/album/3O9Sh32VPoskDSbkiW77Jb"
-      },
-      "artists": [
-        {
-          "name": "Piel Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
-        }
-      ],
-      "duration_ms": 208505,
-      "name": "Pong",
-      "url": "https://open.spotify.com/track/4r5DPWa4xFtqS0CROTIc41"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Miedo, Amor y Vida - EP",
-        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
-      },
-      "artists": [
-        {
-          "name": "Ati Lane",
-          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "La Oscuridad",
-      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Conversations",
         "url": "https://open.spotify.com/album/7l4P76P1NClX1r0pIM2xng"
       },
@@ -1299,6 +1267,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Pong",
+        "url": "https://open.spotify.com/album/3O9Sh32VPoskDSbkiW77Jb"
+      },
+      "artists": [
+        {
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+        }
+      ],
+      "duration_ms": 208505,
+      "name": "Pong",
+      "url": "https://open.spotify.com/track/4r5DPWa4xFtqS0CROTIc41"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Azulmagenta",
         "url": "https://open.spotify.com/album/4NMpBN4NunLm6hINDVh5Lw"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 218354,
       "name": "Azulmagenta",
       "url": "https://open.spotify.com/track/0BWXCS8fU8Y4Rj2ng4fIsu"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Miedo, Amor y Vida - EP",
+        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
+      },
+      "artists": [
+        {
+          "name": "Ati Lane",
+          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "La Oscuridad",
+      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Ruinas",
+        "url": "https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0"
+      },
+      "artists": [
+        {
+          "name": "Misile",
+          "url": "https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Las Ruinas",
+      "url": "https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "ELET\u00c9",
         "url": "https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 225240,
       "name": "Honestidad",
       "url": "https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Ruinas",
-        "url": "https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0"
-      },
-      "artists": [
-        {
-          "name": "Misile",
-          "url": "https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Las Ruinas",
-      "url": "https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q"
     },
     {
       "added_at": "2020-12-01 05:03:00",

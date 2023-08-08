@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 66723,
+  "num_followers": 66802,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTYxMTg3MzBiMzQ0ODU0NjIyZWRmNWViNjc1MWJkMjgzYmYwNjkx",
+  "snapshot_id": "MCwwZThlMjQzY2RiYzIxZDk1Mjg0YzBkNTU4ODhjMjMyMTQ1NzllOWQw",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Yeah! (US Internet Release)",
-        "url": "https://open.spotify.com/album/0sOT2G3ov21Lc8t5UNEoi3"
-      },
-      "artists": [
-        {
-          "name": "Brownsville Station",
-          "url": "https://open.spotify.com/artist/67SxctqWYOGe8lthWjTDwu"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "Smokin' in the Boy's Room",
-      "url": "https://open.spotify.com/track/1AIGp3gpj1NXJvh3engmUQ"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Fandango! (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 137933,
       "name": "Tush - 2006 Remaster",
       "url": "https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Yeah! (US Internet Release)",
+        "url": "https://open.spotify.com/album/0sOT2G3ov21Lc8t5UNEoi3"
+      },
+      "artists": [
+        {
+          "name": "Brownsville Station",
+          "url": "https://open.spotify.com/artist/67SxctqWYOGe8lthWjTDwu"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "Smokin' in the Boy's Room",
+      "url": "https://open.spotify.com/track/1AIGp3gpj1NXJvh3engmUQ"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -219,6 +219,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "On the Border (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 218269,
+      "name": "James Dean - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Rockin' All Over The World",
         "url": "https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 170120,
       "name": "Let's Work Together",
       "url": "https://open.spotify.com/track/4GAqWEmxzMZDZ1T0NFHqKG"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "On the Border (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 218269,
-      "name": "James Dean - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/2TsY408zarh6FNtc7YsMGf"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Snakes and Ladders: The Best of Faces",
-        "url": "https://open.spotify.com/album/19ucGKnLlswEfPk4XEfFbc"
-      },
-      "artists": [
-        {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Had Me a Real Good Time - 2010 Remaster",
-      "url": "https://open.spotify.com/track/6dICmF2LPReh0BjgImRfOn"
-    },
-    {
       "added_at": "2021-02-26 05:01:00",
       "album": {
         "name": "Charming Mess",
@@ -459,6 +443,22 @@
       "duration_ms": 213693,
       "name": "Charming Mess",
       "url": "https://open.spotify.com/track/494fTnltxTwiZYqACtCzWU"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Snakes and Ladders: The Best of Faces",
+        "url": "https://open.spotify.com/album/19ucGKnLlswEfPk4XEfFbc"
+      },
+      "artists": [
+        {
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Had Me a Real Good Time - 2010 Remaster",
+      "url": "https://open.spotify.com/track/6dICmF2LPReh0BjgImRfOn"
     },
     {
       "added_at": "2021-10-15 04:01:00",
@@ -527,8 +527,8 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Vagabonds Of The Western World",
-        "url": "https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU"
+        "name": "Fighting",
+        "url": "https://open.spotify.com/album/4XGIy3KPZ0zjl5dhhvQtFQ"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
         }
       ],
-      "duration_ms": 294400,
-      "name": "Mama Nature Said",
-      "url": "https://open.spotify.com/track/3WrQZJy6BagmTtVA1SeLKL"
+      "duration_ms": 206160,
+      "name": "Silver Dollar",
+      "url": "https://open.spotify.com/track/6FI74cRYyrYgDC51ZYtVt3"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Ooh La La",
-        "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
-      },
-      "artists": [
-        {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Borstal Boys",
-      "url": "https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Never A Dull Moment",
         "url": "https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ"
       },
@@ -591,34 +575,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB"
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
       },
       "artists": [
         {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
         }
       ],
-      "duration_ms": 213626,
-      "name": "Don't Start Me Talkin' - Jinx Session / 1982",
-      "url": "https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Fighting",
-        "url": "https://open.spotify.com/album/4XGIy3KPZ0zjl5dhhvQtFQ"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Silver Dollar",
-      "url": "https://open.spotify.com/track/6FI74cRYyrYgDC51ZYtVt3"
+      "duration_ms": 173026,
+      "name": "Borstal Boys",
+      "url": "https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -655,22 +623,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Gasoline Alley",
-        "url": "https://open.spotify.com/album/6FaMpsO2fif34ToEu1wLqf"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 386226,
-      "name": "It's All Over Now",
-      "url": "https://open.spotify.com/track/78H0GpZn9EXwEI6gr2FZUA"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "1234",
         "url": "https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF"
       },
@@ -683,6 +635,22 @@
       "duration_ms": 242280,
       "name": "Outlaws",
       "url": "https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Don't Start Me Talkin' - Jinx Session / 1982",
+      "url": "https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -703,22 +671,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Jinx (Remastered 2017)",
-        "url": "https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 234901,
-      "name": "Bourbon",
-      "url": "https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Spirit In The Sky",
         "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
       },
@@ -731,6 +683,38 @@
       "duration_ms": 185093,
       "name": "Tars Of India",
       "url": "https://open.spotify.com/track/2yQTF2kyJayBzLUMBdbDQm"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Vagabonds Of The Western World",
+        "url": "https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 294400,
+      "name": "Mama Nature Said",
+      "url": "https://open.spotify.com/track/3WrQZJy6BagmTtVA1SeLKL"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Gasoline Alley",
+        "url": "https://open.spotify.com/album/6FaMpsO2fif34ToEu1wLqf"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 386226,
+      "name": "It's All Over Now",
+      "url": "https://open.spotify.com/track/78H0GpZn9EXwEI6gr2FZUA"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -767,6 +751,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Gimme Some Neck",
+        "url": "https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Wood",
+          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Worry No More",
+      "url": "https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Get The Picture?",
         "url": "https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E"
       },
@@ -783,18 +783,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Gimme Some Neck",
-        "url": "https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9"
+        "name": "Jinx (Remastered 2017)",
+        "url": "https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS"
       },
       "artists": [
         {
-          "name": "Ronnie Wood",
-          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Worry No More",
-      "url": "https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq"
+      "duration_ms": 234901,
+      "name": "Bourbon",
+      "url": "https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX"
     },
     {
       "added_at": "2020-12-01 05:01:00",

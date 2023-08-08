@@ -1,32 +1,40 @@
 {
   "description": "Taking it way back! Cover: Lauryn Hill",
-  "num_followers": 3558561,
+  "num_followers": 3559345,
   "original_name": "Gold School",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDAxMzJhZTFmMDc3ZDk3ODY1MzlkMjBiNTNjZDdjYTA4MzY3MGVj",
+  "snapshot_id": "MCxjNzlkM2FjOWU3YTY2NzUyODc1MDAxNzBlMWFiZmMxMGU4YTMzZDI2",
   "tracks": [
     {
       "added_at": "2023-07-28 03:31:35",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
       },
       "artists": [
         {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         },
         {
           "name": "Nate Dogg",
           "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "Kurupt",
+          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
         }
       ],
-      "duration_ms": 224426,
-      "name": "21 Questions",
-      "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
+      "duration_ms": 246400,
+      "name": "Ain\u2019t No Fun (If The Homies Can\u2019t Have None)",
+      "url": "https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ"
     },
     {
       "added_at": "2023-07-28 03:31:35",
@@ -547,6 +555,26 @@
     {
       "added_at": "2023-07-28 03:31:35",
       "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "21 Questions",
+      "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
+    },
+    {
+      "added_at": "2023-07-28 03:31:35",
+      "album": {
         "name": "Black Reign",
         "url": "https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ"
       },
@@ -559,34 +587,6 @@
       "duration_ms": 250840,
       "name": "U.N.I.T.Y.",
       "url": "https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv"
-    },
-    {
-      "added_at": "2023-07-28 03:31:35",
-      "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        },
-        {
-          "name": "Warren G",
-          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
-        },
-        {
-          "name": "Kurupt",
-          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Ain\u2019t No Fun (If The Homies Can\u2019t Have None)",
-      "url": "https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ"
     },
     {
       "added_at": "2023-07-28 03:31:35",

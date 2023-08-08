@@ -155,6 +155,32 @@
     },
     {
       "album": {
+        "name": "Adiyaathi (From \"Paramporul\")",
+        "url": "https://open.spotify.com/album/0X9tPPMqS5IsOnunYzcMPY"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Snehan",
+          "url": "https://open.spotify.com/artist/7uekXH8SqDlOL2SLPvEYIx"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202991,
+      "name": "Adiyaathi - From \"Paramporul\"",
+      "url": "https://open.spotify.com/track/0sXGEJoOeNhzpMBKYKtDoO"
+    },
+    {
+      "album": {
         "name": "Akdi Pakdi (Tamil) [From \"Liger (Tamil)\"]",
         "url": "https://open.spotify.com/album/3TyO0ZiBeUnaGiyGzHsvek"
       },
@@ -662,7 +688,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 219216,
       "name": "Dowlathana Rowdy (From \"Kathar Basha Endra Muthuramalingam\")",
       "url": "https://open.spotify.com/track/6LXffI6gZ5TIEF562fA4u6"
@@ -775,6 +801,24 @@
     },
     {
       "album": {
+        "name": "DD Returns (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/15jO3bBmBGQs51Q2TmQshe"
+      },
+      "artists": [
+        {
+          "name": "ofRO,Gana Muthu",
+          "url": "https://open.spotify.com/artist/5LTgrp8cYZxxhBCZQLL5Lw"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230189,
+      "name": "French Kuthu",
+      "url": "https://open.spotify.com/track/7pKo8F4MS6XRC63XlU72Qj"
+    },
+    {
+      "album": {
         "name": "Gaandu Kannamma",
         "url": "https://open.spotify.com/album/2yZXnhQoiiQN6PMNoGcQ4r"
       },
@@ -790,6 +834,32 @@
       "duration_ms": 205000,
       "name": "Gaandu Kannamma",
       "url": "https://open.spotify.com/track/7eS07q4Ft2ySmiH7NalStq"
+    },
+    {
+      "album": {
+        "name": "DD Returns (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/15jO3bBmBGQs51Q2TmQshe"
+      },
+      "artists": [
+        {
+          "name": "ofRO,T.M.S. Selva Kumar",
+          "url": "https://open.spotify.com/artist/5Nb1iQx1HYLpCXUneyz4df"
+        },
+        {
+          "name": "Susha",
+          "url": "https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC"
+        },
+        {
+          "name": "Gana Muthu",
+          "url": "https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "I'm So Prabalam",
+      "url": "https://open.spotify.com/track/1Hw4Tezkw26zKDuufsXyKA"
     },
     {
       "album": {
@@ -920,10 +990,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 218915,
       "name": "Jigidi Killaadi (From \"Pattas\")",
       "url": "https://open.spotify.com/track/0OgazYID6CUlSeiAoeuf5B"
+    },
+    {
+      "album": {
+        "name": "Jigu Jigu Rail (From \"Maamannan\")",
+        "url": "https://open.spotify.com/album/4hGAlApy1JXgDN1LJSO4E5"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317652,
+      "name": "Jigu Jigu Rail (From \"Maamannan\")",
+      "url": "https://open.spotify.com/track/4WCKqlWJ48kj6Xco4AxbYP"
     },
     {
       "album": {
@@ -1046,7 +1134,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 166372,
       "name": "Kadhal Psycho (From \"Saaho\")",
       "url": "https://open.spotify.com/track/36BwgojDYh1SOmZ6gG7WqR"
@@ -1168,7 +1256,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 239103,
       "name": "Kutty Pattas",
       "url": "https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn"
@@ -1316,7 +1404,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 259200,
       "name": "Meherezylaa - From \"Maanaadu\"",
       "url": "https://open.spotify.com/track/2kAZP4MIGCitpBHn358pgU"
@@ -1368,7 +1456,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 176465,
       "name": "Muqabla (From \"Street Dancer 3D\") [Tamil]",
       "url": "https://open.spotify.com/track/2IwpPKgQGzXIjGdJza2chX"
@@ -1416,7 +1504,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 203900,
       "name": "Naadodi Mannan",
       "url": "https://open.spotify.com/track/2Vf4t6mDApwQuWk9MAcZYM"
@@ -2488,6 +2576,40 @@
       "duration_ms": 252800,
       "name": "Vandha Edam (From \"Jawan\")",
       "url": "https://open.spotify.com/track/1qiTVMkwHOy7bD8DCU460Q"
+    },
+    {
+      "album": {
+        "name": "Veeran Thiruvizha (From \"Veeran\")",
+        "url": "https://open.spotify.com/album/0Zf1DRmbm3Cg6Tm2czi8sI"
+      },
+      "artists": [
+        {
+          "name": "Muthu Sirpi",
+          "url": "https://open.spotify.com/artist/26rblDtQQ9U26NMYSraPYm"
+        },
+        {
+          "name": "Chinna Ponnu",
+          "url": "https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0"
+        },
+        {
+          "name": "Pranavam Sasi",
+          "url": "https://open.spotify.com/artist/7vi3MHqgN9oJYXCC4gne6R"
+        },
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Muthamil",
+          "url": "https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221854,
+      "name": "Veeran Thiruvizha (From \"Veeran\")",
+      "url": "https://open.spotify.com/track/4RgswzHJdeY8YhzEknzQwy"
     },
     {
       "album": {

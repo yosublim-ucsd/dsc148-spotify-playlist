@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: <a href="https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk?si=p0axaK4bSBm2drcSnxLvoQ">  حمزة نمرة </a>
 
-560 songs - 1 day 7 hr 56 min
+563 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Akher Esdar](https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Akher Esdar](https://open.spotify.com/album/23L8LytnejUzj4JUQWKxR5) | 4:14 | 2023-05-11 | 2023-06-27 |
 | [Aktar Mn El Sekout](https://open.spotify.com/track/2hHb8MMgeDIxCiyQUTYANq) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Aktar Mn El Sekout](https://open.spotify.com/album/09xFJJod4MFAHNsk2CDBi9) | 3:56 | 2022-08-03 | 2022-10-21 |
 | [Aktar Shewaya](https://open.spotify.com/track/31jm2OsyfhnU3uklUnWWsB) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Aktar Shewaya](https://open.spotify.com/album/7iTyA5W1HKLQ3Mkzogu1WT) | 2:48 | 2021-12-23 | 2022-03-10 |
+| [Al Hob Al](https://open.spotify.com/track/4jbeCurXQEsNQjEUSVFkO6) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Al Hob Al](https://open.spotify.com/album/1JG05LPwvaHRp58FI4JgVY) | 6:26 | 2023-08-07 |  |
 | [Ala Belady](https://open.spotify.com/track/5KVlvlcILWGYqVvhk0luot) | [Weam Ismail](https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko), [SAFY](https://open.spotify.com/artist/34h1bM8C93gX0ROWMoellp) | [Ala Belady](https://open.spotify.com/album/6h09rNBEMVwW78WzZfxVk0) | 4:46 | 2023-08-03 |  |
 | [Alaa Bali](https://open.spotify.com/track/12lEpOzMG73XtAxeNSOZfl) | [Ahmed Elshobokshy](https://open.spotify.com/artist/5hXVuAmFV4ql8M4BmIZBmP) | [Alaa Bali](https://open.spotify.com/album/6Tqy0QLbCK6v5xwPibh8n5) | 3:00 | 2023-06-15 | 2023-07-21 |
 | [Alb Akhok](https://open.spotify.com/track/4koneNxLYSL43LF9n5ua4k) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Alb Akhok](https://open.spotify.com/album/67k3Nzh6LtOIlGBME6nEzK) | 3:49 | 2022-04-23 | 2022-08-05 |
@@ -132,6 +133,7 @@
 | [El Sahra Hatehlaw](https://open.spotify.com/track/3kv5O5KkAubpO7HMGaHShN) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [El Sahra Hatehlaw](https://open.spotify.com/album/03pTedMMDumCmAdhJUJph6) | 3:18 | 2021-12-23 | 2022-03-03 |
 | [EL Seif Wasal](https://open.spotify.com/track/3KF8eQmgt5spj2pBJcDVVd) | [Marwan Chami](https://open.spotify.com/artist/6VRfjjKLm3dGZ4qzMSq6aZ) | [EL Seif Wasal](https://open.spotify.com/album/6EceAuAhOCaTRBGZYBBpkt) | 2:40 | 2023-08-03 |  |
 | [El Tofah w El Farawla](https://open.spotify.com/track/5vU5TfXFf3cUFBSHzBiyqt) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [El Tofah w El Farawla](https://open.spotify.com/album/2N2XSkFrcw73VFlfQsPE5g) | 3:56 | 2023-02-23 | 2023-05-03 |
+| [El Waat Ye'addy](https://open.spotify.com/track/4vWmdNLtZzU3f0tlKvHWAc) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI) | [El Waat Ye'addy](https://open.spotify.com/album/2tX9ObmVM72PqXBBiU5I1U) | 2:40 | 2023-08-07 |  |
 | [El Waet El Helo](https://open.spotify.com/track/1YwxteiMeYqd6O164xxTZw) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [El Waet El Helo](https://open.spotify.com/album/1rMpu4AUSF7K4XfvG2M5cw) | 3:44 | 2021-12-29 | 2022-03-10 |
 | [El Youm El Helw Dah](https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [El Youm El Helw Dah](https://open.spotify.com/album/2GwwqvLab4YiExMa8zFW1v) | 2:52 | 2022-07-19 | 2022-10-14 |
 | [Ela 7aden Ma](https://open.spotify.com/track/5hc6jOHOgXJtN3ZHKwj1lN) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Ela 7aden Ma](https://open.spotify.com/album/25ft5XXqmxrQCMVAOuUyxk) | 3:39 | 2023-02-23 | 2023-05-05 |
@@ -189,6 +191,7 @@
 | [Hadouta](https://open.spotify.com/track/5thHVbvP2rjqp6OjEj7vYh) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Hadouta](https://open.spotify.com/album/2kGYSWJdmsp0yN5hvCcEgK) | 2:19 | 2023-04-20 | 2023-05-02 |
 | [Haga Ghareeba](https://open.spotify.com/track/70xGNS2RoKq99DTRuVXuTr) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Haga Ghareeba](https://open.spotify.com/album/0DDyP1N6Tp9I3zB5EwzV91) | 3:45 | 2021-12-23 | 2022-02-26 |
 | [Haifa Wahby](https://open.spotify.com/track/3bKEBZ4UyMerreiZdEGN4Y) | [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Haifa Wahby](https://open.spotify.com/album/5dm5CtYPtjzZ4Nc8kHSmTv) | 2:47 | 2023-07-20 |  |
+| [Hala Beek Ya Medala3](https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hala Beek Ya Medala3](https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6) | 2:47 | 2023-08-07 |  |
 | [Halo](https://open.spotify.com/track/0mQUJSauS5hrMJuoTGqmGe) | [Neveen Ragab](https://open.spotify.com/artist/2Jm92HVUNKUHiVytpozUvT) | [Halo](https://open.spotify.com/album/3GgcE4HqgTP4IDaNJ08z1j) | 3:43 | 2023-03-07 | 2023-05-09 |
 | [Hamoot Men Gherha](https://open.spotify.com/track/2W4rmDnrHNGqT2xlsjmEWX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hamoot Men Gherha](https://open.spotify.com/album/5QLOcBX3uhpTCzmHJl1Oze) | 3:31 | 2021-12-23 | 2022-02-17 |
 | [Hanetabel](https://open.spotify.com/track/5ytdOKZA6wkA6eS7rnDB4p) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Hanetabel](https://open.spotify.com/album/1DK0H8a3CkT6858LBzYURD) | 4:11 | 2023-06-01 | 2023-07-14 |

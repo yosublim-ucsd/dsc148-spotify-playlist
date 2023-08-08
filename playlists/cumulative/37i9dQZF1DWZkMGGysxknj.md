@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-269 songs - 15 hr 19 min
+270 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Correcto](https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a) | [Jero Romero](https://open.spotify.com/artist/6TCN68dPlpAJMADKP3LmYh) | [Cabeza de león](https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J) | 2:34 | 2021-07-16 |  |
 | [Counting Stars](https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Counting Stars](https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw) | 3:38 | 2021-07-16 |  |
 | [Crazy Love](https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5) | [Irene Diaz](https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF) | [I Love You Madly EP](https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu) | 3:46 | 2021-07-16 |  |
-| [Crimen](https://open.spotify.com/track/0HXxqH6hMfDOgBiOb1gTsg) | [I.M.H.O.](https://open.spotify.com/artist/0tEIoRVvUKu8xPu6fZQJZ6) | [Crimen](https://open.spotify.com/album/4fMwFoUAar0DKkWvjtYQeG) | 2:32 | 2021-07-16 |  |
+| [Crimen](https://open.spotify.com/track/0HXxqH6hMfDOgBiOb1gTsg) | [I.M.H.O.](https://open.spotify.com/artist/0tEIoRVvUKu8xPu6fZQJZ6) | [Crimen](https://open.spotify.com/album/4fMwFoUAar0DKkWvjtYQeG) | 2:32 | 2021-07-16 | 2023-08-08 |
 | [Crimen](https://open.spotify.com/track/2BroLAFj3ALbcXmImu2ExP) | [I.M.H.O.](https://open.spotify.com/artist/0tEIoRVvUKu8xPu6fZQJZ6) | [Crimen](https://open.spotify.com/album/5aRa6XrojJ3vO65iHMT7dc) | 2:32 | 2021-07-16 | 2022-07-29 |
 | [Dancing With A Stranger](https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Dancing With A Stranger](https://open.spotify.com/album/40D54vrfgQGY9z8e5OtvLd) | 3:08 | 2021-07-16 |  |
 | [Dancing With A Stranger \(With Normani\) \- Acoustic](https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(With Normani\) \[Acoustic\]](https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ) | 3:07 | 2021-07-16 |  |
@@ -77,7 +77,8 @@
 | [Everything I wanted](https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Wayne Mack](https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU) | 3:13 | 2021-07-16 |  |
 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5) | 4:25 | 2021-07-16 |  |
 | [Fade into You](https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Fade into You](https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg) | 4:12 | 2023-01-03 |  |
-| [Fast Car](https://open.spotify.com/track/6Vjch0N0MK9NZ5piuLZHv1) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Fast Car b/w Fire](https://open.spotify.com/album/71iDfOWbiVriNL3FnD6fFJ) | 5:42 | 2021-07-16 |  |
+| [Fast Car](https://open.spotify.com/track/68o7eSZOP2kT4Of3mgiWKw) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 5:41 | 2023-06-09 |  |
+| [Fast Car](https://open.spotify.com/track/6Vjch0N0MK9NZ5piuLZHv1) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Fast Car b/w Fire](https://open.spotify.com/album/71iDfOWbiVriNL3FnD6fFJ) | 5:42 | 2021-07-16 | 2023-08-08 |
 | [Feel It Still](https://open.spotify.com/track/3Nwc1QErurM59nOfVMRRtA) | [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Feel It Still](https://open.spotify.com/album/4mKLfq3Pt14FKoVyBiKvYu) | 3:15 | 2021-07-16 | 2022-11-13 |
 | [Feels \- Acoustic](https://open.spotify.com/track/2dOhS9p28YanQHsI2sl2Th) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Feels](https://open.spotify.com/album/3l89eH0y4ftA1DeETIv6P9) | 3:34 | 2021-07-16 |  |
 | [Fever](https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:56 | 2021-07-16 |  |
@@ -147,7 +148,7 @@
 | [Life on Mars](https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Paolo Velera](https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC) | 3:26 | 2021-07-16 |  |
 | [Light Years](https://open.spotify.com/track/0dcKsPZVWa64MvnoCes49q) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Light Years](https://open.spotify.com/album/2PhtZZE1Re3j09XzBxz7jQ) | 3:33 | 2021-07-16 | 2022-07-27 |
 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 | 2021-07-16 |  |
-| [Limoneros](https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Limoneros](https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb) | 2:55 | 2021-07-16 | 2023-07-03 |
+| [Limoneros](https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Limoneros](https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb) | 2:55 | 2021-07-16 |  |
 | [Listen to Your Body](https://open.spotify.com/track/0N3ytVkIFrjIucghhgR95P) | [Belén Cuturi](https://open.spotify.com/artist/0IDto1IZOp1qMhBBAhnzVr) | [Listen to Your Body](https://open.spotify.com/album/03Cy8t9S661F5ymTdgeQdN) | 2:52 | 2021-07-16 | 2022-07-29 |
 | [Little Wound \- Acoustic Version](https://open.spotify.com/track/3OdtbnFE5WYbHC9J3YD8VI) | [Violetta Zironi](https://open.spotify.com/artist/400WhVfB3ENcUBPUOkz0Qn), [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW) | [Little Wound \(Acoustic Version\)](https://open.spotify.com/album/1RLu3cbA5lzWWZ8ekjxuXg) | 3:25 | 2021-07-16 | 2022-07-29 |
 | [Los Feliz](https://open.spotify.com/track/0sWW27CdARlGCyqZAGAl3M) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Los Feliz](https://open.spotify.com/album/294xSIEwymZjCSDsxpHkXf) | 2:50 | 2021-07-16 | 2022-07-29 |

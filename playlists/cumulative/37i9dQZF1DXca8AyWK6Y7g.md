@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Jenna Raine
 
-1,743 songs - 3 day 16 hr 28 min
+1,744 songs - 3 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,6 +620,7 @@
 | [GORGEOUS](https://open.spotify.com/track/0cYSvUNMzEltRY0RirjUNp) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [GORGEOUS](https://open.spotify.com/album/2Clmd4k6a7tTdIa7vxGdGN) | 2:53 | 2022-01-28 | 2022-07-29 |
 | [GORGEOUS](https://open.spotify.com/track/2SQKabLAU744O8pb8IZPSv) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [GORGEOUS](https://open.spotify.com/album/47eqxClUnF2Rv7R67eICnF) | 2:53 | 2022-01-28 | 2022-12-05 |
 | [GORGEOUS](https://open.spotify.com/track/4vowH3BCuj5NHsdU4YHeLh) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Smoke Signal](https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs) | 2:53 | 2022-12-16 |  |
+| [Gracie](https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Gracie](https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni) | 2:45 | 2023-08-04 |  |
 | [grass is greener](https://open.spotify.com/track/6RwIjOIh9JoTbDiKmgL7fv) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [grass is greener](https://open.spotify.com/album/1pLUbffRD0y1FUKZwC1CGR) | 3:19 | 2023-04-22 | 2023-05-25 |
 | [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 | 2021-02-22 | 2021-12-21 |
 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 | 2022-01-07 | 2022-08-20 |
@@ -1436,7 +1437,7 @@
 | [STFU](https://open.spotify.com/track/74I5Zaz3B2DQp5lAgvOA3V) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [STFU](https://open.spotify.com/album/5F6OtMKcioMKLCaUSgQchc) | 3:29 | 2019-06-15 | 2020-06-07 |
 | [stimulation](https://open.spotify.com/track/4bEUXJIYBbTsQRfkF5gIfq) | [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy) | [stimulation](https://open.spotify.com/album/5Dkr7XMmdh8zHGPfcHsbkS) | 2:40 | 2021-04-19 | 2021-08-15 |
 | [Stoned Nights](https://open.spotify.com/track/71rTViUIFq4eDyd8bWtjtJ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Stoned Nights](https://open.spotify.com/album/63dmsjTvTlAgBRjXlDznF2) | 3:25 | 2021-12-03 | 2022-01-08 |
-| [Story of a Boy](https://open.spotify.com/track/6ePdWn39KoSXsanJvRXIjx) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BOY](https://open.spotify.com/album/75Cps520layAjj3UTUMC9v) | 2:36 | 2023-04-22 |  |
+| [Story of a Boy](https://open.spotify.com/track/6ePdWn39KoSXsanJvRXIjx) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BOY](https://open.spotify.com/album/75Cps520layAjj3UTUMC9v) | 2:36 | 2023-04-22 | 2023-08-08 |
 | [Story of a Boy](https://open.spotify.com/track/7atzImo7vWrKHrsqkFrMuQ) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Story of a Boy](https://open.spotify.com/album/1emFHl6oXIJRrXS3yS4hj4) | 2:36 | 2023-01-27 | 2023-02-04 |
 | [Story of a Boy](https://open.spotify.com/track/7cbmG4OPQ9ghcewYIlNiuS) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Story of a Boy](https://open.spotify.com/album/2RUbaX7TWnJIKY3irozBP3) | 2:36 | 2023-02-03 | 2023-04-24 |
 | [stranger danger!](https://open.spotify.com/track/4yk0t3ZG8vkoligoo7iAQB) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [stranger danger!](https://open.spotify.com/album/2AaauDVv5L5MJE7Teus6xh) | 3:41 | 2023-01-13 | 2023-02-04 |

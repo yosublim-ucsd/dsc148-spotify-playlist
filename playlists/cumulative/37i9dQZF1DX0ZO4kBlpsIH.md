@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-180 songs - 8 hr 45 min
+181 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Bleu D’Auvergne](https://open.spotify.com/track/6q0M3prfVKJeSdx2ruNjsg) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Songs in a Parisian Cafe](https://open.spotify.com/album/0zZVqcIwJ2Z5gGs9oooaO5) | 1:50 | 2023-03-15 | 2023-08-04 |
 | [Bohemienne](https://open.spotify.com/track/24B4JQh1WaoVllHGQzjRMr) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Dancing On the Moon](https://open.spotify.com/album/0Zf7Qa3xDuoaYmKgJun22x) | 4:22 | 2022-11-25 |  |
 | [bol et rot](https://open.spotify.com/track/0o41kkPhY0if5o8mdXUgKl) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [Parfum de Paris](https://open.spotify.com/album/3gHpNebmsHMAiLJZoIohHl) | 2:54 | 2023-06-15 |  |
-| [Boum musette](https://open.spotify.com/track/5o21zzrmo3ppnruabrr1Fa) | [Joss Baselli](https://open.spotify.com/artist/2Goh2SVD0hBxz9qMrtBTkt) | [La foule \(Collection "Les archives de l'accordéon"\)](https://open.spotify.com/album/00Q6aSetTUHYYFZygpEdv7) | 2:24 | 2022-02-18 |  |
+| [Boum musette](https://open.spotify.com/track/5o21zzrmo3ppnruabrr1Fa) | [Joss Baselli](https://open.spotify.com/artist/2Goh2SVD0hBxz9qMrtBTkt) | [La foule \(Collection "Les archives de l'accordéon"\)](https://open.spotify.com/album/00Q6aSetTUHYYFZygpEdv7) | 2:24 | 2022-02-18 | 2023-08-08 |
+| [Boum Musette](https://open.spotify.com/track/7wBDJL7T1pSzwpfm5fzqjt) | [Joss Baselli](https://open.spotify.com/artist/2Goh2SVD0hBxz9qMrtBTkt) | [Presenting Joss Baselli](https://open.spotify.com/album/2ztegz9DBfyvvD1ArFsOwe) | 2:25 | 2023-08-03 |  |
 | [Brise Napolitaine \- 1956](https://open.spotify.com/track/5tsAXJsDCzJL9mOLW09xX0) | [Yvette Horner](https://open.spotify.com/artist/5NZd2r4rjPIli27nwjM0QN) | [Valse Musette](https://open.spotify.com/album/3IstTjNFAMomssd6s9g8XX) | 2:25 | 2022-02-18 |  |
 | [C Jam Blues](https://open.spotify.com/track/3CIAbkxoNkecyKki0Qleiq) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Coquette](https://open.spotify.com/album/2FS2664m3YH36zTKCaRTxp) | 2:06 | 2023-05-18 | 2023-08-04 |
 | [C'est si bon](https://open.spotify.com/track/0iLzFD9kW3EDfLfBexDhov) | [Chansons d´Accordeon](https://open.spotify.com/artist/7yyIR9coVU196KLJT9Mj6T) | [C'est si bon](https://open.spotify.com/album/5ujMTwU4XSRV224f4OIaYW) | 2:46 | 2023-06-01 |  |

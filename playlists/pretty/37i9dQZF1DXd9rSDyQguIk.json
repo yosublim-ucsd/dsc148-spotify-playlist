@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 1129215,
+  "num_followers": 1129634,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmM2ZDJiNWM4NTk2ZjJhYjZkMzI4MzA3NmZkMTk1ZjFiNWNiNmQ2",
+  "snapshot_id": "MCwwMzdjMTRjODY5Yjc1NjZkNjAwODA3NDUyZmQxYmQ3YjVjNTJmZDU5",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -317,22 +317,6 @@
       "url": "https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 271653,
-      "name": "Damn Right, I've Got the Blues",
-      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Ice Pickin'",
@@ -347,6 +331,22 @@
       "duration_ms": 318840,
       "name": "Cold, Cold Feeling",
       "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 271653,
+      "name": "Damn Right, I've Got the Blues",
+      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -423,22 +423,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Live And Well",
-        "url": "https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 517400,
-      "name": "Why I Sing The Blues",
-      "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "King Of The Boogie",
         "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 189640,
       "name": "Boogie Chillen",
       "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Live And Well",
+        "url": "https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 517400,
+      "name": "Why I Sing The Blues",
+      "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -517,22 +517,6 @@
       "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "To Know You Is To Love You",
-        "url": "https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 515000,
-      "name": "To Know You Is To Love You",
-      "url": "https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Mourning In The Morning",
@@ -547,6 +531,22 @@
       "duration_ms": 147800,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "To Know You Is To Love You",
+        "url": "https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 515000,
+      "name": "To Know You Is To Love You",
+      "url": "https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -631,22 +631,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 295693,
       "name": "T-Bone Shuffle",
       "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 247373,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
     },
     {
       "added_at": "2018-03-29 19:44:07",

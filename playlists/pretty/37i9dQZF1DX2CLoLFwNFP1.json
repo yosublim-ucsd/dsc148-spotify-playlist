@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 26961,
+  "num_followers": 27030,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjgwMTJiMWFmYzZlZDA1ZDVhYmQ0YjRiNjlhZDRkNjMxOWE0MGMw",
+  "snapshot_id": "MCw2NTZkZmM3YmJjMjIxMzIwMjI3YTQwMTg2M2EwZTY0NWRkMGUyMWU5",
   "tracks": [
     {
       "added_at": "2023-07-31 16:03:37",
@@ -387,34 +387,6 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
-        "name": "GANG (Official Remix)",
-        "url": "https://open.spotify.com/album/7sSR7cyAVVr1OkCouJpxc6"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        }
-      ],
-      "duration_ms": 191880,
-      "name": "GANG - Official Remix",
-      "url": "https://open.spotify.com/track/3D0nbQmiFAnibdZTajgaYO"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
       },
@@ -455,22 +427,30 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
-        "name": "Think",
-        "url": "https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA"
+        "name": "GANG (Official Remix)",
+        "url": "https://open.spotify.com/album/7sSR7cyAVVr1OkCouJpxc6"
       },
       "artists": [
         {
-          "name": "REDDY",
-          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
         }
       ],
-      "duration_ms": 231222,
-      "name": "Think (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9"
+      "duration_ms": 191880,
+      "name": "GANG - Official Remix",
+      "url": "https://open.spotify.com/track/3D0nbQmiFAnibdZTajgaYO"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -511,6 +491,26 @@
       "duration_ms": 245786,
       "name": "Tel\u00e9fono Remix",
       "url": "https://open.spotify.com/track/0vZi38VepxZWh0ACqYaXio"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
+        "name": "Think",
+        "url": "https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA"
+      },
+      "artists": [
+        {
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 231222,
+      "name": "Think (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
-        "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
-        "url": "https://open.spotify.com/album/0IXensrKIZ7dxjoUgx57xb"
-      },
-      "artists": [
-        {
-          "name": "SGBOYZ",
-          "url": "https://open.spotify.com/artist/5PDw41tArOne60p7F4vTtU"
-        }
-      ],
-      "duration_ms": 256437,
-      "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
-      "url": "https://open.spotify.com/track/00qTDk2XFKM5zgU8cIXotL"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 1",
         "url": "https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy"
       },
@@ -627,6 +611,38 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
+        "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
+        "url": "https://open.spotify.com/album/0IXensrKIZ7dxjoUgx57xb"
+      },
+      "artists": [
+        {
+          "name": "SGBOYZ",
+          "url": "https://open.spotify.com/artist/5PDw41tArOne60p7F4vTtU"
+        }
+      ],
+      "duration_ms": 256437,
+      "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
+      "url": "https://open.spotify.com/track/00qTDk2XFKM5zgU8cIXotL"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
+        "name": "BRB",
+        "url": "https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2"
+      },
+      "artists": [
+        {
+          "name": "H1GHR MUSIC",
+          "url": "https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K"
+        }
+      ],
+      "duration_ms": 304746,
+      "name": "BRB",
+      "url": "https://open.spotify.com/track/620yE97rij2snTka7EbKH0"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
         "name": "WATER",
         "url": "https://open.spotify.com/album/1jPLfwzHnBTJIMzrA2lb7y"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 262560,
       "name": "WATER (Prod. by GooseBumps)",
       "url": "https://open.spotify.com/track/7EBxRB5zybo2zutJuiAwoF"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "BRB",
-        "url": "https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2"
-      },
-      "artists": [
-        {
-          "name": "H1GHR MUSIC",
-          "url": "https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K"
-        }
-      ],
-      "duration_ms": 304746,
-      "name": "BRB",
-      "url": "https://open.spotify.com/track/620yE97rij2snTka7EbKH0"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -807,6 +807,26 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
+        "name": "Playinwitme (Remix) [feat. Jay Park]",
+        "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 193060,
+      "name": "Playinwitme (Remix) [feat. Jay Park]",
+      "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
         "name": "School Rapper4 - Team Battle:Group",
         "url": "https://open.spotify.com/album/3u1aK0k7QC2O9PXagG8byK"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 241906,
       "name": "GREEN LIGHT (Feat. Jay Park, pH-1) (Prod. WOOGIE)",
       "url": "https://open.spotify.com/track/3KxadSAONZRtjuLpyZVZlp"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "Playinwitme (Remix) [feat. Jay Park]",
-        "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 193060,
-      "name": "Playinwitme (Remix) [feat. Jay Park]",
-      "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -2019,6 +2019,30 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
+        "name": "REBORN",
+        "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "Boi B",
+          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
+        }
+      ],
+      "duration_ms": 235364,
+      "name": "REBORN",
+      "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
       },
@@ -2043,30 +2067,6 @@
       "duration_ms": 222432,
       "name": "World Domination",
       "url": "https://open.spotify.com/track/20QRiEt3H04E5vHJG4LDlG"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "REBORN",
-        "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
-        },
-        {
-          "name": "Boi B",
-          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
-        }
-      ],
-      "duration_ms": 235364,
-      "name": "REBORN",
-      "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
     },
     {
       "added_at": "2023-07-31 16:03:37",

@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 149964,
+  "num_followers": 149970,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODljY2U5ZTFhMDNkZWM4OTVjN2M0ZWZhZDYzMDQzNDMwY2ExMzJi",
+  "snapshot_id": "MCw5NjdmYmE4YTBlMmRjZjZhMjY4ZTc5ZmM2MTU1YTBjNWQ0NTUyZjM4",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -455,30 +455,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Mun R\u00e1",
-        "url": "https://open.spotify.com/album/0txbns1JErYP5FQTiLijyl"
-      },
-      "artists": [
-        {
-          "name": "Sabotage",
-          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 208817,
-      "name": "Mun R\u00e1",
-      "url": "https://open.spotify.com/track/1SXLxcC5SBjYWfN94jIDOc"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "O Mais Novo Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/6bUVIZIeTsNvW9QyWsaqYj"
       },
@@ -507,6 +483,30 @@
       "duration_ms": 268387,
       "name": "Um Pouco Mais",
       "url": "https://open.spotify.com/track/0IugBW2da8cfIZIVjlZ31C"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Mun R\u00e1",
+        "url": "https://open.spotify.com/album/0txbns1JErYP5FQTiLijyl"
+      },
+      "artists": [
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 208817,
+      "name": "Mun R\u00e1",
+      "url": "https://open.spotify.com/track/1SXLxcC5SBjYWfN94jIDOc"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -831,18 +831,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Sabor Cereja",
-        "url": "https://open.spotify.com/album/7yUdixa2zBINA6XiIz3PyM"
+        "name": "Girl From Ipanema",
+        "url": "https://open.spotify.com/album/5KmgelwwyTOIP93hJwqt7T"
       },
       "artists": [
         {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "NSFS",
+          "url": "https://open.spotify.com/artist/3w7GpmivBfWVh5CTrp0irY"
         }
       ],
-      "duration_ms": 175074,
-      "name": "Sabor Cereja",
-      "url": "https://open.spotify.com/track/5momT3wRuYsg2s4hHZVHML"
+      "duration_ms": 209770,
+      "name": "Girl From Ipanema",
+      "url": "https://open.spotify.com/track/7ysU8N5QdUZNFzkuQhDpV4"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -871,42 +875,18 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Girl From Ipanema",
-        "url": "https://open.spotify.com/album/5KmgelwwyTOIP93hJwqt7T"
+        "name": "Sabor Cereja",
+        "url": "https://open.spotify.com/album/7yUdixa2zBINA6XiIz3PyM"
       },
       "artists": [
         {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "NSFS",
-          "url": "https://open.spotify.com/artist/3w7GpmivBfWVh5CTrp0irY"
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
         }
       ],
-      "duration_ms": 209770,
-      "name": "Girl From Ipanema",
-      "url": "https://open.spotify.com/track/7ysU8N5QdUZNFzkuQhDpV4"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Quimera",
-        "url": "https://open.spotify.com/album/2s6Xis30Leau0FHqOgpWl4"
-      },
-      "artists": [
-        {
-          "name": "Adonai",
-          "url": "https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN"
-        },
-        {
-          "name": "Fabio Brazza",
-          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
-        }
-      ],
-      "duration_ms": 273411,
-      "name": "Acidentalmente",
-      "url": "https://open.spotify.com/track/7pIbJiddCmItm0ksiuITj6"
+      "duration_ms": 175074,
+      "name": "Sabor Cereja",
+      "url": "https://open.spotify.com/track/5momT3wRuYsg2s4hHZVHML"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -943,6 +923,26 @@
       "duration_ms": 282666,
       "name": "Ac\u00fastico Altamira #8 - Leonina",
       "url": "https://open.spotify.com/track/6YMi3tJujGfeXWmA9KRDhC"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Quimera",
+        "url": "https://open.spotify.com/album/2s6Xis30Leau0FHqOgpWl4"
+      },
+      "artists": [
+        {
+          "name": "Adonai",
+          "url": "https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN"
+        },
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        }
+      ],
+      "duration_ms": 273411,
+      "name": "Acidentalmente",
+      "url": "https://open.spotify.com/track/7pIbJiddCmItm0ksiuITj6"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Doses",
+        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
+      },
+      "artists": [
+        {
+          "name": "K.E",
+          "url": "https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Voe",
         "url": "https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 152000,
       "name": "Voe",
       "url": "https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Doses",
-        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
-      },
-      "artists": [
-        {
-          "name": "K.E",
-          "url": "https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1227,58 +1227,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Qualquer Maneira",
-        "url": "https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r"
-      },
-      "artists": [
-        {
-          "name": "Inc\u00f3gnito",
-          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
-        }
-      ],
-      "duration_ms": 331054,
-      "name": "Qualquer Maneira",
-      "url": "https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Vento Bom",
-        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
-      },
-      "artists": [
-        {
-          "name": "MC 2jhow",
-          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
-        },
-        {
-          "name": "Mc Tek\u00e1da-B",
-          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
-        }
-      ],
-      "duration_ms": 169409,
-      "name": "Vento Bom",
-      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Bem Vindx \u00e0 Lyra",
         "url": "https://open.spotify.com/album/11zJh3b4sbGY49SyRkJ0If"
       },
@@ -1307,6 +1255,58 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Qualquer Maneira",
+        "url": "https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r"
+      },
+      "artists": [
+        {
+          "name": "Inc\u00f3gnito",
+          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
+        }
+      ],
+      "duration_ms": 331054,
+      "name": "Qualquer Maneira",
+      "url": "https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 164713,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Vento Bom",
+        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
+      },
+      "artists": [
+        {
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
+        },
+        {
+          "name": "Mc Tek\u00e1da-B",
+          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
+        }
+      ],
+      "duration_ms": 169409,
+      "name": "Vento Bom",
+      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Cartas ao Divino",
         "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
       },
@@ -1319,6 +1319,30 @@
       "duration_ms": 190769,
       "name": "Adaptar",
       "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Alta Defini\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4pJDsHvG7lWdavLkKhw5B6"
+      },
+      "artists": [
+        {
+          "name": "Ari",
+          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
+        },
+        {
+          "name": "Teo Guedx",
+          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
+        },
+        {
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+        }
+      ],
+      "duration_ms": 123380,
+      "name": "Alta Defini\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4ohGvOx61aiTYyrkLh687P"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1407,26 +1431,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Neon",
-        "url": "https://open.spotify.com/album/7LW6R1CL9Ewm7BGtXOR7ca"
-      },
-      "artists": [
-        {
-          "name": "Katari SC",
-          "url": "https://open.spotify.com/artist/0hmC5uzgar1mR5E5dqeSjm"
-        },
-        {
-          "name": "Neto S.",
-          "url": "https://open.spotify.com/artist/3w473vGECOnredmfAZRx0M"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Neon",
-      "url": "https://open.spotify.com/track/15qPFRBtnV4XdDlG8O6DoM"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Jeito Bom #2",
         "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
       },
@@ -1451,6 +1455,46 @@
       "duration_ms": 209378,
       "name": "Jeito Bom #2",
       "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/7LW6R1CL9Ewm7BGtXOR7ca"
+      },
+      "artists": [
+        {
+          "name": "Katari SC",
+          "url": "https://open.spotify.com/artist/0hmC5uzgar1mR5E5dqeSjm"
+        },
+        {
+          "name": "Neto S.",
+          "url": "https://open.spotify.com/artist/3w473vGECOnredmfAZRx0M"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Neon",
+      "url": "https://open.spotify.com/track/15qPFRBtnV4XdDlG8O6DoM"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Felipe Brasil",
+          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
+        }
+      ],
+      "duration_ms": 213698,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1507,26 +1551,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
-        }
-      ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "27 Dias",
         "url": "https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX"
       },
@@ -1575,26 +1599,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Alta Defini\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4pJDsHvG7lWdavLkKhw5B6"
+        "name": "Pelo Mundo",
+        "url": "https://open.spotify.com/album/3CBgeU3PHAYf1Yai40dUDI"
       },
       "artists": [
         {
-          "name": "Ari",
-          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
         },
         {
-          "name": "Teo Guedx",
-          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
-        },
-        {
-          "name": "Felipe Play",
-          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+          "name": "Jef Rodriguez",
+          "url": "https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo"
         }
       ],
-      "duration_ms": 123380,
-      "name": "Alta Defini\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4ohGvOx61aiTYyrkLh687P"
+      "duration_ms": 166865,
+      "name": "Pelo Mundo",
+      "url": "https://open.spotify.com/track/6Gv2AXzjxhlTYKyb0cznEF"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1615,26 +1635,6 @@
       "duration_ms": 174715,
       "name": "Ela N\u00e3o Cansa",
       "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Pelo Mundo",
-        "url": "https://open.spotify.com/album/3CBgeU3PHAYf1Yai40dUDI"
-      },
-      "artists": [
-        {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
-        },
-        {
-          "name": "Jef Rodriguez",
-          "url": "https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo"
-        }
-      ],
-      "duration_ms": 166865,
-      "name": "Pelo Mundo",
-      "url": "https://open.spotify.com/track/6Gv2AXzjxhlTYKyb0cznEF"
     },
     {
       "added_at": "2023-08-04 03:01:00",

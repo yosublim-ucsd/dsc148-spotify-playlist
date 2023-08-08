@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 42104,
+  "num_followers": 42171,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDU2ZjNjYjk1OTZhN2MyYWYwY2RjMTZlMDExOGNkYmFjODY4Y2U0",
+  "snapshot_id": "MCwxZGUyZjJkMjE0OTVmMDI5MWNkMjdkNjczYzA0NzdiODBkZGQ4Yjk4",
   "tracks": [
     {
       "added_at": "2023-08-04 12:54:21",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
+        "name": "Nepenthe",
+        "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 272960,
+      "name": "Labyrinthine",
+      "url": "https://open.spotify.com/track/58OsQvr8IkoysLGiaLth6I"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
-        "name": "Nepenthe",
-        "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 272960,
-      "name": "Labyrinthine",
-      "url": "https://open.spotify.com/track/58OsQvr8IkoysLGiaLth6I"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
+        "name": "Under the Lilac Sky",
+        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "My People Have Deep Roots",
+      "url": "https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
         "name": "Trececerotres",
         "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 160000,
       "name": "The Tides Do That with Me",
       "url": "https://open.spotify.com/track/54IVj29KBSyfbDd5jCJ4b9"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
-        "name": "Under the Lilac Sky",
-        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "My People Have Deep Roots",
-      "url": "https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
-        "name": "The Unfolding",
-        "url": "https://open.spotify.com/album/17VZ1IVAxBYtoWCvQSKrch"
-      },
-      "artists": [
-        {
-          "name": "Hannah Peel",
-          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
-        },
-        {
-          "name": "Paraorchestra",
-          "url": "https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm"
-        }
-      ],
-      "duration_ms": 347796,
-      "name": "The Unfolding",
-      "url": "https://open.spotify.com/track/7BKOFg8gQm0pMMPrKyrvd2"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -743,6 +723,26 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
+        "name": "The Unfolding",
+        "url": "https://open.spotify.com/album/17VZ1IVAxBYtoWCvQSKrch"
+      },
+      "artists": [
+        {
+          "name": "Hannah Peel",
+          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
+        },
+        {
+          "name": "Paraorchestra",
+          "url": "https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm"
+        }
+      ],
+      "duration_ms": 347796,
+      "name": "The Unfolding",
+      "url": "https://open.spotify.com/track/7BKOFg8gQm0pMMPrKyrvd2"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
         "name": "Hilja",
         "url": "https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe"
       },
@@ -755,26 +755,6 @@
       "duration_ms": 321000,
       "name": "Demetra",
       "url": "https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
-        "name": "Honest Labour",
-        "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
-      },
-      "artists": [
-        {
-          "name": "Space Afrika",
-          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
-        },
-        {
-          "name": "guest",
-          "url": "https://open.spotify.com/artist/3z72l07aiHkKJ04PeJmWU0"
-        }
-      ],
-      "duration_ms": 112980,
-      "name": "Indigo Grit (feat. guest)",
-      "url": "https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -795,6 +775,26 @@
       "duration_ms": 165050,
       "name": "Solari",
       "url": "https://open.spotify.com/track/7uR2Mb4MPuPFN6jQ58RChn"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
+        "name": "Honest Labour",
+        "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
+      },
+      "artists": [
+        {
+          "name": "Space Afrika",
+          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
+        },
+        {
+          "name": "guest",
+          "url": "https://open.spotify.com/artist/3z72l07aiHkKJ04PeJmWU0"
+        }
+      ],
+      "duration_ms": 112980,
+      "name": "Indigo Grit (feat. guest)",
+      "url": "https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
+        "name": "plastichoir",
+        "url": "https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2"
+      },
+      "artists": [
+        {
+          "name": "Aphir",
+          "url": "https://open.spotify.com/artist/5FjAJK7JsaOahbaAwIxtE4"
+        }
+      ],
+      "duration_ms": 190860,
+      "name": "melting cups",
+      "url": "https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
         "name": "Inori (William Basinski Rework)",
         "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 306154,
       "name": "Inori - William Basinski Rework",
       "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
-        "name": "plastichoir",
-        "url": "https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2"
-      },
-      "artists": [
-        {
-          "name": "Aphir",
-          "url": "https://open.spotify.com/artist/5FjAJK7JsaOahbaAwIxtE4"
-        }
-      ],
-      "duration_ms": 190860,
-      "name": "melting cups",
-      "url": "https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
-        "name": "Orbits",
-        "url": "https://open.spotify.com/album/5yX9DKolmT1yaFht5vQPlL"
-      },
-      "artists": [
-        {
-          "name": "Antarctic Wastelands",
-          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
-        },
-        {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
-        }
-      ],
-      "duration_ms": 284724,
-      "name": "Orbits",
-      "url": "https://open.spotify.com/track/6ncyCZRN47j2h1Ps537PFe"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
         "name": "outside of your lifetime",
         "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
       },
@@ -1075,18 +1055,22 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
-        "name": "Illogical Dance",
-        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
+        "name": "Orbits",
+        "url": "https://open.spotify.com/album/5yX9DKolmT1yaFht5vQPlL"
       },
       "artists": [
         {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+          "name": "Antarctic Wastelands",
+          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
+        },
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
         }
       ],
-      "duration_ms": 473075,
-      "name": "Illogical Lullaby",
-      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
+      "duration_ms": 284724,
+      "name": "Orbits",
+      "url": "https://open.spotify.com/track/6ncyCZRN47j2h1Ps537PFe"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
+        "name": "Illogical Dance",
+        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 473075,
+      "name": "Illogical Lullaby",
+      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
         "name": "Lost in Time",
         "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
-        "name": "Ode to the blue",
-        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 173625,
-      "name": "Ode to the blue",
-      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
         "name": "Cliodynamics",
         "url": "https://open.spotify.com/album/6K2aexjzxXsEHHl7e6Yeg6"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 238145,
       "name": "Strong, Calm, Slow",
       "url": "https://open.spotify.com/track/32AKEpYYeBd6C21XlviUKn"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
+        "name": "Ode to the blue",
+        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 173625,
+      "name": "Ode to the blue",
+      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
+        "name": "There Up, Behind The Moon",
+        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        },
+        {
+          "name": "Ana Stamp",
+          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
+        }
+      ],
+      "duration_ms": 444000,
+      "name": "Bright Girl",
+      "url": "https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
         "name": "Untitled",
         "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 240850,
       "name": "Dawn of Awakening",
       "url": "https://open.spotify.com/track/2XIJbFw1hdpJv5Cpad4WPl"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
-        "name": "There Up, Behind The Moon",
-        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        },
-        {
-          "name": "Ana Stamp",
-          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
-        }
-      ],
-      "duration_ms": 444000,
-      "name": "Bright Girl",
-      "url": "https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
+        "name": "Stretch Your Eyes (Ambient Acapella)",
+        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 367253,
+      "name": "Stretch Your Eyes - Ambient Acapella",
+      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
         "name": "Grass Grow",
         "url": "https://open.spotify.com/album/7GGr2hRdoaTawzAJz32Qtl"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 209160,
       "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
       "url": "https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
-        "name": "Stretch Your Eyes (Ambient Acapella)",
-        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 367253,
-      "name": "Stretch Your Eyes - Ambient Acapella",
-      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
-        "name": "Respite",
-        "url": "https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI"
-      },
-      "artists": [
-        {
-          "name": "Anita Tatlow",
-          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
-        },
-        {
-          "name": "Be Still the Earth",
-          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
-        }
-      ],
-      "duration_ms": 227631,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
         "name": "There Up, Behind The Moon",
         "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 198880,
       "name": "For You I Am Missing \u2026",
       "url": "https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
+        "name": "Respite",
+        "url": "https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI"
+      },
+      "artists": [
+        {
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+        },
+        {
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
+        }
+      ],
+      "duration_ms": 227631,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 264250,
+      "name": "Haven't Left Home 4 4 Days",
+      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
+    },
+    {
+      "added_at": "2023-08-04 12:54:21",
+      "album": {
         "name": "Lumino Pleco",
         "url": "https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta"
       },
@@ -1699,18 +1715,18 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+        "name": "Kistvaen",
+        "url": "https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80"
       },
       "artists": [
         {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+          "name": "Roly Porter",
+          "url": "https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P"
         }
       ],
-      "duration_ms": 264250,
-      "name": "Haven't Left Home 4 4 Days",
-      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
+      "duration_ms": 360000,
+      "name": "An Open Door",
+      "url": "https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -1727,22 +1743,6 @@
       "duration_ms": 206000,
       "name": "Cosmic Ray",
       "url": "https://open.spotify.com/track/7u8SH2nPDCa3AMyofsYTQj"
-    },
-    {
-      "added_at": "2023-08-04 12:54:21",
-      "album": {
-        "name": "Kistvaen",
-        "url": "https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80"
-      },
-      "artists": [
-        {
-          "name": "Roly Porter",
-          "url": "https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "An Open Door",
-      "url": "https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi"
     },
     {
       "added_at": "2023-08-04 12:54:21",
@@ -1823,22 +1823,18 @@
     {
       "added_at": "2023-08-04 12:54:21",
       "album": {
-        "name": "Languoria",
-        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
+        "name": "And You Know I Care",
+        "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
       },
       "artists": [
         {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+          "name": "Fiona Brice",
+          "url": "https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT"
         }
       ],
-      "duration_ms": 295789,
-      "name": "The Journey",
-      "url": "https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg"
+      "duration_ms": 289293,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
     }
   ],
   "unique_name": "ethereal voices",

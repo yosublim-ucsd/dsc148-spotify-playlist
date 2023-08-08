@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Eli Rose
 
-1,973 songs - 4 day 9 hr 23 min
+1,974 songs - 4 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1029,7 +1029,7 @@
 | [Le sel de la mer](https://open.spotify.com/track/3OSkqgFOUDoYOkWqMLOwrw) | [Zoe Sanders](https://open.spotify.com/artist/1EDU4S0vDAK3UaweNtq59X) | [Le sel de la mer](https://open.spotify.com/album/6FrTCPaRqS3KtRPY3ppajJ) | 2:56 | 2022-10-14 | 2022-10-22 |
 | [Le silence et la lenteur](https://open.spotify.com/track/1JkBQwBXzQCG2dtz8tW0TU) | [Juste Robert](https://open.spotify.com/artist/4lll5qbnN7kMIi5jOZUpVi) | [Ta théorie sur la lumière](https://open.spotify.com/album/16smfu1rntYNsY9yYqvDDC) | 4:33 | 2022-01-28 | 2022-02-12 |
 | [Le soleil à son zénith](https://open.spotify.com/track/0Rkxu5Ro7FsAQ4Ee7kzibX) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Le soleil à son zénith](https://open.spotify.com/album/5ejJGOc1JOZ1sE0JXKBXpx) | 3:29 | 2022-06-17 | 2022-07-09 |
-| [Le stade](https://open.spotify.com/track/4zIWUQcXL5olW32MRz5WOq) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Le stade](https://open.spotify.com/album/6SWRSgHDlJtI5RnzTQewpu) | 2:23 | 2023-06-23 |  |
+| [Le stade](https://open.spotify.com/track/4zIWUQcXL5olW32MRz5WOq) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Le stade](https://open.spotify.com/album/6SWRSgHDlJtI5RnzTQewpu) | 2:23 | 2023-06-23 | 2023-08-08 |
 | [Le surf](https://open.spotify.com/track/1BQ40vaUclSvLE1VqdS5jq) | [Guilhem](https://open.spotify.com/artist/1rS6OZB5QSRztfduBh62I8) | [Le surf](https://open.spotify.com/album/7qDNHLtyWSqTnE1OagCo9A) | 2:15 | 2023-03-17 | 2023-03-25 |
 | [Le temps](https://open.spotify.com/track/5HI9k4iTd7qCdsWTUsFyJT) | [Zandru](https://open.spotify.com/artist/4DvuZ3bcyE9QdQWUc9G6Hg) | [Le temps](https://open.spotify.com/album/6SiXmhg0ROfLi8kBLz2O5d) | 2:53 | 2023-03-17 | 2023-04-01 |
 | [Le temps d'avance](https://open.spotify.com/track/72xFPW1ylaVlpI1thuOFXP) | [Hauterive](https://open.spotify.com/artist/1FjP1PNg8eZOJ5uuRe6UWj) | [Le temps d'avance](https://open.spotify.com/album/7ALRcaereclOiEpnbmg6YI) | 4:29 | 2023-03-24 | 2023-04-09 |
@@ -1806,6 +1806,7 @@
 | [Trois](https://open.spotify.com/track/7FifBy3Tu7kxliPg331kLA) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [Trois](https://open.spotify.com/album/3sn6a1BXHm5LlNgn2H3hAk) | 3:06 | 2022-06-17 | 2022-07-02 |
 | [Trop grand ici](https://open.spotify.com/track/6q5WRPrbJOQ4wbH41OSWHW) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Trop grand ici](https://open.spotify.com/album/3S87e7C5pMtzaAJ5G035Kf) | 3:41 | 2023-02-24 | 2023-03-11 |
 | [Trop jeune](https://open.spotify.com/track/6rqWdAwmWsX1rropncpHpT) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Trop jeune](https://open.spotify.com/album/1pHQXlkMkpRlIo6GCIUIV0) | 3:20 | 2023-01-27 | 2023-02-11 |
+| [Trop parler](https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Trop parler](https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY) | 3:03 | 2023-08-04 |  |
 | [Trop tard](https://open.spotify.com/track/09mSOq8yrLRm6r2E7xowak) | [Walk in Paris](https://open.spotify.com/artist/7iogfxoFBRb7fwoxDIFJoG), [nelick](https://open.spotify.com/artist/2W2NUrosOnwAI1hZIVbwit), [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [Le Sid](https://open.spotify.com/artist/70N97SEVEyRdrtLtMHQDvd) | [Trop tard](https://open.spotify.com/album/2f7mQ6GWiOzTeiQShJeucj) | 2:08 | 2022-06-03 | 2022-06-11 |
 | [Trop Vite](https://open.spotify.com/track/2ogaCerQs0CkXAm9mOFc4O) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Trop Vite](https://open.spotify.com/album/1GMrFwJWVhMqR9E45xFWPC) | 3:05 | 2022-03-11 | 2022-03-18 |
 | [Trophée](https://open.spotify.com/track/1n1ufFsnSU3mDuDSHroza8) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Trophée](https://open.spotify.com/album/4THFrVEcgnvqFf24q1noUQ) | 3:19 | 2022-06-24 | 2022-07-09 |

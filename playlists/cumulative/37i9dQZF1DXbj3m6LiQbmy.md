@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Yosef, MYDRAMA, KAPUT, Evra e Blue Phelix in cover! ✨
 
-302 songs - 18 hr 17 min
+303 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 | 2022-06-12 | 2022-06-27 |
 | [Altrove](https://open.spotify.com/track/4qpKorDMRqWAi8IsN1MO4k) | [Vergo](https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y), [ilromantico](https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh) | [Altrove](https://open.spotify.com/album/1dI9d5dlGm2gbRTO4fGqD8) | 3:00 | 2021-11-19 | 2022-04-02 |
 | [Altrove \- feat\. BigMama](https://open.spotify.com/track/0s9EKoTRcWx9cIZmPXKqoW) | [Vergo](https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Altrove](https://open.spotify.com/album/6WHJYGk8VjUTpH2M7dPsdE) | 3:04 | 2021-11-19 | 2023-06-23 |
-| [Amami \- La Tosa Disco Remix](https://open.spotify.com/track/17x9hPgr15m3Sfvj2rZjf8) | [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019), [La Tosa](https://open.spotify.com/artist/4ewa6gzbDQiCfDgjVpOGYl) | [Nuda](https://open.spotify.com/album/5q3Qt3eOUcVfSxeeWrVIHs) | 3:16 | 2021-11-19 |  |
+| [Amami \- La Tosa Disco Remix](https://open.spotify.com/track/4hN5nPKf7hxBJK6shDieXf) | [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019), [La Tosa](https://open.spotify.com/artist/4ewa6gzbDQiCfDgjVpOGYl) | [Amami \(La Tosa Disco Remix\)](https://open.spotify.com/album/77ZpekbQJKAUBSrWDgLJQc) | 3:16 | 2023-07-20 |  |
+| [Amami \- La Tosa Disco Remix](https://open.spotify.com/track/17x9hPgr15m3Sfvj2rZjf8) | [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019), [La Tosa](https://open.spotify.com/artist/4ewa6gzbDQiCfDgjVpOGYl) | [Nuda](https://open.spotify.com/album/5q3Qt3eOUcVfSxeeWrVIHs) | 3:16 | 2021-11-19 | 2023-08-08 |
 | [Ancora Tu \- Original Mix](https://open.spotify.com/track/1XMvmOyw3Rxu76Rr1BXYR7) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Mi Senti](https://open.spotify.com/album/6gnG4Hov60aXPblNpKpumI) | 5:07 | 2022-06-26 | 2023-01-28 |
 | [Androgyny](https://open.spotify.com/track/0hAGRr8EIDRkBlwS3laJFs) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Beautiful Garbage](https://open.spotify.com/album/4qm3Qamjfbv5sgw2qDSrup) | 3:09 | 2022-06-26 | 2022-07-16 |
 | [Androgyny](https://open.spotify.com/track/0dNhECjrHx4fMdUUKB3gDI) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Beautiful Garbage \(Remastered\)](https://open.spotify.com/album/0NVuRvkKyJU72UAADRQ1nq) | 3:09 | 2022-07-21 | 2023-01-25 |

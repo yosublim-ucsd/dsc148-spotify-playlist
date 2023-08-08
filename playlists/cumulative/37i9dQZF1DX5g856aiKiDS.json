@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 324280,
       "name": "Hi spring Bye",
       "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
@@ -5520,6 +5520,28 @@
       "duration_ms": 184559,
       "name": "\ubcc4\ube5b \uc544\ub798",
       "url": "https://open.spotify.com/track/0YFpJGYO95aDyKhHCm45Ya"
+    },
+    {
+      "album": {
+        "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
+        "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        },
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198749,
+      "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
+      "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
     },
     {
       "album": {

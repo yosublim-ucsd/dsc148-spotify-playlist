@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Draganov
+> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Vargas.
 
 144 songs - 7 hr 37 min
 

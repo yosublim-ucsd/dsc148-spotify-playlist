@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-695 songs - 1 day 5 hr 45 min
+697 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Gran Separado](https://open.spotify.com/track/6E0A1z9LAekBr97GRRlQ4p) | [Leonid Gautier](https://open.spotify.com/artist/1PG2CsJ35TSdcLarWqxGdu) | [Gran Separado](https://open.spotify.com/album/5MAFv5FqwSv5iNtmsInAbc) | 3:41 | 2021-12-13 | 2022-09-13 |
 | [Gratitude](https://open.spotify.com/track/5t4wYNhdJDzxVlMjri5sOn) | [Eadgar Évariste](https://open.spotify.com/artist/1c7hoqo3WagTVwFD2JMHmu) | [Gratitude](https://open.spotify.com/album/5YfNOdFUtS4eFZVHBO5GIF) | 1:54 | 2023-02-27 |  |
 | [Green Leaves](https://open.spotify.com/track/1TsMXS2Xy3TSP6LkHEw2WY) | [Klaüs](https://open.spotify.com/artist/3252lQrYqRgAFw2xXuNdVZ) | [Green Leaves](https://open.spotify.com/album/4LHWWyLQNckOJYKgmbevdw) | 2:02 | 2022-10-04 |  |
-| [Growing Old](https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2) | [Ezequiel Johnson](https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC) | [Growing Old](https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS) | 2:06 | 2021-12-13 |  |
+| [Growing Old](https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2) | [Ezequiel Johnson](https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC) | [Growing Old](https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS) | 2:06 | 2021-12-13 | 2023-08-08 |
 | [Habito](https://open.spotify.com/track/48v3esP9iVCc7HBX0zGKpk) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Habito](https://open.spotify.com/album/2iDCKPyudOHhPufR4rC9BF) | 3:32 | 2021-12-13 | 2022-08-30 |
 | [Hand in Hand](https://open.spotify.com/track/23yqVbpiJoMHTs0RX4aPE7) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [Hand in Hand](https://open.spotify.com/album/7fccaa63EUMUZtrhXENmbT) | 1:48 | 2023-02-06 |  |
 | [Harimau](https://open.spotify.com/track/6P1mVbAoxtDUUyVJJbtioz) | [Stéphanie Penti](https://open.spotify.com/artist/33lpCGobYTSxPbJcpgNBYu) | [Harimau](https://open.spotify.com/album/1um6IzMt5YoV5npmlAiCMw) | 2:30 | 2021-12-13 | 2022-08-10 |
@@ -463,7 +463,7 @@
 | [Present](https://open.spotify.com/track/6Zrs6gUUaSkM1Z7d0FxOlF) | [Lloyd Vaan](https://open.spotify.com/artist/3HFWqhd60hrJB8fpyjrTLu) | [Lens Flare](https://open.spotify.com/album/7Jgwg8nxsehAXjIYYsdanE) | 2:26 | 2022-12-05 | 2023-02-07 |
 | [Prevail](https://open.spotify.com/track/6jUukScClzRj806CeCgGk6) | [Christopher Galovan](https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c) | [Prevail](https://open.spotify.com/album/75jf5B3Hyz2aMmvoTAIdhH) | 2:40 | 2022-05-26 |  |
 | [Promise](https://open.spotify.com/track/1CcNphJqbsJSlMLZEldCYU) | [Morten Lidahl](https://open.spotify.com/artist/1RI9zJgpCO01hSCfh9k7YT) | [Promise](https://open.spotify.com/album/2gRUbzO0fVE1cmNLQLTMZr) | 2:11 | 2021-12-13 | 2022-07-22 |
-| [pt\. 1 Owl Light](https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [pt\. 1 Owl Light](https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY) | 3:09 | 2022-03-17 |  |
+| [pt\. 1 Owl Light](https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [pt\. 1 Owl Light](https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY) | 3:09 | 2022-03-17 | 2023-08-08 |
 | [Quando gli alberi incontrano il vento](https://open.spotify.com/track/1HByqL0NBv4U3EXobDUkiy) | [Riccardo Lucciano](https://open.spotify.com/artist/20WwrV7uTNMYTN1Rax9ORA) | [Quando gli alberi incontrano il vento](https://open.spotify.com/album/5gC9wVZoOL4bJNSo9eoclI) | 2:55 | 2021-12-13 | 2022-10-25 |
 | [Quicksand](https://open.spotify.com/track/17jvo4FD4s17STVTrf099y) | [Margus Paavo](https://open.spotify.com/artist/1rYnDP2t7hKxNQyJP2e66n) | [Quicksand](https://open.spotify.com/album/5ckkKPGjmusZozuLk3EWkq) | 2:49 | 2021-12-13 | 2022-07-22 |
 | [Quiet](https://open.spotify.com/track/0mdIhRa6uUwlHmEuUuvuKA) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Quiet](https://open.spotify.com/album/6KxIV0vIVkC90QUs1BFNs3) | 3:13 | 2021-12-13 | 2022-08-30 |
@@ -515,6 +515,7 @@
 | [Sasha](https://open.spotify.com/track/5Cea1kGzMWhmpyZF7G8mxY) | [Camilla Selezneva](https://open.spotify.com/artist/0pbW0nhIY4JDlqMJU5G7eX) | [Sasha](https://open.spotify.com/album/3XAxROyOq3avBUuqs2V2jI) | 2:25 | 2021-12-13 | 2022-09-13 |
 | [Saudade \(When We Are Born\)](https://open.spotify.com/track/1ijwLR1iybtxaUbasUj7kJ) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Saudade \(When We Are Born\)](https://open.spotify.com/album/3s5UDbcu9PBKBJ4xIz0zcW) | 2:30 | 2021-12-13 | 2023-01-21 |
 | [Scenery](https://open.spotify.com/track/0RgAkhVOWf3CZnWtFA1891) | [Alavilla Mailla](https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa) | [Scenery](https://open.spotify.com/album/0o6KH6EIH4O1DrgBuad1N3) | 2:17 | 2021-12-13 | 2022-07-22 |
+| [Schatze](https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Schatze](https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4) | 2:35 | 2023-08-07 |  |
 | [Se Réveiller](https://open.spotify.com/track/5NZHO5vtIllEHntPiTwfwd) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Se Réveiller](https://open.spotify.com/album/6zGXtuaQh1J6UHyd2Su7zt) | 3:03 | 2021-12-13 |  |
 | [Searching for peace](https://open.spotify.com/track/1oTDH6fYxlZT0MitUs0HPb) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Searching for peace](https://open.spotify.com/album/693uXrfZISnow1uU36mzn6) | 3:05 | 2023-02-27 |  |
 | [Seascape](https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [Seascape](https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY) | 2:05 | 2022-05-26 |  |
@@ -570,7 +571,7 @@
 | [Stay](https://open.spotify.com/track/7lZYzGYEEIFEIZef12LwOp) | [Séverine Royal](https://open.spotify.com/artist/3IL097aOxiyd0goKefIDlz) | [Stay](https://open.spotify.com/album/6AJX7VLAe7oPNCJnjHGuih) | 2:31 | 2023-05-09 |  |
 | [Stay The Night](https://open.spotify.com/track/5GuS3tJuRwbdNObPdCEVfI) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Stay The Night](https://open.spotify.com/album/4vYZPIYks7WPspZHdcwvdG) | 2:02 | 2021-12-13 | 2022-05-27 |
 | [Still](https://open.spotify.com/track/7Myr2rQatgwZshajT4pOCj) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Still](https://open.spotify.com/album/3Ko0u1P4mxYYrCHKgx5OdE) | 2:16 | 2021-12-13 | 2022-07-22 |
-| [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 | 2022-01-04 |  |
+| [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 | 2022-01-04 | 2023-08-08 |
 | [Stillness](https://open.spotify.com/track/0SGBSwX49QWTGiXMu39mUz) | [Fraser Jaspal](https://open.spotify.com/artist/3P2GZ3OyREqVPn8YISLrGH) | [Stillness](https://open.spotify.com/album/5PuL3CmcLn6ltqcMLsAahN) | 2:22 | 2023-03-06 |  |
 | [Story Time](https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Story Time](https://open.spotify.com/album/0v547nlB4ydYCt26HXGxIl) | 2:09 | 2022-08-29 |  |
 | [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 | 2022-01-04 |  |
@@ -608,6 +609,7 @@
 | [The Slow Down](https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [The Slow Down](https://open.spotify.com/album/1SWBVisYgwJoj0e3Xiu0Db) | 2:09 | 2023-03-06 |  |
 | [the traveler](https://open.spotify.com/track/1Niqti17jYAgEBlHzUEQ02) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the traveler & fragile flowers](https://open.spotify.com/album/6RkJifc0y3nOQLHHWB0oC8) | 2:50 | 2022-11-11 |  |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-01-18 |  |
+| [The Way Home](https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Way Home](https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB) | 2:27 | 2023-08-07 |  |
 | [The Winds](https://open.spotify.com/track/29nz4Q61vwzYqgHrLDqPuz) | [Rachel Sandy](https://open.spotify.com/artist/29Y9bN8378sKXJODbwRmhC) | [The Winds](https://open.spotify.com/album/55K9a0Lmj1kPAtvnnK1cml) | 2:51 | 2021-12-13 | 2022-08-10 |
 | [The Woman Who Sat On A Shelf](https://open.spotify.com/track/7A13EdjItdR8H8stkIwJ77) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [Roar: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/56T17eSb3ZEPT39FaxRKkQ) | 3:57 | 2022-04-21 | 2022-09-13 |
 | [This Tender Appeal](https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [This Tender Appeal](https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH) | 2:48 | 2023-03-27 |  |

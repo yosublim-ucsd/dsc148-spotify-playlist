@@ -252,7 +252,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 377066,
       "name": "Ba-benz\u00e9l\u00e9",
       "url": "https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i"
@@ -1408,6 +1408,24 @@
       "duration_ms": 218645,
       "name": "Lucerne Valley",
       "url": "https://open.spotify.com/track/4pWYWHh0tXLyo2hcNKAIHk"
+    },
+    {
+      "album": {
+        "name": "Temple Of The New Sun",
+        "url": "https://open.spotify.com/album/00wrOJOHlmNR63kIKK6x7R"
+      },
+      "artists": [
+        {
+          "name": "Xochimoki",
+          "url": "https://open.spotify.com/artist/2r9Sm0NknfL0xMMaRYQiiG"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247066,
+      "name": "Malinalli Koatl",
+      "url": "https://open.spotify.com/track/1JDsCg42TAQyGP02tMNCf6"
     },
     {
       "album": {

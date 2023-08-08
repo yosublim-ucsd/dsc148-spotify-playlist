@@ -4,7 +4,7 @@
 
 > Classics from trailblazing women in hip\-hop\. Cover: Lauryn Hill
 
-79 songs - 5 hr 22 min
+80 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Candy](https://open.spotify.com/track/77jEqaW8UgLiiBNEhjtAFW) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 3:43 | 2021-09-03 |  |
 | [Cha Cha Cha](https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [The Very Best Of MC Lyte](https://open.spotify.com/album/7jH3YOFDeqA9kN4P4kHtx4) | 3:00 | 2021-09-03 | 2023-08-02 |
 | [Ching Ching](https://open.spotify.com/track/4YqYDP9MoPeBh1AqmzxD8g) | [Ms\. Jade](https://open.spotify.com/artist/0WjnlObkDedRrSBTC9N3lW), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Girl Interrupted](https://open.spotify.com/album/0Byh9TWAYzZgzVCXAtKpIB) | 3:58 | 2021-09-03 | 2022-11-13 |
-| [Cold Rock a Party \(feat\. Missy Misdemeanor Elliott\) \- Bad Boy Remix](https://open.spotify.com/track/0hfNQm7gmjbIFlKiHoiACx) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Bad Boy](https://open.spotify.com/artist/30YAm5k11pWaOvbHcNhi08) | [Bad As I Wanna B](https://open.spotify.com/album/1E3ssiuLLWw9OqRYQ59UjK) | 4:37 | 2021-09-03 |  |
+| [Cold Rock a Party \(feat\. Missy Misdemeanor Elliott\) \- Bad Boy Remix](https://open.spotify.com/track/0hfNQm7gmjbIFlKiHoiACx) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Bad Boy](https://open.spotify.com/artist/30YAm5k11pWaOvbHcNhi08) | [Bad As I Wanna B](https://open.spotify.com/album/1E3ssiuLLWw9OqRYQ59UjK) | 4:37 | 2021-09-03 | 2023-08-08 |
 | [Conceited \(There's Something About Remy\)](https://open.spotify.com/track/2OcBwebjQsdJy76zWvLQvn) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 3:39 | 2021-01-29 |  |
 | [Conceited \(There's Something About Remy\)](https://open.spotify.com/track/2R4KCSHfWuYiCMSu9f0nuc) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story](https://open.spotify.com/album/6y9AdbqYziDJmcLSyyOsGO) | 3:39 | 2021-01-29 | 2022-07-29 |
 | [Crush on You \(feat\. Lil' Cease\) \- Remix](https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Lil' Cease](https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:35 | 2021-01-29 |  |
@@ -68,6 +68,7 @@
 | [Satisfaction](https://open.spotify.com/track/0klzutEUO6IX3QSmtRDFrq) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Eve\-Olution](https://open.spotify.com/album/4hnjhj3GcyzUDatpKFHQVR) | 4:18 | 2021-01-29 |  |
 | [Shoop](https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 4:08 | 2021-01-29 |  |
 | [Stand Up \(Featuring Ghostface Killah\) \(feat\. Ghostface Killah\)](https://open.spotify.com/track/1OthLEsS1Qc4zwEjJ2E2Xx) | [Charli Baltimore](https://open.spotify.com/artist/6xzdpjZ5OURzMdpjCFW008), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Cold As Ice](https://open.spotify.com/album/6MZesTNMkraV9NpJ7ipFw8) | 4:44 | 2021-01-29 | 2022-07-24 |
+| [Supersonic](https://open.spotify.com/track/3G3lahQSMk4BHnap1i853u) | [J.J\. Fad](https://open.spotify.com/artist/2eynOGnZLqDuEJwbRHlHN1) | [Supersonic The Album](https://open.spotify.com/album/0iYRcCHvNapsAaN15ChZOH) | 3:52 | 2023-08-07 |  |
 | [Take You Home \(feat\. Kelis\)](https://open.spotify.com/track/76HwNiaQIPdiKkPr9rIblr) | [Angie Martinez](https://open.spotify.com/artist/6VJqy1YyzrK4ZhgGs9cNTy), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Take You Home](https://open.spotify.com/album/4FGF7lLtE1aIAxBEh92vNU) | 3:53 | 2021-01-29 | 2022-07-29 |
 | [Tambourine](https://open.spotify.com/track/1U16aNzvnlfARgjWXjKmQj) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Tambourine](https://open.spotify.com/album/35qJZJ0yUoWdyrqs6pDbTK) | 3:12 | 2021-09-03 |  |
 | [The Jump Off](https://open.spotify.com/track/6UZS3KgNc0NF13bbtQTzD6) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 3:54 | 2021-09-03 |  |

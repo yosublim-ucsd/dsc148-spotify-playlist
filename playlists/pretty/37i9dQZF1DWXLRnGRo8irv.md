@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: OH MY GIRL\(오마이걸\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,085 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,089 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 16 | [120BPM](https://open.spotify.com/track/7pYiTMBG8sgPJvXZZ476i1) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [ONGOING](https://open.spotify.com/album/4TKudxgCXXAngwcPY2ba77) | 3:18 |
 | 17 | [SODA \(Vocal\. Yunkyoung, Sohee, Dahyun\)](https://open.spotify.com/track/1sLDBQnDav9i7EUUJ34UB5) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [SODA](https://open.spotify.com/album/6dfICkdCaBwjG97kwMzztS) | 2:57 |
 | 18 | [BIM BAM BUM](https://open.spotify.com/track/7JfqtEztxAA11Q7O9N6ryT) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [PINK PUNCH](https://open.spotify.com/album/243nNJW4Zk1vhQwNhZKXh7) | 3:16 |
-| 19 | [I′m fall in love](https://open.spotify.com/track/27bYnOCE4MI3J12qCkZbM5) | [NC.A](https://open.spotify.com/artist/1uzIyOg5F7ULZ3kWvRfivh), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [I′m fall in love](https://open.spotify.com/album/2kNf5DQBPrWDp816GBobLo) | 3:57 |
+| 19 | [I'm falling in love](https://open.spotify.com/track/27bYnOCE4MI3J12qCkZbM5) | [NC.A](https://open.spotify.com/artist/1uzIyOg5F7ULZ3kWvRfivh), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [I'm falling in love](https://open.spotify.com/album/2kNf5DQBPrWDp816GBobLo) | 3:57 |
 | 20 | [Even if a memorable day comes](https://open.spotify.com/track/4qf2fNRdDoNszKfQ6weq4P) | [NC.A](https://open.spotify.com/artist/1uzIyOg5F7ULZ3kWvRfivh) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 11](https://open.spotify.com/album/6ew14GyXhYrAkEMQbPgFh7) | 3:46 |
 | 21 | [The breath](https://open.spotify.com/track/0ueGZc0MRyHtYtIDIHUXKT) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Revenant \(Original Soundtrack\) Pt.4](https://open.spotify.com/album/1YBoX5Ch2K3W0qbBNqSs5R) | 3:33 |
 | 22 | [Beyond My Dreams](https://open.spotify.com/track/5NVkktUlAylhk7f0t63eth) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Extraordinary Attorney Woo \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6WHeV5qrp1tAPcMJ0ieZts) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [Bloom](https://open.spotify.com/track/72sm32NK5bCQFrzH7zNp1Q) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY) | [The First Bloom](https://open.spotify.com/album/1cFnuOep138fqDsALVDZ6S) | 3:07 |
 | 50 | [heather](https://open.spotify.com/track/2KwNBFG4FWgwWnncn2g2pu) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY) | [The First Bloom](https://open.spotify.com/album/1cFnuOep138fqDsALVDZ6S) | 1:54 |
 
-Snapshot ID: `MCw1MmM4ZjFmNzg5MzdmYWIyNzEzMjIxYzY3MDUyZTlhY2VlMzA3NzE2`
+Snapshot ID: `MCwxNWUxOTQ3NTdjMTg4MGI2YjE1MTI1MzM3MjZmMTBjYjBiZWFmNmU0`

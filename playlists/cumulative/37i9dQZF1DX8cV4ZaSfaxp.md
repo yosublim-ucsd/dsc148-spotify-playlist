@@ -4,7 +4,7 @@
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: aiai\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-301 songs - 18 hr 43 min
+302 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Magnolia](https://open.spotify.com/track/04ZbJ3nKanJwvsrZQNVEWL) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [Jason Lee](https://open.spotify.com/artist/72VOOoqqtdrD4MP2FMZOlD), [Hookuo](https://open.spotify.com/artist/6eBZRX3oKGthcmHWR8mpvf) | [Aquarium](https://open.spotify.com/album/68DQ72Ez9AhEtByI4k9i2Z) | 2:48 | 2022-05-11 | 2022-07-24 |
 | [Mamma Mia](https://open.spotify.com/track/1jbHCJ8EtvoKfMMYy3bAlN) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [카라\(KARA\) 6th Mini Album \[Day&Night\]](https://open.spotify.com/album/3emUMd2AU3S4jF5ryo3CKr) | 3:32 | 2022-07-22 |  |
 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our love is great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:53 | 2022-05-11 | 2023-08-07 |
+| [Maybe It’s Not Our Fault](https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3) | 3:53 | 2023-07-13 |  |
 | [Melody](https://open.spotify.com/track/4DBNbpEVlj4BbL2gN6GXWW) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2) | [Aquarium](https://open.spotify.com/album/68DQ72Ez9AhEtByI4k9i2Z) | 4:35 | 2022-05-11 | 2022-07-29 |
 | [Memories of Summer](https://open.spotify.com/track/0g0xDwm7qx1zqV0KDQCjr4) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 4:43 | 2022-05-11 | 2022-07-25 |
 | [Mermaid](https://open.spotify.com/track/1SgwPRpIywi0KCF4NJ7nlZ) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [zin](https://open.spotify.com/artist/7KPRlWVq4NZrXWmHTseuTW) | [Aquarium](https://open.spotify.com/album/68DQ72Ez9AhEtByI4k9i2Z) | 4:25 | 2022-05-11 | 2022-07-29 |
@@ -228,7 +229,7 @@
 | [Sign](https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 3:36 | 2022-05-11 | 2022-07-12 |
 | [Silent Movie](https://open.spotify.com/track/4uu4bnkSI1JvTwKFUqq7Gp) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Start of the End](https://open.spotify.com/album/6hM2rd6v2VO3VUAyTW3GTm) | 3:20 | 2022-09-05 | 2022-11-12 |
 | [Slide](https://open.spotify.com/track/09TYWKx7EhaAo4wrpFCpd4) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [Nene](https://open.spotify.com/artist/5LQjpbx0z9EONJHkWoDt0K) | [play ground](https://open.spotify.com/album/0cpiWjhRpaenw6hqJBhSle) | 3:26 | 2022-05-11 | 2022-07-28 |
-| [Someone like U](https://open.spotify.com/track/4TmLdQlOV37Xp6mlyQAGBA) | [Dalshabet](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | [Naturalness](https://open.spotify.com/album/2cKoCocQwbuvCRhGs9T2tW) | 3:20 | 2023-02-14 |  |
+| [Someone like U](https://open.spotify.com/track/4TmLdQlOV37Xp6mlyQAGBA) | [Dalshabet](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | [Naturalness](https://open.spotify.com/album/2cKoCocQwbuvCRhGs9T2tW) | 3:20 | 2023-02-14 | 2023-08-08 |
 | [Someone like U](https://open.spotify.com/track/5zbxw72g850H4fNMFEO7PC) | [Dalshabet](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | [The 9th Mini Album 'Naturalness'](https://open.spotify.com/album/7ajKOgmGaCCrqSVIgxbnNf) | 3:20 | 2022-07-04 | 2023-03-03 |
 | [Something](https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Something](https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo) | 4:40 | 2023-05-05 | 2023-06-14 |
 | [Sorrow](https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5) | [kursor](https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR) | [Sorrow](https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0) | 3:28 | 2022-05-11 | 2022-07-29 |

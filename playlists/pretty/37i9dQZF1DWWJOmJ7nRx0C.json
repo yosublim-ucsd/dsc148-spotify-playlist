@@ -1,12 +1,12 @@
 {
   "description": "The hardest songs, loud. Very loud. Cover: Mammoth WVH",
-  "num_followers": 923629,
+  "num_followers": 923826,
   "original_name": "Rock Hard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTk5NjdjYWY0YzQ4NDkyYmM3ZWJjZGFlYjZkMzA2MTEwNTBkODA1",
+  "snapshot_id": "MCw0MTYzNTc4ODg4YWFmOTUzOGU2Nzk1YmYyZjVhZTEyMTdiYjJmMWQ2",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "THE PURGE",
+        "url": "https://open.spotify.com/album/3UMpuZ3u2g5NOgHzzZnwrn"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 239147,
+      "name": "THE PURGE",
+      "url": "https://open.spotify.com/track/42eexWfJFK34GC9c46fpLx"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Servant Of The Mind (Deluxe)",
         "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
       },
@@ -1091,6 +1107,26 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        },
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 167993,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Punching Bag",
         "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
       },
@@ -1103,22 +1139,6 @@
       "duration_ms": 179482,
       "name": "Punching Bag",
       "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "MORE",
-        "url": "https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 187699,
-      "name": "MORE",
-      "url": "https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1139,6 +1159,42 @@
       "duration_ms": 239872,
       "name": "Bygones (feat. Rob Halford)",
       "url": "https://open.spotify.com/track/7GJLTr8zeooanCE8RmZsie"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Unstoppable (feat. Cory Marks)",
+        "url": "https://open.spotify.com/album/6cAguc6Xmqh9KmaLiTiFRp"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        },
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        }
+      ],
+      "duration_ms": 186462,
+      "name": "Unstoppable (feat. Cory Marks)",
+      "url": "https://open.spotify.com/track/3MWCJZybLRQ0skDYnSP1Ze"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/4nul0YLXFkkHO4O2PnFnot"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/7sTW2t8GBkzgA90BXnB79K"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1271,6 +1327,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "MORE",
+        "url": "https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 187699,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
@@ -1287,22 +1359,6 @@
       "duration_ms": 235714,
       "name": "Nothing Ever After",
       "url": "https://open.spotify.com/track/2foma3XC28Wk4Fcthqu7lk"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "THE PURGE",
-        "url": "https://open.spotify.com/album/3UMpuZ3u2g5NOgHzzZnwrn"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 239147,
-      "name": "THE PURGE",
-      "url": "https://open.spotify.com/track/42eexWfJFK34GC9c46fpLx"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1351,26 +1407,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        },
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 167993,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Together Right",
         "url": "https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9"
       },
@@ -1383,22 +1419,6 @@
       "duration_ms": 181120,
       "name": "Together Right",
       "url": "https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Calling",
-        "url": "https://open.spotify.com/album/4nul0YLXFkkHO4O2PnFnot"
-      },
-      "artists": [
-        {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/7sTW2t8GBkzgA90BXnB79K"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1513,24 +1533,20 @@
       "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
     },
     {
-      "added_at": "2023-08-04 04:01:00",
+      "added_at": "2023-08-07 23:26:32",
       "album": {
-        "name": "Unstoppable (feat. Cory Marks)",
-        "url": "https://open.spotify.com/album/6cAguc6Xmqh9KmaLiTiFRp"
+        "name": "Surrogates",
+        "url": "https://open.spotify.com/album/6g3FEJFGxNUOCJpaeaLMfS"
       },
       "artists": [
         {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        },
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
         }
       ],
-      "duration_ms": 186462,
-      "name": "Unstoppable (feat. Cory Marks)",
-      "url": "https://open.spotify.com/track/3MWCJZybLRQ0skDYnSP1Ze"
+      "duration_ms": 180537,
+      "name": "Surrogates",
+      "url": "https://open.spotify.com/track/35SrlqVrYmRxAB4g54ow9z"
     },
     {
       "added_at": "2023-08-04 04:01:00",

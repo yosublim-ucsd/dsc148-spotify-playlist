@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria.",
-  "num_followers": 276048,
+  "num_followers": 276091,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmVlZjJkOGRiYWNjN2RkMTE1ZDEzNjAxZjRjZjQ5M2U1OGQwYTEx",
+  "snapshot_id": "MCw5OWVkMjY0YmIwZjFkY2ExYzBiNTY5YmE0YTZlODYxZjBkYjU2MmE3",
   "tracks": [
     {
       "added_at": "2023-07-28 16:29:31",
@@ -239,30 +239,6 @@
     {
       "added_at": "2023-07-28 16:29:31",
       "album": {
-        "name": "What Would You Do?",
-        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 174215,
-      "name": "What Would You Do?",
-      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
-    },
-    {
-      "added_at": "2023-07-28 16:29:31",
-      "album": {
         "name": "Breaking Me (HUGEL Remix)",
         "url": "https://open.spotify.com/album/7Kpv8JPOf6l8udsPJtKVe0"
       },
@@ -287,18 +263,26 @@
     {
       "added_at": "2023-07-28 16:29:31",
       "album": {
-        "name": "Techno Prank",
-        "url": "https://open.spotify.com/album/7GXvOmUgon63BfUk3AB5fS"
+        "name": "What Would You Do?",
+        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
       },
       "artists": [
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 203406,
-      "name": "Techno Prank",
-      "url": "https://open.spotify.com/track/2JqbTRtUZmkTIHxPyBkurQ"
+      "duration_ms": 174215,
+      "name": "What Would You Do?",
+      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
     },
     {
       "added_at": "2023-07-28 16:29:31",
@@ -323,6 +307,22 @@
       "duration_ms": 173742,
       "name": "It Don\u2019t Matter - Spotify Singles",
       "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
+    },
+    {
+      "added_at": "2023-07-28 16:29:31",
+      "album": {
+        "name": "Techno Prank",
+        "url": "https://open.spotify.com/album/7GXvOmUgon63BfUk3AB5fS"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 203406,
+      "name": "Techno Prank",
+      "url": "https://open.spotify.com/track/2JqbTRtUZmkTIHxPyBkurQ"
     },
     {
       "added_at": "2023-07-28 16:29:31",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-07-28 16:29:31",
       "album": {
+        "name": "Pararam",
+        "url": "https://open.spotify.com/album/2p7ZeftDxrUCvw2IY4NITH"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Pararam",
+      "url": "https://open.spotify.com/track/0eCiCbHblFYUFzWD7TU8fl"
+    },
+    {
+      "added_at": "2023-07-28 16:29:31",
+      "album": {
         "name": "You Were Loved (with OneRepublic)",
         "url": "https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 140160,
       "name": "Move Your Body - Ti\u00ebsto Edit",
       "url": "https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK"
-    },
-    {
-      "added_at": "2023-07-28 16:29:31",
-      "album": {
-        "name": "Pararam",
-        "url": "https://open.spotify.com/album/2p7ZeftDxrUCvw2IY4NITH"
-      },
-      "artists": [
-        {
-          "name": "Chemical Surf",
-          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Pararam",
-      "url": "https://open.spotify.com/track/0eCiCbHblFYUFzWD7TU8fl"
     },
     {
       "added_at": "2023-07-28 16:29:31",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-07-28 16:29:31",
       "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
-    },
-    {
-      "added_at": "2023-07-28 16:29:31",
-      "album": {
         "name": "Alive (It Feels Like)",
         "url": "https://open.spotify.com/album/4pXpgHjsecO9r9f22UB1Rk"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 142500,
       "name": "Alive (It Feels Like)",
       "url": "https://open.spotify.com/track/4fB85IhVASxXMWgoke5WVJ"
+    },
+    {
+      "added_at": "2023-07-28 16:29:31",
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
     },
     {
       "added_at": "2023-07-28 16:29:31",
@@ -955,6 +955,26 @@
     {
       "added_at": "2023-07-28 16:29:31",
       "album": {
+        "name": "Lambada",
+        "url": "https://open.spotify.com/album/2rIngPYeX9tmQYUEGXXOxV"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        },
+        {
+          "name": "Guzz",
+          "url": "https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8"
+        }
+      ],
+      "duration_ms": 211707,
+      "name": "Lambada",
+      "url": "https://open.spotify.com/track/0YmaxzdUQGUJLmQ6disVJp"
+    },
+    {
+      "added_at": "2023-07-28 16:29:31",
+      "album": {
         "name": "Rhythm of the Night",
         "url": "https://open.spotify.com/album/6BgupXtbUerk3l7hLOjxf1"
       },
@@ -979,22 +999,22 @@
     {
       "added_at": "2023-07-28 16:29:31",
       "album": {
-        "name": "Lambada",
-        "url": "https://open.spotify.com/album/2rIngPYeX9tmQYUEGXXOxV"
+        "name": "Party Never Ends",
+        "url": "https://open.spotify.com/album/34safHRUbL0hGUi5JB86tM"
       },
       "artists": [
         {
-          "name": "Victor Lou",
-          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Guzz",
-          "url": "https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8"
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
         }
       ],
-      "duration_ms": 211707,
-      "name": "Lambada",
-      "url": "https://open.spotify.com/track/0YmaxzdUQGUJLmQ6disVJp"
+      "duration_ms": 148750,
+      "name": "Party Never Ends",
+      "url": "https://open.spotify.com/track/35F2tdWosmulYdcmsXpQ7x"
     },
     {
       "added_at": "2023-07-28 16:29:31",
@@ -1059,26 +1079,6 @@
       "duration_ms": 212160,
       "name": "Alive Again",
       "url": "https://open.spotify.com/track/2P7Vn6uJ9hRKTJVYMmjppN"
-    },
-    {
-      "added_at": "2023-07-28 16:29:31",
-      "album": {
-        "name": "Party Never Ends",
-        "url": "https://open.spotify.com/album/34safHRUbL0hGUi5JB86tM"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 148750,
-      "name": "Party Never Ends",
-      "url": "https://open.spotify.com/track/35F2tdWosmulYdcmsXpQ7x"
     },
     {
       "added_at": "2023-07-28 16:29:31",

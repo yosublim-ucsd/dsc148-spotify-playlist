@@ -1323,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "Todo Comenz\u00f3 Bailando",
+        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144992,
+      "name": "Loquita",
+      "url": "https://open.spotify.com/track/2xjcDF21U2ccgE2LEeiMbf"
+    },
+    {
+      "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 175200,
       "name": "Ni Gucci Ni Prada",
       "url": "https://open.spotify.com/track/32lexhcz93AinKK0qLTZaZ"

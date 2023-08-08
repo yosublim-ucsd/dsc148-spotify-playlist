@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: xikers(\uc2f8\uc774\ucee4\uc2a4))",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: THE BOYZ(\ub354 \ubcf4\uc774\uc988))",
   "name": "New Music K-Pop",
   "tracks": [
     {
@@ -12582,6 +12582,24 @@
       "duration_ms": 189426,
       "name": "Blue Voyage",
       "url": "https://open.spotify.com/track/6s1vHqyxFQKPqAhMwHVZyT"
+    },
+    {
+      "album": {
+        "name": "BLUETOKYO",
+        "url": "https://open.spotify.com/album/32LSG7H17quFT7qP7Jkynz"
+      },
+      "artists": [
+        {
+          "name": "87dance",
+          "url": "https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314150,
+      "name": "BLUETOKYO",
+      "url": "https://open.spotify.com/track/3lAweVPi73poPFoNwcXvnO"
     },
     {
       "album": {
@@ -31191,6 +31209,24 @@
     },
     {
       "album": {
+        "name": "GAME PLAN",
+        "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160578,
+      "name": "Fast Forward",
+      "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
+    },
+    {
+      "album": {
         "name": "FATHER",
         "url": "https://open.spotify.com/album/69engxn6soEzhcNjNuDpCU"
       },
@@ -47657,6 +47693,28 @@
     },
     {
       "album": {
+        "name": "I'm falling in love",
+        "url": "https://open.spotify.com/album/2kNf5DQBPrWDp816GBobLo"
+      },
+      "artists": [
+        {
+          "name": "NC.A",
+          "url": "https://open.spotify.com/artist/1uzIyOg5F7ULZ3kWvRfivh"
+        },
+        {
+          "name": "unofficialboyy",
+          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237800,
+      "name": "I'm falling in love",
+      "url": "https://open.spotify.com/track/27bYnOCE4MI3J12qCkZbM5"
+    },
+    {
+      "album": {
         "name": "Playing Dead",
         "url": "https://open.spotify.com/album/4d2mhZN25j5zY3ErTpfOBZ"
       },
@@ -51538,28 +51596,6 @@
       "duration_ms": 214743,
       "name": "I\u2032ll turn around",
       "url": "https://open.spotify.com/track/2oKVRAfRIgN4thN1i0lLcc"
-    },
-    {
-      "album": {
-        "name": "I\u2032m fall in love",
-        "url": "https://open.spotify.com/album/2kNf5DQBPrWDp816GBobLo"
-      },
-      "artists": [
-        {
-          "name": "NC.A",
-          "url": "https://open.spotify.com/artist/1uzIyOg5F7ULZ3kWvRfivh"
-        },
-        {
-          "name": "unofficialboyy",
-          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
-        }
-      ],
-      "date_added": "2023-07-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 237800,
-      "name": "I\u2032m fall in love",
-      "url": "https://open.spotify.com/track/27bYnOCE4MI3J12qCkZbM5"
     },
     {
       "album": {
@@ -56672,6 +56708,24 @@
       "duration_ms": 219093,
       "name": "Link",
       "url": "https://open.spotify.com/track/6O3EdGPasHMi44JWmyi0nW"
+    },
+    {
+      "album": {
+        "name": "THE BOYZ 2ND ALBUM [PHANTASY] Pt.1 Christmas In August",
+        "url": "https://open.spotify.com/album/6j0bF8s6Kptbr4y8tuIhOY"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212520,
+      "name": "LIP GLOSS",
+      "url": "https://open.spotify.com/track/5yREbqEnoqMRuIOQ60t6as"
     },
     {
       "album": {
@@ -104144,6 +104198,24 @@
       "duration_ms": 184840,
       "name": "VrVr (feat.khakii)",
       "url": "https://open.spotify.com/track/3pzlZiR9p7rBYwRFosrLBx"
+    },
+    {
+      "album": {
+        "name": "Reality Show - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/1sNNtYLrWGMmPIGElMW42b"
+      },
+      "artists": [
+        {
+          "name": "U-KNOW",
+          "url": "https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186425,
+      "name": "Vuja De",
+      "url": "https://open.spotify.com/track/42UNd3AFYei50ztCyAKhWl"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: P\u00c6RISH",
-  "num_followers": 474485,
+  "num_followers": 474528,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjZjN2E5MWFhMjJhYzUyNjk5Nzk0NTJmNTIxMDcxYTMyODZkY2Ey",
+  "snapshot_id": "MCwyODBmZWJmMTQ0YTAxMWIyMjUxMzQ3Zjg3OTIxM2E5YTk3NWQ0MGY5",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -647,6 +647,26 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "I LOVE YOU, ROBOT SUPERSTAR!",
+        "url": "https://open.spotify.com/album/6H1bdNIAmVXS5s4FZfDEJf"
+      },
+      "artists": [
+        {
+          "name": "Friday Pilots Club",
+          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
+        },
+        {
+          "name": "OSTON",
+          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Poison or Patience (feat. OSTON)",
+      "url": "https://open.spotify.com/track/6MYZ8x04XIEdFNg3rKAD5v"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Night Gnomes",
         "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 105000,
       "name": "Preacher",
       "url": "https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "I LOVE YOU, ROBOT SUPERSTAR!",
-        "url": "https://open.spotify.com/album/6H1bdNIAmVXS5s4FZfDEJf"
-      },
-      "artists": [
-        {
-          "name": "Friday Pilots Club",
-          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
-        },
-        {
-          "name": "OSTON",
-          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Poison or Patience (feat. OSTON)",
-      "url": "https://open.spotify.com/track/6MYZ8x04XIEdFNg3rKAD5v"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/65ykYwxWolf3lI0Gua8VRD"
-      },
-      "artists": [
-        {
-          "name": "Mouth Culture",
-          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
-        }
-      ],
-      "duration_ms": 197777,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/5klhOR0OgxOLXlwP3JY7xi"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/2xe0gTFgZok8BDgUlkpRQ6"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 220324,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/65ykYwxWolf3lI0Gua8VRD"
+      },
+      "artists": [
+        {
+          "name": "Mouth Culture",
+          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
+        }
+      ],
+      "duration_ms": 197777,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/5klhOR0OgxOLXlwP3JY7xi"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "How Far Can You Push A Man?",
-        "url": "https://open.spotify.com/album/1CiNOzyjptv27RvizVglFg"
-      },
-      "artists": [
-        {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
-        }
-      ],
-      "duration_ms": 243947,
-      "name": "How Far Can You Push A Man?",
-      "url": "https://open.spotify.com/track/7znL77EO0Ezhze36hnK8uN"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 196800,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "How Far Can You Push A Man?",
+        "url": "https://open.spotify.com/album/1CiNOzyjptv27RvizVglFg"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "duration_ms": 243947,
+      "name": "How Far Can You Push A Man?",
+      "url": "https://open.spotify.com/track/7znL77EO0Ezhze36hnK8uN"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "One + One",
-        "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
-      },
-      "artists": [
-        {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
-        }
-      ],
-      "duration_ms": 226296,
-      "name": "One + One",
-      "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Nightmare Daydream",
         "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 127093,
       "name": "Choking",
       "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "One + One",
+        "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 226296,
+      "name": "One + One",
+      "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "California King",
-        "url": "https://open.spotify.com/album/6z7dribXEkoMdaZb8nds54"
-      },
-      "artists": [
-        {
-          "name": "Sincere Engineer",
-          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "Fireplace",
-      "url": "https://open.spotify.com/track/7eEBCtr3cEEQiWn0pXOj18"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "OMG I MADE IT",
         "url": "https://open.spotify.com/album/64gy701OWZ7JiZiuzDVvmp"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 170080,
       "name": "I WANNA DIE BUT I CAN\u2019T (CUZ I GOTTA KEEP LIVING)",
       "url": "https://open.spotify.com/track/0OnbiHsuKbbczmvr6p9dHv"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "California King",
+        "url": "https://open.spotify.com/album/6z7dribXEkoMdaZb8nds54"
+      },
+      "artists": [
+        {
+          "name": "Sincere Engineer",
+          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+        }
+      ],
+      "duration_ms": 192013,
+      "name": "Fireplace",
+      "url": "https://open.spotify.com/track/7eEBCtr3cEEQiWn0pXOj18"
     },
     {
       "added_at": "2023-06-30 04:01:00",

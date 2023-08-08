@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-231 songs - 14 hr 7 min
+232 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Mais Uma de Carnaval](https://open.spotify.com/track/2xWRAo3t3gFZr05I9yC8WM) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx) | [O Funk Mais Triste da Cidade](https://open.spotify.com/album/1xqqsPHIOiruUb2eDsQdYs) | 2:50 | 2022-08-19 | 2022-12-14 |
 | [Mais uma de Carnaval](https://open.spotify.com/track/6k8PAIzeAC6wcyaptR2j1B) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx) | [Mais uma de Carnaval](https://open.spotify.com/album/7m6keRuXSLhirRhf4PHQq3) | 2:50 | 2022-02-04 | 2022-07-27 |
 | [Mantra \(Feat\. Emicida\)](https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Casas](https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX) | 4:54 | 2022-02-04 | 2023-08-04 |
+| [Mantra \(feat\. Emicida\)](https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Casas](https://open.spotify.com/album/37svAARdwTp6vApCWBwoec) | 4:54 | 2023-07-07 |  |
 | [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 | 2022-10-26 |  |
 | [Masculino e Feminino](https://open.spotify.com/track/6VBHnaEuCH37LFsFjtdrTl) | [Baby Do Brasil](https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls), [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Masculino e Feminino](https://open.spotify.com/album/1Q39jXJ5DrFtBbim0HqxOb) | 4:21 | 2022-04-08 | 2022-07-25 |
 | [Me Deixa Ser Mulher](https://open.spotify.com/track/5z5oYrfZK1o8Kr92UtZkvZ) | [Lucy Alves](https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [Me Deixa Ser Mulher](https://open.spotify.com/album/4JAqjvMMOk3Cn4yQaXbVGb) | 2:22 | 2022-02-04 | 2022-07-27 |
@@ -165,7 +166,7 @@
 | [O Tambor](https://open.spotify.com/track/7ARjyeK4lXOwKzQu7c2Xvz) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Existe Amor](https://open.spotify.com/album/0SeIP7LbyFTNlmdFKH8zHi) | 3:25 | 2022-03-14 | 2022-09-17 |
 | [Ocitocina \(Charged\)](https://open.spotify.com/track/5nvPxu5QkaWGDivXEz0tA8) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Apká!](https://open.spotify.com/album/2SWt1KSJ7rJ2XkWHlrZL1s) | 5:07 | 2022-03-22 | 2022-04-21 |
 | [Old Boy \- Deluxe](https://open.spotify.com/track/2lMOAEnNI5MBcujViIHjuM) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Dancê \(Deluxe\)](https://open.spotify.com/album/23E2TrYE7Z8hDId9ANyWrk) | 4:56 | 2022-03-22 | 2022-04-21 |
-| [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 | 2022-03-22 |  |
+| [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 | 2022-03-22 | 2023-08-08 |
 | [Onde Estará](https://open.spotify.com/track/0R6eisAFzeF5pe4k7pkLgg) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Nonsense, Vol\. 1](https://open.spotify.com/album/1V04SFSq2Fr9m6lnSDZujG) | 3:37 | 2023-01-13 |  |
 | [Onde Estará](https://open.spotify.com/track/0hbNJXcaPK4cQD78fh8uSR) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Nonsense, Vol\. 1](https://open.spotify.com/album/0psPVRixSPuaBChZnZ9Eot) | 3:37 | 2022-02-04 | 2023-01-19 |
 | [Pangea](https://open.spotify.com/track/1ZSml83SQNnsK6kAtoMnQg) | [Arosa](https://open.spotify.com/artist/08KoaBKxVAtpKRB58YWuYx) | [Pangea](https://open.spotify.com/album/5SEct449bwIwrPtagzfhZE) | 4:06 | 2022-03-22 | 2022-04-20 |

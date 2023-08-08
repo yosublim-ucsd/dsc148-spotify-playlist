@@ -1,13 +1,45 @@
 {
   "description": "The new sounds of Appalachia, red dirt and everything in between.",
-  "num_followers": 95817,
+  "num_followers": 96348,
   "original_name": "homegrown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzUwYjhkN2IxNDZhYmQyYTA4MjEyNThmMGY1ZDlmZDcwYTc1NTE5",
+  "snapshot_id": "MCw2MTQ3NTkzMWU5MDkwOTA0MDZiMmI0Yzk1ZjFjMmQ2NTRkNzM3YWMy",
   "tracks": [
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Straight and Narrow",
+        "url": "https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 199874,
+      "name": "Straight and Narrow",
+      "url": "https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Coal",
+        "url": "https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "duration_ms": 194604,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw"
+    },
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
@@ -75,22 +107,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Straight and Narrow",
-        "url": "https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 199874,
-      "name": "Straight and Narrow",
-      "url": "https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 188931,
       "name": "Sleep on My Side",
       "url": "https://open.spotify.com/track/0qOdElKqdDKN58aKCo3yHS"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Coal",
-        "url": "https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT"
-      },
-      "artists": [
-        {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
-        }
-      ],
-      "duration_ms": 194604,
-      "name": "Coal",
-      "url": "https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw"
     },
     {
       "added_at": "2023-08-04 04:00:00",

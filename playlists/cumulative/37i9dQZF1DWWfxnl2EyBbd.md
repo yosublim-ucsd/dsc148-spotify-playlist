@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-500 songs - 1 day 14 hr 43 min
+501 songs - 1 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-11-12 |  |
 | [First Song](https://open.spotify.com/track/2eBTHh2ERzYjOn3PPk8tU1) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [Quietly](https://open.spotify.com/album/4aNDswPAhlIuuz6jzhKieO) | 6:53 | 2023-06-22 | 2023-08-07 |
 | [First Song](https://open.spotify.com/track/3PsEztkJz9a5NsIgqzl3wd) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [First Song](https://open.spotify.com/album/1gdQmvCLSFSHvwA5NcjYgj) | 6:53 | 2023-03-10 | 2023-04-16 |
+| [First Star](https://open.spotify.com/track/29lmvGBTyz9v2FFJpKHP0I) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg) | [First Star](https://open.spotify.com/album/2kLWiGv7G7zsRillIELLMx) | 5:21 | 2023-08-03 |  |
 | [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 | 2022-11-17 |  |
 | [Fleeting Paradise](https://open.spotify.com/track/2ZmHciaD6uCP3AAqZtzgvF) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Fleeting Paradise](https://open.spotify.com/album/4KnT3EREBlineOIem4782z) | 3:13 | 2023-02-02 |  |
 | [Flight \(Slow\)](https://open.spotify.com/track/6Nw6PMW4vKujeHj3Q2wZck) | [Roberta Piket](https://open.spotify.com/artist/7bpPpC3Sr6XbvmWvJXusEO), [Harvie S](https://open.spotify.com/artist/4VUN8x6ggBQmQOiO9Ui1fe), [Billy Mintz](https://open.spotify.com/artist/0x93sQfixNNuX3utx7cU25) | [You've Been Warned](https://open.spotify.com/album/44uZLWz6KGCIYN9kHNgIuO) | 2:41 | 2022-08-17 | 2023-07-25 |
@@ -200,7 +201,7 @@
 | [In This Moment](https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [In This Moment](https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G) | 3:43 | 2023-03-10 |  |
 | [In Unforgettable Ways](https://open.spotify.com/track/5tt5XCZlIpHyrdMNNRm721) | [Dinner Club Band](https://open.spotify.com/artist/3FLF2qI9V3gVxBcvc3D2To) | [Beneath the Tide](https://open.spotify.com/album/5ew8lwhVmVfgLed2nv3Ay6) | 2:51 | 2022-11-12 |  |
 | [In Your Eyes](https://open.spotify.com/track/1TOQxN2yuIHaHymJhgGYjp) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [In Your Eyes](https://open.spotify.com/album/1uUWWGP0P8Dg6sBeoRVvKU) | 2:15 | 2023-03-23 |  |
-| [Insomnia](https://open.spotify.com/track/23XpgXxMe1tkyOKeSzPmYu) | [Matthew Fries](https://open.spotify.com/artist/0aUW5XnNwhMnYzJOUyiQTV) | [Lost Time](https://open.spotify.com/album/0iB4SR1jdgeSPi4yhS4VFj) | 7:46 | 2022-09-29 |  |
+| [Insomnia](https://open.spotify.com/track/23XpgXxMe1tkyOKeSzPmYu) | [Matthew Fries](https://open.spotify.com/artist/0aUW5XnNwhMnYzJOUyiQTV) | [Lost Time](https://open.spotify.com/album/0iB4SR1jdgeSPi4yhS4VFj) | 7:46 | 2022-09-29 | 2023-08-08 |
 | [Intangible](https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP) | [Coal Diamond Trio](https://open.spotify.com/artist/6jUiShUd9yRdlmPJlJgTad) | [Intangible](https://open.spotify.com/album/3YGiHeOdYUDi05wsYcEk6r) | 5:02 | 2022-11-12 |  |
 | [Intuitively](https://open.spotify.com/track/63rq9S2BlsNpznrOq90fP8) | [Rasmus Sørensen](https://open.spotify.com/artist/3tq6e3K4ZlYzKkF0E1wmsi), [Francesco Ciniglio](https://open.spotify.com/artist/75zzu0VU3laESlh6KrqvNj), [Jon Henriksson](https://open.spotify.com/artist/057zTnHpyusxYkVSgmOFz4) | [Traits](https://open.spotify.com/album/2ovqm4oKCDIzo3gQTaG91B) | 3:49 | 2022-06-16 |  |
 | [Is There a Way](https://open.spotify.com/track/0eMrQZjyeM7Qzd4FWbT57u) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Is There a Way](https://open.spotify.com/album/7CsmfGN1vyHEIDF0EG3ToS) | 4:05 | 2022-02-10 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Lukas Will
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,120 likes - 54 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,129 likes - 54 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 53 | [Derap](https://open.spotify.com/track/1EIZLlYJpuvX1vI8bwPPau) | [Bestfriend](https://open.spotify.com/artist/72x0eR7VZjOjYOcTJPg5zN) | [The Story of Queens](https://open.spotify.com/album/7qh3DJaDFz85SbgP5MNAYa) | 3:44 |
 | 54 | [Bastard City](https://open.spotify.com/track/0qn4ocba0D1qKcxRxXTZHW) | [Boyyauri](https://open.spotify.com/artist/0nJF9GSL7abwvRBSdECvxn) | [Bastard City](https://open.spotify.com/album/6YqKykDrmoduGLqetjozaH) | 3:19 |
 
-Snapshot ID: `MCw4M2YxZDA5NzJjZDVkYjMzMjVmZWFiZGVkMzVmNDhmNmRlMTZhZDU2`
+Snapshot ID: `MCxlNTlhODRhOTJkYjUwZDY5NzliM2NiNDg3M2EzYWFlNWUwOGYwMjYz`

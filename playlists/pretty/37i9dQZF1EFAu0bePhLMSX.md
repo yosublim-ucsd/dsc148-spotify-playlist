@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510 likes - 147 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 511 likes - 147 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 45 | [TRAP PHONE](https://open.spotify.com/track/2rMh1EYfKrb3gc4hp0m0BW) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 4:09 |
 | 46 | [The Way Love Goes](https://open.spotify.com/track/2A5atyBnmtDPfRBDjOMtOp) | [Lemar](https://open.spotify.com/artist/7uztWv5UVx4hwcJXCtRyDV) | [The Hits](https://open.spotify.com/album/0sAb0OzmqQ7PowGSgO6JKP) | 3:31 |
 | 47 | [Around the World](https://open.spotify.com/track/0Ek1Jt3GiTnyDwiQu0eqQq) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 4:33 |
-| 48 | [Billie Holiday](https://open.spotify.com/track/2AlAmmMbgPadVZt0fH5aVW) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One \(Deluxe Version\)](https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8) | 3:14 |
-| 49 | [Don't Wanna Let You Go](https://open.spotify.com/track/4r1WgNj8sGOSeG8qROc6NG) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:24 |
+| 48 | [Don't Wanna Let You Go](https://open.spotify.com/track/4r1WgNj8sGOSeG8qROc6NG) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:24 |
+| 49 | [Billie Holiday](https://open.spotify.com/track/2AlAmmMbgPadVZt0fH5aVW) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One \(Deluxe Version\)](https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8) | 3:14 |
 | 50 | [Ave Maria](https://open.spotify.com/track/5LCMAJymyKheiV27LRACD8) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 4:00 |
 | 51 | [Don't Let Me Go](https://open.spotify.com/track/7Gmfbj4VEinMWqLCKdbxeD) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 3:28 |
 | 52 | [Love Affair](https://open.spotify.com/track/0iReGfmVn96YVgK4zG3eZX) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:49 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 146 | [Cry](https://open.spotify.com/track/5lrF6CM7EclW9KFIkGVycm) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:22 |
 | 147 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 
-Snapshot ID: `MjgxODgwODAsMDAwMDAwMDA5NGQ0MzkzMzcyYjA3YWEzMDdlYWZlY2FjMGIyMzI3YQ==`
+Snapshot ID: `MjgxOTEwMjAsMDAwMDAwMDBiYjZiZDI2YTVmYjE1ZDMwYTVkMDlhYzliOGMzOGE0MQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,206 likes - 76 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,229 likes - 76 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 | 75 | [Cintaku](https://open.spotify.com/track/4hykertmVe1gPtNB2atBNJ) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Everlasting Hits](https://open.spotify.com/album/4X9jiWC7TjqziUu92g4KgU) | 4:42 |
 | 76 | [All Good](https://open.spotify.com/track/3s8ik4CUIZXXGDBgD0EAZ5) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [All Good](https://open.spotify.com/album/5b5nv0yq43oHzu1HcuY3ZI) | 3:13 |
 
-Snapshot ID: `MCw3NjM2MTUyZTQwZjc0ZTU3YmU4YWI3NTM3YjVmNzZhZGQwOGVmMzJm`
+Snapshot ID: `MCw0MzRjMDJiYjdjNDAwOGRhZGU5MTEwNTA5MDQyZDEyODQyYTM4NGE2`

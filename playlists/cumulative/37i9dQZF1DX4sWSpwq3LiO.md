@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,607 songs - 2 day 23 hr 29 min
+1,609 songs - 2 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1285,7 +1285,7 @@
 | [Steady The Ship](https://open.spotify.com/track/4tZrXQIEgv3dydaHjKL6Le) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [Steady The Ship](https://open.spotify.com/album/2fqZv1JTdNdpJj399PdLuH) | 2:36 | 2020-09-08 | 2021-05-22 |
 | [Steady, Unchanging](https://open.spotify.com/track/75MYEyOHa4z18rfhYdRCrM) | [Abbie Lou Johnston](https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo) | [Birdman](https://open.spotify.com/album/545Py5RMl9HVcHEIvGXnzF) | 3:13 | 2019-10-30 | 2020-03-17 |
 | [Sternennacht](https://open.spotify.com/track/3rFTaMYqYLue1TrmauOGye) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Wolken Traum](https://open.spotify.com/album/7kxUeMvHOTyuC39A3Mq2Z6) | 2:32 | 2022-12-20 |  |
-| [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 | 2021-12-21 |  |
+| [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 | 2021-12-21 | 2023-08-08 |
 | [Still](https://open.spotify.com/track/6B0ZlLf0p2s1Lwt3ivAXKy) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Still](https://open.spotify.com/album/0QxD0lOJH9NBtJuSb2can4) | 2:22 | 2019-08-30 | 2020-04-21 |
 | [Stille Sjø](https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Stille Sjø](https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI) | 2:31 | 2023-07-18 |  |
 | [Stirling](https://open.spotify.com/track/1lBZFfbME5sIHKtgNuXq2I) | [Tuga Topić](https://open.spotify.com/artist/30nHhrHqaesxWRiNzW4g6O) | [Stirling](https://open.spotify.com/album/6JHOTIWdn1UyUZYys8HEpO) | 1:59 | 2020-08-04 | 2021-08-12 |
@@ -1391,6 +1391,7 @@
 | [The Persistence of Memory](https://open.spotify.com/track/3QSKmjKCMCc8halbvPmwkl) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [The Persistence of Memory](https://open.spotify.com/album/6Bk0HhWSAZfMAioQEc1dl0) | 2:30 | 2021-10-13 | 2022-06-04 |
 | [The Piano Inside](https://open.spotify.com/track/0BtymruMtXTo6vdk4LH4aB) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [The Piano Inside](https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO) | 3:11 | 2019-07-17 | 2020-08-04 |
 | [The Pond](https://open.spotify.com/track/2fJLNEDPFM38gcXeY58WNa) | [Mads Hellmuth](https://open.spotify.com/artist/4Msoax7rmMKTsCwJKtGUda) | [Glass](https://open.spotify.com/album/15EG8tQC79eJTpMLkZaZGz) | 3:14 | 2020-06-02 | 2020-08-25 |
+| [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2023-08-07 |  |
 | [The Road to Mandalay](https://open.spotify.com/track/0119caMtQHReUG2YpMbhyr) | [Guy Chambers](https://open.spotify.com/artist/1hxkikLyXDIwfMF6dt50Gr) | [The Road to Mandalay](https://open.spotify.com/album/5nWiW92m7vn3zDvPhy0FvM) | 3:35 | 2019-05-26\* | 2019-09-12 |
 | [The Room Upstairs](https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [The Room Upstairs](https://open.spotify.com/album/2nroqN7kkTUrFfw8K55wP1) | 2:20 | 2021-02-17 | 2022-05-13 |
 | [The Sailor's Tale](https://open.spotify.com/track/4CJk8MsMYM1y9ve1jpG9Pz) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Storybook](https://open.spotify.com/album/4DnP1mve2HFOL0XoWYdwvZ) | 2:12 | 2021-06-18 | 2022-08-27 |
@@ -1404,7 +1405,8 @@
 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 | 2022-01-04 | 2022-07-16 |
 | [The Waning Moon](https://open.spotify.com/track/6nDh7NiyfvoGL2F4CuZVAG) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [The Waning Moon](https://open.spotify.com/album/0zRdPsXxUVqv4q9nwaOVDB) | 2:56 | 2019-08-31 | 2020-03-04 |
 | [The Watchtower](https://open.spotify.com/track/504NLPDUBRylbZUUQR97XX) | [Sigimund](https://open.spotify.com/artist/10Sk8d2pdmvQ7JMZcPQDOU) | [The Watchtower](https://open.spotify.com/album/0Pal5VkkxKbiGZZJHsgTHp) | 3:25 | 2019-05-26\* | 2019-08-13 |
-| [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-01-12 |  |
+| [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-01-12 | 2023-08-08 |
+| [The Way Home](https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Way Home](https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB) | 2:27 | 2023-08-07 |  |
 | [The Way There](https://open.spotify.com/track/2X0ophIMSyCw9SSISrIEpQ) | [Hreidar](https://open.spotify.com/artist/0tVS8c23TG8rD0vyBSXuWe) | [The Way There](https://open.spotify.com/album/5EZyffRRVIrdJ1tPP06Dac) | 3:24 | 2019-07-11 | 2019-12-17 |
 | [The Winding Paths](https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK) | [Regina Mira](https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C) | [October](https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91) | 1:59 | 2019-07-11 | 2022-01-27 |
 | [Theben](https://open.spotify.com/track/47ANidpOmgAqEP35AKwPVU) | [Oskar Schuster](https://open.spotify.com/artist/06n2rDm62tW55l6cZEL15r) | [Theben](https://open.spotify.com/album/0bHHEQmaxiIDLfMRdR9WEz) | 2:40 | 2020-03-07 | 2020-09-30 |

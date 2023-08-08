@@ -4,12 +4,13 @@
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-114 songs - 7 hr 51 min
+115 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1, 2, 3, 4](https://open.spotify.com/track/1MMuD3VaVq7qqfvRgSrbRs) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [1,2,3,4](https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz) | 3:34 | 2021-03-11 |  |
 | [A'ddio](https://open.spotify.com/track/07VvEa9SMOPV5eiyGf5Tx2) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [Yangpa Best](https://open.spotify.com/album/3ABGP2JrFsCzvkfuvSpDDu) | 4:03 | 2021-03-11 | 2022-07-25 |
+| [Across the universe](https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN) | 4:07 | 2021-03-11 |  |
 | [Addio](https://open.spotify.com/track/1My0WdX6NNKCjN1BuP44o8) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [Addio](https://open.spotify.com/album/1edy6Z8uDoMpdyElVk7bLx) | 4:05 | 2021-03-11 | 2022-08-02 |
 | [All I Wanna Do \(feat\. Hoody & 로꼬 Loco\) \[Korean Version\]](https://open.spotify.com/track/2c37Gkpu75l3kvh1FUZrHV) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:36 | 2021-03-11 | 2022-07-29 |
 | [All I Wanna Do \(K\) \(Feat\. Hoody & Loco\)](https://open.spotify.com/track/2FWquqPNxte8iqZ3ATQG0p) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:36 | 2021-03-11 |  |
@@ -103,7 +104,7 @@
 | [링가링가 \(RINGA LINGA\)](https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:47 | 2021-03-11 |  |
 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 | 2021-03-11 |  |
 | [불치병](https://open.spotify.com/track/6h13tMy23cM8rzmsaNgTI4) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 3:42 | 2021-03-11 | 2022-07-28 |
-| [불치병 \(Feat.Masta Wu\)](https://open.spotify.com/track/6HTz1xXLag7pyVlzsXrItU) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn), [MASTA WU](https://open.spotify.com/artist/7ndYLcobuKuq9ZcoIAVvU6) | [For the moment](https://open.spotify.com/album/5zSnSuP8gPOeZdrEchEv7q) | 3:42 | 2021-03-11 |  |
+| [불치병 \(Feat.Masta Wu\)](https://open.spotify.com/track/6HTz1xXLag7pyVlzsXrItU) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn), [MASTA WU](https://open.spotify.com/artist/7ndYLcobuKuq9ZcoIAVvU6) | [For the moment](https://open.spotify.com/album/5zSnSuP8gPOeZdrEchEv7q) | 3:42 | 2021-03-11 | 2023-08-08 |
 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 | 2021-03-11 |  |
 | [새벽한시 \(1AM\)](https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:11 | 2021-03-11 |  |
 | [안되나요](https://open.spotify.com/track/52JY05Ks2OsY3NQ3wjI9s1) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [Like A Movie](https://open.spotify.com/album/5VJSRZsnE47eEGPKHyAA1Z) | 4:30 | 2021-03-11 | 2022-11-02 |

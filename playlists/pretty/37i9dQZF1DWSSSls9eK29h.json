@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 115440,
+  "num_followers": 115539,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzBiNTA1OTk4ZDYxNDFhMmQ2MmE0NTczMTBmMDJiNDZlYzI1OWU3",
+  "snapshot_id": "MCw3MzMyYmMzMzA5Mzg2YzgyZmQ0Zjk0MTdhZWJiZmNiNWFjZjYyNjcy",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -139,22 +139,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "The Antidote",
-        "url": "https://open.spotify.com/album/5OKMEQpUvwvkr89q9xumdx"
-      },
-      "artists": [
-        {
-          "name": "Ronny Jordan",
-          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
-        }
-      ],
-      "duration_ms": 351400,
-      "name": "After Hours (The Antidote)",
-      "url": "https://open.spotify.com/track/2zAXsQFmNRcDQOSzuPrWTs"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Just Between Us",
         "url": "https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 308906,
       "name": "Just Between Us",
       "url": "https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "The Antidote",
+        "url": "https://open.spotify.com/album/5OKMEQpUvwvkr89q9xumdx"
+      },
+      "artists": [
+        {
+          "name": "Ronny Jordan",
+          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
+        }
+      ],
+      "duration_ms": 351400,
+      "name": "After Hours (The Antidote)",
+      "url": "https://open.spotify.com/track/2zAXsQFmNRcDQOSzuPrWTs"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -347,6 +347,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Love Is The Answer (Expanded)",
+        "url": "https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Liston Smith",
+          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
+        }
+      ],
+      "duration_ms": 241373,
+      "name": "Bridge Through Time",
+      "url": "https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 260706,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Love Is The Answer (Expanded)",
-        "url": "https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Liston Smith",
-          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
-        }
-      ],
-      "duration_ms": 241373,
-      "name": "Bridge Through Time",
-      "url": "https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -491,6 +491,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "The Power Of Touch",
         "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 370040,
       "name": "So Far From Home",
       "url": "https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -951,22 +951,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Saxtress",
-        "url": "https://open.spotify.com/album/2Zf6Lb0XbvnqBaXBTFHVBj"
-      },
-      "artists": [
-        {
-          "name": "Pamela Williams",
-          "url": "https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM"
-        }
-      ],
-      "duration_ms": 302306,
-      "name": "Castine",
-      "url": "https://open.spotify.com/track/3fWldcBwLpvt3JSWU5EsAT"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "I Came To Play",
         "url": "https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 355533,
       "name": "Personal Touch",
       "url": "https://open.spotify.com/track/0NA50DOtbAqH4LDngxH3Xw"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Saxtress",
+        "url": "https://open.spotify.com/album/2Zf6Lb0XbvnqBaXBTFHVBj"
+      },
+      "artists": [
+        {
+          "name": "Pamela Williams",
+          "url": "https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM"
+        }
+      ],
+      "duration_ms": 302306,
+      "name": "Castine",
+      "url": "https://open.spotify.com/track/3fWldcBwLpvt3JSWU5EsAT"
     }
   ],
   "unique_name": "Smooth Jazz Classics",

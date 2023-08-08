@@ -5487,6 +5487,24 @@
     },
     {
       "album": {
+        "name": "\u05de\u05d4 \u05d0\u05ea\u05d4 \u05dc\u05d0 \u05de\u05d1\u05d9\u05df",
+        "url": "https://open.spotify.com/album/2f3ZnBRD8BbM9thsN8lxXq"
+      },
+      "artists": [
+        {
+          "name": "\u05d8\u05dc \u05d8\u05e8\u05d1\u05dc\u05e1\u05d9",
+          "url": "https://open.spotify.com/artist/6nCdVU7ShDh0vdfQzGfogB"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137621,
+      "name": "\u05de\u05d4 \u05d0\u05ea\u05d4 \u05dc\u05d0 \u05de\u05d1\u05d9\u05df",
+      "url": "https://open.spotify.com/track/2XTvuVkcbbIVhK0v0wzVPY"
+    },
+    {
+      "album": {
         "name": "\u05de\u05d4 \u05d9\u05d4\u05d9\u05d4 \u05d0\u05d9\u05ea\u05da",
         "url": "https://open.spotify.com/album/0rvFZpnMSm4tsMcUILBHwN"
       },

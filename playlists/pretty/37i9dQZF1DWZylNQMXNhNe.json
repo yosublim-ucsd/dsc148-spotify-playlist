@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Kika Boom, Kaya Conky",
-  "num_followers": 222312,
+  "num_followers": 222356,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGMwMDQ0N2RjNDhiODEzNWVlNTBlZTFmYjUyOWVlNTIzOTAyYzQ0",
+  "snapshot_id": "MCw5MGM3M2MyYzc3MjA0NTBkM2MxZDg5NDkyODcwZjRmNjEzYWJlM2Nl",
   "tracks": [
     {
       "added_at": "2023-08-04 16:31:13",
@@ -139,6 +139,30 @@
     {
       "added_at": "2023-08-04 16:31:13",
       "album": {
+        "name": "MODO TURBO",
+        "url": "https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 150259,
+      "name": "MODO TURBO",
+      "url": "https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag"
+    },
+    {
+      "added_at": "2023-08-04 16:31:13",
+      "album": {
         "name": "111 DELUXE",
         "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
       },
@@ -159,22 +183,6 @@
       "duration_ms": 146543,
       "name": "Bandida (feat. Mc Mayara)",
       "url": "https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9"
-    },
-    {
-      "added_at": "2023-08-04 16:31:13",
-      "album": {
-        "name": "Party Everyday",
-        "url": "https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L"
-      },
-      "artists": [
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 137681,
-      "name": "Party Everyday",
-      "url": "https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR"
     },
     {
       "added_at": "2023-08-04 16:31:13",
@@ -227,8 +235,24 @@
     {
       "added_at": "2023-08-04 16:31:13",
       "album": {
-        "name": "MODO TURBO",
-        "url": "https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt"
+        "name": "Party Everyday",
+        "url": "https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 137681,
+      "name": "Party Everyday",
+      "url": "https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR"
+    },
+    {
+      "added_at": "2023-08-04 16:31:13",
+      "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
       "artists": [
         {
@@ -236,17 +260,13 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 150259,
-      "name": "MODO TURBO",
-      "url": "https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag"
+      "duration_ms": 176400,
+      "name": "VIP *-*",
+      "url": "https://open.spotify.com/track/2upubCYkDvATo6ZZwHqrp9"
     },
     {
       "added_at": "2023-08-04 16:31:13",
@@ -323,26 +343,6 @@
     {
       "added_at": "2023-08-04 16:31:13",
       "album": {
-        "name": "Te Deixo Crazy",
-        "url": "https://open.spotify.com/album/6GhQsV31Iz1edjKeAD6fan"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        },
-        {
-          "name": "Danny Bond",
-          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
-        }
-      ],
-      "duration_ms": 164908,
-      "name": "Te Deixo Crazy",
-      "url": "https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb"
-    },
-    {
-      "added_at": "2023-08-04 16:31:13",
-      "album": {
         "name": "A QUEDA",
         "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
       },
@@ -375,6 +375,42 @@
     {
       "added_at": "2023-08-04 16:31:13",
       "album": {
+        "name": "111 1",
+        "url": "https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 157928,
+      "name": "Amor de Que",
+      "url": "https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc"
+    },
+    {
+      "added_at": "2023-08-04 16:31:13",
+      "album": {
+        "name": "Te Deixo Crazy",
+        "url": "https://open.spotify.com/album/6GhQsV31Iz1edjKeAD6fan"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        },
+        {
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+        }
+      ],
+      "duration_ms": 164908,
+      "name": "Te Deixo Crazy",
+      "url": "https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb"
+    },
+    {
+      "added_at": "2023-08-04 16:31:13",
+      "album": {
         "name": "T\u00f4 Preocupada (Calma Amiga) (feat. Anitta)",
         "url": "https://open.spotify.com/album/4uBj6yxHhzeEau2ZQt52uZ"
       },
@@ -399,40 +435,8 @@
     {
       "added_at": "2023-08-04 16:31:13",
       "album": {
-        "name": "111 1",
-        "url": "https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 157928,
-      "name": "Amor de Que",
-      "url": "https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc"
-    },
-    {
-      "added_at": "2023-08-04 16:31:13",
-      "album": {
-        "name": "Fim do Mundo",
-        "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 135001,
-      "name": "LAMBO",
-      "url": "https://open.spotify.com/track/5IVndtDa35XdYbAoDBPtLw"
-    },
-    {
-      "added_at": "2023-08-04 16:31:13",
-      "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+        "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+        "url": "https://open.spotify.com/album/5GLvWI68rAJXKVmGfdV2Eu"
       },
       "artists": [
         {
@@ -440,13 +444,13 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 176400,
-      "name": "VIP *-*",
-      "url": "https://open.spotify.com/track/2upubCYkDvATo6ZZwHqrp9"
+      "duration_ms": 181173,
+      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+      "url": "https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99"
     },
     {
       "added_at": "2023-08-04 16:31:13",
@@ -467,26 +471,6 @@
     {
       "added_at": "2023-08-04 16:31:13",
       "album": {
-        "name": "F\u00daRIA",
-        "url": "https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ"
-      },
-      "artists": [
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        },
-        {
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Expl\u00edcito",
-      "url": "https://open.spotify.com/track/0rjoEhu8GFQubGx7dg1KLS"
-    },
-    {
-      "added_at": "2023-08-04 16:31:13",
-      "album": {
         "name": "Eu Viciei",
         "url": "https://open.spotify.com/album/4GoAldSUHoIefEbIkY0aXF"
       },
@@ -503,26 +487,6 @@
       "duration_ms": 134400,
       "name": "Eu Viciei",
       "url": "https://open.spotify.com/track/6eu0ufYZ5k4HkZqnceFsoc"
-    },
-    {
-      "added_at": "2023-08-04 16:31:13",
-      "album": {
-        "name": "Parab\u00e9ns",
-        "url": "https://open.spotify.com/album/0rDDD6fyQCUDiwlehEJsnd"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Psirico",
-          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
-        }
-      ],
-      "duration_ms": 136844,
-      "name": "Parab\u00e9ns",
-      "url": "https://open.spotify.com/track/6X0XdIcgwfVa9orJnDMQB0"
     },
     {
       "added_at": "2023-08-04 16:31:13",
@@ -571,6 +535,26 @@
     {
       "added_at": "2023-08-04 16:31:13",
       "album": {
+        "name": "F\u00daRIA",
+        "url": "https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Expl\u00edcito",
+      "url": "https://open.spotify.com/track/0rjoEhu8GFQubGx7dg1KLS"
+    },
+    {
+      "added_at": "2023-08-04 16:31:13",
+      "album": {
         "name": "Gente Crazy",
         "url": "https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC"
       },
@@ -587,22 +571,38 @@
     {
       "added_at": "2023-08-04 16:31:13",
       "album": {
-        "name": "CAF\u00c9 DA MANH\u00c3 ;P",
-        "url": "https://open.spotify.com/album/5GLvWI68rAJXKVmGfdV2Eu"
+        "name": "Parab\u00e9ns",
+        "url": "https://open.spotify.com/album/0rDDD6fyQCUDiwlehEJsnd"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         },
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Psirico",
+          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
         }
       ],
-      "duration_ms": 181173,
-      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
-      "url": "https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99"
+      "duration_ms": 136844,
+      "name": "Parab\u00e9ns",
+      "url": "https://open.spotify.com/track/6X0XdIcgwfVa9orJnDMQB0"
+    },
+    {
+      "added_at": "2023-08-04 16:31:13",
+      "album": {
+        "name": "Fim do Mundo",
+        "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 135001,
+      "name": "LAMBO",
+      "url": "https://open.spotify.com/track/5IVndtDa35XdYbAoDBPtLw"
     },
     {
       "added_at": "2023-08-04 16:31:13",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-08-04 16:31:13",
       "album": {
+        "name": "TAQUEI",
+        "url": "https://open.spotify.com/album/5XMPCF2nDlIVcULGoXzgJv"
+      },
+      "artists": [
+        {
+          "name": "Kika Boom",
+          "url": "https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P"
+        }
+      ],
+      "duration_ms": 120242,
+      "name": "TAQUEI",
+      "url": "https://open.spotify.com/track/1lspAjQFDEZckwPuwwVnj1"
+    },
+    {
+      "added_at": "2023-08-04 16:31:13",
+      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
       },
@@ -683,38 +699,6 @@
     {
       "added_at": "2023-08-04 16:31:13",
       "album": {
-        "name": "Que Passa",
-        "url": "https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR"
-      },
-      "artists": [
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 193861,
-      "name": "Que Passa",
-      "url": "https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN"
-    },
-    {
-      "added_at": "2023-08-04 16:31:13",
-      "album": {
-        "name": "TAQUEI",
-        "url": "https://open.spotify.com/album/5XMPCF2nDlIVcULGoXzgJv"
-      },
-      "artists": [
-        {
-          "name": "Kika Boom",
-          "url": "https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P"
-        }
-      ],
-      "duration_ms": 120242,
-      "name": "TAQUEI",
-      "url": "https://open.spotify.com/track/1lspAjQFDEZckwPuwwVnj1"
-    },
-    {
-      "added_at": "2023-08-04 16:31:13",
-      "album": {
         "name": "BRINCA COM A...",
         "url": "https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 182709,
       "name": "BRINCA COM A...",
       "url": "https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW"
+    },
+    {
+      "added_at": "2023-08-04 16:31:13",
+      "album": {
+        "name": "Que Passa",
+        "url": "https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 193861,
+      "name": "Que Passa",
+      "url": "https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN"
     },
     {
       "added_at": "2023-08-04 16:31:13",

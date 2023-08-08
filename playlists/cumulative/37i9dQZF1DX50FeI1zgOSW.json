@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 190598,
       "name": "Azhuvurene (Story of a Bleeding Heart)",
       "url": "https://open.spotify.com/track/2zLqnD7Cj6BCjIfsZDyXqV"
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 168945,
       "name": "Rawberry",
       "url": "https://open.spotify.com/track/75G1vgDH5uaNklFyy3hvtn"
@@ -2268,6 +2268,32 @@
       "duration_ms": 223992,
       "name": "Sernthom Pirinthom",
       "url": "https://open.spotify.com/track/15ZUtomY7AmhvWrrSxzwOS"
+    },
+    {
+      "album": {
+        "name": "Shy Boi",
+        "url": "https://open.spotify.com/album/2JA7ebasiQYXt9jaw5cNz2"
+      },
+      "artists": [
+        {
+          "name": "Mk Muziq",
+          "url": "https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M"
+        },
+        {
+          "name": "Baila Curry",
+          "url": "https://open.spotify.com/artist/5DyGDTfz4KZ7XcUXHcXrly"
+        },
+        {
+          "name": "Double J The Rapper",
+          "url": "https://open.spotify.com/artist/4oS28QL714oJei3rN7QrIf"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157777,
+      "name": "Shy Boi",
+      "url": "https://open.spotify.com/track/5dF6MnJUCc2LuLMQ5w82wA"
     },
     {
       "album": {
@@ -2456,7 +2482,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 206117,
       "name": "Theendum Dhooram - Unplugged",
       "url": "https://open.spotify.com/track/0bp4VHhD7BmOaIDSAhRhSA"
@@ -2692,8 +2718,8 @@
           "url": "https://open.spotify.com/artist/5m3eU2BVDTAKz6Lm9MBpDr"
         },
         {
-          "name": "Nirksha Manoj",
-          "url": "https://open.spotify.com/artist/2PFVuZLhQaJ8IDJBnrdWBa"
+          "name": "Niriksha Manoj",
+          "url": "https://open.spotify.com/artist/2ZShEPlbOdm7sfbKuPIuaZ"
         },
         {
           "name": "Vaaheesan Rasaiya",

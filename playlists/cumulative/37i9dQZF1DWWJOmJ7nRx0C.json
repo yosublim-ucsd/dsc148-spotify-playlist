@@ -13445,6 +13445,24 @@
     },
     {
       "album": {
+        "name": "Surrogates",
+        "url": "https://open.spotify.com/album/6g3FEJFGxNUOCJpaeaLMfS"
+      },
+      "artists": [
+        {
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180537,
+      "name": "Surrogates",
+      "url": "https://open.spotify.com/track/35SrlqVrYmRxAB4g54ow9z"
+    },
+    {
+      "album": {
         "name": "Surviving The Game",
         "url": "https://open.spotify.com/album/27iyNm42452hDk9S8MWvjj"
       },

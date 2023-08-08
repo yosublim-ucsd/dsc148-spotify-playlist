@@ -4,7 +4,7 @@
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: ג׳יי למוטה
 
-422 songs - 22 hr 54 min
+423 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [מגיע לי יותר](https://open.spotify.com/track/33Gsw1B8LUzHDonqIGUeNu) | [Coral Bismuth](https://open.spotify.com/artist/4HHSTY3bNxoprZF3vJ8gLE) | [שירי רחוב](https://open.spotify.com/album/6w7zgx1vayDs9nstbNXAY4) | 3:13 | 2022-06-30 | 2022-12-01 |
 | [מה איתי](https://open.spotify.com/track/7ngFT6B306ad3HUfQM6bci) | [Amit Shauli](https://open.spotify.com/artist/5v5wCcs3M7J6VcD30IEscJ) | [מה איתי](https://open.spotify.com/album/7rnHdmAxiG5xyTJxubUIdz) | 3:02 | 2022-02-01 | 2022-06-01 |
 | [מה אני עושה פה](https://open.spotify.com/track/5mK6AKuosx0D6EU9NPfsaB) | [Amit Shauli](https://open.spotify.com/artist/5v5wCcs3M7J6VcD30IEscJ) | [מה אני עושה פה](https://open.spotify.com/album/21SHoXcxpCyGKYkcmTvGxp) | 2:57 | 2023-04-04 | 2023-07-05 |
+| [מה אתה לא מבין](https://open.spotify.com/track/2XTvuVkcbbIVhK0v0wzVPY) | [טל טרבלסי](https://open.spotify.com/artist/6nCdVU7ShDh0vdfQzGfogB) | [מה אתה לא מבין](https://open.spotify.com/album/2f3ZnBRD8BbM9thsN8lxXq) | 2:17 | 2023-08-07 |  |
 | [מה יהיה איתך](https://open.spotify.com/track/0wyjFdOiQF7neJlQu2ij9O) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [מה יהיה איתך](https://open.spotify.com/album/0rvFZpnMSm4tsMcUILBHwN) | 4:15 | 2023-01-31 | 2023-04-05 |
 | [מה נזכרת בי?](https://open.spotify.com/track/6CDry7lUxfINFdiQ2PDUgi) | [Sarit Hadad](https://open.spotify.com/artist/39jFFncu6W0phhYK16Dp9g) | [24](https://open.spotify.com/album/5JnHpd9o8n1snOjhQIrTE0) | 2:22 | 2022-10-04 | 2023-01-04 |
 | [מה קרה](https://open.spotify.com/track/5rPVCktcf8wu9aQuCS0GJx) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [עם או בלי לאהוב](https://open.spotify.com/album/4lj06g5unws8F7TYnnykPY) | 2:23 | 2022-11-30 | 2023-01-04 |

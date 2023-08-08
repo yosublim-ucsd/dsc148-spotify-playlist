@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1147380,
+  "num_followers": 1147529,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzQxMjY5ZmJmMDljNzJkNjAyNjEzMzM0MTZiZmQxNDc3OTEwNGM5",
+  "snapshot_id": "MCw2ZTdhNjE3NjAwZmRiNzE0NjYyYTg0ZWEzNTQwY2MwM2QxODc3OTE1",
   "tracks": [
     {
       "added_at": "2023-07-21 19:35:12",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "I'm Sorry I'm Like This",
-        "url": "https://open.spotify.com/album/1nOZaGSuVtIR43XewW6nEU"
-      },
-      "artists": [
-        {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
-        }
-      ],
-      "duration_ms": 100465,
-      "name": "Somewhere in the Universe",
-      "url": "https://open.spotify.com/track/2sLAKUdiwa7Ik8XY2ow3DE"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "How To Kill A Rockstar",
         "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 154756,
       "name": "Hate Me!",
       "url": "https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "I'm Sorry I'm Like This",
+        "url": "https://open.spotify.com/album/1nOZaGSuVtIR43XewW6nEU"
+      },
+      "artists": [
+        {
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+        }
+      ],
+      "duration_ms": 100465,
+      "name": "Somewhere in the Universe",
+      "url": "https://open.spotify.com/track/2sLAKUdiwa7Ik8XY2ow3DE"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 324773,
-      "name": "Smoke Signals",
-      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
-    },
-    {
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "Trauma",
@@ -279,6 +263,22 @@
       "duration_ms": 163253,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 324773,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "crush (demos)",
-        "url": "https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 91206,
-      "name": "what does he have that i don't?",
-      "url": "https://open.spotify.com/track/15MDjoryOggmkMTdh13IGx"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 160506,
       "name": "minor",
       "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "crush (demos)",
+        "url": "https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 91206,
+      "name": "what does he have that i don't?",
+      "url": "https://open.spotify.com/track/15MDjoryOggmkMTdh13IGx"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
     },
     {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/21RRWWtERAfAwBFv9rzktq"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 200727,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/0RxJW4CqKIM1v0DN3z32zG"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Smoke Signals (feat. Tessa Violet)",
@@ -989,22 +1005,6 @@
       "url": "https://open.spotify.com/track/6Uxex5NWDRtA8hQKDpRn8H"
     },
     {
-      "added_at": "2023-07-21 19:35:12",
-      "album": {
-        "name": "i care so much that i dont care at all",
-        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "2005 barbie doll",
-      "url": "https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Tell Me About You (feat. Mishaal)",
@@ -1023,6 +1023,22 @@
       "duration_ms": 194400,
       "name": "Tell Me About You (feat. Mishaal)",
       "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
+    },
+    {
+      "added_at": "2023-07-21 19:35:12",
+      "album": {
+        "name": "i care so much that i dont care at all",
+        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "2005 barbie doll",
+      "url": "https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "why didn't you call???",
-        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 196734,
-      "name": "why didn't you call???",
-      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Things I Wanted To Tell You",
         "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
       },
@@ -1123,6 +1123,22 @@
       "duration_ms": 139354,
       "name": "Feel Again (Feat. Au/Ra)",
       "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1209,22 +1225,6 @@
       "url": "https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW"
     },
     {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/21RRWWtERAfAwBFv9rzktq"
-      },
-      "artists": [
-        {
-          "name": "Chri$tian Gate$",
-          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
-        }
-      ],
-      "duration_ms": 200727,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/0RxJW4CqKIM1v0DN3z32zG"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "If I Really Love You",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/4FPSps9RCv6uftt1JuqpCN"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 161201,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/1tOpOwS4F854SWZmhhy3XU"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "infinity",
         "url": "https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 174198,
       "name": "infinity",
       "url": "https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/4FPSps9RCv6uftt1JuqpCN"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 161201,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/1tOpOwS4F854SWZmhhy3XU"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "VERY ALONE",
-        "url": "https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK"
-      },
-      "artists": [
-        {
-          "name": "Zaia",
-          "url": "https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz"
-        }
-      ],
-      "duration_ms": 131146,
-      "name": "VERY ALONE",
-      "url": "https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "are you sleeping alone again?",
         "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 126857,
       "name": "are you sleeping alone again?",
       "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "VERY ALONE",
+        "url": "https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK"
+      },
+      "artists": [
+        {
+          "name": "Zaia",
+          "url": "https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz"
+        }
+      ],
+      "duration_ms": 131146,
+      "name": "VERY ALONE",
+      "url": "https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "songs written for piano",
-        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 147853,
-      "name": "white lies",
-      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Sleepyhead",
         "url": "https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 238881,
       "name": "Pyjama Pants",
       "url": "https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "songs written for piano",
+        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 147853,
+      "name": "white lies",
+      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
     },
     {
       "added_at": "2023-06-15 16:30:18",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Maya",
-        "url": "https://open.spotify.com/album/3L9E8GtsdPSOIyqISsq3Qr"
-      },
-      "artists": [
-        {
-          "name": "Tobias Dray",
-          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
-        }
-      ],
-      "duration_ms": 207955,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "freckles,",
         "url": "https://open.spotify.com/album/5TKz75cyEBwz3CDaBbqwlJ"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+        "name": "Maya",
+        "url": "https://open.spotify.com/album/3L9E8GtsdPSOIyqISsq3Qr"
       },
       "artists": [
         {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+          "name": "Tobias Dray",
+          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
         }
       ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+      "duration_ms": 207955,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1543,6 +1527,22 @@
       "duration_ms": 110163,
       "name": "Meant to Be",
       "url": "https://open.spotify.com/track/40YMzcyGkpqFiSUNktyHCP"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1625,6 +1625,22 @@
       "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "lost a friend",
+        "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 165177,
+      "name": "lost a friend",
+      "url": "https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR"
+    },
+    {
       "added_at": "2023-07-21 19:35:12",
       "album": {
         "name": "canine teeth",
@@ -1643,22 +1659,6 @@
       "duration_ms": 80000,
       "name": "canine teeth",
       "url": "https://open.spotify.com/track/0mXhEiLnnb5cpePShMXQVO"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "lost a friend",
-        "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 165177,
-      "name": "lost a friend",
-      "url": "https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR"
     },
     {
       "added_at": "2023-06-02 04:00:00",

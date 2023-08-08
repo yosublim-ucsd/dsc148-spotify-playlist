@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Mammoth WVH
 
-890 songs - 2 day 5 hr 24 min
+891 songs - 2 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -724,6 +724,7 @@
 | [Superstar \(feat\. Remington Leith\)](https://open.spotify.com/track/0k7V0datb9PpWRDGkB0xzq) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO), [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI), [Remington Leith](https://open.spotify.com/artist/5b5pXiq8oJIyU8OZWpwOWL) | [DOGMA](https://open.spotify.com/album/3Pjw4lSnuJesklPH3g3JcE) | 3:08 | 2023-04-28 |  |
 | [Surrender](https://open.spotify.com/track/2GnketcEQ131spoXsAeseu) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Lighting Up The Sky](https://open.spotify.com/album/5puvjdeWFxlB0P1222trxX) | 3:40 | 2023-02-24 | 2023-03-18 |
 | [Surrender](https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Surrender](https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ) | 3:40 | 2022-09-30 | 2023-02-25 |
+| [Surrogates](https://open.spotify.com/track/35SrlqVrYmRxAB4g54ow9z) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Surrogates](https://open.spotify.com/album/6g3FEJFGxNUOCJpaeaLMfS) | 3:00 | 2023-08-07 |  |
 | [Surviving The Game](https://open.spotify.com/track/5302m3J0HLANBaH3bCdDBb) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Surviving The Game](https://open.spotify.com/album/27iyNm42452hDk9S8MWvjj) | 3:58 | 2021-09-17 | 2022-06-18 |
 | [Survivor](https://open.spotify.com/track/1wBtnfOFCMmr6yOy1dE5VM) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Versatile](https://open.spotify.com/album/4gZGUfedFjMS22PzjDzscJ) | 4:02 | 2021-07-02 | 2022-04-23 |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-11 | 2022-06-25 |

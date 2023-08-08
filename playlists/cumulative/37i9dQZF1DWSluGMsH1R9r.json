@@ -6937,6 +6937,24 @@
     },
     {
       "album": {
+        "name": "Reiu",
+        "url": "https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Reiu",
+      "url": "https://open.spotify.com/track/6tHX5oWkiY54sB0olbYkcF"
+    },
+    {
+      "album": {
         "name": "Relinquishing",
         "url": "https://open.spotify.com/album/3O66GdoL4N2pmZf1PImUO1"
       },
@@ -7686,7 +7704,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 195232,
       "name": "Sincerely",
       "url": "https://open.spotify.com/track/4AvIQWGzD3YoYi2BEAxegJ"

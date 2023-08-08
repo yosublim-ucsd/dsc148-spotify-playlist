@@ -1,12 +1,12 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 351647,
+  "num_followers": 351835,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjkwMDNlYmM3MzQyMjQ1OTI1NmRmYTUyYjIwOTIwZDg5ODkwZThi",
+  "snapshot_id": "MCw4NjJlMDM0NzQxODg0NGU2YTRiNmFlZDJiNjIyNjE0Mzc3NDI3M2Jm",
   "tracks": [
     {
       "added_at": "2022-07-20 07:59:35",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-07-20 07:59:35",
       "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "Kerala",
+      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
+    },
+    {
+      "added_at": "2022-07-20 07:59:35",
+      "album": {
         "name": "New Energy",
         "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
       },
@@ -295,26 +311,6 @@
       "duration_ms": 291000,
       "name": "Alone in Kyoto",
       "url": "https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm"
-    },
-    {
-      "added_at": "2022-07-20 07:59:35",
-      "album": {
-        "name": "Rolling Back (Durante Remix)",
-        "url": "https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Rolling Back",
-      "url": "https://open.spotify.com/track/335EcT0oI5889ZgM0q413d"
     },
     {
       "added_at": "2022-07-20 07:59:35",
@@ -391,18 +387,22 @@
     {
       "added_at": "2022-07-20 07:59:35",
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+        "name": "Rolling Back (Durante Remix)",
+        "url": "https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         }
       ],
-      "duration_ms": 237546,
-      "name": "Kerala",
-      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
+      "duration_ms": 238000,
+      "name": "Rolling Back",
+      "url": "https://open.spotify.com/track/335EcT0oI5889ZgM0q413d"
     },
     {
       "added_at": "2022-07-20 07:59:35",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-07-20 07:59:35",
       "album": {
-        "name": "Be Patient",
-        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 216793,
-      "name": "Be Patient",
-      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
-    },
-    {
-      "added_at": "2022-07-20 07:59:35",
-      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/4EyAjkGrjXvx1ydSuMTLvW"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 388506,
       "name": "Keep You Kimi",
       "url": "https://open.spotify.com/track/53oC9lu6vxNkNpSN9J8dIT"
+    },
+    {
+      "added_at": "2022-07-20 07:59:35",
+      "album": {
+        "name": "Be Patient",
+        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 216793,
+      "name": "Be Patient",
+      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
     },
     {
       "added_at": "2022-07-20 07:59:35",
@@ -867,18 +867,18 @@
     {
       "added_at": "2022-07-20 07:59:35",
       "album": {
-        "name": "Sacred",
-        "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         }
       ],
-      "duration_ms": 347317,
-      "name": "Sacred",
-      "url": "https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8"
+      "duration_ms": 231039,
+      "name": "Obvs",
+      "url": "https://open.spotify.com/track/7HTnBZgjsp1T9uF286kQ7o"
     }
   ],
   "unique_name": "Ibiza Sunset",

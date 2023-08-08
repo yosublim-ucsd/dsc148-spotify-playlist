@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 276660,
+  "num_followers": 276682,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzhjZGI5OGNkMGZkNTk1MTliY2U0ZmJhODdlYjJiYjRjNjI1NzNm",
+  "snapshot_id": "MCwzYzU2OGExYzU2Y2ViYTk2NDdhNGJjMDhhM2MxMmQwNzk3YThmZDQw",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -379,6 +379,42 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Fugir Com o Sol (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3bsGrxytQaqdDDoBDipGAP"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        }
+      ],
+      "duration_ms": 195918,
+      "name": "Fugir Com o Sol - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/32HSy2asY8z7qd0mGUgenI"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "TROPICALIA",
+        "url": "https://open.spotify.com/album/2Kx09C96ugvfDpiE2cfeMp"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Big Mountain",
+          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
+        }
+      ],
+      "duration_ms": 227294,
+      "name": "Love So Strong",
+      "url": "https://open.spotify.com/track/70oUkZVnH2WQWaNZ8zwn8p"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "T\u00f4 Falando S\u00e9rio",
         "url": "https://open.spotify.com/album/3K8vP1P69XZSzHRnqRhdLG"
       },
@@ -411,22 +447,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Fugir Com o Sol (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3bsGrxytQaqdDDoBDipGAP"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        }
-      ],
-      "duration_ms": 195918,
-      "name": "Fugir Com o Sol - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/32HSy2asY8z7qd0mGUgenI"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Chama (Ao Vivo no Rio de Janeiro)",
         "url": "https://open.spotify.com/album/3bLTLIgFEmEmrFp649BnoW"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 224711,
       "name": "Nossos Beijos - Ao Vivo",
       "url": "https://open.spotify.com/track/0scgnlKar795GmHYUyGT15"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "TROPICALIA",
-        "url": "https://open.spotify.com/album/2Kx09C96ugvfDpiE2cfeMp"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Big Mountain",
-          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
-        }
-      ],
-      "duration_ms": 227294,
-      "name": "Love So Strong",
-      "url": "https://open.spotify.com/track/70oUkZVnH2WQWaNZ8zwn8p"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Sess\u00e3o Aberta Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0WpWvWY5iKQTYuNnqum8qI"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 245312,
+      "name": "Sem Medo",
+      "url": "https://open.spotify.com/track/2zEdAMvFYrYjuWk6lExQfB"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Por A\u00ed",
         "url": "https://open.spotify.com/album/1dlrX9KQDl0iGEvrj1ho8L"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 170608,
       "name": "Uma Noite E 1/2",
       "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Sess\u00e3o Aberta Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0WpWvWY5iKQTYuNnqum8qI"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 245312,
-      "name": "Sem Medo",
-      "url": "https://open.spotify.com/track/2zEdAMvFYrYjuWk6lExQfB"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "P\u00f4r do Sol",
-        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 228844,
-      "name": "P\u00f4r do Sol",
-      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Vou Agradecer",
         "url": "https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 219538,
       "name": "Vou Agradecer",
       "url": "https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 228844,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Frequ\u00eancia do Amor",
-        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 161107,
-      "name": "Frequ\u00eancia do Amor",
-      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Enquanto Houver",
         "url": "https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 215172,
       "name": "Filho do Mar",
       "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Frequ\u00eancia do Amor",
+        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 161107,
+      "name": "Frequ\u00eancia do Amor",
+      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "sei l\u00e1",
+        "url": "https://open.spotify.com/album/3RIB8BEpinwrq093EmVt8h"
+      },
+      "artists": [
+        {
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+        }
+      ],
+      "duration_ms": 192446,
+      "name": "sei l\u00e1",
+      "url": "https://open.spotify.com/track/1qZnStNVnb35sjENUA4G3B"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Que Vem do Mar",
         "url": "https://open.spotify.com/album/2KoifypEyKpsQw7wrOJZph"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Coletivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
-      },
-      "artists": [
-        {
-          "name": "Amaro Lima",
-          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
-        }
-      ],
-      "duration_ms": 254858,
-      "name": "Na Jornada - Remasterizado",
-      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Corri Demais",
         "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
       },
@@ -1043,38 +1043,38 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "sei l\u00e1",
-        "url": "https://open.spotify.com/album/3RIB8BEpinwrq093EmVt8h"
+        "name": "Coletivo (Remasterizado)",
+        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
       },
       "artists": [
         {
-          "name": "Jambu",
-          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+          "name": "Amaro Lima",
+          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
         }
       ],
-      "duration_ms": 192446,
-      "name": "sei l\u00e1",
-      "url": "https://open.spotify.com/track/1qZnStNVnb35sjENUA4G3B"
+      "duration_ms": 254858,
+      "name": "Na Jornada - Remasterizado",
+      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
     },
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Flying High",
-        "url": "https://open.spotify.com/album/75aD61Mdn46by45roKljUL"
+        "name": "Terra do Sol",
+        "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
       },
       "artists": [
         {
-          "name": "Solano Jacob",
-          "url": "https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm"
+          "name": "Calm\u00f4",
+          "url": "https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy"
         },
         {
-          "name": "Rafael Senegal",
-          "url": "https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK"
+          "name": "Tupi Machine",
+          "url": "https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l"
         }
       ],
-      "duration_ms": 242948,
-      "name": "Flying High",
-      "url": "https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C"
+      "duration_ms": 153253,
+      "name": "Terra do Sol",
+      "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
     }
   ],
   "unique_name": "Praiana",

@@ -2,7 +2,7 @@
 
 ### [creme](https://open.spotify.com/playlist/37i9dQZF1DX7f8PyAQL3rz)
 
-> chefin e oruam quando junta é bebeto e romário, tropa do 23 / Descubra a <a href="spotify:genre:0JQ5DAqbMKFD7D5yg36Jj5">experiência creme</a> e cola <a href="http://creme.byspotify.com/">aqui</a>.
+> Show da tropa Mainstreet no dia 12 de agosto \(sábado\) em SP, cola <a href="https://www.ingresse.com/spotify\-creme/">aqui</a>\. / chefin e oruam quando junta é bebeto e romário, tropa do 23
 
 216 songs - 12 hr 30 min
 

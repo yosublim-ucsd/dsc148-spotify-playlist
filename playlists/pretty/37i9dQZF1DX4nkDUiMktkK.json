@@ -1,12 +1,12 @@
 {
   "description": "Salute's got the juice",
-  "num_followers": 4883,
+  "num_followers": 5898,
   "original_name": "juice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWFmMTVlNDE1NTFkZjVhODE0NzYzNTU0MjI3N2RlMTgyMTNmZjFj",
+  "snapshot_id": "MCxkZmE4NzFkY2ZkZjY1NTRiYTg5Y2RmODc1NjBlNTQ1N2Y3MGM0Zjhj",
   "tracks": [
     {
       "added_at": "2023-08-03 22:00:00",
@@ -443,6 +443,30 @@
       "duration_ms": 239668,
       "name": "Wait For It",
       "url": "https://open.spotify.com/track/2jglQfaRM7oRHVj5uW18Pt"
+    },
+    {
+      "added_at": "2023-08-07 08:52:33",
+      "album": {
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        },
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "SHIMA",
+          "url": "https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "See Me",
+      "url": "https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz"
     },
     {
       "added_at": "2023-08-03 22:00:00",

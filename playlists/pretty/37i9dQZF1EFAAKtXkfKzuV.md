@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 52 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 72 likes - 52 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 38 | [Next to You](https://open.spotify.com/track/0JJTRwLHHtjMbR1cxjN61h) | [Myles Green](https://open.spotify.com/artist/056UtN0LwZFbayHkU45DEb) | [Next to You](https://open.spotify.com/album/7gdmXNNzOaA9GTT5Xb57lY) | 2:44 |
 | 39 | [Nightfall](https://open.spotify.com/track/13lJ85FoC72fNT6uksMa8v) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Nightfall](https://open.spotify.com/album/2vndOzLX4qVe2GTu7JF7Sk) | 2:37 |
 | 40 | [Love Me Fair](https://open.spotify.com/track/6whgc901oHG6KU7zgi7Wrl) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Tetric](https://open.spotify.com/artist/0juduZf6RkEeIkMSJMpDaS), [boy with a scar](https://open.spotify.com/artist/7kunuxTlJDipiIZpC1aZqZ) | [Love Me Fair](https://open.spotify.com/album/7lRR58WWGvhoNezEqRDclz) | 2:40 |
-| 41 | [Nicht mal meine Freunde](https://open.spotify.com/track/3tV3YF1gTHfrb85CtJmbpA) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Nicht mal meine Freunde](https://open.spotify.com/album/1SwXrU8y94KJAgF4YClMFj) | 2:17 |
-| 42 | [Love Under The Influence](https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Love Under The Influence](https://open.spotify.com/album/11x2KmXabLf3gs30g7Wa5d) | 3:08 |
+| 41 | [Love Under The Influence](https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Love Under The Influence](https://open.spotify.com/album/11x2KmXabLf3gs30g7Wa5d) | 3:08 |
+| 42 | [Nicht mal meine Freunde](https://open.spotify.com/track/3tV3YF1gTHfrb85CtJmbpA) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Nicht mal meine Freunde](https://open.spotify.com/album/1SwXrU8y94KJAgF4YClMFj) | 2:17 |
 | 43 | [love u a little more](https://open.spotify.com/track/6khrEq9cohMhzMJpr6ItZz) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [love u a little more](https://open.spotify.com/album/0xjvT3uX7cwX1pupWjPQPp) | 1:49 |
 | 44 | [Inbetween](https://open.spotify.com/track/3pkNourwOQlis9iWid3h5C) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [LNZHD](https://open.spotify.com/album/6R9ddkyO2cIN2TqZGBWcvg) | 3:16 |
 | 45 | [Not Together, Together](https://open.spotify.com/track/6Yhly15am79BzKhAHSEqcI) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Not Together, Together](https://open.spotify.com/album/0o9FIqLRuDzmSeHkwr5QkN) | 2:42 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 51 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
 | 52 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `MjgxODgwODAsMDAwMDAwMDA0NWYyYmI0NmJmMWRkYWFlOGE0Mjc0ZTNmYmI1YzdiNg==`
+Snapshot ID: `MjgxOTEwMjAsMDAwMDAwMDA5NGQzOTA3M2ZhNmE4YzcxMmMxYjhhYWYzOWJmNTljOA==`

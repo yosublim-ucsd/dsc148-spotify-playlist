@@ -1,12 +1,12 @@
 {
   "description": "The stomping ground. Cover: Disclosure",
-  "num_followers": 91552,
+  "num_followers": 91621,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDY4ZmUyNWM4N2JiZjQ1ZGFkN2E0Njc2ZjNmMTIyN2NhYjVjMGZl",
+  "snapshot_id": "MCxkNTczZGJlMzBjNGI1NmE3YmExYjIwYmFjMTAxNzE5NmFjYTgxNGQ1",
   "tracks": [
     {
       "added_at": "2023-08-03 22:01:00",
@@ -265,6 +265,26 @@
       "url": "https://open.spotify.com/track/6yXhA6Kpk7wNOGx7fqzVZ0"
     },
     {
+      "added_at": "2023-08-07 08:51:43",
+      "album": {
+        "name": "Say Yes To Heaven (Anyma Remix)",
+        "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 222076,
+      "name": "Say Yes To Heaven - Anyma Remix",
+      "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
+    },
+    {
       "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Voodoo",
@@ -331,30 +351,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "The Rapture Pt.III",
-        "url": "https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5"
-      },
-      "artists": [
-        {
-          "name": "&ME",
-          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        }
-      ],
-      "duration_ms": 417812,
-      "name": "The Rapture Pt.III",
-      "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "Sorry (with Madonna) [Miss Monique Remix]",
         "url": "https://open.spotify.com/album/5s5wL6wtBFh0aocKeSp3xq"
       },
@@ -411,6 +407,30 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
+        "name": "The Rapture Pt.III",
+        "url": "https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "duration_ms": 417812,
+      "name": "The Rapture Pt.III",
+      "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
         "name": "Transmission (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx"
       },
@@ -427,22 +447,6 @@
       "duration_ms": 224274,
       "name": "Transmission - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "Danielle (smile on my face)",
-        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Danielle (smile on my face)",
-      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -475,6 +479,22 @@
       "duration_ms": 379354,
       "name": "Sekvens",
       "url": "https://open.spotify.com/track/3umZflgf6RInAfLB3kAMbq"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Danielle (smile on my face)",
+        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Danielle (smile on my face)",
+      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -999,22 +1019,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "Slow Down (James Cole Remix)",
         "url": "https://open.spotify.com/album/3zrP0lDAbH8sF4219tbsX4"
       },
@@ -1035,6 +1039,22 @@
       "duration_ms": 417999,
       "name": "Slow Down - James Cole Remix",
       "url": "https://open.spotify.com/track/7IasAOphluLSAmgMtg9jYA"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1139,42 +1159,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "Pegasus",
-        "url": "https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV"
-      },
-      "artists": [
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        }
-      ],
-      "duration_ms": 412505,
-      "name": "Pegasus",
-      "url": "https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "Catuca",
-        "url": "https://open.spotify.com/album/7lRZxqNeoloSjF6lna9lOK"
-      },
-      "artists": [
-        {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        }
-      ],
-      "duration_ms": 398986,
-      "name": "Catuca",
-      "url": "https://open.spotify.com/track/0ukK2wdKAIP36g0gd5b3bF"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "Hingo (Radio Edit)",
         "url": "https://open.spotify.com/album/5NyCFRJh5W1jeshptxTaL4"
       },
@@ -1199,18 +1183,38 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "The Theory EP",
-        "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
+        "name": "Catuca",
+        "url": "https://open.spotify.com/album/7lRZxqNeoloSjF6lna9lOK"
       },
       "artists": [
         {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
         }
       ],
-      "duration_ms": 270476,
-      "name": "The Blaze",
-      "url": "https://open.spotify.com/track/0jHezfBKttmYivLmNvUzzt"
+      "duration_ms": 398986,
+      "name": "Catuca",
+      "url": "https://open.spotify.com/track/0ukK2wdKAIP36g0gd5b3bF"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Pegasus",
+        "url": "https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "duration_ms": 412505,
+      "name": "Pegasus",
+      "url": "https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1227,6 +1231,22 @@
       "duration_ms": 446280,
       "name": "Oxygen Levels Low",
       "url": "https://open.spotify.com/track/39U2Ryd4imSGCEOou6hy4W"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "The Theory EP",
+        "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 270476,
+      "name": "The Blaze",
+      "url": "https://open.spotify.com/track/0jHezfBKttmYivLmNvUzzt"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1403,22 +1423,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "Rej EP",
-        "url": "https://open.spotify.com/album/18Ny5mx0OWqat32kkmoFC4"
-      },
-      "artists": [
-        {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
-        }
-      ],
-      "duration_ms": 488920,
-      "name": "Rej",
-      "url": "https://open.spotify.com/track/5l3TZLe5uEk7vdXbHghZZW"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "Dope Dance",
         "url": "https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k"
       },
@@ -1439,6 +1443,42 @@
       "duration_ms": 217280,
       "name": "Dope Dance",
       "url": "https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Rej EP",
+        "url": "https://open.spotify.com/album/18Ny5mx0OWqat32kkmoFC4"
+      },
+      "artists": [
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        }
+      ],
+      "duration_ms": 488920,
+      "name": "Rej",
+      "url": "https://open.spotify.com/track/5l3TZLe5uEk7vdXbHghZZW"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Star 69 (Shermanology Remix)",
+        "url": "https://open.spotify.com/album/0h9SrjcXezB7KkTDW4ZJpt"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 353500,
+      "name": "Star 69 - Shermanology Remix",
+      "url": "https://open.spotify.com/track/1aolkrCy1LD4YBlS4gStSV"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1475,26 +1515,6 @@
       "duration_ms": 390000,
       "name": "Daka - Original Mix",
       "url": "https://open.spotify.com/track/0h8bhIOhbhzmr1qIqSGm8p"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "Star 69 (Shermanology Remix)",
-        "url": "https://open.spotify.com/album/0h9SrjcXezB7KkTDW4ZJpt"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        },
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 353500,
-      "name": "Star 69 - Shermanology Remix",
-      "url": "https://open.spotify.com/track/1aolkrCy1LD4YBlS4gStSV"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1575,30 +1595,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "A Radiant Sign (Remixed)",
-        "url": "https://open.spotify.com/album/5gWPZTg4FHp9yi7uXjDGgM"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "Jeremy Olander",
-          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
-        }
-      ],
-      "duration_ms": 227987,
-      "name": "Far Behind - Jeremy Olander Remix",
-      "url": "https://open.spotify.com/track/59GHYFeuqYdp6KX8HAvEAi"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "Renegade EP",
         "url": "https://open.spotify.com/album/6dgVJGpji0wnAeEt6xc9PA"
       },
@@ -1623,6 +1619,30 @@
       "duration_ms": 333658,
       "name": "Renegade - Adam Ten & Mita Gami Remix",
       "url": "https://open.spotify.com/track/1DdpxHPTsrivn3X0KumOQz"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "A Radiant Sign (Remixed)",
+        "url": "https://open.spotify.com/album/5gWPZTg4FHp9yi7uXjDGgM"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "duration_ms": 227987,
+      "name": "Far Behind - Jeremy Olander Remix",
+      "url": "https://open.spotify.com/track/59GHYFeuqYdp6KX8HAvEAi"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1659,6 +1679,26 @@
       "duration_ms": 402545,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "The Treble",
+        "url": "https://open.spotify.com/album/0iHPUixpramB60NDP56aar"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        },
+        {
+          "name": "Mike Cervello",
+          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "The Treble",
+      "url": "https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1703,26 +1743,6 @@
       "duration_ms": 199044,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "The Treble",
-        "url": "https://open.spotify.com/album/0iHPUixpramB60NDP56aar"
-      },
-      "artists": [
-        {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
-        },
-        {
-          "name": "Mike Cervello",
-          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "The Treble",
-      "url": "https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1827,42 +1847,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "Guru",
-        "url": "https://open.spotify.com/album/7cWNZrvfGYoVZULq6nP1r3"
-      },
-      "artists": [
-        {
-          "name": "BLR",
-          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Guru",
-      "url": "https://open.spotify.com/track/3h7Puhs0ZRMq470id6WYxo"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "In White Rooms (2023 Remix)",
-        "url": "https://open.spotify.com/album/2i8LUozW0ddEp5ldWDVfYV"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        },
-        {
-          "name": "8Kays",
-          "url": "https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ"
-        }
-      ],
-      "duration_ms": 371612,
-      "name": "In White Rooms - 2023 Remix",
-      "url": "https://open.spotify.com/track/0YHGkJUhWOw5OsvW3KCQBE"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "See the Sun Rising",
         "url": "https://open.spotify.com/album/0iFK2SVtTRzTLgU1fRiTQm"
       },
@@ -1899,30 +1883,38 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "Sete (Carlita Remix)",
-        "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
+        "name": "Guru",
+        "url": "https://open.spotify.com/album/7cWNZrvfGYoVZULq6nP1r3"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Amadou & Mariam",
-          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
-        },
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
         }
       ],
-      "duration_ms": 222438,
-      "name": "Sete - Carlita Remix",
-      "url": "https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS"
+      "duration_ms": 225000,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/3h7Puhs0ZRMq470id6WYxo"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "In White Rooms (2023 Remix)",
+        "url": "https://open.spotify.com/album/2i8LUozW0ddEp5ldWDVfYV"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "8Kays",
+          "url": "https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ"
+        }
+      ],
+      "duration_ms": 371612,
+      "name": "In White Rooms - 2023 Remix",
+      "url": "https://open.spotify.com/track/0YHGkJUhWOw5OsvW3KCQBE"
     },
     {
       "added_at": "2023-08-03 22:01:00",

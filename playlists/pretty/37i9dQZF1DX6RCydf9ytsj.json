@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 565574,
+  "num_followers": 565824,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjI3NGQxNjAxMjI1NGY5ZmI2ZWY5MTAyMmZiNGY1MTdjOGFjYjBm",
+  "snapshot_id": "MCw4NzY0ZmI5NjQxNzkxOWIwZjUzZTQ0N2I2ZWYyYzUyNzlkNjA1YzAy",
   "tracks": [
     {
       "added_at": "2023-02-10 03:06:22",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "All Time Greatest Hits",
-        "url": "https://open.spotify.com/album/6DLnBf2xooYa5UniuggpnD"
+        "name": "Old 8 x 10",
+        "url": "https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 191066,
-      "name": "I Love a Rainy Night",
-      "url": "https://open.spotify.com/track/0zvNHIL7ci0ZzIoWU6RO2u"
+      "duration_ms": 219080,
+      "name": "Deeper Than the Holler",
+      "url": "https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Old 8 x 10",
-        "url": "https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh"
+        "name": "All Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6DLnBf2xooYa5UniuggpnD"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
         }
       ],
-      "duration_ms": 219080,
-      "name": "Deeper Than the Holler",
-      "url": "https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch"
+      "duration_ms": 191066,
+      "name": "I Love a Rainy Night",
+      "url": "https://open.spotify.com/track/0zvNHIL7ci0ZzIoWU6RO2u"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
+        "name": "Does Fort Worth Ever Cross Your Mind",
+        "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "The Fireman",
+      "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
         "name": "Coal Miner's Daughter",
         "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Fancy Free",
-        "url": "https://open.spotify.com/album/5B089xYxcKyuZOE2B9jj1J"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Elvira",
-      "url": "https://open.spotify.com/track/0mG66FLhO0iZ6XCAGdjpax"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Why Not Me",
         "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
       },
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Does Fort Worth Ever Cross Your Mind",
-        "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
+        "name": "Fancy Free",
+        "url": "https://open.spotify.com/album/5B089xYxcKyuZOE2B9jj1J"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
         }
       ],
-      "duration_ms": 154360,
-      "name": "The Fireman",
-      "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
+      "duration_ms": 225626,
+      "name": "Elvira",
+      "url": "https://open.spotify.com/track/0mG66FLhO0iZ6XCAGdjpax"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
+        "name": "George Strait's Greatest Hits",
+        "url": "https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c"
       },
       "artists": [
         {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 222493,
-      "name": "When You Say Nothing at All",
-      "url": "https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk"
+      "duration_ms": 193400,
+      "name": "You Look So Good In Love",
+      "url": "https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -663,6 +663,22 @@
       "duration_ms": 248133,
       "name": "The Sweetest Thing (I've Ever Known)",
       "url": "https://open.spotify.com/track/3EFgVWb1TAYP3CF17BB4fU"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        }
+      ],
+      "duration_ms": 222493,
+      "name": "When You Say Nothing at All",
+      "url": "https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -711,22 +727,6 @@
       "duration_ms": 168000,
       "name": "Killin' Time",
       "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
-        "name": "George Strait's Greatest Hits",
-        "url": "https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "You Look So Good In Love",
-      "url": "https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+        "name": "Guitars, Cadillacs, Etc., Etc.",
+        "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
         }
       ],
-      "duration_ms": 253293,
-      "name": "Are the Good Times Really Over (I Wish a Buck Was Still Silver)",
-      "url": "https://open.spotify.com/track/7tSZJ9iI3634Sqtd6Uvl49"
+      "duration_ms": 167426,
+      "name": "Honky Tonk Man",
+      "url": "https://open.spotify.com/track/60Vbhlv3GUL8fNt3LLZ1nH"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Guitars, Cadillacs, Etc., Etc.",
-        "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "Honky Tonk Man",
-      "url": "https://open.spotify.com/track/60Vbhlv3GUL8fNt3LLZ1nH"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Forrest Gump - The Soundtrack",
         "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 148106,
       "name": "On the Road Again",
       "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Are the Good Times Really Over (I Wish a Buck Was Still Silver)",
+      "url": "https://open.spotify.com/track/7tSZJ9iI3634Sqtd6Uvl49"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1111,34 +1111,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Nashville Rebel",
-        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 182973,
-      "name": "Highwayman",
-      "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "The Family's Fine, But This One's All Mine!",
         "url": "https://open.spotify.com/album/1YPDFisVWQgtb8NNS4r469"
       },
@@ -1171,6 +1143,22 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
+        "name": "Best Of Eddy Raven",
+        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
+      },
+      "artists": [
+        {
+          "name": "Eddy Raven",
+          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
+        }
+      ],
+      "duration_ms": 146466,
+      "name": "I Got Mexico",
+      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
         "name": "Crystal Gayle: The Hits",
         "url": "https://open.spotify.com/album/5aimlnSDRmHRGfVReDwLqa"
       },
@@ -1187,18 +1175,30 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+        "name": "Nashville Rebel",
+        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 181426,
-      "name": "That's the Way Love Goes",
-      "url": "https://open.spotify.com/track/29ZJSsfmcSJcShl44iXuP1"
+      "duration_ms": 182973,
+      "name": "Highwayman",
+      "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Best Of Eddy Raven",
-        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
       "artists": [
         {
-          "name": "Eddy Raven",
-          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 146466,
-      "name": "I Got Mexico",
-      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
+      "duration_ms": 181426,
+      "name": "That's the Way Love Goes",
+      "url": "https://open.spotify.com/track/29ZJSsfmcSJcShl44iXuP1"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
+        "name": "The Best Of Kenny Rogers: Through The Years",
+        "url": "https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 262079,
+      "name": "Through The Years",
+      "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
         "name": "West By West",
         "url": "https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 160533,
       "name": "Jose Cuervo",
       "url": "https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
-        "name": "Oak Ridge Boys Collection",
-        "url": "https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "American Made",
-      "url": "https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1359,38 +1359,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "The Best Of Kenny Rogers: Through The Years",
-        "url": "https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 262079,
-      "name": "Through The Years",
-      "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Who's Gonna Fill Their Shoes",
-      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7jXiQrYTKNXnXL7WLpPqkZ"
       },
@@ -1403,6 +1371,22 @@
       "duration_ms": 240373,
       "name": "All My Rowdy Friends (Have Settled Down)",
       "url": "https://open.spotify.com/track/7hBrO5jpSGEbd9X6zxGxQI"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Oak Ridge Boys Collection",
+        "url": "https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "American Made",
+      "url": "https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1435,6 +1419,22 @@
       "duration_ms": 286120,
       "name": "I Ain't Living Long Like This",
       "url": "https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Who's Gonna Fill Their Shoes",
+      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/30upl1YT1suEgSDpIopSky"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Top 10",
         "url": "https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 179373,
       "name": "Diggin' Up Bones",
       "url": "https://open.spotify.com/track/6stD0CS3QFs2yY3CoBfK8K"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/30upl1YT1suEgSDpIopSky"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
-        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 170266,
-      "name": "Tight Fittin' Jeans",
-      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Ten Years Of Hits",
         "url": "https://open.spotify.com/album/64O4gYFs64wZqznblUncYM"
       },
@@ -1703,18 +1687,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "The Very Best Of Rosanne Cash",
-        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
+        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
       },
       "artists": [
         {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 194853,
-      "name": "Seven Year Ache",
-      "url": "https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q"
+      "duration_ms": 170266,
+      "name": "Tight Fittin' Jeans",
+      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1731,6 +1715,22 @@
       "duration_ms": 216066,
       "name": "I'm No Stranger to the Rain",
       "url": "https://open.spotify.com/track/0lNLXEMPtGhEpbgwQfo0c1"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "The Very Best Of Rosanne Cash",
+        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "Seven Year Ache",
+      "url": "https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Whoever's In New England",
-        "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "Little Rock",
-      "url": "https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "The Best Of Terri Gibbs",
         "url": "https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t"
       },
@@ -1815,6 +1799,22 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
+        "name": "Whoever's In New England",
+        "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "Little Rock",
+      "url": "https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
@@ -1843,6 +1843,22 @@
       "duration_ms": 209466,
       "name": "Daddy's Hands",
       "url": "https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Best Of The Bellamy Brothers",
+        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Old Hippie",
+      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1915,22 +1931,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Best Of The Bellamy Brothers",
-        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Old Hippie",
-      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8"
       },
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Big Dreams In A Small Town",
-        "url": "https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz"
-      },
-      "artists": [
-        {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "The Bluest Eyes In Texas",
-      "url": "https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
       },
@@ -2011,22 +1995,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Ultimate Waylon Jennings",
-        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
+        "name": "Big Dreams In A Small Town",
+        "url": "https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
         }
       ],
-      "duration_ms": 169600,
-      "name": "Just to Satisfy You",
-      "url": "https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN"
+      "duration_ms": 287000,
+      "name": "The Bluest Eyes In Texas",
+      "url": "https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -2059,6 +2039,26 @@
       "duration_ms": 188893,
       "name": "Highway 40 Blues",
       "url": "https://open.spotify.com/track/58hXpQTyQLiskPd5XiLzFQ"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Ultimate Waylon Jennings",
+        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Just to Satisfy You",
+      "url": "https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
-      },
-      "artists": [
-        {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Why Does It Have to Be (Wrong or Right)",
-      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Finally!",
         "url": "https://open.spotify.com/album/7oIo2ejv5J3PuUOomEAPIf"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 206973,
       "name": "Only One You",
       "url": "https://open.spotify.com/track/2KrbGmJsKa6xVtwYtQVGkg"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
+      },
+      "artists": [
+        {
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Why Does It Have to Be (Wrong or Right)",
+      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -2207,6 +2207,22 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
+        "name": "Greatest Hits--\"Songs from an Aging Sex Bomb\"",
+        "url": "https://open.spotify.com/album/1kXK1pSK2uRUtWml9WA92X"
+      },
+      "artists": [
+        {
+          "name": "K.T. Oslin",
+          "url": "https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b"
+        }
+      ],
+      "duration_ms": 245733,
+      "name": "Do Ya'",
+      "url": "https://open.spotify.com/track/4uhDXoLPOR60UWIQNfdJjk"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
         "name": "My Kind Of Country",
         "url": "https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q"
       },
@@ -2219,6 +2235,22 @@
       "duration_ms": 213560,
       "name": "Somebody Should Leave",
       "url": "https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Smooth Sailin'",
+        "url": "https://open.spotify.com/album/3fpDwkHJJkVOTuOMRmcLW9"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Do You Wanna Go To Heaven",
+      "url": "https://open.spotify.com/track/2S0XttyAttwENSmmWa0kkm"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -2239,22 +2271,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Greatest Hits--\"Songs from an Aging Sex Bomb\"",
-        "url": "https://open.spotify.com/album/1kXK1pSK2uRUtWml9WA92X"
-      },
-      "artists": [
-        {
-          "name": "K.T. Oslin",
-          "url": "https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b"
-        }
-      ],
-      "duration_ms": 245733,
-      "name": "Do Ya'",
-      "url": "https://open.spotify.com/track/4uhDXoLPOR60UWIQNfdJjk"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Gene Watson's Greatest Hits",
         "url": "https://open.spotify.com/album/1PKnP8QXBvGKbNWEBhxGsp"
       },
@@ -2267,22 +2283,6 @@
       "duration_ms": 159506,
       "name": "Fourteen Carat Mind",
       "url": "https://open.spotify.com/track/2RB2xSlVoMRhINO0SruNIx"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
-        "name": "Smooth Sailin'",
-        "url": "https://open.spotify.com/album/3fpDwkHJJkVOTuOMRmcLW9"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Do You Wanna Go To Heaven",
-      "url": "https://open.spotify.com/track/2S0XttyAttwENSmmWa0kkm"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -2471,18 +2471,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/2ktMx6m6ivjS1Pqm9tSrkJ"
+        "name": "The Forester Sisters",
+        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
       },
       "artists": [
         {
-          "name": "Exile",
-          "url": "https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7"
+          "name": "The Forester Sisters",
+          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
         }
       ],
-      "duration_ms": 186706,
-      "name": "Woke Up In Love",
-      "url": "https://open.spotify.com/track/0t2EyDBuMiQ3iHi3rXrFtR"
+      "duration_ms": 184946,
+      "name": "(That's What You Do) When You're in Love",
+      "url": "https://open.spotify.com/track/0zd4IzrpBnA1giNE6KkYby"
     }
   ],
   "unique_name": "80s Country",

@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 120125,
       "name": "A Little Journey",
       "url": "https://open.spotify.com/track/1ri5KgNPbiYHZEc4pYaKhB"
@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/4gf23gqn48jC8XBcNsOnna"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179224,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/5BE8bT99o4cINi4eISOt2A"
+    },
+    {
+      "album": {
         "name": "Amici",
         "url": "https://open.spotify.com/album/30oMX8LB37YXsinHIph2XI"
       },
@@ -830,7 +848,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 152241,
       "name": "Beyond The Words",
       "url": "https://open.spotify.com/track/2rcjEdhxMASzFKFMLE0VyK"
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 165000,
       "name": "Clear Day",
       "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 149123,
       "name": "Confession",
       "url": "https://open.spotify.com/track/7IhjDHQ2l4uRgyRNkWgbWt"
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 146000,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5VMPixSvGFod1dZGHXG8XI"
@@ -2548,7 +2566,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 135624,
       "name": "Gouttes de pluie",
       "url": "https://open.spotify.com/track/2aWlN3NzJxxY8AXlYYDj8S"
@@ -2602,7 +2620,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 141286,
       "name": "Heart Questions",
       "url": "https://open.spotify.com/track/1rIlWy93o6je85WpMpxg6Y"
@@ -2836,7 +2854,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 150187,
       "name": "Il Colibr\u00ec",
       "url": "https://open.spotify.com/track/52gy2KpFkLkAERIhMCYESc"
@@ -2998,7 +3016,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 155732,
       "name": "In Reform",
       "url": "https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI"
@@ -3304,7 +3322,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 161624,
       "name": "Landscape Sedate",
       "url": "https://open.spotify.com/track/78HgRXSRwG7GOMDxIepo5r"
@@ -3654,7 +3672,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 170291,
       "name": "Looking Back",
       "url": "https://open.spotify.com/track/3GXXTCrbeSnCCeex84gUnX"
@@ -3870,7 +3888,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 186352,
       "name": "Mar De Ardora",
       "url": "https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0"
@@ -4180,7 +4198,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 169160,
       "name": "mondaufgang",
       "url": "https://open.spotify.com/track/6iqbDeuRi4WJ3fYJc9WWGg"
@@ -4342,7 +4360,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 119523,
       "name": "Moving Slowly",
       "url": "https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3"
@@ -4490,7 +4508,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 166541,
       "name": "Needle and Thread",
       "url": "https://open.spotify.com/track/2jUd0hF3zy4FNsO2ODt3hq"
@@ -4508,7 +4526,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 110035,
       "name": "Nel bisogno si riconosce il vero amico",
       "url": "https://open.spotify.com/track/1rUG0qJbwGySkGj9yd1GuJ"
@@ -4580,7 +4598,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 193997,
       "name": "Next Part Of The Dream",
       "url": "https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG"
@@ -4616,7 +4634,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 161469,
       "name": "Night Solace",
       "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
@@ -4782,7 +4800,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 139802,
       "name": "Nouvel Agneau",
       "url": "https://open.spotify.com/track/2CTRsFkCzXEafseF4MLRN9"
@@ -4912,7 +4930,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 172000,
       "name": "Ocean Heart",
       "url": "https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL"
@@ -5110,7 +5128,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 276250,
       "name": "Ornamental",
       "url": "https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm"
@@ -5344,7 +5362,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 155125,
       "name": "Postcards",
       "url": "https://open.spotify.com/track/5LHsps6yM7U1ogxSQpEsxM"
@@ -5618,7 +5636,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 119619,
       "name": "Radiant",
       "url": "https://open.spotify.com/track/5WAuzGamm8rl9rY0ZxTZ5h"
@@ -5780,7 +5798,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 138000,
       "name": "Reverence",
       "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
@@ -5834,7 +5852,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 162419,
       "name": "Rocking Chair",
       "url": "https://open.spotify.com/track/6w5UdflXn5t7rLq8pUP4Ft"
@@ -6036,6 +6054,24 @@
       "duration_ms": 137819,
       "name": "Scenery",
       "url": "https://open.spotify.com/track/6geWKrtpXjDTp32yEDW8cs"
+    },
+    {
+      "album": {
+        "name": "Schatze",
+        "url": "https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4"
+      },
+      "artists": [
+        {
+          "name": "Franz Ewer",
+          "url": "https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155097,
+      "name": "Schatze",
+      "url": "https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW"
     },
     {
       "album": {
@@ -7570,7 +7606,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 128000,
       "name": "To You Again",
       "url": "https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu"
@@ -7804,7 +7840,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 144256,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/7eriWSdbkuFHBM6qiHIEq8"
@@ -8128,7 +8164,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 135647,
       "name": "Wake with me",
       "url": "https://open.spotify.com/track/4xTvAj3iYFWOoeaErsNwbj"
@@ -8200,7 +8236,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 127395,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6jFdydFW7HvS77aiiRR9XL"

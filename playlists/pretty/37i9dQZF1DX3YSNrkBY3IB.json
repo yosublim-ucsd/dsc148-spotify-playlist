@@ -1,12 +1,12 @@
 {
   "description": "Check out these Hip Hop classics that are great for the whole family.",
-  "num_followers": 64220,
+  "num_followers": 64309,
   "original_name": "Raised on Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTkxYzNkMGRmN2YwZjgzNmQ3OTA2MTFiNTZhNDczYTcwODk1OTFk",
+  "snapshot_id": "MCw0MDNiY2VhOWM3MWI0NjI3YTgxOTI1OGQwNmNjYmE3MDcxMmM3YTVk",
   "tracks": [
     {
       "added_at": "2020-09-29 17:19:21",
@@ -253,6 +253,22 @@
       "url": "https://open.spotify.com/track/5l7icgnicl7JToRxPkSXyy"
     },
     {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 177266,
+      "name": "The Fresh Prince of Bel-Air",
+      "url": "https://open.spotify.com/track/0UREO3QWbXJW3gOUXpK1am"
+    },
+    {
       "added_at": "2021-03-19 15:07:31",
       "album": {
         "name": "A Wolf In Sheep's Clothing",
@@ -289,38 +305,6 @@
       "url": "https://open.spotify.com/track/1VzhfMEGIIkn5hFITMJzW1"
     },
     {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 177266,
-      "name": "The Fresh Prince of Bel-Air",
-      "url": "https://open.spotify.com/track/0UREO3QWbXJW3gOUXpK1am"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
-        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Mr. Wendal",
-      "url": "https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC"
-    },
-    {
       "added_at": "2021-03-19 15:07:31",
       "album": {
         "name": "Greatest Hits",
@@ -347,6 +331,22 @@
       "duration_ms": 290293,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
+        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Mr. Wendal",
+      "url": "https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
     },
     {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
-        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 272706,
-      "name": "Tennessee",
-      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
-    },
-    {
       "added_at": "2021-03-19 15:07:31",
       "album": {
         "name": "Life After Death (2014 Remaster)",
@@ -523,6 +507,22 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
+        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
+        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 272706,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
         "name": "Kurtis Blow",
         "url": "https://open.spotify.com/album/1ZcUKK3nnmuYVGEUBxXSXt"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 330573,
-      "name": "Rock Box",
-      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 327400,
       "name": "I Can't Live Without My Radio",
       "url": "https://open.spotify.com/track/2qfTGzETefwtBWKDThZjnU"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 330573,
+      "name": "Rock Box",
+      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -631,22 +631,6 @@
       "duration_ms": 224826,
       "name": "Monie in the Middle",
       "url": "https://open.spotify.com/track/6RiQpptxeHspavyW50JiEw"
-    },
-    {
-      "added_at": "2020-12-07 15:05:30",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "It's Tricky",
-      "url": "https://open.spotify.com/track/3C5b21hX1FePgFAGdzk3Uc"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -707,6 +691,22 @@
       "duration_ms": 229896,
       "name": "Ladies First - Radio Edit",
       "url": "https://open.spotify.com/track/2kdJAbzcLT7XEQ0QeZERIB"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Wipeout (Re-Recorded Versions)",
+        "url": "https://open.spotify.com/album/11r8tYGEUCtMwliUxFljCv"
+      },
+      "artists": [
+        {
+          "name": "Fat Boys",
+          "url": "https://open.spotify.com/artist/3537Phr9t8GWkY2GtxDpnt"
+        }
+      ],
+      "duration_ms": 241108,
+      "name": "Wipeout (Re-Recorded Version)",
+      "url": "https://open.spotify.com/track/07CpuTGODTEA9VOjhJuoZ8"
     }
   ],
   "unique_name": "Raised on Hip Hop",

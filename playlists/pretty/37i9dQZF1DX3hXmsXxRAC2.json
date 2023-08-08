@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 316228,
+  "num_followers": 316262,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWU3MTVlMzExMTFkNDNhZDgwMTViYjdiYmJhMWZmNDA5ZjE0YzRh",
+  "snapshot_id": "MCxiMTdjYjBhOTZkMjZlNmNiMTU5YjdjYmQwYjU1NWNkMDUxYmE3YzMx",
   "tracks": [
     {
       "added_at": "2023-05-05 18:26:22",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Me Gusta Estar Contigo",
+      "url": "https://open.spotify.com/track/4MWma3oh4U6javb4kGF1jx"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
@@ -187,22 +203,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Me Gusta Estar Contigo",
-      "url": "https://open.spotify.com/track/4MWma3oh4U6javb4kGF1jx"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 408506,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "En Extasis",
         "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 242840,
       "name": "Gracias A Dios",
       "url": "https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 408506,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Buenos D\u00edas Se\u00f1or Sol",
-        "url": "https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ"
-      },
-      "artists": [
-        {
-          "name": "Vazquez Sounds",
-          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
-        }
-      ],
-      "duration_ms": 165560,
-      "name": "Buenos D\u00edas Se\u00f1or Sol",
-      "url": "https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Los D\u00fao",
         "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 295280,
       "name": "Querida",
       "url": "https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Buenos D\u00edas Se\u00f1or Sol",
+        "url": "https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ"
+      },
+      "artists": [
+        {
+          "name": "Vazquez Sounds",
+          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
+        }
+      ],
+      "duration_ms": 165560,
+      "name": "Buenos D\u00edas Se\u00f1or Sol",
+      "url": "https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -435,38 +435,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Ya No Insistas Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 204056,
-      "name": "Ya No Insistas Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Los D\u00fao (Deluxe)",
         "url": "https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF"
       },
@@ -483,6 +451,22 @@
       "duration_ms": 374106,
       "name": "Ya No Vivo Por Vivir",
       "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -519,6 +503,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Ya No Insistas Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 204056,
+      "name": "Ya No Insistas Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Cristian Castro En Primera Fila - D\u00eda 1",
         "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
       },
@@ -547,26 +547,6 @@
       "duration_ms": 195360,
       "name": "Fue Tan Poco Tu Cari\u00f1o",
       "url": "https://open.spotify.com/track/5fy24Sqa6YZKadyl2FDlqu"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "M\u00e9xico & Amigos",
-        "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        },
-        {
-          "name": "Mario Domm",
-          "url": "https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/0X11BjKj05dR2v64FwR2ot"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -603,6 +583,26 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "M\u00e9xico & Amigos",
+        "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        },
+        {
+          "name": "Mario Domm",
+          "url": "https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/0X11BjKj05dR2v64FwR2ot"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 246520,
       "name": "Yo S\u00e9 Que Est\u00e1 En Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0NaXrQAuxiWXpKDOPb40WM"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 273453,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/4SWye3OAVUSJysWgPF89e6"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -651,22 +667,6 @@
       "duration_ms": 251666,
       "name": "Lo Pasado, Pasado",
       "url": "https://open.spotify.com/track/1HYPtBNR4kXNqBo3wfpW27"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 273453,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/4SWye3OAVUSJysWgPF89e6"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Las Rancheras De Juan Gabriel",
-        "url": "https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 272106,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/6hn29Vpz4kRsVCnwpgmsty"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Amor Eterno",
         "url": "https://open.spotify.com/album/5wgoakbtZTAfjJrDebDUvS"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Las Rancheras De Juan Gabriel",
+        "url": "https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 272106,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/6hn29Vpz4kRsVCnwpgmsty"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Con Amor Eterno",
         "url": "https://open.spotify.com/album/3pBSsHUrvLhFjEopqGFCM4"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "En Vivo Desde El R\u00edo Nilo",
         "url": "https://open.spotify.com/album/0scZRkf8k4yVXsb13tU3pt"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 163133,
       "name": "Te Sigo Amando - En Vivo",
       "url": "https://open.spotify.com/track/6wYjK1VnoNKRszV9YFTC0D"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Lucia Mendez Canta Un Homenaje A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0kumbFfu0fr0061adl4kFR"
-      },
-      "artists": [
-        {
-          "name": "Luc\u00eda M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
-      "url": "https://open.spotify.com/track/1rF8VGIeSE4EGNuTCajFUr"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Eres tan distinta a todas",
         "url": "https://open.spotify.com/album/3QknZDnuTXX6aHs6lpvgCb"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Lucia Mendez Canta Un Homenaje A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0kumbFfu0fr0061adl4kFR"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
+      "url": "https://open.spotify.com/track/1rF8VGIeSE4EGNuTCajFUr"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "En el Palacio de Bellas Artes",
         "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 159493,
       "name": "Ya Lo Pasado Pasado (En Vivo) - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/7bAZfbX3ElF6b3deYNBKlF"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Antologia (Volumen 2)",
-        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
-      },
-      "artists": [
-        {
-          "name": "Nelson Ned",
-          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "El Dia Que Me Acaricies Llorar\u00e9",
-      "url": "https://open.spotify.com/track/6zcdLtTcaqCT4KAtESlNiY"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1055,6 +1039,22 @@
       "duration_ms": 477760,
       "name": "Viva Juan Gabriel / Popurr\u00ed",
       "url": "https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Antologia (Volumen 2)",
+        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
+      },
+      "artists": [
+        {
+          "name": "Nelson Ned",
+          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "El Dia Que Me Acaricies Llorar\u00e9",
+      "url": "https://open.spotify.com/track/6zcdLtTcaqCT4KAtESlNiY"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Mi Tributo a Juan Gabriel",
+        "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 284306,
+      "name": "Con Tu Amor",
+      "url": "https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Juan Gabriel - 40 Aniversario",
         "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 254693,
       "name": "Quiz\u00e1s Ma\u00f1ana",
       "url": "https://open.spotify.com/track/7M1iJDm9sewaakBFcMHlT4"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Mi Tributo a Juan Gabriel",
-        "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 284306,
-      "name": "Con Tu Amor",
-      "url": "https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Amor Eterno al Divo / Tributo de Rock",
-        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/6wRhvAUh6C5QUoK59hc9A1"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Caray",
-      "url": "https://open.spotify.com/track/3SfJvKD71vxorr1phTNFAR"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Juan Gabriel y Lo Mas Romantico De",
         "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
       },
@@ -1352,13 +1336,13 @@
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Agrupaci\u00f3n Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/6wRhvAUh6C5QUoK59hc9A1"
         }
       ],
-      "duration_ms": 244626,
-      "name": "Siempre en Mi Mente",
-      "url": "https://open.spotify.com/track/0L1MX6vqPouDij4B8jorN6"
+      "duration_ms": 223493,
+      "name": "Caray",
+      "url": "https://open.spotify.com/track/3SfJvKD71vxorr1phTNFAR"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1375,6 +1359,22 @@
       "duration_ms": 266217,
       "name": "Frente a Frente",
       "url": "https://open.spotify.com/track/3yzuISFnUKiHF7hKWpdovR"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Amor Eterno al Divo / Tributo de Rock",
+        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 244626,
+      "name": "Siempre en Mi Mente",
+      "url": "https://open.spotify.com/track/0L1MX6vqPouDij4B8jorN6"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Canciones Que Recuerdo",
-        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
-      },
-      "artists": [
-        {
-          "name": "Frankie J",
-          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
-        },
-        {
-          "name": "Emily Bautista",
-          "url": "https://open.spotify.com/artist/6kw6B6Enh4eYTH8yGtLrwn"
-        }
-      ],
-      "duration_ms": 179013,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/5kKGFC0lpNscOOapSwM8DB"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Sensibilidad",
         "url": "https://open.spotify.com/album/4mdlun9NX07tuIjGKPZQhL"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 217946,
       "name": "La M\u00e1s Querida",
       "url": "https://open.spotify.com/track/2vvoH0Nn8e11RPPyx7KkTb"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Canciones Que Recuerdo",
+        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
+      },
+      "artists": [
+        {
+          "name": "Frankie J",
+          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        },
+        {
+          "name": "Emily Bautista",
+          "url": "https://open.spotify.com/artist/6kw6B6Enh4eYTH8yGtLrwn"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/5kKGFC0lpNscOOapSwM8DB"
     },
     {
       "added_at": "2023-05-05 18:26:22",

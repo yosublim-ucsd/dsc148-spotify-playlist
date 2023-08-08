@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover:\bJo Hyun Ah(\uc870\ud604\uc544)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover:\bKim Do Hee(\uae40\ub3c4\ud76c)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -8799,6 +8799,24 @@
     },
     {
       "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/0SMuKynMzf8sA5gxAq6BbN"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233120,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4C4NgO8wekPIHieKk7apfA"
+    },
+    {
+      "album": {
         "name": "Love Alone (CURTAIN CALL OST Part.6)",
         "url": "https://open.spotify.com/album/4XgfduD3vOgaJeolOa5Nz4"
       },
@@ -11200,6 +11218,24 @@
       "duration_ms": 233880,
       "name": "Our Days",
       "url": "https://open.spotify.com/track/70AnBuAJhAFDAlHA4ILXjW"
+    },
+    {
+      "album": {
+        "name": "Our Night is more beautiful than your Day",
+        "url": "https://open.spotify.com/album/5GQw3mn3wr4asTSR73VHTq"
+      },
+      "artists": [
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199320,
+      "name": "Our Night is more beautiful than your Day",
+      "url": "https://open.spotify.com/track/0SXsRcuTaWZAg6QyDhncpY"
     },
     {
       "album": {
@@ -15052,6 +15088,24 @@
       "duration_ms": 281880,
       "name": "understand",
       "url": "https://open.spotify.com/track/3J1SWo1MyGSR6dwjv1jdlT"
+    },
+    {
+      "album": {
+        "name": "Unforgettable memories",
+        "url": "https://open.spotify.com/album/2nsCYqJqfLuuebsVZTNXmb"
+      },
+      "artists": [
+        {
+          "name": "KIM DO HEE",
+          "url": "https://open.spotify.com/artist/2u6Q4aqOAeDYSUUwKYo8r4"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Unforgettable memories",
+      "url": "https://open.spotify.com/track/3DzihRTuMj2cR5awD5t1Tq"
     },
     {
       "album": {

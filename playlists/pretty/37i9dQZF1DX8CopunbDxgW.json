@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: ODESZA & Yellow House",
-  "num_followers": 861034,
+  "num_followers": 861116,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDVkZmJhZDA5NTI5ODI0ZmNlYjdkZDBkMjUxY2ZmMDUxZTE0MWI0",
+  "snapshot_id": "MCw3ZDRjNGZmYmE5MGYyYmVkZmFhNjcwNmQ3NWNlMTQyYjM1MzMwNjQ2",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -425,26 +425,6 @@
       "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "I've Been In Love",
-        "url": "https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 169472,
-      "name": "I've Been In Love",
-      "url": "https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM"
-    },
-    {
       "added_at": "2023-04-21 17:35:52",
       "album": {
         "name": "Alone in the Mountains",
@@ -491,6 +471,26 @@
       "duration_ms": 182479,
       "name": "WASTED ON ME",
       "url": "https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "I've Been In Love",
+        "url": "https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 169472,
+      "name": "I've Been In Love",
+      "url": "https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM"
     },
     {
       "added_at": "2023-04-18 16:41:50",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/2voltAhgLIXdr0AdlmYi8u"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Dominoes",
-        "url": "https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 177520,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9"
-    },
-    {
       "added_at": "2023-03-10 15:28:12",
       "album": {
         "name": "JUNGLE",
@@ -611,6 +595,22 @@
       "duration_ms": 249160,
       "name": "MADLY",
       "url": "https://open.spotify.com/track/7Eg6WudP6Qp7JzqldA2ZTH"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Dominoes",
+        "url": "https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 177520,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9"
     },
     {
       "added_at": "2023-06-26 13:16:57",
@@ -769,6 +769,22 @@
       "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
     },
     {
+      "added_at": "2023-03-10 15:28:12",
+      "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "LULLABY",
+      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
+    },
+    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Light Places",
@@ -787,42 +803,6 @@
       "duration_ms": 241804,
       "name": "Feels Just Like It",
       "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
-    },
-    {
-      "added_at": "2023-03-10 15:28:12",
-      "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "LULLABY",
-      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
-    },
-    {
-      "added_at": "2023-03-10 15:28:12",
-      "album": {
-        "name": "CooCool",
-        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 271112,
-      "name": "CooCool",
-      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -845,40 +825,24 @@
       "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
     },
     {
-      "added_at": "2023-07-14 14:00:00",
+      "added_at": "2023-03-10 15:28:12",
       "album": {
-        "name": "Wagging Tongue (Remixes)",
-        "url": "https://open.spotify.com/album/3Oc7qOr81qHQIfNMjdEU1H"
+        "name": "CooCool",
+        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
         },
         {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
         }
       ],
-      "duration_ms": 278081,
-      "name": "Wagging Tongue - Wet Leg Remix",
-      "url": "https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd"
-    },
-    {
-      "added_at": "2023-07-10 13:50:12",
-      "album": {
-        "name": "Slugs of Love",
-        "url": "https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 166125,
-      "name": "Disco Dangerous",
-      "url": "https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652"
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
     },
     {
       "added_at": "2023-07-10 13:50:12",
@@ -897,24 +861,40 @@
       "url": "https://open.spotify.com/track/2uWCpK3UYOCF4lDcE36XHM"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-07-10 13:50:12",
       "album": {
-        "name": "You Knew",
-        "url": "https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc"
+        "name": "Slugs of Love",
+        "url": "https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY"
       },
       "artists": [
         {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 175000,
-      "name": "You Knew - Edit",
-      "url": "https://open.spotify.com/track/72UXdc6vi8bgtJHpTuLjHl"
+      "duration_ms": 166125,
+      "name": "Disco Dangerous",
+      "url": "https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652"
+    },
+    {
+      "added_at": "2023-07-14 14:00:00",
+      "album": {
+        "name": "Wagging Tongue (Remixes)",
+        "url": "https://open.spotify.com/album/3Oc7qOr81qHQIfNMjdEU1H"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 278081,
+      "name": "Wagging Tongue - Wet Leg Remix",
+      "url": "https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd"
     },
     {
       "added_at": "2023-07-14 14:00:00",
@@ -973,6 +953,26 @@
       "url": "https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL"
     },
     {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "You Knew",
+        "url": "https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "You Knew - Edit",
+      "url": "https://open.spotify.com/track/72UXdc6vi8bgtJHpTuLjHl"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "CLASH",
@@ -1009,22 +1009,6 @@
       "url": "https://open.spotify.com/track/3mhmsgWbnEex2qBUZEUnCK"
     },
     {
-      "added_at": "2023-04-21 17:35:52",
-      "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3"
-      },
-      "artists": [
-        {
-          "name": "Madelline",
-          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
-        }
-      ],
-      "duration_ms": 165461,
-      "name": "dopamine - Version Fran\u00e7aise",
-      "url": "https://open.spotify.com/track/4B6eD1nzrz6PNOLMgtT7VX"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "No Nein",
@@ -1043,6 +1027,22 @@
       "duration_ms": 151273,
       "name": "No Nein",
       "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
+    },
+    {
+      "added_at": "2023-04-21 17:35:52",
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3"
+      },
+      "artists": [
+        {
+          "name": "Madelline",
+          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
+        }
+      ],
+      "duration_ms": 165461,
+      "name": "dopamine - Version Fran\u00e7aise",
+      "url": "https://open.spotify.com/track/4B6eD1nzrz6PNOLMgtT7VX"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1113,26 +1113,6 @@
       "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
     },
     {
-      "added_at": "2023-07-14 14:00:00",
-      "album": {
-        "name": "Let's Break It Down",
-        "url": "https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Let's Break It Down",
-      "url": "https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "AudioLust & HigherLove",
@@ -1175,6 +1155,26 @@
       "duration_ms": 188800,
       "name": "All the Good Times Never Die",
       "url": "https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM"
+    },
+    {
+      "added_at": "2023-07-14 14:00:00",
+      "album": {
+        "name": "Let's Break It Down",
+        "url": "https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Let's Break It Down",
+      "url": "https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1433,6 +1433,22 @@
       "url": "https://open.spotify.com/track/3VsuqAQ7XXKsygtCGyPzO1"
     },
     {
+      "added_at": "2023-04-28 05:14:56",
+      "album": {
+        "name": "& the Charm",
+        "url": "https://open.spotify.com/album/6gRl7N6UQKKmXCv3nhYlMu"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 219833,
+      "name": "Astrology Poisoning",
+      "url": "https://open.spotify.com/track/2vYd15dPYelxBESvyviVbf"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Rooftop",
@@ -1451,22 +1467,6 @@
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
-    },
-    {
-      "added_at": "2023-04-28 05:14:56",
-      "album": {
-        "name": "& the Charm",
-        "url": "https://open.spotify.com/album/6gRl7N6UQKKmXCv3nhYlMu"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        }
-      ],
-      "duration_ms": 219833,
-      "name": "Astrology Poisoning",
-      "url": "https://open.spotify.com/track/2vYd15dPYelxBESvyviVbf"
     },
     {
       "added_at": "2023-04-28 05:14:56",
@@ -1505,22 +1505,6 @@
       "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
-      "added_at": "2023-06-09 14:15:06",
-      "album": {
-        "name": "All The Things We Say / Move Me",
-        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 231105,
-      "name": "All The Things We Say",
-      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "Tasty",
@@ -1541,6 +1525,22 @@
       "url": "https://open.spotify.com/track/1mVTQSGoFchL3VVrIa0MeH"
     },
     {
+      "added_at": "2023-06-09 14:15:06",
+      "album": {
+        "name": "All The Things We Say / Move Me",
+        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 231105,
+      "name": "All The Things We Say",
+      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "TANZPARTEI (Mixtape)",
@@ -1555,6 +1555,26 @@
       "duration_ms": 214545,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "DAYS GO BY",
+        "url": "https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 271756,
+      "name": "DAYS GO BY",
+      "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1581,24 +1601,20 @@
       "url": "https://open.spotify.com/track/6OoLVkHNPsKuPdOBAkhg4r"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-06-30 17:41:56",
       "album": {
-        "name": "DAYS GO BY",
-        "url": "https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw"
+        "name": "(I Don't Need A) New Girl",
+        "url": "https://open.spotify.com/album/4TiuZvVjh4Xpti8n3RnFyo"
       },
       "artists": [
         {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        },
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
         }
       ],
-      "duration_ms": 271756,
-      "name": "DAYS GO BY",
-      "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
+      "duration_ms": 273080,
+      "name": "(I Don't Need A) New Girl",
+      "url": "https://open.spotify.com/track/3qHMMDEzTWWayWTEJ84gNk"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1635,22 +1651,6 @@
       "duration_ms": 237986,
       "name": "In The Summer",
       "url": "https://open.spotify.com/track/15wh4sekuZ58WzHW1V33Zi"
-    },
-    {
-      "added_at": "2023-06-30 17:41:56",
-      "album": {
-        "name": "(I Don't Need A) New Girl",
-        "url": "https://open.spotify.com/album/4TiuZvVjh4Xpti8n3RnFyo"
-      },
-      "artists": [
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 273080,
-      "name": "(I Don't Need A) New Girl",
-      "url": "https://open.spotify.com/track/3qHMMDEzTWWayWTEJ84gNk"
     },
     {
       "added_at": "2023-07-10 13:50:12",
@@ -1745,6 +1745,22 @@
       "url": "https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Tumbling Dice",
+        "url": "https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 175991,
+      "name": "Tumbling Dice",
+      "url": "https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H"
+    },
+    {
       "added_at": "2023-03-10 15:28:12",
       "album": {
         "name": "Sunrise Bang Ur Head Against Tha Wall",
@@ -1763,22 +1779,6 @@
       "duration_ms": 207280,
       "name": "No Need 2 Be Sorry, Call Me? (ft. Maverick Sabre)",
       "url": "https://open.spotify.com/track/1DpjVHeNTz2UIXkAd4CBF8"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Tumbling Dice",
-        "url": "https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 175991,
-      "name": "Tumbling Dice",
-      "url": "https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H"
     },
     {
       "added_at": "2023-03-10 15:28:12",

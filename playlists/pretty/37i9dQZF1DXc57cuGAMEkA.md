@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Doja Cat,<br/>back number, Bebe Rexha & David Guetta, back number and more! cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,879 likes - 79 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,884 likes - 79 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 57 | [ONE MORE TIME](https://open.spotify.com/track/2HGAKzcfEtMfbM2ssgiKez) | [BBGIRLS](https://open.spotify.com/artist/7yXtdZLKdtwH5FrxduK7ti) | [ONE MORE TIME](https://open.spotify.com/album/5o3vgo7t4tTTCVh9zSptML) | 3:07 |
 | 58 | [India to Japan](https://open.spotify.com/track/3tasmQMin5MLuvl6aaclCy) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Shirley Setia](https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI), [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [Industry2](https://open.spotify.com/album/6KEQkBqgnNo0RN6tfmuc6I) | 2:52 |
 | 59 | [Bossy](https://open.spotify.com/track/3uuytiAc3p8k73EM9WENt2) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Cinta Laura Kiehl](https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn) | [Bossy](https://open.spotify.com/album/5nb8r2gQC3ro3g5s1VETMz) | 2:14 |
-| 60 | [Ready For It \(feat\. Eric Bellinger\)](https://open.spotify.com/track/3TZaeEmGv6HsdARIAwvdIs) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Ready For It \(feat\. Eric Bellinger\)](https://open.spotify.com/album/42fWXOdXkh3M5872YHc9zS) | 2:27 |
+| 60 | [Ready For It](https://open.spotify.com/track/3TZaeEmGv6HsdARIAwvdIs) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Ready For It](https://open.spotify.com/album/42fWXOdXkh3M5872YHc9zS) | 2:27 |
 | 61 | [Day Dreams](https://open.spotify.com/track/03DGwbY8WataLlPkklkXKL) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Day Dreams](https://open.spotify.com/album/2bb8gN0xF2BGAGrolED9zU) | 3:45 |
 | 62 | [Start Again](https://open.spotify.com/track/5A5bwcDikT756mRVs9gVCw) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Start Again](https://open.spotify.com/album/2n5GoOI0mkA8zavtQ32xU3) | 2:40 |
 | 63 | [I'm Alright](https://open.spotify.com/track/1GuW9IWVsGZOIhpwvMt7Ht) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [I'm Alright](https://open.spotify.com/album/7J89BNNwTMOeNj6PzNXOHI) | 4:35 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 78 | [Black Nile](https://open.spotify.com/track/7jM01vnA3IbskNLZF23lyV) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Black Nile](https://open.spotify.com/album/6xaT3uAYw8VBtcI3hshU5V) | 3:33 |
 | 79 | [Looking in the Same Direction](https://open.spotify.com/track/3223tV7OEezdOyG2CxXKzi) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Looking in the Same Direction](https://open.spotify.com/album/0dnnSN7ZOeMC3O3UutSPHU) | 4:04 |
 
-Snapshot ID: `MCxkMTE5NjYxOTM3ZTc5MWFiOWY2NGZhYjA3MGQ4Njk3M2M1YTZlYTBi`
+Snapshot ID: `MCwzMTRiOTlhNTExM2I0Y2RjZTgyNGZmZGNhOTNmZTNmODY1M2UzMTcw`

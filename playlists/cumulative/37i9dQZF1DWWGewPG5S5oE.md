@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: H ZETTRIO
 
-187 songs - 15 hr 27 min
+188 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bird Of Beauty](https://open.spotify.com/track/5OmSzWSzMLHpTK1tp4zm95) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Bird Of Beauty](https://open.spotify.com/album/0qvKH6LujY8DPBZXRzeVAI) | 6:02 | 2023-03-07 | 2023-04-03 |
 | [Birth](https://open.spotify.com/track/0hUEm1BwD8R4Z1BebTKjOM) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Birth](https://open.spotify.com/album/3f7Hyu4Ll25UKKb3NkdHuh) | 7:30 | 2023-03-07 | 2023-04-05 |
 | [Blackberry Winter](https://open.spotify.com/track/1QLz0xLqYiTLH1wgFH6syY) | [秩父英里](https://open.spotify.com/artist/3zVWuFMxi3W6BBeKUZX8GO) | [Crossing Reality](https://open.spotify.com/album/1D26JQHB9n7RDINZ5O8tXe) | 4:38 | 2022-09-06 | 2022-11-16 |
-| [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 | 2022-09-06 |  |
+| [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 | 2022-09-06 | 2023-08-08 |
 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 | 2022-09-06 |  |
 | [BLUE GIANT \- 『BLUE GIANT』サウンドトラックより](https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(『BLUE GIANT』サウンドトラックより\)](https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3) | 3:38 | 2023-02-07 | 2023-08-07 |
 | [Blues for K](https://open.spotify.com/track/1VnOzW4zYaDifRPreUur35) | [Tsuyoshi Yamamoto](https://open.spotify.com/artist/4Le6xcHzz9CpoxAmXgtZP5) | [Blues For K](https://open.spotify.com/album/4xomV4Sw1aCp2SyEHNtALk) | 3:52 | 2023-01-24 | 2023-04-19 |
@@ -59,8 +59,9 @@
 | [Gris et Liberte \- Instrumental](https://open.spotify.com/track/6s65YPAcJvDlwr39acdfBd) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Gris et Liberte \(Instrumental\)](https://open.spotify.com/album/7lfafdRUa09dtEvcO0cB6J) | 4:09 | 2022-10-11 | 2023-03-08 |
 | [Happy Valley](https://open.spotify.com/track/3xlaQKI5hsy0WnUgGa49Tu) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 3:40 | 2023-05-02 | 2023-07-06 |
 | [Hatsukoi no Akuma \-Dance With The Devil\-](https://open.spotify.com/track/0xP8UvYMtR5LGq3tsJ1JO3) | [SOIL & "PIMP" SESSIONS with RHYMESTER](https://open.spotify.com/artist/2lcYYmJQqNAPYrfpSeUYih), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF), [RHYMESTER](https://open.spotify.com/artist/2S6A6zkTKElCA0BJku4FBZ) | [Hatsukoi no Akuma \-Dance With The Devil\-](https://open.spotify.com/album/4FbryMi5ALp0suonMQW3la) | 3:10 | 2022-09-13 | 2022-10-19 |
-| [Head Up!](https://open.spotify.com/track/1Mddd5h0Dp5BXYAZJ6HgFG) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Head Up!](https://open.spotify.com/album/6bsTkfLSauKjmnRkrSIcJ4) | 4:20 | 2023-07-11 |  |
+| [Head Up!](https://open.spotify.com/track/1Mddd5h0Dp5BXYAZJ6HgFG) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Head Up!](https://open.spotify.com/album/6bsTkfLSauKjmnRkrSIcJ4) | 4:20 | 2023-07-11 | 2023-08-08 |
 | [Head up!](https://open.spotify.com/track/3n0g8ymrTbQ4NEH04K4MUG) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Head up!](https://open.spotify.com/album/3AWLesXuAFHP1YCrOLOoSl) | 4:20 | 2023-07-11 | 2023-07-13 |
+| [Head Up!](https://open.spotify.com/track/4CWzxZbZWIEIqCkFIFVdjV) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [JiLL\-Decoy association 10 \-Double\-](https://open.spotify.com/album/1gyUhmViC36wfc04CICOb2) | 4:20 | 2023-08-01 |  |
 | [here](https://open.spotify.com/track/38AFhyf8NXJWsra76yd8m4) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [gnome](https://open.spotify.com/album/5GoIKRfkH5A11hbwrJImVV) | 5:36 | 2022-10-18 | 2023-05-31 |
 | [Hey Ya!](https://open.spotify.com/track/4e6RFlmSuhmluhZBBhdvu2) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Hey Ya!](https://open.spotify.com/album/4oXsNBEkclwgGjX4zKRiDv) | 4:34 | 2023-03-07 | 2023-04-04 |
 | [I Am, Because You Are](https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS) | [海野 雅威](https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx) | [I Am, Because You Are](https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5) | 6:49 | 2023-05-23 | 2023-07-12 |
@@ -136,7 +137,7 @@
 | [Synapse](https://open.spotify.com/track/1GrmygOfLmflrho3gQRw9J) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Synapse](https://open.spotify.com/album/0YW1Wqu4Wf7bmkkDuddSoP) | 4:30 | 2023-02-28 | 2023-05-08 |
 | [T.H.E\. \- Instrumental](https://open.spotify.com/track/7urvwSOF8IWNynEpoQOSik) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [T.H.E\. \(Instrumental\)](https://open.spotify.com/album/4cNyNFudfHb9txaVpToJ3D) | 4:45 | 2023-06-27 |  |
 | [Thanks For Emily](https://open.spotify.com/track/5pXuqemHKZqtHMTAbFRVFK) | [Fumika Asari](https://open.spotify.com/artist/0XhLhf8Kv1Ox6l7Y2l9gtK) | [Thanks For Emily](https://open.spotify.com/album/6SnmxEiNhgy8qvJGOsUOb8) | 5:39 | 2023-04-18 | 2023-05-17 |
-| [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 | 2022-10-25 | 2023-08-02 |
+| [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 | 2022-10-25 |  |
 | [THE REASON](https://open.spotify.com/track/5xfX9hGoqTrtf8CKRooKDJ) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [THE REASON](https://open.spotify.com/album/4B2QFm17k16m1nokbJbieB) | 4:50 | 2023-02-28 | 2023-03-29 |
 | [The Star\-Crossed Lovers](https://open.spotify.com/track/1rb5DXtKEEj1RBYIqif0iA) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [The Star\-Crossed Lovers](https://open.spotify.com/album/4ztShkBEvgeWnP6yTgDxHn) | 3:17 | 2022-11-15 | 2022-12-21 |
 | [The Unknown](https://open.spotify.com/track/3b4t9KTy40eagXOvLavU1U) | [Hiromuトリオ](https://open.spotify.com/artist/3fzQgygmoz4JfqJXQT6NPN) | [The Unknown](https://open.spotify.com/album/5HDcwGJboLB2BG1qAtYRaq) | 7:54 | 2022-09-06 | 2023-01-18 |

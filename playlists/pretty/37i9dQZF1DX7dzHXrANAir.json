@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 98031,
+  "num_followers": 98085,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWQyODMxOTc5Njc1MWQ0MzFjMzZkMWVjMDEzODcyZjllZGVjODcx",
+  "snapshot_id": "MCw4OTY3MjQxNTk2Mzk3NzVjMjA0YTBkYjE3MjA2MDJjZDk2NTkyZjI2",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Empty City",
-        "url": "https://open.spotify.com/album/62uP1pylQLNpVpphnniEFh"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
-        }
-      ],
-      "duration_ms": 196523,
-      "name": "Empty City",
-      "url": "https://open.spotify.com/track/1xZRY4Gyj5ffsMkWqLZwj1"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Hafursey (Yfir)",
         "url": "https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 299441,
       "name": "Hafursey (Yfir)",
       "url": "https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Empty City",
+        "url": "https://open.spotify.com/album/62uP1pylQLNpVpphnniEFh"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+        }
+      ],
+      "duration_ms": 196523,
+      "name": "Empty City",
+      "url": "https://open.spotify.com/track/1xZRY4Gyj5ffsMkWqLZwj1"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -283,26 +283,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "L(oo)ping",
-        "url": "https://open.spotify.com/album/1vilAgPngRqfMUWHffyR4O"
+        "name": "Loom",
+        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
       },
       "artists": [
         {
-          "name": "Rone",
-          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         },
         {
-          "name": "Dirk Bross\u00e9",
-          "url": "https://open.spotify.com/artist/34bKiLjmHfp1mAX5Tq3d2y"
-        },
-        {
-          "name": "Orchestre National De Lyon",
-          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 312653,
-      "name": "Ghosts - Looping",
-      "url": "https://open.spotify.com/track/30I4KLVCqUtRR1JICkr4PY"
+      "duration_ms": 226866,
+      "name": "Loom (feat. Bonobo)",
+      "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -331,6 +327,30 @@
       "duration_ms": 174855,
       "name": "Integration",
       "url": "https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "L(oo)ping",
+        "url": "https://open.spotify.com/album/1vilAgPngRqfMUWHffyR4O"
+      },
+      "artists": [
+        {
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        },
+        {
+          "name": "Dirk Bross\u00e9",
+          "url": "https://open.spotify.com/artist/34bKiLjmHfp1mAX5Tq3d2y"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        }
+      ],
+      "duration_ms": 312653,
+      "name": "Ghosts - Looping",
+      "url": "https://open.spotify.com/track/30I4KLVCqUtRR1JICkr4PY"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -375,42 +395,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Loom",
-        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Loom (feat. Bonobo)",
-      "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
-      },
-      "artists": [
-        {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
-        }
-      ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Abu Simbel (Hania Rani Invalides Version)",
         "url": "https://open.spotify.com/album/7N41MiqOp7BbYOZmSxt900"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 339082,
       "name": "Abu Simbel - Hania Rani Invalides Version",
       "url": "https://open.spotify.com/track/1A3K44xa9pVPWdsCnfdHim"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -475,6 +475,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "and we\u2019ll leave it there\u2026",
+        "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Ella McRobb",
+          "url": "https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "and we\u2019ll leave it there\u2026",
+      "url": "https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "hundred00",
         "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
       },
@@ -519,26 +539,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "and we\u2019ll leave it there\u2026",
-        "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Ella McRobb",
-          "url": "https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "and we\u2019ll leave it there\u2026",
-      "url": "https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Reimagined. Volume 2, Chapter 3",
         "url": "https://open.spotify.com/album/6iyXg5JupzZxpAeyNXkOdw"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "On Giacometti",
-        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 353200,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0qYHJXm3QgVlZOwTHtGymE"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 153120,
       "name": "Home",
       "url": "https://open.spotify.com/track/3wWixrFAYmJEDGwK7ipu3b"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "On Giacometti",
+        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 353200,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Venice - Infinitely Avantgarde (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 235563,
-      "name": "G-Minor",
-      "url": "https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Orph\u00e9e",
         "url": "https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 148600,
       "name": "De Luce et Umbra",
       "url": "https://open.spotify.com/track/3xQFcCnjsWMIVJo66jC0U2"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Venice - Infinitely Avantgarde (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 235563,
+      "name": "G-Minor",
+      "url": "https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -771,38 +771,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "N\u00e9fos",
-        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
-      },
-      "artists": [
-        {
-          "name": "\u1ea0oris",
-          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "N\u00e9fos",
-      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Music for Film and Theatre",
-        "url": "https://open.spotify.com/album/2lxo1T9lLWrS9EGdMOx37W"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 233148,
-      "name": "Soleil P\u00e2le",
-      "url": "https://open.spotify.com/track/4ybl2VlK5Iw5zVT8WeSzhJ"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Circle 23 (Slow Meadow Rework)",
         "url": "https://open.spotify.com/album/66rfRw6aDTgOeSTT8xfN6J"
       },
@@ -823,6 +791,22 @@
       "duration_ms": 323855,
       "name": "Circle 23 - Slow Meadow Rework",
       "url": "https://open.spotify.com/track/6Rk40KBJsfnmmQbg3R35VY"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "N\u00e9fos",
+        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
+      },
+      "artists": [
+        {
+          "name": "\u1ea0oris",
+          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "N\u00e9fos",
+      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -871,6 +855,22 @@
       "duration_ms": 245500,
       "name": "Spirit Loop",
       "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Music for Film and Theatre",
+        "url": "https://open.spotify.com/album/2lxo1T9lLWrS9EGdMOx37W"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 233148,
+      "name": "Soleil P\u00e2le",
+      "url": "https://open.spotify.com/track/4ybl2VlK5Iw5zVT8WeSzhJ"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Sh\u00e9h\u00e9razade (Laura Masotto Rework)",
-        "url": "https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q"
-      },
-      "artists": [
-        {
-          "name": "Laura Masotto",
-          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
-        },
-        {
-          "name": "Matteo Zanferrari",
-          "url": "https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj"
-        }
-      ],
-      "duration_ms": 243431,
-      "name": "Sh\u00e9h\u00e9razade - Laura Masotto Rework",
-      "url": "https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Gabriel (Tom Player Strings Version)",
         "url": "https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 182212,
       "name": "Gabriel - Tom Player Strings Version",
       "url": "https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Sh\u00e9h\u00e9razade (Laura Masotto Rework)",
+        "url": "https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q"
+      },
+      "artists": [
+        {
+          "name": "Laura Masotto",
+          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
+        },
+        {
+          "name": "Matteo Zanferrari",
+          "url": "https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj"
+        }
+      ],
+      "duration_ms": 243431,
+      "name": "Sh\u00e9h\u00e9razade - Laura Masotto Rework",
+      "url": "https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
-        "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 335149,
-      "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
-      "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Close To Her",
         "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 209558,
       "name": "Close To Her",
       "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
+        "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 335149,
+      "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
+      "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
-        "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
-      },
-      "artists": [
-        {
-          "name": "Paulette Verl\u00e9e",
-          "url": "https://open.spotify.com/artist/2Kn9tuEFJjD03T5PafKbfL"
-        }
-      ],
-      "duration_ms": 278613,
-      "name": "February",
-      "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Elv",
         "url": "https://open.spotify.com/album/2AYkX2u0YNy42CPu0Pgqnu"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 238602,
       "name": "Riva",
       "url": "https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
+        "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
+      },
+      "artists": [
+        {
+          "name": "Paulette Verl\u00e9e",
+          "url": "https://open.spotify.com/artist/2Kn9tuEFJjD03T5PafKbfL"
+        }
+      ],
+      "duration_ms": 278613,
+      "name": "February",
+      "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Walking With Ghosts",
-        "url": "https://open.spotify.com/album/64rmZu0eAuaBkLf6qmqC9a"
+        "name": "k o : d a",
+        "url": "https://open.spotify.com/album/06UNIbT3ICptJEmbilqSl2"
       },
       "artists": [
         {
-          "name": "Thom Robson",
-          "url": "https://open.spotify.com/artist/6dSKrqQgsG1AI65KmkJ3lk"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 234473,
-      "name": "Remembering",
-      "url": "https://open.spotify.com/track/2RHW2VL9lzT70oVA4PvNaE"
+      "duration_ms": 238000,
+      "name": "Klass (MISSUXO Film Edit)",
+      "url": "https://open.spotify.com/track/3mFZ5f0WSCQCt8EISSCuZS"
     }
   ],
   "unique_name": "Classical X",

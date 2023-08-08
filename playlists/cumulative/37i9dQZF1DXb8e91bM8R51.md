@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-337 songs - 19 hr 20 min
+338 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Tetris](https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Tetris](https://open.spotify.com/album/3ybxNYXKxSUKMuZOuwJPc5) | 2:04 | 2022-04-22 | 2022-07-29 |
 | [Tetris](https://open.spotify.com/track/7tQpKKS4Jis0pCotemeLdz) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 2:04 | 2022-07-08 |  |
 | [Tha Realness](https://open.spotify.com/track/6PWWyWEnQI5wZOslzWDr8K) | [Group Home](https://open.spotify.com/artist/48elQHSJ3DmffHQpf89jxX) | [Livin' Proof](https://open.spotify.com/album/3fbcKscWKVKFcgdX1XaWFf) | 4:32 | 2022-01-14 | 2022-07-19 |
+| [Thang For You \(feat\. No Cap\)](https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/3o2XvAddxTcAXl5wwWrrPZ) | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2) | 4:19 | 2023-08-07 |  |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-13 |  |
 | [The Jackie \(with J\. Cole & Lil Tjay\)](https://open.spotify.com/track/15qKrPi4Kg0z7g9HlwWyeb) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [The Jackie \(with J\. Cole & Lil Tjay\)](https://open.spotify.com/album/6xiJPpCpSaM5l4Fz8IYjyU) | 3:24 | 2022-01-14 | 2022-07-29 |
 | [The Legacy](https://open.spotify.com/track/4jb5oH4vmShQ542vofpwQu) | [Group Home](https://open.spotify.com/artist/48elQHSJ3DmffHQpf89jxX), [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [A Tear For The Ghetto](https://open.spotify.com/album/0QiUcnzRMUG2feqKc54Nb4) | 4:01 | 2022-01-14 | 2022-03-04 |
@@ -325,7 +326,7 @@
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-05-06 |  |
 | [Venom \- Remix](https://open.spotify.com/track/6kUaRtXf19fu5IQWjmwsEJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Last One Standing \(feat\. Polo G, Mozzy & Eminem\) \[From Venom: Let There Be Carnage\]](https://open.spotify.com/album/2aYIs6VLwMLzONDdVtNOe6) | 4:21 | 2022-01-14 | 2022-03-05 |
 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 | 2022-01-28 | 2022-03-12 |
-| [Vinyl Days \(feat\. DJ Premier\)](https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Vinyl Days](https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1) | 4:42 | 2022-05-23 |  |
+| [Vinyl Days \(feat\. DJ Premier\)](https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Vinyl Days](https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1) | 4:42 | 2022-05-23 | 2023-08-08 |
 | [VOYE DLO](https://open.spotify.com/track/6hiVu08uKEKnt7EAkR7dMM) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL), [Eddy François](https://open.spotify.com/artist/02Zdh2qx1UHExC0nc4q27B) | [VOYE DLO](https://open.spotify.com/album/0W65J73l0VIYYVxT2AYHdl) | 4:43 | 2022-05-23 | 2022-06-25 |
 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 | 2022-05-06 |  |
 | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/album/3EYg0XBIcyz3OvhIy7gsZQ) | 2:53 | 2022-01-14 | 2022-04-23 |

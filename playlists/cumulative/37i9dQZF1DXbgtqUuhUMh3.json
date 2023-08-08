@@ -2465,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "El Waat Ye'addy",
+        "url": "https://open.spotify.com/album/2tX9ObmVM72PqXBBiU5I1U"
+      },
+      "artists": [
+        {
+          "name": "Nesma Mahgoub",
+          "url": "https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160677,
+      "name": "El Waat Ye'addy",
+      "url": "https://open.spotify.com/track/4vWmdNLtZzU3f0tlKvHWAc"
+    },
+    {
+      "album": {
         "name": "Elain Tebki",
         "url": "https://open.spotify.com/album/5Y5e4ZbvgGgnPmTTfZzjUH"
       },
@@ -6267,6 +6285,24 @@
     },
     {
       "album": {
+        "name": "Sfina",
+        "url": "https://open.spotify.com/album/5RWHLxEoXM5aB4giVa6tBV"
+      },
+      "artists": [
+        {
+          "name": "Nada",
+          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Sfina",
+      "url": "https://open.spotify.com/track/0pdfM1coo5llkgIYOhqcQB"
+    },
+    {
+      "album": {
         "name": "Shabeah Rouhi",
         "url": "https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd"
       },
@@ -6718,7 +6754,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 183556,
       "name": "Taqa Egabiya",
       "url": "https://open.spotify.com/track/36W3RtxBprZcvw1bcbcQFW"
@@ -8996,7 +9032,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 147804,
       "name": "\u0645\u0627\u0644\u064a\u0634 \u0641\u064a \u0627\u0644\u0642\u0641\u0634",
       "url": "https://open.spotify.com/track/4nSB4EJoJBdFHVKiZGooa8"

@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 166635,
       "name": "Mr Diablo",
       "url": "https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc"
@@ -2400,6 +2400,24 @@
       "duration_ms": 226520,
       "name": "Nan ou",
       "url": "https://open.spotify.com/track/7BXFfnn1uw7e1Zx6Pi3KGH"
+    },
+    {
+      "album": {
+        "name": "New Life Livin",
+        "url": "https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z"
+      },
+      "artists": [
+        {
+          "name": "Kai Alce",
+          "url": "https://open.spotify.com/artist/7rltPaQHdstifwqWcQtSgh"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311098,
+      "name": "New Life Livin",
+      "url": "https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY"
     },
     {
       "album": {

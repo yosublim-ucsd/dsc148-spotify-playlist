@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 339759,
+  "num_followers": 339878,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDY3NzBjNmMzZGFkNjhiN2U5OTUyZTM1MmUyYTZhYmU1NTJkYWRk",
+  "snapshot_id": "MCwxY2ZmODNmOTdhMTQ5M2QxNTkxODJiZTQzZWUwYzc1MDFhMjc1OWE1",
   "tracks": [
     {
       "added_at": "2023-07-14 10:25:34",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-07-14 10:25:34",
       "album": {
-        "name": "All I Know So Far",
-        "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 277413,
-      "name": "All I Know So Far",
-      "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
-    },
-    {
-      "added_at": "2023-07-14 10:25:34",
-      "album": {
         "name": "Good Times Go",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 177371,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi"
+    },
+    {
+      "added_at": "2023-07-14 10:25:34",
+      "album": {
+        "name": "All I Know So Far",
+        "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 277413,
+      "name": "All I Know So Far",
+      "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
     },
     {
       "added_at": "2023-07-14 10:25:34",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-07-14 10:25:34",
       "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/05PVq1QoHWw83WCANc0psq"
+      },
+      "artists": [
+        {
+          "name": "Laurell",
+          "url": "https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/4bnutybG1itDcpyoQo2Uoc"
+    },
+    {
+      "added_at": "2023-07-14 10:25:34",
+      "album": {
         "name": "Good Without",
         "url": "https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 198221,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A"
-    },
-    {
-      "added_at": "2023-07-14 10:25:34",
-      "album": {
-        "name": "Habit",
-        "url": "https://open.spotify.com/album/05PVq1QoHWw83WCANc0psq"
-      },
-      "artists": [
-        {
-          "name": "Laurell",
-          "url": "https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/4bnutybG1itDcpyoQo2Uoc"
     },
     {
       "added_at": "2023-07-14 10:25:34",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-07-14 10:25:34",
       "album": {
-        "name": "Ghost of You",
-        "url": "https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 158063,
-      "name": "Ghost of You",
-      "url": "https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh"
-    },
-    {
-      "added_at": "2023-07-14 10:25:34",
-      "album": {
         "name": "GROWING UP IS _____",
         "url": "https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 233587,
       "name": "GROWING UP IS _____",
       "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
+    },
+    {
+      "added_at": "2023-07-14 10:25:34",
+      "album": {
+        "name": "Ghost of You",
+        "url": "https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 158063,
+      "name": "Ghost of You",
+      "url": "https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh"
     },
     {
       "added_at": "2023-07-14 10:25:34",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-07-14 10:25:34",
       "album": {
-        "name": "Sweethoneylove",
-        "url": "https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ"
-      },
-      "artists": [
-        {
-          "name": "Baba Blakes",
-          "url": "https://open.spotify.com/artist/55sIdXMuyRafLJo665SJlq"
-        }
-      ],
-      "duration_ms": 150540,
-      "name": "Sweethoneylove",
-      "url": "https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt"
-    },
-    {
-      "added_at": "2023-07-14 10:25:34",
-      "album": {
         "name": "I Blame The World",
         "url": "https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2023-07-14 10:25:34",
       "album": {
-        "name": "Keep It Low",
-        "url": "https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA"
+        "name": "Sweethoneylove",
+        "url": "https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ"
       },
       "artists": [
         {
-          "name": "Martis",
-          "url": "https://open.spotify.com/artist/4IlwiL1INGzXlZLcXM5dRI"
+          "name": "Baba Blakes",
+          "url": "https://open.spotify.com/artist/55sIdXMuyRafLJo665SJlq"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Keep It Low",
-      "url": "https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb"
+      "duration_ms": 150540,
+      "name": "Sweethoneylove",
+      "url": "https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt"
     },
     {
       "added_at": "2023-07-14 10:25:34",
@@ -1035,6 +1019,22 @@
       "duration_ms": 214383,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/78MATjjZr1LB5RNntxSCGY"
+    },
+    {
+      "added_at": "2023-07-14 10:25:34",
+      "album": {
+        "name": "Keep It Low",
+        "url": "https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA"
+      },
+      "artists": [
+        {
+          "name": "Martis",
+          "url": "https://open.spotify.com/artist/4IlwiL1INGzXlZLcXM5dRI"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Keep It Low",
+      "url": "https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb"
     },
     {
       "added_at": "2023-07-14 10:25:34",

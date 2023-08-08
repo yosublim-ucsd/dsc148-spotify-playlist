@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Austin Snell",
-  "num_followers": 93566,
+  "num_followers": 93634,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWU1ODkzN2UwYTAzN2FiZjk2NTc0MTUyM2EzODI4YTYwZThhYjI5",
+  "snapshot_id": "MCwwMGJlMmNjNTA4ODFjMjFjYjU5YTJjM2ViN2NiYmFjZGQ2ZmU0MDQx",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Grandpa (Tell Me 'bout the Good Old Days)",
-        "url": "https://open.spotify.com/album/69gvhvwY7jEIwYi0MahrtD"
-      },
-      "artists": [
-        {
-          "name": "Dave Fenley",
-          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
-        }
-      ],
-      "duration_ms": 225119,
-      "name": "Grandpa (Tell Me 'bout the Good Old Days)",
-      "url": "https://open.spotify.com/track/1XhDpX7rrCFrI3ExwrNoU3"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Acoustic Covers (Deluxe)",
         "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 232250,
       "name": "Outskirts of Heaven (feat. Craig Campbell)",
       "url": "https://open.spotify.com/track/2BzVAwyvy5yHbPkMUGhRRH"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Grandpa (Tell Me 'bout the Good Old Days)",
+        "url": "https://open.spotify.com/album/69gvhvwY7jEIwYi0MahrtD"
+      },
+      "artists": [
+        {
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+        }
+      ],
+      "duration_ms": 225119,
+      "name": "Grandpa (Tell Me 'bout the Good Old Days)",
+      "url": "https://open.spotify.com/track/1XhDpX7rrCFrI3ExwrNoU3"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -971,22 +971,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48"
+        "name": "Maoli Music Overload",
+        "url": "https://open.spotify.com/album/6WUxZbE4igXIai7HbD6coA"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        },
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
         }
       ],
-      "duration_ms": 255013,
-      "name": "Margaritaville (with Jimmy Buffett)",
-      "url": "https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn"
+      "duration_ms": 175227,
+      "name": "Make Me Want To",
+      "url": "https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1007,18 +1003,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Maoli Music Overload",
-        "url": "https://open.spotify.com/album/6WUxZbE4igXIai7HbD6coA"
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48"
       },
       "artists": [
         {
-          "name": "Maoli",
-          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 175227,
-      "name": "Make Me Want To",
-      "url": "https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ"
+      "duration_ms": 255013,
+      "name": "Margaritaville (with Jimmy Buffett)",
+      "url": "https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "It's Only Rock 'N' Roll (But I Like It)",
+        "url": "https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        },
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 322346,
+      "name": "It's Only Rock 'N' Roll (But I Like It)",
+      "url": "https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 158461,
       "name": "He Got the Best of Me",
       "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "It's Only Rock 'N' Roll (But I Like It)",
-        "url": "https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        },
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 322346,
-      "name": "It's Only Rock 'N' Roll (But I Like It)",
-      "url": "https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Kellyoke",
-        "url": "https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 232005,
-      "name": "Blue Bayou",
-      "url": "https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "1979",
         "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 320933,
       "name": "Someone Like You - Piano Vocal",
       "url": "https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Kellyoke",
+        "url": "https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 232005,
+      "name": "Blue Bayou",
+      "url": "https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
-      },
-      "artists": [
-        {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Just to See You Smile",
         "url": "https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 269525,
       "name": "Just to See You Smile",
       "url": "https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
+      },
+      "artists": [
+        {
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR"
     },
     {
       "added_at": "2023-08-04 04:01:00",

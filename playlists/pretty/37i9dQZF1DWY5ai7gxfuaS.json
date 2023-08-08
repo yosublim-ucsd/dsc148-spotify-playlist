@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 253591,
+  "num_followers": 253804,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWM1ZDE4ZTI3NjYxY2E4ZjRlYTViNjNjY2JmNGUyY2ExNDM3MDRj",
+  "snapshot_id": "MCwwNmEyYTJkNDRhZDdlYmI4M2RiYjJkNjQ4Y2YxMWQ0M2I5YTEzM2Vh",
   "tracks": [
     {
       "added_at": "2023-07-11 13:39:19",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx"
     },
     {
+      "added_at": "2023-08-07 15:06:39",
+      "album": {
+        "name": "BIRTH OF VENUS",
+        "url": "https://open.spotify.com/album/1VBKFrSZ7JSMAfBNz2nAcX"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "BIRTH OF VENUS",
+      "url": "https://open.spotify.com/track/1Q98DdOmQlFrIaldR4MOVl"
+    },
+    {
       "added_at": "2022-11-18 01:42:16",
       "album": {
         "name": "Drown",
@@ -195,22 +211,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "FAIRY PHONK",
-        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
       },
       "artists": [
         {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        },
-        {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
         }
       ],
-      "duration_ms": 125454,
-      "name": "KILL ALL PREDATORS",
-      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
+      "duration_ms": 118863,
+      "name": "Pink Rover",
+      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -235,6 +247,26 @@
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "FAIRY PHONK",
+        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        },
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "KILL ALL PREDATORS",
+      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -273,38 +305,6 @@
       "url": "https://open.spotify.com/track/6KHeDBooGJzetzvqvttq24"
     },
     {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Fear Network II",
-        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
-      },
-      "artists": [
-        {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
-        }
-      ],
-      "duration_ms": 87774,
-      "name": "Crash 'n Learn",
-      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Bimbocore",
-        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 118863,
-      "name": "Pink Rover",
-      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
-    },
-    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "THE OTHER ONE",
@@ -319,6 +319,22 @@
       "duration_ms": 244258,
       "name": "Light and Darkness",
       "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Fear Network II",
+        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 87774,
+      "name": "Crash 'n Learn",
+      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
     },
     {
       "added_at": "2023-02-09 19:59:28",
@@ -339,18 +355,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Paranoid (Crash & Burn)",
-        "url": "https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF"
+        "name": "FAIRY METAL",
+        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
       },
       "artists": [
         {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
         }
       ],
-      "duration_ms": 235736,
-      "name": "Paranoid (Crash & Burn)",
-      "url": "https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660"
+      "duration_ms": 161318,
+      "name": "FAIRY METAL",
+      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -375,18 +391,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "FAIRY METAL",
-        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
+        "name": "Paranoid (Crash & Burn)",
+        "url": "https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF"
       },
       "artists": [
         {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
         }
       ],
-      "duration_ms": 161318,
-      "name": "FAIRY METAL",
-      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
+      "duration_ms": 235736,
+      "name": "Paranoid (Crash & Burn)",
+      "url": "https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -483,6 +499,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "I Spit On Your Grave",
+        "url": "https://open.spotify.com/album/7c9h4IjSx9c6B7uuZkT88R"
+      },
+      "artists": [
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        }
+      ],
+      "duration_ms": 219686,
+      "name": "I Spit On Your Grave",
+      "url": "https://open.spotify.com/track/0Emgsja9zrXLSPTmOEY0C5"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Cheaper Than Therapy",
         "url": "https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb"
       },
@@ -501,38 +533,6 @@
       "url": "https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw"
     },
     {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "As They Bloom",
-        "url": "https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ"
-      },
-      "artists": [
-        {
-          "name": "Unlike Pluto",
-          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
-        }
-      ],
-      "duration_ms": 237259,
-      "name": "As They Bloom",
-      "url": "https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "I Spit On Your Grave",
-        "url": "https://open.spotify.com/album/7c9h4IjSx9c6B7uuZkT88R"
-      },
-      "artists": [
-        {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
-        }
-      ],
-      "duration_ms": 219686,
-      "name": "I Spit On Your Grave",
-      "url": "https://open.spotify.com/track/0Emgsja9zrXLSPTmOEY0C5"
-    },
-    {
       "added_at": "2023-02-09 19:59:28",
       "album": {
         "name": "Dead World",
@@ -547,6 +547,22 @@
       "duration_ms": 241311,
       "name": "Dead World",
       "url": "https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "As They Bloom",
+        "url": "https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        }
+      ],
+      "duration_ms": 237259,
+      "name": "As They Bloom",
+      "url": "https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Wake of a Nation",
-        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
-      },
-      "artists": [
-        {
-          "name": "Zeal & Ardor",
-          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
-        }
-      ],
-      "duration_ms": 78531,
-      "name": "I Can't Breathe",
-      "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "The Weight That Holds Me Here",
         "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 186502,
       "name": "With You",
       "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Wake of a Nation",
+        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
+      },
+      "artists": [
+        {
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+        }
+      ],
+      "duration_ms": 78531,
+      "name": "I Can't Breathe",
+      "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1211,6 +1227,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "FUCK WITH A WITCH 2",
+        "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 90491,
+      "name": "FUCK WITH A WITCH 2",
+      "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Kings Today",
         "url": "https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI"
       },
@@ -1227,22 +1259,6 @@
       "duration_ms": 235954,
       "name": "Kings Today",
       "url": "https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "FUCK WITH A WITCH 2",
-        "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 90491,
-      "name": "FUCK WITH A WITCH 2",
-      "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1347,22 +1363,6 @@
       "duration_ms": 226712,
       "name": "What's The Holy (Nobel) Today?",
       "url": "https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "\u00c1mr",
-        "url": "https://open.spotify.com/album/3fi6uKI0YHsgnnn9YezPYh"
-      },
-      "artists": [
-        {
-          "name": "Ihsahn",
-          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
-        }
-      ],
-      "duration_ms": 293173,
-      "name": "Arcana Imperii",
-      "url": "https://open.spotify.com/track/2OI2gIOnRe7TnErAoH2dUd"
     },
     {
       "added_at": "2022-11-18 01:42:16",

@@ -4,7 +4,7 @@
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-201 songs - 13 hr 33 min
+202 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Jaguar](https://open.spotify.com/track/0QcwSZWxpePBVSCbfIJUz6) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Jaguar](https://open.spotify.com/album/2jKVZKviFNCICo24dK6nJ2) | 4:46 | 2022-06-09 |  |
 | [Jaguar](https://open.spotify.com/track/4JLojdKkKNM3rgvP2zvUGR) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Jaguar](https://open.spotify.com/album/5H4o8uDIIhavTtYbUsoiBn) | 4:46 | 2021-04-16 | 2022-07-29 |
 | [Jah No Partial \- Yellow Claw & Yung Felix Remix](https://open.spotify.com/track/7guegNxwAH0uZsQx7i69Iw) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [All Trap Music 2](https://open.spotify.com/album/1nrVGGwTzWdr6HSPuMnUVr) | 3:10 | 2021-04-16 | 2022-07-29 |
-| [Kick Out The Epic Motherf\*\*ker \- Vocal Version](https://open.spotify.com/track/5B4RzgnBLi7BU1CLQ4j0Nw) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [Kick Out The Epic Motherf\*\*ker \(Vocal Version\)](https://open.spotify.com/album/2lXDflusONskee9ju4BhuN) | 3:27 | 2021-04-16 |  |
+| [Kick Out The Epic Motherf\*\*ker \- Vocal Version](https://open.spotify.com/track/5B4RzgnBLi7BU1CLQ4j0Nw) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [Kick Out The Epic Motherf\*\*ker \(Vocal Version\)](https://open.spotify.com/album/2lXDflusONskee9ju4BhuN) | 3:27 | 2021-04-16 | 2023-08-08 |
 | [Language](https://open.spotify.com/track/3NRDLYyqIXja0UElvdzjkB) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Language](https://open.spotify.com/album/1qFaRvYByhkdCqJSIZJ5Pf) | 6:08 | 2022-06-09 |  |
 | [Language](https://open.spotify.com/track/4ta97KyyCWLCQAAFtOWFpy) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Language](https://open.spotify.com/album/24FFBFTNl0Rraus5wPoQnH) | 6:08 | 2021-04-16 | 2022-07-29 |
 | [Last Chance](https://open.spotify.com/track/1ags60Iq9M0vFlvSLAOZE4) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Atmosphere](https://open.spotify.com/album/6poiDDI8corGzWMXUechzZ) | 4:18 | 2021-04-16 |  |
@@ -136,6 +136,7 @@
 | [Pursuit Of Happiness \- Extended Steve Aoki Remix](https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Pursuit Of Happiness \[Extended Steve Aoki Remix \(Explicit\)\]](https://open.spotify.com/album/38MFjDPIDJFfLF7IVpe1rv) | 6:13 | 2021-04-16 |  |
 | [Raise Your Weapon](https://open.spotify.com/track/4grUGQeAfNs6yQOdgEkncM) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [4x4=12](https://open.spotify.com/album/0tCLiTicEOdRuqFWJrHDcR) | 8:22 | 2022-06-09 | 2023-07-24 |
 | [Raise Your Weapon](https://open.spotify.com/track/5AvxU50NICCvmCeZfKqSId) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Raise Your Weapon](https://open.spotify.com/album/1lBnKDWpkZr4XdITvBJXPI) | 8:22 | 2021-04-16 | 2022-07-29 |
+| [Raise Your Weapon](https://open.spotify.com/track/7E1b1A3lGsw4ElaeUmDOJn) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Greta Svabo Bech](https://open.spotify.com/artist/3roqeGESPvLgyx6ZmHQTXY) | [5 Years of mau5](https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2) | 8:22 | 2022-06-09 |  |
 | [Ready For Your Love](https://open.spotify.com/track/5wGLQvq6JoxYZX7V3ymPS5) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens](https://open.spotify.com/album/7MQaCAAj19jwc9WKNZTcJG) | 3:18 | 2021-04-16 |  |
 | [Reason \- Original Mix](https://open.spotify.com/track/3jv65zRRbc9CxRxrm0mdpv) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Reason](https://open.spotify.com/album/1JrP8ICXREIdJVjKQTwaOk) | 6:01 | 2021-04-16 | 2022-07-29 |
 | [Red Lights](https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [A Town Called Paradise](https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp) | 4:22 | 2021-04-16 |  |

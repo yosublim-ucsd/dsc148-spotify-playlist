@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-539 songs - 1 day 9 hr 51 min
+540 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Change Is Gonna Come](https://open.spotify.com/track/12YYFvwwuYiw010ONgfYlW) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:17 | 2022-05-25 |  |
 | [A Match Into Water](https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:32 | 2022-05-25 |  |
 | [A Matter Of Time](https://open.spotify.com/track/6LYNOWzGwVZmi64kwtWLx7) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Battle Born](https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx) | 4:11 | 2022-05-25 | 2022-07-18 |
-| [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 | 2022-05-25 | 2023-07-22 |
+| [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 | 2022-05-25 |  |
 | [Aberdeen](https://open.spotify.com/track/7pwULzYydZdjJX3SiqQ5bR) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/2jVxhH1xg6EIc87rGM1Ogt) | 3:12 | 2022-05-25 | 2022-07-05 |
 | [Adolescents](https://open.spotify.com/track/7CBD8biut3IwSJDfhKHLoH) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [If Not Now, When?](https://open.spotify.com/album/7d4zNXpbzKsvJpjQi4cIfj) | 4:48 | 2022-05-25 | 2022-07-18 |
 | [After Midnight](https://open.spotify.com/track/27H8WsrkD5catdc3a2fCLV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 3:26 | 2022-05-25 | 2023-07-31 |
@@ -434,6 +434,7 @@
 | [Sober](https://open.spotify.com/track/6Uaqf3LCwuVebfm5u3ndq9) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1) | 3:15 | 2022-05-25 |  |
 | [Soda](https://open.spotify.com/track/3PUnku87booODLtX6VVHwN) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:56 | 2022-05-25 |  |
 | [Something to Remind You](https://open.spotify.com/track/30zwJlDSbedlyvHXfAaLKK) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Staind](https://open.spotify.com/album/1MNV0Hm2aV2U9DahSK2oqR) | 4:07 | 2022-05-25 | 2022-07-27 |
+| [Something to Remind You](https://open.spotify.com/track/4wOQ8upbW1GzHCWjPlISKP) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Staind](https://open.spotify.com/album/1lOE9VtdaX00Mp3Df6pgs3) | 4:07 | 2023-01-18 |  |
 | [Something's Gotta Give](https://open.spotify.com/track/1SeefzwSDiFCjRWaBslRIj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 3:09 | 2022-05-25 |  |
 | [Song \#3 \- Acoustic](https://open.spotify.com/track/5Bd0LNmEfqwzlrDcM3XQ2d) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd \(Deluxe Edition\)](https://open.spotify.com/album/5ZIDCr7j6480uxOyYuydny) | 3:56 | 2022-05-25 | 2022-07-29 |
 | [Spiderhead](https://open.spotify.com/track/5r5Lj2MkgwQJz6TaBdL865) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:42 | 2022-05-25 |  |
@@ -462,7 +463,7 @@
 | [Thank God for Girls](https://open.spotify.com/track/6CqP4h7ecdCWZj1eBufqbj) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Thank God for Girls](https://open.spotify.com/album/6pKQO3KChoOQqSFIQx2SkZ) | 3:30 | 2022-05-25 | 2022-07-23 |
 | [Thanks](https://open.spotify.com/track/1Hmx0O7UnXLPv9kPoNBcku) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/2gBziT8McYGmC7Vzf4BsK9) | 3:42 | 2022-05-25 | 2022-07-23 |
 | [That Girl](https://open.spotify.com/track/2DIirNrGT1T4XQmQ6BcrRJ) | [Nim Vind](https://open.spotify.com/artist/2jpH4sp7Y7zB4ywRN6qP8Y) | [Saturday Night Seance Songs](https://open.spotify.com/album/6J0Z6R5IG6jPTfsTPnKyoF) | 3:48 | 2022-05-25 | 2022-07-25 |
-| [The Animal](https://open.spotify.com/track/1HD8mFfpSGLJnwv6UTLaIv) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Asylum \(Deluxe Edition\)](https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9) | 4:13 | 2022-05-25 |  |
+| [The Animal](https://open.spotify.com/track/1HD8mFfpSGLJnwv6UTLaIv) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Asylum \(Deluxe Edition\)](https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9) | 4:13 | 2022-05-25 | 2023-08-08 |
 | [The Black Market](https://open.spotify.com/track/5skwAU0N1ijXEJ5HFDphXP) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 4:15 | 2022-05-25 | 2022-07-29 |
 | [The Blackout](https://open.spotify.com/track/28MPfAfqhRiBJLzNCHGHM3) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 4:45 | 2022-05-25 | 2022-07-23 |
 | [The Catalyst](https://open.spotify.com/track/4tXBsD5sEzxlJjWCOz6qzs) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo) | 5:39 | 2023-01-18 | 2023-05-13 |
@@ -544,7 +545,7 @@
 | [WWYDF](https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 2:55 | 2022-05-25 | 2022-07-28 |
 | [You Don't Get Me High Anymore](https://open.spotify.com/track/3yzrIC7yDuUjwtU7xdt16m) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [You Don't Get Me High Anymore](https://open.spotify.com/album/1UL84YfBUH5F4RDMK3g6EF) | 3:50 | 2022-05-25 | 2022-07-29 |
 | [You Know Me Too Well](https://open.spotify.com/track/1BpmL4NBhX2P7GxuoVtojI) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [What Did You Think When You Made Me This Way?](https://open.spotify.com/album/6qP4UnWRNlBMdsqanPhFuJ) | 3:53 | 2022-05-25 |  |
-| [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 | 2022-05-25 |  |
+| [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 | 2022-05-25 | 2023-08-08 |
 | [You're a Lie](https://open.spotify.com/track/3WsBoPPMmb55aFh52F6FSK) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR), [The Conspirators](https://open.spotify.com/artist/2InxuNbggJRrU3sORD4Dzc) | [Apocalyptic Love](https://open.spotify.com/album/1813RzxdZZLBOJ86l7yYyI) | 3:48 | 2022-05-25 | 2022-07-27 |
 | [You’re The Best Thing About Me](https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:45 | 2022-05-25 | 2023-04-14 |
 

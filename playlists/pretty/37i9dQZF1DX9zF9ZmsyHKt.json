@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 327434,
+  "num_followers": 327467,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDJkZjIxYjViNDc0ZTI3ZmJkYzY2ZTZhMGQ0ZDUwNzg4NGI4ZDBm",
+  "snapshot_id": "MCw2MjcxYjZlYjc0MzRkNjZjOTU4NDgzOWY4NGJkNTQ1ZjcyODdmMzhl",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -211,6 +211,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Simone & Simaria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "duration_ms": 232485,
+      "name": "Regime Fechado - Ao Vivo",
+      "url": "https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Trem-Bala",
         "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
       },
@@ -243,22 +259,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Simone & Simaria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
-      },
-      "artists": [
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "duration_ms": 232485,
-      "name": "Regime Fechado - Ao Vivo",
-      "url": "https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Menino do Rio",
         "url": "https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO"
       },
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sinto Muito",
-        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 205945,
-      "name": "Bixinho",
-      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Z\u00e9lia Duncan",
         "url": "https://open.spotify.com/album/2AUF4ExZvmPN38OTKtBHrl"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 170800,
       "name": "Catedral",
       "url": "https://open.spotify.com/track/4tBZUrAviVgUzeTIiJLEe9"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Sinto Muito",
+        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 205945,
+      "name": "Bixinho",
+      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -471,26 +471,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Ef\u00eamera",
-        "url": "https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs"
-      },
-      "artists": [
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        },
-        {
-          "name": "Z\u00e9 Pi",
-          "url": "https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM"
-        }
-      ],
-      "duration_ms": 221253,
-      "name": "S\u00f3 Sei Dan\u00e7ar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Maria Rita",
         "url": "https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw"
       },
@@ -507,18 +487,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Mariana Nolasco",
-        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
+        "name": "Ef\u00eamera",
+        "url": "https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Z\u00e9 Pi",
+          "url": "https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM"
         }
       ],
-      "duration_ms": 210261,
-      "name": "Poemas Que Colori",
-      "url": "https://open.spotify.com/track/2bgJsZVwVMxwPPOJFmvgte"
+      "duration_ms": 221253,
+      "name": "S\u00f3 Sei Dan\u00e7ar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -555,6 +539,22 @@
       "duration_ms": 174178,
       "name": "Para Pensa e Volta (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo",
       "url": "https://open.spotify.com/track/2rRA0VNb8RcaUMAmgWFoCL"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Mariana Nolasco",
+        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 210261,
+      "name": "Poemas Que Colori",
+      "url": "https://open.spotify.com/track/2bgJsZVwVMxwPPOJFmvgte"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Sempre a Cantar",
+        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
+      },
+      "artists": [
+        {
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
+        }
+      ],
+      "duration_ms": 304866,
+      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
+      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Poesia Ac\u00fastica Ep. Acabou",
         "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 270000,
       "name": "Poesia Ac\u00fastica Ep. Acabou",
       "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Sempre a Cantar",
-        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
-      },
-      "artists": [
-        {
-          "name": "Dona Ivone Lara",
-          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
-        }
-      ],
-      "duration_ms": 304866,
-      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
-      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Sorriso Aberto",
+        "url": "https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc"
+      },
+      "artists": [
+        {
+          "name": "Jovelina Perola Negra",
+          "url": "https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP"
+        }
+      ],
+      "duration_ms": 276426,
+      "name": "Sorriso Aberto",
+      "url": "https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
         "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 191250,
       "name": "Cafe\u00edna",
       "url": "https://open.spotify.com/track/1c8PttPwJZCbgV1P9V5IOB"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Sorriso Aberto",
-        "url": "https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc"
-      },
-      "artists": [
-        {
-          "name": "Jovelina Perola Negra",
-          "url": "https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP"
-        }
-      ],
-      "duration_ms": 276426,
-      "name": "Sorriso Aberto",
-      "url": "https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Mundo Novo",
-        "url": "https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 252373,
-      "name": "Sem Medo",
-      "url": "https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Feij\u00e3o Com Arroz",
         "url": "https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 233466,
       "name": "Nobre Vagabundo",
       "url": "https://open.spotify.com/track/22LLjUNRN1fT4U5MlsB6wo"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Mundo Novo",
+        "url": "https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 252373,
+      "name": "Sem Medo",
+      "url": "https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Rosa Amarela",
-        "url": "https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX"
-      },
-      "artists": [
-        {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
-        }
-      ],
-      "duration_ms": 198603,
-      "name": "Rosa amarela",
-      "url": "https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Iai\u00e1",
         "url": "https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 329680,
       "name": "Menina, Amanh\u00e3 de Manh\u00e3",
       "url": "https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Rosa Amarela",
+        "url": "https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX"
+      },
+      "artists": [
+        {
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
+        }
+      ],
+      "duration_ms": 198603,
+      "name": "Rosa amarela",
+      "url": "https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Hitz\u00e3o da Porra",
-        "url": "https://open.spotify.com/album/5FnDUJMFoExQFtycmhg5dZ"
-      },
-      "artists": [
-        {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
-        }
-      ],
-      "duration_ms": 132224,
-      "name": "Hitz\u00e3o da Porra",
-      "url": "https://open.spotify.com/track/6WIP2ysmvfkPyAc4c2bD6O"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Vinte Palavras ao Redor do Sol",
         "url": "https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 250000,
       "name": "Encantos de Sereia",
       "url": "https://open.spotify.com/track/02igANx7YEYQPJzDzI2Fob"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Hitz\u00e3o da Porra",
+        "url": "https://open.spotify.com/album/5FnDUJMFoExQFtycmhg5dZ"
+      },
+      "artists": [
+        {
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        }
+      ],
+      "duration_ms": 132224,
+      "name": "Hitz\u00e3o da Porra",
+      "url": "https://open.spotify.com/track/6WIP2ysmvfkPyAc4c2bD6O"
     }
   ],
   "unique_name": "Escuta as Minas",

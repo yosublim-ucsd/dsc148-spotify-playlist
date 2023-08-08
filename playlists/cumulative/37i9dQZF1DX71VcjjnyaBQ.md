@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-176 songs - 15 hr 17 min
+177 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Den Grønbenede Rørhøne](https://open.spotify.com/track/4kIgbvan6se7EOYlTh64fL) | [Tobias Stavngaard](https://open.spotify.com/artist/0xE90kt9Ep1DwjmFgYCckA), [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq), [Aske Drasbæk](https://open.spotify.com/artist/0Hvho6Koqqy0L3x8W1eQpi), [Carl\-Emil Dons Christensen](https://open.spotify.com/artist/27SjjVrhLG67xZPGl5tnfJ), [William Mannerland](https://open.spotify.com/artist/2W3TmmwZ3G8WwbMUQlI3yB), [Nikolaj Bangsgaard](https://open.spotify.com/artist/4uDLtTKpXFUSlKBjGX7B5i) | [Den Grønbenede Rørhøne](https://open.spotify.com/album/3OF9yDor7rXUH75wKeulyV) | 5:54 | 2022-02-24 |  |
 | [Elisian/Inutil Paisagem](https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX) | [Michel Benita](https://open.spotify.com/artist/6xgxdQWIYTveGaqFINS9iR), [Matthieu Michel](https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r), [Jozef Dumoulin](https://open.spotify.com/artist/4d3Ice9t3aFOAMk2VJCOwd), [Philippe Garcia](https://open.spotify.com/artist/6PmHbKUXAKXNubgs1MnNbg) | [Elisian/Inutil Paisagem](https://open.spotify.com/album/1dpIg2OrRWIwk19jYiIDqs) | 4:56 | 2021-12-21 |  |
 | [End Of Summer](https://open.spotify.com/track/5Awwc8XXZPub32TbLWyOPp) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [End of Summer](https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ) | 3:55 | 2022-01-07 |  |
-| [Expansions](https://open.spotify.com/track/4bBAfTRTE1bkQUSL3gtmjb) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [The Shakedown](https://open.spotify.com/album/0nwD7e4CgjZZEQwq7ktI7q) | 6:54 | 2022-06-30 |  |
+| [Expansions](https://open.spotify.com/track/4bBAfTRTE1bkQUSL3gtmjb) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [The Shakedown](https://open.spotify.com/album/0nwD7e4CgjZZEQwq7ktI7q) | 6:54 | 2022-06-30 | 2023-08-08 |
 | [Expansions](https://open.spotify.com/track/4kXTfxvuCkyV2f0IyCwCFP) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [The Shakedown](https://open.spotify.com/album/7MreUClNVIul1cGQNPipYU) | 6:54 | 2021-12-21 | 2022-07-28 |
 | [Fanølyng](https://open.spotify.com/track/6Brlcuqm8bgTTo5oongQqT) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 5:18 | 2022-06-30 |  |
 | [Fanølyng](https://open.spotify.com/track/738PEBfX2XWfUG0ceTKQvT) | [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Fanølyng](https://open.spotify.com/album/1L6SNp76cpF2Ldkvje0Ldj) | 5:18 | 2022-03-10 | 2022-07-29 |
@@ -67,6 +67,7 @@
 | [Going Up](https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Going Up](https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst) | 4:35 | 2021-12-21 |  |
 | [Grinde](https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [You Had Me at Goodbye](https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW) | 5:04 | 2022-01-07 |  |
 | [Have a Day](https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Have a Day](https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k) | 6:23 | 2022-04-22 |  |
+| [Hope](https://open.spotify.com/track/61MTLrkxDy0A3GyGC13flH) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Hope](https://open.spotify.com/album/1sYm78ZyaQtJESPtajIdze) | 3:01 | 2023-08-04 |  |
 | [Hopeful Morning](https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD) | [Matt Carmichael](https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0) | [Where Will the River Flow](https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf) | 5:34 | 2021-12-21 |  |
 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz In Stockholm](https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z) | 5:17 | 2021-12-21 |  |
 | [I Didn't Know What Time It Was](https://open.spotify.com/track/753IPE29U6NWJtWOqAin7T) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW) | [StandArt](https://open.spotify.com/album/1j9abB0wpxOjBxSmdeNIbP) | 7:13 | 2022-05-02 | 2022-09-15 |

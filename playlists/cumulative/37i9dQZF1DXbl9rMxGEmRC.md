@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-459 songs - 1 day 15 hr 26 min
+460 songs - 1 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Hourglass](https://open.spotify.com/track/1QMzhZVu4eFIOGZbacCDxp) | [Armed For Apocalypse](https://open.spotify.com/artist/5ufZ6hgaupQvTqk7T3otxz) | [Hourglass](https://open.spotify.com/album/1kWdwDo0IxBJTGk6rGNEyS) | 2:59 | 2022-08-12 | 2022-08-27 |
 | [How Many Can Die](https://open.spotify.com/track/77e5CvS2IDBGdQfzXd5YTv) | [Venom Inc.](https://open.spotify.com/artist/3MHIoEboWZOn2vX4O3GrjM) | [How Many Can Die](https://open.spotify.com/album/4sUjcJd3skHdB8RQ2C3nc6) | 3:20 | 2022-04-22 | 2022-07-29 |
 | [How Many Tears to Nurture a Rose?](https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Existence Is Futile](https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI) | 4:34 | 2021-12-17 |  |
-| [Human Scum](https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Human Scum](https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF) | 4:35 | 2022-10-14 |  |
+| [Human Scum](https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Human Scum](https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF) | 4:35 | 2022-10-14 | 2023-08-08 |
 | [Hvite Krists Død](https://open.spotify.com/track/5FpE6NBSSK8T6w12PjxJjt) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone](https://open.spotify.com/album/0ugoROOjkNINkn2dt6he4V) | 8:27 | 2022-07-13 | 2022-07-29 |
 | [Hvite Krists Død \- Remastered 2021](https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone \(Remastered 2021\)](https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy) | 8:27 | 2022-07-13 |  |
 | [Hvítir Sandar](https://open.spotify.com/track/7vM3m6Uk70Qml5amBShtMF) | [Kælan Mikla](https://open.spotify.com/artist/28meEMqGpDrolyQ9OVoDAH), [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Hvítir Sandar](https://open.spotify.com/album/456LMV2LbrV7LnuIUd6Anl) | 4:37 | 2021-12-17 | 2022-06-11 |
@@ -345,6 +345,7 @@
 | [Screaming at Forgotten Tears](https://open.spotify.com/track/62aAEJfIS8Vi5JCU9z4ZRl) | [Xasthur](https://open.spotify.com/artist/0nH9qzKJMfrJNnF37nDaVj) | [To Violate the Obvious](https://open.spotify.com/album/09hdLksOJb99vfLRACtw9C) | 8:15 | 2022-07-13 | 2023-02-16 |
 | [Scum](https://open.spotify.com/track/7fsMuMbwSdEhKSMpVR4QUc) | [A Lie Nation](https://open.spotify.com/artist/56tUivD4LuAu4fSuTdhI9h) | [Scum](https://open.spotify.com/album/3Ild09QvSzjh5ChKrvJK5o) | 4:06 | 2022-04-29 | 2022-07-19 |
 | [Seance](https://open.spotify.com/track/71lFE7VKJwpeV7YhqgbATO) | [Black Royal](https://open.spotify.com/artist/33lkAv8r2X0dsr8AWzZ6MY) | [Seance](https://open.spotify.com/album/1aXSQVKyOk4gYUZPnC3eqN) | 4:46 | 2021-12-17 | 2022-03-11 |
+| [Seed Of Death](https://open.spotify.com/track/11VpcYTYemjf7Rpn4Gjjxa) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Seed Of Death](https://open.spotify.com/album/6O07o1ALpQp1pIh3rBa9MU) | 4:27 | 2023-08-04 |  |
 | [Seeds Of The Ancient Gods](https://open.spotify.com/track/1r9HG7xOQ2D51jYXuLWfwN) | [Old Man's Child](https://open.spotify.com/artist/4LT73i2bqTazQQkmODMaYf) | [Devil's Path / In The Shades Of Life](https://open.spotify.com/album/6kajasqy9oJmS8kacjAvJe) | 6:37 | 2022-07-13 | 2022-07-27 |
 | [Serimosa](https://open.spotify.com/track/7qrQXuknOcNnhSmFBPtaBn) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Serimosa](https://open.spotify.com/album/0gKXkdw3L4AXUKaXCmB9DP) | 5:26 | 2022-03-10 | 2022-04-02 |
 | [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 | 2022-07-13 |  |

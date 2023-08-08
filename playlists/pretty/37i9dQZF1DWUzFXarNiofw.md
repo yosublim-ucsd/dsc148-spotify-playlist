@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Durand Bernarr
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017,523 likes - 173 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,755 likes - 173 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 7 | [GO GO GO](https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [GO GO GO](https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S) | 2:25 |
 | 8 | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/track/7msMFkuYQdBaJhiav2UrM1) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Lusanda](https://open.spotify.com/artist/7CSAqTFm0mlnIQOCtzi6NV) | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/album/6GPfETz7e4MYd3kU4CtLIK) | 4:05 |
 | 9 | [Keep Me In Love](https://open.spotify.com/track/7j8mf8Qrvmhjl8Yr13iFr7) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Keep Me In Love](https://open.spotify.com/album/7ETOuFfahxfhuMlKPYbFPt) | 2:36 |
-| 10 | [Ready For It \(feat\. Eric Bellinger\)](https://open.spotify.com/track/3TZaeEmGv6HsdARIAwvdIs) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Ready For It \(feat\. Eric Bellinger\)](https://open.spotify.com/album/42fWXOdXkh3M5872YHc9zS) | 2:27 |
+| 10 | [Ready For It](https://open.spotify.com/track/3TZaeEmGv6HsdARIAwvdIs) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Ready For It](https://open.spotify.com/album/42fWXOdXkh3M5872YHc9zS) | 2:27 |
 | 11 | [Let It Rain](https://open.spotify.com/track/2SHd3iSPeYj9epQUrYVmtX) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Let It Rain](https://open.spotify.com/album/7l3lv5SWsUy7ehwvnMmsXJ) | 2:39 |
 | 12 | [Don't Say Love \- R&B Version](https://open.spotify.com/track/01FKgn2t3o8adgrrfkN0HQ) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Don't Say Love \(R&B Version\)](https://open.spotify.com/album/0suvINTZqdzzV37L4XR3tS) | 3:00 |
 | 13 | [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 172 | [Body Language](https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [Body Language](https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3) | 3:23 |
 | 173 | [Charismatic](https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw) | 3:04 |
 
-Snapshot ID: `MCwxOGQ1NjNiZTYxZWE1MDg0NWYyMTAwYTk0NDVkNjY3YWU0MzQ3YzE0`
+Snapshot ID: `MCwyOWQ3MzcyYmIwNjU4N2M2NTU3NDM0NWQyMDU0YjE1MDEyNDVjMTVi`

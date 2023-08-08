@@ -4330,7 +4330,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 126250,
       "name": "Growing Old",
       "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
@@ -8234,7 +8234,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 189906,
       "name": "pt. 1 Owl Light",
       "url": "https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO"
@@ -9156,6 +9156,24 @@
       "duration_ms": 137819,
       "name": "Scenery",
       "url": "https://open.spotify.com/track/0RgAkhVOWf3CZnWtFA1891"
+    },
+    {
+      "album": {
+        "name": "Schatze",
+        "url": "https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4"
+      },
+      "artists": [
+        {
+          "name": "Franz Ewer",
+          "url": "https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155097,
+      "name": "Schatze",
+      "url": "https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW"
     },
     {
       "album": {
@@ -10160,7 +10178,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 151500,
       "name": "Still",
       "url": "https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F"
@@ -10834,6 +10852,24 @@
       "duration_ms": 139500,
       "name": "The Water Floats",
       "url": "https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA"
+    },
+    {
+      "album": {
+        "name": "The Way Home",
+        "url": "https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB"
+      },
+      "artists": [
+        {
+          "name": "Wendie Solomon",
+          "url": "https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147535,
+      "name": "The Way Home",
+      "url": "https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ"
     },
     {
       "album": {

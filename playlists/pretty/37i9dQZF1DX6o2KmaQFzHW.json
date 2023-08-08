@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 172271,
+  "num_followers": 172330,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWU2Y2M0YWRiMGJiM2Q2OGJmZDk0NzFkM2EwZmY3YzE2MmI5ZTU1",
+  "snapshot_id": "MCw3MjQ3Y2Q2Y2E5MTBiMjMwODIzZDJjNDlhZjdiOTZjZmU3M2NlNDE2",
   "tracks": [
     {
       "added_at": "2023-06-22 19:04:10",
@@ -107,54 +107,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Lo Mejor de Mi...",
-        "url": "https://open.spotify.com/album/6jaKNEm0vp1mzqyNx3Emdn"
-      },
-      "artists": [
-        {
-          "name": "Tamara Castro",
-          "url": "https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Zamba de Amor en Vuelo",
-      "url": "https://open.spotify.com/track/2cVlTjHnCyozDmiUR64dmy"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
-        "name": "Soy Santiague\u00f1o, Soy Chacarera",
-        "url": "https://open.spotify.com/album/3z3QEtltCiANqaYu8c4Scy"
-      },
-      "artists": [
-        {
-          "name": "Peteco Carabajal",
-          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
-        }
-      ],
-      "duration_ms": 258390,
-      "name": "Soy Santiague\u00f1o, Soy Chacarera",
-      "url": "https://open.spotify.com/track/3zMTlNMDjiTc4I9SWf2ZHI"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
-        "name": "Poncho Al Viento",
-        "url": "https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 157626,
-      "name": "Alma, Corazon Y Vida",
-      "url": "https://open.spotify.com/track/6JzIPgXQpGicNUrpwsG0PS"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Amor Salvaje",
         "url": "https://open.spotify.com/album/6GtBjRg2ZceYWVd7KJjSG7"
       },
@@ -171,18 +123,18 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "30 A\u00f1os Con el Canto",
-        "url": "https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x"
+        "name": "Soy Santiague\u00f1o, Soy Chacarera",
+        "url": "https://open.spotify.com/album/3z3QEtltCiANqaYu8c4Scy"
       },
       "artists": [
         {
-          "name": "Los Manseros Santiague\u00f1os",
-          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
         }
       ],
-      "duration_ms": 149640,
-      "name": "Canto a Monte Quemado",
-      "url": "https://open.spotify.com/track/5duHZK8NLA4JlfLe1ohnvb"
+      "duration_ms": 258390,
+      "name": "Soy Santiague\u00f1o, Soy Chacarera",
+      "url": "https://open.spotify.com/track/3zMTlNMDjiTc4I9SWf2ZHI"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -227,6 +179,54 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
+        "name": "30 A\u00f1os Con el Canto",
+        "url": "https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x"
+      },
+      "artists": [
+        {
+          "name": "Los Manseros Santiague\u00f1os",
+          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+        }
+      ],
+      "duration_ms": 149640,
+      "name": "Canto a Monte Quemado",
+      "url": "https://open.spotify.com/track/5duHZK8NLA4JlfLe1ohnvb"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Lo Mejor de Mi...",
+        "url": "https://open.spotify.com/album/6jaKNEm0vp1mzqyNx3Emdn"
+      },
+      "artists": [
+        {
+          "name": "Tamara Castro",
+          "url": "https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Zamba de Amor en Vuelo",
+      "url": "https://open.spotify.com/track/2cVlTjHnCyozDmiUR64dmy"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Poncho Al Viento",
+        "url": "https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 157626,
+      "name": "Alma, Corazon Y Vida",
+      "url": "https://open.spotify.com/track/6JzIPgXQpGicNUrpwsG0PS"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
         "name": "Zamba para Olvidarte",
         "url": "https://open.spotify.com/album/30n0qbEez9YgxftQ9Kv7jO"
       },
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "La Sole",
-        "url": "https://open.spotify.com/album/5gPAkqdpxaPRc5ZvigqNok"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 193773,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/0YhkCXDzIkVcv1ToW5BSbt"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "\u00c9xitos Sin Fronteras",
         "url": "https://open.spotify.com/album/3SGF45hToDUlV5Gvurtmp7"
       },
@@ -271,38 +255,6 @@
       "duration_ms": 230226,
       "name": "Luna Cautiva",
       "url": "https://open.spotify.com/track/6RLy54zWiCxdbobwzSwBNq"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
-        "name": "Horacio Guarany",
-        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
-      },
-      "artists": [
-        {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "Del Chucaro",
-      "url": "https://open.spotify.com/track/2WHKDp4K8OXB6zsmZ7yIGu"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
-        "name": "La Fiesta del Violinero",
-        "url": "https://open.spotify.com/album/63O1KYHdzlbS66klVJbXiL"
-      },
-      "artists": [
-        {
-          "name": "N\u00e9stor Garnica",
-          "url": "https://open.spotify.com/artist/5MJFjxBEw8HCzFvYhYMs5w"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "El Olvidao",
-      "url": "https://open.spotify.com/track/5nWttGi56oq0TQjSfW6vnV"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -339,22 +291,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Los 20 A\u00f1os de Los Manseros Santiague\u00f1os",
-        "url": "https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n"
-      },
-      "artists": [
-        {
-          "name": "Los Manseros Santiague\u00f1os",
-          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "Entra a Mi Hogar",
-      "url": "https://open.spotify.com/track/0vICUGzGQoi7KT0ALk4r2m"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Cantora",
         "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
       },
@@ -375,8 +311,24 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Poncho Al Viento",
-        "url": "https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124"
+        "name": "Los 20 A\u00f1os de Los Manseros Santiague\u00f1os",
+        "url": "https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n"
+      },
+      "artists": [
+        {
+          "name": "Los Manseros Santiague\u00f1os",
+          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "Entra a Mi Hogar",
+      "url": "https://open.spotify.com/track/0vICUGzGQoi7KT0ALk4r2m"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "La Sole",
+        "url": "https://open.spotify.com/album/5gPAkqdpxaPRc5ZvigqNok"
       },
       "artists": [
         {
@@ -384,9 +336,65 @@
           "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 155120,
-      "name": "Entre A Mi Pago Sin Golpear",
-      "url": "https://open.spotify.com/track/6W5nrs6SqETt1et20bTtFa"
+      "duration_ms": 193773,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/0YhkCXDzIkVcv1ToW5BSbt"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Horacio Guarany",
+        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
+      },
+      "artists": [
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "Del Chucaro",
+      "url": "https://open.spotify.com/track/2WHKDp4K8OXB6zsmZ7yIGu"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "La Fiesta del Violinero",
+        "url": "https://open.spotify.com/album/63O1KYHdzlbS66klVJbXiL"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9stor Garnica",
+          "url": "https://open.spotify.com/artist/5MJFjxBEw8HCzFvYhYMs5w"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "El Olvidao",
+      "url": "https://open.spotify.com/track/5nWttGi56oq0TQjSfW6vnV"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        },
+        {
+          "name": "Ariel Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
+        },
+        {
+          "name": "Hector Zeoli",
+          "url": "https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN"
+        }
+      ],
+      "duration_ms": 280920,
+      "name": "Alfonsina Y El Mar",
+      "url": "https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -407,6 +415,38 @@
       "duration_ms": 234453,
       "name": "Zamba de Mi Esperanza (feat. Jorge Cafrune)",
       "url": "https://open.spotify.com/track/5L0QkgiZv1k6KjIk4Aptms"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Chaque\u00f1adas",
+        "url": "https://open.spotify.com/album/6R49gTlWLOhwKDnw95olcP"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "duration_ms": 128893,
+      "name": "Chacarera del Olvido",
+      "url": "https://open.spotify.com/track/1TsrW24N0hgAlOWNCTjIlL"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Poncho Al Viento",
+        "url": "https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "Entre A Mi Pago Sin Golpear",
+      "url": "https://open.spotify.com/track/6W5nrs6SqETt1et20bTtFa"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -443,42 +483,18 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "30 a\u00f1os",
-        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
+        "name": "30 A\u00f1os Con el Canto",
+        "url": "https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        },
-        {
-          "name": "Ariel Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
-        },
-        {
-          "name": "Hector Zeoli",
-          "url": "https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN"
+          "name": "Los Manseros Santiague\u00f1os",
+          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
         }
       ],
-      "duration_ms": 280920,
-      "name": "Alfonsina Y El Mar",
-      "url": "https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
-        "name": "Chaque\u00f1adas",
-        "url": "https://open.spotify.com/album/6R49gTlWLOhwKDnw95olcP"
-      },
-      "artists": [
-        {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-        }
-      ],
-      "duration_ms": 128893,
-      "name": "Chacarera del Olvido",
-      "url": "https://open.spotify.com/track/1TsrW24N0hgAlOWNCTjIlL"
+      "duration_ms": 173733,
+      "name": "Para los Ojos M\u00e1s Bellos",
+      "url": "https://open.spotify.com/track/4w9ax8d0trOBzXX36a9rEe"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -499,18 +515,34 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "30 A\u00f1os Con el Canto",
-        "url": "https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x"
+        "name": "Juan de la Calle",
+        "url": "https://open.spotify.com/album/5iyWMUhjSEU7av1IYKLJ1a"
       },
       "artists": [
         {
-          "name": "Los Manseros Santiague\u00f1os",
-          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
         }
       ],
-      "duration_ms": 173733,
-      "name": "Para los Ojos M\u00e1s Bellos",
-      "url": "https://open.spotify.com/track/4w9ax8d0trOBzXX36a9rEe"
+      "duration_ms": 192026,
+      "name": "Juan de la Calle",
+      "url": "https://open.spotify.com/track/5IX9B2J3JzHw3xyzCk266i"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 145321,
+      "name": "Duerme, Negrito",
+      "url": "https://open.spotify.com/track/63T6KFdH7wzrwXGjNrHQM8"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -547,22 +579,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Juan de la Calle",
-        "url": "https://open.spotify.com/album/5iyWMUhjSEU7av1IYKLJ1a"
-      },
-      "artists": [
-        {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Juan de la Calle",
-      "url": "https://open.spotify.com/track/5IX9B2J3JzHw3xyzCk266i"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Navega",
         "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
       },
@@ -575,6 +591,22 @@
       "duration_ms": 306586,
       "name": "Oraci\u00f3n del remanso",
       "url": "https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Las Chacareras Vol.1",
+        "url": "https://open.spotify.com/album/4jfQ43IAdWCXAONZdoMPRh"
+      },
+      "artists": [
+        {
+          "name": "Los Manseros Santiague\u00f1os",
+          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+        }
+      ],
+      "duration_ms": 171990,
+      "name": "A\u00f1oranzas",
+      "url": "https://open.spotify.com/track/2H0jbraCWzCg45Al8dD0tu"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -615,38 +647,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "30 a\u00f1os",
-        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 145321,
-      "name": "Duerme, Negrito",
-      "url": "https://open.spotify.com/track/63T6KFdH7wzrwXGjNrHQM8"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
-        "name": "Recordando Zambas Con Los Chalchaleros",
-        "url": "https://open.spotify.com/album/4CEzKKz2fMSjjYwXBTlbZR"
-      },
-      "artists": [
-        {
-          "name": "Los Chalchaleros",
-          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "Luna Tucumana - Remastered 2003",
-      "url": "https://open.spotify.com/track/2R85ZXoflj01lCJPWyDQZC"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "La Llave",
         "url": "https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6"
       },
@@ -659,22 +659,6 @@
       "duration_ms": 230093,
       "name": "Todo Est\u00e1 en Vos",
       "url": "https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
-        "name": "Las Chacareras Vol.1",
-        "url": "https://open.spotify.com/album/4jfQ43IAdWCXAONZdoMPRh"
-      },
-      "artists": [
-        {
-          "name": "Los Manseros Santiague\u00f1os",
-          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
-        }
-      ],
-      "duration_ms": 171990,
-      "name": "A\u00f1oranzas",
-      "url": "https://open.spotify.com/track/2H0jbraCWzCg45Al8dD0tu"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -711,18 +695,18 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Te esperar\u00e9 cantando",
-        "url": "https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr"
+        "name": "Recordando Zambas Con Los Chalchaleros",
+        "url": "https://open.spotify.com/album/4CEzKKz2fMSjjYwXBTlbZR"
       },
       "artists": [
         {
-          "name": "Los Cantores del Alba",
-          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
+          "name": "Los Chalchaleros",
+          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
         }
       ],
-      "duration_ms": 160357,
-      "name": "Cuando Llora Mi Guitarra",
-      "url": "https://open.spotify.com/track/5fHVmUad5DoDA7JlJTF7bD"
+      "duration_ms": 214493,
+      "name": "Luna Tucumana - Remastered 2003",
+      "url": "https://open.spotify.com/track/2R85ZXoflj01lCJPWyDQZC"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -747,18 +731,18 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Todos Los Dias Un Poco...",
-        "url": "https://open.spotify.com/album/1uZI429ycqNhTLqi6LgMrM"
+        "name": "Te esperar\u00e9 cantando",
+        "url": "https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr"
       },
       "artists": [
         {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+          "name": "Los Cantores del Alba",
+          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
         }
       ],
-      "duration_ms": 194200,
-      "name": "Ojos de Cielo",
-      "url": "https://open.spotify.com/track/0s8cIfsyn5bE7Ri9Ml1LKH"
+      "duration_ms": 160357,
+      "name": "Cuando Llora Mi Guitarra",
+      "url": "https://open.spotify.com/track/5fHVmUad5DoDA7JlJTF7bD"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -795,18 +779,18 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Avenido",
-        "url": "https://open.spotify.com/album/0IDRD7oisVkSyZKfpTA5wM"
+        "name": "Canci\u00f3n Para Una Mentira",
+        "url": "https://open.spotify.com/album/5DS1KiJug4nVfpk4llnSeX"
       },
       "artists": [
         {
-          "name": "Aca Seca Trio",
-          "url": "https://open.spotify.com/artist/6nvkqGQVDZLm0y1TxubrFA"
+          "name": "Los Del Suqu\u00eda",
+          "url": "https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI"
         }
       ],
-      "duration_ms": 118773,
-      "name": "Maric\u00f3n",
-      "url": "https://open.spotify.com/track/2Oai4riWXNOaLiqw8m5Dki"
+      "duration_ms": 191653,
+      "name": "Canci\u00f3n Para Una Mentira",
+      "url": "https://open.spotify.com/track/4ZchCWefhpCY7Tr8CcNsFv"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -827,34 +811,34 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Te esperar\u00e9 cantando",
-        "url": "https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr"
+        "name": "Todos Los Dias Un Poco...",
+        "url": "https://open.spotify.com/album/1uZI429ycqNhTLqi6LgMrM"
       },
       "artists": [
         {
-          "name": "Los Cantores del Alba",
-          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 163004,
-      "name": "El Que Toca Nunca Baila",
-      "url": "https://open.spotify.com/track/0AKvW2NHJ2B5QaRlm45tap"
+      "duration_ms": 194200,
+      "name": "Ojos de Cielo",
+      "url": "https://open.spotify.com/track/0s8cIfsyn5bE7Ri9Ml1LKH"
     },
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Canci\u00f3n Para Una Mentira",
-        "url": "https://open.spotify.com/album/5DS1KiJug4nVfpk4llnSeX"
+        "name": "Avenido",
+        "url": "https://open.spotify.com/album/0IDRD7oisVkSyZKfpTA5wM"
       },
       "artists": [
         {
-          "name": "Los Del Suqu\u00eda",
-          "url": "https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI"
+          "name": "Aca Seca Trio",
+          "url": "https://open.spotify.com/artist/6nvkqGQVDZLm0y1TxubrFA"
         }
       ],
-      "duration_ms": 191653,
-      "name": "Canci\u00f3n Para Una Mentira",
-      "url": "https://open.spotify.com/track/4ZchCWefhpCY7Tr8CcNsFv"
+      "duration_ms": 118773,
+      "name": "Maric\u00f3n",
+      "url": "https://open.spotify.com/track/2Oai4riWXNOaLiqw8m5Dki"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -895,22 +879,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Signos",
-        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 170160,
-      "name": "La Descre\u00edda",
-      "url": "https://open.spotify.com/track/3iRMUBsU6dF9qByGhDpMId"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Eternamente Tucu",
         "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
       },
@@ -923,6 +891,38 @@
       "duration_ms": 221253,
       "name": "Anoche No Dormi",
       "url": "https://open.spotify.com/track/4Z6TFi9jac4qmdqeeJjVYn"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Te esperar\u00e9 cantando",
+        "url": "https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr"
+      },
+      "artists": [
+        {
+          "name": "Los Cantores del Alba",
+          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
+        }
+      ],
+      "duration_ms": 163004,
+      "name": "El Que Toca Nunca Baila",
+      "url": "https://open.spotify.com/track/0AKvW2NHJ2B5QaRlm45tap"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Signos",
+        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "La Descre\u00edda",
+      "url": "https://open.spotify.com/track/3iRMUBsU6dF9qByGhDpMId"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "La Paloma",
-        "url": "https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3"
+        "name": "Paisaje",
+        "url": "https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a"
       },
       "artists": [
         {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
         }
       ],
-      "duration_ms": 224759,
-      "name": "La Paloma",
-      "url": "https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ"
+      "duration_ms": 255400,
+      "name": "Agitando Pa\u00f1uelos",
+      "url": "https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Paisaje",
-        "url": "https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a"
+        "name": "La Paloma",
+        "url": "https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3"
       },
       "artists": [
         {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 255400,
-      "name": "Agitando Pa\u00f1uelos",
-      "url": "https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3"
+      "duration_ms": 224759,
+      "name": "La Paloma",
+      "url": "https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Viajes Por El Mundo",
-        "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Los Ejes de Mi Carreta",
-      "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Navega",
         "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
+        "name": "Viajes Por El Mundo",
+        "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Los Ejes de Mi Carreta",
+      "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
         "name": "Los Tekis-Los Elegidos",
         "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
       },
@@ -1099,6 +1099,26 @@
       "duration_ms": 200106,
       "name": "Ay Vidita",
       "url": "https://open.spotify.com/track/4GUppnqduxOfD6qmsQkGZe"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Correntinas II",
+        "url": "https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct"
+      },
+      "artists": [
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        },
+        {
+          "name": "Ramona Galarza",
+          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Alma Guaran\u00ed",
+      "url": "https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1135,22 +1155,18 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Correntinas II",
-        "url": "https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct"
+        "name": "El Encuentro (En Vivo)",
+        "url": "https://open.spotify.com/album/7hw95I4pQ3A32MkMqmFV7U"
       },
       "artists": [
         {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        },
-        {
-          "name": "Ramona Galarza",
-          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
         }
       ],
-      "duration_ms": 156866,
-      "name": "Alma Guaran\u00ed",
-      "url": "https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT"
+      "duration_ms": 146373,
+      "name": "El Escondido - En Vivo",
+      "url": "https://open.spotify.com/track/77uewrFQboHT7EkiXP8tTx"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1167,22 +1183,6 @@
       "duration_ms": 147786,
       "name": "Volver\u00e9 a Salavina",
       "url": "https://open.spotify.com/track/6ARoKVfaWidfpGqau25soy"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
-        "name": "El Encuentro (En Vivo)",
-        "url": "https://open.spotify.com/album/7hw95I4pQ3A32MkMqmFV7U"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 146373,
-      "name": "El Escondido - En Vivo",
-      "url": "https://open.spotify.com/track/77uewrFQboHT7EkiXP8tTx"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1231,22 +1231,6 @@
       "duration_ms": 185186,
       "name": "Jazm\u00edn de Luna",
       "url": "https://open.spotify.com/track/3ia4suHJXrpiNqP3KUCc3t"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 227533,
-      "name": "C\u00f3rdoba Sin Ti",
-      "url": "https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 227533,
+      "name": "C\u00f3rdoba Sin Ti",
+      "url": "https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
         "name": "El Estilo Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Eternamente Tucu",
-        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
-      },
-      "artists": [
-        {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Para Cantar He Nacido",
         "url": "https://open.spotify.com/album/38hLzv8jhDNS99eGb8d3XR"
       },
@@ -1351,6 +1335,38 @@
       "duration_ms": 206853,
       "name": "Para Cantar He Nacido",
       "url": "https://open.spotify.com/track/447ORDEfYxu77edFodcfr6"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Romance De Luna Y Flor",
+        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
+      },
+      "artists": [
+        {
+          "name": "Los Fronterizos",
+          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "L\u00f3pez Pereyra",
+      "url": "https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Eternamente Tucu",
+        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Por Siempre....",
-        "url": "https://open.spotify.com/album/1o4WtYSLqFy93QykeBwx7T"
-      },
-      "artists": [
-        {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Candombe para Jos\u00e9",
-      "url": "https://open.spotify.com/track/5EW32jbF3QnZWQHOQZaO4L"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
         "url": "https://open.spotify.com/album/31v430ql2w15Ap4ahNeY5D"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Romance De Luna Y Flor",
-        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
-      },
-      "artists": [
-        {
-          "name": "Los Fronterizos",
-          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "L\u00f3pez Pereyra",
-      "url": "https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Mi Ultima Canci\u00f3n",
         "url": "https://open.spotify.com/album/3TC7aNPSbpymAXQmWlM5hz"
       },
@@ -1463,22 +1447,6 @@
       "duration_ms": 364226,
       "name": "Dios a la Una",
       "url": "https://open.spotify.com/track/4yioHSOUbNFggQSlFCg6HE"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
-        "name": "Los 3 del R\u00edo",
-        "url": "https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq"
-      },
-      "artists": [
-        {
-          "name": "Los 3 Del R\u00edo",
-          "url": "https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z"
-        }
-      ],
-      "duration_ms": 218267,
-      "name": "Qu\u00e9 Te Ocurre Amigo M\u00edo",
-      "url": "https://open.spotify.com/track/1kFbnDteYOYeQB5eB1aWs6"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1503,6 +1471,38 @@
       "duration_ms": 213733,
       "name": "Purmamarca",
       "url": "https://open.spotify.com/track/1x7hWGwMKKLGTxPueCbuPV"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Por Siempre....",
+        "url": "https://open.spotify.com/album/1o4WtYSLqFy93QykeBwx7T"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Candombe para Jos\u00e9",
+      "url": "https://open.spotify.com/track/5EW32jbF3QnZWQHOQZaO4L"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV"
+      },
+      "artists": [
+        {
+          "name": "Los Fronterizos",
+          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
+        }
+      ],
+      "duration_ms": 196773,
+      "name": "Guitarra de Medianoche",
+      "url": "https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt"
     }
   ],
   "unique_name": "Folklore de Siempre",

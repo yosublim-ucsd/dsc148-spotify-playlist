@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 83832,
+  "num_followers": 83902,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTQwZTk1ODRhODIyNjA3ZDIyZDY0MzM3M2RmNzNkNTZlOTM1NzVi",
+  "snapshot_id": "MCxkZjlmMDk3Yzc4ZDdmYmQ2YmE2YmYxOTNiMjE5OTU1MjhkYmYzM2Fi",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -191,6 +191,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/2y2pzedHjln9MbTHCq99qP"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 263372,
+      "name": "Take The World",
+      "url": "https://open.spotify.com/track/1XU8WnwGs6oqpt1qicvw34"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Souls",
         "url": "https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 215480,
       "name": "Lie",
       "url": "https://open.spotify.com/track/3O1uhWkr42NesFnVloLq2a"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/2y2pzedHjln9MbTHCq99qP"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 263372,
-      "name": "Take The World",
-      "url": "https://open.spotify.com/track/1XU8WnwGs6oqpt1qicvw34"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -555,26 +555,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Giants",
-        "url": "https://open.spotify.com/album/2ik2fFjv7xdAAK3VP9P779"
-      },
-      "artists": [
-        {
-          "name": "Silverberg",
-          "url": "https://open.spotify.com/artist/3lpVtJYZ57FvUVDzECu4UY"
-        },
-        {
-          "name": "Ruelle",
-          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
-        }
-      ],
-      "duration_ms": 233918,
-      "name": "Giants",
-      "url": "https://open.spotify.com/track/0Q7ike4sNrjLSZx8r26C9s"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
         "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 222878,
       "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
       "url": "https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Giants",
+        "url": "https://open.spotify.com/album/2ik2fFjv7xdAAK3VP9P779"
+      },
+      "artists": [
+        {
+          "name": "Silverberg",
+          "url": "https://open.spotify.com/artist/3lpVtJYZ57FvUVDzECu4UY"
+        },
+        {
+          "name": "Ruelle",
+          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+        }
+      ],
+      "duration_ms": 233918,
+      "name": "Giants",
+      "url": "https://open.spotify.com/track/0Q7ike4sNrjLSZx8r26C9s"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/2kCC0lF63e4rgTNZjpAu4q"
+      },
+      "artists": [
+        {
+          "name": "Moda Spira",
+          "url": "https://open.spotify.com/artist/3Ox5gwldPza7HizYzGEk6a"
+        }
+      ],
+      "duration_ms": 219876,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/5Qw5UgTYT9AFQhb9wtx2Ls"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Dawned On Me",
         "url": "https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 241031,
       "name": "Radiant (Shine Like Diamonds)",
       "url": "https://open.spotify.com/track/1y6A6uJmgWWXyD9sO7iCtp"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/2kCC0lF63e4rgTNZjpAu4q"
-      },
-      "artists": [
-        {
-          "name": "Moda Spira",
-          "url": "https://open.spotify.com/artist/3Ox5gwldPza7HizYzGEk6a"
-        }
-      ],
-      "duration_ms": 219876,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/5Qw5UgTYT9AFQhb9wtx2Ls"
     },
     {
       "added_at": "2020-09-04 04:02:00",

@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-566 songs - 2 day 5 hr 20 min
+567 songs - 2 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [6IE.CR](https://open.spotify.com/track/29L1h6D7MXSsno3pibZ4eE) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Draft 7.30](https://open.spotify.com/album/08kNtBJ5LHFgxOV8PodiQw) | 5:38 | 2022-04-13 | 2022-07-25 |
 | [7\. 8.](https://open.spotify.com/track/0WDpaAaA00mtAgAqdy0oLY) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Temple of Transparent Balls](https://open.spotify.com/album/3CLcbsO6tpY7aR6juM7xGL) | 6:11 | 2022-04-13 | 2022-07-18 |
 | [7:39 \(Original Cassette Demo\)](https://open.spotify.com/track/3ljWp6Bq1jblzaq3o88Dz4) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu), [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Transmissions Sampler](https://open.spotify.com/album/37pEDgAKRQQvpd1PYfckdj) | 8:29 | 2022-04-13 | 2023-02-02 |
-| [7:39 \- Original Cassette Demo](https://open.spotify.com/track/06VyRRP6iOUBxfn4xPwc0s) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu), [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Transmissions Sampler](https://open.spotify.com/album/3kkziIY4VZl0h8ghhyInpi) | 8:29 | 2022-04-13 |  |
+| [7:39 \- Original Cassette Demo](https://open.spotify.com/track/06VyRRP6iOUBxfn4xPwc0s) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu), [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Transmissions Sampler](https://open.spotify.com/album/3kkziIY4VZl0h8ghhyInpi) | 8:29 | 2022-04-13 | 2023-08-08 |
 | [A Case Of Funk](https://open.spotify.com/track/6U6jFPOOJkx7dt23lPCYeP) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [A Word Of Science](https://open.spotify.com/album/1EouHA01DrBfKSqQAIWVA9) | 5:19 | 2022-04-13 | 2023-02-02 |
 | [A Case Of Funk](https://open.spotify.com/track/3IhbaLQTVbsf3Amai4onue) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [A Word Of Science](https://open.spotify.com/album/7D2Hg8N6JEpdyaUFe26yni) | 5:21 | 2022-04-13 |  |
 | [A Day in a Life](https://open.spotify.com/track/1FTHcqxQ3B3FdTl9id6XlG) | [Push Button Objects](https://open.spotify.com/artist/3KMR2Qv1uE6eNA0koPhvBz) | [A Day in a Life](https://open.spotify.com/album/2DmmmmMty8UL0R17HN4Iye) | 5:35 | 2022-04-13 | 2022-07-29 |
@@ -252,6 +252,7 @@
 | [IZ\-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 2:57 | 2022-04-13 |  |
 | [Izoterica](https://open.spotify.com/track/05SXaUnVg0TgMaz8G4Ejd6) | [Fizzarum](https://open.spotify.com/artist/1ENeg5AIor4zyCJbo6MwwW) | [Ru.electronic](https://open.spotify.com/album/05XW5eDVk2z9vC05j61ATM) | 5:34 | 2022-04-13 | 2022-07-26 |
 | [jewlea](https://open.spotify.com/track/6B49y7uSdHW1fb8Pn3asRk) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [Now You Know](https://open.spotify.com/album/0k2twNdr20RRpqWSvXvOIk) | 8:47 | 2022-04-13 | 2022-07-25 |
+| [Jewlea](https://open.spotify.com/track/75KafKD15znlhUiivJongU) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [Now You Know](https://open.spotify.com/album/1x5Nwed49Cn5SlnalPpgfN) | 8:47 | 2022-04-13 |  |
 | [Jupiter Jazz](https://open.spotify.com/track/2T6rMXWYc934IWMudx1H1X) | [Galaxy 2 Galaxy](https://open.spotify.com/artist/2JW9UTb6ViFLYf7VQxBJqD) | [Galaxy 2 Galaxy: A High Tech Jazz Compilation](https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV) | 4:30 | 2022-04-13 |  |
 | [Kanei](https://open.spotify.com/track/5pANSnFsxi85dCtjkL5yij) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [T'Raenon \(Remastered Edition\)](https://open.spotify.com/album/68H34x36go49MEHBTbpeyi) | 7:30 | 2022-04-13 |  |
 | [Key nell 1](https://open.spotify.com/track/4bSX9WwTJ1L2jrhFIeokIi) | [Gescom](https://open.spotify.com/artist/15gVTrdUtcXOz3utK1GPp2) | [Key nell](https://open.spotify.com/album/5yNyACuil6o4tglWiZAAMJ) | 7:59 | 2022-04-13 |  |

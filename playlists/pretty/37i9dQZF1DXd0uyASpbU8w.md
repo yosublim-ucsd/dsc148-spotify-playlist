@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5?si=7x4G3Ka2QJyO\_hOjb90eWA">Doja Cat</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,391 likes - 71 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,428 likes - 71 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 70 | [Leave This Town](https://open.spotify.com/track/2UJNr5PUzkDpqqLriIJpqK) | [Broke 'n Free](https://open.spotify.com/artist/29zjs2vtld5vxaDuu2VnF5) | [Leave This Town](https://open.spotify.com/album/5JK1A5Cwstbtxyr8kppd96) | 3:21 |
 | 71 | [Last Stand](https://open.spotify.com/track/6Q8CVI78we0VBcoNWjvHCZ) | [Kenny Hughes](https://open.spotify.com/artist/6Y0yxjU9WEv7qauNd39OYL) | [Last Stand](https://open.spotify.com/album/0WP7arJEFFalCREptv9VS0) | 4:49 |
 
-Snapshot ID: `MCw2ZTZjOTc2MWQzZDNkNjcwOTA1MDMyZjM2NzM3ZjBmZGQyOTIwNzk0`
+Snapshot ID: `MCxmOTRlZjkzZDQxOGYxOTgzMzVkZDYyODdkNjdiZDVhOGUxMDY5Mjlk`

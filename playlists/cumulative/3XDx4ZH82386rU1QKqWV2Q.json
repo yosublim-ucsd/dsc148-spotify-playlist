@@ -441,6 +441,32 @@
     },
     {
       "album": {
+        "name": "Boyz In Paris (with VINAI)",
+        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151589,
+      "name": "Boyz In Paris (with VINAI)",
+      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+    },
+    {
+      "album": {
         "name": "BRAZILIAN DAN\u00c7A PHONK (Remix)",
         "url": "https://open.spotify.com/album/1qX7bDm1hoLowjhHdkSRfs"
       },
@@ -1242,7 +1268,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 112500,
       "name": "Excalibur",
       "url": "https://open.spotify.com/track/46tAKaTpH2w9RxM7Eqy4G8"
@@ -3372,7 +3398,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 131368,
       "name": "One Chance",
       "url": "https://open.spotify.com/track/1RDxavHcARHSsw46Mz2hbJ"
@@ -3742,7 +3768,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 145210,
       "name": "Raider",
       "url": "https://open.spotify.com/track/3cmHxxOJgpSKJiH5U0ENnU"
@@ -4394,7 +4420,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 146783,
       "name": "So High",
       "url": "https://open.spotify.com/track/0WSSJ8Wmj8HicvR1ZnCiPT"

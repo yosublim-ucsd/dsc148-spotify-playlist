@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-573 songs - 1 day 15 hr 11 min
+574 songs - 1 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2022-11-23 | 2023-01-19 |
 | [Finger In Your Eye](https://open.spotify.com/track/7l5ySDLJQ4kSA94u8m0ttq) | [YACHT](https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr) | [Finger In Your Eye](https://open.spotify.com/album/1icKXuIbZZStYq4ZdYEDxQ) | 2:55 | 2023-06-28 | 2023-08-03 |
 | [Fingers of Steel](https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Fingers of Steel](https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y) | 4:21 | 2022-11-16 | 2023-01-05 |
+| [Fire of Mercy](https://open.spotify.com/track/6oDHOPYBOGjrRYM3QMxznO) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Fire of Mercy](https://open.spotify.com/album/4MxTYuvXTiZpKH0nnzcu7V) | 3:59 | 2023-08-07 |  |
 | [First Fall](https://open.spotify.com/track/6AN0JXPYfKBBt0448z4gIo) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [First Fall](https://open.spotify.com/album/7JBiWEAj1vO4zIY5q0WzF5) | 4:10 | 2022-09-28 | 2022-11-03 |
 | [fix](https://open.spotify.com/track/2tNPnxwwjJbyhEsqgJqxqK) | [Speakers Corner Quartet](https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH), [Kwake Bass](https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Peter Bennie](https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G), [Biscuit](https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [fix](https://open.spotify.com/album/7BCGtoJvre4iSFFC4a9UYv) | 2:39 | 2023-03-29 | 2023-05-11 |
 | [Flare](https://open.spotify.com/track/5aV3sY68RFpaPkpCWU9muX) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [The Greater Wings](https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg) | 3:47 | 2023-07-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating the 20th anniversary of Brad Paisley's hit album \"Mud on the Tires\" on 2000s Country!",
-  "num_followers": 716537,
+  "num_followers": 717036,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTBmYzlkNWRlMmEyMWEwNzI2OGY3OGJjM2U4ZjZmYzJlNGNiMTVm",
+  "snapshot_id": "MCwxYmJkNmM0NzVlYTZkODljNWJlMDVkZjFlNjk1NjJhOWExZGRmODA4",
   "tracks": [
     {
       "added_at": "2023-07-24 15:14:12",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS"
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         }
       ],
-      "duration_ms": 204200,
-      "name": "Big Green Tractor",
-      "url": "https://open.spotify.com/track/4KAzYqfcijCSZa2P3etHoM"
+      "duration_ms": 214106,
+      "name": "What Hurts The Most",
+      "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS"
       },
       "artists": [
         {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 214106,
-      "name": "What Hurts The Most",
-      "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
+      "duration_ms": 204200,
+      "name": "Big Green Tractor",
+      "url": "https://open.spotify.com/track/4KAzYqfcijCSZa2P3etHoM"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -711,18 +711,22 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "Red Dirt Road",
-        "url": "https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf"
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Uncle Kracker",
+          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
         }
       ],
-      "duration_ms": 260360,
-      "name": "Red Dirt Road",
-      "url": "https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt"
+      "duration_ms": 290560,
+      "name": "When the Sun Goes Down",
+      "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -743,22 +747,18 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
+        "name": "Red Dirt Road",
+        "url": "https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Uncle Kracker",
-          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 290560,
-      "name": "When the Sun Goes Down",
-      "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
+      "duration_ms": 260360,
+      "name": "Red Dirt Road",
+      "url": "https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
+        "name": "Everywhere We Go",
+        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "She Thinks My Tractor's Sexy",
+      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
+    },
+    {
+      "added_at": "2023-07-24 15:14:12",
+      "album": {
         "name": "Taylor Swift",
         "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 269586,
       "name": "Must Be Doin' Somethin' Right",
       "url": "https://open.spotify.com/track/6TefPQD0oc88BNALpu4U87"
-    },
-    {
-      "added_at": "2023-07-24 15:14:12",
-      "album": {
-        "name": "Everywhere We Go",
-        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "She Thinks My Tractor's Sexy",
-      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "Love Like Crazy",
-        "url": "https://open.spotify.com/album/0Iybpv18tfdTUqJ6mhhZb8"
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
       "artists": [
         {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 217386,
-      "name": "Love Like Crazy",
-      "url": "https://open.spotify.com/track/6Ozp6ac86CSHMik8lbvJuM"
+      "duration_ms": 243666,
+      "name": "I Go Back",
+      "url": "https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
+        "name": "Love Like Crazy",
+        "url": "https://open.spotify.com/album/0Iybpv18tfdTUqJ6mhhZb8"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "Love Like Crazy",
+      "url": "https://open.spotify.com/track/6Ozp6ac86CSHMik8lbvJuM"
+    },
+    {
+      "added_at": "2023-07-24 15:14:12",
+      "album": {
         "name": "Me And My Gang",
         "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 248280,
       "name": "My Wish",
       "url": "https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU"
-    },
-    {
-      "added_at": "2023-07-24 15:14:12",
-      "album": {
-        "name": "On the Other Hand - All the Number Ones",
-        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Three Wooden Crosses",
-      "url": "https://open.spotify.com/track/1S4fpfX2u0hzFD9vb6FEB6"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
+        "name": "On the Other Hand - All the Number Ones",
+        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 243666,
-      "name": "I Go Back",
-      "url": "https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6"
+      "duration_ms": 201266,
+      "name": "Three Wooden Crosses",
+      "url": "https://open.spotify.com/track/1S4fpfX2u0hzFD9vb6FEB6"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "Pull My Chain",
-        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
+        "name": "You Do Your Thing",
+        "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
         }
       ],
-      "duration_ms": 183960,
-      "name": "I Wanna Talk About Me",
-      "url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG"
+      "duration_ms": 256600,
+      "name": "Something to Be Proud Of",
+      "url": "https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "You Do Your Thing",
-        "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
+        "name": "Pull My Chain",
+        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
       },
       "artists": [
         {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 256600,
-      "name": "Something to Be Proud Of",
-      "url": "https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF"
+      "duration_ms": 183960,
+      "name": "I Wanna Talk About Me",
+      "url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 213653,
-      "name": "These Are My People",
-      "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
-    },
-    {
-      "added_at": "2023-07-24 15:14:12",
-      "album": {
         "name": "Jason Aldean",
         "url": "https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 306026,
       "name": "Hicktown",
       "url": "https://open.spotify.com/track/0WYbR2GSfl4ehvmLmcpAqi"
+    },
+    {
+      "added_at": "2023-07-24 15:14:12",
+      "album": {
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "These Are My People",
+      "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
+        "name": "Chris Cagle",
+        "url": "https://open.spotify.com/album/3qFNiOv7yX8pueke4P6Z8c"
+      },
+      "artists": [
+        {
+          "name": "Chris Cagle",
+          "url": "https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Chicks Dig It - Single Edit",
+      "url": "https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o"
+    },
+    {
+      "added_at": "2023-07-24 15:14:12",
+      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r"
       },
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "Chris Cagle",
-        "url": "https://open.spotify.com/album/3qFNiOv7yX8pueke4P6Z8c"
-      },
-      "artists": [
-        {
-          "name": "Chris Cagle",
-          "url": "https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Chicks Dig It - Single Edit",
-      "url": "https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o"
-    },
-    {
-      "added_at": "2023-07-24 15:14:12",
-      "album": {
         "name": "Old Things New",
         "url": "https://open.spotify.com/album/3zxEHlYXrIXseV7gTl3CQ0"
       },
@@ -1687,6 +1687,22 @@
       "duration_ms": 185453,
       "name": "Gimmie That Girl",
       "url": "https://open.spotify.com/track/7xoBJ4hih949Jeu5ZfzBai"
+    },
+    {
+      "added_at": "2023-07-24 15:14:12",
+      "album": {
+        "name": "Jason Aldean",
+        "url": "https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/65Jn2gZWMren03Rz0fCMqs"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -1719,22 +1735,6 @@
       "duration_ms": 195586,
       "name": "Play Something Country",
       "url": "https://open.spotify.com/track/7MevrbPAGEaw1IgkaBmv82"
-    },
-    {
-      "added_at": "2023-07-24 15:14:12",
-      "album": {
-        "name": "Jason Aldean",
-        "url": "https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/65Jn2gZWMren03Rz0fCMqs"
     },
     {
       "added_at": "2023-07-24 15:14:12",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Making Memories Of Us",
+      "url": "https://open.spotify.com/track/0Sg5kWoILCs2zBoIHIsDAa"
+    },
+    {
+      "added_at": "2023-07-24 15:14:12",
+      "album": {
         "name": "One More Day",
         "url": "https://open.spotify.com/album/43WoT1H0ferVcZ0NVjOubF"
       },
@@ -1963,22 +1979,6 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "Greatest Hits Volume III - I'm A Survivor",
-        "url": "https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "I'm A Survivor",
-      "url": "https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn"
-    },
-    {
-      "added_at": "2023-07-24 15:14:12",
-      "album": {
         "name": "Play On",
         "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
@@ -1995,34 +1995,34 @@
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK"
+        "name": "Greatest Hits Volume III - I'm A Survivor",
+        "url": "https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Making Memories Of Us",
-      "url": "https://open.spotify.com/track/0Sg5kWoILCs2zBoIHIsDAa"
+      "duration_ms": 187373,
+      "name": "I'm A Survivor",
+      "url": "https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn"
     },
     {
       "added_at": "2023-07-24 15:14:12",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
+        "name": "34 Number Ones",
+        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 217733,
-      "name": "My Next Thirty Years",
-      "url": "https://open.spotify.com/track/7AHw9SfOITU9Q7sj3V5vxV"
+      "duration_ms": 171813,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT"
     }
   ],
   "unique_name": "2000s Country",

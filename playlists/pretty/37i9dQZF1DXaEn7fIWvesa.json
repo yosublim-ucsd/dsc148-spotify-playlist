@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Micha en portada.",
-  "num_followers": 917,
+  "num_followers": 936,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTE3ZGVjMmNjZTY1ZGEzNjEyZDQwOGM1MzA4ZGE0ODNmY2IxYmFm",
+  "snapshot_id": "MCw5OTMxZmY2N2UwM2Y5YTRmYTdjNDAwNDA0ZGI1NzA4ZTdjMTE4NzQx",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -159,6 +159,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 215453,
+      "name": "Hasta Que Se Seque el Malec\u00f3n (feat. Farruko) - Remix",
+      "url": "https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Summer Love",
         "url": "https://open.spotify.com/album/01IAYbljle6TGDD5me0n6Z"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 249000,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/5Lyk3rilywbopCieapkohG"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Invicto",
-        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 215453,
-      "name": "Hasta Que Se Seque el Malec\u00f3n (feat. Farruko) - Remix",
-      "url": "https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -311,26 +311,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Muchacha",
-        "url": "https://open.spotify.com/album/1ToC2cIeaKdchZVfx6P3Mj"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "Muchacha",
-      "url": "https://open.spotify.com/track/2vI4SxtYqAQD5h1nSrqfKM"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Blychy",
         "url": "https://open.spotify.com/album/5Xv5Est3n7bg7dZmo8ul8i"
       },
@@ -375,6 +355,42 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Muchacha",
+        "url": "https://open.spotify.com/album/1ToC2cIeaKdchZVfx6P3Mj"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "Muchacha",
+      "url": "https://open.spotify.com/track/2vI4SxtYqAQD5h1nSrqfKM"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Pornosotros",
         "url": "https://open.spotify.com/album/0VIN822VobCM6QGwNlCRhx"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Invicto",
-        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Pi\u00f1a Colada",
         "url": "https://open.spotify.com/album/2aRxTjGSC7zwgIiCuoQh4E"
       },
@@ -431,50 +431,6 @@
       "duration_ms": 182500,
       "name": "Pi\u00f1a Colada",
       "url": "https://open.spotify.com/track/67h0pnnJczXLsNqmew78lw"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Southwezzzt",
-        "url": "https://open.spotify.com/album/22L7ZRrPWvRnpdP8WFuHLi"
-      },
-      "artists": [
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "El Yonki",
-          "url": "https://open.spotify.com/artist/5Dcy46qDr77Bkep7KHRJIR"
-        },
-        {
-          "name": "DJ Conds",
-          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Southwezzzt",
-      "url": "https://open.spotify.com/track/0ClMpKvozc99kihtCRt3ya"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Mi Mentirosa",
-        "url": "https://open.spotify.com/album/1R8C5PwffrAxmsv3JkEF8V"
-      },
-      "artists": [
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        }
-      ],
-      "duration_ms": 177900,
-      "name": "Mi Mentirosa - Prod. by Ernesto Losa",
-      "url": "https://open.spotify.com/track/3hAUj6jPytHP5t8hBT0M9i"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -519,6 +475,50 @@
       "duration_ms": 195986,
       "name": "Lagrimas de Champan",
       "url": "https://open.spotify.com/track/467QxcDwgclgfAyiOoe0sU"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Mi Mentirosa",
+        "url": "https://open.spotify.com/album/1R8C5PwffrAxmsv3JkEF8V"
+      },
+      "artists": [
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        }
+      ],
+      "duration_ms": 177900,
+      "name": "Mi Mentirosa - Prod. by Ernesto Losa",
+      "url": "https://open.spotify.com/track/3hAUj6jPytHP5t8hBT0M9i"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Southwezzzt",
+        "url": "https://open.spotify.com/album/22L7ZRrPWvRnpdP8WFuHLi"
+      },
+      "artists": [
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "El Yonki",
+          "url": "https://open.spotify.com/artist/5Dcy46qDr77Bkep7KHRJIR"
+        },
+        {
+          "name": "DJ Conds",
+          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Southwezzzt",
+      "url": "https://open.spotify.com/track/0ClMpKvozc99kihtCRt3ya"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -583,30 +583,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Funimate (Prod. by Ernesto Losa)",
-        "url": "https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9"
-      },
-      "artists": [
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        },
-        {
-          "name": "Pokercito",
-          "url": "https://open.spotify.com/artist/0HEBlBt0wpPln5krAyG0B4"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        }
-      ],
-      "duration_ms": 195918,
-      "name": "Funimate - Prod. by Ernesto Losa",
-      "url": "https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/2sQCPEQ0fuyLyCmbBbcaX8"
       },
@@ -623,6 +599,26 @@
       "duration_ms": 175735,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/1E5TcIHAZXbcepOW9T8fy5"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "H\u00e1blame de Miami",
+        "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "duration_ms": 158773,
+      "name": "H\u00e1blame de Miami",
+      "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -651,22 +647,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "H\u00e1blame de Miami",
-        "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
+        "name": "Funimate (Prod. by Ernesto Losa)",
+        "url": "https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9"
       },
       "artists": [
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
         },
         {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+          "name": "Pokercito",
+          "url": "https://open.spotify.com/artist/0HEBlBt0wpPln5krAyG0B4"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
         }
       ],
-      "duration_ms": 158773,
-      "name": "H\u00e1blame de Miami",
-      "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
+      "duration_ms": 195918,
+      "name": "Funimate - Prod. by Ernesto Losa",
+      "url": "https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1027,34 +1027,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Descaradita",
-        "url": "https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk"
-      },
-      "artists": [
-        {
-          "name": "El Chulo",
-          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
-        },
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        },
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "Yoani Star",
-          "url": "https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E"
-        }
-      ],
-      "duration_ms": 258298,
-      "name": "Descaradita",
-      "url": "https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Tu & Yo (Remix)",
         "url": "https://open.spotify.com/album/7aC9SavBc4WfPAbcVqiBbk"
       },
@@ -1083,6 +1055,34 @@
       "duration_ms": 177196,
       "name": "Tu & Yo - Remix",
       "url": "https://open.spotify.com/track/2hW67JZRADAZAF093j8NqW"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Descaradita",
+        "url": "https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk"
+      },
+      "artists": [
+        {
+          "name": "El Chulo",
+          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
+        },
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "Yoani Star",
+          "url": "https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E"
+        }
+      ],
+      "duration_ms": 258298,
+      "name": "Descaradita",
+      "url": "https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP"
     }
   ],
   "unique_name": "Cubat\u00f3n Miami",

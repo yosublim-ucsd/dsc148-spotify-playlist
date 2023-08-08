@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 433717,
+  "num_followers": 433868,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWVmMGY2NDNmNDgyMjQxZjI4YzM0MmU5ZTU2YWIyZWMwOTgzOWIz",
+  "snapshot_id": "MCwyNGVmNGI2MzkzNWUxMDQ2YzY0MDU3ZDM2YjZkOGMyNDEyN2E1YWVm",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "[oops]",
+        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 142182,
+      "name": "[oops]",
+      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "I Can't Tell You How Much It Hurts",
         "url": "https://open.spotify.com/album/7umRmLEaY837V0LRXaI7na"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 91504,
       "name": "Monday Loop",
       "url": "https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "[oops]",
-        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
-      },
-      "artists": [
-        {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
-        }
-      ],
-      "duration_ms": 142182,
-      "name": "[oops]",
-      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -515,18 +515,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Over Skies",
-        "url": "https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ"
+        "name": "FALLING DOWN",
+        "url": "https://open.spotify.com/album/1G5TUWRlTTdycaPgZ8YNM9"
       },
       "artists": [
         {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+          "name": "Formalite",
+          "url": "https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw"
+        },
+        {
+          "name": "paydak",
+          "url": "https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx"
         }
       ],
-      "duration_ms": 247320,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb"
+      "duration_ms": 96062,
+      "name": "FALLING DOWN",
+      "url": "https://open.spotify.com/track/0LDiwy2wlju7HSVPgNwNQZ"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -551,6 +555,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "Over Skies",
+        "url": "https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 161238,
       "name": "I Have Love for Everyone Besides Myself.",
       "url": "https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "FALLING DOWN",
-        "url": "https://open.spotify.com/album/1G5TUWRlTTdycaPgZ8YNM9"
-      },
-      "artists": [
-        {
-          "name": "Formalite",
-          "url": "https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw"
-        },
-        {
-          "name": "paydak",
-          "url": "https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx"
-        }
-      ],
-      "duration_ms": 96062,
-      "name": "FALLING DOWN",
-      "url": "https://open.spotify.com/track/0LDiwy2wlju7HSVPgNwNQZ"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ"
+      },
+      "artists": [
+        {
+          "name": "[bsd.u]",
+          "url": "https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk"
+        }
+      ],
+      "duration_ms": 96092,
+      "name": "memories of you",
+      "url": "https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 147474,
       "name": "Memories Fade",
       "url": "https://open.spotify.com/track/40rSlnWWx2p4r9lLOwNn96"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "Lighter",
-        "url": "https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ"
-      },
-      "artists": [
-        {
-          "name": "[bsd.u]",
-          "url": "https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk"
-        }
-      ],
-      "duration_ms": 96092,
-      "name": "memories of you",
-      "url": "https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN"
     },
     {
       "added_at": "2023-02-16 22:50:07",

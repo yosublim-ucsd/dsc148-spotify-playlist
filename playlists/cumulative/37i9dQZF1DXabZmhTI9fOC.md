@@ -4,7 +4,7 @@
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-398 songs - 21 hr 44 min
+401 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Ladies Night](https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Ladies' Night](https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK) | 6:25 | 2023-07-22 |  |
 | [Last Lap](https://open.spotify.com/track/0gfSKS1o28CkWEnh9BHtSo) | [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [HEAT](https://open.spotify.com/album/4e0q6vdXFQF5jpbpdgpjDy) | 2:55 | 2022-08-19 | 2023-07-19 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-08-08 | 2023-07-19 |
+| [Leave The Door Open \- Acoustic](https://open.spotify.com/track/65P0LJJh9vEa5yR6S2xIZR) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Leave The Door Open \(Acoustic\)](https://open.spotify.com/album/47GrZGrgepJsZqTuAhmkUD) | 3:06 | 2023-08-07 |  |
 | [Legends Are Made](https://open.spotify.com/track/0yqrhHrcWLMjBylHReDN5u) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Babel](https://open.spotify.com/album/4fm1WiDmZsWHCxbjTZzU0U) | 2:49 | 2022-08-12 | 2023-07-19 |
 | [Lemon Trees](https://open.spotify.com/track/60aJeYvUKIFzAv3Vu3R9Db) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Lemon Trees](https://open.spotify.com/album/7cWlJMRD8fEa4u54gF6dRE) | 3:41 | 2023-07-29 |  |
 | [LESS U KNOW](https://open.spotify.com/track/0pVhKHAruxCKZ0tNxwpiQO) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag), [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [LESS U KNOW](https://open.spotify.com/album/4iPgnBANr1syVKhEYSgAI9) | 2:49 | 2022-08-08 | 2023-07-19 |
@@ -271,6 +272,7 @@
 | [Next to Me](https://open.spotify.com/track/6NAFSxL8yGctNgHqxfQEF5) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/7oVcfv2fbyY1Z3xfqwbSPp) | 5:14 | 2022-08-05 | 2023-07-19 |
 | [NIGHTS LIKE THESE](https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:52 | 2023-07-29 |  |
 | [No Easy Way Out \- Epic Trailer Version](https://open.spotify.com/track/6NZMxSYawQ7oAI2TLWkTLR) | [Hidden Citizens](https://open.spotify.com/artist/707cnVfI3ISM4j5uzfTc7J), [VĒ](https://open.spotify.com/artist/1azXaTeQxY8ChkeQF7BwXy) | [Reawakenings Vol\. 2](https://open.spotify.com/album/2LrTI8TmMtjlAfGFvvMLoD) | 4:02 | 2022-08-12 | 2023-07-19 |
+| [No Mercy](https://open.spotify.com/track/3E56PIzUsN5bzRsE4f6JZB) | [Zayde Wølf](https://open.spotify.com/artist/7LIy7KinYq7a83dUH6kvxT) | [Modern Alchemy](https://open.spotify.com/album/26lJZZBUlOj3olP9sEESUZ) | 3:44 | 2023-08-07 |  |
 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-07-22 |  |
 | [Not Giving Up](https://open.spotify.com/track/7EYR3GjoC4l9g66mRFvQ6F) | [Goldbeam](https://open.spotify.com/artist/6jKZwcKkpcHRGKco0O6TuZ) | [Good Days](https://open.spotify.com/album/6NxyS1NtzsTBKRMwSI1eKF) | 3:14 | 2022-07-29 | 2023-07-19 |
 | [Ocean Eyes \(Acoustic\)](https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Ocean Eyes \(Acoustic\)](https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj) | 3:36 | 2022-07-15 | 2023-07-19 |
@@ -291,7 +293,7 @@
 | [Ready Set Go](https://open.spotify.com/track/50VwpSCb2Y0xGETCKIn6bp) | [Danger Twins](https://open.spotify.com/artist/1YuielWiKfNC5Mh2GizHSO) | [This Is New](https://open.spotify.com/album/6mKRLZ5KiEOklwdmj14vUc) | 2:08 | 2023-08-05 |  |
 | [Reasons to Leave](https://open.spotify.com/track/0dhMGnSEi6yQOvsMylbHt8) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Reasons to Leave](https://open.spotify.com/album/59Lx5ksL9Ve77Ped7a43Ob) | 2:45 | 2023-08-05 |  |
 | [REMEDY](https://open.spotify.com/track/5FVRNjwYxwMx18Y8STWWXF) | [Robots With Rayguns](https://open.spotify.com/artist/6jssSjs4Y74tBRuXyMKiMu) | [The Digital Life of Xanye Quest](https://open.spotify.com/album/5naiqfYahiw83WQfVmn1yZ) | 4:05 | 2022-07-15 | 2023-07-19 |
-| [Revolution](https://open.spotify.com/track/6QGQghV8WhVOTNo9KbfNhd) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Revolution](https://open.spotify.com/album/60zknsCojGDWHAZ1ppZgXP) | 3:06 | 2022-08-26 | 2023-07-19 |
+| [Revolution](https://open.spotify.com/track/6QGQghV8WhVOTNo9KbfNhd) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Revolution](https://open.spotify.com/album/60zknsCojGDWHAZ1ppZgXP) | 3:06 | 2022-08-26 |  |
 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 | 2022-08-26 | 2023-07-19 |
 | [Right Here Waiting](https://open.spotify.com/track/6SmwzTGiGLMXmudkPtXR50) | [John Coggins](https://open.spotify.com/artist/3GNSeGfBuZWIfsBMUVJs10) | [Right Here Waiting](https://open.spotify.com/album/7tsBgeytDS9DGV53ApZD5x) | 4:30 | 2022-07-22 | 2023-07-19 |
 | [Ripe](https://open.spotify.com/track/4Y1v4FAnkAeiohrC1OhBkt) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [Ripe](https://open.spotify.com/album/6x4wwa4w8n5hWQUTAsqVMJ) | 2:36 | 2022-08-19 | 2023-07-19 |
@@ -318,6 +320,7 @@
 | [Shock Waves](https://open.spotify.com/track/5CarWPyyP9h4u9dFzWRfUB) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Bee from Mars](https://open.spotify.com/album/7MFE2rhjEubCnbInquP1m6) | 3:38 | 2023-07-22 |  |
 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 | 2023-07-19 |  |
 | [Show Me Love](https://open.spotify.com/track/0a7ECrkynDauNbc6wQ6ilz) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Show Me Love](https://open.spotify.com/album/48cv2VaUhc8RoLk0oaARrn) | 2:33 | 2022-08-12 | 2023-07-19 |
+| [Sideways](https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct) | 2:44 | 2023-08-07 |  |
 | [Skin on Skin](https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e) | 3:03 | 2023-08-05 |  |
 | [So Alive](https://open.spotify.com/track/3EtDAua9G4apE9Mq9BUHcW) | [Goldbeam](https://open.spotify.com/artist/6jKZwcKkpcHRGKco0O6TuZ) | [So Alive](https://open.spotify.com/album/2emnPnBOE4EieBxX4jEh81) | 4:17 | 2022-08-08 | 2023-07-19 |
 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 | 2023-08-05 |  |

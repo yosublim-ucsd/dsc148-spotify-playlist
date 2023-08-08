@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の夏に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,412 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,447 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 33 | [Inscape](https://open.spotify.com/track/1O8kxSIMJn8haD9Q2f1z49) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [PASSION](https://open.spotify.com/album/7zDwBr55zeXkyVTrdU87sC) | 3:14 |
 | 34 | [アランフェス協奏曲より II\. アダージョ](https://open.spotify.com/track/4drls67YIZQVwF03TxkIJa) | [ホアキン・ロドリーゴ](https://open.spotify.com/artist/4rrSNmtdtILZy9sQ4OGtp9), [Shin\-ichi Fukuda](https://open.spotify.com/artist/1VpxOqn6Ruc8z3AS7yexEm), [Norichika Iimori](https://open.spotify.com/artist/3tGixEmlU0amxltz83a0tc), [Württembergische Philharmonie Reutlingen](https://open.spotify.com/artist/3aSDuAvPFkSnli24u0aZDp) | [マチネの終わりに](https://open.spotify.com/album/1dbUHD0sP27OXcdIKItn06) | 10:40 |
 | 35 | [Scene II, Kyoto](https://open.spotify.com/track/1PAir9FZ9zwcb5xyVECQfk) | [Umitaro Abe](https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b) | [Cahier de musique / 音楽手帖](https://open.spotify.com/album/58qq0mSyZZV66wEDiMu93i) | 4:27 |
-| 36 | [Consolation No\. 3, Lento placido \- S.142](https://open.spotify.com/track/747WCtQZU8rPeywmUrTJkH) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Miyuji Kaneko](https://open.spotify.com/artist/1P9zpzupo4lDtMYqC96WLE) | [リスト・リサイタル](https://open.spotify.com/album/5wW0Umm77TQjMihv2RUU8b) | 4:31 |
+| 36 | [コンソレーション（慰め）第3番](https://open.spotify.com/track/747WCtQZU8rPeywmUrTJkH) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Miyuji Kaneko](https://open.spotify.com/artist/1P9zpzupo4lDtMYqC96WLE) | [リスト･リサイタル](https://open.spotify.com/album/5wW0Umm77TQjMihv2RUU8b) | 4:31 |
 | 37 | [outro](https://open.spotify.com/track/5lT6dQUyQO9U2sVmmNA1Fn) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [april \- outro](https://open.spotify.com/album/3LgylP8rBFVERrX33YjGn6) | 3:39 |
 | 38 | [3 Romanzen für Violine und Klavier Op.22: 1\. Andante molto](https://open.spotify.com/track/3mzyTGFLlcSPUpO47GkD96) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Seiji Okamoto](https://open.spotify.com/artist/5Xdh3EzSnmmN52W8nVp60P), [Kyohei Sorita](https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc) | [frei aber einsam](https://open.spotify.com/album/2gX9f4VhPdbFJs61qCKK2Z) | 3:02 |
 | 39 | [初戀](https://open.spotify.com/track/1zYjk36LJjAxjAb6izoUSJ) | [Takeshi Senoo](https://open.spotify.com/artist/61n5YgL1SXRIre6tMYlhxq) | [RETRO MODERN DANDY](https://open.spotify.com/album/6uFdwPikkIIXX4dtC7BXuS) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 49 | [Always You](https://open.spotify.com/track/4743TsEgme4vHSjWOmH1oi) | [Naoki Kanda](https://open.spotify.com/artist/6LjDW7YzX2GubNeJR9Yk5b), [Yukiharu Ito](https://open.spotify.com/artist/2eatv5mHMm8Tk8sjnqMT8t) | [neiro](https://open.spotify.com/album/6TCmGyhwZAo6A2DuLSsctc) | 3:17 |
 | 50 | [mou](https://open.spotify.com/track/12zymbsA9SpQ9TZqRg7gCn) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 2:53 |
 
-Snapshot ID: `MCxlNDU1Nzg3MTBmOTdjYzMyMDM2MmI5MWRmNDkwNzZhNjEyZGYwY2Nh`
+Snapshot ID: `MCwxNDYxZDY4MzQ5NzIyN2MzMzFiYzhkYjdlZmFmYzI4ZmE2OWExMTBh`

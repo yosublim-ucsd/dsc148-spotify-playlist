@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > TRUCKER MOTHERF\*CKER!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,734 likes - 100 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,761 likes - 100 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [30 km/h \(Med Louise Andersson Bodin\)](https://open.spotify.com/track/52KOHfjlRyL84Q6WlSqpPT) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [30 km/h \(Med Louise Andersson Bodin\)](https://open.spotify.com/album/4MHaBwxuiDv3CVHaATzvcy) | 2:22 |
 | 100 | [Oj Oj](https://open.spotify.com/track/0beFqL93TrrK7EqeAsgKPN) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [Oj Oj](https://open.spotify.com/album/1oiVHgqFVsbooDcjgzzaYY) | 2:45 |
 
-Snapshot ID: `MCwxZTkxZWUwMjNjNDViYmMyOTM5MGI0ZWE5MjdiZGE0YmRjZjIyNGVm`
+Snapshot ID: `MCxmMTcxYThhOTFlNDVmZGU3Y2QyM2JlZjEwNGE3YjEzZjkxM2M3MzA2`

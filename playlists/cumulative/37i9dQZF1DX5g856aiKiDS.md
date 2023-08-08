@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-278 songs - 15 hr 39 min
+279 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Hate Everything \- Korean Version](https://open.spotify.com/track/7hXTyDaFuwx9t8b52sf6d3) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/73Qi78BaJKF8PNd7WuG97d) | 3:25 | 2022-04-12 | 2022-07-29 |
 | [HELLO](https://open.spotify.com/track/6RFFcuwXQwmxF1djh4xTuH) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Ending Again Part.2](https://open.spotify.com/album/5ROgA3EIdkr1Rauyuklkhm) | 3:25 | 2022-04-12 | 2022-07-25 |
 | [Hello Tutorial](https://open.spotify.com/track/4vh0x47AvwbCywPOlEmfFQ) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [ZZZ](https://open.spotify.com/album/1h68ClpWp0bS59PAZuLk4X) | 3:22 | 2022-06-20 | 2022-06-28 |
-| [Hi spring Bye](https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:24 | 2022-09-05 |  |
+| [Hi spring Bye](https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:24 | 2022-09-05 | 2023-08-08 |
 | [Home \(away from home\)](https://open.spotify.com/track/3XEeAlrVUxxS23NOJaF6CC) | [Dazzling Jihye](https://open.spotify.com/artist/5T6o5MUD02GoAhKjiJgCgB) | [Home \(away from home\)](https://open.spotify.com/album/1O7cZLq8I2Aq2M1n603g10) | 4:48 | 2022-07-04 | 2022-07-09 |
 | [how can i do \(Feat\. YooJeong\)](https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [how can i do](https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH) | 2:49 | 2022-10-08 | 2022-10-14 |
 | [how's your summer?](https://open.spotify.com/track/4d96YEbQXNqQsbBauaButp) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [how's your summer?](https://open.spotify.com/album/1zJfPqG84GCiB8H67Dsgtn) | 2:37 | 2022-07-09 | 2022-07-23 |
@@ -281,6 +281,7 @@
 | [멋지게 인사하는 법 \(Hello Tutorial\) \(Feat\. 슬기 \(SEULGI\) of Red Velvet\)](https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [ZZZ](https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya) | 3:22 | 2022-07-22 |  |
 | [물감 Paint](https://open.spotify.com/track/1HbRmJsM1oi7zTlKZtMVGS) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [물감 Paint](https://open.spotify.com/album/7j8U1x5nDleP8O6ZLW93Lz) | 3:08 | 2022-04-12 | 2022-07-27 |
 | [별빛 아래](https://open.spotify.com/track/0YFpJGYO95aDyKhHCm45Ya) | [초묘 ChoMyo](https://open.spotify.com/artist/1Ti0jJToWtVlp1961yL1Yg) | [별빛 아래](https://open.spotify.com/album/7mP94vpRkV5DJKqrJfbEXQ) | 3:04 | 2022-04-12 | 2022-04-21 |
+| [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 | 2023-07-31 |  |
 | [소중한 사람](https://open.spotify.com/track/1jcnHo7FYiDhIVU8zXOI4Z) | [ASEL](https://open.spotify.com/artist/35mgVM69GpN4vwEE7IRJgy), [에이민](https://open.spotify.com/artist/55hcIGRJnU3BQkPNM6IPGD) | [소중한 사람](https://open.spotify.com/album/7KaZMfVhEdgjlzPU1QAA2o) | 3:15 | 2023-01-10 | 2023-01-26 |
 | [안 보여 Come On](https://open.spotify.com/track/49gW1Q6mjQGCeVdELNShHE) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [<Present : YOU> &ME Edition](https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA) | 3:14 | 2022-04-12 | 2022-04-21 |
 | [우주를 건너 Across the universe](https://open.spotify.com/track/48kGawOjwMzRqltSVL88es) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/00lcRRkz7LexPLWw1qzzDA) | 4:07 | 2022-04-12 | 2022-07-28 |

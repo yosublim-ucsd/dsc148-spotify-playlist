@@ -242,7 +242,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 169580,
       "name": "600 Lumen",
       "url": "https://open.spotify.com/track/0dvqdA1H05ZTlgFylpEDjg"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 159299,
       "name": "Bad Gyalz",
       "url": "https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv"
@@ -1808,6 +1808,24 @@
       "duration_ms": 157463,
       "name": "Blame",
       "url": "https://open.spotify.com/track/6BjfERCULw4fyP9MGyer9q"
+    },
+    {
+      "album": {
+        "name": "Bleecker",
+        "url": "https://open.spotify.com/album/3E7WTyyZV0bx1EcLJFQQDh"
+      },
+      "artists": [
+        {
+          "name": "ALBA",
+          "url": "https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210606,
+      "name": "Bleecker",
+      "url": "https://open.spotify.com/track/5GHXtGjgoX5EKQTiuNX6Fc"
     },
     {
       "album": {
@@ -3504,7 +3522,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 192857,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4tyDTLhNhe5y0g53vrpv8e"

@@ -4,7 +4,7 @@
 
 > carving their own lane\. cover: BAMBII
 
-907 songs - 2 day 2 hr 7 min
+908 songs - 2 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -817,7 +817,8 @@
 | [Touché](https://open.spotify.com/track/3kjBpFB5bLhWWC1OTJhMMU) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Touché](https://open.spotify.com/album/07Ac7pyVYbY3dHCrAwxbFG) | 2:43 | 2022-08-05 | 2022-11-19 |
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-06-23 |  |
 | [Tragedy](https://open.spotify.com/track/6pCkuandJvtLZzcOXS2CJu) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Tragedy](https://open.spotify.com/album/5rtzuc9i65JU8u90cOOFPr) | 2:44 | 2023-03-03 | 2023-03-25 |
-| [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/7bdv0SJlscsRqi6giDwcLp) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/album/7wyYuu1EwLTHzqJuDtqBnZ) | 2:38 | 2023-07-07 |  |
+| [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/0CpfrVubPZHWe1EB2qeo3D) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [German Engineering 1](https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP) | 2:38 | 2023-08-04 |  |
+| [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/7bdv0SJlscsRqi6giDwcLp) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/album/7wyYuu1EwLTHzqJuDtqBnZ) | 2:38 | 2023-07-07 | 2023-08-08 |
 | [True love \(feat\. 070 Shake\)](https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [True love \(feat\. 070 Shake\)](https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k) | 5:47 | 2023-04-21 | 2023-07-15 |
 | [Try Me](https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Try Me](https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx) | 3:33 | 2023-04-14 | 2023-05-13 |
 | [TT Cobra](https://open.spotify.com/track/2PYrGszDlGNHDJdledVUxZ) | [Teria Morada](https://open.spotify.com/artist/0VEkyYlmUrNUfaQsVCenZ5) | [TT Cobra](https://open.spotify.com/album/5kRHghr6UXPuay0isNtljg) | 2:53 | 2022-04-08 | 2022-04-29 |

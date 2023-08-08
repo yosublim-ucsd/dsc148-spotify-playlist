@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Derek",
-  "num_followers": 117915,
+  "num_followers": 117988,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGNhYTIzNTE1YTM3ZGNhMjQ5MzA0NzVlMTRhMDQyYmVjOTU5ZGZi",
+  "snapshot_id": "MCxmOWRkMjljY2FmNTE5OTg3OTE0MzFhYzcyMDZjNDE0MDAzMWUxNTUz",
   "tracks": [
     {
       "added_at": "2023-08-04 23:23:12",
@@ -379,6 +379,34 @@
     {
       "added_at": "2023-08-04 23:23:12",
       "album": {
+        "name": "VAI POR MIM",
+        "url": "https://open.spotify.com/album/1KcKl235anOEDbD1cIeTbl"
+      },
+      "artists": [
+        {
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 147645,
+      "name": "VAI POR MIM",
+      "url": "https://open.spotify.com/track/0Ej7efSLeTKrUW1LfdAJBY"
+    },
+    {
+      "added_at": "2023-08-04 23:23:12",
+      "album": {
         "name": "Bonjour",
         "url": "https://open.spotify.com/album/0Baa9kQydueBXW6jcAE6Tq"
       },
@@ -427,34 +455,6 @@
       "duration_ms": 178407,
       "name": "2023",
       "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
-    },
-    {
-      "added_at": "2023-08-04 23:23:12",
-      "album": {
-        "name": "VAI POR MIM",
-        "url": "https://open.spotify.com/album/1KcKl235anOEDbD1cIeTbl"
-      },
-      "artists": [
-        {
-          "name": "GDM",
-          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 147645,
-      "name": "VAI POR MIM",
-      "url": "https://open.spotify.com/track/0Ej7efSLeTKrUW1LfdAJBY"
     },
     {
       "added_at": "2023-08-04 23:23:12",
@@ -563,62 +563,6 @@
     {
       "added_at": "2023-08-04 23:23:12",
       "album": {
-        "name": "Licor 43",
-        "url": "https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 142470,
-      "name": "Licor 43",
-      "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
-    },
-    {
-      "added_at": "2023-08-04 23:23:12",
-      "album": {
-        "name": "Perdas & Ganhos",
-        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 162506,
-      "name": "Celine",
-      "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
-    },
-    {
-      "added_at": "2023-08-04 23:23:12",
-      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -695,30 +639,58 @@
     {
       "added_at": "2023-08-04 23:23:12",
       "album": {
-        "name": "Se Acaba (feat. Mc Don Juan & MC Ryan SP)",
-        "url": "https://open.spotify.com/album/3rXDB8PJWiuVSfkqYIELlV"
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
       "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
         {
           "name": "Vulgo FK",
           "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Se Acaba (feat. Mc Don Juan & MC Ryan SP)",
-      "url": "https://open.spotify.com/track/4TmIkfVvu5LOE2JADl8Brp"
+      "duration_ms": 162506,
+      "name": "Celine",
+      "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
+    },
+    {
+      "added_at": "2023-08-04 23:23:12",
+      "album": {
+        "name": "Licor 43",
+        "url": "https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 142470,
+      "name": "Licor 43",
+      "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
     },
     {
       "added_at": "2023-08-04 23:23:12",
@@ -739,42 +711,6 @@
       "duration_ms": 162585,
       "name": "Dama de Vermelho",
       "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
-    },
-    {
-      "added_at": "2023-08-04 23:23:12",
-      "album": {
-        "name": "A Cara do Crime (N\u00f3s Incomoda)",
-        "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        }
-      ],
-      "duration_ms": 302117,
-      "name": "A Cara do Crime (N\u00f3s Incomoda)",
-      "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
     },
     {
       "added_at": "2023-08-04 23:23:12",
@@ -815,6 +751,70 @@
       "duration_ms": 205714,
       "name": "Jun\u00e7\u00e3o Venenosa",
       "url": "https://open.spotify.com/track/2FSuhtOSQo1MUn8bNZmxYq"
+    },
+    {
+      "added_at": "2023-08-04 23:23:12",
+      "album": {
+        "name": "A Cara do Crime (N\u00f3s Incomoda)",
+        "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "duration_ms": 302117,
+      "name": "A Cara do Crime (N\u00f3s Incomoda)",
+      "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
+    },
+    {
+      "added_at": "2023-08-04 23:23:12",
+      "album": {
+        "name": "Se Acaba (feat. Mc Don Juan & MC Ryan SP)",
+        "url": "https://open.spotify.com/album/3rXDB8PJWiuVSfkqYIELlV"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Se Acaba (feat. Mc Don Juan & MC Ryan SP)",
+      "url": "https://open.spotify.com/track/4TmIkfVvu5LOE2JADl8Brp"
     },
     {
       "added_at": "2023-08-04 23:23:12",
@@ -967,6 +967,30 @@
     {
       "added_at": "2023-08-04 23:23:12",
       "album": {
+        "name": "Fio a Fio",
+        "url": "https://open.spotify.com/album/0G681ObSuAOUg6LVMV5bu5"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 178356,
+      "name": "Fio a Fio",
+      "url": "https://open.spotify.com/track/6XFykQIcRhoIhud5NZSsyL"
+    },
+    {
+      "added_at": "2023-08-04 23:23:12",
+      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -991,30 +1015,6 @@
       "duration_ms": 202434,
       "name": "To de P\u00e9",
       "url": "https://open.spotify.com/track/6WHGZ8voLYNlgYlUyBhQm9"
-    },
-    {
-      "added_at": "2023-08-04 23:23:12",
-      "album": {
-        "name": "Fio a Fio",
-        "url": "https://open.spotify.com/album/0G681ObSuAOUg6LVMV5bu5"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 178356,
-      "name": "Fio a Fio",
-      "url": "https://open.spotify.com/track/6XFykQIcRhoIhud5NZSsyL"
     },
     {
       "added_at": "2023-08-04 23:23:12",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2023-08-04 23:23:12",
       "album": {
+        "name": "SUETHSEASON",
+        "url": "https://open.spotify.com/album/6MLgeaFryg6G8xXo4GStVr"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        }
+      ],
+      "duration_ms": 160476,
+      "name": "SUETHSEASON",
+      "url": "https://open.spotify.com/track/5pt9z8FThYiEcFeY8sdeXF"
+    },
+    {
+      "added_at": "2023-08-04 23:23:12",
+      "album": {
         "name": "A Cara do Crime 2 (Cansou de Playboy)",
         "url": "https://open.spotify.com/album/40CPfMR1GrVD0KHUBqpKD0"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 265411,
       "name": "A Cara do Crime 2 (Cansou de Playboy)",
       "url": "https://open.spotify.com/track/7KPhwNko8V9vYBIN653hSO"
-    },
-    {
-      "added_at": "2023-08-04 23:23:12",
-      "album": {
-        "name": "SUETHSEASON",
-        "url": "https://open.spotify.com/album/6MLgeaFryg6G8xXo4GStVr"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        }
-      ],
-      "duration_ms": 160476,
-      "name": "SUETHSEASON",
-      "url": "https://open.spotify.com/track/5pt9z8FThYiEcFeY8sdeXF"
     },
     {
       "added_at": "2023-08-04 23:23:12",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-08-04 23:23:12",
       "album": {
-        "name": "Cria da Cruzada",
-        "url": "https://open.spotify.com/album/4ixaPn9K2eeTDGfUfqny8x"
-      },
-      "artists": [
-        {
-          "name": "Robinho Du\u00f3",
-          "url": "https://open.spotify.com/artist/1vaHLFercdMoZQrDZupT0B"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "Cria da Cruzada",
-      "url": "https://open.spotify.com/track/1HOV6y7jyNc38PKCcEBDit"
-    },
-    {
-      "added_at": "2023-08-04 23:23:12",
-      "album": {
         "name": "Drip Sesh, Vol. 1",
         "url": "https://open.spotify.com/album/07j32H5r7zVrkEzUYb62AK"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 171676,
       "name": "Bae",
       "url": "https://open.spotify.com/track/3BMQsF20h5sXE9wWDgx4xH"
+    },
+    {
+      "added_at": "2023-08-04 23:23:12",
+      "album": {
+        "name": "Cria da Cruzada",
+        "url": "https://open.spotify.com/album/4ixaPn9K2eeTDGfUfqny8x"
+      },
+      "artists": [
+        {
+          "name": "Robinho Du\u00f3",
+          "url": "https://open.spotify.com/artist/1vaHLFercdMoZQrDZupT0B"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Cria da Cruzada",
+      "url": "https://open.spotify.com/track/1HOV6y7jyNc38PKCcEBDit"
     }
   ],
   "unique_name": "Cop\u00e3o na m\u00e3o",

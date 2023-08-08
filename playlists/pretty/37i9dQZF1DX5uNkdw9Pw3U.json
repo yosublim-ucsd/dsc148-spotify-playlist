@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 66779,
+  "num_followers": 66839,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTczNzRhOGY1YjMxMjk0YTNjY2EyMGI1NDY4NGI1OTEyMTAwOTVm",
+  "snapshot_id": "MCwwZTBmNjliMzIxYzg0ZDBiZWZlYjEyMDI3ZjlkNGEwOTE3YzUyNzcx",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Coastin\u2019",
         "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 175319,
       "name": "Coastin\u2019",
       "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 155298,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 208395,
       "name": "Jet Black (feat. Brandy)",
       "url": "https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 155298,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -463,22 +463,6 @@
       "duration_ms": 225103,
       "name": "Do To Me",
       "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 312360,
-      "name": "Heart Don't Stand a Chance",
-      "url": "https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -547,6 +531,22 @@
       "duration_ms": 213933,
       "name": "My Affection (with PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 312360,
+      "name": "Heart Don't Stand a Chance",
+      "url": "https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
-        }
-      ],
-      "duration_ms": 266812,
-      "name": "Come Home (feat. Andr\u00e9 3000)",
-      "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Phases II - EP",
         "url": "https://open.spotify.com/album/6VIjrQlk9cTrufxWJX8pi1"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 195466,
       "name": "Measure of a Man (feat. Central Cee)",
       "url": "https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 266812,
+      "name": "Come Home (feat. Andr\u00e9 3000)",
+      "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "killer",
+        "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 176876,
+      "name": "killer",
+      "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Slow Down (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/3bP5HbrQemp8PQS9Z9gnCF"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 176773,
       "name": "Experience",
       "url": "https://open.spotify.com/track/0hRRNHeSZv2x6pHCcXPAct"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "killer",
-        "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 176876,
-      "name": "killer",
-      "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Fall into place",
+        "url": "https://open.spotify.com/album/6H9LrowBd43bph6WF3NKxo"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "duration_ms": 168576,
+      "name": "Fall into place",
+      "url": "https://open.spotify.com/track/0f6kT8WozcmtkenxnhDbp6"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j"
       },
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Fall into place",
-        "url": "https://open.spotify.com/album/6H9LrowBd43bph6WF3NKxo"
+        "name": "Orbit (Live from Air Studios)",
+        "url": "https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV"
       },
       "artists": [
         {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
         }
       ],
-      "duration_ms": 168576,
-      "name": "Fall into place",
-      "url": "https://open.spotify.com/track/0f6kT8WozcmtkenxnhDbp6"
+      "duration_ms": 234313,
+      "name": "Orbit - Live from Air Studios",
+      "url": "https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1287,22 +1303,6 @@
       "duration_ms": 197099,
       "name": "New Spring",
       "url": "https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Orbit (Live from Air Studios)",
-        "url": "https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 234313,
-      "name": "Orbit - Live from Air Studios",
-      "url": "https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1594,11 +1594,15 @@
         {
           "name": "Gallant",
           "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 216837,
-      "name": "Sleep On It",
-      "url": "https://open.spotify.com/track/09upHR7ZIeltejXCof4B8u"
+      "duration_ms": 185371,
+      "name": "Compromise (feat. Sabrina Claudio)",
+      "url": "https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1675,6 +1679,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Sweet Insomnia",
+        "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "duration_ms": 216837,
+      "name": "Sleep On It",
+      "url": "https://open.spotify.com/track/09upHR7ZIeltejXCof4B8u"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Swim Home (From 13 Reasons Why - Season 3 Soundtrack)",
         "url": "https://open.spotify.com/album/3sResZsuA2eMUvNdc4HHiO"
       },
@@ -1703,22 +1723,6 @@
       "duration_ms": 155157,
       "name": "Kool Aid",
       "url": "https://open.spotify.com/track/71ptv206CeeXGutS1TaieZ"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Who Do You Pray To?",
-        "url": "https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z"
-      },
-      "artists": [
-        {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
-        }
-      ],
-      "duration_ms": 189092,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW"
     }
   ],
   "unique_name": "Laid Back Beats",

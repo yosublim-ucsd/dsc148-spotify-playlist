@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-722 songs - 1 day 19 hr 57 min
+723 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@
 | [Let Me Out](https://open.spotify.com/track/0UaUxHmxqaVTKMNFQc8roy) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [Let Me Out](https://open.spotify.com/album/6E7KPmVTFVshga6VEuVySy) | 3:35 | 2022-07-01 | 2022-07-29 |
 | [Let You Down](https://open.spotify.com/track/6SrwmS9G3gI3cGNUqv6QzV) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Feel Again, Pt\. 1](https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd) | 3:30 | 2022-06-10 | 2022-11-12 |
 | [Let You Down \- Chris Schweizer Remix](https://open.spotify.com/track/5uHEofIJPJaU01HuZ9R1Yw) | [Eco](https://open.spotify.com/artist/53B8p4TVFXCtarwosey71M), [Chris Schweizer](https://open.spotify.com/artist/2OEfOu8gvperJc2LcqGsjc) | [Let You Down](https://open.spotify.com/album/1ofE9M2CxwoQdff327H2J5) | 3:06 | 2021-12-17 | 2022-09-26 |
-| [Life](https://open.spotify.com/track/2UEmLEXlkJo1Agp1Ci7894) | [Norni](https://open.spotify.com/artist/6huxF5zlE1RX4sKRUWlEeW) | [Life](https://open.spotify.com/album/31Rfe4nu8yfzwNt8uUNYOY) | 3:15 | 2023-07-21 |  |
+| [Life](https://open.spotify.com/track/2UEmLEXlkJo1Agp1Ci7894) | [Norni](https://open.spotify.com/artist/6huxF5zlE1RX4sKRUWlEeW) | [Life](https://open.spotify.com/album/31Rfe4nu8yfzwNt8uUNYOY) | 3:15 | 2023-07-21 | 2023-08-08 |
 | [Life's Unfair](https://open.spotify.com/track/1u6yM18TWzdsGpf9UsUrL6) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Life's Unfair](https://open.spotify.com/album/5dKXVw6fK5vhmycDsTje7Z) | 3:34 | 2022-02-25 | 2022-07-20 |
 | [Lifeline](https://open.spotify.com/track/4tvDQfaM3ZJMrQbLA13RNm) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Lifeline](https://open.spotify.com/album/3TgepwNI0HXrFMPfQom2B7) | 3:38 | 2022-09-23 | 2023-05-20 |
 | [Lifeline \- Fisherman Remix](https://open.spotify.com/track/1GuVsKyXDotOBc7k1ZsQHZ) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Fisherman](https://open.spotify.com/artist/0vykncECxuxH5RqOMt6IIg) | [Lifeline \(Fisherman Remix\)](https://open.spotify.com/album/3RcHIST3XzCyqc5wOTxmPZ) | 3:34 | 2023-05-19 |  |
@@ -657,6 +657,7 @@
 | [Thunderstorm](https://open.spotify.com/track/1W7IB819HPkn1wder2Yq15) | [Myde](https://open.spotify.com/artist/4GLfkXTyojK3BHJJkuUmpq) | [Thunderstorm](https://open.spotify.com/album/5yjnMWHueuTWmPj3B6GBKT) | 3:59 | 2022-04-22 | 2022-05-14 |
 | [Tiger](https://open.spotify.com/track/4uUxMuipFKX8gq4me7pGty) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq) | [Tiger](https://open.spotify.com/album/19ndH7HNa1DKyt18uyXikg) | 3:19 | 2022-01-21 | 2022-07-26 |
 | [Till The Sun Is Up High](https://open.spotify.com/track/6sS1woPe1F2CHvwr1JamkY) | [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO) | [Till The Sun Is Up High](https://open.spotify.com/album/0NaVzChiy0uqs9bcDUDRS5) | 3:18 | 2023-07-21 |  |
+| [Time](https://open.spotify.com/track/1yFexL3PgnFKXtDF29Hmax) | [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK), [Cari](https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re) | [Time](https://open.spotify.com/album/6BuCGdSlBbvyxs4MEL60zK) | 4:55 | 2023-08-04 |  |
 | [Time After Time](https://open.spotify.com/track/7HnozJfCXo4H21kZNRYv5V) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8) | [Time After Time](https://open.spotify.com/album/1Wk9LOhvSz6RQ0Cq8pcnyW) | 2:49 | 2023-01-13 |  |
 | [Time Keeper](https://open.spotify.com/track/7aQ5uJmlptmX4ezpvhSPrU) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Dallerium](https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Time Keeper](https://open.spotify.com/album/0cY7IaQHde6rUN32qiSBgx) | 3:10 | 2023-07-21 |  |
 | [To Find Me](https://open.spotify.com/track/3PPyiohzTsnV562eVPMV9S) | [Sam Laxton](https://open.spotify.com/artist/53Nb2hmEBQV4dbkKbTpSnU), [Altartica](https://open.spotify.com/artist/0mgsEkflwfWTNdMSIwgjDE), [Sarah Russell](https://open.spotify.com/artist/130O0cb6ht7pUyIJmpbQuP) | [To Find Me](https://open.spotify.com/album/7qUF59zFEhzpabmBX7Tm6K) | 3:32 | 2023-04-07 |  |

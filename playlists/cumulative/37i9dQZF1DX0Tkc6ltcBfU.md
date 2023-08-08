@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Quavo
 
-792 songs - 1 day 14 hr 0 min
+794 songs - 1 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Gang Nem \(feat\. EST Gee\)](https://open.spotify.com/track/6t4OP550372zgiAof928AR) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Survivor Of The Trenches](https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13) | 2:23 | 2022-12-02 | 2023-03-04 |
 | [Get Away](https://open.spotify.com/track/65nmqAEqW7CJIkXOIkxyg8) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Get Away](https://open.spotify.com/album/32FRll0ejOVNcspDDtUEqY) | 3:00 | 2022-11-18 | 2023-01-28 |
 | [Get Back](https://open.spotify.com/track/7hN02og1TARl5EER4wURPb) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Get Back](https://open.spotify.com/album/3gNuY9GJCmvKpTx6v3ZPaa) | 1:49 | 2021-12-03 | 2022-01-15 |
+| [Get Back](https://open.spotify.com/track/7jwRq3gjpzHFuPNwSPLhBi) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Get Back](https://open.spotify.com/album/2QFWsFsh9RMFDyaGY5qQN5) | 2:35 | 2023-08-07 |  |
 | [Get Em](https://open.spotify.com/track/5D2d4F9IQkXo6GXbXb4X2K) | [Wam SpinThaBin](https://open.spotify.com/artist/1vljqWKOCEBTIA9mhCaCCt) | [Before I Self Destruct](https://open.spotify.com/album/4ZUkRvwHt1iXuLLBlBzY5T) | 1:50 | 2022-12-09 | 2023-02-11 |
 | [Get Even](https://open.spotify.com/track/2YVscnKcfmlc2fl89FlX5h) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Get Even](https://open.spotify.com/album/5dL0R5fAWbcjXgL73QqOoV) | 2:41 | 2022-07-22 | 2022-09-24 |
 | [Get Right](https://open.spotify.com/track/0aEX95JWUga3M8DzNsfiAa) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Get Right](https://open.spotify.com/album/5zCLvl2nq5TYhZkf8S1Tfo) | 2:08 | 2022-10-07 | 2022-10-29 |
@@ -321,7 +322,7 @@
 | [I Know](https://open.spotify.com/track/4iPk2FPM9hZYHqtQsfEz6m) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [I Know](https://open.spotify.com/album/0sPpOYWKeLPeppdKyZy9W4) | 3:17 | 2022-10-14 | 2022-11-26 |
 | [I Like](https://open.spotify.com/track/6zaoVw156UmdL8D3xOwggX) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [I Like](https://open.spotify.com/album/1NVTjDBAJGzgkCgnj9Mkuo) | 1:51 | 2022-12-09 | 2023-01-28 |
 | [I Like](https://open.spotify.com/track/24zWMswwt6ZHKYX6jYZgeC) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [I Like](https://open.spotify.com/album/7ltqU3JhqqTebrpUyMI9ty) | 2:07 | 2022-02-25 | 2022-03-12 |
-| [I Love A Freak](https://open.spotify.com/track/1X0bnHH8Hv0pMc8LIHivew) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [I Love A Freak](https://open.spotify.com/album/7hUr6M3p6VW66uVNTM1pch) | 2:56 | 2023-07-14 |  |
+| [I Love A Freak](https://open.spotify.com/track/1X0bnHH8Hv0pMc8LIHivew) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [I Love A Freak](https://open.spotify.com/album/7hUr6M3p6VW66uVNTM1pch) | 2:56 | 2023-07-14 | 2023-08-08 |
 | [I Love You, But…](https://open.spotify.com/track/3c2DJDAr8OQ3Eutr9bQkqF) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [I Love You, But...](https://open.spotify.com/album/7KBzvoBpBIDZzy6z5FqOcl) | 2:56 | 2022-10-14 | 2022-10-29 |
 | [I Need A Thug](https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [I Need A Thug](https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl) | 1:57 | 2023-06-09 | 2023-07-01 |
 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 | 2023-02-17 | 2023-03-11 |
@@ -345,6 +346,7 @@
 | [Internet Trolls](https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf) | [Internet Trolls](https://open.spotify.com/album/1T1BSzvHFyuHBJrUOH3QhR) | 2:20 | 2023-02-03 | 2023-03-11 |
 | [Intro](https://open.spotify.com/track/616GCCMUU7QADlWJIYFfOl) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Intro](https://open.spotify.com/album/2cASinTpkHHvXYNKm1Jqbe) | 3:30 | 2022-06-10 | 2022-06-18 |
 | [IT AIN'T SAFE \(feat\. Nardo Wick & Kodak Black\)](https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:50 | 2022-08-26 | 2022-10-22 |
+| [It's Getting Hot](https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [It's Getting Hot](https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO) | 2:14 | 2023-08-07 |  |
 | [I’m So Awesome](https://open.spotify.com/track/5tzEcVk8jFSBhTrO0ZYJdZ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [I’m So Awesome](https://open.spotify.com/album/4D0WwN3ZWPdVqGLYRQw7pd) | 3:07 | 2022-09-30 | 2022-12-31 |
 | [Jack N Jill](https://open.spotify.com/track/0sKXknOnpKgxiSuOHbK54D) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Sincerely Mad](https://open.spotify.com/album/4wfGo9Fh83xeR6vJ6qMEpj) | 2:31 | 2023-08-04 |  |
 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 | 2023-07-28 |  |
@@ -539,7 +541,7 @@
 | [Pew Pew](https://open.spotify.com/track/7b4LMdMrjPLNUNwxO46sQR) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Pew Pew](https://open.spotify.com/album/2dxkkuVraqcsCIbsVgK86h) | 2:40 | 2022-12-30 | 2023-02-18 |
 | [Phone Ringing](https://open.spotify.com/track/4O5RjbYzHBFGeXj7Aakz1Y) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Welcome To Vulture Island](https://open.spotify.com/album/0g96ZZ9ME5DaTwZb1VYxmo) | 1:40 | 2022-04-08 | 2022-04-29 |
 | [Pickin’ Sides \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/0uX7dGC07Dd8mpvnCcWzH0) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Pickin’ Sides \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/3QMuWl11zBhxwLwLM7KpRM) | 2:13 | 2022-04-08 | 2022-06-04 |
-| [Pimp Problems](https://open.spotify.com/track/2sQNGOxvrF4WrS8KZykAci) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Who Is Fatt](https://open.spotify.com/album/3qsgJ7DqZ9dqgblDMea5KR) | 1:50 | 2023-08-04 |  |
+| [Pimp Problems](https://open.spotify.com/track/2sQNGOxvrF4WrS8KZykAci) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Who Is Fatt](https://open.spotify.com/album/3qsgJ7DqZ9dqgblDMea5KR) | 1:50 | 2023-08-04 | 2023-08-08 |
 | [Pip N' Walk](https://open.spotify.com/track/5trKhl8w5Rcg8wbenmmlWj) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal) | [Faster Car Music](https://open.spotify.com/album/0olnICw6Z8zojoAttZFpRD) | 2:43 | 2022-08-19 | 2022-09-17 |
 | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8) | 3:38 | 2023-05-05 |  |
 | [Plan B](https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Plan B](https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx) | 2:43 | 2022-04-22 | 2022-05-20 |

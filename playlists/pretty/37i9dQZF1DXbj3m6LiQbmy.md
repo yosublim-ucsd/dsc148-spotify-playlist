@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Yosef, MYDRAMA, KAPUT, Evra e Blue Phelix in cover! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,699 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,701 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 50 | [Ça va? Je t’aime! \(feat\. EMMANUELLE\)](https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça Va? Je t'aime! \(Feat\. EMMANUELLE\)](https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua) | 3:28 |
 | 51 | [SIAMO RAGAZZU](https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT) | [fantahouse](https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd) | [SIAMO RAGAZZU](https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o) | 1:34 |
 | 52 | [How I Became A House](https://open.spotify.com/track/2J2VP9r6Tq8yPuxEVd4UJy) | [Dafne](https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH) | [Loser With A Strategy](https://open.spotify.com/album/3ja6JyJDSg2ucusI9kFUbG) | 2:59 |
-| 53 | [Amami \- La Tosa Disco Remix](https://open.spotify.com/track/17x9hPgr15m3Sfvj2rZjf8) | [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019), [La Tosa](https://open.spotify.com/artist/4ewa6gzbDQiCfDgjVpOGYl) | [Nuda](https://open.spotify.com/album/5q3Qt3eOUcVfSxeeWrVIHs) | 3:16 |
+| 53 | [Amami \- La Tosa Disco Remix](https://open.spotify.com/track/4hN5nPKf7hxBJK6shDieXf) | [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019), [La Tosa](https://open.spotify.com/artist/4ewa6gzbDQiCfDgjVpOGYl) | [Amami \(La Tosa Disco Remix\)](https://open.spotify.com/album/77ZpekbQJKAUBSrWDgLJQc) | 3:16 |
 | 54 | [Fammi sapere](https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ) | [Santissima Vicky](https://open.spotify.com/artist/1SVjhg7V450B2W9zcn9dZY) | [Fammi sapere](https://open.spotify.com/album/5BLc0gWZEp3CQvyEpSO5p0) | 2:55 |
 | 55 | [Flores No Mar \- Album Edit](https://open.spotify.com/track/6SYH3khYd6Mum1cKf8sRux) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [W](https://open.spotify.com/album/4dfA4vqVedjn5tCy1Ce5my) | 8:13 |
 | 56 | [QUARANTENA](https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE) | [Les Flames](https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP) | [QUARANTENA](https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS) | 2:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 74 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/4yDG7Q9kemM7LS2AfxcFs9) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [Le città](https://open.spotify.com/album/6VCWcupYXk4UdIeXJNjC07) | 4:24 |
 | 75 | [S.T.A.R.](https://open.spotify.com/track/4eH6eFLynzhPTxC52cAFV2) | [Playgirls from Caracas](https://open.spotify.com/artist/2DtlP0AAGRMHdesTux8mu9), [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019) | [S.T.A.R.](https://open.spotify.com/album/2TdAEnj9JvAGLWJ3wVSvUw) | 3:38 |
 
-Snapshot ID: `MCw0N2RkMTM4MWMyZmQ4ZWEzZTFjNWY0NWI2NDZiMDZiMzJiMTg3OWU4`
+Snapshot ID: `MCw1NmJmMDA2NzczNDJkOTY1MDQzMDU0MzE1MTZhMjVmYjAzNTc1MTgw`

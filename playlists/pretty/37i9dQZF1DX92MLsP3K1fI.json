@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Alex Luna en portada.",
-  "num_followers": 71034,
+  "num_followers": 71084,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDUyM2Y2ZjJjNzM0ZGJlODIzMjAxMGU2YmY1YmU0Yzg3MDE4MDIx",
+  "snapshot_id": "MCw3OTk4NTBiNzQyZmUyMThiNDdmOGVhMzUzNGJiYmY3YmRhYjkyOGZl",
   "tracks": [
     {
       "added_at": "2023-07-28 18:03:13",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-07-28 18:03:13",
       "album": {
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 162981,
+      "name": "A\u00f1o Sab\u00e1tico",
+      "url": "https://open.spotify.com/track/1W3TtHJz099SGGq67IOVFL"
+    },
+    {
+      "added_at": "2023-07-28 18:03:13",
+      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
       },
@@ -483,26 +499,6 @@
     {
       "added_at": "2023-07-28 18:03:13",
       "album": {
-        "name": "No Se Acaba Hasta Que Acabe",
-        "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 186832,
-      "name": "No Se Acaba Hasta Que Acabe",
-      "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
-    },
-    {
-      "added_at": "2023-07-28 18:03:13",
-      "album": {
         "name": "Uno los Dos",
         "url": "https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9"
       },
@@ -519,22 +515,6 @@
       "duration_ms": 215426,
       "name": "Uno los Dos",
       "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"
-    },
-    {
-      "added_at": "2023-07-28 18:03:13",
-      "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 162981,
-      "name": "A\u00f1o Sab\u00e1tico",
-      "url": "https://open.spotify.com/track/1W3TtHJz099SGGq67IOVFL"
     },
     {
       "added_at": "2023-07-28 18:03:13",
@@ -575,6 +555,26 @@
       "duration_ms": 169000,
       "name": "S\u00daPER ULTRA MEGA",
       "url": "https://open.spotify.com/track/1RR4V0naoxfy9dVgMjzcxZ"
+    },
+    {
+      "added_at": "2023-07-28 18:03:13",
+      "album": {
+        "name": "No Se Acaba Hasta Que Acabe",
+        "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 186832,
+      "name": "No Se Acaba Hasta Que Acabe",
+      "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
     },
     {
       "added_at": "2023-07-28 18:03:13",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-07-28 18:03:13",
       "album": {
-        "name": "Tengamos Pasado",
-        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 180648,
-      "name": "Tengamos Pasado",
-      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
-    },
-    {
-      "added_at": "2023-07-28 18:03:13",
-      "album": {
         "name": "Crayola",
         "url": "https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 169621,
       "name": "T\u00edrame Un Hello",
       "url": "https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s"
+    },
+    {
+      "added_at": "2023-07-28 18:03:13",
+      "album": {
+        "name": "Tengamos Pasado",
+        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 180648,
+      "name": "Tengamos Pasado",
+      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
     },
     {
       "added_at": "2023-07-28 18:03:13",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-07-28 18:03:13",
       "album": {
+        "name": "Me Liber\u00e9",
+        "url": "https://open.spotify.com/album/2N2qUUEHAZw9b5Kj8Zpv0S"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Me Liber\u00e9",
+      "url": "https://open.spotify.com/track/54o97glZqjfQambK2yyNCG"
+    },
+    {
+      "added_at": "2023-07-28 18:03:13",
+      "album": {
         "name": "No Puede Ser (con Eladio Carrion)",
         "url": "https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP"
       },
@@ -903,18 +919,18 @@
     {
       "added_at": "2023-07-28 18:03:13",
       "album": {
-        "name": "Me Liber\u00e9",
-        "url": "https://open.spotify.com/album/2N2qUUEHAZw9b5Kj8Zpv0S"
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/4LZmupArVMH708EjwPECO3"
       },
       "artists": [
         {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 217973,
-      "name": "Me Liber\u00e9",
-      "url": "https://open.spotify.com/track/54o97glZqjfQambK2yyNCG"
+      "duration_ms": 184000,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/16alCAQtM9TPU6FUexEUnh"
     },
     {
       "added_at": "2023-07-28 18:03:13",
@@ -935,38 +951,18 @@
     {
       "added_at": "2023-07-28 18:03:13",
       "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/4LZmupArVMH708EjwPECO3"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/16alCAQtM9TPU6FUexEUnh"
-    },
-    {
-      "added_at": "2023-07-28 18:03:13",
-      "album": {
-        "name": "Thalia's Mixtape",
-        "url": "https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf"
+        "name": "Psycho B**ch",
+        "url": "https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u"
       },
       "artists": [
         {
           "name": "Thalia",
           "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "David Summers",
-          "url": "https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt"
         }
       ],
-      "duration_ms": 202736,
-      "name": "Devu\u00e9lveme a Mi Chica",
-      "url": "https://open.spotify.com/track/7sl70g1z4UCKl28PdAG5na"
+      "duration_ms": 167360,
+      "name": "Psycho B**ch",
+      "url": "https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M"
     },
     {
       "added_at": "2023-07-28 18:03:13",

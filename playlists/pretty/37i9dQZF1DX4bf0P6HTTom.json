@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 143775,
+  "num_followers": 143822,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWZkN2MzOWJkY2EyYWU5YzM1OGEzM2M1NTA3MzdhNzM2M2U2Njhm",
+  "snapshot_id": "MCw2ZGU4ZjM2Y2ExMmFiYzk0ZDRmYzA1NzU1NGVhODVlOTZhNjk1ZmQ5",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -253,6 +253,22 @@
       "url": "https://open.spotify.com/track/7HblJM23la7H8kXeBwlkzN"
     },
     {
+      "added_at": "2022-06-01 14:20:20",
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 250888,
+      "name": "Witchy Woman - 2013 Remaster",
+      "url": "https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r"
+    },
+    {
       "added_at": "2022-06-01 14:18:36",
       "album": {
         "name": "Greatest Hits",
@@ -299,22 +315,6 @@
       "duration_ms": 228000,
       "name": "You're Only Lonely",
       "url": "https://open.spotify.com/track/0qzEkwri1hE0rgxVqdOBAf"
-    },
-    {
-      "added_at": "2022-06-01 14:20:20",
-      "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 250888,
-      "name": "Witchy Woman - 2013 Remaster",
-      "url": "https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -413,6 +413,22 @@
       "url": "https://open.spotify.com/track/2XI5jIhGo6Mx455FUGm8Sb"
     },
     {
+      "added_at": "2022-06-01 14:20:20",
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 250456,
+      "name": "Train Leaves Here This Morning - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5ro7xAxDVbtabTl8t3MzHz"
+    },
+    {
       "added_at": "2020-08-05 15:52:11",
       "album": {
         "name": "Manassas",
@@ -445,20 +461,24 @@
       "url": "https://open.spotify.com/track/1PsDNPG1j7ySpFpxjHB5xb"
     },
     {
-      "added_at": "2022-06-01 14:20:20",
+      "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+        "name": "Grievous Angel",
+        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "Gram Parsons",
+          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 250456,
-      "name": "Train Leaves Here This Morning - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5ro7xAxDVbtabTl8t3MzHz"
+      "duration_ms": 212893,
+      "name": "Ooh Las Vegas (feat. Emmylou Harris) - 2007 Remaster",
+      "url": "https://open.spotify.com/track/7kJpAkJSFMCkM6T4plsRLd"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -495,22 +515,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Grievous Angel",
-        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
+        "name": "Hotel California (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn"
       },
       "artists": [
         {
-          "name": "Gram Parsons",
-          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 212893,
-      "name": "Ooh Las Vegas (feat. Emmylou Harris) - 2007 Remaster",
-      "url": "https://open.spotify.com/track/7kJpAkJSFMCkM6T4plsRLd"
+      "duration_ms": 304925,
+      "name": "New Kid in Town - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -547,6 +563,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq"
+      },
+      "artists": [
+        {
+          "name": "Dan Fogelberg",
+          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
+        }
+      ],
+      "duration_ms": 169840,
+      "name": "Morning Sky",
+      "url": "https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Elite Hotel (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/312OEZO2boUMqdNMuuip6h"
       },
@@ -559,6 +591,22 @@
       "duration_ms": 146986,
       "name": "Feelin' Single - Seein' Double - 2003 Remaster",
       "url": "https://open.spotify.com/track/65J216Pxb4JOdiYVFIpLx7"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
+      },
+      "artists": [
+        {
+          "name": "Pure Prairie League",
+          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
+        }
+      ],
+      "duration_ms": 246693,
+      "name": "Two Lane Highway",
+      "url": "https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -577,22 +625,6 @@
       "url": "https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a"
     },
     {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Hotel California (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 304925,
-      "name": "New Kid in Town - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS"
-    },
-    {
       "added_at": "2022-06-01 14:18:36",
       "album": {
         "name": "The Flying Burrito Brothers",
@@ -607,38 +639,6 @@
       "duration_ms": 188706,
       "name": "Tried So Hard",
       "url": "https://open.spotify.com/track/4v4ssibf1FAkxisrqeMPhh"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq"
-      },
-      "artists": [
-        {
-          "name": "Dan Fogelberg",
-          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "Morning Sky",
-      "url": "https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
-      },
-      "artists": [
-        {
-          "name": "Pure Prairie League",
-          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
-        }
-      ],
-      "duration_ms": 246693,
-      "name": "Two Lane Highway",
-      "url": "https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA"
     },
     {
       "added_at": "2022-06-01 14:18:36",
@@ -739,22 +739,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "The Flying Burrito Brothers",
-        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
-      },
-      "artists": [
-        {
-          "name": "The Flying Burrito Brothers",
-          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "White Line Fever",
-      "url": "https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Sittin' In",
         "url": "https://open.spotify.com/album/1EtuN2j0AKVwsiqrddMtco"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 169306,
       "name": "Listen to a Country Song",
       "url": "https://open.spotify.com/track/5YEgs7DjcGk9pYP6l0u85h"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "The Flying Burrito Brothers",
+        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
+      },
+      "artists": [
+        {
+          "name": "The Flying Burrito Brothers",
+          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "White Line Fever",
+      "url": "https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf"
     },
     {
       "added_at": "2020-08-05 15:52:11",

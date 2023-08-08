@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 103225,
       "name": "artifact 37",
       "url": "https://open.spotify.com/track/4VwN7ukpw2CvoEvX3MtEKK"
@@ -1405,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "Casual Kisser",
+        "url": "https://open.spotify.com/album/2gzL4mfz5BiHfsUvZdyI79"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164293,
+      "name": "Casual Kisser",
+      "url": "https://open.spotify.com/track/6vS9XivvbeoxUMUywhHSuc"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e"
       },
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 235887,
       "name": "Close One",
       "url": "https://open.spotify.com/track/1xIT1hBftZGBNLIf35XlgV"
@@ -2681,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "The Maine",
+        "url": "https://open.spotify.com/album/40ptDph9mAXMnkZJKRe3UM"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216137,
+      "name": "funny how?",
+      "url": "https://open.spotify.com/track/16K3ltS5J9zlfPkUjlcGCV"
+    },
+    {
+      "album": {
         "name": "Future Tense",
         "url": "https://open.spotify.com/album/46mvznn935dBGq7cPcjafR"
       },
@@ -2916,6 +2952,24 @@
       "duration_ms": 253599,
       "name": "Grace",
       "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
+    },
+    {
+      "album": {
+        "name": "Gracie",
+        "url": "https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165260,
+      "name": "Gracie",
+      "url": "https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w"
     },
     {
       "album": {
@@ -3164,7 +3218,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 233680,
       "name": "Heaving Chest",
       "url": "https://open.spotify.com/track/4RzCh43qCMYOtNR52qCXvj"
@@ -3301,6 +3355,28 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2aBkncK675ajfbL7AkRjiH"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        },
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184106,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4wYCasaUMf0fz0ZNgrehHr"
+    },
+    {
+      "album": {
         "name": "Holes",
         "url": "https://open.spotify.com/album/1AAJoXqYgInrxXjoRCK4Uh"
       },
@@ -3312,7 +3388,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 238890,
       "name": "Holes",
       "url": "https://open.spotify.com/track/0B6v7ZT2yrqYaCQb6OP5Gn"
@@ -4160,7 +4236,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 191450,
       "name": "Inside My Chest",
       "url": "https://open.spotify.com/track/7aW3ig8WrV4ynt1xiAua2l"
@@ -4867,6 +4943,24 @@
     },
     {
       "album": {
+        "name": "Caught In The Act",
+        "url": "https://open.spotify.com/album/1UI0Mj6eqmIePHooL3oLxP"
+      },
+      "artists": [
+        {
+          "name": "Didirri",
+          "url": "https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196160,
+      "name": "Love Can Bleed You By The Hand",
+      "url": "https://open.spotify.com/track/3OBdz6d0QUvm9Ctb41xzhd"
+    },
+    {
+      "album": {
         "name": "Love Factory",
         "url": "https://open.spotify.com/album/0RZAwFJb7dAWACcbmfzBQ3"
       },
@@ -5084,7 +5178,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 253733,
       "name": "Memories",
       "url": "https://open.spotify.com/track/7raFiiAe2tfVTq4fCKhIhE"
@@ -7185,6 +7279,32 @@
     },
     {
       "album": {
+        "name": "Steadfast (feat. Gordi)",
+        "url": "https://open.spotify.com/album/6ujDONRjiKslOY9mdoadny"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        },
+        {
+          "name": "John Raymond",
+          "url": "https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H"
+        },
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250010,
+      "name": "Steadfast (feat. Gordi)",
+      "url": "https://open.spotify.com/track/2SaTjNJVIXGs5ycPjBIb82"
+    },
+    {
+      "album": {
         "name": "Steal The Show (From \"Elemental\")",
         "url": "https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l"
       },
@@ -8447,6 +8567,24 @@
     },
     {
       "album": {
+        "name": "Soft Landing",
+        "url": "https://open.spotify.com/album/6JafE12iZoyCQQkSN8muem"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240222,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/1yQL2gaQjTrf1Xlce01IJd"
+    },
+    {
+      "album": {
         "name": "The End Of A Feeling",
         "url": "https://open.spotify.com/album/0LR08youH6EbOtHbbZzegd"
       },
@@ -8664,7 +8802,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 303093,
       "name": "When You Were A Child",
       "url": "https://open.spotify.com/track/2zTaWaQSwBGjb0phVwL9Uw"

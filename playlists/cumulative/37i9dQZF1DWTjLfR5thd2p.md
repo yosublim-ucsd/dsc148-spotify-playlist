@@ -4,7 +4,7 @@
 
 > A cool breeze, a clear sky, and calming piano music.
 
-401 songs - 17 hr 35 min
+402 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [The Question](https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu) | [Cullen Waller](https://open.spotify.com/artist/1q5Nczup0WnMsnnhRxJ4BX) | [The Question](https://open.spotify.com/album/3XNSOM2jeWp4YhJC8pe2hU) | 3:01 | 2022-05-20 |  |
 | [The Sky Is Mine](https://open.spotify.com/track/6dIGw0ChcSE4zXCqPfCbw2) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [The Sky Is Mine](https://open.spotify.com/album/0eEyjp3aw6rE5ruirePD2Q) | 3:00 | 2022-05-20 | 2023-07-05 |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-05-20 |  |
+| [The Way Home](https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Way Home](https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB) | 2:27 | 2023-08-07 |  |
 | [This Tender Appeal](https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [This Tender Appeal](https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH) | 2:48 | 2023-06-19 |  |
 | [Thoughts](https://open.spotify.com/track/5UoH0KvzaaVEVpFDyNKdZC) | [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8) | [Thoughts](https://open.spotify.com/album/7nGp3GtIunmPymQtCyaap4) | 2:21 | 2022-05-20 |  |
 | [Ti Penso](https://open.spotify.com/track/6I2mlN0j24YN87ke0mAthD) | [Gianina Cremonesi](https://open.spotify.com/artist/0z1HXjcSk4VetGgiP5qD5n) | [Ti Penso](https://open.spotify.com/album/5EsAhqAsZR8zxEz9cCYuXF) | 2:01 | 2022-05-20 |  |

@@ -4,7 +4,7 @@
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-375 songs - 18 hr 24 min
+376 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,8 @@
 | [Piensa en mí \- Remastered](https://open.spotify.com/track/40NoPVwYpQvY3CxgxPKDAz) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Piensa en mí \(Remastered\)](https://open.spotify.com/album/2oae1OprR1t5wpN83mbtXI) | 2:25 | 2022-01-21 | 2022-11-13 |
 | [Pimpollo](https://open.spotify.com/track/0SU8BMId6UR3L8GGkWLm0J) | [Trio Los Yucas](https://open.spotify.com/artist/6OnSr7QsKSmDJF7z0LWxwH) | [Pimpollo](https://open.spotify.com/album/35LWQCZ2X7pvjlpmsBUGiu) | 2:30 | 2021-05-15 | 2022-07-29 |
 | [Pimpollo](https://open.spotify.com/track/6nreT9uLCxdGMoLr1XUwLf) | [Trio Los Yucas](https://open.spotify.com/artist/6OnSr7QsKSmDJF7z0LWxwH) | [Pimpollo](https://open.spotify.com/album/6aehEUwIFJ4SRYm8lJRBwt) | 2:30 | 2022-01-21 |  |
-| [Plazos Traicioneros](https://open.spotify.com/track/2JNdjO7PwLCCOI9iATKZRQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Fania Classics: Celia Cruz & Willie Colón](https://open.spotify.com/album/2Aa055iU5gYEcGNe7Mo0ht) | 2:53 | 2022-01-21 |  |
+| [Plazos Traicioneros](https://open.spotify.com/track/1muojGmIzJcqojXmdgDtnv) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Mucho Love](https://open.spotify.com/album/5sO98xahJWzsyYiKjJCtCp) | 2:51 | 2022-12-30 |  |
+| [Plazos Traicioneros](https://open.spotify.com/track/2JNdjO7PwLCCOI9iATKZRQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Fania Classics: Celia Cruz & Willie Colón](https://open.spotify.com/album/2Aa055iU5gYEcGNe7Mo0ht) | 2:53 | 2022-01-21 | 2023-08-08 |
 | [Plazos Traicioneros](https://open.spotify.com/track/3Ed171jflzNYxf6WdrrSsm) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Fania Classics](https://open.spotify.com/album/7wpORZg1YJst1MOFnnkueB) | 2:53 | 2021-05-15 | 2022-07-29 |
 | [Popurrí: Amor Mío / Sabrá Dios / Sabor a Mí](https://open.spotify.com/track/6yCkccxYgWjdAi210LJdhr) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [La Coleccion Del Siglo](https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT) | 4:36 | 2021-05-15 |  |
 | [Por Debajo De La Mesa](https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Por Debajo De La Mesa](https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B) | 2:59 | 2021-05-15 |  |

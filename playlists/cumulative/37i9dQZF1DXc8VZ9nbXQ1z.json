@@ -3693,6 +3693,24 @@
     },
     {
       "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/5SivUhqiS0Hz531wdwAzwJ"
+      },
+      "artists": [
+        {
+          "name": "Bun Xapa",
+          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509752,
+      "name": "Lisboa",
+      "url": "https://open.spotify.com/track/6oIxwM3c21qrjj2uThkgrd"
+    },
+    {
+      "album": {
         "name": "Lo Hicimos",
         "url": "https://open.spotify.com/album/0k13T5zISUkpxWuEkgqcaY"
       },
@@ -3966,6 +3984,28 @@
       "duration_ms": 389628,
       "name": "Magnet",
       "url": "https://open.spotify.com/track/0AkkaMnOJ0Q8cEOwRVK371"
+    },
+    {
+      "album": {
+        "name": "Malokazana",
+        "url": "https://open.spotify.com/album/169XzjQUAE7ez07qT6hapQ"
+      },
+      "artists": [
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        },
+        {
+          "name": "Viiiictor May",
+          "url": "https://open.spotify.com/artist/5w1oiMQESW2GdJ8WkmwsvG"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461129,
+      "name": "Malokazana",
+      "url": "https://open.spotify.com/track/5FyHi7GorT5H4H7pvyUKel"
     },
     {
       "album": {

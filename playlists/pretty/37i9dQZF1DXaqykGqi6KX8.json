@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 38961,
+  "num_followers": 38977,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzA3NjdmNDAxN2I4ZDBmZjE0MzljOGFmOGRkMTExOWY5NGVhMDBl",
+  "snapshot_id": "MCwxYmY1MTUzNDFiYTMwYjAwNjkyYzZkOWQzN2YxMTRhZTMxODAzNDMw",
   "tracks": [
     {
       "added_at": "2021-10-14 08:16:07",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
+        "name": "Moongod",
+        "url": "https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa"
+      },
+      "artists": [
+        {
+          "name": "Aeternam",
+          "url": "https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s"
+        }
+      ],
+      "duration_ms": 341175,
+      "name": "Moongod",
+      "url": "https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
         "name": "Blinding the Masses",
         "url": "https://open.spotify.com/album/2HLTq9907TMPpJdphQRZYr"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 255440,
       "name": "Freedom Denied",
       "url": "https://open.spotify.com/track/6Qd5yE8cmlcaaBz7Nxy2EL"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Moongod",
-        "url": "https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa"
-      },
-      "artists": [
-        {
-          "name": "Aeternam",
-          "url": "https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s"
-        }
-      ],
-      "duration_ms": 341175,
-      "name": "Moongod",
-      "url": "https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Inferno",
-        "url": "https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp"
-      },
-      "artists": [
-        {
-          "name": "Coat Of Arms",
-          "url": "https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq"
-        }
-      ],
-      "duration_ms": 196344,
-      "name": "Inferno",
-      "url": "https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/23VDqGZBZwUKvpaO03O0lq"
       },
@@ -331,50 +315,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Wasted Years",
-        "url": "https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw"
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp"
       },
       "artists": [
         {
-          "name": "Nawather",
-          "url": "https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI"
+          "name": "Coat Of Arms",
+          "url": "https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq"
         }
       ],
-      "duration_ms": 240507,
-      "name": "Time to Raise the Curtains",
-      "url": "https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Ma Adesh Feeha (We've Had It)",
-        "url": "https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW"
-      },
-      "artists": [
-        {
-          "name": "Khalas",
-          "url": "https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX"
-        }
-      ],
-      "duration_ms": 239674,
-      "name": "Inta Omri (You Are My Life)",
-      "url": "https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Znousland 2",
-        "url": "https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e"
-      },
-      "artists": [
-        {
-          "name": "Znous",
-          "url": "https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Khoroto (Gultrah Sound System)",
-      "url": "https://open.spotify.com/track/5JW5FWbRjkcANrIXxjHPJx"
+      "duration_ms": 196344,
+      "name": "Inferno",
+      "url": "https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -395,6 +347,22 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
+        "name": "Wasted Years",
+        "url": "https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw"
+      },
+      "artists": [
+        {
+          "name": "Nawather",
+          "url": "https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI"
+        }
+      ],
+      "duration_ms": 240507,
+      "name": "Time to Raise the Curtains",
+      "url": "https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
         "name": "Sofia",
         "url": "https://open.spotify.com/album/6EuwcKP68HmrN6rUqjpHuN"
       },
@@ -407,6 +375,22 @@
       "duration_ms": 293600,
       "name": "Hayati",
       "url": "https://open.spotify.com/track/2IbOp5y95v0VXR32RV98q1"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Ma Adesh Feeha (We've Had It)",
+        "url": "https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW"
+      },
+      "artists": [
+        {
+          "name": "Khalas",
+          "url": "https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX"
+        }
+      ],
+      "duration_ms": 239674,
+      "name": "Inta Omri (You Are My Life)",
+      "url": "https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -443,6 +427,38 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
+        "name": "Znousland 2",
+        "url": "https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e"
+      },
+      "artists": [
+        {
+          "name": "Znous",
+          "url": "https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Khoroto (Gultrah Sound System)",
+      "url": "https://open.spotify.com/track/5JW5FWbRjkcANrIXxjHPJx"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "GILGAMESH",
+        "url": "https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y"
+      },
+      "artists": [
+        {
+          "name": "Acrassicauda",
+          "url": "https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG"
+        }
+      ],
+      "duration_ms": 188734,
+      "name": "The Cost Of Everything And The Value Of Nothing",
+      "url": "https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
         "name": "Timeless Truths",
         "url": "https://open.spotify.com/album/2cRzUDMv0vyRrufvKT7tSA"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 222156,
       "name": "Unfollow",
       "url": "https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "GILGAMESH",
-        "url": "https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y"
-      },
-      "artists": [
-        {
-          "name": "Acrassicauda",
-          "url": "https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG"
-        }
-      ],
-      "duration_ms": 188734,
-      "name": "The Cost Of Everything And The Value Of Nothing",
-      "url": "https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk"
     }
   ],
   "unique_name": "Arab Metal",

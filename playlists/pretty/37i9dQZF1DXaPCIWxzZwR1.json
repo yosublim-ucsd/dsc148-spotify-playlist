@@ -1,12 +1,12 @@
 {
   "description": "next gen pop Cover: Olivia Rodrigo",
-  "num_followers": 1266109,
+  "num_followers": 1266580,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzYwOGFjOWJhNDJjZmRmMjJkMWIzYTA5ZGMwY2EzZDRhYTZhNTNi",
+  "snapshot_id": "MCwzMGYwNTkwZDVkZWIxZDc3Mjg0YjY2MjAzZmE1NmJmMDExY2Q1ZjBj",
   "tracks": [
     {
       "added_at": "2023-08-04 12:28:24",
@@ -323,6 +323,22 @@
       "duration_ms": 231684,
       "name": "Be More",
       "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
+    },
+    {
+      "added_at": "2023-08-07 15:28:00",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd"
     },
     {
       "added_at": "2023-08-04 12:28:24",

@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 198277,
       "name": "Always",
       "url": "https://open.spotify.com/track/1RrzJG3MHtVbgmnpFuUKG9"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "Arabesque",
       "url": "https://open.spotify.com/track/5g5N4ckpykUenMgllmi4KD"
@@ -694,6 +694,24 @@
       "duration_ms": 144708,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/2spEwOTf21NJD8nPxpFbsa"
+    },
+    {
+      "album": {
+        "name": "As light as the air",
+        "url": "https://open.spotify.com/album/3a512iHJ1gKxDTl863RzKH"
+      },
+      "artists": [
+        {
+          "name": "Yasuo Zen",
+          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178358,
+      "name": "As light as the air",
+      "url": "https://open.spotify.com/track/1SNBgthMKmIvlpKRA0iIOX"
     },
     {
       "album": {
@@ -762,7 +780,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 134500,
       "name": "Auriga",
       "url": "https://open.spotify.com/track/0r8M4zqlJeV0XPtCxyQ6fn"
@@ -5036,7 +5054,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 121068,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/3WiissyVFRpCVrqbyPKZxZ"
@@ -5800,7 +5818,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-01",
+      "date_removed": null,
       "duration_ms": 162295,
       "name": "Look to the Sea",
       "url": "https://open.spotify.com/track/0niChogoxtdK17KtHH0jni"
@@ -6294,7 +6312,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 130804,
       "name": "Min Melodi",
       "url": "https://open.spotify.com/track/0rafHfCcXPvNoLf5uHQvpr"
@@ -7198,7 +7216,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 128146,
       "name": "Old Flame",
       "url": "https://open.spotify.com/track/4zUOnBrIEKo9D70FelAthz"
@@ -9358,7 +9376,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 206545,
       "name": "Sonora",
       "url": "https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd"
@@ -11400,7 +11418,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-08",
       "duration_ms": 131561,
       "name": "Waltz, Interrupted",
       "url": "https://open.spotify.com/track/4iMQEdNXGMVlAbqsJGhvxx"

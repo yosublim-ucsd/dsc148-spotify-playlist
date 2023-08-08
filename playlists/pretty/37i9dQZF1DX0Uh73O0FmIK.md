@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 
 > 01101110 01100101 01110010 01100100
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,413 likes - 65 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,558 likes - 65 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 64 | [Drowning](https://open.spotify.com/track/0e2af43kcIHbC44U9zXOzB) | [OXWAVE](https://open.spotify.com/artist/7B2UfSm1zprogJ0TulxZp9) | [Drowning](https://open.spotify.com/album/1jxyUPHCk8mc31yxhGI7jx) | 2:38 |
 | 65 | [Hell](https://open.spotify.com/track/7dQ847NQosTZ9gztaaBtn7) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Soundtrack To A Death](https://open.spotify.com/album/5FbhsjMFQXjb1BqbVtTrHc) | 2:04 |
 
-Snapshot ID: `MCw5Yjk3NTkwZmU1M2MzNWZhZDBmOWMyMzk5ZWZjMDRiMDZlZDI1YjM5`
+Snapshot ID: `MCwxMDcxYTM4OGY2OGFjNWFmNzIwNDYzYTE5NGUyYTU1Yjg5NzM5NGU2`

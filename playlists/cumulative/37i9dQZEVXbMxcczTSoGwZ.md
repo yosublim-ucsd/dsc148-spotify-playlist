@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,521 songs - 3 day 10 hr 24 min
+1,522 songs - 3 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Heaven \(feat\. Fabe\)](https://open.spotify.com/track/2ObEvBrsXtmk75KZdYX0Ta) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi), [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Heaven \(feat\. Fabe\)](https://open.spotify.com/album/6UxQXhl8ijtd6LXCvC1mj2) | 3:10 | 2022-10-22 | 2022-11-06 |
 | [Heaven \(feat\. Fabe\)](https://open.spotify.com/track/7xI0ofxULkeCPPOS83kskj) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi), [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Paha Barbi](https://open.spotify.com/album/5ocAtVmcHBox3i2WoxoACL) | 3:10 | 2022-11-05 | 2022-11-13 |
 | [Heaven and Hell](https://open.spotify.com/track/2ZUJsR8HEktit58X6FuPQM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:25 | 2021-08-31 | 2021-09-03 |
+| [Heavy](https://open.spotify.com/track/1hNq0VwF1aVJbp4YqJKVm7) | [Krissemane](https://open.spotify.com/artist/4iECab0POmzwLrf28xg7cb) | [Heavy](https://open.spotify.com/album/4OXISxSjwftsvWsEWpZuBW) | 3:24 | 2023-08-07 |  |
 | [Hei mummo](https://open.spotify.com/track/1gWJ4zaBSkyICr7wTEygS9) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Tulkoon joulu](https://open.spotify.com/album/0VDkoo0kc2g5TuTDSxDffP) | 3:18 | 2021-12-07 | 2022-12-28 |
 | [Hei rakas](https://open.spotify.com/track/2XaewhXngZd2Zi4ijFIkK0) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Draaman kaari viehättää](https://open.spotify.com/album/2y7VeG13zC99aXEDF60IgJ) | 3:31 | 2021-03-27\* | 2022-02-18 |
 | [Heinillä härkien kaukalon](https://open.spotify.com/track/7zGAw542Yr5WA7hyF9FCKR) | [Vesa\-Matti Loiri](https://open.spotify.com/artist/1C3guep1CayLvcFFadeQBt) | [Sydämeeni joulun teen](https://open.spotify.com/album/22VOa9w3witxpYb1NqOY0b) | 3:11 | 2022-12-25 | 2022-12-27 |
@@ -1437,7 +1438,7 @@
 | [Viimeisiä sanoja](https://open.spotify.com/track/3STatpBP2zJ1CTca7PRSKp) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Viimeisiä sanoja](https://open.spotify.com/album/6xI7ijnlOk4KAdfu5nUuD0) | 3:29 | 2023-02-11 |  |
 | [Viimeistä kertaa](https://open.spotify.com/track/6j7ntlEnyTEiO5p3NgKcXy) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Parisuhdehautausmaa](https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE) | 3:31 | 2022-03-12 | 2022-04-17 |
 | [Viisi kesää](https://open.spotify.com/track/1fPYFdAdQNFL9rpZPxR2FN) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Nopsajalka](https://open.spotify.com/artist/6szmr2d0QlRU7EOyXrqGnC) | [Viisi kesää](https://open.spotify.com/album/3lhaK83qGnM4PNTAddYLsJ) | 3:30 | 2021-07-04 | 2021-10-10 |
-| [Villieläin](https://open.spotify.com/track/0hR9rAzfwW8EuutTXdSzuF) | [Ramses II](https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC) | [Villieläin](https://open.spotify.com/album/2rZeRZDAChITruWkjr1ihC) | 3:38 | 2022-06-25 |  |
+| [Villieläin](https://open.spotify.com/track/0hR9rAzfwW8EuutTXdSzuF) | [Ramses II](https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC) | [Villieläin](https://open.spotify.com/album/2rZeRZDAChITruWkjr1ihC) | 3:38 | 2022-06-25 | 2023-08-08 |
 | [Villieläin](https://open.spotify.com/track/6vmFYA9uGxkS7u8c651KnL) | [Ramses II](https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC) | [Villieläin](https://open.spotify.com/album/50hbFhnyr8QnsYfahCgqdl) | 3:38 | 2022-05-01 | 2022-06-26 |
 | [VIP \(feat\. Joe L\)](https://open.spotify.com/track/1V7heNvQrv36oONabzppJ0) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59), [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [VIP \(feat\. Joe L\)](https://open.spotify.com/album/6XZ3KoZrimVmqZCgeJzTir) | 2:41 | 2023-07-08 | 2023-07-10 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-08-31 |

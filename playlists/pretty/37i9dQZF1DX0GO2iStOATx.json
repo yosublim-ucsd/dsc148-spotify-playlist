@@ -1,131 +1,15 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 105744,
+  "num_followers": 105790,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTRhN2JkODAxN2E5ODEwMjhiYjE4YzM2MTY2OWQ1N2YwMTRmOTk4",
+  "snapshot_id": "MCwzYTY5NTZlMWVlZmVkMGRmNmEwNmU0ZjdiMzY4OWNkNDljNTM0M2Nj",
   "tracks": [
     {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Challa - Spotify Singles",
-        "url": "https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J"
-      },
-      "artists": [
-        {
-          "name": "Gurdas Maan",
-          "url": "https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT"
-        },
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
-        }
-      ],
-      "duration_ms": 283902,
-      "name": "Challa - Spotify Singles",
-      "url": "https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Jugni",
-        "url": "https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 193190,
-      "name": "Jugni",
-      "url": "https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Drive Thru",
-        "url": "https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 189176,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/3mZLiEDAHIjZ8ms5Lxq33F"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Born to Shine",
-      "url": "https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/6HBa9wXaZG8WIkhBY8p4aT"
-      },
-      "artists": [
-        {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/4LLvxxkWtt818FNO3cbsdo"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Chauffeur",
-        "url": "https://open.spotify.com/album/0YelQwXuaXeL3nk23iOqwd"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        },
-        {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
-        }
-      ],
-      "duration_ms": 205040,
-      "name": "Chauffeur",
-      "url": "https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
+      "added_at": "2023-08-07 07:42:12",
       "album": {
         "name": "Drive Thru",
         "url": "https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78"
@@ -141,387 +25,7 @@
       "url": "https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W"
     },
     {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "MoonChild Era",
-        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 166757,
-      "name": "Black & White",
-      "url": "https://open.spotify.com/track/5wiSbeDm2p5yniuus7eH4J"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/5Yl8tuE1kBsLK4PaSN8Vfm"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Intense",
-          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
-        },
-        {
-          "name": "Chani Nattan",
-          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
-        }
-      ],
-      "duration_ms": 212347,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/7HWMIRSmUrhlbveXerIEWk"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "What Ve",
-        "url": "https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Nimrat Khaira",
-          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "What Ve",
-      "url": "https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Welcome to My Hood",
-        "url": "https://open.spotify.com/album/1eIdNQUDw6dlSpMBoRXzIK"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Welcome to My Hood",
-      "url": "https://open.spotify.com/track/1T5mAjBkpuczG5H6yUcSB4"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Umbrella",
-        "url": "https://open.spotify.com/album/3S3ekcemSjVZ6Pi3ojBEhq"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Intense",
-          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
-        },
-        {
-          "name": "Chani Nattan",
-          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
-        }
-      ],
-      "duration_ms": 193398,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/7fBeejW1BoZFTd4hTP6JvV"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "MoonChild Era",
-        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 155250,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/0Qi3UVsHtnxNZW1WPrpxOh"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Simar Kaur",
-          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/64GMWImeb6xJcddUiK9kov"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "MoonChild Era",
-        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 176385,
-      "name": "Clash",
-      "url": "https://open.spotify.com/track/7krGSbOnw13S7tIpgVEWAo"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Surma",
-        "url": "https://open.spotify.com/album/0a4usykYKqRRnqPBok3n68"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 205841,
-      "name": "Surma",
-      "url": "https://open.spotify.com/track/0fjxdmPuNO05PUQPOUCUif"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "MoonChild Era",
-        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Nimrat Khaira",
-          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Track Suit",
-      "url": "https://open.spotify.com/track/7ABCuDLEY2GyAwnGcqkmt2"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Roar",
-        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 170882,
-      "name": "Gulabi Pagg",
-      "url": "https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "MoonChild Era",
-        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 190005,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/6yAwGkkTU4q4vkgufzOVXH"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 215723,
-      "name": "Navi Navi Yaari",
-      "url": "https://open.spotify.com/track/39pjjDG9o44eDjkM4BPdiG"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Jind Mahi",
-        "url": "https://open.spotify.com/album/3wvRXgcVOfuAktwk0i0peU"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Jind Mahi",
-      "url": "https://open.spotify.com/track/3SJVCbBFTxR6UvvTWRNbMp"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "MoonChild Era",
-        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/7fYE7BT9Na8XpALQwuhIwX"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "G.O.A.T.",
-      "url": "https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "MoonChild Era",
-        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 158513,
-      "name": "Cali",
-      "url": "https://open.spotify.com/track/2OXUK0Lwgv5Y9M5m8bI9Af"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 183614,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/0v1T9sMeFbaanQ3o2PBcYK"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Muchh",
-        "url": "https://open.spotify.com/album/6Tu3rISlgcL1tjBLb3jmuS"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 205301,
-      "name": "Muchh",
-      "url": "https://open.spotify.com/track/3m3uKnTWKAPlnfggqVsIOq"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "MoonChild Era",
-        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 212727,
-      "name": "Void",
-      "url": "https://open.spotify.com/track/6jJ75TzzADszxOwKyJbyAl"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
+      "added_at": "2023-08-07 07:42:12",
       "album": {
         "name": "Namaste England (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6qokplIH6RyEbm9Q2DiBQB"
@@ -545,587 +49,31 @@
       "url": "https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT"
     },
     {
-      "added_at": "2023-03-18 11:30:00",
+      "added_at": "2023-08-07 07:42:12",
       "album": {
-        "name": "Con.Fi.Den.Tial",
-        "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
+        "name": "Challa - Spotify Singles",
+        "url": "https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J"
       },
       "artists": [
+        {
+          "name": "Gurdas Maan",
+          "url": "https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT"
+        },
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
-          "name": "Snappy",
-          "url": "https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix"
-        },
-        {
-          "name": "Rav Hanjra",
-          "url": "https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd"
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
         }
       ],
-      "duration_ms": 176670,
-      "name": "High End",
-      "url": "https://open.spotify.com/track/5dUpL1UYXkjXqf55FrBLgr"
+      "duration_ms": 283902,
+      "name": "Challa - Spotify Singles",
+      "url": "https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm"
     },
     {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "MoonChild Era",
-        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 181377,
-      "name": "Da Crew",
-      "url": "https://open.spotify.com/track/07qkw7UX06KaqyiMdX8klW"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Con.Fi.Den.Tial",
-        "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Snappy",
-          "url": "https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix"
-        },
-        {
-          "name": "Rav Hanjra",
-          "url": "https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd"
-        }
-      ],
-      "duration_ms": 207300,
-      "name": "Big Scene",
-      "url": "https://open.spotify.com/track/0yYikBy6sQAI3n6QbQPYw5"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 179285,
-      "name": "Jatti",
-      "url": "https://open.spotify.com/track/2fH3WsTNUlnGqcXwuu7aTx"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Do Gabru - Diljit Dosanjh & Akhil",
-        "url": "https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 186312,
-      "name": "Laembadgini",
-      "url": "https://open.spotify.com/track/6Zp8T8QuT8XK1gPPs68zRz"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Do You Know",
-        "url": "https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 211764,
-      "name": "Do You Know",
-      "url": "https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 264128,
-      "name": "Peed",
-      "url": "https://open.spotify.com/track/2Ny0SqN4HHB7nfdre6YlDb"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Do Gabru - Diljit Dosanjh & Akhil",
-        "url": "https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 178421,
-      "name": "5 Taara",
-      "url": "https://open.spotify.com/track/4OFiDV3YIUVwMUNsXRnqeV"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Roar",
-        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 161061,
-      "name": "Sahnewal",
-      "url": "https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/2EU4dEMDrPS1hwLSxk6PZ7"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Best of Punjabi Superstar Diljit Dosanjh",
-        "url": "https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Tarannum Mallik Jain",
-          "url": "https://open.spotify.com/artist/3dihrcurT9YFHMT8KpaIKa"
-        }
-      ],
-      "duration_ms": 142203,
-      "name": "Veer Vaar - From \"Sardaarji\"",
-      "url": "https://open.spotify.com/track/6jjZAa7vzI1MEPQdNLXKXy"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Do Gabru - Diljit Dosanjh & Akhil",
-        "url": "https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 198783,
-      "name": "Raat Di Gedi",
-      "url": "https://open.spotify.com/track/52rRjGjdTwlDIKXjTLKAv9"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Taare",
-      "url": "https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Do Gabru - Diljit Dosanjh & Akhil",
-        "url": "https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 188314,
-      "name": "Patiala Peg",
-      "url": "https://open.spotify.com/track/6TikcWOLRsPq66GBx2jk67"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "El Sue\u00f1o (feat. Tru-Skool)",
-        "url": "https://open.spotify.com/album/0O6WVv0kgaPZdKTMap1DhY"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Tru-Skool",
-          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
-        }
-      ],
-      "duration_ms": 234435,
-      "name": "El Sue\u00f1o (feat. Tru-Skool)",
-      "url": "https://open.spotify.com/track/4xxLLbEcA3mMwpzvBWjVTR"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Roar",
-        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 191113,
-      "name": "Mel Gel",
-      "url": "https://open.spotify.com/track/0uZ0ZZDpBOcFasRWyfpVhV"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Sardaarji 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7e7y177qkxcSDE0fjKLLOt"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 160136,
-      "name": "Pappleen",
-      "url": "https://open.spotify.com/track/70aRuBodhfC8zPnbxTzObz"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Back to Basics",
-        "url": "https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Tru-Skool",
-          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Kharku",
-      "url": "https://open.spotify.com/track/1xzxjqnT7mZb2Sh4HaG5tc"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Con.Fi.Den.Tial",
-        "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Snappy",
-          "url": "https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix"
-        },
-        {
-          "name": "Rav Hanjra",
-          "url": "https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd"
-        }
-      ],
-      "duration_ms": 173638,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/34izTWG2OZPbmCUzwqosgt"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Sardaarji 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7e7y177qkxcSDE0fjKLLOt"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "Mitran Da Junction",
-      "url": "https://open.spotify.com/track/5SSRu1tQ4eYdoZErEOAMY2"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Best of Punjabi Superstar Diljit Dosanjh",
-        "url": "https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 132270,
-      "name": "Sweetoo - From \"Disco Singh\"",
-      "url": "https://open.spotify.com/track/3Peokn3Rj1GvHWngNR0pJy"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Back to Basics",
-        "url": "https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Tru-Skool",
-          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
-        }
-      ],
-      "duration_ms": 231027,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/4EQxlW6xqddgkzeno3I2Xe"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "The Biggest UK Bhangra Hits, Vol. 4",
-        "url": "https://open.spotify.com/album/2pe8Sz2baC8aoOcXzgXRWU"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Lak 28 Kudi Da",
-      "url": "https://open.spotify.com/track/7IHxvK9eSKfJgsRUe5Bacy"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Best of Punjabi Superstar Diljit Dosanjh",
-        "url": "https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 162196,
-      "name": "Happy Birthday - From \"Disco Singh\"",
-      "url": "https://open.spotify.com/track/3CqkVhjv8Nqxal0R5BwEkk"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Hero Naam Yaad Rakhi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2c6NfrTTBy3DBN0F83W6wi"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 190934,
-      "name": "Ak 47",
-      "url": "https://open.spotify.com/track/6nzoIqFXW8OvI3PR1XiNuR"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Best of Punjabi Superstar Diljit Dosanjh",
-        "url": "https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 172094,
-      "name": "Channo - From \"Punjab 1984\"",
-      "url": "https://open.spotify.com/track/6iFKuT3vqpWcKKnAVRwIoU"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Blow out Crackers Diwali (Remix) - Single",
-        "url": "https://open.spotify.com/album/3NvuOF5E2FUr2nnzWBpoJq"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Mankirt Aulakh",
-          "url": "https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr"
-        },
-        {
-          "name": "Amrit Maan",
-          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
-        }
-      ],
-      "duration_ms": 290403,
-      "name": "Blow Out Crackers Diwali - Remix",
-      "url": "https://open.spotify.com/track/0Q5WbW3iZU3eazpCxSIHTd"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Best of Punjabi Superstar Diljit Dosanjh",
-        "url": "https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 128319,
-      "name": "Sardaarji - From \"Sardaarji\"",
-      "url": "https://open.spotify.com/track/5dnN0pXE56qH1ufb8HennJ"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Back to Basics",
-        "url": "https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Tru-Skool",
-          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1mYjwd7fhieNlsrjiFyOr0"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Back to Basics",
-        "url": "https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Tee L",
-          "url": "https://open.spotify.com/artist/6TsJMutd2Oq9jQRdlFeGUv"
-        }
-      ],
-      "duration_ms": 224733,
-      "name": "Poh Di Raat",
-      "url": "https://open.spotify.com/track/6kqTzI4FCVdot2cVP1Zcqe"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Back to Basics",
-        "url": "https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Tru-Skool",
-          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
-        }
-      ],
-      "duration_ms": 209933,
-      "name": "Truck",
-      "url": "https://open.spotify.com/track/3GUpX7xIjE4Z3tYjKK3oY7"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
-      "album": {
-        "name": "Collaborations 3",
-        "url": "https://open.spotify.com/album/2HRpBMvcjiglPyFuiyVabR"
-      },
-      "artists": [
-        {
-          "name": "Sukshinder Shinda",
-          "url": "https://open.spotify.com/artist/6Mp7fezR1NJNc7tnybKo18"
-        },
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 251341,
-      "name": "Singh Naal Jodi",
-      "url": "https://open.spotify.com/track/2MIlXiV4IGhkcjhfc52xme"
-    },
-    {
-      "added_at": "2023-03-18 11:30:00",
+      "added_at": "2023-08-07 07:42:12",
       "album": {
         "name": "Jab Harry Met Sejal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E"
@@ -1149,10 +97,94 @@
       "url": "https://open.spotify.com/track/5fuXyn3OBdYnGmgncTLUiE"
     },
     {
-      "added_at": "2023-03-18 11:30:00",
+      "added_at": "2023-08-07 07:42:12",
       "album": {
-        "name": "Best of Punjabi Superstar Diljit Dosanjh",
-        "url": "https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX"
+        "name": "Collaborations 3",
+        "url": "https://open.spotify.com/album/2HRpBMvcjiglPyFuiyVabR"
+      },
+      "artists": [
+        {
+          "name": "Sukshinder Shinda",
+          "url": "https://open.spotify.com/artist/6Mp7fezR1NJNc7tnybKo18"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 251341,
+      "name": "Singh Naal Jodi",
+      "url": "https://open.spotify.com/track/2MIlXiV4IGhkcjhfc52xme"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Born to Shine",
+      "url": "https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Drive Thru",
+        "url": "https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 189176,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/3mZLiEDAHIjZ8ms5Lxq33F"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "MoonChild Era",
+        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "G.O.A.T.",
+      "url": "https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Chauffeur",
+        "url": "https://open.spotify.com/album/0YelQwXuaXeL3nk23iOqwd"
       },
       "artists": [
         {
@@ -1160,16 +192,484 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
-          "name": "Veet Baljit",
-          "url": "https://open.spotify.com/artist/4Ax6JQQBWP2BqmmcbVvZwl"
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
         }
       ],
-      "duration_ms": 217297,
-      "name": "Kismat - From \"Punjab 1984\"",
-      "url": "https://open.spotify.com/track/4SyJ5EGcKes6ko7TTtYd5i"
+      "duration_ms": 205040,
+      "name": "Chauffeur",
+      "url": "https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB"
     },
     {
-      "added_at": "2023-03-18 11:30:00",
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 176385,
+      "name": "Clash",
+      "url": "https://open.spotify.com/track/7krGSbOnw13S7tIpgVEWAo"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Do You Know",
+        "url": "https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 211764,
+      "name": "Do You Know",
+      "url": "https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "MoonChild Era",
+        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/7fYE7BT9Na8XpALQwuhIwX"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "MoonChild Era",
+        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 166757,
+      "name": "Black & White",
+      "url": "https://open.spotify.com/track/5wiSbeDm2p5yniuus7eH4J"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Jind Mahi",
+        "url": "https://open.spotify.com/album/3wvRXgcVOfuAktwk0i0peU"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Jind Mahi",
+      "url": "https://open.spotify.com/track/3SJVCbBFTxR6UvvTWRNbMp"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "MoonChild Era",
+        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 155250,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Jugni",
+        "url": "https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 193190,
+      "name": "Jugni",
+      "url": "https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/5Yl8tuE1kBsLK4PaSN8Vfm"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+        },
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        }
+      ],
+      "duration_ms": 212347,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/7HWMIRSmUrhlbveXerIEWk"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Con.Fi.Den.Tial",
+        "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Snappy",
+          "url": "https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix"
+        },
+        {
+          "name": "Rav Hanjra",
+          "url": "https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd"
+        }
+      ],
+      "duration_ms": 176670,
+      "name": "High End",
+      "url": "https://open.spotify.com/track/5dUpL1UYXkjXqf55FrBLgr"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "MoonChild Era",
+        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 190005,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/6yAwGkkTU4q4vkgufzOVXH"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/3S3ekcemSjVZ6Pi3ojBEhq"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+        },
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        }
+      ],
+      "duration_ms": 193398,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/7fBeejW1BoZFTd4hTP6JvV"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "MoonChild Era",
+        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Welcome to My Hood",
+        "url": "https://open.spotify.com/album/1eIdNQUDw6dlSpMBoRXzIK"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Welcome to My Hood",
+      "url": "https://open.spotify.com/track/1T5mAjBkpuczG5H6yUcSB4"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "What Ve",
+        "url": "https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "What Ve",
+      "url": "https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 264128,
+      "name": "Peed",
+      "url": "https://open.spotify.com/track/2Ny0SqN4HHB7nfdre6YlDb"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 215723,
+      "name": "Navi Navi Yaari",
+      "url": "https://open.spotify.com/track/39pjjDG9o44eDjkM4BPdiG"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "MoonChild Era",
+        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 212727,
+      "name": "Void",
+      "url": "https://open.spotify.com/track/6jJ75TzzADszxOwKyJbyAl"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/2EU4dEMDrPS1hwLSxk6PZ7"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Con.Fi.Den.Tial",
+        "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Snappy",
+          "url": "https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix"
+        },
+        {
+          "name": "Rav Hanjra",
+          "url": "https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd"
+        }
+      ],
+      "duration_ms": 207300,
+      "name": "Big Scene",
+      "url": "https://open.spotify.com/track/0yYikBy6sQAI3n6QbQPYw5"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Track Suit",
+      "url": "https://open.spotify.com/track/7ABCuDLEY2GyAwnGcqkmt2"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 170882,
+      "name": "Gulabi Pagg",
+      "url": "https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 179285,
+      "name": "Jatti",
+      "url": "https://open.spotify.com/track/2fH3WsTNUlnGqcXwuu7aTx"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Taare",
+      "url": "https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "MoonChild Era",
+        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 158513,
+      "name": "Cali",
+      "url": "https://open.spotify.com/track/2OXUK0Lwgv5Y9M5m8bI9Af"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Muchh",
+        "url": "https://open.spotify.com/album/6Tu3rISlgcL1tjBLb3jmuS"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 205301,
+      "name": "Muchh",
+      "url": "https://open.spotify.com/track/3m3uKnTWKAPlnfggqVsIOq"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/0Qi3UVsHtnxNZW1WPrpxOh"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Simar Kaur",
+          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/64GMWImeb6xJcddUiK9kov"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
       "album": {
         "name": "Dhan Guru Nanak",
         "url": "https://open.spotify.com/album/04HkWmXIM1ZorFIs3BucsR"
@@ -1183,6 +683,234 @@
       "duration_ms": 212321,
       "name": "Dhan Guru Nanak",
       "url": "https://open.spotify.com/track/2ANLVRKX1yKrYODxZH5EBX"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Surma",
+        "url": "https://open.spotify.com/album/0a4usykYKqRRnqPBok3n68"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 205841,
+      "name": "Surma",
+      "url": "https://open.spotify.com/track/0fjxdmPuNO05PUQPOUCUif"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "El Sue\u00f1o (feat. Tru-Skool)",
+        "url": "https://open.spotify.com/album/0O6WVv0kgaPZdKTMap1DhY"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Tru-Skool",
+          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
+        }
+      ],
+      "duration_ms": 234435,
+      "name": "El Sue\u00f1o (feat. Tru-Skool)",
+      "url": "https://open.spotify.com/track/4xxLLbEcA3mMwpzvBWjVTR"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "MoonChild Era",
+        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 181377,
+      "name": "Da Crew",
+      "url": "https://open.spotify.com/track/07qkw7UX06KaqyiMdX8klW"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 191113,
+      "name": "Mel Gel",
+      "url": "https://open.spotify.com/track/0uZ0ZZDpBOcFasRWyfpVhV"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Do Gabru - Diljit Dosanjh & Akhil",
+        "url": "https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 188314,
+      "name": "Patiala Peg",
+      "url": "https://open.spotify.com/track/6TikcWOLRsPq66GBx2jk67"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Con.Fi.Den.Tial",
+        "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Snappy",
+          "url": "https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix"
+        },
+        {
+          "name": "Rav Hanjra",
+          "url": "https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd"
+        }
+      ],
+      "duration_ms": 173638,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/34izTWG2OZPbmCUzwqosgt"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 183614,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/0v1T9sMeFbaanQ3o2PBcYK"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 161061,
+      "name": "Sahnewal",
+      "url": "https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Do Gabru - Diljit Dosanjh & Akhil",
+        "url": "https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 178421,
+      "name": "5 Taara",
+      "url": "https://open.spotify.com/track/4OFiDV3YIUVwMUNsXRnqeV"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Do Gabru - Diljit Dosanjh & Akhil",
+        "url": "https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 198783,
+      "name": "Raat Di Gedi",
+      "url": "https://open.spotify.com/track/52rRjGjdTwlDIKXjTLKAv9"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Do Gabru - Diljit Dosanjh & Akhil",
+        "url": "https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 186312,
+      "name": "Laembadgini",
+      "url": "https://open.spotify.com/track/6Zp8T8QuT8XK1gPPs68zRz"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Back to Basics",
+        "url": "https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Tru-Skool",
+          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Kharku",
+      "url": "https://open.spotify.com/track/1xzxjqnT7mZb2Sh4HaG5tc"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Back to Basics",
+        "url": "https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Tru-Skool",
+          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
+        }
+      ],
+      "duration_ms": 231027,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/4EQxlW6xqddgkzeno3I2Xe"
     }
   ],
   "unique_name": "This Is Diljit Dosanjh",

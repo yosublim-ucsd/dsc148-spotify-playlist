@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: The Story So Far
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,805 likes - 132 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,900 likes - 132 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 131 | [Plus One](https://open.spotify.com/track/6zi6Oa8jioqPbeqoCbZCkq) | [Speedy Ortiz](https://open.spotify.com/artist/6YHfq8Pg3lZPo1u0PaQ8ob) | [Plus One](https://open.spotify.com/album/3dqTJ8HgLAqqgHE0ou361D) | 3:16 |
 | 132 | [Puppet](https://open.spotify.com/track/4regXvcrxxSaf7ZkwkXr9M) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Puppet](https://open.spotify.com/album/3uUgo5qKv6dzfBqvAhZ6KZ) | 2:43 |
 
-Snapshot ID: `MCxlYTU1NWU3MDg2ZWI2ZDFjZDJkZTljZmJlY2YxODZmN2M1MTY2ZmNm`
+Snapshot ID: `MCxjZDgxZTQ5YjUwYzc5MDNjZDg0YjRiNWY5NWY5N2M4ODQ1ZWRhNTY5`

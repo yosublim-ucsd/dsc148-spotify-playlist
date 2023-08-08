@@ -2,9 +2,9 @@
 
 ### [Fresh Finds PK](https://open.spotify.com/playlist/37i9dQZF1DXd0Rasy4eR1v)
 
-> Freshest of Pakistani discoveries\. Cover \- Zouqan
+> Freshest of Pakistani discoveries\. Cover \- Jawad
 
-498 songs - 1 day 3 hr 21 min
+502 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Aasaan](https://open.spotify.com/track/6e9sCpW3AhBa2GvhYgiVLM) | [Turaab](https://open.spotify.com/artist/64Or1q5UDgq189fmuBe42s) | [Aasaan](https://open.spotify.com/album/702eYfpcrrLD4PSeziFenT) | 5:10 | 2022-10-26 | 2022-11-18 |
 | [aasaan hai](https://open.spotify.com/track/1PL2iCrKPtQxDmBFkjl9sy) | [Mujtuba Pervez](https://open.spotify.com/artist/03we4OCmKdHttDNkzJyHX4) | [aasaan hai](https://open.spotify.com/album/2IRbz6bVTerzmMVoGCgbX8) | 3:29 | 2023-05-05 |  |
 | [Abitk](https://open.spotify.com/track/5okAEXaqJajR6vhoeZPcmw) | [SAZGIR](https://open.spotify.com/artist/2oAG6MjavkOWhvC97uf212) | [Abitk](https://open.spotify.com/album/0N6wsHs8R4H3BnHOtvHKq7) | 3:43 | 2022-09-23 | 2023-01-11 |
+| [Addiction](https://open.spotify.com/track/1GxKlPx6EKFWIuJ2rqL2Fd) | [Zaib Shah](https://open.spotify.com/artist/5siuzlq3nu9RRowIXX3cZq) | [Addiction](https://open.spotify.com/album/0qAZSgXrcBr6pWT5ixyjrb) | 2:08 | 2023-08-07 |  |
 | [Adhi Raati](https://open.spotify.com/track/019dFCKl46AEIPJVaWyl7Y) | [Ahsan Pervaiz Mehdi](https://open.spotify.com/artist/7DOompIBVJEHcUxOkpbZon) | [Shuru](https://open.spotify.com/album/2ZMIrmcfBHc7aT4daZ0j9w) | 3:34 | 2022-11-17 | 2022-12-01 |
 | [Adhooray](https://open.spotify.com/track/0vKEVmVD7ed0WSx4QSxNgO) | [Arsalan Hasan](https://open.spotify.com/artist/1uyfPuXn3J7LMOYh39lLv2) | [Adhooray](https://open.spotify.com/album/4vCrjmLcGpjdcg5BtNNVYK) | 2:33 | 2022-08-27 | 2023-01-11 |
 | [Ae Kehndi](https://open.spotify.com/track/5Fm0T8Iz0UZFvGGeDYCSzQ) | [Fakhar Anjum](https://open.spotify.com/artist/1nC5tVdFsI5uHCzZAyvH0p) | [Ae Kehndi](https://open.spotify.com/album/7MyGrxgvgPP0vH0G4ztoE6) | 3:05 | 2022-11-30 | 2023-01-11 |
@@ -102,6 +103,7 @@
 | [Cozy in My Dojo](https://open.spotify.com/track/5czzOmoWgPBWqWwr3Ft9dk) | [Shumaq](https://open.spotify.com/artist/6s2kMNqPUgJBgFvufMHAao) | [Cozy in My Dojo](https://open.spotify.com/album/0PZJcn1h8KNBKd72UCk1M1) | 1:54 | 2022-11-30 | 2023-01-11 |
 | [Crazy funk !](https://open.spotify.com/track/5Tj1Poq6StBg394zYurLa7) | [Alemam Elghandour](https://open.spotify.com/artist/3HAn0ZaBosAui4f1jggyLi), [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP) | [Crazy funk !](https://open.spotify.com/album/6Uoag8vi50Uycia0evNb6A) | 2:28 | 2022-11-17 | 2022-12-01 |
 | [Crew](https://open.spotify.com/track/7zmyi0bS4MQB4f6if2JyE7) | [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF) | [Crew](https://open.spotify.com/album/0MxIbjTGNmPXetVViqxDLT) | 2:14 | 2023-02-13 | 2023-03-22 |
+| [CRYLOOP \#2](https://open.spotify.com/track/0vEfhFwwRrNw1R6cXEzPof) | [Sinan Rajput](https://open.spotify.com/artist/0avEinyUN34b2mxTo7YZLY) | [CRYLOOP \#2](https://open.spotify.com/album/286iWmypvu6vXCVlwPgiF0) | 2:23 | 2023-08-07 |  |
 | [Cute hai](https://open.spotify.com/track/0rWwZhBXiXXmvGKPJKgE6f) | [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Cute hai](https://open.spotify.com/album/3RYFuc4pHU4TcuW4F03lJF) | 2:00 | 2022-10-26 | 2022-11-18 |
 | [DARD](https://open.spotify.com/track/5VX3rCpUsR4qPaYLSNJbL5) | [HASHAM](https://open.spotify.com/artist/3b2KqMPwMeN8zchJ9CljtG), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [DARD](https://open.spotify.com/album/0rQegKfDZz3NSBwHAlyCr9) | 2:18 | 2022-11-30 | 2023-01-11 |
 | [Dard Adat](https://open.spotify.com/track/5dk10AE6gHAhgPWhichvif) | [Khawar Jawad](https://open.spotify.com/artist/1Yn6sVYDKokQTn0wjZ90Xx) | [Dard Adat](https://open.spotify.com/album/4TtOaT4MHYR8vvpeWpqtwd) | 2:46 | 2023-07-14 |  |
@@ -284,6 +286,7 @@
 | [Mauj](https://open.spotify.com/track/6EBo8QJhFkecSzeJNbLnCG) | [Dhool](https://open.spotify.com/artist/4GUlQD5lHYTFiXwGKS3ZAJ) | [Kitabcha](https://open.spotify.com/album/6T3osrcBlnw6LpkvlrWlIW) | 3:29 | 2023-05-05 | 2023-05-20 |
 | [Maula](https://open.spotify.com/track/2xyp8alewSyhDZr70b8LLT) | [Masroor Fateh Ali Khan](https://open.spotify.com/artist/7vGw699mG5M6vklrxws96l) | [Maula](https://open.spotify.com/album/7bxzGYZ1TShy3kgEybAXL7) | 6:07 | 2023-05-05 | 2023-06-10 |
 | [mayday](https://open.spotify.com/track/3RZTjELyExNCvKsIWUkmkZ) | [malick](https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU), [SMK](https://open.spotify.com/artist/19DFB1rgWVgsJ2gUB4s5x6) | [mayday](https://open.spotify.com/album/2MZqUyPW4yCMcN857d330z) | 2:35 | 2022-11-17 | 2023-01-26 |
+| [Maye Ni](https://open.spotify.com/track/6ZJosk1cp9UAHQgg9Slnli) | [Khawar Jawad](https://open.spotify.com/artist/1Yn6sVYDKokQTn0wjZ90Xx) | [Maye Ni](https://open.spotify.com/album/7BLlNkYye9uEOvQFsYDbdJ) | 3:00 | 2023-08-07 |  |
 | [Me vs Me](https://open.spotify.com/track/2ASTwug6F84lmYcASaB8YH) | [Taimour Baig](https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi), [Raffey Anwar](https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD) | [Me vs Me](https://open.spotify.com/album/5w14dfgjzLRKpVTbqnI2TY) | 2:29 | 2023-02-13 | 2023-03-22 |
 | [Meethi Meethi](https://open.spotify.com/track/3tc0M2Ium1J6P9Dp1dWJcU) | [Mustafa Gilani](https://open.spotify.com/artist/5WPSznCYzwlcGfoYtKdClw) | [Meethi Meethi](https://open.spotify.com/album/73W1IHeZEtf7RZYvWuqMW4) | 3:04 | 2022-10-26 | 2022-11-18 |
 | [Mehr un Wafa \- Remastered](https://open.spotify.com/track/1juvkpXpGEaMYdIFUTuKgu) | [Armaghan Saif](https://open.spotify.com/artist/5ggFPpZHswvNkWcgCUqEx6) | [Mehr un Wafa \(Remastered\)](https://open.spotify.com/album/1Bgm5o5r3ILglPtEQmFLDN) | 3:03 | 2022-11-17 | 2023-03-22 |
@@ -416,6 +419,7 @@
 | [Silsilay](https://open.spotify.com/track/1b1PCYcwm2z6oer9opLkmH) | [Junaid Javed](https://open.spotify.com/artist/0zqUu1gYO6WjlWUEaOQtQ9) | [Silsilay](https://open.spotify.com/album/5tKpaswedCw5WkbCWFg5Ie) | 3:33 | 2022-09-23 | 2022-10-27 |
 | [Sitaray](https://open.spotify.com/track/3LQJkbCONVB7SXlxxMfgFF) | [Umar.](https://open.spotify.com/artist/4INRTjmbOR0tkPGC3ySXIm) | [Sitaray](https://open.spotify.com/album/5nggIUPREVWjoSNFECX8LD) | 2:53 | 2023-02-13 | 2023-05-06 |
 | [Siyah](https://open.spotify.com/track/4tkk65MyQNzYOQKgVbLCZ3) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/15xc5hGNYM8h7JSzosKzt3) | 2:51 | 2022-08-27 | 2022-09-24 |
+| [Slips](https://open.spotify.com/track/55JOfiPAtJMqeHWaHrk4Jc) | [Mr\. Mac](https://open.spotify.com/artist/1zuMSSFJttHvJ4Sm2B2NL7) | [Levels](https://open.spotify.com/album/50HcN7qsxkFcZS39RpNPYJ) | 2:15 | 2023-08-07 |  |
 | [Snake](https://open.spotify.com/track/3uW8YRFcreMbWdcIA1b9eG) | [Haider King](https://open.spotify.com/artist/3E4C4CG0kDlAeLarFzgG70) | [Snake](https://open.spotify.com/album/6fQQOf96v4ZnQnz9DCJyKv) | 2:35 | 2022-11-17 | 2023-01-26 |
 | [Socha Na Tha](https://open.spotify.com/track/3v5I3VrjukCWchOu3ECYHs) | [Adnan Qureshi](https://open.spotify.com/artist/3F4hn6cXw4bc2RDWrAWMrL), [Nadia Amjad](https://open.spotify.com/artist/2GqqpfiL79nVzqqZHsdPRH) | [Socha Na Tha](https://open.spotify.com/album/3eO5ExtcqZoiA18kCogYdx) | 3:34 | 2023-01-25 | 2023-02-14 |
 | [Sorry](https://open.spotify.com/track/2J4YIMNqYvj02sk5Hi1UaC) | [HASHAM](https://open.spotify.com/artist/3b2KqMPwMeN8zchJ9CljtG), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Sorry](https://open.spotify.com/album/1gLnlkp3GLJoAVT83hRawH) | 2:52 | 2023-05-05 |  |

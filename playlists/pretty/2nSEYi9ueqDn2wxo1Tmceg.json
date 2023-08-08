@@ -6,8 +6,28 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzczMyw0MWE3MzQ5ZGRmYWRmMjBlNWE3MDU5NDljM2Q2MTU5MTQ2MTViMzhl",
+  "snapshot_id": "Mzc0NCwyZWNlZDczODQ5NjFiNDQ4MTBmNDY4N2M4YWVlMDhhMmNkM2RmMjky",
   "tracks": [
+    {
+      "added_at": "2023-08-07 08:52:31",
+      "album": {
+        "name": "Fire of Mercy",
+        "url": "https://open.spotify.com/album/4MxTYuvXTiZpKH0nnzcu7V"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "duration_ms": 239289,
+      "name": "Fire of Mercy",
+      "url": "https://open.spotify.com/track/6oDHOPYBOGjrRYM3QMxznO"
+    },
     {
       "added_at": "2023-08-02 15:41:12",
       "album": {

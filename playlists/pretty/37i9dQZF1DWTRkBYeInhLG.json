@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 437357,
+  "num_followers": 437636,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmVhODAxODk0NDUxZDBkZjg0NTIzNDQwN2I2N2E2YTY4NjRkOGU1",
+  "snapshot_id": "MCxhMGM4YmFlYmVhYzc4MWU1ZmFjYmQ0YzUxZGJiMjQ1YWIyMDEzMTBh",
   "tracks": [
     {
       "added_at": "2023-08-02 06:18:47",
@@ -695,38 +695,6 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
-        "name": "Kereta Kencan",
-        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
-      },
-      "artists": [
-        {
-          "name": "Hivi!",
-          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Mata Ke Hati (Acoustic Version)",
-      "url": "https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
-        "name": "Hari Baru",
-        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
-      },
-      "artists": [
-        {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Dekat Di Hati",
-      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
         "name": "Lebih Indah",
         "url": "https://open.spotify.com/album/0Gxnglx23wEe59QoWMux3x"
       },
@@ -739,22 +707,6 @@
       "duration_ms": 258426,
       "name": "Lebih Indah",
       "url": "https://open.spotify.com/track/66V6QeI1Y9PQO4J7p7JGJO"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
-        "name": "Losing Us.",
-        "url": "https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo"
-      },
-      "artists": [
-        {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
-        }
-      ],
-      "duration_ms": 236885,
-      "name": "Losing Us.",
-      "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
     },
     {
       "added_at": "2023-08-02 06:18:47",
@@ -791,6 +743,54 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
+      },
+      "artists": [
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Mata Ke Hati (Acoustic Version)",
+      "url": "https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
+        "name": "Hari Baru",
+        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Dekat Di Hati",
+      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
+        "name": "Losing Us.",
+        "url": "https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo"
+      },
+      "artists": [
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "duration_ms": 236885,
+      "name": "Losing Us.",
+      "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
         "name": "Labirin",
         "url": "https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr"
       },
@@ -803,6 +803,38 @@
       "duration_ms": 182656,
       "name": "Labirin",
       "url": "https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
+        "name": "Tempat Aku Pulang",
+        "url": "https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        }
+      ],
+      "duration_ms": 263746,
+      "name": "April",
+      "url": "https://open.spotify.com/track/3IesVVqYxCsRCsz5OCmC7q"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
+        "name": "Belum Siap Kehilangan",
+        "url": "https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x"
+      },
+      "artists": [
+        {
+          "name": "Stevan Pasaribu",
+          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
+        }
+      ],
+      "duration_ms": 288333,
+      "name": "Belum Siap Kehilangan",
+      "url": "https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1"
     },
     {
       "added_at": "2023-08-02 06:18:47",
@@ -839,6 +871,22 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
+        "name": "Tulus",
+        "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Teman Hidup",
+      "url": "https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
         "name": "Ruang Tunggu",
         "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
       },
@@ -851,38 +899,6 @@
       "duration_ms": 329865,
       "name": "Di Atas Meja",
       "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
-        "name": "Belum Siap Kehilangan",
-        "url": "https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x"
-      },
-      "artists": [
-        {
-          "name": "Stevan Pasaribu",
-          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
-        }
-      ],
-      "duration_ms": 288333,
-      "name": "Belum Siap Kehilangan",
-      "url": "https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
-        "name": "Tempat Aku Pulang",
-        "url": "https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        }
-      ],
-      "duration_ms": 263746,
-      "name": "April",
-      "url": "https://open.spotify.com/track/3IesVVqYxCsRCsz5OCmC7q"
     },
     {
       "added_at": "2023-08-02 06:18:47",
@@ -931,22 +947,6 @@
       "duration_ms": 223500,
       "name": "Film Favorit",
       "url": "https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
-        "name": "Tulus",
-        "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Teman Hidup",
-      "url": "https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ"
     },
     {
       "added_at": "2023-08-02 06:18:47",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
-        "name": "Taman Langit",
-        "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
-      },
-      "artists": [
-        {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
-        }
-      ],
-      "duration_ms": 199138,
-      "name": "Yang Terdalam",
-      "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
         "name": "Selaras",
         "url": "https://open.spotify.com/album/1b1QRGjDS4CHogOBBCLWOg"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 273491,
       "name": "Selaras",
       "url": "https://open.spotify.com/track/7kZ4uU7cO2Y36XWmuwEOW0"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
+        "name": "Taman Langit",
+        "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "duration_ms": 199138,
+      "name": "Yang Terdalam",
+      "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
     },
     {
       "added_at": "2023-08-02 06:18:47",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
+        "name": "Kesempurnaan Cinta",
+        "url": "https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "duration_ms": 216019,
+      "name": "Kesempurnaan Cinta",
+      "url": "https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
         "name": "Marion",
         "url": "https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 221381,
       "name": "Rayu",
       "url": "https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
-        "name": "Kesempurnaan Cinta",
-        "url": "https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        }
-      ],
-      "duration_ms": 216019,
-      "name": "Kesempurnaan Cinta",
-      "url": "https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u"
     },
     {
       "added_at": "2023-08-02 06:18:47",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
-        "name": "Peace, Love And Respect",
-        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
-      },
-      "artists": [
-        {
-          "name": "Gigi",
-          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "11 Januari",
-      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
         "name": "Handmade",
         "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
+        "name": "Peace, Love And Respect",
+        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
+      },
+      "artists": [
+        {
+          "name": "Gigi",
+          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "11 Januari",
+      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
         "name": "My Happy Life",
         "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
       },
@@ -1231,6 +1231,22 @@
       "duration_ms": 213213,
       "name": "Menghujam Jantungku",
       "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
+        "name": "Teman Bahagia",
+        "url": "https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "duration_ms": 208104,
+      "name": "Teman Bahagia",
+      "url": "https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d"
     },
     {
       "added_at": "2023-08-02 06:18:47",
@@ -1283,22 +1299,6 @@
       "duration_ms": 247666,
       "name": "Keabadian",
       "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
-        "name": "Teman Bahagia",
-        "url": "https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 208104,
-      "name": "Teman Bahagia",
-      "url": "https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d"
     },
     {
       "added_at": "2023-08-02 06:18:47",

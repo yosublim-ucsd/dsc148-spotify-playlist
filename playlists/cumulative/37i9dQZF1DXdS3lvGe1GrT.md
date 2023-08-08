@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Allegra Krieger \| Visual Artist: Bailey Elder
 
-770 songs - 1 day 21 hr 58 min
+771 songs - 1 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -645,6 +645,7 @@
 | [Spider](https://open.spotify.com/track/48bOPuopxKlUjzTVJeArTB) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs) | [Spider](https://open.spotify.com/album/65w54D1vOCJrQC6cEcugiU) | 3:50 | 2023-04-12 | 2023-06-08 |
 | [Spoon](https://open.spotify.com/track/5TN3VNuFRIQKAkkXnfnAIE) | [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [Falcon's Heart](https://open.spotify.com/album/5UjqFUJAO7U1R9HSMOlQYb) | 4:58 | 2023-06-07 | 2023-07-27 |
 | [Spotless Lamb](https://open.spotify.com/track/6NohYizPxdmPknxgdll2sa) | [Chase Burnett](https://open.spotify.com/artist/4quIv3Vd10bFXrm75F2c20) | [Spotless Lamb](https://open.spotify.com/album/6Uja7GKh9tTT9pjGisfgcA) | 3:34 | 2023-05-31 | 2023-07-27 |
+| [Springtime Red Tulips](https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Springtime Red Tulips](https://open.spotify.com/album/42pl1MIpxGddTozmgG0or1) | 4:34 | 2023-08-07 |  |
 | [St Agnes](https://open.spotify.com/track/4ZDCRwVlfE2f2T9jPU8piQ) | [Ollie Dixon](https://open.spotify.com/artist/0ac87lEVMlYRektAzRTZRp) | [St Agnes](https://open.spotify.com/album/3jcy18ewZ77VwnRrYJ4OoE) | 3:30 | 2022-05-25 | 2022-08-25 |
 | [Stand Your Ground](https://open.spotify.com/track/2ehfX1liKrMjpYNDOoG8G1) | [IV and The Strange Band](https://open.spotify.com/artist/5qtxZzDWsKKF9Qd9JQjv1D) | [Stand Your Ground](https://open.spotify.com/album/5hT6o34vGSCP5pgkZPdUyd) | 2:54 | 2022-05-25 | 2022-06-16 |
 | [star](https://open.spotify.com/track/5pSIWBLYqHnz3hrQU1ykve) | [Marieke](https://open.spotify.com/artist/0cx6QwyhzKOmerceWhkMDw) | [star](https://open.spotify.com/album/56FQb0uneaiaK9YQ8EFHeT) | 4:23 | 2023-01-25 | 2023-03-09 |

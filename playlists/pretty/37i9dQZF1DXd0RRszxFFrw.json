@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 49190,
+  "num_followers": 49224,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzliNDM2OWRmZWVmMjIxMDI4ZmU5Y2I4MWQ4ZTA1ODg1M2E4MzA4",
+  "snapshot_id": "MCxiMTcyYWU5MGU5ODE1Y2EyODYwYTYxM2NlN2NlODI0MTIyNDk4YjU5",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -327,26 +327,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+        "name": "Noche Negra",
+        "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
       },
       "artists": [
         {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+          "name": "Las Tres Abejas",
+          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
         }
       ],
-      "duration_ms": 171973,
-      "name": "Como Las Olas",
-      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
+      "duration_ms": 119739,
+      "name": "Noche Negra",
+      "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -371,22 +363,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Noche Negra",
-        "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Abejas",
-          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
-        }
-      ],
-      "duration_ms": 119739,
-      "name": "Noche Negra",
-      "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Paco De Lucia, Al Di Meola, John McLaughlin",
         "url": "https://open.spotify.com/album/3S83H2RAz4qYHibsrEKfm7"
       },
@@ -403,6 +379,30 @@
       "duration_ms": 372160,
       "name": "Manh\u00e3 De Carnaval",
       "url": "https://open.spotify.com/track/2T8p7MvybiHtfvvldFJ218"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Como Las Olas",
+      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Cinema Latino Vol. 1",
-        "url": "https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 107434,
-      "name": "Mexico 1910",
-      "url": "https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Habichuela en Rama",
         "url": "https://open.spotify.com/album/6Qrojzu25Wq5JIdRQC6iaB"
       },
@@ -563,6 +547,38 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Cinema Latino Vol. 1",
+        "url": "https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "duration_ms": 107434,
+      "name": "Mexico 1910",
+      "url": "https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Ibiza Sunset",
+        "url": "https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8"
+      },
+      "artists": [
+        {
+          "name": "Eric Josef",
+          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
+        }
+      ],
+      "duration_ms": 168432,
+      "name": "Ibiza Sunset",
+      "url": "https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Flight to Paradise",
         "url": "https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 332400,
       "name": "Train to Rishikesh",
       "url": "https://open.spotify.com/track/5NQqC3Xs5CSHiZOEFOOWSa"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Ibiza Sunset",
-        "url": "https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8"
-      },
-      "artists": [
-        {
-          "name": "Eric Josef",
-          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
-        }
-      ],
-      "duration_ms": 168432,
-      "name": "Ibiza Sunset",
-      "url": "https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        }
-      ],
-      "duration_ms": 241412,
-      "name": "Bossa de Leblon",
-      "url": "https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Commitments",
         "url": "https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 246128,
       "name": "The Little Island Bossa",
       "url": "https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        }
+      ],
+      "duration_ms": 241412,
+      "name": "Bossa de Leblon",
+      "url": "https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ilha Do Amor",
-        "url": "https://open.spotify.com/album/3ulttIgCTm7Pcm9Soypv43"
-      },
-      "artists": [
-        {
-          "name": "Ailani Akoni",
-          "url": "https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k"
-        }
-      ],
-      "duration_ms": 147179,
-      "name": "Ilha Do Amor",
-      "url": "https://open.spotify.com/track/0UXh0DcW5J0QSzeq2oORbi"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Meu cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 143179,
       "name": "Meu cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Ilha Do Amor",
+        "url": "https://open.spotify.com/album/3ulttIgCTm7Pcm9Soypv43"
+      },
+      "artists": [
+        {
+          "name": "Ailani Akoni",
+          "url": "https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k"
+        }
+      ],
+      "duration_ms": 147179,
+      "name": "Ilha Do Amor",
+      "url": "https://open.spotify.com/track/0UXh0DcW5J0QSzeq2oORbi"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1091,38 +1091,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Herencia de Valencia",
-        "url": "https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN"
-      },
-      "artists": [
-        {
-          "name": "Nylonwings",
-          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
-        }
-      ],
-      "duration_ms": 198813,
-      "name": "Herencia de Valencia",
-      "url": "https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Spanish Guitar EP",
-        "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
-      },
-      "artists": [
-        {
-          "name": "Alex Albright",
-          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
-        }
-      ],
-      "duration_ms": 132446,
-      "name": "Adelita Mazurka",
-      "url": "https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "The Beatles for Classical Guitar",
         "url": "https://open.spotify.com/album/0rcyFsJ0wcEo7rxntomDiD"
       },
@@ -1155,6 +1123,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Herencia de Valencia",
+        "url": "https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN"
+      },
+      "artists": [
+        {
+          "name": "Nylonwings",
+          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "Herencia de Valencia",
+      "url": "https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Romantic Carnival Chillout Music",
         "url": "https://open.spotify.com/album/4mbBeSPRVCfvaLLZ8YCdsL"
       },
@@ -1167,22 +1151,6 @@
       "duration_ms": 97387,
       "name": "Mexican Mood",
       "url": "https://open.spotify.com/track/1GlBh7jgGCrZOY1SrzvMkx"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Siena",
-        "url": "https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ"
-      },
-      "artists": [
-        {
-          "name": "Marcus Larsen",
-          "url": "https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX"
-        }
-      ],
-      "duration_ms": 131209,
-      "name": "Siena",
-      "url": "https://open.spotify.com/track/6hebly36sQyqXZerurmsuO"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1203,6 +1171,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Spanish Guitar EP",
+        "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
+      },
+      "artists": [
+        {
+          "name": "Alex Albright",
+          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
+        }
+      ],
+      "duration_ms": 132446,
+      "name": "Adelita Mazurka",
+      "url": "https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Lost Tales of Catalonia",
         "url": "https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 193851,
       "name": "When the Ocean Sleeps",
       "url": "https://open.spotify.com/track/2ioFkeG63Xy5cdvjq5JpHr"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Siena",
+        "url": "https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ"
+      },
+      "artists": [
+        {
+          "name": "Marcus Larsen",
+          "url": "https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX"
+        }
+      ],
+      "duration_ms": 131209,
+      "name": "Siena",
+      "url": "https://open.spotify.com/track/6hebly36sQyqXZerurmsuO"
     },
     {
       "added_at": "2022-10-27 22:01:00",

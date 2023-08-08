@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 129943,
+  "num_followers": 129968,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmE5NWU4Yzc3OTRjZDkyNjMzN2ZjOWJmY2I3OGQ0NGJlZmMyMzdm",
+  "snapshot_id": "MCxhOWRlZDU4YzhjMjEyMzMwYmNjMzU0MmU0YTNjZDZkNGNmZmY0MzFl",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -91,6 +91,22 @@
     {
       "added_at": "2016-03-21 20:31:35",
       "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
         "name": "Koko Taylor",
         "url": "https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
         "name": "Howlin' Wolf",
         "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 170373,
       "name": "That's All Right - 1950 Single Version",
       "url": "https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 142813,
-      "name": "Madison Blues",
-      "url": "https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -247,6 +231,22 @@
       "duration_ms": 400760,
       "name": "I Can't Quit You, Baby",
       "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 142813,
+      "name": "Madison Blues",
+      "url": "https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -345,6 +345,22 @@
       "url": "https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR"
     },
     {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "The Little Red Rooster",
+      "url": "https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF"
+    },
+    {
       "added_at": "2018-02-27 18:08:29",
       "album": {
         "name": "Shake My Hand",
@@ -375,22 +391,6 @@
       "duration_ms": 217120,
       "name": "Dark Road",
       "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "The Little Red Rooster",
-      "url": "https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -555,22 +555,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Blues Burnin' In My Soul",
-        "url": "https://open.spotify.com/album/65fpiNjOIr5N05igzAf2UY"
-      },
-      "artists": [
-        {
-          "name": "Johnny Laws",
-          "url": "https://open.spotify.com/artist/1q4QR6dGUqzmZwYX1HtAZ6"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Driving Wheel",
-      "url": "https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "Count Your Blessings",
         "url": "https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 241400,
       "name": "Ain't Times Hard",
       "url": "https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Blues Burnin' In My Soul",
+        "url": "https://open.spotify.com/album/65fpiNjOIr5N05igzAf2UY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Laws",
+          "url": "https://open.spotify.com/artist/1q4QR6dGUqzmZwYX1HtAZ6"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Driving Wheel",
+      "url": "https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC"
     },
     {
       "added_at": "2018-02-27 18:08:29",

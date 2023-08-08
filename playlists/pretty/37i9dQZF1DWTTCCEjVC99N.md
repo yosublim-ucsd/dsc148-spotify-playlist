@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,639 likes - 102 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,795 likes - 102 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ستة الصبح](https://open.spotify.com/track/4XwmkLMuFc96k7BJmXLUZF) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [حسين الجسمي ٢٠١٠](https://open.spotify.com/album/4cLgnSoT9jUsfT3YWwuMCs) | 4:26 |
 | 2 | [Nour El Ein](https://open.spotify.com/track/3ZTuYuaV1fhdNnuIBuzTYy) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 5:07 |
-| 3 | [Ya Ghayeb](https://open.spotify.com/track/6U2feOdZZGaW0OQT9wUUGj) | [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I) | [Ya Ghayeb](https://open.spotify.com/album/0zKCfiPESIikcaFerNMKyI) | 3:53 |
+| 3 | [Ya Ghayeb](https://open.spotify.com/track/2j4O1Oz0AVTWNLHjhTzBbJ) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ya Ghayeb](https://open.spotify.com/album/1haRKmfoKMLJCJNJlwbzL7) | 3:53 |
 | 4 | [Ah W Noss](https://open.spotify.com/track/7ua22AD5CNo8lUDnH6imc1) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [أجمل أغاني نانسي عجرم](https://open.spotify.com/album/2W0VSGqUQZudLnc6drtRAs) | 4:40 |
 | 5 | [Tamally Maak](https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tamally Maak](https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu) | 4:29 |
 | 6 | [Leih Beydary Keda](https://open.spotify.com/track/4iKQHYDFlFsX28FeViuwSK) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Eba Abelny](https://open.spotify.com/album/18hMYQuTWVT03fhBbtT8kp) | 5:15 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 101 | [ياعيبو](https://open.spotify.com/track/5dO1DVK8yI01YNzfeBfEKT) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ياعيبو](https://open.spotify.com/album/7CebL91fa4J3Vx86Z20h88) | 3:42 |
 | 102 | [El Hawa Sultan](https://open.spotify.com/track/0ySDdvzYJOBwERbrzvqfSK) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [أروع أغاني جورج وسوف](https://open.spotify.com/album/6Mi7z46UWq0oR9sWVVmuGP) | 7:02 |
 
-Snapshot ID: `MCw3OTQxNTM5MTNlYjFmMTA4ZTgxMzAxNmMyYWQ5OWRlMDVkMDgxYmQ1`
+Snapshot ID: `MCxjMDE5ZGFkMDc4MWVlOWFjZjg5YTk3ZGRlYjRjZWY3OWFhYWIyOTUx`

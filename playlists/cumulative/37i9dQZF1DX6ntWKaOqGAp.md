@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: サンボマスター
 
-655 songs - 1 day 16 hr 47 min
+656 songs - 1 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [ラブソング](https://open.spotify.com/track/1XPblQZCt1NdhEk2eEjMLI) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [ラブソング](https://open.spotify.com/album/7CRfHNh19Lz5IOlYuCh58F) | 3:50 | 2023-02-07 | 2023-02-09 |
 | [ラプス](https://open.spotify.com/track/47hW5TPsOjph8hA9kxNdcj) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6uBzTBbMEBkLEDtEkklOBy) | 3:55 | 2023-04-18 | 2023-04-20 |
 | [ランドルート](https://open.spotify.com/track/47tKkpSAFzzn3uHxiHbqpZ) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [ランドルート](https://open.spotify.com/album/4eb6mUK9phvO6Jcn1CIcEo) | 3:07 | 2023-07-04 | 2023-07-06 |
+| [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 | 2023-08-07 |  |
 | [リバイブレーション](https://open.spotify.com/track/16mw2JWm6u8Cc5ZMMamrGI) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [リバイブレーション / うざ。 / STRAWBERRY](https://open.spotify.com/album/3gMSby01PQLlG684fSYNkT) | 2:20 | 2023-02-14 | 2023-03-01 |
 | [リビド](https://open.spotify.com/track/2DPqDCOLt5u9vgPsBeeZHu) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [感情](https://open.spotify.com/album/5wVKcfeOtX715KlsMQkw8C) | 2:41 | 2023-01-13 | 2023-03-22 |
 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2023-01-13 | 2023-04-25 |
@@ -585,7 +586,7 @@
 | [愛爆発](https://open.spotify.com/track/0pss3X0rdLdI5u5Vz00FZc) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [愛爆発](https://open.spotify.com/album/4bv9etN3XnmD37bSU9jSnW) | 2:59 | 2023-04-25 | 2023-05-17 |
 | [憂い桜](https://open.spotify.com/track/3i1w3l5dnk2sCxVsVHsjuw) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [憂い桜](https://open.spotify.com/album/1YfaIMNRslj7EHBsZw63cz) | 4:35 | 2023-03-02 | 2023-04-14 |
 | [戦争がはじまる](https://open.spotify.com/track/3gQKj1zeZaefl5J7k0IEwh) | [People In The Box](https://open.spotify.com/artist/07PkYuHKeec24az6lKeUS5) | [Camera Obscura](https://open.spotify.com/album/1TpXizd9q589CDoLhj5JR4) | 4:37 | 2023-05-09 | 2023-06-14 |
-| [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 | 2023-05-16 |  |
+| [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 | 2023-05-16 | 2023-08-08 |
 | [日々爛々。](https://open.spotify.com/track/3yAUqT1kBMLmfIHzKboyb9) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [日々爛々。](https://open.spotify.com/album/4XGM0saDHTseNTx5BP7WBF) | 3:04 | 2023-03-07 | 2023-03-09 |
 | [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 | 2023-01-13 | 2023-04-12 |
 | [春の修羅 feat\. 塩塚モエカ](https://open.spotify.com/track/5vxf9WjIDocKXLuKd1tHgE) | [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [春の修羅 feat\. 塩塚モエカ](https://open.spotify.com/album/2Nn4ao2C3n13RB5EN7BDqg) | 3:42 | 2023-05-16 | 2023-05-18 |

@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 537744,
+  "num_followers": 538350,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDExYTY1OWRkM2VjNWUwMzQ3ODA4NjUyYjlhNTk5NzljNGFiMDk5",
+  "snapshot_id": "MCxlODZhNjdmZDVmNWZmNDc4ODc2OGQ2YTI0ZWUxZTgwYWU2OTEwOTA3",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "Rotten",
+        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 139440,
+      "name": "HDMI",
+      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "Step Back!",
         "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
       },
@@ -247,18 +263,18 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "Rotten",
-        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
+        "name": "Kaikai Kitan / Ao No Waltz",
+        "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
       },
       "artists": [
         {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
         }
       ],
-      "duration_ms": 139440,
-      "name": "HDMI",
-      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
+      "duration_ms": 221426,
+      "name": "Kaikai Kitan",
+      "url": "https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -275,22 +291,6 @@
       "duration_ms": 138426,
       "name": "Unbothered",
       "url": "https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "Kaikai Kitan / Ao No Waltz",
-        "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "Kaikai Kitan",
-      "url": "https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "By the Sword",
-        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
-      },
-      "artists": [
-        {
-          "name": "iamjakehill",
-          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
-        }
-      ],
-      "duration_ms": 125812,
-      "name": "By the Sword",
-      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "HOT DEMON B!TCHES NEAR U ! ! !",
         "url": "https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 96000,
       "name": "HOT DEMON B!TCHES NEAR U ! ! !",
       "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "By the Sword",
+        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "duration_ms": 125812,
+      "name": "By the Sword",
+      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "The Rumbling",
-        "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 220799,
-      "name": "The Rumbling",
-      "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "MISA MISA!",
         "url": "https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 85894,
       "name": "MISA MISA!",
       "url": "https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "The Rumbling",
+        "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 220799,
+      "name": "The Rumbling",
+      "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
-        "url": "https://open.spotify.com/album/1vRP9NcPzsS14TroLaywor"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 252340,
-      "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
-      "url": "https://open.spotify.com/track/5xoar7MhzRUVqJvGpAtxfP"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "MARCELINE",
         "url": "https://open.spotify.com/album/0NBvXFLdqzROOO4O5KhhNf"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
+        "url": "https://open.spotify.com/album/1vRP9NcPzsS14TroLaywor"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 252340,
+      "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
+      "url": "https://open.spotify.com/track/5xoar7MhzRUVqJvGpAtxfP"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "\u602a\u7269",
         "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
       },
@@ -623,6 +623,26 @@
       "duration_ms": 206000,
       "name": "\u602a\u7269",
       "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "E-GIRLS ARE RUINING MY LIFE!",
+        "url": "https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        }
+      ],
+      "duration_ms": 105176,
+      "name": "E-GIRLS ARE RUINING MY LIFE!",
+      "url": "https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -659,26 +679,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "E-GIRLS ARE RUINING MY LIFE!",
-        "url": "https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
-        {
-          "name": "Savage Ga$p",
-          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
-        }
-      ],
-      "duration_ms": 105176,
-      "name": "E-GIRLS ARE RUINING MY LIFE!",
-      "url": "https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "The Law of Recognition",
         "url": "https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB"
       },
@@ -691,26 +691,6 @@
       "duration_ms": 129142,
       "name": "The Law of Recognition",
       "url": "https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "3x3",
-        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        }
-      ],
-      "duration_ms": 126600,
-      "name": "I LOVE YOU HOE (w/ 9lives)",
-      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -743,6 +723,26 @@
       "duration_ms": 121949,
       "name": "ALL GIRLS ARE THE SAME",
       "url": "https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "3x3",
+        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "duration_ms": 126600,
+      "name": "I LOVE YOU HOE (w/ 9lives)",
+      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "MUKANJYO",
-        "url": "https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh"
-      },
-      "artists": [
-        {
-          "name": "Survive Said The Prophet",
-          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "MUKANJYO",
-      "url": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "2K FREESTYLE",
         "url": "https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 213000,
       "name": "2K FREESTYLE",
       "url": "https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "MUKANJYO",
+        "url": "https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh"
+      },
+      "artists": [
+        {
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "MUKANJYO",
+      "url": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -927,6 +927,26 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "GHOSTKILLA",
+        "url": "https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        }
+      ],
+      "duration_ms": 139469,
+      "name": "GHOSTKILLA",
+      "url": "https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "Trap Anthem",
         "url": "https://open.spotify.com/album/0RYvZMaunWeYkHDYMLPwhe"
       },
@@ -947,22 +967,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "Red Teenage Melody",
-        "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
-      },
-      "artists": [
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 271413,
-      "name": "Still Cold / Pathway Private",
-      "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "Killin' On Demand",
         "url": "https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD"
       },
@@ -979,22 +983,18 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "GHOSTKILLA",
-        "url": "https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC"
+        "name": "Red Teenage Melody",
+        "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
       },
       "artists": [
         {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
         }
       ],
-      "duration_ms": 139469,
-      "name": "GHOSTKILLA",
-      "url": "https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w"
+      "duration_ms": 271413,
+      "name": "Still Cold / Pathway Private",
+      "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "I'm Toxic",
+        "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 116323,
+      "name": "I'm Toxic",
+      "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "MK Plus Ultra",
         "url": "https://open.spotify.com/album/6oy7rNsd09qEKBDEDUawEg"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 104960,
       "name": "Speak Up",
       "url": "https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "I'm Toxic",
-        "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 116323,
-      "name": "I'm Toxic",
-      "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
     },
     {
       "added_at": "2023-07-13 15:18:57",

@@ -4,7 +4,7 @@
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-112 songs - 8 hr 51 min
+113 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Love You](https://open.spotify.com/track/23RRPvbF7A5o0Rosnw95nj) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Love You](https://open.spotify.com/album/4wyKFCKsJZCXzcr00nl9EE) | 3:06 | 2022-03-10 |  |
 | [Maba](https://open.spotify.com/track/4Ygc9wczMo4gt2kjslEsoJ) | [Ex Doe](https://open.spotify.com/artist/5UTvTjvwBMdcgqBBVHN57S) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 3:32 | 2020-02-20 | 2022-03-10 |
 | [Made in Ghana](https://open.spotify.com/track/7dMMkof2wbprZYG6ggp8eP) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Made in Ghana](https://open.spotify.com/album/2U7uD59hrGd7V5i1HiASD1) | 3:09 | 2022-02-10 | 2023-02-11 |
-| [MAMA](https://open.spotify.com/track/7n3q5KB6vOF5Mh3YCVtovp) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [MAMA](https://open.spotify.com/album/08amz14qiWtlECBBBLIMSw) | 2:34 | 2022-03-03 |  |
+| [MAMA](https://open.spotify.com/track/7n3q5KB6vOF5Mh3YCVtovp) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [MAMA](https://open.spotify.com/album/08amz14qiWtlECBBBLIMSw) | 2:34 | 2022-03-03 | 2023-08-08 |
 | [Martha Matter](https://open.spotify.com/track/7IZDdDiQqR8sPiVKWCGFuy) | [KOFI BRUCE](https://open.spotify.com/artist/3C96ARfG9uaoD9AiE86jzt) | [Martha Matter](https://open.spotify.com/album/1ZCgErXZWyokFUHryxATW5) | 3:14 | 2022-05-19 | 2023-02-04 |
 | [Medo](https://open.spotify.com/track/2oyghYx5263u7C6O1vq2FA) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP) | [Yeesom Sika](https://open.spotify.com/album/4EmJCbMg0wowFsOHMQKY6e) | 4:52 | 2020-02-20 | 2022-07-27 |
 | [Medo](https://open.spotify.com/track/2qx8A8AdgkvRaaEbQpQouA) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP) | [Yeesom Sika](https://open.spotify.com/album/7I3mCsTVTJlkDqqGpHHGht) | 4:52 | 2020-02-20 | 2022-11-13 |
@@ -71,6 +71,7 @@
 | [Ngozi](https://open.spotify.com/track/1Vbx0DjX403mZOBIgoIYWz) | [Michael Dwamena](https://open.spotify.com/artist/2kgJbByQSqdAsyAJMh8o7c) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:31 | 2020-02-20 | 2022-07-29 |
 | [Ngozi](https://open.spotify.com/track/5xUsuJdA0m0mViZJ8yxPAT) | [Michael Dwamena](https://open.spotify.com/artist/2kgJbByQSqdAsyAJMh8o7c) | [Ngozi](https://open.spotify.com/album/0hE1qM4q2Hcbp3wuacPnXV) | 5:31 | 2020-02-20 | 2022-11-13 |
 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 | 2020-02-20 |  |
+| [Not God](https://open.spotify.com/track/6u15h9ZJMKrV3ZBZ5FwAUH) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Not God](https://open.spotify.com/album/3ACMZjr0WdsIqQiIMo7eRs) | 2:30 | 2023-08-03 |  |
 | [Obaa No](https://open.spotify.com/track/1AfW3qEZUUn3GbiBEtJfz9) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:11 | 2020-02-20 | 2022-03-14 |
 | [Obaa Sweety](https://open.spotify.com/track/5veXakVB9V2uZmKM1cwK95) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:05 | 2020-02-20 | 2022-07-29 |
 | [Obaa Sweety](https://open.spotify.com/track/6pgdGE0yxbrRYUOJN3fHR1) | [VIP](https://open.spotify.com/artist/1QD3WjCkoISjspUWbHR8Y5) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:05 | 2020-02-20 | 2022-10-16 |

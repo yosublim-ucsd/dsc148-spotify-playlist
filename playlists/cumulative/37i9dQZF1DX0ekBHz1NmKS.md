@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-737 songs - 1 day 14 hr 59 min
+738 songs - 1 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Fast med dig](https://open.spotify.com/track/2KIzBv4vFeLtO50WBbHGKk) | [Ness Hakin](https://open.spotify.com/artist/73SA7OgBvMc1GGRyius3UN) | [Fast med dig](https://open.spotify.com/album/1ENEtJUy1nmsK4isB1YXl6) | 2:38 | 2022-05-26 | 2022-07-29 |
 | [Feel Love](https://open.spotify.com/track/2rEepd7vMT7nySNBliu8VU) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Truth & Consequences](https://open.spotify.com/album/1ekyxoUytdZjVwOR5teXlm) | 3:43 | 2022-05-19 | 2022-07-28 |
 | [Feels Like A Dream](https://open.spotify.com/track/5mQmh9swNjNrfp1wKCZi8p) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Feels Like A Dream](https://open.spotify.com/album/4gyZv5JaaDicMnO1Ja3kBw) | 2:52 | 2022-09-01 | 2022-10-31 |
+| [Fight Like A Girl](https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fight Like A Girl](https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e) | 3:32 | 2023-08-03 |  |
 | [Fine](https://open.spotify.com/track/3p52HKLY1X9Vfvkkajpfwd) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Fine](https://open.spotify.com/album/53p4lvVH4RV76OQj6evdOx) | 3:25 | 2022-03-10 | 2022-09-16 |
 | [Fint att få va med dig](https://open.spotify.com/track/6yz3bCneU0XztgwIu6CNxJ) | [Jimmy Ahlén](https://open.spotify.com/artist/0VdcztH2xzmGP5hFr9pUtg), [Hanna Christiansson](https://open.spotify.com/artist/50CfYjX4VlsiXgOXHc8aQG) | [Fint att få va med dig](https://open.spotify.com/album/0ct5SzIYbWiQfbrzEAjEvi) | 3:29 | 2023-01-19 | 2023-02-24 |
 | [Fint i mörker](https://open.spotify.com/track/5Ak1ub0g1FY6xopm1kaFNX) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 3:20 | 2022-06-16 | 2022-10-17 |
@@ -530,7 +531,7 @@
 | [Same Thing](https://open.spotify.com/track/5eqQVbVNz41UuUaEdt5Dga) | [YADAYADA](https://open.spotify.com/artist/0kOSwbgw1yE3Sunf3F7F0t) | [Same Thing](https://open.spotify.com/album/1CDqizYMYd2dIyNBrXbXNz) | 3:03 | 2022-03-10 | 2022-04-20 |
 | [Samma gamla vanliga](https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:09 | 2022-05-12 |  |
 | [Samma säng](https://open.spotify.com/track/5yFdISVlABQqdLHOuJ0CpN) | [Anton Kyldahl](https://open.spotify.com/artist/4Xq9iwUmfiz0nAwhF9B1pD), [SIV](https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY) | [Samma säng](https://open.spotify.com/album/7gxoCqM92zDNiIykuLp2ky) | 2:43 | 2022-05-12 | 2022-07-26 |
-| [Sand i min hand](https://open.spotify.com/track/29WNvfSgvZJq3ye2hBf4tu) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Sand i min hand](https://open.spotify.com/album/42Y2lawW7l7fUdzEUvefcQ) | 3:12 | 2023-05-25 |  |
+| [Sand i min hand](https://open.spotify.com/track/29WNvfSgvZJq3ye2hBf4tu) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Sand i min hand](https://open.spotify.com/album/42Y2lawW7l7fUdzEUvefcQ) | 3:12 | 2023-05-25 | 2023-08-08 |
 | [Santiago](https://open.spotify.com/track/2H4wjqbzWgCKEPPdk9tPqQ) | [GAMMAL](https://open.spotify.com/artist/3O6DpqAKwn7L1KS9s9x0w5) | [Santiago](https://open.spotify.com/album/1WaSYY1PuUo1SteFBJSSJc) | 2:58 | 2022-05-12 | 2022-12-24 |
 | [Sarah](https://open.spotify.com/track/21xzvjoTUhKV2QYyIGDo8J) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden](https://open.spotify.com/album/4shw3FqZjRgJinMpCBfNCr) | 3:13 | 2021-12-16 | 2022-03-11 |
 | [Satellit](https://open.spotify.com/track/0hQSNorAGipIT7lF8ssyIz) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Satellit](https://open.spotify.com/album/69LrfrvfBFYag9DoBuXtep) | 3:01 | 2023-08-03 |  |

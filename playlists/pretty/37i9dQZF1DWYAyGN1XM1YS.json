@@ -1,12 +1,12 @@
 {
   "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: Weezer",
-  "num_followers": 113450,
+  "num_followers": 113585,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2IzMGE0YWU1MDBmZGNhODMwZDc2OGQwYzJlMTQ3YmNlZjg5NmZi",
+  "snapshot_id": "MCw1MjZiNjcyNTZjNTQ2NjFiMGY5M2RlNWNlY2RkY2Y2M2NmMTkxMmNj",
   "tracks": [
     {
       "added_at": "2023-03-28 15:58:25",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "The World Has Turned And Left Me Here",
-      "url": "https://open.spotify.com/track/06isZAG9Bgm4jhPj7V0Rhx"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "Full Collapse",
         "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Your Favorite Weapon",
-        "url": "https://open.spotify.com/album/1kRnFF71UTGdHmSrRDllKj"
+        "name": "American Football",
+        "url": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp"
       },
       "artists": [
         {
-          "name": "Brand New",
-          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
         }
       ],
-      "duration_ms": 222080,
-      "name": "Jude Law And A Semester Abroad",
-      "url": "https://open.spotify.com/track/4w7hIjpuEfvMPiyEgdqlf6"
+      "duration_ms": 370506,
+      "name": "Honestly?",
+      "url": "https://open.spotify.com/track/0QNdEegC3Q9AVoAMmd8MEL"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -315,24 +299,8 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Clarity (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 229706,
-      "name": "Lucky Denver Mint",
-      "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
-        "name": "Pinkerton",
-        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
       },
       "artists": [
         {
@@ -340,41 +308,25 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 172600,
-      "name": "Getchoo",
-      "url": "https://open.spotify.com/track/1rvbY7HXYsFXSlLqxphocK"
+      "duration_ms": 259466,
+      "name": "The World Has Turned And Left Me Here",
+      "url": "https://open.spotify.com/track/06isZAG9Bgm4jhPj7V0Rhx"
     },
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "American Football",
-        "url": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp"
+        "name": "Your Favorite Weapon",
+        "url": "https://open.spotify.com/album/1kRnFF71UTGdHmSrRDllKj"
       },
       "artists": [
         {
-          "name": "American Football",
-          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+          "name": "Brand New",
+          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
         }
       ],
-      "duration_ms": 370506,
-      "name": "Honestly?",
-      "url": "https://open.spotify.com/track/0QNdEegC3Q9AVoAMmd8MEL"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
-        "name": "Through Being Cool",
-        "url": "https://open.spotify.com/album/3yRpyOundyELlkOO6O4YSo"
-      },
-      "artists": [
-        {
-          "name": "Saves The Day",
-          "url": "https://open.spotify.com/artist/5gWhlJBlLQGLOgYWO8lwCU"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Shoulder to the Wheel",
-      "url": "https://open.spotify.com/track/4dKu1HkVL1xh96F1JfDTrn"
+      "duration_ms": 222080,
+      "name": "Jude Law And A Semester Abroad",
+      "url": "https://open.spotify.com/track/4w7hIjpuEfvMPiyEgdqlf6"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -395,6 +347,22 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 229706,
+      "name": "Lucky Denver Mint",
+      "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
         "name": "Full Collapse",
         "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
       },
@@ -407,6 +375,22 @@
       "duration_ms": 222040,
       "name": "Standing On The Edge Of Summer",
       "url": "https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Through Being Cool",
+        "url": "https://open.spotify.com/album/3yRpyOundyELlkOO6O4YSo"
+      },
+      "artists": [
+        {
+          "name": "Saves The Day",
+          "url": "https://open.spotify.com/artist/5gWhlJBlLQGLOgYWO8lwCU"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Shoulder to the Wheel",
+      "url": "https://open.spotify.com/track/4dKu1HkVL1xh96F1JfDTrn"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -427,6 +411,22 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
+        "name": "Pinkerton",
+        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 172600,
+      "name": "Getchoo",
+      "url": "https://open.spotify.com/track/1rvbY7HXYsFXSlLqxphocK"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
         "name": "Clarity (Expanded Edition)",
         "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 246560,
       "name": "For Me This Is Heaven",
       "url": "https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "War All The Time",
+        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "For The Workforce, Drowning",
+      "url": "https://open.spotify.com/track/1lJBNe8CjXxTX8VoIHr0KX"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -471,22 +487,6 @@
       "duration_ms": 153586,
       "name": "Caboose",
       "url": "https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
-        "name": "War All The Time",
-        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "For The Workforce, Drowning",
-      "url": "https://open.spotify.com/track/1lJBNe8CjXxTX8VoIHr0KX"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Worship And Tribute (U.S. Version)",
-        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
+        "name": "In / Casino / Out",
+        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
       },
       "artists": [
         {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 179493,
-      "name": "Tip Your Bartender",
-      "url": "https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER"
+      "duration_ms": 288066,
+      "name": "Napoleon Solo",
+      "url": "https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -619,34 +619,18 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "In / Casino / Out",
-        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
+        "name": "Worship And Tribute (U.S. Version)",
+        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
       },
       "artists": [
         {
-          "name": "At the Drive-In",
-          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 288066,
-      "name": "Napoleon Solo",
-      "url": "https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
-        "name": "Porcelain",
-        "url": "https://open.spotify.com/album/17Mq1v9fKGSmCabI7DaV4S"
-      },
-      "artists": [
-        {
-          "name": "Sparta",
-          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "While Oceana Sleeps",
-      "url": "https://open.spotify.com/track/0zgEbB05wAnOHQ9XRupLwX"
+      "duration_ms": 179493,
+      "name": "Tip Your Bartender",
+      "url": "https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -679,6 +663,22 @@
       "duration_ms": 66053,
       "name": "Pathfinder",
       "url": "https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Porcelain",
+        "url": "https://open.spotify.com/album/17Mq1v9fKGSmCabI7DaV4S"
+      },
+      "artists": [
+        {
+          "name": "Sparta",
+          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "While Oceana Sleeps",
+      "url": "https://open.spotify.com/track/0zgEbB05wAnOHQ9XRupLwX"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Slip",
-        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "Dine Alone",
-      "url": "https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "Everything You Ever Wanted To Know About Silence Remaster",
         "url": "https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 229826,
       "name": "Siberian Kiss - 2009 Remaster",
       "url": "https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "Dine Alone",
+      "url": "https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1"
     },
     {
       "added_at": "2023-03-28 15:58:25",

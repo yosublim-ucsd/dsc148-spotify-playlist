@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Chill & Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,011 likes - 164 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,203 likes - 164 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 2 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 |
 | 3 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 |
 | 4 | [Doin Ya Thang](https://open.spotify.com/track/2KnMG7ROpc76hMKobBiocK) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3) | [Doin Ya Thang](https://open.spotify.com/album/4EMuJFBM5Cx9R5SaX4ZcuI) | 6:55 |
-| 5 | [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 |
-| 6 | [Ain't No Other Man \- Rework](https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Ain't No Other Man \(Rework\)](https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq) | 2:34 |
-| 7 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q) | 2:06 |
-| 8 | [SEX IS GOOD BUT HAVE U EVER](https://open.spotify.com/track/3Q90SwsnNZDTTG0gqZxTaU) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Movement](https://open.spotify.com/album/612PCusXpFlpdlg3sLupIA) | 2:26 |
-| 9 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
-| 10 | [Buzz](https://open.spotify.com/track/7jc3wS97mxIBkodncdVwKN) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Buzz](https://open.spotify.com/album/5uDtmYd30zW7VpjW6l6gpx) | 2:49 |
-| 11 | [There Beside](https://open.spotify.com/track/3RxBSdIJoJ8hFg6IsSTfTv) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Inner Monologue](https://open.spotify.com/album/0X1jMKj2RQSil3PTSppRIT) | 6:09 |
-| 12 | [Topdown](https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Channel Tres](https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG) | 3:50 |
-| 13 | [No More Room For Us](https://open.spotify.com/track/09sF2i7E0juLr8OfT2Ygx9) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [No More Room For Us](https://open.spotify.com/album/4B8f7MbBLgw1UvitD2wBtM) | 5:53 |
-| 14 | [Vertigo](https://open.spotify.com/track/1doFagKIgn2FOATKzUkbyi) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Vertigo](https://open.spotify.com/album/6PLiavXQv8JeNW2HBIl18X) | 4:16 |
+| 5 | [Vertigo](https://open.spotify.com/track/1doFagKIgn2FOATKzUkbyi) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Vertigo](https://open.spotify.com/album/6PLiavXQv8JeNW2HBIl18X) | 4:16 |
+| 6 | [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 |
+| 7 | [Ain't No Other Man \- Rework](https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Ain't No Other Man \(Rework\)](https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq) | 2:34 |
+| 8 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q) | 2:06 |
+| 9 | [SEX IS GOOD BUT HAVE U EVER](https://open.spotify.com/track/3Q90SwsnNZDTTG0gqZxTaU) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Movement](https://open.spotify.com/album/612PCusXpFlpdlg3sLupIA) | 2:26 |
+| 10 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
+| 11 | [Buzz](https://open.spotify.com/track/7jc3wS97mxIBkodncdVwKN) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Buzz](https://open.spotify.com/album/5uDtmYd30zW7VpjW6l6gpx) | 2:49 |
+| 12 | [There Beside](https://open.spotify.com/track/3RxBSdIJoJ8hFg6IsSTfTv) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Inner Monologue](https://open.spotify.com/album/0X1jMKj2RQSil3PTSppRIT) | 6:09 |
+| 13 | [Topdown](https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Channel Tres](https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG) | 3:50 |
+| 14 | [No More Room For Us](https://open.spotify.com/track/09sF2i7E0juLr8OfT2Ygx9) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [No More Room For Us](https://open.spotify.com/album/4B8f7MbBLgw1UvitD2wBtM) | 5:53 |
 | 15 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 |
 | 16 | [Reason](https://open.spotify.com/track/0hfdr1AabJe8J9lFGWoqMI) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Inner Monologue](https://open.spotify.com/album/0X1jMKj2RQSil3PTSppRIT) | 6:24 |
 | 17 | [Got Time For Me \(with Channel Tres\)](https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Got Time For Me \(with Channel Tres\)](https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk) | 2:59 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 163 | [Remember When](https://open.spotify.com/track/3eGvc60ZfpRNs9Tmh7k6T9) | [KAASI](https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6) | [Faro](https://open.spotify.com/album/3MpTyXDrpbmFhrGIndfeME) | 4:40 |
 | 164 | [phases \(feat\. Kojey Radical\) \- P\-rallel Remix](https://open.spotify.com/track/0BUU2Sw6QrDyIVg4U6G3Gl) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [phases \(feat\. Kojey Radical\) \[P\-rallel Remix\]](https://open.spotify.com/album/5UMUOPkLKNKKfHIT9D9D4x) | 3:08 |
 
-Snapshot ID: `MCxjN2MyZTQ4MDAxNDA2MjZhYzZkOWQ2NzA3YWVlODZhZGZkNDU1YmI3`
+Snapshot ID: `MCw0Njc3YmMzZTZhYzk4MWRhOWI1NzU2MGJkNTg2ZTBkMTM2ZmJlMWY2`

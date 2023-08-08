@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-362 songs - 1 day 12 hr 19 min
+364 songs - 1 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Left My Body \- Kintar Remix](https://open.spotify.com/track/2g1fEAlsjd44hN5AOkI8Yp) | [Da Mike](https://open.spotify.com/artist/6y47rh8rdNwWhWqJs8ondd), [Biishop](https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF), [Kintar](https://open.spotify.com/artist/4WZgFtQLzzmubwRq44JOjT) | [Left My Body EP](https://open.spotify.com/album/1wCN5liJ5VMDsdSQI4n2iG) | 7:25 | 2022-10-28 | 2023-02-24 |
 | [Lenaia](https://open.spotify.com/track/5RNmJ8F8Azj6RObpaZZkr9) | [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Five to Have 04](https://open.spotify.com/album/6B76Tfe5leit1vE91y6YP2) | 5:28 | 2023-01-12 | 2023-02-18 |
 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 | 2022-09-13 | 2022-11-12 |
+| [Lisboa](https://open.spotify.com/track/6oIxwM3c21qrjj2uThkgrd) | [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Lisboa](https://open.spotify.com/album/5SivUhqiS0Hz531wdwAzwJ) | 8:29 | 2023-08-07 |  |
 | [Lo Hicimos](https://open.spotify.com/track/7HdXLscvW9kyuFMYsAY6x6) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Lo Hicimos](https://open.spotify.com/album/0k13T5zISUkpxWuEkgqcaY) | 7:38 | 2022-09-13 |  |
 | [Lobela](https://open.spotify.com/track/195c6cDeMpBqYxaSQ65cwZ) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Lobela](https://open.spotify.com/album/0CeY1p6mvixO7vDTeyIOWX) | 7:37 | 2023-02-23 | 2023-03-18 |
 | [Losing My Religion](https://open.spotify.com/track/1Uh8i82ux3YOdxf44lAl7K) | [Samantha Loveridge](https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Losing My Religion](https://open.spotify.com/album/6neciC9YnnlAN6irdMO1yA) | 4:28 | 2023-05-24 | 2023-06-03 |
@@ -184,6 +185,7 @@
 | [Love Is The Way \- Pippi Ciez Retake](https://open.spotify.com/track/14tGjqtvgJ36h1oDNimiFr) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly), [Pippi Ciez](https://open.spotify.com/artist/46aDUWf82wQR9U9G0k3J1v) | [Love Is The Way \(Pippi Ciez Retake\)](https://open.spotify.com/album/6nNS2YAzFy2xbDSisbbnH6) | 4:18 | 2023-03-17 |  |
 | [Luxury \- Enoo Napa Remix](https://open.spotify.com/track/2BlQJQKab1AbQmTy5N9Jta) | [Luka](https://open.spotify.com/artist/52RrVukaLWLFZo3vJ6ULC1), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Luxury \(Enoo Napa Remix\)](https://open.spotify.com/album/7wXfcUpqoHICMJTqn7jcYS) | 6:48 | 2022-11-11 | 2023-01-13 |
 | [Magnet](https://open.spotify.com/track/0AkkaMnOJ0Q8cEOwRVK371) | [Froote](https://open.spotify.com/artist/5Y7MmhW2nLdWjnc3TiaVRm) | [World of Dance](https://open.spotify.com/album/1R3yDLWAuwJhBz0oxsN76O) | 6:29 | 2023-02-09 | 2023-05-24 |
+| [Malokazana](https://open.spotify.com/track/5FyHi7GorT5H4H7pvyUKel) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE), [Viiiictor May](https://open.spotify.com/artist/5w1oiMQESW2GdJ8WkmwsvG) | [Malokazana](https://open.spotify.com/album/169XzjQUAE7ez07qT6hapQ) | 7:41 | 2023-08-07 |  |
 | [Manana](https://open.spotify.com/track/5WL2W5n2nTlQb3AppemEZE) | [Morena](https://open.spotify.com/artist/1e9EVXjjycz6jn201oEJTI) | [Divine Interventions](https://open.spotify.com/album/3ckf7mS6X7d2FC9jS4Zp08) | 7:44 | 2023-07-07 |  |
 | [Masungulo](https://open.spotify.com/track/6QoWZJrELFnejwIV0c9OgM) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Mörda](https://open.spotify.com/artist/7elJ7SSC2yLiDadOBLykdS) | [Masungulo](https://open.spotify.com/album/4yJRndmtIQfYzCTlMKg8GU) | 4:47 | 2023-07-14 |  |
 | [Mawazo](https://open.spotify.com/track/5FZpGmPIJYrlehdwytQ7VY) | [DJEFF](https://open.spotify.com/artist/7h1PMdIjUn3sZM2sNz0SD4) | [Mawazo](https://open.spotify.com/album/3hjUuLJdPvc4klzG9Xt6DH) | 7:12 | 2022-09-13 | 2022-12-15 |

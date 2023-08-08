@@ -4,7 +4,7 @@
 
 > Rock swagger served neat\. Cover: Chris Stapleton
 
-209 songs - 12 hr 49 min
+210 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [John Wayne](https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [John Wayne](https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG) | 4:55 | 2022-02-18 |  |
 | [Keep It Close](https://open.spotify.com/track/2E4awT2B9kuIPkiVezOqsh) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:40 | 2022-06-14 | 2023-01-06 |
 | [Keep It Close](https://open.spotify.com/track/6Mxb9ZguHzhND7GiTkWJiu) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Keep It Close](https://open.spotify.com/album/2BVhMXXpSpDWFEnpC6Y07w) | 3:40 | 2020-08-21 | 2022-07-29 |
-| [Knock Me Down](https://open.spotify.com/track/2cVoehVb8c6ejefclEwaCD) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [Knock Me Down](https://open.spotify.com/album/6vcHYDO5HTT3IJucfcI9WZ) | 4:07 | 2021-08-20 |  |
+| [Knock Me Down](https://open.spotify.com/track/2cVoehVb8c6ejefclEwaCD) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [Knock Me Down](https://open.spotify.com/album/6vcHYDO5HTT3IJucfcI9WZ) | 4:07 | 2021-08-20 | 2023-08-08 |
 | [Knockin on the Door](https://open.spotify.com/track/5fVJAtauU1LhPw9jIGdlGc) | [The Bites](https://open.spotify.com/artist/5qNESecqVeNcCFuMcwFsS3) | [Knockin on the Door](https://open.spotify.com/album/5PiS8gNuWMCucLV6sRG8bp) | 4:09 | 2021-08-20 | 2022-02-12 |
 | [Lady Mine \(feat\. Chad Kroeger\)](https://open.spotify.com/track/0afR9bRVOepZeNYj3pKCuq) | [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Lady Mine \(feat\. Chad Kroeger\)](https://open.spotify.com/album/3bTZjLUpO6FQ8RXlHM9SC7) | 4:03 | 2021-12-03 |  |
 | [Leaving Hell](https://open.spotify.com/track/6CqjB4PrpwqAD5kAnvTbJC) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Leaving Hell](https://open.spotify.com/album/2g8x4ROXs8Zhqog9uMGGUz) | 3:26 | 2021-10-15 |  |
@@ -215,6 +215,7 @@
 | [Wolves](https://open.spotify.com/track/7vfjYZWxOAjw5N7DLNAxvo) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Georgiana](https://open.spotify.com/album/1Kr6FJQ10sddvW8E2PeG2v) | 3:51 | 2022-02-11 | 2022-08-17 |
 | [Won't Take Me Alive](https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Won't Take Me Alive](https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv) | 3:45 | 2023-07-14 |  |
 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 | 2023-05-12 |  |
+| [xoxo](https://open.spotify.com/track/0YmbrreCDawnxERUmOS4YH) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [xoxo](https://open.spotify.com/album/03tfpzDArDjfSEJ1dhVESX) | 4:07 | 2023-08-07 |  |
 | [You're The One](https://open.spotify.com/track/0iYBNrznkCwhN3xCmNVJpo) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Anthem Of The Peaceful Army](https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX) | 4:26 | 2020-08-21 |  |
 | [Young Lady, You're Scaring Me](https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HEAVY META](https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj) | 3:40 | 2020-08-21 | 2023-01-06 |
 

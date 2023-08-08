@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK">Nacee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,838 likes - 50 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,921 likes - 50 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [KE SIKILOE KE JESU](https://open.spotify.com/track/2hoNv8VTa2crszNVheSQHG) | [Locustmusiq](https://open.spotify.com/artist/1Nllw307L1bVRcSgSM4Y0j), [Dark shadow\_msotra](https://open.spotify.com/artist/43uRuu03qNAVrm6pd5YwAW), [Dintle](https://open.spotify.com/artist/1MumMLFmVb2vX9hlMmBnEd) | [KE SIKILOE KE JESU](https://open.spotify.com/album/40OFIeAAQBiAilrAG48OgG) | 4:53 |
 | 50 | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy) | [Intimate Worshippers](https://open.spotify.com/artist/6cyrALoaNZdARL3FtcT1TG) | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/album/4KXmXlnwjO8xJvKLC0fBOf) | 4:12 |
 
-Snapshot ID: `MCw5MDU2ZGJhNDUyZTMyYzEyMWJiMGNlZTQwODQ4MDE2MzJlMmUxOWEx`
+Snapshot ID: `MCw1OTgzZmE3ODU2ZWNhMzc1NTJlYzk5MTczZjQwYmQ0NmRiY2Q5ZWNm`

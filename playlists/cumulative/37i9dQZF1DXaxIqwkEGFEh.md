@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: Gucci Mane
 
-964 songs - 1 day 20 hr 55 min
+965 songs - 1 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/track/3d19P64cMd5IM6jGGwKcSS) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/album/3Ej4xcq9U5V4cUsfjxeXgV) | 2:55 | 2022-10-07 | 2023-01-21 |
 | [Get Away](https://open.spotify.com/track/65nmqAEqW7CJIkXOIkxyg8) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Get Away](https://open.spotify.com/album/32FRll0ejOVNcspDDtUEqY) | 3:00 | 2022-11-18 | 2023-02-25 |
 | [Get Back](https://open.spotify.com/track/7hN02og1TARl5EER4wURPb) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Get Back](https://open.spotify.com/album/3gNuY9GJCmvKpTx6v3ZPaa) | 1:49 | 2021-12-03 | 2022-04-02 |
+| [Get Back](https://open.spotify.com/track/7jwRq3gjpzHFuPNwSPLhBi) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Get Back](https://open.spotify.com/album/2QFWsFsh9RMFDyaGY5qQN5) | 2:35 | 2023-08-07 |  |
 | [Get Back \(feat\. G Herbo\)](https://open.spotify.com/track/58PHa0il1TgjqONQc8ZJ5j) | [Yak Yola](https://open.spotify.com/artist/3pnHEUKevBqj5yqYBIvVs6), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Get Back \(feat\. G Herbo\)](https://open.spotify.com/album/29uX8kttgwZkbzDtn05yY6) | 2:45 | 2022-02-25 | 2022-03-26 |
 | [Get Dangerous](https://open.spotify.com/track/43GoEZsawcNzDxSzSYu11s) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Get Dangerous](https://open.spotify.com/album/7aYuQP9WI4RSXdGtJF2ToC) | 2:11 | 2022-08-12 | 2022-09-24 |
 | [Get Em](https://open.spotify.com/track/5D2d4F9IQkXo6GXbXb4X2K) | [Wam SpinThaBin](https://open.spotify.com/artist/1vljqWKOCEBTIA9mhCaCCt) | [Before I Self Destruct](https://open.spotify.com/album/4ZUkRvwHt1iXuLLBlBzY5T) | 1:50 | 2022-12-09 | 2023-03-11 |
@@ -643,7 +644,7 @@
 | [Phone Ringing](https://open.spotify.com/track/4O5RjbYzHBFGeXj7Aakz1Y) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Welcome To Vulture Island](https://open.spotify.com/album/0g96ZZ9ME5DaTwZb1VYxmo) | 1:40 | 2022-04-08 | 2022-04-16 |
 | [Pickin’ Sides \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/0uX7dGC07Dd8mpvnCcWzH0) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Pickin’ Sides \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/3QMuWl11zBhxwLwLM7KpRM) | 2:13 | 2022-04-08 | 2022-05-07 |
 | [PIMP C \(feat\. EST Gee\)](https://open.spotify.com/track/6QLiAGfN2h7ahupaqyDwIW) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [PIMP C \(feat\. EST Gee\)](https://open.spotify.com/album/1VW1ufrIvvzYhsYd3QHP17) | 3:26 | 2022-09-02 | 2022-10-29 |
-| [Pimp Problems](https://open.spotify.com/track/2sQNGOxvrF4WrS8KZykAci) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Who Is Fatt](https://open.spotify.com/album/3qsgJ7DqZ9dqgblDMea5KR) | 1:50 | 2023-08-04 |  |
+| [Pimp Problems](https://open.spotify.com/track/2sQNGOxvrF4WrS8KZykAci) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Who Is Fatt](https://open.spotify.com/album/3qsgJ7DqZ9dqgblDMea5KR) | 1:50 | 2023-08-04 | 2023-08-08 |
 | [Pissed Me Off](https://open.spotify.com/track/52nTQQahs46s1iHFQ3Wv5Q) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Pissed Me Off](https://open.spotify.com/album/70m1QwzUoogjk2DDq1hA3b) | 2:03 | 2021-10-15 | 2022-03-12 |
 | [Pissed Off Letter](https://open.spotify.com/track/58kHbG3stlNfRUoF8j4zVm) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Sincerely Mad](https://open.spotify.com/album/4wfGo9Fh83xeR6vJ6qMEpj) | 2:59 | 2023-07-28 |  |
 | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8) | 3:38 | 2023-05-05 |  |

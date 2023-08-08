@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 
 > Mensagens de Fé e músicas selecionadas por Cassiane.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,211 likes - 25 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,276 likes - 25 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 | 24 | [Fidelidade](https://open.spotify.com/track/68McOe4uvV9uJlQVu65duX) | [Danielle Cristina](https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG) | [Fidelidade](https://open.spotify.com/album/7isDh24H8KG0EjCZZaYfq6) | 5:33 |
 | 25 | [Todos Os Meus Dias \- Ao Vivo](https://open.spotify.com/track/7vQVMorqtlcOD2vRqDTFgS) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Todos Os Meus Dias \(Ao Vivo\)](https://open.spotify.com/album/47ZBDaMCFQJfGJaqceUQMS) | 3:24 |
 
-Snapshot ID: `MCw0YTkxZDEzMWYzZTFhMzcxNjkwMWI4NmUxZThmZDEwNWExMjcyNDhj`
+Snapshot ID: `MCw3MjFlYzdkMDViMmU0OTZhMzljMjMwMDk4MTY1MmI2YzZiN2E0Yjk2`

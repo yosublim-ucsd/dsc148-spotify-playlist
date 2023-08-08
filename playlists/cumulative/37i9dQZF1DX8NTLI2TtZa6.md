@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-411 songs - 17 hr 39 min
+413 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Balinese rain](https://open.spotify.com/track/02Ht4crdM7PkMpYU3FLS2X) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [Balinese rain](https://open.spotify.com/album/0QUr11dedtEYKwXAbdMnCd) | 2:10 | 2023-05-03 |  |
 | [Ballad](https://open.spotify.com/track/0I3MZaEMddQfkUjRTEYWA2) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Orpheus](https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv) | 2:51 | 2022-12-22 |  |
 | [Barren Lands](https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Barren Lands](https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ) | 2:19 | 2022-03-01 |  |
+| [Beautiful day](https://open.spotify.com/track/7tvFtyI2LhuDAWWJA4mVqr) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Beautiful day](https://open.spotify.com/album/0RlsiytRwYEp3gu4R7AgzN) | 3:02 | 2023-08-07 |  |
 | [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2021-12-07 |  |
 | [Belonging](https://open.spotify.com/track/6RQo40Vh1f5NCn14I04Kpp) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Belonging](https://open.spotify.com/album/4xFCnNBnu0rDejXyJa6P89) | 3:38 | 2022-06-07 | 2023-03-15 |
 | [Beneath the Waves](https://open.spotify.com/track/16HrDFed6T82sUdFy0S14W) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Beneath the Waves](https://open.spotify.com/album/6bCloCt5prFJNtHzfYWOQ1) | 3:10 | 2022-04-21 |  |
@@ -123,7 +124,7 @@
 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 | 2022-03-01 | 2023-07-19 |
 | [Flying](https://open.spotify.com/track/77EW76b4eVgOQfwviDehVH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Flying](https://open.spotify.com/album/0mgGkc6kmIhNfPa8skiBEt) | 1:58 | 2023-06-20 |  |
 | [Flying High](https://open.spotify.com/track/6AG03RXCk6TqJwg5foivCU) | [Edu Lahmar](https://open.spotify.com/artist/2cUQRSrBnFd4OKJKhlVVDc) | [Treetops](https://open.spotify.com/album/6ZPHDl66MQRlMwbkaQq8MX) | 2:01 | 2021-12-07 |  |
-| [Flyt](https://open.spotify.com/track/55gJkKxdKrZqDG6BhzsKc9) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Flyt](https://open.spotify.com/album/744jiUzIyyAhSQjxoPcQWT) | 2:18 | 2022-10-14 |  |
+| [Flyt](https://open.spotify.com/track/55gJkKxdKrZqDG6BhzsKc9) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Flyt](https://open.spotify.com/album/744jiUzIyyAhSQjxoPcQWT) | 2:18 | 2022-10-14 | 2023-08-08 |
 | [Forever & Always](https://open.spotify.com/track/5hLVKQBumXZ9DhK6khCiOP) | [Tom Stannard](https://open.spotify.com/artist/6rDF0xaV7KBIlI5t9zs6EZ) | [Forever & Always](https://open.spotify.com/album/7B03e9Eebco3A1QGyFcBxj) | 2:06 | 2021-12-07 | 2022-06-08 |
 | [Fragment](https://open.spotify.com/track/3VBPPIu4MGBnMj4SF8sJBJ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:33 | 2021-12-07 | 2022-04-22 |
 | [Frühlingsbach](https://open.spotify.com/track/5q3d5I3rMvfKAuyDvmBwwe) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Frühlingsbach](https://open.spotify.com/album/08s8yCYnuv2L21WxgomVTb) | 2:51 | 2021-12-07 |  |
@@ -253,7 +254,7 @@
 | [Notre terre](https://open.spotify.com/track/5kHdX3qzFelWIDOiUAs96C) | [Mattéo Roussel](https://open.spotify.com/artist/5cWYlySCjG96BxyPDRdT9J) | [Notre terre](https://open.spotify.com/album/285DJvpqFwBzxXopSOd2ML) | 2:38 | 2022-03-01 | 2023-03-30 |
 | [November 9th](https://open.spotify.com/track/1ImEbpBXsZD9LYyQ67WXiX) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [November 9th](https://open.spotify.com/album/43sDDJJnnUwrgnCbaYqyZB) | 2:40 | 2022-05-20 |  |
 | [Nuageux](https://open.spotify.com/track/6SxecKjiavy2JnHSo3THF8) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Nuageux](https://open.spotify.com/album/4rOvg6YTNHv64HpShaU0lq) | 2:55 | 2021-12-07 | 2022-05-28 |
-| [Ocean](https://open.spotify.com/track/3mLVz3Hbb4wD3TV7eY5W4z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [High Above](https://open.spotify.com/album/4yTnXjn15IjnI96CX4KSUP) | 2:11 | 2021-12-07 |  |
+| [Ocean](https://open.spotify.com/track/3mLVz3Hbb4wD3TV7eY5W4z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [High Above](https://open.spotify.com/album/4yTnXjn15IjnI96CX4KSUP) | 2:11 | 2021-12-07 | 2023-08-08 |
 | [Ocean](https://open.spotify.com/track/5Sr5Tz8xszf0Wpk12w4117) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Ocean](https://open.spotify.com/album/23bNIKhaP1ggWvYroajgWk) | 2:16 | 2021-12-07 |  |
 | [Ocean Mind](https://open.spotify.com/track/0yke2mzO01rTHhBpBLnYwh) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Ocean Mind](https://open.spotify.com/album/3YpBO1Twz1VUCgEUvhAgr2) | 2:22 | 2022-05-27 |  |
 | [Oceá](https://open.spotify.com/track/4OQ4Ua0SulicmSHpgBXCvs) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Oceá](https://open.spotify.com/album/1YlinmQ13IX8DlaPOtcX2f) | 2:38 | 2021-12-07 |  |
@@ -368,6 +369,7 @@
 | [The Nightingale](https://open.spotify.com/track/1cXacQAGKrNEB6q32HzK6c) | [Frédéric Leissen](https://open.spotify.com/artist/5yLIjnvnDjovcXpZJa3NCj) | [The Nightingale](https://open.spotify.com/album/5q6Lo4sWsHz7S2JHooLt5i) | 1:58 | 2021-12-07 | 2022-05-21 |
 | [The Open](https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [The Open](https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt) | 3:34 | 2022-04-14 | 2023-03-22 |
 | [The Optimist](https://open.spotify.com/track/4wJd6cER10JZRuU5y3DBkZ) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [The Optimist](https://open.spotify.com/album/3KzZstlr8d3MiiO1swIRJX) | 2:39 | 2023-05-09 |  |
+| [The promenade](https://open.spotify.com/track/7wwoRmaR5PedYCw1iWtjAM) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [The promenade](https://open.spotify.com/album/4j34n7TZ31JyiCgulAMSnJ) | 1:59 | 2023-08-07 |  |
 | [The Right Course](https://open.spotify.com/track/6vjhLsJbpfclLNSCKHjGTW) | [Jone Lange](https://open.spotify.com/artist/4bG81VTcDhZQpPzrHyWksb) | [The Right Course](https://open.spotify.com/album/1Oa9FqJMkzggnUsHyywQ7Q) | 1:59 | 2023-04-18 |  |
 | [The Stars Are Your Friends](https://open.spotify.com/track/44stpzDXyTfG9LV97pHHP0) | [Matt Bettinson](https://open.spotify.com/artist/5MtYl3JKJxBUNtTo50XZcx) | [The Stars Are Your Friends](https://open.spotify.com/album/6KxXL9mncQwzIz4SFtUVQF) | 2:30 | 2023-07-25 |  |
 | [The Theme of Life](https://open.spotify.com/track/3uAeBJ1Mmdo58cJ8XgjkkC) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Theme of Life](https://open.spotify.com/album/31QPie97sYOMWtwpzCYNUj) | 3:25 | 2023-04-18 |  |
@@ -408,7 +410,7 @@
 | [when softness lifted us](https://open.spotify.com/track/4YJFGtMJbQsPtBFNaLVJVy) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [when softness lifted us](https://open.spotify.com/album/7gKhonZ8cfp8AuuCXVWflm) | 2:41 | 2021-12-07 |  |
 | [When We First Met](https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC) | [Ricki Westberg](https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4) | [When We First Met](https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV) | 1:52 | 2021-12-07 | 2022-03-18 |
 | [When We Were Young](https://open.spotify.com/track/4jbI0eDFCJ6gdjp50IMrAQ) | [Cedric Grey](https://open.spotify.com/artist/6JbH37KxXJI583fPVzxyqO) | [When We Were Young](https://open.spotify.com/album/0kEvgVlj1AmSkzE6wSZOdW) | 1:48 | 2023-06-27 | 2023-07-19 |
-| [Where Are You Now](https://open.spotify.com/track/3evKJGk8medQPPcA38Y3Tb) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/65JGL9v0jvQqAWUqolwr2E) | 2:38 | 2022-07-19 |  |
+| [Where Are You Now](https://open.spotify.com/track/3evKJGk8medQPPcA38Y3Tb) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/65JGL9v0jvQqAWUqolwr2E) | 2:38 | 2022-07-19 | 2023-08-08 |
 | [Where Are You Now](https://open.spotify.com/track/4fmG6hh126lwv3IKzXM1gD) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/3QokS25Je7Ms9rbghdVHts) | 2:38 | 2021-12-07 | 2022-07-29 |
 | [Wild Horses Run Free](https://open.spotify.com/track/3XMWBL5SaKwYyuxXcEXJF1) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Wild Horses Run Free](https://open.spotify.com/album/0B4k5ZQpiRRVXhwYXF9Sni) | 2:34 | 2023-03-06 |  |
 | [Wind of Change](https://open.spotify.com/track/0ubuJV6bCSUME2iCKovVwo) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Wind of Change](https://open.spotify.com/album/6f25L5Lmd4FxMNYLhHN1ux) | 2:00 | 2022-08-09 |  |

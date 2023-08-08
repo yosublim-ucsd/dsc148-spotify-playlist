@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: ג׳יי למוטה
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,526 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,540 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,31 +31,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 21 | [גריינדר](https://open.spotify.com/track/7upjqX6IlM72MQ4Bqp0bnq) | [Adi Bity](https://open.spotify.com/artist/6wmkSxRAKlQl86DzjXRUMh), [Omri 69 Segal](https://open.spotify.com/artist/6kCm2Bpfcgfyp3bdjfAT61) | [גריינדר](https://open.spotify.com/album/5ZpEOE6QxZLibMTjbWKKii) | 3:12 |
 | 22 | [מה שנשאר בי](https://open.spotify.com/track/7rd424XyZLUTe0YGjmosyv) | [Maya Johanna](https://open.spotify.com/artist/2pgAILWtXXJqguZ19FoDtl) | [מה שנשאר בי](https://open.spotify.com/album/6Uco7CikTqBELN7Cj1h4YG) | 4:35 |
 | 23 | [Ghosts](https://open.spotify.com/track/1SO8DMcTYROOQvO3k9InwG) | [Maya Isacowitz](https://open.spotify.com/artist/6KGpcDSK5jNSkMxafMlNiY) | [Ghosts](https://open.spotify.com/album/58uFyn1Ec5a1liipS56E0j) | 3:37 |
-| 24 | [הרגעים הקטנים האלה](https://open.spotify.com/track/52iSPGuOLCzEOcWjblFwQA) | [Flora](https://open.spotify.com/artist/3XGi4MkpA7kn9k8RRfp18Z) | [הרגעים הקטנים האלה](https://open.spotify.com/album/38HKQPc9KBYu5UsC9J41zy) | 5:17 |
-| 25 | [אם את לבד](https://open.spotify.com/track/6uhyYEtsAloO0V5mDD8hh1) | [קיקי מלינקי](https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo) | [אם את לבד](https://open.spotify.com/album/05Wt6OeErKu722gsn4KRCa) | 2:36 |
-| 26 | [Not Afraid](https://open.spotify.com/track/1ez11rgQDRuoEXklk9lUQG) | [InAbell](https://open.spotify.com/artist/7mST3kQ7nO7i94aZnEromT) | [Not Afraid](https://open.spotify.com/album/7pdA9xPh0l2kR5m8sBaQU2) | 3:35 |
-| 27 | [ברבי](https://open.spotify.com/track/2XBvQMevdv8oiaHCF9Xkwg) | [שירה זלוף](https://open.spotify.com/artist/6uPXjLmLtFf4cE35saHiSp) | [ברבי](https://open.spotify.com/album/3mHOhLi3jEzembEKywsqur) | 3:26 |
-| 28 | [קצת יותר](https://open.spotify.com/track/2YUxrdNHWs1gANkUlRd7nB) | [Anat Hitman](https://open.spotify.com/artist/3sVptVCeCSPzTrCEaXXtCh) | [קצת יותר](https://open.spotify.com/album/4LKezqvNm8GyjaZ13DyeIJ) | 3:04 |
-| 29 | [לא נורמלית](https://open.spotify.com/track/3izBTu3gUs0ODCOAr1b9iN) | [עופרי אטיאס](https://open.spotify.com/artist/11mdBGIgSJUVR6g5rqSmGB) | [לא נורמלית](https://open.spotify.com/album/1OaRocA8J0Kl3tqkK2xGBK) | 3:11 |
-| 30 | [פרובוקטיבית](https://open.spotify.com/track/2b9TjqgLxE6zOZc4DSmYYx) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Forever Tel Aviv](https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q), [Sagi Kariv](https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a) | [פרובוקטיבית](https://open.spotify.com/album/0p6jsDXnFQ1nJqOZ5buGSx) | 2:34 |
-| 31 | [Everything](https://open.spotify.com/track/7tZzYmYevSj9wVFS8rb6kT) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Everything](https://open.spotify.com/album/5bIjntlZiR3Zj36rLw2H27) | 2:58 |
-| 32 | [חמסה](https://open.spotify.com/track/6kIxhXb3FSuOQS0gMd8s0D) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [7](https://open.spotify.com/album/3wsPEqxnCIgV19BYMtYKYm) | 2:16 |
-| 33 | [אינטלקטוערסית](https://open.spotify.com/track/4E5fqKktoOAT3shxlolPBm) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אינטלקטוערסית](https://open.spotify.com/album/5i0yY5QdEqzdok088Yp4af) | 2:08 |
-| 34 | [ביי, שלום, תודה](https://open.spotify.com/track/1AuM7Q0ox0FES3Ev8lEEOQ) | [Alin Golan](https://open.spotify.com/artist/0e2paefwT1ZqF2uvVq8Ldv) | [ביי, שלום, תודה](https://open.spotify.com/album/0cZxemfM0qs8ZJtwGgASV2) | 2:27 |
-| 35 | [פרח](https://open.spotify.com/track/2nyVdS6BjEuGDJ8P1dO8ps) | [Narkis](https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6) | [פרח](https://open.spotify.com/album/380T8mPWkueayzHPDRYst2) | 3:13 |
-| 36 | [לילות נשרפים](https://open.spotify.com/track/3BxU72C1bown4f0SwImyVb) | [הגר יפת](https://open.spotify.com/artist/0yuzd9F7msg9MS8MTzQOmy) | [לילות נשרפים](https://open.spotify.com/album/2wqBQrKKkrYz3hzpTyBcEc) | 3:10 |
-| 37 | [אומיגאד](https://open.spotify.com/track/6hZ193Uo3duDjO6UYtLWNd) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [אומיגאד](https://open.spotify.com/album/4u3mXanonihj72DbXD6IX4) | 3:15 |
-| 38 | [חיים](https://open.spotify.com/track/7yQdaSXOoTDd65nmA4t5Cj) | [Valerie Hamaty](https://open.spotify.com/artist/6BY5HhFibJ6LXJ1vVAByLw) | [חיים](https://open.spotify.com/album/0ZtOEiBsFl2KyRTqHhKSYD) | 4:08 |
-| 39 | [אף פעם לא לבד](https://open.spotify.com/track/4ZGe1hugAeejCOd7TWGiz0) | [Inbal Bibi](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc) | [אף פעם לא לבד](https://open.spotify.com/album/7vnTXeAqPJARapvbC3tSCW) | 2:48 |
-| 40 | [עוד](https://open.spotify.com/track/5DWxpYxN4qnbpDaTKsRmCv) | [Sapir Saban](https://open.spotify.com/artist/5Aw431uxuPIJWiPuiEpIWr) | [עוד](https://open.spotify.com/album/3VZhVhob9MnKMh8Hb8OZoH) | 2:29 |
-| 41 | [טטריס](https://open.spotify.com/track/4lDOjbgK69xGUk943MU5LL) | [Yael Selinger](https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l) | [טטריס](https://open.spotify.com/album/6wXWog6sdyerLZxAebwR37) | 3:01 |
-| 42 | [גברת מגונדרת](https://open.spotify.com/track/60po7qVJdnjMwA1aD4cItO) | [Shir Zuares](https://open.spotify.com/artist/6A7zj7m35jN7X2u49Sy52r) | [גברת מגונדרת](https://open.spotify.com/album/4Na2fe9ShH6tPYLdEHJR8A) | 2:35 |
-| 43 | [בלאגן בגוף](https://open.spotify.com/track/5dmuPvwn4UAi24OvvCfUwb) | [Tamar Reilinger](https://open.spotify.com/artist/6Ez5rRROPcz2LGGiz4gSsU) | [בלאגן בגוף](https://open.spotify.com/album/5GcgPEowvLrD29daKtaRWF) | 2:15 |
-| 44 | [חלומות על טשטוש](https://open.spotify.com/track/1aXayg7FV1srGSObmmbvsT) | [נוגה](https://open.spotify.com/artist/6HW3QANBDKr3G55gTxLUxc) | [חלומות על טשטוש](https://open.spotify.com/album/1zTb3fnUyJV33Sj194gmUy) | 2:47 |
-| 45 | [A Song For Mom](https://open.spotify.com/track/22MBrnYcIuiMHHHSMvkfKn) | [MARBL](https://open.spotify.com/artist/4efPipgazWrrizMaLnIJ4o) | [A Song For Mom](https://open.spotify.com/album/6cjQJ7s1okbcJT3NXy45fl) | 5:03 |
-| 46 | [לא תזכור מזה כלום](https://open.spotify.com/track/4jfrklFsfEUxhwpeYOf9xf) | [Koevary](https://open.spotify.com/artist/514hNDaF4aEem1kTBmnobn) | [לא תזכור מזה כלום](https://open.spotify.com/album/1hYFHDD8gPySx7f49w5Ytw) | 3:56 |
-| 47 | [שבורה](https://open.spotify.com/track/5cICYXAVl45ySQyGmB7Toq) | [מיתר רובין](https://open.spotify.com/artist/0iuUXE5FLUIJWdHpSPdSM5) | [שבורה](https://open.spotify.com/album/0H0YePH0yvgims6anInSul) | 2:57 |
-| 48 | [איפכא מסתברא](https://open.spotify.com/track/6WvkrdqrSXeErUnynJXqO6) | [Alma Zohar](https://open.spotify.com/artist/61Sbigb2Faz8K27wBoOBo9) | [איפכא מסתברא](https://open.spotify.com/album/317tFE9UUFY9CPqxfqmUHE) | 2:43 |
-| 49 | [מישהו שמח בשבילי](https://open.spotify.com/track/375NqvHr0pQBcjQnznSH69) | [Keren Peles](https://open.spotify.com/artist/1T4wAIwQNLsOLQRkPVurY9) | [מישהו שמח בשבילי](https://open.spotify.com/album/4gMosHHM0vU6qYW17vsDHi) | 2:41 |
+| 24 | [מה אתה לא מבין](https://open.spotify.com/track/2XTvuVkcbbIVhK0v0wzVPY) | [טל טרבלסי](https://open.spotify.com/artist/6nCdVU7ShDh0vdfQzGfogB) | [מה אתה לא מבין](https://open.spotify.com/album/2f3ZnBRD8BbM9thsN8lxXq) | 2:17 |
+| 25 | [הרגעים הקטנים האלה](https://open.spotify.com/track/52iSPGuOLCzEOcWjblFwQA) | [Flora](https://open.spotify.com/artist/3XGi4MkpA7kn9k8RRfp18Z) | [הרגעים הקטנים האלה](https://open.spotify.com/album/38HKQPc9KBYu5UsC9J41zy) | 5:17 |
+| 26 | [אם את לבד](https://open.spotify.com/track/6uhyYEtsAloO0V5mDD8hh1) | [קיקי מלינקי](https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo) | [אם את לבד](https://open.spotify.com/album/05Wt6OeErKu722gsn4KRCa) | 2:36 |
+| 27 | [Not Afraid](https://open.spotify.com/track/1ez11rgQDRuoEXklk9lUQG) | [InAbell](https://open.spotify.com/artist/7mST3kQ7nO7i94aZnEromT) | [Not Afraid](https://open.spotify.com/album/7pdA9xPh0l2kR5m8sBaQU2) | 3:35 |
+| 28 | [ברבי](https://open.spotify.com/track/2XBvQMevdv8oiaHCF9Xkwg) | [שירה זלוף](https://open.spotify.com/artist/6uPXjLmLtFf4cE35saHiSp) | [ברבי](https://open.spotify.com/album/3mHOhLi3jEzembEKywsqur) | 3:26 |
+| 29 | [קצת יותר](https://open.spotify.com/track/2YUxrdNHWs1gANkUlRd7nB) | [Anat Hitman](https://open.spotify.com/artist/3sVptVCeCSPzTrCEaXXtCh) | [קצת יותר](https://open.spotify.com/album/4LKezqvNm8GyjaZ13DyeIJ) | 3:04 |
+| 30 | [לא נורמלית](https://open.spotify.com/track/3izBTu3gUs0ODCOAr1b9iN) | [עופרי אטיאס](https://open.spotify.com/artist/11mdBGIgSJUVR6g5rqSmGB) | [לא נורמלית](https://open.spotify.com/album/1OaRocA8J0Kl3tqkK2xGBK) | 3:11 |
+| 31 | [פרובוקטיבית](https://open.spotify.com/track/2b9TjqgLxE6zOZc4DSmYYx) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Forever Tel Aviv](https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q), [Sagi Kariv](https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a) | [פרובוקטיבית](https://open.spotify.com/album/0p6jsDXnFQ1nJqOZ5buGSx) | 2:34 |
+| 32 | [Everything](https://open.spotify.com/track/7tZzYmYevSj9wVFS8rb6kT) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Everything](https://open.spotify.com/album/5bIjntlZiR3Zj36rLw2H27) | 2:58 |
+| 33 | [חמסה](https://open.spotify.com/track/6kIxhXb3FSuOQS0gMd8s0D) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [7](https://open.spotify.com/album/3wsPEqxnCIgV19BYMtYKYm) | 2:16 |
+| 34 | [אינטלקטוערסית](https://open.spotify.com/track/4E5fqKktoOAT3shxlolPBm) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אינטלקטוערסית](https://open.spotify.com/album/5i0yY5QdEqzdok088Yp4af) | 2:08 |
+| 35 | [ביי, שלום, תודה](https://open.spotify.com/track/1AuM7Q0ox0FES3Ev8lEEOQ) | [Alin Golan](https://open.spotify.com/artist/0e2paefwT1ZqF2uvVq8Ldv) | [ביי, שלום, תודה](https://open.spotify.com/album/0cZxemfM0qs8ZJtwGgASV2) | 2:27 |
+| 36 | [פרח](https://open.spotify.com/track/2nyVdS6BjEuGDJ8P1dO8ps) | [Narkis](https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6) | [פרח](https://open.spotify.com/album/380T8mPWkueayzHPDRYst2) | 3:13 |
+| 37 | [לילות נשרפים](https://open.spotify.com/track/3BxU72C1bown4f0SwImyVb) | [הגר יפת](https://open.spotify.com/artist/0yuzd9F7msg9MS8MTzQOmy) | [לילות נשרפים](https://open.spotify.com/album/2wqBQrKKkrYz3hzpTyBcEc) | 3:10 |
+| 38 | [אומיגאד](https://open.spotify.com/track/6hZ193Uo3duDjO6UYtLWNd) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [אומיגאד](https://open.spotify.com/album/4u3mXanonihj72DbXD6IX4) | 3:15 |
+| 39 | [חיים](https://open.spotify.com/track/7yQdaSXOoTDd65nmA4t5Cj) | [Valerie Hamaty](https://open.spotify.com/artist/6BY5HhFibJ6LXJ1vVAByLw) | [חיים](https://open.spotify.com/album/0ZtOEiBsFl2KyRTqHhKSYD) | 4:08 |
+| 40 | [אף פעם לא לבד](https://open.spotify.com/track/4ZGe1hugAeejCOd7TWGiz0) | [Inbal Bibi](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc) | [אף פעם לא לבד](https://open.spotify.com/album/7vnTXeAqPJARapvbC3tSCW) | 2:48 |
+| 41 | [עוד](https://open.spotify.com/track/5DWxpYxN4qnbpDaTKsRmCv) | [Sapir Saban](https://open.spotify.com/artist/5Aw431uxuPIJWiPuiEpIWr) | [עוד](https://open.spotify.com/album/3VZhVhob9MnKMh8Hb8OZoH) | 2:29 |
+| 42 | [טטריס](https://open.spotify.com/track/4lDOjbgK69xGUk943MU5LL) | [Yael Selinger](https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l) | [טטריס](https://open.spotify.com/album/6wXWog6sdyerLZxAebwR37) | 3:01 |
+| 43 | [גברת מגונדרת](https://open.spotify.com/track/60po7qVJdnjMwA1aD4cItO) | [Shir Zuares](https://open.spotify.com/artist/6A7zj7m35jN7X2u49Sy52r) | [גברת מגונדרת](https://open.spotify.com/album/4Na2fe9ShH6tPYLdEHJR8A) | 2:35 |
+| 44 | [בלאגן בגוף](https://open.spotify.com/track/5dmuPvwn4UAi24OvvCfUwb) | [Tamar Reilinger](https://open.spotify.com/artist/6Ez5rRROPcz2LGGiz4gSsU) | [בלאגן בגוף](https://open.spotify.com/album/5GcgPEowvLrD29daKtaRWF) | 2:15 |
+| 45 | [חלומות על טשטוש](https://open.spotify.com/track/1aXayg7FV1srGSObmmbvsT) | [נוגה](https://open.spotify.com/artist/6HW3QANBDKr3G55gTxLUxc) | [חלומות על טשטוש](https://open.spotify.com/album/1zTb3fnUyJV33Sj194gmUy) | 2:47 |
+| 46 | [A Song For Mom](https://open.spotify.com/track/22MBrnYcIuiMHHHSMvkfKn) | [MARBL](https://open.spotify.com/artist/4efPipgazWrrizMaLnIJ4o) | [A Song For Mom](https://open.spotify.com/album/6cjQJ7s1okbcJT3NXy45fl) | 5:03 |
+| 47 | [לא תזכור מזה כלום](https://open.spotify.com/track/4jfrklFsfEUxhwpeYOf9xf) | [Koevary](https://open.spotify.com/artist/514hNDaF4aEem1kTBmnobn) | [לא תזכור מזה כלום](https://open.spotify.com/album/1hYFHDD8gPySx7f49w5Ytw) | 3:56 |
+| 48 | [שבורה](https://open.spotify.com/track/5cICYXAVl45ySQyGmB7Toq) | [מיתר רובין](https://open.spotify.com/artist/0iuUXE5FLUIJWdHpSPdSM5) | [שבורה](https://open.spotify.com/album/0H0YePH0yvgims6anInSul) | 2:57 |
+| 49 | [איפכא מסתברא](https://open.spotify.com/track/6WvkrdqrSXeErUnynJXqO6) | [Alma Zohar](https://open.spotify.com/artist/61Sbigb2Faz8K27wBoOBo9) | [איפכא מסתברא](https://open.spotify.com/album/317tFE9UUFY9CPqxfqmUHE) | 2:43 |
+| 50 | [מישהו שמח בשבילי](https://open.spotify.com/track/375NqvHr0pQBcjQnznSH69) | [Keren Peles](https://open.spotify.com/artist/1T4wAIwQNLsOLQRkPVurY9) | [מישהו שמח בשבילי](https://open.spotify.com/album/4gMosHHM0vU6qYW17vsDHi) | 2:41 |
 
-Snapshot ID: `MCxkMzQyZjhiYjdlYzBhNTNlZThlOTAxNzY5NTJmMDkyYzVkYmRjNWNl`
+Snapshot ID: `MCxiY2M5NTY3MTA5Yzk1NzQ3NDc0YTE1NzQ0NzZlNTMxY2I4ZDQyYzBh`

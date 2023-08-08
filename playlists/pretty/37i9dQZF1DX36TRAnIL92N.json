@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 192177,
+  "num_followers": 192838,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzM2YjMxYjk3NmE2ZmUwZGQ2NmQwNWYzNmE1MzI1YmRlYTI2YjE0",
+  "snapshot_id": "MCxiMGM1ZGY1N2U4ZDA5ZDJlNmMwNGUyNDk0YjBhZTQ0NTQ3MzgyODgz",
   "tracks": [
     {
       "added_at": "2023-06-02 14:30:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "MNML",
-        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 390447,
-      "name": "Minimal",
-      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "Silence EP",
         "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
       },
@@ -519,6 +503,22 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
+        "name": "MNML",
+        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 390447,
+      "name": "Minimal",
+      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
         "name": "Roll the Dice",
         "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
       },
@@ -531,26 +531,6 @@
       "duration_ms": 276357,
       "name": "Roll the Dice",
       "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
-        "name": "The Seduction EP",
-        "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Olly James",
-          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Seduction",
-      "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -591,6 +571,26 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
+        "name": "The Seduction EP",
+        "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Seduction",
+      "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Bells of Notre Dame",
-        "url": "https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz"
-      },
-      "artists": [
-        {
-          "name": "Daniel Levak",
-          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "Bells of Notre Dame",
-      "url": "https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "Club Vibes Part 05",
         "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 485760,
       "name": "Black Unicorn",
       "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Bells of Notre Dame",
+        "url": "https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Bells of Notre Dame",
+      "url": "https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Experience",
-        "url": "https://open.spotify.com/album/2mHKmSPCtMud5SwgzMNEQ1"
-      },
-      "artists": [
-        {
-          "name": "Luna Lucci",
-          "url": "https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp"
-        }
-      ],
-      "duration_ms": 348444,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "Zulu",
         "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 298181,
       "name": "Zulu",
       "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/2mHKmSPCtMud5SwgzMNEQ1"
+      },
+      "artists": [
+        {
+          "name": "Luna Lucci",
+          "url": "https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp"
+        }
+      ],
+      "duration_ms": 348444,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn"
     },
     {
       "added_at": "2023-06-02 14:30:00",

@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PROXIE
 
-365 songs - 21 hr 57 min
+366 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [ถูกออกแบบให้อยู่คนเดียว](https://open.spotify.com/track/1ke1sGWrCPDyXtZy6xXzAq) | [ROOFTOP](https://open.spotify.com/artist/3wzGjN26jzqLY2Gc836sjC) | [ถูกออกแบบให้อยู่คนเดียว](https://open.spotify.com/album/3rLD9S8sTdWU46plj5snNG) | 3:03 | 2022-07-30 | 2022-08-06 |
 | [ถ้าจูบได้เพียงหนึ่งครั้ง \(Last Kiss\)](https://open.spotify.com/track/768V6zjx23Sd1oqtKlxIAx) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [ถ้าจูบได้เพียงหนึ่งครั้ง \(Last Kiss\)](https://open.spotify.com/album/4fvLJyx7dG6ewjIT9FSXMJ) | 4:01 | 2022-07-22 | 2022-08-06 |
 | [ถ้าพี่ยังว่างอยู่..\. \(Come to be mine\) \- Special Track](https://open.spotify.com/track/29o0NtvmnO9LqXA3SLBAzp) | [THI\-O&TUTOR](https://open.spotify.com/artist/0iQRr3ewj0oFUnhccKmx0b) | [ถ้าพี่ยังว่างอยู่..\. \(Come to be mine\) \[Special Track\]](https://open.spotify.com/album/2aWjMiLMRKZDM2sytFHuVZ) | 3:54 | 2023-05-26 | 2023-06-02 |
-| [ถ้ามันคือเรื่องจริง \(Imagine\)](https://open.spotify.com/track/2vMyzG2h4OtF5iC5FB3JWW) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Ready or Not?](https://open.spotify.com/album/0e5GwPIz7IVwz7YLKPpgKn) | 3:52 | 2022-05-26 |  |
+| [ถ้ามันคือเรื่องจริง \(Imagine\)](https://open.spotify.com/track/2vMyzG2h4OtF5iC5FB3JWW) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Ready or Not?](https://open.spotify.com/album/0e5GwPIz7IVwz7YLKPpgKn) | 3:52 | 2022-05-26 | 2023-08-08 |
 | [ถ้าเธอ feat\. Violette Wautier](https://open.spotify.com/track/2bGK8OZkr2IH4XHFMWS3CZ) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ถ้าเธอ](https://open.spotify.com/album/5ZyBwGsykmsxmxk8qNu7pD) | 3:19 | 2022-05-26 | 2022-08-26 |
 | [ถ้าเธอจะรักก็รักไปนานแล้ว](https://open.spotify.com/track/0n325RDOa9owgXvUtuxlO7) | [GoyNattyDream](https://open.spotify.com/artist/3FkXFqPqFF7nZgNTAYXBFU) | [ถ้าเธอจะรักก็รักไปนานแล้ว](https://open.spotify.com/album/7IGF03KO1vRanMOaROicVI) | 3:44 | 2022-12-01 | 2023-04-13 |
 | [ถ้าเธอรักฉันจริง](https://open.spotify.com/track/2vA7CHG08LDzeMDAuPnUQg) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ถ้าเธอรักฉันจริง](https://open.spotify.com/album/1bDTHuznOFJ3s3fZEqEaGp) | 4:00 | 2022-05-26 | 2022-08-26 |
@@ -192,6 +192,7 @@
 | [บานปลาย \(best wishes\)](https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [บานปลาย \(best wishes\)](https://open.spotify.com/album/6xoyq8b2PH5uBwTw6ppCbA) | 4:49 | 2022-05-26 |  |
 | [ปล่อยจอย](https://open.spotify.com/track/0PYR1D4eAi0k2fTDQZ019S) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1), [Pimma PiXXiE](https://open.spotify.com/artist/0ZhLq2xUkUlc3YPuoWa6SE) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 3:28 | 2022-08-18 | 2023-07-22 |
 | [ปังปัง \(Unit Grande\)](https://open.spotify.com/track/4FSpUOfa8dLaT6hULA1W23) | [The Glass Girls](https://open.spotify.com/artist/72q461mIuWFuDIMTys5Als) | [ปังปัง \(Unit Grande\)](https://open.spotify.com/album/0ddQPOtTCIt3kMku9b0muZ) | 3:02 | 2023-06-01 | 2023-06-09 |
+| [ปิดทองหลังใจ](https://open.spotify.com/track/2Zt8K9ax9jiyUd0cDFCefJ) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ปิดทองหลังใจ](https://open.spotify.com/album/4COwnk7FKBbscPxGfLRbXy) | 3:11 | 2023-08-07 |  |
 | [ปีนไม่ไหว \- From Future วิศวะสุดหล่อกับคุณหมอของผม](https://open.spotify.com/track/4afl2R8ZC6lk3CUKkhD6dm) | [Bever Patsapon](https://open.spotify.com/artist/4OV6Ord5kzWXZC2agBXlXK) | [ปีนไม่ไหว \(From Future วิศวะสุดหล่อกับคุณหมอของผม\)](https://open.spotify.com/album/4vOVnGAxp6ml513x1Ee4p0) | 3:36 | 2023-02-23 | 2023-03-03 |
 | [ผิดหน้าที่ \(Responsibility\)](https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF), [Aheye of 4EVE](https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u) | [ผิดหน้าที่ \(Responsibility\) \[feat\. Aheye of 4EVE\]](https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p) | 3:13 | 2023-05-10 |  |
 | [ผ่านตา \(Everyday\)](https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ผ่านตา \(Everyday\)](https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU) | 3:21 | 2022-05-26 | 2022-08-26 |

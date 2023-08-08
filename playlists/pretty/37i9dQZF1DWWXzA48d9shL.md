@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > The home of dark trap\. Rap from hell\. Cover: do not resurrect
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,718 likes - 100 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,057 likes - 100 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [JDM DRIFT EDIT VERY TRENDY HOUSE PHONK!](https://open.spotify.com/track/76arGa0Ye5GwQi0uu1obxs) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [THE EVIL IN WHICH WE THRIVE](https://open.spotify.com/album/4wyNKVTIw6NZbpgvWuXlQg) | 2:17 |
 | 100 | [Situation](https://open.spotify.com/track/54s3N71zDs0M9HBPc5SEAK) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [GREAF](https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP) | [Situation](https://open.spotify.com/album/6iMDmTkNA9LyQyaGbdfyBt) | 1:48 |
 
-Snapshot ID: `MCxmNGY3MjBiMTMzMTA2YzIxOWY0Y2YzYzA3NzFhNGQzNzM5MTY3MGNl`
+Snapshot ID: `MCwzNmJkMzE4Yzg0Y2ZmNjM3M2E2OTY2NmQ1NTlhNGZmOTM1Mjg0OGNm`

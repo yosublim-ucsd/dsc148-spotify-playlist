@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1689,
+  "num_followers": 1688,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDI2MDNmYWM0NDM0OTZmYTAxNDQxOGY5Y2IxZDRkZWJmMTU2NGRi",
+  "snapshot_id": "MCxiYmM5NDk3YzViZTA0NzBiMTI1MThlOTEyNzcyMzFjYjNiODQyMjlj",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -211,26 +211,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "50th Anniversary Collection (Vol. 2)",
-        "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
-      },
-      "artists": [
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        },
-        {
-          "name": "Vic Schoen & His Orchestra",
-          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Straighten Up And Fly Right - Single Version",
-      "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 178440,
       "name": "It's A Blue World",
       "url": "https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "50th Anniversary Collection (Vol. 2)",
+        "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
+      },
+      "artists": [
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        },
+        {
+          "name": "Vic Schoen & His Orchestra",
+          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Straighten Up And Fly Right - Single Version",
+      "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -317,6 +317,22 @@
       "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
     },
     {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Anthology: 1931 - 1968",
+        "url": "https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo"
+      },
+      "artists": [
+        {
+          "name": "The Mills Brothers",
+          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
+        }
+      ],
+      "duration_ms": 168600,
+      "name": "Nevertheless (I'm In Love With You)",
+      "url": "https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak"
+    },
+    {
       "added_at": "2022-03-28 19:29:09",
       "album": {
         "name": "16 Most Requested Songs",
@@ -347,22 +363,6 @@
       "duration_ms": 185200,
       "name": "Teach Me Tonight",
       "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Anthology: 1931 - 1968",
-        "url": "https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo"
-      },
-      "artists": [
-        {
-          "name": "The Mills Brothers",
-          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
-        }
-      ],
-      "duration_ms": 168600,
-      "name": "Nevertheless (I'm In Love With You)",
-      "url": "https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-03-28 19:29:09",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
-      },
-      "artists": [
-        {
-          "name": "The Four Lads",
-          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Standing On the Corner",
-      "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
-    },
-    {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
         "name": "The Amazing Ames Brothers",
         "url": "https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP"
       },
@@ -483,22 +467,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "May You Always",
-      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Board Of Directors",
         "url": "https://open.spotify.com/album/7cgj7WQBm6SlACUXiJR3lH"
       },
@@ -515,6 +483,22 @@
       "duration_ms": 208052,
       "name": "(Up A) Lazy River",
       "url": "https://open.spotify.com/track/2tdciiLh3jZSzWBXaxo5oH"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
+      },
+      "artists": [
+        {
+          "name": "The Four Lads",
+          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Standing On the Corner",
+      "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -535,18 +519,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Best Of The Ames",
-        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
       },
       "artists": [
         {
-          "name": "The Ames Brothers",
-          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
         }
       ],
-      "duration_ms": 166520,
-      "name": "Rag Mop",
-      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
+      "duration_ms": 178066,
+      "name": "May You Always",
+      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -611,6 +595,22 @@
       "duration_ms": 156733,
       "name": "I'm Forever Blowing Bubbles",
       "url": "https://open.spotify.com/track/5UhPIWJk8x5YuzoXelnfQi"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Best Of The Ames",
+        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
+      },
+      "artists": [
+        {
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+        }
+      ],
+      "duration_ms": 166520,
+      "name": "Rag Mop",
+      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -695,6 +695,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
+      },
+      "artists": [
+        {
+          "name": "The Dinning Sisters",
+          "url": "https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Love On A Greyhound Bus",
+      "url": "https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "Best Of The Four Coins",
         "url": "https://open.spotify.com/album/5QpanrSfnut4MbnbG8ryH9"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 159666,
       "name": "Give Me Time",
       "url": "https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
-      },
-      "artists": [
-        {
-          "name": "The Dinning Sisters",
-          "url": "https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Love On A Greyhound Bus",
-      "url": "https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C"
     },
     {
       "added_at": "2020-08-17 22:49:59",
