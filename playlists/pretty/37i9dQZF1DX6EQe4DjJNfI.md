@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: YOÚN
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,101 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,118 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 36 | [Ligação](https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA) | [Meraki](https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs), [BlakkLança](https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo), [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX) | [Ligação](https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG) | 3:29 |
 | 37 | [Meu Bem](https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i) | [Fanieh](https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN) | [Meu Bem](https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h) | 3:04 |
 | 38 | [Nessa Vida](https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Nessa Vida](https://open.spotify.com/album/5SivaxB405MCGeZroyNpza) | 3:09 |
-| 39 | [Novela](https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Novela](https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh) | 2:24 |
-| 40 | [Tempo pra Perder](https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Tempo pra Perder](https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF) | 3:14 |
+| 39 | [Tempo pra Perder](https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Tempo pra Perder](https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF) | 3:14 |
+| 40 | [Novela](https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Novela](https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh) | 2:24 |
 | 41 | [Censura e Prazer](https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Nael](https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Censura e Prazer](https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog) | 3:55 |
 | 42 | [Troco](https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Troco](https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V) | 2:39 |
 | 43 | [Volta](https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY), [Briozzini](https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj) | [Volta](https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL) | 3:24 |
-| 44 | [Nada Mais](https://open.spotify.com/track/5FU7Bcnvd27SxFstEF8Cp0) | [Yas Werneck](https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2) | [Nada Mais](https://open.spotify.com/album/5WXB15pFJ00Wvh3eTPOHku) | 2:57 |
-| 45 | [A Nossa Brisa](https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy) | [Concê](https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE) | [Lunar](https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf) | 1:55 |
+| 44 | [A Nossa Brisa](https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy) | [Concê](https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE) | [Lunar](https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf) | 1:55 |
+| 45 | [Nada Mais](https://open.spotify.com/track/5FU7Bcnvd27SxFstEF8Cp0) | [Yas Werneck](https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2) | [Nada Mais](https://open.spotify.com/album/5WXB15pFJ00Wvh3eTPOHku) | 2:57 |
 | 46 | [Versão Beta](https://open.spotify.com/track/4zFUgRg9wz4ASTEwP7iLGw) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [PNDA](https://open.spotify.com/artist/6DYuSFwiyWFr9HE1BBOYWI) | [Versão Beta](https://open.spotify.com/album/1I8UNZ5kbxS30jr20UUDrL) | 2:13 |
 | 47 | [Tudo Que Restou](https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA), [UGOTZ](https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625) | [Tudo Que Restou](https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK) | 3:18 |
 | 48 | [Quem Vai Fazer Você Feliz?](https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8), [Nath Audizio](https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK) | [Quem Vai Fazer Você Feliz?](https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB) | 4:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Abstinência](https://open.spotify.com/track/04Zcj7MnHdpx5LVNa6qFQs) | [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC), [Ceejay](https://open.spotify.com/artist/153LZ8U45hIJBW9o1yu7sG), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG) | [Abstinência](https://open.spotify.com/album/0tGnNmRjiCEXAX6toKmFVO) | 2:48 |
 | 75 | [Santa Melanina](https://open.spotify.com/track/3ztQ8cprZjCh4UhtAKY5Be) | [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB) | [Santa Melanina](https://open.spotify.com/album/0sqwjwOQEBlX0qs2oQizgT) | 2:21 |
 
-Snapshot ID: `MCxkNjE0MjNlNzZlN2I0MmNhNDA0OGViNjBjNzBjMjljYTViNzVhNWQ1`
+Snapshot ID: `MCxjY2IyYzBhZjNiODk3MWMxMzM4NjZjODY3ZjgzYWE4ODVmNzQ2ODZl`

@@ -4,7 +4,7 @@
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-157 songs - 10 hr 31 min
+158 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Hip Trolley](https://open.spotify.com/track/45ePywU8XC3cgimQXcmFjj) | [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Business Meetin'](https://open.spotify.com/album/12mokBkX13WcFkEly5Hg9m) | 5:25 | 2022-10-11 | 2022-11-02 |
 | [Holiday Flight](https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Surf Ride](https://open.spotify.com/album/3nuRA3ud7z6UosGSYiQpEy) | 3:11 | 2021-12-16 |  |
 | [Honeysuckle Rose](https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 3:50 | 2022-10-12 |  |
+| [Hope](https://open.spotify.com/track/61MTLrkxDy0A3GyGC13flH) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Hope](https://open.spotify.com/album/1sYm78ZyaQtJESPtajIdze) | 3:01 | 2023-08-08 |  |
 | [Hurricane Connie](https://open.spotify.com/track/07sXOnILWyZPlqJY2faLm0) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:16 | 2022-01-13 | 2022-11-13 |
 | [I Ain't Got Nobody](https://open.spotify.com/track/1mYU1xNK2THM44DpukZGY4) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Capitol Collector's Series](https://open.spotify.com/album/0L3a0HwsJSOR0dARdZuWzs) | 2:24 | 2022-01-13 | 2023-01-12 |
 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:47 | 2021-12-16 | 2023-02-02 |
@@ -114,7 +115,7 @@
 | [On The Street Where You Live](https://open.spotify.com/track/2BbC6eZK6RJE3hYuMGZELY) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'/Pretty Baby](https://open.spotify.com/album/6GiiT8KIGNmVRdVM7uabcq) | 3:43 | 2021-12-16 | 2022-07-29 |
 | [On The Street Where You Live \- 1998 Remaster](https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:41 | 2022-06-28 |  |
 | [On The Sunny Side Of The Street](https://open.spotify.com/track/3dnr2FigpqoQ7pNA4EKtp3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Ella And Basie](https://open.spotify.com/album/752AJr22BFy9yubj4XJauv) | 3:04 | 2022-05-25 |  |
-| [On the Sunny Side of the Street](https://open.spotify.com/track/1oUUEvFBplfRbVwMkp8v8Z) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Peggy Lee \- The Great American Songbook](https://open.spotify.com/album/2dKw7DRG9yxRdn0v02p8q7) | 3:13 | 2021-12-16 |  |
+| [On the Sunny Side of the Street](https://open.spotify.com/track/1oUUEvFBplfRbVwMkp8v8Z) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Peggy Lee \- The Great American Songbook](https://open.spotify.com/album/2dKw7DRG9yxRdn0v02p8q7) | 3:13 | 2021-12-16 | 2023-08-09 |
 | [One Day I Fly Away](https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i) | [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Creole Love Call](https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn) | 4:00 | 2021-12-16 | 2022-09-15 |
 | [Oops!](https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Cheek To Cheek: The Complete Duet Recordings](https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX) | 3:11 | 2021-12-16 |  |
 | [Paul's Pal \- Rudy Van Gelder Remaster](https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 5:09 | 2021-12-16 |  |

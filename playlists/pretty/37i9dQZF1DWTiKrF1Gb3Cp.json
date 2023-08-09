@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 156926,
+  "num_followers": 156999,
   "original_name": "Gaming Malandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDVkYTA3MDI5NzZmZGYwYTA1OTdlNzBjMjA4OWZjY2JjNzVmZTk1",
+  "snapshot_id": "MCw3ZWQ1MDIzYjJkODMwMjFlYjBkNTJmOGFmZTJlOTA1M2E2NmYwMzFl",
   "tracks": [
     {
       "added_at": "2023-07-28 20:09:33",
@@ -499,42 +499,6 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "Adentro de la Disco (feat. Myke Towers)",
-        "url": "https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 192720,
-      "name": "Adentro de la Disco (feat. Myke Towers)",
-      "url": "https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
-        "name": "aPoLLo13",
-        "url": "https://open.spotify.com/album/5L3TaonVe9Z6ZF2HtoKcvE"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 160547,
-      "name": "aPoLLo13",
-      "url": "https://open.spotify.com/track/0DxzhQolKK8fd3y0BAAbf4"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
         "name": "Ojos Tumbados",
         "url": "https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9"
       },
@@ -563,6 +527,42 @@
       "duration_ms": 262720,
       "name": "Ojos Tumbados",
       "url": "https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "aPoLLo13",
+        "url": "https://open.spotify.com/album/5L3TaonVe9Z6ZF2HtoKcvE"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 160547,
+      "name": "aPoLLo13",
+      "url": "https://open.spotify.com/track/0DxzhQolKK8fd3y0BAAbf4"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "Adentro de la Disco (feat. Myke Towers)",
+        "url": "https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 192720,
+      "name": "Adentro de la Disco (feat. Myke Towers)",
+      "url": "https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/1ZGckR4LGjk5EYMRZ4Oe1A"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Zapata",
-          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
-        }
-      ],
-      "duration_ms": 239397,
-      "name": "Soy De Barrio",
-      "url": "https://open.spotify.com/track/10t8iyVRX6hcfb09NVPqQE"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
         "name": "Nosotros Somos la Under Side Karnal",
         "url": "https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL"
       },
@@ -1631,26 +1615,6 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "16 Toneladas",
-        "url": "https://open.spotify.com/album/38IwbkRgxq4eMIAR6MLU8j"
-      },
-      "artists": [
-        {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 206726,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
         "name": "B\u00c9LICO",
         "url": "https://open.spotify.com/album/4o8vodKZQFyHtS6sYuiFtd"
       },
@@ -1667,6 +1631,26 @@
       "duration_ms": 228979,
       "name": "B\u00c9LICO",
       "url": "https://open.spotify.com/track/2m0rgXMm37XwkwjDM5QLBv"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "16 Toneladas",
+        "url": "https://open.spotify.com/album/38IwbkRgxq4eMIAR6MLU8j"
+      },
+      "artists": [
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 206726,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1979,22 +1963,6 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "El Ni\u00f1o Malo",
-        "url": "https://open.spotify.com/album/6OmiJphcmCFieKGQbR2R8Z"
-      },
-      "artists": [
-        {
-          "name": "El Moreno Mexicano",
-          "url": "https://open.spotify.com/artist/0MGiXwNhSs1mRuy31cgvNz"
-        }
-      ],
-      "duration_ms": 183353,
-      "name": "El Ni\u00f1o Malo",
-      "url": "https://open.spotify.com/track/3IH0tYPSKOwcFnFwQ9t0iU"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
         "name": "Round 6",
         "url": "https://open.spotify.com/album/49NfXDDECqeg5BjGp7HD0W"
       },
@@ -2011,6 +1979,22 @@
       "duration_ms": 216750,
       "name": "Round 6",
       "url": "https://open.spotify.com/track/2fqcMU5Y5HnqPYj4p47Kcz"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "El Ni\u00f1o Malo",
+        "url": "https://open.spotify.com/album/6OmiJphcmCFieKGQbR2R8Z"
+      },
+      "artists": [
+        {
+          "name": "El Moreno Mexicano",
+          "url": "https://open.spotify.com/artist/0MGiXwNhSs1mRuy31cgvNz"
+        }
+      ],
+      "duration_ms": 183353,
+      "name": "El Ni\u00f1o Malo",
+      "url": "https://open.spotify.com/track/3IH0tYPSKOwcFnFwQ9t0iU"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -2043,6 +2027,22 @@
       "duration_ms": 188181,
       "name": "Followers",
       "url": "https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "Activados y Prendidos",
+        "url": "https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj"
+      },
+      "artists": [
+        {
+          "name": "Santa Estilo",
+          "url": "https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG"
+        }
+      ],
+      "duration_ms": 175186,
+      "name": "Activados y Prendidos",
+      "url": "https://open.spotify.com/track/4AvpUGiEn0d9HQEPuvC7gt"
     }
   ],
   "unique_name": "Gaming Malandro",

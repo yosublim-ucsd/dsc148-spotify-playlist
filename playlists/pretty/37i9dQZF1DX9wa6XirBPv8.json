@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1573587,
+  "num_followers": 1574103,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTI4YjI4ZWJlYjFjOGRmOTNiYTBhYTU5MDcyOWQ3YmFkYTFkNzc5",
+  "snapshot_id": "MCw4NGJjMGQwMWVlMTY3NDA4NGZlYWE0YWYwOGJjNWI2YWQ2OTNhZTg4",
   "tracks": [
     {
       "added_at": "2023-07-25 14:04:38",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
-        "name": "Instant Gratification",
-        "url": "https://open.spotify.com/album/75Z98z7kl42oWcT0UvtO6e"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "We Own The Night",
-      "url": "https://open.spotify.com/track/4rc2WNOt2w8BHfQjBC8PO0"
-    },
-    {
-      "added_at": "2023-07-25 14:04:38",
-      "album": {
         "name": "A Fever You Can't Sweat Out",
         "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 200226,
       "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
       "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
+    },
+    {
+      "added_at": "2023-07-25 14:04:38",
+      "album": {
+        "name": "Instant Gratification",
+        "url": "https://open.spotify.com/album/75Z98z7kl42oWcT0UvtO6e"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "We Own The Night",
+      "url": "https://open.spotify.com/track/4rc2WNOt2w8BHfQjBC8PO0"
     },
     {
       "added_at": "2023-07-25 14:04:38",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
-        "name": "Dear Diary, My Teen Angst Has A Body Count",
-        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 233762,
-      "name": "Note to Self",
-      "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
-    },
-    {
-      "added_at": "2023-07-25 14:04:38",
-      "album": {
         "name": "From Here to Infirmary",
         "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 143533,
       "name": "Stupid Kid",
       "url": "https://open.spotify.com/track/504aMSptpjhMNdtYvbXzjv"
+    },
+    {
+      "added_at": "2023-07-25 14:04:38",
+      "album": {
+        "name": "Dear Diary, My Teen Angst Has A Body Count",
+        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "duration_ms": 233762,
+      "name": "Note to Self",
+      "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
     },
     {
       "added_at": "2023-07-25 14:04:38",

@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Micha en portada.",
-  "num_followers": 936,
+  "num_followers": 957,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTMxZmY2N2UwM2Y5YTRmYTdjNDAwNDA0ZGI1NzA4ZTdjMTE4NzQx",
+  "snapshot_id": "MCxlYTE3ZGVjMmNjZTY1ZGEzNjEyZDQwOGM1MzA4ZGE0ODNmY2IxYmFm",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -179,26 +179,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Summer Love",
-        "url": "https://open.spotify.com/album/01IAYbljle6TGDD5me0n6Z"
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu"
       },
       "artists": [
         {
-          "name": "Osmani Garcia \"La Voz\"",
-          "url": "https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo"
-        },
-        {
-          "name": "Julian Marley",
-          "url": "https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv"
-        },
-        {
-          "name": "Crawba Genius",
-          "url": "https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf"
+          "name": "Wow Popy",
+          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Summer Love",
-      "url": "https://open.spotify.com/track/5Lyk3rilywbopCieapkohG"
+      "duration_ms": 219333,
+      "name": "Abr\u00e1zame Muy Fuerte - Prod. by Dj Cham",
+      "url": "https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -219,18 +211,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu"
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/01IAYbljle6TGDD5me0n6Z"
       },
       "artists": [
         {
-          "name": "Wow Popy",
-          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+          "name": "Osmani Garcia \"La Voz\"",
+          "url": "https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo"
+        },
+        {
+          "name": "Julian Marley",
+          "url": "https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv"
+        },
+        {
+          "name": "Crawba Genius",
+          "url": "https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf"
         }
       ],
-      "duration_ms": 219333,
-      "name": "Abr\u00e1zame Muy Fuerte - Prod. by Dj Cham",
-      "url": "https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG"
+      "duration_ms": 249000,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/5Lyk3rilywbopCieapkohG"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH"
+      },
+      "artists": [
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Calentando la Habana",
+      "url": "https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "No Mas Mentiras (Remix)",
         "url": "https://open.spotify.com/album/30vjNDLhlQGEKeKzeFvvb8"
       },
@@ -959,18 +975,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH"
+        "name": "Toxica",
+        "url": "https://open.spotify.com/album/50hq1KRf3UZf4dgnoS9rpO"
       },
       "artists": [
         {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
         }
       ],
-      "duration_ms": 253714,
-      "name": "Calentando la Habana",
-      "url": "https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf"
+      "duration_ms": 231250,
+      "name": "Toxica",
+      "url": "https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 201365,
       "name": "Te Quiero Pa' Mi",
       "url": "https://open.spotify.com/track/6f1iOMpbJFItdBug6CepDl"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Toxica",
-        "url": "https://open.spotify.com/album/50hq1KRf3UZf4dgnoS9rpO"
-      },
-      "artists": [
-        {
-          "name": "Wampi",
-          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
-        }
-      ],
-      "duration_ms": 231250,
-      "name": "Toxica",
-      "url": "https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1"
     },
     {
       "added_at": "2023-08-04 04:00:00",

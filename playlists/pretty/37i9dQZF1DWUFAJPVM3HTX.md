@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Bea Anderson\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,202 likes - 185 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,289 likes - 185 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 184 | [787](https://open.spotify.com/track/2xlspjY2EDUBuPc7qVLY74) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [787](https://open.spotify.com/album/70jmIcCLlaaPqiMZcAsMyG) | 2:49 |
 | 185 | [Feelings](https://open.spotify.com/track/2gFQRVxsRB99l3zz7Bd8Ua) | [Dre Scot](https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1) | [Feelings](https://open.spotify.com/album/2cMhlYR6U9pHXCAoXsF8uh) | 3:22 |
 
-Snapshot ID: `MCxlMGU2ZWJlZTYyOWNmZWU2OWNmNzVlZDgxYjgzZTkwNjI4YzcyOWNh`
+Snapshot ID: `MCw1NjFjZmU2MWY1MzFmZGEzZjgyMTc3NTc2NjYyYjRmMGY5YTNkMjNi`

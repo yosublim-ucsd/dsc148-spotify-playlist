@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Pabllo Vittar
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,615 likes - 84 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,637 likes - 84 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 36 | [te querer tanto](https://open.spotify.com/track/7HCySDV7Q42M952pkZjUmn) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [KARUMA](https://open.spotify.com/album/5UBuUGbxBmntnQLvkJNg1i) | 2:36 |
 | 37 | [Passarinho](https://open.spotify.com/track/0p1slIKTqrmSudYxd6XUP8) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Passarinho](https://open.spotify.com/album/6hNdkT4xZMvF9z6IR2ZnKa) | 2:37 |
 | 38 | [que pasa cntg?](https://open.spotify.com/track/2w39P6mpknbYougEyLm4la) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [que pasa cntg?](https://open.spotify.com/album/4dt9o9LvRQyYQOTgo6qX5F) | 4:32 |
-| 39 | [Quanto + Vida Melhor](https://open.spotify.com/track/5M7lhKC3A4k50x2cQMfzCt) | [Robson Sá](https://open.spotify.com/artist/1xtDLOFghpcmOKK9rW5lPh) | [Quanto + Vida Melhor](https://open.spotify.com/album/5H9q5IocriQT6sVtDsWrQL) | 2:42 |
+| 39 | [Vida Melhor](https://open.spotify.com/track/5M7lhKC3A4k50x2cQMfzCt) | [Robson Sá](https://open.spotify.com/artist/1xtDLOFghpcmOKK9rW5lPh) | [Vida Melhor](https://open.spotify.com/album/5H9q5IocriQT6sVtDsWrQL) | 2:42 |
 | 40 | [Coração Solto](https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 2:21 |
 | 41 | [Não Sou De Me Entregar](https://open.spotify.com/track/0tCFKbw0cXe0TIa8PzQgc0) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [Não Sou De Me Entregar](https://open.spotify.com/album/7nR8G0opjRd3AAtzkv3qbr) | 4:02 |
 | 42 | [Flash Volta](https://open.spotify.com/track/4r7ilX64LXTk5UvuWLHmSB) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Flash Volta](https://open.spotify.com/album/39fDCFXtRgcnedsjihJAGa) | 2:58 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 83 | [MUITA BAD pouca idade](https://open.spotify.com/track/459PsIi4TO1buNPxyuTWa4) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [MUITA BAD pouca idade](https://open.spotify.com/album/4l9naBe0iq14BJEmi2ItLw) | 3:08 |
 | 84 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Desculpa por Eu Não Te Amar](https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z) | 3:06 |
 
-Snapshot ID: `MCxjNmZjYmUwMWZiMGU5YTNiOThmMGQ1Nzg0ZDAwOTIyZGM5YzVmZDFm`
+Snapshot ID: `MCwwNjQzMWFmNWEwYWNmN2ZlNzYyMjNjYzAyODg0NjM4MmM1YWU4OGQ3`

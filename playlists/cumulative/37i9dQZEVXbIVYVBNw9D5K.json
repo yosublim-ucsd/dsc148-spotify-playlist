@@ -976,7 +976,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 162354,
       "name": "An\u0131lar\u0131 Yak",
       "url": "https://open.spotify.com/track/46f5m73YzI227nseI9LquF"
@@ -4310,10 +4310,28 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 170666,
       "name": "Enerci",
       "url": "https://open.spotify.com/track/3a8mVeic6p5DdMSbsQXWIx"
+    },
+    {
+      "album": {
+        "name": "Enerci",
+        "url": "https://open.spotify.com/album/77TNiOGd3L1H8lCmJUkTQK"
+      },
+      "artists": [
+        {
+          "name": "Roe571",
+          "url": "https://open.spotify.com/artist/5paVawWdXR8wsHrEMDMoA8"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170737,
+      "name": "Enerci",
+      "url": "https://open.spotify.com/track/6OwX9jzYTrJESYoPid6aLN"
     },
     {
       "album": {
@@ -10948,7 +10966,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 196800,
       "name": "Saklad\u0131\u011f\u0131n Bir \u015eeyler Var",
       "url": "https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk"

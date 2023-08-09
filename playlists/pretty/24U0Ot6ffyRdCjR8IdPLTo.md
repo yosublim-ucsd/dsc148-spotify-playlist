@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-[Topsify](https://open.spotify.com/user/topsify) - 11,353 likes - 54 songs - 2 hr 51 min
+[Topsify](https://open.spotify.com/user/topsify) - 11,354 likes - 54 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 | 29 | [Forget](https://open.spotify.com/track/4P02fYUDA6IzpVKElRnAcq) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Forget](https://open.spotify.com/album/3YwwkGzEWWOOqZBkBeGPx8) | 3:30 |
 | 30 | [Good Stuff \- Babeheaven Remix](https://open.spotify.com/track/29TjpLNz9eidzNIFDIwovJ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Good Stuff \(Babeheaven Remix\)](https://open.spotify.com/album/4o8zvIc25D4Tv7UiqThv3D) | 4:00 |
 | 31 | [Darker Place](https://open.spotify.com/track/5fUzMvyRsUklP0Pdmsh9Mz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Darker Place](https://open.spotify.com/album/1kyPhLSGgMempOXgJEc9s5) | 2:48 |
-| 32 | [Jessie \(I Miss You\)](https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jessie \(i miss you\)](https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ) | 3:17 |
+| 32 | [Jessie \(i miss you\)](https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jessie \(i miss you\)](https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ) | 3:17 |
 | 33 | [Bloom](https://open.spotify.com/track/1vGFOOd7NzeCTelqswObyv) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Bloom](https://open.spotify.com/album/01Oe3NfT6v6KaaopGCIcE8) | 3:52 |
 | 34 | [Fall Apart](https://open.spotify.com/track/5tT058LyJehDH10hhwMdrE) | [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Fall Apart](https://open.spotify.com/album/7tsyXOh3p1VqqWOQfqX9PY) | 2:46 |
 | 35 | [Sweet awakening](https://open.spotify.com/track/45RSaYVNGZhdpjbqcAukYI) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Sweet awakening](https://open.spotify.com/album/70o5ugYfbITvPVG1mKgSRl) | 2:35 |

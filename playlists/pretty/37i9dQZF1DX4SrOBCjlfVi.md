@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Doja Cat, Cordae and more\. Cover: Kalan FrFr & Tyga
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,975 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,040 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 33 | [ONLY FANS](https://open.spotify.com/track/493bo0JRXNe100o1oxswNz) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [ONLY FANS](https://open.spotify.com/album/6TyazNC4sGL6mlQ1vkfih5) | 2:17 |
 | 34 | [Please Don't Go](https://open.spotify.com/track/5gBfzyPlfJCOq7uUF9IOA0) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Cheekychizzy](https://open.spotify.com/artist/5z6nZumE4lrnP3Nqcqdhz1) | [Please Don't Go](https://open.spotify.com/album/5v7R0bfnMmiFhqkGFGpIFm) | 2:28 |
 | 35 | [Solo](https://open.spotify.com/track/5CrRKZJNYgUk58YSvp1RHj) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [Solo](https://open.spotify.com/album/2bkIo96lDrUvlbnp6blCPX) | 3:12 |
-| 36 | [Pimp Problems](https://open.spotify.com/track/2sQNGOxvrF4WrS8KZykAci) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Who Is Fatt](https://open.spotify.com/album/3qsgJ7DqZ9dqgblDMea5KR) | 1:50 |
+| 36 | [Pimp Problems](https://open.spotify.com/track/46yfBnOHB1Nhxn4rtVAJ25) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Who Is Fatt](https://open.spotify.com/album/0Yp9JLAZRcOgHNQj0s0c5X) | 1:50 |
 | 37 | [Bent](https://open.spotify.com/track/6ulEymrJ2Azx1uo3YHSE5w) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Bent](https://open.spotify.com/album/1lzWtPTZrL3ZE1oagDJgvL) | 2:50 |
 | 38 | [It's Only Money](https://open.spotify.com/track/0vzGKkHQRSyUTE9LoJpjBg) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [It's Only Money](https://open.spotify.com/album/64qOzX9GbKU3KFhz3pLlhj) | 2:48 |
 | 39 | [Young N Ballin](https://open.spotify.com/track/1QETh5EvUaSiP8pTPae2nx) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Young N Ballin](https://open.spotify.com/album/2cg1SoMchr2qACkcpRyQlI) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Got Yo Wingz](https://open.spotify.com/track/6EqyEmLrxlmEB1iBxRVMjZ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Got Yo Wingz](https://open.spotify.com/album/4jdQt9s1NisPjtryGLSzqa) | 2:35 |
 | 50 | [Motion](https://open.spotify.com/track/43xk74ljarl0Ac73TxxXFm) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Motion](https://open.spotify.com/album/1qxKTielQitxvspLsPgHuR) | 2:49 |
 
-Snapshot ID: `MCxmNzg2YmY1MjEwNWNmOTJjZDg4NTIzMjljYmE3MTQ4MDI3OTZhYzc0`
+Snapshot ID: `MCxjMzFjYTZkYzI1NWJjZmQxMDFkY2JlY2ZmYzZiZjFjNGIwOTNiMTkx`

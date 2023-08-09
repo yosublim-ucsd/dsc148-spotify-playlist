@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 182800,
       "name": "Little Record Girl",
       "url": "https://open.spotify.com/track/5K467049SloeEJHvMhJDcl"
@@ -4316,6 +4316,24 @@
       "duration_ms": 220586,
       "name": "What You Don't Do",
       "url": "https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF"
+    },
+    {
+      "album": {
+        "name": "World Worth Keeping",
+        "url": "https://open.spotify.com/album/2AELzccIWaEIKBc2WQcu9u"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222105,
+      "name": "World Worth Keeping",
+      "url": "https://open.spotify.com/track/6jpL7VlnzxCkejvdnM3c88"
     },
     {
       "album": {

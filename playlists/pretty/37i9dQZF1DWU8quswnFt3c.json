@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: P!nk",
-  "num_followers": 916019,
+  "num_followers": 915988,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2JlY2EyMDZhZjNiZWQ3ZmNlMTM1MTM5NWMzNmJhMWVlYTc1NGQx",
+  "snapshot_id": "MCw4OTUzYzY0NzNhNjc3NmQzODliMzIyODdmODQxNmNhNzY5MDA0Y2Rk",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "C'est toi",
-        "url": "https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        }
-      ],
-      "duration_ms": 131480,
-      "name": "C'est toi",
-      "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Udh Di Phiran",
         "url": "https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 221538,
       "name": "Udh Di Phiran",
       "url": "https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "C'est toi",
+        "url": "https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 131480,
+      "name": "C'est toi",
+      "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "No Days Off",
-        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 195668,
-      "name": "No Days Off",
-      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Piango In Discoteca",
         "url": "https://open.spotify.com/album/1anbRiJBO8gwQigkTZrtQD"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 199845,
       "name": "Piango In Discoteca",
       "url": "https://open.spotify.com/track/3Pc1M4PKxL8LhZ6nDMLAWJ"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 195668,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Qu\u00e9 Iron\u00eda",
+        "url": "https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 267445,
+      "name": "Qu\u00e9 Iron\u00eda",
+      "url": "https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "Faz Assim",
         "url": "https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 217263,
       "name": "Faz Assim",
       "url": "https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Qu\u00e9 Iron\u00eda",
-        "url": "https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 267445,
-      "name": "Qu\u00e9 Iron\u00eda",
-      "url": "https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Flori de mai",
-        "url": "https://open.spotify.com/album/1h4LGuEHf8r8ZXTpCHh2dP"
-      },
-      "artists": [
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Flori de mai",
-      "url": "https://open.spotify.com/track/2Kr1NC1Qs9AzmpFeYFLinJ"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Been You",
         "url": "https://open.spotify.com/album/2MgHTw0DyWDasWLtFtjuuP"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 209833,
       "name": "Been You",
       "url": "https://open.spotify.com/track/6ZdBAy2SQtDt9oHH9bfGrx"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Flori de mai",
+        "url": "https://open.spotify.com/album/1h4LGuEHf8r8ZXTpCHh2dP"
+      },
+      "artists": [
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Flori de mai",
+      "url": "https://open.spotify.com/track/2Kr1NC1Qs9AzmpFeYFLinJ"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -783,6 +783,26 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Cumbiecitas Elegantes",
+        "url": "https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq"
+      },
+      "artists": [
+        {
+          "name": "Diana Burco",
+          "url": "https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 167629,
+      "name": "Cumbiecitas Elegantes",
+      "url": "https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "\u0647\u0630\u0627 \u062d\u0627\u0644\u064a \u0645\u0646 \u0628\u0639\u062f\u0643",
         "url": "https://open.spotify.com/album/0rwewNIHSFnDqe92fZq4Fo"
       },
@@ -819,42 +839,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Solita Solita",
-        "url": "https://open.spotify.com/album/6XNR6JLc1mboTXg8sZTWyM"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 187411,
-      "name": "Solita Solita",
-      "url": "https://open.spotify.com/track/2PGG4xCY4sQfCH4ioOYPs3"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Cumbiecitas Elegantes",
-        "url": "https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq"
-      },
-      "artists": [
-        {
-          "name": "Diana Burco",
-          "url": "https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i"
-        },
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 167629,
-      "name": "Cumbiecitas Elegantes",
-      "url": "https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Talk to Me",
         "url": "https://open.spotify.com/album/5nNGVKoDmVge37bfokdGT9"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 234373,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/3NxWdJMaSiok5lONoykYYh"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Solita Solita",
+        "url": "https://open.spotify.com/album/6XNR6JLc1mboTXg8sZTWyM"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 187411,
+      "name": "Solita Solita",
+      "url": "https://open.spotify.com/track/2PGG4xCY4sQfCH4ioOYPs3"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -915,6 +915,22 @@
       "duration_ms": 195000,
       "name": "\u05e7\u05de\u05d4 \u05d1\u05d1\u05d5\u05e7\u05e8",
       "url": "https://open.spotify.com/track/5q5feyyZOjf67AG8kszaui"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Autodeadma (Solo Version)",
+        "url": "https://open.spotify.com/album/5FsAARRcSyeb62vQ8EDwXH"
+      },
+      "artists": [
+        {
+          "name": "Maymay Entrata",
+          "url": "https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Autodeadma - Solo Version",
+      "url": "https://open.spotify.com/track/0jBT10y68IpZhHIFz9MAx7"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -971,22 +987,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Vas de Salida",
-        "url": "https://open.spotify.com/album/2jkH7HrRTkNWqevE3FgncN"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Vas de Salida",
-      "url": "https://open.spotify.com/track/0YBeV2hlrhGVB6dPItP1ct"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Funkari",
         "url": "https://open.spotify.com/album/7e7NCY6IHKBuyureY3Jges"
       },
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Autodeadma (Solo Version)",
-        "url": "https://open.spotify.com/album/5FsAARRcSyeb62vQ8EDwXH"
+        "name": "Vas de Salida",
+        "url": "https://open.spotify.com/album/2jkH7HrRTkNWqevE3FgncN"
       },
       "artists": [
         {
-          "name": "Maymay Entrata",
-          "url": "https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI"
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 192452,
-      "name": "Autodeadma - Solo Version",
-      "url": "https://open.spotify.com/track/0jBT10y68IpZhHIFz9MAx7"
+      "duration_ms": 182160,
+      "name": "Vas de Salida",
+      "url": "https://open.spotify.com/track/0YBeV2hlrhGVB6dPItP1ct"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1157,22 +1157,6 @@
       "url": "https://open.spotify.com/track/0pl9qoqHfaI6lF57QIBayY"
     },
     {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Y Volviste a Decir Te Amo",
-        "url": "https://open.spotify.com/album/1zuAyb93adWHd6mp1Vy3HG"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 226443,
-      "name": "Y Volviste a Decir Te Amo",
-      "url": "https://open.spotify.com/track/4FcNsNaqbJ9SC1lZyojqRw"
-    },
-    {
       "added_at": "2023-08-02 14:04:23",
       "album": {
         "name": "\u05de\u05e8\u05e7\u05d5\u05e8\u05d9",
@@ -1187,6 +1171,22 @@
       "duration_ms": 203859,
       "name": "\u05de\u05e8\u05e7\u05d5\u05e8\u05d9",
       "url": "https://open.spotify.com/track/3WL2ABZitGrbfWyfqwnVlO"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Y Volviste a Decir Te Amo",
+        "url": "https://open.spotify.com/album/1zuAyb93adWHd6mp1Vy3HG"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 226443,
+      "name": "Y Volviste a Decir Te Amo",
+      "url": "https://open.spotify.com/track/4FcNsNaqbJ9SC1lZyojqRw"
     },
     {
       "added_at": "2023-08-02 04:00:00",

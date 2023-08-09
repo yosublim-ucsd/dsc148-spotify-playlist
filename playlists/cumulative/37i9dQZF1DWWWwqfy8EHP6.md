@@ -4,7 +4,7 @@
 
 > LeeHi's here for you, Hice Creams!
 
-100 songs - 6 hr 14 min
+103 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [FXXK WIT US](https://open.spotify.com/track/7mIL8AaIEk9OeMqMyJBxAF) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [SEOULITE](https://open.spotify.com/album/4p27GsqUEbfl83iPtt0IcI) | 3:37 | 2022-03-14 |  |
 | [FXXK WIT US](https://open.spotify.com/track/2qWgqPdW1OiAP8KSBH1b93) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [SEOULITE](https://open.spotify.com/album/1xnXVzinhfO4I9CzTocPfh) | 3:37 | 2022-03-14 | 2022-07-29 |
 | [Golden Slumbers](https://open.spotify.com/track/6wdG5d2iQpFw2iTw06N4r5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Golden Slumbers \[Original Motion Pictures Soundtrack \(Special Track\)\]](https://open.spotify.com/album/16jwxhrAtCOLPRKmux5PWh) | 2:28 | 2022-03-14 |  |
-| [Good\-bye Baby](https://open.spotify.com/track/6IFxGEgrCftdZp1hnG4PaD) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [K팝 스타 SPECIAL No.3](https://open.spotify.com/album/69L43HwLmbXPx8TNBKkC5x) | 3:39 | 2022-03-14 |  |
+| [Good\-bye Baby](https://open.spotify.com/track/6IFxGEgrCftdZp1hnG4PaD) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [K팝 스타 SPECIAL No.3](https://open.spotify.com/album/69L43HwLmbXPx8TNBKkC5x) | 3:39 | 2022-03-14 | 2023-08-09 |
+| [Good\-bye Baby \(miss A\)](https://open.spotify.com/track/6ap9rFeRE61g7kuhBJ8pSY) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [SBS K팝 스타 SPECIAL No.3](https://open.spotify.com/album/1t65WXM47FhUyoW4qQa2Yr) | 3:39 | 2022-03-14 |  |
 | [H.S.K.T\. \(feat\. Wonstein\)](https://open.spotify.com/track/39382sUtIOwIXftX0i76do) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 3:24 | 2022-03-14 |  |
 | [HAPPEN ENDING \- JAPANESE MIX](https://open.spotify.com/track/2JjuzRm1d3k4W9rv0OKn54) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [LEE HI JAPAN DEBUT ALBUM](https://open.spotify.com/album/6hYSa9oKq0RJ9GXx11vWZi) | 4:23 | 2022-03-14 | 2022-07-29 |
 | [HERE COME THE REGRETS](https://open.spotify.com/track/2rbSrdUEvZvD18pSyqPZVZ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WE'VE DONE SOMETHING WONDERFUL](https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu) | 4:27 | 2022-03-14 |  |
@@ -54,11 +55,13 @@
 | [Intentions](https://open.spotify.com/track/7IN84szmayzO68enmVmKYv) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 3:24 | 2022-03-14 |  |
 | [It's Over](https://open.spotify.com/track/47PAgx8nAijlmCdJtiq2iE) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:54 | 2022-03-14 |  |
 | [It's Over](https://open.spotify.com/track/7KPEU6v0P3DoMiEIgm9BJ7) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S) | 3:54 | 2022-03-14 | 2022-07-29 |
-| [Killing Me Softly with His Song](https://open.spotify.com/track/1rsXKUmP6vYdBm8LvQKZyp) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [K팝 스타 Top 2](https://open.spotify.com/album/4jpc8Az4xiJUoGN1jkafi8) | 2:58 | 2022-03-14 |  |
+| [Killing Me Softly with His Song](https://open.spotify.com/track/1rsXKUmP6vYdBm8LvQKZyp) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [K팝 스타 Top 2](https://open.spotify.com/album/4jpc8Az4xiJUoGN1jkafi8) | 2:58 | 2022-03-14 | 2023-08-09 |
+| [Killing Me Softly with His Song \(The Fugees\)](https://open.spotify.com/track/3S8zC6vWD9horbmBRFzwRh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 2](https://open.spotify.com/album/1gO9wDtcVpQjcGtNQLCBPi) | 2:58 | 2022-03-14 |  |
 | [Love](https://open.spotify.com/track/2A2utlXQCozSDoRsx5RR86) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 5](https://open.spotify.com/album/53EEY2RfDWp4DiA3dmfZVm) | 2:54 | 2022-03-14 |  |
 | [LOVE IS OVER](https://open.spotify.com/track/0ktVFAvj5AAZSATLv7D3zj) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 3:37 | 2022-03-14 | 2022-07-29 |
 | [LOVE IS OVER](https://open.spotify.com/track/20zFURLsIlHhe7dSx1Q9hf) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 3:37 | 2022-03-14 |  |
-| [Mercy](https://open.spotify.com/track/2Hiy7drHMUh9apYeYGTQ2e) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 SPECIAL No.2](https://open.spotify.com/album/5v5ajNmaFU3yILsp9AQbjd) | 4:01 | 2022-03-14 |  |
+| [Mercy](https://open.spotify.com/track/2Hiy7drHMUh9apYeYGTQ2e) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 SPECIAL No.2](https://open.spotify.com/album/5v5ajNmaFU3yILsp9AQbjd) | 4:01 | 2022-03-14 | 2023-08-09 |
+| [Mercy \(Duffy\)](https://open.spotify.com/track/7gQPFz57G4fDsAVMgWsibt) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 SPECIAL No.2](https://open.spotify.com/album/1LXde8OSzesqdDfOgU2DqZ) | 4:01 | 2022-03-14 |  |
 | [MISSING U](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 4:08 | 2022-03-14 |  |
 | [MISSING U](https://open.spotify.com/track/3ga39Pl8BtmEQOFLHHnSnb) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ) | 4:08 | 2022-03-14 | 2022-07-29 |
 | [MORE THAN A TV STAR](https://open.spotify.com/track/1FAhF5KRXdgPSkfXTSzUln) | [InnoVator](https://open.spotify.com/artist/2MAVttb6d2Zgvjm0oAlDvn), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Show Me the Money 4 Episode 4](https://open.spotify.com/album/1yocxA6MOGK0NkxS0KXpMk) | 3:45 | 2022-03-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,382 likes - 178 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,527 likes - 178 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 177 | [Primal View](https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Primal View](https://open.spotify.com/album/2juZVcgTqgrGIvrf2wfmHh) | 2:48 |
 | 178 | [Soundscapes](https://open.spotify.com/track/3uOnTeQvOkgzthPlieXyDI) | [Fresh Journal](https://open.spotify.com/artist/4lGE0DmLpRahdzM9IpiYkx) | [Deep House Way](https://open.spotify.com/album/1M4iZ0CarlLmHoOWQPMUUE) | 3:59 |
 
-Snapshot ID: `MCxjMDlhOGQxMDM3M2MxZTExMWE4NTg5OTZhYjk4Y2Q4NTIyMjliYTkx`
+Snapshot ID: `MCw5YTgyMTMyNzc3YjhkOWQxYTcxNjYzMmQ4YWI3ZjVkMzJjY2Q2ZjIw`

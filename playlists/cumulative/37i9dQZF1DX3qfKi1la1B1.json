@@ -3297,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "Shadow Dance (Prod. MONDO GROSSO)",
+        "url": "https://open.spotify.com/album/2W8hYEwCHNGiUO01hIaHJ5"
+      },
+      "artists": [
+        {
+          "name": "Hikari Mitsushima",
+          "url": "https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222173,
+      "name": "Shadow Dance - Prod. MONDO GROSSO",
+      "url": "https://open.spotify.com/track/7DMaLKXvfctMtkInTv05gL"
+    },
+    {
+      "album": {
         "name": "Shadow Dancer",
         "url": "https://open.spotify.com/album/3X94LxNBzncpYZ3SSAr4yc"
       },
@@ -4716,7 +4734,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 364803,
       "name": "\u30a8\u30a4\u30ea\u30a2\u30f3\u30ba - 2018 Remaster",
       "url": "https://open.spotify.com/track/3qY12xfdjw5TToomM5CH4B"

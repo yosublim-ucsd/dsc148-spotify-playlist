@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 
 > The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,484 likes - 66 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,693 likes - 66 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 21 | [ユキトキ](https://open.spotify.com/track/2m2HiaiQeTVrLjC4g2KzOz) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [ユキトキ](https://open.spotify.com/album/1WgQyGoQ6VXI1oSEtYJcik) | 4:29 |
 | 22 | [Sincerely](https://open.spotify.com/track/4thBZp9kEDqeSwLtwcAZgk) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Lonely Queen's Liberation Party](https://open.spotify.com/album/4QP8jwitKgzWaNONjLof5h) | 4:35 |
 | 23 | [青い栞](https://open.spotify.com/track/3fCO1n6l7yekcNRDRkoJJ4) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [PORTAL](https://open.spotify.com/album/1WJkB7MN6rgPIEO08aa6vI) | 5:37 |
-| 24 | [Black Rover](https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:29 |
+| 24 | [Black Rover](https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:29 |
 | 25 | [迷子犬と雨のビート](https://open.spotify.com/track/6Yha68ZrTNJr5rCkonWihU) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [マジックディスク](https://open.spotify.com/album/1Pz6ADZaTvqTSUBC2ux7oI) | 4:56 |
 | 26 | [裏切りの夕焼け](https://open.spotify.com/track/3CmSagHUDDSpoMhn3tqvdR) | [THEATRE BROOK](https://open.spotify.com/artist/45mcHOr3FnakkF8oXLyhkr) | [裏切りの夕焼け](https://open.spotify.com/album/35hkp79Ri9SdFBUJ3zCmiL) | 3:28 |
 | 27 | [Dramatic Market Ride](https://open.spotify.com/track/4XVdyXUBYR70qhHSKUgZL9) | [Kitashirakawa Tamako \(CV: Aya Suzaki\)](https://open.spotify.com/artist/0aElBIWdrU7d9yJHSAFSbn) | [Dramatic Market Ride](https://open.spotify.com/album/3Qn1FGT5fVX03YsHYILUZM) | 4:20 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 65 | [ぼくのフレンド](https://open.spotify.com/track/5AH0F230K1ab9TPYUA3wR5) | [mewhan](https://open.spotify.com/artist/13tttiaoECFPQKEigVnYU6) | [自己スキーマ](https://open.spotify.com/album/7qCWMC5KQ3SDii2P3u2Z7M) | 4:11 |
 | 66 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/3MpAKiHm0dzxRBSBwJ3PBC) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [20112012](https://open.spotify.com/album/3DW6bLcegm87OVIDKCVnZ8) | 3:54 |
 
-Snapshot ID: `MCwwODdhMDE3ZDg2YjQ5N2I1OTc5ZGVhNWRjYTI0OTNmN2RjZjZmNWM1`
+Snapshot ID: `MCwxZTIzNzk5MWI1ZmE2MGQ5NGViMGFjYzFhNWZhYzcyZGE1Y2UxNTNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=JHPSeMBEQXGlrqGn3vLPuw">Asake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,177 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,187 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 2 | [Personne](https://open.spotify.com/track/1a2iA1NgFnmnQ8YhisT2Rz) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Blessing](https://open.spotify.com/album/1EqLDQ1zxS2Sz5eCcGIRbJ) | 2:23 |
 | 3 | [51 SIMPSON sT.](https://open.spotify.com/track/5nCRwEupvHiUcWdTDJ3UKF) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [TMX002: X & The Machine.](https://open.spotify.com/album/5u2601naE6IiDYi7C8JBtO) | 3:06 |
 | 4 | [Champion Sound](https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Champion Sound](https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T) | 3:57 |
-| 5 | [Sacrifice](https://open.spotify.com/track/7bFWys0I1Dl2qsgOki3SMq) | [Mfr Souls](https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX), [Chrissy Day](https://open.spotify.com/artist/1VlInCdOFJtwQ9KTKpPeMI), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Mix It Up Vol.2](https://open.spotify.com/album/1klHnZaGa2LA3PPbK7zoB5) | 4:51 |
+| 5 | [Sacrifice](https://open.spotify.com/track/0Fys87GQeLWHvrTqzSlKP8) | [Mfr Souls](https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX), [Chrissy Day](https://open.spotify.com/artist/1VlInCdOFJtwQ9KTKpPeMI), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Sacrifice](https://open.spotify.com/album/7F4FjvyBMOnFznBEQHrpbm) | 4:51 |
 | 6 | [Wetin No Good](https://open.spotify.com/track/23Fh73OaYgY5cisouEybte) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O) | [Wetin No Good](https://open.spotify.com/album/6v5ZPjk1YsUlWegG5Cxvea) | 2:38 |
 | 7 | [The One \(Chop Life\)](https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [The One \(Chop Life\)](https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl) | 3:16 |
 | 8 | [Ungowami](https://open.spotify.com/track/52HvcfSVFInxOGJzPjL92N) | [Mr\. Dutch](https://open.spotify.com/artist/14v8N6lM4z703uXHAVC9zN), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL) | [Ungowami](https://open.spotify.com/album/1Ktv0aI3zn7SK1VCzCwWBS) | 6:17 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 24 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 |
 | 25 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 |
 | 26 | [Selema \(Po Po\)](https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Selema \(Po Po\)](https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR) | 5:40 |
-| 27 | [Double Tap](https://open.spotify.com/track/77w0gjrcC63Mv0kzP35uxN) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Mathandos](https://open.spotify.com/artist/4ie8G7LI4tNKHAXln6mhiK) | [Double Tap](https://open.spotify.com/album/0oAsHg9U2yADXqDtR2GoJC) | 3:47 |
+| 27 | [Double Tap](https://open.spotify.com/track/77w0gjrcC63Mv0kzP35uxN) | [Mathandos](https://open.spotify.com/artist/4ie8G7LI4tNKHAXln6mhiK), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Double Tap](https://open.spotify.com/album/0oAsHg9U2yADXqDtR2GoJC) | 3:47 |
 | 28 | [CANADA](https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Herc Cut The Lights](https://open.spotify.com/artist/0VhIHga32pr5ME5Eb8WXcP) | [CANADA](https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW) | 4:07 |
 | 29 | [Injabulo](https://open.spotify.com/track/6yqUbRQXmeCtpBBookikSB) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6) | [Injabulo](https://open.spotify.com/album/2dL3uqWC31vpb9RwvMSJD1) | 5:07 |
 | 30 | [Daddy ohh](https://open.spotify.com/track/576ny2Fu52p2iacJxWKYn6) | [Willy Will](https://open.spotify.com/artist/7COHnUQjxEVi5SggMxlu4E) | [Daddy ohh](https://open.spotify.com/album/4jFB19VG7Zn6lCSxve8QRI) | 2:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 59 | [SLOW WINE](https://open.spotify.com/track/1JhH6S1GDhxbLMitQ9K5oM) | [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [SLOW WINE](https://open.spotify.com/album/49TepG6PsqWFNIfs7fDcjT) | 3:43 |
 | 60 | [Sunmomi](https://open.spotify.com/track/5TqtBDyIdZiTpfJZL2o10M) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:48 |
 
-Snapshot ID: `MCwzMTMwNWRkNjgwYmMxZTU0ODZjOWI4ZWQ1ZjI4ODA0NDdjZTU0ODIy`
+Snapshot ID: `MCw0MDM3MmVjOTIzY2RiNmY1NWQ5OGU2M2I5NmE4Yjc1ZGRiMmEwZTk3`

@@ -1,12 +1,12 @@
 {
   "description": "Discover the amazing world of Japanese City Pop from the \u201870s./ \u30cb\u30e5\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3068\u3082\u4e00\u7dda\u3092\u753b\u3059\u3001\u90fd\u4f1a\u7684\u3067\u6d17\u7df4\u3055\u308c\u305f\u97f3\u697d\uff1d\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u306e\u8a95\u751f\u3002\u9ece\u660e\u671f\u306e\u8f1d\u304d\u306f\u6c38\u9060\u306b\u3002",
-  "num_followers": 47130,
+  "num_followers": 47167,
   "original_name": "City Pop '70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGNhZjY1NTZiOGMxY2VhNGQ2ZmY5YWFlOTQ1NDI0MjNmODk1OGI1",
+  "snapshot_id": "MCw4YWFiZWQwNjYzYjJiNjg2M2FjNzZiYmUyZjA2ZGRmNjk1ZTkwNjQ3",
   "tracks": [
     {
       "added_at": "2022-11-16 00:55:45",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "COBALT HOUR",
-        "url": "https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu"
-      },
-      "artists": [
-        {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "COBALT HOUR",
-      "url": "https://open.spotify.com/track/0DGvE0SStlcRCcgmNb1WQB"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
         "name": "Char",
         "url": "https://open.spotify.com/album/1YwI8GobyuUmdxaOLIODKp"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 355666,
       "name": "Shinin\u2019 You, Shinin\u2019 Day",
       "url": "https://open.spotify.com/track/4PW7Cq7lNMIrEnojsB0jHC"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "COBALT HOUR",
+        "url": "https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu"
+      },
+      "artists": [
+        {
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "COBALT HOUR",
+      "url": "https://open.spotify.com/track/0DGvE0SStlcRCcgmNb1WQB"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -287,8 +287,8 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "DIGGIN\u2019 VICTOR Deep Into The Vaults Of Japanese Fusion mixed by MURO",
-        "url": "https://open.spotify.com/album/1DHXpY4vTHmeViIke3DukQ"
+        "name": "BAND WAGON (Remastered 2017)",
+        "url": "https://open.spotify.com/album/50GY6D1DpjaffXS5Av5sXt"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z"
         }
       ],
-      "duration_ms": 213520,
-      "name": "On the Coast",
-      "url": "https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD"
+      "duration_ms": 235853,
+      "name": "Suna no Onna",
+      "url": "https://open.spotify.com/track/3mBBBGjOaV4OAfJupWuMgc"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -415,8 +415,8 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "BAND WAGON (Remastered 2017)",
-        "url": "https://open.spotify.com/album/50GY6D1DpjaffXS5Av5sXt"
+        "name": "DIGGIN\u2019 VICTOR Deep Into The Vaults Of Japanese Fusion mixed by MURO",
+        "url": "https://open.spotify.com/album/1DHXpY4vTHmeViIke3DukQ"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z"
         }
       ],
-      "duration_ms": 235853,
-      "name": "Suna no Onna",
-      "url": "https://open.spotify.com/track/3mBBBGjOaV4OAfJupWuMgc"
+      "duration_ms": 213520,
+      "name": "On the Coast",
+      "url": "https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "RAINBOW",
-        "url": "https://open.spotify.com/album/465AMZHqKJo1GbIptNitEE"
-      },
-      "artists": [
-        {
-          "name": "Junko Ohashi & Minoya Central Station",
-          "url": "https://open.spotify.com/artist/3RZbbIjngtULxQCp3wZrrM"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "\u30b7\u30f3\u30d7\u30eb\u30fb\u30e9\u30d6",
-      "url": "https://open.spotify.com/track/75NJAsvUCSHjNYSw0qRT42"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
         "name": "Late Late Summer",
         "url": "https://open.spotify.com/album/7mmAMvs6tZsPhgXyDmSYEz"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 256480,
       "name": "\u30bf\u30d0\u30b3\u30ed\u30fc\u30c9 20",
       "url": "https://open.spotify.com/track/4RElLCLpSglu5Q3GmoSEMY"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "RAINBOW",
+        "url": "https://open.spotify.com/album/465AMZHqKJo1GbIptNitEE"
+      },
+      "artists": [
+        {
+          "name": "Junko Ohashi & Minoya Central Station",
+          "url": "https://open.spotify.com/artist/3RZbbIjngtULxQCp3wZrrM"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "\u30b7\u30f3\u30d7\u30eb\u30fb\u30e9\u30d6",
+      "url": "https://open.spotify.com/track/75NJAsvUCSHjNYSw0qRT42"
     },
     {
       "added_at": "2022-11-16 00:55:45",

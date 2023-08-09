@@ -4,7 +4,7 @@
 
 > أقوى أغاني الراب المصري في مكان واحد 😎! غلاف: <a href="https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM?si=OCLHw6D2TB\-ZZLoBlHkZzA"> زياد ظاظا </a>
 
-207 songs - 10 hr 34 min
+208 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Tege Goal](https://open.spotify.com/track/5ptN0LBbIyZrxP9RLAwq5N) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Tege Goal](https://open.spotify.com/album/4b8EdoD1qXfDm5yOcuED90) | 3:16 | 2022-05-10 | 2023-05-26 |
 | [TOTLOB AMA TOTLOB](https://open.spotify.com/track/48Tb5rkF6XzPuHFtVem5lS) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TOTLOB AMA TOTLOB](https://open.spotify.com/album/3VbJrDvIbE8Is5Hio348xk) | 5:12 | 2022-05-10 | 2022-07-07 |
 | [Tuta Ankh Amoon](https://open.spotify.com/track/4e1btGGrZAkjOobdKywSgJ) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo), [MiniM](https://open.spotify.com/artist/1dj1W9b1aM6GcE2FcVU34E) | [Tuta Ankh Amoon](https://open.spotify.com/album/0pDygh7XVUENUB9jhsA3p1) | 3:57 | 2022-09-13 | 2022-10-21 |
-| [Ultra Attack](https://open.spotify.com/track/1sMQ7tHNtu0TbE8L15EC2h) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 2:39 | 2023-05-16 |  |
+| [Ultra Attack](https://open.spotify.com/track/1sMQ7tHNtu0TbE8L15EC2h) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 2:39 | 2023-05-16 | 2023-08-09 |
 | [VALENTINO](https://open.spotify.com/track/1Mtf8OuYCofl0H4p9HI6o7) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 2:37 | 2022-07-30 | 2022-08-24 |
 | [VALENTINO](https://open.spotify.com/track/3rvtomcmFFf3JJpxr5SRW1) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [VALENTINO](https://open.spotify.com/album/7lWM0nd2rvZcPptTWFSqi4) | 2:37 | 2022-05-10 | 2022-07-29 |
 | [VALENTINO](https://open.spotify.com/track/5rhnOrcnOwsfxqWkGQLHHM) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 2:37 | 2022-07-28 | 2022-07-31 |
@@ -198,6 +198,7 @@
 | [سحمد](https://open.spotify.com/track/6nFMbMB5tAd2aj15FI40Nt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:17 | 2022-10-25 | 2022-12-24 |
 | [عرفة](https://open.spotify.com/track/7KPk6KMHIlPO31D8Ku39vP) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عرفة](https://open.spotify.com/album/4EXcT2v8Vy1zUpBwjMF39Y) | 2:41 | 2023-02-10 | 2023-02-14 |
 | [عرفة](https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عرفة](https://open.spotify.com/album/2k2HdZmpP4Y6lHFqVRa9w0) | 2:41 | 2022-05-10 | 2023-02-12 |
+| [عساف](https://open.spotify.com/track/4rmGLKTCLKNVvc6a4WFKOd) | [Mostafa Elnesr](https://open.spotify.com/artist/3qMttOQzAJd5k3kbFPurvA) | [عساف](https://open.spotify.com/album/2peaPoRtPE3UtRMUTCdMOW) | 2:48 | 2023-08-08 |  |
 | [عطشان وبستنى تغيير](https://open.spotify.com/track/1rbwwRQqDe3hBAoFUqwpFu) | [SFerroe](https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عطشان وبستنى تغيير](https://open.spotify.com/album/7oT3KutU3W3hLFp1kHdSQ8) | 1:27 | 2022-06-28 | 2023-02-24 |
 | [غاغة](https://open.spotify.com/track/4dhBcmOsysqol75RKDMooX) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [شياطين](https://open.spotify.com/album/0n2l3w9YeFAHKV2PkzmKv3) | 1:56 | 2022-10-10 | 2022-12-16 |
 | [فاضية](https://open.spotify.com/track/4y5CyUdrD89uY6rNwuR7Ra) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [فاضية](https://open.spotify.com/album/0wEYC1Z9lZ2RG72mC3xzzr) | 2:50 | 2023-06-15 | 2023-06-24 |

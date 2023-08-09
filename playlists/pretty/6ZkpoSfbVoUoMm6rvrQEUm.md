@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZkpoSfbVoUoMm6rvrQEUm.md) - [plain]
 
 > Friday Haus \- Freshest house tunes every week\. Updated Every Friday !
 
-[Kurniawan Wicaksono](https://open.spotify.com/user/bleuclairmusic) - 6,035 likes - 20 songs - 1 hr 10 min
+[Kurniawan Wicaksono](https://open.spotify.com/user/bleuclairmusic) - 6,141 likes - 20 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/6ZkpoSfbVoUoMm6rvrQEUm.md) - [plain]
 | 2 | [Beat Go Bump](https://open.spotify.com/track/51RhTPvrVNx7DmGscgNJuc) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Mike & Me](https://open.spotify.com/artist/0V0VNxLAmU4j1caUNW477Z) | [Beat Go Bump](https://open.spotify.com/album/3O8BU5I0ieW8HvsIJTKD2H) | 2:54 |
 | 3 | [Daddy's Back](https://open.spotify.com/track/2kD5WaS17Ud2k4M4IwJxC0) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Daddy's Back](https://open.spotify.com/album/4GCZvwAgE1yE1K2H9l1f5W) | 2:59 |
 | 4 | [Dusty Showbiz](https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Dusty Showbiz](https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb) | 2:58 |
-| 5 | [Na Real Sekele Fo'Ya \- Escapade Edit](https://open.spotify.com/track/2F5ndth7ODtTzHC6X2JZb9) | [Pasteur Lappe](https://open.spotify.com/artist/3RDxL9p4jBPGdoaKVcD2Ff), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Ardalan](https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw), [Escapade](https://open.spotify.com/artist/1vhPtnpJjByJXh4S0EFHXm) | [Na Real Sekele Fo'Ya \(Escapade Edit\)](https://open.spotify.com/album/5ET0JlLNA0IdvwQIzSBjnC) | 3:55 |
+| 5 | [Na Real Sekele Fo'Ya \- Escapade Edit](https://open.spotify.com/track/2F5ndth7ODtTzHC6X2JZb9) | [Pasteur Lappe](https://open.spotify.com/artist/3RDxL9p4jBPGdoaKVcD2Ff), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Ardalan](https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw) | [Na Real Sekele Fo'Ya \(Escapade Edit\)](https://open.spotify.com/album/5ET0JlLNA0IdvwQIzSBjnC) | 3:55 |
 | 6 | [Samsara](https://open.spotify.com/track/4U91micKPBG76g9oKoICVk) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Samsara / Hangover](https://open.spotify.com/album/4bgLaGD4Tx5SIKVHik3cNo) | 2:58 |
 | 7 | [Can't Stop This](https://open.spotify.com/track/5tBOXwZiG0UUerHrsfcEtE) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Can't Stop This](https://open.spotify.com/album/03JoKjGO0mB8lR2svcMyKY) | 5:59 |
 | 8 | [Feel The Rush](https://open.spotify.com/track/2Q7OKBLfhKkWlo6BA1D9nq) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Feel The Rush](https://open.spotify.com/album/7f1KF0BW0UEjQ6vtVnaTjv) | 4:42 |

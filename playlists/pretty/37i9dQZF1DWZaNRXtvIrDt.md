@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: STÜM
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,560 likes - 71 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,569 likes - 71 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 70 | [Cave Map](https://open.spotify.com/track/3r9WchKPxZj8q3rpMvzcSQ) | [Reflex Blue](https://open.spotify.com/artist/3z2JEfNoPTDQbDgfBzplyn) | [CKNOWEP48](https://open.spotify.com/album/1mFId4uMlgk5sX9a2f3TVN) | 6:07 |
 | 71 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
 
-Snapshot ID: `MCwwM2YyZjJkZjNmZmE0OGRiYjUzMzBjYWMxM2YyODkxMDAzMjU3Mzhl`
+Snapshot ID: `MCwyOTk2MDQ2ZTFiMmM3OTljOTcwY2VhMzMzMzg2OTg4NDM5YWU2MWQ0`

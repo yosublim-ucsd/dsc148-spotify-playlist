@@ -3288,7 +3288,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 197748,
-      "name": "Jessie (I Miss You)",
+      "name": "Jessie (i miss you)",
       "url": "https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ"
     },
     {
@@ -5242,10 +5242,32 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 243027,
       "name": "Starbright",
       "url": "https://open.spotify.com/track/5LuQvkBG365ue36BMujtSz"
+    },
+    {
+      "album": {
+        "name": "Between Broken",
+        "url": "https://open.spotify.com/album/3SWONDSeoQ0UTsRyXSlL5g"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Trella",
+          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243027,
+      "name": "Starbright",
+      "url": "https://open.spotify.com/track/6huKKoWv2Xy4KM2rwUNa7X"
     },
     {
       "album": {

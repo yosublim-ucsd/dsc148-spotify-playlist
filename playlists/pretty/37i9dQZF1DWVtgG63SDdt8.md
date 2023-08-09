@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj?si=3bc0c00455764d13">Lauren Daigle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,157 likes - 99 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,324 likes - 99 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Beatitudes \- Family Version](https://open.spotify.com/track/3PMhAskcEOFMXtZsCa3N36) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [Beatitudes \(Family Version\)](https://open.spotify.com/album/17VYubxB0zybqZTjzF6AJH) | 3:42 |
 | 99 | [SORRY NOT SORRY](https://open.spotify.com/track/4nx1SoEiCidSWOSyJGSpW2) | [Yamaree](https://open.spotify.com/artist/7pxDHAwWckKzgQI8xj7yY0) | [SORRY NOT SORRY](https://open.spotify.com/album/02vClqS8obP27HprHOkRNK) | 3:02 |
 
-Snapshot ID: `MCw5YzIwNTgyY2U0ODc2ZTM1NzUwYTRiZDAzMmQ3ZWQzZTEzMDhlZmI5`
+Snapshot ID: `MCwzM2Y0YzFlYThjNDFmZWU1ZTQ1NDYwNzA1NzhhN2E2YmUxMTczYmY2`

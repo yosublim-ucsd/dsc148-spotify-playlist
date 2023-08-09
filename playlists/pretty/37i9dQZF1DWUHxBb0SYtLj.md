@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Assurditè
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,377 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,417 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [coseporno](https://open.spotify.com/track/4U9oZvVsZBzVVVCcvuRSPp) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [coseporno](https://open.spotify.com/album/4csBNK0F3CN8AdJdEiyamQ) | 3:09 |
 | 50 | [Senza addosso stronzate](https://open.spotify.com/track/5tKiKPjKpRmhkLWuLasUM2) | [Maura](https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7) | [storie di arcieri e altri animali](https://open.spotify.com/album/0chcpZo5oBoXe7AaV9QBrz) | 3:08 |
 
-Snapshot ID: `MCw0MTdkY2ZiNzA4MzQwZjc1ZWVlNTliNzA1NGY0Mjc3YWEzZjJjNTEx`
+Snapshot ID: `MCxjZDAwMGI1MjYyOWY0ZTAwYTZjMDU3ZTY4YzA1N2NhNGZlMTlhNjNi`

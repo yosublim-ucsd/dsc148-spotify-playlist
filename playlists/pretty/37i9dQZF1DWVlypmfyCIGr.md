@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,676 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,692 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Sunday Drivers](https://open.spotify.com/track/01HOfBu05LHoLe42bDtlTM) | [HAREHIRAKU](https://open.spotify.com/artist/42BMzy3fpquFEH4qNzezxa) | [Sunday Drivers](https://open.spotify.com/album/37N8fU786KaPBYMrPUc7bo) | 4:51 |
 | 80 | [aishiteitanoni](https://open.spotify.com/track/153wXxKGamu1F74JMiPDKq) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [aishiteitanoni](https://open.spotify.com/album/5YM5eXloTIsoQlOlCy2Y6w) | 3:39 |
 
-Snapshot ID: `MCw4YWIzZTQ5YzVkYWM5N2ZjMjQ4ZTJlMGU3MWYwODliYzg2ODczMjU3`
+Snapshot ID: `MCwzNjNlZDgyNWM1N2YzZTczMjZjOTc4NGZhYjRlMDQwOWNjYWYwZTNh`

@@ -862,7 +862,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 273400,
       "name": "S\u00f3pleme usted primero",
       "url": "https://open.spotify.com/track/1sdKHMIGRYs7FDZvha1wAp"
@@ -1008,6 +1008,28 @@
       "duration_ms": 158533,
       "name": "Una y otra vez",
       "url": "https://open.spotify.com/track/0h24IaU3nilnYZmx0MeMSM"
+    },
+    {
+      "album": {
+        "name": "Unos Quieren Subir",
+        "url": "https://open.spotify.com/album/2HnLY7Rd7Zd15xQPMwBf5H"
+      },
+      "artists": [
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189646,
+      "name": "Unos Quieren Subir",
+      "url": "https://open.spotify.com/track/0J6vQFjGJH7EANyRL5xjNH"
     },
     {
       "album": {

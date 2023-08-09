@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 105897,
+  "num_followers": 106007,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGIyZTg3MDdlMTJlNTJhYWIwMTNhNjJkYWI2NDdiYTg3MzNlMzI5",
+  "snapshot_id": "MCw0NzI5YTVjMzYyMTI2MmY5NDU0NDJkMGVmNjVhMjYwNTU0ZTA2NGNl",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Sing 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 201885,
-      "name": "Can't Feel My Face",
-      "url": "https://open.spotify.com/track/4UPZpRotT2V63Ev0vMRSOM"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 267413,
       "name": "Say My Name - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 201885,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/4UPZpRotT2V63Ev0vMRSOM"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "The Sunflower Covers (From and Inspired by the Motion Picture \"Spider-Man: Across the Spider-Verse\")",
-        "url": "https://open.spotify.com/album/2JED1rFxGmujnglUiAAzEZ"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
-        }
-      ],
-      "duration_ms": 161130,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/19Uqe0nRe6hrrVNxQ3q0iC"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "The Sunflower Covers (From and Inspired by the Motion Picture \"Spider-Man: Across the Spider-Verse\")",
+        "url": "https://open.spotify.com/album/2JED1rFxGmujnglUiAAzEZ"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "duration_ms": 161130,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/19Uqe0nRe6hrrVNxQ3q0iC"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 232175,
-      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "glimpse of us",
         "url": "https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 222000,
       "name": "glimpse of us",
       "url": "https://open.spotify.com/track/2ssJdfI0u93JYpIrxDmxE6"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 232175,
+      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "In Your Prime - EP",
-        "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
-      },
-      "artists": [
-        {
-          "name": "Josef Salvat",
-          "url": "https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Live At Electric Lady",
         "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 228827,
       "name": "August - Recorded At Electric Lady Studios",
       "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "In Your Prime - EP",
+        "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
+      },
+      "artists": [
+        {
+          "name": "Josef Salvat",
+          "url": "https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Everybody Wants To Rule The World",
-        "url": "https://open.spotify.com/album/4vNTnk9ZwBi2zIJlAiOYms"
-      },
-      "artists": [
-        {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/3lAzdfubFCfgrmSPUWBh4b"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 246527,
       "name": "Hello \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Everybody Wants To Rule The World",
+        "url": "https://open.spotify.com/album/4vNTnk9ZwBi2zIJlAiOYms"
+      },
+      "artists": [
+        {
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/3lAzdfubFCfgrmSPUWBh4b"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 256278,
-      "name": "Un-Break My Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 206138,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/4yyHCYD1ZmeIXEEbvLjCqh"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 256278,
+      "name": "Un-Break My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2659,22 +2659,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "If You Had My Love",
-        "url": "https://open.spotify.com/album/27bLO4hjI1t1gEVfGVVDi1"
-      },
-      "artists": [
-        {
-          "name": "fulses",
-          "url": "https://open.spotify.com/artist/3n8m3kNEwkqw9ucWDJhClE"
-        }
-      ],
-      "duration_ms": 215428,
-      "name": "If You Had My Love",
-      "url": "https://open.spotify.com/track/5glOr0WOoNw6bBFHcTg7AR"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Broken Glass, Vol. 5",
         "url": "https://open.spotify.com/album/1GNtlaf1suRPWz351bNiVc"
       },
@@ -2691,6 +2675,22 @@
       "duration_ms": 214933,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/5CqrCMMhS8QzBfzks0vel8"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "If You Had My Love",
+        "url": "https://open.spotify.com/album/27bLO4hjI1t1gEVfGVVDi1"
+      },
+      "artists": [
+        {
+          "name": "fulses",
+          "url": "https://open.spotify.com/artist/3n8m3kNEwkqw9ucWDJhClE"
+        }
+      ],
+      "duration_ms": 215428,
+      "name": "If You Had My Love",
+      "url": "https://open.spotify.com/track/5glOr0WOoNw6bBFHcTg7AR"
     },
     {
       "added_at": "2023-08-04 04:01:00",

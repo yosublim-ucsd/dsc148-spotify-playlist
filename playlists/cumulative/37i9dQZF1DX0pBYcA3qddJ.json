@@ -631,6 +631,24 @@
     },
     {
       "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/2W4AEr7iLE7D9D23r2UsW2"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181344,
+      "name": "amayadori",
+      "url": "https://open.spotify.com/track/1Uvaa7vMJi5BLmptfLXSbt"
+    },
+    {
+      "album": {
         "name": "An Ocean",
         "url": "https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU"
       },
@@ -1246,7 +1264,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 230720,
       "name": "Bye for now,",
       "url": "https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk"
@@ -3050,6 +3068,36 @@
       "duration_ms": 119486,
       "name": "Hereafter",
       "url": "https://open.spotify.com/track/42H5Pr3Z4djmQIQBsbTIZh"
+    },
+    {
+      "album": {
+        "name": "Hidden Angel (Hackney Road Studio Session)",
+        "url": "https://open.spotify.com/album/2ho48nKrT5MmDd45bGNssX"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        },
+        {
+          "name": "Roger Robinson",
+          "url": "https://open.spotify.com/artist/7aTVcGnRT0kjTwWKjTU3xR"
+        },
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        },
+        {
+          "name": "Specimens",
+          "url": "https://open.spotify.com/artist/32sLVQDV5zUAFxNkj0i7ld"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257414,
+      "name": "Hidden Angel - Hackney Road Studio Session",
+      "url": "https://open.spotify.com/track/4VkylJXzgZjeNHksy0ANIE"
     },
     {
       "album": {
@@ -6078,7 +6126,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 247560,
       "name": "Romanza",
       "url": "https://open.spotify.com/track/2amWDqVssaaTvBD8rTQjsz"
@@ -8255,6 +8303,24 @@
     },
     {
       "album": {
+        "name": "\u30d4\u30a2\u30ce\u512a\u3057\u304f\u97ff\u304f\u68ee\u306e\u30ab\u30d5\u30a7\uff5e\u4e18\u306b\u5439\u304f\u512a\u3057\u3044\u98a8\uff5e",
+        "url": "https://open.spotify.com/album/0vjYNhReZ1cRmG3icnWGsD"
+      },
+      "artists": [
+        {
+          "name": "Jazz River Light",
+          "url": "https://open.spotify.com/artist/1u8tOUsmXll1qDjWB5wHAu"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "\u3046\u305f\u305f\u5bdd\u306e\u65e5\u5411",
+      "url": "https://open.spotify.com/track/39npthIKvraBz2uFswfUcG"
+    },
+    {
+      "album": {
         "name": "\u30b9\u30da\u30a4\u30f3\u72c2\u8a69\u66f2~\u962a\u7530\u77e5\u6a39\u30c7\u30d3\u30e5\u30fc!",
         "url": "https://open.spotify.com/album/0ey1lXPOEahwSD4RilrtSu"
       },
@@ -9298,7 +9364,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 124533,
       "name": "\u5b50\u4f9b\u306e\u305f\u3081\u306e\u30a2\u30eb\u30d0\u30e0 \u4f5c\u54c1 68\u7b2c1\u90e8 \u5e7c\u3044\u5b50\u4f9b\u305f\u3061\u306e\u305f\u3081\u306b 14 \u5c0f\u3055\u306a\u7df4\u7fd2\u66f2",
       "url": "https://open.spotify.com/track/6nApb9nOQevkIVX0hQcZC9"

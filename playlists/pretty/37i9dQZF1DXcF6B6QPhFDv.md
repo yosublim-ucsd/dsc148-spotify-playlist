@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Bring Me The Horizon along with today's Rock songs you need to hear.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,826,355 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,826,780 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 49 | [Lead Pipe](https://open.spotify.com/track/3tKtvdq8ljuxOsXvlhL0sc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Killing Time / Lead Pipe](https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8) | 2:59 |
 | 50 | [The One](https://open.spotify.com/track/7JmnFOR3DUiRTkEybOlDqh) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [The One](https://open.spotify.com/album/45FGsNi8qTqFla0M1DlnKa) | 3:17 |
 
-Snapshot ID: `MCw2NTdmNDhlYzA3MWZmZjRkZmIzMDQ2YTBjZGExZmI5MzJkYTQzZjg5`
+Snapshot ID: `MCxhYjY3OTA0ODEzMTc0MGNhZTg3NTE5Mzg1YmI2MTNkMzU3NDc2Yzg2`

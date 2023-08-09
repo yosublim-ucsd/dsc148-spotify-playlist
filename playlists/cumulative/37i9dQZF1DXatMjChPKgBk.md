@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-514 songs - 1 day 7 hr 41 min
+515 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Lost](https://open.spotify.com/track/6dexp1WYGzQWDr8DA8yDHG) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Lost](https://open.spotify.com/album/1mam9hcxnLjCGkt8ovWija) | 2:49 | 2022-01-27 | 2022-07-31 |
 | [Lost In A Blue Note](https://open.spotify.com/track/29dFStdDNJHdgGPhwyKdbB) | [April Barrows](https://open.spotify.com/artist/49Pr1w34iIV8qlIcnsLdwQ) | [My Dream is You](https://open.spotify.com/album/26ACa71xPjvov8cZ4Rai52) | 4:24 | 2022-01-27 | 2022-11-13 |
 | [Lost Without U](https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb) | 4:14 | 2022-07-08 | 2023-04-20 |
+| [Love Like This](https://open.spotify.com/track/2lxBZVbkiCXC1soks2RXwV) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Magic](https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j) | 3:34 | 2023-04-19 |  |
 | [Love Like This \- Acoustic](https://open.spotify.com/track/5Wjf9NsW6QCmBiDIdVvMbP) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Collection\)](https://open.spotify.com/album/2i9dapZV0tpWCBtqj9cA0Z) | 4:01 | 2022-08-11 | 2023-04-20 |
 | [Love Me More](https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Me More](https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe) | 3:10 | 2022-11-08 | 2023-04-20 |
 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 | 2022-07-08 | 2023-04-20 |
@@ -479,7 +480,7 @@
 | [Until The Hurting Is Gone](https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 3:17 | 2022-01-27 | 2023-04-20 |
 | [Us](https://open.spotify.com/track/2lmMt4SRDXDma6QkJUox0D) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Us](https://open.spotify.com/album/7pWw6ozRByPfbII3rqDnct) | 3:07 | 2022-01-27 | 2023-04-20 |
 | [Waiting Is A Waste](https://open.spotify.com/track/23lw0TWJHsenU54gom8xbC) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Waiting Is A Waste](https://open.spotify.com/album/50MP1DO66qTGSYkcGsUKBY) | 2:57 | 2022-06-24 | 2023-01-21 |
-| [Want It Again](https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 2:52 | 2023-04-19 |  |
+| [Want It Again](https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 2:52 | 2023-04-19 | 2023-08-09 |
 | [Warwick Avenue](https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:46 | 2022-07-08 | 2023-04-20 |
 | [Warwick Avenue](https://open.spotify.com/track/3K4r00KlXytLJDfuytngmx) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g) | 3:46 | 2022-01-27 | 2022-07-29 |
 | [Waterfalls \- Single Edit](https://open.spotify.com/track/76fn6jLgMwrQDS08ACFIU1) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Waterfalls \(Remixes\)](https://open.spotify.com/album/3tzcimbANTDy0VQKI1c0JJ) | 4:19 | 2022-07-08 | 2022-12-24 |

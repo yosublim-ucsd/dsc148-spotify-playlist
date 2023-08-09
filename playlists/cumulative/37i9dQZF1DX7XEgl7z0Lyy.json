@@ -194,10 +194,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 68250,
       "name": "CRYSTALS",
       "url": "https://open.spotify.com/track/2iD5hLjSCYFZROnyW0VfFo"
+    },
+    {
+      "album": {
+        "name": "CRYSTALS",
+        "url": "https://open.spotify.com/album/4QEU39Ov79qOM6oBC013Uc"
+      },
+      "artists": [
+        {
+          "name": "PR1SVX",
+          "url": "https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68250,
+      "name": "CRYSTALS",
+      "url": "https://open.spotify.com/track/5bYFgV2KMMC6IVQ2gUyMGg"
     },
     {
       "album": {
@@ -433,6 +451,28 @@
     },
     {
       "album": {
+        "name": "3x3",
+        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126600,
+      "name": "I LOVE YOU HOE (w/ 9lives)",
+      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
+    },
+    {
+      "album": {
         "name": "INVINCIBLE",
         "url": "https://open.spotify.com/album/3pKMJN25tbBk9YV76EHnMj"
       },
@@ -550,7 +590,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 109531,
       "name": "KISS N' TELL!",
       "url": "https://open.spotify.com/track/3wQHah9LsKCmRWAvmZFkG8"
@@ -714,7 +754,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 138240,
       "name": "LOOK DON\u2019T TOUCH (w/ cade clair)",
       "url": "https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp"

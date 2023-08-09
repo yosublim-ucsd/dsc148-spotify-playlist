@@ -274,7 +274,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 260156,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
@@ -5114,6 +5114,24 @@
       "duration_ms": 285320,
       "name": "Tr\u00f3pico",
       "url": "https://open.spotify.com/track/1Wyz5skty3mcxchgydcFSp"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Libre",
+        "url": "https://open.spotify.com/album/5YQG2L5Xt8XLWWnhUSVdED"
+      },
+      "artists": [
+        {
+          "name": "Golden Ganga",
+          "url": "https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258693,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/2BmtCTlt1A9z4z9k8qL1OV"
     },
     {
       "album": {

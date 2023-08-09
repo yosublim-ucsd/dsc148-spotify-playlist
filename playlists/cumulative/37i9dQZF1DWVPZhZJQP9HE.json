@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 285595,
       "name": "DIGIT \"ALL\" ANTHEM-BLACKSHEEP TV",
       "url": "https://open.spotify.com/track/1Fd9CucoQHCdfI9OkJaaY8"
@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 231428,
       "name": "Jinukku Jikka",
       "url": "https://open.spotify.com/track/595MCW6XYXF10IBVpLBPrV"
@@ -2920,7 +2920,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 210000,
       "name": "Kaaka Kadha - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/4ZU57HzgK8hWfeXcqBhWDd"
@@ -3290,6 +3290,28 @@
       "duration_ms": 263902,
       "name": "Kai Veesi",
       "url": "https://open.spotify.com/track/7vrVwVjudNTncyeOIlI7SQ"
+    },
+    {
+      "album": {
+        "name": "Kaikku Ettinadhu (From \"Think Originals\")",
+        "url": "https://open.spotify.com/album/7yOGJUszZedWBZlofSQZy8"
+      },
+      "artists": [
+        {
+          "name": "Vijaynarain",
+          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
+        },
+        {
+          "name": "Super Subu",
+          "url": "https://open.spotify.com/artist/1lTyvlYcW49bbvY6oL7Jlo"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252903,
+      "name": "Kaikku Ettinadhu (From \"Think Originals\")",
+      "url": "https://open.spotify.com/track/17RAzklEIl4FhnVYEwOEfB"
     },
     {
       "album": {
@@ -4990,7 +5012,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 169104,
       "name": "Mudhal Murai",
       "url": "https://open.spotify.com/track/3HwPouek9TmVxN2S7upmyb"
@@ -6418,7 +6440,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 219923,
       "name": "Otha Thamarai - Original Soundtrack",
       "url": "https://open.spotify.com/track/7e97QgqoYTXOj1s7JI0dHR"

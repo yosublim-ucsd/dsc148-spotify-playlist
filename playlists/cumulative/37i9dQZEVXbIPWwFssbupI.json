@@ -1153,6 +1153,32 @@
     },
     {
       "album": {
+        "name": "All for U (Ameyatchi)",
+        "url": "https://open.spotify.com/album/42yVoeB1Bs9lE6uXi7zU2m"
+      },
+      "artists": [
+        {
+          "name": "King Serenity",
+          "url": "https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu"
+        },
+        {
+          "name": "Locko",
+          "url": "https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ"
+        },
+        {
+          "name": "Sergio Alejandro",
+          "url": "https://open.spotify.com/artist/5pLwxvxnxbsHRdgqmhJ7NX"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165563,
+      "name": "All for U (Ameyatchi)",
+      "url": "https://open.spotify.com/track/7LjHqvRyDcMZ9rJ1XuY0IP"
+    },
+    {
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -14806,7 +14832,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 237160,
       "name": "Le feu",
       "url": "https://open.spotify.com/track/7tChNCtleS9bUPD4uDXvJf"

@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: Aimer
 
-459 songs - 1 day 7 hr 13 min
+460 songs - 1 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Pretty Fever](https://open.spotify.com/track/2MkZIwCwTJR6wZH2unpwMV) | [Minako Kotobuki](https://open.spotify.com/artist/1NGAO9BGAOwKrv0dtjXRpP) | [Tick](https://open.spotify.com/album/24iNTW4PeXS3yTTftTj4yZ) | 4:22 | 2022-07-07 | 2022-07-16 |
 | [RADIANT](https://open.spotify.com/track/4wJq1JyMEo91X06guiVcHd) | [Run Girls, Run!](https://open.spotify.com/artist/7vWFgEpnOyJ5wgvDzNIAlz) | [Get set,Go!](https://open.spotify.com/album/5rkIz5qpVOxf36LrAD7Z8l) | 4:26 | 2022-06-21 | 2022-07-16 |
 | [Rainbow Light](https://open.spotify.com/track/6tcRzcr3q8J06UwXbEBxH2) | [今井麻美](https://open.spotify.com/artist/6Yy5HRdcdZR1r2A2YnEefb) | [Balancing Journey](https://open.spotify.com/album/4SutUtj3aibooPa7eTVPrA) | 4:34 | 2022-06-21 | 2022-07-15 |
+| [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 | 2023-08-08 |  |
 | [Ready Set Go!!](https://open.spotify.com/track/1Mg2xpVLUfGkSYF33v3o2A) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Ready Set Go!!](https://open.spotify.com/album/18lCeDN7w8m2xqm0CAlM4N) | 3:51 | 2022-06-09 | 2022-07-26 |
 | [REAL\-EYES](https://open.spotify.com/track/4dvWchb4P8bNqeO0UsHoEc) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [REAL\-EYES](https://open.spotify.com/album/2RxLu921dpayn2D3xyFmxz) | 4:07 | 2022-06-14 | 2022-07-29 |
 | [Realize](https://open.spotify.com/track/1vbWvIDfJYYyLVke6I3Vwk) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [TVアニメ「Re:ゼロから始める異世界生活」2nd seasonオープニングテーマ「Realize」](https://open.spotify.com/album/10yod2vdNVJ4gtLT79TdLR) | 4:04 | 2022-06-12 | 2022-06-23 |
@@ -413,7 +414,7 @@
 | [暴走少女愛伝茶茶](https://open.spotify.com/track/5XNm0oqvg9Fh9NHBWojXlx) | [アナーキー\(CV.ファイルーズあい\)](https://open.spotify.com/artist/3DmiPSqkarORlgPVa62WJQ), [ブルー\(CV.愛美\)](https://open.spotify.com/artist/7qVo7mbyWJKhs5yTB1c8LM), [ピンク\(CV.黒沢ともよ\)](https://open.spotify.com/artist/512onuaY0Mgx2C1JKf0AFG) | [Everything Happens for a reason/暴走少女愛伝茶茶](https://open.spotify.com/album/3JG61MSMf01PKs2rLv1GZn) | 1:33 | 2023-06-13 | 2023-07-05 |
 | [月がきれい](https://open.spotify.com/track/1xAmjFooIkdp6b65YfseBW) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Rainbow](https://open.spotify.com/album/73Ap5dXU3ZP9FNcY4F8R9K) | 6:00 | 2022-07-19 | 2022-07-22 |
 | [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 | 2023-05-25 |  |
-| [朝が来る](https://open.spotify.com/track/1pf86hMft7R3Gg79LHQ94v) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 4:53 | 2023-07-25 |  |
+| [朝が来る](https://open.spotify.com/track/1pf86hMft7R3Gg79LHQ94v) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 4:53 | 2023-07-25 | 2023-08-09 |
 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 | 2022-06-12 | 2023-07-27 |
 | [歌よ](https://open.spotify.com/track/5dy1QO156l2ct1MVPzc8px) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [歌よ](https://open.spotify.com/album/2cbkTAOwaD1L8vmbWdIfzU) | 3:58 | 2022-06-09 | 2022-07-29 |
 | [残滓](https://open.spotify.com/track/11DCW3yqdWBZYWoWR452iU) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [残滓](https://open.spotify.com/album/7wdfXXSgquP0VH4olkDYiq) | 2:18 | 2023-05-16 | 2023-05-24 |

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 141301,
+  "num_followers": 141342,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzQzMTAzOTA3N2IwMzY0Zjc2NGIzODc2N2MyOTcwMjgyN2UwY2E5",
+  "snapshot_id": "MCxlOGMwZDBhNDBjZjRkYzMxMDNiOTgxODZmYzhiZmIxNTBiOTRmMmY4",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Hilo Rojo",
+      "url": "https://open.spotify.com/track/3XMJLE4cS4ug7i4tnz09dP"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "The Way I Love You",
         "url": "https://open.spotify.com/album/3K4LPKywpYV44mQtqt5mNH"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 162726,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/3XV5r1cMB2AlD2ir0v6mfm"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Hilo Rojo",
-      "url": "https://open.spotify.com/track/3XMJLE4cS4ug7i4tnz09dP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Patawad",
+        "url": "https://open.spotify.com/album/7G3zazPJW58CN46v9jLj4U"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 258906,
+      "name": "Hanggang sa Huli - From \"24/7\"",
+      "url": "https://open.spotify.com/track/7s3KnjmKVne7dV6ErqdWsC"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Tum Na Ho",
         "url": "https://open.spotify.com/album/6472XqZVt7gHSO4K40Pqk7"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 210857,
       "name": "Tum Na Ho",
       "url": "https://open.spotify.com/track/65QRFvzB2ZLJ1BygWPxxVj"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Patawad",
-        "url": "https://open.spotify.com/album/7G3zazPJW58CN46v9jLj4U"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 258906,
-      "name": "Hanggang sa Huli - From \"24/7\"",
-      "url": "https://open.spotify.com/track/7s3KnjmKVne7dV6ErqdWsC"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Al Kawn Janni Maak",
-        "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 135060,
-      "name": "Al Kawn Janni Maak",
-      "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "7 (Part 2)",
         "url": "https://open.spotify.com/album/1ls6wJRjbuR6QVKmb9p0Kl"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 210000,
       "name": "\u041a\u0440\u044b\u043b\u044c\u044f",
       "url": "https://open.spotify.com/track/2uPfnpMuL4poAmSKVx8QSy"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Al Kawn Janni Maak",
+        "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 135060,
+      "name": "Al Kawn Janni Maak",
+      "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sajni",
-        "url": "https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar"
-      },
-      "artists": [
-        {
-          "name": "The Yellow Diary",
-          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Sajni",
-      "url": "https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Elyanna",
         "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 62969,
       "name": "Majnony Ana",
       "url": "https://open.spotify.com/track/67wgF0zAjq7gdXILvTzloC"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Sajni",
+        "url": "https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Sajni",
+      "url": "https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Love song",
-        "url": "https://open.spotify.com/album/2sgwU6KQf0sd2hIvMCPMjp"
-      },
-      "artists": [
-        {
-          "name": "J-JUN",
-          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Tender love",
-      "url": "https://open.spotify.com/track/1wOwr5DVupZjgO7lJxPsyN"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Night within you",
         "url": "https://open.spotify.com/album/3JkOtuYHXxscyJuYT3k3VL"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 254360,
       "name": "Night within you",
       "url": "https://open.spotify.com/track/4QlGtDYlVWAIiwCNU5f1i3"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Love song",
+        "url": "https://open.spotify.com/album/2sgwU6KQf0sd2hIvMCPMjp"
+      },
+      "artists": [
+        {
+          "name": "J-JUN",
+          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Tender love",
+      "url": "https://open.spotify.com/track/1wOwr5DVupZjgO7lJxPsyN"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
-        "url": "https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 287500,
-      "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
-      "url": "https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.11",
         "url": "https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 307500,
       "name": "\uc0ac\ub791\uc758\uc778\uc0ac",
       "url": "https://open.spotify.com/track/1E1G4Uj8kmiW9jlJ7uByxy"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
+        "url": "https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 287500,
+      "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
+      "url": "https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2155,18 +2155,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Ang Kwento Ng Pag-Ibig",
-        "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
+        "name": "I See The Dream (Badna Salam) [feat. Ali Gatie] [Acoustic]",
+        "url": "https://open.spotify.com/album/0vVz5TFO0EWv7fvdSTK2T5"
       },
       "artists": [
         {
-          "name": "Steph",
-          "url": "https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i"
+          "name": "Massari",
+          "url": "https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
         }
       ],
-      "duration_ms": 272288,
-      "name": "Ang Kwento Ng Pag-Ibig",
-      "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
+      "duration_ms": 163366,
+      "name": "I See The Dream (Badna Salam) (feat. Ali Gatie) - Acoustic",
+      "url": "https://open.spotify.com/track/00Uz6dZGLeIJxWV1FnsqgM"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2191,22 +2195,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "I See The Dream (Badna Salam) [feat. Ali Gatie] [Acoustic]",
-        "url": "https://open.spotify.com/album/0vVz5TFO0EWv7fvdSTK2T5"
+        "name": "Ang Kwento Ng Pag-Ibig",
+        "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
       },
       "artists": [
         {
-          "name": "Massari",
-          "url": "https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51"
-        },
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+          "name": "Steph",
+          "url": "https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i"
         }
       ],
-      "duration_ms": 163366,
-      "name": "I See The Dream (Badna Salam) (feat. Ali Gatie) - Acoustic",
-      "url": "https://open.spotify.com/track/00Uz6dZGLeIJxWV1FnsqgM"
+      "duration_ms": 272288,
+      "name": "Ang Kwento Ng Pag-Ibig",
+      "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
     },
     {
       "added_at": "2022-10-17 15:00:00",

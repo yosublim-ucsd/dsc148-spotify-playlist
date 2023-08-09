@@ -1056,6 +1056,24 @@
     {
       "album": {
         "name": "HALO JUMP",
+        "url": "https://open.spotify.com/album/5yX92esYU4iEY21gPEPYhc"
+      },
+      "artists": [
+        {
+          "name": "YUSSI",
+          "url": "https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "HALO JUMP",
+      "url": "https://open.spotify.com/track/2hMihSmiIFfMAlDBYDZIpR"
+    },
+    {
+      "album": {
+        "name": "HALO JUMP",
         "url": "https://open.spotify.com/album/7ynw3zwj2JvorTpUsjoqvc"
       },
       "artists": [
@@ -1066,7 +1084,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 207000,
       "name": "HALO JUMP",
       "url": "https://open.spotify.com/track/6jM65OGqVRyiGI2aLYuxMK"
@@ -1684,10 +1702,28 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 187586,
       "name": "Prime Time Twilight",
       "url": "https://open.spotify.com/track/1P4sKJ8bQa9slz0wbPHfNT"
+    },
+    {
+      "album": {
+        "name": "Prime Time Twilight",
+        "url": "https://open.spotify.com/album/2gTAobrDh6OOHrpwUw3rFy"
+      },
+      "artists": [
+        {
+          "name": "DON DARKOE",
+          "url": "https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187680,
+      "name": "Prime Time Twilight",
+      "url": "https://open.spotify.com/track/7f9vSEtvjehhOrEozovQdX"
     },
     {
       "album": {
@@ -2374,10 +2410,28 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 206000,
       "name": "TURN IT",
       "url": "https://open.spotify.com/track/1RaWyRtQAjscmH6ixxKLsZ"
+    },
+    {
+      "album": {
+        "name": "TURN IT",
+        "url": "https://open.spotify.com/album/4pzZK03SInnooMGZsdFxyi"
+      },
+      "artists": [
+        {
+          "name": "YUSSI",
+          "url": "https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "TURN IT",
+      "url": "https://open.spotify.com/track/4mRrOHHRjje4sP8a1dUA01"
     },
     {
       "album": {

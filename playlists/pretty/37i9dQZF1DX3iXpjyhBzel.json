@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Rebeca Carvalho",
-  "num_followers": 973864,
+  "num_followers": 974356,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTVjM2YxMTYwYzk4NDAzYmY4ZjRhZDFhOWVhZWU4MDFjMzViZWUz",
+  "snapshot_id": "MCw2ZGE0MWZmMzExMTJhNzBhYjYwZmYyYWM3NWNhZmFkYzdjZGJlNDE4",
   "tracks": [
     {
       "added_at": "2023-08-04 17:01:10",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-08-04 17:01:10",
       "album": {
-        "name": "Quarto Secreto",
-        "url": "https://open.spotify.com/album/4it8ereveBK8yFE4Ja2R87"
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
       },
       "artists": [
         {
-          "name": "Marquinhos Gomes",
-          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 307220,
-      "name": "Quarto Secreto",
-      "url": "https://open.spotify.com/track/6wrNrFlUJEPUXWxIJQOluR"
+      "duration_ms": 233406,
+      "name": "Volte a Sonhar",
+      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
     },
     {
       "added_at": "2023-08-04 17:01:10",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-08-04 17:01:10",
       "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+        "name": "Quarto Secreto",
+        "url": "https://open.spotify.com/album/4it8ereveBK8yFE4Ja2R87"
       },
       "artists": [
         {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
         }
       ],
-      "duration_ms": 233406,
-      "name": "Volte a Sonhar",
-      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
+      "duration_ms": 307220,
+      "name": "Quarto Secreto",
+      "url": "https://open.spotify.com/track/6wrNrFlUJEPUXWxIJQOluR"
     },
     {
       "added_at": "2023-08-04 17:01:10",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-04 17:01:10",
       "album": {
-        "name": "Foi Deus",
-        "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
-      },
-      "artists": [
-        {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        }
-      ],
-      "duration_ms": 453941,
-      "name": "Foi Deus",
-      "url": "https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB"
-    },
-    {
-      "added_at": "2023-08-04 17:01:10",
-      "album": {
         "name": "Filho (Ao Vivo)",
         "url": "https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 245136,
       "name": "Filho - Ao Vivo",
       "url": "https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p"
+    },
+    {
+      "added_at": "2023-08-04 17:01:10",
+      "album": {
+        "name": "Foi Deus",
+        "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
+      },
+      "artists": [
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        }
+      ],
+      "duration_ms": 453941,
+      "name": "Foi Deus",
+      "url": "https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB"
     },
     {
       "added_at": "2023-08-04 17:01:10",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-08-04 17:01:10",
       "album": {
+        "name": "Gabriel Guedes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 204700,
+      "name": "Todos Os Meus Dias - Ao Vivo",
+      "url": "https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA"
+    },
+    {
+      "added_at": "2023-08-04 17:01:10",
+      "album": {
         "name": "Eu Vou Construir",
         "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
       },
@@ -1115,26 +1131,6 @@
       "duration_ms": 409459,
       "name": "Eu Vou Construir",
       "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
-    },
-    {
-      "added_at": "2023-08-04 17:01:10",
-      "album": {
-        "name": "Voc\u00ea N\u00e3o Imagina",
-        "url": "https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu"
-      },
-      "artists": [
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 318020,
-      "name": "Voc\u00ea N\u00e3o Imagina",
-      "url": "https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R"
     },
     {
       "added_at": "2023-08-04 17:01:10",
@@ -1159,18 +1155,22 @@
     {
       "added_at": "2023-08-04 17:01:10",
       "album": {
-        "name": "Gabriel Guedes (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs"
+        "name": "Voc\u00ea N\u00e3o Imagina",
+        "url": "https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu"
       },
       "artists": [
         {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 204700,
-      "name": "Todos Os Meus Dias - Ao Vivo",
-      "url": "https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA"
+      "duration_ms": 318020,
+      "name": "Voc\u00ea N\u00e3o Imagina",
+      "url": "https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R"
     },
     {
       "added_at": "2023-08-04 17:01:10",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-08-04 17:01:10",
       "album": {
+        "name": "Santo Pra Sempre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 312219,
+      "name": "Santo Pra Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
+    },
+    {
+      "added_at": "2023-08-04 17:01:10",
+      "album": {
         "name": "N\u00f3s Te Adoramos (Ao Vivo)",
         "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 438080,
       "name": "N\u00f3s Te Adoramos - Ao Vivo",
       "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
-    },
-    {
-      "added_at": "2023-08-04 17:01:10",
-      "album": {
-        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 366461,
-      "name": "Yeshua (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n"
     },
     {
       "added_at": "2023-08-04 17:01:10",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-08-04 17:01:10",
       "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 366461,
+      "name": "Yeshua (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n"
+    },
+    {
+      "added_at": "2023-08-04 17:01:10",
+      "album": {
         "name": "Para Ti Eu Vou (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QnyvMynTBuazeXR561cKo"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 601544,
       "name": "Para Ti Eu Vou - Ao Vivo",
       "url": "https://open.spotify.com/track/6vA1FwRxArrlYJTCW5sxHi"
-    },
-    {
-      "added_at": "2023-08-04 17:01:10",
-      "album": {
-        "name": "Santo Pra Sempre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 312219,
-      "name": "Santo Pra Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
     },
     {
       "added_at": "2023-08-04 17:01:10",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-08-04 17:01:10",
       "album": {
+        "name": "30 Anos Na Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15qEQ0gH57j9rh4CfV1aPu"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 367349,
+      "name": "Sonda-me Usa-me - Ao Vivo",
+      "url": "https://open.spotify.com/track/0Gw6MjldfM8Yhq6Joxp0o8"
+    },
+    {
+      "added_at": "2023-08-04 17:01:10",
+      "album": {
         "name": "Doxologia",
         "url": "https://open.spotify.com/album/5uAYngAUPvd0RDdmnfsjfF"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 343525,
       "name": "Doxologia",
       "url": "https://open.spotify.com/track/5DXFKMcwCf0w2E6sIcfu5a"
-    },
-    {
-      "added_at": "2023-08-04 17:01:10",
-      "album": {
-        "name": "30 Anos Na Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/15qEQ0gH57j9rh4CfV1aPu"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 367349,
-      "name": "Sonda-me Usa-me - Ao Vivo",
-      "url": "https://open.spotify.com/track/0Gw6MjldfM8Yhq6Joxp0o8"
     },
     {
       "added_at": "2023-08-04 17:01:10",

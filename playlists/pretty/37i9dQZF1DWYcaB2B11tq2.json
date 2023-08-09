@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 376651,
+  "num_followers": 376872,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjUwYjg2OTk1ZjliZDQ3OTcxNWExMjMyODk5MGExN2VhNzllNWVk",
+  "snapshot_id": "MCwxM2U5Y2Q5ZTcwZWE3Yjc4Zjc4MGI3ODUzZjdkYmVjYWEzMDJlNzc5",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -291,42 +291,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "El Encuentro",
-        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 299706,
-      "name": "Preciosa Sangre",
-      "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "Es Por Tu Gracia",
-      "url": "https://open.spotify.com/track/2eraB6aW3YLpAJO22mO4GW"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Promesas",
         "url": "https://open.spotify.com/album/6AhZUgRb9ONblfzevQACl8"
       },
@@ -347,6 +311,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "Es Por Tu Gracia",
+      "url": "https://open.spotify.com/track/2eraB6aW3YLpAJO22mO4GW"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Piedras Vivas",
         "url": "https://open.spotify.com/album/2Z3y8daO4p0u99UfYxeGzG"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 315653,
       "name": "Gracia Sublime Es",
       "url": "https://open.spotify.com/track/5fx0pSrRtDq2u7qlaly8fC"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "El Encuentro",
+        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 299706,
+      "name": "Preciosa Sangre",
+      "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -447,26 +447,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Incontenible Es Tu Amor",
-        "url": "https://open.spotify.com/album/3US7xplIUPp647q67nCMS0"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        },
-        {
-          "name": "Omar Rodriguez Music",
-          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
-        }
-      ],
-      "duration_ms": 333217,
-      "name": "El Gran Yo Soy",
-      "url": "https://open.spotify.com/track/7sS0PbgE6pUsaCXuaDpKIM"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Yo Tambi\u00e9n (Un Bill\u00f3n De Veces)",
         "url": "https://open.spotify.com/album/6zc2WKK1KdSM1E35DXPOit"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 438519,
       "name": "Yo Tambi\u00e9n (Un Bill\u00f3n De Veces)",
       "url": "https://open.spotify.com/track/22H9y1qkAXg4jhrXM3xo3U"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Cerca Est\u00e1s",
+        "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        },
+        {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
+        }
+      ],
+      "duration_ms": 203516,
+      "name": "Si Sabes Donde Hallarlo (feat. Marcos Vidal)",
+      "url": "https://open.spotify.com/track/1ShMaAfr3S4TrovNsMRBkv"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -507,6 +507,26 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Incontenible Es Tu Amor",
+        "url": "https://open.spotify.com/album/3US7xplIUPp647q67nCMS0"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        },
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
+        }
+      ],
+      "duration_ms": 333217,
+      "name": "El Gran Yo Soy",
+      "url": "https://open.spotify.com/track/7sS0PbgE6pUsaCXuaDpKIM"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Kingdom Come",
         "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 294800,
       "name": "Give Me Faith",
       "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Cerca Est\u00e1s",
-        "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
-      },
-      "artists": [
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        },
-        {
-          "name": "Marcos Vidal",
-          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
-        }
-      ],
-      "duration_ms": 203516,
-      "name": "Si Sabes Donde Hallarlo (feat. Marcos Vidal)",
-      "url": "https://open.spotify.com/track/1ShMaAfr3S4TrovNsMRBkv"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -979,22 +979,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "\u00bfQui\u00e9n Contra Nosotros?",
-        "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 201906,
-      "name": "Nada Me Falta",
-      "url": "https://open.spotify.com/track/1xNDwOT47JQFYvtT0JcP7F"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3RE4acPIRjN24JaowvCKGp"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 238710,
       "name": "Yo Soy As\u00ed",
       "url": "https://open.spotify.com/track/7c94XZyfKWQZbkAnPK3FLs"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "\u00bfQui\u00e9n Contra Nosotros?",
+        "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 201906,
+      "name": "Nada Me Falta",
+      "url": "https://open.spotify.com/track/1xNDwOT47JQFYvtT0JcP7F"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1059,26 +1059,6 @@
       "duration_ms": 255537,
       "name": "Viene De Ti",
       "url": "https://open.spotify.com/track/7Ck7diBtjNRVtwlcB2hOb3"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 226306,
-      "name": "No Soy Yo (feat. Redimi2)",
-      "url": "https://open.spotify.com/track/0pA8nTkyVvFdd1HO0oaOrB"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1143,6 +1123,26 @@
       "duration_ms": 333120,
       "name": "Incontrolable Amor",
       "url": "https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 226306,
+      "name": "No Soy Yo (feat. Redimi2)",
+      "url": "https://open.spotify.com/track/0pA8nTkyVvFdd1HO0oaOrB"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Speak Revival",
+        "url": "https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 367760,
+      "name": "Fullness",
+      "url": "https://open.spotify.com/track/5UqyM8fDp1hAAvcb83TS7B"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Tiempo Para Perder",
         "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
       },
@@ -1239,34 +1255,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Jes\u00fas (feat. Marcos Witt)",
-        "url": "https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u"
+        "name": "Jes\u00fas Salva",
+        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
       },
       "artists": [
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 305981,
-      "name": "Jes\u00fas (feat. Marcos Witt)",
-      "url": "https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Speak Revival",
-        "url": "https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V"
-      },
-      "artists": [
+        },
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
         }
       ],
-      "duration_ms": 367760,
-      "name": "Fullness",
-      "url": "https://open.spotify.com/track/5UqyM8fDp1hAAvcb83TS7B"
+      "duration_ms": 308253,
+      "name": "Abre hoy los cielos (feat. Evan Craft)",
+      "url": "https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG"
     },
     {
       "added_at": "2021-05-21 19:19:27",

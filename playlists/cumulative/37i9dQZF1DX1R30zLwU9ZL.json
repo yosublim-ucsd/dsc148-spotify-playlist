@@ -220,7 +220,7 @@
     {
       "album": {
         "name": "Dodgeball",
-        "url": "https://open.spotify.com/album/6uwuw4B8fviW9Wu0awFi1N"
+        "url": "https://open.spotify.com/album/12T2pBAgE6V3gK2U0oxaJ4"
       },
       "artists": [
         {
@@ -231,6 +231,24 @@
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 187294,
+      "name": "Dodgeball",
+      "url": "https://open.spotify.com/track/0ZLJcG2SkVde3GKoBsz7LX"
+    },
+    {
+      "album": {
+        "name": "Dodgeball",
+        "url": "https://open.spotify.com/album/6uwuw4B8fviW9Wu0awFi1N"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
       "duration_ms": 187294,
       "name": "Dodgeball",
       "url": "https://open.spotify.com/track/0zhh7NAHesDIGWK5b5DbUm"

@@ -4,11 +4,12 @@
 
 > open the pit\. cover: Scowl
 
-124 songs - 5 hr 20 min
+125 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [a kiss for every hornet](https://open.spotify.com/track/4zjoNVLpEHz2SYlNhtxsMb) | [.gif from god](https://open.spotify.com/artist/4qVaCnGWlXCy5IP1nNVlT5) | [a kiss for every hornet](https://open.spotify.com/album/6C8roo7XUDgyfBS0RQrU8Y) | 3:34 | 2023-02-24 | 2023-06-21 |
+| [All](https://open.spotify.com/track/0iwZ8jCa5YuNLnKQdYSS07) | [Squint](https://open.spotify.com/artist/3rSZhCBS6SLmBFzpPxvhr5) | [All](https://open.spotify.com/album/5HBYg2ndJSC24fHXi1FfTb) | 2:12 | 2023-08-08 |  |
 | [Alone At The Bottom](https://open.spotify.com/track/2uYAw6gPeU8MQ1nXyJsMr7) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Alone At The Bottom](https://open.spotify.com/album/5I2MWP81o1sdBnSGR4o8qb) | 2:22 | 2023-02-24 | 2023-04-22 |
 | [Ambivalence](https://open.spotify.com/track/2qfphPpOAkLAGr5hjBij4y) | [Sonagi](https://open.spotify.com/artist/7LMdXzRix6vqLE1PefCPAg) | [Precedent](https://open.spotify.com/album/6H7jy2vvzT4XPXC9ubX5by) | 2:20 | 2023-02-24 | 2023-04-30 |
 | [Ambivalence](https://open.spotify.com/track/40CnUZ7PoaK77rSGqmx7Mi) | [Sonagi](https://open.spotify.com/artist/7LMdXzRix6vqLE1PefCPAg) | [Precedent](https://open.spotify.com/album/2yTQM7NDekBNwq2OgGWso9) | 2:20 | 2023-04-21 | 2023-05-20 |

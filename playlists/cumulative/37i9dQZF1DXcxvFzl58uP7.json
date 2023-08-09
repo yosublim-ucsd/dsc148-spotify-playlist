@@ -6467,6 +6467,24 @@
     },
     {
       "album": {
+        "name": "It's All In Your Head",
+        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
+      },
+      "artists": [
+        {
+          "name": "dandelion hands",
+          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130742,
+      "name": "How To Never Stop Being Sad",
+      "url": "https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ"
+    },
+    {
+      "album": {
         "name": "How Was Your Day?",
         "url": "https://open.spotify.com/album/7rUsxlkjBKrKdumIkBMieZ"
       },
@@ -15372,7 +15390,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 204160,
       "name": "With Somebody",
       "url": "https://open.spotify.com/track/2pxjnQcQ2fNje67977QI0f"

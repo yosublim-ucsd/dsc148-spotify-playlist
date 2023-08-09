@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:7wXTWO45lqpUejDkike0Gf\">Sofia Kourtesis</a>'s favorite tracks. Updated regularly. Curated by Sofia Kourtesis. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 21605,
+  "num_followers": 21623,
   "original_name": "Sofia Kourtesis track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmNlNWJjOTEzMTA4NmMzYzRiMDcyZmQ3Zjg1NjU0NjlkZDA2NzI1",
+  "snapshot_id": "MCw0ZDc1ZWE0Y2Y5Yzg5ZjVkNjFiODUwYWJhN2M0Nzg4OTVhNWNkYTk0",
   "tracks": [
     {
       "added_at": "2023-01-09 06:32:48",
@@ -1710,6 +1710,18 @@
         {
           "name": "Stardust",
           "url": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
+        },
+        {
+          "name": "Benjamin Diamond",
+          "url": "https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "Thomas Bangalter",
+          "url": "https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi"
         }
       ],
       "duration_ms": 403293,

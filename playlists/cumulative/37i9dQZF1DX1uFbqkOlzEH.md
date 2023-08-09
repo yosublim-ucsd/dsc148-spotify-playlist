@@ -4,7 +4,7 @@
 
 > Crush on Crush's K\-R&B and musics.
 
-186 songs - 11 hr 14 min
+187 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,8 @@
 | [woo ah](https://open.spotify.com/track/5iOAtCkFtfPZoMeMbhMIY0) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Interlude](https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS) | 3:41 | 2020-12-27 | 2022-07-29 |
 | [You and I](https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Oasis](https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g) | 2:40 | 2020-12-27 |  |
 | [You and I](https://open.spotify.com/track/3sAxSK47Z6nfIzPmiM9pmv) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Oasis](https://open.spotify.com/album/1TGQ6CdCdURHbPjvichfY1) | 2:40 | 2020-12-27 | 2022-07-29 |
-| [You Are My Lady \(해외파 뮤지션 마이콜\)](https://open.spotify.com/track/1F1PRYM5ZKwXX8CKAegvMi) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Mask Singer 64th \(Live Version\)](https://open.spotify.com/album/0GTENfEeLNiEAqynhk8oRN) | 4:25 | 2020-12-27 |  |
+| [You Are My Lady \(해외파 뮤지션 마이콜\)](https://open.spotify.com/track/0sURxd4sQ6QQh15hwUnF6g) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Mask Singer 64th \(Live Version\)](https://open.spotify.com/album/5ijvjY480KJkSRnqFgFs6O) | 4:25 | 2023-06-21 |  |
+| [You Are My Lady \(해외파 뮤지션 마이콜\)](https://open.spotify.com/track/1F1PRYM5ZKwXX8CKAegvMi) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Mask Singer 64th \(Live Version\)](https://open.spotify.com/album/0GTENfEeLNiEAqynhk8oRN) | 4:25 | 2020-12-27 | 2023-08-09 |
 | [You in my arms \(From The Original TV Show "Begin Again Korea"\) \(Live\)](https://open.spotify.com/track/3R1pb4dWmpMLqxfrwMep2u) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Begin Again Korea, Episode\. 10 \(From The Original TV Show "Begin Again Korea"\) \(Live\)](https://open.spotify.com/album/1GrNKv6qqmXfbBTdILPwwf) | 5:13 | 2020-12-27 |  |
 | [You in my arms \(From The Original TV Show "Begin Again Korea"\) \- Live](https://open.spotify.com/track/3dA3EVZKyoeH5RG5esZLhR) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Begin Again Korea Episode.10 \(Original Television Soundtrack\) \[Live\]](https://open.spotify.com/album/2Wy3SFlvm29GzOcbNczLWV) | 5:13 | 2020-12-27 | 2022-07-29 |
 | [Your Dog Loves You](https://open.spotify.com/track/3GpGhXS8jJMRXJLOXwaJeO) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Your Dog Loves You](https://open.spotify.com/album/2K7FTCPLGWfJbJiZnmADOR) | 4:30 | 2020-12-27 | 2022-07-29 |

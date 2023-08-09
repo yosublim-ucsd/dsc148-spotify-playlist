@@ -582,7 +582,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 233879,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3"
@@ -6178,7 +6178,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 193133,
       "name": "Sparkle Light",
       "url": "https://open.spotify.com/track/47sohv5VFYwm24JRhCz3KF"
@@ -9785,6 +9785,28 @@
     },
     {
       "album": {
+        "name": "\u5b9a\u6642\u3067\u5e30\u308d\u3046 feat. TOTALFAT",
+        "url": "https://open.spotify.com/album/4Nt4pUQZs50oRYt3wd7iHz"
+      },
+      "artists": [
+        {
+          "name": "ADAM at",
+          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
+        },
+        {
+          "name": "TOTALFAT",
+          "url": "https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187433,
+      "name": "\u5b9a\u6642\u3067\u5e30\u308d\u3046 feat. TOTALFAT",
+      "url": "https://open.spotify.com/track/6gqRMq5FrDCeiGQPd63gBs"
+    },
+    {
+      "album": {
         "name": "MESSAGE",
         "url": "https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2"
       },
@@ -10290,6 +10312,24 @@
       "duration_ms": 195773,
       "name": "\u6b20\u3051\u30dc\u30bf\u30f3\u306e\u6d5c",
       "url": "https://open.spotify.com/track/1w4z24d1WsNzAiSgvMegOe"
+    },
+    {
+      "album": {
+        "name": "\u6c38\u4e45\u306b",
+        "url": "https://open.spotify.com/album/0VeAIIbyFuQS7WeWqxa0PP"
+      },
+      "artists": [
+        {
+          "name": "THE FOREVER YOUNG",
+          "url": "https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246240,
+      "name": "\u6c38\u4e45\u306b",
+      "url": "https://open.spotify.com/track/4bqBqH6zYVgIZXQO4ZyZJ7"
     },
     {
       "album": {

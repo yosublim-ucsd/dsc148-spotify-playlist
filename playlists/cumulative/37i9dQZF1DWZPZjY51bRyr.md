@@ -2,7 +2,7 @@
 
 ### [Wellness](https://open.spotify.com/playlist/37i9dQZF1DWZPZjY51bRyr)
 
-> Feel the warmth of the spa, treat your body and mind to a wellness experience.
+> Spa music for that ultimate relaxation, treat your body and mind to a wellness experience.
 
 153 songs - 8 hr 11 min
 

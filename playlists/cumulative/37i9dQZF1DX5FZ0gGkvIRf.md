@@ -4,7 +4,7 @@
 
 > Kickass Metal Presents..\. The Best Metal Songs of 2022\. Cover: Ghost<br/>\#SpotifyWrapped
 
-110 songs - 7 hr 9 min
+111 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [It's Over](https://open.spotify.com/track/4dE9n4c39181OXEGSUkljx) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me](https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX) | 3:23 | 2022-11-30 |  |
 | [Like A Villain](https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:30 | 2022-11-30 |  |
 | [Losing Control](https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Divided](https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY) | 3:28 | 2022-11-30 |  |
-| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/0CwiF8zPjl7ESC6nDnBvPo) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [End of an era](https://open.spotify.com/album/5dTaJdgmqgz5hcmpSVNgVF) | 3:06 | 2022-11-30 |  |
+| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/0CwiF8zPjl7ESC6nDnBvPo) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [End of an era](https://open.spotify.com/album/5dTaJdgmqgz5hcmpSVNgVF) | 3:06 | 2022-11-30 | 2023-08-09 |
+| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/63zxu4C2P5QZeXbn5ShjVB) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [End of an era](https://open.spotify.com/album/5psFkUUBPPrN1yPoHOUPDy) | 3:06 | 2022-11-30 |  |
 | [Midnight Sun](https://open.spotify.com/track/6qeaDEn1cdLy10u1Nhs47V) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv), [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Hate Über Alles](https://open.spotify.com/album/1uWrXYT7gBJ39hy4PLptnF) | 3:38 | 2022-11-30 |  |
 | [MONSTER](https://open.spotify.com/track/2SL0hgFdUg2nBMJapyDuAt) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [I JUST DON'T LOVE YOU ANYMORE](https://open.spotify.com/album/2QgLpBT2EWrF39esY0iIsy) | 3:24 | 2022-11-30 |  |
 | [New Devil \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/0mxritQanYLFJXiqCC1lnc) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR) | [See What's On The Inside \(Deluxe\)](https://open.spotify.com/album/39irqLBf1rIbVtzmnl9qnA) | 3:34 | 2022-11-30 |  |

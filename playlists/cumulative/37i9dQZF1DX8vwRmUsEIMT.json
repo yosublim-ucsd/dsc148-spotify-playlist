@@ -8081,6 +8081,28 @@
     },
     {
       "album": {
+        "name": "Fire of Mercy",
+        "url": "https://open.spotify.com/album/4MxTYuvXTiZpKH0nnzcu7V"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239289,
+      "name": "Fire of Mercy",
+      "url": "https://open.spotify.com/track/6oDHOPYBOGjrRYM3QMxznO"
+    },
+    {
+      "album": {
         "name": "Firebabe",
         "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
       },
@@ -9936,7 +9958,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 219932,
       "name": "Hello (feat. KennyHoopla)",
       "url": "https://open.spotify.com/track/313EAgpDtxaqYhQMxaNUwk"
@@ -21810,7 +21832,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 234482,
       "name": "Troubled Waters",
       "url": "https://open.spotify.com/track/1Uuljx1HOfRmi3dvHJ6Yi6"
@@ -22578,6 +22600,28 @@
       "duration_ms": 242758,
       "name": "Vibration (One More Time) (feat. AR/CO)",
       "url": "https://open.spotify.com/track/2t3iFlsIkaoV7GmVC2ptuM"
+    },
+    {
+      "album": {
+        "name": "Vino Bandit",
+        "url": "https://open.spotify.com/album/5wmkCBglZqdYFKjudx75JG"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150344,
+      "name": "Vino Bandit",
+      "url": "https://open.spotify.com/track/00c6JYguKlfq5yOlLoITlH"
     },
     {
       "album": {

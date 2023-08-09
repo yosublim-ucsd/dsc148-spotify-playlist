@@ -4,7 +4,7 @@
 
 > Fancy belting out your favourite Korean songs? \(Cover: Tei\(테이\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-259 songs - 16 hr 56 min
+260 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,8 @@
 | [스토커 Stalker](https://open.spotify.com/track/2xms6U7ngGDBYJ4RnRTPyz) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 4:12 | 2022-02-17 |  |
 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 | 2022-02-17 | 2023-06-04 |
 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 | 2023-02-16 |  |
-| [신촌을 못가 \(소울충만 체키라웃\)](https://open.spotify.com/track/470wF4yeCAUWFJyRyclq4g) | [김진우](https://open.spotify.com/artist/3ltEEQwBgxqpjiJK2hgrpv) | [Mask Singer 41th \(Live Version\)](https://open.spotify.com/album/3m8iMa9b0AMilQJ16EbnoU) | 3:45 | 2022-02-17 |  |
+| [신촌을 못가 \(소울충만 체키라웃\)](https://open.spotify.com/track/7xVv6k2kG3kdd73MviMEkf) | [Kim Jin Woo](https://open.spotify.com/artist/1OUbmI4hf9CIRtGXvMoIRq) | [Mask Singer 41th \(Live Version\)](https://open.spotify.com/album/3wR4lKlc830w1hPIQIzcVG) | 3:45 | 2023-02-16 |  |
+| [신촌을 못가 \(소울충만 체키라웃\)](https://open.spotify.com/track/470wF4yeCAUWFJyRyclq4g) | [김진우](https://open.spotify.com/artist/3ltEEQwBgxqpjiJK2hgrpv) | [Mask Singer 41th \(Live Version\)](https://open.spotify.com/album/3m8iMa9b0AMilQJ16EbnoU) | 3:45 | 2022-02-17 | 2023-08-09 |
 | [안녕](https://open.spotify.com/track/5QoAukinX7qSw9iWeKdvsQ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hotel del Luna \(Original Television Soundtrack\)](https://open.spotify.com/album/4XPWLocfmwWF1Kx3J8qYZp) | 3:45 | 2022-02-23 | 2022-11-13 |
 | [안녕](https://open.spotify.com/track/7sZwWzSeCtGYo5ZQcWRLlJ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hotel del Luna \(Original Television Soundtrack\) Pt.10](https://open.spotify.com/album/4tW3kGnzsPIvpWOzgIew2A) | 3:45 | 2022-02-23 |  |
 | [오래된 노래](https://open.spotify.com/track/5gllIJSLyRouz1bGO5ues4) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Shine](https://open.spotify.com/album/2aDdQBInFcVq7XHrPPkxfe) | 4:32 | 2022-02-17 | 2023-01-29 |

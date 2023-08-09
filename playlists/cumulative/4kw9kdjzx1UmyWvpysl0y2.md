@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-534 songs - 1 day 7 hr 10 min
+537 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,8 +260,10 @@
 | [k\-means clustering](https://open.spotify.com/track/6FhTODcUxevTUTnbKelCvB) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL) | [k\-means clustering](https://open.spotify.com/album/1neFologMhWAEkYg5BA5M4) | 3:37 | 2023-06-05 |  |
 | [Karibu](https://open.spotify.com/track/5h2qGN5jMJXp68VzQuMqql) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [Karibu](https://open.spotify.com/album/4oKkFqArAgFKTrXbs9IGJk) | 3:56 | 2022-10-05 | 2022-12-06 |
 | [Keep On Dancing](https://open.spotify.com/track/3p1DrvZRj9NTondCwlxbut) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Keep On Dancing](https://open.spotify.com/album/5vgbksNHdjfxpqjY3zQGKi) | 2:28 | 2022-05-27 | 2022-08-09 |
+| [Kibo](https://open.spotify.com/track/0yUs4kfYFLWI72EOhhtNyI) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Kibo](https://open.spotify.com/album/6hCpTjqGmd9qrBo5mNp3S3) | 2:25 | 2023-08-08 |  |
 | [King](https://open.spotify.com/track/0zLwiYqZEwjS4p85V07uOh) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [King](https://open.spotify.com/album/31BofjIuJwIht4LCcUmzDH) | 2:55 | 2023-05-12 |  |
 | [Kingslayer](https://open.spotify.com/track/2xYI4GVeC4SUaNsx9HIUJ1) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo) | [Kingslayer](https://open.spotify.com/album/7uAVQn7dKdmZSqk3Lu47g8) | 3:44 | 2023-03-20 | 2023-06-13 |
+| [Lacuna](https://open.spotify.com/track/7DJtpkk5hNrM8AFTjKPlZv) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Kymira](https://open.spotify.com/artist/6bWdHKULequjwRPTQYWzer) | [Lacuna](https://open.spotify.com/album/0uzhDCZK3SP1oPYSzqQHOA) | 3:59 | 2023-08-08 |  |
 | [Landslide](https://open.spotify.com/track/7DsQcrBb8p6dc6ccMFf7Gk) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Landslide](https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n) | 3:10 | 2023-03-03 | 2023-05-30 |
 | [Let It Bloom](https://open.spotify.com/track/0c4m3t9QKH4PXXYbYX2GBu) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let It Bloom](https://open.spotify.com/album/5QItpT8Xs57eUsrDi5Spae) | 4:00 | 2023-07-27 |  |
 | [Let Me Go](https://open.spotify.com/track/0pqu2PSOGfcV2CFqhHUBOL) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Let Me Go](https://open.spotify.com/album/1j8piDAV1NouzoGo3Z7S0n) | 3:44 | 2023-02-16 | 2023-05-04 |
@@ -465,6 +467,7 @@
 | [Tarantino](https://open.spotify.com/track/5UMs8rciA9omc6JDrWDV8Y) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Half an Orange](https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp) | [& Friends](https://open.spotify.com/album/2ISFdlM8xYsp5D2Vndh6Br) | 3:43 | 2022-03-15 | 2022-05-27 |
 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 | 2023-03-30 | 2023-06-24 |
 | [TELL ME](https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TELL ME](https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0) | 2:48 | 2022-05-09 | 2022-07-21 |
+| [Tell Me Why](https://open.spotify.com/track/3wAeOcZ8kILTJyUzFFuXjS) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Tell Me Why](https://open.spotify.com/album/307NaDYAnzReoOlpGLQwMz) | 3:21 | 2023-08-08 |  |
 | [Tender](https://open.spotify.com/track/1Wb6hywune5SXJTczRgSk7) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV) | [Inner Voices](https://open.spotify.com/album/3YpG3KwKKLRjyJezGvSN3Z) | 3:14 | 2023-04-24 | 2023-07-22 |
 | [Tension](https://open.spotify.com/track/5fsPCB4c74rgxBtZI38DCE) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Tension](https://open.spotify.com/album/5jAVsqobvDn8gH9DgMeyZU) | 3:41 | 2023-04-10 | 2023-07-05 |
 | [The Dark](https://open.spotify.com/track/3mE2sIa33kLQtTcSTWrylq) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Crimson Child](https://open.spotify.com/artist/3HfDytr1a4fQhrC2J29K6v) | [The Dark](https://open.spotify.com/album/60XUyh545wo0P4HHuVQPsI) | 3:48 | 2023-01-26 | 2023-04-13 |

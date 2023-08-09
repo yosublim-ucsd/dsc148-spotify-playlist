@@ -10787,6 +10787,32 @@
     },
     {
       "album": {
+        "name": "Majin Boo",
+        "url": "https://open.spotify.com/album/28K5CabFyxnWqE3SRqcADk"
+      },
+      "artists": [
+        {
+          "name": "DJ LEAD",
+          "url": "https://open.spotify.com/artist/0MSf8DDA2e9OOztlchsyJ7"
+        },
+        {
+          "name": "Chinito2800",
+          "url": "https://open.spotify.com/artist/1m6Yu9fhZvfZWgeLyurWU5"
+        },
+        {
+          "name": "SALU",
+          "url": "https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176158,
+      "name": "Majin Boo",
+      "url": "https://open.spotify.com/track/4ZfP8xcYRhwro8Aaj2xluz"
+    },
+    {
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -12002,7 +12028,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 164386,
       "name": "MIENTRAS ME CURO DEL CORA",
       "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
@@ -12410,7 +12436,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 192856,
       "name": "Nairobi",
       "url": "https://open.spotify.com/track/6oq0tTpAsb9jA1LvaROCGl"
@@ -12910,7 +12936,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 171880,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH"
@@ -13166,7 +13192,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
@@ -15032,7 +15058,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 207626,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
@@ -16907,6 +16933,24 @@
     },
     {
       "album": {
+        "name": "Shootas",
+        "url": "https://open.spotify.com/album/6zOCLfpC6geSjJJQpGKksz"
+      },
+      "artists": [
+        {
+          "name": "Emcee",
+          "url": "https://open.spotify.com/artist/7zM0krNz9Bsy9SeCC1YZ5J"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177528,
+      "name": "Shootas",
+      "url": "https://open.spotify.com/track/5HEs0In8W4pASLhR7kpJco"
+    },
+    {
+      "album": {
         "name": "Shorty",
         "url": "https://open.spotify.com/album/2PUUfckakjlUc8hh2qt5XU"
       },
@@ -17944,6 +17988,24 @@
       "duration_ms": 182163,
       "name": "Strangers By Nature",
       "url": "https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq"
+    },
+    {
+      "album": {
+        "name": "Sube Y Baja",
+        "url": "https://open.spotify.com/album/3xhFV3LywhR8YVLqbFfIUV"
+      },
+      "artists": [
+        {
+          "name": "Bodega Flee",
+          "url": "https://open.spotify.com/artist/7nC7r52zlnhkyw2rtaatpS"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193032,
+      "name": "Sube Y Baja",
+      "url": "https://open.spotify.com/track/4TvCWRtQuhjgcGGkYMwvN8"
     },
     {
       "album": {

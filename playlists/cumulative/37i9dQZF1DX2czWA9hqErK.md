@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-521 songs - 1 day 5 hr 14 min
+522 songs - 1 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [I Want It All](https://open.spotify.com/track/18PlaQBPe3yJBW1MNKstn2) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [I Want It All](https://open.spotify.com/album/6JOfGsXXXSCFEppeRHWspi) | 3:07 | 2021-12-16 | 2022-03-28 |
 | [I Will Follow You Into The Dark](https://open.spotify.com/track/5aLtfA57cXVEtLQIzv0y2v) | [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [I Will Follow You Into The Dark](https://open.spotify.com/album/52VVh0GZBIdANuNJ943gpt) | 2:56 | 2021-12-16 | 2022-01-12 |
 | [I Wish I Never Said I Love You](https://open.spotify.com/track/5skBOIu0bYqM1wqeEgGFtk) | [Morgan M\-James](https://open.spotify.com/artist/4TrkuShoMuKaGa2gH6BnNz) | [I Wish I Never Said I Love You](https://open.spotify.com/album/4ghA00JVRu3i8H5AvYrUE4) | 3:11 | 2022-02-21 | 2022-03-30 |
+| [I'll Be Waiting](https://open.spotify.com/track/04zpnoSROKFTCfgkoPcZ5A) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 2:52 | 2023-08-01 |  |
 | [I'll Be Waiting](https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 2:52 | 2023-01-20 | 2023-08-07 |
 | [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR) | 2:52 | 2022-12-20 | 2023-02-12 |
 | [I'm So Happy \- Acoustic](https://open.spotify.com/track/3tnNZ5fg5AHlFwTW8j9ywH) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [I’m So Happy](https://open.spotify.com/album/3ocDAi8hhp7ebXbUnweRNy) | 2:53 | 2021-12-16 | 2022-01-12 |
@@ -393,7 +394,7 @@
 | [Running Shoes](https://open.spotify.com/track/37n7QHLUmmY7biMHeou3Ix) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Running Shoes](https://open.spotify.com/album/1tw3N61XMnpndZL6zvP0uh) | 3:41 | 2022-04-04 | 2022-07-18 |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2023-01-20 |  |
 | [Róisín](https://open.spotify.com/track/5efHoPUOCPywINwkok3U13) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Róisín](https://open.spotify.com/album/2G89n4hSvqfs7vPjBATd1o) | 4:03 | 2021-12-16 | 2022-02-22 |
-| [Sad Anymore](https://open.spotify.com/track/3YYWgUWXcK1Bo9dpnZdAEr) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:10 | 2022-10-21 |  |
+| [Sad Anymore](https://open.spotify.com/track/3YYWgUWXcK1Bo9dpnZdAEr) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:10 | 2022-10-21 | 2023-08-09 |
 | [Sad Anymore](https://open.spotify.com/track/6KKQRxk7BVrjjdWbEc9MA6) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Sad Anymore](https://open.spotify.com/album/5wyenYTuawD6OrrXQquyUc) | 2:10 | 2022-05-31 | 2022-11-24 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2023-05-16 |  |
 | [Scars](https://open.spotify.com/track/54u5CIDhcd3zBXi62gnFwA) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Scars](https://open.spotify.com/album/7KvLrCyO9gxRpks8p8PWB1) | 3:18 | 2022-05-31 | 2023-03-08 |

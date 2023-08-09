@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 83369,
+  "num_followers": 83402,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTA0MWI4YjIyZTY4ODhhNDIwNjZjOWJjYzc1MDM1NDAxYjIyYjc5",
+  "snapshot_id": "MCxhMDEwYzE5MzExNzRiMzdlZDI3Nzc5YzIxNjFlNjM1ZDZmMDg1NGE0",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "The Greatest Dancer",
-        "url": "https://open.spotify.com/album/2TVb3PnbULiYIxHr4Oje9P"
-      },
-      "artists": [
-        {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
-        }
-      ],
-      "duration_ms": 422618,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/47L7EinVbbEBraJE0MMnW9"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "A Walk in the Park",
         "url": "https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 325880,
       "name": "A Walk in the Park",
       "url": "https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "The Greatest Dancer",
+        "url": "https://open.spotify.com/album/2TVb3PnbULiYIxHr4Oje9P"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 422618,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/47L7EinVbbEBraJE0MMnW9"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Azimuth",
-        "url": "https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X"
-      },
-      "artists": [
-        {
-          "name": "Kenny Larkin",
-          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
-        }
-      ],
-      "duration_ms": 383706,
-      "name": "Q",
-      "url": "https://open.spotify.com/track/2ClYwWJs6wnCRH9qAnCsWW"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "We All Move Together",
         "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 352599,
       "name": "We All Move Together - Album Mix",
       "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Azimuth",
+        "url": "https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X"
+      },
+      "artists": [
+        {
+          "name": "Kenny Larkin",
+          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
+        }
+      ],
+      "duration_ms": 383706,
+      "name": "Q",
+      "url": "https://open.spotify.com/track/2ClYwWJs6wnCRH9qAnCsWW"
     },
     {
       "added_at": "2023-04-28 04:00:00",

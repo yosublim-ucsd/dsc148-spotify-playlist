@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Imagine Dragons",
-  "num_followers": 59071,
+  "num_followers": 59104,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjI2MzQwZWVkZTA3MDE5MTNlZTEwNzcxMzBkYWUwNDNmNTM0OTc0",
+  "snapshot_id": "MCxhY2U1NWU1NDk5MGI1ZWY1MzViMjUzMmY3M2I0OTUxZmQxZjFkNWFl",
   "tracks": [
     {
       "added_at": "2023-05-14 16:51:28",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "You're Still The One - Live",
-      "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Chasing Time: The Bedlam Sessions",
         "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 218266,
       "name": "You're Beautiful - Live in Ireland",
       "url": "https://open.spotify.com/track/6eKJcEIijmi1WFJwnOMxvv"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "You're Still The One - Live",
+      "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 352013,
-      "name": "Dancing Queen - Live",
-      "url": "https://open.spotify.com/track/7uCt8IA0PnfsEoTMk7By1Q"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Jason Mraz's Beautiful Mess: Live on Earth",
         "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 200826,
       "name": "Lucky (feat. Colbie Caillat) - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
       "url": "https://open.spotify.com/track/7FMqPuhsyqfA65Mw0QgU1i"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 352013,
+      "name": "Dancing Queen - Live",
+      "url": "https://open.spotify.com/track/7uCt8IA0PnfsEoTMk7By1Q"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 231040,
-      "name": "Waterloo - Live",
-      "url": "https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Live 2013 at The O2 Arena, London",
         "url": "https://open.spotify.com/album/05qBbGGNvgkIfOuyDt1jFl"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 258040,
       "name": "Empire State of Mind (Part II) Broken Down - Live at Metropolis Studios, New York, NY - May 2013",
       "url": "https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "Waterloo - Live",
+      "url": "https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 334813,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
+      "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
         "name": "Best of Live",
         "url": "https://open.spotify.com/album/3cZzs6mVMXEjGrNIxyNt4H"
       },
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+        "name": "Stark Naked and Absolutely Live",
+        "url": "https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
         }
       ],
-      "duration_ms": 334813,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
-      "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
+      "duration_ms": 343933,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1171,22 +1187,6 @@
       "duration_ms": 268690,
       "name": "Pompeii - MTV Unplugged / Edit",
       "url": "https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
-        "name": "Stark Naked and Absolutely Live",
-        "url": "https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43"
-      },
-      "artists": [
-        {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
-        }
-      ],
-      "duration_ms": 343933,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 319401,
+      "name": "Sing - Live and in Session",
+      "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
         "name": "Best Song Ever (From THIS IS US)",
         "url": "https://open.spotify.com/album/7slbkjkfIPufuEa858735n"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 241360,
       "name": "Just Can't Get Enough - Live at Rose Bowl, Pasadena, CA, 18/6/1988",
       "url": "https://open.spotify.com/track/19dqbkqEgpgUZsh7FXftIs"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 319401,
-      "name": "Sing - Live and in Session",
-      "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
-        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Lost - Live from Madison Square Garden",
-      "url": "https://open.spotify.com/track/3J7wlFKE3cF5iZA1gODpRF"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "#3 Deluxe Version",
         "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 295613,
       "name": "The Man Who Can't Be Moved - Live At The Aviva Stadium, Dublin",
       "url": "https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
+        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Lost - Live from Madison Square Garden",
+      "url": "https://open.spotify.com/track/3J7wlFKE3cF5iZA1gODpRF"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "All of Me (Live)",
-        "url": "https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 299666,
-      "name": "All of Me - Live",
-      "url": "https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Spotify Sessions (Live From Spotify NYC)",
         "url": "https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 160400,
       "name": "Ghost - Live From Spotify NYC",
       "url": "https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "All of Me (Live)",
+        "url": "https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 299666,
+      "name": "All of Me - Live",
+      "url": "https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3"
     },
     {
       "added_at": "2023-05-14 16:51:28",

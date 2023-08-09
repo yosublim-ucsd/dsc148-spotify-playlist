@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Priscilla Block, Dan + Shay, Darius Rucker and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,329 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,488 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 32 | [Right There With You](https://open.spotify.com/track/49BHUmtfR9iY6T7MqwwAVw) | [Amanda Jordan](https://open.spotify.com/artist/5UzX8YYER6nwjEoJjt6QCv), [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [Right There With You](https://open.spotify.com/album/7946Qkxxi7jZmVskZXZpKS) | 3:06 |
 | 33 | [Country In Business](https://open.spotify.com/track/14ooSQGzm47ZeoK35NLyGn) | [Kelsey Hart](https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb) | [Country In Business](https://open.spotify.com/album/0YjccaRRs2trMjcFnV67M6) | 2:43 |
 | 34 | [Tired of You](https://open.spotify.com/track/2TEm7ir4zuP0E2CtZpT2yn) | [Walker Montgomery](https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl) | [Tired of You](https://open.spotify.com/album/4oAcbtri7INRFybZqm6aTG) | 3:03 |
-| 35 | [James Dean](https://open.spotify.com/track/28YeYqCPDyhmJ76h5OE139) | [Gabrielle Mooney](https://open.spotify.com/artist/33zGyZkIKniFsuzrFTkZwe), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [James Dean](https://open.spotify.com/album/3t85iYWW2ZcXFvTJwW02nr) | 2:57 |
+| 35 | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/track/3bo6LIVTrJAyn0CJOeBxXK) | [Gabrielle Mooney](https://open.spotify.com/artist/33zGyZkIKniFsuzrFTkZwe), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/album/2ltEv5M5IiJEUkrQurPSVx) | 2:57 |
 | 36 | [Loving Arms](https://open.spotify.com/track/2RoKBcbGHuQozRiR841OOG) | [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [Loving Arms](https://open.spotify.com/album/5ZFQlsxdHZKOf0suBKHztu) | 3:35 |
 | 37 | [Seven Bridges Road](https://open.spotify.com/track/7GVvJQPy7kmU3pinUEN643) | [Ricochet](https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l) | [Seven Bridges Road](https://open.spotify.com/album/5JHwX4fY04X0n0YZ3cNAiS) | 3:14 |
 | 38 | [Too Good Not To](https://open.spotify.com/track/0ffV6pO6DFM7GIC79PRj1I) | [Kacy Moon](https://open.spotify.com/artist/4yCDlGLH4zfJHp400hMAwg) | [Too Good Not To](https://open.spotify.com/album/3AXwjutYNH3KUVSZKEZnVv) | 2:13 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 50 | [More Than Myself](https://open.spotify.com/track/22VAcG3WY3oSvXS0nLVree) | [Chris Moreno](https://open.spotify.com/artist/4Bikw36AHYxTvphOQCWykA) | [More Than Myself](https://open.spotify.com/album/2JlCWCS1EiLh0PHoymlXXH) | 2:28 |
 | 51 | [Hollywood](https://open.spotify.com/track/2icj4eaVPuraP1ihn0WKuz) | [Kevin Nichols](https://open.spotify.com/artist/0Dxxyu2C5xNLuRz0M4VmQs) | [Hollywood](https://open.spotify.com/album/4xY8iYHTZEDsx7Q61FoPbq) | 2:50 |
 
-Snapshot ID: `MCxiOTIyNWIyYTU5Yzc3NzU5MDkzZmY5MTU2MjliMjNjMDAwYjkxN2Nm`
+Snapshot ID: `MCwxMGE2MGU4MGM0NmUyNmVkNjU2YjYxMDIxNTZlN2RmYWEwMmVhNDI5`

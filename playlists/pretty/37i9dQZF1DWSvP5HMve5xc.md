@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvP5HMve5xc.md) - [plain]
 
 > Listen to Eric Nam's greatest hits, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,947 likes - 58 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,976 likes - 58 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvP5HMve5xc.md) - [plain]
 | 37 | [Your Side Of The Bed \(feat\. Eric Nam\)](https://open.spotify.com/track/3dz63QjQVZy7RYPzx6l3JU) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Your Side Of The Bed \(Remixes\)](https://open.spotify.com/album/52N7HDRAFmmcRlZWHbJXKO) | 3:16 |
 | 38 | [BODY](https://open.spotify.com/track/0gb636CX4wHmcgqV0ydKdm) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [BODY](https://open.spotify.com/album/5lDFCTdpPFqJTj6uldBRIA) | 3:29 |
 | 39 | [The Night](https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Encounter \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ) | 3:41 |
-| 40 | [Idea of You](https://open.spotify.com/track/3qokU6oAQiynzPfQMfPbmR) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Idea of You](https://open.spotify.com/album/2wKhjiowqNmKTq5oOJcvgW) | 3:42 |
+| 40 | [Idea of You](https://open.spotify.com/track/07uTAq614yrSfBcPUXKNFd) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Idea of You](https://open.spotify.com/album/3PvegBw980S9DWGwf2qDXz) | 3:42 |
 | 41 | [FLOAT](https://open.spotify.com/track/06AzqBM9R9aw3BsyEjDC5F) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [FLOAT](https://open.spotify.com/album/0jxLIJPnHdAKemY2UNXujJ) | 3:03 |
 | 42 | [Tomorrow \(With Eric Nam\)](https://open.spotify.com/track/31vNTboUCMZ36bVU8odUPW) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [With](https://open.spotify.com/album/76Lw6VV53UnuVXqnq2rBqD) | 3:29 |
 | 43 | [4AM](https://open.spotify.com/track/10IT66tcgCQIpBfO9TEHaV) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Hold Me](https://open.spotify.com/album/5VWPfP9Ibc44LHQxAqoqtt) | 4:08 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvP5HMve5xc.md) - [plain]
 | 57 | [Good\-bye in once upon a time](https://open.spotify.com/track/5PJ4qGA50DzE6m3gpjMpbP) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Love in Memory OST Part.2](https://open.spotify.com/album/4lIIY9VAXXIVexOy0dcaZc) | 4:10 |
 | 58 | [Erase](https://open.spotify.com/track/70IiwE3KGMGoB3zqsgwWPY) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [CLOUD 9](https://open.spotify.com/album/1AsAiZVkOZN2SEEIQziJ2l) | 4:21 |
 
-Snapshot ID: `MCxkZjNmNDdkYTY2MzA0OGU5MzIzNTZlNWUxZDJmMjY2MjRlYjMyMTg5`
+Snapshot ID: `MCxlYTI0Njk2MWJjY2ZhNTE1YzhhNGU0YjIzYjBhZjQ4N2RhYjRhMzM0`

@@ -337,6 +337,32 @@
     },
     {
       "album": {
+        "name": "Dev Nagri",
+        "url": "https://open.spotify.com/album/5wdDntwoQKW8E5WmLhH5qC"
+      },
+      "artists": [
+        {
+          "name": "Dakait",
+          "url": "https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7"
+        },
+        {
+          "name": "Aniket Raturi",
+          "url": "https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS"
+        },
+        {
+          "name": "Sez on the Beat",
+          "url": "https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265327,
+      "name": "Dev Nagri",
+      "url": "https://open.spotify.com/track/5uSXh5pWaaCjr4mKvsa0Uv"
+    },
+    {
+      "album": {
         "name": "Dilli",
         "url": "https://open.spotify.com/album/5Uw4CQIzBTgd2PeGnlFnvc"
       },
@@ -613,6 +639,28 @@
     },
     {
       "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/15fhMI25QDeXlJPLkAEvFC"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        },
+        {
+          "name": "Sez on the Beat",
+          "url": "https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201453,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/15zn8wY4uZ05htjsWBanjS"
+    },
+    {
+      "album": {
         "name": "Hona Door",
         "url": "https://open.spotify.com/album/7pdDgRl2GqNxWbcDCArEAo"
       },
@@ -668,6 +716,24 @@
       "duration_ms": 168292,
       "name": "ICE",
       "url": "https://open.spotify.com/track/6gjarl3YlvQtnvGCZQ4IRK"
+    },
+    {
+      "album": {
+        "name": "Illuminaughty (From \"Bajao\")",
+        "url": "https://open.spotify.com/album/4Qz07DWj8Rnhig4nyZF6oR"
+      },
+      "artists": [
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181212,
+      "name": "Illuminaughty (From \"Bajao\")",
+      "url": "https://open.spotify.com/track/1meDneuv818z2sRDMbI72N"
     },
     {
       "album": {

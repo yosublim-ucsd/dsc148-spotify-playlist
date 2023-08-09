@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Seina\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,962 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,964 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Tmsa7](https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Tmsa7](https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8) | 2:08 |
 | 50 | [Leh Ya Hana ?](https://open.spotify.com/track/4ZblA6ehlUEGgy3cpENRrx) | [Arnabeat](https://open.spotify.com/artist/31OlJhazERjXIrCE9SQQbM) | [Leh Ya Hana ?](https://open.spotify.com/album/4uWS5ntd91UbXbekxpDdLN) | 3:54 |
 
-Snapshot ID: `MCwxZjlmYWRiMzg0ZTVkZGE1MTQ3NTRiN2UxOTg1ZTg5ODNkMDllNzZk`
+Snapshot ID: `MCxmMGFlYWM5ZDY3OWNkYzViZDFmZGNmMjE2ZTVmZWQxMzdmMmIzOWM5`

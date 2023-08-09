@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1R30zLwU9ZL.md) - [plain]
 
 > Reverse the curse! Listen to the official playlist for Freeridge and On My Block, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,762 likes - 66 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,777 likes - 66 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
-| 2 | [Dodgeball](https://open.spotify.com/track/0zhh7NAHesDIGWK5b5DbUm) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Dodgeball](https://open.spotify.com/album/6uwuw4B8fviW9Wu0awFi1N) | 3:07 |
+| 2 | [Dodgeball](https://open.spotify.com/track/0ZLJcG2SkVde3GKoBsz7LX) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Dodgeball](https://open.spotify.com/album/12T2pBAgE6V3gK2U0oxaJ4) | 3:07 |
 | 3 | [Less Talk](https://open.spotify.com/track/56chRpAQ1KLIoe6lmlJvIQ) | [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [Less Talk](https://open.spotify.com/album/1roICDuxcwa0TEtnPyi4OF) | 3:04 |
 | 4 | [Mentiras Con Cariño](https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Boleros Psicodélicos](https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG) | 3:48 |
 | 5 | [Itz Eazy](https://open.spotify.com/track/0hoPzRRdFRvrQwRttp6s2c) | [The Nah](https://open.spotify.com/artist/63fuNEcSBix7lr7qVZGRP5) | [Itz Eazy](https://open.spotify.com/album/59ifg1Mbgm5ssJe168XR6h) | 2:27 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1R30zLwU9ZL.md) - [plain]
 | 65 | [You Do](https://open.spotify.com/track/5A6wPSr9yWhVs53a8Id6vL) | [Relaye](https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya) | [Rumble Pack](https://open.spotify.com/album/13TYR6W2v5bAxqY094wL07) | 2:28 |
 | 66 | [On My Block](https://open.spotify.com/track/5qPkEnq2wSbnLJTK31mZy4) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [The Fix](https://open.spotify.com/album/0Kahsu5SG9FX1mBhLuiA8L) | 3:34 |
 
-Snapshot ID: `MCw1MTFmMTY3NTRjMTdhMTQ1ZTM2M2EwMzNmZTcxNTUyNTg2MTY2NDc1`
+Snapshot ID: `MCw4YTI4MjczZDM4NTAzZDgyYzM0NzBhNTliYzExYjI5MjZkMjA2NDRj`

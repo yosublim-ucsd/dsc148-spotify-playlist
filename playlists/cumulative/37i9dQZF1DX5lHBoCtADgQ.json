@@ -149,6 +149,28 @@
     },
     {
       "album": {
+        "name": "Mitti - Folk Vibes Of Punjab",
+        "url": "https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj"
+      },
+      "artists": [
+        {
+          "name": "Supriya Soni",
+          "url": "https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22"
+        },
+        {
+          "name": "Vanshika Joshi",
+          "url": "https://open.spotify.com/artist/5rK16uUuwINIIbpIkQCDoE"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117109,
+      "name": "Baajre Da Sitta",
+      "url": "https://open.spotify.com/track/6iU9onGsKnw73AO53t9QL2"
+    },
+    {
+      "album": {
         "name": "Babul (Live) - Single",
         "url": "https://open.spotify.com/album/1q77LT1cF0ZNMDsnYpeRTi"
       },
@@ -1056,6 +1078,28 @@
       "duration_ms": 124456,
       "name": "Madhaniya",
       "url": "https://open.spotify.com/track/7JhqIABcX6GZLbVRbbKsKZ"
+    },
+    {
+      "album": {
+        "name": "Mitti - Folk Vibes Of Punjab",
+        "url": "https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj"
+      },
+      "artists": [
+        {
+          "name": "Tanuja Kumari",
+          "url": "https://open.spotify.com/artist/1VuoDqqpoQ2FE6A4VHLid5"
+        },
+        {
+          "name": "Gargi Sarkar",
+          "url": "https://open.spotify.com/artist/3lAIYCe8WEl7Gjni7XT3v7"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184169,
+      "name": "Madhaniya",
+      "url": "https://open.spotify.com/track/1X9TM5uBUe8NBeM3CE9pg8"
     },
     {
       "album": {

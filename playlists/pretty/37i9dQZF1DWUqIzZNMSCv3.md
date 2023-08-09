@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > Relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,215 likes - 66 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,434 likes - 66 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 33 | [Waltz No\. 12 in F Minor, Op\. 70 No\. 2](https://open.spotify.com/track/7gZp8dU76LUWfaA0TJ5Yod) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Chopin: Complete Waltzes](https://open.spotify.com/album/72L5EwPXreOHNAcIgNGs3G) | 1:48 |
 | 34 | [7 canciones populares españolas: VI\. Canción](https://open.spotify.com/track/7F4LZFe1kAUEClacsL5KyA) | [Manuel de Falla](https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Falla: Nights in the Garden of Spain; Solo Piano Works](https://open.spotify.com/album/3r85Aw3DIDErCQEiYHk0lu) | 2:19 |
 | 35 | [3 Romances, Op\. 11: No\. 1, Andante](https://open.spotify.com/track/6VLzm03YUeXVl3GdGyib6J) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Romance – The Piano Music of Clara Schumann](https://open.spotify.com/album/7Jt7TzZQgrMsJgI7CPyApE) | 3:02 |
-| 36 | ["Was mir behagt, ist nur die muntre Jagd" Cantata, BWV 208: 9\. Schafe können sicher weiden \(Arr\. For Piano Four Hands by Mary Howe\)](https://open.spotify.com/track/4JWVkr5jUjylM3hMG5zvXw) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lucas Jussen](https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI), [Arthur Jussen](https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars) | [Bach](https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M) | 4:15 |
+| 36 | ["Was mir behagt, ist nur die muntre Jagd" Cantata, BWV 208 \- arr\. Mary Howe for two pianos: 9\. Schafe können sicher weiden](https://open.spotify.com/track/4JWVkr5jUjylM3hMG5zvXw) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lucas Jussen](https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI), [Arthur Jussen](https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars) | [Bach](https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M) | 4:15 |
 | 37 | [French Suite No\. 5 in G Major, BWV 816: I\. Allemande](https://open.spotify.com/track/6omFR3t3gc8xuIVI8DyRuI) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [J.S\. Bach: French Suite No\. 5 in G Major, BWV 816: I\. Allemande](https://open.spotify.com/album/2rGNxZi5BpXPuWhfrDcJTo) | 2:26 |
 | 38 | [Scarlatti, D: Keyboard Sonata in F Minor, Kk\. 466](https://open.spotify.com/track/234LwPuKv0RLwbiWYUEeJT) | [Domenico Scarlatti](https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Morning Piano \- Scarlatti: Keyboard Sonata K\. 466](https://open.spotify.com/album/2GCs7UuM83toYpS5mAhuwG) | 7:24 |
 | 39 | [Sechs Klavierstücke, Op\. 118: II\. Intermezzo in A Major](https://open.spotify.com/track/1Oo7XEqkrwifJn17aA0ocF) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Volodos Plays Brahms](https://open.spotify.com/album/1zWSdYsAlF38LhpcMEthzO) | 6:18 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 65 | [3 Intermezzi, Op\. 117: No\. 1, Andante moderato](https://open.spotify.com/track/3c58ZVEbMUjWsmy4N84kPv) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [Brahms: 3 Intermezzi, Op\. 117: No\. 1, Andante moderato](https://open.spotify.com/album/3SCiglv72zuCvlz88eLfMV) | 4:50 |
 | 66 | [Nocturnes, Op\. 27: No\. 2 in D Flat Major\. Lento sostenuto](https://open.spotify.com/track/5gOiyasbWfppG7fkNI6Byl) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: Complete Nocturnes](https://open.spotify.com/album/1mvFSxhBUzeOlOFU6SlhAw) | 7:13 |
 
-Snapshot ID: `MCw3ZTg0YjI0ZDFmZDllNTk0MjdlYTcwNzhkYzg2ZThkYWUzZjNmOGQ2`
+Snapshot ID: `MCw0NDU2NTFlMmNlMDBjY2I0ODY4Yzg2OGZmNDZiNWMwOWE5YTZjMmI2`

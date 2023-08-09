@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Silas Magalh\u00e3es",
-  "num_followers": 136079,
+  "num_followers": 136290,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGQ3ZjFhNzc1YmVhOWM0NDA1YmQzZjE5ZjU2OGNiNzVhOTRiMDZh",
+  "snapshot_id": "MCxlNzIxNWZjYmI2NTA5ZTUxOGFkNzdjZWJlYzgxYjY4Y2IyMzI4ZjQw",
   "tracks": [
     {
       "added_at": "2023-08-04 16:55:15",
@@ -755,18 +755,22 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "Voc\u00ea Acredita?",
-        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
+        "name": "Cora\u00e7\u00e3o Quebrado",
+        "url": "https://open.spotify.com/album/349KT4LJKGKSgtajbT031W"
       },
       "artists": [
         {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+          "name": "P. Oliveira",
+          "url": "https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd"
+        },
+        {
+          "name": "SCampos",
+          "url": "https://open.spotify.com/artist/35Ec0e31nIQQ67eQqK0dhZ"
         }
       ],
-      "duration_ms": 194623,
-      "name": "Voc\u00ea Acredita?",
-      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
+      "duration_ms": 122193,
+      "name": "Cora\u00e7\u00e3o Quebrado",
+      "url": "https://open.spotify.com/track/0zDsJEkQ9hITcgucojBQzt"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -791,22 +795,18 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "Cora\u00e7\u00e3o Quebrado",
-        "url": "https://open.spotify.com/album/349KT4LJKGKSgtajbT031W"
+        "name": "Voc\u00ea Acredita?",
+        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
       },
       "artists": [
         {
-          "name": "P. Oliveira",
-          "url": "https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd"
-        },
-        {
-          "name": "SCampos",
-          "url": "https://open.spotify.com/artist/35Ec0e31nIQQ67eQqK0dhZ"
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
         }
       ],
-      "duration_ms": 122193,
-      "name": "Cora\u00e7\u00e3o Quebrado",
-      "url": "https://open.spotify.com/track/0zDsJEkQ9hITcgucojBQzt"
+      "duration_ms": 194623,
+      "name": "Voc\u00ea Acredita?",
+      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
     },
     {
       "added_at": "2023-08-04 16:55:15",

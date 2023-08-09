@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 87675,
+  "num_followers": 87727,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTBjN2FhNWJjMWZiNzc2OGRmN2I5MWFmYmQzN2E5YWFhNjQ4OTdh",
+  "snapshot_id": "MCwxNjZiODJmNjY1NjVkZWQ3MGQ2YjM2YWI4NDA0ZDM2NDEzYmY1MzEz",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -643,6 +643,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "No Hay Limites",
+        "url": "https://open.spotify.com/album/3N6elW02iDWzxTPgtVfoLM"
+      },
+      "artists": [
+        {
+          "name": "Jah Love",
+          "url": "https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd"
+        }
+      ],
+      "duration_ms": 236874,
+      "name": "Tu Voz Hablar",
+      "url": "https://open.spotify.com/track/3hyyH3leQgUZxgwNNSyvR7"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Punto y Aparte",
         "url": "https://open.spotify.com/album/6AnxBxzyvCtPvNx7nn4zyM"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 248857,
       "name": "Good Good Father (feat. Avion Blackman)",
       "url": "https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "No Hay Limites",
-        "url": "https://open.spotify.com/album/3N6elW02iDWzxTPgtVfoLM"
-      },
-      "artists": [
-        {
-          "name": "Jah Love",
-          "url": "https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd"
-        }
-      ],
-      "duration_ms": 236874,
-      "name": "Tu Voz Hablar",
-      "url": "https://open.spotify.com/track/3hyyH3leQgUZxgwNNSyvR7"
     },
     {
       "added_at": "2020-11-24 13:23:55",

@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Sommer auf dem singenden Bauernhof",
+        "url": "https://open.spotify.com/album/5ULQfQ92DZp1mX1AkRmA4f"
+      },
+      "artists": [
+        {
+          "name": "Der singende Bauernhof",
+          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
+        },
+        {
+          "name": "Detlev J\u00f6cker",
+          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
+        },
+        {
+          "name": "Sarah Schiffer",
+          "url": "https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134520,
+      "name": "1,2,3 im Sauseschritt - Bauernhof Version",
+      "url": "https://open.spotify.com/track/55yKBlLIGnBj1zW1fDqVYV"
+    },
+    {
+      "album": {
         "name": "Kinderlieder - umgedacht & neu gemacht",
         "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
       },
@@ -680,7 +706,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 149360,
       "name": "Rumspringen",
       "url": "https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ"

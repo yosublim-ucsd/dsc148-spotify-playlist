@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "ANTENNA",
+        "url": "https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343253,
+      "name": "Soranji",
+      "url": "https://open.spotify.com/track/3YML5IHoqWbw9c9vJJvrvM"
+    },
+    {
+      "album": {
         "name": "Life Goes On",
         "url": "https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe"
       },
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 277453,
       "name": "\u3042\u305f\u3057\u304c\u6b7b\u3093\u3067\u3082",
       "url": "https://open.spotify.com/track/3bJUYzp2dq4ZPz448hCmzm"
@@ -1991,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "\u30e9\u30a4\u30d6\u7d42\u308f\u308a\u306b",
+        "url": "https://open.spotify.com/album/2pywOWndfGqeFy7zYBdhO6"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271640,
+      "name": "\u30e9\u30a4\u30d6\u7d42\u308f\u308a\u306b",
+      "url": "https://open.spotify.com/track/25CT9v6urtrTRZjr1WOV0G"
+    },
+    {
+      "album": {
         "name": "\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc",
         "url": "https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI"
       },
@@ -2056,7 +2092,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 238066,
       "name": "\u30ed\u30b9\u30bf\u30a4\u30e0",
       "url": "https://open.spotify.com/track/7iL5vjJdt8kD2hAXYE7iv4"
@@ -2312,6 +2348,24 @@
       "duration_ms": 224027,
       "name": "\u604b\u4eba\u3058\u3083\u306a\u304f\u306a\u3063\u305f\u65e5",
       "url": "https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8"
+    },
+    {
+      "album": {
+        "name": "1/f\u3086\u3089\u304e",
+        "url": "https://open.spotify.com/album/2UBwR2pNPVy80gvavJaZv8"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u308c\u304f\u3093",
+          "url": "https://open.spotify.com/artist/7voEy17zvlQojgmQYUlKDK"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231625,
+      "name": "\u604b\u7169\u3044",
+      "url": "https://open.spotify.com/track/0GFwrCxvZbomCjtYOKutei"
     },
     {
       "album": {
@@ -2758,7 +2812,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 270506,
       "name": "\u9752\u3068\u590f",
       "url": "https://open.spotify.com/track/0a3587n25Xhw098UeEbeJq"

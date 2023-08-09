@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 109533,
+  "num_followers": 109621,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjhjOWVmMGQ5Mzk5NTI4ZWM1NjI3OWViN2Q0NmMzODU0OWI1YTc5",
+  "snapshot_id": "MCw2MTMyZWEyNDE0OWNlYzNkYWVmOTQ4ZDJmODFlMmM4MzU2N2FiNmVl",
   "tracks": [
     {
       "added_at": "2023-08-04 17:54:32",
@@ -99,26 +99,6 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "\u00c9 Tudo Sobre Voc\u00ea (M\u00cbDNA Remix)",
-        "url": "https://open.spotify.com/album/7GFrYcpAuj4fCgu5C7fg6e"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        },
-        {
-          "name": "M\u00cbDNA",
-          "url": "https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "\u00c9 Tudo Sobre Voc\u00ea - M\u00cbDNA Remix",
-      "url": "https://open.spotify.com/track/38MdsTHfF7KvE48N0T3mjL"
-    },
-    {
-      "added_at": "2023-08-04 17:54:32",
-      "album": {
         "name": "S\u00f3 Quero Queimar (Remix)",
         "url": "https://open.spotify.com/album/4sz7OFQhn3xOZOYjbe8AXE"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 217500,
       "name": "S\u00f3 Quero Queimar - Remix",
       "url": "https://open.spotify.com/track/720ymxcvuttoINPvJ3EXSC"
+    },
+    {
+      "added_at": "2023-08-04 17:54:32",
+      "album": {
+        "name": "\u00c9 Tudo Sobre Voc\u00ea (M\u00cbDNA Remix)",
+        "url": "https://open.spotify.com/album/7GFrYcpAuj4fCgu5C7fg6e"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        },
+        {
+          "name": "M\u00cbDNA",
+          "url": "https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "\u00c9 Tudo Sobre Voc\u00ea - M\u00cbDNA Remix",
+      "url": "https://open.spotify.com/track/38MdsTHfF7KvE48N0T3mjL"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -235,26 +235,18 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "A Casa Sou Eu",
-        "url": "https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ"
+        "name": "Sou Casa (Remix)",
+        "url": "https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK"
       },
       "artists": [
         {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Gabriell J\u00fanior",
-          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
-        },
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
         }
       ],
-      "duration_ms": 225000,
-      "name": "A Casa Sou Eu - Remix",
-      "url": "https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU"
+      "duration_ms": 209632,
+      "name": "Sou Casa - Remix",
+      "url": "https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -303,18 +295,26 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "Sou Casa (Remix)",
-        "url": "https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK"
+        "name": "A Casa Sou Eu",
+        "url": "https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ"
       },
       "artists": [
         {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "Gabriell J\u00fanior",
+          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
+        },
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
         }
       ],
-      "duration_ms": 209632,
-      "name": "Sou Casa - Remix",
-      "url": "https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV"
+      "duration_ms": 225000,
+      "name": "A Casa Sou Eu - Remix",
+      "url": "https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -611,26 +611,22 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "Like Water",
-        "url": "https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih"
+        "name": "Viagem",
+        "url": "https://open.spotify.com/album/0dDGfAgcwH8Qiii7Hhro4L"
       },
       "artists": [
         {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
         },
         {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "JoyFull",
-          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+          "name": "L\u00e9o Batista",
+          "url": "https://open.spotify.com/artist/3r8TROv0FXpp9ei6vepm1m"
         }
       ],
-      "duration_ms": 161219,
-      "name": "Like Water",
-      "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
+      "duration_ms": 189268,
+      "name": "Viagem",
+      "url": "https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -655,22 +651,26 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "Viagem",
-        "url": "https://open.spotify.com/album/0dDGfAgcwH8Qiii7Hhro4L"
+        "name": "Like Water",
+        "url": "https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih"
       },
       "artists": [
         {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         },
         {
-          "name": "L\u00e9o Batista",
-          "url": "https://open.spotify.com/artist/3r8TROv0FXpp9ei6vepm1m"
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "JoyFull",
+          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
         }
       ],
-      "duration_ms": 189268,
-      "name": "Viagem",
-      "url": "https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr"
+      "duration_ms": 161219,
+      "name": "Like Water",
+      "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
     },
     {
       "added_at": "2023-08-04 17:54:32",

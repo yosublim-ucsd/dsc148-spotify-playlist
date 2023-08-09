@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 
 > La musica è la tua marcia in più! 🏃 Hit dance e pop per le tue sessioni di cardio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,791 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,836 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 | 74 | [Shivers \(Dillon Francis Remix\) \[Main Mix\]](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Shivers \(Dillon Francis Remix\)](https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B) | 2:07 |
 | 75 | [Day 'N' Nite \- Martin Jensen Edit](https://open.spotify.com/track/0ou367q5bmco9pZNxq80iD) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Ben Hamilton](https://open.spotify.com/artist/1Rqa3ZF83zo3rKGrKMM0iD), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Day 'N' Nite \(Martin Jensen Edit\)](https://open.spotify.com/album/4edGK565BSJL2C8wwZAnDh) | 2:46 |
 
-Snapshot ID: `MCw2NjM3MTQ5ZmU1ZWNhZTc2YTA3YmZlOWI5Y2Q4NjQ3NDZlMjkyMmJk`
+Snapshot ID: `MCw5MDVjODU4YTczN2E1Yzc3OTBiZGUzNmVlOTExOWY4NWM3YTk0ZTU0`

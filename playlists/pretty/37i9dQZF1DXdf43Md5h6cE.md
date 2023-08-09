@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,441 likes - 115 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,632 likes - 115 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 114 | [What a day I](https://open.spotify.com/track/4rCMha9h0PZ3ghhnO2ykim) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXIIVoid XXIIII](https://open.spotify.com/album/2RhfFJKxFTEVTOYlNcqELm) | 5:34 |
 | 115 | [Red sheep from hill](https://open.spotify.com/track/77yq8ySYaIhr5jvqJz4qTV) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/0izMZjzGPz8KAZayecUQW7) | 9:03 |
 
-Snapshot ID: `MCxlNWZjN2EwOWJlOTdlODk1MTMxNTZkYWQ3MDU5MzAzOWNmMGY5NzY0`
+Snapshot ID: `MCwzYWM4NzQzZjZkMzdiYTUyNzZmNmE1NjUxMDI0M2Q3NjA3NzgzNjA1`

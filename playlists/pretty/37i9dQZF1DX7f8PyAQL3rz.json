@@ -1,12 +1,12 @@
 {
   "description": "Show da tropa Mainstreet no dia 12 de agosto (s\u00e1bado) em SP, cola <a href=\"https://www.ingresse.com/spotify-creme/\">aqui</a>. / chefin e oruam quando junta \u00e9 bebeto e rom\u00e1rio, tropa do 23",
-  "num_followers": 1208302,
+  "num_followers": 1209142,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWZjN2U4Y2YxNjI4MDE0OTc2ZjkzMWZhMDc0ZDU4ZTUyYmI0NTNh",
+  "snapshot_id": "MCw3MDk4YzIxNjNkODM5NmNlYjk5M2JjNzUyZmY5M2NmOWIxODdlMjE5",
   "tracks": [
     {
       "added_at": "2023-08-07 21:23:55",
@@ -1151,6 +1151,30 @@
     {
       "added_at": "2023-08-07 21:23:55",
       "album": {
+        "name": "Sem Compaix\u00e3o",
+        "url": "https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 202451,
+      "name": "Sem Compaix\u00e3o",
+      "url": "https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR"
+    },
+    {
+      "added_at": "2023-08-07 21:23:55",
+      "album": {
         "name": "Quebra Cabe\u00e7a - Spotify Singles",
         "url": "https://open.spotify.com/album/5eIPlZnFSGPUl0YqzWuevT"
       },
@@ -1203,30 +1227,6 @@
       "duration_ms": 209032,
       "name": "Hino dos Mlks",
       "url": "https://open.spotify.com/track/3gx9a8ea1nI0Wym9hJpdbJ"
-    },
-    {
-      "added_at": "2023-08-07 21:23:55",
-      "album": {
-        "name": "Sem Compaix\u00e3o",
-        "url": "https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2"
-      },
-      "artists": [
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 202451,
-      "name": "Sem Compaix\u00e3o",
-      "url": "https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR"
     },
     {
       "added_at": "2023-08-07 21:23:55",

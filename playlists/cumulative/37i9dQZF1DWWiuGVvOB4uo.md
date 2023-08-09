@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-280 songs - 15 hr 19 min
+285 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,10 @@
 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 | 2022-08-26 | 2023-02-18 |
 | [Baby](https://open.spotify.com/track/2OYFqslHF3y0JgNGrb9Prw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Baby](https://open.spotify.com/album/6D68MZE4nzfnCWthRH8cHz) | 3:01 | 2022-09-29 |  |
 | [Back For Good](https://open.spotify.com/track/0n3E6m57nDZJDyUHllaMDp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Back For Good](https://open.spotify.com/album/5OnXeyTWDJlOLdGYAa6ekD) | 3:14 | 2022-08-26 | 2023-02-18 |
+| [Back to Black](https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [Back to Black](https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9) | 3:03 | 2023-08-08 |  |
 | [Back To You](https://open.spotify.com/track/3y3nLykfrbL6zCLmfMNQVg) | [J\-Que Beenz](https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS) | [Back To You](https://open.spotify.com/album/1o6Z13Usl6t73yQTLRVby7) | 3:35 | 2022-08-26 | 2023-05-12 |
 | [Bad Habits](https://open.spotify.com/track/25TzyGcqLbVgC0H0kpYRjM) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Bad Habits](https://open.spotify.com/album/46M6KC4TbTMf4y39aZezz6) | 3:58 | 2022-08-26 |  |
+| [Barbie Girl](https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9) | [Jill & Jane](https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG) | [Barbie Girl](https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD) | 2:50 | 2023-08-08 |  |
 | [Be Alright](https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I) | [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Be Alright](https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4) | 3:00 | 2022-08-26 | 2023-05-12 |
 | [Beautiful Mistakes \- Acoustic](https://open.spotify.com/track/0pXzUDxuD3DvVNYILK8MjE) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Beautiful Mistakes \(Acoustic\)](https://open.spotify.com/album/01di81nQaDVDEQO8epsg7M) | 3:03 | 2022-08-26 |  |
 | [Because the Night](https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Because the Night](https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD) | 3:10 | 2022-08-26 |  |
@@ -60,6 +62,7 @@
 | [Change The World \- Acoustic](https://open.spotify.com/track/0JoIuY82vgBX5JylD4GqfV) | [Striking Matches](https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar) | [Change The World \(Acoustic\)](https://open.spotify.com/album/4YMJqOrbqok6cjYjnNInZw) | 4:57 | 2022-08-26 | 2022-12-02 |
 | [Chemical](https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk) | [Abbie Parker](https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko) | [Chemical](https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64) | 3:07 | 2023-06-08 |  |
 | [Circles](https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Circles](https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r) | 2:12 | 2022-12-02 |  |
+| [Complicated](https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e) | [Ben & Tim](https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv) | [Complicated](https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA) | 3:02 | 2023-08-08 |  |
 | [Constant Craving](https://open.spotify.com/track/3uSmwh3Dp1bBIrYPylNnWt) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Constant Craving](https://open.spotify.com/album/5i547fQ91ASnxLdTixmhyY) | 2:51 | 2022-08-26 | 2023-01-20 |
 | [Crazy Love](https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Crazy Love](https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy) | 3:12 | 2023-02-17 |  |
 | [Dancing In The Dark](https://open.spotify.com/track/1bqxj84nNs2iic1dsi6h9K) | [Bear Little](https://open.spotify.com/artist/5gf3VTWJ6siWvD4xtPUfJf) | [Dancing In The Dark](https://open.spotify.com/album/6OV5a9PVlsfnMVtgKPc1Gy) | 3:17 | 2022-08-26 | 2023-02-03 |
@@ -109,6 +112,8 @@
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2022-08-26 |  |
 | [Heat Waves](https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Heat Waves](https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb) | 2:21 | 2022-08-26 |  |
 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 | 2022-08-26 |  |
+| [Heaven](https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c) | [Claire McCarty](https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K) | [Heaven](https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x) | 2:49 | 2023-08-08 |  |
+| [Hell N Back](https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7) | [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Hell N Back](https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6) | 3:21 | 2023-08-08 |  |
 | [Help!](https://open.spotify.com/track/54aVuDTgpImivXNxanNnCG) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Help!](https://open.spotify.com/album/2q3DDnj2Dob01ZHzlHVlVJ) | 3:56 | 2022-08-26 | 2023-05-12 |
 | [Here I Go Again](https://open.spotify.com/track/1H7w7BA05jZOr7DWxnM97h) | [Drew Amaranth](https://open.spotify.com/artist/28exFbaUPO9CnIzHK4eiEj) | [Here I Go Again](https://open.spotify.com/album/4yFIc1YHqohNGLkeHm0ppH) | 4:22 | 2022-08-26 | 2022-10-29 |
 | [Here I Go Again \- Acoustic](https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Here I Go Again \- Acoustic EP](https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3) | 4:12 | 2022-10-28 |  |
@@ -125,7 +130,7 @@
 | [Hurt Somebody](https://open.spotify.com/track/6lkqQkiH2XsllW3EmsddH3) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Summer Haze](https://open.spotify.com/artist/6kN3HbHbH9d8fNOohEIqCj) | [Hurt Somebody](https://open.spotify.com/album/0bMfWsJ0vqEvTblnLblWpB) | 3:27 | 2022-08-26 | 2023-05-12 |
 | [I Ain't Worried](https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [I Ain't Worried](https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb) | 2:44 | 2023-01-20 |  |
 | [I Can't Make You Love Me](https://open.spotify.com/track/7tGQnE7ZroxkStpXSmcH0q) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [I Can't Make You Love Me](https://open.spotify.com/album/3jGA4UM1irakbyzp2necA2) | 4:37 | 2022-08-26 | 2023-05-12 |
-| [I Can't Make You Love Me \(feat\. Nick Dow\)](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ), [Nick Dow](https://open.spotify.com/artist/5ASDYwBmnXrIZqsT47f8ca) | [I Can't Make You Love Me \(feat\. Nick Dow\) \[Live at the Auckland Town Hall, featuring Nick Dow on Piano\]](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 | 2022-08-26 |  |
+| [I Can't Make You Love Me \(feat\. Nick Dow\)](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ), [Nick Dow](https://open.spotify.com/artist/5ASDYwBmnXrIZqsT47f8ca) | [I Can't Make You Love Me \(feat\. Nick Dow\) \[Live at the Auckland Town Hall, featuring Nick Dow on Piano\]](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 | 2022-08-26 | 2023-08-09 |
 | [I don't care](https://open.spotify.com/track/4v6GiciF50s2mX1FtqXpue) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [I don't care](https://open.spotify.com/album/2hsM55o3e7s7NH2fUgHHfO) | 3:30 | 2023-01-04 |  |
 | [I Don't Care](https://open.spotify.com/track/68Vnmq4o96QQ0aVSZm43eK) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK), [Aikani](https://open.spotify.com/artist/5pl9gF3NwPauryVFUyrjka) | [I Don't Care \(Acoustic Reggae\)](https://open.spotify.com/album/0WhYJlr2RggdNvYQ8075oD) | 3:49 | 2022-08-26 | 2023-02-03 |
 | [I Get to Love You \- Acoustic](https://open.spotify.com/track/1Pte35IwrE0KkvftaAofgw) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I Get to Love You \(Acoustic\)](https://open.spotify.com/album/2SjgmfolAvjxYp6MBgAJOn) | 3:06 | 2023-04-14 | 2023-06-15 |

@@ -4,7 +4,7 @@
 
 > Ist nur einmal im Jahr!
 
-74 songs - 3 hr 45 min
+75 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Dorflove](https://open.spotify.com/track/77yRw8X35yyFdpXmziekb7) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Thekensportlerz](https://open.spotify.com/artist/0TmXQnUwPnEx8MLICEk1r4) | [Dorflove](https://open.spotify.com/album/5Zc70IF65u7YKRkIS88MnR) | 2:41 | 2023-07-14 |  |
 | [Easy Peasy](https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Fliesentisch Romantik 2](https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM) | 2:30 | 2023-07-14 |  |
 | [Ein bisschen Aroma \- Stereoact Remix](https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e) | [Roger Whittaker](https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ein bisschen Aroma \(Stereoact Remix\)](https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer) | 2:58 | 2023-07-14 |  |
-| [Ein Stern \(der deinen Namen trägt\) \- Party Mix](https://open.spotify.com/track/1o5evgltJughVgrPinzAOV) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Nik P.](https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:56 | 2023-07-28 |  |
+| [Ein Stern \(der deinen Namen trägt\) \- Party Mix](https://open.spotify.com/track/1o5evgltJughVgrPinzAOV) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Nik P.](https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:56 | 2023-07-28 | 2023-08-09 |
 | [Eine Woche wach](https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Eine Woche wach](https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA) | 3:55 | 2023-07-14 |  |
 | [Freitag, Samstag](https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Freitag, Samstag](https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL) | 2:36 | 2023-07-28 |  |
 | [Grapefruit](https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Julia Engelmann](https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK), [Raket One](https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06) | [Grapefruit](https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo) | 3:04 | 2023-07-28 | 2023-08-08 |
@@ -55,6 +55,7 @@
 | [Knicklicht](https://open.spotify.com/track/4tPfm4RkiCw8XppXUnFe7c) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Knicklicht](https://open.spotify.com/album/1TqfTWxuO8ciwXwoUB5GgE) | 2:18 | 2023-07-14 |  |
 | [Layla](https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Layla](https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4) | 3:05 | 2023-07-14 |  |
 | [Lea](https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD), [Andy Luxx](https://open.spotify.com/artist/09Mknlo1aOXbEtxUD41wH2), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Lea](https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq) | 2:39 | 2023-07-14 |  |
+| [Mallelelele](https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT) | [Rumbombe](https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Mallelelele](https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb) | 2:13 | 2023-07-28 |  |
 | [Mama Laudaaa](https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu) | [Almklausi](https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK), [Specktakel](https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz) | [Mama Laudaaa](https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v) | 3:35 | 2023-07-14 |  |
 | [Mannschaftsfahrt](https://open.spotify.com/track/4VDJ1wK7eszdBpWGvDV3Tc) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp), [Malin Brown](https://open.spotify.com/artist/40wyS6jSrnAlcl9xBbCVnA) | [Mannschaftsfahrt](https://open.spotify.com/album/55VymWungTBtByJ89fhnJD) | 2:48 | 2023-07-14 |  |
 | [MDMA](https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [MDMA](https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G) | 2:08 | 2023-07-14 |  |

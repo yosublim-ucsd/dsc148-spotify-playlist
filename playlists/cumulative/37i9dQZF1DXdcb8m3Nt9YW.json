@@ -1586,10 +1586,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 208783,
       "name": "La Siembra En El Cerro",
       "url": "https://open.spotify.com/track/7BM7AHyidinBMTUqO7oSU0"
+    },
+    {
+      "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208783,
+      "name": "La Siembra en el Cerro",
+      "url": "https://open.spotify.com/track/7CEPPI1NDFFkt1rI8uPFSg"
     },
     {
       "album": {

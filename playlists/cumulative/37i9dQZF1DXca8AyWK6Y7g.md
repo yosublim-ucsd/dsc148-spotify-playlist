@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Jenna Raine
 
-1,744 songs - 3 day 16 hr 31 min
+1,746 songs - 3 day 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,7 +434,7 @@
 | [Dreaming](https://open.spotify.com/track/21JbwuOaYB6uAXp3iISVLk) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Dreaming](https://open.spotify.com/album/2DSYAM4Rzqf86gs5apt1hq) | 3:51 | 2019-05-26\* | 2019-09-14 |
 | [Drinks](https://open.spotify.com/track/7c2ag2Q4vhJyjDANataJj2) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Drinks](https://open.spotify.com/album/6JOAYeMZPAV5liS4RlUA0b) | 2:30 | 2020-05-22 | 2021-03-23 |
 | [Drive Me Home \- GOLDHOUSE Remix](https://open.spotify.com/track/149Rcv6foJRa7COnnmUkNs) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Drive Me Home \(Remixes\)](https://open.spotify.com/album/5KF1m0zhkRyUzCrCF6ua61) | 3:07 | 2019-05-26\* | 2019-08-13 |
-| [DROP TOP](https://open.spotify.com/track/1gKEEiVyjVXtaKZl9TOEnf) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [LFG](https://open.spotify.com/album/3fItiknlfvwPMaJLwPrG2k) | 2:38 | 2023-07-21 |  |
+| [DROP TOP](https://open.spotify.com/track/1gKEEiVyjVXtaKZl9TOEnf) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [LFG](https://open.spotify.com/album/3fItiknlfvwPMaJLwPrG2k) | 2:38 | 2023-07-21 | 2023-08-09 |
 | [Drown](https://open.spotify.com/track/03ZkvqZOANKndGXfAAPywG) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Drown](https://open.spotify.com/album/6Az1XhIF7MTkO0kr5fRJOd) | 3:54 | 2021-02-22 | 2021-05-28 |
 | [Drowning in the Culture](https://open.spotify.com/track/2L79zW9LUnohYifrJDPBtg) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Drowning in the Culture](https://open.spotify.com/album/7yHAkAp1DJ4Z8MDFqpABWo) | 2:10 | 2022-04-15 | 2022-05-25 |
 | [Drugs](https://open.spotify.com/track/06ioYJ99HHjzRk8HrGfkKS) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Drugs](https://open.spotify.com/album/46S95aTUFWSVmRmDKAGnFf) | 2:35 | 2019-05-26\* | 2020-06-29 |
@@ -647,6 +647,7 @@
 | [Have My Cake and Eat It Too](https://open.spotify.com/track/4Q8fshZgCOtk8uF7qEH5XM) | [CAROLINE](https://open.spotify.com/artist/1YWvf5qw9RnGAW39spyLI1) | [Have My Cake and Eat It Too](https://open.spotify.com/album/3bMV35sVSauyMDde51vfAd) | 2:10 | 2022-03-25 | 2022-04-01 |
 | [He Don't Love Me](https://open.spotify.com/track/5RCrYjN8656mxa9rZ3HxSA) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [He Don't Love Me](https://open.spotify.com/album/2kDPgjMUry2m5tlg2WhNnR) | 3:29 | 2019-05-26\* | 2021-08-20 |
 | [he said, she said](https://open.spotify.com/track/1BqtEfEiep87O11qZSk9Vy) | [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy) | [he said, she said](https://open.spotify.com/album/0ktzn42QPH9qE15MwAsBkg) | 3:17 | 2020-09-25 | 2021-01-15 |
+| [He's A 10](https://open.spotify.com/track/6EtGijCkrZ5X3lAaSfK6fU) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [He's A 10](https://open.spotify.com/album/1xrXYxAEmC0OIei3cPxOyK) | 2:43 | 2023-08-04 |  |
 | [head first](https://open.spotify.com/track/2ejzLLkEgM6Tiw6zZnUOll) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [bright side of the moon](https://open.spotify.com/album/2oD4BvnapvypZEBsrNRqY3) | 2:34 | 2019-09-11 | 2021-04-16 |
 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 | 2022-01-21 | 2023-01-28 |
 | [HEAD OVER HEELS](https://open.spotify.com/track/2KFulyrLZkXBpThxLCtxxY) | [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [LOOK AT THIS MESS IVE MADE EP](https://open.spotify.com/album/1jW5MaPi18cDWKmlwA2ICk) | 2:36 | 2021-02-26 | 2022-01-08 |
@@ -913,7 +914,7 @@
 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 | 2021-02-23 | 2021-03-19 |
 | [Lighthouse](https://open.spotify.com/track/7kzzbfqXtLZdClU1bigcdg) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Lighthouse](https://open.spotify.com/album/5QUqjJqMD7IurrQF5US9nx) | 2:20 | 2020-06-12 | 2021-08-15 |
 | [LIGHTNING](https://open.spotify.com/track/6ptDJrpmo53dp5weWeN0A5) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [LIGHTNING](https://open.spotify.com/album/5omg8JAqL1wXARrfBLWXHD) | 2:42 | 2022-12-02 | 2022-12-24 |
-| [like everyone else](https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [like everyone else](https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk) | 3:21 | 2023-03-10 |  |
+| [like everyone else](https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [like everyone else](https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk) | 3:21 | 2023-03-10 | 2023-08-09 |
 | [Like Home](https://open.spotify.com/track/4yf12uq8vpmBePwRbTYJib) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [GGFOUR](https://open.spotify.com/album/09n5FwLDoFRlzVvwyLhjMD) | 3:25 | 2019-07-27 | 2021-05-13 |
 | [Like Summer](https://open.spotify.com/track/3innRzfJF3RMcZbXv6It28) | [Kyan](https://open.spotify.com/artist/1fpemL1wk3ZyXVfpzlVEkL) | [Like Summer / Nothing Beyond](https://open.spotify.com/album/2PZ7bnYRX9sOawrIAKeGdT) | 5:36 | 2020-06-12 | 2021-10-12 |
 | [LiLBiTcH \(feat\. Rico Nasty & Soleima\)](https://open.spotify.com/track/2ay96C6SLNv9urvXKD3ecB) | [chillpill](https://open.spotify.com/artist/1QzqrU2lmiW9l1mSvliVoM), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [LiLBiTcH \(feat\. Rico Nasty & Soleima\)](https://open.spotify.com/album/6WQTNgQPCS6GApd4cWQUTB) | 2:15 | 2021-02-22 | 2021-05-24 |
@@ -1151,6 +1152,7 @@
 | [Overdose](https://open.spotify.com/track/2ADsufYzRMSooxLFCGK3qM) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Overdose](https://open.spotify.com/album/4REUtrV4qmf8rDbtX6jqII) | 2:33 | 2022-03-11 | 2022-03-26 |
 | [Overdrive](https://open.spotify.com/track/3QyoC6OvQUmpQwQZ18iaTs) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Overdrive](https://open.spotify.com/album/0DvIDMUOMaaVbXfDVt8jZS) | 3:03 | 2021-03-01 | 2022-06-25 |
 | [Overdrive](https://open.spotify.com/track/5zexuTIZGttwZbj5PM1ztp) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Overdrive](https://open.spotify.com/album/45JxkluYypAMbmM2nH94C6) | 3:16 | 2021-03-11 | 2021-11-20 |
+| [Overrated](https://open.spotify.com/track/4xkRUKaEIDzskDJtUeW9lE) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Overrated](https://open.spotify.com/album/1ams8R8QhPSLH94VcYD0DI) | 3:25 | 2023-08-04 |  |
 | [Pager](https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider EP](https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp) | 2:46 | 2022-04-15 | 2022-09-17 |
 | [palace](https://open.spotify.com/track/6MbZCzWPrLkkJpODMTvTar) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [leap](https://open.spotify.com/album/1BRrUfqfPV2mJ0KsSXzJyb) | 2:27 | 2021-06-27 | 2021-10-13 |
 | [Palpitations](https://open.spotify.com/track/4jS4EhXJT0Rj2SzjsgYIo5) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [Palpitations](https://open.spotify.com/album/6J5xwFqJZkOdv9xKx8jHTQ) | 2:33 | 2022-03-04 | 2022-03-26 |

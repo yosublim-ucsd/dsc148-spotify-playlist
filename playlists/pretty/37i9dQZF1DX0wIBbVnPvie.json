@@ -1,12 +1,12 @@
 {
   "description": "She's everything. He's just Ken. Listen to the music from and inspired by Barbie, curated by Mark Ronson. ",
-  "num_followers": 815407,
+  "num_followers": 823909,
   "original_name": "Barbie Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWNiNTY1NmQwYTRiOTUzM2NkNzVhMTQ1ZDRmYWE3NDFiZmJkZDg0",
+  "snapshot_id": "MCwxOTIyMGFiMzFlYmE3ZGU5OWFiZjI5NmZkNTA4ZGJiNTMzZWZjYmI4",
   "tracks": [
     {
       "added_at": "2023-08-04 04:11:06",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-08-04 04:11:06",
       "album": {
+        "name": "Push (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/694IwHsLbe9Eu9ANJBbR9w"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        }
+      ],
+      "duration_ms": 203557,
+      "name": "Push (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/3G9Yl95jGxSQHs9VnyBwKF"
+    },
+    {
+      "added_at": "2023-08-04 04:11:06",
+      "album": {
         "name": "Barbie The Album",
         "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 352687,
       "name": "Closer To Fine (From Barbie The Album)",
       "url": "https://open.spotify.com/track/1v9iJFBaJCxBCdBNdvXeMd"
-    },
-    {
-      "added_at": "2023-08-04 04:11:06",
-      "album": {
-        "name": "Push (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/694IwHsLbe9Eu9ANJBbR9w"
-      },
-      "artists": [
-        {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        }
-      ],
-      "duration_ms": 203557,
-      "name": "Push (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/3G9Yl95jGxSQHs9VnyBwKF"
     },
     {
       "added_at": "2023-08-04 04:11:06",

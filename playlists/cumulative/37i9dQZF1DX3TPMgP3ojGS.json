@@ -2331,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "Ash of memory",
+        "url": "https://open.spotify.com/album/4WEz8LHe96zM7RwV4IKxVq"
+      },
+      "artists": [
+        {
+          "name": "Thomas Preber",
+          "url": "https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115985,
+      "name": "Ash of memory",
+      "url": "https://open.spotify.com/track/6rb8PeoAVfIyAJ0EqQCgU2"
+    },
+    {
+      "album": {
         "name": "Ashokan",
         "url": "https://open.spotify.com/album/04BQhBmWuSAD0P7Ko1TopF"
       },
@@ -11266,7 +11284,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 99384,
       "name": "Holding Hands",
       "url": "https://open.spotify.com/track/6hzlEcgzqLW9UbLsUZMTVP"

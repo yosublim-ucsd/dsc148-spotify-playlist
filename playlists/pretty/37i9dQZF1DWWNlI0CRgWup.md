@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez notre sélection des artistes à suivre\. Photo : Johnny Jane
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,273 likes - 38 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,281 likes - 38 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 26 | [Triste fête](https://open.spotify.com/track/7lF4vYpokRbb9tdAq12tbx) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs \(Version deluxe\)](https://open.spotify.com/album/1UK0794RKtEfbCRhUV2yRj) | 3:40 |
 | 27 | [Ados](https://open.spotify.com/track/0gc9MiWqo0me326ecRzaPg) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Ados](https://open.spotify.com/album/2Og8w5f5fU4PEMH3GbNgZw) | 2:53 |
 | 28 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 |
-| 29 | [Reuts](https://open.spotify.com/track/6nhd4cWEYapY5704NqOcOk) | [Quinze Quinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Reuts](https://open.spotify.com/album/795vZthVqnG9wdjAqXsMux) | 5:26 |
+| 29 | [Reuts](https://open.spotify.com/track/6nhd4cWEYapY5704NqOcOk) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Reuts](https://open.spotify.com/album/795vZthVqnG9wdjAqXsMux) | 5:26 |
 | 30 | [Dans la sauce](https://open.spotify.com/track/4JotkTX7ImmIoQK5gwBIIh) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Wingu](https://open.spotify.com/album/5Xd5Rh3JdkV5sJ0HVf1vB6) | 2:30 |
 | 31 | [INDISCRET](https://open.spotify.com/track/2XkZf7PB3MjaBdnzR2KFSo) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [AERON SIT](https://open.spotify.com/album/499DppgglIUt1d6UD6GNW8) | 2:13 |
 | 32 | [Parlons de nous](https://open.spotify.com/track/4ReQJvkxH6Ab1H2aeQToU8) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Parlons de nous](https://open.spotify.com/album/7BhzlJRv10yLohFzjJUKkk) | 3:11 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 37 | [Docteur](https://open.spotify.com/track/0WoXJsM5EKwhYURKx3p1p2) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [La fin de la nuit](https://open.spotify.com/album/61B9Jgp1u9U46CUNIFOJfb) | 2:57 |
 | 38 | [Alcool Alcool](https://open.spotify.com/track/6wriPlx1qGGI7yOrtSGNvY) | [Gargäntua](https://open.spotify.com/artist/1ScFJG5ccOnTPPUin8cPFu) | [Immoral & Illégal](https://open.spotify.com/album/0KKgZIUwkhKV82olpr3QIU) | 3:53 |
 
-Snapshot ID: `MCw5Njc4NWE0ZWVjMjY5MmE1ZGRjNTFmM2RkMjdkMGViOWYzZjBjNjU4`
+Snapshot ID: `MCw5ZjVlODJlOWIyNTkyOWFjNDkxZDJkMmUwZmI5NTQzNjc2YjczODNm`

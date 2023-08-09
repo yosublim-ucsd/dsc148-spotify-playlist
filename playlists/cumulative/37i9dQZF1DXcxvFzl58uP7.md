@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-854 songs - 1 day 20 hr 22 min
+855 songs - 1 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Hot Rod](https://open.spotify.com/track/12j3KX5TkcAswLUUPMTNqA) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7CEcveuhikJxpej7s1Nypr) | 3:24 | 2019-08-01 | 2022-07-29 |
 | [Hot Rod](https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 3:24 | 2022-09-14 |  |
 | [how the hell did we end up here?](https://open.spotify.com/track/7g2ZfScI3hUoHAdpVO0P4Z) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [ache \(demos\)](https://open.spotify.com/album/5qNyLZnMwnZBv7NFXmChtV) | 1:25 | 2022-04-29 | 2022-06-14 |
+| [How To Never Stop Being Sad](https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:10 | 2023-08-08 |  |
 | [How Was Your Day?](https://open.spotify.com/track/5jx99x0wf2r9hzq0ekAmRr) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [How Was Your Day?](https://open.spotify.com/album/7rUsxlkjBKrKdumIkBMieZ) | 4:20 | 2020-10-03 | 2022-07-29 |
 | [How Was Your Day?](https://open.spotify.com/track/2E01rRrzaz6TuwCdm27m4m) | [Mellow Fellow](https://open.spotify.com/artist/4evVEvE5p9WsdXQKBPmAxT), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [How Was Your Day?](https://open.spotify.com/album/6jImcs0N4HZG23G7YTvAZ9) | 3:08 | 2019-08-04 | 2023-06-10 |
 | [Human Breach](https://open.spotify.com/track/0XFV1dLOQNdzEhiNUHH0VP) | [LOMELI](https://open.spotify.com/artist/5HhNeohGg8OhavQVZsiHxB) | [I Ask Nothing of You](https://open.spotify.com/album/2gPfwzwUnPooH6Ax6lHVWT) | 4:14 | 2020-05-17 | 2021-05-21 |
@@ -836,7 +837,7 @@
 | [Wiggle](https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Wiggle](https://open.spotify.com/album/3C6id3ytbDm10twaf8c4BY) | 2:59 | 2019-09-03 | 2021-08-24 |
 | [Wind](https://open.spotify.com/track/1rphSU3RK5DTitT9muQ1rE) | [Healing Potpourri](https://open.spotify.com/artist/7DORj3eYMlPwqbRZ4StSmQ) | [Wind](https://open.spotify.com/album/2UsxClNKxjLQKvBPf7diro) | 3:44 | 2022-06-14 | 2022-06-23 |
 | [Wish You Well](https://open.spotify.com/track/6PcDDuSAPG1AE1wefg6Y7D) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Wish You Well](https://open.spotify.com/album/7q1q1QmZumtecSST83J210) | 3:55 | 2021-10-08 | 2022-07-18 |
-| [With Somebody](https://open.spotify.com/track/2pxjnQcQ2fNje67977QI0f) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [With Somebody](https://open.spotify.com/album/5FCsvzNZ50iU6eKUvWLBNu) | 3:24 | 2023-04-17 |  |
+| [With Somebody](https://open.spotify.com/track/2pxjnQcQ2fNje67977QI0f) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [With Somebody](https://open.spotify.com/album/5FCsvzNZ50iU6eKUvWLBNu) | 3:24 | 2023-04-17 | 2023-08-09 |
 | [Work It On Out](https://open.spotify.com/track/2pPWGBZzE1h46lgYv6CgYn) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Bloom Baby Bloom](https://open.spotify.com/album/1OeU8CeNl7tLWNWrKTQ8QO) | 3:45 | 2021-05-01 | 2022-06-22 |
 | [WYWD](https://open.spotify.com/track/1vJe79Mia6uqgQaktxqa4f) | [Ruru](https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo) | [WYWD](https://open.spotify.com/album/188kbvQhJ4WOQerO0w5SDJ) | 2:57 | 2021-04-28 | 2022-05-24 |
 | [Yam Yam](https://open.spotify.com/track/1j56M8iOGH48yuKqj64qGK) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/6WwtoUvd1fayGM5JZIq4LS) | 3:36 | 2019-07-31 | 2021-07-20 |

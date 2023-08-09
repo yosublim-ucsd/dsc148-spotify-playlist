@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,412 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,427 likes - 74 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Free](https://open.spotify.com/track/2UzkwgstKyX5wZg6t9YzxL) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Free](https://open.spotify.com/album/2dVX6UPdVWKPKs8g4huCHG) | 3:48 |
 | 2 | [Nav Irodh Hinge](https://open.spotify.com/track/1DDxP3kzCvAAJpOPkdvjv5) | [Chirayu](https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ), [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy), [Jack Michael](https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF) | [Nav Irodh Hinge](https://open.spotify.com/album/7jHQnws1IKppTlbm4INuPj) | 3:02 |
 | 3 | [Thirugo Bhoomi](https://open.spotify.com/track/3eRyegkZdRNpIK4YJw8V6p) | [Sai Sharan P Hiremath](https://open.spotify.com/artist/6cenV56xwYF9NLMZetncWP) | [Thirugo Bhoomi](https://open.spotify.com/album/3x8jU3iLh8wwLf9AX2HpDa) | 3:46 |
-| 4 | [Lokada Kalaji \(Rendition\) \- SKODA Deccan Beats](https://open.spotify.com/track/3CrD7UchbZpqrm3Q6rzFGp) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Sunil Nakod](https://open.spotify.com/artist/5b6rKTAj1FD4aaerrJ8nay) | [Lokada Kalaji \(Rendition\) \[SKODA Deccan Beats\]](https://open.spotify.com/album/6pIZpEbcqhKgVJJXw5CTxd) | 1:45 |
+| 4 | [Naa Arive](https://open.spotify.com/track/0qFEglcQZCUMNADVKihoYy) | [Madhuri Seshadri](https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx) | [Naa Arive](https://open.spotify.com/album/0gQRlHibWUXKObi4Csgvn9) | 4:26 |
 | 5 | [Chikkavanu](https://open.spotify.com/track/1D2LX2HV7AsxiGbecZPSm0) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Chikkavanu](https://open.spotify.com/album/1k2G5Lz3hUVhCXSlcHKmsh) | 1:10 |
 | 6 | [Maleya Hani](https://open.spotify.com/track/2wNNoAxQb1VRqKxQMdlwAU) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk), [Thrupthi Rai](https://open.spotify.com/artist/34jjiK70L2t44kp4uTSsxU) | [Maleya Hani](https://open.spotify.com/album/66cC20oPPvP02A2ToTGeaT) | 3:13 |
 | 7 | [Money In The World](https://open.spotify.com/track/3mb6cmdGfriBt5WHamvtdo) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Money In The World](https://open.spotify.com/album/1cGiCtgfbtXuda2WIO41jj) | 1:30 |
@@ -81,7 +81,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 71 | [Never Stop](https://open.spotify.com/track/50n0fBqMzFSirqd0ohbO7s) | [MC DILIP](https://open.spotify.com/artist/1BVzEsmuO2qJm8rRisIKOy), [Nandan V R](https://open.spotify.com/artist/7L27ObjW3EkD2VXQcPWL7a) | [Never Stop](https://open.spotify.com/album/26rK8IlCY5eF9JKB8RUyIV) | 2:02 |
 | 72 | [Kalitha Hudugi 2.0](https://open.spotify.com/track/5W1wfINyvzgflRPjbqDpA2) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Kalitha Hudugi 2.0](https://open.spotify.com/album/1eusEx2WLiPspt0YwUs0vU) | 3:46 |
 | 73 | [Nina Myaale](https://open.spotify.com/track/1DeCiMxWuLboZByKwPgrvz) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Nina Myaale](https://open.spotify.com/album/48G6knKFk6JcWEYBFNrE91) | 3:35 |
-| 74 | [Antariksha](https://open.spotify.com/track/5PtZ9krK8nQ5c9sJx6lViv) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Antariksha](https://open.spotify.com/album/67fzzYghJI5aPHJCwokERt) | 3:29 |
-| 75 | [Barede Na](https://open.spotify.com/track/1GiJHRuSGenOtOaTCD4qIJ) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Barede Na](https://open.spotify.com/album/7yhwdOnfpHsGSQfGiW2Bi6) | 3:30 |
+| 74 | [Barede Na](https://open.spotify.com/track/1GiJHRuSGenOtOaTCD4qIJ) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Barede Na](https://open.spotify.com/album/7yhwdOnfpHsGSQfGiW2Bi6) | 3:30 |
 
-Snapshot ID: `MCxmMzJhNDIxYjIyYjc4MmU2OWIzM2FjNjkxZjg1NDM2ODE5ZDgxODEz`
+Snapshot ID: `MCwwY2YwNWFlY2IzMDIwMjU5MGFkNTM4ZTcyNzVjNDFkMDViZDg1NTJh`

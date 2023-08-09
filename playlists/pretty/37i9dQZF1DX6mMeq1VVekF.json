@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: KhakiKid",
-  "num_followers": 147830,
+  "num_followers": 148039,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGIxODA1NTY4NGFmY2YzNDVjMmY4OWIyZDQwZGIyMDEwYzI3NWFl",
+  "snapshot_id": "MCxjNTJhNWVmNTliNjNlMmE0Yzk0OWU5MDQ3NDI0MjVhNzliNGFmYzIx",
   "tracks": [
     {
       "added_at": "2023-08-04 01:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-08-04 01:00:00",
       "album": {
-        "name": "Richest Opp",
-        "url": "https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 183484,
-      "name": "I Heard",
-      "url": "https://open.spotify.com/track/4s2SSnOOVF3FtgcxNx6fFk"
-    },
-    {
-      "added_at": "2023-08-04 01:00:00",
-      "album": {
         "name": "Fountain Baby",
         "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 148573,
       "name": "Wasted Eyes",
       "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
+    },
+    {
+      "added_at": "2023-08-04 01:00:00",
+      "album": {
+        "name": "Richest Opp",
+        "url": "https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 183484,
+      "name": "I Heard",
+      "url": "https://open.spotify.com/track/4s2SSnOOVF3FtgcxNx6fFk"
     },
     {
       "added_at": "2023-08-04 01:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-08-04 01:00:00",
       "album": {
-        "name": "Real Back In Style",
-        "url": "https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3"
-      },
-      "artists": [
-        {
-          "name": "Potter Payper",
-          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
-        }
-      ],
-      "duration_ms": 225423,
-      "name": "White Ash",
-      "url": "https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef"
-    },
-    {
-      "added_at": "2023-08-04 01:00:00",
-      "album": {
         "name": "NO BONNIE N CLYDE",
         "url": "https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 133400,
       "name": "NO BONNIE N CLYDE",
       "url": "https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T"
+    },
+    {
+      "added_at": "2023-08-04 01:00:00",
+      "album": {
+        "name": "Real Back In Style",
+        "url": "https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "duration_ms": 225423,
+      "name": "White Ash",
+      "url": "https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef"
     },
     {
       "added_at": "2023-08-04 01:00:00",
@@ -919,6 +919,26 @@
     {
       "added_at": "2023-08-04 01:00:00",
       "album": {
+        "name": "Chrome Bull",
+        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "duration_ms": 187938,
+      "name": "Sneaky",
+      "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
+    },
+    {
+      "added_at": "2023-08-04 01:00:00",
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 194906,
       "name": "Caught Me Running",
       "url": "https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT"
-    },
-    {
-      "added_at": "2023-08-04 01:00:00",
-      "album": {
-        "name": "Chrome Bull",
-        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        }
-      ],
-      "duration_ms": 187938,
-      "name": "Sneaky",
-      "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
     },
     {
       "added_at": "2023-08-04 01:00:00",
@@ -1075,18 +1075,22 @@
     {
       "added_at": "2023-08-04 01:00:00",
       "album": {
-        "name": "NEMZZZ TYPE BEAT",
-        "url": "https://open.spotify.com/album/4Wvpxold7MP3i4SraBP9oR"
+        "name": "Songs That Made Me Feel",
+        "url": "https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR"
       },
       "artists": [
         {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        },
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
         }
       ],
-      "duration_ms": 161666,
-      "name": "FENTY BEAUTY",
-      "url": "https://open.spotify.com/track/6PtTA5brWv0ITzpMuW30s1"
+      "duration_ms": 188440,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/3dWjUncK6qSiFlf5qru1Aq"
     }
   ],
   "unique_name": "Free Form",

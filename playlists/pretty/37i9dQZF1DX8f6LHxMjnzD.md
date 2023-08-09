@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,901 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,931 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Somebody Like You](https://open.spotify.com/track/7jLAYW3N25Piy6lEI4WczE) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Somebody Like You](https://open.spotify.com/album/09LPF57on4STv8JhBAI6cd) | 3:20 |
 | 40 | [No Sleep](https://open.spotify.com/track/1Ksr48DhDi60pJSUcZfeUP) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [No Sleep](https://open.spotify.com/album/2Bw2hZirRV4JkOnaMMfUeq) | 3:36 |
 
-Snapshot ID: `MCwwOTM5NzRkMDU1YWVmMjhiZWVlYjZiZDk3YTBhZDg0ZDUzMGIzM2Ey`
+Snapshot ID: `MCw1ODk5YTAxMzQ3NGRhN2Y5ZmQ3OWZmNTgyNTU3OTdjODM0NDM1OTM4`

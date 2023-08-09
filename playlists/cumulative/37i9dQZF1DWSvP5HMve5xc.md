@@ -4,7 +4,7 @@
 
 > Listen to Eric Nam's greatest hits, all in one place.
 
-85 songs - 4 hr 36 min
+86 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [I Don't Miss You](https://open.spotify.com/track/0kq2SMYMcYk6dl2Z6k03yN) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I Don't Miss You](https://open.spotify.com/album/0MdZdkVzAdqv9QcBqnWmes) | 2:52 | 2021-10-14 |  |
 | [I Don't Miss You](https://open.spotify.com/track/42I5z4IRj90oQ5iyk6aqGc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I Don't Miss You](https://open.spotify.com/album/3VWdyUAxBEt5gY2sXJUzFT) | 2:52 | 2021-10-14 | 2022-07-29 |
 | [I'm OK](https://open.spotify.com/track/70erIN9ecPDru7T9NSkRWk) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I'm Ok](https://open.spotify.com/album/0nCxgNlP3ynhDKpeim8INX) | 3:27 | 2021-10-14 |  |
-| [Idea of You](https://open.spotify.com/track/3qokU6oAQiynzPfQMfPbmR) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Idea of You](https://open.spotify.com/album/2wKhjiowqNmKTq5oOJcvgW) | 3:42 | 2021-10-14 |  |
+| [Idea of You](https://open.spotify.com/track/07uTAq614yrSfBcPUXKNFd) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Idea of You](https://open.spotify.com/album/3PvegBw980S9DWGwf2qDXz) | 3:42 | 2021-10-14 |  |
+| [Idea of You](https://open.spotify.com/track/3qokU6oAQiynzPfQMfPbmR) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Idea of You](https://open.spotify.com/album/2wKhjiowqNmKTq5oOJcvgW) | 3:42 | 2021-10-14 | 2023-08-09 |
 | [Idea of You](https://open.spotify.com/track/5SD3nF4GLH4UTtt0OGWatS) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Idea of You](https://open.spotify.com/album/1DALmYrnkpWNydgxCger3R) | 3:42 | 2021-10-14 | 2022-07-29 |
 | [Interview](https://open.spotify.com/track/2izPoWJ6xAuZUNJkdXO3YS) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:25 | 2021-10-14 |  |
 | [Into You](https://open.spotify.com/track/1ySJm5XCFatpIz0j8NFlra) | [KOLAJ](https://open.spotify.com/artist/0hhL0iOf9ebHlwxWQyeH2w), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Into You](https://open.spotify.com/album/3Q33VTKlvcTy5wPTqpwDlK) | 3:45 | 2021-10-14 |  |

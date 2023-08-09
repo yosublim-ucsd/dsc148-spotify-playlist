@@ -540,7 +540,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 436000,
       "name": "Bakone",
       "url": "https://open.spotify.com/track/5XPzuMJVQ9cX9kbOOCRvDW"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 276000,
       "name": "ever mine",
       "url": "https://open.spotify.com/track/3qEQaiwfTWusQott3y7fh0"
@@ -2118,7 +2118,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 369156,
       "name": "Ghost City",
       "url": "https://open.spotify.com/track/0aC198BigttLuWXdMbpLMo"
@@ -2552,7 +2552,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 353305,
       "name": "House of Blessings",
       "url": "https://open.spotify.com/track/7u0aML7np1BV7x0SPtL0UI"
@@ -3409,6 +3409,32 @@
     },
     {
       "album": {
+        "name": "Kukaya",
+        "url": "https://open.spotify.com/album/11AaDjijVg3PVuwu7C9BPN"
+      },
+      "artists": [
+        {
+          "name": "CLARAA",
+          "url": "https://open.spotify.com/artist/0hzvjvnzkOTFNgVrLTwiM4"
+        },
+        {
+          "name": "Ashimba",
+          "url": "https://open.spotify.com/artist/50taVLD5bthDh28wcdhAnQ"
+        },
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390031,
+      "name": "Kukaya - Fka Mash Remix",
+      "url": "https://open.spotify.com/track/4kSq8Jam0a7FJt0e8eoRF0"
+    },
+    {
+      "album": {
         "name": "Farkoko EP",
         "url": "https://open.spotify.com/album/1StNH7bSxZ7B70YVxYCetF"
       },
@@ -4042,7 +4068,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 287669,
       "name": "Masungulo",
       "url": "https://open.spotify.com/track/6QoWZJrELFnejwIV0c9OgM"
@@ -4082,7 +4108,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 389106,
       "name": "Mend It",
       "url": "https://open.spotify.com/track/50IH6OIRU7sKMwGIOex1xM"
@@ -4488,7 +4514,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 233360,
       "name": "NDAU",
       "url": "https://open.spotify.com/track/4VFgLCmOLdE0n3LvqjaFJ0"
@@ -4518,6 +4544,32 @@
       "duration_ms": 205725,
       "name": "Ndauya",
       "url": "https://open.spotify.com/track/0zL7I0zTANptsTUnai3lQJ"
+    },
+    {
+      "album": {
+        "name": "Ndixolele EP",
+        "url": "https://open.spotify.com/album/0KetBI4DnAAnG8oEKFqqUV"
+      },
+      "artists": [
+        {
+          "name": "Mosco Lee",
+          "url": "https://open.spotify.com/artist/6rvCZ04dOtnaIx1jxPIXJW"
+        },
+        {
+          "name": "Nubz MusiQ",
+          "url": "https://open.spotify.com/artist/4Wj5fknalJbgEuKagQQ6Mk"
+        },
+        {
+          "name": "Thabiso Vocalist",
+          "url": "https://open.spotify.com/artist/6UYtK5yl8Jw5YdpXytK8j3"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 562093,
+      "name": "Ndixolele",
+      "url": "https://open.spotify.com/track/4vhqlSZ4pKFOFb7GXm7Sxb"
     },
     {
       "album": {
@@ -4832,7 +4884,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 225013,
       "name": "Njenge Nkanyezi",
       "url": "https://open.spotify.com/track/3p2xwxdNBSS8IhgHAsR5eh"
@@ -4990,7 +5042,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 474098,
       "name": "Nyosso",
       "url": "https://open.spotify.com/track/6oKwLpPMw43ck4eTIxtW73"
@@ -5108,7 +5160,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 284840,
       "name": "Oriti - Kenza Remix",
       "url": "https://open.spotify.com/track/1M6jKX5uo2MC5iABgeTWH6"
@@ -5152,7 +5204,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 414000,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/0diyPyTz1ayLreUT4BAQ1N"
@@ -6158,7 +6210,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 231828,
       "name": "Shine",
       "url": "https://open.spotify.com/track/4dRac7S17nsePwSE3MqbK6"
@@ -6214,7 +6266,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 369837,
       "name": "Sik'khuzile [Mixed]",
       "url": "https://open.spotify.com/track/7yKYoG9Jzs2vIjwUthzchJ"
@@ -7221,6 +7273,28 @@
     },
     {
       "album": {
+        "name": "Bakone",
+        "url": "https://open.spotify.com/album/7KKssScoi6eEnGUYbgiG9l"
+      },
+      "artists": [
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        },
+        {
+          "name": "Da Africa Deep",
+          "url": "https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492000,
+      "name": "Tomorrowland",
+      "url": "https://open.spotify.com/track/3ykGXRHUjFxcSU0zJ7dOR7"
+    },
+    {
+      "album": {
         "name": "Tout S'en Va",
         "url": "https://open.spotify.com/album/0Z7HOg9bzgDMrRL2jPSmNv"
       },
@@ -7742,7 +7816,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 347689,
       "name": "We Are One",
       "url": "https://open.spotify.com/track/4LjzdeQnST657PWpTU4yzH"
@@ -8022,7 +8096,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 431976,
       "name": "Ybb's Hrtbrk - Instrumental",
       "url": "https://open.spotify.com/track/7m0wmd1WZl4jgHRdr5Pqgz"

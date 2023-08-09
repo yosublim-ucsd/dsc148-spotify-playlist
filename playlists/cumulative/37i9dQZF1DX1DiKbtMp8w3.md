@@ -4,7 +4,7 @@
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-243 songs - 13 hr 49 min
+244 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,8 @@
 | [난 어디로 Where Am I Going](https://open.spotify.com/track/48olrtFEJvEXMrUu9b1XHI) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [Noise on Fire \(Remastered\)](https://open.spotify.com/album/5OiizE4CuzR6iez0imn8lQ) | 4:19 | 2022-10-06 |  |
 | [다죽자](https://open.spotify.com/track/5zElW3dIf8kuVjd9ak82MQ) | [크라잉넛](https://open.spotify.com/artist/1SGNqDSdlxbsgJkyoDZiwY) | [서커스 매직 유랑단](https://open.spotify.com/album/3ETdw0CvCfrbLAQFe8UbMo) | 6:48 | 2022-10-06 |  |
 | [버거 Burger](https://open.spotify.com/track/51f4A9WcjkND9aGHpuAh8Q) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Frankly I…](https://open.spotify.com/album/1ZnN6DgqZVnxRHd6OxGsBh) | 4:06 | 2022-10-18 |  |
-| [비밀](https://open.spotify.com/track/4NqSFrKgTTMv846p4hIrvF) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [나는 가수다 2 2012 가왕전 개막제](https://open.spotify.com/album/2Wz7LaK00NEFJBIu6GZTBM) | 4:52 | 2022-10-06 |  |
+| [비밀](https://open.spotify.com/track/4NqSFrKgTTMv846p4hIrvF) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [나는 가수다 2 2012 가왕전 개막제](https://open.spotify.com/album/2Wz7LaK00NEFJBIu6GZTBM) | 4:52 | 2022-10-06 | 2023-08-09 |
+| [비밀 \(원곡가수 부활\)](https://open.spotify.com/track/2eDp7MUmkkKVxYZXwykoyd) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [<나는 가수다 2> 2012 가왕전 개막제 / 1집](https://open.spotify.com/album/1mVW12Cl53OadRXmWtmWWN) | 4:52 | 2023-02-03 |  |
 | [비와 당신의 이야기](https://open.spotify.com/track/4YvWV2TfZkrUYS6Th28iKB) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [The Best Of Born Again](https://open.spotify.com/album/4rvxxZJ12vnJgPLCsIM2AN) | 6:01 | 2022-10-06 |  |
 | [사랑할수록](https://open.spotify.com/track/30GH7aoSEBD9YmgSy83K85) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [Color](https://open.spotify.com/album/5jzebpTutPXBN69mZOwzQy) | 4:10 | 2022-10-06 |  |
 | [사랑할수록](https://open.spotify.com/track/5R7CMPvfSM0RdBYTFuKlDt) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [기억상실](https://open.spotify.com/album/6fQp1ErGeFDBpDXJjkWgsF) | 4:39 | 2022-08-25 |  |

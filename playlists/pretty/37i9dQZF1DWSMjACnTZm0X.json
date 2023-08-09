@@ -1,12 +1,12 @@
 {
   "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=JHPSeMBEQXGlrqGn3vLPuw\">Asake</a>",
-  "num_followers": 6177,
+  "num_followers": 6187,
   "original_name": "Piano to the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTMwNWRkNjgwYmMxZTU0ODZjOWI4ZWQ1ZjI4ODA0NDdjZTU0ODIy",
+  "snapshot_id": "MCw0MDM3MmVjOTIzY2RiNmY1NWQ5OGU2M2I5NmE4Yjc1ZGRiMmEwZTk3",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -79,8 +79,8 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Mix It Up Vol.2",
-        "url": "https://open.spotify.com/album/1klHnZaGa2LA3PPbK7zoB5"
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/7F4FjvyBMOnFznBEQHrpbm"
       },
       "artists": [
         {
@@ -98,7 +98,7 @@
       ],
       "duration_ms": 291428,
       "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/7bFWys0I1Dl2qsgOki3SMq"
+      "url": "https://open.spotify.com/track/0Fys87GQeLWHvrTqzSlKP8"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -564,12 +564,12 @@
       },
       "artists": [
         {
-          "name": "K-Trap",
-          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
-        },
-        {
           "name": "Mathandos",
           "url": "https://open.spotify.com/artist/4ie8G7LI4tNKHAXln6mhiK"
+        },
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
         }
       ],
       "duration_ms": 227256,

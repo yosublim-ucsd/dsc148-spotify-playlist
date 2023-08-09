@@ -4,7 +4,7 @@
 
 > Desde el corazón del rancho, las mejores interpretaciones en vivo\. Virlán García en portada.
 
-61 songs - 3 hr 19 min
+64 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Jardín Olvidado \- En Vivo](https://open.spotify.com/track/2zVVkGVN3x6odrOQzWloaC) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Con Tololoche y Charchetas \(En Vivo\)](https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI) | 3:34 | 2022-12-30 |  |
 | [Las 745](https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Las 745](https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg) | 2:43 | 2023-06-09 |  |
 | [Manana Voy a Conquistarte \- En Vivo](https://open.spotify.com/track/4ZyrUecIqxtU4CmbIw39YV) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Desde la Oficina, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/2Ks3v9EkTNK6gVADfFuXyx) | 2:32 | 2022-12-30 |  |
-| [Mi Eterno Amor Secreto \- Live](https://open.spotify.com/track/5Ipirnomv7UvSnOuH6Df6v) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 2 \(Live\)](https://open.spotify.com/album/6vmqaUcI0dX1l7GE8FsACa) | 3:55 | 2022-12-30 |  |
+| [Mi Eterno Amor Secreto \- En Vivo](https://open.spotify.com/track/1nWEVcvYkpfVFxSfAOkaW5) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1) | 3:55 | 2023-06-09 |  |
+| [Mi Eterno Amor Secreto \- Live](https://open.spotify.com/track/5Ipirnomv7UvSnOuH6Df6v) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 2 \(Live\)](https://open.spotify.com/album/6vmqaUcI0dX1l7GE8FsACa) | 3:55 | 2022-12-30 | 2023-08-09 |
 | [Mientras Duermes \- En Vivo](https://open.spotify.com/track/1Yx3iqFwDTXSKoXhCAi8UI) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mientras Duermes \(En Vivo\)](https://open.spotify.com/album/78GkhLkn5v6q6PkNFbDFYs) | 3:23 | 2022-12-30 |  |
 | [Musica Romantica](https://open.spotify.com/track/3RUOmBIs2vB2rYGPjAanBU) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [A Nuesto Estilo](https://open.spotify.com/album/4FK0yntpe63uSLpdepJCXi) | 4:00 | 2022-12-30 |  |
 | [Ni Parientes Somos \- En Vivo](https://open.spotify.com/track/0HXZHA50d8dvfUZXlSEllQ) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [En Vivo](https://open.spotify.com/album/67QL5vLiYRrqJ3UVH40ztP) | 2:57 | 2022-12-30 |  |
@@ -59,8 +60,10 @@
 | [Supe Perder](https://open.spotify.com/track/7d17BrhPWCG56idoTI7wiB) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [A Nuesto Estilo](https://open.spotify.com/album/4FK0yntpe63uSLpdepJCXi) | 3:32 | 2022-12-30 |  |
 | [Te Apuesto \- En vivo](https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:48 | 2022-12-30 |  |
 | [Te Encontré \- En Vivo](https://open.spotify.com/track/5MyH0HWPtx6Ua7IVdCsrjE) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Amor y Dolor \(En Vivo\)](https://open.spotify.com/album/07MjejZluBKxlicNhE0WMq) | 3:14 | 2022-12-30 |  |
-| [Te Vi Con Él](https://open.spotify.com/track/3zK8zUmJzPAF4x1AtkxIcR) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 3:00 | 2022-12-30 |  |
-| [Tu \- Live](https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 4:06 | 2022-12-30 |  |
+| [Te Vi Con Él](https://open.spotify.com/track/3zK8zUmJzPAF4x1AtkxIcR) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 3:00 | 2022-12-30 | 2023-08-09 |
+| [Te Ví Con El](https://open.spotify.com/track/3osBlMQdoOr4Mw7DU0q2v3) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX) | 3:00 | 2023-06-09 |  |
+| [Tu \- En Vivo](https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 4:06 | 2023-06-09 |  |
+| [Tu \- Live](https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 4:06 | 2022-12-30 | 2023-08-09 |
 | [Un Par De Ojitos Negros \- En Vivo](https://open.spotify.com/track/3SRlnI2CtjzfsT0m8yVfdq) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F) | 2:53 | 2022-12-30 |  |
 | [Vete Ya \(En Vivo\)](https://open.spotify.com/track/0PyYIGJgxnwuSZZG7NIDnr) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Vete Ya \(En Vivo\)](https://open.spotify.com/album/5IlP8UKRJ8Fl7kqRqclyua) | 2:52 | 2022-12-30 |  |
 | [Y Ahora Te Vas \- En Vivo](https://open.spotify.com/track/2HT39Ri8skpoDiuTPAD7LM) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Como De Costumbre \(En Vivo\)](https://open.spotify.com/album/0tefO5JXpzrflvnQdFlsaF) | 4:03 | 2022-12-30 | 2023-06-10 |

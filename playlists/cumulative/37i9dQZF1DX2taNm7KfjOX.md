@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Big Thief
 
-516 songs - 1 day 8 hr 14 min
+517 songs - 1 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Guess Again](https://open.spotify.com/track/6zz69yZsmztL9Zkp5U74Ju) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Love Is The King](https://open.spotify.com/album/4luinFPZgIsSXjsKqb42LI) | 3:17 | 2023-07-14 |  |
 | [Guthrie](https://open.spotify.com/track/2kNwTOVdZGCGROgAzjD1J0) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Guthrie](https://open.spotify.com/album/11sreyMhRyRnGBrg972mZy) | 4:53 | 2022-07-29 | 2022-12-22 |
 | [Habit](https://open.spotify.com/track/7gssKF1R5EclIP8Izaxcle) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [MADDY MAY](https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu) | [Habit](https://open.spotify.com/album/55M9iNIkBo7cCYe17KcPD7) | 3:31 | 2023-03-17 |  |
-| [Hail Mary](https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 2:49 | 2023-06-09 |  |
+| [Hail Mary](https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 2:49 | 2023-06-09 | 2023-08-09 |
 | [Hail Mary](https://open.spotify.com/track/71fZrZ2MTPLRLPbMf8pT0F) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/61IFc4d4O5z2AReP8eI3Ay) | 2:49 | 2023-04-14 | 2023-04-30 |
 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 | 2021-10-22 |  |
 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 | 2023-02-10 |  |
@@ -381,6 +381,7 @@
 | [Savior Complex](https://open.spotify.com/track/4BNew3AqFCvABdFsYMRiyB) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 4:01 | 2021-10-22 | 2022-04-22 |
 | [Say It Ain't So](https://open.spotify.com/track/1REohUFAzDBfIqPwL1CjUQ) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Say It Ain't So](https://open.spotify.com/album/22DE5yz0XPuClO8A0P6tyJ) | 3:43 | 2022-04-13 | 2022-04-25 |
 | [Second Sun](https://open.spotify.com/track/6M9pAYUbeZw1P492xk1TIm) | [Jodie Nicholson](https://open.spotify.com/artist/3UKeJqND3iyFxGOUPLq9Be) | [Second Sun](https://open.spotify.com/album/5cmMIs2vDV7WfNKdRBGaak) | 5:00 | 2021-10-22 | 2022-04-21 |
+| [Seed \- In Bloom](https://open.spotify.com/track/6dqSEB3o1HZ7dmBgUbJy4e) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi), [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Seed \(In Bloom\)](https://open.spotify.com/album/1dEbOB86RSmhOgvdjayQVB) | 2:37 | 2023-08-04 |  |
 | [Selene](https://open.spotify.com/track/5qD71BEybvU6SE214zXCeq) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Selene](https://open.spotify.com/album/6oaFJJyQIAVeD8vGbRu15A) | 4:38 | 2022-04-13 | 2022-04-18 |
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2022-06-24 |  |
 | [She Burns](https://open.spotify.com/track/4MbeEkEuBRe6l5ksYXqNXb) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [She Burns](https://open.spotify.com/album/2cKw7mUmiiLmDPDxdsW0zS) | 3:49 | 2021-10-22 | 2022-07-26 |

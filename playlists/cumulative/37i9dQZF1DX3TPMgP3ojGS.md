@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,730 songs - 3 day 5 hr 35 min
+1,731 songs - 3 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [As The Crow Flies](https://open.spotify.com/track/3Tny1IsUZeQyXJEwrzSYSp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Ripples on a Pond](https://open.spotify.com/album/2VNrWdvo3fG7HcQPOk5ZmX) | 1:36 | 2021-03-16 | 2022-04-21 |
 | [As We Fall In Love Again](https://open.spotify.com/track/2lwkWns2UHsmppqcpjIl5R) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [As We Fall In Love Again](https://open.spotify.com/album/37lCe2jTM8UEYXcS1tESar) | 2:50 | 2021-03-25 | 2022-07-22 |
 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 | 2021-12-13 | 2022-07-28 |
+| [Ash of memory](https://open.spotify.com/track/6rb8PeoAVfIyAJ0EqQCgU2) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Ash of memory](https://open.spotify.com/album/4WEz8LHe96zM7RwV4IKxVq) | 1:55 | 2023-08-08 |  |
 | [Ashokan](https://open.spotify.com/track/3wa8YzkpiHEhmcpiuiqUem) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [Ashokan](https://open.spotify.com/album/04BQhBmWuSAD0P7Ko1TopF) | 1:57 | 2021-05-17 | 2021-05-18 |
 | [Askja](https://open.spotify.com/track/5NPOzGF9KwzjgfA3q6zbCf) | [Dreyma](https://open.spotify.com/artist/6fhkHJ6kJGHDuypn800e77) | [Askja](https://open.spotify.com/album/6gPqxuEKhpHUNWta7qv4qS) | 4:14 | 2021-03-21 | 2022-04-12 |
 | [Asleep In My Arms](https://open.spotify.com/track/5dXsrIUsMriHUwxblFS7HZ) | [Aaron Lansing](https://open.spotify.com/artist/2AiqANCe9znkfFsN5qIOyV) | [Asleep In My Arms](https://open.spotify.com/album/2BdYZNl2zZS2Ho6qIxxpUO) | 2:07 | 2021-03-19 | 2021-05-21 |
@@ -629,7 +630,7 @@
 | [Hiro](https://open.spotify.com/track/3QVAtsZYZhTvAK995bxUkY) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Hiro](https://open.spotify.com/album/0cd4CYjdiGoF4RfSZYIWRg) | 2:39 | 2021-03-23 | 2022-07-29 |
 | [History Repeats Itself](https://open.spotify.com/track/4hP9yHCx4TLnDZu8nEszUO) | [Jose Carcavelos](https://open.spotify.com/artist/3WSJGymGbgPhHHqTRBUE0H) | [History Repeats Itself](https://open.spotify.com/album/0avdV4IQXLLuRcNthYZXeV) | 1:54 | 2021-04-28 | 2022-04-07 |
 | [Hiányérzet](https://open.spotify.com/track/0TaFyNST7wUeJ8ymvt6sqR) | [Lôrinc Tzigane](https://open.spotify.com/artist/6vWNxay1gwQXx4uuB6pgms) | [Hiányérzet](https://open.spotify.com/album/3kSodbe541Sst0OYivwNmM) | 2:30 | 2021-05-08 | 2021-05-09 |
-| [Holding Hands](https://open.spotify.com/track/6hzlEcgzqLW9UbLsUZMTVP) | [Junie Graziano](https://open.spotify.com/artist/3X2b9Hkj2Rk6gnPq8Lv9QT) | [Holding Hands](https://open.spotify.com/album/3sMHlbyicRDFi4n57C0HTc) | 1:39 | 2023-04-15 |  |
+| [Holding Hands](https://open.spotify.com/track/6hzlEcgzqLW9UbLsUZMTVP) | [Junie Graziano](https://open.spotify.com/artist/3X2b9Hkj2Rk6gnPq8Lv9QT) | [Holding Hands](https://open.spotify.com/album/3sMHlbyicRDFi4n57C0HTc) | 1:39 | 2023-04-15 | 2023-08-09 |
 | [Holding On To A Dream](https://open.spotify.com/track/3JckG2zBLn2DMyaB7kInQ1) | [Tedosio](https://open.spotify.com/artist/3El5MgGZoJYZvUhnn9O94A) | [Holding On To A Dream](https://open.spotify.com/album/7xWCR5yrTl5TquNUxPEnq4) | 2:23 | 2022-03-29 | 2022-04-16 |
 | [Home](https://open.spotify.com/track/7eTDwpm5XKKssoMhMbo67y) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [The Beauty Inside \(Original Film Score\)](https://open.spotify.com/album/0gdEKp8PUuksujg3BpVBiP) | 2:40 | 2021-03-08 | 2021-03-09 |
 | [Home](https://open.spotify.com/track/1bZTBI1wJpeR3255SrsZ3d) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Home](https://open.spotify.com/album/75jpKsPhCDT0y5ZEAN7iAA) | 2:43 | 2022-07-08 | 2022-07-29 |

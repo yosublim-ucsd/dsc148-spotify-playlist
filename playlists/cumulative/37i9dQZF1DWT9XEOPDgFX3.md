@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Delaney Bailey
 
-379 songs - 23 hr 37 min
+380 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,8 @@
 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-06-12 |  |
 | [needy](https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [needy](https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB) | 3:52 | 2022-04-29 | 2023-05-07 |
 | [needy](https://open.spotify.com/track/7sGF4Lmw4ON0NGpXi947zR) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [needy](https://open.spotify.com/album/25ybQpE54EavBau3PajDTj) | 3:52 | 2022-01-21 | 2022-07-29 |
-| [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 | 2023-04-14 |  |
+| [Nightmare Machine](https://open.spotify.com/track/7GAoSqewwn9PArGeeD3DVv) | [Olivia Reid](https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1) | [Nightmare Machine](https://open.spotify.com/album/7l3bigwzunjgakr32KbRns) | 4:19 | 2023-08-04 |  |
+| [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 | 2023-04-14 | 2023-08-09 |
 | [No Summer](https://open.spotify.com/track/3DeRxZx9NeymcEKzDqY79r) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [No Summer](https://open.spotify.com/album/5lGTDW0jIkmQio3Kozn9fl) | 3:51 | 2022-04-13 | 2022-07-29 |
 | [Not Much](https://open.spotify.com/track/7jg7LVNFg6Euvm1wZySOrV) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [Jemima Coulter](https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc) | [Hailaker](https://open.spotify.com/album/34xv8wmf6qJwWQn7y7rq6q) | 4:13 | 2022-12-16 |  |
 | [Nowhere](https://open.spotify.com/track/77xVAa1MgwURdZAq7LwGAC) | [Katie Von Schleicher](https://open.spotify.com/artist/68UA9076k6lewTq2slA1FN) | [Consummation](https://open.spotify.com/album/7BFCex0ujA1VHUvkqjqlnb) | 3:39 | 2022-04-13 | 2022-07-28 |

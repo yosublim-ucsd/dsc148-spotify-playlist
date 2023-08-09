@@ -5383,6 +5383,28 @@
     },
     {
       "album": {
+        "name": "Jailer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Super Subu",
+          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207647,
+      "name": "Hukum - Thalaivar Alappara",
+      "url": "https://open.spotify.com/track/5DgY6Ab0vpyUMKnY9ubFOF"
+    },
+    {
+      "album": {
         "name": "Hukum - Thalaivar Alappara (From \"Jailer\")",
         "url": "https://open.spotify.com/album/09fIr7A4cAEktUmCMg7dJd"
       },
@@ -5394,7 +5416,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 207647,
       "name": "Hukum - Thalaivar Alappara (From \"Jailer\")",
       "url": "https://open.spotify.com/track/3pDbPKZHrpHAWcJVMsrNwA"
@@ -6621,6 +6643,32 @@
     },
     {
       "album": {
+        "name": "Jailer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Arunraja Kamaraj",
+          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Kaavaalaa",
+      "url": "https://open.spotify.com/track/1cPDOeVdALLjj4erFPiuqW"
+    },
+    {
+      "album": {
         "name": "Kaavaalaa (From \"Jailer\")",
         "url": "https://open.spotify.com/album/2zyHoHE002bpKqLY52nbAs"
       },
@@ -6640,7 +6688,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 190909,
       "name": "Kaavaalaa (From \"Jailer\")",
       "url": "https://open.spotify.com/track/3M9G4jJAgDLB9ycinua8Wo"
@@ -11164,7 +11212,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 216270,
       "name": "Pyaar Hota Kayi Baar Hai (From \"Tu Jhoothi Main Makkaar\")",
       "url": "https://open.spotify.com/track/2vPrBucKCfKmafHhSfJ2pt"
@@ -14590,7 +14638,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 321225,
       "name": "Tum Se Hi",
       "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE"

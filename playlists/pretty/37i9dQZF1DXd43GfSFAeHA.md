@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: ZIAD ZAZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,370 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,486 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 48 | [EL\-NEGM EL\-SAHELY](https://open.spotify.com/track/6kjHh3y3KItPG6fXLhxHW7) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [EL\-NEGM EL\-SAHELY](https://open.spotify.com/album/5fH5chAIaWvNR7rs1ExVyK) | 2:13 |
 | 49 | [Jordan Cypher \(feat\. Emsallam, The Synaptik, Shouly, El Faouri, Mahasneh, SalehMusic, Almukhtar, Satti, El Far3i & Mazz\)](https://open.spotify.com/track/35hKQKWhi3H4c0lsNmGzvW) | [Big Hass](https://open.spotify.com/artist/2ql58UK3Kq5d32topEu6Tv), [Emsallam](https://open.spotify.com/artist/704S90MD8gMqUNd9LsXvd1), [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS), [Shouly](https://open.spotify.com/artist/5PV019IYHyagZwyJ6TJkvA), [El Faouri](https://open.spotify.com/artist/03RYYDkFqGkLzO41RTSjRr), [Mahasneh](https://open.spotify.com/artist/09mTDBIJQrOEw78vALpnPX), [SalehMusic](https://open.spotify.com/artist/6QLaJvoqcWSWuDdCRipshQ), [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8), [Satti](https://open.spotify.com/artist/3iWToV4JQqiNlJKik7VIVg), [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t), [Mazz](https://open.spotify.com/artist/1CW8uyEFev7Wb5scfLvwYD) | [Jordan Cypher \(feat\. Emsallam, The Synaptik, Shouly, El Faouri, Mahasneh, SalehMusic, Almukhtar, Satti, El Far3i & Mazz\)](https://open.spotify.com/album/3s3SJTvBm4bFepOJCC1NvY) | 6:00 |
 | 50 | [SRT](https://open.spotify.com/track/6heHtvgHYZ4VgmRXYwcjtQ) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS), [Rissi Tempo](https://open.spotify.com/artist/43xRhVBpsVIj6XqUcpEmA2) | [SRT](https://open.spotify.com/album/2QJOXagj621ALebtT8BKN0) | 3:20 |
-| 51 | [Dabbaba](https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Dabbaba](https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv) | 2:09 |
+| 51 | [Khalisni](https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp) | [Saud G](https://open.spotify.com/artist/76VXSNBSY5pbsYgMe2dTYZ), [Ahmedoo Biggie](https://open.spotify.com/artist/4srnmX4lNfxOKYNA8gdRMy) | [Khalisni](https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378) | 3:09 |
 
-Snapshot ID: `MCxmMzI0Y2UzYTg1ZmFhZGMwYTFiNjFhMTEzYjlkMTY0MjZiMDEzNjg1`
+Snapshot ID: `MCxlMDJlMmM4OTI3OTA5NTM2ZTViOTYyYTliN2E2MWQ3YzM2MjdiYTM5`

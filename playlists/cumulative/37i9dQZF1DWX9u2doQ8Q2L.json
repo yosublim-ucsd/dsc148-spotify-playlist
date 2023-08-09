@@ -284,7 +284,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 198416,
       "name": "4ever",
       "url": "https://open.spotify.com/track/051jX9kOL9l7dWCrrWfEA9"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 198002,
       "name": "All to Myself",
       "url": "https://open.spotify.com/track/4nIy52HZ6omZxRnMs6qB0g"
@@ -2633,6 +2633,28 @@
     },
     {
       "album": {
+        "name": "DAY feat. PUNPEE",
+        "url": "https://open.spotify.com/album/3JSnXlgvU4BlaDHnHXy0L5"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        },
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226019,
+      "name": "DAY feat. PUNPEE",
+      "url": "https://open.spotify.com/track/5bEsbEK9Kvh0mURRLw82rF"
+    },
+    {
+      "album": {
         "name": "Day In Day Out",
         "url": "https://open.spotify.com/album/2LUbONUfN9g9zPxL1ukeW5"
       },
@@ -3978,7 +4000,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 191826,
       "name": "Girl in the Mirror",
       "url": "https://open.spotify.com/track/1y0TECYCFAJGMtZByaSviJ"
@@ -7688,7 +7710,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 230633,
       "name": "More Bitter, Mocha Better",
       "url": "https://open.spotify.com/track/7Eas2Kp8CmRqHEphZWIMBG"
@@ -8110,7 +8132,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 227122,
       "name": "nestling",
       "url": "https://open.spotify.com/track/2eXkWpzzJVQ57l6DOQec7y"
@@ -8424,6 +8446,24 @@
       "duration_ms": 220096,
       "name": "ohhh!",
       "url": "https://open.spotify.com/track/6QnhQ4DMD2GcQ3b1N6eeJa"
+    },
+    {
+      "album": {
+        "name": "OKACHIMACHI FRIDAY NIGHT",
+        "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198088,
+      "name": "OKACHIMACHI FRIDAY NIGHT",
+      "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
     },
     {
       "album": {
@@ -9162,7 +9202,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 184242,
       "name": "PRESENCE",
       "url": "https://open.spotify.com/track/1skdpKroFzRuEMatb5D8lU"
@@ -9734,6 +9774,32 @@
       "duration_ms": 206017,
       "name": "resist",
       "url": "https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK"
+    },
+    {
+      "album": {
+        "name": "RIDE",
+        "url": "https://open.spotify.com/album/2FdtmggO6Jl7q9XauCVy3a"
+      },
+      "artists": [
+        {
+          "name": "Shurkn Pap",
+          "url": "https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB"
+        },
+        {
+          "name": "Ryohu",
+          "url": "https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U"
+        },
+        {
+          "name": "Mellow In Da Street",
+          "url": "https://open.spotify.com/artist/4szZFJd99QG7taRthx1Fq3"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159282,
+      "name": "RIDE",
+      "url": "https://open.spotify.com/track/4CNDOtQV2ycQ2drmpyM1JO"
     },
     {
       "album": {
@@ -12919,6 +12985,28 @@
     },
     {
       "album": {
+        "name": "T\u30fbP\u30fbP",
+        "url": "https://open.spotify.com/album/6za2iN5N0S2AFoIh4YMwrv"
+      },
+      "artists": [
+        {
+          "name": "BREIMEN",
+          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+        },
+        {
+          "name": "Pecori",
+          "url": "https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194167,
+      "name": "T\u30fbP\u30fbP",
+      "url": "https://open.spotify.com/track/42UXRtOOMC3NsK0tb6NfsG"
+    },
+    {
+      "album": {
         "name": "BREAK POINT",
         "url": "https://open.spotify.com/album/43T8WbhPCFjtOqrEyB9EgU"
       },
@@ -14592,7 +14680,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 272033,
       "name": "\u3075\u305f\u308a\u306f\u590f\u96f2",
       "url": "https://open.spotify.com/track/3ph4RwkE0harPd7n3al1AC"
@@ -16051,7 +16139,7 @@
     },
     {
       "album": {
-        "name": "\u5730\u7403\u5100",
+        "name": "\u5730\u7403\u5100 - Spinning Globe",
         "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
       },
       "artists": [
@@ -16064,7 +16152,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 273437,
-      "name": "\u5730\u7403\u5100",
+      "name": "\u5730\u7403\u5100 - Spinning Globe",
       "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
     },
     {
@@ -16482,7 +16570,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 416000,
       "name": "\u610f\u8b58\u306f\u3042\u308b\u5fc3\u306f\u5bdd\u3066\u308b",
       "url": "https://open.spotify.com/track/72lL0cg6iMAqOFxcdEdRLr"

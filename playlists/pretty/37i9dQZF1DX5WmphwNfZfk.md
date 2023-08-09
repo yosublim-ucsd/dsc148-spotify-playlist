@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Aliocha Schneider
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,388 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,391 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Fatal Flaw](https://open.spotify.com/track/3APUm7NkHTlKjnNeMdAsCy) | [Allegra Jordyn](https://open.spotify.com/artist/2CVFLhroSUN5E5r8FW25LR) | [Fatal Flaw](https://open.spotify.com/album/1yBhmKGCaj9OzjRzvpY2XJ) | 3:32 |
 | 50 | [Fatiguée](https://open.spotify.com/track/6p5wW2wyB77K43YAqTeIma) | [Jeanne Laforest](https://open.spotify.com/artist/22pR3J0Y0WNrj8gS0TSaHb) | [Puisque les heures nous manquent](https://open.spotify.com/album/0V3mQctTFlwTEASUWVmRek) | 3:21 |
 
-Snapshot ID: `MCw5MzllOWQwMjBmZWFhZmU1YTE4ZGVkNWQ4OTliOGQwYjExNzVmYjY1`
+Snapshot ID: `MCw1YzQzMzY5MzRhZWZkMDlhNjVkM2QyZGVhYmYyZWY5YTNiZDU4ZWYx`

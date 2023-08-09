@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2023 on <a href="spotify:user:sozoofficial">SOZO Playlists</a>! Cover: <a href="https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC?si=auw2mPeNRXaXZPrCoPFJ0g">Brooke Ligertwood</a>
 
-300 songs - 1 day 5 hr 10 min
+302 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Glorious Day \- Live](https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 4:58 | 2022-02-17 |  |
 | [GLORY \- Live](https://open.spotify.com/track/33oZ6GmYJmDYcis4vJvwFE) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [GLORY \(Live\)](https://open.spotify.com/album/5GTXYrwdg699BF7rIPczkQ) | 6:23 | 2023-07-14 |  |
 | [Glory, Honor, Power \- Live](https://open.spotify.com/track/4JRNwYlQyWH7askTZ6UlA3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [ages \(Deluxe / Live\)](https://open.spotify.com/album/0fqGvPL2KwVyif5k81ZjJo) | 5:07 | 2022-02-17 | 2022-06-10 |
+| [God Is So Good \- Live](https://open.spotify.com/track/4qFbhzOXaH98zqsmIu86o3) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Housefires V \(Live\)](https://open.spotify.com/album/0eN10bu1ors9Cj1U9ZqoPL) | 7:11 | 2023-08-07 |  |
 | [God Of This City \- Live](https://open.spotify.com/track/5sVuyUiMySYdKGXKRROd52) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: God Of This City \(Live\)](https://open.spotify.com/album/24z98dXXubMZqaRUq2FwWa) | 5:05 | 2023-02-18 | 2023-04-01 |
 | [God Really Loves Us](https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 4:23 | 2022-02-17 | 2022-04-02 |
 | [God So Loved](https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:25 | 2022-03-15 |  |
@@ -137,6 +138,7 @@
 | [I Am Loved](https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [I Am Loved](https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem) | 7:12 | 2022-02-17 | 2022-04-05 |
 | [I Am Not Alone \- Radio Version](https://open.spotify.com/track/3RBnnfWA4Q2AqNuwTDdDgz) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [I Am Not Alone \(Radio Version\)](https://open.spotify.com/album/2aCi5rvU3I7XslcZ5YyjjG) | 3:57 | 2022-05-27 | 2023-01-05 |
 | [I Am Not My Own \- Live](https://open.spotify.com/track/00YlUQ5LoLXX5qY5Tiii7j) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [I Am Not My Own \(Live\)](https://open.spotify.com/album/15xnklvOU7QJNFL0jDNho0) | 4:03 | 2023-03-02 |  |
+| [I Believe In Jesus](https://open.spotify.com/track/3TqsgsmGiio7F54HTzpx4J) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 4:00 | 2023-08-07 |  |
 | [I See You](https://open.spotify.com/track/2SXrg51ciQMurVKgwTpatg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [I See You](https://open.spotify.com/album/4ZLqUbhVPHmY5QD1gbYEij) | 3:48 | 2022-02-17 | 2022-09-30 |
 | [I Stand in Awe \- Live](https://open.spotify.com/track/4ctvFp1plo9vreYy6yw0Ce) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc) | [I Stand in Awe \(Live\)](https://open.spotify.com/album/0EkviXlaPdCXFcm5LzwJeI) | 12:24 | 2023-04-14 | 2023-06-24 |
 | [I Thank God](https://open.spotify.com/track/2ALhy6p03JCxOy8UD29E9F) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [JWLKRS Worship](https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh), [Blake Wiggins](https://open.spotify.com/artist/5NW1jC5KUjGRgiiI9Yd8mV), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [I Thank God](https://open.spotify.com/album/2PwhFb40eeJMRsGlRlOe5u) | 3:52 | 2023-04-14 | 2023-04-22 |

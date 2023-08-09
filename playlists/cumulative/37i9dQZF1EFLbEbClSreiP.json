@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Think Like a Man",
+        "url": "https://open.spotify.com/album/4pNE931yJKwQvvJw0JJRzj"
+      },
+      "artists": [
+        {
+          "name": "Eyelar",
+          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143230,
+      "name": "Think Like a Man",
+      "url": "https://open.spotify.com/track/2B8mUd56xLH7vGmKbiwnee"
+    },
+    {
+      "album": {
         "name": "One Foot In Front Of The Other",
         "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
       },

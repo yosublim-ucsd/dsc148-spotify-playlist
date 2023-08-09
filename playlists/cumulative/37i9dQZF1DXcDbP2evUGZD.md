@@ -4,7 +4,7 @@
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-240 songs - 15 hr 34 min
+241 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,8 @@
 | [VAGABOND](https://open.spotify.com/track/62zGOAGCpElZUCN0TzP39r) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [BLUE SET Chapter\. \[UNKNOWN CODE\]](https://open.spotify.com/album/3wyH7Q759y9mOANdEOwuJS) | 3:26 | 2023-07-12 |  |
 | [Venus](https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:32 | 2023-07-12 |  |
 | [Warm Salad](https://open.spotify.com/track/7Mln2Uqs4WNOwzQCk5RnRK) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [Name of The Seasons](https://open.spotify.com/album/1PtJ3s9wuWD2WjtYV2BG1e) | 4:16 | 2022-09-27 | 2023-07-13 |
-| [Waves of you](https://open.spotify.com/track/41SoZMrJMkiBHwC6ncwvoH) | [KISU](https://open.spotify.com/artist/48V4yQybPHmEEewuGbEc2Z) | [Waves of you](https://open.spotify.com/album/6pnSHqEO6BRsrICDxdjjGC) | 3:23 | 2023-07-12 |  |
+| [Waves of you](https://open.spotify.com/track/2LsWyHF9MiKejJhGHh5DbC) | [KISU](https://open.spotify.com/artist/6lW4NDiKyxhvBtuR31qwme) | [Waves Of You](https://open.spotify.com/album/1u7azlOD4pSgRjDVUlul4c) | 3:23 | 2023-07-31 |  |
+| [Waves of you](https://open.spotify.com/track/41SoZMrJMkiBHwC6ncwvoH) | [KISU](https://open.spotify.com/artist/48V4yQybPHmEEewuGbEc2Z) | [Waves of you](https://open.spotify.com/album/6pnSHqEO6BRsrICDxdjjGC) | 3:23 | 2023-07-12 | 2023-08-09 |
 | [WHAT TIME IS IT NOW?](https://open.spotify.com/track/096Bx2bni4EOMZxfb2Hvm3) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [of us](https://open.spotify.com/album/4x6THVlohmI8deJv3I1kU3) | 3:35 | 2023-07-12 |  |
 | [When You Fall in Love](https://open.spotify.com/track/5XMmY2ICv7lgmRsOlPy6oc) | [다정 Dajung](https://open.spotify.com/artist/4MisLzbilh7iF4SvLWd77C) | [Jay Knife](https://open.spotify.com/album/14cBsBAuKSnwZPe6brHuSD) | 3:17 | 2022-09-27 | 2023-07-13 |
 | [While You're Young](https://open.spotify.com/track/4oPyj6H4XDujYOW1SSN1Oh) | [Prudence](https://open.spotify.com/artist/6eegwl2HxdVK3B1Y6GaqhR) | [While You Are Young](https://open.spotify.com/album/6zQJK9PKJzWnzFL2AyJAE2) | 4:03 | 2022-09-27 | 2023-07-13 |

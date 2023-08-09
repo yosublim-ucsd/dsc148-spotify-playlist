@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-295 songs - 17 hr 42 min
+296 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [iPad](https://open.spotify.com/track/4edHoZerfvMGeLz3ohZit6) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:22 | 2022-07-15 |  |
 | [It's Not About You](https://open.spotify.com/track/3leIqxLdTlukiuQVrE9B42) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Isabelle Stern](https://open.spotify.com/artist/2sVUw8Fp1ilBlRk7nxsrlW) | [It's Not About You](https://open.spotify.com/album/3SxeGi9b2XY05GgF9wuHXC) | 3:25 | 2021-12-03 | 2022-02-12 |
 | [I’ll Find My Way To You](https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [I’ll Find My Way To You](https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F) | 4:24 | 2021-12-03 |  |
-| [Jessie \(I Miss You\)](https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jessie \(i miss you\)](https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ) | 3:17 | 2021-12-03 |  |
+| [Jessie \(i miss you\)](https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jessie \(i miss you\)](https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ) | 3:17 | 2021-12-03 |  |
 | [Just Friends](https://open.spotify.com/track/2XLNoz60iPXPnbh4hWWIs7) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [Just Friends](https://open.spotify.com/album/5lI2cRmWskOT77nsRShfg9) | 2:35 | 2021-12-03 | 2022-05-07 |
 | [Keep Waiting](https://open.spotify.com/track/13dbtZmlAnKZlSgJApiESy) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Keep Waiting](https://open.spotify.com/album/5Q4LP9N6cYMgSrwbvzwjK6) | 4:49 | 2022-09-30 | 2023-06-10 |
 | [Keep Waiting](https://open.spotify.com/track/1BLEBmtsO40MUEFsr1TaFD) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Keep Waiting](https://open.spotify.com/album/1rziHNYox20wX97i4mJmOR) | 4:49 | 2021-12-03 | 2022-07-29 |
@@ -251,7 +251,8 @@
 | [Someone To Forget](https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Someone To Forget](https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO) | 4:01 | 2023-05-12 |  |
 | [Sometimes](https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7) | [Sometimes](https://open.spotify.com/album/4kBZ0roH4f66urmysH0DnK) | 3:17 | 2022-02-11 |  |
 | [SRY](https://open.spotify.com/track/0liqgDxxKqACG9kponhjfn) | [MIME](https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [SRY](https://open.spotify.com/album/1n0DHsZ1cJbiAwlqHnmz5Q) | 3:43 | 2021-12-03 |  |
-| [Starbright](https://open.spotify.com/track/5LuQvkBG365ue36BMujtSz) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Between Broken](https://open.spotify.com/album/4zUW6lwQf3wHRdYawFEEWQ) | 4:03 | 2021-12-03 |  |
+| [Starbright](https://open.spotify.com/track/5LuQvkBG365ue36BMujtSz) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Between Broken](https://open.spotify.com/album/4zUW6lwQf3wHRdYawFEEWQ) | 4:03 | 2021-12-03 | 2023-08-09 |
+| [Starbright](https://open.spotify.com/track/6huKKoWv2Xy4KM2rwUNa7X) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Between Broken](https://open.spotify.com/album/3SWONDSeoQ0UTsRyXSlL5g) | 4:03 | 2023-08-04 |  |
 | [State Of Mind](https://open.spotify.com/track/1DxP9H5LlFb5ChzoCwgKyg) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [State Of Mind](https://open.spotify.com/album/3tqijD8XuF8D6bJ9GWV6IN) | 3:25 | 2023-04-07 |  |
 | [Stop Thinking \(feat\. Lights\)](https://open.spotify.com/track/6bfyfZ0UV3K9Broh54iXaw) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Stop Thinking \(feat\. Lights\)](https://open.spotify.com/album/2cC9ykuhZFjOaaytZGRi8K) | 4:52 | 2022-09-30 |  |
 | [Super Human](https://open.spotify.com/track/1ZMUZYIlsTnQbOrgbpgalr) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Super Human](https://open.spotify.com/album/5yjMa5thOg0X7tieV3rhTf) | 4:06 | 2022-12-02 |  |

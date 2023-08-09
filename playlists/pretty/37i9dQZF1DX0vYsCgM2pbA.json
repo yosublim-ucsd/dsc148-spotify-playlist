@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 123151,
+  "num_followers": 123171,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTUzYWRiYTk3NWQ1YzhiODk3YmQ1ZjFhOThjMWI0OTZiZTg4MzYw",
+  "snapshot_id": "MCw1MzJiOWQ3NTdiYzAwMjRlOGNhZTQwNWE0OWEyNTMwMTJmMDk5ZTQ1",
   "tracks": [
     {
       "added_at": "2023-07-30 15:31:39",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-07-30 15:31:39",
       "album": {
-        "name": "Can't Do Without (My Baby)",
-        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Can't Do Without (My Baby)",
-      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
-    },
-    {
-      "added_at": "2023-07-30 15:31:39",
-      "album": {
         "name": "Oceanside Girl",
         "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 319551,
       "name": "Oceanside Girl",
       "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
+    },
+    {
+      "added_at": "2023-07-30 15:31:39",
+      "album": {
+        "name": "Can't Do Without (My Baby)",
+        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Can't Do Without (My Baby)",
+      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
     },
     {
       "added_at": "2023-07-30 15:31:39",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-07-30 15:31:39",
       "album": {
-        "name": "Brain Freeze",
-        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
-      },
-      "artists": [
-        {
-          "name": "Northeast Party House",
-          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
-        }
-      ],
-      "duration_ms": 122094,
-      "name": "Brain Freeze",
-      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
-    },
-    {
-      "added_at": "2023-07-30 15:31:39",
-      "album": {
         "name": "Smile (feat. JAM)",
         "url": "https://open.spotify.com/album/1XlQFYxrdAE1cn43I3COL1"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 204723,
       "name": "Smile (feat. JAM)",
       "url": "https://open.spotify.com/track/6H5ncROMSCcKGz6W5HsrS8"
+    },
+    {
+      "added_at": "2023-07-30 15:31:39",
+      "album": {
+        "name": "Brain Freeze",
+        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
+      },
+      "artists": [
+        {
+          "name": "Northeast Party House",
+          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
+        }
+      ],
+      "duration_ms": 122094,
+      "name": "Brain Freeze",
+      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
     }
   ],
   "unique_name": "Sunday Sessions",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,266,580 likes - 103 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,267,001 likes - 103 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 59 | [leave me in the dark](https://open.spotify.com/track/6ggcyYvhJCnUID8EZGQng1) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [leave me in the dark](https://open.spotify.com/album/5BGIm4ntyzoIiOYKw9SIIe) | 2:29 |
 | 60 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 |
 | 61 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 |
-| 62 | [DROP TOP](https://open.spotify.com/track/1gKEEiVyjVXtaKZl9TOEnf) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [LFG](https://open.spotify.com/album/3fItiknlfvwPMaJLwPrG2k) | 2:38 |
+| 62 | [DROP TOP \(feat\. Eddie Zuko\)](https://open.spotify.com/track/4iVlQcJQfbp9CZVLZsfIoS) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [LFG](https://open.spotify.com/album/0Wjc11cdyOt2mvMCBrTTvU) | 2:38 |
 | 63 | [Screw Time](https://open.spotify.com/track/041KVEd5BQnsyZKdqdmE0r) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Screw Time](https://open.spotify.com/album/3XuJ6wvVTZyiMslESPVRJ7) | 3:05 |
 | 64 | [Late Nights](https://open.spotify.com/track/1H8pQCxDEq0kFO99KBfAys) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Late Nights](https://open.spotify.com/album/7MfjEuBusZ0Lk8lxxEAjFq) | 3:10 |
 | 65 | [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 102 | [SunKissing](https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [SunKissing](https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A) | 2:57 |
 | 103 | [something's off](https://open.spotify.com/track/16dPXAC2RS7aYRpbJ6AS7K) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [something's off](https://open.spotify.com/album/6p5dKhiFwoLdZ4msjRCZmV) | 2:14 |
 
-Snapshot ID: `MCwzMGYwNTkwZDVkZWIxZDc3Mjg0YjY2MjAzZmE1NmJmMDExY2Q1ZjBj`
+Snapshot ID: `MCxiYWIzOThlNDhlNDNjMDBiMTg0YjdiNGNhMmVkZTI2NTQ3ZTU0OGVj`

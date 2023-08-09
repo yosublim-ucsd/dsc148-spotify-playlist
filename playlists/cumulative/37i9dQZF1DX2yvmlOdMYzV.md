@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-459 songs - 1 day 1 hr 23 min
+460 songs - 1 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Don't Pretend \- Acoustic](https://open.spotify.com/track/2sWL4tq39W5EMdC0ItdPTy) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Don't Pretend \(Acoustic\)](https://open.spotify.com/album/1EVSU42vLvFmSjHt3TGmx1) | 2:21 | 2023-06-16 |  |
 | [Don't Stare Too Long](https://open.spotify.com/track/5MZ46M8kBTyY6BMYFKDVpo) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [Don't Stare Too Long](https://open.spotify.com/album/1rZ9hqFJSznZlQNMOyPZpP) | 3:08 | 2023-08-04 |  |
 | [Don't Stop](https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 2:31 | 2023-01-27 |  |
+| [Don’t Lie \[Feat\. Malaya\]](https://open.spotify.com/track/6xVgDPrFSlBinlx7lRzI1S) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb) | [Don’t Lie \[Feat\. Malaya\]](https://open.spotify.com/album/1JUxXtOkoLUgwHN7dfb2ML) | 4:21 | 2023-08-04 |  |
 | [Dopamine](https://open.spotify.com/track/2aH5hMaNmlHHi6oJhwR8AK) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Dopamine](https://open.spotify.com/album/5WJ7b5yW2GXwHJkYlcpYVs) | 2:43 | 2023-07-14 |  |
 | [Down Bad](https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod) | [Erin Kaith](https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG) | [Down Bad](https://open.spotify.com/album/3jppDX7wplL844aWT5EHcY) | 2:55 | 2023-07-14 |  |
 | [Down For It](https://open.spotify.com/track/2x93RFNdEs1JtWoHsDQqTj) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Down For It](https://open.spotify.com/album/0C83wme433FLhE95M4JbvG) | 3:15 | 2021-12-15 | 2022-07-29 |
@@ -150,7 +151,7 @@
 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-21 |  |
 | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy) | 2:17 | 2021-12-15 | 2023-07-15 |
 | [Good & Plenty \- Remix](https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty \(Remix\)](https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us) | 3:24 | 2023-02-12 |  |
-| [GOOD DAY](https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:04 | 2023-02-17 |  |
+| [GOOD DAY](https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:04 | 2023-02-17 | 2023-08-09 |
 | [Good Good](https://open.spotify.com/track/02adJbZO7bHXJjboTwph45) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Good Good](https://open.spotify.com/album/77zg0WMPMfptvnSR4PeRpI) | 3:45 | 2021-12-15 |  |
 | [Good Together](https://open.spotify.com/track/1Evdjw7BetnQeOLeofGG0F) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Kaisha](https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Good Together](https://open.spotify.com/album/295gq9XBTMw0V5Hl29l8A4) | 2:56 | 2021-12-15 | 2022-06-28 |
 | [green house](https://open.spotify.com/track/6BEfZGkhBNjnK9idfUv7hw) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [green house](https://open.spotify.com/album/4g5QlgGaYTmHmfoc6mLF0z) | 1:57 | 2023-06-16 |  |

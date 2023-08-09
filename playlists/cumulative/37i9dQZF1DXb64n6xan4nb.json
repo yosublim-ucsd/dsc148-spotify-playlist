@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 273084,
       "name": "\uc544\ubb34\ub9ac \uc0dd\uac01\ud574\ub3c4 \ub09c \ub108\ub97c",
       "url": "https://open.spotify.com/track/6Ml3XSfeVLUJEZ8OK6aLC6"
@@ -2464,6 +2464,24 @@
       "duration_ms": 213707,
       "name": "\uce75\ud14c\uc77c \uc0ac\ub791",
       "url": "https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/07gANgRTKm7Zlw2xwvTXzt"
+      },
+      "artists": [
+        {
+          "name": "Park Sang Min",
+          "url": "https://open.spotify.com/artist/7nbE2lMt1tbp5y3Uivn0bu"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "\ud574\ubc14\ub77c\uae30 (\uadf8\ub140\uc5d0\uac8c..)",
+      "url": "https://open.spotify.com/track/7zARJQchG2thlF1o1Px9J6"
     },
     {
       "album": {

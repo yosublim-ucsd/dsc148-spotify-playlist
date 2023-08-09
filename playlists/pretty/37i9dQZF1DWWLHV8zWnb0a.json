@@ -1,12 +1,12 @@
 {
   "description": "El sonido siniestro de los noventa. Foto: Smashing Pumpkins",
-  "num_followers": 71175,
+  "num_followers": 71262,
   "original_name": "Oscuros 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODEzNDZjZjUwOTRlYzEwMjAyZjU5YmViOTRjZjM2NzY5NzIwMmUz",
+  "snapshot_id": "MCw3ZmIwNTFhZmQ3ZDUwZjlkZmM3YTZjOTA5YTdkMGEzZGZjYjFhMDM2",
   "tracks": [
     {
       "added_at": "2023-02-13 22:53:29",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Version 2.0 (20th Anniversary Deluxe Edition / Remastered)",
-        "url": "https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk"
+        "name": "Sehnsucht (Anniversary Edition - Remastered)",
+        "url": "https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP"
       },
       "artists": [
         {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 218134,
-      "name": "I Think I'm Paranoid",
-      "url": "https://open.spotify.com/track/7fFJ4nfi1mnQ10J8YAu9Di"
+      "duration_ms": 203383,
+      "name": "B\u00fcck dich",
+      "url": "https://open.spotify.com/track/3pi5DteeniOsDzonEx5qpg"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Sehnsucht (Anniversary Edition - Remastered)",
-        "url": "https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP"
+        "name": "Version 2.0 (20th Anniversary Deluxe Edition / Remastered)",
+        "url": "https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
         }
       ],
-      "duration_ms": 203383,
-      "name": "B\u00fcck dich",
-      "url": "https://open.spotify.com/track/3pi5DteeniOsDzonEx5qpg"
+      "duration_ms": 218134,
+      "name": "I Think I'm Paranoid",
+      "url": "https://open.spotify.com/track/7fFJ4nfi1mnQ10J8YAu9Di"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -1215,18 +1215,22 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Experimental Jet Set, Trash And No Star",
-        "url": "https://open.spotify.com/album/3O8NuSnjHy8wiBqbG6N4yO"
+        "name": "Wrong Way Up [Expanded Edition]",
+        "url": "https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0"
       },
       "artists": [
         {
-          "name": "Sonic Youth",
-          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         }
       ],
-      "duration_ms": 184866,
-      "name": "Bull In The Heather",
-      "url": "https://open.spotify.com/track/6px1KhTqAfxdcF6A1JGSpx"
+      "duration_ms": 327120,
+      "name": "Spinning Away",
+      "url": "https://open.spotify.com/track/1aMJTyCRfxfp8luej4rjAC"
     }
   ],
   "unique_name": "Oscuros 90",

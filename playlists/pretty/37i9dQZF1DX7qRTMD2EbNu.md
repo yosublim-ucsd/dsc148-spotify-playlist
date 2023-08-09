@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=4ZJhAtbIRrG2s6c9hZLXDg"> Sarkodie </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,887 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,915 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Fa Me Saa](https://open.spotify.com/track/4YEI5dYaeNjeP70CTSZLGs) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Fa Me Saa](https://open.spotify.com/album/5M7PPOkCaqaLnR27LidUP4) | 3:05 |
 | 80 | [Yonah](https://open.spotify.com/track/42cJ1ouSw3VBHmc4fAoN5P) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9) | [Young and Strong](https://open.spotify.com/album/4xgqK0qn1J4SjALftJX9Jb) | 3:05 |
 
-Snapshot ID: `MCwxNGRjOTdmMjk2MGM2NmU3MzMzNzliMTczOTUwZmExMTNiMmI3MzNk`
+Snapshot ID: `MCxjNzNhODVkMGU4ZDVkZWZiZWUwN2VkZWU2ODNmMGE0MDNkNzAyOWIw`

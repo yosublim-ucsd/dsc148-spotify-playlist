@@ -2,9 +2,9 @@
 
 ### [Rap Español](https://open.spotify.com/playlist/37i9dQZF1DXcd2Vmhfon1w)
 
-> Lo mejor del hip hop español\. Feat\. Reality
+> Lo mejor del hip hop español\. Feat\. Prok
 
-209 songs - 11 hr 37 min
+212 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A la tumba](https://open.spotify.com/track/5NwMiXLw1SnW4O7SgsaHeo) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5VaYKNDJhjfWtghV9UL1Bj) | 3:50 | 2022-08-04 |  |
 | [Afloja](https://open.spotify.com/track/0mzC1Okc1yxXH42JuFBhMH) | [Kadec Santa Anna](https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW) | [Cachitos de Mi Cora](https://open.spotify.com/album/1DAUQCHm1bN01Jzr2ndxmT) | 3:24 | 2022-04-21 | 2022-07-29 |
 | [Afloja](https://open.spotify.com/track/1TrYfvW9k9IQZlcS6c0C5a) | [Kadec Santa Anna](https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW) | [Cachitos de Mi Cora](https://open.spotify.com/album/13U39sti555PIUZA7VGUJu) | 3:24 | 2022-07-19 | 2023-03-22 |
+| [AHORA QUE](https://open.spotify.com/track/7jRLjVOOkiNP2aiD3XLsqJ) | [Blake](https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF), [Zaidbreak](https://open.spotify.com/artist/4kxv2kGvnge97AbeT7sDGu) | [AHORA QUE](https://open.spotify.com/album/1d5jBobGUNucxW2jPRfCU0) | 2:48 | 2023-08-08 |  |
 | [Ahora Y Siempre](https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora Y Siempre](https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z) | 2:29 | 2022-02-04 | 2022-07-15 |
 | [Al Final del Día](https://open.spotify.com/track/41ir6O2SvjUrs642RMkouF) | [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Al Final del Día](https://open.spotify.com/album/7aqENkjmIlnjLhlxCw1zrJ) | 2:43 | 2022-10-03 | 2023-03-01 |
 | [Andrómeda](https://open.spotify.com/track/5JgIHWAuYOBFR3dnEgnQ8F) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Andrómeda](https://open.spotify.com/album/1KWtgnQEmfgKax6XOgtnWO) | 3:27 | 2023-02-28 | 2023-06-27 |
@@ -63,6 +64,7 @@
 | [Dos Mundos](https://open.spotify.com/track/0543ImLIxdI1IZyE9JQC6h) | [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8), [Huda](https://open.spotify.com/artist/5NnVq8GhEz24ecoViL85Do), [Gese Da O](https://open.spotify.com/artist/5m5mdpE5ZDrHVKjvdc0AZQ) | [Dos Mundos](https://open.spotify.com/album/3cEzoavJIGUVXRVJOPuqZi) | 3:16 | 2022-03-16 | 2022-04-02 |
 | [Easier](https://open.spotify.com/track/5kL2ZG55hIfkniAUhi5KQG) | [Luisaker](https://open.spotify.com/artist/6qHDnHoUlA5AhDNg7AHRS9) | [Easier](https://open.spotify.com/album/6LiS0QBMqHGcKqyQ147qin) | 3:12 | 2022-01-21 | 2022-02-23 |
 | [El Barrio Me Llama](https://open.spotify.com/track/58zEumx76yMm9cboON0mlq) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Barrio Me Llama](https://open.spotify.com/album/5ZbZuMWDLSv5hlZXoJZ1lC) | 3:23 | 2022-07-14 | 2022-10-04 |
+| [EL CIELO](https://open.spotify.com/track/1werFoAlPyW1GYTfD9SRy6) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [EL CIELO](https://open.spotify.com/album/3SL9BkVqLDALKCeEkvrFB7) | 4:25 | 2023-08-08 |  |
 | [El cuerpo del delito](https://open.spotify.com/track/3CYp51HsBeWFnS5rF2SJF2) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Delex on da track](https://open.spotify.com/artist/6CLwb3QyPOC01CdH2utzQm) | [El cuerpo del delito](https://open.spotify.com/album/1zkh3XrpxBdmaW4Oz6WzDp) | 2:49 | 2023-02-28 | 2023-04-04 |
 | [El Patrón](https://open.spotify.com/track/2AJE7bubR0uhLhEXhgyerM) | [Grind](https://open.spotify.com/artist/7zRP76y8bnV3OdkaraLHuy), [Los Hijos de la Luna](https://open.spotify.com/artist/0GrCABg3DQIGdEN05tz9Q1) | [El Patrón](https://open.spotify.com/album/4fjrmQ6vZ6Ic5a6vJEqOmo) | 2:10 | 2022-01-21 | 2022-03-05 |
 | [El Tema](https://open.spotify.com/track/4jeszGuwfPAtqO7UnRMK56) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [GIO](https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH) | [El Tema](https://open.spotify.com/album/3d1ddIoEQ2Wdpl6Z970a80) | 3:14 | 2023-02-28 | 2023-03-14 |
@@ -216,6 +218,7 @@
 | [War'z On](https://open.spotify.com/track/13WAB6e53dZgCh2xXIXyXA) | [Ergo Pro](https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4), [Gese Da O](https://open.spotify.com/artist/5m5mdpE5ZDrHVKjvdc0AZQ) | [War'z On](https://open.spotify.com/album/0gPR5bOi7qN9LE0oqLlBXy) | 2:48 | 2022-05-27 | 2022-06-22 |
 | [Welcome](https://open.spotify.com/track/37KLoLkhcJMe7Odsstah0V) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD) | [Patato](https://open.spotify.com/album/4gJBXdGhYA1piaLYhYpZR9) | 2:24 | 2022-01-21 |  |
 | [Wifi](https://open.spotify.com/track/3D4gcNgiD0kMPW4AH1ufpA) | [Arce](https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6) | [Pedigrí](https://open.spotify.com/album/0nFIAsLOuavv8a9xPY2JK9) | 3:34 | 2022-08-04 |  |
+| [Yo No Sé](https://open.spotify.com/track/0q2CiondkI8yh7CrAdrIXx) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [GIO](https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH) | [Yo No Sé](https://open.spotify.com/album/2ed6KMzzTjO7pNGmn8lODE) | 2:44 | 2023-08-08 |  |
 | [Zenit](https://open.spotify.com/track/01T6sBu7sH9ptbJcDw43Go) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Zenit](https://open.spotify.com/album/66MM8SlomcjeC7UqlTGtvI) | 2:26 | 2022-04-21 | 2023-02-15 |
 
 \*This playlist was first scraped on 2022-01-24. Prior content cannot be recovered.

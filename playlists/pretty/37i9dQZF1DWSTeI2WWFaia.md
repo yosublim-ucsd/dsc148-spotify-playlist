@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Nas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,622,340 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,622,366 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 34 | [Reflection](https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:12 |
 | 35 | [DISTANCE](https://open.spotify.com/track/6Bf7cjpixSYnqQbX4rh4Jw) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [DISTANCE](https://open.spotify.com/album/6wTlSDRDjKrG796F3CrRy1) | 2:28 |
 | 36 | [Just Like You](https://open.spotify.com/track/6IM2okqXPGT9LJuOW1RV9V) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [Just Like You](https://open.spotify.com/album/0ukYZ27VvCGcvfcAi48HWB) | 3:07 |
-| 37 | [Drug Trade \(feat\. Black Thought\)](https://open.spotify.com/track/6hqazBd1QKThu6THWQrrsA) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Drug Trade \(feat\. Black Thought\)](https://open.spotify.com/album/6SkiUm0RUqcxSNltLkk8AY) | 4:32 |
-| 38 | [Flow](https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8) | [Jourden](https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u) | [Flow](https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc) | 2:42 |
-| 39 | [SentRock](https://open.spotify.com/track/2WDEt2vKpQ3hUOeRFVRxQc) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SentRock](https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro) | 2:50 |
-| 40 | [Life & Times](https://open.spotify.com/track/72yDZnVtbbtfWLYWvonF9f) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Round Trip](https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9) | 3:14 |
+| 37 | [Flow](https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8) | [Jourden](https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u) | [Flow](https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc) | 2:42 |
+| 38 | [Drug Trade \(feat\. Black Thought\)](https://open.spotify.com/track/6hqazBd1QKThu6THWQrrsA) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Drug Trade \(feat\. Black Thought\)](https://open.spotify.com/album/6SkiUm0RUqcxSNltLkk8AY) | 4:32 |
+| 39 | [Life & Times](https://open.spotify.com/track/72yDZnVtbbtfWLYWvonF9f) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Round Trip](https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9) | 3:14 |
+| 40 | [SentRock](https://open.spotify.com/track/2WDEt2vKpQ3hUOeRFVRxQc) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SentRock](https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro) | 2:50 |
 | 41 | [Questions](https://open.spotify.com/track/1vB79KSHk7mAMufH8AHniQ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 2:14 |
 | 42 | [Top G](https://open.spotify.com/track/1N1gsO7kqA3bt9YqUXqARm) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Top G](https://open.spotify.com/album/75pxiiFLD7OdSdYQYUpyGK) | 3:33 |
 | 43 | [Easy](https://open.spotify.com/track/4LGBOpladriYPl7B8g6xME) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:21 |
@@ -56,6 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 46 | [PROUD OF ME\. \(feat\. Fridayy\)](https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 4:42 |
 | 47 | [Since Elementary](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Since Elementary](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 |
 | 48 | [Don't Let The Devil \[Feat\. thankugoodsir\] \- Single Version](https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [thankugoodsir](https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN) | [Don't Let The Devil \[Feat\. thankugoodsir\]](https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M) | 2:44 |
-| 49 | [LALO \(feat\. 38 Spesh\)](https://open.spotify.com/track/3EIlWD3juq0RGLIeRGFdYp) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [LALO \(feat\. 38 Spesh\)](https://open.spotify.com/album/7Gi78mhePGXf2ILo3Kj7Tn) | 4:40 |
+| 49 | [Angels](https://open.spotify.com/track/6ojP7ndmGdRKXLvPuMmSoh) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [STILL \(Five & A F\*\*\* You\) \[Deluxe\]](https://open.spotify.com/album/3ntrXHNZUCz0ScUKDziuP8) | 3:01 |
 
-Snapshot ID: `MCwyMTIzMjJkMDcxYTBkZWMwNDJmNTI5NmI5NThlZWY3NDkwNDFhNWRl`
+Snapshot ID: `MCw0ZGZkNjAyY2U0OWM4MGRjMWE4MmQyNmJkOWYzZjdkOGQxNjRhZGM0`

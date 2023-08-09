@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 287265,
+  "num_followers": 287431,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGFmNWY0NmVhM2RhMzEzMGFmZTBhNGEyYzU1MDcyODRhZDZkYzk0",
+  "snapshot_id": "MCxiZTkyYjU5M2MwMWQ2MjAxYTFjOGQwYzJjOTA2YTk0MTllZjdlNTMw",
   "tracks": [
     {
       "added_at": "2023-07-18 02:21:29",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Now That I Have You",
-        "url": "https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4"
-      },
-      "artists": [
-        {
-          "name": "Mere Notilde",
-          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Sweet Baby!",
-      "url": "https://open.spotify.com/track/2qHasYWuyXCwoJ8FYai22K"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "You Can't Run",
         "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 201142,
       "name": "You Can't Run",
       "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Now That I Have You",
+        "url": "https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4"
+      },
+      "artists": [
+        {
+          "name": "Mere Notilde",
+          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Sweet Baby!",
+      "url": "https://open.spotify.com/track/2qHasYWuyXCwoJ8FYai22K"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Yacht World",
-        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
-      },
-      "artists": [
-        {
-          "name": "Engelwood",
-          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
-        }
-      ],
-      "duration_ms": 173232,
-      "name": "Lovin' Is Everywhere",
-      "url": "https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Plastic",
         "url": "https://open.spotify.com/album/5ANcIfETYBjqYxTMX514o3"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 195121,
       "name": "Plastic",
       "url": "https://open.spotify.com/track/2X6jdDyYRFrs8yh8pjIKaP"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Yacht World",
+        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        }
+      ],
+      "duration_ms": 173232,
+      "name": "Lovin' Is Everywhere",
+      "url": "https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        }
+      ],
+      "duration_ms": 232699,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/4cJIQxksyH35ZHHZuWRkQd"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        }
-      ],
-      "duration_ms": 232699,
-      "name": "Mode",
-      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/3n1RU3gBuRyocRPzjOG27C"
       },
@@ -1323,26 +1323,6 @@
       "duration_ms": 145920,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/2p2Ut9dTjzIzqaGDorW8T2"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Disco Soul",
-        "url": "https://open.spotify.com/album/52D8ESbEYlQw75nStkEone"
-      },
-      "artists": [
-        {
-          "name": "Discoholic",
-          "url": "https://open.spotify.com/artist/0dhFlSAQyzPQHUx7hel6cW"
-        },
-        {
-          "name": "Mr. Hoosteen",
-          "url": "https://open.spotify.com/artist/7CKVr2XbCTLoGfc0l4wuoH"
-        }
-      ],
-      "duration_ms": 456393,
-      "name": "Disco Soul - Mr. Hoosteen's \"Disco's Revenge\" Mix",
-      "url": "https://open.spotify.com/track/79V22C8lQvcYQMWtZgBzeo"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1367,18 +1347,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "R&B",
-        "url": "https://open.spotify.com/album/7FlTwgH1CA7Yqpz2zUku1z"
+        "name": "Disco Soul",
+        "url": "https://open.spotify.com/album/52D8ESbEYlQw75nStkEone"
       },
       "artists": [
         {
-          "name": "BarbWalters",
-          "url": "https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj"
+          "name": "Discoholic",
+          "url": "https://open.spotify.com/artist/0dhFlSAQyzPQHUx7hel6cW"
+        },
+        {
+          "name": "Mr. Hoosteen",
+          "url": "https://open.spotify.com/artist/7CKVr2XbCTLoGfc0l4wuoH"
         }
       ],
-      "duration_ms": 205714,
-      "name": "R&B",
-      "url": "https://open.spotify.com/track/2FGT4Tpk5M9qO2nBHpNE6R"
+      "duration_ms": 456393,
+      "name": "Disco Soul - Mr. Hoosteen's \"Disco's Revenge\" Mix",
+      "url": "https://open.spotify.com/track/79V22C8lQvcYQMWtZgBzeo"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1411,6 +1395,22 @@
       "duration_ms": 248447,
       "name": "Together",
       "url": "https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "R&B",
+        "url": "https://open.spotify.com/album/7FlTwgH1CA7Yqpz2zUku1z"
+      },
+      "artists": [
+        {
+          "name": "BarbWalters",
+          "url": "https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "R&B",
+      "url": "https://open.spotify.com/track/2FGT4Tpk5M9qO2nBHpNE6R"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/5TwC2I5mU6lD8meqxB3Yw0"
-      },
-      "artists": [
-        {
-          "name": "ZAKERY",
-          "url": "https://open.spotify.com/artist/1cuL5MwLZMsu4JWDz9Hf1k"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/0aIiMCOToNB5tlPBUYVsiA"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Pure Love",
         "url": "https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 269752,
       "name": "Stereo",
       "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/5TwC2I5mU6lD8meqxB3Yw0"
+      },
+      "artists": [
+        {
+          "name": "ZAKERY",
+          "url": "https://open.spotify.com/artist/1cuL5MwLZMsu4JWDz9Hf1k"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/0aIiMCOToNB5tlPBUYVsiA"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Sexy Times (3rd Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 225084,
-      "name": "Hot Chance",
-      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "So Shine",
         "url": "https://open.spotify.com/album/08IS1InlosyXzpDpnsqv1s"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 285721,
       "name": "So Shine",
       "url": "https://open.spotify.com/track/1Zk5sQZtwvmfCdVRe5NNVx"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Sexy Times (3rd Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 225084,
+      "name": "Hot Chance",
+      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
     }
   ],
   "unique_name": "Future Funk",

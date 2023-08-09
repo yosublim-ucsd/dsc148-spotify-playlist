@@ -4,10 +4,11 @@
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-46 songs - 2 hr 10 min
+47 songs - 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1,2,3 im Sauseschritt \- Bauernhof Version](https://open.spotify.com/track/55yKBlLIGnBj1zW1fDqVYV) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4), [Sarah Schiffer](https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP) | [Sommer auf dem singenden Bauernhof](https://open.spotify.com/album/5ULQfQ92DZp1mX1AkRmA4f) | 2:14 | 2023-08-04 |  |
 | [Auf einem Baum ein Kuckuck saß](https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Kinderlieder \- umgedacht & neu gemacht](https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8) | 2:20 | 2023-06-28 |  |
 | [Blüht ein Blümlein](https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW) | [KIDDINX Music](https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8) | [Frühlingslieder \(Omas schönste\)](https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz) | 1:35 | 2023-06-28 |  |
 | [Boom Schakkalakka](https://open.spotify.com/track/0K1YxwGmBvJrD4vQErPniv) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Boom Schakkalakka](https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq) | 3:19 | 2023-06-28 |  |
@@ -38,7 +39,7 @@
 | [Party im Zoo](https://open.spotify.com/track/6Ze5ZsSYnUIoNWVStEgJsv) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob) | [Oh Yeah!](https://open.spotify.com/album/1SNAih5cZ1toqZNL1RwXlR) | 2:25 | 2023-06-28 |  |
 | [Plitsch, plitsch, platsch](https://open.spotify.com/track/5D0Dsd7CecM74CahtrIioW) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 1:54 | 2023-06-28 |  |
 | [Probiers mal mit Gemütlichkeit](https://open.spotify.com/track/2zdRMua6yTKFlmtcxwJ6ld) | [Jupiter Jones](https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 2](https://open.spotify.com/album/5vrbcnXTiRb9xoO61FYHp6) | 3:07 | 2023-06-28 |  |
-| [Rumspringen](https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ) | [Bernd Begemann](https://open.spotify.com/artist/4OY3MNylZg1nxCpFILirnH), [Belinda](https://open.spotify.com/artist/6tfFPvA0Pw2jbDrhVoNHxY) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 2:29 | 2023-06-28 |  |
+| [Rumspringen](https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ) | [Bernd Begemann](https://open.spotify.com/artist/4OY3MNylZg1nxCpFILirnH), [Belinda](https://open.spotify.com/artist/6tfFPvA0Pw2jbDrhVoNHxY) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 2:29 | 2023-06-28 | 2023-08-09 |
 | [Schokoladeneis](https://open.spotify.com/track/1mERxFZxRWNOXbryNKlIRW) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Tanzfieber!](https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2) | 3:27 | 2023-06-28 |  |
 | [Sommerkinder](https://open.spotify.com/track/1KZwH2Xz20o8ixlFbc5dw1) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Sommerkinder](https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH) | 2:56 | 2023-06-28 |  |
 | [Sommertag](https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Sommertag](https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf) | 2:08 | 2023-08-04 |  |

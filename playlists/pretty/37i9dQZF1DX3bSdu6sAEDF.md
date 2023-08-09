@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,814 likes - 76 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,061 likes - 76 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 75 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 |
 | 76 | [ASTRAL PLANES](https://open.spotify.com/track/4HOIaVXmOJ26SNvVcFkqwq) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [WE SURVIVED THE STORM, VOL\. 2](https://open.spotify.com/album/7dH7JDyXluq0ISTgku8XBy) | 2:41 |
 
-Snapshot ID: `MCw1MjZhNzY0ODg3Yjc4NDExZGY5MjExMTE5NGYzMWIxZTAwYTY4N2U5`
+Snapshot ID: `MCw1ZmQxZTFhYWU0NmNiNGM0YTcxMDVmNmYxNTU4NjQ5NTkwZDhiZDQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,056,036 likes - 122 songs - 6 hr 55 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,056,041 likes - 122 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 28 | [Keep It Mello \(feat\. Omar LinX\)](https://open.spotify.com/track/0Q3SC6kEhxYagDP3bFe5K9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Omar LinX](https://open.spotify.com/artist/6fSNDuge2fLINdnCCbpZx6) | [Joytime](https://open.spotify.com/album/6opKASPALOkPwCfHvqIS9H) | 4:03 |
 | 29 | [Atmosphere](https://open.spotify.com/track/1jz0xzCf8SXUY8hLg8oCdY) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [Atmosphere](https://open.spotify.com/album/1Kb2RNaDVyqmx5PhV9ghBQ) | 3:35 |
 | 30 | [Horizon](https://open.spotify.com/track/5kA4Jgxs1GDF2v9GUSo4yc) | [NIO](https://open.spotify.com/artist/4I6tYUJc1ywHMJCr3vPfWI), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Horizon](https://open.spotify.com/album/3SohBXVe0oMpjKJCD6c91V) | 4:41 |
-| 31 | [It's All on U \- T\-Mass & LZRD Remix](https://open.spotify.com/track/0Vc3nfRMdvY5iX6AHVWSMN) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Liam O'Donnell](https://open.spotify.com/artist/75aiMKKxzFHGFRxyLwvL2d), [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [LZRD](https://open.spotify.com/artist/6O2ODylN42JL651p1vcIYQ) | [Ashes \(Remixes\)](https://open.spotify.com/album/2R7PeUrbSseLkirdasHPqg) | 3:24 |
+| 31 | [It's All on U \(T\-Mass & LZRD Remix\)](https://open.spotify.com/track/0Vc3nfRMdvY5iX6AHVWSMN) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Liam O'Donnell](https://open.spotify.com/artist/75aiMKKxzFHGFRxyLwvL2d), [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [LZRD](https://open.spotify.com/artist/6O2ODylN42JL651p1vcIYQ) | [Ashes \(Remixes\)](https://open.spotify.com/album/2R7PeUrbSseLkirdasHPqg) | 3:24 |
 | 32 | [Apex](https://open.spotify.com/track/1XA70LvTgplYtHMzgB8N3A) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2) | [Apex](https://open.spotify.com/album/1c8Jrs7Bl2yzT6CytnKv0A) | 3:26 |
 | 33 | [Last Forever](https://open.spotify.com/track/3AsCaUpOdqmQYtNsEonbvx) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Last Forever](https://open.spotify.com/album/4e2QxrBv9chCtzQRIWCzN8) | 3:22 |
 | 34 | [Phonk Nation](https://open.spotify.com/track/2IQJkefhgO2u8x9XPKMZQc) | [Bgnzinho](https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL) | [Phonk Nation](https://open.spotify.com/album/5DbVxuZA4K4VXkhlp23bmg) | 2:43 |

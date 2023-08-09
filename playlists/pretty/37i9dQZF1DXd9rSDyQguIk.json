@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 1129634,
+  "num_followers": 1130071,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzdjMTRjODY5Yjc1NjZkNjAwODA3NDUyZmQxYmQ3YjVjNTJmZDU5",
+  "snapshot_id": "MCxhNmM2ZDJiNWM4NTk2ZjJhYjZkMzI4MzA3NmZkMTk1ZjFiNWNiNmQ2",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -421,20 +421,20 @@
       "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
+      "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "King Of The Boogie",
-        "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
+        "name": "Heart & Soul: A Retrospective",
+        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 189640,
-      "name": "Boogie Chillen",
-      "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
+      "duration_ms": 178440,
+      "name": "Do Right Woman, Do Right Man",
+      "url": "https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -453,20 +453,20 @@
       "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
+      "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Heart & Soul: A Retrospective",
-        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
+        "name": "King Of The Boogie",
+        "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 178440,
-      "name": "Do Right Woman, Do Right Man",
-      "url": "https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf"
+      "duration_ms": 189640,
+      "name": "Boogie Chillen",
+      "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Crawfish Fiesta (Remastered with Bonus Track)",
-        "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Big Chief - Remastered",
-      "url": "https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "Chicago Bound",
         "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 167266,
       "name": "Walking By Myself",
       "url": "https://open.spotify.com/track/36ccrof5DFicLrejE4hEye"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Crawfish Fiesta (Remastered with Bonus Track)",
+        "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Big Chief - Remastered",
+      "url": "https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/7pzDaHQx6WFWtdx9PLPxcx"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "The Complete Chess Masters",
-        "url": "https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 189133,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "The Son Seals Blues Band",
@@ -1075,6 +1059,22 @@
       "duration_ms": 362400,
       "name": "Now That I'm Down",
       "url": "https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "The Complete Chess Masters",
+        "url": "https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 189133,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi"
     },
     {
       "added_at": "2018-03-29 19:44:07",

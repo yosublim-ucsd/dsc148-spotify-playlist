@@ -4,7 +4,7 @@
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-122 songs - 7 hr 27 min
+123 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [All day](https://open.spotify.com/track/147avtNKN2LvIlENoa0GJ8) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [To whom it may concern](https://open.spotify.com/album/1TKsdmVqMISXkxRWhAqG13) | 3:42 | 2022-10-13 | 2023-08-07 |
 | [All day](https://open.spotify.com/track/5InT1PM23ZqdmkVazN1Pgb) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [To whom it may concern](https://open.spotify.com/album/5FBql8RASodeavdrQKiSfp) | 3:42 | 2023-08-05 |  |
 | [All I want is you](https://open.spotify.com/track/6ESVVNkjPVG7w8VNon6GDH) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Fade Away](https://open.spotify.com/album/0ukJ3I2mxiZVacGtaOIXo5) | 2:19 | 2022-07-04 |  |
-| [Always Remember](https://open.spotify.com/track/5C56Qnwq0aU9MIY2G6snfo) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [도도솔솔라라솔 \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/2ueEwIe0EHbF1DYU3jGgXX) | 3:25 | 2022-07-04 |  |
+| [Always Remember](https://open.spotify.com/track/0RCYjmOB2pLojrcyGIyC5f) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [도도솔솔라라솔 OST Part.10](https://open.spotify.com/album/1rxId9OlGTuVGW6zlDmote) | 3:25 | 2023-08-05 |  |
+| [Always Remember](https://open.spotify.com/track/5C56Qnwq0aU9MIY2G6snfo) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [도도솔솔라라솔 \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/2ueEwIe0EHbF1DYU3jGgXX) | 3:25 | 2022-07-04 | 2023-08-09 |
 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 | 2022-07-04 |  |
 | [Autumn Breeze \(feat\. Rachel Lim\)](https://open.spotify.com/track/11lcftRIEVOPDBHDrH1mm1) | [JIDA](https://open.spotify.com/artist/0Yr4WTbWPoSarkxhU1eS5b), [Rachel Lim](https://open.spotify.com/artist/4LY4Kd3wNEZxMwZygueoqc) | [Autumn Breeze](https://open.spotify.com/album/29E3486DLVp19NLxiHQVq8) | 3:43 | 2022-11-01 |  |
 | [Autumn Breeze \(feat\. Rachel Lim\)](https://open.spotify.com/track/1PUjzVK1YYiUWSebVISbHT) | [JIDA](https://open.spotify.com/artist/0Yr4WTbWPoSarkxhU1eS5b), [Rachel Lim](https://open.spotify.com/artist/4LY4Kd3wNEZxMwZygueoqc) | [FADE AWAY \(feat\. Rachel Lim\)](https://open.spotify.com/album/53MPVjP9shFQ43mrBekika) | 3:43 | 2022-11-03 | 2022-11-13 |

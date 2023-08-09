@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 690862,
+  "num_followers": 691152,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWU2MmVmMmE0MjdiZmY5YTg4YWVkZmEwOGU2YzBlMmQyNDRjYzk4",
+  "snapshot_id": "MCwyMDM1Nzc1NGI3NGI4ZjIxOWViMTRkMjdiMTE4NzdjNTRhYThkZGNh",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "14:59",
-        "url": "https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi"
-      },
-      "artists": [
-        {
-          "name": "Sugar Ray",
-          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Whitey Ford Sings the Blues",
         "url": "https://open.spotify.com/album/4ebpJ41hnGAIBZ8Cwua250"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 303133,
       "name": "What It's Like",
       "url": "https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "14:59",
+        "url": "https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 250293,
-      "name": "Thirty-Three - Remastered 2012",
-      "url": "https://open.spotify.com/track/1fPKWu8NKS1ZGHjFZ5QCAs"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Vitalogy",
         "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 318066,
       "name": "Immortality - Remastered",
       "url": "https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 250293,
+      "name": "Thirty-Three - Remastered 2012",
+      "url": "https://open.spotify.com/track/1fPKWu8NKS1ZGHjFZ5QCAs"
     }
   ],
   "unique_name": "Chill Rock",

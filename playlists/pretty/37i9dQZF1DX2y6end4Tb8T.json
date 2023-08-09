@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 53622,
+  "num_followers": 53655,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Mzg3Zjg2ZTJlN2Q5MGVhMTI4YzY4NjdiZTFmZDQ2ZDhhMzNjZDIx",
+  "snapshot_id": "MCw3MjM2YzViZWJmMmU0N2JlOTExMTEyYTExNTljNzFhZmQ3MDA3ZmQ4",
   "tracks": [
     {
       "added_at": "2023-08-04 19:28:12",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-08-04 19:28:12",
       "album": {
-        "name": "TattleTales",
-        "url": "https://open.spotify.com/album/6q8AAimjVfKuv9PrI5xto9"
-      },
-      "artists": [
-        {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "TROLLZ (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/3JwxpSpGaXmGqLwWN6D6eC"
-    },
-    {
-      "added_at": "2023-08-04 19:28:12",
-      "album": {
         "name": "Excitement",
         "url": "https://open.spotify.com/album/7rcMHNqNbQxF5TaPMHFoKu"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 283270,
       "name": "Excitement",
       "url": "https://open.spotify.com/track/3WnTQDd9A3bpBfzCziElU9"
+    },
+    {
+      "added_at": "2023-08-04 19:28:12",
+      "album": {
+        "name": "TattleTales",
+        "url": "https://open.spotify.com/album/6q8AAimjVfKuv9PrI5xto9"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "TROLLZ (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/3JwxpSpGaXmGqLwWN6D6eC"
     },
     {
       "added_at": "2023-08-04 19:28:12",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2023-08-04 19:28:12",
       "album": {
+        "name": "Music To Be Murdered By",
+        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 170226,
+      "name": "Lock It Up (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/1qwMkkRiD5jqLeUUjfgblh"
+    },
+    {
+      "added_at": "2023-08-04 19:28:12",
+      "album": {
         "name": "Featuring Ty Dolla $ign",
         "url": "https://open.spotify.com/album/1zg6QT0eGqLBlhAT2FPoFj"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 231618,
       "name": "Ego Death (feat. Kanye West, FKA twigs & Skrillex)",
       "url": "https://open.spotify.com/track/3Q5cLvkKsHJvYltf8k7HkO"
-    },
-    {
-      "added_at": "2023-08-04 19:28:12",
-      "album": {
-        "name": "Music To Be Murdered By",
-        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 170226,
-      "name": "Lock It Up (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/1qwMkkRiD5jqLeUUjfgblh"
     },
     {
       "added_at": "2023-08-04 19:28:12",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2023-08-04 19:28:12",
       "album": {
+        "name": "Music To Be Murdered By",
+        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 200946,
+      "name": "No Regrets (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/1lO9CZo6eDrOy0S7khgryG"
+    },
+    {
+      "added_at": "2023-08-04 19:28:12",
+      "album": {
         "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
         "url": "https://open.spotify.com/album/4MedBjnVoUYNtQy2rZpHw9"
       },
@@ -1235,26 +1255,6 @@
     {
       "added_at": "2023-08-04 19:28:12",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "Second Emotion (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/1PnAx788sAvcI3ZxTlEyX8"
-    },
-    {
-      "added_at": "2023-08-04 19:28:12",
-      "album": {
         "name": "Real As It Gets (feat. EST Gee)",
         "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
       },
@@ -1275,22 +1275,22 @@
     {
       "added_at": "2023-08-04 19:28:12",
       "album": {
-        "name": "Music To Be Murdered By",
-        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 200946,
-      "name": "No Regrets (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/1lO9CZo6eDrOy0S7khgryG"
+      "duration_ms": 202720,
+      "name": "Second Emotion (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/1PnAx788sAvcI3ZxTlEyX8"
     },
     {
       "added_at": "2023-08-04 19:28:12",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2023-08-04 19:28:12",
       "album": {
-        "name": "UGLY (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/6QKJuikQEvlMmthEFunSUW"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "UGLY (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/0PJ4dXVkpNAtoOZsEjqktc"
-    },
-    {
-      "added_at": "2023-08-04 19:28:12",
-      "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/0Wai6umy1E7IWqsKUASoyT"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 210035,
       "name": "Buenos Aires",
       "url": "https://open.spotify.com/track/42NACeANuRucHuCOFL5umq"
+    },
+    {
+      "added_at": "2023-08-04 19:28:12",
+      "album": {
+        "name": "UGLY (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/6QKJuikQEvlMmthEFunSUW"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "UGLY (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/0PJ4dXVkpNAtoOZsEjqktc"
     },
     {
       "added_at": "2023-08-04 19:28:12",

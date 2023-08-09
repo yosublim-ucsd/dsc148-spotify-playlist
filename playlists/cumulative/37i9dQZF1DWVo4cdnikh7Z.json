@@ -3023,6 +3023,28 @@
     },
     {
       "album": {
+        "name": "Da Da Dadai (From \"DD Retruns\")",
+        "url": "https://open.spotify.com/album/5PaCBssdNXskOImJqs6O1F"
+      },
+      "artists": [
+        {
+          "name": "ofRO",
+          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
+        },
+        {
+          "name": "FEFSI Vijayan",
+          "url": "https://open.spotify.com/artist/4XCPPZFvNklCwL9DXT32G5"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63000,
+      "name": "Da Da Dadai - From \"DD Retruns\"",
+      "url": "https://open.spotify.com/track/3n2avwkzCmgIpeaXEp9ayK"
+    },
+    {
+      "album": {
         "name": "DADA (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ox0X6W9rsoMdGLmjuBtfs"
       },
@@ -4968,7 +4990,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 80362,
       "name": "Hi Nanna Glimpse Music (TAMIL)",
       "url": "https://open.spotify.com/track/4tVQqB4xnIueaZPrb6SvZh"
@@ -10835,7 +10857,7 @@
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 250375,
+      "duration_ms": 249000,
       "name": "Nee Chuttu Chuttu (From \"Skanda\")",
       "url": "https://open.spotify.com/track/2sYhYrHPNU8v5EjSqIqDXm"
     },
@@ -18692,6 +18714,28 @@
       "duration_ms": 261000,
       "name": "Vendum",
       "url": "https://open.spotify.com/track/4ogxWEsy2bTf2QlN9T5JrZ"
+    },
+    {
+      "album": {
+        "name": "Vibe of NOVP (From \"Nanban Oruvan Vandha Piragu\")",
+        "url": "https://open.spotify.com/album/5HnvzpN6R9JMhrt6sLz3cK"
+      },
+      "artists": [
+        {
+          "name": "A H Kaashif",
+          "url": "https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI"
+        },
+        {
+          "name": "Krishna Kishor",
+          "url": "https://open.spotify.com/artist/3prbdBU7w1NADsMOoSK3xZ"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59845,
+      "name": "Vibe of NOVP - From \"Nanban Oruvan Vandha Piragu\"",
+      "url": "https://open.spotify.com/track/5KynY4TX1XvNQiq2wze33Q"
     },
     {
       "album": {

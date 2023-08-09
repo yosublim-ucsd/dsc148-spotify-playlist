@@ -4,7 +4,7 @@
 
 > A perfect mix for your Mehendi ceremony.
 
-64 songs - 4 hr 51 min
+65 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Punjabi Wedding Song](https://open.spotify.com/track/69iDTIABXobqbl8zJOp8dq) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Hasee Toh Phasee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE) | 3:53 | 2022-03-14 |  |
 | [Radha \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/track/7ztCi9k76A4QmSqWEutFyV) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Radha \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/album/6twPZvB9fr9uBQUzPeQfbQ) | 5:01 | 2023-05-23 |  |
 | [Rola Pe Gaya](https://open.spotify.com/track/2CYjOJhjqxU3IzYWnDmz8A) | [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Hard Kaur](https://open.spotify.com/artist/1Xoow41U5fn5DwlMlYt7Gw), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Earl](https://open.spotify.com/artist/0pnNFaArjbh5wsCVJwUlld), [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y) | [Patiala House](https://open.spotify.com/album/1DgIFH0yAPRPGBeCiJBvDv) | 4:28 | 2022-03-14 |  |
-| [Rum Whisky \(From "Vicky Donor"\)](https://open.spotify.com/track/2IbvIRyVjgKOOTn3DJuOk9) | [Akshay Verma](https://open.spotify.com/artist/3ccCdve0mLFea7EwmUiY06) | [Vicky Donor](https://open.spotify.com/album/2zJbSTXQKOlCUHw4Cnh6iB) | 4:04 | 2023-05-23 |  |
+| [Rum Whisky \(From "Vicky Donor"\)](https://open.spotify.com/track/2IbvIRyVjgKOOTn3DJuOk9) | [Akshay Verma](https://open.spotify.com/artist/3ccCdve0mLFea7EwmUiY06) | [Vicky Donor](https://open.spotify.com/album/2zJbSTXQKOlCUHw4Cnh6iB) | 4:04 | 2023-05-23 | 2023-08-09 |
+| [Saj Ke](https://open.spotify.com/track/0f2E2QWspTyRSygY4fx7Y8) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Saj Ke](https://open.spotify.com/album/73JIHgoqQgfNCgEfTxaIId) | 2:32 | 2023-08-08 |  |
 | [Sajh Dhaj Ke](https://open.spotify.com/track/5HJGzB7sZleFrrDvr0pRo4) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Pankaj Kapur](https://open.spotify.com/artist/2o8YweTDrUygJuPWOFDN62) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 4:52 | 2022-03-14 |  |
 | [Shagun](https://open.spotify.com/track/1V3nPW84P7vDffxUAHtjJl) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4), [Mousam Mehta](https://open.spotify.com/artist/6TwlAFUoLtnJwumsxYhhex), [Malka Mehta](https://open.spotify.com/artist/2rrqD52eAe6byv62wB6RYq) | [Lagan](https://open.spotify.com/album/7EQqho3zZa8WyzHo3H0LLD) | 4:47 | 2023-02-07 |  |
 | [Sun Sohniye \- From "Afsar"](https://open.spotify.com/track/0Sf6tCf1PpIXrG5htibftj) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Sun Sohniye \(From "Afsar"\)](https://open.spotify.com/album/1lotYHh1TgHkdt28VVUfSF) | 2:38 | 2022-03-14 |  |

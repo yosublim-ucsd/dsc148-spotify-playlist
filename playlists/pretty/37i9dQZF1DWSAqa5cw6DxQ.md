@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 
 > Clear your mind with soothing new age guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,259 likes - 126 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,280 likes - 126 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 125 | [Beginners Mind](https://open.spotify.com/track/750EM9eXVnU3XeHW945rJv) | [Delta Lab](https://open.spotify.com/artist/54v62EvD3dmxVaEo3LTVYe) | [Beginners Mind](https://open.spotify.com/album/7wjigSjvD3ERxDtKS9o7f0) | 3:53 |
 | 126 | [Waves](https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2) | [Aliya Coldwell](https://open.spotify.com/artist/0kUap0NamZGz6FwR7tCjUE) | [Waves](https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5) | 2:56 |
 
-Snapshot ID: `MCwzYjU3MDIxZWVkZTkzNjI3MWRiOWY3OTZlMDFmNTMyMDA0YjFlOWY0`
+Snapshot ID: `MCw4NDE0NGNlODliYTVkOTM2YWExYTIxYjhmMzUwZjg1ZTNmOWU1OWYz`

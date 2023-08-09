@@ -4,7 +4,7 @@
 
 > el nombre lo dice todo.
 
-183 songs - 11 hr 1 min
+184 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [AMOR DE MI VIDA](https://open.spotify.com/track/2C6eINAA8cO6e5a8PjnWsK) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [INTER SHIBUYA \(FERXXO EDITION\)](https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE) | 3:09 | 2022-05-12 |  |
 | [Anda Sola](https://open.spotify.com/track/3XrAeBg5NAWRqkqYclu4w7) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [El Amor y Yo](https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf) | 3:20 | 2022-05-12 | 2023-05-13 |
 | [Aprendi a Amar](https://open.spotify.com/track/7M8K2ermHPnLJildw6F6EP) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Aprendi a Amar](https://open.spotify.com/album/150yOgaqtpp8GxS9ho5Xg0) | 3:33 | 2022-03-22 | 2023-05-13 |
-| [Ay Corazón](https://open.spotify.com/track/3DN6Gss0WIEMXc1AvnrAA5) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Ay Corazón](https://open.spotify.com/album/3DraAOT7RGSJUxwyU18HmA) | 3:10 | 2022-03-22 |  |
+| [Ay Corazón](https://open.spotify.com/track/3DN6Gss0WIEMXc1AvnrAA5) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Ay Corazón](https://open.spotify.com/album/3DraAOT7RGSJUxwyU18HmA) | 3:10 | 2022-03-22 | 2023-08-09 |
 | [Balada Para Perrear](https://open.spotify.com/track/1Gp5LG0NxOKZP9CoMTvo53) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Balada Para Perrear](https://open.spotify.com/album/7pb04lojhpJr3Yn7Nt3tEE) | 3:15 | 2022-03-22 | 2022-05-13 |
 | [Bella y Sensual](https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:24 | 2022-03-22 |  |
 | [Boomerang](https://open.spotify.com/track/6E8uqptcabNz9ym19FkDye) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:23 | 2022-03-22 |  |
@@ -30,6 +30,7 @@
 | [Cenicero](https://open.spotify.com/track/4JznxNAtycdgvzd4kv343C) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Nekxum](https://open.spotify.com/artist/4gZwJrNP5NG3KGS2dRcS5c) | [Cenicero](https://open.spotify.com/album/2i6N1ekALoaJ9C5V6iHsC5) | 3:27 | 2022-03-22 | 2022-05-13 |
 | [Colorín Colorado](https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:14 | 2023-05-12 |  |
 | [CONTINGENTE](https://open.spotify.com/track/5k0iAYwThkoMh9LzFihATe) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:39 | 2022-12-08 |  |
+| [Cora Roto](https://open.spotify.com/track/35fSKiaVknkbEBJxvqKuHU) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Cora Roto](https://open.spotify.com/album/0kuwC399JZDrmSjbGa6nCl) | 3:37 | 2023-08-04 |  |
 | [Créeme](https://open.spotify.com/track/4EKZsrsCKyqr64FBHLc0DU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:34 | 2023-05-12 |  |
 | [Cuaderno](https://open.spotify.com/track/7anSoGdgtmJTAPZBzcPhO6) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Climaxxx](https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp) | 4:46 | 2022-03-22 |  |
 | [Cuando Me Acerco A Ti](https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:13 | 2022-03-22 |  |

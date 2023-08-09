@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Chico C\u00e9sar",
-  "num_followers": 343397,
+  "num_followers": 343495,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTVmZmFlN2Q1NDg2ZTY0MjlkNmIxMmM1Mjk4NWQyOWE5ZGRlZWMx",
+  "snapshot_id": "MCxlOWE3NWJhZDYyMGM1MDY1OTI0NzgzYWY3ZTMzOGIyN2YxMWZiNmUz",
   "tracks": [
     {
       "added_at": "2023-07-28 04:36:55",
@@ -403,6 +403,46 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
+      },
+      "artists": [
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 145191,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Bloco Do Silva #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Sozinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
         "name": "D",
         "url": "https://open.spotify.com/album/36BRJ7h8gQe09QCT1WaQe3"
       },
@@ -447,26 +487,6 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Bloco Do Silva #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Sozinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
         "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
         "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 295223,
       "name": "Ovelha Negra - Ac\u00fastico MTV",
       "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
-      },
-      "artists": [
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        },
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 145191,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
+        "name": "Twoth Pick",
+        "url": "https://open.spotify.com/album/0TfoqV1QN2xWaulSVqiD2d"
+      },
+      "artists": [
+        {
+          "name": "RodCebrian",
+          "url": "https://open.spotify.com/artist/6WI7bOFkiqdWBZapqy1iIu"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "Essa Menina",
+      "url": "https://open.spotify.com/track/3YOY3qnwbbAE4TH191Vs35"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
         "name": "ESTRELA",
         "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 185777,
       "name": "ESTRELA",
       "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
-        "name": "Twoth Pick",
-        "url": "https://open.spotify.com/album/0TfoqV1QN2xWaulSVqiD2d"
-      },
-      "artists": [
-        {
-          "name": "RodCebrian",
-          "url": "https://open.spotify.com/artist/6WI7bOFkiqdWBZapqy1iIu"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 235636,
-      "name": "Essa Menina",
-      "url": "https://open.spotify.com/track/3YOY3qnwbbAE4TH191Vs35"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Depois da Primavera",
-        "url": "https://open.spotify.com/album/41FKqee6oHLtSP8Zpccd49"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 198581,
-      "name": "Depois da Primavera",
-      "url": "https://open.spotify.com/track/1RZ1QqJCCp7vunJxw8dXHC"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
         "name": "Lua e Estrela",
         "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 219098,
       "name": "Lua e Estrela",
       "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Depois da Primavera",
+        "url": "https://open.spotify.com/album/41FKqee6oHLtSP8Zpccd49"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 198581,
+      "name": "Depois da Primavera",
+      "url": "https://open.spotify.com/track/1RZ1QqJCCp7vunJxw8dXHC"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Adeus Am\u00e9rica",
-        "url": "https://open.spotify.com/album/0pEpQFIqJu7aW1OV0ydGpk"
-      },
-      "artists": [
-        {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Adeus Am\u00e9rica",
-      "url": "https://open.spotify.com/track/5peHuOuPp0eaaCJU2lgNa1"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
         "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 181800,
       "name": "Tarde Em Itapu\u00e3",
       "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Adeus Am\u00e9rica",
+        "url": "https://open.spotify.com/album/0pEpQFIqJu7aW1OV0ydGpk"
+      },
+      "artists": [
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Adeus Am\u00e9rica",
+      "url": "https://open.spotify.com/track/5peHuOuPp0eaaCJU2lgNa1"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/5o08PAK8oEAIx05WDKkmsZ"
+      },
+      "artists": [
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        }
+      ],
+      "duration_ms": 194443,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/2XKh7iXzONaETF9RogLOeo"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
         "name": "Alagados",
         "url": "https://open.spotify.com/album/3Mdko7tfSEfTdTaukgzAst"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 196614,
       "name": "Alagados",
       "url": "https://open.spotify.com/track/4tFVcNSN26d2OSWSlOxRIf"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/5o08PAK8oEAIx05WDKkmsZ"
-      },
-      "artists": [
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        }
-      ],
-      "duration_ms": 194443,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/2XKh7iXzONaETF9RogLOeo"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Porto",
-        "url": "https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj"
-      },
-      "artists": [
-        {
-          "name": "MPB4",
-          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "Porto",
-      "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
         "name": "Teus Olhos em Mim",
         "url": "https://open.spotify.com/album/0IYDM5cNdsuyjYD1jZ4Ubm"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 182528,
       "name": "Teus Olhos em Mim",
       "url": "https://open.spotify.com/track/67oWKa0ZE7IjkHBDMEg8Hm"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Porto",
+        "url": "https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj"
+      },
+      "artists": [
+        {
+          "name": "MPB4",
+          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "Porto",
+      "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
     },
     {
       "added_at": "2023-07-28 04:36:55",

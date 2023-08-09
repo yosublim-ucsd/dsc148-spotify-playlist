@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 165373,
       "name": "All Over This World",
       "url": "https://open.spotify.com/track/5dfQvhkoG0ulO4gKAzHLyA"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 204959,
       "name": "Beams Of Heaven",
       "url": "https://open.spotify.com/track/4NuXIH3TvC2RehKx5SoxYT"
@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Bound For Glory (Live Stuttgart '58)",
+        "url": "https://open.spotify.com/album/1SbRXFU9vDp4OrQ4umcCGM"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214473,
+      "name": "Go Ahead - Live",
+      "url": "https://open.spotify.com/track/50fnUS19njK5kSzm9l0Whd"
+    },
+    {
+      "album": {
         "name": "The Gospel Of The Blues",
         "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
       },
@@ -660,7 +678,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 171173,
       "name": "I Want A Tall Skinny Papa",
       "url": "https://open.spotify.com/track/6oBEmtC2OuL0tqaEvqKC8e"
@@ -678,7 +696,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 160960,
       "name": "I Want Jesus to Walk Around My Bedside",
       "url": "https://open.spotify.com/track/7KJsNOHD91wsOHPYGgNSDX"
@@ -714,7 +732,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 155360,
       "name": "I Want to Live So God Can Use Me",
       "url": "https://open.spotify.com/track/51i9LuYV4z2jjEzTKolDty"
@@ -1190,7 +1208,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 160731,
       "name": "Rock Daniel (VD129)",
       "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 160520,
       "name": "Shout, Sister, Shout!",
       "url": "https://open.spotify.com/track/52ppD2ntvCjr22dP17fuJ7"
@@ -1422,7 +1440,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 214273,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq"
@@ -1678,7 +1696,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 282826,
       "name": "This Train",
       "url": "https://open.spotify.com/track/3qXUmemjpyPPEMCSiYnhf6"

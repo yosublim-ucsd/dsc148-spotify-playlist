@@ -2,7 +2,7 @@
 
 ### [Perreo Bellakoso](https://open.spotify.com/playlist/37i9dQZF1DWUdsUUs0FzN4)
 
-> Con licuachela en mano y perreando hasta el piso\. El Bogueto en portada
+> Con licuachela en mano y perreando hasta el piso\. Kali Uchis y JT en portada
 
 233 songs - 11 hr 37 min
 

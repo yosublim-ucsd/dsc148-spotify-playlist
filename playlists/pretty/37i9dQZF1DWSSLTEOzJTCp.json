@@ -1,12 +1,12 @@
 {
   "description": "why is this game so hard goddamnit #SpotifyWrapped",
-  "num_followers": 12369,
+  "num_followers": 12395,
   "original_name": "dance tracks we smashed our controllers to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWNmNWY2ZDIwZDQ3MmMyMjMzMTBiNDAwNGFjMzM2MmIxOGQ0ZTRl",
+  "snapshot_id": "MCxkMjMzNjFjZGIyYWQyOGNhMmI1MTkxYzM1MTE1NmNiNzM4MzMzMjc0",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -595,6 +595,26 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 216818,
+      "name": "Highest Building (feat. Oklou)",
+      "url": "https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "PS5 (Fortnite Battle Pass Gamer Remix) [with Alan Walker & Abdul Cisse] [Fortnite Battle Pass Gamer Remix/ with Alan Walker & Abdul Cisse]",
         "url": "https://open.spotify.com/album/3aWHGpf2SLqsaeZElKcD3N"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 148746,
       "name": "PS5 (Fortnite Battle Pass Gamer Remix) [with Alan Walker & Abdul Cisse]",
       "url": "https://open.spotify.com/track/0nb9kXzptLW51z6gX5jzz7"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Palaces",
-        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        }
-      ],
-      "duration_ms": 216818,
-      "name": "Highest Building (feat. Oklou)",
-      "url": "https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ"
     },
     {
       "added_at": "2022-11-30 13:46:00",

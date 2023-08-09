@@ -6882,7 +6882,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 210538,
       "name": "Eyjan\u00f3tt",
       "url": "https://open.spotify.com/track/5wShXzt653EggNX7kTzMvb"
@@ -7718,7 +7718,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -11268,7 +11268,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -18866,7 +18866,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -22384,6 +22384,24 @@
       "duration_ms": 239026,
       "name": "Spurningar (feat. P\u00e1ll \u00d3skar)",
       "url": "https://open.spotify.com/track/5VrbuzqAjCAFSa7MpGRXWI"
+    },
+    {
+      "album": {
+        "name": "Stack It Up",
+        "url": "https://open.spotify.com/album/3iDWqDTl6CfAa3M2ZOCPq9"
+      },
+      "artists": [
+        {
+          "name": "JAMS The Flava Child",
+          "url": "https://open.spotify.com/artist/5fksTbgLoeE6E0oGWYoYYX"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Stack It Up",
+      "url": "https://open.spotify.com/track/2kRx2UcFYN1H7We2ezKnCz"
     },
     {
       "album": {
@@ -27234,7 +27252,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 235578,
       "name": "\u00c1 sama t\u00edma, \u00e1 sama sta\u00f0",
       "url": "https://open.spotify.com/track/66ucII0C46uKXVFqDuDhfu"
@@ -27420,7 +27438,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 236966,
       "name": "\u00c1stin \u00e1 s\u00e9r sta\u00f0",
       "url": "https://open.spotify.com/track/0rKRoNSGc9JlfR5Jpta1NP"
@@ -27628,7 +27646,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 184285,
       "name": "\u00c9g Fer \u00c1 \u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0 (feat. Sverrir Bergmann)",
       "url": "https://open.spotify.com/track/1a6CncFFqHUL5jTZo2uo6f"
@@ -28340,7 +28358,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 205220,
       "name": "\u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0 B\u00ed\u00f0ur",
       "url": "https://open.spotify.com/track/7GOpB2lDCnBxd3yUEaOaXb"
@@ -28434,7 +28452,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

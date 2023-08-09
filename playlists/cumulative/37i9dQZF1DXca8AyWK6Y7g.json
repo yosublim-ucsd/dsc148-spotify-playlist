@@ -8084,7 +8084,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 158837,
       "name": "DROP TOP",
       "url": "https://open.spotify.com/track/1gKEEiVyjVXtaKZl9TOEnf"
@@ -12092,6 +12092,24 @@
       "duration_ms": 197520,
       "name": "he said, she said",
       "url": "https://open.spotify.com/track/1BqtEfEiep87O11qZSk9Vy"
+    },
+    {
+      "album": {
+        "name": "He's A 10",
+        "url": "https://open.spotify.com/album/1xrXYxAEmC0OIei3cPxOyK"
+      },
+      "artists": [
+        {
+          "name": "JESSIA",
+          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163193,
+      "name": "He's A 10",
+      "url": "https://open.spotify.com/track/6EtGijCkrZ5X3lAaSfK6fU"
     },
     {
       "album": {
@@ -17134,7 +17152,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 201133,
       "name": "like everyone else",
       "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
@@ -21624,6 +21642,24 @@
       "duration_ms": 196914,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/5zexuTIZGttwZbj5PM1ztp"
+    },
+    {
+      "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/1ams8R8QhPSLH94VcYD0DI"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205389,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/4xkRUKaEIDzskDJtUeW9lE"
     },
     {
       "album": {

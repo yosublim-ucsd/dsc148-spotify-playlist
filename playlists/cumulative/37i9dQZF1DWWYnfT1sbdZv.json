@@ -1385,6 +1385,40 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! SERIES GAME VERSION SONG COLLECTION",
+        "url": "https://open.spotify.com/album/1G8kutxesHCVw9Z4KoIS1b"
+      },
+      "artists": [
+        {
+          "name": "\u672c\u7530\u672a\u592e (CV: \u539f \u7d17\u53cb\u91cc)",
+          "url": "https://open.spotify.com/artist/538dyGDEo6Ns0SuFRl47w3"
+        },
+        {
+          "name": "\u7247\u6850\u65e9\u82d7 (CV: \u548c\u6c23\u3042\u305a\u672a)",
+          "url": "https://open.spotify.com/artist/7oK9kaJVvqTn5thxs5EVfX"
+        },
+        {
+          "name": "\u4f50\u85e4\u5fc3 (CV: \u82b1\u5b88\u3086\u307f\u308a)",
+          "url": "https://open.spotify.com/artist/74oOpO97XkXnYtjYoArPvw"
+        },
+        {
+          "name": "\u57ce\u30f6\u5d0e\u7f8e\u5609 (CV: \u4f73\u6751\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/58B9VjzwsrMdm3fVM3oHNs"
+        },
+        {
+          "name": "\u8af8\u661f\u304d\u3089\u308a (CV: \u677e\u5d5c \u9e97)",
+          "url": "https://open.spotify.com/artist/0M1k2X1yK6cO3WvdHKQ56Y"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127425,
+      "name": "SUN\u2661FLOWER - GAME VERSION",
+      "url": "https://open.spotify.com/track/6NdlYHdSAavwmzGoMoT3r0"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER CINDERELLA MASTER 011\u301c020 GAME VERSION",
         "url": "https://open.spotify.com/album/2vIxFd8YywdFqH87quf9xt"
       },
@@ -3500,7 +3534,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 130966,
       "name": "\u7d14\u60c5Midnight\u4f1d\u8aac - GAME VERSION",
       "url": "https://open.spotify.com/track/78ImqtZj7MVVpWN6x9778r"

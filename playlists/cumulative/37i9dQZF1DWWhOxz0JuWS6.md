@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-522 songs - 1 day 13 hr 47 min
+523 songs - 1 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [One Tree Hill \- Remastered 2007](https://open.spotify.com/track/7JFMf61pdg8H8NEMgxdHYx) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 5:22 | 2020-12-08 | 2022-07-28 |
 | [One World](https://open.spotify.com/track/0JuUUYTAmBOVCkMni6keT8) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers In Arms](https://open.spotify.com/album/15J400U0rEpgE64UQgtvLs) | 3:38 | 2020-12-08 | 2022-05-25 |
 | [Only The Lonely \- Remastered 1999](https://open.spotify.com/track/1BZMMt9H0TheQGWQy44KmO) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [All Four One \(Remastered 1999\)](https://open.spotify.com/album/1HRjCO61kfHWX3Atps1lQz) | 3:16 | 2022-03-28 | 2022-07-19 |
-| [Only The Lonely \- Remastered 1999](https://open.spotify.com/track/3hJmN0RlUK8F7grOt3nW0a) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [80's Rock Power Ballads](https://open.spotify.com/album/3hx4DBiw6CIvIIonZzQ1gp) | 3:16 | 2022-11-17 |  |
+| [Only The Lonely \- Remastered 1999](https://open.spotify.com/track/3hJmN0RlUK8F7grOt3nW0a) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [80's Rock Power Ballads](https://open.spotify.com/album/3hx4DBiw6CIvIIonZzQ1gp) | 3:16 | 2022-11-17 | 2023-08-09 |
 | [Only The Lonely \- Remastered 1999](https://open.spotify.com/track/7v3dSsVMPy7jd4hcx6sKb0) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [80s Alternative](https://open.spotify.com/album/13stlNOpLhjH7ZlEL3LFSf) | 3:16 | 2022-03-28 | 2023-01-14 |
 | [Only Time Will Tell](https://open.spotify.com/track/49NDegc7RQyvq6mhAs06p6) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Asia](https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl) | 4:44 | 2020-12-08 |  |
 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 | 2020-12-08 |  |
@@ -333,6 +333,7 @@
 | [Pure](https://open.spotify.com/track/7FzT7oEYwxLrRscgDUwzuk) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Cloudcuckooland](https://open.spotify.com/album/7gjtAtqpEZhYLCUnJvbzOn) | 3:47 | 2020-12-08 | 2022-07-23 |
 | [Radio Free Europe](https://open.spotify.com/track/6l6O0Q6pd1tc1DiE7GLy4u) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Murmur](https://open.spotify.com/album/33XZTGUv8p3Cl3KYwZQ2VH) | 4:05 | 2020-12-08 | 2022-07-29 |
 | [Rain](https://open.spotify.com/track/0Pa7UV1a5wmtU49l4HsBt4) | [Dragon](https://open.spotify.com/artist/622HMYOaiqowUmcd5t3b7t) | [Aussie Legends](https://open.spotify.com/album/3IGRFGa4ErR0CU8aMMrRql) | 3:38 | 2020-12-08 | 2022-07-29 |
+| [Rain](https://open.spotify.com/track/3qp0q5gUblhkCjtD6fZfFE) | [Dragon](https://open.spotify.com/artist/622HMYOaiqowUmcd5t3b7t) | [Body And The Beat](https://open.spotify.com/album/3ugzAaAo9ThcmWF31zSNlY) | 3:38 | 2022-11-17 |  |
 | [Rain](https://open.spotify.com/track/3Od5XBElZqm5N6rr86LS5r) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 3:56 | 2020-12-08 |  |
 | [Rain \(2009 Remaster\)](https://open.spotify.com/track/6ka9APuo3QU5E5bs9lhagW) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love \(Expanded Edition\)](https://open.spotify.com/album/2w7mhWYo5yEEVqYIt7tdf1) | 3:57 | 2020-12-08 | 2022-07-29 |
 | [Rain Must Fall \- Remastered 2011](https://open.spotify.com/track/6jornLGJEzC3wFP2MFFvWg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(2011 Remaster\)](https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V) | 4:23 | 2020-12-08 | 2022-07-05 |

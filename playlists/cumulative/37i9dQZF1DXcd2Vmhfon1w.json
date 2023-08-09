@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Reality",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Prok",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -286,6 +286,28 @@
       "duration_ms": 204572,
       "name": "Afloja",
       "url": "https://open.spotify.com/track/1TrYfvW9k9IQZlcS6c0C5a"
+    },
+    {
+      "album": {
+        "name": "AHORA QUE",
+        "url": "https://open.spotify.com/album/1d5jBobGUNucxW2jPRfCU0"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF"
+        },
+        {
+          "name": "Zaidbreak",
+          "url": "https://open.spotify.com/artist/4kxv2kGvnge97AbeT7sDGu"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "AHORA QUE",
+      "url": "https://open.spotify.com/track/7jRLjVOOkiNP2aiD3XLsqJ"
     },
     {
       "album": {
@@ -1304,6 +1326,32 @@
       "duration_ms": 203000,
       "name": "El Barrio Me Llama",
       "url": "https://open.spotify.com/track/58zEumx76yMm9cboON0mlq"
+    },
+    {
+      "album": {
+        "name": "EL CIELO",
+        "url": "https://open.spotify.com/album/3SL9BkVqLDALKCeEkvrFB7"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Kaze",
+          "url": "https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg"
+        },
+        {
+          "name": "Marcelus Airlinez",
+          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265917,
+      "name": "EL CIELO",
+      "url": "https://open.spotify.com/track/1werFoAlPyW1GYTfD9SRy6"
     },
     {
       "album": {
@@ -4602,6 +4650,32 @@
       "duration_ms": 214000,
       "name": "Wifi",
       "url": "https://open.spotify.com/track/3D4gcNgiD0kMPW4AH1ufpA"
+    },
+    {
+      "album": {
+        "name": "Yo No S\u00e9",
+        "url": "https://open.spotify.com/album/2ed6KMzzTjO7pNGmn8lODE"
+      },
+      "artists": [
+        {
+          "name": "Nikone",
+          "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
+        },
+        {
+          "name": "Reality",
+          "url": "https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw"
+        },
+        {
+          "name": "GIO",
+          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Yo No S\u00e9",
+      "url": "https://open.spotify.com/track/0q2CiondkI8yh7CrAdrIXx"
     },
     {
       "album": {

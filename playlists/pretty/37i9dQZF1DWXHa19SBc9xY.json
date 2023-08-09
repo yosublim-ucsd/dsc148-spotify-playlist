@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 71385,
+  "num_followers": 71492,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODNmNDljNTJhMGFiYTYzZmFhNDg0ZjU0MTliOTg1MmQ2MjY5ZmE1",
+  "snapshot_id": "MCxjMmQ3YWFjNzRlNDU1Zjc1YzcwOTg3ZTdiNjM1YmEwMGQzYzlkMTAy",
   "tracks": [
     {
       "added_at": "2023-07-28 04:38:09",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/0ubqLWyiFgB4n2TfQ45rhs"
+        "name": "Beleza Rara",
+        "url": "https://open.spotify.com/album/73QNNUQgxuX6fH9WNI4wCb"
       },
       "artists": [
         {
-          "name": "Fino Coletivo",
-          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
         }
       ],
-      "duration_ms": 238253,
-      "name": "Minha Menina Bonita",
-      "url": "https://open.spotify.com/track/0BjeHGTju5g3kIa8ed9vrs"
+      "duration_ms": 205411,
+      "name": "Beleza Rara",
+      "url": "https://open.spotify.com/track/5QELf6GWQ6hMURJhpYUNth"
     },
     {
       "added_at": "2023-07-28 04:38:09",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
-        "name": "Beleza Rara",
-        "url": "https://open.spotify.com/album/73QNNUQgxuX6fH9WNI4wCb"
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/0ubqLWyiFgB4n2TfQ45rhs"
       },
       "artists": [
         {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+          "name": "Fino Coletivo",
+          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
         }
       ],
-      "duration_ms": 205411,
-      "name": "Beleza Rara",
-      "url": "https://open.spotify.com/track/5QELf6GWQ6hMURJhpYUNth"
+      "duration_ms": 238253,
+      "name": "Minha Menina Bonita",
+      "url": "https://open.spotify.com/track/0BjeHGTju5g3kIa8ed9vrs"
     },
     {
       "added_at": "2023-07-28 04:38:09",
@@ -715,6 +715,26 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
+        "name": "15b",
+        "url": "https://open.spotify.com/album/0ZhVogkbSisiDQ5DMfNsRc"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "15b",
+      "url": "https://open.spotify.com/track/2w6VBGVuYOJe8oo4YXBEf4"
+    },
+    {
+      "added_at": "2023-07-28 04:38:09",
+      "album": {
         "name": "Mundo Novo",
         "url": "https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N"
       },
@@ -727,22 +747,6 @@
       "duration_ms": 252373,
       "name": "Sem Medo",
       "url": "https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r"
-    },
-    {
-      "added_at": "2023-07-28 04:38:09",
-      "album": {
-        "name": "Rua Tr\u00eas",
-        "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 154647,
-      "name": "Rua Tr\u00eas",
-      "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
     },
     {
       "added_at": "2023-07-28 04:38:09",
@@ -783,6 +787,22 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
+        "name": "Rua Tr\u00eas",
+        "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 154647,
+      "name": "Rua Tr\u00eas",
+      "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
+    },
+    {
+      "added_at": "2023-07-28 04:38:09",
+      "album": {
         "name": "N\u00f3s Dois Aqui",
         "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 241572,
       "name": "N\u00f3s Dois Aqui",
       "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
-    },
-    {
-      "added_at": "2023-07-28 04:38:09",
-      "album": {
-        "name": "15b",
-        "url": "https://open.spotify.com/album/0ZhVogkbSisiDQ5DMfNsRc"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "15b",
-      "url": "https://open.spotify.com/track/2w6VBGVuYOJe8oo4YXBEf4"
     },
     {
       "added_at": "2023-07-28 04:38:09",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
+        "name": "Sorriso De Agog\u00f4",
+        "url": "https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 196146,
+      "name": "Sorriso De Agog\u00f4",
+      "url": "https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO"
+    },
+    {
+      "added_at": "2023-07-28 04:38:09",
+      "album": {
         "name": "Lua Nova",
         "url": "https://open.spotify.com/album/14AZf0JZKJgmls9y59eA2c"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 161250,
       "name": "Lua Nova",
       "url": "https://open.spotify.com/track/5uZDrsNXW8qUuP9pli1CO3"
-    },
-    {
-      "added_at": "2023-07-28 04:38:09",
-      "album": {
-        "name": "Sorriso De Agog\u00f4",
-        "url": "https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 196146,
-      "name": "Sorriso De Agog\u00f4",
-      "url": "https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO"
     },
     {
       "added_at": "2023-07-28 04:38:09",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
-        "name": "Lua Vai, Lua Vem",
-        "url": "https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX"
-      },
-      "artists": [
-        {
-          "name": "Tha\u00efs Morell",
-          "url": "https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB"
-        }
-      ],
-      "duration_ms": 216721,
-      "name": "Lua Vai, Lua Vem",
-      "url": "https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS"
-    },
-    {
-      "added_at": "2023-07-28 04:38:09",
-      "album": {
         "name": "Te Amar \u00c9 F\u00e1cil",
         "url": "https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 185865,
       "name": "Carnaval a Dois",
       "url": "https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe"
+    },
+    {
+      "added_at": "2023-07-28 04:38:09",
+      "album": {
+        "name": "Lua Vai, Lua Vem",
+        "url": "https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX"
+      },
+      "artists": [
+        {
+          "name": "Tha\u00efs Morell",
+          "url": "https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB"
+        }
+      ],
+      "duration_ms": 216721,
+      "name": "Lua Vai, Lua Vem",
+      "url": "https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS"
     },
     {
       "added_at": "2023-07-28 04:38:09",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
-        "name": "borboletas",
-        "url": "https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi"
-      },
-      "artists": [
-        {
-          "name": "VELINO",
-          "url": "https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3"
-        }
-      ],
-      "duration_ms": 175038,
-      "name": "borboletas",
-      "url": "https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf"
-    },
-    {
-      "added_at": "2023-07-28 04:38:09",
-      "album": {
         "name": "L\u00edrios S\u00e3o Deusas",
         "url": "https://open.spotify.com/album/4c8ud8o7JRoiKEgEHRctss"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 188160,
       "name": "Moradia",
       "url": "https://open.spotify.com/track/3q7Vt3TLkekBj4YhzIbjcD"
+    },
+    {
+      "added_at": "2023-07-28 04:38:09",
+      "album": {
+        "name": "borboletas",
+        "url": "https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi"
+      },
+      "artists": [
+        {
+          "name": "VELINO",
+          "url": "https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3"
+        }
+      ],
+      "duration_ms": 175038,
+      "name": "borboletas",
+      "url": "https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf"
     },
     {
       "added_at": "2023-07-28 04:38:09",

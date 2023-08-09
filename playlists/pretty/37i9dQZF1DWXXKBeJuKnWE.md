@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy rockers\. Cover: WARGASM \(UK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,480 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,492 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 79 | [mOmS bAsEmeNt](https://open.spotify.com/track/1UMSXPU4noFMHwvqxXJO8O) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [mOmS bAsEmeNt](https://open.spotify.com/album/7b6lTy2GbIbXLpouHj9aGk) | 2:41 |
 | 80 | [Gila Monster](https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Gila Monster](https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN) | 4:35 |
 
-Snapshot ID: `MCwzNjhjYTQ0MTUzOTUyZDhmYWQ0NTIxZTU4NDgzMjQ5YWRhMTRjYzFh`
+Snapshot ID: `MCw1MTIyOGI2NTEyMTM4NjczMDY3NDk0NmM2ZjhlNjBiNzg4YWE3ZTRk`

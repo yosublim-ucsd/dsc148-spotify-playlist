@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-679 songs - 1 day 16 hr 57 min
+680 songs - 1 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,8 @@
 | [Lucky](https://open.spotify.com/track/7MQ5qQZkeVI4eBOYEXm75v) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc) | [Where You Wanna Go](https://open.spotify.com/album/2ZTIEsWdfacwU4xcEpq8vB) | 3:03 | 2023-01-21 | 2023-02-01 |
 | [lutang](https://open.spotify.com/track/33a5I5tDvZoI3iIucwrho5) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lutang](https://open.spotify.com/album/1ux9VroIw8jgLBtezrI5mb) | 4:32 | 2021-09-18 | 2021-10-03 |
 | [lutang](https://open.spotify.com/track/6jB7cmxRuvf5QUxYl73q0o) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lutang](https://open.spotify.com/album/18ylPFUz9HeneeXkbcvoYv) | 4:32 | 2021-10-03 | 2021-12-11 |
-| [LWKY](https://open.spotify.com/track/0k4oIMUqetHzgMTLw7vxJe) | [Teys](https://open.spotify.com/artist/3X0zRsFy2Mbq10BTmhLjun), [SwKeith](https://open.spotify.com/artist/0s8uFxWdTUo0PbN39e20kS), [Jthekidd](https://open.spotify.com/artist/1lMjH9ZFEMm5ypVd1NJD8b), [YP](https://open.spotify.com/artist/317sYdaoNPU4HAZMiUArvF) | [LWKY](https://open.spotify.com/album/2WxToasDkI0DOskvErULto) | 3:14 | 2023-07-29 |  |
+| [LWKY](https://open.spotify.com/track/0k4oIMUqetHzgMTLw7vxJe) | [Teys](https://open.spotify.com/artist/3X0zRsFy2Mbq10BTmhLjun), [SwKeith](https://open.spotify.com/artist/0s8uFxWdTUo0PbN39e20kS), [Jthekidd](https://open.spotify.com/artist/1lMjH9ZFEMm5ypVd1NJD8b), [YP](https://open.spotify.com/artist/317sYdaoNPU4HAZMiUArvF) | [LWKY](https://open.spotify.com/album/2WxToasDkI0DOskvErULto) | 3:14 | 2023-07-29 | 2023-08-09 |
+| [LWKY](https://open.spotify.com/track/1v8KGf0DdZKIuS0GexqPZC) | [Teys](https://open.spotify.com/artist/3X0zRsFy2Mbq10BTmhLjun), [SwKeith](https://open.spotify.com/artist/0s8uFxWdTUo0PbN39e20kS), [Jthekidd](https://open.spotify.com/artist/1lMjH9ZFEMm5ypVd1NJD8b), [YP](https://open.spotify.com/artist/317sYdaoNPU4HAZMiUArvF) | [LWKY](https://open.spotify.com/album/6DzQl3sVnvW7QlNwmQDlWE) | 3:14 | 2023-08-08 |  |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-29 | 2023-03-03 |
 | [Magpahinga](https://open.spotify.com/track/4LBCCdHfmHm9NwerX6hvrz) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Magpahinga](https://open.spotify.com/album/2tHtWKI4qJNpDReAigDKzn) | 3:58 | 2021-05-16 | 2021-05-17 |
 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 | 2022-06-13 |  |

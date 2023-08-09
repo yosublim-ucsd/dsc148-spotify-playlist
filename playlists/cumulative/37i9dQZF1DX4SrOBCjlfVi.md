@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Doja Cat, Cordae and more\. Cover: Kalan FrFr & Tyga
 
-3,324 songs - 6 day 11 hr 29 min
+3,325 songs - 6 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2209,7 +2209,8 @@
 | [Pickin’ Sides \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/0uX7dGC07Dd8mpvnCcWzH0) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Pickin’ Sides \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/3QMuWl11zBhxwLwLM7KpRM) | 2:13 | 2022-04-08 | 2022-04-16 |
 | [Pill Head](https://open.spotify.com/track/3labb5WkE1DIKxE9zhgnWW) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Pill Head](https://open.spotify.com/album/1IufFU4eXiShwgfnny0wJg) | 2:14 | 2023-05-05 | 2023-05-13 |
 | [PIMP C \(feat\. EST Gee\)](https://open.spotify.com/track/6QLiAGfN2h7ahupaqyDwIW) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [PIMP C \(feat\. EST Gee\)](https://open.spotify.com/album/1VW1ufrIvvzYhsYd3QHP17) | 3:26 | 2022-09-02 | 2022-09-10 |
-| [Pimp Problems](https://open.spotify.com/track/2sQNGOxvrF4WrS8KZykAci) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Who Is Fatt](https://open.spotify.com/album/3qsgJ7DqZ9dqgblDMea5KR) | 1:50 | 2023-08-04 |  |
+| [Pimp Problems](https://open.spotify.com/track/2sQNGOxvrF4WrS8KZykAci) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Who Is Fatt](https://open.spotify.com/album/3qsgJ7DqZ9dqgblDMea5KR) | 1:50 | 2023-08-04 | 2023-08-09 |
+| [Pimp Problems](https://open.spotify.com/track/46yfBnOHB1Nhxn4rtVAJ25) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Who Is Fatt](https://open.spotify.com/album/0Yp9JLAZRcOgHNQj0s0c5X) | 1:50 | 2023-08-04 |  |
 | [Pimpin Ain't Easy](https://open.spotify.com/track/6Dsbh3NyKTMife0mBBP0J1) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Pimpin Ain't Easy](https://open.spotify.com/album/49ynCCyV3eiaWYimHIhe2A) | 2:35 | 2023-02-10 | 2023-02-18 |
 | [Pinot Noir](https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [F65](https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i) | 2:55 | 2023-05-05 | 2023-05-13 |
 | [Pip N' Walk](https://open.spotify.com/track/5trKhl8w5Rcg8wbenmmlWj) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal) | [Faster Car Music](https://open.spotify.com/album/0olnICw6Z8zojoAttZFpRD) | 2:43 | 2022-08-19 | 2022-08-27 |

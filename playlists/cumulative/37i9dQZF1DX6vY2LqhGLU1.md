@@ -4,7 +4,7 @@
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-169 songs - 11 hr 45 min
+170 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Let Love Be The Gift](https://open.spotify.com/track/2odizPRWsNy8y7ClC0W6er) | [Trinity \(NL\)](https://open.spotify.com/artist/3SDefVlv5kSzaP5QYZTSMx) | [Let Love Be The Gift](https://open.spotify.com/album/2UDnw4ketZUlZkG5tYIiKD) | 3:19 | 2022-11-26 |  |
 | [Let the Faithful Come](https://open.spotify.com/track/75KFDFIhuxjM6C8SQcD2Za) | [The Lore Family](https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94) | [Christmas](https://open.spotify.com/album/3gfWzfSpxsmj2kNA0vrY7I) | 4:31 | 2022-11-26 |  |
 | [Let Us Adore Him](https://open.spotify.com/track/0sSqT1x72YCtZbKDMmcyAU) | [Life Church Music](https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2) | [Let Us Adore Him](https://open.spotify.com/album/6f0fTAKkqIr8cvikTUABV8) | 4:00 | 2022-11-26 |  |
-| [Lift High \(Emmanuel\)](https://open.spotify.com/track/6Pzv40MLNnwE0N4xZpYJ2X) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Lift High \(Emmanuel\)](https://open.spotify.com/album/5DqiYPcDeTilZ0lcUWVHhi) | 5:11 | 2022-11-26 |  |
+| [Lift High \(Emmanuel\)](https://open.spotify.com/track/5qWuI5LdPr2QQ7EHychYoj) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Lift High \(Emmanuel\)](https://open.spotify.com/album/0TpgvcMDJhf3e7XPAnyeLT) | 5:11 | 2022-12-11 |  |
+| [Lift High \(Emmanuel\)](https://open.spotify.com/track/6Pzv40MLNnwE0N4xZpYJ2X) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Lift High \(Emmanuel\)](https://open.spotify.com/album/5DqiYPcDeTilZ0lcUWVHhi) | 5:11 | 2022-11-26 | 2023-08-09 |
 | [Light Has Come](https://open.spotify.com/track/0YfMMHnFJYhTD1cUzZ1pnF) | [New City Collective](https://open.spotify.com/artist/77LpqlVxuQD1IySatLFg1s), [Dave Aubrey](https://open.spotify.com/artist/0uwvIQev84qq1NOWeqntBg) | [Light Has Come](https://open.spotify.com/album/7hrETvT4Nz6xVV03YmTEUj) | 5:44 | 2022-11-26 |  |
 | [Light Has Come](https://open.spotify.com/track/2rOXIm8nVKLIDhy32ASuoh) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Light Has Come](https://open.spotify.com/album/6MrfIO5CSBAnTXkUJ7jWGF) | 4:22 | 2022-11-26 |  |
 | [Light of the World](https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Light of the World](https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB) | 4:19 | 2022-11-26 |  |

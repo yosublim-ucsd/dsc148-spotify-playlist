@@ -16648,7 +16648,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 104000,
       "name": "Casual Games",
       "url": "https://open.spotify.com/track/1hF99tJ0UBNCX6lu54sO8R"
@@ -38006,6 +38006,28 @@
       "duration_ms": 128000,
       "name": "Garden Lights",
       "url": "https://open.spotify.com/track/5zSa6ekJG1FQSHPKS0v6c3"
+    },
+    {
+      "album": {
+        "name": "Garden View",
+        "url": "https://open.spotify.com/album/6mQxTzJq0jUP48im6oIU36"
+      },
+      "artists": [
+        {
+          "name": "Birds Of The West",
+          "url": "https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq"
+        },
+        {
+          "name": "sloh rou",
+          "url": "https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117142,
+      "name": "Garden View",
+      "url": "https://open.spotify.com/track/1UxjKdt31fpshfQRWElVBn"
     },
     {
       "album": {
@@ -71270,7 +71292,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 117000,
       "name": "October",
       "url": "https://open.spotify.com/track/7CqyMOgqLtNYx8cSS9fDy2"
@@ -97356,7 +97378,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 95722,
       "name": "Take The Lift",
       "url": "https://open.spotify.com/track/3RWrRN4QpJJ2IeQb0pimcO"

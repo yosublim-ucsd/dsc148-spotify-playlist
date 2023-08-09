@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Nebulae",
+        "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
+      },
+      "artists": [
+        {
+          "name": "Bayesian",
+          "url": "https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Nebulae",
+      "url": "https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc"
+    },
+    {
+      "album": {
         "name": "Neend",
         "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
       },
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 242400,
       "name": "Purity 432hz",
       "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"

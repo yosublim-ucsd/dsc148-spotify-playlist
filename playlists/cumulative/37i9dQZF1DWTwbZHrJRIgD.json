@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 298986,
       "name": "Jhoom - R&B Mix",
       "url": "https://open.spotify.com/track/6zAvNLJkdyRApUHnlJjKfO"
@@ -1912,6 +1912,28 @@
       "duration_ms": 266279,
       "name": "Mileya Mileya",
       "url": "https://open.spotify.com/track/2IarWd16hKAvXU8vnEunVb"
+    },
+    {
+      "album": {
+        "name": "Mujhse Mil",
+        "url": "https://open.spotify.com/album/3zY5E3HEugNTdKUUCnWLPS"
+      },
+      "artists": [
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209040,
+      "name": "Mujhse Mil",
+      "url": "https://open.spotify.com/track/4bax6ViJCiba9nkgw16Prp"
     },
     {
       "album": {

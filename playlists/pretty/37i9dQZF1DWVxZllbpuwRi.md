@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 
 > Aqui o verão dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,963 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,932 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 90 | [Silent Sun](https://open.spotify.com/track/6goDGZwcLI6jGJ6qr01Wsq) | [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb), [Sillaz](https://open.spotify.com/artist/7EroDVPELCYcB8zyB2XN9F), [RodMac](https://open.spotify.com/artist/7dbe4S6XKgCPQrZ5YtWOyP) | [Silent Sun](https://open.spotify.com/album/4vJs9flHsFfTPNxzoEwuG3) | 2:51 |
 | 91 | [Sube La Music](https://open.spotify.com/track/2CIJusVSWZKH4XIXxipD0I) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Los Chulitos](https://open.spotify.com/album/61OuBz5Vh5z1n8z6Yu8rlN) | 2:57 |
 | 92 | [Savages](https://open.spotify.com/track/5d3NlNeGMJRu8EIT0X559G) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Savages](https://open.spotify.com/album/4fOyvPBU7A3PYkc0gAodTL) | 2:55 |
-| 93 | [MAMACITA \(Rafinha RSQ remix\) \(feat\. Rafinha RSQ\)](https://open.spotify.com/track/7kDbReexSaT5kuJrPeKSpE) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Rafinha RSQ](https://open.spotify.com/artist/4Fdcah41ppKa37zPM0sA1h) | [MAMACITA \(remixes\)](https://open.spotify.com/album/2lp5TTSc5rQcb8RAtI0Owq) | 2:18 |
-| 94 | [VERÃO DOS MEUS SONHOS](https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [REALVERSO: Lado A](https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ) | 3:09 |
+| 93 | [VERÃO DOS MEUS SONHOS](https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [REALVERSO: Lado A](https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ) | 3:09 |
+| 94 | [MAMACITA \(Rafinha RSQ remix\) \(feat\. Rafinha RSQ\)](https://open.spotify.com/track/7kDbReexSaT5kuJrPeKSpE) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Rafinha RSQ](https://open.spotify.com/artist/4Fdcah41ppKa37zPM0sA1h) | [MAMACITA \(remixes\)](https://open.spotify.com/album/2lp5TTSc5rQcb8RAtI0Owq) | 2:18 |
 | 95 | [Make It Hot](https://open.spotify.com/track/3MXUsff3RxRds9KCVttibq) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Make It Hot](https://open.spotify.com/album/7l9LzzyPayF2hvDuznaofC) | 2:48 |
-| 96 | [Who We Are](https://open.spotify.com/track/1u0MAhOBrWIkAKOf8ssiaU) | [FTampa](https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO) | [Who We Are](https://open.spotify.com/album/1dhJH0kVx35B16EBuaDPSt) | 3:10 |
-| 97 | [Blue Sky](https://open.spotify.com/track/4uK2F0ZB7ac1C296tWxwu8) | [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Caelu](https://open.spotify.com/artist/6C5HWD1ssI0SC0LR2yhJ1V) | [Blue Sky](https://open.spotify.com/album/4LRZwEWDj6xdgFk8OBydmt) | 3:21 |
+| 96 | [Blue Sky](https://open.spotify.com/track/4uK2F0ZB7ac1C296tWxwu8) | [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Caelu](https://open.spotify.com/artist/6C5HWD1ssI0SC0LR2yhJ1V) | [Blue Sky](https://open.spotify.com/album/4LRZwEWDj6xdgFk8OBydmt) | 3:21 |
+| 97 | [Who We Are](https://open.spotify.com/track/1u0MAhOBrWIkAKOf8ssiaU) | [FTampa](https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO) | [Who We Are](https://open.spotify.com/album/1dhJH0kVx35B16EBuaDPSt) | 3:10 |
 | 98 | [La fiesta](https://open.spotify.com/track/0v1EnT2sDsuLnvwo7Z3N3c) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [La fiesta](https://open.spotify.com/album/2oeYX230n70YtQDkmbeRPp) | 3:32 |
 | 99 | [FORASTEIRO](https://open.spotify.com/track/0Q42wrYlyvS9pBfBRuE5Dp) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 2:46 |
-| 100 | [Light Years Away](https://open.spotify.com/track/4Kq4Mn0NElRTqcrLxpKzH3) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Light Years Away](https://open.spotify.com/album/0fdGfbskip7l2MA5jWB3LF) | 3:43 |
+| 100 | [POTINHO](https://open.spotify.com/track/7wYZrv7HWbscIMnJZ6hj03) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp), [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [POTINHO](https://open.spotify.com/album/2vhu177PuIf5IZQiuESQG7) | 2:57 |
 
-Snapshot ID: `MCxlN2RhMTY4NDhhNzUzNTNmNjM2MzczYTg2MjhlMTVlYjE5NWE1MTM4`
+Snapshot ID: `MCwyMzQ3ODdlODFjN2YwZjlhN2FkZDc1MWJjYTlhYzU3Yjc1ZWUyMWI3`

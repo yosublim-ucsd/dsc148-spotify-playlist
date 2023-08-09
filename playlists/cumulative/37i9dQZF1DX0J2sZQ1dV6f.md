@@ -4,7 +4,7 @@
 
 > Perreo after hours.
 
-328 songs - 17 hr 25 min
+329 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Cuanto Quieres](https://open.spotify.com/track/1JcjFen7sEpyDBUsxVHRio) | [Genio](https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Cuanto Quieres](https://open.spotify.com/album/6uywOpoOam8zLawTZtWQHJ) | 3:30 | 2023-05-25 |  |
 | [Cuerpecito](https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Cuerpecito](https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad) | 3:15 | 2023-05-25 |  |
 | [Culo](https://open.spotify.com/track/7A7hQYnll4bWw4uw8mR4rl) | [Ben Carrillo](https://open.spotify.com/artist/2LaHOt5YZlFAhZ22KDI5fS) | [Nirvana](https://open.spotify.com/album/5YGkxBye5c4FTIuDnWAkcH) | 2:38 | 2022-03-21 | 2022-04-20 |
-| [Cupido](https://open.spotify.com/track/44B8PLdX1k6vzDtfUnwj5U) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Cupido](https://open.spotify.com/album/6myrgqSgzhFhIhZxO87XsY) | 3:10 | 2023-05-25 |  |
+| [Cupido](https://open.spotify.com/track/44B8PLdX1k6vzDtfUnwj5U) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Cupido](https://open.spotify.com/album/6myrgqSgzhFhIhZxO87XsY) | 3:10 | 2023-05-25 | 2023-08-09 |
 | [Curazao](https://open.spotify.com/track/2gMau9LsRZtWOrq5cBGywB) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Curazao](https://open.spotify.com/album/6uzezSBR2loiWEjeRFu8VM) | 3:59 | 2022-03-21 | 2022-07-09 |
 | [Dale Duro](https://open.spotify.com/track/2i2LSBD8eAINyo9G9nZEfa) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Diaz Antes](https://open.spotify.com/album/5gk9ozZKJuosICdYgwa5JW) | 3:05 | 2022-03-21 | 2022-04-20 |
 | [Dale Mecha](https://open.spotify.com/track/3WndNMJo029mMO64l9hGFm) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Dale Mecha](https://open.spotify.com/album/6EsqgjhvRGp1aIivu7ck8F) | 2:30 | 2023-05-25 |  |
@@ -302,6 +302,7 @@
 | [Todavía](https://open.spotify.com/track/5kvMHWJfoIgKTpP5HzpG25) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:23 | 2023-06-30 |  |
 | [Tokyo](https://open.spotify.com/track/5au61mbP6G6il9y9cT3hzV) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Tokyo](https://open.spotify.com/album/24JyTtGGX1MJqoCsKbHesg) | 2:37 | 2022-03-21 | 2022-07-09 |
 | [Toma](https://open.spotify.com/track/48iWXYdWMFNenABULLtopW) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Toma](https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF) | 2:42 | 2023-05-25 | 2023-08-05 |
+| [Toma \(feat\. Brray, Lennox, Marconi Impara & Eix\) \- Remix](https://open.spotify.com/track/1FjHLdCwr0Kr5rEhHBYExq) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Lennox](https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo), [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5) | [Toma \(feat\. Brray, Lennox, Marconi Impara & Eix\) \[Remix\]](https://open.spotify.com/album/1eXK3aDUkCwyWXNGAUZmWg) | 4:01 | 2023-08-04 |  |
 | [TORO](https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Toro](https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2) | 4:14 | 2022-12-07 | 2023-05-26 |
 | [Toto](https://open.spotify.com/track/3IWcUkdKHKCd8yC6WImYnl) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Toto](https://open.spotify.com/album/7uCR5vxsTuVHaqd8nMWoDV) | 2:57 | 2023-05-25 |  |
 | [Tra Tra](https://open.spotify.com/track/46YrvybgPpjBL13f0uc8Oc) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Tra Tra](https://open.spotify.com/album/5KJG1LyqoEmWyidFAm5JYt) | 2:55 | 2022-09-16 | 2022-10-15 |

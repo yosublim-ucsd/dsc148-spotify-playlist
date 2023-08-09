@@ -3148,7 +3148,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 191663,
       "name": "It's all about you",
       "url": "https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr"
@@ -4407,6 +4407,24 @@
     },
     {
       "album": {
+        "name": "ADVENTURE",
+        "url": "https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR"
+      },
+      "artists": [
+        {
+          "name": "Momoko Kikuchi",
+          "url": "https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "Mystical Composer",
+      "url": "https://open.spotify.com/track/0eikLFcQlkRvxvNIQmf5ec"
+    },
+    {
+      "album": {
         "name": "Natsume",
         "url": "https://open.spotify.com/album/1zDuHfKUHI0SRimAdD8whm"
       },
@@ -4702,6 +4720,24 @@
       "duration_ms": 258600,
       "name": "Ocha",
       "url": "https://open.spotify.com/track/34AxhxmQ3L3ZL1s6M05pcX"
+    },
+    {
+      "album": {
+        "name": "OKACHIMACHI FRIDAY NIGHT",
+        "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198088,
+      "name": "OKACHIMACHI FRIDAY NIGHT",
+      "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
     },
     {
       "album": {
@@ -9166,7 +9202,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 256183,
       "name": "\u30b5\u30de\u30fc\u30fb\u30a4\u30ba\u30fb\u30aa\u30fc\u30d0\u30fc",
       "url": "https://open.spotify.com/track/5qnqGyCTpod2Gly4mI6SYd"
@@ -10704,7 +10740,7 @@
       },
       "artists": [
         {
-          "name": "\u9df2\u5c3e\u73b2\u83dc",
+          "name": "\u9df2\u5c3e\u4f36\u83dc",
           "url": "https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf"
         },
         {
@@ -11174,6 +11210,24 @@
       "duration_ms": 242840,
       "name": "\u6d41\u6d6a",
       "url": "https://open.spotify.com/track/2M78Sf5BnRWZFQCiLbbTYA"
+    },
+    {
+      "album": {
+        "name": "\u6e1a\u3068\u30b5\u30a4\u30c0\u30fc",
+        "url": "https://open.spotify.com/album/2jh2LBslIWnT1nOOrv34Qc"
+      },
+      "artists": [
+        {
+          "name": "POP ART TOWN",
+          "url": "https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296399,
+      "name": "\u6e1a\u3068\u30b5\u30a4\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/0fB9qqzExwkYpfK5j1WAPr"
     },
     {
       "album": {
@@ -11946,7 +12000,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 215400,
       "name": "\u991e",
       "url": "https://open.spotify.com/track/4151sPJDAMGChnHnxY1BJ1"

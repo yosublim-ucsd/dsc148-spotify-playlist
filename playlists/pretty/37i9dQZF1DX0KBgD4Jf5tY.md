@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:0d8W1CF5vivAV6Fps5ELPZ">PRINCIPE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,164 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,163 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 54 | [Catania](https://open.spotify.com/track/6qKFECzVLpAtAkKEr4rR9V) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Catania](https://open.spotify.com/album/2A6056JqZgERDnkuAfLCLh) | 3:11 |
 | 55 | [Mata Hari](https://open.spotify.com/track/3UBiQTyckIvc3l4VcwQsgf) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Mata Hari](https://open.spotify.com/album/7ClqenGVqCBqqT25x9vAjm) | 3:47 |
 
-Snapshot ID: `MCw2ZGNiZDRhZGY0MDllM2UyNTc3ZDljMjUzNTU2MWM5OTEwYmQzYjk5`
+Snapshot ID: `MCxjNGViNzk3NjA3N2FlMWEwNWYyOTNhNWYyNTUwYmE4YmVjNTUxMDJl`

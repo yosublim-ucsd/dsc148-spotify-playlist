@@ -3989,6 +3989,24 @@
     },
     {
       "album": {
+        "name": "Waves Of You",
+        "url": "https://open.spotify.com/album/1u7azlOD4pSgRjDVUlul4c"
+      },
+      "artists": [
+        {
+          "name": "KISU",
+          "url": "https://open.spotify.com/artist/6lW4NDiKyxhvBtuR31qwme"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203986,
+      "name": "Waves of you",
+      "url": "https://open.spotify.com/track/2LsWyHF9MiKejJhGHh5DbC"
+    },
+    {
+      "album": {
         "name": "Waves of you",
         "url": "https://open.spotify.com/album/6pnSHqEO6BRsrICDxdjjGC"
       },
@@ -4000,7 +4018,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 203986,
       "name": "Waves of you",
       "url": "https://open.spotify.com/track/41SoZMrJMkiBHwC6ncwvoH"

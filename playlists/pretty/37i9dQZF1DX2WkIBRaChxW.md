@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in R&B, right now – featuring LOONY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,705 likes - 74 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,760 likes - 74 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 73 | [JACKIE BROWN](https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:49 |
 | 74 | [Creepin' \(feat\. 21 Savage\) \- Remix](https://open.spotify.com/track/5Ee4IyhPaOVRMc15fUOeG9) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Creepin' \(Remix\)](https://open.spotify.com/album/3P2UkOkqWp8ucd1EOnVAH7) | 3:52 |
 
-Snapshot ID: `MCwyMWU2Zjk2NmQ2NTk5YmY3YjdmMTExYzg5NzY0ZDQwZWJhZWNlMWFi`
+Snapshot ID: `MCwxNzFhZmU5MGMyOTBkMzk3MWZiMDVhY2U2Y2I3MDVkNDMwZWJkOTZh`

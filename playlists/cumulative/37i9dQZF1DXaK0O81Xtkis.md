@@ -4,7 +4,7 @@
 
 > make it pop! cover: Knox
 
-716 songs - 1 day 11 hr 44 min
+721 songs - 1 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Good Not Great](https://open.spotify.com/track/5K6VtWfjGkk1ahcVmPKbL9) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BOY](https://open.spotify.com/album/75Cps520layAjj3UTUMC9v) | 2:12 | 2023-04-21 |  |
 | [Good Time](https://open.spotify.com/track/5J9H8Pzz3uCjwfgMBvvuM2) | [Leland Blue](https://open.spotify.com/artist/4TgfkZEpcjkYgRBKeqy1Mh) | [Good Time](https://open.spotify.com/album/5sjrMAgTMgB9oRQD6YLNOm) | 2:56 | 2022-02-11 | 2022-02-26 |
 | [Gotta Do Something](https://open.spotify.com/track/7gYZ17ahhZZZ0KraoQZonQ) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Future Shine](https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX) | 2:27 | 2022-05-06 | 2022-07-30 |
+| [Gracie](https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Gracie](https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni) | 2:45 | 2023-08-08 |  |
 | [Greenlight](https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Greenlight](https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy) | 2:53 | 2023-05-26 |  |
 | [Grey Lines](https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj) | 2:48 | 2023-06-02 | 2023-07-29 |
 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 | 2021-12-10 | 2022-02-26 |
@@ -467,6 +468,7 @@
 | [not this time](https://open.spotify.com/track/5zaDIJxDKZouDM7jP6hwIb) | [Ben Ellis](https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8) | [not this time](https://open.spotify.com/album/7j3N8YpNnd3wheFpNoJVmy) | 2:38 | 2022-06-24 | 2022-08-20 |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2022-02-04 | 2022-04-16 |
 | [NYC](https://open.spotify.com/track/5F6gniXisSbOKtfgIJIKoD) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [How To Lose A Girl in 7 Songs](https://open.spotify.com/album/3fxeIzMwjsQYIT91v6uHoR) | 3:24 | 2023-02-17 | 2023-04-22 |
+| [Off By Heart](https://open.spotify.com/track/2SYPolHtiL3IdKPkTDKNIY) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Off By Heart](https://open.spotify.com/album/5JpDR4H0reeTZTS453Xbc1) | 3:03 | 2023-08-08 |  |
 | [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 | 2022-10-14 | 2022-12-03 |
 | [OH NO!](https://open.spotify.com/track/5NDjk4GOodIGmrQxSjExEr) | [Jake Clark](https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd) | [OH NO!](https://open.spotify.com/album/0oKwWq3FGBprGxwSKxwOvV) | 2:11 | 2022-09-30 | 2022-12-03 |
 | [Oh shit…are we in love?](https://open.spotify.com/track/4Ok8EFwlT2SkmCfxQpidjV) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Oh shit…are we in love?](https://open.spotify.com/album/0m0PoRgev9z31KQ3OuFYO5) | 2:35 | 2021-10-29 | 2022-01-08 |
@@ -491,6 +493,7 @@
 | [Palm Springs for the Weekend](https://open.spotify.com/track/3fgXmDeOKrwEqnocqvQMdZ) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Palm Springs for the Weekend](https://open.spotify.com/album/136BiEvn24KBjdb2mEPRP0) | 2:00 | 2022-04-22 | 2022-05-20 |
 | [Paradise Calling](https://open.spotify.com/track/6FDPJaI8UySXCTSWKMsXZj) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Paradise Calling](https://open.spotify.com/album/4eO6jrqvUJMfIGOQV6HmmB) | 3:06 | 2023-07-14 |  |
 | [Paralyzed](https://open.spotify.com/track/6KOQLj5dcYuFSN6srNs96u) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Paralyzed](https://open.spotify.com/album/4b5VmGfGFXxivUx1vshO9o) | 3:04 | 2022-11-25 | 2023-03-25 |
+| [Paris](https://open.spotify.com/track/4057hA5K1RLBIVjE4sdQUi) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Paris](https://open.spotify.com/album/0t1vCr6b7CmKEjGOZNOR5p) | 2:47 | 2023-08-08 |  |
 | [Party With You](https://open.spotify.com/track/1s7Mm2bEKLmcjAS4AzGf8E) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [Tracks to the Future](https://open.spotify.com/album/3peeS7BEzRQMlnye583xWn) | 2:11 | 2021-12-10 | 2022-02-26 |
 | [Past Life](https://open.spotify.com/track/3ONd0dyKjNU4Rm63byFPbT) | [19&YOU](https://open.spotify.com/artist/13yCAnmLQoRIQKXHa6lFai) | [Sentimental Playback](https://open.spotify.com/album/6FKK7ur4THucPZZgxlkHX5) | 2:54 | 2022-05-13 | 2022-08-13 |
 | [Past Life](https://open.spotify.com/track/7n7lAjhdmq60Y49MqhY7ej) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Past Life](https://open.spotify.com/album/468YxjlJ19TxL2zpAeQIhK) | 3:30 | 2022-05-13 | 2022-06-11 |
@@ -663,6 +666,7 @@
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-12-24 | 2022-03-05 |
 | [Track Shoes](https://open.spotify.com/track/7hMUIwPmSkuGMHli2ZV1qQ) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Track Shoes](https://open.spotify.com/album/5cEAJJI3lKivMvPwyn43k0) | 3:06 | 2021-10-29 | 2022-01-22 |
 | [Trackstar](https://open.spotify.com/track/4b2ZdHby2AzqbZqZpjLhKp) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Trackstar](https://open.spotify.com/album/436EBY5YaPt5lkdSwm6Ude) | 3:26 | 2023-05-26 |  |
+| [Trauma](https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Trauma](https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56) | 2:43 | 2023-08-08 |  |
 | [TREBUCHET](https://open.spotify.com/track/78iAaClMArrG8LkVfhywSZ) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [TREBUCHET](https://open.spotify.com/album/2gRD30JoXVJ3FZPUXxH9CP) | 2:35 | 2023-01-27 | 2023-03-25 |
 | [Trouble With This Bed](https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Trouble With This Bed](https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj) | 3:46 | 2022-11-11 | 2023-02-11 |
 | [Tuesday](https://open.spotify.com/track/7tNHLrbkBhU6xh0GL0gTtQ) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Till Next Time](https://open.spotify.com/album/4II5QvivVfEYgeuZf0kYfT) | 2:08 | 2023-06-23 |  |
@@ -716,6 +720,7 @@
 | [WTF](https://open.spotify.com/track/3QURQWfDKCipGVFTf5hd2k) | [Madhouse](https://open.spotify.com/artist/5bScfl9QpBaP9DOmlIqQUY) | [WTF](https://open.spotify.com/album/517WLHJFXu00Jxxy6KyU6p) | 1:45 | 2022-06-24 | 2022-08-13 |
 | [WTF](https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [WTF](https://open.spotify.com/album/5LDEHT3uGE4kS5BbbhiPTO) | 3:02 | 2022-03-18 | 2022-06-11 |
 | [wyd](https://open.spotify.com/track/2W47Qlm2vTrGXWXdf4lxka) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:19 | 2021-10-29 | 2022-03-18 |
+| [XXL](https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [XXL](https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf) | 3:26 | 2023-08-08 |  |
 | [y can’t we b friends?](https://open.spotify.com/track/0RU3WmtsA8oUpgbH3XxTpj) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [y can’t we b friends?](https://open.spotify.com/album/6HAp1zaGP4uL7IxXKAI5K8) | 2:35 | 2022-05-27 | 2022-07-09 |
 | [You Make Me Mad](https://open.spotify.com/track/5WyBmMS2qDyOz8O0OIQUY5) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/2Bn7ms5tZRXGvZOOT55OOf) | 3:06 | 2021-10-29 | 2022-01-08 |
 | [You Need Jesus](https://open.spotify.com/track/2JJjWLvlJhfYSfj4umyaTc) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do) | [You Need Jesus](https://open.spotify.com/album/2JhiffKjGgJ1DcjNPE0WHG) | 2:14 | 2023-06-30 |  |

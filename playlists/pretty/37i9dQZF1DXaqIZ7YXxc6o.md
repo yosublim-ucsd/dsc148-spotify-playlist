@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Nia Archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,878 likes - 112 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,885 likes - 112 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 55 | [Vibin \- Alex Martura Remix](https://open.spotify.com/track/2kPbfBAlvbxWTw3fkymqq9) | [Xela](https://open.spotify.com/artist/47I0yLO8ngQPM0XDcdX3OB), [Alex Martura](https://open.spotify.com/artist/37tjt3cGt6FQPLu6IsorqP) | [Vibin \(Alex Martura Remix\)](https://open.spotify.com/album/3sXlEkYTWVSr2QAdRvV6kL) | 3:07 |
 | 56 | [Good Catch](https://open.spotify.com/track/7jBNPcLfFjZce1ORVtqB5s) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Good Catch](https://open.spotify.com/album/0yzk4au9oIVf4p2m0ICOli) | 3:40 |
 | 57 | [LovesaDrug](https://open.spotify.com/track/3O5vd3sSb1QPTjqy9JNIn0) | [Chase Woods](https://open.spotify.com/artist/3U2CCYy6gtdm2Ni9GjgX5V) | [LovesaDrug](https://open.spotify.com/album/70Yv6nyyWXaTevbhYtQK30) | 2:41 |
-| 58 | [Blisters on My Feet](https://open.spotify.com/track/1lshJx941qq57U0OSWw6qH) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Club Rompas](https://open.spotify.com/album/7cJdhK0qniYWKodYxK6LPP) | 2:56 |
+| 58 | [Blisters on My Feet](https://open.spotify.com/track/3j8TbHVc4Kg4mWApoXnUL4) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Club Rompas](https://open.spotify.com/album/57c4YyyWoOYOWGFqKqHJgF) | 2:56 |
 | 59 | [Si Te Portas Bonito \- Edit](https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 1:57 |
 | 60 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 |
 | 61 | [GOOD 4 ME](https://open.spotify.com/track/4bw47acyYPbG0DOzszsE4u) | [Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [GOOD 4 ME](https://open.spotify.com/album/3jyK3yiOmTvqwPIDmBBLkK) | 2:03 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 111 | [Sweet Disposition \- Ben Renna Remix](https://open.spotify.com/track/7AhqyyZeflvu7VURW4EFI2) | [Fitch](https://open.spotify.com/artist/4R1KJqQAvnwb0ChZWqTege), [Emile Battour](https://open.spotify.com/artist/7LNI86kENOKWF35DjHr4rT), [Ben Renna](https://open.spotify.com/artist/5r6JYWpMM18hqLYIXtdM8p) | [Sweet Disposition \(Ben Renna Remix\)](https://open.spotify.com/album/52KZR73cXdUSLtW5cMeAml) | 4:05 |
 | 112 | [Cascabel \(feat\. Alé Kumá, G4bba\)](https://open.spotify.com/track/54XLaoN02yA172fUlhsXKW) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr), [Alé Kumá](https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0), [G4BBA](https://open.spotify.com/artist/1P4pmBbuQwsKKV39MfzGVd) | [Cascabel \(feat\. Alé Kumá, G4bba\)](https://open.spotify.com/album/5QA1TPQekOSmmz2W6nF76m) | 2:31 |
 
-Snapshot ID: `MCxkMGVlYmY3Mzc4NTU3NDM0YzgwMGNmOWZmZGQxMjIxNTFjNjFjMzk1`
+Snapshot ID: `MCxlZTk4ZDE5YTAwMDI0ZWQ3MmY5MGQ0YTUxZWU5ODk5ODNlYzlmMTYx`

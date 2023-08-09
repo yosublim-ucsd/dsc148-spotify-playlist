@@ -4,7 +4,7 @@
 
 > Dembow dominicano to el día\. Foto: Chimbala
 
-391 songs - 21 hr 23 min
+392 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [5 Mujeres](https://open.spotify.com/track/12IF1N3EbqgvRZweMJHAVO) | [Jose Reyes](https://open.spotify.com/artist/2OT1t2WkAruohDNIwOE8OF), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [5 Mujeres](https://open.spotify.com/album/2P0gPcMDGOOUdtGo2ECluI) | 3:29 | 2022-01-04 |  |
 | [A Caco Pelao](https://open.spotify.com/track/6OjgtPe2y5cPtXbSQoIgGW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Exitos Vol\. 1](https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU) | 3:25 | 2021-12-10 | 2022-07-26 |
 | [Abanico](https://open.spotify.com/track/71pehRVEU19NHe07v0ZM7C) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Exitos del Dembow](https://open.spotify.com/album/58UaKpvZpeuefnHUhIrap0) | 3:17 | 2021-12-10 | 2022-07-24 |
-| [Abanico](https://open.spotify.com/track/64ZUAfv0IKOhW6iNJfBK6x) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Abanico](https://open.spotify.com/album/34vioPBk5bZdFenFHD7R6n) | 3:17 | 2023-02-24 |  |
+| [Abanico](https://open.spotify.com/track/64ZUAfv0IKOhW6iNJfBK6x) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Abanico](https://open.spotify.com/album/34vioPBk5bZdFenFHD7R6n) | 3:17 | 2023-02-24 | 2023-08-09 |
 | [Abuso](https://open.spotify.com/track/4BG7Q2r5rJayqJhPur6KRs) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Exitos Vol\. 1](https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU) | 3:26 | 2021-12-10 | 2022-07-27 |
 | [Acelera](https://open.spotify.com/track/1G1Jk034FuLw7JsaymjIWU) | [Principe Baru](https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR) | [Acelera](https://open.spotify.com/album/7zrOgGlWwDcozHw6W9jQmo) | 3:26 | 2022-11-21 |  |
 | [Acelera](https://open.spotify.com/track/2yjLqfyOLbWo79YTDyuwil) | [Principe Baru](https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR) | [Acelera](https://open.spotify.com/album/328BeGimTlRxOcaif0YAhF) | 3:26 | 2021-12-10 | 2022-07-23 |
@@ -173,6 +173,7 @@
 | [La Chapa Que Vibran](https://open.spotify.com/track/6cFckWKvl4IrBmRZI995kG) | [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6) | [Trayectoria](https://open.spotify.com/album/1dovid8Cb5WCdaUCccteeh) | 3:35 | 2021-12-10 |  |
 | [La Cueva de los Indios \- Remix](https://open.spotify.com/track/4f35SGCtFl13L0PrEWCrXK) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Desacatao](https://open.spotify.com/album/68MjsIj25Rbk2DLSneBafM) | 3:18 | 2021-12-10 | 2022-07-28 |
 | [La Cueva de los Indios \- Remix](https://open.spotify.com/track/77uS85fmMaIjWSZlwFffB2) | [El Mega](https://open.spotify.com/artist/5CUH61JagyX1jRxaLHBpSs), [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Dembow Latino](https://open.spotify.com/album/13pn00h8Ozr8jWvu6QSAl6) | 3:13 | 2023-05-26 |  |
+| [La Gente Ta Loca \- Remix](https://open.spotify.com/track/6BDQXT3Obgyp1Asd25mdva) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Demagogo Mil Informando](https://open.spotify.com/album/7deYXSwcPnLhlX4wEUV56G) | 3:42 | 2023-05-26 |  |
 | [La Gente Ta' Loca \- Remix](https://open.spotify.com/track/1xnkJ7O4Sz7D6vxPyjZkQt) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [La Gente Ta' Loca \(Remix\)](https://open.spotify.com/album/7FSljR58CzFZISeEMj5bO1) | 3:38 | 2021-12-10 | 2023-08-03 |
 | [La Gomita](https://open.spotify.com/track/0QQbO11ji2wf2VitEQpCZL) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [La Gomita](https://open.spotify.com/album/1TQ1nTb1tVfHnQOUtXKTx4) | 2:43 | 2021-12-10 |  |
 | [La Lata](https://open.spotify.com/track/7Irs3xFqYdiNobk4WoXQUz) | [Principe Baru](https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR) | [La Lata](https://open.spotify.com/album/13jw4VHvJs7a4j2o7bqnxq) | 3:39 | 2022-01-04 | 2022-07-18 |

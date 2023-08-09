@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Heemin Chae\(채희민\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,241 likes - 103 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,253 likes - 103 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 56 | [Profile](https://open.spotify.com/track/2U8kKyjv3y0FZ6D1RL6AcR) | [Young Jin Kim](https://open.spotify.com/artist/2znNQLAUycEz4QYAx6wDlO) | [Full Bottle](https://open.spotify.com/album/2GekRFOa2tnNoszyCpZVmD) | 4:40 |
 | 57 | [Vacancy Hugs Time](https://open.spotify.com/track/2fOucbHur1VE47D1m5UCgB) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 3:52 |
 | 58 | [Difference \(with Park Chan Young\)](https://open.spotify.com/track/6VuslUo78MrJiJTmlbPUhQ) | [Jinju Yi](https://open.spotify.com/artist/1wOcvOmQJOR1LUMF0cIQS5), [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Difference](https://open.spotify.com/album/6hroMp0MzJ4UThj5OehuZG) | 3:23 |
-| 59 | [Late Autumn](https://open.spotify.com/track/3mi9ZwNuK4rG3nVyAZJajb) | [Heather](https://open.spotify.com/artist/4vE4SByWj4geUQdjZvyl9g) | [Late Autumn](https://open.spotify.com/album/1qhO8rdnpTvvrlwyYOcHdM) | 3:15 |
+| 59 | [Late Autumn](https://open.spotify.com/track/5HJu3wKHXUdcOs0wnjpNJQ) | [헤더](https://open.spotify.com/artist/72FPeJpnV2CQjdHRbrpehd) | [Late Autumn](https://open.spotify.com/album/4VkQFeNsVftX92t9LDphLk) | 3:15 |
 | 60 | [Margarita](https://open.spotify.com/track/0lcoFS3nK9fZoWxUSMff0I) | [Dj.Girin](https://open.spotify.com/artist/1VBQE0jViVM4iR5xiBWG0V) | [Margarita](https://open.spotify.com/album/17DhYlOB1lSsYGwZI8GL3q) | 2:19 |
 | 61 | [Unspoken Words](https://open.spotify.com/track/4mTXOg7AweKIjmqSk0CP7c) | [Wonmi Jung](https://open.spotify.com/artist/0daAcOXMuzxPwRiRBqgO2l) | [Unspoken Words](https://open.spotify.com/album/3a7eZQXmz9pudoFomDsg3c) | 4:20 |
 | 62 | [Sorcery Soup](https://open.spotify.com/track/1ddVTVxABHqds436IzH004) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 3:37 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 82 | [Hedgehog's Dilemma](https://open.spotify.com/track/2U8ltLrIzI7PcNPn75Cdcf) | [토끼풀](https://open.spotify.com/artist/2FOo1mUgBvVxST0MSO6zwu) | [Solitaire](https://open.spotify.com/album/6HQk8NCKz4tp0fedVYoj9G) | 4:30 |
 | 83 | [Panama City](https://open.spotify.com/track/0VMAEcSHxnQdMedvh0DmDg) | [신영주](https://open.spotify.com/artist/1RYbei4j2dxJS0hGwPCU7Q) | [Panama City](https://open.spotify.com/album/68t8T2g4qPYt3cF3W2cLSg) | 3:19 |
 | 84 | [Bohemian](https://open.spotify.com/track/2ragyAOyclvs6CaBEE3Ouw) | [Gypsum](https://open.spotify.com/artist/6qV7FBGBGmMOuGRW8gzuP8) | [Bohemian](https://open.spotify.com/album/4yu5JDYqSwsPnO0gozaW6Q) | 4:18 |
-| 85 | [Close my eyes](https://open.spotify.com/track/0jNqyuk278VsrMjcAUzAzZ) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Close my eyes](https://open.spotify.com/album/66A0tlUBVPsaVbiXIrwGqP) | 4:39 |
+| 85 | [Close my eyes](https://open.spotify.com/track/6WTMDGgiLy5yOApHte6a12) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [눈을 감아](https://open.spotify.com/album/7hgBz0OV4R4A0FIndK6i1c) | 4:39 |
 | 86 | [카페인](https://open.spotify.com/track/6JLQ1cfhEXquVf8WFuLKme) | [정승수 밴드](https://open.spotify.com/artist/2CUrF1ofFe2Fg7tgQQH7Sr) | [카페인](https://open.spotify.com/album/3s8QEeQGLT6y6isxaa4ZjN) | 4:37 |
 | 87 | [Bird+Disposable \- Live at Nodeul Live House, 2021](https://open.spotify.com/track/0HXDnoDxJh6uMv0lE3tikE) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [1202 \(Live at Nodeul Live House, 2021\)](https://open.spotify.com/album/3bojTh831YuLITkk3ncNjh) | 4:51 |
 | 88 | [Winter Theater](https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Home Alone](https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA) | 3:10 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 102 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
 | 103 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [J&](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MCw4MDQ5NGI1ZDg1NzZkNTdjNzA2OTFmMDYxMDdmNDQ4OWY0ZjM4MTg2`
+Snapshot ID: `MCxhYTc4MDAxOWUyZWE2ZWJlZmE0OTM0OTgyYmVkY2I3NGE2ZTk2Mjcx`

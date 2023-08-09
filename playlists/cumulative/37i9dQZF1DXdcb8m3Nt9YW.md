@@ -4,7 +4,7 @@
 
 > ¡Márquele sección! Los corridones tronando en vivo\. Gabito Ballesteros, Peso Pluma y Natanael Cano en portada.
 
-114 songs - 5 hr 54 min
+115 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [La Perris \- En Vivo](https://open.spotify.com/track/1jMs2NauraVMSzNBdfbMwS) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J) | [La Perris \(En Vivo\)](https://open.spotify.com/album/531dJejjsvqzjCvD1F8UNN) | 2:45 | 2022-05-13 | 2023-06-03 |
 | [La Plebada Bélica \- En Vivo](https://open.spotify.com/track/3XAAQjglGuKZUoappgsc9Z) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Belikenzia \(En Vivo\)](https://open.spotify.com/album/3Y8J8lgCluTfikb6feaI8N) | 2:37 | 2022-03-08 | 2023-06-03 |
 | [La Siembra En El Cerro](https://open.spotify.com/track/1JwfEcCXRBONintEFJZtsG) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo Y Con Todos](https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV) | 3:28 | 2022-03-08 | 2022-07-29 |
-| [La Siembra En El Cerro](https://open.spotify.com/track/7BM7AHyidinBMTUqO7oSU0) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 3:28 | 2022-03-08 |  |
+| [La Siembra En El Cerro](https://open.spotify.com/track/7BM7AHyidinBMTUqO7oSU0) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 3:28 | 2022-03-08 | 2023-08-09 |
+| [La Siembra en el Cerro](https://open.spotify.com/track/7CEPPI1NDFFkt1rI8uPFSg) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX) | 3:28 | 2023-06-09 |  |
 | [La Vida Ruina \(En Vivo Desde La Perla Tapatia\)](https://open.spotify.com/track/6CaJzPuQFqwZ2AAj5jET3y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Vida Ruina \(En Vivo Desde La Perla Tapatia\)](https://open.spotify.com/album/47JiMvotl9xC4mwZAR12UY) | 2:04 | 2022-03-08 |  |
 | [La Vitoliza \- En Vivo](https://open.spotify.com/track/78XH3FhZuGedHP5vmH1z9K) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [La Vitoliza \(En Vivo\)](https://open.spotify.com/album/0yOUmmISiNvYFN79OA58Tz) | 2:59 | 2023-06-02 |  |
 | [La White Gold \- En Vivo](https://open.spotify.com/track/7bzHP0TKLmIJtabwWrfqq6) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [La White Gold \(En Vivo\)](https://open.spotify.com/album/3kfjDQR2OVz7GGvsw1JV82) | 3:30 | 2023-06-02 |  |

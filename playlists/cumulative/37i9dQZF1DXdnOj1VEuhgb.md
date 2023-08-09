@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Ati242
 
-164 songs - 7 hr 6 min
+165 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [RANDEVU](https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [RANDEVU](https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b) | 2:32 | 2023-03-09 |  |
 | [Randuman / Ring Ring Ring](https://open.spotify.com/track/6Q0tOMIEUSMDkwkxiDYdAu) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Randuman / Ring Ring Ring](https://open.spotify.com/album/2E0ZtQyUtB3Owq2GPTm9xo) | 1:59 | 2023-03-02 | 2023-04-28 |
 | [Rol](https://open.spotify.com/track/5ouX13VSFgp5XGawCTprLW) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [Set](https://open.spotify.com/artist/19Rza4zry4FH12uXxbUsib) | [23](https://open.spotify.com/album/13NE1E45YnswgHArQL1SrN) | 2:12 | 2023-04-27 | 2023-05-16 |
+| [ROMANTİK](https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:17 | 2023-08-08 |  |
 | [Sahibinden](https://open.spotify.com/track/5QxAs0FmiSlowEteP3hkXn) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Sahibinden](https://open.spotify.com/album/5xBY3c8wdd3hbVlGZkke2z) | 2:03 | 2023-03-23 | 2023-04-28 |
 | [Sanrı](https://open.spotify.com/track/76eX8w7u3if9mc7DkTWa6g) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Sanrı](https://open.spotify.com/album/2aw9aPehxFaGsSOF7gvokf) | 2:23 | 2023-04-13 | 2023-04-28 |
 | [Sen Oyna](https://open.spotify.com/track/7dKd6AWwnaduoFOM7WyB0E) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Kibariye](https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90), [Tuğberk Işık](https://open.spotify.com/artist/6eFwPe1OeeV4gE2VZ6607p) | [Bi Taksi Çağırın](https://open.spotify.com/album/5tJWGF02xJbtZb0iJ5rzKn) | 2:56 | 2023-07-27 |  |

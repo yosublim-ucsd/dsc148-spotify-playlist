@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Priscilla Block, Dan + Shay, Darius Rucker and more.
 
-4,239 songs - 9 day 15 hr 24 min
+4,240 songs - 9 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1995,7 +1995,8 @@
 | [Jack and Diet Coke](https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Jack and Diet Coke](https://open.spotify.com/album/4JbUjpi4rUoHTxEtlkiFj5) | 3:13 | 2023-06-23 | 2023-07-01 |
 | [Jack of All Trades](https://open.spotify.com/track/0oTkUuSxOwMYKlaSt99Cs0) | [Rachel Bradshaw](https://open.spotify.com/artist/6b62EC4kRXUMm8JbMhl3I4) | [Rachel Bradshaw](https://open.spotify.com/album/0V2PkvIAZN1VMW6wNPHGUp) | 4:43 | 2022-01-07 | 2022-03-18 |
 | [Jake](https://open.spotify.com/track/5VYjk1BHgxmuxUS8nhRtMV) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [Pretty Little Bandit](https://open.spotify.com/album/5eBod6X2REqe7YwmKPShwV) | 2:15 | 2023-04-14 | 2023-04-22 |
-| [James Dean](https://open.spotify.com/track/28YeYqCPDyhmJ76h5OE139) | [Gabrielle Mooney](https://open.spotify.com/artist/33zGyZkIKniFsuzrFTkZwe), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [James Dean](https://open.spotify.com/album/3t85iYWW2ZcXFvTJwW02nr) | 2:57 | 2023-08-04 |  |
+| [James Dean](https://open.spotify.com/track/28YeYqCPDyhmJ76h5OE139) | [Gabrielle Mooney](https://open.spotify.com/artist/33zGyZkIKniFsuzrFTkZwe), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [James Dean](https://open.spotify.com/album/3t85iYWW2ZcXFvTJwW02nr) | 2:57 | 2023-08-04 | 2023-08-09 |
+| [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/track/3bo6LIVTrJAyn0CJOeBxXK) | [Gabrielle Mooney](https://open.spotify.com/artist/33zGyZkIKniFsuzrFTkZwe), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/album/2ltEv5M5IiJEUkrQurPSVx) | 2:57 | 2023-08-04 |  |
 | [Jealous](https://open.spotify.com/track/6llXHyRmZtgyNsr5iYJ6UN) | [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [Jealous](https://open.spotify.com/album/7Gniaa6vapjRVyQpLJiceG) | 3:38 | 2023-03-17 | 2023-04-01 |
 | [Jealous](https://open.spotify.com/track/2gaoVz3l7saRE9KAS9z1Y1) | [Christie Huff](https://open.spotify.com/artist/3mdJ7xExgfvMfYEAK7rEy7) | [Jealous](https://open.spotify.com/album/1GQO4HMmLzAXv6M0q9io26) | 3:09 | 2022-02-11 | 2022-03-05 |
 | [Jealous of Myself](https://open.spotify.com/track/75rvf9Hbx1R5NikWybJl9e) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Jealous of Myself](https://open.spotify.com/album/4qTbDUZJukcxWaf120N5i2) | 3:26 | 2022-10-14 | 2022-10-22 |

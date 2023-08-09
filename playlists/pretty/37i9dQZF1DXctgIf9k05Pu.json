@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 237831,
+  "num_followers": 237923,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjFhY2IxNTM4MjE3YmYyODkzYzlhMjIwZGM0YzVlNzcyY2IxNWQy",
+  "snapshot_id": "MCw1NDc5NzEzZGVmNTM1ZmQ5OGQwNDMxODkyMDNjZDg5NGNiZDFhNmVj",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 180601,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Harbor",
         "url": "https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 91504,
       "name": "Monday Loop",
       "url": "https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 180601,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "waking up in the park",
-        "url": "https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod"
-      },
-      "artists": [
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        }
-      ],
-      "duration_ms": 68571,
-      "name": "waking up in the park",
-      "url": "https://open.spotify.com/track/278zobyI14d3iaE39jGfHM"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "drinking under the streetlights",
         "url": "https://open.spotify.com/album/3hHe7soPaQsQqALZOgNIYe"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 182416,
       "name": "the way that you see me (feat. Ayleen Valentine)",
       "url": "https://open.spotify.com/track/0k2bhZ9oM3boyUWaV3MfWk"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "waking up in the park",
+        "url": "https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod"
+      },
+      "artists": [
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        }
+      ],
+      "duration_ms": 68571,
+      "name": "waking up in the park",
+      "url": "https://open.spotify.com/track/278zobyI14d3iaE39jGfHM"
     },
     {
       "added_at": "2022-02-02 00:21:48",

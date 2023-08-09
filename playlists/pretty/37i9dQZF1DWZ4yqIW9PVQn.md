@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,286 likes - 111 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,288 likes - 111 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 84 | [가을의 노래](https://open.spotify.com/track/12nu4dBkgX93WL3YCF6nxE) | [신아람](https://open.spotify.com/artist/5NGCTgi9l4G8gOcC47rPkL), [Hong Seok Min](https://open.spotify.com/artist/2VpKDKyOB4dO68biiJJAsk) | [가을의 노래](https://open.spotify.com/album/7FQMu96J8WH2TivNsULX9z) | 4:01 |
 | 85 | [일기예보 \(feat\. 명다원\)](https://open.spotify.com/track/0L0fkd5rNncIy3PWKe4OW9) | [카페모카](https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0), [명다원](https://open.spotify.com/artist/62PadTYQecttv7r6Gc2L77) | [weather forecast](https://open.spotify.com/album/1y0mXaR9Zo3nIKUdxldpnF) | 3:13 |
 | 86 | [love talk](https://open.spotify.com/track/5WS5YCbjqhjRAJKdaExiEC) | [KODI GREEN](https://open.spotify.com/artist/54yQw1nXF53pvMLL0MpTxs), [Kaution](https://open.spotify.com/artist/1mXj07DVCv5GprCk5Adca0) | [love talk](https://open.spotify.com/album/11nXCEJxH1lgp1rA9Uanyk) | 3:32 |
-| 87 | [Always Remember](https://open.spotify.com/track/5C56Qnwq0aU9MIY2G6snfo) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [도도솔솔라라솔 \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/2ueEwIe0EHbF1DYU3jGgXX) | 3:25 |
+| 87 | [Always Remember](https://open.spotify.com/track/0RCYjmOB2pLojrcyGIyC5f) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [도도솔솔라라솔 OST Part.10](https://open.spotify.com/album/1rxId9OlGTuVGW6zlDmote) | 3:25 |
 | 88 | [A Call from My Dream](https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:15 |
 | 89 | [My Heart](https://open.spotify.com/track/1K9aHp1cak4AR7FghqIO8C) | [YELLOW BENCH](https://open.spotify.com/artist/39sjkhnRSciccucSsramsQ) | [My Heart](https://open.spotify.com/album/4g93bvLDXSt6aa4Thp76Zz) | 3:56 |
 | 90 | [Petal](https://open.spotify.com/track/32FYSYIIpc1j6To2Qgl4hq) | [Benaddict](https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz) | [Petal](https://open.spotify.com/album/4YuNLaeHfW3p5tzSaEiFB1) | 4:04 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 110 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 |
 | 111 | [Bad](https://open.spotify.com/track/2DGrRwugivZANDFU3gXo4j) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 16](https://open.spotify.com/album/19Ov0ZxXqwknA1QnqaMVK3) | 3:27 |
 
-Snapshot ID: `MCwxZjI5MWVlOGQ5YmRhYzc3MmY1NGQ5ODdhY2RiYjBjOGQ4NDE1N2Fj`
+Snapshot ID: `MCw3YmYyYmNiMDk2M2U5MWVmMTE4NmE4MzM1NzRkZWQ4M2I3MDNjOTJm`

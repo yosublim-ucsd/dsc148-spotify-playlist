@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 138515,
+  "num_followers": 138554,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2IwODAxNWI5YTU4NTZhYmQ2YmQ2NWI4ZjdkYjdhODYzYTNiZWZl",
+  "snapshot_id": "MCwyOWI2MzY4M2YyZDFkZTdjZjgxMGZmY2NiYjcxNDRhYTRlMzlhODgz",
   "tracks": [
     {
       "added_at": "2023-07-28 19:09:17",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-07-28 19:09:17",
       "album": {
-        "name": "Al Pacino",
-        "url": "https://open.spotify.com/album/0EboXRRulZiilaIDuptS9j"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Krunk!",
-          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
-        }
-      ],
-      "duration_ms": 221579,
-      "name": "Al Pacino",
-      "url": "https://open.spotify.com/track/5ykdEvOIec7UjP2N4Vcuyv"
-    },
-    {
-      "added_at": "2023-07-28 19:09:17",
-      "album": {
         "name": "In Your Eyes (feat. Alida) [KREAM Remix]",
         "url": "https://open.spotify.com/album/4opn0PjzGOFZTGUKFj0JUR"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 203240,
       "name": "In Your Eyes (feat. Alida) - KREAM Remix",
       "url": "https://open.spotify.com/track/45vQQXKfA4edHqKV5roP3M"
+    },
+    {
+      "added_at": "2023-07-28 19:09:17",
+      "album": {
+        "name": "Al Pacino",
+        "url": "https://open.spotify.com/album/0EboXRRulZiilaIDuptS9j"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Krunk!",
+          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
+        }
+      ],
+      "duration_ms": 221579,
+      "name": "Al Pacino",
+      "url": "https://open.spotify.com/track/5ykdEvOIec7UjP2N4Vcuyv"
     },
     {
       "added_at": "2023-07-28 19:09:17",

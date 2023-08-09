@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 437636,
+  "num_followers": 437908,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGM4YmFlYmVhYzc4MWU1ZmFjYmQ0YzUxZGJiMjQ1YWIyMDEzMTBh",
+  "snapshot_id": "MCw1ZmVhODAxODk0NDUxZDBkZjg0NTIzNDQwN2I2N2E2YTY4NjRkOGU1",
   "tracks": [
     {
       "added_at": "2023-08-02 06:18:47",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
-        "name": "And the Story Continues...",
-        "url": "https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ"
+        "name": "Walk The Talk",
+        "url": "https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU"
       },
       "artists": [
         {
-          "name": "Marcell",
-          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
         }
       ],
-      "duration_ms": 241763,
-      "name": "Takkan Terganti",
-      "url": "https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB"
+      "duration_ms": 207937,
+      "name": "Kenangan Manis",
+      "url": "https://open.spotify.com/track/1tS1dRfxIV9FzqdYTbJgMn"
     },
     {
       "added_at": "2023-08-02 06:18:47",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
-        "name": "Walk The Talk",
-        "url": "https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU"
+        "name": "And the Story Continues...",
+        "url": "https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ"
       },
       "artists": [
         {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
         }
       ],
-      "duration_ms": 207937,
-      "name": "Kenangan Manis",
-      "url": "https://open.spotify.com/track/1tS1dRfxIV9FzqdYTbJgMn"
+      "duration_ms": 241763,
+      "name": "Takkan Terganti",
+      "url": "https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB"
     },
     {
       "added_at": "2023-08-02 06:18:47",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
+        "name": "Taman Langit",
+        "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "duration_ms": 199138,
+      "name": "Yang Terdalam",
+      "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
         "name": "Selaras",
         "url": "https://open.spotify.com/album/1b1QRGjDS4CHogOBBCLWOg"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 273491,
       "name": "Selaras",
       "url": "https://open.spotify.com/track/7kZ4uU7cO2Y36XWmuwEOW0"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
-        "name": "Taman Langit",
-        "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
-      },
-      "artists": [
-        {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
-        }
-      ],
-      "duration_ms": 199138,
-      "name": "Yang Terdalam",
-      "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
     },
     {
       "added_at": "2023-08-02 06:18:47",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-08-02 06:18:47",
       "album": {
-        "name": "Peace, Love And Respect",
-        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
-      },
-      "artists": [
-        {
-          "name": "Gigi",
-          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "11 Januari",
-      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
-    },
-    {
-      "added_at": "2023-08-02 06:18:47",
-      "album": {
         "name": "My Happy Life",
         "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 213213,
       "name": "Menghujam Jantungku",
       "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
+    },
+    {
+      "added_at": "2023-08-02 06:18:47",
+      "album": {
+        "name": "Peace, Love And Respect",
+        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
+      },
+      "artists": [
+        {
+          "name": "Gigi",
+          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "11 Januari",
+      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
     },
     {
       "added_at": "2023-08-02 06:18:47",

@@ -1,13 +1,29 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 881994,
+  "num_followers": 881967,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDgyODQ2NzczMjE1N2I5MjUzOWU0MDk0Nzk5YzRhMTY3Y2UxZmUz",
+  "snapshot_id": "MCxiMzQ4MzhhZmJiNWQwMDI0NmU3ZWFhMzg1ZmY0ZjY5YTJjOWZhMDZi",
   "tracks": [
+    {
+      "added_at": "2023-08-08 20:07:19",
+      "album": {
+        "name": "Thundercurls",
+        "url": "https://open.spotify.com/album/6Xbw2qrPE3o5UAmH6fdHco"
+      },
+      "artists": [
+        {
+          "name": "Grande Mahogany",
+          "url": "https://open.spotify.com/artist/5Ap6WM27z0Xie0W8Wfs68Q"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Thundercurls",
+      "url": "https://open.spotify.com/track/22kr7jc4vGmQhxegTxidpN"
+    },
     {
       "added_at": "2023-08-04 08:13:00",
       "album": {
@@ -543,26 +559,6 @@
       "duration_ms": 236400,
       "name": "Lately",
       "url": "https://open.spotify.com/track/08Q1EXipT8rCIiBy7k6ePX"
-    },
-    {
-      "added_at": "2023-03-06 15:29:49",
-      "album": {
-        "name": "Up and Away",
-        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        },
-        {
-          "name": "Redinho",
-          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
-        }
-      ],
-      "duration_ms": 224448,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
     },
     {
       "added_at": "2023-06-23 04:00:00",

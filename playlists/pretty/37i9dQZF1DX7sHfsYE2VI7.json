@@ -1,12 +1,12 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 43397,
+  "num_followers": 43445,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjFkMTAyOGIwMzQ0OGIzOTk4NTdhODk0NTA3NGIzNDQ3OTIxMTEx",
+  "snapshot_id": "MCw2YWU5Y2EyMzI1ZWE1YTZjMjI3YTA5ZDMxMTgyYzhhMzdhYjgyMjBh",
   "tracks": [
     {
       "added_at": "2022-02-28 02:05:58",
@@ -130,6 +130,18 @@
         {
           "name": "Stardust",
           "url": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
+        },
+        {
+          "name": "Benjamin Diamond",
+          "url": "https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "Thomas Bangalter",
+          "url": "https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi"
         }
       ],
       "duration_ms": 260906,
@@ -1095,18 +1107,18 @@
     {
       "added_at": "2022-02-28 02:05:58",
       "album": {
-        "name": "1992 - 2012",
-        "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
+        "name": "Come Away with ESG",
+        "url": "https://open.spotify.com/album/4DX4hNQbCQnrDMlmKq3eid"
       },
       "artists": [
         {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+          "name": "ESG",
+          "url": "https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa"
         }
       ],
-      "duration_ms": 538080,
-      "name": "8 Ball",
-      "url": "https://open.spotify.com/track/1tnhrn0zNTQGbo77wNwy44"
+      "duration_ms": 274160,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/0iD94fatV4gLMmOQhNTQx6"
     },
     {
       "added_at": "2022-02-28 02:05:58",
@@ -1143,18 +1155,18 @@
     {
       "added_at": "2022-02-28 02:05:58",
       "album": {
-        "name": "Come Away with ESG",
-        "url": "https://open.spotify.com/album/4DX4hNQbCQnrDMlmKq3eid"
+        "name": "1992 - 2012",
+        "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
       },
       "artists": [
         {
-          "name": "ESG",
-          "url": "https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa"
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
         }
       ],
-      "duration_ms": 274160,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/0iD94fatV4gLMmOQhNTQx6"
+      "duration_ms": 538080,
+      "name": "8 Ball",
+      "url": "https://open.spotify.com/track/1tnhrn0zNTQGbo77wNwy44"
     },
     {
       "added_at": "2022-02-28 02:05:58",

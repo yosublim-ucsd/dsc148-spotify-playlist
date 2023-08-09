@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,171 songs - 2 day 20 hr 37 min
+1,172 songs - 2 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -917,7 +917,8 @@
 | [Starlight](https://open.spotify.com/track/4Dnss7a0Fobyvw2aWBnDzm) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Starlight](https://open.spotify.com/album/41JcySyB2ps5j4bt5LPReq) | 3:43 | 2019-08-09\* | 2019-09-14 |
 | [Starlight](https://open.spotify.com/track/128BW48JmONhjYQzUUwigC) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Starlight](https://open.spotify.com/album/1x8nvALQ0zTvYavj5bz8QW) | 4:00 | 2022-08-05 |  |
 | [Starlight \(Keep Me Afloat\)](https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Starlight \(Keep Me Afloat\)](https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY) | 3:22 | 2022-04-15 |  |
-| [Stars Belong With You](https://open.spotify.com/track/2shiTxgdnUwSxvIPil0BZA) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Stars Belong With You](https://open.spotify.com/album/6XWOydRIMwfeCZG2KytXc6) | 5:02 | 2022-05-27 |  |
+| [Stars Belong With You](https://open.spotify.com/track/2shiTxgdnUwSxvIPil0BZA) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Stars Belong With You](https://open.spotify.com/album/6XWOydRIMwfeCZG2KytXc6) | 5:02 | 2022-05-27 | 2023-08-09 |
+| [Stars Belong With You](https://open.spotify.com/track/3Y2fxq2ynv6ByypMJ2mX5H) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Stars Belong With You](https://open.spotify.com/album/4p8ZrB6yuHGISmoz84NGWm) | 5:02 | 2023-08-04 |  |
 | [Starstruck](https://open.spotify.com/track/2WJVFqVQ3ivhAoAQWzEzeL) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Starstruck](https://open.spotify.com/album/6QrZRFMwgFNXV0d5N7ndUW) | 3:27 | 2021-04-24 | 2022-05-14 |
 | [Start Again](https://open.spotify.com/track/6AvPvdPQaRlsyrdP7PzeLU) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [In Our Own Way](https://open.spotify.com/album/0FvlZWhj9GnUosWOfZxkVc) | 3:09 | 2023-08-04 |  |
 | [Start It Over \(feat\. KC\)](https://open.spotify.com/track/4Y3hmcRgFw88qJnXGzCwkq) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Man Cub](https://open.spotify.com/artist/6uku31mN2SKBGAIEM6Umgi), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Start It Over \(feat\. KC\)](https://open.spotify.com/album/4BcDAfQlDRPek8jSKQRw6W) | 3:15 | 2022-04-29 |  |

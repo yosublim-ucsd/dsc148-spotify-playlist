@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the soul space\. Cover: Masego
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,818 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,876 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 99 | [Put D'Angelo On](https://open.spotify.com/track/21ZFqw29FHcfR50XTuuTIK) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Put D'Angelo On](https://open.spotify.com/album/5q2vdfrE0ISHmaP8IsBLAt) | 3:07 |
 | 100 | [JGS](https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [JGS](https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj) | 4:40 |
 
-Snapshot ID: `MCxiNzYyZmFhY2Y0ODI2YzAwNWNjYzdmZmRkNGE2ZWEyNjc3NjY1OTEx`
+Snapshot ID: `MCwwZDU1MWFlYzllMjQwZWFiNmY3YzJlNGJjYmZjZDc3YWYwODk1MzYw`

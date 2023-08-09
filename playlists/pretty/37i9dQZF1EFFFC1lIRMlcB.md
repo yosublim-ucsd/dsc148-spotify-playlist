@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5lVAE3z1LZ69DXE3Hd6MpL">Lucas Kastrup</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227 likes - 47 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 228 likes - 47 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 34 | [Tudo O Que Tenho](https://open.spotify.com/track/1IZsek4rb8hjxy5BgwezfH) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O), [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Coração Nyahbinghi: Lucas Kastrup & Amigos](https://open.spotify.com/album/6aB2Q30eHDHe56ui1MmVxW) | 3:53 |
 | 35 | [Afirmando A Fé](https://open.spotify.com/track/1SDOCpXl1riGf8dPN7D8X7) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Junior Dread](https://open.spotify.com/artist/6nynI5RNNt5DJ9gB4jCRTb), [Earl Sixteen](https://open.spotify.com/artist/73TNAImtt021hntBpAxB4W) | [Coração Nyahbinghi: Lucas Kastrup & Amigos](https://open.spotify.com/album/6aB2Q30eHDHe56ui1MmVxW) | 3:37 |
 | 36 | [Sempre Reinará](https://open.spotify.com/track/3pG8OriC04peRKpzIvQJVv) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj) | [Coração Nyahbinghi: Lucas Kastrup & Amigos](https://open.spotify.com/album/6aB2Q30eHDHe56ui1MmVxW) | 4:05 |
-| 37 | [Canção Divina](https://open.spotify.com/track/2uvW9vWoPDh8XkeTqxx0Oi) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Ras Kadhu](https://open.spotify.com/artist/1gpXc70CKYH7STndSWqmog), [Kuky](https://open.spotify.com/artist/4ZWAuhfRl5jD14rKToEoor) | [Coração Nyahbinghi: Lucas Kastrup & Amigos](https://open.spotify.com/album/6aB2Q30eHDHe56ui1MmVxW) | 4:49 |
-| 38 | [Waiting So Long](https://open.spotify.com/track/0cQr2Q73q9nTBOn0HguJFg) | [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8), [Lucas Kastrup](https://open.spotify.com/artist/0M3bbKDlJTgoamzhhGcuEj) | [Now Generation](https://open.spotify.com/album/44c0hwLagKXQwphCoNvd4G) | 2:55 |
+| 37 | [Waiting So Long](https://open.spotify.com/track/0cQr2Q73q9nTBOn0HguJFg) | [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8), [Lucas Kastrup](https://open.spotify.com/artist/0M3bbKDlJTgoamzhhGcuEj) | [Now Generation](https://open.spotify.com/album/44c0hwLagKXQwphCoNvd4G) | 2:55 |
+| 38 | [Canção Divina](https://open.spotify.com/track/2uvW9vWoPDh8XkeTqxx0Oi) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Ras Kadhu](https://open.spotify.com/artist/1gpXc70CKYH7STndSWqmog), [Kuky](https://open.spotify.com/artist/4ZWAuhfRl5jD14rKToEoor) | [Coração Nyahbinghi: Lucas Kastrup & Amigos](https://open.spotify.com/album/6aB2Q30eHDHe56ui1MmVxW) | 4:49 |
 | 39 | [Mundo Melhor \- Dub Version](https://open.spotify.com/track/68v11S7cJx67YEnuPiQxpZ) | [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8), [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO) | [Mundo Melhor](https://open.spotify.com/album/6IQkiElPhDcMES5AjifUcM) | 3:36 |
 | 40 | [Revelation Time](https://open.spotify.com/track/0UE3tQRTgGM22VndcQ3BV1) | [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8), [Lucas Kastrup](https://open.spotify.com/artist/0M3bbKDlJTgoamzhhGcuEj) | [Now Generation](https://open.spotify.com/album/44c0hwLagKXQwphCoNvd4G) | 2:28 |
 | 41 | [Love Is Freedom](https://open.spotify.com/track/6p9cYLrniQ4pAZ56OIhMyD) | [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8), [Lucas Kastrup](https://open.spotify.com/artist/0M3bbKDlJTgoamzhhGcuEj) | [Now Generation](https://open.spotify.com/album/44c0hwLagKXQwphCoNvd4G) | 2:58 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 46 | [Inesperado](https://open.spotify.com/track/0eupIHRJZCM2EtZVEIjHil) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Ju em família](https://open.spotify.com/artist/6pg8jD6EtfSM5XbIsPqqKq) | [Inesperado](https://open.spotify.com/album/7fjNn0pCODT14KoguYaxyN) | 3:25 |
 | 47 | [Encontro Com Jah](https://open.spotify.com/track/2Y7sPLjrzRuhH9KZVN7TWP) | [Irmãos de Fé](https://open.spotify.com/artist/1aJjD4Hp0uNpbYujxCkeHu) | [Livremente](https://open.spotify.com/album/1oqVG1xM2CRF6YwwW23hXa) | 4:05 |
 
-Snapshot ID: `MjgxOTEwMTAsMDAwMDAwMDAwNTExNGYwMmJiOGI5ZmMxMGVkZGUzNGQ5MjMyOGZlZQ==`
+Snapshot ID: `MjgxOTI0NTAsMDAwMDAwMDBlYjc4MmViNjQxOTFlODA4NzRmZDU2MjQzY2U1ZDcwYQ==`

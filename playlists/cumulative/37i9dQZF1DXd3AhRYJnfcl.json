@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": " \u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641:<a href=\"https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V?si=_W-B2kvUTFeRbAOSHAPq4g\"> \u0627\u062d\u0645\u062f \u0633\u0639\u062f </a> \u0648 <a href=\"https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814?si=Ql5U58LxTguGr2c5ooJOYg\"> \u0631\u0648\u0628\u064a </a>",
+  "description": " \u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641:<a href=\"https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk?si=1zeHUrwPSTui0vbKualgog\"> \u062d\u0645\u0632\u0647 \u0646\u0645\u0631\u0647 </a>",
   "name": "\u0627\u0644\u062a\u0648\u0628",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 262765,
       "name": "Ana Mesh Ma'ahom",
       "url": "https://open.spotify.com/track/5QT7rd7uxV3CWBVemTJoR7"
@@ -1038,6 +1038,24 @@
       "duration_ms": 195598,
       "name": "Etnaset",
       "url": "https://open.spotify.com/track/5hiQSNo6jQbQ2m2gBZs7bU"
+    },
+    {
+      "album": {
+        "name": "Ew3a",
+        "url": "https://open.spotify.com/album/6olbtWuufnTDpFBJ5IiWFS"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Ew3a",
+      "url": "https://open.spotify.com/track/1LN3baoelgQTeK6XIb80q1"
     },
     {
       "album": {
@@ -1768,7 +1786,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 248241,
       "name": "Mabalash",
       "url": "https://open.spotify.com/track/40BMID1JwcJZYeTS1t6stp"
@@ -3388,6 +3406,24 @@
       "duration_ms": 250540,
       "name": "\u062c\u0648\u0628",
       "url": "https://open.spotify.com/track/00iZxf2j4qUqsSa7HOngwZ"
+    },
+    {
+      "album": {
+        "name": "\u062d\u0628\u064a\u062a \u0627\u0644\u0645\u0642\u0627\u0628\u0644\u0629",
+        "url": "https://open.spotify.com/album/0iddA66uS6i7Rb1tv1sJ7E"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Hamaki",
+          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "\u062d\u0628\u064a\u062a \u0627\u0644\u0645\u0642\u0627\u0628\u0644\u0629",
+      "url": "https://open.spotify.com/track/2oURHU9AZsHV37S3GPtNc6"
     },
     {
       "album": {

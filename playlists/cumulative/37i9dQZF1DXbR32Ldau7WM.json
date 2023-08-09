@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock bands/artists in Japan right now! Cover: \u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+  "description": "The biggest rock bands/artists in Japan right now! Cover: Quruli(\u304f\u308b\u308a)",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 227333,
       "name": "Black Jean Boogie",
       "url": "https://open.spotify.com/track/2PlKI5l5CZaUNHhPAT3tqp"
@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "Brand New Day",
+        "url": "https://open.spotify.com/album/5B0JQ9N6hSi8jKa8izbV18"
+      },
+      "artists": [
+        {
+          "name": "9mm Parabellum Bullet",
+          "url": "https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194840,
+      "name": "Brand New Day",
+      "url": "https://open.spotify.com/track/6tdE7Z3wCnX4goZU4veUDI"
+    },
+    {
+      "album": {
         "name": "BREATH",
         "url": "https://open.spotify.com/album/0LwNWDQDwQyRucOKOTCBl2"
       },
@@ -1048,6 +1066,24 @@
       "duration_ms": 220580,
       "name": "Bug",
       "url": "https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH"
+    },
+    {
+      "album": {
+        "name": "California coconuts",
+        "url": "https://open.spotify.com/album/7na5aZq54qDZblhOiVRnj0"
+      },
+      "artists": [
+        {
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "California coconuts",
+      "url": "https://open.spotify.com/track/2VAnn7QXr1jXP3GGvpcYhp"
     },
     {
       "album": {
@@ -1386,7 +1422,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 273146,
       "name": "DEVOTION",
       "url": "https://open.spotify.com/track/7H3o2welk7kIf3yOknhtAi"
@@ -2482,7 +2518,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 239427,
       "name": "GO!!!(20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
       "url": "https://open.spotify.com/track/2xviYduF3PGpFsxyGp4f0B"
@@ -2710,6 +2746,24 @@
       "duration_ms": 224960,
       "name": "Hunter or Prey",
       "url": "https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V"
+    },
+    {
+      "album": {
+        "name": "Hyper Vacation",
+        "url": "https://open.spotify.com/album/4Y6C0DexG8y8SCarKrhANy"
+      },
+      "artists": [
+        {
+          "name": "androp",
+          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128200,
+      "name": "Hyper Vacation",
+      "url": "https://open.spotify.com/track/5dUg5ysqf9UIErEZKUQFpF"
     },
     {
       "album": {
@@ -3330,7 +3384,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 253746,
       "name": "Kizukeyo Baby",
       "url": "https://open.spotify.com/track/3EEaEEltAaQAp0EhIwJEaK"
@@ -4663,6 +4717,24 @@
     },
     {
       "album": {
+        "name": "MIYAVI Virtual Live 7.0 in OASIS KYOTO",
+        "url": "https://open.spotify.com/album/7AedAnY7fUSVrz5duzLz05"
+      },
+      "artists": [
+        {
+          "name": "MIYAVI",
+          "url": "https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218592,
+      "name": "New Gravity - OASIS KYOTO Remix",
+      "url": "https://open.spotify.com/track/7dNjSG3bbqkVYdhtlSE7UT"
+    },
+    {
+      "album": {
         "name": "Our Best Place",
         "url": "https://open.spotify.com/album/0YD5rzXGLNjCslvo8x6igD"
       },
@@ -5014,6 +5086,24 @@
       "duration_ms": 219466,
       "name": "Opening Ceremony",
       "url": "https://open.spotify.com/track/6QYOM6759mUjFhoY6UIcj6"
+    },
+    {
+      "album": {
+        "name": "Oretachi niha ketsu ga aru",
+        "url": "https://open.spotify.com/album/5BLvOZKzDTP9yM8e4GJMaQ"
+      },
+      "artists": [
+        {
+          "name": "GOLDEN BOMBER",
+          "url": "https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232043,
+      "name": "Oretachi niha ketsu ga aru",
+      "url": "https://open.spotify.com/track/19tIN4MPEgiz0xmYC1Mtw6"
     },
     {
       "album": {
@@ -6516,7 +6606,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 273266,
       "name": "Stray Hearts",
       "url": "https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP"
@@ -7248,6 +7338,24 @@
       "duration_ms": 211133,
       "name": "Tsuubee Koobee",
       "url": "https://open.spotify.com/track/7IYn5ahor1DF8VGGiags5N"
+    },
+    {
+      "album": {
+        "name": "Loop (Remastered 2023)",
+        "url": "https://open.spotify.com/album/3DqrPCax9rJ6BYl93mwrhO"
+      },
+      "artists": [
+        {
+          "name": "ACIDMAN",
+          "url": "https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214293,
+      "name": "type-A - Remastered 2023",
+      "url": "https://open.spotify.com/track/6iLPPIQ7Bdf0B03vELr8xZ"
     },
     {
       "album": {
@@ -8402,6 +8510,24 @@
       "duration_ms": 244266,
       "name": "\u304b\u3048\u308a\u307f\u3061\u306eBlue",
       "url": "https://open.spotify.com/track/4dPhGdYR7HWi7WEpovGK4n"
+    },
+    {
+      "album": {
+        "name": "\u3053\u306e\u5e78\u798f\u306b\u50d5\u306f\u540d\u524d\u3092\u3064\u3051\u305f",
+        "url": "https://open.spotify.com/album/4oG76mCJQlW3OVcsSFIMko"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Furukawa",
+          "url": "https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173611,
+      "name": "\u3053\u306e\u5e78\u798f\u306b\u50d5\u306f\u540d\u524d\u3092\u3064\u3051\u305f",
+      "url": "https://open.spotify.com/track/5F6ORYh3P8tOPHmHEpZ1Be"
     },
     {
       "album": {
@@ -10868,7 +10994,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 277360,
       "name": "\u540d\u524d\u3092\u547c\u3076\u3088",
       "url": "https://open.spotify.com/track/5iTyiE1jAfmjorzFLc4Frg"
@@ -10915,7 +11041,7 @@
     },
     {
       "album": {
-        "name": "\u5730\u7403\u5100",
+        "name": "\u5730\u7403\u5100 - Spinning Globe",
         "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
       },
       "artists": [
@@ -10928,7 +11054,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 273437,
-      "name": "\u5730\u7403\u5100",
+      "name": "\u5730\u7403\u5100 - Spinning Globe",
       "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
     },
     {
@@ -11438,7 +11564,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 238000,
       "name": "\u5fd8\u308c\u3089\u308c\u306a\u3044\u306e",
       "url": "https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN"
@@ -12570,7 +12696,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 190000,
       "name": "\u79c1\u306f\u732b\u306e\u76ee",
       "url": "https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd"
@@ -12606,7 +12732,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 399418,
       "name": "\u7a93\u306e\u4e2d\u304b\u3089",
       "url": "https://open.spotify.com/track/0R96nqU10shRzLcbpPiNA7"
@@ -12754,7 +12880,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 180000,
       "name": "\u80fd\u52d5\u7684\u4e09\u5206\u9593",
       "url": "https://open.spotify.com/track/4veOvrYiK224LWEqHX39vv"
@@ -13132,7 +13258,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 177266,
       "name": "\u9583\u5149\u5c11\u5973",
       "url": "https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s"

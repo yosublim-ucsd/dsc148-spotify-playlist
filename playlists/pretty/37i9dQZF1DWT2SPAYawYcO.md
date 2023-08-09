@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,265 likes - 87 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,264 likes - 87 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 86 | [Preppers](https://open.spotify.com/track/448p5kZA0Lh7NMhEsMf8dX) | [Shoe](https://open.spotify.com/artist/7zPM2TtfM5n6zFLdKiVpx6) | [Preppers](https://open.spotify.com/album/2NXh0905l0qBb2enlnx9Uv) | 4:28 |
 | 87 | [There won't be another you](https://open.spotify.com/track/3KFAC1diPAK07fGNGulV6f) | [Tiny Little Houses](https://open.spotify.com/artist/2DzfwBlRGSLXCXgAKN6EFv) | [Everyday I wake I find another reason not to](https://open.spotify.com/album/67RnVYIHvnxEZL9xbnrFfu) | 4:14 |
 
-Snapshot ID: `MCw4OTZhNzAzNjRmYWIzMTlkOTlkMmY4NDYyMzFlZTIxZWY3Y2U0ZmEx`
+Snapshot ID: `MCxmYjNlYTFjY2JhMGUyNDVhNWI4Y2YxOTJlNDNhYmE0MzhhMWRkNmRi`

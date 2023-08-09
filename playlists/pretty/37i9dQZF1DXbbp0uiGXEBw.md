@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Charmy pham
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,612 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,633 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ra Là Em Đâu Quá Mong Manh](https://open.spotify.com/track/0AfV1Fr2nWmXFxC3RkhawH) | [Charmy pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [Ra Là Em Đâu Quá Mong Manh](https://open.spotify.com/album/202hOG3XMicPSsM983t21w) | 4:21 |
+| 1 | [Ra Là Em Đâu Quá Mong Manh](https://open.spotify.com/track/0AfV1Fr2nWmXFxC3RkhawH) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [Ra Là Em Đâu Quá Mong Manh](https://open.spotify.com/album/202hOG3XMicPSsM983t21w) | 4:21 |
 | 2 | [Ngỏ Lời](https://open.spotify.com/track/194xS2oTIYL5u1IK0Q0oj0) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Ngỏ Lời](https://open.spotify.com/album/0h0szlurfJ36hJCI5HtupK) | 3:55 |
 | 3 | [Có Ai Thương Em Như Anh](https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Có Ai Thương Em Như Anh](https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA) | 3:51 |
 | 4 | [nếu lúc đó](https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [nếu lúc đó](https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV) | 4:24 |
 | 5 | [Em Đã Biết](https://open.spotify.com/track/74dZm72WtQx122nyIFhJAB) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Em Đã Biết](https://open.spotify.com/album/5JJ6XjiB1dqJHorDCqqIz5) | 4:21 |
 | 6 | [trời giấu trời mang đi](https://open.spotify.com/track/1ecVks3GJX8U67DvhVDVBn) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 4:13 |
 | 7 | [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/1gIaX9HEGZsWSd5HDJatSr) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/2hHic1AMDTtCmK072fentL) | 3:48 |
-| 8 | [Chỉ Còn Những Mùa Nhớ](https://open.spotify.com/track/2jy0ZXCLtBBKqwmUjY0Rdq) | [Charmy pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [The Nomad](https://open.spotify.com/album/6ukEkH7GIFu5JaSV8tNBry) | 5:28 |
+| 8 | [Chỉ Còn Những Mùa Nhớ](https://open.spotify.com/track/2jy0ZXCLtBBKqwmUjY0Rdq) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [The Nomad](https://open.spotify.com/album/6ukEkH7GIFu5JaSV8tNBry) | 5:28 |
 | 9 | [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/0vkExWiBJSrfWnlMC7x48b) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/49dKGvpp3ix58fS46uVqOQ) | 4:04 |
 | 10 | [Thích Quá Rùi Nà](https://open.spotify.com/track/4qJSUFwZFouto5VZUlln75) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/3EJFGb9JNfZq2AlyF9Y96Z) | 2:58 |
 | 11 | [Cà Phê](https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [yêu thì yêu không yêu thì yêu](https://open.spotify.com/track/79xFFmGKtEyky0I2G9U9Jg) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 3:10 |
 | 50 | [Từ Khung Cửa Sổ Này](https://open.spotify.com/track/6C1uzaA6dThCNQt89fk4kJ) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Từ Khung Cửa Sổ Này](https://open.spotify.com/album/3MP2DEC3eGwYHvBqmvlrMK) | 3:41 |
 
-Snapshot ID: `MCw4YjlhZjQyZDc2NDA5OGYyZjc4OGE2NmQ2ZGFiZjMwYzUzZjMxZTdl`
+Snapshot ID: `MCxjZTFkZGY1ZjI5YWEwNDJlZjRhYTA3NmY2MTRmODgzZGYzZmEwNTk2`

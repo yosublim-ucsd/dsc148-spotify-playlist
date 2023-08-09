@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 715,
+  "num_followers": 716,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzMyOTY0NTY2MzBlODZhMjViZThiZWZlMTM4N2ZmOTRhNDJlNjc4",
+  "snapshot_id": "MCwxZjY1ZmYzNTRhMjMxNWM2Y2NkYjYyNWFhZGNlNTJkOWE2YmQzMzZm",
   "tracks": [
     {
       "added_at": "2023-07-28 11:06:29",
@@ -675,6 +675,30 @@
     {
       "added_at": "2023-07-28 11:06:29",
       "album": {
+        "name": "Getting Better",
+        "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
+      },
+      "artists": [
+        {
+          "name": "Ambassada",
+          "url": "https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS"
+        },
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Ps Wilson Bugembe",
+          "url": "https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD"
+        }
+      ],
+      "duration_ms": 245363,
+      "name": "Getting Better",
+      "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
+    },
+    {
+      "added_at": "2023-07-28 11:06:29",
+      "album": {
         "name": "Tick Talk",
         "url": "https://open.spotify.com/album/2XwaGscvD5onaAsMxOkrvT"
       },
@@ -699,30 +723,6 @@
       "duration_ms": 220206,
       "name": "Tick Talk",
       "url": "https://open.spotify.com/track/363p4oaCiyyPKWOkouJwYK"
-    },
-    {
-      "added_at": "2023-07-28 11:06:29",
-      "album": {
-        "name": "Getting Better",
-        "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
-      },
-      "artists": [
-        {
-          "name": "Ambassada",
-          "url": "https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS"
-        },
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Ps Wilson Bugembe",
-          "url": "https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD"
-        }
-      ],
-      "duration_ms": 245363,
-      "name": "Getting Better",
-      "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
     },
     {
       "added_at": "2023-07-28 11:06:29",
@@ -863,22 +863,22 @@
     {
       "added_at": "2023-07-28 11:06:29",
       "album": {
-        "name": "Misege",
-        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
+        "name": "Kiriza Rmx",
+        "url": "https://open.spotify.com/album/5WLHEoba9VjkYusf0zaE0F"
       },
       "artists": [
         {
-          "name": "Dax Vibez",
-          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
         },
         {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
         }
       ],
-      "duration_ms": 188235,
-      "name": "Misege",
-      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
+      "duration_ms": 162500,
+      "name": "Kiriza Rmx",
+      "url": "https://open.spotify.com/track/28oAFUkMiaRwLDz9LNza1f"
     },
     {
       "added_at": "2023-07-28 11:06:29",
@@ -907,22 +907,22 @@
     {
       "added_at": "2023-07-28 11:06:29",
       "album": {
-        "name": "Kiriza Rmx",
-        "url": "https://open.spotify.com/album/5WLHEoba9VjkYusf0zaE0F"
+        "name": "Misege",
+        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
       },
       "artists": [
         {
-          "name": "Vyper Ranking",
-          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+          "name": "Dax Vibez",
+          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
         },
         {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
         }
       ],
-      "duration_ms": 162500,
-      "name": "Kiriza Rmx",
-      "url": "https://open.spotify.com/track/28oAFUkMiaRwLDz9LNza1f"
+      "duration_ms": 188235,
+      "name": "Misege",
+      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
     },
     {
       "added_at": "2023-07-28 11:06:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Btrem, Mc Luanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,124 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,131 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 56 | [A Bruta, a Braba, a Forte](https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [A Bruta, a Braba, a Forte](https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb) | 2:44 |
 | 57 | [Finin de Ouro](https://open.spotify.com/track/3BZb1ArjUi8peWqwSv7wOQ) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Finin de Ouro](https://open.spotify.com/album/4mZoJDt9KEgTwoWKAn2Z8T) | 3:13 |
 | 58 | [Armamento do Irã](https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [D r o p e](https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Olympio](https://open.spotify.com/artist/1nR1Ogb4hP9WzmUbIArZ72) | [Armamento do Irã](https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3) | 4:19 |
-| 59 | [7 Velas](https://open.spotify.com/track/3O0Psgcf7AQXoYfgqp9c7K) | [PoetaNoBeat](https://open.spotify.com/artist/3mFb9oHAuhW1RmrR7St4vP), [monog](https://open.spotify.com/artist/6w2v8qBcnzlbxgspiEvHPA), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt) | [7 Velas](https://open.spotify.com/album/1Z17IlMM1tKTqlKM8qQL2V) | 2:09 |
+| 59 | [7 Velas](https://open.spotify.com/track/3O0Psgcf7AQXoYfgqp9c7K) | [Felipe Poeta](https://open.spotify.com/artist/3gZcF1tlgvrjYOaMOUW8Px), [monog](https://open.spotify.com/artist/6w2v8qBcnzlbxgspiEvHPA), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt) | [7 Velas](https://open.spotify.com/album/1Z17IlMM1tKTqlKM8qQL2V) | 2:09 |
 | 60 | [Família de Raça](https://open.spotify.com/track/5Ho4B8wcznNcNKE6s31RIJ) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD) | [Família de Raça](https://open.spotify.com/album/0BFDHJKqQQ04fh5P9v2o8q) | 2:59 |
 | 61 | [Programado pra Morrer](https://open.spotify.com/track/0Zo1u04qDDlH2qhWqXGCN8) | [B.L.U.N.T](https://open.spotify.com/artist/2vRnpVd35vTr7ZfDvZYnZZ), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd) | [Programado pra Morrer](https://open.spotify.com/album/05BrJ0ScVVXBp5cYEjelI2) | 3:23 |
 | 62 | [Passarelas e Vitrines](https://open.spotify.com/track/1bzqCRQHnTaN3hgPtujOTz) | [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA), [Luna](https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Eu Também Sou um Anjo](https://open.spotify.com/album/6yd1wjgnMwGxmrgMNwE7wt) | 3:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Revolta](https://open.spotify.com/track/1338yPBS9EvfuPW5wgKwrs) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Revolta](https://open.spotify.com/album/67kCjJrSahL0q8BpfGZmHC) | 3:16 |
 | 75 | [Encomenda](https://open.spotify.com/track/3XadSINduX4zXzhLUURFXa) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Encomenda](https://open.spotify.com/album/3jpzt9bFKyVzNAilVFD8XY) | 2:37 |
 
-Snapshot ID: `MCxkOWE5MWY3YWFkNTQ5Yzc0ZTI4ZDA3Y2VkOTU0ZDM0ZTFiMThlYWVh`
+Snapshot ID: `MCw4YjBmMzdmYzI2ZjJjYWQ4NWRmOTRjNzY0ZDQzNGI1N2Y0NTU1YzY0`

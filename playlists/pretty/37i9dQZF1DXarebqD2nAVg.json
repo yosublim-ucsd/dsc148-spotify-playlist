@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 433868,
+  "num_followers": 433991,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGVmNGI2MzkzNWUxMDQ2YzY0MDU3ZDM2YjZkOGMyNDEyN2E1YWVm",
+  "snapshot_id": "MCw1YWVmMGY2NDNmNDgyMjQxZjI4YzM0MmU5ZTU2YWIyZWMwOTgzOWIz",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "I Love You, That's the Problem",
-        "url": "https://open.spotify.com/album/26C68ZCAfMugnKcTp3Kf9u"
-      },
-      "artists": [
-        {
-          "name": "Kochetkovv",
-          "url": "https://open.spotify.com/artist/7BPQzcw927WoBtakErDh6d"
-        }
-      ],
-      "duration_ms": 142792,
-      "name": "I Love You, That's the Problem",
-      "url": "https://open.spotify.com/track/1tfAVU1HIrtlr79isORUW6"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Elsewhere",
         "url": "https://open.spotify.com/album/1gGfFfbRfgFUdEt0moggLS"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 168974,
       "name": "Think About U (feat. Joji)",
       "url": "https://open.spotify.com/track/4yakjUoss5rjOdPWQ8mW6Q"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "I Love You, That's the Problem",
+        "url": "https://open.spotify.com/album/26C68ZCAfMugnKcTp3Kf9u"
+      },
+      "artists": [
+        {
+          "name": "Kochetkovv",
+          "url": "https://open.spotify.com/artist/7BPQzcw927WoBtakErDh6d"
+        }
+      ],
+      "duration_ms": 142792,
+      "name": "I Love You, That's the Problem",
+      "url": "https://open.spotify.com/track/1tfAVU1HIrtlr79isORUW6"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -459,6 +459,26 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "FALLING DOWN",
+        "url": "https://open.spotify.com/album/1G5TUWRlTTdycaPgZ8YNM9"
+      },
+      "artists": [
+        {
+          "name": "Formalite",
+          "url": "https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw"
+        },
+        {
+          "name": "paydak",
+          "url": "https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx"
+        }
+      ],
+      "duration_ms": 96062,
+      "name": "FALLING DOWN",
+      "url": "https://open.spotify.com/track/0LDiwy2wlju7HSVPgNwNQZ"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Mixed Emotions",
         "url": "https://open.spotify.com/album/3igfYDpmMHHpErLb8vD3pg"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 145669,
       "name": "Was I Not Good Enough?",
       "url": "https://open.spotify.com/track/2XGWFqeiRy3LuMZ9eNWYbW"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "FALLING DOWN",
-        "url": "https://open.spotify.com/album/1G5TUWRlTTdycaPgZ8YNM9"
-      },
-      "artists": [
-        {
-          "name": "Formalite",
-          "url": "https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw"
-        },
-        {
-          "name": "paydak",
-          "url": "https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx"
-        }
-      ],
-      "duration_ms": 96062,
-      "name": "FALLING DOWN",
-      "url": "https://open.spotify.com/track/0LDiwy2wlju7HSVPgNwNQZ"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Lighter",
-        "url": "https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ"
+        "name": "Adomania",
+        "url": "https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D"
       },
       "artists": [
         {
-          "name": "[bsd.u]",
-          "url": "https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk"
+          "name": "Toonorth",
+          "url": "https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3"
         }
       ],
-      "duration_ms": 96092,
-      "name": "memories of you",
-      "url": "https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN"
+      "duration_ms": 90201,
+      "name": "Woozy",
+      "url": "https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Adomania",
-        "url": "https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D"
+        "name": "Distant",
+        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
       },
       "artists": [
         {
-          "name": "Toonorth",
-          "url": "https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3"
+          "name": "w00ds",
+          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
         }
       ],
-      "duration_ms": 90201,
-      "name": "Woozy",
-      "url": "https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey"
+      "duration_ms": 144892,
+      "name": "Distant",
+      "url": "https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Distant",
-        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
-      },
-      "artists": [
-        {
-          "name": "w00ds",
-          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
-        }
-      ],
-      "duration_ms": 144892,
-      "name": "Distant",
-      "url": "https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "leaving us",
         "url": "https://open.spotify.com/album/6byIGSY3mMn5JxSfUE1qcC"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 169941,
       "name": "can't tell",
       "url": "https://open.spotify.com/track/2vf6pbQcLYnbZfNkmZ57La"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ"
+      },
+      "artists": [
+        {
+          "name": "[bsd.u]",
+          "url": "https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk"
+        }
+      ],
+      "duration_ms": 96092,
+      "name": "memories of you",
+      "url": "https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN"
     },
     {
       "added_at": "2023-02-16 22:50:07",

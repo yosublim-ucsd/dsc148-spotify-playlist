@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Durand Bernarr
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017,755 likes - 173 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,950 likes - 173 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 172 | [Body Language](https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [Body Language](https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3) | 3:23 |
 | 173 | [Charismatic](https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw) | 3:04 |
 
-Snapshot ID: `MCwyOWQ3MzcyYmIwNjU4N2M2NTU3NDM0NWQyMDU0YjE1MDEyNDVjMTVi`
+Snapshot ID: `MCwxOGQ1NjNiZTYxZWE1MDg0NWYyMTAwYTk0NDVkNjY3YWU0MzQ3YzE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,605 likes - 117 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,623 likes - 117 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 95 | [Cotton](https://open.spotify.com/track/5O2YyBz2E0xVgSng44UTnV) | [Cop Envy](https://open.spotify.com/artist/2Kw0Sr0n8G0uuzyeFdANyF) | [Cotton EP](https://open.spotify.com/album/1xFPICA2qrNr6ytB3dlFR7) | 5:51 |
 | 96 | [The Hours](https://open.spotify.com/track/5pDMx1xOnhSomxKkJmez4p) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Supervillain](https://open.spotify.com/album/3LHbQ672nttiCLx9g0ZnaF) | 6:51 |
 | 97 | [Baby](https://open.spotify.com/track/0wPfUQUkWcguy2iUH0BWOT) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 4:24 |
-| 98 | [Music Sounds Better With You](https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 6:43 |
+| 98 | [Music Sounds Better With You](https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR), [Benjamin Diamond](https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 6:43 |
 | 99 | [Oedo 808](https://open.spotify.com/track/29vBqbsSx0PaDc7e8SZwqm) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Ambivert Tools, Vol\. 4](https://open.spotify.com/album/5Tk7z0XOX8FLfrPFztPIvw) | 5:28 |
 | 100 | [Rainbow Road](https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:27 |
 | 101 | [Eyes Of My Mind](https://open.spotify.com/track/6eLNnJwSlwEStbIAZVAYzd) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Eyes Of My Mind](https://open.spotify.com/album/0WaYnVmCtKMrDTWffsSKb2) | 9:12 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 116 | [Moninga](https://open.spotify.com/track/4P79noXrKGHrYUrsZioxjv) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/51Feoswkepa9SEg307gah5) | 4:55 |
 | 117 | [Balance \- Dj Floor Remix](https://open.spotify.com/track/0zKxARvuFIfUMx1MiuZaMR) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6), [DJ Floor](https://open.spotify.com/artist/6BuZRXj92YFV1pm7G8ZEyY) | [Balance \(Remixes\)](https://open.spotify.com/album/2OYcucJqPHC9paken1byEp) | 4:07 |
 
-Snapshot ID: `MCwzNmNlNWJjOTEzMTA4NmMzYzRiMDcyZmQ3Zjg1NjU0NjlkZDA2NzI1`
+Snapshot ID: `MCw0ZDc1ZWE0Y2Y5Yzg5ZjVkNjFiODUwYWJhN2M0Nzg4OTVhNWNkYTk0`

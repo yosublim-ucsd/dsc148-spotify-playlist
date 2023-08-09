@@ -1,12 +1,12 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 95478,
+  "num_followers": 95528,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTU2ZmVjNzI1ZDExMWQwNDFjYWQxOTIyMTI0NTIyYmJjYjQ1MjQw",
+  "snapshot_id": "MCxiYzJkZDk3YTY0N2RiMDdmN2YwM2JkMDBjNTljNTNiYjY1MjhlNzY3",
   "tracks": [
     {
       "added_at": "2022-11-02 14:00:00",
@@ -279,26 +279,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Finesse",
-        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Ahora y Siempre",
         "url": "https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 149275,
       "name": "Ahora y Siempre",
       "url": "https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "The Big Bang",
+        "url": "https://open.spotify.com/album/4KiFoNGSzCB5vxGrobuUcv"
+      },
+      "artists": [
+        {
+          "name": "Rock Mafia",
+          "url": "https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "The Big Bang",
+      "url": "https://open.spotify.com/track/0SGojwNP2zUrgDyeoBQxYO"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Olympia",
         "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 214500,
       "name": "West Ten (with Mabel)",
       "url": "https://open.spotify.com/track/1kNUlYIquh3WpllRoTCRJR"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "The Big Bang",
-        "url": "https://open.spotify.com/album/4KiFoNGSzCB5vxGrobuUcv"
-      },
-      "artists": [
-        {
-          "name": "Rock Mafia",
-          "url": "https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "The Big Bang",
-      "url": "https://open.spotify.com/track/0SGojwNP2zUrgDyeoBQxYO"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5"
-      },
-      "artists": [
-        {
-          "name": "Teddybears",
-          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "Cobrastyle",
-      "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "(II)",
         "url": "https://open.spotify.com/album/5nHvMBqwzqQIFdVFE1BIcx"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5"
       },
       "artists": [
         {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
         }
       ],
-      "duration_ms": 594453,
-      "name": "Fools Gold - Remastered",
-      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
+      "duration_ms": 179853,
+      "name": "Cobrastyle",
+      "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 254266,
       "name": "Fit but You Know It",
       "url": "https://open.spotify.com/track/312A8WfROSLvZbMDHBUPDp"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 594453,
+      "name": "Fools Gold - Remastered",
+      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Raging (feat. Kodaline)",
+        "url": "https://open.spotify.com/album/1lmuf0jQIFOnFOSV2x4RyX"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 224486,
+      "name": "Raging (feat. Kodaline)",
+      "url": "https://open.spotify.com/track/6DsFZITJMPnh8z5XewfVmL"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "For Ever",
         "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
@@ -1515,22 +1535,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Raging (feat. Kodaline)",
-        "url": "https://open.spotify.com/album/1lmuf0jQIFOnFOSV2x4RyX"
+        "name": "Be Your Love",
+        "url": "https://open.spotify.com/album/0IdLqHPv9Ac4YdEGyMD4YZ"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
         }
       ],
-      "duration_ms": 224486,
-      "name": "Raging (feat. Kodaline)",
-      "url": "https://open.spotify.com/track/6DsFZITJMPnh8z5XewfVmL"
+      "duration_ms": 194066,
+      "name": "Be Your Love",
+      "url": "https://open.spotify.com/track/1Taq7PrHRF7dLCcHTRh2aj"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1547,22 +1563,6 @@
       "duration_ms": 139293,
       "name": "Window",
       "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Be Your Love",
-        "url": "https://open.spotify.com/album/0IdLqHPv9Ac4YdEGyMD4YZ"
-      },
-      "artists": [
-        {
-          "name": "Bishop Briggs",
-          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
-        }
-      ],
-      "duration_ms": 194066,
-      "name": "Be Your Love",
-      "url": "https://open.spotify.com/track/1Taq7PrHRF7dLCcHTRh2aj"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 298520,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/2UO6VQNKdwygetKaVCe39h"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Wrong Time",
         "url": "https://open.spotify.com/album/3a6or8qwEaFtPZFhEWVOTQ"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 170387,
       "name": "Wrong Time",
       "url": "https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 298520,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/2UO6VQNKdwygetKaVCe39h"
     },
     {
       "added_at": "2022-11-02 14:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 1988,
+  "num_followers": 1997,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDA2MjMyZTZiMjZlMGYxYTMyZWJlNTY2OWYyM2FiNjUxY2VhNTNl",
+  "snapshot_id": "MCwxNjI0OWY1NmY3Yzk2NzlhZDc2MjYyMTI1YjhkZTY4ZmY4N2NmOTk0",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
     },
     {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "Shusha Nyavu",
-        "url": "https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Shusha Nyavu",
-      "url": "https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1"
-    },
-    {
       "added_at": "2023-08-04 00:01:00",
       "album": {
         "name": "Another Miracle",
@@ -435,6 +419,22 @@
       "duration_ms": 212869,
       "name": "Another Miracle",
       "url": "https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Shusha Nyavu",
+        "url": "https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Shusha Nyavu",
+      "url": "https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -507,38 +507,6 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/65LvwDgc92DvkD7GdhPl7R"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 249026,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/6vUjxGdsmFyyycqZohBo8e"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "Safari: The Journey",
-        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
-      },
-      "artists": [
-        {
-          "name": "Adawnage",
-          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
-        }
-      ],
-      "duration_ms": 281155,
-      "name": "Uwezo",
-      "url": "https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
         "name": "The Sound of Redemption",
         "url": "https://open.spotify.com/album/33eTjDxci5pBddq5SAJome"
       },
@@ -555,6 +523,22 @@
       "duration_ms": 403568,
       "name": "We Worship",
       "url": "https://open.spotify.com/track/6df95vCVl83PMM0SHJp9CP"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Safari: The Journey",
+        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
+      },
+      "artists": [
+        {
+          "name": "Adawnage",
+          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
+        }
+      ],
+      "duration_ms": 281155,
+      "name": "Uwezo",
+      "url": "https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -591,22 +575,6 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Nipe Macho",
-        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 353720,
-      "name": "Nipe Macho",
-      "url": "https://open.spotify.com/track/6RShwwY6EHo3sOJtkUMKvh"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
         "name": "Uniongoze Yesu, Vol.4",
         "url": "https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx"
       },
@@ -619,6 +587,22 @@
       "duration_ms": 490919,
       "name": "Uniongoze Yesu",
       "url": "https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/65LvwDgc92DvkD7GdhPl7R"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 249026,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/6vUjxGdsmFyyycqZohBo8e"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -743,22 +727,6 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Unikumbuke",
-        "url": "https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 490293,
-      "name": "Mtetezi Wangu",
-      "url": "https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
         "name": "Tumeshinda",
         "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
       },
@@ -775,6 +743,22 @@
       "duration_ms": 365417,
       "name": "Tumeshinda",
       "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Nipe Macho",
+        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 353720,
+      "name": "Nipe Macho",
+      "url": "https://open.spotify.com/track/6RShwwY6EHo3sOJtkUMKvh"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -811,22 +795,6 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Nations Will Rise and Sing",
-        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
-      },
-      "artists": [
-        {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 304680,
-      "name": "Awesome God",
-      "url": "https://open.spotify.com/track/4oCXUgcCSlJTe2UjMfzbOl"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
         "name": "Yatupasa Kushukuru",
         "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
       },
@@ -839,6 +807,22 @@
       "duration_ms": 283469,
       "name": "Yatupasa Kushukuru",
       "url": "https://open.spotify.com/track/1Rjd4KCqOmUnrHtuorPgxD"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Nations Will Rise and Sing",
+        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 304680,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/4oCXUgcCSlJTe2UjMfzbOl"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -879,22 +863,6 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Nipe Macho",
-        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 315213,
-      "name": "Thamani Ya Wokovu",
-      "url": "https://open.spotify.com/track/5npUvkxp8M3tT4DMSjvoeS"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
         "name": "Mfalme Wa Amani",
         "url": "https://open.spotify.com/album/36ZilAXt9d4ZqUphTaJaTG"
       },
@@ -907,6 +875,38 @@
       "duration_ms": 472477,
       "name": "Mfalme Wa Amani",
       "url": "https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Unikumbuke",
+        "url": "https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 490293,
+      "name": "Mtetezi Wangu",
+      "url": "https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Nikumbushe Wema Wako",
+        "url": "https://open.spotify.com/album/5u0BBGqAaYEgN3Kkrk41AX"
+      },
+      "artists": [
+        {
+          "name": "Angel Benard",
+          "url": "https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD"
+        }
+      ],
+      "duration_ms": 439588,
+      "name": "Nikumbushe Wema Wako",
+      "url": "https://open.spotify.com/track/62cnrFkQOy5jBuOoCBm5qT"
     }
   ],
   "unique_name": "Sunday Service",

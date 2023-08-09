@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-853 songs - 2 day 7 hr 54 min
+854 songs - 2 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,7 +534,7 @@
 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 | 2023-06-27 |  |
 | [Nobody Taught Me](https://open.spotify.com/track/5bVZ4C7MFM1tgsb8VjvLb3) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Nobody Taught Me](https://open.spotify.com/album/5Wjjrn5PxAzqwHDSSFfjtY) | 3:49 | 2021-07-19 | 2022-06-26 |
 | [Nomad](https://open.spotify.com/track/1JC5wIc1y4aIVt5PDXE7dY) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Nomad](https://open.spotify.com/album/4dYOz9ubqYpjlRf2nb2Exp) | 3:44 | 2022-06-17 | 2022-07-29 |
-| [Nomad](https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:44 | 2022-07-22 |  |
+| [Nomad](https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:44 | 2022-07-22 | 2023-08-09 |
 | [Nosediiv](https://open.spotify.com/track/3Qk4IlwD4Of9SMTdNRshoE) | [Volleyball](https://open.spotify.com/artist/4Z6IMhEg0jI9fQe8VcXAok) | [Nosediiv](https://open.spotify.com/album/3UW08l0fZcigt7ProhEsrL) | 2:30 | 2021-06-04 | 2022-04-16 |
 | [Nostalgia City](https://open.spotify.com/track/22m6tLNJjQtcLGuNdg9VTS) | [The Palms](https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X) | [Charlie](https://open.spotify.com/album/5QPpxdO8BlrJA5YwXwjPR4) | 3:54 | 2021-04-02 | 2022-04-20 |
 | [Not in Love We’re Just High](https://open.spotify.com/track/2GAvCh5XRUcadG2xScude5) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Not in Love We’re Just High](https://open.spotify.com/album/5g62OA1J2qxRVkoTILVpLs) | 3:37 | 2021-04-02 | 2022-04-18 |
@@ -762,6 +762,7 @@
 | [This Heart of Mine](https://open.spotify.com/track/6EC0epWBuexiJYzfvRGVga) | [Ronnie & Clyde](https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ) | [Nettlebed Skyline](https://open.spotify.com/album/61I5mpKyaENNlRlLw5O986) | 5:00 | 2023-03-06 | 2023-03-18 |
 | [This Kind of Love](https://open.spotify.com/track/1fGhrU1TTRIq8fHJSJOlwP) | [Peter The Human Boy](https://open.spotify.com/artist/45nVGQ6yYctA4eKMTj5YPw) | [This Kind of Love](https://open.spotify.com/album/1N12Njy9L9rYIgdcWI3pmC) | 3:23 | 2021-04-02 | 2022-04-21 |
 | [threethou \- latenight](https://open.spotify.com/track/06fIKQURUEsv8g6K31kCny) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [Count Draco](https://open.spotify.com/artist/2pTgkxpwt3m1IiNmWTQNiu), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe), [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu) | [threethou \(latenight\)](https://open.spotify.com/album/1ib7ePKBmxKH097Mc7aFqy) | 1:20 | 2023-02-24 | 2023-05-27 |
+| [Thundercurls](https://open.spotify.com/track/22kr7jc4vGmQhxegTxidpN) | [Grande Mahogany](https://open.spotify.com/artist/5Ap6WM27z0Xie0W8Wfs68Q) | [Thundercurls](https://open.spotify.com/album/6Xbw2qrPE3o5UAmH6fdHco) | 3:07 | 2023-08-08 |  |
 | [Tiger](https://open.spotify.com/track/1zydSwU6v1IHHYeb58c3YB) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Where I Live](https://open.spotify.com/album/3fdj5y1QH4yT1Z5lYxKAFL) | 3:00 | 2022-07-11 | 2022-10-15 |
 | [Tiger](https://open.spotify.com/track/39UWlEnYolv3LfQoEYqJIn) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Tiger](https://open.spotify.com/album/4OPBRShV2OxYoT4hAenDPl) | 3:00 | 2021-04-02 | 2022-07-09 |
 | [Tiger](https://open.spotify.com/track/6TDpf5z03JinsQV3wJGhNu) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Where I Live](https://open.spotify.com/album/5G0IeQv7O6GjLYTcDDuEpM) | 3:00 | 2022-10-24 | 2023-03-07 |

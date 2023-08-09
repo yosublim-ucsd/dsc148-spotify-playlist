@@ -1,12 +1,12 @@
 {
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
-  "num_followers": 2703782,
+  "num_followers": 2706646,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjZkNDJjMzkxYzFiOGY5ZTM4MGM4YTA5OWNhNzU2NDYzOTY5YWEw",
+  "snapshot_id": "MCxhZmE0MTdmNTEyZDRlNTVkNWFhMWNlMDcyYjE5Yjg0NzY1OWIyNWEw",
   "tracks": [
     {
       "added_at": "2023-07-31 15:26:05",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
-        "name": "Todavia (Radio Edit)",
-        "url": "https://open.spotify.com/album/2ljlY9QPnJ6VJ3JxUcxqf8"
+        "name": "Ven Bailalo (Reggaeton Mix)",
+        "url": "https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y"
       },
       "artists": [
         {
-          "name": "La Factoria",
-          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+          "name": "Angel Y Khriz",
+          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
         }
       ],
-      "duration_ms": 203453,
-      "name": "Todavia - Radio Edit",
-      "url": "https://open.spotify.com/track/2anG3oj6XqxccnXJPUOnac"
+      "duration_ms": 252773,
+      "name": "Ven Bailalo - Reggaeton Mix",
+      "url": "https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
-        "name": "Ven Bailalo (Reggaeton Mix)",
-        "url": "https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y"
+        "name": "Todavia (Radio Edit)",
+        "url": "https://open.spotify.com/album/2ljlY9QPnJ6VJ3JxUcxqf8"
       },
       "artists": [
         {
-          "name": "Angel Y Khriz",
-          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
+          "name": "La Factoria",
+          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
         }
       ],
-      "duration_ms": 252773,
-      "name": "Ven Bailalo - Reggaeton Mix",
-      "url": "https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N"
+      "duration_ms": 203453,
+      "name": "Todavia - Radio Edit",
+      "url": "https://open.spotify.com/track/2anG3oj6XqxccnXJPUOnac"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -875,26 +875,6 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "6 AM",
-      "url": "https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr"
-    },
-    {
-      "added_at": "2023-07-31 15:26:05",
-      "album": {
         "name": "Yo S\u00e9 Que T\u00fa Quieres",
         "url": "https://open.spotify.com/album/1KN1u76viK52AhHlWUxmJj"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 208065,
       "name": "Yo S\u00e9 Que T\u00fa Quieres",
       "url": "https://open.spotify.com/track/4Aao0TQ5SvTitMxZb9oY7F"
+    },
+    {
+      "added_at": "2023-07-31 15:26:05",
+      "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
-        "name": "Emigrante Del Mundo (Remastered)",
-        "url": "https://open.spotify.com/album/1eoYupgvxWRBT6nHnAHjEQ"
-      },
-      "artists": [
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        }
-      ],
-      "duration_ms": 184217,
-      "name": "Baila Morena",
-      "url": "https://open.spotify.com/track/4dNRA8hrqj7XJvFhGSQsKe"
-    },
-    {
-      "added_at": "2023-07-31 15:26:05",
-      "album": {
         "name": "The King Of Dance",
         "url": "https://open.spotify.com/album/0ReZGnwwE1cwqgyIwOfluR"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 182453,
       "name": "Bailando por Ahi",
       "url": "https://open.spotify.com/track/4QJznEbuwYc5CnPzI7xAZy"
+    },
+    {
+      "added_at": "2023-07-31 15:26:05",
+      "album": {
+        "name": "Emigrante Del Mundo (Remastered)",
+        "url": "https://open.spotify.com/album/1eoYupgvxWRBT6nHnAHjEQ"
+      },
+      "artists": [
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "duration_ms": 184217,
+      "name": "Baila Morena",
+      "url": "https://open.spotify.com/track/4dNRA8hrqj7XJvFhGSQsKe"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -2015,6 +2015,34 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
+        "name": "Hoy (feat. Daddy Yankee, J-Alvarez & Jory)",
+        "url": "https://open.spotify.com/album/63KShmoudDQpMk8eFWBLjb"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        }
+      ],
+      "duration_ms": 293773,
+      "name": "Hoy (feat. Daddy Yankee, J-Alvarez & Jory)",
+      "url": "https://open.spotify.com/track/2MrP2Sv5Zbj1qckTKD1pVn"
+    },
+    {
+      "added_at": "2023-07-31 15:26:05",
+      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/7tKeiurj0n5DmV57x7p6U4"
       },
@@ -2047,46 +2075,18 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
-        "name": "Hoy (feat. Daddy Yankee, J-Alvarez & Jory)",
-        "url": "https://open.spotify.com/album/63KShmoudDQpMk8eFWBLjb"
+        "name": "El Bokisucio",
+        "url": "https://open.spotify.com/album/6z9x1lTBNUSF8qCZ7kMiWd"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        },
-        {
-          "name": "Jory Boy",
-          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
         }
       ],
-      "duration_ms": 293773,
-      "name": "Hoy (feat. Daddy Yankee, J-Alvarez & Jory)",
-      "url": "https://open.spotify.com/track/2MrP2Sv5Zbj1qckTKD1pVn"
-    },
-    {
-      "added_at": "2023-07-31 15:26:05",
-      "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP"
-      },
-      "artists": [
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        }
-      ],
-      "duration_ms": 221768,
-      "name": "Como Yo Le Doy",
-      "url": "https://open.spotify.com/track/4sUvL7D0XXsxWxHsIB3Cmj"
+      "duration_ms": 234733,
+      "name": "Gata Oficial",
+      "url": "https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -2107,18 +2107,18 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
-        "name": "El Bokisucio",
-        "url": "https://open.spotify.com/album/6z9x1lTBNUSF8qCZ7kMiWd"
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP"
       },
       "artists": [
         {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
         }
       ],
-      "duration_ms": 234733,
-      "name": "Gata Oficial",
-      "url": "https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF"
+      "duration_ms": 221768,
+      "name": "Como Yo Le Doy",
+      "url": "https://open.spotify.com/track/4sUvL7D0XXsxWxHsIB3Cmj"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm"
-      },
-      "artists": [
-        {
-          "name": "Flex",
-          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/0yrvmIafnxkkMCMAIaDgiQ"
-    },
-    {
-      "added_at": "2023-07-31 15:26:05",
-      "album": {
         "name": "Chosen Few El Documental II",
         "url": "https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 183133,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU"
+    },
+    {
+      "added_at": "2023-07-31 15:26:05",
+      "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm"
+      },
+      "artists": [
+        {
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/0yrvmIafnxkkMCMAIaDgiQ"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
-      },
-      "artists": [
-        {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
-        }
-      ],
-      "duration_ms": 288400,
-      "name": "No Te Veo - Remix",
-      "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
-    },
-    {
-      "added_at": "2023-07-31 15:26:05",
-      "album": {
         "name": "Drama Queen (Deluxe Version)",
         "url": "https://open.spotify.com/album/4wsiP6swqKBRhdlqk6PsAV"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 192306,
       "name": "La Vida Es As\u00ed",
       "url": "https://open.spotify.com/track/4zK05ecddIq3vfd08Aqi8y"
+    },
+    {
+      "added_at": "2023-07-31 15:26:05",
+      "album": {
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+      },
+      "artists": [
+        {
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+        }
+      ],
+      "duration_ms": 288400,
+      "name": "No Te Veo - Remix",
+      "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -2439,26 +2439,6 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
-        "name": "Welcome To The Jungle",
-        "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
-      },
-      "artists": [
-        {
-          "name": "Franco \"El Gorilla\"",
-          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 218506,
-      "name": "Sexo Seguro",
-      "url": "https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI"
-    },
-    {
-      "added_at": "2023-07-31 15:26:05",
-      "album": {
         "name": "La Melodia de la Calle \"Updated\"",
         "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
       },
@@ -2475,6 +2455,26 @@
       "duration_ms": 188826,
       "name": "Solos",
       "url": "https://open.spotify.com/track/0WKd91LoIHCFIhDmgewjhy"
+    },
+    {
+      "added_at": "2023-07-31 15:26:05",
+      "album": {
+        "name": "Welcome To The Jungle",
+        "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
+      },
+      "artists": [
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 218506,
+      "name": "Sexo Seguro",
+      "url": "https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -2563,6 +2563,26 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
+        "name": "Los Mackieavelikos 2055",
+        "url": "https://open.spotify.com/album/2nwNSk7AzHGh1Pul74uLD0"
+      },
+      "artists": [
+        {
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/7viqvBP4uYljgKcqYfLkvu"
+        }
+      ],
+      "duration_ms": 244507,
+      "name": "Nada Va Pasar",
+      "url": "https://open.spotify.com/track/33Idge1vAbeLUtpSJRPUXU"
+    },
+    {
+      "added_at": "2023-07-31 15:26:05",
+      "album": {
         "name": "Fuera del Planeta",
         "url": "https://open.spotify.com/album/1b1Wab99cO3K0Zl26MYXMS"
       },
@@ -2631,26 +2651,6 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
-        "name": "Los Mackieavelikos 2055",
-        "url": "https://open.spotify.com/album/2nwNSk7AzHGh1Pul74uLD0"
-      },
-      "artists": [
-        {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
-        },
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/7viqvBP4uYljgKcqYfLkvu"
-        }
-      ],
-      "duration_ms": 244507,
-      "name": "Nada Va Pasar",
-      "url": "https://open.spotify.com/track/33Idge1vAbeLUtpSJRPUXU"
-    },
-    {
-      "added_at": "2023-07-31 15:26:05",
-      "album": {
         "name": "La Pelicula",
         "url": "https://open.spotify.com/album/6EAn7VG0UE83hUkzrUMBME"
       },
@@ -2703,22 +2703,6 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
-        "name": "Broke & Famous",
-        "url": "https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve"
-      },
-      "artists": [
-        {
-          "name": "\u00d1ejo & Dalmata",
-          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "Sexo En La Playa",
-      "url": "https://open.spotify.com/track/7000lIDeQQURNIsLINOYZo"
-    },
-    {
-      "added_at": "2023-07-31 15:26:05",
-      "album": {
         "name": "Los Reyes del Perreo",
         "url": "https://open.spotify.com/album/6bPsYMsG4sR9DgITKxATkF"
       },
@@ -2735,6 +2719,38 @@
       "duration_ms": 164693,
       "name": "El Tiburon",
       "url": "https://open.spotify.com/track/7xzcR7ChznJF5KgDS7exYA"
+    },
+    {
+      "added_at": "2023-07-31 15:26:05",
+      "album": {
+        "name": "Broke & Famous",
+        "url": "https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve"
+      },
+      "artists": [
+        {
+          "name": "\u00d1ejo & Dalmata",
+          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
+        }
+      ],
+      "duration_ms": 218386,
+      "name": "Sexo En La Playa",
+      "url": "https://open.spotify.com/track/7000lIDeQQURNIsLINOYZo"
+    },
+    {
+      "added_at": "2023-07-31 15:26:05",
+      "album": {
+        "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
+        "url": "https://open.spotify.com/album/5h67fwP7oqhvvPkSWKv9g3"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 271986,
+      "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
+      "url": "https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -2783,22 +2799,6 @@
       "duration_ms": 227853,
       "name": "Hola Bebe",
       "url": "https://open.spotify.com/track/33y08bwbpU8Fn8KzBm5lAy"
-    },
-    {
-      "added_at": "2023-07-31 15:26:05",
-      "album": {
-        "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
-        "url": "https://open.spotify.com/album/5h67fwP7oqhvvPkSWKv9g3"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 271986,
-      "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
-      "url": "https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -2887,26 +2887,34 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
-        "name": "Money Is Still A Major Issue",
-        "url": "https://open.spotify.com/album/0gayfOCt1DJX4j8MOhv7we"
+        "name": "The Bad Boy (The Most Wanted Edition)",
+        "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Culo Remix",
-      "url": "https://open.spotify.com/track/02a3YjaSKk3KZxK5mMnSW1"
+      "duration_ms": 173506,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/3bNRq6LJ3n1lp1A7qrrWK6"
+    },
+    {
+      "added_at": "2023-07-31 15:26:05",
+      "album": {
+        "name": "KlK Llego El Tipo the Album",
+        "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
+      },
+      "artists": [
+        {
+          "name": "Wilo D New",
+          "url": "https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Menea Tu Chapa",
+      "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -2935,18 +2943,26 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
-        "name": "The Bad Boy (The Most Wanted Edition)",
-        "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
+        "name": "Money Is Still A Major Issue",
+        "url": "https://open.spotify.com/album/0gayfOCt1DJX4j8MOhv7we"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
         }
       ],
-      "duration_ms": 173506,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3bNRq6LJ3n1lp1A7qrrWK6"
+      "duration_ms": 240133,
+      "name": "Culo Remix",
+      "url": "https://open.spotify.com/track/02a3YjaSKk3KZxK5mMnSW1"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -2963,22 +2979,6 @@
       "duration_ms": 196468,
       "name": "Sin Miedo",
       "url": "https://open.spotify.com/track/6hWW4e5GeZpppndu1IwKzR"
-    },
-    {
-      "added_at": "2023-07-31 15:26:05",
-      "album": {
-        "name": "KlK Llego El Tipo the Album",
-        "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
-      },
-      "artists": [
-        {
-          "name": "Wilo D New",
-          "url": "https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Menea Tu Chapa",
-      "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -3071,26 +3071,6 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
-        "name": "Tu Cuerpo Me Llama Rmx",
-        "url": "https://open.spotify.com/album/1rRh2xa2bcl9aXnrucLKrE"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        },
-        {
-          "name": "LOS MORTAL COMBAT",
-          "url": "https://open.spotify.com/artist/7k30THfvs2zMuXGUyv8hEp"
-        }
-      ],
-      "duration_ms": 245783,
-      "name": "Tu Cuerpo Me Llama Rmx",
-      "url": "https://open.spotify.com/track/5TR1zti5AbI8mcOOzkEUqI"
-    },
-    {
-      "added_at": "2023-07-31 15:26:05",
-      "album": {
         "name": "Alex G\u00e1rgolas Presenta: Las G\u00e1rgolas,Vol.4",
         "url": "https://open.spotify.com/album/5pB29lSqQXirGEdMfJhtWH"
       },
@@ -3143,6 +3123,26 @@
       "duration_ms": 185973,
       "name": "La Calle Me Lo Pidio",
       "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
+    },
+    {
+      "added_at": "2023-07-31 15:26:05",
+      "album": {
+        "name": "Tu Cuerpo Me Llama Rmx",
+        "url": "https://open.spotify.com/album/1rRh2xa2bcl9aXnrucLKrE"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        },
+        {
+          "name": "LOS MORTAL COMBAT",
+          "url": "https://open.spotify.com/artist/7k30THfvs2zMuXGUyv8hEp"
+        }
+      ],
+      "duration_ms": 245783,
+      "name": "Tu Cuerpo Me Llama Rmx",
+      "url": "https://open.spotify.com/track/5TR1zti5AbI8mcOOzkEUqI"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -3215,22 +3215,6 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/7x3fxxIu6PzxM58xPYMNYx"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 218226,
-      "name": "Secretos",
-      "url": "https://open.spotify.com/track/0ezA5xFPmYbWdlq6LF0juY"
-    },
-    {
-      "added_at": "2023-07-31 15:26:05",
-      "album": {
         "name": "Nueva Generaci\u00f3n",
         "url": "https://open.spotify.com/album/218z2P2Cl8TWrE3P3lOJDl"
       },
@@ -3279,6 +3263,22 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
+        "name": "La Santa",
+        "url": "https://open.spotify.com/album/2o1mgdJOh3Jbo365b4YfpC"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "duration_ms": 206249,
+      "name": "La Santa",
+      "url": "https://open.spotify.com/track/3hkvdWmg96e8wEemc9Cm3p"
+    },
+    {
+      "added_at": "2023-07-31 15:26:05",
+      "album": {
         "name": "El Que los Puso a Entonar",
         "url": "https://open.spotify.com/album/5rlYUO0BB8CMczbXc25Wrr"
       },
@@ -3307,22 +3307,6 @@
       "duration_ms": 238890,
       "name": "Si No Cuidas Tu Mujer",
       "url": "https://open.spotify.com/track/40AGTob7V8pCDvvXERrCu3"
-    },
-    {
-      "added_at": "2023-07-31 15:26:05",
-      "album": {
-        "name": "La Santa",
-        "url": "https://open.spotify.com/album/2o1mgdJOh3Jbo365b4YfpC"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 206249,
-      "name": "La Santa",
-      "url": "https://open.spotify.com/track/3hkvdWmg96e8wEemc9Cm3p"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -3411,6 +3395,22 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/7x3fxxIu6PzxM58xPYMNYx"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "duration_ms": 218226,
+      "name": "Secretos",
+      "url": "https://open.spotify.com/track/0ezA5xFPmYbWdlq6LF0juY"
+    },
+    {
+      "added_at": "2023-07-31 15:26:05",
+      "album": {
         "name": "History",
         "url": "https://open.spotify.com/album/39TV17NEBwu6Y0VgWgVa9p"
       },
@@ -3435,26 +3435,6 @@
       "duration_ms": 294826,
       "name": "Vaina Loca - Remix",
       "url": "https://open.spotify.com/track/2vMQEuJYOVyJBXQ8zf9O6Z"
-    },
-    {
-      "added_at": "2023-07-31 15:26:05",
-      "album": {
-        "name": "Te Gateo",
-        "url": "https://open.spotify.com/album/7Epmj1ZdSYg6Icj8sADKTv"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        },
-        {
-          "name": "Pipe Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w"
-        }
-      ],
-      "duration_ms": 239988,
-      "name": "Te Gateo",
-      "url": "https://open.spotify.com/track/4Olg2t4aeAGzC1Zo4C63SC"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -3491,6 +3471,26 @@
       "duration_ms": 183196,
       "name": "Te Ir\u00e9 a Buscar",
       "url": "https://open.spotify.com/track/5MPSIqK8WmbQ9TkuJhmtyv"
+    },
+    {
+      "added_at": "2023-07-31 15:26:05",
+      "album": {
+        "name": "Flow la Discoteka 2",
+        "url": "https://open.spotify.com/album/2BWXXmkWvvqCFc5qzbi22D"
+      },
+      "artists": [
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 264212,
+      "name": "Chica Virtual (feat. Arcangel)",
+      "url": "https://open.spotify.com/track/2fxmV4oZNFCZGXgJ8tN9Jf"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -3539,22 +3539,22 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
-        "name": "Flow la Discoteka 2",
-        "url": "https://open.spotify.com/album/2BWXXmkWvvqCFc5qzbi22D"
+        "name": "Te Gateo",
+        "url": "https://open.spotify.com/album/7Epmj1ZdSYg6Icj8sADKTv"
       },
       "artists": [
         {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
         },
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Pipe Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w"
         }
       ],
-      "duration_ms": 264212,
-      "name": "Chica Virtual (feat. Arcangel)",
-      "url": "https://open.spotify.com/track/2fxmV4oZNFCZGXgJ8tN9Jf"
+      "duration_ms": 239988,
+      "name": "Te Gateo",
+      "url": "https://open.spotify.com/track/4Olg2t4aeAGzC1Zo4C63SC"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -3571,6 +3571,26 @@
       "duration_ms": 280680,
       "name": "Es Dificil",
       "url": "https://open.spotify.com/track/2yIt5SGOZCHE2PuzcXfOof"
+    },
+    {
+      "added_at": "2023-07-31 15:26:05",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/4TGmmsYSfg2VTz3sk2J1t3"
+      },
+      "artists": [
+        {
+          "name": "Magnate",
+          "url": "https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V"
+        },
+        {
+          "name": "Valentino",
+          "url": "https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW"
+        }
+      ],
+      "duration_ms": 276926,
+      "name": "Dile a Ella",
+      "url": "https://open.spotify.com/track/1X78fIDc2MXuaXCp0JqJh7"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -3611,6 +3631,30 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/7GhCq3DjpF2LBif2eVKflR"
+      },
+      "artists": [
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Tejo Calderon",
+          "url": "https://open.spotify.com/artist/0NXFKE1cg2xTasxzotAcPN"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "duration_ms": 195816,
+      "name": "No Quiere Novio (remix) [feat. Nejo & Tego Calderon]",
+      "url": "https://open.spotify.com/track/5XxOOXTiDicBrQXv0PAAH6"
+    },
+    {
+      "added_at": "2023-07-31 15:26:05",
+      "album": {
         "name": "Matador (Official Remix)",
         "url": "https://open.spotify.com/album/2mL69LoCsroXQIDdNHYPsq"
       },
@@ -3639,50 +3683,6 @@
       "duration_ms": 272822,
       "name": "Matador - Official Remix",
       "url": "https://open.spotify.com/track/27ALar3f8xkLfXOrKAzDkg"
-    },
-    {
-      "added_at": "2023-07-31 15:26:05",
-      "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/7GhCq3DjpF2LBif2eVKflR"
-      },
-      "artists": [
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        },
-        {
-          "name": "Tejo Calderon",
-          "url": "https://open.spotify.com/artist/0NXFKE1cg2xTasxzotAcPN"
-        },
-        {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
-        }
-      ],
-      "duration_ms": 195816,
-      "name": "No Quiere Novio (remix) [feat. Nejo & Tego Calderon]",
-      "url": "https://open.spotify.com/track/5XxOOXTiDicBrQXv0PAAH6"
-    },
-    {
-      "added_at": "2023-07-31 15:26:05",
-      "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/4TGmmsYSfg2VTz3sk2J1t3"
-      },
-      "artists": [
-        {
-          "name": "Magnate",
-          "url": "https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V"
-        },
-        {
-          "name": "Valentino",
-          "url": "https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW"
-        }
-      ],
-      "duration_ms": 276926,
-      "name": "Dile a Ella",
-      "url": "https://open.spotify.com/track/1X78fIDc2MXuaXCp0JqJh7"
     },
     {
       "added_at": "2023-07-31 15:26:05",
@@ -3735,22 +3735,18 @@
     {
       "added_at": "2023-07-31 15:26:05",
       "album": {
-        "name": "Contra la Corriente",
-        "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
+        "name": "Vida Escante",
+        "url": "https://open.spotify.com/album/4zdEAfhZ9PymOasYqNK6uZ"
       },
       "artists": [
         {
-          "name": "Noriega",
-          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
-        },
-        {
-          "name": "Kartiel",
-          "url": "https://open.spotify.com/artist/3va7QuLvGN0JGzpgW8Arsg"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 213577,
-      "name": "Si Te Vas (feat. Kartiel)",
-      "url": "https://open.spotify.com/track/2idYorcqrno522ANO7mDhY"
+      "duration_ms": 171240,
+      "name": "Chambonea",
+      "url": "https://open.spotify.com/track/3SESZ1maRpb7b12VpbgRWN"
     }
   ],
   "unique_name": "Reggaet\u00f3n Viejito",

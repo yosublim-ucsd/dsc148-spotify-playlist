@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Silas Magalhães
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,079 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,290 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 35 | [Vale da Sombra](https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Vale da Sombra](https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF) | 3:12 |
 | 36 | [Olho pro Céu](https://open.spotify.com/track/5m4DYDaq07W0o2dIYGik0S) | [WC12](https://open.spotify.com/artist/6dQkBBfff6UrkiFWmiPZhe), [Gemão](https://open.spotify.com/artist/1MDgpjNeVepTbDdQIjmbE2), [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ) | [Olho pro Céu](https://open.spotify.com/album/34rhziCCOtspVNUED09xYb) | 3:48 |
 | 37 | [Já Agradeço](https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Já Agradeço](https://open.spotify.com/album/0Lxd7fr37TkujRxiMBE4LQ) | 3:20 |
-| 38 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
+| 38 | [Coração Quebrado](https://open.spotify.com/track/0zDsJEkQ9hITcgucojBQzt) | [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [SCampos](https://open.spotify.com/artist/35Ec0e31nIQQ67eQqK0dhZ) | [Coração Quebrado](https://open.spotify.com/album/349KT4LJKGKSgtajbT031W) | 2:02 |
 | 39 | [Labirinto](https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Labirinto](https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW) | 3:37 |
-| 40 | [Coração Quebrado](https://open.spotify.com/track/0zDsJEkQ9hITcgucojBQzt) | [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [SCampos](https://open.spotify.com/artist/35Ec0e31nIQQ67eQqK0dhZ) | [Coração Quebrado](https://open.spotify.com/album/349KT4LJKGKSgtajbT031W) | 2:02 |
+| 40 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
 | 41 | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/track/1lumFVKdKI1ry8laEH1WET) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Ago de Souza](https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk), [Stella Yeshua](https://open.spotify.com/artist/2X2BJy2XLWgvdeAdKFkrfW), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [Jana Baps](https://open.spotify.com/artist/0QJVszKiVI4rciiKkjWpcj) | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/album/2XsKcTiMnXeRKhVA8BE63Q) | 3:37 |
 | 42 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
 | 43 | [Imersum](https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Imersum](https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ) | 2:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 79 | [Uma Missão](https://open.spotify.com/track/2bxYiuNc2hYWkuzK5HrVcZ) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Uma Missão](https://open.spotify.com/album/3v56SzOs0MHmJ8Vl273i41) | 2:48 |
 | 80 | [Se Eu Te Dissesse](https://open.spotify.com/track/1pweaRmV9hW84DPcw32CbM) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Se Eu Te Dissesse](https://open.spotify.com/album/1HkQvSqoRfTqx2PdztFFHl) | 1:59 |
 
-Snapshot ID: `MCwxNGQ3ZjFhNzc1YmVhOWM0NDA1YmQzZjE5ZjU2OGNiNzVhOTRiMDZh`
+Snapshot ID: `MCxlNzIxNWZjYmI2NTA5ZTUxOGFkNzdjZWJlYzgxYjY4Y2IyMzI4ZjQw`

@@ -4,11 +4,11 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-394 songs - 21 hr 9 min
+395 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2022-07-14 |  |
+| [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2022-07-14 | 2023-08-09 |
 | [abc \(The Wild Remix\)](https://open.spotify.com/track/69P8aWFbgM3eD7UFSLPWsq) | [The Wild](https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abc \(The Wild Remix\)](https://open.spotify.com/album/0Zq00ywbUyDLVD8jN7XsOC) | 3:02 | 2022-07-14 |  |
 | [Above The Tide](https://open.spotify.com/track/6LKpiaIF8jCAGj8W96WNQr) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Above The Tide](https://open.spotify.com/album/2jqSPc5YxqUIDzxIxkBeYl) | 3:07 | 2022-06-24 | 2022-07-19 |
 | [Aftertaste](https://open.spotify.com/track/5Cf2pyHgpISB5OyNBEPrmc) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [AIDN](https://open.spotify.com/artist/2A4zFavCrJ5iur5VuOIQdc) | [Aftertaste](https://open.spotify.com/album/74aVmqdhWC06dQtbjstQaT) | 4:17 | 2023-05-05 | 2023-06-10 |
@@ -49,6 +49,7 @@
 | [Breathe In The Moment \- Au5 Remix](https://open.spotify.com/track/7r1DArp7L5xpi1S2rNCLm5) | [Man Cub](https://open.spotify.com/artist/6uku31mN2SKBGAIEM6Umgi), [APEK](https://open.spotify.com/artist/6jNwV0P142cXxXanOl9Ylo), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF) | [Breathe In The Moment \(Remixes\)](https://open.spotify.com/album/4yGnBuAhI3ApEEo6Nw8PTm) | 5:21 | 2022-06-10 | 2022-06-15 |
 | [Catharsis](https://open.spotify.com/track/0YLqnkxAp7Bwbi9V1X93xL) | [Approaching Nirvana](https://open.spotify.com/artist/3sS2Q1UZuUXL7TZSbQumDI) | [Catharsis](https://open.spotify.com/album/0ymUAvf82F01N86FAksVzT) | 4:25 | 2022-05-06 | 2022-07-28 |
 | [Cha Cha Cha \- Alan Walker Remix](https://open.spotify.com/track/7wnrrEdwxQWZsDjW7rGZZc) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Cha Cha Cha \(Alan Walker Remix\)](https://open.spotify.com/album/130t4RQBSL7wRJC2JGTFNP) | 2:28 | 2023-06-09 | 2023-07-19 |
+| [Changes](https://open.spotify.com/track/0uv3BtICvv2Y4CWS3vIV28) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Changes](https://open.spotify.com/album/55WbJrK5dCg3wRGo21JxRE) | 4:22 | 2023-08-01 |  |
 | [Chills \(LA Hills\)](https://open.spotify.com/track/1O8aHcA2gPhwDIJovDetN8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Chills \(LA Hills\)](https://open.spotify.com/album/0redIUGhpUdCdlx3q7OLQK) | 3:03 | 2023-05-05 | 2023-07-19 |
 | [CINEMA](https://open.spotify.com/track/1KUlGcqkfUjnoTL20bhtPr) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [CINEMA](https://open.spotify.com/album/4fqBn6j0jf2eLaBhZwA1dp) | 3:08 | 2022-06-22 | 2022-07-27 |
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2022-05-06 |  |

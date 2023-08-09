@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. SPOOKYPBL in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,402 likes - 55 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,427 likes - 55 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 6 | [Hagra](https://open.spotify.com/track/1PAKJ4G5tpNK0YYloB6dBv) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Hagra](https://open.spotify.com/album/3Xmje1BFiERvTm1aRpGi0S) | 2:38 |
 | 7 | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/track/5F5STJurlkKk31rguyet4N) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/album/4tGjr14oYsIMsLC9NQaeJ4) | 3:02 |
 | 8 | [ALBV](https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ALBV](https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF) | 2:39 |
-| 9 | [Formentera](https://open.spotify.com/track/12IR65dUPwMXxB7Y3HGw1c) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Formentera](https://open.spotify.com/album/4iUG3rZBWlkeCgfVAmIA65) | 2:58 |
-| 10 | [La citè](https://open.spotify.com/track/0rKCp9Obl3biQTNsuYRbcY) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [La citè](https://open.spotify.com/album/4yPMwt7qWlahYoM2oirc2e) | 2:51 |
-| 11 | [TE QUIERO \(feat\. LJK\)](https://open.spotify.com/track/3iMyhsqTI6i7C55ihN5ejG) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [TE QUIERO \(feat\. LJK\)](https://open.spotify.com/album/6jIMxY0YYVng0T2m6PrGZK) | 2:54 |
-| 12 | [DRIN DRIN \(feat\. LJK\)](https://open.spotify.com/track/6l1kvKetaUlC235MpIJrUD) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [DRIN DRIN \(feat\. LJK\)](https://open.spotify.com/album/6NkKaJtAmmE29ghqrxUE5L) | 2:41 |
+| 9 | [DRIN DRIN \(feat\. LJK\)](https://open.spotify.com/track/6l1kvKetaUlC235MpIJrUD) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [DRIN DRIN \(feat\. LJK\)](https://open.spotify.com/album/6NkKaJtAmmE29ghqrxUE5L) | 2:41 |
+| 10 | [Formentera](https://open.spotify.com/track/12IR65dUPwMXxB7Y3HGw1c) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Formentera](https://open.spotify.com/album/4iUG3rZBWlkeCgfVAmIA65) | 2:58 |
+| 11 | [La citè](https://open.spotify.com/track/0rKCp9Obl3biQTNsuYRbcY) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [La citè](https://open.spotify.com/album/4yPMwt7qWlahYoM2oirc2e) | 2:51 |
+| 12 | [TE QUIERO \(feat\. LJK\)](https://open.spotify.com/track/3iMyhsqTI6i7C55ihN5ejG) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [TE QUIERO \(feat\. LJK\)](https://open.spotify.com/album/6jIMxY0YYVng0T2m6PrGZK) | 2:54 |
 | 13 | [ASSISTE 2 \(feat\. Kilimoney\)](https://open.spotify.com/track/6uJCQb6kWhXfWrIXnDP8mx) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG) | [ASSISTE 2 \(feat\. Kilimoney\)](https://open.spotify.com/album/3RBPeDOoTvwywWy8oL4pNe) | 2:38 |
 | 14 | [Rotto](https://open.spotify.com/track/5qfriBxu82O0SlUc3ilMqJ) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Rotto](https://open.spotify.com/album/1RX1BgY0VoxOjW6KJoyZHk) | 2:43 |
 | 15 | [Tennis Club](https://open.spotify.com/track/3rV4Ua58IkgiGQjsywxckx) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Tennis Club](https://open.spotify.com/album/6MFUD5C7RZlANVsGdOmDZI) | 2:46 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [GUERRA](https://open.spotify.com/track/3jsnqaZI1liYePMnHyhZF4) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn) | [DRILL LIFE 2 DELUXE](https://open.spotify.com/album/7kC5FpnIJf6y6ZqlNzZ81V) | 1:54 |
 | 55 | [Si$tema](https://open.spotify.com/track/4tuJfPXhIHHkBnpWi0Sj9x) | [Totó Valentino](https://open.spotify.com/artist/4TR1rLViZ0TMo5gdvSVVZr), [Nessuno](https://open.spotify.com/artist/7BMPwaB9s6d7J33bIPp8Z5) | [Si$tema](https://open.spotify.com/album/5EIYPOPAKA8FiVAjVOEicv) | 1:51 |
 
-Snapshot ID: `MCw3ZWUyZDkyMmUxZjk2MmI1YjgwNjA5ZTgzNThiNjIxMTRjYTQyYmJi`
+Snapshot ID: `MCw1YzM2YjEzOGZiZDkwMjk2YzE4YjE4MzQxNDgzNDViOTRmNWUxNmYy`

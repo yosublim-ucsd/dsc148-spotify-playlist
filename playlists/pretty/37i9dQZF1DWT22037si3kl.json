@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Senndy",
-  "num_followers": 119459,
+  "num_followers": 119626,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTg5ZDEwMjQwYjI1YjI1MzQ2NjIxNGYyZDA0MmIyODdjODIzNGFi",
+  "snapshot_id": "MCwxM2RhNDc1MDlhM2JjNzE1OWMzMzU4OGVhY2JmNWNlMjdjMzYwNTIz",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -675,6 +675,26 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "EVDC DELUXE",
+        "url": "https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4"
+      },
+      "artists": [
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "duration_ms": 159298,
+      "name": "Vandame",
+      "url": "https://open.spotify.com/track/33pxk7eQUhrZI2tiuMd4zZ"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 158574,
       "name": "Jacar\u00e9 No Peito",
       "url": "https://open.spotify.com/track/341pSOj91LkF14j22PZaRV"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "EVDC DELUXE",
-        "url": "https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4"
-      },
-      "artists": [
-        {
-          "name": "Ryu, the Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        }
-      ],
-      "duration_ms": 159298,
-      "name": "Vandame",
-      "url": "https://open.spotify.com/track/33pxk7eQUhrZI2tiuMd4zZ"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1075,30 +1075,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Seu Namorado \u00e9 Playboy",
-        "url": "https://open.spotify.com/album/57bzWfU1i2nCCEzAord7Kz"
-      },
-      "artists": [
-        {
-          "name": "Fabin",
-          "url": "https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF"
-        },
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Nord Gang",
-          "url": "https://open.spotify.com/artist/5i1hyePuUBJf1Yxv5V5WqA"
-        }
-      ],
-      "duration_ms": 159701,
-      "name": "Seu Namorado \u00e9 Playboy",
-      "url": "https://open.spotify.com/track/73JahDSn0kwEHFZtJzYXf0"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Mente F\u00e9rtil",
         "url": "https://open.spotify.com/album/1ORG4DDnxW6cph0AaQ23X0"
       },
@@ -1127,6 +1103,30 @@
       "duration_ms": 322000,
       "name": "Mente F\u00e9rtil",
       "url": "https://open.spotify.com/track/3pFxWxw0K7BmeMxBVnVHpj"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Seu Namorado \u00e9 Playboy",
+        "url": "https://open.spotify.com/album/57bzWfU1i2nCCEzAord7Kz"
+      },
+      "artists": [
+        {
+          "name": "Fabin",
+          "url": "https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF"
+        },
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Nord Gang",
+          "url": "https://open.spotify.com/artist/5i1hyePuUBJf1Yxv5V5WqA"
+        }
+      ],
+      "duration_ms": 159701,
+      "name": "Seu Namorado \u00e9 Playboy",
+      "url": "https://open.spotify.com/track/73JahDSn0kwEHFZtJzYXf0"
     },
     {
       "added_at": "2023-08-04 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: Jocelyn 9.4.0
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,864 likes - 67 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,870 likes - 67 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [就算世界終結](https://open.spotify.com/track/1KOxYSLeEUj4NSrFk2HLsg) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [就算世界終結](https://open.spotify.com/album/61CFT40tVHe5JcCpUjdaGC) | 2:23 |
 | 67 | [Friends Or ?](https://open.spotify.com/track/6cd94309FnLgWru6RfSYR4) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT), [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [HIDEOUT](https://open.spotify.com/album/7HEDhuRGJSCRS6oJ50i72L) | 3:43 |
 
-Snapshot ID: `MCw5MGE1MzIwNDJlMGJkN2I1NDZiOThjNTU5NDNmNjVjMjlhOTdlN2Rm`
+Snapshot ID: `MCw2YmM0NWE1Zjc2OTBjMDYwMDQzMWY3NjMzMWVhYTJjNTk5N2Y5YjIx`

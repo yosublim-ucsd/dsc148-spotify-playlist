@@ -376,7 +376,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 198000,
       "name": "computer exploder",
       "url": "https://open.spotify.com/track/1H7FYm7jZgINmMAsWsLaQL"
@@ -506,6 +506,24 @@
       "duration_ms": 169045,
       "name": "Dark Blue",
       "url": "https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO"
+    },
+    {
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5C7sRYLBu5MpSsgn2f1MAh"
+      },
+      "artists": [
+        {
+          "name": "SWEET SPINE",
+          "url": "https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/63nM05dAFbc1y2Vo53WZ9n"
     },
     {
       "album": {
@@ -826,7 +844,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 162748,
       "name": "Headrush",
       "url": "https://open.spotify.com/track/1Zh96LVaAF6rHKCMVtWm1z"
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 164416,
       "name": "Meeting In the Middle",
       "url": "https://open.spotify.com/track/1vxzfaU2E9ohOVQVvCKenF"

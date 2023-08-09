@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Garotas Suecas
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,727 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,723 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 69 | [Quando Eu Falei Pra Ela](https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh) | [Dani Bessa](https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29) | [Quando Eu Falei Pra Ela](https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY) | 3:03 |
 | 70 | [Essa Pessoa Esquisita](https://open.spotify.com/track/4RFxUmgvlVrXAjhrPGI89v) | [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Essa Pessoa Esquisita](https://open.spotify.com/album/5GgT8TquIycrVOjzSyC6yv) | 4:56 |
 
-Snapshot ID: `MCxmNDJhMGRmY2Y3MjIyYTAyOTMzNzhmNTg0YzU4NDJlYzU3ZGEyM2E2`
+Snapshot ID: `MCxkZGQ2Yzg4YTM1NzY2NTlmMDFjZjRjNGE0Y2NlMjYxZGY3MjhhN2Nh`

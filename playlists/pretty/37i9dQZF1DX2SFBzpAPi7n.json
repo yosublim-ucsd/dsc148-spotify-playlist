@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: HYNN(\ubc15\ud61c\uc6d0)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 217198,
+  "num_followers": 217368,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjdjMDViMDJkMWNhMWE2N2FmNjFhNDg1ZjBkOGM4MGUzNTAxMWNj",
+  "snapshot_id": "MCwxZjlkY2FhZDMwNTI3MTVmYTQ0YzM3MmFiM2YxZGUwZDBlMWVhMzM4",
   "tracks": [
     {
       "added_at": "2023-07-31 15:41:06",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-07-31 15:41:06",
       "album": {
+        "name": "[Dystopia : Lose Myself]",
+        "url": "https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 189546,
+      "name": "BOCA",
+      "url": "https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n"
+    },
+    {
+      "added_at": "2023-07-31 15:41:06",
+      "album": {
         "name": "COLORFUL TRAUMA",
         "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 190000,
       "name": "I hate you",
       "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
-    },
-    {
-      "added_at": "2023-07-31 15:41:06",
-      "album": {
-        "name": "Rawww",
-        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
-      },
-      "artists": [
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        }
-      ],
-      "duration_ms": 160466,
-      "name": "Rawww",
-      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
     },
     {
       "added_at": "2023-07-31 15:41:06",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-07-31 15:41:06",
       "album": {
-        "name": "[Dystopia : Lose Myself]",
-        "url": "https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz"
+        "name": "Rawww",
+        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
       },
       "artists": [
         {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
         }
       ],
-      "duration_ms": 189546,
-      "name": "BOCA",
-      "url": "https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n"
+      "duration_ms": 160466,
+      "name": "Rawww",
+      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
     },
     {
       "added_at": "2023-07-31 15:41:06",

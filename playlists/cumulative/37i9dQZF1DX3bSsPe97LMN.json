@@ -295,6 +295,28 @@
     },
     {
       "album": {
+        "name": "A Que No Te Vas",
+        "url": "https://open.spotify.com/album/6IInXgCCZl3EJcs2T5E35l"
+      },
+      "artists": [
+        {
+          "name": "Edwin Garcia",
+          "url": "https://open.spotify.com/artist/53kZNnikATba328qm2oHyF"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205250,
+      "name": "A Que No Te Vas",
+      "url": "https://open.spotify.com/track/3VGdqqzpcWdQAiZLhMcD3m"
+    },
+    {
+      "album": {
         "name": "A Ti S\u00ed Te Quer\u00eda",
         "url": "https://open.spotify.com/album/6B9uZMSCy8qxMLNuTRqyQk"
       },
@@ -423,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Alucin-ando",
+        "url": "https://open.spotify.com/album/02bJTDJPcfyUH53QxqWfVo"
+      },
+      "artists": [
+        {
+          "name": "Alain Manases",
+          "url": "https://open.spotify.com/artist/32QFBnDMzuyPeMAYpTSyLb"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163317,
+      "name": "Alucin-ando",
+      "url": "https://open.spotify.com/track/2Uv2x4gbt51VV4eS6b1Cxm"
+    },
+    {
+      "album": {
         "name": "Amarte Es Mi Destino",
         "url": "https://open.spotify.com/album/61ScK3KMxnZt8nNq2vvAOR"
       },
@@ -438,7 +478,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 180480,
       "name": "Amarte Es Mi Destino",
       "url": "https://open.spotify.com/track/6gD4EQvtmbM7zGTPnKIFw5"
@@ -972,7 +1012,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 181894,
       "name": "Bloqueado",
       "url": "https://open.spotify.com/track/31u0xddM70KxFebPyLawpR"
@@ -1884,6 +1924,24 @@
       "duration_ms": 196816,
       "name": "El Canelo",
       "url": "https://open.spotify.com/track/7Dz034bA0pM21kTDqTW1jM"
+    },
+    {
+      "album": {
+        "name": "El Cartel",
+        "url": "https://open.spotify.com/album/0HqCmk2VoIZHC93BcseRpE"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215360,
+      "name": "El Cartel",
+      "url": "https://open.spotify.com/track/3QDZ8JRgs2iKp3yejxpSaU"
     },
     {
       "album": {
@@ -4522,7 +4580,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 179413,
       "name": "Nada Contigo",
       "url": "https://open.spotify.com/track/2GH7nxSCfsR6vAtzID3S89"
@@ -5585,6 +5643,24 @@
     },
     {
       "album": {
+        "name": "Mientras Otros Duermen",
+        "url": "https://open.spotify.com/album/7E7b8MW6RcPnsOEoyoipqV"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118434,
+      "name": "Quieren Mirarme Abajo",
+      "url": "https://open.spotify.com/track/75uqXVaw6XQdTjc04CpSf7"
+    },
+    {
+      "album": {
         "name": "Quiero Abrazarte Tanto",
         "url": "https://open.spotify.com/album/6bSOwQJmOghBp04eohKJL3"
       },
@@ -5596,7 +5672,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 211741,
       "name": "Quiero Abrazarte Tanto",
       "url": "https://open.spotify.com/track/6KOMoZ9OIjxF7pCmZ0ZIXX"

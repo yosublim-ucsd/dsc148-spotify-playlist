@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 9354,
+  "num_followers": 9362,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2JkM2IwODUzZTNjYmI1ZjZhYmM5YjQ5MTAxZDYxODQ0ZDA0ZjQ4",
+  "snapshot_id": "MCw2MDc3OGNlYzgzMmUxMGViNTQwYjIxZTQ4M2RiNGJmZmE0MzcwOTc5",
   "tracks": [
     {
       "added_at": "2023-06-16 03:03:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Parente Neon",
-        "url": "https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck"
-      },
-      "artists": [
-        {
-          "name": "Nelson D",
-          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Moleque Vampiro",
-      "url": "https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Me Destr\u00f3i (Stroka Remix)",
         "url": "https://open.spotify.com/album/0UqwQYgvQzQUPIFPAhrIgW"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 307200,
       "name": "Me Destr\u00f3i - Stroka Remix",
       "url": "https://open.spotify.com/track/0hBrepTEx9hxqs6xXeNh6R"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Parente Neon",
+        "url": "https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck"
+      },
+      "artists": [
+        {
+          "name": "Nelson D",
+          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Moleque Vampiro",
+      "url": "https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Rock The Box",
-        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
-      },
-      "artists": [
-        {
-          "name": "Vermelho",
-          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
-        },
-        {
-          "name": "Ivana Wonder",
-          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
-        }
-      ],
-      "duration_ms": 382204,
-      "name": "Rock The Box - Original",
-      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Corpo",
         "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 303161,
       "name": "Corpo Fechado",
       "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Rock The Box",
+        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
+      },
+      "artists": [
+        {
+          "name": "Vermelho",
+          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
+        },
+        {
+          "name": "Ivana Wonder",
+          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
+        }
+      ],
+      "duration_ms": 382204,
+      "name": "Rock The Box - Original",
+      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
     },
     {
       "added_at": "2023-06-16 03:03:00",

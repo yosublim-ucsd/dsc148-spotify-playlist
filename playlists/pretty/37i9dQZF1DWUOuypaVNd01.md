@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Big Bllakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,746 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,776 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 39 | [Raddim](https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [RADDIM](https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0) | 3:29 |
 | 40 | [Lado 13 Do Mapa](https://open.spotify.com/track/0JjLELm0grDkpDp3T33A2V) | [Feek](https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [dantt](https://open.spotify.com/artist/17zmcE5VPJGB0psr1p8XqQ) | [Lado 13 Do Mapa](https://open.spotify.com/album/624lZw4mi8VgCcQpLtAoA1) | 2:25 |
 | 41 | [Sobe O Morro](https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Sobe O Morro](https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl) | 2:42 |
-| 42 | [RJ CLIMA HOSTIL](https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [FILHO PRÓDIGO 2](https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2) | 2:13 |
-| 43 | [Jhony Convida \#7 \- Preto$](https://open.spotify.com/track/3D6lFwZAMGDuAUb5YuuUwQ) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Jhony Mc](https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww), [Zuluzão](https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV), [Spike mc](https://open.spotify.com/artist/6IKkwvOar68DZ3AZQLW3XP), [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy), [Neo BXD](https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73), [Blackoutt MC](https://open.spotify.com/artist/4BuVB9M4LodpY72q4pXoS0) | [Jhony Convida \#7 \- Preto$](https://open.spotify.com/album/0srN7DSRvf01APXmDyaZ0q) | 4:59 |
+| 42 | [Jhony Convida \#7 \- Preto$](https://open.spotify.com/track/3D6lFwZAMGDuAUb5YuuUwQ) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Jhony Mc](https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww), [Zuluzão](https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV), [Spike mc](https://open.spotify.com/artist/6IKkwvOar68DZ3AZQLW3XP), [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy), [Neo BXD](https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73), [Blackoutt MC](https://open.spotify.com/artist/4BuVB9M4LodpY72q4pXoS0) | [Jhony Convida \#7 \- Preto$](https://open.spotify.com/album/0srN7DSRvf01APXmDyaZ0q) | 4:59 |
+| 43 | [RJ CLIMA HOSTIL](https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [FILHO PRÓDIGO 2](https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2) | 2:13 |
 | 44 | [Riqueza](https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr) | [Dendê](https://open.spotify.com/artist/306dURz1s90QIIZaVusODl), [Vinão Beats](https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH) | [Riqueza](https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs) | 2:20 |
 | 45 | [Eu Ainda](https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Eu Ainda](https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd) | 3:08 |
 | 46 | [Runner \- Ao Vivo](https://open.spotify.com/track/4fZ2tJlUm4mzGWK8xRZxX9) | [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Runner \(Ao Vivo\)](https://open.spotify.com/album/1Hy0svsjfcaf93LGtJyfxy) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 | 50 | [Chavão](https://open.spotify.com/track/5sz8xfbQ7dkr4ggUZpATok) | [Ney Rodrí](https://open.spotify.com/artist/10SGtgEezop7sV6Le4UoLf), [DANDARO$](https://open.spotify.com/artist/2cJn9KL6C7AkdgsCV7XTCR) | [Chavão](https://open.spotify.com/album/0ZATod1zpCGAnD5gNin9CN) | 1:58 |
 
-Snapshot ID: `MCxmMjVhMDU3YWY3MTE1ZjdkNjNlNmMzMDEwZDYwOWY5MmE1NGViYTBk`
+Snapshot ID: `MCwyZDRjYWJiZDE4ODI0NGEzYTQxNTI2NWQzYjczOGYyNGE3OWUwMzU3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: All Time Low
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 1,638 likes - 199 songs - 11 hr 51 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 1,637 likes - 199 songs - 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 | 10 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 |
 | 11 | [Post Traumatic Blues](https://open.spotify.com/track/5CC5bb5rrxisi8Mmb3prcL) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Post Traumatic Blues](https://open.spotify.com/album/1SUWFyxji7bVsbRYYi2Dni) | 5:43 |
 | 12 | [Queen of New York City](https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Where The Light Goes](https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV) | 3:32 |
-| 13 | [Death and The Setting Sun \(feat\. Andrew Neufeld\)](https://open.spotify.com/track/0ZDJWv1ReLqm9Ktn4k6pLQ) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK), [Andrew Neufeld](https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq) | [Not Without My Ghosts](https://open.spotify.com/album/1DJMBstIfRxwwJlgoJjRq8) | 4:07 |
+| 13 | [Death and the Setting Sun \(feat\. Andrew Neufeld\)](https://open.spotify.com/track/0ZDJWv1ReLqm9Ktn4k6pLQ) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK), [Andrew Neufeld](https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq) | [Not Without My Ghosts](https://open.spotify.com/album/1DJMBstIfRxwwJlgoJjRq8) | 4:07 |
 | 14 | [Keep It Rolling](https://open.spotify.com/track/6tYin3Nya3wS8F48TueJUJ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Keep It Rolling](https://open.spotify.com/album/2YIfWZjgVJWrrSTZJot3Mp) | 2:50 |
 | 15 | [Hometown](https://open.spotify.com/track/7Bb0NCH79R9H1u54tCEZJW) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Hometown](https://open.spotify.com/album/5YjpCpy8LarNuZPgXbCddm) | 4:05 |
 | 16 | [Last Man in the World](https://open.spotify.com/track/4BO4583RpKU9ILHVvIR5vv) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Last Man In The World](https://open.spotify.com/album/44yyClOXbzPpTBhcUbsarK) | 2:42 |

@@ -4,7 +4,7 @@
 
 > when things just feel heavy.
 
-58 songs - 3 hr 14 min
+59 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Last to Know](https://open.spotify.com/track/4Y34yjKZzYYmCjC5Y3hLuD) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Too Quick to Forgive](https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY) | 6:29 | 2023-05-03 |  |
 | [Left Behind](https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Left Behind](https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM) | 3:26 | 2023-05-03 |  |
 | [Me in My Own Head](https://open.spotify.com/track/41h0mngXd81kGbYN5yeqnU) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disgusting](https://open.spotify.com/album/7dh7xmoU6FjAIQgrBbltXV) | 3:26 | 2023-05-03 |  |
-| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/0CwiF8zPjl7ESC6nDnBvPo) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [End of an era](https://open.spotify.com/album/5dTaJdgmqgz5hcmpSVNgVF) | 3:06 | 2023-05-03 |  |
+| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/0CwiF8zPjl7ESC6nDnBvPo) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [End of an era](https://open.spotify.com/album/5dTaJdgmqgz5hcmpSVNgVF) | 3:06 | 2023-05-03 | 2023-08-09 |
+| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/63zxu4C2P5QZeXbn5ShjVB) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [End of an era](https://open.spotify.com/album/5psFkUUBPPrN1yPoHOUPDy) | 3:06 | 2023-06-26 |  |
 | [Mixed Emotions \(I Didn't Know How To Tell You What I Was Going Through\)](https://open.spotify.com/track/5tsBGhl0yosGxoj992WtjJ) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Mixed Emotions \(I Didn't Know How To Tell You What I Was Going Through\)](https://open.spotify.com/album/3iGGzFgQvqNXc9E6Qnyvol) | 4:09 | 2023-05-03 |  |
 | [Nearer My God](https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Nearer My God](https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8) | 3:35 | 2023-05-03 |  |
 | [NO WAY OUT](https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [MONOMANIA](https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f) | 3:35 | 2023-05-03 |  |

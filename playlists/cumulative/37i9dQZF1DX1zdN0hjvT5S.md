@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [25 bands and a geccco](https://open.spotify.com/track/6IBVwpcF5HkRgk2MNc2HIM) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [100 gecs](https://open.spotify.com/album/7KpuGjIfduSD45wl5IQc7G) | 2:04 | 2022-04-25 |  |
-| [About You Now](https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [About You Now](https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD) | 3:38 | 2022-04-25 |  |
+| [About You Now](https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8) | [Max Beirne Shafer](https://open.spotify.com/artist/5SXBLk2wYMZznypiR94wYE) | [About You Now](https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD) | 3:38 | 2022-04-25 |  |
 | [About You Now](https://open.spotify.com/track/6V9kVTlpA1yaqT89LlPwhO) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [About You Now](https://open.spotify.com/album/2QDcs5hH8Y0n73aKeqD8PW) | 3:38 | 2022-04-25 | 2023-02-02 |
 | [Blast](https://open.spotify.com/track/6xr3MVHxQaOtBybv0uD8ir) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [32 Levels \(Deluxe\)](https://open.spotify.com/album/7Amrg2WughWQXMEmUfjhl3) | 2:14 | 2022-04-25 |  |
 | [can you really blame me for how I react?](https://open.spotify.com/track/3kLqTaBVArpRj1AnPNsryn) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [Drive\-By Lullabies](https://open.spotify.com/album/1hDfBlpAsyIp1uNScacRwp) | 3:31 | 2022-04-25 |  |

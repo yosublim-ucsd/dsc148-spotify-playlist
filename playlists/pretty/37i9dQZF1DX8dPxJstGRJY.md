@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,749 likes - 51 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,041 likes - 51 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 35 | [Tell Me It's Not True](https://open.spotify.com/track/3qV6M1cI4McX7xSLzLQa3H) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [Together](https://open.spotify.com/album/78aID7tYAQzHzN8oLZu0WV) | 4:30 |
 | 36 | [A Man Without Love](https://open.spotify.com/track/4SlFhuKLrdMxyjP2XXHfuQ) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [A Man Without Love](https://open.spotify.com/album/6VidERJoBxZm4sPQFkPQvX) | 3:31 |
 | 37 | [Your Love \- from "Once Upon A Time In The West"](https://open.spotify.com/track/799SQZx5kNatDCrEOvReAM) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t), [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Your Love \(from "Once Upon A Time In The West"\)](https://open.spotify.com/album/5uxs5lrUUWiQcDtnXDtIIl) | 4:11 |
-| 38 | [Perhaps Love](https://open.spotify.com/track/2EliUCT5ApsdtFo1CYblyq) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w), [Bryn Terfel](https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j), [John Paricelli](https://open.spotify.com/artist/5bf6RvGi8q0hQUlY0XxZh5), [Czech Philharmonic](https://open.spotify.com/artist/4pTTYeA2XH8nuTCb5NR3fZ), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Dreams and Songs](https://open.spotify.com/album/6UpFGwTAEexVrJrR2icKHn) | 2:59 |
+| 38 | [Perhaps Love](https://open.spotify.com/track/2EliUCT5ApsdtFo1CYblyq) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w), [Bryn Terfel](https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j), [John Paricelli](https://open.spotify.com/artist/5bf6RvGi8q0hQUlY0XxZh5), [Czech Philharmonic](https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Dreams and Songs](https://open.spotify.com/album/6UpFGwTAEexVrJrR2icKHn) | 2:59 |
 | 39 | [We Will Meet Once Again \(with Andrea Bocelli\)](https://open.spotify.com/track/28hIO3sitQKgRPbQ61x6bS) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Bridges \(Deluxe\)](https://open.spotify.com/album/70406c1Pa2F3BQscpLiUME) | 3:55 |
 | 40 | [I Hate You Then I Love You \(Duet with Luciano Pavarotti\)](https://open.spotify.com/track/3GeU6SjrKEjCRpXCCFthaG) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:42 |
 | 41 | [The Voice](https://open.spotify.com/track/2E3y6X63fbZCYJGELwRAWQ) | [Celtic Woman](https://open.spotify.com/artist/6NWtt9pNOL2Gx7kBykdE5x) | [A New Journey](https://open.spotify.com/album/1og5dt9eliYqKQG8eBH9jf) | 3:05 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 50 | [Beau Soir \- Voice](https://open.spotify.com/track/0gikrP8DY96Q6Xo08bIYWL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Claus Ogerman](https://open.spotify.com/artist/3lZyF2ZG6fZLQvxgJU0y5r) | [Classical Barbra \(Re\-Mastered\)](https://open.spotify.com/album/2oO80GRPrKiWzAiOoXg3xp) | 2:41 |
 | 51 | [These Are The Special Times \(Momenti Splendidi\)](https://open.spotify.com/track/10AfyyXe1IVgrTJP6cCbDO) | [Jonathan Antoine](https://open.spotify.com/artist/2oYXPOHsXljvSD7jDatP22), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [These Are The Special Times \(Momenti Splendidi\)](https://open.spotify.com/album/3ncrSLsvENjj5VQzuxkTW0) | 4:08 |
 
-Snapshot ID: `MCxmZDk5Y2I3YTJkNjA1N2Y3YWZhMTE0YzI4NjE4YTYxYzA5MGQ1YzU5`
+Snapshot ID: `MCxhOGU4MjI3ZjkwYmEzZmVjNzZkYWJkYzg0ODhlYjFhOTA5ZmY3YjQx`

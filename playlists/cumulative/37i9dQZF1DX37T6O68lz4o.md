@@ -4,7 +4,7 @@
 
 > New England music breaking waves\. Cover: <a href="https://open.spotify.com/artist/5and6mMu319HtYPWAacsju?si=h1ZEBxcITVGdqGQT6p6Fxg">Nay $peaks</a>
 
-384 songs - 17 hr 27 min
+384 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Finally Free](https://open.spotify.com/track/2QgNnMSIGP0Ffg47vaGgO4) | [Cru Alxndr](https://open.spotify.com/artist/1nExCVqTaxTCoGW4aJ4ZI2), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV) | [Finally Free](https://open.spotify.com/album/27scsK5Vg9DsFYK4XoBUjZ) | 3:42 | 2023-06-11 |  |
 | [Find Peace](https://open.spotify.com/track/200WboHOBS14RFJIV0xQ89) | [Krew$](https://open.spotify.com/artist/2Q2bnfCHdRZfz6jktiJODz) | [Find Peace](https://open.spotify.com/album/2z7NgbXAthMAeBxVhhDfkb) | 1:52 | 2023-01-31 | 2023-07-15 |
 | [Fine WIne](https://open.spotify.com/track/1ESm9L9uKA0y36Uw33fvOJ) | [CruufromtheNorth](https://open.spotify.com/artist/6QJV7l4lt63Ay0zw5MC9Ic), [Toru](https://open.spotify.com/artist/0KFS4WsXcKfPfD15Jvors4), [DTheFlyest](https://open.spotify.com/artist/5k3KbrfdrZTfasGvrebyzr) | [Fine WIne](https://open.spotify.com/album/7KjcU74UcOmuNN5CY9VPZ6) | 3:15 | 2022-07-22 | 2022-08-20 |
-| [FINER THINGS](https://open.spotify.com/track/1uIx0IGPbcZPrbckGPtkW4) | [Clark D](https://open.spotify.com/artist/7DruDtmm0jIP34WP7PeuF4), [StashtheWave](https://open.spotify.com/artist/64N9Pa5Tf51kYp23AffeLo) | [FINER THINGS](https://open.spotify.com/album/2EvhD8xOky5MNEFovLJCWC) | 1:42 | 2023-07-28 |  |
+| [FINER THINGS](https://open.spotify.com/track/1uIx0IGPbcZPrbckGPtkW4) | [Clark D](https://open.spotify.com/artist/7DruDtmm0jIP34WP7PeuF4), [StashtheWave](https://open.spotify.com/artist/64N9Pa5Tf51kYp23AffeLo) | [FINER THINGS](https://open.spotify.com/album/2EvhD8xOky5MNEFovLJCWC) | 2:20 | 2023-07-28 |  |
 | [FINER THINGS](https://open.spotify.com/track/2ifGjIXn7elSfKdkyfiQCS) | [Mo Bangaz](https://open.spotify.com/artist/7lIiOcOBI059zW6PY5Ghqg) | [ASYLUM](https://open.spotify.com/album/3RDpCNLGM6NvAAa61zB3gS) | 2:11 | 2023-01-24 | 2023-04-16 |
 | [FIRST DAY OUT](https://open.spotify.com/track/2rCH6Q7FE7H3yZatfRX1Y0) | [Y Gizzle](https://open.spotify.com/artist/2NrmxpPJ1YPMkidYYckQVT) | [FIRST DAY OUT](https://open.spotify.com/album/1odi2UMIAaKrnMECwkYn09) | 2:16 | 2023-01-31 | 2023-04-16 |
 | [First Warning](https://open.spotify.com/track/4p51QROZkN1BXzKCwQx8fe) | [snowsa](https://open.spotify.com/artist/1CjeZeV3TnH5XUlUGMqedu) | [First Warning](https://open.spotify.com/album/00VFqJE0acrwKOB0Fy9yrr) | 2:13 | 2022-08-12 | 2022-12-03 |

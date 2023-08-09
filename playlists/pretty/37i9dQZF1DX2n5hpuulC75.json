@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 256324,
+  "num_followers": 256343,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzczZDIzMDIxYzc2MzlhMGRiZDQzM2QyMmJlZjAwMTlmMmQ1YjQz",
+  "snapshot_id": "MCwyNjg0ZTFhNDNhOTkzZGJiZWIzMjgzYjdlNjY0ZGY3OGY0MzQ1OThi",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -415,6 +415,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Old Compilation 3",
+        "url": "https://open.spotify.com/album/7CYCQNeHoMWXQXg9NzqTyM"
+      },
+      "artists": [
+        {
+          "name": "Meltycanon",
+          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
+        }
+      ],
+      "duration_ms": 146880,
+      "name": "thankful",
+      "url": "https://open.spotify.com/track/6DRCs3oOkPYa1NHdgjwHcZ"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
         "url": "https://open.spotify.com/album/21iBuI7GQwUDkBPErWjPi0"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 200504,
       "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
       "url": "https://open.spotify.com/track/28atUbzCFihH4GA3dU1gVM"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Old Compilation 3",
-        "url": "https://open.spotify.com/album/7CYCQNeHoMWXQXg9NzqTyM"
-      },
-      "artists": [
-        {
-          "name": "Meltycanon",
-          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
-        }
-      ],
-      "duration_ms": 146880,
-      "name": "thankful",
-      "url": "https://open.spotify.com/track/6DRCs3oOkPYa1NHdgjwHcZ"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -843,22 +843,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "frozenthere",
-        "url": "https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T"
-      },
-      "artists": [
-        {
-          "name": "altopalo",
-          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
-        }
-      ],
-      "duration_ms": 168919,
-      "name": "Frozen Away",
-      "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Fleur",
         "url": "https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 259423,
       "name": "Fleur",
       "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "frozenthere",
+        "url": "https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T"
+      },
+      "artists": [
+        {
+          "name": "altopalo",
+          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
+        }
+      ],
+      "duration_ms": 168919,
+      "name": "Frozen Away",
+      "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -947,22 +947,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Infinite Games",
-        "url": "https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI"
-      },
-      "artists": [
-        {
-          "name": "Zola Blood",
-          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Get Light",
-      "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 218000,
       "name": "Brother",
       "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Infinite Games",
+        "url": "https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI"
+      },
+      "artists": [
+        {
+          "name": "Zola Blood",
+          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "Get Light",
+      "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Antasma",
-        "url": "https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl"
-      },
-      "artists": [
-        {
-          "name": "Sal Dulu",
-          "url": "https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "Antasma",
-      "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Backwater",
         "url": "https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 254010,
       "name": "Nylon",
       "url": "https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Antasma",
+        "url": "https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl"
+      },
+      "artists": [
+        {
+          "name": "Sal Dulu",
+          "url": "https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "Antasma",
+      "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
     }
   ],
   "unique_name": "Mellow Mood",

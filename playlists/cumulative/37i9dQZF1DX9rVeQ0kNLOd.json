@@ -730,7 +730,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 175693,
       "name": "Have a nice day",
       "url": "https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW"
@@ -2254,6 +2254,28 @@
       "duration_ms": 176810,
       "name": "Who are you ?",
       "url": "https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs"
+    },
+    {
+      "album": {
+        "name": "wind blows - softly -",
+        "url": "https://open.spotify.com/album/2XPQI1hw4aQKLCXK22o6uW"
+      },
+      "artists": [
+        {
+          "name": "lo-key design",
+          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
+        },
+        {
+          "name": "Rikuto Nagira",
+          "url": "https://open.spotify.com/artist/1m853g4jSUXHZIrmOZqkPo"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "wind blows - softly -",
+      "url": "https://open.spotify.com/track/7yChFpLeFv68tGKEH77gHl"
     },
     {
       "album": {

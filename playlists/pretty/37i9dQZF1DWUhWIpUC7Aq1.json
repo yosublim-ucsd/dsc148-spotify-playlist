@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 109864,
+  "num_followers": 109983,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWU4ZDc3MDBkZGJkMzE2YTdhYmJkMmJlODZjZWQ5OGRhYmU3ZWJi",
+  "snapshot_id": "MCxlYWVjNDkyZmMyNWUwOTVmYzQyNmQ5OTczNmI0NzNmNGEwNmUwMDkw",
   "tracks": [
     {
       "added_at": "2023-03-14 21:51:12",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "I'm Wide Awake, It's Morning",
-        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 271600,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 139000,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "I'm Wide Awake, It's Morning",
+        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 271600,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
     },
     {
       "added_at": "2023-03-14 21:51:12",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "69 Love Songs",
-        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
-      },
-      "artists": [
-        {
-          "name": "The Magnetic Fields",
-          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
-        }
-      ],
-      "duration_ms": 162413,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "Illinois",
         "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 353946,
       "name": "Casimir Pulaski Day",
       "url": "https://open.spotify.com/track/53TIOhzNpRpl8xKdscSQSv"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "69 Love Songs",
+        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu"
     },
     {
       "added_at": "2023-03-14 21:51:12",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "Early Music",
-        "url": "https://open.spotify.com/album/4EJQrRFgNXh8y3hI2wcQNH"
-      },
-      "artists": [
-        {
-          "name": "Voxtrot",
-          "url": "https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "The Start of Something",
-      "url": "https://open.spotify.com/track/30fQvBnDR8jLdN0SFcsFos"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "Figure 8",
         "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 129333,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "Early Music",
+        "url": "https://open.spotify.com/album/4EJQrRFgNXh8y3hI2wcQNH"
+      },
+      "artists": [
+        {
+          "name": "Voxtrot",
+          "url": "https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "The Start of Something",
+      "url": "https://open.spotify.com/track/30fQvBnDR8jLdN0SFcsFos"
     },
     {
       "added_at": "2023-03-14 21:51:12",

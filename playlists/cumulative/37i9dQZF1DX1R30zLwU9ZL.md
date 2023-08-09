@@ -4,7 +4,7 @@
 
 > Reverse the curse! Listen to the official playlist for Freeridge and On My Block, now streaming on Netflix.
 
-66 songs - 3 hr 26 min
+67 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Cocoon](https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:21 | 2023-02-27 |  |
 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 | 2023-02-27 |  |
 | [Devil That I Know](https://open.spotify.com/track/0HmdysB9yEb1EVWe7aNIGT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:50 | 2023-02-27 |  |
-| [Dodgeball](https://open.spotify.com/track/0zhh7NAHesDIGWK5b5DbUm) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Dodgeball](https://open.spotify.com/album/6uwuw4B8fviW9Wu0awFi1N) | 3:07 | 2023-02-27 |  |
+| [Dodgeball](https://open.spotify.com/track/0ZLJcG2SkVde3GKoBsz7LX) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Dodgeball](https://open.spotify.com/album/12T2pBAgE6V3gK2U0oxaJ4) | 3:07 | 2023-02-27 |  |
+| [Dodgeball](https://open.spotify.com/track/0zhh7NAHesDIGWK5b5DbUm) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Dodgeball](https://open.spotify.com/album/6uwuw4B8fviW9Wu0awFi1N) | 3:07 | 2023-02-27 | 2023-08-09 |
 | [Don’t Worry Bout It](https://open.spotify.com/track/2tkA0frBybxjFnWRkNcx1H) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Don’t Worry Bout It](https://open.spotify.com/album/4LAf74AX25RuIrLIJyWrGM) | 2:52 | 2023-02-27 |  |
 | [Double Negative \(Skeleton Milkshake\)](https://open.spotify.com/track/7ACT6YaXbYvl7hRWEOOEHQ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:06 | 2023-02-27 |  |
 | [Drumdown Mambo \(feat\. Jasiah\)](https://open.spotify.com/track/0ww5NVJt3quNKHp8Fn5wQK) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 1:39 | 2023-02-27 |  |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 
 > The best of Brazilian House\. Photo: FBC
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,153 likes - 65 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,163 likes - 65 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Back To Love \- Alex Gewer Remix](https://open.spotify.com/track/2aRoFgPAzB0xPDLXrjyGAP) | [Windy City Classics](https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m), [Ales Salles](https://open.spotify.com/artist/0qW44BfvOmyZvVnnd7Wmwa), [F.Brothers](https://open.spotify.com/artist/4mDFQIBuckxntnJso2MFrP), [Leela D](https://open.spotify.com/artist/3H7Ar822wLNsiDOCXhpbQu), [Alex Gewer](https://open.spotify.com/artist/0k8ztNiYX9wO2ZLFFqOSBH) | [Back To Love](https://open.spotify.com/album/7HV0plDgfHVjXopEwYDIeM) | 3:33 |
+| 1 | [Back To Love \- Alex Gewer Remix](https://open.spotify.com/track/2aRoFgPAzB0xPDLXrjyGAP) | [Windy City Classics](https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m), [Ale Salles](https://open.spotify.com/artist/3WUTfT3MAFhrVcvAntC3Iu), [F.Brothers](https://open.spotify.com/artist/4mDFQIBuckxntnJso2MFrP), [Leela D](https://open.spotify.com/artist/3H7Ar822wLNsiDOCXhpbQu), [Alex Gewer](https://open.spotify.com/artist/0k8ztNiYX9wO2ZLFFqOSBH) | [Back To Love](https://open.spotify.com/album/7HV0plDgfHVjXopEwYDIeM) | 3:33 |
 | 2 | [Rise Up](https://open.spotify.com/track/6Hqrdy1CKiqNvkrfNi9o81) | [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [Rise Up](https://open.spotify.com/album/25UYJr3CkuCMSKusqcySeQ) | 3:24 |
 | 3 | [ANTISSOCIAL](https://open.spotify.com/track/2UGAXXO6rxhGIWEROH996S) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [O AMOR, O PERDÃO E A TECNOLOGIA IRÃO NOS LEVAR PARA OUTRO PLANETA](https://open.spotify.com/album/639QW9bvf08nR0dCWFpcTC) | 3:59 |
 | 4 | [Memories](https://open.spotify.com/track/2HvljoRzNkP6xYpeeiomJK) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Memories](https://open.spotify.com/album/3fSCXfh3vkKd7tc74TztDO) | 3:33 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 | 64 | [Roots](https://open.spotify.com/track/4TB0mfOWHxa2OhbCQRU9BB) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Tropic](https://open.spotify.com/artist/2pW60V2KXdtlpkGfPiNl8G) | [Roots](https://open.spotify.com/album/0XXVaeaxHqWlankFsmIOng) | 3:52 |
 | 65 | [Heads In The Sky](https://open.spotify.com/track/3ZItkcRy61j0124JgCf0Tn) | [Cavallieri](https://open.spotify.com/artist/3Gsi2FuTlp0zpMCoguKhZH) | [Heads In The Sky](https://open.spotify.com/album/7Ko82yOSya8UcYJDcvtg0U) | 2:58 |
 
-Snapshot ID: `MCwwZDUwMzY2ZGM2M2VkMDNiZjMzNWY0ZWIwMmUxZDA4ZjVmMmNiMzg4`
+Snapshot ID: `MCwxZjhmYmY1YzQxMGQzMTUyYTZiYmM1ZDU1OTI0ZWQwMzQ5NzViMzgx`

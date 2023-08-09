@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 13069,
+  "num_followers": 13082,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjhmNTY0ODk5OWI0MzgyYzk3N2UwMjdkNWNjYjE3NjIzM2RmMzEz",
+  "snapshot_id": "MCxjYTU4Mzc2ZTZlY2YzNmQwOTVhMmNhZjY0ZjExZDIyNzBlZmZiNThh",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Horndog Fest",
-        "url": "https://open.spotify.com/album/6uPjk9Anj9wEdCwHMpwJTK"
-      },
-      "artists": [
-        {
-          "name": "The Dirtbombs",
-          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
-        }
-      ],
-      "duration_ms": 183533,
-      "name": "I Can't Stop Thinking About It",
-      "url": "https://open.spotify.com/track/6sy3IAvhOXtXrARDBEcIPJ"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Talking 'bout",
         "url": "https://open.spotify.com/album/3XehbkA49rI1F8wb6CirBe"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 134040,
       "name": "Pretty Baby",
       "url": "https://open.spotify.com/track/15IZhtzC8mKdKGXoa9VF7V"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Horndog Fest",
+        "url": "https://open.spotify.com/album/6uPjk9Anj9wEdCwHMpwJTK"
+      },
+      "artists": [
+        {
+          "name": "The Dirtbombs",
+          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
+        }
+      ],
+      "duration_ms": 183533,
+      "name": "I Can't Stop Thinking About It",
+      "url": "https://open.spotify.com/track/6sy3IAvhOXtXrARDBEcIPJ"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Ultraglide In Black",
-        "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
-      },
-      "artists": [
-        {
-          "name": "The Dirtbombs",
-          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Midnight Soul Serenade",
         "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 204320,
       "name": "Isolation",
       "url": "https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Ultraglide In Black",
+        "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
+      },
+      "artists": [
+        {
+          "name": "The Dirtbombs",
+          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Whatcha Doin'",
-        "url": "https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX"
-      },
-      "artists": [
-        {
-          "name": "The Go",
-          "url": "https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Summer Sun Blues",
-      "url": "https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "The Blackout",
         "url": "https://open.spotify.com/album/5w0QE2P3y8PAMAEG9NMgfE"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 126853,
       "name": "Hanky-Joe Digger",
       "url": "https://open.spotify.com/track/1Sv7geImcYAkQw8MQVB3G4"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Whatcha Doin'",
+        "url": "https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX"
+      },
+      "artists": [
+        {
+          "name": "The Go",
+          "url": "https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Summer Sun Blues",
+      "url": "https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn"
     },
     {
       "added_at": "2022-03-28 20:14:58",

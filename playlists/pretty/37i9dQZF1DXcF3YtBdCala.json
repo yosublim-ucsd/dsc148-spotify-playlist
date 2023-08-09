@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Paola Jara en portada. ",
-  "num_followers": 127797,
+  "num_followers": 127813,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODM1MzEwZDgzZTQ5NDg2MjM2YTNhYTcyNDA3Y2NmNzc4OWUwYzc1",
+  "snapshot_id": "MCw2NmI4YjEzZTA4NTYzY2VhOWQ4ZjZkMzk1ZGRkZTBlY2JiMDIyNjkx",
   "tracks": [
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Se Disfraz\u00f3",
         "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
       },
@@ -1019,6 +1035,26 @@
       "duration_ms": 206383,
       "name": "Se Disfraz\u00f3",
       "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Fue Tu Culpa",
+        "url": "https://open.spotify.com/album/5NOb3XhFyTN9QQcfdjYHWd"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        },
+        {
+          "name": "El Bala",
+          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Fue Tu Culpa",
+      "url": "https://open.spotify.com/track/7hxPbThnIsDlQQwSCwBNbH"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1043,22 +1079,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Navajas En El Viento",
         "url": "https://open.spotify.com/album/2yGAqrfzTvChwWsB10c5Nj"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 225133,
       "name": "Navajas En El Viento",
       "url": "https://open.spotify.com/track/6EhatS1CYbGwgn1Sip0nG7"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Fue Tu Culpa",
-        "url": "https://open.spotify.com/album/5NOb3XhFyTN9QQcfdjYHWd"
-      },
-      "artists": [
-        {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
-        },
-        {
-          "name": "El Bala",
-          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Fue Tu Culpa",
-      "url": "https://open.spotify.com/track/7hxPbThnIsDlQQwSCwBNbH"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1231,22 +1231,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "MALAMANTE (en carne viva)",
-        "url": "https://open.spotify.com/album/12YgmMbN5H0v4ZXhxrSwpQ"
+        "name": "Yo No Creo En Los Hombres",
+        "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
       },
       "artists": [
         {
-          "name": "Veronica Orozco",
-          "url": "https://open.spotify.com/artist/1Te0peWkDd6h5Rnd0qjaKm"
-        },
-        {
-          "name": "Diana Hoyos",
-          "url": "https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn"
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
         }
       ],
-      "duration_ms": 200546,
-      "name": "MALAMANTE (en carne viva)",
-      "url": "https://open.spotify.com/track/4YQ4KZT0CvKbFJFYPZZedi"
+      "duration_ms": 215893,
+      "name": "Yo No Creo En Los Hombres",
+      "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1267,18 +1263,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "En Tu Sonrisa",
-        "url": "https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F"
+        "name": "MALAMANTE (en carne viva)",
+        "url": "https://open.spotify.com/album/12YgmMbN5H0v4ZXhxrSwpQ"
       },
       "artists": [
         {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+          "name": "Veronica Orozco",
+          "url": "https://open.spotify.com/artist/1Te0peWkDd6h5Rnd0qjaKm"
+        },
+        {
+          "name": "Diana Hoyos",
+          "url": "https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn"
         }
       ],
-      "duration_ms": 181466,
-      "name": "En Tu Sonrisa",
-      "url": "https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD"
+      "duration_ms": 200546,
+      "name": "MALAMANTE (en carne viva)",
+      "url": "https://open.spotify.com/track/4YQ4KZT0CvKbFJFYPZZedi"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "En Tu Sonrisa",
+        "url": "https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "En Tu Sonrisa",
+      "url": "https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Me lo vas a agradecer",
         "url": "https://open.spotify.com/album/4wmK6yBz7s8AyDW2hOcv3a"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 190659,
       "name": "Me lo vas a agradecer",
       "url": "https://open.spotify.com/track/0XNpmYRhxlgC8n7QeuwLTq"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Yo No Creo En Los Hombres",
-        "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
-      },
-      "artists": [
-        {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
-        }
-      ],
-      "duration_ms": 215893,
-      "name": "Yo No Creo En Los Hombres",
-      "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Dej\u00e9moslo As\u00ed",
+        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Javier Camarena - La Voz de M\u00e9xico",
         "url": "https://open.spotify.com/album/0XGgZddNyq7ueKObEBKpdg"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Ven Porque Te Necesito",
-        "url": "https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Ven Porque Te Necesito",
-      "url": "https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Coincidencias",
         "url": "https://open.spotify.com/album/0YGUKU6DyVS2F7TnMl2Jav"
       },
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Decid\u00ed Olvidarte",
-        "url": "https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P"
+        "name": "Ven Porque Te Necesito",
+        "url": "https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX"
       },
       "artists": [
         {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
         }
       ],
-      "duration_ms": 140173,
-      "name": "Decid\u00ed Olvidarte",
-      "url": "https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj"
+      "duration_ms": 185560,
+      "name": "Ven Porque Te Necesito",
+      "url": "https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1507,6 +1507,22 @@
       "duration_ms": 173546,
       "name": "Me Cuesta Tanto Olvidarte",
       "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Decid\u00ed Olvidarte",
+        "url": "https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 140173,
+      "name": "Decid\u00ed Olvidarte",
+      "url": "https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1571,22 +1587,6 @@
       "duration_ms": 185781,
       "name": "Apur\u00e9 Mi Caf\u00e9 - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/543GxK1Fbq64kfhMB4j7Dq"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Dej\u00e9moslo As\u00ed",
-        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
-      },
-      "artists": [
-        {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
     },
     {
       "added_at": "2023-08-04 06:00:00",

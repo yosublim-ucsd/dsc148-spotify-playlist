@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Karina.",
-  "num_followers": 176618,
+  "num_followers": 176735,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWNjMWNmZDlmMzM1ZjY5MTE2YjI1MTkyZDA1YmIzMDZjYWYyYzc2",
+  "snapshot_id": "MCw1OTA2NjI2ZWMxZWU0NDUwNWE2MmNjMzExNDE0YjY0NmY0Y2FmMTkw",
   "tracks": [
     {
       "added_at": "2023-08-04 05:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
-        "name": "Renovado",
-        "url": "https://open.spotify.com/album/5N6QaxcMze5HSGfMzhWASC"
-      },
-      "artists": [
-        {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
-        }
-      ],
-      "duration_ms": 258293,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn"
-    },
-    {
-      "added_at": "2023-08-04 05:01:00",
-      "album": {
         "name": "El \u00daltimo Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/5XivpS4x7wPLUBxdHQRQnT"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 251724,
       "name": "El \u00daltimo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq"
+    },
+    {
+      "added_at": "2023-08-04 05:01:00",
+      "album": {
+        "name": "Renovado",
+        "url": "https://open.spotify.com/album/5N6QaxcMze5HSGfMzhWASC"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 258293,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn"
     },
     {
       "added_at": "2023-08-04 05:01:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
-        "name": "Hoy Te Vas",
-        "url": "https://open.spotify.com/album/03cCnCHcgtarhC0BnZIGZ7"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Onda Sabanera",
-          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Hoy Te Vas",
-      "url": "https://open.spotify.com/track/20iwP3Qzh9AnLJRguIKWqN"
-    },
-    {
-      "added_at": "2023-08-04 05:01:00",
-      "album": {
         "name": "Hoy Quiero Verte",
         "url": "https://open.spotify.com/album/19AtwODbc5YtbcUYQcRsRX"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 199268,
       "name": "Hoy Quiero Verte",
       "url": "https://open.spotify.com/track/6KejUDGAYcKwvs0EXkQLxg"
+    },
+    {
+      "added_at": "2023-08-04 05:01:00",
+      "album": {
+        "name": "Hoy Te Vas",
+        "url": "https://open.spotify.com/album/03cCnCHcgtarhC0BnZIGZ7"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Hoy Te Vas",
+      "url": "https://open.spotify.com/track/20iwP3Qzh9AnLJRguIKWqN"
     },
     {
       "added_at": "2023-08-04 05:01:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
-        "name": "No Me Digas Adios",
-        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
-      },
-      "artists": [
-        {
-          "name": "Commanche",
-          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "Como Te Lo Digo",
-      "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
-    },
-    {
-      "added_at": "2023-08-04 05:01:00",
-      "album": {
         "name": "SOMOS NOSOTROS",
         "url": "https://open.spotify.com/album/7mxxb19XlmY9nhFhumFmSD"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 122666,
       "name": "SOMOS NOSOTROS",
       "url": "https://open.spotify.com/track/2u3Hwa2fckCMGb5vo8DBbJ"
+    },
+    {
+      "added_at": "2023-08-04 05:01:00",
+      "album": {
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "Como Te Lo Digo",
+      "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
     },
     {
       "added_at": "2023-08-04 05:01:00",
@@ -1499,42 +1499,6 @@
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
-        "name": "Te Hubieras Ido Antes",
-        "url": "https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq"
-      },
-      "artists": [
-        {
-          "name": "Super Quinteto",
-          "url": "https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X"
-        },
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 323334,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d"
-    },
-    {
-      "added_at": "2023-08-04 05:01:00",
-      "album": {
-        "name": "No Me Digas Adios",
-        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
-      },
-      "artists": [
-        {
-          "name": "Commanche",
-          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
-    },
-    {
-      "added_at": "2023-08-04 05:01:00",
-      "album": {
         "name": "Lo Mejor del Amor",
         "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
       },
@@ -1555,18 +1519,22 @@
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
-        "name": "Otra Como Tu",
-        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
+        "name": "Te Hubieras Ido Antes",
+        "url": "https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "Super Quinteto",
+          "url": "https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X"
+        },
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
         }
       ],
-      "duration_ms": 220618,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
+      "duration_ms": 323334,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d"
     },
     {
       "added_at": "2023-08-04 05:01:00",
@@ -1587,6 +1555,22 @@
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
+        "name": "Otra Como Tu",
+        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 220618,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
+    },
+    {
+      "added_at": "2023-08-04 05:01:00",
+      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
       },
@@ -1599,22 +1583,6 @@
       "duration_ms": 215186,
       "name": "Vete",
       "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
-    },
-    {
-      "added_at": "2023-08-04 05:01:00",
-      "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 211044,
-      "name": "Quitame Ese Hombre",
-      "url": "https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt"
     },
     {
       "added_at": "2023-08-04 05:01:00",
@@ -1635,6 +1603,38 @@
       "duration_ms": 256021,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz"
+    },
+    {
+      "added_at": "2023-08-04 05:01:00",
+      "album": {
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
+    },
+    {
+      "added_at": "2023-08-04 05:01:00",
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 211044,
+      "name": "Quitame Ese Hombre",
+      "url": "https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt"
     },
     {
       "added_at": "2023-08-04 05:01:00",

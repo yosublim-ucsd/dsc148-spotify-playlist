@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-654 songs - 1 day 16 hr 7 min
+655 songs - 1 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [Linger](https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Linger](https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx) | 3:21 | 2021-10-20 |  |
 | [Little Talks](https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb) | [Julia Sheer](https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF), [Jon D](https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN) | [Little Talks](https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM) | 3:39 | 2021-10-20 |  |
 | [Live And Let Die](https://open.spotify.com/track/7xGgissfweCRip2WmupekT) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [War Child \- Heroes Vol.1](https://open.spotify.com/album/68Q7huXVb1AVSUPtORn1qq) | 2:53 | 2021-10-20 | 2022-06-29 |
-| [Long Black Veil \- Remastered 2000](https://open.spotify.com/track/2mkz7LrEqofmv0PvcihXW7) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 3:01 | 2022-06-10 |  |
+| [Long Black Veil \- Remastered 2000](https://open.spotify.com/track/2mkz7LrEqofmv0PvcihXW7) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 3:01 | 2022-06-10 | 2023-08-09 |
 | [Lord Protect My Child](https://open.spotify.com/track/7pEevLRzUALbFAIBzJOx1c) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Hope And Desire](https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY) | 4:44 | 2022-06-10 | 2022-07-23 |
 | [Lose You to Love Me \- Acoustic](https://open.spotify.com/track/6juFeoYKK64BjjgrfAC1wO) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Maddy Newton](https://open.spotify.com/artist/15MDrArE0tDC8GTMSOCKcp) | [Lose You to Love Me \(Acoustic\)](https://open.spotify.com/album/3LEbT1tRrGObg4JWMmte5y) | 3:20 | 2021-10-20 | 2023-04-09 |
 | [Losing My Religion](https://open.spotify.com/track/1oXL3rpccEIey1ncsRqjap) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Losing My Religion](https://open.spotify.com/album/3DCsXZiCjPnszqfc0YnJi3) | 4:06 | 2021-10-20 | 2022-07-29 |
@@ -503,6 +503,7 @@
 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 | 2021-10-20 |  |
 | [Sorrow \(feat\. Jenny Lewis\)](https://open.spotify.com/track/0UwnJo950rdPzqTKVRwoWj) | [Paul Shaffer And The World's Most Dangerous Band](https://open.spotify.com/artist/1lsqIyPgDUnjkTDT7KGYxp), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Sorrow \(feat\. Jenny Lewis\)](https://open.spotify.com/album/6dw4Js2FQzcqbn1V8kgIZn) | 3:39 | 2021-10-20 | 2022-07-24 |
 | [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 | 2021-10-20 | 2023-07-29 |
+| [Sorry](https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U) | 2:45 | 2023-08-04 |  |
 | [Sorry](https://open.spotify.com/track/7GgfdituLOQ7pCA7Klexyj) | [Savannah Outen](https://open.spotify.com/artist/0FcC38n7nTB9YS1xhFOKDX) | [Sorry](https://open.spotify.com/album/1DpSC3PnlOplevOBkKXWpP) | 3:12 | 2021-10-20 | 2022-07-07 |
 | [Sorry \- Live](https://open.spotify.com/track/2i4sEJNbfcEKtqU0dcY9O1) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Sorry \(Live\)](https://open.spotify.com/album/5wg6xwIm3iM5Fy1Et1KJH4) | 3:24 | 2021-10-20 | 2022-07-27 |
 | [Soul Meets Body](https://open.spotify.com/track/6MKXxE9Zz18KXyPO7T5vhI) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Soul Meets Body](https://open.spotify.com/album/2vZ09NrNvE2ekWg9WVRAT7) | 3:38 | 2021-10-20 | 2022-07-29 |

@@ -36,7 +36,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 198214,
-      "name": "5 estrellas",
+      "name": "5 Estrellas",
       "url": "https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw"
     },
     {
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 192244,
       "name": "Centenas De Miles De A\u00f1os",
       "url": "https://open.spotify.com/track/6xa21lEbZdVtQa41HDkQcY"
@@ -1394,6 +1394,24 @@
       "duration_ms": 186045,
       "name": "No siempre quedar\u00e1 Par\u00eds - Remix",
       "url": "https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw"
+    },
+    {
+      "album": {
+        "name": "DEKKOLETERA 33",
+        "url": "https://open.spotify.com/album/54T5464PwGMLUYYAUDYzso"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204241,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/4oTiqed4Dp5gMfw0BUF4YD"
     },
     {
       "album": {

@@ -474,7 +474,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 121288,
       "name": "Aquela",
       "url": "https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3"
@@ -6216,6 +6216,28 @@
       "duration_ms": 195009,
       "name": "Sikatrizes",
       "url": "https://open.spotify.com/track/637kGZJZhh7MQ37lXkgJgi"
+    },
+    {
+      "album": {
+        "name": "Suco de Fruta",
+        "url": "https://open.spotify.com/album/5RzwJ40yPtUgANPoEmP7wr"
+      },
+      "artists": [
+        {
+          "name": "Mikezin",
+          "url": "https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "Suco de Fruta",
+      "url": "https://open.spotify.com/track/4sbR19WEgjJUfRsU1z2DY2"
     },
     {
       "album": {

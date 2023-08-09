@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Not Others\. \(남남의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-30 songs - 1 hr 44 min
+32 songs - 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,8 @@
 | [Move](https://open.spotify.com/track/4D1guAFjg5BS8Xx1aOqn3L) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7) | [Connected](https://open.spotify.com/album/3tizdmilWNGp9RQoli1Urb) | 4:00 | 2023-07-31 |  |
 | [Run With Me](https://open.spotify.com/track/1m8b3KFsAiGyjRc90ZfEB9) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Serenade](https://open.spotify.com/album/2McJE8dHLru3MgR1bcxdyF) | 4:30 | 2023-07-31 |  |
 | [Seed](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 4:15 | 2023-07-31 |  |
+| [Somebody Like](https://open.spotify.com/track/7uKQZH0nlYpCiueooLwGSd) | [YOO YEONJUNG](https://open.spotify.com/artist/35cW62cltZjFaHCCWeax6v) | [Not Others, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3KqrV6nEOnBtEJvmkda9xf) | 3:19 | 2023-08-08 |  |
+| [Somebody Like \- Instrumental](https://open.spotify.com/track/6DvYBG8HsAxBRo7Fn2ReKl) | [YOO YEONJUNG](https://open.spotify.com/artist/35cW62cltZjFaHCCWeax6v) | [Not Others, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3KqrV6nEOnBtEJvmkda9xf) | 3:19 | 2023-08-08 |  |
 | [Starting Over](https://open.spotify.com/track/3ix0pg2CqztyynmigM72se) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Someone's playlist \#5](https://open.spotify.com/album/26twLmpKO6M8Yo5rytkHlk) | 4:52 | 2023-07-31 |  |
 | [Try](https://open.spotify.com/track/221PQiYwFVxVWvY1kpYhtN) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [1/24](https://open.spotify.com/album/5gcChxYyrOXbI27SVjreej) | 4:23 | 2023-07-31 |  |
 | [Very longtime Lovers](https://open.spotify.com/track/0Nyz7f9ZtqizCUJ6qYXkW1) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7) | [The Third Wave](https://open.spotify.com/album/74ZCjSnvCX7J68TAXxpfcg) | 4:13 | 2023-07-31 |  |

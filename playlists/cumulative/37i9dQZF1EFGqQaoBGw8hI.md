@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-603 songs - 1 day 18 hr 24 min
+604 songs - 1 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [A Woman's Needs](https://open.spotify.com/track/3qqx8ZzV345NQwkMGIozFg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 5:17 | 2022-09-08 |  |
 | [A Word In Spanish](https://open.spotify.com/track/1EsN2D481Q3E8vz68nkNoA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:39 | 2022-09-08 |  |
 | [Act Of War \(Part 1\)](https://open.spotify.com/track/6eIheHaFM5KVclLQNuoixP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:43 | 2022-09-08 |  |
+| [Africa](https://open.spotify.com/track/4FjXVninfbhkXgvUAw4vYa) | [Ndlovu Youth Choir](https://open.spotify.com/artist/5Wj12iPc23dZqX3K67PwE6) | [Harmonious: Globally Inspired Music from the EPCOT Nighttime Spectacular \(Original Soundtrack\)](https://open.spotify.com/album/6EL24CvOJteuYgnNG7xuJs) | 2:15 | 2023-08-08 |  |
 | [After All](https://open.spotify.com/track/4A9g0WVvFYjJftYWWXXxP7) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:28 | 2022-09-08 | 2022-10-11 |
 | [After All](https://open.spotify.com/track/6cnF63Qm1qAJ0sHKvM5BOg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [The Lockdown Sessions](https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC) | 3:28 | 2022-10-10 |  |
 | [All Across The Havens](https://open.spotify.com/track/48QT3qnsdEfGf1RTQaWSbT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 2:52 | 2022-09-08 |  |
@@ -243,7 +244,7 @@
 | [I Feel Like A Bullet \(In The Gun Of Robert Ford\)](https://open.spotify.com/track/7hWSPGUmcME2DnluQiYD0d) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 5:27 | 2022-09-08 |  |
 | [I Guess That's Why They Call It The Blues](https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 4:45 | 2022-09-08 |  |
 | [I Know Why I'm In Love](https://open.spotify.com/track/4jL2oCnnwaM8fGfL74F12R) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:32 | 2023-05-26 |  |
-| [I Loved a Man](https://open.spotify.com/track/5TviDMAuoD2YidbXDVsSqC) | [Cleo Laine](https://open.spotify.com/artist/7GUNyLdzdGxR828EyGvM7k) | [Oldies Selection: Platinum Records, Vol\. 1](https://open.spotify.com/album/53lg5BTeXdPbld9Syj5L6r) | 2:31 | 2023-05-26 |  |
+| [I Loved a Man](https://open.spotify.com/track/5TviDMAuoD2YidbXDVsSqC) | [Cleo Laine](https://open.spotify.com/artist/7GUNyLdzdGxR828EyGvM7k) | [Oldies Selection: Platinum Records, Vol\. 1](https://open.spotify.com/album/53lg5BTeXdPbld9Syj5L6r) | 2:31 | 2023-05-26 | 2023-08-09 |
 | [I Meant To Do My Work Today \(A Day In The Country\) \- From “Friends” Soundtrack](https://open.spotify.com/track/4ZjhN087uZotBPLepaJpFI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 1:36 | 2023-05-26 |  |
 | [I Must Have Lost It On The Wind](https://open.spotify.com/track/3HvxAXWaHkbbAzEhJiUDz4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 3:53 | 2022-09-08 |  |
 | [I Need You To Turn To](https://open.spotify.com/track/7phTxbdPX8sLRehWtLPxHl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 2:30 | 2022-09-08 |  |

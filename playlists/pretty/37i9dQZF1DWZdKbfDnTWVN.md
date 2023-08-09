@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=LJke8bmwSjeu4whf3N\_9HA">Khaligraph Jones</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,916 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,931 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 6 | [So Gone Gfix](https://open.spotify.com/track/6oI7qnO61ysdOFBDemA13S) | [Vinc On The Beat](https://open.spotify.com/artist/1zAkmlAKP4fCnJnAymX4r9), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [So Gone Gfix](https://open.spotify.com/album/1P0SXdYFMgygK9hqjdEzEI) | 2:41 |
 | 7 | [Quill2thmfwrld](https://open.spotify.com/track/7snV7SDZmfCjS9Sm099RRG) | [Jakk Quill](https://open.spotify.com/artist/6QqOXzlH2dcYNAHeGgZcLm) | [SEARCHING FOR UTOPIA](https://open.spotify.com/album/7IbrgLFXo4lzo7UvK4xqZe) | 5:19 |
 | 8 | [Sue me](https://open.spotify.com/track/3DgYLpiHk6MYE8PET6VlJB) | [Kahu$h](https://open.spotify.com/artist/5XRsIBzy6ampDaZvPzRxxr), [Korb$](https://open.spotify.com/artist/5cG5xPX9IGkJqah9F3IFC5) | [Uptown Chokoraa](https://open.spotify.com/album/6HA8OwSGgnbqhr0Hiy6zZm) | 2:50 |
-| 9 | [Sexy](https://open.spotify.com/track/0D1Avf68Spv3LHbjayZ76K) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB) | [Sexy](https://open.spotify.com/album/7ay20SlhHMu04QyTJ7zLmU) | 2:27 |
+| 9 | [SEXY](https://open.spotify.com/track/0D1Avf68Spv3LHbjayZ76K) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB) | [SEXY](https://open.spotify.com/album/7ay20SlhHMu04QyTJ7zLmU) | 2:27 |
 | 10 | [Dara Polisi](https://open.spotify.com/track/1ZAyFHQMK7eFhgNxGOSpgu) | [Alex Vice](https://open.spotify.com/artist/1dE9AUZLMQysTU18I6fNAo), [Dyana Cods](https://open.spotify.com/artist/53Ibd5TvnSkKslwcpQYnA3) | [Dara Polisi](https://open.spotify.com/album/49CWvt3ZczWIrz38encYGj) | 2:27 |
 | 11 | [Iko Top](https://open.spotify.com/track/4CvQplM8LsqUTY0YbDohBH) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX) | [Iko Top](https://open.spotify.com/album/2pwOODrDsMPeUfommbixIU) | 3:33 |
 | 12 | [Shots \(feat\. Nyashinski\)](https://open.spotify.com/track/1oZYyR3EWPOPTyrZXIQuey) | [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q), [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Ceduction](https://open.spotify.com/album/72CVdgTmhjPyGh78LRv1Gy) | 2:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 59 | [STAKI KUBONGA MOB](https://open.spotify.com/track/3Al64p5TiG2KsDMRbaTdLC) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [PEPA](https://open.spotify.com/artist/4HqvlMEqy26JdJ99TagjWh), [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [IMPRESSING MYSELF](https://open.spotify.com/album/037nljmHSWbT0KlOPiqk0j) | 2:02 |
 | 60 | [GVNG](https://open.spotify.com/track/2x0IbiX2uIrA3rH8G3Nzb3) | [Bout Paper Boyz](https://open.spotify.com/artist/2EXPwSRAffYH1zNCalvcaB), [TwennyEights](https://open.spotify.com/artist/6wsz9QSirpcHgvkZ2Huhv0), [BoutPaperMasey](https://open.spotify.com/artist/7u408StdmIpsqxET0fm3dW) | [GVNG](https://open.spotify.com/album/5AUM8rsUTPiTldUtH7k0ux) | 1:30 |
 
-Snapshot ID: `MCxhNTkxZTA3OGVkOGY1NTFkYzY0YjU0ZDcwODFlYmZlODI5OGU5MmIz`
+Snapshot ID: `MCw3ZWZhNjBmYWUyZjlkMWQ5ODI1NjgzN2FkOGE3Nzk3ZWFhNzMwMmRj`

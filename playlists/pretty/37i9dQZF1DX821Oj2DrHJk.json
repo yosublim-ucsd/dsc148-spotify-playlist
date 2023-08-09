@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1970s.",
-  "num_followers": 28144,
+  "num_followers": 28176,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTA4NmUxOTUzZjk3NGQwMWIxYmZmNmRhNmYzY2I2YTBkYzM4Y2My",
+  "snapshot_id": "MCw5OTc5ZmEwZThjNGQ5ZTUzYmQ4YzEwNmFkYjhmYzJhZTRkMjY5NTIy",
   "tracks": [
     {
       "added_at": "2022-11-17 16:14:04",
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
         }
       ],
-      "duration_ms": 251253,
-      "name": "The Logical Song - Remastered 2010",
-      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
+      "duration_ms": 159346,
+      "name": "Breakfast In America - 2010 Remastered",
+      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
         }
       ],
-      "duration_ms": 159346,
-      "name": "Breakfast In America - 2010 Remastered",
-      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
+      "duration_ms": 251253,
+      "name": "The Logical Song - Remastered 2010",
+      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Cosmo's Factory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "Up Around The Bend",
-      "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "A Day At The Races (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 173173,
       "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
       "url": "https://open.spotify.com/track/1mnQiO568zXIrUncttTZGp"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 161466,
+      "name": "Up Around The Bend",
+      "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "It Ain't Easy",
-        "url": "https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l"
-      },
-      "artists": [
-        {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Mama Told Me (Not To Come) - Single Version",
-      "url": "https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "A Night At The Opera (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 170800,
       "name": "You're My Best Friend - Remastered 2011",
       "url": "https://open.spotify.com/track/4OKf7CcYuw5H2HptkcKxcP"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "It Ain't Easy",
+        "url": "https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l"
+      },
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Mama Told Me (Not To Come) - Single Version",
+      "url": "https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1515,22 +1515,18 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Best Of Blondie",
-        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
+        "name": "Wizzard Brew",
+        "url": "https://open.spotify.com/album/4nDZxxwsvUNhJUmBhhec4N"
       },
       "artists": [
         {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        },
-        {
-          "name": "Mike Chapman",
-          "url": "https://open.spotify.com/artist/7dXUks6yUrIy5IYKFn45iq"
+          "name": "Wizzard",
+          "url": "https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9"
         }
       ],
-      "duration_ms": 185066,
-      "name": "Sunday Girl",
-      "url": "https://open.spotify.com/track/23yv078f5kc08Kj6DMpO0t"
+      "duration_ms": 302333,
+      "name": "See My Baby Jive - 2006 Remaster",
+      "url": "https://open.spotify.com/track/6cg3CWWHTui9KAew9dHIjT"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1551,18 +1547,22 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Wizzard Brew",
-        "url": "https://open.spotify.com/album/4nDZxxwsvUNhJUmBhhec4N"
+        "name": "Best Of Blondie",
+        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
       },
       "artists": [
         {
-          "name": "Wizzard",
-          "url": "https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9"
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        },
+        {
+          "name": "Mike Chapman",
+          "url": "https://open.spotify.com/artist/7dXUks6yUrIy5IYKFn45iq"
         }
       ],
-      "duration_ms": 302333,
-      "name": "See My Baby Jive - 2006 Remaster",
-      "url": "https://open.spotify.com/track/6cg3CWWHTui9KAew9dHIjT"
+      "duration_ms": 185066,
+      "name": "Sunday Girl",
+      "url": "https://open.spotify.com/track/23yv078f5kc08Kj6DMpO0t"
     },
     {
       "added_at": "2022-11-17 16:14:04",

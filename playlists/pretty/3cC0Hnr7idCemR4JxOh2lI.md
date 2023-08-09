@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3cC0Hnr7idCemR4JxOh2lI.md) - [plain]
 
 > Borlängeprofilen Ingemar Magnusson, som till vardags driver skivbutiken Folk å Rock, listar sina 200 favoritlåtar\. Hitta spellistor för alla tillfällen på <a href="spotify:app:tunigo">Tunigo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 200 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 200 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,7 +161,7 @@ pretty - [cumulative](/playlists/cumulative/3cC0Hnr7idCemR4JxOh2lI.md) - [plain]
 | 151 | [Boxcars](https://open.spotify.com/track/0Pkl8MEULt99PHz40e3CLo) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [From Lubbock to Laredo](https://open.spotify.com/album/1F4R5htMhLyaUC7j1f5Fvq) | 3:55 |
 | 152 | [Älskar du igen](https://open.spotify.com/track/6EJotB2YPyEcfWgmQIzPkY) | [Tant Strul](https://open.spotify.com/artist/2EUZieXlU07oWuMDi8H3KF) | [Jag önskar dig](https://open.spotify.com/album/3XapSFLy2msE9M9NrJFXyK) | 3:56 |
 | 153 | [Ku Klux Klan](https://open.spotify.com/track/0NlA0b2RNynMGZoxZm8hSq) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Handsworth Revolution](https://open.spotify.com/album/0FxdNrYsdsUlZgZkJgr3NL) | 3:41 |
-| 154 | [Frozen Years](https://open.spotify.com/track/47d5RXwVQ2j3Adz0xp4Yhc) | [The Rumour](https://open.spotify.com/artist/34XOKvo8R7mnjdS8S0Gwvq) | [Not So Much A Rumour, More A Way Of Life](https://open.spotify.com/album/4Pj5OM0cJEGk5CjFZSvyJS) | 3:35 |
+| 154 | [Frozen Years](https://open.spotify.com/track/47d5RXwVQ2j3Adz0xp4Yhc) | [The Rumour](https://open.spotify.com/artist/7JX9QWeCMelAbcAidKHCXB) | [Not So Much A Rumour, More A Way Of Life](https://open.spotify.com/album/4Pj5OM0cJEGk5CjFZSvyJS) | 3:35 |
 | 155 | [Why Should I Be Surprised](https://open.spotify.com/track/2s6JrGMYZzqCHg719Oiwz7) | [The LeRoi Brothers](https://open.spotify.com/artist/2nyybQacZa4Q8QD4vydi18) | [New Rose Story Vol.2](https://open.spotify.com/album/3ZOpyVQ1pqQMK7TI5wKjcD) | 3:38 |
 | 156 | [Run Dusty Run](https://open.spotify.com/track/7IsW9G2v5Xr5JbiazQtj8E) | [The Long Ryders](https://open.spotify.com/artist/26mSNyxjAsV5HSb7vAHu1W) | [Native Sons Deluxe](https://open.spotify.com/album/34yYN66pe21uryjpYgSUiN) | 2:28 |
 | 157 | [Walking Home](https://open.spotify.com/track/4lVf1OWkih8fvzXOshZ60m) | [The Brandos](https://open.spotify.com/artist/7cHNdXdvXSSCGLlXdYeyQH) | [Over The Border](https://open.spotify.com/album/7MnH0ijOZ17iRiCP1NTZYU) | 4:37 |

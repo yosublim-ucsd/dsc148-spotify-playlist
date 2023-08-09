@@ -97,6 +97,24 @@
     },
     {
       "album": {
+        "name": "NEVER ENDING STORY",
+        "url": "https://open.spotify.com/album/621nNvyHkZ6ekzTTyNc6Bk"
+      },
+      "artists": [
+        {
+          "name": "LYTO",
+          "url": "https://open.spotify.com/artist/3aCv90gO2lX7bOzETHLGjA"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "BAKUON",
+      "url": "https://open.spotify.com/track/3Ce2pidrO43laAAFJcZZbe"
+    },
+    {
+      "album": {
         "name": "BARRACUDA",
         "url": "https://open.spotify.com/album/1Vnu5Ij2eHePf3DLHvHdjN"
       },
@@ -900,7 +918,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 221855,
       "name": "Kamasu or Die",
       "url": "https://open.spotify.com/track/2wsYbaGE0LrBpFVvpTPmHH"

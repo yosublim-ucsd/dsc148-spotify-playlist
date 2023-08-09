@@ -4,7 +4,7 @@
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:   <a href="https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq?si=b34de8f3be7a4d91">Hillsong en Español</a>
 
-450 songs - 1 day 10 hr 7 min
+451 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Cristo eres Hermoso](https://open.spotify.com/track/5839TT9wb3OWgjPUlAdhuE) | [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Daniela Alvarado](https://open.spotify.com/artist/07miUQ1NZ5JHO2T26f0rgu) | [Cristo eres Hermoso](https://open.spotify.com/album/4I6sHZwfxS6PL85kDP14cQ) | 9:06 | 2022-02-25 | 2022-03-26 |
 | [Cristo Es Necesario](https://open.spotify.com/track/2eKSYUiEmugpewQMEn0bfH) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Cristo Es Necesario](https://open.spotify.com/album/28qFHWTdQ46mwC3Ppm2m0U) | 4:05 | 2022-02-25 | 2022-06-11 |
 | [Cuando Yo Te Conocí feat\. AZ Family](https://open.spotify.com/track/4lJRhcjlkb1VtYjL8ToJol) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Dennisse](https://open.spotify.com/artist/1QjJtcvTWO6QYwvcA3w9Hg) | [Cuando Yo Te Conocí feat\. AZ Family](https://open.spotify.com/album/3d9EGTa21BYiOqzo7Xv8QH) | 3:40 | 2022-02-25 | 2022-03-05 |
-| [Cuánto Te Amo](https://open.spotify.com/track/2gQg3VWnidqgzPkJdKX6xC) | [Armando Sánchez](https://open.spotify.com/artist/0u5GpuQQC8Vr2l648shvcC), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV) | [Cuánto Te Amo](https://open.spotify.com/album/5d0sMnrH3htZ0VbppRhrJ6) | 4:58 | 2022-09-30 |  |
+| [Cuánto Te Amo](https://open.spotify.com/track/2gQg3VWnidqgzPkJdKX6xC) | [Armando Sánchez](https://open.spotify.com/artist/0u5GpuQQC8Vr2l648shvcC), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV) | [Cuánto Te Amo](https://open.spotify.com/album/5d0sMnrH3htZ0VbppRhrJ6) | 4:58 | 2022-09-30 | 2023-08-09 |
+| [Cuánto Te Amo \- Versión Radio](https://open.spotify.com/track/1iilyuN3BpRCT2OYqpzfLQ) | [Armando Sanchez](https://open.spotify.com/artist/7q7TQRaFKtXF11dDH90IzI), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV) | [Cuánto Te Amo \(Versión Radio\)](https://open.spotify.com/album/3pMMO2wZVDpv2sWPFfbUjJ) | 4:58 | 2023-08-04 |  |
 | [Cómo No Confiar \(Live\)](https://open.spotify.com/track/1fjoVT35xY4SMcU3xE08vp) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8) | [Rey Del Cielo \(Live\)](https://open.spotify.com/album/1RXbNCk1PL83UW4Cp55dcp) | 6:55 | 2022-07-22 | 2023-04-09 |
 | [Cómo No Confiar \(Live\)](https://open.spotify.com/track/3gmDDisAmwTTrTgQhkUrAs) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8) | [Rey Del Cielo \(Live\)](https://open.spotify.com/album/27ZLOYJ1LZo9iViREHrbfV) | 6:55 | 2022-04-22 | 2022-07-29 |
 | [Cómo Te Amamos \(feat\. Karen Espinosa & Johnny Peña\)](https://open.spotify.com/track/5QzMMnMmAKL82fpNdSIbG9) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG) | [Cómo Te Amamos \(feat\. Karen Espinosa & Johnny Peña\)](https://open.spotify.com/album/0Gf8wWBy3I08ERf6IGwrSq) | 7:42 | 2022-04-29 | 2022-05-14 |

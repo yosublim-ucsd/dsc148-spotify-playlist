@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Nia Archives
 
-1,126 songs - 2 day 14 hr 17 min
+1,127 songs - 2 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Blame](https://open.spotify.com/track/4bCvl78vbz1GEjrAhc1230) | [BARLOW](https://open.spotify.com/artist/0BnnLXHrHdTzEoinOkHBeg), [Zïe](https://open.spotify.com/artist/4fLFUErtRK5d15dMWv1hEc) | [Blame](https://open.spotify.com/album/3VH4vXMU8sJRyE17FvXbdo) | 3:39 | 2023-05-04 | 2023-05-19 |
 | [Blessings](https://open.spotify.com/track/7ezSdLbC2E8FsAQHbEIL4Z) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Blessings](https://open.spotify.com/album/0wh6roDWADQ59kqwzyh0k7) | 2:31 | 2023-01-26 | 2023-02-17 |
 | [Blinding Me](https://open.spotify.com/track/6V9qqUOyk3czAHwT9aGhRS) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [Blinding Me](https://open.spotify.com/album/05YpcC2jPBp7RVG4wsnPrj) | 1:52 | 2022-12-08 | 2022-12-24 |
-| [Blisters on My Feet](https://open.spotify.com/track/1lshJx941qq57U0OSWw6qH) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Club Rompas](https://open.spotify.com/album/7cJdhK0qniYWKodYxK6LPP) | 2:56 | 2023-07-27 |  |
+| [Blisters on My Feet](https://open.spotify.com/track/1lshJx941qq57U0OSWw6qH) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Club Rompas](https://open.spotify.com/album/7cJdhK0qniYWKodYxK6LPP) | 2:56 | 2023-07-27 | 2023-08-09 |
+| [Blisters on My Feet](https://open.spotify.com/track/3j8TbHVc4Kg4mWApoXnUL4) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Club Rompas](https://open.spotify.com/album/57c4YyyWoOYOWGFqKqHJgF) | 2:56 | 2023-08-07 |  |
 | [Blow My Mind](https://open.spotify.com/track/0ZJYKFYQYO0kL8lYuILAGx) | [Pink Panda](https://open.spotify.com/artist/4DBNGKCWVHaxuDNBAgTiJH), [Nadim](https://open.spotify.com/artist/04r4bpYoO5pcJD0Ga8u6T6), [AmeliaCee](https://open.spotify.com/artist/5Cs12AhGIsXew1VY65kvFV) | [Blow My Mind](https://open.spotify.com/album/3ZiXEgZ2wwzScYcxvkvwR1) | 2:15 | 2023-01-26 | 2023-02-17 |
 | [Blow Ya Mind](https://open.spotify.com/track/21hxN3cxOJoDmQwg2tXUpN) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lee Cabrera](https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w), [Bleech](https://open.spotify.com/artist/0az6y7AjCCOAZzAF3i1Jaq), [Lock 'N Load](https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9) | [Blow Ya Mind](https://open.spotify.com/album/6GK4SX32R65JWHOCeZqdiA) | 2:29 | 2023-04-27 | 2023-05-19 |
 | [Blow Your Mind](https://open.spotify.com/track/2hUdC7KJF8hkBgfykpGz1z) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Blow Your Mind](https://open.spotify.com/album/3FNaV3PpvNblwUfe5sOhU2) | 4:45 | 2023-06-16 | 2023-07-07 |

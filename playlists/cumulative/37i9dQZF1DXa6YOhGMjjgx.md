@@ -4,7 +4,7 @@
 
 > The very best of the alternative rock scene\. Cover: PÆRISH
 
-322 songs - 18 hr 28 min
+323 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Cough Up Cherries](https://open.spotify.com/track/4dsxz4IEl1T3ZmeBoLJ1Ky) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Cough Up Cherries](https://open.spotify.com/album/1ctmJLfcmpgU9RSX5BWgD9) | 2:56 | 2021-10-15 | 2022-07-29 |
 | [Cramps](https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Cramps](https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE) | 2:51 | 2023-03-17 |  |
 | [Curse the Weather](https://open.spotify.com/track/4Avvd1ZV1CX4zLzeMVp8RO) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Curse the Weather](https://open.spotify.com/album/6uJR4KHUajTNHpjpvh4KAe) | 3:43 | 2021-03-31 | 2022-03-16 |
+| [Darkness](https://open.spotify.com/track/63nM05dAFbc1y2Vo53WZ9n) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/5C7sRYLBu5MpSsgn2f1MAh) | 3:48 | 2023-08-08 |  |
 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 | 2023-05-19 |  |
 | [Dead Weight](https://open.spotify.com/track/0PDjruEbiCY7sy2VVd0mPG) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Dead Weight](https://open.spotify.com/album/4uZVQ0ocJQRaP52f2hqP8i) | 3:38 | 2021-11-12 | 2023-01-28 |
 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 | 2023-03-01 |  |
@@ -90,9 +91,9 @@
 | [Euphoria](https://open.spotify.com/track/1cuGoxBr2nnJnGqmzwTqGQ) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Timebomb](https://open.spotify.com/album/2HlChoGn7eimoJ5YtJ2uJR) | 4:24 | 2022-04-29 | 2023-01-28 |
 | [Euphoria](https://open.spotify.com/track/20g6mjmuL2V8bHTx5MTubE) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Euphoria](https://open.spotify.com/album/1jslok7INBkcqKIei9zfPF) | 4:24 | 2021-05-21 | 2022-07-29 |
 | [Euphoria](https://open.spotify.com/track/6jnDRGCEEb9i1M37kHJJSd) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Lifeforms](https://open.spotify.com/album/268dFUW4rd5jZMdNcFp146) | 4:24 | 2022-04-29 | 2022-11-13 |
-| [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 | 2022-02-04 |  |
+| [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 | 2022-02-04 | 2023-08-09 |
 | [Eye For An Eye](https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Eye For An Eye](https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY) | 3:04 | 2023-03-17 | 2023-07-22 |
-| [Fallout](https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5) | [Daphne's Couch](https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq) | [Fallout](https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4) | 2:46 | 2022-01-14 |  |
+| [Fallout](https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5) | [Daphne's Couch](https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq) | [Fallout](https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4) | 2:46 | 2022-01-14 | 2023-08-09 |
 | [Far From Home](https://open.spotify.com/track/6zNL4rD2KOZFt83JlmrXLu) | [Bexley](https://open.spotify.com/artist/4svqYIReyb53k0Kaxun76R) | [Far From Home](https://open.spotify.com/album/3saPJWzfPRsvjqj2g7JwRU) | 3:47 | 2021-09-17 | 2022-01-15 |
 | [Fast Forward](https://open.spotify.com/track/4LShYaypRgtyXOeBKoPaO9) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Fast Forward](https://open.spotify.com/album/0aruiDx5jNCwEpVFzXthSB) | 3:14 | 2021-03-31 | 2022-01-24 |
 | [Father Of Lies](https://open.spotify.com/track/2Di9hrXOq4ov2MGfSNMZiA) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Father Of Lies](https://open.spotify.com/album/4oILK4Qdj0Ba9tdEXSkhZR) | 4:17 | 2021-10-01 | 2022-07-29 |
@@ -213,7 +214,7 @@
 | [Myopic](https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Myopic](https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i) | 2:58 | 2023-03-17 |  |
 | [MYSTERY](https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [MYSTERY](https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq) | 2:35 | 2021-05-28 |  |
 | [Need You No More](https://open.spotify.com/track/52wTxB7XWwR0Ix6zT57PM0) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Need You No More](https://open.spotify.com/album/6R32sE46xgopHel6O69Hhm) | 3:18 | 2023-03-17 | 2023-06-04 |
-| [Never Enough](https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV) | 2:52 | 2022-04-29 | 2023-07-31 |
+| [Never Enough](https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV) | 2:52 | 2022-04-29 |  |
 | [Never Enough](https://open.spotify.com/track/1yYtgpfXMbP6b8kJrZ4Dea) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/0tmRaWJN8L1HUBwiva62gz) | 2:52 | 2022-01-14 | 2022-10-13 |
 | [New Comedown](https://open.spotify.com/track/4kbBYfLMIfzAnt9WoSDmvS) | [Plague Vendor](https://open.spotify.com/artist/680qtSVCs3xqNWqZd4khh5) | [New Comedown](https://open.spotify.com/album/3Dtvv3X6YgICRPEAlywpt3) | 3:07 | 2021-03-31 | 2023-01-27 |
 | [No Sale](https://open.spotify.com/track/0X6PQ9P3OXKnJbomkuZPLT) | [Middle Class Rut](https://open.spotify.com/artist/1jl7jCbWw8fQApXAgP7vQN) | [No Sale](https://open.spotify.com/album/3xzOUX28RI7Q72RlMaaVUu) | 3:22 | 2021-03-31 | 2022-04-29 |

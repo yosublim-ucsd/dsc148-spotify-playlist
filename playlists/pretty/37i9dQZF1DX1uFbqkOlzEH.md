@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 
 > Crush on Crush's K\-R&B and musics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,355 likes - 103 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,364 likes - 103 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,6 +110,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 100 | [Domino \(feat\. Crush\) \(Prod\. Crush, Gxxd\)](https://open.spotify.com/track/5IMS0D9wJu1U91O73sFqT1) | [1THE9](https://open.spotify.com/artist/6ZZafCTzyk1yjqEES63cMm), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [XIX](https://open.spotify.com/album/1u6A9D6lnJ3RT1wRjVRueH) | 3:29 |
 | 101 | [highfiVe](https://open.spotify.com/track/406Ot9eId70MKTtSOjxepe) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Primary](https://open.spotify.com/artist/2nv1iHUnYCudHQxDUlglpx), [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [highfiVe](https://open.spotify.com/album/1Sgh4Ol7jqp3s3E8KmGYRY) | 4:01 |
 | 102 | [Peace \(Prod\. By Cosmic Boy\) \(Feat\. Crush, Choi LB\)](https://open.spotify.com/track/6srHgSGinLdhwZCJezlcNd) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [hightechnology](https://open.spotify.com/album/04zlcxqJ5PJ8PY6wwkTmER) | 3:57 |
-| 103 | [You Are My Lady \(해외파 뮤지션 마이콜\)](https://open.spotify.com/track/1F1PRYM5ZKwXX8CKAegvMi) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Mask Singer 64th \(Live Version\)](https://open.spotify.com/album/0GTENfEeLNiEAqynhk8oRN) | 4:25 |
+| 103 | [You Are My Lady \(해외파 뮤지션 마이콜\)](https://open.spotify.com/track/0sURxd4sQ6QQh15hwUnF6g) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Mask Singer 64th \(Live Version\)](https://open.spotify.com/album/5ijvjY480KJkSRnqFgFs6O) | 4:25 |
 
-Snapshot ID: `MCw3NDI0Y2NlYjEzNzVjNjY2YmExMmM3YjZmNzU0ODU3ODE3ZmZiOWRm`
+Snapshot ID: `MCxiZTE2MGNkYTgwYTMyMGVjM2NiZDlmMzliNGM0NGJlY2YxMjZmMjAy`

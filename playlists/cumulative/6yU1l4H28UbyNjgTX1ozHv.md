@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-179 songs - 9 hr 30 min
+180 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Love Me Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:48 | 2019-10-13 |  |
 | [Lovefool \- Acoustic](https://open.spotify.com/track/1tJCLF1hldhHVC7noH9l0U) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Lovefool \(Acoustic\)](https://open.spotify.com/album/2bDDaOjt4Fy4DmAPqP2l0E) | 3:03 | 2023-01-13 | 2023-03-25 |
 | [Lovely Day \- Acoustic](https://open.spotify.com/track/0E0S0qGWnQJz3tr8SFwOc2) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe), [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Lovely Day \(Acoustic\)](https://open.spotify.com/album/21xpcm4980RyqV2Asq7PWv) | 3:01 | 2022-04-22 | 2022-06-27 |
+| [Lovely Day \- Acoustic](https://open.spotify.com/track/4EbymPiRoHnMoTmo23X9qK) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [Lovely Day \(Acoustic\)](https://open.spotify.com/album/2tvz3xvxfXIxN8mQg2oDcs) | 2:56 | 2023-08-06 |  |
 | [Mad World \- Acoustic](https://open.spotify.com/track/2WZ1wOlucndS0RBIltQnQj) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Mad World \(Acoustic\)](https://open.spotify.com/album/6Lp5nb13LglZANk9txeQ1i) | 3:00 | 2020-12-24 |  |
 | [Made You Look \- Acoustic](https://open.spotify.com/track/4c4S1XXmKxdUP9y4kP9kz6) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Made You Look \(Acoustic\)](https://open.spotify.com/album/2QUadiT3xJWSW17m8tn2Qf) | 2:24 | 2023-06-30 |  |
 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 | 2019-10-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 72506,
+  "num_followers": 72588,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjIzOTY4YjIzYjNiOGM1ODEyMDdjMDRlNTljYjFkZWY4ZmNhODFk",
+  "snapshot_id": "MCw3NGQyZTUxZWM5NWE4YjNhYmY1ODdiYmMxODg0OTM0ZDhjMjg2ZDk4",
   "tracks": [
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Spectrum Suite 45th Anniversary Collector's Edition",
-        "url": "https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21"
-      },
-      "artists": [
-        {
-          "name": "Steven Halpern",
-          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
-        },
-        {
-          "name": "Iasos",
-          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
-        }
-      ],
-      "duration_ms": 273180,
-      "name": "Be-Muse-Ment",
-      "url": "https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Meditation",
         "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 720426,
       "name": "Silmarillion",
       "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Spectrum Suite 45th Anniversary Collector's Edition",
+        "url": "https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21"
+      },
+      "artists": [
+        {
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        },
+        {
+          "name": "Iasos",
+          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
+        }
+      ],
+      "duration_ms": 273180,
+      "name": "Be-Muse-Ment",
+      "url": "https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Hear and Be Yonder",
-        "url": "https://open.spotify.com/album/1ZWMulajDJxasDcb3iNnS0"
+        "name": "Schoener, Eberhard: Meditation",
+        "url": "https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb"
       },
       "artists": [
         {
-          "name": "David Casper",
-          "url": "https://open.spotify.com/artist/50mjb7KMd745XerQx3jeGI"
+          "name": "Eberhard Schoener",
+          "url": "https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz"
         }
       ],
-      "duration_ms": 465986,
-      "name": "Carmel Valley Sunset",
-      "url": "https://open.spotify.com/track/3ByxuWhBseyN2kkhImsJjr"
+      "duration_ms": 1049000,
+      "name": "Meditation: I. Part I",
+      "url": "https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Schoener, Eberhard: Meditation",
-        "url": "https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb"
+        "name": "Hear and Be Yonder",
+        "url": "https://open.spotify.com/album/1ZWMulajDJxasDcb3iNnS0"
       },
       "artists": [
         {
-          "name": "Eberhard Schoener",
-          "url": "https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz"
+          "name": "David Casper",
+          "url": "https://open.spotify.com/artist/50mjb7KMd745XerQx3jeGI"
         }
       ],
-      "duration_ms": 1049000,
-      "name": "Meditation: I. Part I",
-      "url": "https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW"
+      "duration_ms": 465986,
+      "name": "Carmel Valley Sunset",
+      "url": "https://open.spotify.com/track/3ByxuWhBseyN2kkhImsJjr"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1666,10 +1666,6 @@
         {
           "name": "Deuter",
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        },
-        {
-          "name": "Chaitanya Hari Deuter",
-          "url": "https://open.spotify.com/artist/6ShqyafouDcEeQVmdVuTzR"
         }
       ],
       "duration_ms": 116440,

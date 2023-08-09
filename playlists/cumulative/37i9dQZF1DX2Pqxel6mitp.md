@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-170 songs - 10 hr 33 min
+171 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Feelin' Blue](https://open.spotify.com/track/1QMo3fXF53HQFinomEYAHX) | [Shaun Horton's Del Rio Ramblers](https://open.spotify.com/artist/0chn4uz177ClEt71qGG9Nl) | [Go Away Hound Dog](https://open.spotify.com/album/1wakGicpDlN2r6Gu3pNMZ3) | 2:28 | 2023-01-13 | 2023-02-22 |
 | [First McDonell's on the Moon](https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm) | [Jake La Botz](https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX) | [First McDonell's on the Moon](https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4) | 3:51 | 2022-05-25 |  |
 | [Fussin' and Fightin' \(Blues\)](https://open.spotify.com/track/479M29eunSUcosQ608slSc) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 3:00 | 2022-06-14 |  |
-| [Going Down South](https://open.spotify.com/track/0Zbaiyzuhf4OkDLoZnIJMp) | [Duwayne Burnside](https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3) | [Acoustic Burnside](https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr) | 3:04 | 2022-11-18 |  |
+| [Going Down South](https://open.spotify.com/track/0Zbaiyzuhf4OkDLoZnIJMp) | [Duwayne Burnside](https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3) | [Acoustic Burnside](https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr) | 3:04 | 2022-11-18 | 2023-08-09 |
 | [Going To Chicago](https://open.spotify.com/track/2sxwR4yGCYUznXqgewA4Le) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 3:50 | 2022-07-01 |  |
 | [Good Morning Little School Girl](https://open.spotify.com/track/2txRs0wxjGE1uzOhcBxN7L) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:16 | 2022-05-25 |  |
 | [Good Morning Mr\. Blues](https://open.spotify.com/track/1T6DPowtT7hazkIVaiuoOW) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Good Morning Mr\. Blues](https://open.spotify.com/album/2zb7HGV0Tme5sfLodL8Qmn) | 3:25 | 2022-05-25 | 2022-07-29 |
@@ -117,6 +117,7 @@
 | [Mystery Train \- Remastered 2022](https://open.spotify.com/track/5lgo86IFpVmZkP2tllm5eX) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM), [The Blue Flames](https://open.spotify.com/artist/6v2b0J4pJj4uQhyL9Onz2A) | [Sun Records Originals: Mystery Train](https://open.spotify.com/album/6ah1LPcA93TpiesTgaLUsy) | 2:24 | 2023-03-24 |  |
 | [Mystery Woman](https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Come to Find](https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd) | 5:01 | 2022-05-25 |  |
 | [Natural Blues](https://open.spotify.com/track/5zakPCpl4O2v1UEow7Qv29) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Discover](https://open.spotify.com/album/2A6HIKxsKtWuUhsqJzdzJl) | 4:07 | 2022-05-25 | 2023-01-13 |
+| [Navigation Blues](https://open.spotify.com/track/1NC7eqWo4K8RaTfpLKWoe0) | [Thorbjørn Risager](https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT), [The Black Tornado](https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD) | [Navigation Blues](https://open.spotify.com/album/291j4jpDLGN5NeGlOyL5Kh) | 4:56 | 2023-07-21 |  |
 | [Navigation Blues](https://open.spotify.com/track/55WTb0BjmzXUUurFiNRWVk) | [Thorbjørn Risager](https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT), [The Black Tornado](https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD) | [Navigation Blues](https://open.spotify.com/album/1uVVEurSRPaxgJF2EuAHEr) | 4:56 | 2022-09-12 | 2023-08-04 |
 | [Newbury](https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl) | [Emiliano Savini](https://open.spotify.com/artist/46GUtbDolQDzC9WU2gYIqv), [Liliana Richter](https://open.spotify.com/artist/7BaNCwzekjzjD4aRrysKms) | [Newbury](https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3) | 3:18 | 2022-05-25 |  |
 | [Only Porter at the Station](https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 4:27 | 2022-10-14 |  |

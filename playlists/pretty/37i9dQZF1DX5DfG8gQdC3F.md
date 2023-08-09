@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Karan Aujla, Ikky & Preston Pablo, Doja Cat and Halle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,131 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,109 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Melanin](https://open.spotify.com/track/4Okac0NBnN75gtBGTEh6Bv) | [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw) | [Melanin](https://open.spotify.com/album/4GJayZNnz62Ui8PEWIOLY6) | 3:16 |
 | 100 | [Now I Know You](https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 3:32 |
 
-Snapshot ID: `MCwwOTRiZmVkY2VmNGViZThjY2FiMzQ4ZWMzN2U3OGIxZmQ5ZGFmMWM5`
+Snapshot ID: `MCw2MTg3NGM0MjQzZWE1NTI0ZjE5OWM5OTZhMTY1M2Q2ODU1MWU3ODJk`

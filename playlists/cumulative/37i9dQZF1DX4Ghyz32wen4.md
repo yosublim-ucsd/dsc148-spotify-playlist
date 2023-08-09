@@ -2,9 +2,9 @@
 
 ### [sentimiento.](https://open.spotify.com/playlist/37i9dQZF1DX4Ghyz32wen4)
 
-> Una selección de temas de amor y desamor, con mucho feeling\. Tini y Tiago PZK en portada.
+> Una selección de temas de amor y desamor, con mucho feeling\. María Becerra en portada.
 
-124 songs - 6 hr 40 min
+126 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [El Ciclo](https://open.spotify.com/track/6t8m5o30RGfgtqLdvPgZRU) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [El Ciclo](https://open.spotify.com/album/0drXgXCkeFKcPTmFjqwMCY) | 3:17 | 2023-05-26 |  |
 | [El Encuentro](https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [El Encuentro](https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A) | 2:58 | 2022-04-25 |  |
 | [EL LOBBY](https://open.spotify.com/track/14gKV9ddDCAhm21tUngnY0) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [EL LOBBY](https://open.spotify.com/album/0ihbQj0DqoCTxtuAc4ggJS) | 3:28 | 2022-04-25 |  |
+| [EN EL GHETTO \#3 \(Par de cosas\)](https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [EN EL GHETTO \#3 \(Par de cosas\)](https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji) | 3:35 | 2023-08-08 |  |
 | [Entre Nosotros](https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Entre Nosotros](https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR) | 3:12 | 2022-04-25 |  |
 | [Eres un Arte](https://open.spotify.com/track/37i9NWAGKTyazstAz6nfos) | [Derian](https://open.spotify.com/artist/220SaLUhEtl59oRglesxcL), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [Alexis Chaires](https://open.spotify.com/artist/7j8jaHM5LlrFnDxJTbG2wr), [Deack Lopez](https://open.spotify.com/artist/191vrwSKDKBZRG1u7NcMpo) | [Eres un Arte](https://open.spotify.com/album/2YlGzp6EFvKukhDHbKJhRR) | 3:53 | 2023-01-27 | 2023-07-22 |
 | [ESQUE TÚ](https://open.spotify.com/track/3k5G92BpkhWVgNcZxrvkC8) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [El Santi](https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X) | [ESQUE TÚ](https://open.spotify.com/album/7iqzuLGUTuOXua0oKK9MP8) | 3:05 | 2023-03-24 |  |
@@ -110,6 +111,7 @@
 | [Reina Pepiada](https://open.spotify.com/track/3yJ8buQlPzQtHyCicOGDJ0) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Diaz Antes](https://open.spotify.com/album/5gk9ozZKJuosICdYgwa5JW) | 4:04 | 2022-04-25 |  |
 | [Rincón](https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rincón](https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY) | 2:44 | 2023-07-07 |  |
 | [RIP](https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD) | [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS), [Omizs](https://open.spotify.com/artist/5O1s8Zfh5BbsXjtIXjVS9y) | [RIP](https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC) | 3:12 | 2022-04-25 |  |
+| [Rosita Sakura](https://open.spotify.com/track/3eMgAnyfJ6Ax6GymY2rjsD) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Rosita Sakura](https://open.spotify.com/album/4FUcl9yeddUzRuIWh1eeAK) | 2:28 | 2023-08-08 |  |
 | [Rumores](https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Rumores](https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid) | 3:22 | 2023-04-14 |  |
 | [Secreto](https://open.spotify.com/track/7cmtffF4N8aaKJv7rL06R7) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Secreto](https://open.spotify.com/album/2nSZ3pXhbEuQDsEieLknAR) | 3:15 | 2022-04-25 |  |
 | [Sería Un Placer Remix](https://open.spotify.com/track/3DW7i5YILOqAINGTNcLv9K) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Sería Un Placer Remix](https://open.spotify.com/album/2XiFZMIjMpoclohZs0mpnQ) | 3:54 | 2022-04-25 |  |

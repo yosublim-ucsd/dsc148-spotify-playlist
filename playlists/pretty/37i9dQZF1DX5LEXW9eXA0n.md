@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover:Kim Do Hee\(김도희\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,065 likes - 111 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,079 likes - 111 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 110 | [Dreamer](https://open.spotify.com/track/0TSHgdcpZdMFicNd3gsbTS) | [Lim sang hyun](https://open.spotify.com/artist/1Sp4nuyvQoJh0aLV3RXaf0) | [Dreamer](https://open.spotify.com/album/07A0rd1XgK6o9pCDpMbXNa) | 3:35 |
 | 111 | [Love Without Pain](https://open.spotify.com/track/114JstNdrTd5rsVce9lrpQ) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Call It Love, Part 4 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/1bRYXvLc2G48EXhCxwxfyp) | 3:38 |
 
-Snapshot ID: `MCxjOGI3MjZjZDI2NGUzYjg2MDRiNWQ5MjZmNzkwZmE4MmQzN2E3Y2Ri`
+Snapshot ID: `MCw1NjNiNDQ1YWJlZTY3MjRkYTE0YzU0Zjg4OGNlMzM3OWIxNzRkMjQx`

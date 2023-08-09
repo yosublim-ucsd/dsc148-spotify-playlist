@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Heemin Chae\(채희민\)\)
 
-153 songs - 11 hr 2 min
+155 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Chilly Kiss](https://open.spotify.com/track/3ES2l6h6O2RaFqUOw7eDGs) | [HWANG SEOK JEONG](https://open.spotify.com/artist/1yIGqf4IoWDREw9X5tXfQX), [Sleepy](https://open.spotify.com/artist/5qp3vJC5OdDo1Zsrsl3sIR) | [Chilly Kiss](https://open.spotify.com/album/1mzyuLs6LqJghXIzVecqQF) | 4:07 | 2022-05-03 | 2022-06-10 |
 | [Churros](https://open.spotify.com/track/2qXbzLmJqrxYjur5BJGq1c) | [ROCHAE](https://open.spotify.com/artist/7ePNpv0R56WS6h1Ngt2UvJ) | [Churro](https://open.spotify.com/album/1tqSVy3r8s8Vu1XsAfn9Cz) | 2:02 | 2023-02-07 |  |
 | [Classic Coffee](https://open.spotify.com/track/3VjfNMeLYZoiqm5cVmFm80) | [김병근](https://open.spotify.com/artist/4dQItXdxCzhuELxhwYZWFi), [Jenny Yun](https://open.spotify.com/artist/7l4cRxyp8p5iCyr0AwvfWu) | [Raffine Gold](https://open.spotify.com/album/7zmb7Ih17LqGgHlBLiXSkO) | 3:24 | 2022-05-18 |  |
-| [Close my eyes](https://open.spotify.com/track/0jNqyuk278VsrMjcAUzAzZ) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Close my eyes](https://open.spotify.com/album/66A0tlUBVPsaVbiXIrwGqP) | 4:39 | 2022-05-03 |  |
+| [Close my eyes](https://open.spotify.com/track/0jNqyuk278VsrMjcAUzAzZ) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Close my eyes](https://open.spotify.com/album/66A0tlUBVPsaVbiXIrwGqP) | 4:39 | 2022-05-03 | 2023-08-09 |
+| [Close my eyes](https://open.spotify.com/track/6WTMDGgiLy5yOApHte6a12) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [눈을 감아](https://open.spotify.com/album/7hgBz0OV4R4A0FIndK6i1c) | 4:39 | 2023-07-24 |  |
 | [Concentration](https://open.spotify.com/track/0MwGGgsZInEvo9OlltxXqs) | [Hye Seong](https://open.spotify.com/artist/5YHzTjo4SJzAq43agV2HfW) | [Everyday Chatter](https://open.spotify.com/album/4BcFeuz4AUOacPlIXawARW) | 3:10 | 2023-04-10 |  |
 | [Consolation](https://open.spotify.com/track/3tmVBp6lvFCSzNh9CLBADU) | [Jun Kim](https://open.spotify.com/artist/2UcsE12d1cAU1UeiOn3eod), [이한얼](https://open.spotify.com/artist/4UvIkwJwfEsBhBpB8UtuVr) | [위로](https://open.spotify.com/album/5EqOrZz4PpnXkE9s43uWPs) | 9:39 | 2022-05-03 | 2022-07-29 |
 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 | 2022-07-08 |  |
@@ -65,7 +66,8 @@
 | [I'm Not a Butterfly](https://open.spotify.com/track/4RcuqGcL9G95s6qdZzKoqb) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Who Stole the Skies](https://open.spotify.com/album/3vBepxBq8Ik2Tsn5Yu1uML) | 5:13 | 2022-09-26 | 2023-02-08 |
 | [Inflexible Chess Pieces](https://open.spotify.com/track/0IBsuihyvthkFXRqDXOOAg) | [Junbeom Sim](https://open.spotify.com/artist/3LNX9HVfbM5u3IdJ44IVwL) | [Inflexible Chess Pieces](https://open.spotify.com/album/2OrJbRm23LFDbvg4J2P072) | 10:54 | 2022-05-03 |  |
 | [Isolate \(feat\. 고아람\)](https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/04wW9UOryMrrky7OJlYzIG) | 3:12 | 2022-06-20 |  |
-| [Late Autumn](https://open.spotify.com/track/3mi9ZwNuK4rG3nVyAZJajb) | [Heather](https://open.spotify.com/artist/4vE4SByWj4geUQdjZvyl9g) | [Late Autumn](https://open.spotify.com/album/1qhO8rdnpTvvrlwyYOcHdM) | 3:15 | 2022-11-11 |  |
+| [Late Autumn](https://open.spotify.com/track/3mi9ZwNuK4rG3nVyAZJajb) | [Heather](https://open.spotify.com/artist/4vE4SByWj4geUQdjZvyl9g) | [Late Autumn](https://open.spotify.com/album/1qhO8rdnpTvvrlwyYOcHdM) | 3:15 | 2022-11-11 | 2023-08-09 |
+| [Late Autumn](https://open.spotify.com/track/5HJu3wKHXUdcOs0wnjpNJQ) | [헤더](https://open.spotify.com/artist/72FPeJpnV2CQjdHRbrpehd) | [Late Autumn](https://open.spotify.com/album/4VkQFeNsVftX92t9LDphLk) | 3:15 | 2023-07-24 |  |
 | [let it flow](https://open.spotify.com/track/4tiw4EJUBYiyaCRZBeWNPd) | [Sunji Lee](https://open.spotify.com/artist/6JBv1lNpxPnxf2f4AxImDM) | [Oscillations](https://open.spotify.com/album/6aaHSGnPbyhjzjnHdKwIIv) | 6:12 | 2022-05-03 | 2022-05-19 |
 | [Like It](https://open.spotify.com/track/1KK7fQbTsWKeexy76WlvC4) | [Jay Kim](https://open.spotify.com/artist/5CKtSMyg3anlcQvTWMrmxf) | [Like It](https://open.spotify.com/album/1lIsEk6v9PK15vOosHHvXr) | 3:32 | 2022-11-11 |  |
 | [Little Prince](https://open.spotify.com/track/0pLPPAKpFImzbAwvsSSjhU) | [Slowtea](https://open.spotify.com/artist/2yr3o06a0BFPfZxAqF4beo) | [Little Prince](https://open.spotify.com/album/0bwHRCiwhnjPoxpQtAe6KT) | 3:28 | 2022-05-03 | 2023-02-08 |

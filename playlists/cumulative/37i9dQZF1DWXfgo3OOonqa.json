@@ -3836,7 +3836,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 125000,
       "name": "Burna boi",
       "url": "https://open.spotify.com/track/25vLQdEEryVegnmEBYYVOJ"
@@ -8694,7 +8694,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 208680,
       "name": "har jag blivit kn\u00e4pp!? (har jag blivit sjuk!?)",
       "url": "https://open.spotify.com/track/01up4QXtiyto3a6YztnWAg"
@@ -11629,6 +11629,24 @@
     },
     {
       "album": {
+        "name": "dom har bara gett mig ett namn",
+        "url": "https://open.spotify.com/album/2UGjZtao246qmGucUYMAsL"
+      },
+      "artists": [
+        {
+          "name": "Jelassi",
+          "url": "https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194013,
+      "name": "landet ingenting",
+      "url": "https://open.spotify.com/track/6bPJ3yeNhI5lyL9usLSRVZ"
+    },
+    {
+      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/2S58a2nf12RarEUAwM5gzg"
       },
@@ -13524,6 +13542,24 @@
       "duration_ms": 167754,
       "name": "MELANIN",
       "url": "https://open.spotify.com/track/7dOCdeHnwDiM2rKIqu6yuy"
+    },
+    {
+      "album": {
+        "name": "dom har bara gett mig ett namn",
+        "url": "https://open.spotify.com/album/2UGjZtao246qmGucUYMAsL"
+      },
+      "artists": [
+        {
+          "name": "Jelassi",
+          "url": "https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182053,
+      "name": "mellanm\u00e5l (vila i frid kewin <3)",
+      "url": "https://open.spotify.com/track/1LDbGjdGXi5XeZTdpp3XZE"
     },
     {
       "album": {

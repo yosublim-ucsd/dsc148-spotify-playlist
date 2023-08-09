@@ -1,12 +1,12 @@
 {
   "description": "Vulgo FK e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 212584,
+  "num_followers": 212721,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjhlNDBmNzQwNDlmZjljOGUzNWFlN2MwYmE4NjBlZWM4OGU4MjIy",
+  "snapshot_id": "MCxlZjJjYjgxY2QxNzdhNGNmZDZmYjQ5ZWU5NzU5N2QyOWUyYzExZWY0",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -419,54 +419,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
-      },
-      "artists": [
-        {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        }
-      ],
-      "duration_ms": 245987,
-      "name": "INEF\u00c1VEL (feat. Leviano)",
-      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Vestido da Fendi",
-        "url": "https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 164203,
-      "name": "Vestido da Fendi",
-      "url": "https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Sereia",
         "url": "https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI"
       },
@@ -503,6 +455,54 @@
       "duration_ms": 294418,
       "name": "Sereia",
       "url": "https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Vestido da Fendi",
+        "url": "https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 164203,
+      "name": "Vestido da Fendi",
+      "url": "https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+      },
+      "artists": [
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        }
+      ],
+      "duration_ms": 245987,
+      "name": "INEF\u00c1VEL (feat. Leviano)",
+      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 144686,
+      "name": "Que Se V\u00e1",
+      "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Me D\u00e1 Sua M\u00e3o",
         "url": "https://open.spotify.com/album/2TPngKT3Xh3JMDpwcPrwqB"
       },
@@ -763,6 +779,26 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "UM Quebrada Inteligente",
+        "url": "https://open.spotify.com/album/3LLqFXeZt4AdVe9GdBes9y"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 116820,
+      "name": "um quebrada inteligente!",
+      "url": "https://open.spotify.com/track/6uBfSJZQ27gCDVne6xhDmO"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Larga Essa Vida",
         "url": "https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp"
       },
@@ -791,58 +827,6 @@
       "duration_ms": 119008,
       "name": "Larga Essa Vida",
       "url": "https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "UM Quebrada Inteligente",
-        "url": "https://open.spotify.com/album/3LLqFXeZt4AdVe9GdBes9y"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 116820,
-      "name": "um quebrada inteligente!",
-      "url": "https://open.spotify.com/track/6uBfSJZQ27gCDVne6xhDmO"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Yeezy Slide \"FREESTYLE 01\"",
-        "url": "https://open.spotify.com/album/4bJbDWMhQ5vmWhISmnsKQe"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
-        },
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        }
-      ],
-      "duration_ms": 196056,
-      "name": "Yeezy Slide \"FREESTYLE 01\"",
-      "url": "https://open.spotify.com/track/6bBnV1J4thy0w6v8b5qXP4"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -895,6 +879,38 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Yeezy Slide \"FREESTYLE 01\"",
+        "url": "https://open.spotify.com/album/4bJbDWMhQ5vmWhISmnsKQe"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "duration_ms": 196056,
+      "name": "Yeezy Slide \"FREESTYLE 01\"",
+      "url": "https://open.spotify.com/track/6bBnV1J4thy0w6v8b5qXP4"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "AFRODHIT",
         "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
       },
@@ -902,11 +918,15 @@
         {
           "name": "IZA",
           "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Russo Passapusso",
+          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
         }
       ],
-      "duration_ms": 144686,
-      "name": "Que Se V\u00e1",
-      "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
+      "duration_ms": 224036,
+      "name": "Mega da Virada",
+      "url": "https://open.spotify.com/track/67AWEUPgn9PPi1Dh7krtaK"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -927,30 +947,6 @@
       "duration_ms": 217263,
       "name": "Faz Assim",
       "url": "https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Povoada (Remix)",
-        "url": "https://open.spotify.com/album/0VNGzsaX62aIZjEEMNbwoi"
-      },
-      "artists": [
-        {
-          "name": "Sued Nunes",
-          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
-        },
-        {
-          "name": "Maz (BR)",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        },
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        }
-      ],
-      "duration_ms": 257747,
-      "name": "Povoada - Remix",
-      "url": "https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -999,22 +995,26 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "AFRODHIT",
-        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+        "name": "Povoada (Remix)",
+        "url": "https://open.spotify.com/album/0VNGzsaX62aIZjEEMNbwoi"
       },
       "artists": [
         {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
         },
         {
-          "name": "Russo Passapusso",
-          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+          "name": "Maz (BR)",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
         }
       ],
-      "duration_ms": 224036,
-      "name": "Mega da Virada",
-      "url": "https://open.spotify.com/track/67AWEUPgn9PPi1Dh7krtaK"
+      "duration_ms": 257747,
+      "name": "Povoada - Remix",
+      "url": "https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1119,34 +1119,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Notas",
-        "url": "https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mc Jean",
-          "url": "https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Piazza",
-          "url": "https://open.spotify.com/artist/5SpE1csYpLIA05aBXqkOuR"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "Notas",
-      "url": "https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Mente F\u00e9rtil",
         "url": "https://open.spotify.com/album/1ORG4DDnxW6cph0AaQ23X0"
       },
@@ -1175,6 +1147,34 @@
       "duration_ms": 322000,
       "name": "Mente F\u00e9rtil",
       "url": "https://open.spotify.com/track/3pFxWxw0K7BmeMxBVnVHpj"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Notas",
+        "url": "https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mc Jean",
+          "url": "https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Piazza",
+          "url": "https://open.spotify.com/artist/5SpE1csYpLIA05aBXqkOuR"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Notas",
+      "url": "https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Gostosa de Air Max",
-        "url": "https://open.spotify.com/album/4h9JWqAumE78sOniGFUGg1"
-      },
-      "artists": [
-        {
-          "name": "Laura Sette",
-          "url": "https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc"
-        },
-        {
-          "name": "Weeze Cooker",
-          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
-        }
-      ],
-      "duration_ms": 135609,
-      "name": "Gostosa de Air Max",
-      "url": "https://open.spotify.com/track/02uKdKnouBOFSqP8aRCUmj"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "OCF",
         "url": "https://open.spotify.com/album/2KNYVqOm36goIRn810YdJL"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 132767,
       "name": "Kenner",
       "url": "https://open.spotify.com/track/0dEGVX5UFsNnaIKmSX8qDj"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Gostosa de Air Max",
+        "url": "https://open.spotify.com/album/4h9JWqAumE78sOniGFUGg1"
+      },
+      "artists": [
+        {
+          "name": "Laura Sette",
+          "url": "https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc"
+        },
+        {
+          "name": "Weeze Cooker",
+          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
+        }
+      ],
+      "duration_ms": 135609,
+      "name": "Gostosa de Air Max",
+      "url": "https://open.spotify.com/track/02uKdKnouBOFSqP8aRCUmj"
     }
   ],
   "unique_name": "AMPLIFIKA",

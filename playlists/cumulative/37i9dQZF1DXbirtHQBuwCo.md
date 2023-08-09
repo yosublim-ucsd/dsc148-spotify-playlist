@@ -4,7 +4,7 @@
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: DPR IAN\)
 
-606 songs - 1 day 8 hr 37 min
+607 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,7 @@
 | [Love song](https://open.spotify.com/track/1jzrBDpLgKPx3eZDzmixai) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU) | [Spring in Winter](https://open.spotify.com/album/3J9hWyRg3THDctWGtQOgLE) | 2:53 | 2022-04-19 | 2022-07-28 |
 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 | 2023-03-14 |  |
 | [Love Yourself \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/5B0Ki3CZf0mzoN0lLWPcnF) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Symphony](https://open.spotify.com/album/1GwDKLnH82W2m2BBWf3gbS) | 3:14 | 2023-01-11 | 2023-01-19 |
-| [Lovers In The Night](https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Lovers In The Night](https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv) | 3:30 | 2022-04-19 |  |
+| [Lovers In The Night](https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Lovers In The Night](https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv) | 3:30 | 2022-04-19 | 2023-08-09 |
 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 | 2022-07-07 | 2022-07-23 |
 | [Low \(feat\. Kate Kim\)](https://open.spotify.com/track/5qGO74woOncSXw5gtKwVjm) | [JIDA](https://open.spotify.com/artist/0Yr4WTbWPoSarkxhU1eS5b), [LILAC](https://open.spotify.com/artist/2klhHHmpW7xu4lmdLm7ULj) | [Low](https://open.spotify.com/album/1MtR8thWpcetuj8ikxZplP) | 3:41 | 2022-04-19 | 2022-04-21 |
 | [Lucid Dream](https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:30 | 2022-04-19 |  |
@@ -549,6 +549,7 @@
 | [Troll \(Feat\. DEAN\)](https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:09 | 2022-06-23 | 2022-06-29 |
 | [Tropical](https://open.spotify.com/track/0mChhyeHONd7iEiyfETprG) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Seoul Check\-in OST Part 12](https://open.spotify.com/album/3oMeuwSCtpt0e1ln0o4IHO) | 3:04 | 2022-12-15 | 2022-12-20 |
 | [true colors \(feat\. Rovv\)](https://open.spotify.com/track/7C5bIf3LcljUhNBPSi5wnv) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy) | [true colors \(feat\. Rovv\)](https://open.spotify.com/album/4uFeEsuhw8dLCWBzni0JcU) | 2:34 | 2022-05-02 | 2022-05-12 |
+| [Trust Me \(Feat\. Roh Yun Ha\)](https://open.spotify.com/track/1xjJUoYC3ZHBjj1QsiKlUm) | [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [Trust Me](https://open.spotify.com/album/7fKdvbJrehDqOAHdHMnof7) | 3:16 | 2023-08-08 |  |
 | [TUXEDO \(feat\. UNE\)](https://open.spotify.com/track/1tdHJMgpkwb2GwvNJUwpbN) | [Z.flat](https://open.spotify.com/artist/0y2EA2TQKYjLSbzlPRhBDq), [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS) | [INHALE](https://open.spotify.com/album/2x9HxolZ62HxwI0R4wcEPO) | 3:14 | 2022-07-27 | 2022-08-03 |
 | [TWO BOYS WERE WALKIN' ON A WOOD \(Feat\. Horim\)](https://open.spotify.com/track/7rCOLQGqKnYAGPXar4Fl1P) | [KORRNOI](https://open.spotify.com/artist/6NSJuvZarTq2vKVIwhc9Q6), [Horim](https://open.spotify.com/artist/4ewZPWfaF9tFfnX1bPVI6A) | [TWO BOYS WERE WALKIN' ON A WOOD](https://open.spotify.com/album/448JG49SvtOMlK5TfrPBLk) | 4:32 | 2023-04-17 | 2023-04-26 |
 | [typical story](https://open.spotify.com/track/3fyGfzTIepF4iz3hgVqgGO) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [typical story](https://open.spotify.com/album/09itvchYjsX9XfvCJ7ihyU) | 2:06 | 2022-12-15 | 2023-01-24 |

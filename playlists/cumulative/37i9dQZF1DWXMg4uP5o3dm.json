@@ -872,7 +872,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 171428,
       "name": "Crown",
       "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
@@ -2052,6 +2052,24 @@
       "duration_ms": 195706,
       "name": "Go Down Together",
       "url": "https://open.spotify.com/track/4tkpi79JqjPCMGmBOtEJI9"
+    },
+    {
+      "album": {
+        "name": "god damn!",
+        "url": "https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv"
+      },
+      "artists": [
+        {
+          "name": "viisi",
+          "url": "https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116307,
+      "name": "god damn!",
+      "url": "https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U"
     },
     {
       "album": {

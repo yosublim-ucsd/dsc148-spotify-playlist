@@ -4,7 +4,7 @@
 
 > Women at full volume! Cover: AYLIVA
 
-1,033 songs - 2 day 6 hr 0 min
+1,034 songs - 2 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Augen zu](https://open.spotify.com/track/2WBl3RGjTOc1b7fV7l3PMt) | [SHARI](https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS) | [Augen zu](https://open.spotify.com/album/4quko6tSRQ2bAZlZxTCtHU) | 2:41 | 2023-05-02 | 2023-06-07 |
 | [Augenringe](https://open.spotify.com/track/0LB4OdGHBeS62dFmTp3hO1) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [Augenringe](https://open.spotify.com/album/0Hb2tK4JSsyfaB7h7mKP4y) | 2:53 | 2022-11-07 | 2022-12-01 |
 | [Auryn](https://open.spotify.com/track/6qW39YyjxKzO5wp4JhIcnu) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Auryn](https://open.spotify.com/album/0bzlmX6llFoqRXXLHS0Tvp) | 5:50 | 2022-10-04 | 2022-11-08 |
-| [Aus anderen Welten](https://open.spotify.com/track/2URyTBjJr37HKo5GmK9ql0) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Aus anderen Welten](https://open.spotify.com/album/4U3VwYSNDCKvRUTAQOETDz) | 2:19 | 2023-08-01 |  |
+| [Aus anderen Welten](https://open.spotify.com/track/2URyTBjJr37HKo5GmK9ql0) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Aus anderen Welten](https://open.spotify.com/album/4U3VwYSNDCKvRUTAQOETDz) | 2:19 | 2023-08-01 | 2023-08-09 |
 | [awg](https://open.spotify.com/track/5xiYSLtU88Vom101qBUhep) | [marita](https://open.spotify.com/artist/2TfPFDuIgaOi1PHUWehG5u) | [awg](https://open.spotify.com/album/6sm28IYxQCgAs0n3CgMsGS) | 1:41 | 2023-04-04 | 2023-05-03 |
 | [AZULA](https://open.spotify.com/track/7dwdp2UXzN9UYCGScCBrVc) | [SATARII](https://open.spotify.com/artist/0ysIoJftcmrTkNW0YIrNps) | [AZULA](https://open.spotify.com/album/5ZiT4EHqC4suqwMwliH9jd) | 2:44 | 2022-05-03 | 2022-06-01 |
 | [Baby Blizzard](https://open.spotify.com/track/3y0j1dKTB0XXJQPRNIEXgN) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Baby Blizzard](https://open.spotify.com/album/3PXQif0FmYLPi2LptqvWyv) | 2:05 | 2023-01-31 | 2023-03-01 |
@@ -109,6 +109,7 @@
 | [BIBÄ](https://open.spotify.com/track/0FA6uGF0V1GCBFsM7c6esF) | [Soukey](https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6) | [BIBÄ](https://open.spotify.com/album/2HYT3G8SfdGHqIsXOvpbM2) | 2:41 | 2023-01-03 | 2023-02-01 |
 | [Bienennest](https://open.spotify.com/track/45fAUlR4UMhnH0g2sxF3U2) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Bienennest](https://open.spotify.com/album/5IiXuGdya1sEyxr2FDOBOh) | 3:28 | 2023-01-31 | 2023-03-01 |
 | [BIG POPPA](https://open.spotify.com/track/4IFjgAABH0qU7jNIehEoUR) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [BIG POPPA](https://open.spotify.com/album/4scyWzys4pvJ2b62QMaMlc) | 2:07 | 2022-05-31 | 2022-07-06 |
+| [Billie Jean](https://open.spotify.com/track/7xqXXlqIxvgaCpYFBUExZO) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [Billie Jean](https://open.spotify.com/album/0s9vaJkquKeuXLfZ0bYC5n) | 2:21 | 2023-08-08 |  |
 | [Bird's Life](https://open.spotify.com/track/3MLnJNgMdhx5chY6OSDEXY) | [Albertine Sarges](https://open.spotify.com/artist/1bo2PjIgDEptAlEzxyOIuX) | [Bird's Life](https://open.spotify.com/album/2vpSULG9uMwpHsQ2KXHbuR) | 4:09 | 2022-02-01 | 2022-03-08 |
 | [Bis wir uns verlieren \(Regret\)](https://open.spotify.com/track/4PqGQYsfvkO53Ip2CiUBZk) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s) | [Bis wir uns verlieren \(Regret\)](https://open.spotify.com/album/7H2pk16x19qA06QbJQEPDq) | 2:51 | 2022-11-07 | 2022-12-01 |
 | [Bitch](https://open.spotify.com/track/7vXeRpDn6QxlJoyoHOmJcu) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Bitch](https://open.spotify.com/album/6KxOcr7awsBTsQDOSvblzV) | 2:44 | 2023-08-01 |  |

@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Protomartyr
 
-512 songs - 1 day 3 hr 37 min
+518 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,9 @@
 | [Ain't Nice](https://open.spotify.com/track/1nJkBHZ77uhBVm8x3eONOo) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg), [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp) | [In Spite of Ourselves](https://open.spotify.com/album/0vdmzIVWn78dcphczGZbxq) | 3:32 | 2022-11-04 | 2022-11-13 |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2022-07-08 | 2022-08-27 |
 | [Alien Blues](https://open.spotify.com/track/6UjeFOCGYgMpBUtqKg1Je3) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/5O4lpm2rHbk3JVZgGMPxmI) | 2:36 | 2021-12-07 | 2022-07-29 |
+| [All](https://open.spotify.com/track/0iwZ8jCa5YuNLnKQdYSS07) | [Squint](https://open.spotify.com/artist/3rSZhCBS6SLmBFzpPxvhr5) | [All](https://open.spotify.com/album/5HBYg2ndJSC24fHXi1FfTb) | 2:12 | 2023-08-08 |  |
 | [All I See](https://open.spotify.com/track/2JzsLJ5mrQWLev9ylH29hA) | [Girl and Girl](https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn) | [All I See](https://open.spotify.com/album/2SU5YfNzIJXWAy7ZqAG6uw) | 3:46 | 2023-05-22 |  |
+| [All Lined Up](https://open.spotify.com/track/1pw2fkhwUwXy3zkVxBfVo1) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [All Lined Up](https://open.spotify.com/album/02tiU6mPTYJNlB2Jk5HXBM) | 3:39 | 2023-08-08 |  |
 | [Almost Everything](https://open.spotify.com/track/4KU3ECcOn7di9BUHgajmIO) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Almost Everything](https://open.spotify.com/album/3FuvV4huGUCxaKeec7z5Qk) | 4:24 | 2023-01-27 | 2023-04-13 |
 | [Almost Everything](https://open.spotify.com/track/6zj2ESvjOkDt1m32Y8SpLa) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Plastic Eternity](https://open.spotify.com/album/7fZmi0BsBSDhX9AwQmJdb7) | 4:24 | 2023-04-07 |  |
 | [Alphabet](https://open.spotify.com/track/32Xy5JWUdXb4GLZ0Eug06N) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Alphabet](https://open.spotify.com/album/71Aynu7WtmIHqxvvDHoTEh) | 2:53 | 2021-10-07 | 2022-06-18 |
@@ -92,6 +94,7 @@
 | [Cool, Nice.](https://open.spotify.com/track/77amPvUIO231fwujMSAVXb) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Cool, Nice.](https://open.spotify.com/album/3A53U7KZ3BDrE861A7tEQk) | 2:55 | 2022-08-05 | 2023-04-15 |
 | [Cosmic Leash](https://open.spotify.com/track/0irMOFfqBjlDPZXKL3v9XH) | [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N) | [Cosmic Leash](https://open.spotify.com/album/6P2EWBqxU91oy4ydMRQyOt) | 4:41 | 2023-05-22 |  |
 | [Cowboy](https://open.spotify.com/track/7vhd7HIEQ3Kv7RJnajhJyl) | [Alien Chicks](https://open.spotify.com/artist/1V2a5Mkw4VP93kP1vrB4T4) | [Cowboy](https://open.spotify.com/album/1RtKHpS30vtJn5MrWx3LuB) | 2:24 | 2023-02-10 | 2023-03-11 |
+| [Cowboy Nudes](https://open.spotify.com/track/7i8XQTUczz7xyFdkSAdEg9) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6) | 2:50 | 2023-08-08 |  |
 | [Crack a Smile](https://open.spotify.com/track/1hhvwDhCFN6cB7Ga5KLV9k) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [Crack a Smile](https://open.spotify.com/album/29kyGKjzeisWevhLjPpKfP) | 2:49 | 2021-10-07 | 2022-06-18 |
 | [Crawl!](https://open.spotify.com/track/0YO5MucxfKv80g69Y3KSRX) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Crawl! \(DGG Edit\)](https://open.spotify.com/album/5pRVIb8aU8fZ6WHS1af385) | 4:20 | 2022-11-04 | 2022-11-14 |
 | [Crawl!](https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU) | 4:20 | 2021-11-12 | 2022-07-29 |
@@ -181,6 +184,7 @@
 | [Good Living Is Coming for You](https://open.spotify.com/track/3DZT1Ng2MUHqhOKdo1E0Os) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 3:37 | 2023-06-30 |  |
 | [Good Living Is Coming for You](https://open.spotify.com/track/5bHu5sycyNIKMR5xzlBTB4) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming for You](https://open.spotify.com/album/5lYKtXKSuftMDpBkoLx2qI) | 3:37 | 2023-06-30 | 2023-07-03 |
 | [Good Will Hunting](https://open.spotify.com/track/0Ppd0oDauQpaQgNvpHzq24) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 4:57 | 2022-02-11 | 2023-03-11 |
+| [Goon](https://open.spotify.com/track/14w7mxmqf2jz2qrzl8DsVs) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Goon](https://open.spotify.com/album/5VliPgxUgHZBjcPWap69wY) | 2:12 | 2023-08-08 |  |
 | [Gotta Let It Go](https://open.spotify.com/track/4UOXsWNP7J2xFT9HvhgwVP) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Gotta Let It Go](https://open.spotify.com/album/1DbUmnPCXKJSimJw4FoFgb) | 1:56 | 2022-04-29 | 2022-07-29 |
 | [Gotta Let It Go](https://open.spotify.com/track/7Mu5u6zgKWRj020HFsEnFc) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [40 oz\. to Fresno](https://open.spotify.com/album/4HQdEvcc2M4PP5iDIS9TE3) | 1:56 | 2022-07-08 | 2022-08-17 |
 | [Grapefruit](https://open.spotify.com/track/332WZjqKelsZd6fLcb1Bgm) | [Country Westerns](https://open.spotify.com/artist/2OwWrhaP4RycOww0FursPt) | [Grapefruit](https://open.spotify.com/album/5F1jBHxXYhRH7r06FuV2hi) | 2:25 | 2023-04-07 |  |
@@ -193,6 +197,7 @@
 | [Handheld](https://open.spotify.com/track/1jvXHXzVqTmLikAnwSkHJE) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Handheld](https://open.spotify.com/album/6vrni1LbmUPTikDFWR8VbH) | 2:23 | 2022-07-08 | 2022-10-14 |
 | [Handheld](https://open.spotify.com/track/5HKd4zf5JNQAdna8bt3e92) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Handheld](https://open.spotify.com/album/102kNKUxCEAmndlduhq0jY) | 2:23 | 2021-10-07 | 2022-07-29 |
 | [Handheld](https://open.spotify.com/track/7eb3YXrQcF5bA9o6SwuNU2) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/3gww43ZrPNH04JYZ5Gkg7E) | 2:23 | 2022-10-07 | 2022-10-25 |
+| [Happy](https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 | 2023-08-08 |  |
 | [Happy \(God’s Own Country\)](https://open.spotify.com/track/1XVqUGcVQ2VqgoWAwis1lE) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Happy \(God’s Own Country\)](https://open.spotify.com/album/3QuCM83bCSFTmBNAERz5JZ) | 2:31 | 2021-10-07 | 2022-08-06 |
 | [happy pills](https://open.spotify.com/track/4fnMyrxXogmYCi40RBRmso) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [happy pills](https://open.spotify.com/album/3LRjouzNdqap0NEXiBOzoF) | 2:03 | 2021-10-07 | 2022-01-08 |
 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 | 2022-03-11 | 2023-01-28 |
@@ -373,6 +378,7 @@
 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 | 2023-04-07 |  |
 | [Renegade](https://open.spotify.com/track/4XvBuksY1YuiQjYpkZL1Oz) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Renegade](https://open.spotify.com/album/605u6tbMKCQfNCcePgnTxL) | 2:01 | 2022-06-17 | 2022-07-29 |
 | [Renegade](https://open.spotify.com/track/5yoZNdTHwgQ71FJeB21wwP) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Renegade](https://open.spotify.com/album/2htluTfqtMMHugQGCIUCgy) | 2:01 | 2022-07-08 | 2022-08-17 |
+| [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 | 2023-08-08 |  |
 | [Ride On](https://open.spotify.com/track/1MEhbR2no3zdS1EuvuCE2E) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Ride On](https://open.spotify.com/album/3X3uvP1QBimhhgz8w7we1Z) | 4:44 | 2023-01-25 | 2023-03-11 |
 | [Ride On](https://open.spotify.com/track/7mEkQOIF0GtCWD4ch2EIjW) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Rides On](https://open.spotify.com/album/5rhWpaut3ohLsONxiS3ffn) | 4:44 | 2023-03-10 |  |
 | [Rip It Up](https://open.spotify.com/track/6INTk2XZ9uQemi6STedkB6) | [Iron Lizards](https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY) | [Hungry for Action](https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC) | 1:43 | 2021-10-07 | 2022-01-08 |
@@ -410,7 +416,7 @@
 | [Single Origin Experience](https://open.spotify.com/track/4ucQe8ppok9I8LsCTQnL1V) | [The Paranoyds](https://open.spotify.com/artist/34ji1NPhqjImjXwOb2kwg4) | [Single Origin Experience](https://open.spotify.com/album/7BvtxVC8qTnlvTswPBQUop) | 2:47 | 2022-08-16 | 2023-06-03 |
 | [Slab](https://open.spotify.com/track/2KoOmthnxLfILro3H7liTQ) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Slab](https://open.spotify.com/album/13SPstpEFV47Buq7PkOt5x) | 1:48 | 2023-05-22 |  |
 | [Slither](https://open.spotify.com/track/5HgulkdJe3FUNs5xonYjHS) | [Ghost King](https://open.spotify.com/artist/5yJlhaqziKf3chFEX8RV84) | [Slither](https://open.spotify.com/album/0wLaKev1kc2JP31BRvTo6I) | 2:21 | 2021-10-07 | 2022-03-26 |
-| [So Dumb](https://open.spotify.com/track/3wkgbGsUVGvUbgVa7IjIeL) | [Teenage Bottlerocket](https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W) | [So Dumb](https://open.spotify.com/album/4zEKx1oXEm6mm0ApaRbELc) | 2:35 | 2023-04-14 |  |
+| [So Dumb](https://open.spotify.com/track/3wkgbGsUVGvUbgVa7IjIeL) | [Teenage Bottlerocket](https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W) | [So Dumb](https://open.spotify.com/album/4zEKx1oXEm6mm0ApaRbELc) | 2:35 | 2023-04-14 | 2023-08-09 |
 | [So Excited](https://open.spotify.com/track/5hm4OC3PJs0tEd7PdvtUkm) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [So Excited](https://open.spotify.com/album/1M0jL56cPNrsT6hNV7g5W8) | 3:00 | 2022-03-11 | 2023-04-15 |
 | [so what!](https://open.spotify.com/track/1UTnLtgadp10wkFrDWXn3u) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [so what!](https://open.spotify.com/album/600i38QcfI9f9rZZUNzRiA) | 2:04 | 2022-08-16 | 2022-10-25 |
 | [Sober](https://open.spotify.com/track/5trFqaSXEVsKk0dH3XeEQb) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD) | [Sober](https://open.spotify.com/album/6cSdm63mgMvJJ7iStrfhlb) | 2:55 | 2022-03-11 | 2023-04-15 |
@@ -429,7 +435,7 @@
 | [Sticky](https://open.spotify.com/track/0dFMIHgtUpFsMgeYyYOJwG) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Sticky](https://open.spotify.com/album/6LWdXy1pzaQYnNizOzetiq) | 2:34 | 2021-10-07 | 2022-01-08 |
 | [Stumbling Still](https://open.spotify.com/track/6z3tjEXbu7aqKalO6lfggo) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Stumbling Still](https://open.spotify.com/album/728ee6HkTcuWTtlbvCFAvh) | 4:39 | 2023-05-22 | 2023-06-17 |
 | [Sub](https://open.spotify.com/track/3GMMJbSkXfjJjeS3os36ys) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Sub](https://open.spotify.com/album/41r4wjYOvLVy93Ov8vwjnv) | 3:06 | 2023-05-22 |  |
-| [Sucker Punch](https://open.spotify.com/track/1L2AtASJngCKtTgYE91N0G) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Sucker Punch](https://open.spotify.com/album/70a7UgQQSrsHc50Dfcwqdu) | 3:41 | 2023-04-14 |  |
+| [Sucker Punch](https://open.spotify.com/track/1L2AtASJngCKtTgYE91N0G) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Sucker Punch](https://open.spotify.com/album/70a7UgQQSrsHc50Dfcwqdu) | 3:41 | 2023-04-14 | 2023-08-09 |
 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-04-01 | 2022-08-06 |
 | [Sunshine](https://open.spotify.com/track/5lX4aJdcJj3pHYH9mgmWFS) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Sunshine](https://open.spotify.com/album/7tPJDOePzz8zxlHtTPTJVA) | 3:14 | 2023-04-14 |  |
 | [Superbloom](https://open.spotify.com/track/4bpNIkj2FfPmFCNjR3Kjk0) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [Superbloom](https://open.spotify.com/album/1awoY0qUuW0BAncUn96krA) | 2:54 | 2021-10-07 | 2022-01-08 |

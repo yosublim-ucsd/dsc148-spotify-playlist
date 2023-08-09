@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "The finest set of Telugu music from the past 10 years. \nCover : RRR",
+  "description": "The finest set of Telugu music from the past 10 years. \nCover : Ala Vaikunthapurramuloo",
   "name": "Tollywood Pearls",
   "tracks": [
     {
@@ -720,7 +720,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 203052,
       "name": "Chamkeela Angeelesi (From \"Dasara\")",
       "url": "https://open.spotify.com/track/7Do3XWnRkEkyspwibizaBa"
@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 237474,
       "name": "Gusa Gusa Lade",
       "url": "https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx"
@@ -2192,6 +2192,24 @@
       "duration_ms": 261012,
       "name": "Kanula Chatu Meghama",
       "url": "https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t"
+    },
+    {
+      "album": {
+        "name": "Manam",
+        "url": "https://open.spotify.com/album/2FqMc3pSul2960B7WyO4hl"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294947,
+      "name": "Kanulanu Thaake",
+      "url": "https://open.spotify.com/track/4IoL5eSdPTk44UjQf0fk4m"
     },
     {
       "album": {
@@ -4114,7 +4132,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 213437,
       "name": "Tharagathi Gadhi",
       "url": "https://open.spotify.com/track/7h8pQvwKxRYTt3oRGjNT93"

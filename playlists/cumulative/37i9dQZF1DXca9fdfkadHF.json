@@ -1303,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "Cr\u00f3nicas del Rock Peruano, Vol. 3",
+        "url": "https://open.spotify.com/album/5HLcA82W29prT29qKbdbUx"
+      },
+      "artists": [
+        {
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/4Hy7H79rnIljAwnwDtislK"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221613,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/5ydFRIeNY2evR79eae0Ur2"
+    },
+    {
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/10PdZeHhCFhOekUFsuNHlM"
       },
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 223853,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/0bYlL7XNEvLC34f53mmqEO"

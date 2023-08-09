@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-72 songs - 4 hr 30 min
+74 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Akhiyan](https://open.spotify.com/track/6nWQzsV1tlApW5oVkqkXUu) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Akhiyan](https://open.spotify.com/album/6dK7TsanTfxj28TaFiQyPC) | 2:36 | 2022-05-09 |  |
 | [Akhiyan Ch Ton Wasda](https://open.spotify.com/track/1g0d3PK9XuCwUVpD45JFDw) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Luti Heer Ve Gaman Ne](https://open.spotify.com/album/3o3F1DVHaw3L5xiODNHuyG) | 4:00 | 2022-07-16 |  |
 | [Akhiyan Ch Tu Vasda](https://open.spotify.com/track/6sPPCGilVdL9L3R3YCVjDX) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Nightingale of Punjab: Surinder Kaur](https://open.spotify.com/album/2zavYk1CzXnTndGsGRNQhw) | 4:00 | 2021-11-03 | 2022-07-29 |
+| [Baajre Da Sitta](https://open.spotify.com/track/6iU9onGsKnw73AO53t9QL2) | [Supriya Soni](https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22), [Vanshika Joshi](https://open.spotify.com/artist/5rK16uUuwINIIbpIkQCDoE) | [Mitti \- Folk Vibes Of Punjab](https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj) | 1:57 | 2023-08-08 |  |
 | [Babul \(Live\)](https://open.spotify.com/track/0kwvNhB7n6og4rAM9DrQA4) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Babul \(Live\) \- Single](https://open.spotify.com/album/1q77LT1cF0ZNMDsnYpeRTi) | 4:01 | 2021-11-03 |  |
 | [Bati Baal Ke](https://open.spotify.com/track/2RQj3BktqBSCYlvns7lM9Z) | [Maanya Arora](https://open.spotify.com/artist/2yis41rltks0pQr6nCBAD6) | [Bati Baal Ke](https://open.spotify.com/album/3LkK5f4Jub3h8HdvzHqIyq) | 3:44 | 2021-11-03 | 2023-06-06 |
 | [Batti Baal Ke](https://open.spotify.com/track/1RKm0dsITClYcEpHtE2DJH) | [Ragini Tandan](https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA), [The Collective Projekt](https://open.spotify.com/artist/520DeZp2zasDguazhxBP7U) | [Batti Baal Ke](https://open.spotify.com/album/5NkIFTvD8NzGLUaLhcTnFl) | 3:31 | 2022-10-11 | 2023-06-06 |
@@ -63,6 +64,7 @@
 | [Latthe Di Chadar \- Mahiya](https://open.spotify.com/track/4hvesFus234aJFjiExrWmY) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG) | 3:02 | 2021-11-03 | 2022-07-29 |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-18 |  |
 | [Madhaniya](https://open.spotify.com/track/7JhqIABcX6GZLbVRbbKsKZ) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Madhaniya](https://open.spotify.com/album/1PxxiGMkxPXAqVNT5IvJX8) | 2:04 | 2021-11-03 |  |
+| [Madhaniya](https://open.spotify.com/track/1X9TM5uBUe8NBeM3CE9pg8) | [Tanuja Kumari](https://open.spotify.com/artist/1VuoDqqpoQ2FE6A4VHLid5), [Gargi Sarkar](https://open.spotify.com/artist/3lAIYCe8WEl7Gjni7XT3v7) | [Mitti \- Folk Vibes Of Punjab](https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj) | 3:04 | 2023-08-08 |  |
 | [Majhe Diye Mombattiye](https://open.spotify.com/track/2gP09WRLU9PajUoOgCDYWU) | [Balkar Sidhu](https://open.spotify.com/artist/6uBqTShUAXu6jwhxxvhuhZ) | [Best of Balkar Sidhu](https://open.spotify.com/album/72HqqELNR5MK8wGgPxjOfQ) | 7:31 | 2021-11-03 |  |
 | [Mathe Te Chamkan Vaal \- Live](https://open.spotify.com/track/3SkUaDTh5M4BDdQOLzLiol) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Mathe Te Chamkan Vaal / Gidde Vich \(Live\) \- Single](https://open.spotify.com/album/4FMCAGhni2EPuBGxw6Dq9O) | 3:38 | 2021-11-03 |  |
 | [Mombattiye \- Folk Recreation](https://open.spotify.com/track/7CAKJJmeiQsupcz8pTQjtx) | [Mickey Singh](https://open.spotify.com/artist/4TytLlhbWaVCpuyATg6syY), [Pam Sengh](https://open.spotify.com/artist/5LSheYLF7ZnIulhPQ5aEgx) | [Mombattiye \(Folk Recreation\)](https://open.spotify.com/album/71Q135Dh7bT8eNXVz2VQYM) | 3:25 | 2021-11-03 |  |

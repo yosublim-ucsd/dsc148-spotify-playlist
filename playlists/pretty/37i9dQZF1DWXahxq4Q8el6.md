@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,082 likes - 56 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,189 likes - 56 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 38 | [Come Back to Us](https://open.spotify.com/track/44sVQfPdCTGM5JLBRHUngc) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [1917 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HiTc4Cu7pOdO5mA8PInRs) | 5:39 |
 | 39 | [To The Stars \- Dragonheart/Soundtrack Version](https://open.spotify.com/track/5LeCbkjJuhtqQhwXziPgUn) | [Randy Edelman](https://open.spotify.com/artist/3shMd6Vll0mOcviQ3hrk8m) | [Dragonheart](https://open.spotify.com/album/5Xdpw2hXUfkx7YCUwkD38X) | 3:14 |
 | 40 | [The Blue Planet](https://open.spotify.com/track/5TLBCv54hqLxMPfVQ8JMzq) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Ben Palmer](https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko), [Pop\-Up](https://open.spotify.com/artist/2X7XzvKER9pdR7rwYFy6r1) | [Epic Orchestra \- New Sound of Classical](https://open.spotify.com/album/2dIqWzU2giK5FkyZ3x9YAr) | 3:13 |
-| 41 | [Wonderful Days Theme II \- 오케스트라 Version](https://open.spotify.com/track/0kRdq1tQFeBKYHdWQjD2H7) | [Czech Philharmonic Orchestra](https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb) | [Wonderful Days \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/64cpU0YyB2JOAqpJApiR8i) | 3:18 |
+| 41 | [Wonderful Days Theme II \- 오케스트라 Version](https://open.spotify.com/track/0kRdq1tQFeBKYHdWQjD2H7) | [Czech Philharmonic](https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb) | [Wonderful Days \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/64cpU0YyB2JOAqpJApiR8i) | 3:18 |
 | 42 | [Rey's Theme](https://open.spotify.com/track/5wsHtmFHWntJzcN6n8ivjd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 3:11 |
 | 43 | [My Father's Favourite](https://open.spotify.com/track/0LrA0EtiJsr4tDHIGw82OW) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ), [Tony Hymas](https://open.spotify.com/artist/6A479xP05787vKnE5MtLSG), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Sense & Sensibility \- Original Motion Picture Soundtrack](https://open.spotify.com/album/5cdzYLI2HbFMJsqyt028Gq) | 5:27 |
 | 44 | [Vianne Sets Up Shop](https://open.spotify.com/track/2vPalVURlUvEwv4xsLGbEM) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Chocolat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fs5PH1L35fEbG2csJT3AD) | 1:57 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 55 | [Nuovo Cinema Paradiso](https://open.spotify.com/track/4xx3UI7cLCk1awQPAPLeHj) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Nuovo Cinema Paradiso \(Original Motion Picture Soundtrack\) \[Remastered Edition\]](https://open.spotify.com/album/0O1LCjDQ6gFjaLG05xj0xH) | 2:58 |
 | 56 | [Under the Stars \- From "The Lion King"/Score](https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:45 |
 
-Snapshot ID: `MCxjZDY2MzYwNTk3OGM3NmE2OGExZDE5NmJkZGUxZjU1ZjExZGY0ZjU3`
+Snapshot ID: `MCw1Zjk4M2U0Y2M4YmU4NzI4Y2NkZDc0YzUwMTZhYTgzYzdkNWQ0MDYz`

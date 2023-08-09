@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-225 songs - 19 hr 24 min
+226 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Ascent](https://open.spotify.com/track/1qQUvt1yMWwgGKtdNuQMgX) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Ascent](https://open.spotify.com/album/2t7gXzOW5dPHmPuLUdlzxM) | 6:47 | 2023-01-13 | 2023-02-21 |
 | [Ashes](https://open.spotify.com/track/2m1XpzhxIr7l7dEyrYX5dQ) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:03 | 2022-07-01 |  |
 | [Astron](https://open.spotify.com/track/7orIxoE1ibxFKOXHxWYBiV) | [Akasaka](https://open.spotify.com/artist/0FYaJp4G2p5HO6cIMVqp0q) | [Astron](https://open.spotify.com/album/43m7SNLBFqDyrQyy1lPIpG) | 3:14 | 2022-01-21 | 2023-06-24 |
+| [Atlas](https://open.spotify.com/track/6i7i1fNug2GXwJXKbLTUDr) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Atlas](https://open.spotify.com/album/54yPuui7BKEJsys2JgMs7w) | 6:53 | 2023-08-08 |  |
 | [atomic bombs atomic bonds i love you](https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt) | [Askjell](https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F) | [atomic bombs atomic bonds i love you](https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r) | 5:27 | 2022-02-11 | 2022-08-18 |
 | [Avenoir](https://open.spotify.com/track/3re13zgnnJez9pUKtRkifa) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [Avenoir](https://open.spotify.com/album/2uCy0nPWxFBnYfP064ncyO) | 5:05 | 2022-03-11 | 2022-07-06 |
 | [Barco](https://open.spotify.com/track/4X5TeiBCg2mpHQQnbozwGa) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Barco](https://open.spotify.com/album/0FAkEJQAINUzXCT0V4V2P4) | 4:14 | 2022-07-29 | 2023-04-22 |
@@ -61,7 +62,7 @@
 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 | 2022-01-21 |  |
 | [Floor Position](https://open.spotify.com/track/0vYvVrMjN1gzzAxqobT6i1) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [Everything is Already There](https://open.spotify.com/album/1he2AlYOWu58VJxZQPzdJK) | 2:56 | 2022-01-21 |  |
 | [Frozen Plains](https://open.spotify.com/track/3czI9Tjuim4boa9KwizjvQ) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [Baba Gnohm](https://open.spotify.com/artist/2emlnsOgKrMMwXqpgpBMLF) | [Frozen Plains](https://open.spotify.com/album/6NP6uRqDzvNfSmJZi4uqx7) | 5:38 | 2023-01-27 | 2023-06-26 |
-| [Full Av Tomhet](https://open.spotify.com/track/0tOAVxzcetDy2wzrJ0Hmk8) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Bansull](https://open.spotify.com/album/1HhptIM5EglrNcLOtaZXRj) | 3:24 | 2023-03-10 |  |
+| [Full Av Tomhet](https://open.spotify.com/track/0tOAVxzcetDy2wzrJ0Hmk8) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Bansull](https://open.spotify.com/album/1HhptIM5EglrNcLOtaZXRj) | 3:24 | 2023-03-10 | 2023-08-09 |
 | [Fundament \(Part 1\)](https://open.spotify.com/track/0NWuVsxbGEwS4qCiicGxBs) | [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Plasmafuse](https://open.spotify.com/artist/6iYdmg7rSNUKQabi5wzRtN) | [Mörkrets Narr](https://open.spotify.com/album/2VqFfX6U0xOW0Ad58xyfV9) | 7:40 | 2022-01-21 |  |
 | [Future Memory](https://open.spotify.com/track/5kiPu9EFwEhzzClpoEtRfQ) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Only Love From Now On](https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL) | 5:02 | 2022-03-25 | 2023-03-06 |
 | [Für Alina](https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Alexander Malter](https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH) | [Arvo Pärt: Alina](https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE) | 10:47 | 2022-07-22 |  |
@@ -117,7 +118,7 @@
 | [Meet Me At Sachas](https://open.spotify.com/track/6yI4LxYfqXY09ukPhbogkm) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 2:06 | 2022-01-21 |  |
 | [Melancholy Movement](https://open.spotify.com/track/0BGXoqBGIrgT1gjODZ7vrO) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [In Light Of Blues](https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD) | 3:07 | 2022-07-01 |  |
 | [Melting Refuge](https://open.spotify.com/track/72yOEueBpwoPF7zBWtvREm) | [Ecker & Meulyzer](https://open.spotify.com/artist/0LmTH1Y1gidIP6T9yTtSPU) | [Carbon](https://open.spotify.com/album/1V2Ek9fnWQhDGApxedbg3J) | 4:25 | 2022-01-21 | 2023-04-16 |
-| [Melts All Your Memories](https://open.spotify.com/track/34TdrxZdriLN477LSDuw5I) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Shadow Box](https://open.spotify.com/album/26OHC71oOiOsh5Sna4qw4T) | 8:38 | 2022-01-21 | 2023-08-06 |
+| [Melts All Your Memories](https://open.spotify.com/track/34TdrxZdriLN477LSDuw5I) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Shadow Box](https://open.spotify.com/album/26OHC71oOiOsh5Sna4qw4T) | 8:38 | 2022-01-21 |  |
 | [Mend](https://open.spotify.com/track/116HZtuidLUHpGNIIgDcR9) | [Klara Lewis](https://open.spotify.com/artist/0kyeczWICSebymos0FqJvt), [Simon Fisher Turner](https://open.spotify.com/artist/3rmHfhqEmC3pO89AMSP7Wt) | [Care](https://open.spotify.com/album/7pfidngS6ZbAUZ9UM2EicP) | 10:04 | 2022-01-21 | 2023-02-07 |
 | [Mir](https://open.spotify.com/track/0IGrAZzfpOkV2ECNy4Sz5P) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/5mA73OzLoiOQZK3no4z9OE) | 11:28 | 2023-04-21 |  |
 | [Mir](https://open.spotify.com/track/3wyNQNDrg9ntkIZe6RaO4v) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/15liRgZ2vwwF9UuCyF4WKL) | 11:28 | 2022-01-21 | 2023-03-26 |
@@ -208,7 +209,7 @@
 | [Time Dilation](https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf) | [Fredrik Jonasson](https://open.spotify.com/artist/03XDTtBcCjJVSDrvs322wd) | [Aether](https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0) | 4:20 | 2022-02-18 |  |
 | [Toimetonna](https://open.spotify.com/track/5XVbQfGCe3tYYZruCFXlUq) | [För Alltid](https://open.spotify.com/artist/5aPyGWlpqRG3hlsbTDgPPu) | [Toimetonna](https://open.spotify.com/album/33f4xR6aZb6Z4Hl0xKLJlI) | 3:08 | 2022-01-28 | 2023-04-12 |
 | [Torrek](https://open.spotify.com/track/5wiNhkUEe7imXJiwPQAuIe) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Saman](https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk) | 2:19 | 2022-03-25 |  |
-| [Transcend](https://open.spotify.com/track/2M0EmEypUn9U1YHgNocVGi) | [Respira](https://open.spotify.com/artist/6u9COHFMoQroLZ3tfh9s7e), [Atmøsphäre](https://open.spotify.com/artist/4aGsKbTLPMWGYvIPWiqPhj) | [Transcend](https://open.spotify.com/album/38Sxp6afQ9t8zLWarjfWJ5) | 7:37 | 2022-02-11 |  |
+| [Transcend](https://open.spotify.com/track/2M0EmEypUn9U1YHgNocVGi) | [Respira](https://open.spotify.com/artist/6u9COHFMoQroLZ3tfh9s7e), [Atmøsphäre](https://open.spotify.com/artist/4aGsKbTLPMWGYvIPWiqPhj) | [Transcend](https://open.spotify.com/album/38Sxp6afQ9t8zLWarjfWJ5) | 7:37 | 2022-02-11 | 2023-08-09 |
 | [Transience](https://open.spotify.com/track/54gc7VvU6js8KUWaSOYzFR) | [David Granström](https://open.spotify.com/artist/3XzW3dOgb3xTbi1GlstjWV) | [Empty Room](https://open.spotify.com/album/3mxilQQIyEb5YU8HVmATcH) | 4:45 | 2022-01-21 |  |
 | [Trees](https://open.spotify.com/track/0Q2ZAzvitoJyxvPfPt2Dz8) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Reflection Of Light](https://open.spotify.com/album/2AjKlK9aWlC2DAZydHWfHO) | 2:33 | 2022-01-21 |  |
 | [Tårlös sorg](https://open.spotify.com/track/2CqZDbBIDZ6mfEBU68gw5f) | [Isorinne](https://open.spotify.com/artist/60vRsBhM3tcwfKTkEUBAIc) | [Stumhetens toner](https://open.spotify.com/album/3sCyd3rTOvCmHUBAqt6cfd) | 5:04 | 2022-01-21 |  |

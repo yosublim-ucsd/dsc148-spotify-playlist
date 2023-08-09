@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 187041,
+  "num_followers": 187127,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmFkMjQxZGMxM2QzYTQxOWUxZWNhNDc1OTVlZTYyMGNkNDA0NGRk",
+  "snapshot_id": "MCw1OTgxNjUyYmM5NGJiZmRjNzk5ZmY3ZWU3YjgwZmYzODUwMmNlMTYz",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -385,22 +385,6 @@
       "url": "https://open.spotify.com/track/450Rj9Nifq5Kq8Y6JQue6Z"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Empire Central",
-        "url": "https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 292314,
-      "name": "Fuel City",
-      "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Hard-Wired",
@@ -431,6 +415,22 @@
       "duration_ms": 354053,
       "name": "Blue Wind",
       "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Empire Central",
+        "url": "https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 292314,
+      "name": "Fuel City",
+      "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -833,30 +833,6 @@
       "url": "https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo"
     },
     {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
-        "url": "https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4"
-      },
-      "artists": [
-        {
-          "name": "Mark Lettieri",
-          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
-        },
-        {
-          "name": "Adam Deitch",
-          "url": "https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw"
-        },
-        {
-          "name": "Shaun Martin",
-          "url": "https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk"
-        }
-      ],
-      "duration_ms": 276293,
-      "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
-      "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Blues for Tony",
@@ -883,6 +859,30 @@
       "duration_ms": 672106,
       "name": "Blues for Tony",
       "url": "https://open.spotify.com/track/4XUR0xfOMphdT9qnTb1iG3"
+    },
+    {
+      "added_at": "2021-04-09 04:01:00",
+      "album": {
+        "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
+        "url": "https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4"
+      },
+      "artists": [
+        {
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        },
+        {
+          "name": "Adam Deitch",
+          "url": "https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw"
+        },
+        {
+          "name": "Shaun Martin",
+          "url": "https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk"
+        }
+      ],
+      "duration_ms": 276293,
+      "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
+      "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1073,6 +1073,22 @@
       "url": "https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "A Present For The Future",
+        "url": "https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5"
+      },
+      "artists": [
+        {
+          "name": "Frank Gambale",
+          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
+        }
+      ],
+      "duration_ms": 551733,
+      "name": "Legends",
+      "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
+    },
+    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Extension",
@@ -1103,22 +1119,6 @@
       "duration_ms": 579060,
       "name": "1 Year After",
       "url": "https://open.spotify.com/track/6Xj35C5FprsCMDLOe4oljd"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "A Present For The Future",
-        "url": "https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5"
-      },
-      "artists": [
-        {
-          "name": "Frank Gambale",
-          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
-        }
-      ],
-      "duration_ms": 551733,
-      "name": "Legends",
-      "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1301,6 +1301,22 @@
       "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Never Ending",
+        "url": "https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
+    },
+    {
       "added_at": "2022-04-08 04:02:00",
       "album": {
         "name": "Funkdombe - edit",
@@ -1335,22 +1351,6 @@
       "duration_ms": 1707435,
       "name": "Go Ahead John (2022 Remaster)",
       "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Never Ending",
-        "url": "https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Never Ending",
-      "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
     },
     {
       "added_at": "2021-07-23 04:01:00",
@@ -1421,48 +1421,32 @@
       "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
     },
     {
-      "added_at": "2023-01-13 05:01:00",
+      "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "VHS Fireplace Love (Live)",
-        "url": "https://open.spotify.com/album/782eFYpgnjKKfcIFD3nYXy"
+        "name": "Catch me if you can!",
+        "url": "https://open.spotify.com/album/1RyHcCPpsYLiMvY87EibNF"
       },
       "artists": [
         {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+          "name": "Umziky",
+          "url": "https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB"
         },
         {
-          "name": "SmokeFace",
-          "url": "https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf"
+          "name": "Markus Eermann",
+          "url": "https://open.spotify.com/artist/4s79kfWJq1CaZu9e7rvbwu"
         },
         {
-          "name": "Gabe Jones",
-          "url": "https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP"
+          "name": "Jesse Vilhomaa",
+          "url": "https://open.spotify.com/artist/3XNMlZZtmQ1X9sP9vXAkmb"
+        },
+        {
+          "name": "Vid \u0160keta",
+          "url": "https://open.spotify.com/artist/3xvZ4lDs78x6krq04pfItd"
         }
       ],
-      "duration_ms": 164000,
-      "name": "VHS Fireplace Love - Live",
-      "url": "https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
-      },
-      "artists": [
-        {
-          "name": "Adam Blackstone",
-          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
-        },
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 356243,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc"
+      "duration_ms": 238178,
+      "name": "Catch me if you can!",
+      "url": "https://open.spotify.com/track/2sdQsMO4eC2Onw3WOOPp6n"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1499,6 +1483,26 @@
       "duration_ms": 466053,
       "name": "Jiriki",
       "url": "https://open.spotify.com/track/1sNuGiLGslnsJH0OqkTFyQ"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 356243,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc"
     }
   ],
   "unique_name": "Fusion Fest",

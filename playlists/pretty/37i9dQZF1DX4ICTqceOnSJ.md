@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,275 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,283 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 49 | [Las converse](https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Las converse](https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU) | 2:57 |
 | 50 | [Díganselo](https://open.spotify.com/track/4CZnsSrphc4CJ5cQT4NWEB) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Díganselo](https://open.spotify.com/album/3DoBSpmUSKCrk8F5wrMkTL) | 3:59 |
 
-Snapshot ID: `MCw0NDAwMTY3ZDFhZThiNzBjN2UzZGIxZmYwMDY2NjEwYWU1OGRhMWFm`
+Snapshot ID: `MCxiOGViNjQ3NmU4ZTgxMjg1Y2E3NWNhNzgwYThkZDIyZDE5NGFmMDEx`

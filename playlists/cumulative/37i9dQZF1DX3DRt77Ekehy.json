@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 174250,
       "name": "432 Hz Crystal Bowl",
       "url": "https://open.spotify.com/track/77E3mdW9Yyw2SoSxod4UgG"
@@ -400,6 +400,24 @@
       "duration_ms": 187500,
       "name": "432 Hz Harmonic Intonation",
       "url": "https://open.spotify.com/track/6uhKWEURfotAPUl4gsZ4FI"
+    },
+    {
+      "album": {
+        "name": "432 Hz Balance",
+        "url": "https://open.spotify.com/album/5xJNlUFj0Oxw9kRuNWkt1N"
+      },
+      "artists": [
+        {
+          "name": "Poly Grace",
+          "url": "https://open.spotify.com/artist/62duDvlRuV31hombOL4Tio"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "432 Hz Healing Journey",
+      "url": "https://open.spotify.com/track/2p03PIgBzS4Ygx4Hy8FSfA"
     },
     {
       "album": {
@@ -702,7 +720,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 234097,
       "name": "432hz Sea of Fog",
       "url": "https://open.spotify.com/track/6sV4fBPsUMAiEIygFXViK1"
@@ -1113,6 +1131,24 @@
     },
     {
       "album": {
+        "name": "Diverging Path 432 Hz",
+        "url": "https://open.spotify.com/album/4A0yFZ34FZX39vzETNYhGo"
+      },
+      "artists": [
+        {
+          "name": "The Peace Within",
+          "url": "https://open.spotify.com/artist/45aoymcKFqTUJ9w4zxfj8i"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197260,
+      "name": "Diverging Path 432 Hz",
+      "url": "https://open.spotify.com/track/7hvk4pWky0OBgMweRpsVSl"
+    },
+    {
+      "album": {
         "name": "Echo Canyon",
         "url": "https://open.spotify.com/album/7GZp8DGnNdbnQbgTft1UPf"
       },
@@ -1236,6 +1272,24 @@
       "duration_ms": 218666,
       "name": "Entheon (432 Hz)",
       "url": "https://open.spotify.com/track/6B83tjUpbpZc4V3GaUzUzI"
+    },
+    {
+      "album": {
+        "name": "Equilibrio 432Hz",
+        "url": "https://open.spotify.com/album/4VFrZ2KOUog0GkLM5ff6RF"
+      },
+      "artists": [
+        {
+          "name": "Invocaciones",
+          "url": "https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150870,
+      "name": "Equilibrio 432Hz",
+      "url": "https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF"
     },
     {
       "album": {
@@ -1383,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "Harmony 432 Hz",
+        "url": "https://open.spotify.com/album/26AV6asA5qZM8jkVtNjFYZ"
+      },
+      "artists": [
+        {
+          "name": "Danoa",
+          "url": "https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184040,
+      "name": "Harmony 432 Hz",
+      "url": "https://open.spotify.com/track/2meZZa9BoV9sYyId6UcuCr"
+    },
+    {
+      "album": {
         "name": "432hz Healing Bouzouki",
         "url": "https://open.spotify.com/album/54eMTpToT5wOZs1h932ggC"
       },
@@ -1394,7 +1466,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 225094,
       "name": "Healing Bouzouki in 432hz (Firas Limitless)",
       "url": "https://open.spotify.com/track/5SqM9dLILSs848jOm8HnSf"
@@ -1520,10 +1592,28 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 187385,
       "name": "Just Look at You",
       "url": "https://open.spotify.com/track/62X7ld1sa8RHl4zRtSvfHf"
+    },
+    {
+      "album": {
+        "name": "Droneing Love",
+        "url": "https://open.spotify.com/album/4kKv4ny59f3660dc3Owgsz"
+      },
+      "artists": [
+        {
+          "name": "Theatantrical",
+          "url": "https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205090,
+      "name": "Kundalini (Solfeggio 432 Hz)",
+      "url": "https://open.spotify.com/track/57ndh1JzrCnHKYSMeaJ7ad"
     },
     {
       "album": {
@@ -1898,7 +1988,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 231541,
       "name": "Schumann 432-2 Navel Chakra",
       "url": "https://open.spotify.com/track/1DjJxoHz4NUf3nIa5YFFce"
@@ -1977,6 +2067,24 @@
     },
     {
       "album": {
+        "name": "Steady Heart 432 Hz",
+        "url": "https://open.spotify.com/album/3wglF04CCqcg0MnJZ8niJ6"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Steady Heart 432 Hz",
+      "url": "https://open.spotify.com/track/7v7XHtTYhNrFWTfP16aw2z"
+    },
+    {
+      "album": {
         "name": "Still Waves (432hz)",
         "url": "https://open.spotify.com/album/0FmfRdFZX0sdEsU5VOtA1i"
       },
@@ -1988,7 +2096,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 232109,
       "name": "Still Waves (432hz)",
       "url": "https://open.spotify.com/track/6qlL9nfU00kj1bPr99uryF"
@@ -2121,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/0rMpuDfr91bZqimLj14pKB"
+      },
+      "artists": [
+        {
+          "name": "Mind Gardener",
+          "url": "https://open.spotify.com/artist/3cYm4kOmJnp5qRslUjwjhP"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244363,
+      "name": "Together (432 HZ Drone)",
+      "url": "https://open.spotify.com/track/3cb1VH37qTnPc7NsCBs9Zj"
+    },
+    {
+      "album": {
         "name": "Solfeggio Frequencies: Aligning for Change",
         "url": "https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE"
       },
@@ -2240,10 +2366,28 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 191223,
       "name": "Well-Being Bowls 432 Hz",
       "url": "https://open.spotify.com/track/6iwmpA7Je9v3EZhmpIqHmg"
+    },
+    {
+      "album": {
+        "name": "Whispering Solace",
+        "url": "https://open.spotify.com/album/6AbUvt1VcTjpo6aPwfRADj"
+      },
+      "artists": [
+        {
+          "name": "Delayed Dreams",
+          "url": "https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252307,
+      "name": "Whispering Solace - Solfeggio 432 Hz",
+      "url": "https://open.spotify.com/track/0z5Ym1izk4EQ0tycJqBRtr"
     },
     {
       "album": {

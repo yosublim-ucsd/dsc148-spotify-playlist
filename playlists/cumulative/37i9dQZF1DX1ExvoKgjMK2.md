@@ -42,7 +42,7 @@
 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 4:08 | 2023-07-11 |  |
 | [Water Roof](https://open.spotify.com/track/26LaK1Z9hUINXdk8SvxiOi) | [LudiSTELO](https://open.spotify.com/artist/0EnwklCF9zZ5r5m6uZrve5) | [Experience](https://open.spotify.com/album/0rXMja4kiy7d5IzYOHwtrK) | 6:06 | 2023-07-11 |  |
 | [WHAT TIME IS IT NOW?](https://open.spotify.com/track/096Bx2bni4EOMZxfb2Hvm3) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [of us](https://open.spotify.com/album/4x6THVlohmI8deJv3I1kU3) | 3:35 | 2023-07-11 |  |
-| [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 | 2023-07-11 | 2023-08-08 |
+| [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 | 2023-07-11 |  |
 | [바보들의 왕 The Queen of fools](https://open.spotify.com/track/6stEqx6YkXslgAJgPZVuuy) | [Ego Function Error](https://open.spotify.com/artist/4EhoOhM4d7P3EkLZhjqVa6) | [EGO FUN SHOW](https://open.spotify.com/album/0g3Zm9Oya85UK6EkjO8GMk) | 6:41 | 2023-07-11 |  |
 
 \*This playlist was first scraped on 2023-07-12. Prior content cannot be recovered.

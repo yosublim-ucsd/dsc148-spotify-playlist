@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1129765,
+  "num_followers": 1130978,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2UyNDVhMzU5ZDNlZDc1MWIxYzkwMzcxMGY4MWYwMzlkY2Q1NDA2",
+  "snapshot_id": "MCw2MjcwZjVmYmNjMjJiNDk4NTNlZDQ3YWRhYjY4YjI5ODc2MWRmMDFj",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "The Blessed Hellride",
+        "url": "https://open.spotify.com/album/2AO7lfXXz1nHfCJiETaxHo"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Stillborn",
+      "url": "https://open.spotify.com/track/3tS1VMpxp9bLn46Cyh09el"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Primo Victoria (Re-Armed)",
         "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 237346,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "The Blessed Hellride",
-        "url": "https://open.spotify.com/album/2AO7lfXXz1nHfCJiETaxHo"
-      },
-      "artists": [
-        {
-          "name": "Black Label Society",
-          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Stillborn",
-      "url": "https://open.spotify.com/track/3tS1VMpxp9bLn46Cyh09el"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "The Curse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Right Side Of The Bed",
-      "url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Figure Number Five",
         "url": "https://open.spotify.com/album/6n86brHTe54lipUckY9InO"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 225933,
       "name": "Distortion Sleep",
       "url": "https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "The Curse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Right Side Of The Bed",
+      "url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3"
     },
     {
       "added_at": "2023-02-08 17:32:03",

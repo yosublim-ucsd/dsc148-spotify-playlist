@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Kirnbauer, Joaquina Mertz, María Centeno, Noa Sainz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,167 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,170 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Cicadas](https://open.spotify.com/track/67FYnbzEnBa3Q1XEzaLFxD) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Cicadas](https://open.spotify.com/album/5jxsaf37OKx46MFdzgJXIa) | 3:24 |
 | 50 | [Ahuécate](https://open.spotify.com/track/2NPHaj1ncH2E8ECpXzyZuD) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M), [Jaguayano](https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG) | [Ahuécate](https://open.spotify.com/album/11ZdhYXt5AkgNDMyEsUW5H) | 2:21 |
 
-Snapshot ID: `MCw5N2QyYjRiMjBiMjFhMjU0MzM1MWJjMjJmNjI3YTIyYWE5MWM3MjUz`
+Snapshot ID: `MCxlZjY1NGQyYWM2YzRkMzgxMjA2YTUyMDYyNDRiZTM2NmI3MjlhNWY4`

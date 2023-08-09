@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 311993,
+  "num_followers": 312096,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmUyMGEyN2EzOTIwNzJjZmYyNTM5MDIwYzFhMGM2ZjgxNDUwOWRk",
+  "snapshot_id": "MCw1ZjQwZTM0ZTZiZDQ5ZmRhOGFkMDJmNGE3MjYwZDdlYzc0M2VlOTFj",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -631,6 +631,26 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/6AS0WGNxbeaPKsHQ0HBuPd"
+      },
+      "artists": [
+        {
+          "name": "Dirty Freud",
+          "url": "https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S"
+        },
+        {
+          "name": "Szou",
+          "url": "https://open.spotify.com/artist/0WabgZbwoFHTTXeLvD5Cr0"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/5qin7r4SGpe95SkjJaflDB"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Only Diamonds Cut Diamonds",
         "url": "https://open.spotify.com/album/3UlMZUzswHGJKzPigY936g"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 217093,
       "name": "Not Today Mate",
       "url": "https://open.spotify.com/track/5UQhTk7Pn3ZpXrqnYgJpPm"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/6AS0WGNxbeaPKsHQ0HBuPd"
-      },
-      "artists": [
-        {
-          "name": "Dirty Freud",
-          "url": "https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S"
-        },
-        {
-          "name": "Szou",
-          "url": "https://open.spotify.com/artist/0WabgZbwoFHTTXeLvD5Cr0"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/5qin7r4SGpe95SkjJaflDB"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -883,26 +883,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
-      },
-      "artists": [
-        {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "LowKey (feat. Jayd Ink)",
         "url": "https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 173420,
       "name": "LowKey (feat. Jayd Ink)",
       "url": "https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
+      },
+      "artists": [
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
     },
     {
       "added_at": "2022-06-20 14:19:42",

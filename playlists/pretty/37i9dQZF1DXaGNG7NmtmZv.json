@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 192874,
+  "num_followers": 192973,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTdhZjQ3MDA4NDcwYzM3NDIxNzQ1ZDRhNjI3OWNkM2Q0YTQ1ZjM0",
+  "snapshot_id": "MCwyNGQwZDNiN2RmMzJlZDM4ODc3OTExZWExNDVjMjE4YjM4ZmRjMjg1",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/2OTTz23owLC2seOMfgJbqR"
-      },
-      "artists": [
-        {
-          "name": "H2O",
-          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
-        }
-      ],
-      "duration_ms": 170213,
-      "name": "I Know Why",
-      "url": "https://open.spotify.com/track/2rVBgcN49HJaYttxOzTogJ"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Vision of Disorder",
         "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 193066,
       "name": "Element",
       "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/2OTTz23owLC2seOMfgJbqR"
+      },
+      "artists": [
+        {
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+        }
+      ],
+      "duration_ms": 170213,
+      "name": "I Know Why",
+      "url": "https://open.spotify.com/track/2rVBgcN49HJaYttxOzTogJ"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -555,22 +555,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Bulldog Edition",
-        "url": "https://open.spotify.com/album/74l9m4ne74mMiqqSgiWtrH"
-      },
-      "artists": [
-        {
-          "name": "Sheer Terror",
-          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
-        }
-      ],
-      "duration_ms": 104600,
-      "name": "Just Can't Hate Enough",
-      "url": "https://open.spotify.com/track/4ONnFr8aItCbbRCnTNeSJh"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Sound Of The Republic",
         "url": "https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 212573,
       "name": "You Ignore Them All",
       "url": "https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Bulldog Edition",
+        "url": "https://open.spotify.com/album/74l9m4ne74mMiqqSgiWtrH"
+      },
+      "artists": [
+        {
+          "name": "Sheer Terror",
+          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
+        }
+      ],
+      "duration_ms": 104600,
+      "name": "Just Can't Hate Enough",
+      "url": "https://open.spotify.com/track/4ONnFr8aItCbbRCnTNeSJh"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -699,22 +699,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Dedication",
-        "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
-      },
-      "artists": [
-        {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Get This Right!",
-      "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Break Down The Walls",
         "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 100800,
       "name": "Take a Stand",
       "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Dedication",
+        "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Get This Right!",
+      "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
     },
     {
       "added_at": "2020-12-08 15:12:11",

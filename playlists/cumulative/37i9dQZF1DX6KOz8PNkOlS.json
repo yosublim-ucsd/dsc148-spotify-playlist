@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "Further up Island",
+        "url": "https://open.spotify.com/album/0NtIyXrOXk3FEeLLxUp9Fv"
+      },
+      "artists": [
+        {
+          "name": "Andre Ethier",
+          "url": "https://open.spotify.com/artist/6gkurAgv7a4GoBMv87hLyF"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309403,
+      "name": "Nature Compels Me",
+      "url": "https://open.spotify.com/track/2xXIbixzOgrKu0r6uXZLHb"
+    },
+    {
+      "album": {
         "name": "Song of the Lark and Other Far Memories",
         "url": "https://open.spotify.com/album/7qO3AbJIz7XMLP4bVOI7wj"
       },
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 227253,
       "name": "Too Much to Ask",
       "url": "https://open.spotify.com/track/4tJX7rDpl2L6BoBtYX8raK"

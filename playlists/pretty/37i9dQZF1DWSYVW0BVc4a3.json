@@ -1,12 +1,12 @@
 {
   "description": "The stomping ground. Cover: Disclosure",
-  "num_followers": 91621,
+  "num_followers": 91682,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTczZGJlMzBjNGI1NmE3YmExYjIwYmFjMTAxNzE5NmFjYTgxNGQ1",
+  "snapshot_id": "MCwyOTE2ZWZlMDIxZDYxODRiMjRiOGM1YTdkNjRlMTdhOWIxZjNlZTMx",
   "tracks": [
     {
       "added_at": "2023-08-03 22:01:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "Great Southern Land",
-        "url": "https://open.spotify.com/album/26XLm5ta9PDZn7uVTdt1M6"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        },
-        {
-          "name": "ICEHOUSE",
-          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
-        }
-      ],
-      "duration_ms": 255483,
-      "name": "Great Southern Land",
-      "url": "https://open.spotify.com/track/0EbjpQWNL0jFgepyWb9OKf"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "Ethnica",
         "url": "https://open.spotify.com/album/6uUKyUOz3jYwiP3giwvzfT"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 174662,
       "name": "Ethnica",
       "url": "https://open.spotify.com/track/0m5oWTFhtRZwfArXOwckRm"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Great Southern Land",
+        "url": "https://open.spotify.com/album/26XLm5ta9PDZn7uVTdt1M6"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "ICEHOUSE",
+          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
+        }
+      ],
+      "duration_ms": 255483,
+      "name": "Great Southern Land",
+      "url": "https://open.spotify.com/track/0EbjpQWNL0jFgepyWb9OKf"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "Your Mind",
-        "url": "https://open.spotify.com/album/25fUzY5qFM0Fm6ESlFOJFu"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Josh Gigante",
-          "url": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
-        }
-      ],
-      "duration_ms": 354647,
-      "name": "Your Mind",
-      "url": "https://open.spotify.com/track/4zDG66t4CS5gD2WLq4K9JK"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "Slow Down (James Cole Remix)",
         "url": "https://open.spotify.com/album/3zrP0lDAbH8sF4219tbsX4"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 417999,
       "name": "Slow Down - James Cole Remix",
       "url": "https://open.spotify.com/track/7IasAOphluLSAmgMtg9jYA"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Your Mind",
+        "url": "https://open.spotify.com/album/25fUzY5qFM0Fm6ESlFOJFu"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Josh Gigante",
+          "url": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
+        }
+      ],
+      "duration_ms": 354647,
+      "name": "Your Mind",
+      "url": "https://open.spotify.com/track/4zDG66t4CS5gD2WLq4K9JK"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1159,30 +1159,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "Hingo (Radio Edit)",
-        "url": "https://open.spotify.com/album/5NyCFRJh5W1jeshptxTaL4"
-      },
-      "artists": [
-        {
-          "name": "Space Motion",
-          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
-        },
-        {
-          "name": "Kashovski",
-          "url": "https://open.spotify.com/artist/3sQmCQTAFYhnhhoBhsv81C"
-        },
-        {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
-        }
-      ],
-      "duration_ms": 217855,
-      "name": "Hingo - Radio Edit",
-      "url": "https://open.spotify.com/track/4EjV5RZxe5AC5Q95Sz6StZ"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "Catuca",
         "url": "https://open.spotify.com/album/7lRZxqNeoloSjF6lna9lOK"
       },
@@ -1215,6 +1191,30 @@
       "duration_ms": 412505,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Hingo (Radio Edit)",
+        "url": "https://open.spotify.com/album/5NyCFRJh5W1jeshptxTaL4"
+      },
+      "artists": [
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        },
+        {
+          "name": "Kashovski",
+          "url": "https://open.spotify.com/artist/3sQmCQTAFYhnhhoBhsv81C"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "duration_ms": 217855,
+      "name": "Hingo - Radio Edit",
+      "url": "https://open.spotify.com/track/4EjV5RZxe5AC5Q95Sz6StZ"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "Back To This (feat. SoShy)",
-        "url": "https://open.spotify.com/album/3BquZyD0gEAzZWJSYmLdm0"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Soshy",
-          "url": "https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "Back To This (feat. SoShy)",
-      "url": "https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "Picture: Disfreq",
         "url": "https://open.spotify.com/album/07bPNT9oLiFi5EiC0p4sAO"
       },
@@ -1351,6 +1331,26 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
+        "name": "Back To This (feat. SoShy)",
+        "url": "https://open.spotify.com/album/3BquZyD0gEAzZWJSYmLdm0"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Soshy",
+          "url": "https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp"
+        }
+      ],
+      "duration_ms": 157142,
+      "name": "Back To This (feat. SoShy)",
+      "url": "https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
         "name": "About My Dreams",
         "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
       },
@@ -1363,62 +1363,6 @@
       "duration_ms": 320000,
       "name": "About My Dreams",
       "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "Bigger Than Prince (10 Year Anniversary Remixes)",
-        "url": "https://open.spotify.com/album/6rWfLtu9NQDtUmvBZr8dRN"
-      },
-      "artists": [
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        },
-        {
-          "name": "Marco Lys",
-          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Bigger Than Prince - Marco Lys Remix",
-      "url": "https://open.spotify.com/track/1JTGpoOr4o6eC7AiEjLdum"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "You Can Dance Now",
-        "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
-      },
-      "artists": [
-        {
-          "name": "Liva K",
-          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
-        }
-      ],
-      "duration_ms": 244802,
-      "name": "You Can Dance Now",
-      "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "Rush (Miss Monique Remix)",
-        "url": "https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6"
-      },
-      "artists": [
-        {
-          "name": "Sied Van Riel",
-          "url": "https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF"
-        },
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "Rush - Miss Monique Remix",
-      "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1443,6 +1387,62 @@
       "duration_ms": 217280,
       "name": "Dope Dance",
       "url": "https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Bigger Than Prince (10 Year Anniversary Remixes)",
+        "url": "https://open.spotify.com/album/6rWfLtu9NQDtUmvBZr8dRN"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Bigger Than Prince - Marco Lys Remix",
+      "url": "https://open.spotify.com/track/1JTGpoOr4o6eC7AiEjLdum"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Rush (Miss Monique Remix)",
+        "url": "https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6"
+      },
+      "artists": [
+        {
+          "name": "Sied Van Riel",
+          "url": "https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF"
+        },
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "Rush - Miss Monique Remix",
+      "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "You Can Dance Now",
+        "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "duration_ms": 244802,
+      "name": "You Can Dance Now",
+      "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
+        "name": "Daka",
+        "url": "https://open.spotify.com/album/40GiZj6Qkd45nMo4N1X10V"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Daka - Original Mix",
+      "url": "https://open.spotify.com/track/0h8bhIOhbhzmr1qIqSGm8p"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
         "name": "Boom Boom (feat. CHRSTPHR)",
         "url": "https://open.spotify.com/album/7pkY5Owef8tkoR7Y88Olwt"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 178131,
       "name": "Boom Boom (feat. CHRSTPHR)",
       "url": "https://open.spotify.com/track/41Fq0oWTtuGes9RR6UhMw1"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "Daka",
-        "url": "https://open.spotify.com/album/40GiZj6Qkd45nMo4N1X10V"
-      },
-      "artists": [
-        {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Daka - Original Mix",
-      "url": "https://open.spotify.com/track/0h8bhIOhbhzmr1qIqSGm8p"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "Fuck what u heard",
-        "url": "https://open.spotify.com/album/31kvCru828NJSvrG2FymOR"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        }
-      ],
-      "duration_ms": 220166,
-      "name": "Fuck what u heard",
-      "url": "https://open.spotify.com/track/3RlcQp6Q2CrcJ6sTHYYDtq"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "Renegade EP",
         "url": "https://open.spotify.com/album/6dgVJGpji0wnAeEt6xc9PA"
       },
@@ -1647,6 +1627,26 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
+        "name": "Fuck what u heard",
+        "url": "https://open.spotify.com/album/31kvCru828NJSvrG2FymOR"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "duration_ms": 220166,
+      "name": "Fuck what u heard",
+      "url": "https://open.spotify.com/track/3RlcQp6Q2CrcJ6sTHYYDtq"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
         "name": "Alive (Remixes)",
         "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
       },
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
-      },
-      "artists": [
-        {
-          "name": "Sebjak",
-          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
-        }
-      ],
-      "duration_ms": 402545,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "The Treble",
         "url": "https://open.spotify.com/album/0iHPUixpramB60NDP56aar"
       },
@@ -1699,6 +1683,54 @@
       "duration_ms": 202500,
       "name": "The Treble",
       "url": "https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
+      },
+      "artists": [
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        }
+      ],
+      "duration_ms": 402545,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Katania",
+        "url": "https://open.spotify.com/album/6jaUFnMIk0TI6DaF1AoIEn"
+      },
+      "artists": [
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        }
+      ],
+      "duration_ms": 207197,
+      "name": "Katania",
+      "url": "https://open.spotify.com/track/1RkMowNCyx8JDl2NAzmSOl"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        }
+      ],
+      "duration_ms": 199044,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1731,22 +1763,6 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "The Rhythm",
-        "url": "https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv"
-      },
-      "artists": [
-        {
-          "name": "THEMBA",
-          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
-        }
-      ],
-      "duration_ms": 199044,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/2NjwadjbSBDELXLElNoBaV"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 286387,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/3KD6IJoaBg3i7efqistOnh"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "Katania",
-        "url": "https://open.spotify.com/album/6jaUFnMIk0TI6DaF1AoIEn"
-      },
-      "artists": [
-        {
-          "name": "TH;EN",
-          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
-        }
-      ],
-      "duration_ms": 207197,
-      "name": "Katania",
-      "url": "https://open.spotify.com/track/1RkMowNCyx8JDl2NAzmSOl"
     },
     {
       "added_at": "2023-08-03 22:01:00",

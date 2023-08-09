@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Doja Cat,<br/>back number, Bebe Rexha & David Guetta, back number and more! cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,884 likes - 79 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,896 likes - 79 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 13 | [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 |
 | 14 | [Make Up Your Mind](https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Make Up Your Mind](https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80) | 2:52 |
 | 15 | [Life Goes On](https://open.spotify.com/track/1ITkWSg7sJMY0xuTuPzT8R) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [Life Goes On](https://open.spotify.com/album/1mGmIzVzrYl8js8nnUwaCJ) | 5:31 |
-| 16 | [Honto](https://open.spotify.com/track/7C4OTp3q8PK7G53TywEO62) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [Watson](https://open.spotify.com/artist/4BnAKgsjMgZ6ft4OTG3Z4x) | [Honto](https://open.spotify.com/album/2pLMzz6G9dJuvjjA5Jd5id) | 2:54 |
+| 16 | [Honto](https://open.spotify.com/track/7C4OTp3q8PK7G53TywEO62) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Honto](https://open.spotify.com/album/2pLMzz6G9dJuvjjA5Jd5id) | 2:54 |
 | 17 | [Realest \(with Eminem\)](https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB) | [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Realest \(with Eminem\)](https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P) | 3:37 |
 | 18 | [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 |
 | 19 | [Ray Of Solar](https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Ray Of Solar](https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb) | 4:01 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 78 | [Black Nile](https://open.spotify.com/track/7jM01vnA3IbskNLZF23lyV) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Black Nile](https://open.spotify.com/album/6xaT3uAYw8VBtcI3hshU5V) | 3:33 |
 | 79 | [Looking in the Same Direction](https://open.spotify.com/track/3223tV7OEezdOyG2CxXKzi) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Looking in the Same Direction](https://open.spotify.com/album/0dnnSN7ZOeMC3O3UutSPHU) | 4:04 |
 
-Snapshot ID: `MCwzMTRiOTlhNTExM2I0Y2RjZTgyNGZmZGNhOTNmZTNmODY1M2UzMTcw`
+Snapshot ID: `MCxkMTE5NjYxOTM3ZTc5MWFiOWY2NGZhYjA3MGQ4Njk3M2M1YTZlYTBi`

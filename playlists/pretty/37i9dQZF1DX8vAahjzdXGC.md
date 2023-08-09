@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,948 likes - 96 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,965 likes - 96 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 10 | [Sini](https://open.spotify.com/track/6hc5Ryshu6sdcJSShDQc8F) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Sini](https://open.spotify.com/album/312vsgcSCjvlPvKVriVXQg) | 3:58 |
 | 11 | [TOP FORTY](https://open.spotify.com/track/03dpPU0iv6bUF4IPB3IWv5) | [Titi DJ](https://open.spotify.com/artist/2XHFhl3jenckLAT8SWVegS) | [TOP FORTY](https://open.spotify.com/album/6lYw2qzK2Oopd4ZSFQtZWm) | 4:45 |
 | 12 | [Tak Lagi Utuh](https://open.spotify.com/track/4ETM5m1rrkb9IJT4FEOQZg) | [Mario Ginanjar](https://open.spotify.com/artist/2PfcNw7RHl1aDoZ4tYg6ky) | [Tak Lagi Utuh](https://open.spotify.com/album/6q0skVCacbQwPgyCASK2iQ) | 3:40 |
-| 13 | [The Flash](https://open.spotify.com/track/43k24mAEnmPjVUDyOK27Ca) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [The Flash](https://open.spotify.com/album/10NFGCJ5fzJwMadKyBcqfr) | 3:33 |
+| 13 | [The Flash](https://open.spotify.com/track/43k24mAEnmPjVUDyOK27Ca) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [The Flash](https://open.spotify.com/album/10NFGCJ5fzJwMadKyBcqfr) | 3:33 |
 | 14 | [dangdang](https://open.spotify.com/track/4wp725MlpbUiyn1NcTMHJ6) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [TWO RABBITS](https://open.spotify.com/album/0Ar5kViCsKWRjnRKy7V4Ck) | 3:16 |
 | 15 | [TGIF](https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [TGIF](https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c) | 2:51 |
 | 16 | [XXL](https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [XXL](https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf) | 3:26 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 95 | [Kopi Jahat](https://open.spotify.com/track/2kkeh5XL5vLF7ig1lpGk54) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB), [Java Tropica](https://open.spotify.com/artist/54AdgGAEhkNpQPPmEpIRQx) | [Kopi Jahat](https://open.spotify.com/album/2TomPC6ucZkgK8B40NwFG6) | 3:21 |
 | 96 | [Gali Prapatan](https://open.spotify.com/track/5a0RI1DJDKqLhGyTRyVIa8) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Gali Prapatan](https://open.spotify.com/album/3pkrZtfEYuCfIOWQMV0Y10) | 2:57 |
 
-Snapshot ID: `MCw5NTVhOWNiNzZjNjZiNTRkNTdhMjM3ZDdiMmJhMWU2NzVkY2NlNzQy`
+Snapshot ID: `MCw0NTExMjBmNDZhNTViMzEzNDNiZTIyNjdmNWViYzNjZjc3ZWM0YTA1`

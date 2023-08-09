@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,043 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,067 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,18 +35,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 25 | [Barrio](https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc) | [BRXWS](https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Barrio](https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS) | 2:05 |
 | 26 | [Ukelele At Night](https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF), [Bryan Pelayo](https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK) | [Canciones para Escuchar Frente a la Ventana](https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy) | 1:33 |
 | 27 | [Parque de Bugambilias](https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Parque de Bugambilias](https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9) | 2:33 |
-| 28 | [love in medellín](https://open.spotify.com/track/5mGAQqsga5RzDp8NoQgmsH) | [neptune kid](https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA) | [love in medellín](https://open.spotify.com/album/6IHUbJzZ2P4XMC9fq4O7TA) | 1:49 |
+| 28 | [Viento de Arrabal](https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Monte Nativo](https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku) | 2:07 |
 | 29 | [Abrázame mucho estos días](https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Óleo sobre tela](https://open.spotify.com/album/105WPjJen4emN55961ICvo) | 2:42 |
-| 30 | [Viento de Arrabal](https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Monte Nativo](https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku) | 2:07 |
-| 31 | [Cumbiero](https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Cumbiero](https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3) | 1:39 |
+| 30 | [Cumbiero](https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Cumbiero](https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3) | 1:39 |
+| 31 | [love in medellín](https://open.spotify.com/track/5mGAQqsga5RzDp8NoQgmsH) | [neptune kid](https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA) | [love in medellín](https://open.spotify.com/album/6IHUbJzZ2P4XMC9fq4O7TA) | 1:49 |
 | 32 | [Areca](https://open.spotify.com/track/34ECimOZN65vNIEDRauhhd) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Ozymandias' Dream](https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd) | [Areca](https://open.spotify.com/album/1gOTOnrWlkJVOod1DZATtR) | 1:59 |
 | 33 | [Brazilian Flavor](https://open.spotify.com/track/3whLJWc9Bu4mk0cnueIiKg) | [Dawmata](https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3) | [Brazilian Flavor](https://open.spotify.com/album/7KRW5vGGs4RUzv7r36FGRR) | 1:58 |
 | 34 | [Mi Pueblo](https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Mi Pueblo](https://open.spotify.com/album/02WfhEBpCed81725wg1lsx) | 1:54 |
 | 35 | [Géminis](https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Ascendentes](https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm) | 3:17 |
 | 36 | [En el Tianguis Lo\-Fi](https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw) | [Bandido Beat](https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL) | [En el Tianguis Lo\-Fi](https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF) | 5:19 |
-| 37 | [are you kidding?](https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [are you kidding?](https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v) | 2:11 |
-| 38 | [Good things take time](https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Good things take time](https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL) | 1:39 |
-| 39 | [Dalia](https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Dalia](https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV) | 2:53 |
+| 37 | [Dalia](https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Dalia](https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV) | 2:53 |
+| 38 | [are you kidding?](https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [are you kidding?](https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v) | 2:11 |
+| 39 | [Good things take time](https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Good things take time](https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL) | 1:39 |
 | 40 | [Agüita de Coco](https://open.spotify.com/track/06U4QV5Gid1LZjm39ydcMp) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Chavezarratia](https://open.spotify.com/artist/568hZziWFjCPnud0seNeUo) | [Agüita de Coco](https://open.spotify.com/album/63a3KXPLPUfeYVswmr8gFL) | 2:16 |
 | 41 | [Bolero coqueto](https://open.spotify.com/track/4d5vaBa0RzD10nbAcewKiI) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF), [Diego Galindo](https://open.spotify.com/artist/0ioIOSUh5zjsTTDPX7aL4I), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Bolero coqueto](https://open.spotify.com/album/5NpL6azGR3wLAyPSA3yo5D) | 2:15 |
 | 42 | [Nos Usamos](https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Uno Es Mínimo Dos](https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 49 | [Aguancó](https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:30 |
 | 50 | [La Belleza de lo Cotidiano](https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [Lofi Soul](https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn) | [La Belleza de lo Cotidiano](https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC) | 2:08 |
 
-Snapshot ID: `MCxlYWYwOTk3Yzg5ZGJlOWY5NGE3YmY0OGMzZjYyMTFhOGY1YzU2MDU3`
+Snapshot ID: `MCw4ZjIyYWU2YTEyM2JlMzc0NDQ1YmM5NjI2N2JhZGI2OTA3N2ZlMWZh`

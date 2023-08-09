@@ -1,12 +1,12 @@
 {
   "description": "Si la salsa se cruza con la chamba... \u00a1s\u00fabele a la bocina!",
-  "num_followers": 36123,
+  "num_followers": 36198,
   "original_name": "Chambeando con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjc2YjEwMzFjMmVjMmJlZWFmZmM3NDRmMTc2ZWUwY2QwM2QzYzY2",
+  "snapshot_id": "MCxjNjk4ZTlmOWQ3YWI2OGJhNjU2NTE1MTZmZjI4OTczNDkzY2Q4NTVk",
   "tracks": [
     {
       "added_at": "2022-08-02 22:53:13",
@@ -629,20 +629,20 @@
       "url": "https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK"
     },
     {
-      "added_at": "2023-02-03 06:00:00",
+      "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "De Qu\u00e9 Manera",
-        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/02IhbBURLOQ1PiaDODuHfW"
       },
       "artists": [
         {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
         }
       ],
-      "duration_ms": 193125,
-      "name": "De Qu\u00e9 Manera",
-      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
+      "duration_ms": 292973,
+      "name": "Mi Media Mitad",
+      "url": "https://open.spotify.com/track/0vffx55ffXHq2bz0yKlZiM"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -661,20 +661,20 @@
       "url": "https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz"
     },
     {
-      "added_at": "2022-08-02 22:53:13",
+      "added_at": "2023-02-03 06:00:00",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/02IhbBURLOQ1PiaDODuHfW"
+        "name": "De Qu\u00e9 Manera",
+        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
       },
       "artists": [
         {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 292973,
-      "name": "Mi Media Mitad",
-      "url": "https://open.spotify.com/track/0vffx55ffXHq2bz0yKlZiM"
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Llego La Salsa",
-        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 216421,
-      "name": "Que Bueno Baila Usted",
-      "url": "https://open.spotify.com/track/1R8upiSmv7U1rRv0qqvIbS"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Llego La Salsa",
+        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 216421,
+      "name": "Que Bueno Baila Usted",
+      "url": "https://open.spotify.com/track/1R8upiSmv7U1rRv0qqvIbS"
     },
     {
       "added_at": "2022-08-02 22:53:13",

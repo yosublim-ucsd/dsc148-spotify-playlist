@@ -304,10 +304,6 @@
           "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
         },
         {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
           "name": "Daniel Calveti",
           "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
         },
@@ -318,13 +314,17 @@
         {
           "name": "Josh Morales",
           "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 488927,
-      "name": "Danzando",
+      "name": "Danzando - En Vivo",
       "url": "https://open.spotify.com/track/07yd60JLsOIEIkQ13gpmRk"
     },
     {

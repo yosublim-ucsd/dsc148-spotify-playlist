@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Grupo Frontera & Grupo Firme
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,065 likes - 200 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,098 likes - 200 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 199 | [Mi Barrio](https://open.spotify.com/track/4pS2RiGbEKQbrkeH21QuMe) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:19 |
 | 200 | [Desespero](https://open.spotify.com/track/1Dlzq86mlvJEkaGoS9c7MN) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:14 |
 
-Snapshot ID: `MCxiOTg1Mjg1MTliZmUzN2M3YmM2MWUwZTk4YTU0MDVjODlmMmFkMDNl`
+Snapshot ID: `MCw1ZGI0ODEwN2JkMzUxNjdjOGUwNWQzZTE0YWQ0MWU2NjFhNjUxZjVh`

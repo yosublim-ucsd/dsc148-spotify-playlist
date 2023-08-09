@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Hostel Hudugaru Bekagiddare",
-  "num_followers": 50759,
+  "num_followers": 50813,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzUxZTFjZjg2YjJlNzJmYmJlZmRmNmVmZWI4ZmFhZTI0MmYzNDRl",
+  "snapshot_id": "MCxhY2Y2ZmU0ZDAwZGE0NTQ2ZmI4MzEyNmE3Y2ZjNDg5YjMyNjcwZDkw",
   "tracks": [
     {
       "added_at": "2023-07-27 13:11:20",
@@ -23,6 +23,30 @@
       "duration_ms": 247125,
       "name": "Hostel Hudugaru Protest Song",
       "url": "https://open.spotify.com/track/0EmwGgP7UAyWjtalVLdciE"
+    },
+    {
+      "added_at": "2023-08-08 13:36:47",
+      "album": {
+        "name": "Sapta Sagaradaache Ello - Side A Title Track (From \"Sapta Sagaradaache Ello - Side A\")",
+        "url": "https://open.spotify.com/album/7aufujMeIDsabPWzA3zyEO"
+      },
+      "artists": [
+        {
+          "name": "Charan Raj",
+          "url": "https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi"
+        },
+        {
+          "name": "Dhananjay Ranjan",
+          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
+        },
+        {
+          "name": "Kapil Nair",
+          "url": "https://open.spotify.com/artist/451yGyxs2q7wOEZEDuYS8s"
+        }
+      ],
+      "duration_ms": 255643,
+      "name": "Sapta Sagaradaache Ello - Side A Title Track (From \"Sapta Sagaradaache Ello - Side A\")",
+      "url": "https://open.spotify.com/track/4mfrhh7oSf1NAfLHUvQaMU"
     },
     {
       "added_at": "2023-08-02 11:54:06",
@@ -101,6 +125,26 @@
       "url": "https://open.spotify.com/track/19XKmDIjW4lgzkEXNAQPhH"
     },
     {
+      "added_at": "2023-08-08 13:36:47",
+      "album": {
+        "name": "Bharjari Gandu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Cu4F0DzzZtsP2084iWbfV"
+      },
+      "artists": [
+        {
+          "name": "Gummineni Vijay",
+          "url": "https://open.spotify.com/artist/7tlDk660qu9f7yYtpIlFGw"
+        },
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        }
+      ],
+      "duration_ms": 265680,
+      "name": "Huyyo Huyyo Maleraaya",
+      "url": "https://open.spotify.com/track/0ORnNTXGy7dQ4Jt7PBHRu0"
+    },
+    {
       "added_at": "2023-08-03 09:06:57",
       "album": {
         "name": "Nee Chuttu Chuttu (From \"Skanda\")",
@@ -124,9 +168,65 @@
           "url": "https://open.spotify.com/artist/7L5VvQ1WinT1TpMqpnfrbv"
         }
       ],
-      "duration_ms": 250375,
+      "duration_ms": 249000,
       "name": "Nee Chuttu Chuttu (From \"Skanda\")",
       "url": "https://open.spotify.com/track/2sYhYrHPNU8v5EjSqIqDXm"
+    },
+    {
+      "added_at": "2023-08-08 13:36:47",
+      "album": {
+        "name": "Bartiya Long'u Drive Ge (From \"Thothapuri 2\")",
+        "url": "https://open.spotify.com/album/6BNlDSFvtj0xeyxNzG9H5k"
+      },
+      "artists": [
+        {
+          "name": "Arun Andrew",
+          "url": "https://open.spotify.com/artist/3NMg8F6trpYFOtvlt6FTVM"
+        },
+        {
+          "name": "Hrudaya Shiva",
+          "url": "https://open.spotify.com/artist/2BKQzpgC3HMsKf3A72yTGK"
+        },
+        {
+          "name": "Tipu Narayan",
+          "url": "https://open.spotify.com/artist/47vh2vto2mv5Y741Rs065r"
+        },
+        {
+          "name": "Ankita Kundu",
+          "url": "https://open.spotify.com/artist/0AyBrWlYwDQOsrN1xxOmkG"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Bartiya Long'u Drive Ge (From \"Thothapuri 2\")",
+      "url": "https://open.spotify.com/track/402zcFnhzGaO55x4x9Koan"
+    },
+    {
+      "added_at": "2023-08-08 13:36:47",
+      "album": {
+        "name": "Muddu Rakshasi (From \" Vaamana \")",
+        "url": "https://open.spotify.com/album/4HT1czXYkam377G3q6GdXd"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Harshika Devanath",
+          "url": "https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Muddu Rakshasi - From \" Vaamana \"",
+      "url": "https://open.spotify.com/track/5K9loq4s6yILgWxK6zbsq4"
     },
     {
       "added_at": "2023-07-31 06:01:51",
@@ -211,6 +311,38 @@
       "duration_ms": 206518,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/6Sr7biN3hb1hesaxAeownv"
+    },
+    {
+      "added_at": "2023-08-08 13:36:47",
+      "album": {
+        "name": "O Desha Premava (From \"Kranthiveera\")",
+        "url": "https://open.spotify.com/album/1ebCtDhH4ZtGaaYd2NxIX6"
+      },
+      "artists": [
+        {
+          "name": "Ajay Warrier",
+          "url": "https://open.spotify.com/artist/3fm9JRsdbk49ZolYmobgeC"
+        },
+        {
+          "name": "Hemanth Kumar",
+          "url": "https://open.spotify.com/artist/2DBOmeNE76m77zvJig5PgF"
+        },
+        {
+          "name": "Nitin Raghuveer",
+          "url": "https://open.spotify.com/artist/6YaWbGT7W9bvBkGntwvg08"
+        },
+        {
+          "name": "Prathap S",
+          "url": "https://open.spotify.com/artist/30aS9Bezjiw2gH7E5SxkU8"
+        },
+        {
+          "name": "Aadatt M P",
+          "url": "https://open.spotify.com/artist/66VYsD4WFRQ0bFKChjxPNA"
+        }
+      ],
+      "duration_ms": 277070,
+      "name": "O Desha Premava (From \"Kranthiveera\")",
+      "url": "https://open.spotify.com/track/0lgtn4ilWx4q5A8H8w2Obk"
     },
     {
       "added_at": "2023-04-12 13:37:54",
@@ -1209,46 +1341,6 @@
       "url": "https://open.spotify.com/track/4xGKbrZU4wUX39KueA6gQo"
     },
     {
-      "added_at": "2023-05-20 08:05:14",
-      "album": {
-        "name": "Madime Yenna-Ninna (Tulu Wedding Song)",
-        "url": "https://open.spotify.com/album/3LyHZTXnjnGQLcAG5dAWV5"
-      },
-      "artists": [
-        {
-          "name": "K P Milan Kumar",
-          "url": "https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ"
-        },
-        {
-          "name": "Anusha Jane D'Souza",
-          "url": "https://open.spotify.com/artist/14n1m18TW4XpYiJIAKNAvN"
-        }
-      ],
-      "duration_ms": 161099,
-      "name": "Madime Yenna-Ninna (Tulu Wedding Song)",
-      "url": "https://open.spotify.com/track/3z0CgHCvEl2Gh3VW7kEz1a"
-    },
-    {
-      "added_at": "2023-05-18 06:08:40",
-      "album": {
-        "name": "Feel My Love (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6c27PQGtfDHPDTolAbsJEZ"
-      },
-      "artists": [
-        {
-          "name": "Aishwarya Rangarajan",
-          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
-        },
-        {
-          "name": "Rahul Raj Music",
-          "url": "https://open.spotify.com/artist/6pWY7RG00F76WyWWXshlbV"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "Ili Sanjeyu Mankagide",
-      "url": "https://open.spotify.com/track/2fMdEkql4Od2To6bhpRxYT"
-    },
-    {
       "added_at": "2023-05-08 08:30:40",
       "album": {
         "name": "Virupaksha (Kannada) [Original Motion Picture Soundtrack]",
@@ -1267,46 +1359,6 @@
       "duration_ms": 232533,
       "name": "Onde Sala",
       "url": "https://open.spotify.com/track/6kN89Xn06VluZZDZg9bffW"
-    },
-    {
-      "added_at": "2023-04-22 12:00:26",
-      "album": {
-        "name": "Male Munidare Santa (From \"Sreemanta\")",
-        "url": "https://open.spotify.com/album/6HsKeiIqC6VIQ77RGJ41cA"
-      },
-      "artists": [
-        {
-          "name": "Hamsalekha",
-          "url": "https://open.spotify.com/artist/07sMsv3cwvQp3pi8zxR08S"
-        },
-        {
-          "name": "S. P. Balasubrahmanyam",
-          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
-        }
-      ],
-      "duration_ms": 311239,
-      "name": "Male Munidare Santa (From \"Sreemanta\")",
-      "url": "https://open.spotify.com/track/4k1bphAfFqlfkN6nbWGo3t"
-    },
-    {
-      "added_at": "2023-05-04 11:13:36",
-      "album": {
-        "name": "Yen Chanda Kaansthavle (from \"Dheera Samrat\")",
-        "url": "https://open.spotify.com/album/03os9WIC1aumHduX1k98Ax"
-      },
-      "artists": [
-        {
-          "name": "Tippu",
-          "url": "https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B"
-        },
-        {
-          "name": "Raghav Subhash",
-          "url": "https://open.spotify.com/artist/7G0A91tkDOhQmW5HbHJlpR"
-        }
-      ],
-      "duration_ms": 286207,
-      "name": "Yen Chanda Kaansthavle (from \"Dheera Samrat\")",
-      "url": "https://open.spotify.com/track/45m6b8LCBhaioxiJEhSZTI"
     },
     {
       "added_at": "2023-04-22 12:00:46",
@@ -1651,22 +1703,6 @@
       "duration_ms": 282333,
       "name": "Belakali",
       "url": "https://open.spotify.com/track/5A3ZTKVbNtXemakJjqNbFF"
-    },
-    {
-      "added_at": "2023-04-10 07:12:35",
-      "album": {
-        "name": "Long Drive",
-        "url": "https://open.spotify.com/album/130Pzy3VlCHnbwcrcZS6YR"
-      },
-      "artists": [
-        {
-          "name": "Vikas Vasishta",
-          "url": "https://open.spotify.com/artist/6IcmFfiYYoL5jTHo5xplm4"
-        }
-      ],
-      "duration_ms": 213258,
-      "name": "Yaare Neenu Devathe",
-      "url": "https://open.spotify.com/track/4DbMwj6wBccpQjWmiU94FK"
     }
   ],
   "unique_name": "Latest Kannada",

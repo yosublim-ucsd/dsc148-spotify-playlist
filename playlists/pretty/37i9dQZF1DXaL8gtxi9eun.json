@@ -1,12 +1,12 @@
 {
   "description": "Stay up to date with the freshest Arabic Pop Songs. Cover: <a href=\"https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL?si=TWV5d8oLRaKd6IBp85IsSQ\"> Noel Kharman </a>",
-  "num_followers": 104778,
+  "num_followers": 104823,
   "original_name": "Fresh Arabic Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjRkYTJlZTlkNWMwMjlkOTY4ZjNlZmFiZDg0OTBlNjQ3NDA0MjQw",
+  "snapshot_id": "MCw3ZmE2NDU0YmZkMjIyYjZiYzg2MjBkYzFmMjlhZmI4OTNjOGJiOGJl",
   "tracks": [
     {
       "added_at": "2023-08-04 09:50:52",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-08-04 09:50:52",
       "album": {
-        "name": "\u0647\u0631\u0645\u0648\u0646 \u0627\u0644\u0633\u0639\u0627\u062f\u0629 (\u0645\u0646 \u0641\u064a\u0644\u0645 \u062a\u0627\u062c)",
-        "url": "https://open.spotify.com/album/6uXSbOjm2YQbn1JfUMuig1"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "\u0647\u0631\u0645\u0648\u0646 \u0627\u0644\u0633\u0639\u0627\u062f\u0629 - \u0645\u0646 \u0641\u064a\u0644\u0645 \u062a\u0627\u062c",
-      "url": "https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg"
-    },
-    {
-      "added_at": "2023-08-04 09:50:52",
-      "album": {
         "name": "Ya Layaly",
         "url": "https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 190714,
       "name": "Ya Layaly",
       "url": "https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw"
+    },
+    {
+      "added_at": "2023-08-04 09:50:52",
+      "album": {
+        "name": "\u0647\u0631\u0645\u0648\u0646 \u0627\u0644\u0633\u0639\u0627\u062f\u0629 (\u0645\u0646 \u0641\u064a\u0644\u0645 \u062a\u0627\u062c)",
+        "url": "https://open.spotify.com/album/6uXSbOjm2YQbn1JfUMuig1"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "\u0647\u0631\u0645\u0648\u0646 \u0627\u0644\u0633\u0639\u0627\u062f\u0629 - \u0645\u0646 \u0641\u064a\u0644\u0645 \u062a\u0627\u062c",
+      "url": "https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg"
     },
     {
       "added_at": "2023-08-04 09:50:52",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-08-04 09:50:52",
       "album": {
-        "name": "Heeya",
-        "url": "https://open.spotify.com/album/2CFvYOAGceKa9RNyfG1rfX"
-      },
-      "artists": [
-        {
-          "name": "Hatim Ammor",
-          "url": "https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp"
-        }
-      ],
-      "duration_ms": 213178,
-      "name": "Heeya",
-      "url": "https://open.spotify.com/track/7tG8Kl89b8gVuDGnlyCXQA"
-    },
-    {
-      "added_at": "2023-08-04 09:50:52",
-      "album": {
         "name": "WAJAHNI",
         "url": "https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 206315,
       "name": "WAJAHNI",
       "url": "https://open.spotify.com/track/74ej9D4v1lsgepeEetuB0J"
+    },
+    {
+      "added_at": "2023-08-04 09:50:52",
+      "album": {
+        "name": "Heeya",
+        "url": "https://open.spotify.com/album/2CFvYOAGceKa9RNyfG1rfX"
+      },
+      "artists": [
+        {
+          "name": "Hatim Ammor",
+          "url": "https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp"
+        }
+      ],
+      "duration_ms": 213178,
+      "name": "Heeya",
+      "url": "https://open.spotify.com/track/7tG8Kl89b8gVuDGnlyCXQA"
     },
     {
       "added_at": "2023-08-04 09:50:52",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-08-04 09:50:52",
       "album": {
+        "name": "\u0645\u0634 \u0647\u062a\u063a\u064a\u0631 \u0639\u0634\u0627\u0646 \u062d\u062f",
+        "url": "https://open.spotify.com/album/5ANgOtkPz7JYyJ0h6F96pR"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 173113,
+      "name": "\u0645\u0634 \u0647\u062a\u063a\u064a\u0631 \u0639\u0634\u0627\u0646 \u062d\u062f",
+      "url": "https://open.spotify.com/track/7a4X1BSy2tvhkPIQlHjI4s"
+    },
+    {
+      "added_at": "2023-08-04 09:50:52",
+      "album": {
         "name": "Beat \u0628\u062a\u0645\u0627\u064a\u0644 \u0639\u0644\u0649 \u0627\u0644",
         "url": "https://open.spotify.com/album/4Q5agUfE9KBXPt3wuJPz1I"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 234000,
       "name": "Wala Bghiti",
       "url": "https://open.spotify.com/track/6MrdoWkAdnnlyVCd2qdriE"
-    },
-    {
-      "added_at": "2023-08-04 09:50:52",
-      "album": {
-        "name": "\u0645\u0634 \u0647\u062a\u063a\u064a\u0631 \u0639\u0634\u0627\u0646 \u062d\u062f",
-        "url": "https://open.spotify.com/album/5ANgOtkPz7JYyJ0h6F96pR"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 173113,
-      "name": "\u0645\u0634 \u0647\u062a\u063a\u064a\u0631 \u0639\u0634\u0627\u0646 \u062d\u062f",
-      "url": "https://open.spotify.com/track/7a4X1BSy2tvhkPIQlHjI4s"
     },
     {
       "added_at": "2023-08-04 09:50:52",
@@ -487,6 +487,22 @@
       "duration_ms": 200869,
       "name": "Zidini",
       "url": "https://open.spotify.com/track/1b7xtXSt71WhXrL9khIlCK"
+    },
+    {
+      "added_at": "2023-08-04 09:50:52",
+      "album": {
+        "name": "\u062d\u0628\u064a\u062a \u0627\u0644\u0645\u0642\u0627\u0628\u0644\u0629",
+        "url": "https://open.spotify.com/album/0iddA66uS6i7Rb1tv1sJ7E"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Hamaki",
+          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "\u062d\u0628\u064a\u062a \u0627\u0644\u0645\u0642\u0627\u0628\u0644\u0629",
+      "url": "https://open.spotify.com/track/2oURHU9AZsHV37S3GPtNc6"
     },
     {
       "added_at": "2023-08-04 09:50:52",
@@ -571,22 +587,6 @@
     {
       "added_at": "2023-08-04 09:50:52",
       "album": {
-        "name": "\u062d\u0628\u064a\u062a \u0627\u0644\u0645\u0642\u0627\u0628\u0644\u0629",
-        "url": "https://open.spotify.com/album/0iddA66uS6i7Rb1tv1sJ7E"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Hamaki",
-          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "\u062d\u0628\u064a\u062a \u0627\u0644\u0645\u0642\u0627\u0628\u0644\u0629",
-      "url": "https://open.spotify.com/track/2oURHU9AZsHV37S3GPtNc6"
-    },
-    {
-      "added_at": "2023-08-04 09:50:52",
-      "album": {
         "name": "\u0643\u0644 \u0644\u064a\u0644",
         "url": "https://open.spotify.com/album/67ZFyMPeTn5L5FAZC94WAY"
       },
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-08-04 09:50:52",
       "album": {
+        "name": "Daghdagha",
+        "url": "https://open.spotify.com/album/4y2axhAvecdq2BGYnNRS7r"
+      },
+      "artists": [
+        {
+          "name": "Abu",
+          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
+        }
+      ],
+      "duration_ms": 181638,
+      "name": "Daghdagha",
+      "url": "https://open.spotify.com/track/6Wz8i5kN8XCNSCflz6cXk7"
+    },
+    {
+      "added_at": "2023-08-04 09:50:52",
+      "album": {
         "name": "Aam Faker Fiya",
         "url": "https://open.spotify.com/album/4F3ad3v2zB6nNri9P0rpke"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 208760,
       "name": "Ensan 2ali",
       "url": "https://open.spotify.com/track/0jmsuGduZnn5wE5LBfTQB1"
-    },
-    {
-      "added_at": "2023-08-04 09:50:52",
-      "album": {
-        "name": "Daghdagha",
-        "url": "https://open.spotify.com/album/4y2axhAvecdq2BGYnNRS7r"
-      },
-      "artists": [
-        {
-          "name": "Abu",
-          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
-        }
-      ],
-      "duration_ms": 181638,
-      "name": "Daghdagha",
-      "url": "https://open.spotify.com/track/6Wz8i5kN8XCNSCflz6cXk7"
     },
     {
       "added_at": "2023-08-04 09:50:52",

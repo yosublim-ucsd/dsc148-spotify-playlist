@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 211578,
       "name": "Alag Aasmaan (Acoustic)",
       "url": "https://open.spotify.com/track/1gxmaTGnxEgZuV8485tevN"
@@ -474,6 +474,10 @@
         {
           "name": "Jubin Nautiyal",
           "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Saurabh Vaibhav",
+          "url": "https://open.spotify.com/artist/2f8BvXBGosWesY17nmZAGl"
         }
       ],
       "date_added": "2023-08-04",
@@ -2934,7 +2938,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 147130,
       "name": "Tu Hi Bataa",
       "url": "https://open.spotify.com/track/4fYXlzFQbUQtztEKRhZVZB"
@@ -3000,6 +3004,24 @@
       "duration_ms": 186000,
       "name": "Tu Jo Yahan",
       "url": "https://open.spotify.com/track/1fULK4j53eq4WKcf3HM49K"
+    },
+    {
+      "album": {
+        "name": "Tu Shaam aur Chai",
+        "url": "https://open.spotify.com/album/6ozGN0Q1iT85gOGAUw3jQU"
+      },
+      "artists": [
+        {
+          "name": "Shadaab Hashmi",
+          "url": "https://open.spotify.com/artist/6yNEY8VOMEzsD2bQZJdqEl"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Tu Shaam aur Chai",
+      "url": "https://open.spotify.com/track/4qpvCNIUdfT2ND2HEisUcZ"
     },
     {
       "album": {

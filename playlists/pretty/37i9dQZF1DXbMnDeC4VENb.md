@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,771 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,850 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 44 | [One Love](https://open.spotify.com/track/2SfnV0AOAn3e5id2Yg5qJz) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 2:50 |
 | 45 | [Huracán](https://open.spotify.com/track/5sbj4M33WaHilEaJAhRPp8) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Huracán](https://open.spotify.com/album/2u4KwCMykbRMaqSb3nM7Wq) | 4:15 |
 | 46 | [Dibújame](https://open.spotify.com/track/0RKglZdTQ7BLrs6vplb2qm) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Dibújame](https://open.spotify.com/album/46M0YKUmzyQm5yNAmqs3f0) | 3:56 |
-| 47 | [Stupid Love Story](https://open.spotify.com/track/4xMBLZtJz8WKzelM4bqJpv) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Rap Epico](https://open.spotify.com/album/2fSq489Gg9Z4HfIUESHuBX) | 4:42 |
+| 47 | [Stupid Love Story](https://open.spotify.com/track/1VIQPJc3fGfX23S6SD651l) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Apa y Can](https://open.spotify.com/album/4Qk0GRWSaErdxCk5jXXtlx) | 4:42 |
 | 48 | [LQRA Session \#5](https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [LQRA Session \#5](https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a) | 5:08 |
 | 49 | [Tienes el Don](https://open.spotify.com/track/2Jy1ib8MqDe2BoOoHvFxa6) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Inéditos](https://open.spotify.com/album/3i4B0RDk45Aaul2HKQxUPN) | 4:01 |
 | 50 | [Mírame Ma](https://open.spotify.com/track/6F4Q1QRbspGB4MrJHT1H1i) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 99 | [No Soy Tu Love](https://open.spotify.com/track/57yB8bNzHZGLtJDabybMux) | [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [No Soy Tu Love](https://open.spotify.com/album/3F3e6r4cH03ZzXWA3wTVl6) | 2:02 |
 | 100 | [Nuestro Silencio](https://open.spotify.com/track/1zraV8Jxi9Srk1VN0rcPTn) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Nuestro Silencio](https://open.spotify.com/album/7zNgzMXxxXMfhMjBkUUnhq) | 3:20 |
 
-Snapshot ID: `MCw3ZjczMTUxYWMwN2EzNmJiNWJmZTBhMTE3YzMwODk0ZDlhNGExZjMx`
+Snapshot ID: `MCxmMzcwZjY1ZTNmM2Y3M2FjMTBlZTllNTYwM2RhNzM5ZjNhN2Y5YTA5`

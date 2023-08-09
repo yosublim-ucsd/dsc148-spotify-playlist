@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 
 > Essential tracks from masterpiece RPG series, “SaGa”\. ゲーム史の変遷と共に歩み続け30年。数々の感動を生み続けるRPG「SaGa」シリーズの名曲たちをプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,772 likes - 61 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,781 likes - 61 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 | 3 | [Re:Tune \- BattleⅠmedley from Romancing Sa・Ga 1,2,3, Romancing SAGA \-Minstrel Song\-](https://open.spotify.com/track/576QpSTEtWoNKW6icx1vsF) | [Kenji Ito](https://open.spotify.com/artist/05xak22p0nXNtaOJP0Kx69) | [Re:Tune Romancing SaGa BATTLE ARRANGE](https://open.spotify.com/album/10V3Jy2SazIfzesm9CO2X9) | 4:37 |
 | 4 | [Warriors Ascendant](https://open.spotify.com/track/6JsYrqnECH6M4d99EhUH2n) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [The Final Fantasy Legend Original Soundtrack](https://open.spotify.com/album/7LDjAD01e982z9DianPcTK) | 1:18 |
 | 5 | [怒闘](https://open.spotify.com/track/73rLAxe7HOhwF5KxkMKdwm) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [サガ バトル楽曲集](https://open.spotify.com/album/1SqnXjk6kVPtv83Bg3pYaa) | 2:00 |
-| 6 | [メヌエット](https://open.spotify.com/track/0SXq7Pi3bJzdn0XFCH1Jzf) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [ROSE PERIOD \~ the BEST 2005\-2015 \~](https://open.spotify.com/album/3mnBiT2wzPt7jK4BJcUh8f) | 4:58 |
+| 6 | [メヌエット](https://open.spotify.com/track/0SXq7Pi3bJzdn0XFCH1Jzf) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [ROSE PERIOD ～ the BEST 2005\-2015 ～](https://open.spotify.com/album/3mnBiT2wzPt7jK4BJcUh8f) | 4:58 |
 | 7 | [Title Screen](https://open.spotify.com/track/4hDxRr66Ng7kFLePnI4H8j) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [ROMANCING SAGA \-Minstrel Song\- Original Soundtrack](https://open.spotify.com/album/28ndKr2rjZmyWR2WosCJWL) | 2:17 |
 | 8 | [Wipe Away Your Tears](https://open.spotify.com/track/56TNq3IlLcoX4mjAJS4cKW) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [ROMANCING SAGA \-Minstrel Song\- Original Soundtrack](https://open.spotify.com/album/28ndKr2rjZmyWR2WosCJWL) | 2:29 |
 | 9 | [Re:BirthⅡ\-Ren\- Ardent Rhythm](https://open.spotify.com/track/49mJ9tBmUIW8hQh5g6TfSY) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ\-Ren\- / ”SaGa” Battle Tracks Arrangement Album](https://open.spotify.com/album/0jhAjr4oA1dPecbny5AiXk) | 4:47 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 | 60 | [Rhapsody on a Theme of SaGa FRONTIER 2 \(1\)](https://open.spotify.com/track/7H4EyLUCTyxx1c5GOa3Aeg) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [Piano Pieces ”SF2” Rhapsody On a Theme of SaGa FRONTIER 2 \(2010 Edition\)](https://open.spotify.com/album/3II2BTx1jAXqS2MIHbTFYB) | 2:32 |
 | 61 | [”β”1:Botschaft](https://open.spotify.com/track/1gBftSuhkL3fECxz8qIX06) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [Piano Pieces ”SF2” Rhapsody On a Theme of SaGa FRONTIER 2 \(2010 Edition\)](https://open.spotify.com/album/3II2BTx1jAXqS2MIHbTFYB) | 2:02 |
 
-Snapshot ID: `MCw1MmExNDVhNWFhZjdlOGY4YzgyN2JlMGI3YjQ3NzI0Mzg0MDdmY2Iy`
+Snapshot ID: `MCw3MzU3MjNlOTM2ZmY0YmQ1YzkxOWVhNjgwNjkzOGZmNTQ5NjU4ODM0`

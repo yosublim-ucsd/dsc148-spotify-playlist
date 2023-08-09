@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Dark Divine
 
-[Spotify](https://open.spotify.com/user/spotify) - 699,064 likes - 62 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 699,208 likes - 62 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 61 | [Mandíbula de cristal](https://open.spotify.com/track/4fKLk7ozTNUL5FKkoaPnYZ) | [Satón](https://open.spotify.com/artist/5Nvf8jPVGMPh1reinByBW5) | [Mandíbula de cristal](https://open.spotify.com/album/0mcChwym101EPGE0CM24Ss) | 2:32 |
 | 62 | [Tightening The Screws](https://open.spotify.com/track/5FD0PEPZf11EsWdjhc3RH3) | [Afterbirth](https://open.spotify.com/artist/2ogyPQ5zxhMcMIwmHO8DUc) | [Tightening The Screws](https://open.spotify.com/album/7JmfPl5pThSZxK2vZ7tDAj) | 1:47 |
 
-Snapshot ID: `MCwyMmVhNDM0Y2MwYjY4NzA3N2RiZjU2ZjhjNDlhNGE4MTk2YWUwNTFi`
+Snapshot ID: `MCw1NWRlMzdhOGI2ZmY4NjczYTU2MmE0ZTcwZTI1ZmQ5ZDAwYjNlZDgz`

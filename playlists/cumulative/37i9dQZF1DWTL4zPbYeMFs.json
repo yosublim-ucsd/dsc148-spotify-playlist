@@ -1296,10 +1296,28 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 244920,
       "name": "Rum Whisky (From \"Vicky Donor\")",
       "url": "https://open.spotify.com/track/2IbvIRyVjgKOOTn3DJuOk9"
+    },
+    {
+      "album": {
+        "name": "Saj Ke",
+        "url": "https://open.spotify.com/album/73JIHgoqQgfNCgEfTxaIId"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152152,
+      "name": "Saj Ke",
+      "url": "https://open.spotify.com/track/0f2E2QWspTyRSygY4fx7Y8"
     },
     {
       "album": {

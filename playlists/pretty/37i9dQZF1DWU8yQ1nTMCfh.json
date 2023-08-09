@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Divisi\u00f3n Min\u00fascula",
-  "num_followers": 282073,
+  "num_followers": 282109,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWNkODk3MWUyYTU4NmJiODZlODNiZDFlZWIxMGU4ZWYwZmU4ZDI1",
+  "snapshot_id": "MCw3MzljMDhkM2RkYzZmOGQ1YTQ2NzdlNTk2NzUxNTY0NWY3N2QyMmJj",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -91,6 +91,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "El ataque de las chicas cocodrilo",
+        "url": "https://open.spotify.com/album/5VrsIoeYTTupAlat4oNpak"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 157833,
+      "name": "El ataque de las chicas cocodrilo",
+      "url": "https://open.spotify.com/track/4dy99PdH0CM3dbNUwJRoDw"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 258573,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "El ataque de las chicas cocodrilo",
-        "url": "https://open.spotify.com/album/5VrsIoeYTTupAlat4oNpak"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 157833,
-      "name": "El ataque de las chicas cocodrilo",
-      "url": "https://open.spotify.com/track/4dy99PdH0CM3dbNUwJRoDw"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "ECLIPSE",
-        "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 153837,
-      "name": "ECLIPSE",
-      "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "L\u00c1 L\u00c1",
         "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
       },
@@ -423,34 +407,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Abismo",
-        "url": "https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8"
+        "name": "ECLIPSE",
+        "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
       },
       "artists": [
         {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         }
       ],
-      "duration_ms": 173499,
-      "name": "Abismo",
-      "url": "https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "La Petite Mort",
-        "url": "https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "La Petite Mort",
-      "url": "https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd"
+      "duration_ms": 153837,
+      "name": "ECLIPSE",
+      "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -471,6 +439,38 @@
       "duration_ms": 172114,
       "name": "santos inocentes",
       "url": "https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "La Petite Mort",
+        "url": "https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 291106,
+      "name": "La Petite Mort",
+      "url": "https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Abismo",
+        "url": "https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 173499,
+      "name": "Abismo",
+      "url": "https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "DESEO INMORTAL",
-        "url": "https://open.spotify.com/album/0T0OKfBTUQlzqqYFS1b8Kv"
+        "name": "La Trampa",
+        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
       },
       "artists": [
         {
-          "name": "BR\u00dcNNE ROMEO",
-          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 170482,
-      "name": "SOLO QUIERO A MI MAM\u00c1",
-      "url": "https://open.spotify.com/track/3YEm3SszPXnPVLoNzgtM3j"
+      "duration_ms": 216184,
+      "name": "La Trampa",
+      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "La Trampa",
-        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
+        "name": "DESEO INMORTAL",
+        "url": "https://open.spotify.com/album/0T0OKfBTUQlzqqYFS1b8Kv"
       },
       "artists": [
         {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+          "name": "BR\u00dcNNE ROMEO",
+          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
         }
       ],
-      "duration_ms": 216184,
-      "name": "La Trampa",
-      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
+      "duration_ms": 170482,
+      "name": "SOLO QUIERO A MI MAM\u00c1",
+      "url": "https://open.spotify.com/track/3YEm3SszPXnPVLoNzgtM3j"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Esa Estrella",
-        "url": "https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo"
-      },
-      "artists": [
-        {
-          "name": "Silo\u00e9",
-          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
-        }
-      ],
-      "duration_ms": 238232,
-      "name": "Esa Estrella",
-      "url": "https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Mundo Extra\u00f1o",
         "url": "https://open.spotify.com/album/11emlvXuZrS8319yl6IW5r"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 183034,
       "name": "Mundo Extra\u00f1o",
       "url": "https://open.spotify.com/track/0hy08kvUwjuF40ai53TANQ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Esa Estrella",
+        "url": "https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+        }
+      ],
+      "duration_ms": 238232,
+      "name": "Esa Estrella",
+      "url": "https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -993,7 +993,7 @@
         }
       ],
       "duration_ms": 206615,
-      "name": "Plaza en el cielo",
+      "name": "Plaza En el Cielo",
       "url": "https://open.spotify.com/track/7gaonWEr5gnYx27N3JxZ2o"
     },
     {

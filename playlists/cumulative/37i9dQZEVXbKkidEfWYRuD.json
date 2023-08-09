@@ -1501,6 +1501,28 @@
     },
     {
       "album": {
+        "name": "BRAZILIAN DAN\u00c7A PHONK",
+        "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
+      },
+      "artists": [
+        {
+          "name": "6YNTHMANE",
+          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
+        },
+        {
+          "name": "RXDXVIL",
+          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118194,
+      "name": "BRAZILIAN DAN\u00c7A PHONK",
+      "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
+    },
+    {
+      "album": {
         "name": "\u0422\u0435\u0431\u044f \u043b\u044e\u0431\u044f\u0442 \u0442\u0430\u043c \u0433\u0434\u0435 \u043c\u0435\u043d\u044f \u043d\u0435\u0442",
         "url": "https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9"
       },
@@ -7556,7 +7578,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 211253,
       "name": "Nun id change",
       "url": "https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW"
@@ -13534,7 +13556,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 150638,
       "name": "\u0412\u0440\u043e\u0434\u043b\u0438\u0432\u0430",
       "url": "https://open.spotify.com/track/714gZqwzaj9MrjyDGPWq1c"
@@ -15634,7 +15656,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "\u0417\u0435\u0440\u043a\u0430\u043b\u043e",
       "url": "https://open.spotify.com/track/2PpAAi4RMQKof0Ya3JEJfU"
@@ -16986,7 +17008,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 145571,
       "name": "\u041c\u0430\u0434\u0430\u043c",
       "url": "https://open.spotify.com/track/7rc8ibFdLCFsoG9MlshpF2"
@@ -17112,7 +17134,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 120427,
       "name": "\u041c\u0430\u043d\u0456\u0444\u0435\u0441\u0442",
       "url": "https://open.spotify.com/track/0pWMr82unREASQGFJrrI5S"
@@ -20826,7 +20848,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 219600,
       "name": "\u0422\u0432\u043e\u0457 \u0422\u0430\u0442\u0443",
       "url": "https://open.spotify.com/track/5CJMAFKCUAPtADl74fzOBG"
@@ -22064,7 +22086,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 118762,
       "name": "\u0427\u0435\u043a\u0430\u044e \u043d\u0430 \u043d\u0456\u0447",
       "url": "https://open.spotify.com/track/6uwvm0ZMHCMVxE9XPU6UA5"

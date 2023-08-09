@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Back to Black",
+        "url": "https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9"
+      },
+      "artists": [
+        {
+          "name": "Sky Garden",
+          "url": "https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183674,
+      "name": "Back to Black",
+      "url": "https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi"
+    },
+    {
+      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/1o6Z13Usl6t73yQTLRVby7"
       },
@@ -420,6 +438,24 @@
       "duration_ms": 238500,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/25TzyGcqLbVgC0H0kpYRjM"
+    },
+    {
+      "album": {
+        "name": "Barbie Girl",
+        "url": "https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD"
+      },
+      "artists": [
+        {
+          "name": "Jill & Jane",
+          "url": "https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170931,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9"
     },
     {
       "album": {
@@ -954,6 +990,24 @@
       "duration_ms": 132024,
       "name": "Circles",
       "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
+    },
+    {
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA"
+      },
+      "artists": [
+        {
+          "name": "Ben & Tim",
+          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182952,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e"
     },
     {
       "album": {
@@ -1855,6 +1909,42 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x"
+      },
+      "artists": [
+        {
+          "name": "Claire McCarty",
+          "url": "https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169437,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c"
+    },
+    {
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Mitchell",
+          "url": "https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7"
+    },
+    {
+      "album": {
         "name": "Help!",
         "url": "https://open.spotify.com/album/2q3DDnj2Dob01ZHzlHVlVJ"
       },
@@ -2166,7 +2256,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 273727,
       "name": "I Can't Make You Love Me (feat. Nick Dow)",
       "url": "https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:   <a href="https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq?si=b34de8f3be7a4d91">Hillsong en Español</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,480 likes - 100 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,747 likes - 100 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 88 | [Buscando una Señal \(Reimagined\)](https://open.spotify.com/track/6rX9TQKXlw09RqewRHLSCG) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj) | [Buscando una Señal \(Reimagined\)](https://open.spotify.com/album/4h3p0gYx5Ti6VFHS9ACMZy) | 4:33 |
 | 89 | [Dame De Beber](https://open.spotify.com/track/4wfgyTSPuSLezpBiAji1jB) | [Adoración](https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2), [Elena Witt\-Guerra](https://open.spotify.com/artist/4zESLvdxWtqZP4qbQIO6ka) | [Adoración Vol\. 1](https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8) | 4:38 |
 | 90 | [Sobre La Roca \(con Miel San Marcos\)](https://open.spotify.com/track/4B131o1HkP5WvJDnJQrCTK) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sobre La Roca](https://open.spotify.com/album/2b8BeXIEru1tgbGnOFMAYR) | 3:36 |
-| 91 | [Cuánto Te Amo](https://open.spotify.com/track/2gQg3VWnidqgzPkJdKX6xC) | [Armando Sánchez](https://open.spotify.com/artist/0u5GpuQQC8Vr2l648shvcC), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV) | [Cuánto Te Amo](https://open.spotify.com/album/5d0sMnrH3htZ0VbppRhrJ6) | 4:58 |
+| 91 | [Cuánto Te Amo \- Versión Radio](https://open.spotify.com/track/1iilyuN3BpRCT2OYqpzfLQ) | [Armando Sanchez](https://open.spotify.com/artist/7q7TQRaFKtXF11dDH90IzI), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV) | [Cuánto Te Amo \(Versión Radio\)](https://open.spotify.com/album/3pMMO2wZVDpv2sWPFfbUjJ) | 4:58 |
 | 92 | [Adorarte](https://open.spotify.com/track/4UjiwbR78RsS1ZKASBNKCi) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Adorarte](https://open.spotify.com/album/0ORfXwWPcTgjSOl22fIyCE) | 4:45 |
 | 93 | [Te Veo](https://open.spotify.com/track/020ZLoCGgsXIEGKFA1tLmc) | [Patty Gleason](https://open.spotify.com/artist/2vLptSd6u5kZKCGBkXIJBJ), [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Te Veo](https://open.spotify.com/album/6SQxGNsYYsYKEFcjMLrg1l) | 5:47 |
 | 94 | [LEÓN \(LION\)](https://open.spotify.com/track/4gWEajZcRRCSbxkfkmesA5) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [LEÓN](https://open.spotify.com/album/1PFy3At4783o15yGZQleWZ) | 5:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [SÁNAME](https://open.spotify.com/track/1UZiL3hX8vaaeGQKM8TBlI) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp), [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W) | [SÁNAME](https://open.spotify.com/album/4s3FBPFKLVx7orSMIUdsOJ) | 3:41 |
 | 100 | [En Ti Esperamos](https://open.spotify.com/track/59Yp147e2KqyyMz3uZ3AJB) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [En Ti Esperamos](https://open.spotify.com/album/4q0sY1u8JRyXTnXIoWXroG) | 3:38 |
 
-Snapshot ID: `MCw0OTg0NThkYTk4NmM0NDA1YWU2Mzc4MWQxMmU3MWZjYzE5MjA4NTZj`
+Snapshot ID: `MCw4ZmU2MzRjYjA3MDVlMWQ5Zjc2NDIxYTllNWExMmUzZWQ3NDkzMmU3`

@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Alaskan Tapes on cover.",
-  "num_followers": 160592,
+  "num_followers": 160756,
   "original_name": "Ambient X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmFhMjUyZjQ0YTUyOTQ0M2JiZTdmNDUyNDljYjllMWQ0ZTZiOGVm",
+  "snapshot_id": "MCxjNzJkZTZhYWVlZTBkMjg3OGQyYTlmNDZhNzRkMWExNDg0M2Y4ZTA0",
   "tracks": [
     {
       "added_at": "2023-08-04 12:49:46",
@@ -647,6 +647,26 @@
     {
       "added_at": "2023-08-04 12:49:46",
       "album": {
+        "name": "Vapors",
+        "url": "https://open.spotify.com/album/7pmaEJKmCiewU5BDYlEiAo"
+      },
+      "artists": [
+        {
+          "name": "Lennart Altgenug",
+          "url": "https://open.spotify.com/artist/1gpe3l1VsbKu6qbFIj5ArO"
+        },
+        {
+          "name": "Still Restless",
+          "url": "https://open.spotify.com/artist/6AHEtmyMoioYHE2mEZWEl0"
+        }
+      ],
+      "duration_ms": 192283,
+      "name": "Vapors",
+      "url": "https://open.spotify.com/track/4GGdwZABjIFSnFGavhd7Ge"
+    },
+    {
+      "added_at": "2023-08-04 12:49:46",
+      "album": {
         "name": "Attract",
         "url": "https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 174855,
       "name": "Integration",
       "url": "https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ"
-    },
-    {
-      "added_at": "2023-08-04 12:49:46",
-      "album": {
-        "name": "Vapors",
-        "url": "https://open.spotify.com/album/7pmaEJKmCiewU5BDYlEiAo"
-      },
-      "artists": [
-        {
-          "name": "Lennart Altgenug",
-          "url": "https://open.spotify.com/artist/1gpe3l1VsbKu6qbFIj5ArO"
-        },
-        {
-          "name": "Still Restless",
-          "url": "https://open.spotify.com/artist/6AHEtmyMoioYHE2mEZWEl0"
-        }
-      ],
-      "duration_ms": 192283,
-      "name": "Vapors",
-      "url": "https://open.spotify.com/track/4GGdwZABjIFSnFGavhd7Ge"
     },
     {
       "added_at": "2023-08-04 12:49:46",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-08-04 12:49:46",
       "album": {
-        "name": "Minamo",
-        "url": "https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ"
-      },
-      "artists": [
-        {
-          "name": "Shingo Mimura",
-          "url": "https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Kiteki",
-      "url": "https://open.spotify.com/track/01Vg2gmX03mM3ku0MD9FKC"
-    },
-    {
-      "added_at": "2023-08-04 12:49:46",
-      "album": {
         "name": "Circle 37",
         "url": "https://open.spotify.com/album/5XKDsIv1XdMf1VLM2DtYU2"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 199881,
       "name": "Circle 37",
       "url": "https://open.spotify.com/track/2iTObOUJM22lmxonH1jOiO"
+    },
+    {
+      "added_at": "2023-08-04 12:49:46",
+      "album": {
+        "name": "Minamo",
+        "url": "https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ"
+      },
+      "artists": [
+        {
+          "name": "Shingo Mimura",
+          "url": "https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Kiteki",
+      "url": "https://open.spotify.com/track/01Vg2gmX03mM3ku0MD9FKC"
     },
     {
       "added_at": "2023-08-04 12:49:46",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-08-04 12:49:46",
       "album": {
-        "name": "No Highs",
-        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 155472,
-      "name": "Winter Cop",
-      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
-    },
-    {
-      "added_at": "2023-08-04 12:49:46",
-      "album": {
         "name": "Postcards for the Backyard, Pt. 1",
         "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 165701,
       "name": "Like We Were Dreaming All This Time, Pt. 1",
       "url": "https://open.spotify.com/track/3Gg40RY7rPkErByfnT4zGS"
+    },
+    {
+      "added_at": "2023-08-04 12:49:46",
+      "album": {
+        "name": "No Highs",
+        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 155472,
+      "name": "Winter Cop",
+      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
     },
     {
       "added_at": "2023-08-04 12:49:46",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-08-04 12:49:46",
       "album": {
+        "name": "Our True Nature",
+        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
+      },
+      "artists": [
+        {
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        }
+      ],
+      "duration_ms": 343666,
+      "name": "Abandoned Places",
+      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
+    },
+    {
+      "added_at": "2023-08-04 12:49:46",
+      "album": {
         "name": "Receiving",
         "url": "https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 427266,
       "name": "Receiving",
       "url": "https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r"
-    },
-    {
-      "added_at": "2023-08-04 12:49:46",
-      "album": {
-        "name": "Our True Nature",
-        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
-      },
-      "artists": [
-        {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
-        }
-      ],
-      "duration_ms": 343666,
-      "name": "Abandoned Places",
-      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
     },
     {
       "added_at": "2023-08-04 12:49:46",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-08-04 12:49:46",
       "album": {
-        "name": "waves (slowed)",
-        "url": "https://open.spotify.com/album/7wZqI02pwixf5GOUmQmeaa"
-      },
-      "artists": [
-        {
-          "name": "VIBIE",
-          "url": "https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh"
-        }
-      ],
-      "duration_ms": 209742,
-      "name": "waves (slowed) - Slowed",
-      "url": "https://open.spotify.com/track/3Q8bEu2sxcF5RTI9GaSHfK"
-    },
-    {
-      "added_at": "2023-08-04 12:49:46",
-      "album": {
         "name": "#3 (Rhubarb)",
         "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 437138,
       "name": "#3 (Rhubarb)",
       "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
+    },
+    {
+      "added_at": "2023-08-04 12:49:46",
+      "album": {
+        "name": "waves (slowed)",
+        "url": "https://open.spotify.com/album/7wZqI02pwixf5GOUmQmeaa"
+      },
+      "artists": [
+        {
+          "name": "VIBIE",
+          "url": "https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh"
+        }
+      ],
+      "duration_ms": 209742,
+      "name": "waves (slowed) - Slowed",
+      "url": "https://open.spotify.com/track/3Q8bEu2sxcF5RTI9GaSHfK"
     },
     {
       "added_at": "2023-08-04 12:49:46",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-08-04 12:49:46",
       "album": {
+        "name": "Afterpoem",
+        "url": "https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl"
+      },
+      "artists": [
+        {
+          "name": "Faten Kanaan",
+          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
+        }
+      ],
+      "duration_ms": 118897,
+      "name": "Fin ao\u00fbt, d\u00e9but septembre",
+      "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
+    },
+    {
+      "added_at": "2023-08-04 12:49:46",
+      "album": {
         "name": "All Our Friends Are Vampires",
         "url": "https://open.spotify.com/album/3IblJt2cBbWcuJsRIS2u3r"
       },
@@ -1347,38 +1363,6 @@
       "duration_ms": 295898,
       "name": "The Slow Descent Has Begun",
       "url": "https://open.spotify.com/track/1N9P04MtFQGlyRzmHsXcNl"
-    },
-    {
-      "added_at": "2023-08-04 12:49:46",
-      "album": {
-        "name": "anytime but now, anywhere but here",
-        "url": "https://open.spotify.com/album/200rDpm6JozrPaQLyYhGfD"
-      },
-      "artists": [
-        {
-          "name": "Paper Ocean",
-          "url": "https://open.spotify.com/artist/68XRCDJOwzgKgyX6AbPtlS"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "anytime but now, anywhere but here",
-      "url": "https://open.spotify.com/track/0umEY4Fv40aR1wtUljhJk6"
-    },
-    {
-      "added_at": "2023-08-04 12:49:46",
-      "album": {
-        "name": "Afterpoem",
-        "url": "https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl"
-      },
-      "artists": [
-        {
-          "name": "Faten Kanaan",
-          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
-        }
-      ],
-      "duration_ms": 118897,
-      "name": "Fin ao\u00fbt, d\u00e9but septembre",
-      "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
     },
     {
       "added_at": "2023-08-04 12:49:46",
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2023-08-04 12:49:46",
       "album": {
+        "name": "anytime but now, anywhere but here",
+        "url": "https://open.spotify.com/album/200rDpm6JozrPaQLyYhGfD"
+      },
+      "artists": [
+        {
+          "name": "Paper Ocean",
+          "url": "https://open.spotify.com/artist/68XRCDJOwzgKgyX6AbPtlS"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "anytime but now, anywhere but here",
+      "url": "https://open.spotify.com/track/0umEY4Fv40aR1wtUljhJk6"
+    },
+    {
+      "added_at": "2023-08-04 12:49:46",
+      "album": {
         "name": "Starlit Lake",
         "url": "https://open.spotify.com/album/0o3BzLWKCPllbznVgozHzg"
       },
@@ -1439,38 +1439,6 @@
     {
       "added_at": "2023-08-04 12:49:46",
       "album": {
-        "name": "Music For Growing Flowers",
-        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "Music For Growing Flowers - Pt. 7",
-      "url": "https://open.spotify.com/track/5OHJBp26mPT2GoemMDAFsg"
-    },
-    {
-      "added_at": "2023-08-04 12:49:46",
-      "album": {
-        "name": "Moving Mountains",
-        "url": "https://open.spotify.com/album/5R1yaDZkgjvbVH4obDl8gu"
-      },
-      "artists": [
-        {
-          "name": "Kilometre Club",
-          "url": "https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w"
-        }
-      ],
-      "duration_ms": 427250,
-      "name": "Moving Mountains",
-      "url": "https://open.spotify.com/track/2QteflXmGeZu4UagByNm8n"
-    },
-    {
-      "added_at": "2023-08-04 12:49:46",
-      "album": {
         "name": "Biologica, Volume One (Water)",
         "url": "https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq"
       },
@@ -1483,6 +1451,22 @@
       "duration_ms": 156073,
       "name": "12121",
       "url": "https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0"
+    },
+    {
+      "added_at": "2023-08-04 12:49:46",
+      "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "duration_ms": 295306,
+      "name": "Music For Growing Flowers - Pt. 7",
+      "url": "https://open.spotify.com/track/5OHJBp26mPT2GoemMDAFsg"
     },
     {
       "added_at": "2023-08-04 12:49:46",
@@ -1503,22 +1487,6 @@
     {
       "added_at": "2023-08-04 12:49:46",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/5shEy0r5JuKQR5QVFigHCV"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        }
-      ],
-      "duration_ms": 398413,
-      "name": "Invitation",
-      "url": "https://open.spotify.com/track/3i9W2kQtshKD8LRUdLsp23"
-    },
-    {
-      "added_at": "2023-08-04 12:49:46",
-      "album": {
         "name": "Isola",
         "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
       },
@@ -1531,26 +1499,6 @@
       "duration_ms": 315960,
       "name": "Vindheks",
       "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
-    },
-    {
-      "added_at": "2023-08-04 12:49:46",
-      "album": {
-        "name": "mirage",
-        "url": "https://open.spotify.com/album/37HAOoegcV1CJb3FTa6Rfp"
-      },
-      "artists": [
-        {
-          "name": "Blut Own",
-          "url": "https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH"
-        },
-        {
-          "name": "Riversilvers",
-          "url": "https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa"
-        }
-      ],
-      "duration_ms": 222002,
-      "name": "mirage",
-      "url": "https://open.spotify.com/track/0838bsUvamtzwHtOeDCjax"
     },
     {
       "added_at": "2023-08-04 12:49:46",
@@ -1587,6 +1535,22 @@
     {
       "added_at": "2023-08-04 12:49:46",
       "album": {
+        "name": "Moving Mountains",
+        "url": "https://open.spotify.com/album/5R1yaDZkgjvbVH4obDl8gu"
+      },
+      "artists": [
+        {
+          "name": "Kilometre Club",
+          "url": "https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w"
+        }
+      ],
+      "duration_ms": 427250,
+      "name": "Moving Mountains",
+      "url": "https://open.spotify.com/track/2QteflXmGeZu4UagByNm8n"
+    },
+    {
+      "added_at": "2023-08-04 12:49:46",
+      "album": {
         "name": "Introducing (Zazenkai Escape Ambient Re-Work)",
         "url": "https://open.spotify.com/album/2acOH83IutEkwFXvUBHXTV"
       },
@@ -1607,6 +1571,42 @@
     {
       "added_at": "2023-08-04 12:49:46",
       "album": {
+        "name": "mirage",
+        "url": "https://open.spotify.com/album/37HAOoegcV1CJb3FTa6Rfp"
+      },
+      "artists": [
+        {
+          "name": "Blut Own",
+          "url": "https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH"
+        },
+        {
+          "name": "Riversilvers",
+          "url": "https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa"
+        }
+      ],
+      "duration_ms": 222002,
+      "name": "mirage",
+      "url": "https://open.spotify.com/track/0838bsUvamtzwHtOeDCjax"
+    },
+    {
+      "added_at": "2023-08-04 12:49:46",
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/5shEy0r5JuKQR5QVFigHCV"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "duration_ms": 398413,
+      "name": "Invitation",
+      "url": "https://open.spotify.com/track/3i9W2kQtshKD8LRUdLsp23"
+    },
+    {
+      "added_at": "2023-08-04 12:49:46",
+      "album": {
         "name": "SOMNUM",
         "url": "https://open.spotify.com/album/4jRgORqYs9lqcNA3sHEbIG"
       },
@@ -1619,22 +1619,6 @@
       "duration_ms": 186368,
       "name": "Quietus",
       "url": "https://open.spotify.com/track/462xPwNdnOLE0yEAmbcgrO"
-    },
-    {
-      "added_at": "2023-08-04 12:49:46",
-      "album": {
-        "name": "The Notional Pastures Of Imaginary Softwoods",
-        "url": "https://open.spotify.com/album/0vvcrzqhK863dC57xgEk86"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Softwoods",
-          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
-        }
-      ],
-      "duration_ms": 118260,
-      "name": "Chalked Outlines Of A Polybius Square",
-      "url": "https://open.spotify.com/track/2rA03vls6ZXmEfPPj1Qjml"
     },
     {
       "added_at": "2023-08-04 12:49:46",
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2023-08-04 12:49:46",
       "album": {
-        "name": "Dependent",
-        "url": "https://open.spotify.com/album/5JbxW4BC3aNcqI5waUS1ny"
+        "name": "The Notional Pastures Of Imaginary Softwoods",
+        "url": "https://open.spotify.com/album/0vvcrzqhK863dC57xgEk86"
       },
       "artists": [
         {
-          "name": "Christopher Galovan",
-          "url": "https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c"
+          "name": "Imaginary Softwoods",
+          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
         }
       ],
-      "duration_ms": 192914,
-      "name": "Dependent",
-      "url": "https://open.spotify.com/track/6Rps2y2XjwvC2SVlpxvMna"
+      "duration_ms": 118260,
+      "name": "Chalked Outlines Of A Polybius Square",
+      "url": "https://open.spotify.com/track/2rA03vls6ZXmEfPPj1Qjml"
     },
     {
       "added_at": "2023-08-04 12:49:46",
@@ -1703,6 +1687,22 @@
       "duration_ms": 215839,
       "name": "COLLAB 2",
       "url": "https://open.spotify.com/track/1RkVUePGReLWiTP2nfObbX"
+    },
+    {
+      "added_at": "2023-08-04 12:49:46",
+      "album": {
+        "name": "Dependent",
+        "url": "https://open.spotify.com/album/5JbxW4BC3aNcqI5waUS1ny"
+      },
+      "artists": [
+        {
+          "name": "Christopher Galovan",
+          "url": "https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c"
+        }
+      ],
+      "duration_ms": 192914,
+      "name": "Dependent",
+      "url": "https://open.spotify.com/track/6Rps2y2XjwvC2SVlpxvMna"
     },
     {
       "added_at": "2023-08-04 12:49:46",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2023-08-04 12:49:46",
       "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 447000,
+      "name": "25\u00b0C",
+      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
+    },
+    {
+      "added_at": "2023-08-04 12:49:46",
+      "album": {
         "name": "Music For Growing Flowers",
         "url": "https://open.spotify.com/album/15xCuPMi8UqL86dH6FCykt"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 368703,
       "name": "Music For Growing Flowers - Edit",
       "url": "https://open.spotify.com/track/0lcI9iucqPdKXa7AL48zaN"
-    },
-    {
-      "added_at": "2023-08-04 12:49:46",
-      "album": {
-        "name": "Flur",
-        "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
-      },
-      "artists": [
-        {
-          "name": "Martin Kohlstedt",
-          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
-        }
-      ],
-      "duration_ms": 301189,
-      "name": "JUL",
-      "url": "https://open.spotify.com/track/4RIJQDx8lM9fPDDdBH4YUh"
     }
   ],
   "unique_name": "Ambient X",

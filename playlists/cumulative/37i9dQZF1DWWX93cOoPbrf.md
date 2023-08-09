@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2023\. La Adictiva & Gabito Ballesteros en portada.
 
-733 songs - 1 day 13 hr 38 min
+734 songs - 1 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [El Callado](https://open.spotify.com/track/51tc4qhcssnwHV683Pq8H3) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Callado](https://open.spotify.com/album/4hVjflE1kDLzwLNOtDsNq9) | 2:58 | 2022-08-05 | 2022-09-24 |
 | [El Calorcito \(En Vivo\)](https://open.spotify.com/track/4htlay50ggoEUbctmllJs9) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Chachito](https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ) | [El Calorcito \(En Vivo\)](https://open.spotify.com/album/1Xvm21HcyuFwCEyunMgEA3) | 2:54 | 2022-08-29 | 2022-10-15 |
 | [El Canelo](https://open.spotify.com/track/6QS5NH5nsU6WT5rOc2HMSp) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Emmanuel Delgado](https://open.spotify.com/artist/0DdtXiP9thBdEr62EwYYOy) | [El Canelo](https://open.spotify.com/album/6SM6UFkLSFLL8MKKyvDOCU) | 2:38 | 2022-09-09 | 2022-09-24 |
+| [El Cartel](https://open.spotify.com/track/3QDZ8JRgs2iKp3yejxpSaU) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [El Cartel](https://open.spotify.com/album/0HqCmk2VoIZHC93BcseRpE) | 3:35 | 2023-08-08 |  |
 | [El Cazador](https://open.spotify.com/track/0KfQzMg2pM2PiUC8nQQpaS) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [El Cazador](https://open.spotify.com/album/1YRxwW217isKxKJT1hT79y) | 2:26 | 2022-09-30 | 2022-10-22 |
 | [El Centenario](https://open.spotify.com/track/5T2ClcweuA1RK00ZdKbQl1) | [Banda 30 Treinta](https://open.spotify.com/artist/6isZ0Wm24pVjECv8TcgmQ3), [Grupo Delta Norteño](https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG) | [El Centenario](https://open.spotify.com/album/5T6PJJwMvjY5Qi1zK9dKhV) | 2:35 | 2023-08-04 |  |
 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 | 2022-12-16 | 2023-02-25 |
@@ -380,7 +381,7 @@
 | [Gente del Nini](https://open.spotify.com/track/6pw1JhdFisuezjcr4DwJXY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Gente del Nini](https://open.spotify.com/album/1LRhDW3RKbXS0jCgl7Y1R8) | 3:31 | 2023-06-09 |  |
 | [Gente Fina](https://open.spotify.com/track/2sowOY6PNHB8gFLIfOR54Y) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Gente Fina](https://open.spotify.com/album/3xxV96QsW7EzKED8GlGrW7) | 2:59 | 2022-12-23 | 2023-01-28 |
 | [Gente Salazar](https://open.spotify.com/track/4GDaJOnlb3HLoH6HnVj3JH) | [Kompa Marley](https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea), [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [Gente Salazar](https://open.spotify.com/album/1B7rjWtANa4Wtv4Zcil1kn) | 2:18 | 2023-04-28 | 2023-05-06 |
-| [GMG 2](https://open.spotify.com/track/7wLnexGfCn9hqHM1DQpTMw) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [GMG 2](https://open.spotify.com/album/0qncGUU7n2XOlSu1PNuSvy) | 2:54 | 2023-08-04 |  |
+| [GMG 2](https://open.spotify.com/track/7wLnexGfCn9hqHM1DQpTMw) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [GMG 2](https://open.spotify.com/album/0qncGUU7n2XOlSu1PNuSvy) | 2:54 | 2023-08-04 | 2023-08-09 |
 | [Golpes De La Vida](https://open.spotify.com/track/1tRweipg9OAhZbsSCDhGg0) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/26wkRvTr3hzG0xXgPpcg9f) | 3:42 | 2023-02-03 | 2023-04-09 |
 | [Gordo Michis \(En Vivo\)](https://open.spotify.com/track/5sak5bVVVKx6M0uqVu7qGb) | [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Gordo Michis \(En Vivo\)](https://open.spotify.com/album/31oHGBQLvNZUgagcK5b7LB) | 2:34 | 2023-02-17 | 2023-03-04 |
 | [Gordo Pesado](https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Gordo Pesado](https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF) | 3:34 | 2022-10-07 | 2022-11-12 |

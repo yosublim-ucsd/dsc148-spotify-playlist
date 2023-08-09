@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1s humano",
+        "url": "https://open.spotify.com/album/5K2EDr2gJWAwfk4fNMmFYO"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "M\u00e1s humano",
+      "url": "https://open.spotify.com/track/4A5ikwMNsH1LujHkVzo693"
+    },
+    {
+      "album": {
         "name": "Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
       },
@@ -823,6 +841,24 @@
     },
     {
       "album": {
+        "name": "qu\u00e9 tal te va??",
+        "url": "https://open.spotify.com/album/5SRpkRTktR45a6LnckxzFU"
+      },
+      "artists": [
+        {
+          "name": "Hey Kid",
+          "url": "https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "qu\u00e9 tal te va??",
+      "url": "https://open.spotify.com/track/5CoyINOf5MRUEOqLMuxtTc"
+    },
+    {
+      "album": {
         "name": "Superclean, Vol. II",
         "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
       },
@@ -890,7 +926,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166750,
-      "name": "Si nos vamos",
+      "name": "Si Nos Vamos",
       "url": "https://open.spotify.com/track/1PssPMY2c6vBIdfipUMR3X"
     },
     {

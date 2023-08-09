@@ -1108,10 +1108,32 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 190163,
       "name": "Gone",
       "url": "https://open.spotify.com/track/0Ly2USSlv6gnBItSVuhhhS"
+    },
+    {
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/7FN0QULsCBraxMAMNofZw9"
+      },
+      "artists": [
+        {
+          "name": "sober rob",
+          "url": "https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF"
+        },
+        {
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190163,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/64PwbtJeRF3iLIQyjqEyzl"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: ODESZA & Yellow House",
-  "num_followers": 861116,
+  "num_followers": 861208,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDRjNGZmYmE5MGYyYmVkZmFhNjcwNmQ3NWNlMTQyYjM1MzMwNjQ2",
+  "snapshot_id": "MCw5MDVkZmJhZDA5NTI5ODI0ZmNlYjdkZDBkMjUxY2ZmMDUxZTE0MWI0",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-04-14 03:54:18",
       "album": {
-        "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
       },
       "artists": [
         {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
         }
       ],
-      "duration_ms": 240053,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
+      "duration_ms": 194594,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
     },
     {
       "added_at": "2023-06-09 14:15:06",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-04-14 03:54:18",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
       },
       "artists": [
         {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
         }
       ],
-      "duration_ms": 194594,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
     },
     {
       "added_at": "2023-04-21 17:35:52",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Wait For It",
-        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        }
-      ],
-      "duration_ms": 239668,
-      "name": "Wait For It",
-      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
-    },
-    {
       "added_at": "2023-03-10 15:28:12",
       "album": {
         "name": "Assumptions (Kaytranada Edit)",
@@ -719,6 +703,22 @@
       "duration_ms": 288097,
       "name": "Assumptions - Kaytranada Edit",
       "url": "https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Wait For It",
+        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "duration_ms": 239668,
+      "name": "Wait For It",
+      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -785,6 +785,26 @@
       "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
     },
     {
+      "added_at": "2023-03-10 15:28:12",
+      "album": {
+        "name": "CooCool",
+        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
+    },
+    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Light Places",
@@ -823,26 +843,6 @@
       "duration_ms": 345310,
       "name": "Peach",
       "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
-    },
-    {
-      "added_at": "2023-03-10 15:28:12",
-      "album": {
-        "name": "CooCool",
-        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 271112,
-      "name": "CooCool",
-      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
     },
     {
       "added_at": "2023-07-10 13:50:12",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/4rMWnKX4szJV3k2FATLdnR"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "It's Euphoric",
-        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "It\u2019s Euphoric",
-      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Can\u2019t Let You Go",
@@ -1111,6 +1095,22 @@
       "duration_ms": 173000,
       "name": "Can\u2019t Let You Go",
       "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "It's Euphoric",
+        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "It\u2019s Euphoric",
+      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1157,26 +1157,6 @@
       "url": "https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM"
     },
     {
-      "added_at": "2023-07-14 14:00:00",
-      "album": {
-        "name": "Let's Break It Down",
-        "url": "https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Let's Break It Down",
-      "url": "https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Differences",
@@ -1195,6 +1175,26 @@
       "duration_ms": 140806,
       "name": "Differences",
       "url": "https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw"
+    },
+    {
+      "added_at": "2023-07-14 14:00:00",
+      "album": {
+        "name": "Let's Break It Down",
+        "url": "https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Let's Break It Down",
+      "url": "https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/3X0r6QZjpgWyMbyCBCvBX0"
     },
     {
-      "added_at": "2023-07-14 14:00:00",
-      "album": {
-        "name": "Time To Run",
-        "url": "https://open.spotify.com/album/4hDuBgVAlRGJT5Bv1wWeoq"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Time To Run",
-      "url": "https://open.spotify.com/track/7kcGTBLBblNXP2tSs49s5k"
-    },
-    {
       "added_at": "2023-07-10 13:50:12",
       "album": {
         "name": "JOY (Head To The Sky)",
@@ -1359,6 +1343,22 @@
       "duration_ms": 230650,
       "name": "JOY (Head To The Sky)",
       "url": "https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo"
+    },
+    {
+      "added_at": "2023-07-14 14:00:00",
+      "album": {
+        "name": "Time To Run",
+        "url": "https://open.spotify.com/album/4hDuBgVAlRGJT5Bv1wWeoq"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Time To Run",
+      "url": "https://open.spotify.com/track/7kcGTBLBblNXP2tSs49s5k"
     },
     {
       "added_at": "2023-06-30 17:41:56",
@@ -1469,6 +1469,26 @@
       "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
     },
     {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Millionaire (feat. Andr\u00e9 3000)",
+      "url": "https://open.spotify.com/track/1mVTQSGoFchL3VVrIa0MeH"
+    },
+    {
       "added_at": "2023-04-28 05:14:56",
       "album": {
         "name": "Replacements (feat. La Roux)",
@@ -1505,24 +1525,20 @@
       "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Tasty",
-        "url": "https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go"
+        "name": "TANZPARTEI (Mixtape)",
+        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
       },
       "artists": [
         {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        },
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
         }
       ],
-      "duration_ms": 224933,
-      "name": "Millionaire (feat. Andr\u00e9 3000)",
-      "url": "https://open.spotify.com/track/1mVTQSGoFchL3VVrIa0MeH"
+      "duration_ms": 214545,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ"
     },
     {
       "added_at": "2023-06-09 14:15:06",
@@ -1539,22 +1555,6 @@
       "duration_ms": 231105,
       "name": "All The Things We Say",
       "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "TANZPARTEI (Mixtape)",
-        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1709,22 +1709,6 @@
       "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "I Been Young",
-        "url": "https://open.spotify.com/album/02uBAyWPtbh8XDDjn7kUUh"
-      },
-      "artists": [
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
-        }
-      ],
-      "duration_ms": 299687,
-      "name": "I Been Young",
-      "url": "https://open.spotify.com/track/54rNIPcl3M51J42P1C7NNX"
-    },
-    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Awesome Ways",
@@ -1743,6 +1727,22 @@
       "duration_ms": 188000,
       "name": "Awesome Ways",
       "url": "https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "I Been Young",
+        "url": "https://open.spotify.com/album/02uBAyWPtbh8XDDjn7kUUh"
+      },
+      "artists": [
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        }
+      ],
+      "duration_ms": 299687,
+      "name": "I Been Young",
+      "url": "https://open.spotify.com/track/54rNIPcl3M51J42P1C7NNX"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1801,6 +1801,22 @@
       "url": "https://open.spotify.com/track/4Wk3Z6fgpLepeL7LyPe1VI"
     },
     {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/0oOE9Z7LjLiK6vAsEmcSUR"
+      },
+      "artists": [
+        {
+          "name": "Bentley",
+          "url": "https://open.spotify.com/artist/6Ox8G4tTgD4GPKQjejXpDF"
+        }
+      ],
+      "duration_ms": 199175,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/7rrPANmUDxWbA9e6rtenLa"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Sunshine",
@@ -1819,22 +1835,6 @@
       "duration_ms": 209060,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1hCnHgozKGG5vTlaDG0GU1"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Everybody",
-        "url": "https://open.spotify.com/album/0oOE9Z7LjLiK6vAsEmcSUR"
-      },
-      "artists": [
-        {
-          "name": "Bentley",
-          "url": "https://open.spotify.com/artist/6Ox8G4tTgD4GPKQjejXpDF"
-        }
-      ],
-      "duration_ms": 199175,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/7rrPANmUDxWbA9e6rtenLa"
     }
   ],
   "unique_name": "metropolis",

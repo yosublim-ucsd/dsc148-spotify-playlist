@@ -1,12 +1,12 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2270780,
+  "num_followers": 2271430,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODIzOGFmMWU1OGEzYjI3NmQyNWZjM2EyYmJmN2NlN2M0MjMzODg5",
+  "snapshot_id": "MCw3MjViOTlmMWE0NTFkZWNhNTAzMDc4NzZmOTI2MTk4ZmMxZWUzZmI5",
   "tracks": [
     {
       "added_at": "2023-07-25 16:36:34",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
+        "name": "Might Love Myself",
+        "url": "https://open.spotify.com/album/0ljuBtTppOSas8ZE46yLwa"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "Might Love Myself",
+      "url": "https://open.spotify.com/track/16Wp9vdeUWQSESvgYFhksa"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
         "name": "Asking Alexandria",
         "url": "https://open.spotify.com/album/6NVy2LKa43nSPUOMrL4NW6"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 245861,
       "name": "Alone In A Room",
       "url": "https://open.spotify.com/track/5Gw8owErJLfkNxWCSwPQKJ"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
-        "name": "ATTENTION ATTENTION",
-        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "DEVIL",
-      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Might Love Myself",
-        "url": "https://open.spotify.com/album/0ljuBtTppOSas8ZE46yLwa"
+        "name": "ATTENTION ATTENTION",
+        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
         }
       ],
-      "duration_ms": 219973,
-      "name": "Might Love Myself",
-      "url": "https://open.spotify.com/track/16Wp9vdeUWQSESvgYFhksa"
+      "duration_ms": 207986,
+      "name": "DEVIL",
+      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -759,6 +759,22 @@
       "duration_ms": 219720,
       "name": "Dance Macabre",
       "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Dark Void",
+        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Dark Void",
+      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -823,22 +839,6 @@
       "duration_ms": 172826,
       "name": "When Legends Rise",
       "url": "https://open.spotify.com/track/1Si7crvw1M6Kgz9XiAtMiJ"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
-        "name": "Dark Void",
-        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "Dark Void",
-      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
+        "name": "Five",
+        "url": "https://open.spotify.com/album/56CWTHCr8ZBZ1ojmppH5br"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 187654,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/2ouOVzQTzSsLa2OH1Zxhvu"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
         "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
         "url": "https://open.spotify.com/album/0aYSKCa9w1LcDSbBNfdS4d"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 268744,
       "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
       "url": "https://open.spotify.com/track/7qDVR7dlgSBpHPw7tqcO3d"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
-        "name": "Five",
-        "url": "https://open.spotify.com/album/56CWTHCr8ZBZ1ojmppH5br"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 187654,
-      "name": "Whatever It Takes",
-      "url": "https://open.spotify.com/track/2ouOVzQTzSsLa2OH1Zxhvu"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Outsider",
-        "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "Infra-Red",
-      "url": "https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Gravity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 223653,
       "name": "Letting You Go",
       "url": "https://open.spotify.com/track/4h7Sc2UWOxz07UmQ60kQNQ"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Outsider",
+        "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "Infra-Red",
+      "url": "https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Dark Before Dawn",
-        "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Never Again",
-      "url": "https://open.spotify.com/track/07huQEWGQAe7aJaeR08Cag"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Violent Allies",
         "url": "https://open.spotify.com/album/34nWFoHeBOhMZG7iC4AAtW"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 180691,
       "name": "The Shift",
       "url": "https://open.spotify.com/track/4kRDWcWcBlkcQNoWyWSkTg"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Dark Before Dawn",
+        "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Never Again",
+      "url": "https://open.spotify.com/track/07huQEWGQAe7aJaeR08Cag"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Above It All",
-        "url": "https://open.spotify.com/album/2jxgnbGZr6SPMkwvFYQHVi"
-      },
-      "artists": [
-        {
-          "name": "Saint Asonia",
-          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
-        }
-      ],
-      "duration_ms": 199433,
-      "name": "Above It All",
-      "url": "https://open.spotify.com/track/5AKfYnfxrnTTU77z69Zb7K"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Good F**King Music",
         "url": "https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 206433,
       "name": "Good F**King Music",
       "url": "https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Above It All",
+        "url": "https://open.spotify.com/album/2jxgnbGZr6SPMkwvFYQHVi"
+      },
+      "artists": [
+        {
+          "name": "Saint Asonia",
+          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
+        }
+      ],
+      "duration_ms": 199433,
+      "name": "Above It All",
+      "url": "https://open.spotify.com/track/5AKfYnfxrnTTU77z69Zb7K"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 249050,
-      "name": "As Above, So Below",
-      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "MANTRA",
         "url": "https://open.spotify.com/album/5V4SjUDKVzGxIJDxIHfOZ3"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 233297,
       "name": "MANTRA",
       "url": "https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 249050,
+      "name": "As Above, So Below",
+      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -2063,18 +2063,18 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Set Fazers",
-        "url": "https://open.spotify.com/album/1fZ1mUfz95fU8yXVHkWv3K"
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj"
       },
       "artists": [
         {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
         }
       ],
-      "duration_ms": 195320,
-      "name": "Set Fazers",
-      "url": "https://open.spotify.com/track/1cFTzMVTrgYTXT6Ed4KsRr"
+      "duration_ms": 200800,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Restoring Force",
         "url": "https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 193493,
       "name": "Feels Like Forever",
       "url": "https://open.spotify.com/track/3iPMVDlzpkXuYkvsa1PRQj"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Set Fazers",
+        "url": "https://open.spotify.com/album/1fZ1mUfz95fU8yXVHkWv3K"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Set Fazers",
+      "url": "https://open.spotify.com/track/1cFTzMVTrgYTXT6Ed4KsRr"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Big Tings",
-        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 196051,
-      "name": "That's My Jam",
-      "url": "https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Nonpoint",
         "url": "https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN"
       },
@@ -2263,6 +2247,22 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
+        "name": "Big Tings",
+        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 196051,
+      "name": "That's My Jam",
+      "url": "https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/29q56s9HFBRPKUmSfkeFZx"
       },
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "The Return",
-        "url": "https://open.spotify.com/album/0p2wgx7HXyO12OqELfMTiA"
-      },
-      "artists": [
-        {
-          "name": "Nonpoint",
-          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
-        }
-      ],
-      "duration_ms": 174546,
-      "name": "Breaking Skin",
-      "url": "https://open.spotify.com/track/3uleUeZ5eyYCNGiwcc1Exp"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Idol (feat. Tech N9ne)",
         "url": "https://open.spotify.com/album/6UXqIJqZInWaAQ71rcAWeU"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 225026,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/0p2wgx7HXyO12OqELfMTiA"
+      },
+      "artists": [
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        }
+      ],
+      "duration_ms": 174546,
+      "name": "Breaking Skin",
+      "url": "https://open.spotify.com/track/3uleUeZ5eyYCNGiwcc1Exp"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/0U9V1fSmA5lSYTsYh99AQm"
-      },
-      "artists": [
-        {
-          "name": "Nonpoint",
-          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "Chaos And Earthquakes",
-      "url": "https://open.spotify.com/track/4j7jkCdab3vYmw0suZnt0X"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "The Black Swan",
         "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 251560,
       "name": "Here Comes The Boom",
       "url": "https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/0hv4ptwIKaqtDrLBXV2qMr"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "duration_ms": 164990,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/5YtuCpItTVgET1biEqJsqE"
     }
   ],
   "unique_name": "Adrenaline Workout",

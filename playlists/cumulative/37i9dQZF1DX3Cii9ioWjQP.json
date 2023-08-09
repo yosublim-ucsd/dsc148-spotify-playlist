@@ -544,10 +544,32 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 279192,
       "name": "Close my eyes",
       "url": "https://open.spotify.com/track/0jNqyuk278VsrMjcAUzAzZ"
+    },
+    {
+      "album": {
+        "name": "\ub208\uc744 \uac10\uc544",
+        "url": "https://open.spotify.com/album/7hgBz0OV4R4A0FIndK6i1c"
+      },
+      "artists": [
+        {
+          "name": "Park Sung Il",
+          "url": "https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7"
+        },
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279192,
+      "name": "Close my eyes",
+      "url": "https://open.spotify.com/track/6WTMDGgiLy5yOApHte6a12"
     },
     {
       "album": {
@@ -1086,10 +1108,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 195413,
       "name": "Late Autumn",
       "url": "https://open.spotify.com/track/3mi9ZwNuK4rG3nVyAZJajb"
+    },
+    {
+      "album": {
+        "name": "Late Autumn",
+        "url": "https://open.spotify.com/album/4VkQFeNsVftX92t9LDphLk"
+      },
+      "artists": [
+        {
+          "name": "\ud5e4\ub354",
+          "url": "https://open.spotify.com/artist/72FPeJpnV2CQjdHRbrpehd"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195413,
+      "name": "Late Autumn",
+      "url": "https://open.spotify.com/track/5HJu3wKHXUdcOs0wnjpNJQ"
     },
     {
       "album": {

@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 159493,
       "name": "Ultra Attack",
       "url": "https://open.spotify.com/track/1sMQ7tHNtu0TbE8L15EC2h"
@@ -3854,6 +3854,24 @@
       "duration_ms": 161519,
       "name": "\u0639\u0631\u0641\u0629",
       "url": "https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0633\u0627\u0641",
+        "url": "https://open.spotify.com/album/2peaPoRtPE3UtRMUTCdMOW"
+      },
+      "artists": [
+        {
+          "name": "Mostafa Elnesr",
+          "url": "https://open.spotify.com/artist/3qMttOQzAJd5k3kbFPurvA"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168013,
+      "name": "\u0639\u0633\u0627\u0641",
+      "url": "https://open.spotify.com/track/4rmGLKTCLKNVvc6a4WFKOd"
     },
     {
       "album": {

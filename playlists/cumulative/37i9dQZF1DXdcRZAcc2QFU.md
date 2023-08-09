@@ -2,7 +2,7 @@
 
 ### [90s Dance Bollywood](https://open.spotify.com/playlist/37i9dQZF1DXdcRZAcc2QFU)
 
-> Get jiggy with 90s 'dhinchak' beats\. Cover \- Dil Se
+> Get jiggy with 90s 'dhinchak' beats\. Cover \- China Gate
 
 116 songs - 11 hr 33 min
 

@@ -4,7 +4,7 @@
 
 > 150%
 
-250 songs - 11 hr 5 min
+251 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Alternative Girl \(Sped Up + Reverb\)](https://open.spotify.com/track/1smghCB7wGjb4Spg0IocM1) | [Mix The Take](https://open.spotify.com/artist/6vrA33ZpKXZ0xXng1H0Frg) | [Alternative Girl \(Slowed/Sped Up + Reverb\)](https://open.spotify.com/album/07Q2bdlMtshCPpC1gG5YGv) | 2:06 | 2022-06-09 | 2022-07-23 |
 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \- Sped Up](https://open.spotify.com/track/6USCIAcTHT2RMom8qXqMyk) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [FAST X \(Sped Up / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nWrdoW9h7NJhk2Bt2rMPO) | 2:26 | 2023-06-09 | 2023-06-30 |
 | [Atlantis \- Extra Sped Up Version](https://open.spotify.com/track/3u6PxWema1snbjLbFEyjkJ) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Atlantis](https://open.spotify.com/album/16Q4jVtBWq9UNO78ZLOvwk) | 3:10 | 2022-08-12 |  |
+| [Automotivo Bibi Fogosa \- Speed Up](https://open.spotify.com/track/0aSz9VMu18LrwN8u8tYaXr) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3) | [Automotivo Bibi Fogosa \(Speed Up\)](https://open.spotify.com/album/2Qj9krbUkUECNmAJefl9Q3) | 1:40 | 2023-08-08 |  |
 | [AVA \(Sped Up\)](https://open.spotify.com/track/3Jb00jDoYOA7xHq4L2mWpZ) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA \(Sped Up\)](https://open.spotify.com/album/0jTLi50ltr0l8mIBS5XM9e) | 2:17 | 2022-12-05 | 2023-01-28 |
 | [AYANO \- Speed Up](https://open.spotify.com/track/13laoPfypXtxTIy4zg9mhG) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [AYANO \(Speed Up\)](https://open.spotify.com/album/1dA3OfbB8DUNk9w7d1Dwr1) | 1:48 | 2022-09-09 | 2022-09-23 |
 | [B.O.T.A\. \(Baddest Of Them All\) \[feat\. Eliza Rose & Interplanetary Criminal\] \[Sped Up Version\]](https://open.spotify.com/track/4PwGpbqCyhmRdF8PjD4w79) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\) \[feat\. Eliza Rose & Interplanetary Criminal\] \[Sped Up Version\]](https://open.spotify.com/album/2I2owsGfmBSq0bZPxD6dN9) | 3:09 | 2022-11-22 |  |

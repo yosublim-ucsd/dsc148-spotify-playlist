@@ -22141,6 +22141,24 @@
     },
     {
       "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "album": {
         "name": "Painting Pictures",
         "url": "https://open.spotify.com/album/1XciNWcYMtjVEjgEQXXxSN"
       },
@@ -28314,7 +28332,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
@@ -28548,7 +28566,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 184888,
       "name": "THANK GOD",
       "url": "https://open.spotify.com/track/1PH2MDbcBAU094DlgTIND1"
@@ -29380,6 +29398,24 @@
       "duration_ms": 90447,
       "name": "Traum_V2",
       "url": "https://open.spotify.com/track/714u8kwDsxE4Jdv5QVmMkt"
+    },
+    {
+      "album": {
+        "name": "Trauma",
+        "url": "https://open.spotify.com/album/3CFUrFdDvHJYy6NlliWckh"
+      },
+      "artists": [
+        {
+          "name": "Robert F",
+          "url": "https://open.spotify.com/artist/37f5oNoY6JMaVF3DqZhJWl"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144069,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/4hIWhw105H1XMqlcEGvkbc"
     },
     {
       "album": {

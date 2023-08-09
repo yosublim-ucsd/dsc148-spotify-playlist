@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Ruger
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,883 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,935 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [If U Fall](https://open.spotify.com/track/4pjSVYnxltm23BRjfDoA2q) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [If U Fall](https://open.spotify.com/album/76xbewSXevqMGgMTI2WQBb) | 2:36 |
 | 50 | [Babyjet](https://open.spotify.com/track/6GNugjWdqd1eZQYDTyE5ch) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP) | [Ik Zie Je](https://open.spotify.com/album/6ih8KxlsA7M5a2gWikbPWP) | 3:40 |
 
-Snapshot ID: `MCw3NTg2MmZkMjYzNTdjM2JiM2JhY2IxNjVhYjljNjVlYTk1YWUxYjRj`
+Snapshot ID: `MCwxMzgyNzU0ZTlkNDgwZGRmMmY3ZDYzNTBmZTY3MThiYzcyMjcyODcy`

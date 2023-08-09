@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 120978,
+  "num_followers": 121050,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGNiNjE3YjZlOGVlZmIwYTFhOGE4Yzc2ZmE3MWM2NzQ2MzUyMzZh",
+  "snapshot_id": "MCxhYzY4MjJlNmVjOTg1YjM2YTlmMzk2MjBjYWUzNDM0ZGIwNzY0Y2My",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 439714,
-      "name": "Just Want You - Live",
-      "url": "https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Rest On Us",
         "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 209739,
       "name": "Rest On Us",
       "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 439714,
+      "name": "Just Want You - Live",
+      "url": "https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Eyes On You (Live)",
-        "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 233947,
-      "name": "Eyes On You - Live",
-      "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Won't Let Me Go",
         "url": "https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 226568,
       "name": "Freedom Wild",
       "url": "https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Eyes On You (Live)",
+        "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 233947,
+      "name": "Eyes On You - Live",
+      "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "White Noise",
         "url": "https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 227500,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Louder",
-      "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1227,46 +1227,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Changed (OHKI Roller Rink Remix)",
-        "url": "https://open.spotify.com/album/4FtWjqvPIP9z14HySePRU2"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        },
-        {
-          "name": "OHKI",
-          "url": "https://open.spotify.com/artist/7rbSaznCAHxWrxMZl1Pw7N"
-        },
-        {
-          "name": "OHKI Roller Rink",
-          "url": "https://open.spotify.com/artist/3rd86ElAskGURkO7Z5egCw"
-        }
-      ],
-      "duration_ms": 182758,
-      "name": "Changed - OHKI Roller Rink Remix",
-      "url": "https://open.spotify.com/track/4fmIuMxX51eASane0ri7h1"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Fear Not",
-        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
-      },
-      "artists": [
-        {
-          "name": "FEARLESS BND",
-          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
-        }
-      ],
-      "duration_ms": 333890,
-      "name": "Not a Chance",
-      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
         "url": "https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk"
       },
@@ -1287,6 +1247,46 @@
       "duration_ms": 205520,
       "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
       "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Fear Not",
+        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
+      },
+      "artists": [
+        {
+          "name": "FEARLESS BND",
+          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
+        }
+      ],
+      "duration_ms": 333890,
+      "name": "Not a Chance",
+      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Changed (OHKI Roller Rink Remix)",
+        "url": "https://open.spotify.com/album/4FtWjqvPIP9z14HySePRU2"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        },
+        {
+          "name": "OHKI",
+          "url": "https://open.spotify.com/artist/7rbSaznCAHxWrxMZl1Pw7N"
+        },
+        {
+          "name": "OHKI Roller Rink",
+          "url": "https://open.spotify.com/artist/3rd86ElAskGURkO7Z5egCw"
+        }
+      ],
+      "duration_ms": 182758,
+      "name": "Changed - OHKI Roller Rink Remix",
+      "url": "https://open.spotify.com/track/4fmIuMxX51eASane0ri7h1"
     },
     {
       "added_at": "2023-02-18 04:35:24",

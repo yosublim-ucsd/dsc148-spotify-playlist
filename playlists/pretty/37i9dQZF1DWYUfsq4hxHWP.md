@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Logan Crosby, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,896 likes - 162 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,870 likes - 162 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 161 | [Blame It on My Boots](https://open.spotify.com/track/6waMe4NbRpTzeM2AUyxvvN) | [Sam Carter](https://open.spotify.com/artist/4TDFCfBkOxwM1cMvRXt4Wc) | [Blame It on My Boots](https://open.spotify.com/album/4YPR2OxkSCbaY7WOFfzSaJ) | 2:56 |
 | 162 | [A Boy That's Into Trucks](https://open.spotify.com/track/4EG8V97vcIWo6PbNcPTdHb) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [A Boy That's Into Trucks](https://open.spotify.com/album/28wWwYIM2g1A407gF1iRar) | 3:25 |
 
-Snapshot ID: `MCwwODA5NzZjOTkwZGMyOWY4ODdmZWNlMGJmZWRjODA4OTY4ZGI1YmIw`
+Snapshot ID: `MCw4NDc2YTdiNGFjZjhhMTE1NzAxZDJmNWE4MDc3MTliODA2OThiMmQ5`

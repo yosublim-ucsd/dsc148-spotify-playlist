@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  Bob Marley, Skip Marley and Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,853 likes - 96 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,948 likes - 96 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 95 | [No love](https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:22 |
 | 96 | [Finesse \- feat\. French Montana](https://open.spotify.com/track/1K1nl1dGNDX5LuLcDbT9ED) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Finesse \(feat\. French Montana\)](https://open.spotify.com/album/39ali1KqU7VkiJW2pAXv3b) | 2:06 |
 
-Snapshot ID: `MCwxMGM1MjUwN2FkYmMyYTg1NmYyYTFjNzZjNTc3NjkzN2U2NDUzN2M2`
+Snapshot ID: `MCw2OGE5NWYzM2Y3MzQwNzJlMWExZDY5Y2ZkNmZjZGExNmQ0OTgxN2Vm`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062c\u0645\u062f \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0641\u064a \u0645\u0635\u0631\ud83d\udd25 \n \u0643\u0648\u0641\u0631: <a href=\"https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB?si=52aOzzzLQWGNFO-oyZmxmQ\"> \u00a0\u0643\u0631\u064a\u0645 \u0643\u0631\u0633\u062a\u064a\u0627\u0646\u0648 </a>",
+  "description": "\u0623\u062c\u0645\u062f \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0641\u064a \u0645\u0635\u0631\ud83d\udd25 \n \u0643\u0648\u0641\u0631: <a href=\"https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt?si=RhhjLiRhR-Cdjct9GcCg4w\"> \u062d\u0633\u0646 \u0634\u0627\u0643\u0648\u0634 </a> \u0648 <a href=\"https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV?si=ZlFCm_S1Rym6mkwcUEMILA\"> \u0639\u0645\u0631 \u0643\u0645\u0627\u0644 </a>",
   "name": "\u0623\u0642\u0648\u0649 \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a",
   "tracks": [
     {
@@ -162,7 +162,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 187295,
       "name": "El Emlak",
       "url": "https://open.spotify.com/track/0O0hm0mmwZcwcOAbrXVPCc"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 206710,
       "name": "\u0627\u0644\u0635\u0628\u0631 \u0637\u064a\u0628 \u064a\u0627 \u0639\u064a\u0648\u0646\u064a",
       "url": "https://open.spotify.com/track/6MlfIdyeZRo0yRWIvMojGQ"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 269766,
       "name": "\u0627\u0644\u0644\u064a \u0646\u0641\u0633\u0647 \u0643\u0633\u0631\u062a \u0646\u0641\u0633\u0647 - \u0627\u0633\u0645\u064a \u0648\u062d\u062f\u0648 \u064a\u0647\u0632 \u0645\u062f\u064a\u0646\u0647",
       "url": "https://open.spotify.com/track/393YAkz3XPYnbu3fNT8DLM"
@@ -940,7 +940,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 187361,
       "name": "\u0627\u0644\u0646\u0633\u0648\u0631 \u0639 \u0627\u0644\u062f\u0628\u0627\u0628\u0627\u062a",
       "url": "https://open.spotify.com/track/6n1P8XVuCBEJHkyKgtNOWz"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "\u062d\u0645\u0635",
       "url": "https://open.spotify.com/track/603yXldrQ8YFrTD0zgUK5B"
@@ -1725,6 +1725,28 @@
     },
     {
       "album": {
+        "name": "\u0634\u0627\u064a\u0641 \u0643\u0644\u0627\u0628\u0634 \u0641\u064a \u0627\u064a\u062f\u0643",
+        "url": "https://open.spotify.com/album/4F6LwvHQ7w2aaHVBdUXYlK"
+      },
+      "artists": [
+        {
+          "name": "Hamo Bika",
+          "url": "https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI"
+        },
+        {
+          "name": "Hamo ElTikha",
+          "url": "https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222275,
+      "name": "\u0634\u0627\u064a\u0641 \u0643\u0644\u0627\u0628\u0634 \u0641\u064a \u0627\u064a\u062f\u0643",
+      "url": "https://open.spotify.com/track/51iJE2VRhDZgeKvM3guDfH"
+    },
+    {
+      "album": {
         "name": "\u0634\u0627\u064a\u0641\u0646\u0649 \u0628\u0633 \u0645\u0634 \u0634\u0627\u064a\u0641\u0643",
         "url": "https://open.spotify.com/album/26Tm4L4U6efme9KK7TBFTR"
       },
@@ -1886,7 +1908,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 193802,
       "name": "\u0636\u062d\u0643\u062a\u0643 \u0648 \u0636\u062d\u0643\u062a\u064a \u0639\u0644\u064a\u0627 ( \u0644\u062d\u0638\u0647 \u0641\u0631\u0627\u0642\u0643 \u062c\u0631\u062d\u062a\u0646\u064a )",
       "url": "https://open.spotify.com/track/5WQ4GUTek3BUnjmcoxf4cU"
@@ -2405,6 +2427,24 @@
     },
     {
       "album": {
+        "name": "\u0642\u0644\u0628\u064a \u064a\u0627\u0644\u0644\u064a \u0643\u0644\u0627\u0645\u064a \u0639\u0646\u062f\u0643",
+        "url": "https://open.spotify.com/album/0LA3UCm1McaTnHxFT38mfi"
+      },
+      "artists": [
+        {
+          "name": "Hoda Bondok",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198765,
+      "name": "\u0642\u0644\u0628\u064a \u064a\u0627\u0644\u0644\u064a \u0643\u0644\u0627\u0645\u064a \u0639\u0646\u062f\u0643",
+      "url": "https://open.spotify.com/track/2TDgNk26VOAV4ioDUB9wSh"
+    },
+    {
+      "album": {
         "name": "\u0642\u0645\u0631 \u0627\u0644\u062a\u064a\u0643\u062a\u0648\u0643\u0627\u064a\u0647",
         "url": "https://open.spotify.com/album/5NWO8i853mA4oyHwwzCfgs"
       },
@@ -2505,6 +2545,28 @@
     },
     {
       "album": {
+        "name": "\u0643\u0644\u0647 \u0628\u0623\u0644\u0641 \u0648\u0634",
+        "url": "https://open.spotify.com/album/3LmFEyUvrTZcfGANGcEX2L"
+      },
+      "artists": [
+        {
+          "name": "Essam Sasa",
+          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+        },
+        {
+          "name": "Hoda Bondok",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "\u0643\u0644\u0647 \u0628\u0623\u0644\u0641 \u0648\u0634",
+      "url": "https://open.spotify.com/track/2xa1lKFfSDDEBeJURGDXf6"
+    },
+    {
+      "album": {
         "name": "\u0643\u0644\u0647 \u0637\u0627\u0631 \u0641\u0627\u0644\u0645\u0637\u0627\u0631",
         "url": "https://open.spotify.com/album/6Fao9AJIiam6uKwM7YtEcJ"
       },
@@ -2524,6 +2586,24 @@
       "duration_ms": 224000,
       "name": "\u0643\u0644\u0647 \u0637\u0627\u0631 \u0641\u0627\u0644\u0645\u0637\u0627\u0631",
       "url": "https://open.spotify.com/track/4Ie7oOIUQkXvh1fHBsSlOg"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0644\u064a\u0628 \u0642\u0644\u0628\u064a \u064a\u0627\u0644\u0644\u064a \u0643\u0644\u0627\u0645\u064a \u0639\u0646\u062f\u0643 - \u062d\u0648\u062f\u0647 \u0628\u0646\u062f\u0642",
+        "url": "https://open.spotify.com/album/6vCp0MMAZdZ2fcY8zYVNQH"
+      },
+      "artists": [
+        {
+          "name": "3enba",
+          "url": "https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203662,
+      "name": "\u0643\u0644\u064a\u0628 \u0642\u0644\u0628\u064a \u064a\u0627\u0644\u0644\u064a \u0643\u0644\u0627\u0645\u064a \u0639\u0646\u062f\u0643 - \u062d\u0648\u062f\u0647 \u0628\u0646\u062f\u0642",
+      "url": "https://open.spotify.com/track/4Em6pbLVY7UIUyP8W0JRmX"
     },
     {
       "album": {
@@ -2608,7 +2688,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 298919,
       "name": "\u0645\u0627\u0630\u0627 \u0644\u0648 \u0634\u0648\u0641\u062a \u062d\u0628\u064a\u0628\u0649 \u0642\u0644\u0628\u0649",
       "url": "https://open.spotify.com/track/2VcliKj3G9yH4s87U5qFgz"
@@ -3312,7 +3392,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 190956,
       "name": "\u0648\u0642\u0648\u0641 \u0641\u064a \u0627\u0644\u0642\u0644\u0628",
       "url": "https://open.spotify.com/track/31zXcMW1eLrnVPWy4XpoaY"

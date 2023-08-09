@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 402,737 likes - 69 songs - 4 hr 7 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 403,354 likes - 69 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 28 | [JS Bach\-Italian Concerto \(Allegro\)](https://open.spotify.com/track/6BcBOLrizl884FUyh9bzIf) | [Rick Saga](https://open.spotify.com/artist/2TjeQJXeBXzQW2wvYuIb5d) | [JS Bach\-Italian Concerto \(Allegro\)](https://open.spotify.com/album/6jM4GXRt6hf3ngXv6WPPKV) | 3:38 |
 | 29 | [nena laik me](https://open.spotify.com/track/4ljUHMpdSkNk1j8pWCq0KW) | [Jessikha Leesi](https://open.spotify.com/artist/4pdddEc0gG5jUL35LK7So2) | [nena laik me](https://open.spotify.com/album/4fEer81XldBXrJ4Ja5tmp4) | 2:28 |
 | 30 | [The Great Escape](https://open.spotify.com/track/072RXqSJjwD32MQThcUeAn) | [Jason Zimmerman](https://open.spotify.com/artist/32aOY7csf8fQHk8muv9xuw) | [A Happy Time](https://open.spotify.com/album/3GqeFSVHqxTchaPvSKLIdn) | 3:35 |
-| 31 | [Broforce Theme Song](https://open.spotify.com/track/4ZiMrrjGZjk4VUYtNutGQ1) | [Deon Van Heerden](https://open.spotify.com/artist/42wTrYXmXiolE9DV5IFCh0), [Strident](https://open.spotify.com/artist/4mCThE6GfGfwmtkZNOGyHn) | [Broforce](https://open.spotify.com/album/4iAbYl2dMF3Q3EVEXifL9h) | 4:29 |
+| 31 | [Broforce Theme Song](https://open.spotify.com/track/4ZiMrrjGZjk4VUYtNutGQ1) | [Deon Van Heerden](https://open.spotify.com/artist/42wTrYXmXiolE9DV5IFCh0), [Strident](https://open.spotify.com/artist/4mCThE6GfGfwmtkZNOGyHn) | [Broforce \(Original Game Soundtrack\)](https://open.spotify.com/album/4iAbYl2dMF3Q3EVEXifL9h) | 4:29 |
 | 32 | [killay](https://open.spotify.com/track/4SE4RGyCYTSul2q3JJKhX0) | [Com Cruz](https://open.spotify.com/artist/6ioY7tuRzTguV8yrpkoWbQ), [pious](https://open.spotify.com/artist/7vk8kow3iLthO1oWxTSONv) | [killay](https://open.spotify.com/album/6qpBNlj3xRDhXvRdjj7ug3) | 3:04 |
 | 33 | [Up All Night](https://open.spotify.com/track/1tdbj7FgirplpkaIQ86DyH) | [Robert Sieben's Sidecar Sazerac](https://open.spotify.com/artist/2Bu6hkeftVPpunqUlcmlfl) | [Up All Night](https://open.spotify.com/album/6SlRoyPl7CiaNWRs2MJ4dK) | 2:33 |
 | 34 | [Red Head](https://open.spotify.com/track/0q9rTeDMMYbEqWYSSWP2pC) | [Robert Hawkins](https://open.spotify.com/artist/4LHboFvRdMrh4W2KSrXhWB) | [In Charge Around Here](https://open.spotify.com/album/0mGbWWpxxd8hypTw9NC5VD) | 1:25 |

@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Depeche Mode. ",
-  "num_followers": 98007,
+  "num_followers": 98151,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjhkZmUzODkzOGEzNTcxNDFhYzU4ZjJjYTc2YWUwYzQxZDk1NDIx",
+  "snapshot_id": "MCw0OTY4YmQ4MjkzMGM1NjYyZWYwNjRmZjRmYjhlOGJiOWFmMjI2ZjVk",
   "tracks": [
     {
       "added_at": "2023-02-02 20:54:30",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-02-02 20:54:30",
       "album": {
-        "name": "Falco 3",
-        "url": "https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh"
-      },
-      "artists": [
-        {
-          "name": "Falco",
-          "url": "https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW"
-        }
-      ],
-      "duration_ms": 202236,
-      "name": "Rock Me Amadeus",
-      "url": "https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU"
-    },
-    {
-      "added_at": "2023-02-02 20:54:30",
-      "album": {
         "name": "Forever Now",
         "url": "https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 213973,
       "name": "Love My Way",
       "url": "https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo"
+    },
+    {
+      "added_at": "2023-02-02 20:54:30",
+      "album": {
+        "name": "Falco 3",
+        "url": "https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh"
+      },
+      "artists": [
+        {
+          "name": "Falco",
+          "url": "https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW"
+        }
+      ],
+      "duration_ms": 202236,
+      "name": "Rock Me Amadeus",
+      "url": "https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU"
     },
     {
       "added_at": "2023-02-02 20:54:30",

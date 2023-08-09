@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 63817,
+  "num_followers": 63829,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzQ4NDdhYmU5N2NkMzYzYTYwMzhlMGQ4NWJkZWFiYzQ1ODBkYjFj",
+  "snapshot_id": "MCxiYzA2MmFmMTAzMjU5MjNhYzVlYjQ4ZjI4ZWUyOGI1YmVjOTAwNTVh",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Luiz Gonzaga Canta Seus Sucessos Com Z\u00e9 Dantas",
-        "url": "https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw"
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
       "artists": [
         {
-          "name": "Luiz Gonzaga",
-          "url": "https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 171040,
-      "name": "O Xote das Meninas",
-      "url": "https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5"
+      "duration_ms": 212933,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1079,22 +1083,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+        "name": "Luiz Gonzaga Canta Seus Sucessos Com Z\u00e9 Dantas",
+        "url": "https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Luiz Gonzaga",
+          "url": "https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD"
         }
       ],
-      "duration_ms": 212933,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
+      "duration_ms": 171040,
+      "name": "O Xote das Meninas",
+      "url": "https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5"
     },
     {
       "added_at": "2021-08-18 22:14:03",

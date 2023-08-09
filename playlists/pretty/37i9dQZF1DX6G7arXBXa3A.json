@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 387050,
+  "num_followers": 387113,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTI1MjIyNTEyNmViYTc3NmRlNTc5MjllMmY0YjM1MWJkYmExMWU0",
+  "snapshot_id": "MCxlMjcxMjZjZTI4M2RkMjUyODI1OGRkZjRhNDE2NjFhMzA2ZWNiMWE4",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -143,18 +143,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Begin The Beguine",
-        "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
+        "name": "The Essential Frank Sinatra with the Tommy Dorsey Orchestra (with Frank Sinatra)",
+        "url": "https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g"
       },
       "artists": [
         {
-          "name": "Artie Shaw",
-          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
+          "name": "Tommy Dorsey",
+          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
+        },
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 196160,
-      "name": "Begin the Beguine",
-      "url": "https://open.spotify.com/track/0YJAz1QqMNrPhJ2vhHupcZ"
+      "duration_ms": 199733,
+      "name": "Polka Dots and Moonbeams",
+      "url": "https://open.spotify.com/track/0HFWS5C6ThNeuOr10Xz21U"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -175,22 +179,18 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "The Essential Frank Sinatra with the Tommy Dorsey Orchestra (with Frank Sinatra)",
-        "url": "https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g"
+        "name": "Begin The Beguine",
+        "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
       },
       "artists": [
         {
-          "name": "Tommy Dorsey",
-          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
-        },
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Artie Shaw",
+          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
         }
       ],
-      "duration_ms": 199733,
-      "name": "Polka Dots and Moonbeams",
-      "url": "https://open.spotify.com/track/0HFWS5C6ThNeuOr10Xz21U"
+      "duration_ms": 196160,
+      "name": "Begin the Beguine",
+      "url": "https://open.spotify.com/track/0YJAz1QqMNrPhJ2vhHupcZ"
     },
     {
       "added_at": "2020-03-06 16:28:56",

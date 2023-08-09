@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-550 songs - 21 hr 21 min
+551 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [BALADINHA SINISTRA](https://open.spotify.com/track/6wntHk37oMHAqt71RrZOeF) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [$pidxrs?808](https://open.spotify.com/artist/17O62eZOtm0vgSiCwDHHeO), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [BALADINHA SINISTRA](https://open.spotify.com/album/4VtwEXsNAQ9n5dekSnzhsO) | 1:58 | 2023-05-19 | 2023-07-23 |
 | [BANKAI](https://open.spotify.com/track/33sPNJZxIi4Qq9jy4rACPJ) | [DXNT L13](https://open.spotify.com/artist/24NDY4ShaX2L5g3LEkr9hL) | [BANKAI](https://open.spotify.com/album/0M5a69FH1OBRpDXVZKPiCd) | 1:55 | 2022-11-25 | 2023-02-11 |
 | [Beat das Trevas](https://open.spotify.com/track/3bzkdI9iT7ygXbHMzl4rkB) | [DJ MENOR DA ZN](https://open.spotify.com/artist/7GwhJndjWpGB4APQOWpD22), [MC MTOODIO](https://open.spotify.com/artist/7JM0ahYY9xjYeKVUf3Rauf) | [Beat das Trevas \[Slowed + Reverb\]](https://open.spotify.com/album/75fDow9Ssrsi6sQQqzjJuu) | 2:12 | 2023-05-05 |  |
-| [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/track/7dDnis2a3lqOXHYuSrdcVL) | [KMJ](https://open.spotify.com/artist/0yuBErKkIfxbvwd7eXaBEI) | [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/album/3FdDZifanuNd6ju9m1zw5V) | 3:02 | 2023-06-30 |  |
+| [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/track/7dDnis2a3lqOXHYuSrdcVL) | [KMJ](https://open.spotify.com/artist/0yuBErKkIfxbvwd7eXaBEI) | [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/album/3FdDZifanuNd6ju9m1zw5V) | 3:02 | 2023-06-30 | 2023-08-09 |
+| [Beat Mágico Que Mexe Com a Sua Mente \- Slowed](https://open.spotify.com/track/2gUNdKtSKZF4JlYvPkwW9Q) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [Liodré](https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS) | [Beat Mágico Que Mexe Com a Sua Mente](https://open.spotify.com/album/43zFYKD9jD4bcrPx5NaaBp) | 3:01 | 2023-06-30 |  |
 | [BLACKHOUSE](https://open.spotify.com/track/2Ypu9Z7VgwQhinYQvtYdad) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [BLACKHOUSE](https://open.spotify.com/album/6G88Z2l55DAAS4krrjxiFj) | 1:40 | 2022-06-10 | 2022-08-06 |
 | [BLADE CHOICE](https://open.spotify.com/track/48hJrG5HKu5HoN0THsUs7t) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6) | [BLADE CHOICE](https://open.spotify.com/album/2AJ9HZnYqDKlFRfqT1o68f) | 1:58 | 2022-08-19 | 2022-10-22 |
 | [Blast](https://open.spotify.com/track/4SVwNlE4FbKitzJbFdr6q7) | [CREEPYMANE](https://open.spotify.com/artist/4iS0O9GXC7newvIHGqgaEz) | [Reborn](https://open.spotify.com/album/7c40U4lQUqOJzDBGRUeMn9) | 1:56 | 2021-06-24 | 2022-01-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Jux & Diamond Platnumz
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,021 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,150 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Mchumba](https://open.spotify.com/track/2CNtq7md5SkG2mRge5Ruj1) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Mchumba](https://open.spotify.com/album/6FKYjhPJ2o9VXmpbLm6Koo) | 3:36 |
 | 70 | [Leo Ni Wewe](https://open.spotify.com/track/38vrGGsODeqxUJzGJEMaKT) | [Watu Fresh](https://open.spotify.com/artist/1FVqRdx4Cw6mShamk4iXh2) | [Leo Ni Wewe](https://open.spotify.com/album/15z81Cur7wvdrdzTe7hHzO) | 2:54 |
 
-Snapshot ID: `MCwzYjAwNzAwNzdlOWE2OGNlZGNmZDcwZDU2MzFjYTIzMTZkMDc1MTEw`
+Snapshot ID: `MCwzMTIyZWY5Yjk5MTk1ODU0NWFjMGRlNzcyYjRkMzAxOTE1ODg2ZGQy`

@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring raquel. Updates every Wednesday.",
-  "num_followers": 171609,
+  "num_followers": 171518,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWY1NzUwZmQ5M2MyNTRiOTI1NzYxNDhkMmRjMzI0NjFmNTk5ZjEw",
+  "snapshot_id": "MCwwNGZmMjVhZDc1Njc5MzliZjQ2YWMzMWUwY2U1MWY0ZjA3Nzk5YzZh",
   "tracks": [
     {
       "added_at": "2023-08-02 14:47:54",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-02 14:47:54",
       "album": {
-        "name": "El Juego de la Sed",
-        "url": "https://open.spotify.com/album/2BSgQC5v96a3oITrZ6ykRS"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Desbats",
-          "url": "https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP"
-        }
-      ],
-      "duration_ms": 195419,
-      "name": "El Juego de la Sed",
-      "url": "https://open.spotify.com/track/0Gadp13jH5EsojTAXyhMwW"
-    },
-    {
-      "added_at": "2023-08-02 14:47:54",
-      "album": {
         "name": "Vivo Caro",
         "url": "https://open.spotify.com/album/1j52KiCc2jOfvVn4sMdQbO"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 162500,
       "name": "Vivo Caro",
       "url": "https://open.spotify.com/track/7fU4dUMAAyo8xhhpMGxAlx"
+    },
+    {
+      "added_at": "2023-08-02 14:47:54",
+      "album": {
+        "name": "El Juego de la Sed",
+        "url": "https://open.spotify.com/album/2BSgQC5v96a3oITrZ6ykRS"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Desbats",
+          "url": "https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP"
+        }
+      ],
+      "duration_ms": 195419,
+      "name": "El Juego de la Sed",
+      "url": "https://open.spotify.com/track/0Gadp13jH5EsojTAXyhMwW"
     },
     {
       "added_at": "2023-08-02 14:47:54",

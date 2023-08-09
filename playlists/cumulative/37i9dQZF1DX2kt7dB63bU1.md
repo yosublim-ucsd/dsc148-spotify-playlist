@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Laufey
 
-634 songs - 1 day 20 hr 27 min
+635 songs - 1 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Chelsea Morning](https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1) | [Sara Colman](https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa) | [Ink on a Pin \- A Celebration of Joni Mitchell](https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk) | 3:52 | 2022-02-18 | 2023-02-25 |
 | [Chelsea Morning](https://open.spotify.com/track/3ysvsYsp6a5ZZ9L8SoGsW5) | [Sara Colman](https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa) | [Ink on a Pin \- A Celebration of Joni Mitchell](https://open.spotify.com/album/7kwjc75V4XJDG5YFtJVF49) | 3:52 | 2022-02-18 | 2022-07-29 |
 | [Chiaroscuro](https://open.spotify.com/track/0ytuZShLSnHWQG9uFVJEJl) | [Kristen Lee Sergeant](https://open.spotify.com/artist/5ccV9rNbLyJDuhUstyL2eb), [Jeb Patton](https://open.spotify.com/artist/0wYKpSqMDbPDpq2wVxqNgj) | [Falling](https://open.spotify.com/album/1djEqiwSoAxfiY9Wo1l2mj) | 4:30 | 2022-02-25 | 2022-07-21 |
-| [Chicago Blues](https://open.spotify.com/track/26gSq8ynYSkBTo637il67o) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Chicago Blues](https://open.spotify.com/album/5WWS6v1T7jcdZ1CLUZtJtH) | 4:53 | 2023-07-14 |  |
+| [Chicago Blues](https://open.spotify.com/track/0XA8HGtG7ypDQVdv1utqtP) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Baltimore](https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ) | 4:53 | 2023-07-14 |  |
+| [Chicago Blues](https://open.spotify.com/track/26gSq8ynYSkBTo637il67o) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Chicago Blues](https://open.spotify.com/album/5WWS6v1T7jcdZ1CLUZtJtH) | 4:53 | 2023-07-14 | 2023-08-09 |
 | [Choro\-Jazz Song](https://open.spotify.com/track/65S4ycKJQPS3RlSabYBfvs) | [Danilo Penteado](https://open.spotify.com/artist/7qWu8AbQkTMh17CabDpIHe), [Blubell](https://open.spotify.com/artist/7dwYIUDK7ZnTCP4gS7Y46E), [Luca Raele](https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3) | [Choro\-Jazz Song](https://open.spotify.com/album/3inPeI0QVQlLj9aBermaeN) | 2:10 | 2022-05-02 | 2022-07-29 |
 | [Coercion](https://open.spotify.com/track/2U46iTmxu2rshhQZAJKsst) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Gabe Schnider](https://open.spotify.com/artist/6W0lSVddOFriyTIYsfG78Q), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [John Chin](https://open.spotify.com/artist/1ixbDzSoXoP26q6TkB3yHU) | [Coercion](https://open.spotify.com/album/2DBipdyuPCJV03rwxKvYSJ) | 4:04 | 2023-01-13 | 2023-04-15 |
 | [Coltrane Plays the Blues](https://open.spotify.com/track/5KT08xhOGbce2aoy0I8sgV) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Coltrane Plays The Blues](https://open.spotify.com/album/2MCJ9ae1x9jzpx4kOVWzgO) | 5:22 | 2023-03-10 | 2023-04-22 |

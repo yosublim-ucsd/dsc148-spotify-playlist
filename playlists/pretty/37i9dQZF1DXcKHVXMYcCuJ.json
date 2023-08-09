@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 126915,
+  "num_followers": 127168,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzJkM2Q4OWFhZmQxOGNiYjA1YWFiMGIxNzRmMTVlMjMxNmQwZGE2",
+  "snapshot_id": "MCxkMTYyNTFkNTBkYjVmMTFiODQwMzMzMGI0Y2ZmYTc1MzZlMzZjMzI3",
   "tracks": [
     {
       "added_at": "2023-07-23 16:12:52",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "Troublegum",
-        "url": "https://open.spotify.com/album/6ub0GyzfrkFZahy42i7pfR"
-      },
-      "artists": [
-        {
-          "name": "Therapy?",
-          "url": "https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey"
-        }
-      ],
-      "duration_ms": 146306,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/368RLF0YBCX8FyB4RGkaVq"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "Other Voices, Other Rooms",
         "url": "https://open.spotify.com/album/5HXLYD2Iu9rKlpTDMFyNWI"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 215946,
       "name": "Where the City Meets the Sea",
       "url": "https://open.spotify.com/track/0uX6Y7mRIJjswGAcLg1oz9"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "Troublegum",
+        "url": "https://open.spotify.com/album/6ub0GyzfrkFZahy42i7pfR"
+      },
+      "artists": [
+        {
+          "name": "Therapy?",
+          "url": "https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey"
+        }
+      ],
+      "duration_ms": 146306,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/368RLF0YBCX8FyB4RGkaVq"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "Free All Angels",
-        "url": "https://open.spotify.com/album/1V9N1HV53xOfL2ebYXxkOu"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
-        }
-      ],
-      "duration_ms": 309013,
-      "name": "Shining Light",
-      "url": "https://open.spotify.com/track/4daraBRKwKGEA6dwom2DqG"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "Bakesale: Deluxe Edition",
         "url": "https://open.spotify.com/album/0FVtcEj9ZmOa7QKvsZNFoh"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 106613,
       "name": "License to Confuse - Remastered",
       "url": "https://open.spotify.com/track/4hjMwtr7tPmU62d32Hwia5"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "Free All Angels",
+        "url": "https://open.spotify.com/album/1V9N1HV53xOfL2ebYXxkOu"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+        }
+      ],
+      "duration_ms": 309013,
+      "name": "Shining Light",
+      "url": "https://open.spotify.com/track/4daraBRKwKGEA6dwom2DqG"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
+        "name": "Moving Away",
+        "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
+      },
+      "artists": [
+        {
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+        }
+      ],
+      "duration_ms": 205148,
+      "name": "Lily",
+      "url": "https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
         "name": "Pedestrian Verse",
         "url": "https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 308773,
       "name": "Snail - Remastered 2011",
       "url": "https://open.spotify.com/track/1Y67fOHM7hb04jj6FLBWDQ"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
-        "name": "Moving Away",
-        "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
-      },
-      "artists": [
-        {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
-        }
-      ],
-      "duration_ms": 205148,
-      "name": "Lily",
-      "url": "https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "Abstract Figures in the Dark",
-        "url": "https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe"
-      },
-      "artists": [
-        {
-          "name": "Tigercub",
-          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
-        }
-      ],
-      "duration_ms": 246005,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 458293,
       "name": "Thru The Eyes Of Ruby - Remastered 2012",
       "url": "https://open.spotify.com/track/5W8AYj6e6syodRPzPrJcrb"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "Abstract Figures in the Dark",
+        "url": "https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "duration_ms": 246005,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "The Remote Part",
-        "url": "https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q"
-      },
-      "artists": [
-        {
-          "name": "Idlewild",
-          "url": "https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "A Modern Way of Letting Go",
-      "url": "https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "Springtime and Blind",
         "url": "https://open.spotify.com/album/5pdYblYPTSzOOBWC2zm2Kw"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 166101,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/6df7gORFCqOHTzWquFhLKW"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "The Remote Part",
+        "url": "https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q"
+      },
+      "artists": [
+        {
+          "name": "Idlewild",
+          "url": "https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "A Modern Way of Letting Go",
+      "url": "https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "2 Songs",
-        "url": "https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ"
-      },
-      "artists": [
-        {
-          "name": "Downward",
-          "url": "https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU"
-        }
-      ],
-      "duration_ms": 200912,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "Blackened Sky",
         "url": "https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 201933,
       "name": "57",
       "url": "https://open.spotify.com/track/3ywDupHAH1dCdL5J6UZmWX"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "2 Songs",
+        "url": "https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ"
+      },
+      "artists": [
+        {
+          "name": "Downward",
+          "url": "https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU"
+        }
+      ],
+      "duration_ms": 200912,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "Frogstomp (Remastered)",
-        "url": "https://open.spotify.com/album/3l75Nxo6DRRabGNvWt5uay"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 266280,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/71Q7DFKyxpsbl9h7bgPQrg"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "I'm Not Well",
         "url": "https://open.spotify.com/album/3CHP5LUOP2kjAGctsTD2YN"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 158435,
       "name": "Husk",
       "url": "https://open.spotify.com/track/2rXCIP7vZhcKnARrSnwCD7"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "Frogstomp (Remastered)",
+        "url": "https://open.spotify.com/album/3l75Nxo6DRRabGNvWt5uay"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 266280,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/71Q7DFKyxpsbl9h7bgPQrg"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "Thank You For Being Here",
-        "url": "https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C"
-      },
-      "artists": [
-        {
-          "name": "cursetheknife",
-          "url": "https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA"
-        }
-      ],
-      "duration_ms": 313340,
-      "name": "Feeling Real",
-      "url": "https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 259266,
       "name": "Driving Nowhere",
       "url": "https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "Thank You For Being Here",
+        "url": "https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C"
+      },
+      "artists": [
+        {
+          "name": "cursetheknife",
+          "url": "https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA"
+        }
+      ],
+      "duration_ms": 313340,
+      "name": "Feeling Real",
+      "url": "https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "The Day's War (Victory Edition)",
-        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 246306,
-      "name": "Backroads",
-      "url": "https://open.spotify.com/track/33dunxmWFO2n1a2sjD1wGD"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "Number One",
         "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 237893,
       "name": "Grey Flap",
       "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 246306,
+      "name": "Backroads",
+      "url": "https://open.spotify.com/track/33dunxmWFO2n1a2sjD1wGD"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "I Want",
-        "url": "https://open.spotify.com/album/66fM2xo6aWI1z0nsmTXeD0"
-      },
-      "artists": [
-        {
-          "name": "Present",
-          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
-        }
-      ],
-      "duration_ms": 203062,
-      "name": "Face Down",
-      "url": "https://open.spotify.com/track/2zcIwrnFbmwBSbJf29xq1c"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "El Cielo",
         "url": "https://open.spotify.com/album/4xzzmQZfCz1keTBkIgQZFc"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 314853,
       "name": "Same Ol' Road",
       "url": "https://open.spotify.com/track/71p7rnfNo2gjDdKsQ9Sz9A"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "I Want",
+        "url": "https://open.spotify.com/album/66fM2xo6aWI1z0nsmTXeD0"
+      },
+      "artists": [
+        {
+          "name": "Present",
+          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
+        }
+      ],
+      "duration_ms": 203062,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/2zcIwrnFbmwBSbJf29xq1c"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "The Brass Tax",
-        "url": "https://open.spotify.com/album/0Gk4iJWdsWeKLW29qk5hzT"
-      },
-      "artists": [
-        {
-          "name": "Downward",
-          "url": "https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU"
-        }
-      ],
-      "duration_ms": 234416,
-      "name": "UGLY BUG",
-      "url": "https://open.spotify.com/track/1ZcDbE8gp4GnmcfVJWdjcs"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "Beyond the Horizon",
         "url": "https://open.spotify.com/album/2Y5IRa81PCxIw68dyOfgcA"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 266866,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/1BoJEC8Tjs4DxoEGuT8UBf"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "The Brass Tax",
+        "url": "https://open.spotify.com/album/0Gk4iJWdsWeKLW29qk5hzT"
+      },
+      "artists": [
+        {
+          "name": "Downward",
+          "url": "https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU"
+        }
+      ],
+      "duration_ms": 234416,
+      "name": "UGLY BUG",
+      "url": "https://open.spotify.com/track/1ZcDbE8gp4GnmcfVJWdjcs"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "Chrome Neon Jesus",
-        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 230817,
-      "name": "Swallow",
-      "url": "https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "Worlds Apart",
         "url": "https://open.spotify.com/album/4edJ05VuSNvslwhH5EKard"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 410933,
       "name": "Will You Smile Again For Me",
       "url": "https://open.spotify.com/track/5AM9nodUIrP4qKMtlGJFay"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "Chrome Neon Jesus",
+        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 230817,
+      "name": "Swallow",
+      "url": "https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -2323,6 +2323,22 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
+        "name": "Soundtrack to a Headrush",
+        "url": "https://open.spotify.com/album/0KQXjbh2Yh3pfoGpHrXyml"
+      },
+      "artists": [
+        {
+          "name": "Emanuel",
+          "url": "https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "The Hey Man!",
+      "url": "https://open.spotify.com/track/2L3nP5MydvAh79nFo38eLd"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
         "name": "Pushing the Senses",
         "url": "https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC"
       },
@@ -2339,18 +2355,18 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "Soundtrack to a Headrush",
-        "url": "https://open.spotify.com/album/0KQXjbh2Yh3pfoGpHrXyml"
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
       },
       "artists": [
         {
-          "name": "Emanuel",
-          "url": "https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO"
+          "name": "Hobosexual",
+          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
         }
       ],
-      "duration_ms": 228093,
-      "name": "The Hey Man!",
-      "url": "https://open.spotify.com/track/2L3nP5MydvAh79nFo38eLd"
+      "duration_ms": 353582,
+      "name": "Trans Am Sunday",
+      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -2399,22 +2415,6 @@
       "duration_ms": 217120,
       "name": "Transatlantic Foe",
       "url": "https://open.spotify.com/track/6dryGcKWMxgy3cFtzsoZkC"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
-        "name": "Ideas Above Our Station",
-        "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "If I Could",
-      "url": "https://open.spotify.com/track/37mcskMYPUoi0ZlqAPBByr"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

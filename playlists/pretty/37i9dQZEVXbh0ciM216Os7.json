@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxODUzNjAsMDAwMDAwMDA0ZmRhNDFiNDc5YWU4NDRlZjVlZDkxYzYwOTI4ZWFmMg==",
+  "snapshot_id": "MjgxODUzNjAsMDAwMDAwMDAzNDYyNGViNzc5MDE3OTgzMGM2ZTNmZGVmMzU0MmY2YQ==",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -79,30 +79,6 @@
       "duration_ms": 186000,
       "name": "Float Away",
       "url": "https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "More Time",
-        "url": "https://open.spotify.com/album/6c6aHiWVg6Tvj9bNLSZwwd"
-      },
-      "artists": [
-        {
-          "name": "Base Hollow",
-          "url": "https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV"
-        },
-        {
-          "name": "Dope",
-          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        },
-        {
-          "name": "Soil",
-          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "More Time",
-      "url": "https://open.spotify.com/track/0ZBwFCnLWsUh3CkZSHq2Ah"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -520,9 +496,25 @@
           "url": "https://open.spotify.com/artist/7zM4smYl6oC7yMLzfpK7I4"
         }
       ],
-      "duration_ms": 114424,
-      "name": "The Esther Poop Song",
-      "url": "https://open.spotify.com/track/0aGvAG3QJtkcEMJPlqNDv9"
+      "duration_ms": 93619,
+      "name": "The Bernie Poop Song",
+      "url": "https://open.spotify.com/track/0r7LmGuZoO3K61F2UiFz1X"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Desert Woman",
+        "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 256402,
+      "name": "Desert Woman",
+      "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
     },
     {
       "added_at": "2023-08-04 04:00:00",

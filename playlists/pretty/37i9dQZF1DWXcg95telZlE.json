@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 312538,
+  "num_followers": 312708,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTQ5Y2JiMDcxMGQ4YzdlZTA1Y2QzMjY4N2YyZTNhZDc0Y2E4Yzhi",
+  "snapshot_id": "MCw5MWFkNTg5NDdiOTEwNDAyNjUwMTg3YWIwZWZjNGVlNjlkODNlMjJk",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Frankie Avalon",
+        "url": "https://open.spotify.com/album/3nDCuyCQqcqVbXprUy61CF"
+      },
+      "artists": [
+        {
+          "name": "Frankie Avalon",
+          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
+        }
+      ],
+      "duration_ms": 144483,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/5kqXQHIgQ6UfFP9LfqPNgG"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Command Performance",
         "url": "https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 181693,
       "name": "Cry",
       "url": "https://open.spotify.com/track/4wnFpRgQu2gLN8d76dYOGr"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Frankie Avalon",
-        "url": "https://open.spotify.com/album/3nDCuyCQqcqVbXprUy61CF"
-      },
-      "artists": [
-        {
-          "name": "Frankie Avalon",
-          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
-        }
-      ],
-      "duration_ms": 144483,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/5kqXQHIgQ6UfFP9LfqPNgG"
     },
     {
       "added_at": "2022-05-30 12:59:00",

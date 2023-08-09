@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,619 likes - 225 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,621 likes - 225 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 22 | [새벽](https://open.spotify.com/track/2ZdGFdWRNryQsUe36wqprU) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [새벽](https://open.spotify.com/album/4nc43iXhWaylkGhKdVsKyH) | 5:45 |
 | 23 | [Boowhal\(부활\) \- Stage Comment 1](https://open.spotify.com/track/4K6hqEiUKdm9WlROgJiFUy) | [Boowhal](https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 2:44 |
 | 24 | [사랑할수록](https://open.spotify.com/track/30GH7aoSEBD9YmgSy83K85) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [Color](https://open.spotify.com/album/5jzebpTutPXBN69mZOwzQy) | 4:10 |
-| 25 | [비밀](https://open.spotify.com/track/4NqSFrKgTTMv846p4hIrvF) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [나는 가수다 2 2012 가왕전 개막제](https://open.spotify.com/album/2Wz7LaK00NEFJBIu6GZTBM) | 4:52 |
+| 25 | [비밀 \(원곡가수 부활\)](https://open.spotify.com/track/2eDp7MUmkkKVxYZXwykoyd) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [<나는 가수다 2> 2012 가왕전 개막제 / 1집](https://open.spotify.com/album/1mVW12Cl53OadRXmWtmWWN) | 4:52 |
 | 26 | [Boowhal\(부활\) \- Stage Comment 2](https://open.spotify.com/track/4NJfQw6UYQFdjAWJhqeXgX) | [Boowhal](https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 2:22 |
 | 27 | [Jill's Theme \- From "Once Upon a Time in the West"](https://open.spotify.com/track/6ffSbEqlh3UcyTDcYWMpL1) | [The Hollywood LA Soundtrack Orchestra](https://open.spotify.com/artist/7AjHgPMs8gST9qpPuritzX) | [Once Upon a Time in the West \(Spiel Mir Das Lied Vom Tod\)](https://open.spotify.com/album/1qKyioHhsVnE9VDOnFnNnG) | 3:15 |
 | 28 | [Boowhal\(부활\) \- Stage Comment 3](https://open.spotify.com/track/2znruZPbS3Tsa9q7bSitOi) | [Boowhal](https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:34 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 224 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 |
 | 225 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 |
 
-Snapshot ID: `MCxmNDFjMjYyYTM2OGQ5NmJhMWUwOTlhYTA5ZDA1ZGU2MGMxYjdiMWNl`
+Snapshot ID: `MCw3N2NjNzA3N2NlOGQwOGU4ZTc0N2YxNDU2MWE1MTNlMzFiMGQ4M2Yz`

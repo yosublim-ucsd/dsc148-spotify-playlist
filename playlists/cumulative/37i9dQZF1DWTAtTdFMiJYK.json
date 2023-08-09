@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-09",
       "duration_ms": 222331,
       "name": "Barsatein",
       "url": "https://open.spotify.com/track/3RgqESJgY3KhxvonPhZ9Gp"
@@ -438,6 +438,24 @@
       "duration_ms": 222331,
       "name": "Barsatein",
       "url": "https://open.spotify.com/track/4XBADEVfEfWxOZRhreFt2T"
+    },
+    {
+      "album": {
+        "name": "Barsatein",
+        "url": "https://open.spotify.com/album/5IlxdyEqP1PEobICaKQXZ0"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222331,
+      "name": "Barsatein",
+      "url": "https://open.spotify.com/track/4k7cZkLNUXl5qK81CskzLe"
     },
     {
       "album": {

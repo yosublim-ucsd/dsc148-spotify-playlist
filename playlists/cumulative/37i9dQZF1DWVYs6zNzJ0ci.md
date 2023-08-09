@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari en español\. Foto: MYA, Dread Mar I
 
-285 songs - 19 hr 3 min
+286 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Alas Canciones](https://open.spotify.com/track/4f1q6kRlO1qyw7pZIPG3Tp) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:09 | 2021-12-10 | 2022-07-29 |
 | [Algo Mejor](https://open.spotify.com/track/68gpEjXas61xmdZin01DcQ) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Algo Mejor](https://open.spotify.com/album/7xyf2OQgFuQnwbvaCi8QwX) | 3:58 | 2021-12-10 | 2022-07-28 |
 | [Algo mejor \- Remastered](https://open.spotify.com/track/0iITTpeIsR2NQIv1QiIkKx) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:58 | 2022-07-08 | 2023-01-21 |
-| [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 | 2022-07-08 |  |
+| [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 | 2022-07-08 | 2023-08-09 |
 | [All Night Long \- \(Feat\. Winter\)](https://open.spotify.com/track/3SLNuRB8CPWqROnNSrMyIX) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/1AvMKhiMKsVD8zLJ9kWBQg) | [All Night Long](https://open.spotify.com/album/1BRO6M2xb5cW63PfoIRbzS) | 4:20 | 2022-03-11 | 2022-04-29 |
 | [Antonia](https://open.spotify.com/track/5EHhnNnk7amaXgx9OnG2v0) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 4:14 | 2021-12-10 | 2023-07-22 |
 | [Apagar La Luz](https://open.spotify.com/track/3eR9XcBDfh0OptPk1FQkk6) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [JUAN PABLO VEGA](https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR) | 3:55 | 2021-12-10 | 2022-07-29 |
@@ -258,6 +258,7 @@
 | [Trenchtown Rock](https://open.spotify.com/track/4bbAv8sjSZyRYtcsjXmP87) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Rockin'](https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw) | 3:47 | 2021-12-10 | 2022-06-21 |
 | [Triple L](https://open.spotify.com/track/61bQwkuORTqb9HmPiDHAsy) | [República Fortuna](https://open.spotify.com/artist/0GkZTYuobOGpjKah2pLi7Q) | [Triple L](https://open.spotify.com/album/0RFCLCIZI8ucuaz6m2RUfH) | 3:23 | 2023-03-03 | 2023-05-06 |
 | [Trópico](https://open.spotify.com/track/1Wyz5skty3mcxchgydcFSp) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG), [Los Choclok](https://open.spotify.com/artist/2iEDalkx4bi0VkRuW0QkYD) | [Trópico](https://open.spotify.com/album/0dgIwVQmYlaeHRFraSHxDV) | 4:45 | 2021-12-10 | 2022-10-08 |
+| [Tu](https://open.spotify.com/track/2BmtCTlt1A9z4z9k8qL1OV) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Música Libre](https://open.spotify.com/album/5YQG2L5Xt8XLWWnhUSVdED) | 4:18 | 2023-07-21 |  |
 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 | 2021-12-10 |  |
 | [Tu Belleza](https://open.spotify.com/track/2pdrSKGdxxq5U9oh3C4riF) | [Baquiné](https://open.spotify.com/artist/0GLJbql5zlmjGOEl4J12WZ) | [Tu Belleza](https://open.spotify.com/album/1h5mYoztfbgl9rjqK3UMNS) | 3:58 | 2021-12-10 | 2022-07-24 |
 | [Tu Estrella](https://open.spotify.com/track/65lYImuXhcPB2QkWb3xcQb) | [Entalpía](https://open.spotify.com/artist/2ttOCwacWTfLos1qSfWZDg), [TTM Prod](https://open.spotify.com/artist/5aTHRHzjxamo4oDzfyLG2y) | [Tu Estrella](https://open.spotify.com/album/6nZBpjlsqlrzl2YdNiVbVb) | 3:06 | 2023-03-03 | 2023-05-06 |

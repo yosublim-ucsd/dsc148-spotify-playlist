@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a swing thing.",
-  "num_followers": 114842,
+  "num_followers": 114856,
   "original_name": "Swing Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzRlZGUzOTIxNDkyMzBjN2QwNDI4N2E5ZmI2MTYwNTAzNzYxMjNm",
+  "snapshot_id": "MCxiOTlkZGZiOTJiYjE5Y2RlOWUzNzQ4N2JhYzhkMzI5NzFlN2I2MThi",
   "tracks": [
     {
       "added_at": "2022-03-28 19:13:18",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Salutes the Great Entertainers",
-        "url": "https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s"
+        "name": "Song and Dance",
+        "url": "https://open.spotify.com/album/1StimveT7gL5I8Rq7bMlSa"
       },
       "artists": [
         {
-          "name": "Ray Gelato",
-          "url": "https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3"
+          "name": "The Lucky Strikes",
+          "url": "https://open.spotify.com/artist/0kZKKhAXEKjfOOMJTiWwyC"
         }
       ],
-      "duration_ms": 165933,
-      "name": "The Joint is Jumpin'",
-      "url": "https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1"
+      "duration_ms": 139506,
+      "name": "Swing Let's Swing",
+      "url": "https://open.spotify.com/track/7dSQJiQTr8WPJWxaplRSEg"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -427,34 +427,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Song and Dance",
-        "url": "https://open.spotify.com/album/1StimveT7gL5I8Rq7bMlSa"
+        "name": "Salutes the Great Entertainers",
+        "url": "https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s"
       },
       "artists": [
         {
-          "name": "The Lucky Strikes",
-          "url": "https://open.spotify.com/artist/0kZKKhAXEKjfOOMJTiWwyC"
+          "name": "Ray Gelato",
+          "url": "https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3"
         }
       ],
-      "duration_ms": 139506,
-      "name": "Swing Let's Swing",
-      "url": "https://open.spotify.com/track/7dSQJiQTr8WPJWxaplRSEg"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC"
-      },
-      "artists": [
-        {
-          "name": "Casey MacGill & the Spirits of Rhythm",
-          "url": "https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Whadaya Want",
-      "url": "https://open.spotify.com/track/4HhMriMXwEGE1YE34qFyVZ"
+      "duration_ms": 165933,
+      "name": "The Joint is Jumpin'",
+      "url": "https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -471,6 +455,22 @@
       "duration_ms": 202466,
       "name": "Swing Baby!",
       "url": "https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC"
+      },
+      "artists": [
+        {
+          "name": "Casey MacGill & the Spirits of Rhythm",
+          "url": "https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Whadaya Want",
+      "url": "https://open.spotify.com/track/4HhMriMXwEGE1YE34qFyVZ"
     },
     {
       "added_at": "2022-03-28 19:13:18",
